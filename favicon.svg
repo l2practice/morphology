@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="40 40 367 367" width="447" height="447" role="img" aria-label="Morphology logo">
+<defs><mask id="mb" maskUnits="userSpaceOnUse" x="0" y="0" width="447" height="447"><rect width="447" height="447" fill="#fff"/><circle cx="226" cy="128" r="40" fill="#000"/></mask><mask id="mo" maskUnits="userSpaceOnUse" x="0" y="0" width="447" height="447"><rect width="447" height="447" fill="#fff"/><circle cx="130" cy="222" r="41" fill="#000"/></mask><mask id="mg" maskUnits="userSpaceOnUse" x="0" y="0" width="447" height="447"><rect width="447" height="447" fill="#fff"/><circle cx="224" cy="312" r="40" fill="#000"/></mask><mask id="mr" maskUnits="userSpaceOnUse" x="0" y="0" width="447" height="447"><rect width="447" height="447" fill="#fff"/><circle cx="312" cy="224" r="41" fill="#000"/></mask></defs>
+<g mask="url(#mb)"><path d="M52 96A44 44 0 0 1 96 52H216.5V216.5H52Z" fill="#77a4bd"/></g>
+<g mask="url(#mr)"><path d="M230.5 52H351A44 44 0 0 1 395 96V216.5H230.5Z" fill="#e15b64"/></g>
+<g mask="url(#mo)"><path d="M52 230.5H216.5V395H96A44 44 0 0 1 52 351Z" fill="#f8b26a"/></g>
+<g mask="url(#mg)"><path d="M230.5 230.5H395V351A44 44 0 0 1 351 395H230.5Z" fill="#abbd81"/></g>
+<circle cx="226" cy="128" r="26" fill="#e15b64"/>
+<circle cx="130" cy="222" r="27" fill="#77a4bd"/>
+<circle cx="224" cy="312" r="26" fill="#f8b26a"/>
+<circle cx="312" cy="224" r="27" fill="#abbd81"/>
+
+</svg>

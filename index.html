@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Morphology — IC analysis lab</title>
+  <meta name="description" content="Practise Immediate Constituent (IC) analysis of English words with AI. Bring your own Gemini API key; it never leaves your browser.">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="frame">
+    <!-- ============ Sidebar ============ -->
+    <aside class="side">
+      <a class="side-logo" href="./" aria-label="Morphology">
+        <img src="logo-mark.svg" alt="" width="40" height="40">
+      </a>
+      <nav class="side-nav" aria-label="Main">
+        <button type="button" class="nav-btn active" data-view="analyze" aria-label="Analyze" title="Analyze">
+          <svg viewBox="0 0 24 24"><rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/></svg>
+        </button>
+        <button type="button" class="nav-btn" data-view="history" aria-label="History" title="History">
+          <svg viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/><path d="M12 8v4l3 2"/></svg>
+        </button>
+        <button type="button" class="nav-btn" data-view="settings" aria-label="Settings" title="Settings">
+          <svg viewBox="0 0 24 24"><circle cx="8" cy="15" r="4"/><path d="M11 12l9-9"/><path d="M17 6l3 3"/><path d="M14 9l2 2"/></svg>
+        </button>
+      </nav>
+      <a class="side-exit" href="https://l2practice.github.io/dictionary/" target="_blank" rel="noopener" aria-label="Open the dictionary" title="Open the dictionary">
+        <svg viewBox="0 0 24 24"><path d="M5 4h10a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3z"/><path d="M5 17a3 3 0 0 1 3-3h10"/></svg>
+      </a>
+    </aside>
+
+    <!-- ============ Main panel ============ -->
+    <main class="panel-main">
+      <header class="top">
+        <h1 id="view-title">Analyze</h1>
+        <form id="search" class="search" autocomplete="off" role="search">
+          <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+          <input id="word-input" type="text" spellcheck="false" maxlength="30" placeholder="Type a word, e.g. unbelievable" aria-label="English word">
+          <button type="submit">Analyze</button>
+          <ul id="suggest" class="suggest" hidden></ul>
+        </form>
+        <button type="button" id="key-chip" class="chip-user" title="Open settings">
+          <span class="key-dot" aria-hidden="true"></span>
+          <span id="key-chip-text">No API key</span>
+        </button>
+      </header>
+
+      <div id="notice" class="notice" hidden></div>
+
+      <!-- ---------- Analyze view ---------- -->
+      <section id="view-analyze" class="view">
+        <div id="empty-key" class="callout" hidden>
+          <div>
+            <strong>Add your Gemini API key to analyse new words.</strong>
+            <span>The 11 verified test words and the dictionary work without it. Your key stays in this browser.</span>
+          </div>
+          <button type="button" class="btn" data-view="settings">Add key</button>
+        </div>
+
+        <div id="result">
+          <div class="grid-top">
+            <section class="card c-word" id="card-word">
+              <div class="c-word-head">
+                <div>
+                  <p class="eyebrow">Word</p>
+                  <div class="head-word">
+                    <h2 id="w-word">—</h2>
+                    <span id="w-ipa" class="ipa"></span>
+                  </div>
+                </div>
+                <div class="count" title="Number of morphemes">
+                  <strong id="w-count">0</strong>
+                  <span>morphemes</span>
+                </div>
+              </div>
+              <p id="w-gloss" class="gloss"></p>
+              <div class="tags">
+                <span id="w-pos" class="tag"></span>
+                <span id="w-cefr" class="tag"></span>
+                <span id="w-process" class="tag"></span>
+                <span id="w-source" class="tag source"></span>
+              </div>
+              <p id="w-via" class="via" hidden></p>
+              <div class="bracket-row"><span class="eyebrow">Bracketing</span><span id="w-bracket" class="bracket">…</span></div>
+            </section>
+
+            <section class="c-morphs" aria-label="Morphemes">
+              <div class="sec-head"><h3>Your morphemes</h3>
+                <ul class="legend">
+                  <li><i class="dot prefix"></i>Prefix</li>
+                  <li><i class="dot root"></i>Root</li>
+                  <li><i class="dot suffix"></i>Suffix</li>
+                </ul>
+              </div>
+              <div id="bricks" class="bricks"></div>
+            </section>
+          </div>
+
+          <div class="grid-mid">
+            <section class="card c-tree">
+              <div class="sec-head"><h3>IC tree</h3><span class="eyebrow" id="tree-hint">top-down binary cuts</span></div>
+              <div id="tree" class="tree"></div>
+            </section>
+
+            <aside class="card dark c-practice">
+              <p class="eyebrow light">Practice mode</p>
+              <h3>Cut it yourself <span class="swash">first</span>, then check!</h3>
+              <p>Say where the first cut falls and which affix attached last. Then compare with the tree.</p>
+              <div id="chips" class="chips" aria-label="Verified test words"></div>
+              <button type="button" id="random" class="btn btn-light">Surprise me</button>
+            </aside>
+          </div>
+
+          <section class="card details">
+            <div class="sec-head">
+              <h3 id="detail-title">Details</h3>
+              <div class="tabs" role="tablist">
+                <button type="button" role="tab" data-tab="matrix" class="active">Classification</button>
+                <button type="button" role="tab" data-tab="allo">Allomorphy</button>
+                <button type="button" role="tab" data-tab="deriv">Derivation · Inflection</button>
+                <button type="button" role="tab" data-tab="family">Word family</button>
+              </div>
+            </div>
+
+            <div class="panel active" data-panel="matrix"><div id="matrix" class="matrix"></div></div>
+            <div class="panel" data-panel="allo">
+              <div id="restore" class="restore"></div>
+              <p id="allo-text" class="panel-text"></p>
+            </div>
+            <div class="panel" data-panel="deriv">
+              <p id="deriv-text" class="panel-text"></p>
+              <div class="compare">
+                <div class="cmp der"><b>Derivation</b><span>New word · may change word class</span></div>
+                <div class="cmp inf"><b>Inflection</b><span>Grammatical form · same word class</span></div>
+              </div>
+            </div>
+            <div class="panel" data-panel="family"><div id="family" class="family"></div></div>
+          </section>
+        </div>
+      </section>
+
+      <!-- ---------- History view ---------- -->
+      <section id="view-history" class="view" hidden>
+        <div class="card">
+          <div class="sec-head"><h3>Words you analysed</h3>
+            <button type="button" id="clear-history" class="btn btn-ghost">Clear</button></div>
+          <div id="history" class="history"></div>
+        </div>
+      </section>
+
+      <!-- ---------- Settings view ---------- -->
+      <section id="view-settings" class="view" hidden>
+        <div class="settings-grid">
+          <form id="settings-form" class="card" autocomplete="off">
+            <div class="sec-head"><h3>Gemini API key</h3></div>
+            <p class="panel-text">Each student uses their own key from
+              <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">Google AI Studio</a> (free to create).
+              It is saved only in this browser (local storage) and sent only to <code>generativelanguage.googleapis.com</code>.</p>
+            <label class="field">
+              <span>API key</span>
+              <div class="field-row">
+                <input id="key-input" type="password" placeholder="AIza…" spellcheck="false" autocomplete="off" autocapitalize="off">
+                <button type="button" id="key-toggle" class="btn btn-ghost" aria-pressed="false">Show</button>
+              </div>
+            </label>
+            <label class="field">
+              <span>Model</span>
+              <select id="model-select"></select>
+            </label>
+            <div class="btn-row">
+              <button type="submit" class="btn">Save &amp; test</button>
+              <button type="button" id="key-remove" class="btn btn-ghost">Remove key</button>
+            </div>
+            <p id="key-status" class="key-status" role="status"></p>
+          </form>
+
+          <aside class="card tint">
+            <div class="sec-head"><h3>Good to know</h3></div>
+            <ul class="tips">
+              <li><b>Shared computer?</b> Press <em>Remove key</em> when you finish.</li>
+              <li><b>Quota:</b> the free tier has daily limits. Words you already analysed are cached on this device and do not use any quota.</li>
+              <li><b>Dictionary:</b> spelling checks, parts of speech, definitions and etymology come from the
+                <a href="https://l2practice.github.io/dictionary/" target="_blank" rel="noopener">L2 Practice dictionary</a>.</li>
+            </ul>
+          </aside>
+        </div>
+      </section>
+
+      <footer class="footer">Morphology · Immediate Constituent analysis practice for English majors</footer>
+    </main>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="dict.js"></script>
+  <script src="ai.js"></script>
+  <script src="tree.js"></script>
+  <script src="bricks.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
