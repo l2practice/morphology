@@ -5,7 +5,7 @@
  * morphemes can be shown while the rest of the analysis is still arriving.
  */
 (function () {
-  const PROMPT_VERSION = 6;
+  const PROMPT_VERSION = 7;
   const API_BASE = "https://generativelanguage.googleapis.com/v1beta/models/";
   const MAX_ATTEMPTS = 2;   // 1 retry when the answer fails validation
 
@@ -54,6 +54,7 @@
     "    • A prefix that needs a verb (re-, mis-, dis-) attaches to the verb before nominalising suffixes: [[re-write]-er].",
     "    • Suffix chains build from the inside out: hopelessness = [[hope-less]-ness], hurriedly = [[hurry-ed]-ly].",
     "    • Hyphenated phrasal compounds follow their phrase structure: editor-in-chief = [editor [in chief]].",
+    "- NEVER create an inner node with only ONE child. A morpheme is a leaf: do not wrap a root or an affix in an extra node. A spelling change does not need its own node (application = [applicate -ion]: the root leaf has form \"applicate\" and surface \"applicat\").",
     "- Leaf nodes give the morpheme index in \"morpheme\"; inner nodes use -1. A one-morpheme word is a single node with morpheme 0.",
     "- label is the spelled string the node covers (hyphens allowed); cat is its word class (N, V, Adj, Adv, P/PP) or \"\" for affixes.",
     "",
@@ -132,6 +133,30 @@
 
   const plain = s => String(s || "").toLowerCase().replace(/-/g, "");
 
+  /** Collapse inner nodes that have a single child (a common slip) and renumber the flat node list. */
+  function repair(ai) {
+    const nodes = ai.nodes;
+    if (!Array.isArray(nodes) || !nodes.length || nodes[0].parent >= 0) return ai;
+    const kids = nodes.map(() => []);
+    for (let i = 1; i < nodes.length; i++) {
+      const p = nodes[i].parent;
+      if (p < 0 || p >= i) return ai;            // structurally broken: leave it for validate()
+      kids[p].push(i);
+    }
+    let changed = false;
+    const out = [];
+    (function walk(i, parent) {
+      let j = i;
+      while (kids[j].length === 1) { j = kids[j][0]; changed = true; }
+      const at = out.length;
+      const n = nodes[j];
+      out.push({ label: n.label, cat: n.cat, parent, morpheme: kids[j].length ? -1 : n.morpheme });
+      kids[j].forEach(k => walk(k, at));
+    })(0, -1);
+    if (changed) ai.nodes = out;
+    return ai;
+  }
+
   function validate(ai, word) {
     const problems = [];
     const ms = ai.morphemes || [];
@@ -171,13 +196,17 @@
       kids[i].forEach(walk);
     })(0);
 
+    const kidsForms = i => !kids[i].length ? plain(ms[nodes[i].morpheme] ? ms[nodes[i].morpheme].form : "") : kids[i].map(kidsForms).join("");
+
     if (leafOrder.join(",") !== ms.map((m, i) => i).join(",")) {
       problems.push(`Reading the leaves left to right gives morphemes [${leafOrder.join(",")}] instead of [${ms.map((m, i) => i).join(",")}].`);
     } else {
       (function spell(i) {
         if (!kids[i].length) return ms[nodes[i].morpheme].surface.toLowerCase();
         const s = kids[i].map(spell).join("");
-        if (plain(nodes[i].label) !== s) problems.push(`Node label "${nodes[i].label}" does not match the morphemes below it ("${s}").`);
+        // The label may spell the surfaces (applicat…) or the base forms (applicate…).
+        const base = kidsForms(i);
+        if (plain(nodes[i].label) !== s && plain(nodes[i].label) !== base) problems.push(`Node label "${nodes[i].label}" does not match the morphemes below it ("${s}").`);
         return s;
       })(0);
     }
@@ -360,14 +389,14 @@
           if (ms.length !== shown) { shown = ms.length; opts.onMorphemes(ms); }
         }
       });
-      problems = validate(ai, word);
+      problems = validate(repair(ai), word);
       if (!problems.length) {
         const data = toAppFormat(ai, word, model);
         data.attempts = attempt;
         return data;
       }
     }
-    throw new ApiError("The analysis did not pass the consistency check: " + problems.join("; "), 0);
+    throw new ApiError("Gemini gave an inconsistent analysis for this word, even after a retry. Press Analyze again, or pick Gemini 2.5 Pro in Settings for harder words. (" + problems[0] + ")", 0);
   }
 
   async function testKey(apiKey, model) {
@@ -379,5 +408,5 @@
     return true;
   }
 
-  window.MorphAI = { analyze, testKey, validate, partialMorphemes, MODELS, PROMPT_VERSION, ApiError };
+  window.MorphAI = { analyze, testKey, validate, repair, partialMorphemes, MODELS, PROMPT_VERSION, ApiError };
 })();
