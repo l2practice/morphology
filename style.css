@@ -627,3 +627,31 @@ h3 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -.01em; }
   margin: 8px 0; padding: 12px 14px; max-height: 190px; overflow: auto; white-space: pre-wrap; overflow-wrap: anywhere;
   background: rgba(255, 255, 255, .7); border-radius: 14px; font: 12px/1.5 var(--mono); color: #3a2a12;
 }
+
+.f2-var, .cs-var { font: 700 12.5px var(--mono); padding: 2px 10px; border-radius: 999px; background: var(--orange-t); color: var(--orange-d); }
+.cs-var { background: rgba(248, 178, 106, .22); color: #ffd7a6; }
+.lookalike { display: flex; flex-direction: column; gap: 10px; }
+.la-item { border-radius: 18px; padding: 14px 18px; background: var(--orange-t); color: #5e3a0d; }
+.la-item b { font-size: 15px; }
+.la-item p { margin: 6px 0 0; font-size: 14px; line-height: 1.6; }
+.la-now { color: #3a2308; }
+.la-now b { font: 800 14px var(--mono); }
+
+.cheat { display: flex; flex-direction: column; gap: 14px; }
+.ch-card { border: 1px solid var(--line); border-radius: 18px; padding: 16px 18px 18px; }
+.ch-card h4 { margin: 0 0 12px; font-size: 18px; font-weight: 800; }
+.ch-small { margin-top: 0; }
+.ch-small .f2-text i { color: var(--muted); font-size: 13.5px; }
+.ch-formulas { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.ch-formula { display: flex; flex-direction: column; gap: 4px; border-radius: 16px; padding: 14px 16px; background: var(--blue-t); }
+.ch-formula:nth-child(2) { background: var(--orange-t); }
+.ch-formula:nth-child(3) { background: var(--green-t); }
+.ch-formula b { font-size: 24px; font-weight: 800; }
+.ch-formula span { font-weight: 700; }
+.ch-formula code { background: rgba(255, 255, 255, .7); padding: 4px 8px; border-radius: 8px; font-size: 13px; width: fit-content; }
+.ch-formula small { color: #4a535c; font-size: 13px; line-height: 1.5; }
+.ch-rules { margin: 0; padding-left: 22px; display: flex; flex-direction: column; gap: 8px; font-size: 14.5px; line-height: 1.6; color: #3a424b; }
+.ch-spell { display: grid; gap: 8px; }
+.ch-spell div { display: flex; flex-direction: column; padding: 10px 14px; border-radius: 14px; background: #f4f7f9; font-size: 14.5px; }
+.ch-spell span { color: #4a535c; }
+@media (max-width: 820px) { .ch-formulas { grid-template-columns: 1fr; } .nav-label { font-size: 10.5px; } }

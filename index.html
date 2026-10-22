@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=20261022c">
+  <link rel="stylesheet" href="style.css?v=20261022d">
 </head>
 <body>
   <div class="frame">
@@ -27,6 +27,10 @@
         <button type="button" class="nav-btn" data-view="history" aria-label="History" title="History">
           <svg viewBox="0 0 24 24"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/><path d="M12 8v4l3 2"/></svg>
           <span class="nav-label">History</span>
+        </button>
+        <button type="button" class="nav-btn" data-view="cheat" aria-label="Cheat sheet" title="Cheat sheet">
+          <svg viewBox="0 0 24 24"><path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5"/><path d="M9 13h7M9 17h5"/></svg>
+          <span class="nav-label">Cheat sheet</span>
         </button>
         <button type="button" class="nav-btn" data-view="settings" aria-label="Settings" title="Settings">
           <svg viewBox="0 0 24 24"><circle cx="8" cy="15" r="4"/><path d="M11 12l9-9"/><path d="M17 6l3 3"/><path d="M14 9l2 2"/></svg>
@@ -131,9 +135,9 @@
               <div class="tabs" role="tablist">
                 <button type="button" role="tab" data-tab="matrix" class="active">Classification</button>
                 <button type="button" role="tab" data-tab="allo">Allomorphy</button>
-                <button type="button" role="tab" data-tab="deriv">Derivation · Inflection</button>
                 <button type="button" role="tab" data-tab="family">Word family</button>
                 <button type="button" role="tab" data-tab="wtype">Word type</button>
+                <button type="button" role="tab" data-tab="cheat">Cheat sheet</button>
               </div>
             </div>
 
@@ -142,7 +146,6 @@
                 <button type="button" data-mode="freebound" class="active">Free · Bound</button>
                 <button type="button" data-mode="baseaffix">Base · Affix</button>
                 <button type="button" data-mode="derinf">Derivational · Inflectional</button>
-                <button type="button" data-mode="ref">Cheat sheet</button>
                 <button type="button" data-mode="list">Details</button>
               </div>
               <div id="cls-frame" class="cls-frame"></div>
@@ -152,15 +155,9 @@
               <div id="restore" class="restore"></div>
               <p id="allo-text" class="panel-text"></p>
             </div>
-            <div class="panel" data-panel="deriv">
-              <p id="deriv-text" class="panel-text"></p>
-              <div class="compare">
-                <div class="cmp der"><b>Derivation</b><span>New word · may change word class</span></div>
-                <div class="cmp inf"><b>Inflection</b><span>Grammatical form · same word class</span></div>
-              </div>
-            </div>
             <div class="panel" data-panel="family"><div id="family" class="family"></div></div>
             <div class="panel" data-panel="wtype"><div id="wordtype" class="wordtype"></div></div>
+            <div class="panel" data-panel="cheat"><div id="cheat"></div></div>
           </section>
         </div>
       </section>
@@ -172,6 +169,11 @@
             <button type="button" id="clear-history" class="btn btn-ghost">Clear</button></div>
           <div id="history" class="history"></div>
         </div>
+      </section>
+
+      <!-- ---------- Cheat sheet view ---------- -->
+      <section id="view-cheat" class="view" hidden>
+        <div id="cheat-view"></div>
       </section>
 
       <!-- ---------- Settings view ---------- -->
@@ -203,11 +205,11 @@
 
   <div id="popups" class="popups" aria-live="polite"></div>
 
-  <script src="data.js?v=20261022c"></script>
-  <script src="dict.js?v=20261022c"></script>
-  <script src="ai.js?v=20261022c"></script>
-  <script src="tree.js?v=20261022c"></script>
-  <script src="bricks.js?v=20261022c"></script>
-  <script src="app.js?v=20261022c"></script>
+  <script src="data.js?v=20261022d"></script>
+  <script src="dict.js?v=20261022d"></script>
+  <script src="ai.js?v=20261022d"></script>
+  <script src="tree.js?v=20261022d"></script>
+  <script src="bricks.js?v=20261022d"></script>
+  <script src="app.js?v=20261022d"></script>
 </body>
 </html>

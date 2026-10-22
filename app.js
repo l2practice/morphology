@@ -92,7 +92,7 @@
   }
 
   // ---------- Views ----------
-  const TITLES = { analyze: "Analyze", history: "History", settings: "Settings" };
+  const TITLES = { analyze: "Analyze", history: "History", cheat: "Cheat sheet", settings: "Settings" };
   function setView(name) {
     state.view = name;
     $$(".view").forEach(v => { v.hidden = v.id !== "view-" + name; });
@@ -100,6 +100,7 @@
     $("#view-title").textContent = TITLES[name];
     if (name !== "analyze") hideNotice();
     if (name === "history") renderHistory();
+    if (name === "cheat") renderCheat(state.word);
     if (name === "settings" && settingsForm) settingsForm.render();
   }
 
@@ -176,7 +177,7 @@
     }
   };
 
-  const chip = m => `<div class="f2-chip"><span class="f2-form ${m.type}">${esc(m.form)}</span><span class="f2-type">${esc(m.variant || TYPE_NAME[m.type] || m.type)}</span></div>`;
+  const chip = m => `<div class="f2-chip"><span class="f2-form ${m.type}">${esc(m.form)}</span><span class="f2-type">${TYPE_NAME[m.type] || m.type}</span>${m.variant ? `<span class="f2-var">${esc(m.variant)}</span>` : ""}</div>`;
 
   function renderStrip(w) {
     const dots = w.morphemes.map(surfaceOf).filter(Boolean).join(" · ");
@@ -184,9 +185,47 @@
       <div class="cs-word">${esc(dots)}</div>
       <div class="cs-items">${w.morphemes.map(m => `<div class="cs-item">
         <span class="cs-form ${m.type}">${esc(m.form)}</span>
-        <span class="cs-type">${esc(m.variant || TYPE_NAME[m.type] || m.type)}</span>
+        <span class="cs-type">${TYPE_NAME[m.type] || m.type}</span>${m.variant ? `<span class="cs-var">${esc(m.variant)}</span>` : ""}
         <span class="cs-bound">(${isBound(m) ? "bound" : "free"})</span></div>`).join("")}</div>
     </div>`;
+  }
+
+  // Endings that look alike but do different jobs: say which reading this analysis uses.
+  const LOOKALIKE = {
+    "-ing": "Inflectional when the word is a verb form (He is replaying the clip). Derivational when the word is a noun, a gerund (the replaying of the clip), or an adjective (an interesting talk).",
+    "-ed": "Inflectional when the word is a past tense or a past participle (He visited her). Derivational when the word is an adjective (He is interested in art).",
+    "-ly": "Inflectional when it makes an adverb (quickly). Derivational when it makes an adjective (friendly, costly).",
+    "-er": "Inflectional as the comparative (taller). Derivational when it makes a noun (driver, hunter) or an onomatopoeic verb (chatter, flicker).",
+    "-est": "Inflectional as the superlative (tallest). Compare derivational -ist (typist, artist)."
+  };
+  const VARIANT_NOTE = {
+    "-ing (v)": "inflectional, the progressive verb form.", "-ing (N)": "derivational, it makes a noun (a gerund).", "-ing (adj)": "derivational, it makes an adjective.",
+    "-ed (v2)": "inflectional, past tense or past participle.", "-ed (adj)": "derivational, it makes an adjective.",
+    "-ly (adv)": "inflectional, it makes an adverb.", "-ly (adj)": "derivational, it makes an adjective.",
+    "-er (comparative)": "inflectional, the comparative.", "-er (N)": "derivational, it makes a noun.", "-er (onomatopoeia)": "derivational, it makes a verb of repeated sound or movement.",
+    "-est (superlative)": "inflectional, the superlative.", "-ist": "derivational, it makes a noun for a person."
+  };
+  const FLIP = {
+    "-ing (v)": "If the word were used as a noun (the replaying of the match), the same ending would be derivational: -ing (N).",
+    "-ing (N)": "If the word were used as a verb (He is replaying it), the same ending would be inflectional: -ing (v).",
+    "-ing (adj)": "If the word were used as a verb (He is replaying it), the same ending would be inflectional: -ing (v).",
+    "-ed (v2)": "If the word were used as an adjective (an interested student), the same ending would be derivational: -ed (adj).",
+    "-ed (adj)": "If the word were used as a verb (He visited her), the same ending would be inflectional: -ed (v2).",
+    "-ly (adv)": "If the word were an adjective (a friendly man), the same ending would be derivational: -ly (adj).",
+    "-ly (adj)": "If the word were an adverb (He spoke quickly), the same ending would be inflectional: -ly (adv)."
+  };
+  function lookalikeBox(w) {
+    const items = w.morphemes.filter(m => m.type === "suffix" && LOOKALIKE[m.form]);
+    if (!items.length) return "";
+    return `<div class="lookalike">${items.map(m => {
+      const kind = /-inf$/.test(m.cls) ? "inflectional" : "derivational";
+      const now = m.variant && VARIANT_NOTE[m.variant]
+        ? `In “${esc(w.word)}” it is <b>${esc(m.variant)}</b>: ${VARIANT_NOTE[m.variant]}`
+        : `In “${esc(w.word)}” it is ${kind}.`;
+      return `<div class="la-item"><b>Watch the ending ${esc(m.form)}</b>
+        <p>${esc(LOOKALIKE[m.form])}</p>
+        <p class="la-now">${now} ${m.variant && FLIP[m.variant] ? esc(FLIP[m.variant]) : ""}</p></div>`;
+    }).join("")}</div>`;
   }
 
   // The lecturer's reference tables; entries that occur in the current word are highlighted.
@@ -209,13 +248,14 @@
   };
 
   function refTable(def, w, cls) {
-    const forms = new Set(w.morphemes.map(m => m.form.replace(/^-|-$/g, "")));
+    const ms = w ? w.morphemes : [];
+    const forms = new Set(ms.map(m => m.form.replace(/^-|-$/g, "")));
     return `<div class="ref ${cls}">
       <div class="ref-title">${def.title}<em>(${def.hint})</em></div>
       <div class="ref-cols ref-${def.cols.length}">${def.cols.map(c => `<div class="ref-col">
         <div class="ref-head"><b>${c.head}</b>${c.sub ? `<span>${c.sub}</span>` : ""}</div>
         <ul>${c.rows.map(([a, ex]) => {
-          const hit = forms.has(a.replace(/^-|-$/g, "")) && w.morphemes.some(m => m.type !== "root" && m.form.replace(/^-|-$/g, "") === a.replace(/^-|-$/g, ""));
+          const hit = forms.has(a.replace(/^-|-$/g, "")) && ms.some(m => m.type !== "root" && m.form.replace(/^-|-$/g, "") === a.replace(/^-|-$/g, ""));
           return `<li class="${hit ? "hit" : ""}"><span class="r-aff">${esc(a)}</span><span class="r-ex">${esc(ex)}</span></li>`;
         }).join("")}</ul></div>`).join("")}</div>
     </div>`;
@@ -230,7 +270,7 @@
     [[["-est (superlative)", "tallest"]], [["-ist", "typist, artist"]]]
   ];
   function sameEndings(w) {
-    const have = new Set(w.morphemes.map(m => m.variant).filter(Boolean));
+    const have = new Set((w ? w.morphemes : []).map(m => m.variant).filter(Boolean));
     const cellOf = list => list.map(([lab, ex]) => `<div class="se-item${have.has(lab) ? " hit" : ""}"><b>${esc(lab)}</b><span>${esc(ex)}</span></div>`).join("");
     return `<div class="ref same">
       <div class="ref-title">Same ending, different job</div>
@@ -244,14 +284,8 @@
     const mode = state.clsMode;
     const frame = $("#cls-frame"), list = $("#matrix");
     $$("#cls-mode button").forEach(b => b.classList.toggle("active", b.dataset.mode === mode));
-    if (mode === "list") { frame.hidden = true; list.hidden = false; renderMatrix(w); return; }
+    if (mode === "list") { frame.hidden = true; list.hidden = false; renderMatrix(w); list.insertAdjacentHTML("beforeend", lookalikeBox(w)); return; }
     list.hidden = true; frame.hidden = false;
-    if (mode === "ref") {
-      frame.innerHTML = `<div class="ref-wrap">${refTable(REF.der, w, "ref-der")}${refTable(REF.inf, w, "ref-inf")}</div>
-        ${sameEndings(w)}
-        <p class="cls-note">Highlighted entries occur in “${esc(w.word)}”.</p>`;
-      return;
-    }
     const def = FRAMES[mode];
     const cell = col => {
       const items = w.morphemes.filter(col.pick);
@@ -273,6 +307,8 @@
         ${def.table.map(row => row.map(c => `<div class="f2-cell f2-text">${esc(c)}</div>`).join("")).join("")}
       </div>`;
     }
+    if (mode === "derinf" && w.insights && w.insights.derivInfl) html += `<p class="panel-text">${esc(w.insights.derivInfl)}</p>`;
+    html += lookalikeBox(w);
     frame.innerHTML = html;
   }
 
@@ -282,7 +318,7 @@
       <div class="m-row">
         <button type="button" class="m-head" aria-expanded="false">
           <span class="m-ico ${m.type}">${ICON[m.type] || ""}</span>
-          <span class="m-name"><span class="m-form">${esc(m.form)}</span><span class="m-type">${esc(m.variant || t(m.type))}</span></span>
+          <span class="m-name"><span class="m-form">${esc(m.form)}</span><span class="m-type">${esc(t(m.type))}${m.variant ? " · " + esc(m.variant) : ""}</span></span>
           <span class="m-cls-wrap">
             <span class="m-cls ${m.type}">${esc(t("cls_" + m.cls))}</span>
             ${m.allomorphOf ? `<span class="m-allo">${t("allomorphOf")} <b>${esc(m.allomorphOf)}</b></span>` : ""}
@@ -336,13 +372,69 @@
     return def.name;
   }
 
+  // ---- Cheat sheet: the knowledge and formulas students need; entries in the current word are highlighted ----
+  const CHEAT_RULES = [
+    "Cut one affix at a time. Every cut has exactly two parts: a prefix on the left of its stem, a suffix on the right.",
+    "Ask which affix was added last. That one is cut first, so it sits at the top of the tree.",
+    "Inflection is always added last: [[book shelf] -es], [[play -er] -s].",
+    "un- and in- (not) attach to adjectives: [[un-kind] -ness]. If the suffix makes the adjective, the suffix comes first: [un-[wash -ed]], [in-[dispense -able]].",
+    "A prefix that needs a verb (re-, mis-, dis-) attaches to the verb first: [[re-write] -er].",
+    "Suffix chains grow from the inside out: [[hope -less] -ness], [[cred- -ible] -ly]."
+  ];
+  const CHEAT_SPELLING = [
+    ["Final -e is dropped", "create → creation · visible + -ly → visibly (-le is lost)"],
+    ["y becomes i", "happy → happiness · city → cities"],
+    ["Consonant is doubled", "stop → stopping · admit → admitting"],
+    ["in- changes to match the next sound", "im- before p, b, m (impossible) · il- before l (illegal) · ir- before r (irregular)"]
+  ];
+  function cheatHtml(w) {
+    const derRows = FRAMES.derinf.table;
+    return `<div class="cheat">
+      <section class="ch-card">
+        <h4>Types of morphemes</h4>
+        <div class="f2 ch-small">
+          <div class="f2-head">Free</div><div class="f2-head">Bound</div>
+          <div class="f2-cell f2-text">can stand alone as a word<br><i>play, happy, book</i></div>
+          <div class="f2-cell f2-text">CANNOT stand alone, MUST combine with another<br><i>re-, -ing, vis-</i></div>
+          <div class="f2-head">Base</div><div class="f2-head">Affix</div>
+          <div class="f2-cell f2-text">the core that carries the main meaning<br><i>play in replay</i></div>
+          <div class="f2-cell f2-text">prefix (before the base) or suffix (after it)<br><i>re-, -ing</i></div>
+        </div>
+      </section>
+      <section class="ch-card">
+        <h4>Word types and formulas</h4>
+        <div class="ch-formulas">${Object.values(WORD_TYPES).map(d => `<div class="ch-formula"><b>${d.abbr}</b><span>${esc(d.name)}</span><code>${esc(d.abbr + " = " + d.structure)}</code><small>${esc(d.def)}</small></div>`).join("")}</div>
+      </section>
+      <section class="ch-card">
+        <h4>Derivational or inflectional?</h4>
+        <div class="f2 f2-compare"><div class="f2-head">Derivational</div><div class="f2-head">Inflectional</div>
+          ${derRows.map(row => row.map(c => `<div class="f2-cell f2-text">${esc(c)}</div>`).join("")).join("")}</div>
+      </section>
+      <div class="ref-wrap">${refTable(REF.der, w, "ref-der")}${refTable(REF.inf, w, "ref-inf")}</div>
+      ${sameEndings(w)}
+      <section class="ch-card">
+        <h4>Building the IC tree</h4>
+        <ol class="ch-rules">${CHEAT_RULES.map(r => `<li>${esc(r)}</li>`).join("")}</ol>
+      </section>
+      <section class="ch-card">
+        <h4>Spelling changes (allomorphy)</h4>
+        <div class="ch-spell">${CHEAT_SPELLING.map(([a, b]) => `<div><b>${esc(a)}</b><span>${esc(b)}</span></div>`).join("")}</div>
+      </section>
+      ${w ? `<p class="cls-note">Highlighted entries occur in “${esc(w.word)}”.</p>` : ""}
+    </div>`;
+  }
+  function renderCheat(w) {
+    const html = cheatHtml(w || null);
+    $("#cheat").innerHTML = html;
+    $("#cheat-view").innerHTML = html;
+  }
+
   function renderAllo(w) {
     const ins = w.insights || {};
     $("#restore").innerHTML = (ins.restoration || []).map(x => `
       <div class="rs"><span class="rs-from">${esc(x.surface)}</span><span class="rs-arrow">→</span>
       <span class="rs-to">${esc(x.base)}</span><span class="rs-rule">${esc(x.rule)}</span></div>`).join("");
     $("#allo-text").textContent = ins.allomorphy || t("noRestore");
-    $("#deriv-text").textContent = ins.derivInfl || "";
   }
 
   function renderFamily(w) {
@@ -383,6 +475,7 @@
     $("#detail-title").innerHTML = `<span class="target">“${esc(w.word)}”</span> has ${w.morphemes.length} morpheme${w.morphemes.length === 1 ? "" : "s"}`;
     renderClassification(w);
     renderWordType(w);
+    renderCheat(w);
     renderAllo(w);
     renderFamily(w);
     $$(".chip").forEach(c => c.classList.toggle("active", c.dataset.word === w.word));
@@ -764,7 +857,7 @@
     });
     $("#key-chip").addEventListener("click", () => setView("settings"));
     $("#banner-close").addEventListener("click", hideBanner);
-    state.clsMode = ["freebound", "baseaffix", "derinf", "ref", "list"].includes(store.get(LS.cls)) ? store.get(LS.cls) : "freebound";
+    state.clsMode = ["freebound", "baseaffix", "derinf", "list"].includes(store.get(LS.cls)) ? store.get(LS.cls) : "freebound";
     $("#cls-mode").addEventListener("click", e => {
       const b = e.target.closest("[data-mode]");
       if (!b) return;
@@ -823,6 +916,7 @@
 
   async function init() {
     bind();
+    renderCheat(null);
     refreshKeyUi();
     const m = location.hash.match(/w=([^&]+)/);
     await show(m ? decodeURIComponent(m[1]) : "unhappiness", { silentHash: !m });

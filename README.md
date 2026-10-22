@@ -25,10 +25,11 @@ classification, allomorphy, derivation vs. inflection, word family. English only
 
 ## What the page shows
 - **Morpheme cards, IC tree** (textbook style with braces, or boxes) and **classification frames**:
-  Free · Bound, Base · Affix, Derivational · Inflectional, a cheat sheet and a details list.
+  Free · Bound, Base · Affix, Derivational · Inflectional and a details list. Each ambiguous ending (-ing, -ed, -ly, -er, -est) gets a "Watch the ending" note.
 - **Same ending, different job**: suffixes such as -ing (v) / -ing (N) / -ing (adj) or -ed (v2) / -ed (adj) are labelled
   separately; adverbial -ly is treated as inflectional.
 - **Word type**: simple, compound or complex word, worked out from the morphemes.
 - **Popup banners** for every message. When the AI is not available the banner contains the provider, key and model form.
 - The AI returns the IC tree as a bracket string such as `[N|unhappiness [Adj|unhappy 0 1] 2]`;
   the page checks it (two parts per cut, morphemes in order) and builds the tree itself.
+- **Cheat sheet** (a tab under the result and a page in the sidebar): morpheme types, word-type formulas, derivational vs inflectional, same-ending table, IC-tree rules and spelling changes.
