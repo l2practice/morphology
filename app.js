@@ -12,7 +12,7 @@
   const TEST_WORDS = ["unhappiness", "reconstruction", "misunderstanding", "running", "arguing",
     "cities", "sunflower", "children", "uncle", "sing", "unflobbable"];
 
-  const LS = { key: "morph-gemini-key", model: "morph-gemini-model", cache: "morph-cache-v" + window.MorphAI.PROMPT_VERSION, history: "morph-history" };
+  const LS = { key: "morph-gemini-key", model: "morph-gemini-model", cache: "morph-cache-v" + window.MorphAI.PROMPT_VERSION, history: "morph-history", tree: "morph-tree-style" };
   const CACHE_MAX = 150;
 
   const T = {
@@ -35,7 +35,7 @@
     [/Germanic/i, "Germanic"], [/nonce|invented/i, "Nonce"]
   ];
 
-  const state = { word: null, source: "verified", dict: null, view: "analyze", token: 0, abort: null };
+  const state = { treeStyle: "classic", word: null, source: "verified", dict: null, view: "analyze", token: 0, abort: null };
 
   const $ = sel => document.querySelector(sel);
   const $$ = sel => Array.from(document.querySelectorAll(sel));
@@ -190,8 +190,8 @@
     if (!w) return;
     renderHead(w, state.dict);
     renderBricks(w.morphemes);
-    window.ICTree.render($("#tree"), w, t);
-    $("#detail-title").textContent = `${w.word} has ${w.morphemes.length} morpheme${w.morphemes.length === 1 ? "" : "s"}`;
+    window.ICTree.render($("#tree"), w, t, state.treeStyle);
+    $("#detail-title").innerHTML = `<span class="target">“${esc(w.word)}”</span> has ${w.morphemes.length} morpheme${w.morphemes.length === 1 ? "" : "s"}`;
     renderMatrix(w);
     renderAllo(w);
     renderFamily(w);
@@ -374,7 +374,7 @@
       e.preventDefault();
       const key = $("#key-input").value.trim();
       if (!key) { say("Paste your API key first.", "err"); return; }
-      if (!/^AIza[\w-]{20,}$/.test(key)) { say("That does not look like a Gemini API key (it starts with AIza…).", "err"); return; }
+      if (/\s/.test(key) || key.length < 20) { say("That does not look like a complete API key. Copy the whole key from Google AI Studio (AIza… or AQ.…).", "err"); return; }
       store.set(LS.model, sel.value);
       say("Testing the key…");
       try {
@@ -414,6 +414,16 @@
       if (suggestBtn) show(suggestBtn.dataset.word, { force: !!suggestBtn.dataset.force });
     });
     $("#key-chip").addEventListener("click", () => setView("settings"));
+    state.treeStyle = store.get(LS.tree) === "boxes" ? "boxes" : "classic";
+    $$("#tree-style button").forEach(b => b.classList.toggle("active", b.dataset.style === state.treeStyle));
+    $("#tree-style").addEventListener("click", e => {
+      const b = e.target.closest("[data-style]");
+      if (!b || !state.word) return;
+      state.treeStyle = b.dataset.style;
+      store.set(LS.tree, state.treeStyle);
+      $$("#tree-style button").forEach(x => x.classList.toggle("active", x === b));
+      window.ICTree.render($("#tree"), state.word, t, state.treeStyle);
+    });
     $("#history").addEventListener("click", e => { const b = e.target.closest(".h-item"); if (b) show(b.dataset.word); });
     $("#clear-history").addEventListener("click", () => { store.del(LS.history); store.del(LS.cache); renderHistory(); });
 
