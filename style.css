@@ -620,3 +620,10 @@ h3 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -.01em; }
   .wt-h { display: none; }
   .wt-type { justify-content: flex-start; }
 }
+
+.banner-detail { margin-top: 12px; font-size: 13px; }
+.banner-detail summary { cursor: pointer; font-weight: 700; }
+.banner-detail pre {
+  margin: 8px 0; padding: 12px 14px; max-height: 190px; overflow: auto; white-space: pre-wrap; overflow-wrap: anywhere;
+  background: rgba(255, 255, 255, .7); border-radius: 14px; font: 12px/1.5 var(--mono); color: #3a2a12;
+}

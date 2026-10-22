@@ -414,6 +414,9 @@
   function showBanner(cfg) {
     $("#banner-title").textContent = cfg.title;
     $("#banner-msg").textContent = cfg.msg || "";
+    $("#banner-detail").innerHTML = cfg.detail
+      ? `<details class="banner-detail"><summary>Technical details</summary><pre>${esc(cfg.detail)}</pre><button type="button" class="btn btn-ghost" data-copy>Copy details</button></details>` : "";
+    state.bannerDetail = cfg.detail || "";
     $("#banner-alt").innerHTML = (cfg.alts || []).map(p =>
       `<button type="button" class="btn btn-light" data-provider="${p}">Try with ${esc(PROV[p].name)}</button>`).join("");
     state.bannerWord = cfg.word || null;
@@ -576,10 +579,18 @@
       state.word = null;
       renderUnavailable(key, state.dict);
       hideNotice();
+      const known = err && err.name === "ApiError" || err instanceof window.MorphAI.ApiError;
+      const detail = [
+        `provider: ${provider}`, `model: ${getModel(provider)}`, `word: ${key}`,
+        `status: ${err.status === undefined ? "-" : err.status}`, `error: ${err.name || "Error"}: ${err.message}`,
+        err.raw ? `provider said:\n${err.raw}` : "",
+        !known && err.stack ? `stack:\n${String(err.stack).split("\n").slice(0, 5).join("\n")}` : "",
+        `page: ${location.href}`
+      ].filter(Boolean).join("\n");
       showBanner({
         title: "The AI is not available right now",
-        msg: err.message,
-        word: key, provider,
+        msg: known ? err.message : "Something unexpected went wrong: " + err.message,
+        detail, word: key, provider,
         alts: keyedProviders().filter(p => p !== provider)
       });
     }
@@ -733,6 +744,12 @@
     });
 
     document.body.addEventListener("click", e => {
+      if (e.target.closest("[data-copy]")) {
+        const btn = e.target.closest("[data-copy]");
+        const done = () => { btn.textContent = "Copied"; setTimeout(() => { btn.textContent = "Copy details"; }, 1500); };
+        try { navigator.clipboard.writeText(state.bannerDetail || "").then(done, done); } catch (err) { done(); }
+        return;
+      }
       const x = e.target.closest(".popup-x");
       if (x) { removePopup(x.closest(".popup")); return; }
       const nav = e.target.closest("[data-view]");

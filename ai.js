@@ -309,6 +309,7 @@
     if (res.status === 403) return new ApiError(`This ${P} key is not allowed to use that model (or ${P} is not available in your region).`, 403);
     if (res.status === 404) return new ApiError(`The selected ${P} model is not available for your key.`, 404);
     if (res.status === 402 || /credit|billing|balance|quota/i.test(msg) && res.status !== 429) return new ApiError(`Your ${P} account has no credit or quota left.`, res.status);
+    if (res.status === 413 || /too large|tokens per minute|\bTPM\b/i.test(msg)) return new ApiError(`${P} says this request is above the free limit of the model (tokens per minute). Wait a minute, pick another model, or switch provider.`, 413);
     if (res.status === 429) return new ApiError(`${P} rate limit or quota reached. Wait a moment, or switch provider in Settings.`, 429);
     if (res.status >= 500) return new ApiError(`${P} is busy right now. Try again, or switch provider in Settings.`, res.status);
     return new ApiError(msg ? `${P} error: ${msg}` : `${P} error ${res.status}`, res.status);
@@ -322,7 +323,12 @@
       if (e.name === "AbortError") throw e;
       throw new ApiError(`Could not reach ${PROVIDERS[provider].name}. Check your connection; if it is fine, this provider may block direct browser calls — try Gemini or OpenRouter.`, 0);
     }
-    if (!res.ok) throw await readError(res, provider);
+    if (!res.ok) {
+      const raw = await res.clone().text().catch(() => "");
+      const e = await readError(res, provider);
+      e.provider = provider; e.raw = raw.slice(0, 600);
+      throw e;
+    }
     return res;
   }
 
@@ -362,7 +368,7 @@
   // ---- one streamed call per provider kind; each resolves with the full answer text ----
 
   async function streamGemini({ apiKey, model, userText, onText, signal }) {
-    const gen = { maxOutputTokens: 4000, temperature: 0.2, ...thinking(model) };
+    const gen = { maxOutputTokens: 8192, temperature: 0.2, ...thinking(model) };
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:streamGenerateContent?alt=sse`;
     const call = body => http("gemini", url, {
       method: "POST", headers: { "content-type": "application/json", "x-goog-api-key": apiKey }, body: JSON.stringify(body)
@@ -435,7 +441,7 @@
         "anthropic-dangerous-direct-browser-access": "true"
       },
       body: JSON.stringify({
-        model, max_tokens: 3000, stream: true,
+        model, max_tokens: 4096, stream: true,
         system: [{ type: "text", text: SYSTEM_PROMPT, cache_control: { type: "ephemeral" } }],
         messages: [{ role: "user", content: jsonInstruction(userText) }]
       })
@@ -475,6 +481,11 @@
    * @param opts.onAttempt(n)       called when a retry starts
    */
   async function analyze(opts) {
+    try { return await analyzeOnce(opts); }
+    catch (e) { if (e && typeof e === "object") { e.provider = e.provider || opts.provider; e.model = opts.model; } throw e; }
+  }
+
+  async function analyzeOnce(opts) {
     const { word, provider, apiKey, model, context, signal } = opts;
     let problems = [];
     for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
@@ -501,7 +512,9 @@
         return data;
       }
     }
-    throw new ApiError("The AI gave an inconsistent analysis for this word, even after a retry. Press Analyze again, or pick a stronger model in Settings. (" + problems[0] + ")", 0);
+    const fail = new ApiError("The AI gave an inconsistent analysis for this word, even after a retry. Press Analyze again, or pick a stronger model in Settings. (" + problems[0] + ")", 0);
+    fail.raw = problems.join("\n");
+    throw fail;
   }
 
   /** Model ids this key can actually use (used by "Load my models" and the automatic 404 recovery). */
