@@ -4,12 +4,12 @@ Practise Immediate Constituent (IC) analysis of English words: morpheme cards, b
 classification, allomorphy, derivation vs. inflection, word family. English only.
 
 ## How it works
-- **11 verified words** (`data.js`) work offline.
+- **12 verified words** (`data.js`) work offline.
 - **Dictionary** (`dict.js`): reads the static data of https://l2practice.github.io/dictionary/ for
   spelling checks and "did you mean", inflection → lemma, part of speech, definition, CEFR, etymology and
   search autocomplete. The entry is shown immediately while the AI works.
 - **AI** (`ai.js`): each student pastes their own API key in *Settings* for any of Gemini, Grok (xAI), OpenAI,
-  Claude or OpenRouter. The key is stored in that browser's `localStorage` and sent only to the chosen provider.
+  Claude, Groq or OpenRouter. The key is stored in that browser's `localStorage` and sent only to the chosen provider.
   *Load my models* lists the model ids the key can use; if a Gemini model is unavailable the app picks one
   automatically. The answer is streamed (morpheme cards appear as they arrive). When a provider is busy,
   a "Try with …" button switches to another provider that has a saved key. Results are cached on the device,
@@ -22,3 +22,13 @@ classification, allomorphy, derivation vs. inflection, word family. English only
 
 ## Run locally
 `python3 -m http.server 8000` then open http://localhost:8000
+
+## What the page shows
+- **Morpheme cards, IC tree** (textbook style with braces, or boxes) and **classification frames**:
+  Free · Bound, Base · Affix, Derivational · Inflectional, a cheat sheet and a details list.
+- **Same ending, different job**: suffixes such as -ing (v) / -ing (N) / -ing (adj) or -ed (v2) / -ed (adj) are labelled
+  separately; adverbial -ly is treated as inflectional.
+- **Word type**: simple, compound or complex word, worked out from the morphemes.
+- **Popup banners** for every message. When the AI is not available the banner contains the provider, key and model form.
+- The AI returns the IC tree as a bracket string such as `[N|unhappiness [Adj|unhappy 0 1] 2]`;
+  the page checks it (two parts per cut, morphemes in order) and builds the tree itself.

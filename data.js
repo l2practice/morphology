@@ -1,4 +1,4 @@
-/* Morphology — 11 hand-verified test words (English only).
+/* Morphology — 12 hand-verified test words (English only).
    cls keys: prefix-der, prefix-inf, root-free, root-bound, suffix-der, suffix-inf */
 window.IC_DB = {
  "unhappiness": {
@@ -214,7 +214,8 @@ window.IC_DB = {
     "type": "suffix",
     "cls": "suffix-der",
     "meaning": "Here it forms a count noun (a misunderstanding, two misunderstandings), so it is derivational (V → N). In 'She is misunderstanding me' the same form would be inflectional.",
-    "etym": "Old English -ung / -ing (verbal noun suffix)."
+    "etym": "Old English -ung / -ing (verbal noun suffix).",
+    "variant": "-ing (N)"
    }
   ],
   "tree": {
@@ -291,7 +292,8 @@ window.IC_DB = {
     "type": "suffix",
     "cls": "suffix-inf",
     "meaning": "Present participle / progressive marker (be running). It does not create a new word: running is a grammatical form of the verb RUN.",
-    "etym": "Old English participle -ende, later merged with the verbal-noun suffix -ing."
+    "etym": "Old English participle -ende, later merged with the verbal-noun suffix -ing.",
+    "variant": "-ing (v)"
    }
   ],
   "tree": {
@@ -356,7 +358,8 @@ window.IC_DB = {
     "type": "suffix",
     "cls": "suffix-inf",
     "meaning": "Present participle / progressive marker (be arguing). Grammatical, not lexical.",
-    "etym": "Old English -ende / -ing."
+    "etym": "Old English -ende / -ing.",
+    "variant": "-ing (v)"
    }
   ],
   "tree": {
@@ -739,6 +742,87 @@ window.IC_DB = {
     "flobber",
     "flobbable",
     "unflobbed"
+   ]
+  }
+ },
+ "visibly": {
+  "word": "visibly",
+  "pos": "Adverb",
+  "ipa": "/ˈvɪzɪbli/",
+  "gloss": "in a way that can be seen",
+  "process": "Derivation (suffixation) + inflection (adverbial -ly)",
+  "morphemes": [
+   {
+    "form": "vis",
+    "surface": "vis",
+    "type": "root",
+    "cls": "root-bound",
+    "cat": "V",
+    "meaning": "Bound root meaning 'to see'. It never stands alone; it is shared by vision, visual, visit, visible.",
+    "etym": "Latin vis-, from videre 'to see'."
+   },
+   {
+    "form": "-ible",
+    "surface": "ib",
+    "type": "suffix",
+    "cls": "suffix-der",
+    "meaning": "Forms an adjective from a root: 'able to be X-ed' (V → Adj). Written ib- here because the final -le is lost before -ly.",
+    "etym": "Latin -ibilis 'able to be'."
+   },
+   {
+    "form": "-ly",
+    "surface": "ly",
+    "type": "suffix",
+    "cls": "suffix-inf",
+    "meaning": "Adverb-forming suffix: turns the adjective visible into the adverb visibly (Adj → Adv).",
+    "etym": "Old English -lice 'in the manner of'.",
+    "variant": "-ly (adv)"
+   }
+  ],
+  "tree": {
+   "label": "visibly",
+   "cat": "Adv",
+   "children": [
+    {
+     "label": "visible",
+     "cat": "Adj",
+     "children": [
+      {
+       "m": 0
+      },
+      {
+       "m": 1
+      }
+     ]
+    },
+    {
+     "m": 2
+    }
+   ]
+  },
+  "insights": {
+   "allomorphy": "Orthographic alternation: final -le of visible is lost before -ly (visible + -ly → visibly), so the suffix is spelled ib- inside the word.",
+   "restoration": [
+    {
+     "surface": "visib-",
+     "base": "visible",
+     "rule": "final -le is dropped before -ly"
+    }
+   ],
+   "derivInfl": "-ible is derivational: it builds the adjective visible from the bound root vis-. Adverbial -ly is treated as inflectional in this course."
+  },
+  "family": {
+   "root": "vis-",
+   "rootGloss": "to see",
+   "words": [
+    "vision",
+    "visual",
+    "visible",
+    "invisible",
+    "visit",
+    "revise",
+    "supervise",
+    "television"
    ]
   }
  }

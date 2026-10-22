@@ -10,9 +10,9 @@
 (function () {
   const DB = window.IC_DB;
   const TEST_WORDS = ["unhappiness", "reconstruction", "misunderstanding", "running", "arguing",
-    "cities", "sunflower", "children", "uncle", "sing", "unflobbable"];
+    "cities", "sunflower", "children", "uncle", "sing", "unflobbable", "visibly"];
 
-  const LS = { provider: "morph-provider", cache: "morph-cache-v" + window.MorphAI.PROMPT_VERSION, history: "morph-history", tree: "morph-tree-style" };
+  const LS = { provider: "morph-provider", cache: "morph-cache-v" + window.MorphAI.PROMPT_VERSION, history: "morph-history", tree: "morph-tree-style", cls: "morph-cls-mode" };
   const CACHE_MAX = 150;
 
   const T = {
@@ -35,7 +35,8 @@
     [/Germanic/i, "Germanic"], [/nonce|invented/i, "Nonce"]
   ];
 
-  const state = { treeStyle: "classic", word: null, source: "verified", dict: null, view: "analyze", token: 0, abort: null };
+  let settingsForm = null, bannerForm = null;
+  const state = { clsMode: "freebound", treeStyle: "classic", word: null, source: "verified", dict: null, view: "analyze", token: 0, abort: null };
 
   const $ = sel => document.querySelector(sel);
   const $$ = sel => Array.from(document.querySelectorAll(sel));
@@ -99,7 +100,7 @@
     $("#view-title").textContent = TITLES[name];
     if (name !== "analyze") hideNotice();
     if (name === "history") renderHistory();
-    if (name === "settings") renderSettings();
+    if (name === "settings" && settingsForm) settingsForm.render();
   }
 
   function refreshKeyUi() {
@@ -107,7 +108,6 @@
     const has = !!getKey(p);
     $("#key-chip").classList.toggle("ok", has);
     $("#key-chip-text").textContent = has ? `${PROV[p].name} · key saved` : "No API key";
-    $("#empty-key").hidden = has || state.view !== "analyze";
   }
 
   // ---------- Render ----------
@@ -123,6 +123,7 @@
     $("#w-pos").textContent = (dict && dict.pos) || w.pos || "";
     $("#w-cefr").textContent = dict && dict.cefr ? "CEFR " + dict.cefr : "";
     $("#w-process").textContent = w.process || "";
+    $("#w-wtype").textContent = w.morphemes ? WORD_TYPES[wordTypeOf(w).key].name : "";
     const src = $("#w-source");
     src.className = "tag source " + (state.source === "verified" ? "verified" : state.source === "ai" ? "ai" : "verified");
     src.textContent = SOURCE_LABEL[state.source] || "";
@@ -144,13 +145,144 @@
     return ORIGINS.filter(o => o[0].test(etym || "")).slice(0, 2).map(o => `<span class="origin">${o[1]}</span>`).join("");
   }
 
+  // ---- Classification shown as framed tables (Free/Bound, Base/Affix, Derivational/Inflectional) ----
+  const TYPE_NAME = { prefix: "prefix", root: "base", suffix: "suffix" };
+  const isBound = m => m.cls !== "root-free";
+  const surfaceOf = m => (m.surface === undefined ? m.form.replace(/-/g, "") : m.surface);
+  const FRAMES = {
+    freebound: {
+      cols: [
+        { title: "Free morphemes", sub: "“can stand alone as a word”", pick: m => !isBound(m) },
+        { title: "Bound morphemes", sub: "CANNOT stand alone and MUST combine with another", pick: isBound }
+      ]
+    },
+    baseaffix: {
+      cols: [
+        { title: "Base", sub: "the core that carries the main meaning", pick: m => m.type === "root" },
+        { title: "Affix", sub: "prefixes and suffixes added to a base", pick: m => m.type !== "root" }
+      ]
+    },
+    derinf: {
+      cols: [
+        { title: "Derivational", sub: "new word · prefixes keep the class, suffixes change it", pick: m => /-der$/.test(m.cls) },
+        { title: "Inflectional", sub: "new form of the same word · suffixes only", pick: m => /-inf$/.test(m.cls) }
+      ],
+      baseRow: true,
+      table: [
+        ["Can be prefixes and suffixes", "Only suffixes"],
+        ["Prefixes keep the word class; suffixes change it", "A small closed set of suffixes that change the grammatical function"],
+        ["Create new words and change the original meaning", "Create a new form of the word and keep the meaning"]
+      ]
+    }
+  };
+
+  const chip = m => `<div class="f2-chip"><span class="f2-form ${m.type}">${esc(m.form)}</span><span class="f2-type">${esc(m.variant || TYPE_NAME[m.type] || m.type)}</span></div>`;
+
+  function renderStrip(w) {
+    const dots = w.morphemes.map(surfaceOf).filter(Boolean).join(" · ");
+    return `<div class="cls-strip">
+      <div class="cs-word">${esc(dots)}</div>
+      <div class="cs-items">${w.morphemes.map(m => `<div class="cs-item">
+        <span class="cs-form ${m.type}">${esc(m.form)}</span>
+        <span class="cs-type">${esc(m.variant || TYPE_NAME[m.type] || m.type)}</span>
+        <span class="cs-bound">(${isBound(m) ? "bound" : "free"})</span></div>`).join("")}</div>
+    </div>`;
+  }
+
+  // The lecturer's reference tables; entries that occur in the current word are highlighted.
+  const REF = {
+    der: {
+      title: "Derivational morphemes", hint: "meaning",
+      cols: [
+        { head: "Prefix", sub: "Class-maintaining", rows: [["re-", "retry"], ["un-", "unethical"], ["in-", "inhuman"], ["il-", "illegal"]] },
+        { head: "Suffix", sub: "Class-changing", rows: [["-ness", "business"], ["-ion", "instruction"], ["-ive", "attractive"], ["-ible", "visible"]] }
+      ]
+    },
+    inf: {
+      title: "Inflectional morphemes", hint: "grammar",
+      cols: [
+        { head: "Noun", rows: [["-s", "cats"], ["'s", "student's"], ["s'", "students'"]] },
+        { head: "Verb", rows: [["-s", "cooks"], ["-ing", "cooking"], ["-ed", "cooked"], ["-en", "eaten"]] },
+        { head: "Adj & Adv", rows: [["-er", "taller"], ["-est", "tallest"], ["-ly", "quickly"]] }
+      ]
+    }
+  };
+
+  function refTable(def, w, cls) {
+    const forms = new Set(w.morphemes.map(m => m.form.replace(/^-|-$/g, "")));
+    return `<div class="ref ${cls}">
+      <div class="ref-title">${def.title}<em>(${def.hint})</em></div>
+      <div class="ref-cols ref-${def.cols.length}">${def.cols.map(c => `<div class="ref-col">
+        <div class="ref-head"><b>${c.head}</b>${c.sub ? `<span>${c.sub}</span>` : ""}</div>
+        <ul>${c.rows.map(([a, ex]) => {
+          const hit = forms.has(a.replace(/^-|-$/g, "")) && w.morphemes.some(m => m.type !== "root" && m.form.replace(/^-|-$/g, "") === a.replace(/^-|-$/g, ""));
+          return `<li class="${hit ? "hit" : ""}"><span class="r-aff">${esc(a)}</span><span class="r-ex">${esc(ex)}</span></li>`;
+        }).join("")}</ul></div>`).join("")}</div>
+    </div>`;
+  }
+
+  // Same ending, different job (inflectional on the left, derivational on the right).
+  const SAME = [
+    [[["-ing (v)", "He is meeting his client."]], [["-ing (N)", "He hates meeting at lunch."], ["-ing (adj)", "The meeting isn't very interesting."]]],
+    [[["-ed (v2)", "He visited … / … was turned on."]], [["-ed (adj)", "He is interested in his new job."]]],
+    [[["-ly (adv)", "quickly"]], [["-ly (adj)", "friendly, costly"]]],
+    [[["-er (comparative)", "taller"]], [["-er (N)", "driver, hunter"], ["-er (onomatopoeia)", "chatter, flicker"]]],
+    [[["-est (superlative)", "tallest"]], [["-ist", "typist, artist"]]]
+  ];
+  function sameEndings(w) {
+    const have = new Set(w.morphemes.map(m => m.variant).filter(Boolean));
+    const cellOf = list => list.map(([lab, ex]) => `<div class="se-item${have.has(lab) ? " hit" : ""}"><b>${esc(lab)}</b><span>${esc(ex)}</span></div>`).join("");
+    return `<div class="ref same">
+      <div class="ref-title">Same ending, different job</div>
+      <div class="se-grid">
+        <div class="se-head">Inflectional suffix</div><div class="se-head">Derivational suffix</div>
+        ${SAME.map(([i, d]) => `<div class="se-cell">${cellOf(i)}</div><div class="se-cell">${cellOf(d)}</div>`).join("")}
+      </div></div>`;
+  }
+
+  function renderClassification(w) {
+    const mode = state.clsMode;
+    const frame = $("#cls-frame"), list = $("#matrix");
+    $$("#cls-mode button").forEach(b => b.classList.toggle("active", b.dataset.mode === mode));
+    if (mode === "list") { frame.hidden = true; list.hidden = false; renderMatrix(w); return; }
+    list.hidden = true; frame.hidden = false;
+    if (mode === "ref") {
+      frame.innerHTML = `<div class="ref-wrap">${refTable(REF.der, w, "ref-der")}${refTable(REF.inf, w, "ref-inf")}</div>
+        ${sameEndings(w)}
+        <p class="cls-note">Highlighted entries occur in “${esc(w.word)}”.</p>`;
+      return;
+    }
+    const def = FRAMES[mode];
+    const cell = col => {
+      const items = w.morphemes.filter(col.pick);
+      return items.length ? items.map(chip).join("") : `<span class="f2-none">none</span>`;
+    };
+    let html = `<div class="f2">
+      ${def.cols.map(c => `<div class="f2-head">${esc(c.title)}</div>`).join("")}
+      ${def.cols.map(c => `<div class="f2-sub">${esc(c.sub)}</div>`).join("")}
+      ${def.cols.map(c => `<div class="f2-cell">${cell(c)}</div>`).join("")}
+    </div>`;
+    if (def.baseRow) {
+      const roots = w.morphemes.filter(m => m.type === "root");
+      html += `<div class="f2-base"><span>Base (neither derivational nor inflectional)</span>${roots.map(chip).join("")}</div>`;
+    }
+    html += renderStrip(w);
+    if (def.table) {
+      html += `<div class="f2 f2-compare">
+        ${def.cols.map(c => `<div class="f2-head">${esc(c.title)}</div>`).join("")}
+        ${def.table.map(row => row.map(c => `<div class="f2-cell f2-text">${esc(c)}</div>`).join("")).join("")}
+      </div>`;
+    }
+    frame.innerHTML = html;
+  }
+
   function renderMatrix(w) {
     const chev = `<svg class="chev" viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></svg>`;
     $("#matrix").innerHTML = w.morphemes.map(m => `
       <div class="m-row">
         <button type="button" class="m-head" aria-expanded="false">
           <span class="m-ico ${m.type}">${ICON[m.type] || ""}</span>
-          <span class="m-name"><span class="m-form">${esc(m.form)}</span><span class="m-type">${esc(t(m.type))}</span></span>
+          <span class="m-name"><span class="m-form">${esc(m.form)}</span><span class="m-type">${esc(m.variant || t(m.type))}</span></span>
           <span class="m-cls-wrap">
             <span class="m-cls ${m.type}">${esc(t("cls_" + m.cls))}</span>
             ${m.allomorphOf ? `<span class="m-allo">${t("allomorphOf")} <b>${esc(m.allomorphOf)}</b></span>` : ""}
@@ -165,6 +297,43 @@
           </dl>
         </div>
       </div>`).join("");
+  }
+
+  // ---- Word type: simple, compound or complex (decided from the morphemes, no AI needed) ----
+  const WORD_TYPES = {
+    simple: { name: "Simple word", abbr: "SW", def: "Consists of one free root, with or without inflectional suffixes.", structure: "free root ± inflect. suffix" },
+    compound: { name: "Compound word", abbr: "CpW", def: "Consists of two or more roots to create a new meaning, with or without inflectional suffixes.", structure: "≥ 2 roots ± inflect. suffix" },
+    complex: { name: "Complex word", abbr: "CW", def: "Consists of derivational affixes and one root (free or bound), changing its meaning or part of speech.", structure: "root + deriv. affix(es) ± inflect. suffix" }
+  };
+  function wordTypeOf(w) {
+    const ms = w.morphemes;
+    const roots = ms.filter(m => m.type === "root");
+    const der = ms.filter(m => /-der$/.test(m.cls));
+    const inf = ms.filter(m => /-inf$/.test(m.cls));
+    const key = roots.length >= 2 ? "compound" : der.length ? "complex" : "simple";
+    return { key, roots, der, inf };
+  }
+  function renderWordType(w) {
+    const wt = wordTypeOf(w), def = WORD_TYPES[wt.key];
+    const list = (arr, cls) => arr.length ? arr.map(m => `<span class="${cls}">${esc(m.form)}</span>`).join(" + ") : "";
+    let formula = `<b>${def.abbr}</b> = root ${list(wt.roots, "wt-root")}`;
+    if (wt.der.length) formula += ` + deriv. ${list(wt.der, "wt-der")}`;
+    if (wt.inf.length) formula += ` ± inflect. ${list(wt.inf, "wt-inf")}`;
+    const notes = [];
+    if (wt.key === "compound" && wt.der.length) notes.push("It also contains derivational affixes, so it combines compounding with derivation.");
+    if (wt.key === "simple" && wt.roots.length && wt.roots[0].cls === "root-bound") notes.push("Its only root is bound, so it behaves like a simple word only in this analysis.");
+    if (wt.key !== "complex" && wt.inf.length) notes.push("Inflectional suffixes do not change the word type.");
+    $("#wordtype").innerHTML = `
+      <div class="wt-result"><span class="wt-badge ${wt.key}">${def.name}</span><div class="wt-formula">${formula}</div></div>
+      ${notes.map(n => `<p class="cls-note">${esc(n)}</p>`).join("")}
+      <div class="wt-table">
+        <div class="wt-h">Type</div><div class="wt-h">Definition</div><div class="wt-h">Structure</div>
+        ${Object.entries(WORD_TYPES).map(([k, d]) => `
+          <div class="wt-c wt-type ${k}${k === wt.key ? " on" : ""}">${d.name}</div>
+          <div class="wt-c${k === wt.key ? " on" : ""}">${esc(d.def)}</div>
+          <div class="wt-c${k === wt.key ? " on" : ""}">${d.abbr} = ${esc(d.structure)}</div>`).join("")}
+      </div>`;
+    return def.name;
   }
 
   function renderAllo(w) {
@@ -207,11 +376,13 @@
   function renderAll() {
     const w = state.word;
     if (!w) return;
+    $(".details").hidden = false;
     renderHead(w, state.dict);
     renderBricks(w.morphemes);
     window.ICTree.render($("#tree"), w, t, state.treeStyle);
     $("#detail-title").innerHTML = `<span class="target">“${esc(w.word)}”</span> has ${w.morphemes.length} morpheme${w.morphemes.length === 1 ? "" : "s"}`;
-    renderMatrix(w);
+    renderClassification(w);
+    renderWordType(w);
     renderAllo(w);
     renderFamily(w);
     $$(".chip").forEach(c => c.classList.toggle("active", c.dataset.word === w.word));
@@ -225,16 +396,56 @@
     $("#bricks").innerHTML = [0, 1, 2].map(i => `<div class="badge pending" style="--i:${i}"><div class="badge-top"><span class="badge-form">xxxxx</span></div><div class="badge-sub">xxxxxx</div><div class="badge-bottom"><span class="badge-icon"></span></div></div>`).join("");
     $("#tree").innerHTML = `<div class="tree-wait"><div class="spinner"><span></span><span></span><span></span><span></span></div><div id="wait-msg">The AI is cutting “${esc(word)}”…</div></div>`;
     $("#detail-title").textContent = "Details";
-    $("#matrix").innerHTML = ""; $("#restore").innerHTML = ""; $("#allo-text").textContent = ""; $("#deriv-text").textContent = ""; $("#family").innerHTML = "";
+    $(".details").hidden = true;
   }
 
-  function showNotice(html, isError) {
-    const n = $("#notice");
-    n.hidden = false;
-    n.className = "notice" + (isError ? " error" : "");
-    n.innerHTML = html;
+  /** AI cannot run (no key or provider error): keep the page, show the dictionary card and calm placeholders. */
+  function renderUnavailable(word, dict) {
+    renderHead({ word, morphemes: null, tree: null, process: "" }, dict);
+    const src = $("#w-source");
+    src.className = "tag source";
+    src.textContent = "AI not connected";
+    $("#bricks").innerHTML = `<div class="empty-card"><b>No analysis yet</b><span>Connect an AI provider in the box above and “${esc(word)}” will be cut into morphemes here.</span></div>`;
+    $("#tree").innerHTML = `<div class="tree-wait"><div>The IC tree appears here once the word has been analysed.</div></div>`;
+    $(".details").hidden = true;
   }
-  const hideNotice = () => { $("#notice").hidden = true; };
+
+  // ---------- AI banner (replaces blank pages and red errors) ----------
+  function showBanner(cfg) {
+    $("#banner-title").textContent = cfg.title;
+    $("#banner-msg").textContent = cfg.msg || "";
+    $("#banner-alt").innerHTML = (cfg.alts || []).map(p =>
+      `<button type="button" class="btn btn-light" data-provider="${p}">Try with ${esc(PROV[p].name)}</button>`).join("");
+    state.bannerWord = cfg.word || null;
+    $("#ai-banner").hidden = false;
+    bannerForm.render(cfg.provider || getProvider());
+  }
+  const hideBanner = () => { $("#ai-banner").hidden = true; };
+
+  // ---------- Popup banners: every message that is not part of the result appears here ----------
+  function removePopup(el) {
+    if (!el || !el.parentNode) return;
+    el.classList.add("out");
+    setTimeout(() => el.remove(), 220);
+  }
+  function popup({ tone, html, sticky, kind }) {
+    if (kind === "notice") $$("#popups .popup[data-kind=notice]").forEach(removePopup);
+    const el = document.createElement("div");
+    el.className = "popup " + tone;
+    el.dataset.kind = kind || "notice";
+    el.setAttribute("role", tone === "error" ? "alert" : "status");
+    el.innerHTML = `<span class="popup-ico" aria-hidden="true">${tone === "error" ? "!" : tone === "warn" ? "?" : "i"}</span>
+      <div class="popup-body">${html}</div>
+      <button type="button" class="popup-x" aria-label="Dismiss">×</button>`;
+    $("#popups").appendChild(el);
+    if (!sticky) setTimeout(() => removePopup(el), 7000);
+    return el;
+  }
+  function showNotice(html, isError) {
+    const hasActions = /<button/.test(html);
+    popup({ tone: isError ? "error" : hasActions ? "warn" : "info", html, sticky: isError || hasActions, kind: "notice" });
+  }
+  const hideNotice = () => { $$("#popups .popup[data-kind=notice]").forEach(removePopup); };
 
   function renderHistory() {
     const h = store.json(LS.history, []);
@@ -266,6 +477,7 @@
     if (state.abort) state.abort.abort();
     const token = ++state.token;
     hideNotice();
+    hideBanner();
     $("#suggest").hidden = true;
     $("#word-input").value = key;
 
@@ -308,9 +520,14 @@
 
     const provider = getProvider();
     if (!getKey(provider)) {
-      const others = keyedProviders();
-      showNotice(`To analyse new words, add an API key first (Gemini, Grok, OpenAI, Claude or OpenRouter). <button type="button" data-view="settings">Add key</button>` +
-        others.map(p => `<button type="button" class="alt" data-provider="${p}" data-word="${esc(key)}">Use ${esc(PROV[p].name)}</button>`).join(""));
+      $("#result").hidden = false;
+      state.word = null; state.source = "ai";
+      renderUnavailable(key, state.dict);
+      showBanner({
+        title: `Connect an AI to analyse “${key}”`,
+        msg: "Pick a provider, paste your key and press Save & test. The verified words and the dictionary keep working without it.",
+        word: key, alts: keyedProviders()
+      });
       refreshKeyUi();
       return;
     }
@@ -355,11 +572,16 @@
         } catch (e) { /* fall through to the normal error */ }
       }
 
-      $("#result").hidden = true;
-      const others = keyedProviders().filter(p => p !== provider);
-      showNotice(esc(err.message) +
-        (err.status === 401 || err.status === 404 ? ` <button type="button" data-view="settings">Open settings</button>` : "") +
-        others.map(p => `<button type="button" class="alt" data-provider="${p}" data-word="${esc(key)}">Try with ${esc(PROV[p].name)}</button>`).join(""), true);
+      $("#result").hidden = false;
+      state.word = null;
+      renderUnavailable(key, state.dict);
+      hideNotice();
+      showBanner({
+        title: "The AI is not available right now",
+        msg: err.message,
+        word: key, provider,
+        alts: keyedProviders().filter(p => p !== provider)
+      });
     }
   }
 
@@ -392,59 +614,74 @@
     input.addEventListener("keydown", e => { if (e.key === "Escape") list.hidden = true; });
   }
 
-  // ---------- Settings ----------
-  let viewing = null;   // provider whose form is shown (may differ from the active one)
+  // ---------- Key form (used in Settings and inside the banner) ----------
+  function mountKeyForm(root, opts) {
+    opts = opts || {};
+    let viewing = null;   // provider whose form is shown (may differ from the active one)
+    root.innerHTML = `<div class="kf">
+      <div class="pills" data-r="pills" role="tablist" aria-label="AI provider"></div>
+      <p class="kf-help">Get a key at <a data-r="link" href="#" target="_blank" rel="noopener"></a>. It is saved only in this browser and sent only to this provider.</p>
+      <form data-r="form" autocomplete="off">
+        <label class="field"><span>API key</span>
+          <div class="field-row"><input data-r="key" type="password" spellcheck="false" autocomplete="off" autocapitalize="off">
+            <button type="button" data-r="toggle" class="btn btn-ghost" aria-pressed="false">Show</button></div></label>
+        <label class="field"><span>Model</span>
+          <div class="field-row"><select data-r="model"></select>
+            <button type="button" data-r="load" class="btn btn-ghost">Load my models</button></div></label>
+        <details class="kf-more"><summary>Use a different model ID</summary>
+          <input data-r="custom" type="text" placeholder="model id" spellcheck="false" autocomplete="off" autocapitalize="off"></details>
+        <div class="btn-row">
+          <button type="submit" class="btn">Save &amp; test</button>
+          <button type="button" data-r="active" class="btn btn-ghost" hidden>Make active</button>
+          <button type="button" data-r="remove" class="btn btn-ghost">Remove key</button>
+        </div>
+        <p class="prov-state" data-r="state"></p>
+        <p class="key-status" data-r="status" role="status"></p>
+      </form></div>`;
+    const q = r => root.querySelector(`[data-r="${r}"]`);
+    const say = (msg, cls) => { q("status").textContent = msg; q("status").className = "key-status " + (cls || ""); };
+    const chosenModel = () => q("custom").value.trim() || q("model").value;
 
-  function renderSettings() {
-    if (!viewing) viewing = getProvider();
-    const active = getProvider();
-    $("#prov-pills").innerHTML = PROV_IDS.map(p => `
-      <button type="button" role="tab" class="pill${p === viewing ? " on" : ""}" data-prov="${p}" aria-selected="${p === viewing}">
-        ${esc(PROV[p].name)}${getKey(p) ? `<i class="pill-dot${p === active ? " act" : ""}" title="${p === active ? "active" : "key saved"}"></i>` : ""}
-      </button>`).join("");
-    const cfg = PROV[viewing];
-    $("#prov-title").textContent = cfg.full + " API key";
-    $("#prov-link").href = cfg.keyUrl;
-    $("#prov-link").textContent = new URL(cfg.keyUrl).host;
-    $("#key-input").value = getKey(viewing);
-    $("#key-input").placeholder = cfg.keyHint;
-    fillModels(cfg.models, getModel(viewing));
-    $("#model-custom").value = "";
-    $("#prov-active").hidden = viewing === active || !getKey(viewing);
-    $("#prov-state").textContent = getKey(viewing)
-      ? (viewing === active ? `${cfg.name} is the active provider.` : `Key saved. Active provider: ${PROV[active].name}.`) : "No key saved for this provider.";
-    $("#key-status").textContent = ""; $("#key-status").className = "key-status";
-  }
+    function fillModels(list, selected) {
+      const items = !selected || list.some(m => m.id === selected) ? list : [{ id: selected, label: selected }, ...list];
+      q("model").innerHTML = items.map(m => `<option value="${esc(m.id)}">${esc(m.label)}</option>`).join("");
+      q("model").value = selected || items[0].id;
+    }
 
-  function fillModels(list, selected) {
-    const sel = $("#model-select");
-    const items = list.some(m => m.id === selected) || !selected ? list : [{ id: selected, label: selected }, ...list];
-    sel.innerHTML = items.map(m => `<option value="${esc(m.id)}">${esc(m.label)}</option>`).join("");
-    sel.value = selected || items[0].id;
-  }
+    function render(provider) {
+      if (provider) viewing = provider;
+      if (!viewing) viewing = getProvider();
+      const active = getProvider(), cfg = PROV[viewing];
+      q("pills").innerHTML = PROV_IDS.map(p => `
+        <button type="button" role="tab" class="pill${p === viewing ? " on" : ""}" data-prov="${p}" aria-selected="${p === viewing}">
+          ${esc(PROV[p].name)}${getKey(p) ? `<i class="pill-dot${p === active ? " act" : ""}" title="${p === active ? "active" : "key saved"}"></i>` : ""}
+        </button>`).join("");
+      q("link").href = cfg.keyUrl;
+      q("link").textContent = new URL(cfg.keyUrl).host;
+      q("key").value = getKey(viewing);
+      q("key").placeholder = cfg.keyHint;
+      fillModels(cfg.models, getModel(viewing));
+      q("custom").value = "";
+      q("active").hidden = viewing === active || !getKey(viewing);
+      q("state").textContent = getKey(viewing)
+        ? (viewing === active ? `${cfg.name} is the active provider.` : `Key saved. Active provider: ${PROV[active].name}.`)
+        : `No key saved for ${cfg.name} yet.`;
+      say("");
+    }
 
-  function bindSettings() {
-    const status = $("#key-status");
-    const say = (msg, cls) => { status.textContent = msg; status.className = "key-status " + (cls || ""); };
-    const chosenModel = () => $("#model-custom").value.trim() || $("#model-select").value;
-
-    $("#prov-pills").addEventListener("click", e => {
+    q("pills").addEventListener("click", e => {
       const b = e.target.closest("[data-prov]");
-      if (b) { viewing = b.dataset.prov; renderSettings(); }
+      if (b) render(b.dataset.prov);
     });
-
-    $("#key-toggle").addEventListener("click", e => {
-      const inp = $("#key-input");
-      const show_ = inp.type === "password";
-      inp.type = show_ ? "text" : "password";
+    q("toggle").addEventListener("click", e => {
+      const show_ = q("key").type === "password";
+      q("key").type = show_ ? "text" : "password";
       e.target.textContent = show_ ? "Hide" : "Show";
       e.target.setAttribute("aria-pressed", String(show_));
     });
-
-    $("#settings-form").addEventListener("submit", async e => {
+    q("form").addEventListener("submit", async e => {
       e.preventDefault();
-      const key = $("#key-input").value.trim();
-      const p = viewing, model = chosenModel();
+      const key = q("key").value.trim(), p = viewing, model = chosenModel();
       if (!key) { say("Paste your API key first.", "err"); return; }
       if (/\s/.test(key) || key.length < 20) { say("That does not look like a complete API key. Copy the whole key from the provider's page.", "err"); return; }
       say("Testing the key…");
@@ -453,16 +690,16 @@
         store.set(modelName(p), model);
         const saved = store.set(keyName(p), key);
         setProvider(p);
-        renderSettings();
+        refreshKeyUi();
+        if (opts.onSaved) { opts.onSaved(p); }
+        render(p);
         say(saved ? `Key saved on this device and working. ${PROV[p].name} is now active.` : "The key works, but this browser blocks saving it. It will be forgotten when you close the tab.", saved ? "ok" : "err");
       } catch (err) {
         say(err.message + (err.status === 404 ? " Press “Load my models” to see which ones your key can use." : ""), "err");
       }
-      refreshKeyUi();
     });
-
-    $("#models-load").addEventListener("click", async () => {
-      const key = $("#key-input").value.trim();
+    q("load").addEventListener("click", async () => {
+      const key = q("key").value.trim();
       if (!key) { say("Paste your API key first.", "err"); return; }
       say("Asking the provider which models your key can use…");
       try {
@@ -474,16 +711,15 @@
         say(`${list.length} models found. Choose one and press Save & test.`, "ok");
       } catch (err) { say(err.message, "err"); }
     });
-
-    $("#prov-active").addEventListener("click", () => { setProvider(viewing); renderSettings(); refreshKeyUi(); });
-
-    $("#key-remove").addEventListener("click", () => {
+    q("active").addEventListener("click", () => { setProvider(viewing); refreshKeyUi(); render(); });
+    q("remove").addEventListener("click", () => {
       store.del(keyName(viewing));
       if (getProvider() === viewing) store.del(LS.provider);
-      renderSettings();
-      say("Key removed from this browser.", "ok");
       refreshKeyUi();
+      render();
+      say("Key removed from this browser.", "ok");
     });
+    return { render };
   }
 
   // ---------- Events ----------
@@ -497,15 +733,29 @@
     });
 
     document.body.addEventListener("click", e => {
+      const x = e.target.closest(".popup-x");
+      if (x) { removePopup(x.closest(".popup")); return; }
       const nav = e.target.closest("[data-view]");
       if (nav) { setView(nav.dataset.view); refreshKeyUi(); return; }
-      const suggestBtn = e.target.closest("#notice button[data-word]");
+      const alt = e.target.closest("#banner-alt [data-provider]");
+      if (alt && state.bannerWord) { setProvider(alt.dataset.provider); refreshKeyUi(); show(state.bannerWord, { force: true }); return; }
+      const suggestBtn = e.target.closest("#popups button[data-word]");
       if (suggestBtn) {
         if (suggestBtn.dataset.provider) { setProvider(suggestBtn.dataset.provider); refreshKeyUi(); }
         show(suggestBtn.dataset.word, { force: !!suggestBtn.dataset.force || !!suggestBtn.dataset.provider });
       }
     });
     $("#key-chip").addEventListener("click", () => setView("settings"));
+    $("#banner-close").addEventListener("click", hideBanner);
+    state.clsMode = ["freebound", "baseaffix", "derinf", "ref", "list"].includes(store.get(LS.cls)) ? store.get(LS.cls) : "freebound";
+    $("#cls-mode").addEventListener("click", e => {
+      const b = e.target.closest("[data-mode]");
+      if (!b) return;
+      state.clsMode = b.dataset.mode;
+      store.set(LS.cls, state.clsMode);
+      if (state.word) renderClassification(state.word);
+      else $$("#cls-mode button").forEach(x => x.classList.toggle("active", x === b));
+    });
     state.treeStyle = store.get(LS.tree) === "boxes" ? "boxes" : "classic";
     $$("#tree-style button").forEach(b => b.classList.toggle("active", b.dataset.style === state.treeStyle));
     $("#tree-style").addEventListener("click", e => {
@@ -548,14 +798,24 @@
     });
 
     bindSuggest();
-    bindSettings();
+    settingsForm = mountKeyForm($("#settings-mount"), {});
+    bannerForm = mountKeyForm($("#banner-form"), {
+      onSaved: () => { const w = state.bannerWord; hideBanner(); if (w) show(w, { force: true }); }
+    });
   }
 
-  function init() {
+  async function init() {
     bind();
     refreshKeyUi();
     const m = location.hash.match(/w=([^&]+)/);
-    show(m ? decodeURIComponent(m[1]) : "unhappiness", { silentHash: !m });
+    await show(m ? decodeURIComponent(m[1]) : "unhappiness", { silentHash: !m });
+    // First visit: ask for a key right away, in the same page.
+    if (!keyedProviders().length && $("#ai-banner").hidden) {
+      showBanner({
+        title: "Add an AI key to analyse any word",
+        msg: "The 12 verified words and the dictionary already work. Pick a provider, paste your key and press Save & test."
+      });
+    }
   }
 
   document.addEventListener("DOMContentLoaded", init);

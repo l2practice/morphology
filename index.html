@@ -56,17 +56,18 @@
         </button>
       </header>
 
-      <div id="notice" class="notice" hidden></div>
 
       <!-- ---------- Analyze view ---------- -->
       <section id="view-analyze" class="view">
-        <div id="empty-key" class="callout" hidden>
-          <div>
-            <strong>Add an AI API key to analyse new words.</strong>
-            <span>The 11 verified test words and the dictionary work without it. Your key stays in this browser.</span>
+        <section id="ai-banner" class="banner" hidden aria-live="polite">
+          <div class="banner-top">
+            <span class="banner-ico" aria-hidden="true">✦</span>
+            <div class="banner-text"><h3 id="banner-title"></h3><p id="banner-msg"></p></div>
+            <button type="button" id="banner-close" class="banner-x" aria-label="Dismiss">×</button>
           </div>
-          <button type="button" class="btn" data-view="settings">Add key</button>
-        </div>
+          <div id="banner-alt" class="banner-alt"></div>
+          <div id="banner-form"></div>
+        </section>
 
         <div id="result">
           <div class="grid-top">
@@ -88,6 +89,7 @@
               <div class="tags">
                 <span id="w-pos" class="tag"></span>
                 <span id="w-cefr" class="tag"></span>
+                <span id="w-wtype" class="tag wtype"></span>
                 <span id="w-process" class="tag"></span>
                 <span id="w-source" class="tag source"></span>
               </div>
@@ -130,10 +132,21 @@
                 <button type="button" role="tab" data-tab="allo">Allomorphy</button>
                 <button type="button" role="tab" data-tab="deriv">Derivation · Inflection</button>
                 <button type="button" role="tab" data-tab="family">Word family</button>
+                <button type="button" role="tab" data-tab="wtype">Word type</button>
               </div>
             </div>
 
-            <div class="panel active" data-panel="matrix"><div id="matrix" class="matrix"></div></div>
+            <div class="panel active" data-panel="matrix">
+              <div class="seg seg-wrap" id="cls-mode" role="group" aria-label="Classification view">
+                <button type="button" data-mode="freebound" class="active">Free · Bound</button>
+                <button type="button" data-mode="baseaffix">Base · Affix</button>
+                <button type="button" data-mode="derinf">Derivational · Inflectional</button>
+                <button type="button" data-mode="ref">Cheat sheet</button>
+                <button type="button" data-mode="list">Details</button>
+              </div>
+              <div id="cls-frame" class="cls-frame"></div>
+              <div id="matrix" class="matrix" hidden></div>
+            </div>
             <div class="panel" data-panel="allo">
               <div id="restore" class="restore"></div>
               <p id="allo-text" class="panel-text"></p>
@@ -146,6 +159,7 @@
               </div>
             </div>
             <div class="panel" data-panel="family"><div id="family" class="family"></div></div>
+            <div class="panel" data-panel="wtype"><div id="wordtype" class="wordtype"></div></div>
           </section>
         </div>
       </section>
@@ -162,37 +176,10 @@
       <!-- ---------- Settings view ---------- -->
       <section id="view-settings" class="view" hidden>
         <div class="settings-grid">
-          <form id="settings-form" class="card" autocomplete="off">
-            <div class="sec-head"><h3 id="prov-title">Gemini API key</h3></div>
-            <div id="prov-pills" class="pills" role="tablist" aria-label="AI provider"></div>
-            <p class="panel-text">Each student uses their own key from <a id="prov-link" href="#" target="_blank" rel="noopener">provider</a>.
-              It is saved only in this browser (local storage) and sent only to the provider you choose. Pick whichever provider works for you; if one is busy, switch to another.</p>
-            <label class="field">
-              <span>API key</span>
-              <div class="field-row">
-                <input id="key-input" type="password" placeholder="" spellcheck="false" autocomplete="off" autocapitalize="off">
-                <button type="button" id="key-toggle" class="btn btn-ghost" aria-pressed="false">Show</button>
-              </div>
-            </label>
-            <label class="field">
-              <span>Model</span>
-              <div class="field-row">
-                <select id="model-select"></select>
-                <button type="button" id="models-load" class="btn btn-ghost">Load my models</button>
-              </div>
-            </label>
-            <label class="field">
-              <span>Or type a model ID (optional, overrides the list)</span>
-              <input id="model-custom" type="text" placeholder="e.g. gemini-2.5-flash" spellcheck="false" autocomplete="off" autocapitalize="off">
-            </label>
-            <div class="btn-row">
-              <button type="submit" class="btn">Save &amp; test</button>
-              <button type="button" id="prov-active" class="btn btn-ghost" hidden>Make active</button>
-              <button type="button" id="key-remove" class="btn btn-ghost">Remove key</button>
-            </div>
-            <p id="prov-state" class="prov-state"></p>
-            <p id="key-status" class="key-status" role="status"></p>
-          </form>
+          <div class="card">
+            <div class="sec-head"><h3>AI provider and key</h3></div>
+            <div id="settings-mount"></div>
+          </div>
 
           <aside class="card tint">
             <div class="sec-head"><h3>Good to know</h3></div>
@@ -212,6 +199,8 @@
       <footer class="footer">Morphology · Immediate Constituent analysis practice for English majors</footer>
     </main>
   </div>
+
+  <div id="popups" class="popups" aria-live="polite"></div>
 
   <script src="data.js"></script>
   <script src="dict.js"></script>

@@ -23,7 +23,7 @@
           <span class="badge-form">${esc(m.form)}</span>
           <span class="badge-menu" aria-hidden="true"><i></i><i></i><i></i></span>
         </div>
-        <div class="badge-sub">${esc(note || labels[m.type] || "")}</div>
+        <div class="badge-sub">${esc([m.variant, note].filter(Boolean).join(" · ") || labels[m.type] || "")}</div>
         <div class="badge-bottom">
           <span class="badge-icon" aria-hidden="true">${ICON[m.type] || ""}</span>
           <span class="badge-type">${esc(labels[m.type] || "")}</span>

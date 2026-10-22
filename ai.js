@@ -4,7 +4,7 @@
  * morphemes can be shown while the rest of the analysis is still arriving.
  */
 (function () {
-  const PROMPT_VERSION = 7;
+  const PROMPT_VERSION = 10;
   const MAX_ATTEMPTS = 2;   // 1 retry when the answer fails validation
 
   /**
@@ -25,6 +25,14 @@
       models: [
         { id: "grok-3-mini", label: "Grok 3 mini — fast" },
         { id: "grok-4", label: "Grok 4 — most careful" }
+      ]
+    },
+    groq: {
+      name: "Groq", full: "Groq (very fast)", kind: "openai", base: "https://api.groq.com/openai/v1", keyUrl: "https://console.groq.com/keys", keyHint: "gsk_…",
+      models: [
+        { id: "llama-3.3-70b-versatile", label: "Llama 3.3 70B — fast, accurate" },
+        { id: "llama-3.1-8b-instant", label: "Llama 3.1 8B — fastest" },
+        { id: "openai/gpt-oss-120b", label: "GPT-OSS 120B — most careful" }
       ]
     },
     openai: {
@@ -62,9 +70,10 @@
     "",
     "## 1. Segment: is each cut real in present-day English?",
     "Cut off a piece only if ALL three tests pass:",
-    "  (a) the remaining base exists as a word or recognisable morpheme in present-day English;",
+    "  (a) the remaining base exists as a word, or as a recognisable BOUND root shared by a word family (vis- in vision, visual, visible);",
     "  (b) the piece adds its usual meaning or grammatical function;",
     "  (c) the whole word means roughly \"base + affix meaning\".",
+    "Bound roots are real morphemes. When a clear suffix is attached to a recognisable bound Latinate root, CUT BOTH: visible = vis- (bound root) + -ible; credible = cred- + -ible; audible = aud- + -ible; credibly = [[cred- -ible] -ly] with surfaces cred | ib | ly. Never leave such a word as one root.",
     "Historical (etymological) structure is NOT enough: mention it in \"etym\", but do not cut it.",
     "NEVER invent morphemes and NEVER split a bare root: correct is ONE root (not cor + rect), color is ONE root.",
     "Pseudo-affix traps that must stay ONE free root: carpet (not car + pet), hammer (not ham + -er), regard (not re- + gard), report (not re- + port), wonder (not won + -der). A word only ends in -er/-ing or starts with re-/in-/un- by accident unless the tests pass.",
@@ -80,23 +89,22 @@
     "",
     "## 3. Classify",
     "- type: prefix | root | suffix. cls: prefix-der | prefix-inf | root-free | root-bound | suffix-der | suffix-inf.",
-    "- English has no inflectional prefixes. The only inflectional suffixes are plural -s/-es, possessive -'s, 3rd-person -s, past -ed, progressive -ing, past-participle -en/-ed, comparative -er and superlative -est (and their zero/irregular allomorphs). Deadjectival -ly (decidedly = \"in a decided way\") and nominal -ing (a misunderstanding) are derivational.",
+    "- English has no inflectional prefixes. In THIS course the inflectional suffixes are exactly: noun -s (plural), 's (possessive), s' (plural possessive); verb -s (3rd person), -ing, -ed (past), -en (past participle, e.g. eaten); adjective/adverb -er (comparative), -est (superlative) and adverbial -ly (quickly, decidedly, credibly), plus their zero/irregular allomorphs. Everything else is derivational. Nominal -ing (a misunderstanding) is derivational.",
+    "- Derivational prefixes keep the word class (re-try, un-ethical, in-human, il-legal); derivational suffixes usually change it (-ness, -ion, -ive, -ible). Derivation creates a new word with a changed meaning; inflection only creates another form of the same word.",
     "- cat for roots: N, V, Adj, Adv or P. Use \"\" for affixes.",
+    "- variant: some endings look the same but do different jobs. When a suffix is one of the labels below, set variant to EXACTLY that label, otherwise \"\". Use the dictionary part of speech to decide. INFLECTIONAL (suffix-inf): \"-ing (v)\" progressive verb form (He is meeting a client); \"-ed (v2)\" past tense or past participle (visited, was turned on); \"-ly (adv)\" (quickly); \"-er (comparative)\" (taller); \"-est (superlative)\" (tallest). DERIVATIONAL (suffix-der): \"-ing (N)\" noun (a meeting, a misunderstanding); \"-ing (adj)\" participial adjective (an interesting talk); \"-ed (adj)\" (interested); \"-ly (adj)\" (friendly, costly); \"-er (N)\" person or tool (driver, hunter); \"-er (onomatopoeia)\" verb of repeated sound or movement (chatter, flicker); \"-ist\" (typist, artist). cls must agree: the (v), (v2), (adv), (comparative) and (superlative) labels are suffix-inf, all the others suffix-der.",
     "",
-    "## 4. Build the binary IC tree (\"nodes\")",
-    "- Pre-order list. Node 0 is the whole word with parent -1. A node's parent always appears before it.",
-    "- Every inner node has EXACTLY TWO children, listed left to right. Reading the leaves left to right must give morpheme 0, 1, 2 … in order.",
-    "- A prefix branches LEFT of its stem; a suffix branches RIGHT of its stem.",
+    "## 4. Describe the binary IC tree with the \"tree\" bracket string",
+    "- Notation: every cut is [Cat|label left right]. Cat is the word class of the whole constituent (N, V, Adj, Adv or P); label is the spelled word that constituent forms, in normal dictionary spelling (unhappy, not unhappi); left and right are each either another bracket or a morpheme NUMBER (0-based, in the order of the \"morphemes\" list).",
+    "- Every bracket has EXACTLY TWO parts (never one, never three). The numbers must appear left to right as 0, 1, 2 … each exactly once. A word with a single morpheme is just the number 0.",
+    "- Examples: unkindness (un-, kind, -ness) → [N|unkindness [Adj|unkind 0 1] 2]; hopelessness (hope, -less, -ness) → [N|hopelessness [Adj|hopeless 0 1] 2]; bookshelves (book, shelf, -es) → [N|bookshelves [N|bookshelf 0 1] 2]; unwashed (un-, wash, -ed) → [Adj|unwashed 0 [Adj|washed 1 2]]; carpet → 0.",
+    "- A prefix is the LEFT part of its cut, a suffix is the RIGHT part.",
     "- Decide the order of attachment by asking which affix attached LAST, using word-class requirements:",
-    "    • Inflection is always outermost. A plural on a compound attaches to the whole compound: bookshelves = [[book shelf] -es].",
-    "    • un- and in-/im-/il-/ir- (meaning \"not\") attach to ADJECTIVES (including participial adjectives). So if the suffix turns an adjective into a noun (-ness, -ity), the prefix attached first: unkindness = [[un-kind]-ness], inactivity = [[in-active]-ity]. If the suffix creates the adjective (-able, -ible, -ed participle), the suffix attached first: unwashed = [un-[wash-ed]], unthinkable = [un-[think-able]].",
+    "    • Inflection is always outermost. A plural on a compound attaches to the whole compound: [[book shelf] -es].",
+    "    • un- and in-/im-/il-/ir- (meaning \"not\") attach to ADJECTIVES (including participial adjectives). So if the suffix turns an adjective into a noun (-ness, -ity), the prefix attached first: [[un-kind]-ness], [[in-active]-ity]. If the suffix creates the adjective (-able, -ible, -ed participle), the suffix attached first: [un-[wash-ed]], [un-[think-able]], [in-[dispense-able]].",
     "    • A prefix that needs a verb (re-, mis-, dis-) attaches to the verb before nominalising suffixes: [[re-write]-er].",
-    "    • Suffix chains build from the inside out: hopelessness = [[hope-less]-ness], hurriedly = [[hurry-ed]-ly].",
+    "    • Suffix chains build from the inside out: [[hope-less]-ness], [[hurry-ed]-ly], [[cred- -ible] -ly].",
     "    • Hyphenated phrasal compounds follow their phrase structure: editor-in-chief = [editor [in chief]].",
-    "- NEVER create an inner node with only ONE child. A morpheme is a leaf: do not wrap a root or an affix in an extra node. A spelling change does not need its own node (application = [applicate -ion]: the root leaf has form \"applicate\" and surface \"applicat\").",
-    "- Leaf nodes give the morpheme index in \"morpheme\"; inner nodes use -1. A one-morpheme word is a single node with morpheme 0.",
-    "- label is the spelled string the node covers (hyphens allowed); cat is its word class (N, V, Adj, Adv, P/PP) or \"\" for affixes.",
-    "",
     "## 5. Write",
     "- Be BRIEF and student-friendly: each meaning at most 12 words, each etym at most 10 words, allomorphy and derivInfl one or two short sentences, gloss at most 10 words.",
     "- restoration: surface ends with a hyphen; empty list if nothing changed.",
@@ -109,29 +117,22 @@
     const str = { type: "string" };
     return {
       type: "object",
-      required: ["morphemes", "nodes", "insights", "family", "process", "pos", "gloss"],
+      required: ["morphemes", "tree", "insights", "family", "process", "pos", "gloss"],
       properties: {
         morphemes: {
           type: "array",
           items: {
             type: "object",
-            required: ["form", "surface", "type", "cls", "cat", "allomorphOf", "meaning", "etym"],
+            required: ["form", "surface", "type", "cls", "cat", "allomorphOf", "variant", "meaning", "etym"],
             properties: {
               form: str, surface: str,
               type: { type: "string", enum: ["prefix", "root", "suffix"] },
               cls: { type: "string", enum: ["prefix-der", "prefix-inf", "root-free", "root-bound", "suffix-der", "suffix-inf"] },
-              cat: str, allomorphOf: str, meaning: str, etym: str
+              cat: str, allomorphOf: str, variant: str, meaning: str, etym: str
             }
           }
         },
-        nodes: {
-          type: "array",
-          items: {
-            type: "object",
-            required: ["label", "cat", "parent", "morpheme"],
-            properties: { label: str, cat: str, parent: { type: "integer" }, morpheme: { type: "integer" } }
-          }
-        },
+        tree: str,
         insights: {
           type: "object",
           required: ["allomorphy", "restoration", "derivInfl"],
@@ -172,34 +173,47 @@
 
   const plain = s => String(s || "").toLowerCase().replace(/-/g, "");
 
-  /** Collapse inner nodes that have a single child (a common slip) and renumber the flat node list. */
-  function repair(ai) {
-    const nodes = ai.nodes;
-    if (!Array.isArray(nodes) || !nodes.length || nodes[0].parent >= 0) return ai;
-    const kids = nodes.map(() => []);
-    for (let i = 1; i < nodes.length; i++) {
-      const p = nodes[i].parent;
-      if (p < 0 || p >= i) return ai;            // structurally broken: leave it for validate()
-      kids[p].push(i);
+  /**
+   * Parse "[Cat|label left right]" into { cat, label, kids } / { leaf: n }.
+   * Returns { tree } or { error }.
+   */
+  function parseTree(src) {
+    const text = String(src || "").trim();
+    let i = 0;
+    const ws = () => { while (i < text.length && /\s/.test(text[i])) i++; };
+    function node() {
+      ws();
+      if (text[i] === "[") {
+        i++;
+        const m = /^[^\s\[\]]+/.exec(text.slice(i));
+        if (!m) throw new Error("a bracket must start with its category, e.g. [N|word …]");
+        i += m[0].length;
+        const [cat, ...rest] = m[0].split("|");
+        const kids = [];
+        for (;;) {
+          ws();
+          if (i >= text.length) throw new Error("a bracket is not closed");
+          if (text[i] === "]") { i++; break; }
+          kids.push(node());
+        }
+        return { cat, label: rest.join("|"), kids };
+      }
+      const d = /^\d+/.exec(text.slice(i));
+      if (!d) throw new Error(`unexpected "${text.slice(i, i + 8)}"`);
+      i += d[0].length;
+      return { leaf: Number(d[0]) };
     }
-    let changed = false;
-    const out = [];
-    (function walk(i, parent) {
-      let j = i;
-      while (kids[j].length === 1) { j = kids[j][0]; changed = true; }
-      const at = out.length;
-      const n = nodes[j];
-      out.push({ label: n.label, cat: n.cat, parent, morpheme: kids[j].length ? -1 : n.morpheme });
-      kids[j].forEach(k => walk(k, at));
-    })(0, -1);
-    if (changed) ai.nodes = out;
-    return ai;
+    try {
+      const tree = node();
+      ws();
+      if (i < text.length) throw new Error("extra text after the tree");
+      return { tree };
+    } catch (e) { return { error: e.message }; }
   }
 
   function validate(ai, word) {
     const problems = [];
     const ms = ai.morphemes || [];
-    const nodes = ai.nodes || [];
     if (!ms.length) return ["The morpheme list is empty."];
 
     const joined = ms.map(m => m.surface).join("").toLowerCase();
@@ -212,59 +226,39 @@
       if (m.surface === "" && m.cls !== "suffix-inf") problems.push(`Only an inflectional zero morpheme may have an empty surface (morpheme ${i}).`);
     });
     if (!ms.some(m => m.type === "root")) problems.push("There is no root.");
+    ms.forEach((m, i) => {
+      const v = m.variant || "";
+      if (!v) return;
+      if (/\((v|v2|adv|comparative|superlative)\)$/.test(v) && m.cls !== "suffix-inf") problems.push(`Morpheme ${i} is labelled ${v}, which is inflectional, but its cls is ${m.cls}.`);
+      if ((/\((N|adj|onomatopoeia)\)$/.test(v) || v === "-ist") && m.cls !== "suffix-der") problems.push(`Morpheme ${i} is labelled ${v}, which is derivational, but its cls is ${m.cls}.`);
+    });
 
-    if (!nodes.length || nodes.filter(n => n.parent < 0).length !== 1 || nodes[0].parent >= 0) {
-      return problems.concat(["Node 0 must be the only node with parent -1."]);
-    }
-    const kids = nodes.map(() => []);
-    for (let i = 1; i < nodes.length; i++) {
-      const p = nodes[i].parent;
-      if (p < 0 || p >= i) return problems.concat([`Node ${i} must point to a parent that appears before it.`]);
-      kids[p].push(i);
-    }
-    const leafOrder = [];
-    (function walk(i) {
-      const n = nodes[i];
-      if (!kids[i].length) {
-        if (n.morpheme < 0 || n.morpheme >= ms.length) problems.push(`Leaf node ${i} ("${n.label}") has no valid morpheme index.`);
-        else leafOrder.push(n.morpheme);
-        return;
-      }
-      if (n.morpheme !== -1) problems.push(`Inner node ${i} ("${n.label}") must have morpheme -1.`);
-      if (kids[i].length !== 2) problems.push(`Node "${n.label}" has ${kids[i].length} children; every cut must be binary.`);
-      kids[i].forEach(walk);
-    })(0);
-
-    const kidsForms = i => !kids[i].length ? plain(ms[nodes[i].morpheme] ? ms[nodes[i].morpheme].form : "") : kids[i].map(kidsForms).join("");
-
-    if (leafOrder.join(",") !== ms.map((m, i) => i).join(",")) {
-      problems.push(`Reading the leaves left to right gives morphemes [${leafOrder.join(",")}] instead of [${ms.map((m, i) => i).join(",")}].`);
-    } else {
-      (function spell(i) {
-        if (!kids[i].length) return ms[nodes[i].morpheme].surface.toLowerCase();
-        const s = kids[i].map(spell).join("");
-        // The label may spell the surfaces (applicat…) or the base forms (applicate…).
-        const base = kidsForms(i);
-        if (plain(nodes[i].label) !== s && plain(nodes[i].label) !== base) problems.push(`Node label "${nodes[i].label}" does not match the morphemes below it ("${s}").`);
-        return s;
-      })(0);
-    }
+    const parsed = parseTree(ai.tree);
+    if (parsed.error) return problems.concat([`The tree string is malformed: ${parsed.error}.`]);
+    const leaves = [];
+    (function walk(n) {
+      if (n.leaf !== undefined) { leaves.push(n.leaf); return; }
+      if (n.kids.length !== 2) problems.push(`The bracket [${n.cat}|${n.label} …] has ${n.kids.length} parts; every cut must have exactly two.`);
+      n.kids.forEach(walk);
+    })(parsed.tree);
+    const want = ms.map((m, i) => i).join(",");
+    if (leaves.join(",") !== want) problems.push(`Reading the numbers left to right gives [${leaves.join(",")}] instead of [${want}].`);
     return problems;
   }
 
-  /** Flat AI node list → nested tree used by the renderers. */
+  /** The bracket string → nested tree used by the renderers (labels fall back to the spelled morphemes). */
   function toAppFormat(ai, word, model) {
-    const nodes = ai.nodes;
-    const kids = nodes.map(() => []);
-    for (let i = 1; i < nodes.length; i++) kids[nodes[i].parent].push(i);
-    const make = i => {
-      const n = nodes[i];
-      if (!kids[i].length) return i === 0 ? { label: n.label, cat: n.cat, m: n.morpheme } : { m: n.morpheme };
-      return { label: n.label, cat: n.cat, children: kids[i].map(make) };
+    const ms = ai.morphemes;
+    const parsed = parseTree(ai.tree).tree;
+    const spelled = n => n.leaf !== undefined ? plain(ms[n.leaf].surface) : n.kids.map(spelled).join("");
+    const cleanLabel = (lab, n) => /^[a-zA-Z'-]{2,}$/.test(lab || "") ? lab.toLowerCase() : spelled(n);
+    const make = (n, top) => {
+      if (n.leaf !== undefined) return top ? { label: word, cat: ms[n.leaf].cat, m: n.leaf } : { m: n.leaf };
+      return { label: top ? word : cleanLabel(n.label, n), cat: n.cat, children: n.kids.map(k => make(k, false)) };
     };
     return {
       word, pos: ai.pos, ipa: "", gloss: ai.gloss, process: ai.process,
-      morphemes: ai.morphemes, tree: make(0), insights: ai.insights, family: ai.family,
+      morphemes: ms, tree: make(parsed, true), insights: ai.insights, family: ai.family,
       source: "ai", model, promptVersion: PROMPT_VERSION
     };
   }
@@ -499,7 +493,7 @@
           if (ms.length !== shown) { shown = ms.length; opts.onMorphemes(ms); }
         }
       });
-      problems = validate(repair(ai), word);
+      problems = validate(ai, word);
       if (!problems.length) {
         const data = toAppFormat(ai, word, model);
         data.provider = provider;
@@ -564,5 +558,5 @@
     return true;
   }
 
-  window.MorphAI = { analyze, testKey, listModels, pickGeminiModel, validate, repair, partialMorphemes, PROVIDERS, PROMPT_VERSION, ApiError };
+  window.MorphAI = { analyze, testKey, listModels, pickGeminiModel, validate, parseTree, toAppFormat, partialMorphemes, PROVIDERS, PROMPT_VERSION, ApiError };
 })();
