@@ -3,7 +3,7 @@
  * Lookup order for a word:
  *   1. the 11 hand-verified test words (instant, offline);
  *   2. the answer cached on this device from an earlier analysis;
- *   3. Gemini, using the student's own API key (streamed), grounded by the
+ *   3. The chosen AI provider, using the student's own API key (streamed), grounded by the
  *      dictionary entry that is fetched in parallel.
  * The dictionary entry is shown immediately, before the AI has finished.
  */
@@ -12,7 +12,7 @@
   const TEST_WORDS = ["unhappiness", "reconstruction", "misunderstanding", "running", "arguing",
     "cities", "sunflower", "children", "uncle", "sing", "unflobbable"];
 
-  const LS = { key: "morph-gemini-key", model: "morph-gemini-model", cache: "morph-cache-v" + window.MorphAI.PROMPT_VERSION, history: "morph-history", tree: "morph-tree-style" };
+  const LS = { provider: "morph-provider", cache: "morph-cache-v" + window.MorphAI.PROMPT_VERSION, history: "morph-history", tree: "morph-tree-style" };
   const CACHE_MAX = 150;
 
   const T = {
@@ -50,8 +50,26 @@
     del(k) { try { localStorage.removeItem(k); } catch (e) { /* ignore */ } },
     json(k, fallback) { try { return JSON.parse(localStorage.getItem(k)) || fallback; } catch (e) { return fallback; } }
   };
-  const getKey = () => (store.get(LS.key) || "").trim();
-  const getModel = () => store.get(LS.model) || window.MorphAI.MODELS[0].id;
+  const PROV = window.MorphAI.PROVIDERS;
+  const PROV_IDS = Object.keys(PROV);
+  // One key and one model per provider; "morph-gemini-key" from the first release is migrated.
+  const keyName = p => "morph-key-" + p;
+  const modelName = p => "morph-model-" + p;
+  (function migrate() {
+    const old = store.get("morph-gemini-key");
+    if (old && !store.get(keyName("gemini"))) { store.set(keyName("gemini"), old); store.del("morph-gemini-key"); }
+    const oldModel = store.get("morph-gemini-model");
+    if (oldModel && !store.get(modelName("gemini"))) { store.set(modelName("gemini"), oldModel); store.del("morph-gemini-model"); }
+  })();
+  const getKey = p => (store.get(keyName(p || getProvider())) || "").trim();
+  const getModel = p => store.get(modelName(p || getProvider())) || PROV[p || getProvider()].models[0].id;
+  function getProvider() {
+    const p = store.get(LS.provider);
+    if (PROV[p]) return p;
+    return PROV_IDS.find(id => store.get(keyName(id))) || "gemini";
+  }
+  const setProvider = p => store.set(LS.provider, p);
+  const keyedProviders = () => PROV_IDS.filter(p => getKey(p));
 
   function cacheGet(word) {
     const c = store.json(LS.cache, {});
@@ -81,13 +99,14 @@
     $("#view-title").textContent = TITLES[name];
     if (name !== "analyze") hideNotice();
     if (name === "history") renderHistory();
-    if (name === "settings") $("#key-input").value = getKey();
+    if (name === "settings") renderSettings();
   }
 
   function refreshKeyUi() {
-    const has = !!getKey();
+    const p = getProvider();
+    const has = !!getKey(p);
     $("#key-chip").classList.toggle("ok", has);
-    $("#key-chip-text").textContent = has ? "API key saved" : "No API key";
+    $("#key-chip-text").textContent = has ? `${PROV[p].name} · key saved` : "No API key";
     $("#empty-key").hidden = has || state.view !== "analyze";
   }
 
@@ -204,7 +223,7 @@
     $("#w-source").className = "tag source ai";
     $("#w-source").textContent = "✦ AI is analysing…";
     $("#bricks").innerHTML = [0, 1, 2].map(i => `<div class="badge pending" style="--i:${i}"><div class="badge-top"><span class="badge-form">xxxxx</span></div><div class="badge-sub">xxxxxx</div><div class="badge-bottom"><span class="badge-icon"></span></div></div>`).join("");
-    $("#tree").innerHTML = `<div class="tree-wait"><div class="spinner"><span></span><span></span><span></span><span></span></div><div id="wait-msg">Gemini is cutting “${esc(word)}”…</div></div>`;
+    $("#tree").innerHTML = `<div class="tree-wait"><div class="spinner"><span></span><span></span><span></span><span></span></div><div id="wait-msg">The AI is cutting “${esc(word)}”…</div></div>`;
     $("#detail-title").textContent = "Details";
     $("#matrix").innerHTML = ""; $("#restore").innerHTML = ""; $("#allo-text").textContent = ""; $("#deriv-text").textContent = ""; $("#family").innerHTML = "";
   }
@@ -287,8 +306,11 @@
       }
     }
 
-    if (!getKey()) {
-      showNotice(`To analyse new words, add your Gemini API key first. <button type="button" data-view="settings">Add key</button>`);
+    const provider = getProvider();
+    if (!getKey(provider)) {
+      const others = keyedProviders();
+      showNotice(`To analyse new words, add an API key first (Gemini, Grok, OpenAI, Claude or OpenRouter). <button type="button" data-view="settings">Add key</button>` +
+        others.map(p => `<button type="button" class="alt" data-provider="${p}" data-word="${esc(key)}">Use ${esc(PROV[p].name)}</button>`).join(""));
       refreshKeyUi();
       return;
     }
@@ -306,7 +328,7 @@
 
     try {
       const data = await window.MorphAI.analyze({
-        word: key, apiKey: getKey(), model: getModel(),
+        word: key, provider, apiKey: getKey(provider), model: getModel(provider),
         context: state.dict, signal: state.abort.signal,
         onMorphemes: ms => { if (token === state.token) renderBricks(ms); },
         onAttempt: () => { const m = $("#wait-msg"); if (m && token === state.token) m.textContent = "Double-checking the cuts…"; }
@@ -319,9 +341,25 @@
       finish(key, opts);
     } catch (err) {
       if (err.name === "AbortError" || token !== state.token) return;
+
+      // The key cannot use the chosen Gemini model: ask Google which models it can use, pick one, retry once.
+      if (err.status === 404 && provider === "gemini" && !opts.healed) {
+        try {
+          const list = await window.MorphAI.listModels("gemini", getKey("gemini"));
+          const pick = window.MorphAI.pickGeminiModel(list);
+          if (pick && pick !== getModel("gemini")) {
+            store.set(modelName("gemini"), pick);
+            showNotice(`Your key cannot use the old Gemini model, so Morphology switched to <b>${esc(pick)}</b> and is trying again.`);
+            return show(key, { ...opts, healed: true });
+          }
+        } catch (e) { /* fall through to the normal error */ }
+      }
+
       $("#result").hidden = true;
-      const authIssue = err.status === 401;
-      showNotice(esc(err.message) + (authIssue ? ` <button type="button" data-view="settings">Open settings</button>` : ""), true);
+      const others = keyedProviders().filter(p => p !== provider);
+      showNotice(esc(err.message) +
+        (err.status === 401 || err.status === 404 ? ` <button type="button" data-view="settings">Open settings</button>` : "") +
+        others.map(p => `<button type="button" class="alt" data-provider="${p}" data-word="${esc(key)}">Try with ${esc(PROV[p].name)}</button>`).join(""), true);
     }
   }
 
@@ -355,12 +393,45 @@
   }
 
   // ---------- Settings ----------
-  function bindSettings() {
+  let viewing = null;   // provider whose form is shown (may differ from the active one)
+
+  function renderSettings() {
+    if (!viewing) viewing = getProvider();
+    const active = getProvider();
+    $("#prov-pills").innerHTML = PROV_IDS.map(p => `
+      <button type="button" role="tab" class="pill${p === viewing ? " on" : ""}" data-prov="${p}" aria-selected="${p === viewing}">
+        ${esc(PROV[p].name)}${getKey(p) ? `<i class="pill-dot${p === active ? " act" : ""}" title="${p === active ? "active" : "key saved"}"></i>` : ""}
+      </button>`).join("");
+    const cfg = PROV[viewing];
+    $("#prov-title").textContent = cfg.full + " API key";
+    $("#prov-link").href = cfg.keyUrl;
+    $("#prov-link").textContent = new URL(cfg.keyUrl).host;
+    $("#key-input").value = getKey(viewing);
+    $("#key-input").placeholder = cfg.keyHint;
+    fillModels(cfg.models, getModel(viewing));
+    $("#model-custom").value = "";
+    $("#prov-active").hidden = viewing === active || !getKey(viewing);
+    $("#prov-state").textContent = getKey(viewing)
+      ? (viewing === active ? `${cfg.name} is the active provider.` : `Key saved. Active provider: ${PROV[active].name}.`) : "No key saved for this provider.";
+    $("#key-status").textContent = ""; $("#key-status").className = "key-status";
+  }
+
+  function fillModels(list, selected) {
     const sel = $("#model-select");
-    sel.innerHTML = window.MorphAI.MODELS.map(m => `<option value="${m.id}">${esc(m.label)}</option>`).join("");
-    sel.value = getModel();
+    const items = list.some(m => m.id === selected) || !selected ? list : [{ id: selected, label: selected }, ...list];
+    sel.innerHTML = items.map(m => `<option value="${esc(m.id)}">${esc(m.label)}</option>`).join("");
+    sel.value = selected || items[0].id;
+  }
+
+  function bindSettings() {
     const status = $("#key-status");
     const say = (msg, cls) => { status.textContent = msg; status.className = "key-status " + (cls || ""); };
+    const chosenModel = () => $("#model-custom").value.trim() || $("#model-select").value;
+
+    $("#prov-pills").addEventListener("click", e => {
+      const b = e.target.closest("[data-prov]");
+      if (b) { viewing = b.dataset.prov; renderSettings(); }
+    });
 
     $("#key-toggle").addEventListener("click", e => {
       const inp = $("#key-input");
@@ -373,28 +444,46 @@
     $("#settings-form").addEventListener("submit", async e => {
       e.preventDefault();
       const key = $("#key-input").value.trim();
+      const p = viewing, model = chosenModel();
       if (!key) { say("Paste your API key first.", "err"); return; }
-      if (/\s/.test(key) || key.length < 20) { say("That does not look like a complete API key. Copy the whole key from Google AI Studio (AIza… or AQ.…).", "err"); return; }
-      store.set(LS.model, sel.value);
+      if (/\s/.test(key) || key.length < 20) { say("That does not look like a complete API key. Copy the whole key from the provider's page.", "err"); return; }
       say("Testing the key…");
       try {
-        await window.MorphAI.testKey(key, sel.value);
-        if (!store.set(LS.key, key)) { say("The key works, but this browser blocks saving it. It will be forgotten when you close the tab.", "err"); }
-        else say("Key saved on this device and working.", "ok");
-        window.__sessionKey = key;
+        await window.MorphAI.testKey(p, key, model);
+        store.set(modelName(p), model);
+        const saved = store.set(keyName(p), key);
+        setProvider(p);
+        renderSettings();
+        say(saved ? `Key saved on this device and working. ${PROV[p].name} is now active.` : "The key works, but this browser blocks saving it. It will be forgotten when you close the tab.", saved ? "ok" : "err");
       } catch (err) {
-        say(err.message, "err");
+        say(err.message + (err.status === 404 ? " Press “Load my models” to see which ones your key can use." : ""), "err");
       }
       refreshKeyUi();
     });
 
+    $("#models-load").addEventListener("click", async () => {
+      const key = $("#key-input").value.trim();
+      if (!key) { say("Paste your API key first.", "err"); return; }
+      say("Asking the provider which models your key can use…");
+      try {
+        const list = await window.MorphAI.listModels(viewing, key);
+        if (!list.length) { say("The provider returned no models for this key.", "err"); return; }
+        list.sort((a, b) => a.id.localeCompare(b.id));
+        const guess = viewing === "gemini" ? window.MorphAI.pickGeminiModel(list) : "";
+        fillModels(list, guess || list[0].id);
+        say(`${list.length} models found. Choose one and press Save & test.`, "ok");
+      } catch (err) { say(err.message, "err"); }
+    });
+
+    $("#prov-active").addEventListener("click", () => { setProvider(viewing); renderSettings(); refreshKeyUi(); });
+
     $("#key-remove").addEventListener("click", () => {
-      store.del(LS.key);
-      $("#key-input").value = "";
+      store.del(keyName(viewing));
+      if (getProvider() === viewing) store.del(LS.provider);
+      renderSettings();
       say("Key removed from this browser.", "ok");
       refreshKeyUi();
     });
-    sel.addEventListener("change", () => store.set(LS.model, sel.value));
   }
 
   // ---------- Events ----------
@@ -411,7 +500,10 @@
       const nav = e.target.closest("[data-view]");
       if (nav) { setView(nav.dataset.view); refreshKeyUi(); return; }
       const suggestBtn = e.target.closest("#notice button[data-word]");
-      if (suggestBtn) show(suggestBtn.dataset.word, { force: !!suggestBtn.dataset.force });
+      if (suggestBtn) {
+        if (suggestBtn.dataset.provider) { setProvider(suggestBtn.dataset.provider); refreshKeyUi(); }
+        show(suggestBtn.dataset.word, { force: !!suggestBtn.dataset.force || !!suggestBtn.dataset.provider });
+      }
     });
     $("#key-chip").addEventListener("click", () => setView("settings"));
     state.treeStyle = store.get(LS.tree) === "boxes" ? "boxes" : "classic";

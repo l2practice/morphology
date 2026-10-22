@@ -1,19 +1,58 @@
 /*
- * Morphology — Gemini client.
- * Runs in the student's browser with the student's own Google AI Studio key (never sent
- * anywhere except generativelanguage.googleapis.com). The answer is streamed, so finished
+ * Morphology — AI client for several providers (Gemini, Grok, OpenAI, Claude, OpenRouter).
+ * Runs in the student's browser with the student's own key; the key is sent only to the chosen provider. The answer is streamed, so finished
  * morphemes can be shown while the rest of the analysis is still arriving.
  */
 (function () {
   const PROMPT_VERSION = 7;
-  const API_BASE = "https://generativelanguage.googleapis.com/v1beta/models/";
   const MAX_ATTEMPTS = 2;   // 1 retry when the answer fails validation
 
-  const MODELS = [
-    { id: "gemini-2.5-flash", label: "Gemini 2.5 Flash — fast (recommended)" },
-    { id: "gemini-2.5-flash-lite", label: "Gemini 2.5 Flash-Lite — fastest" },
-    { id: "gemini-2.5-pro", label: "Gemini 2.5 Pro — most careful, slowest" }
-  ];
+  /**
+   * kind: "gemini" | "openai" (OpenAI-compatible chat completions) | "anthropic".
+   * Model lists are only suggestions: "Load my models" in Settings asks the provider which ids the key can use.
+   */
+  const PROVIDERS = {
+    gemini: {
+      name: "Gemini", full: "Google Gemini", kind: "gemini", keyUrl: "https://aistudio.google.com/apikey", keyHint: "AIza… or AQ.…",
+      models: [
+        { id: "gemini-2.5-flash", label: "Gemini 2.5 Flash — fast" },
+        { id: "gemini-2.5-flash-lite", label: "Gemini 2.5 Flash-Lite — fastest" },
+        { id: "gemini-2.5-pro", label: "Gemini 2.5 Pro — most careful" }
+      ]
+    },
+    xai: {
+      name: "Grok", full: "xAI Grok", kind: "openai", base: "https://api.x.ai/v1", keyUrl: "https://console.x.ai", keyHint: "xai-…",
+      models: [
+        { id: "grok-3-mini", label: "Grok 3 mini — fast" },
+        { id: "grok-4", label: "Grok 4 — most careful" }
+      ]
+    },
+    openai: {
+      name: "OpenAI", full: "OpenAI", kind: "openai", base: "https://api.openai.com/v1", keyUrl: "https://platform.openai.com/api-keys", keyHint: "sk-…",
+      models: [
+        { id: "gpt-4o-mini", label: "GPT-4o mini — fast" },
+        { id: "gpt-4.1-mini", label: "GPT-4.1 mini — balanced" },
+        { id: "gpt-4.1", label: "GPT-4.1 — most careful" }
+      ]
+    },
+    anthropic: {
+      name: "Claude", full: "Anthropic Claude", kind: "anthropic", keyUrl: "https://console.anthropic.com/settings/keys", keyHint: "sk-ant-…",
+      models: [
+        { id: "claude-haiku-5-5", label: "Claude Haiku 5.5 — fastest" },
+        { id: "claude-sonnet-5-5", label: "Claude Sonnet 5.5 — balanced" },
+        { id: "claude-opus-5-5", label: "Claude Opus 5.5 — most careful" }
+      ]
+    },
+    openrouter: {
+      name: "OpenRouter", full: "OpenRouter (many models, one key)", kind: "openai", base: "https://openrouter.ai/api/v1", keyUrl: "https://openrouter.ai/keys", keyHint: "sk-or-…",
+      models: [
+        { id: "google/gemini-2.5-flash", label: "Google Gemini 2.5 Flash" },
+        { id: "x-ai/grok-3-mini", label: "xAI Grok 3 mini" },
+        { id: "openai/gpt-4o-mini", label: "OpenAI GPT-4o mini" },
+        { id: "anthropic/claude-haiku-4.5", label: "Anthropic Claude Haiku" }
+      ]
+    }
+  };
 
   // The worked examples deliberately avoid common test words, so the rules
   // (not memorised answers) decide the analysis.
@@ -263,69 +302,41 @@
     constructor(message, status) { super(message); this.status = status; }
   }
 
-  async function readError(res) {
+  async function readError(res, provider) {
+    const P = PROVIDERS[provider].name;
     let msg = "", reason = "";
     try {
-      const e = (await res.json()).error || {};
-      msg = e.message || "";
+      const j = await res.json();
+      const e = j.error || j;
+      msg = (typeof e === "string" ? e : e.message) || "";
       reason = (e.details || []).map(d => d.reason || "").join(" ");
     } catch (e) { /* not JSON */ }
-    if (res.status === 401 || /API_KEY_INVALID|API key not valid/i.test(reason + msg)) return new ApiError("Your API key was rejected. Check it in Settings.", 401);
-    if (res.status === 403) return new ApiError("This API key is not allowed to use that model (or Gemini is not available in your region).", 403);
-    if (res.status === 404) return new ApiError("The selected model is not available for your key. Pick another model in Settings.", 404);
-    if (res.status === 429) return new ApiError("Rate limit or free quota reached. Wait a moment and try again.", 429);
-    if (res.status >= 500) return new ApiError("Gemini is busy right now. Try again in a moment.", res.status);
-    return new ApiError(msg ? `Gemini API error: ${msg}` : `Gemini API error ${res.status}`, res.status);
+    if (res.status === 401 || /API_KEY_INVALID|API key not valid|invalid x-api-key|Incorrect API key/i.test(reason + msg)) return new ApiError(`Your ${P} API key was rejected. Check it in Settings.`, 401);
+    if (res.status === 403) return new ApiError(`This ${P} key is not allowed to use that model (or ${P} is not available in your region).`, 403);
+    if (res.status === 404) return new ApiError(`The selected ${P} model is not available for your key.`, 404);
+    if (res.status === 402 || /credit|billing|balance|quota/i.test(msg) && res.status !== 429) return new ApiError(`Your ${P} account has no credit or quota left.`, res.status);
+    if (res.status === 429) return new ApiError(`${P} rate limit or quota reached. Wait a moment, or switch provider in Settings.`, 429);
+    if (res.status >= 500) return new ApiError(`${P} is busy right now. Try again, or switch provider in Settings.`, res.status);
+    return new ApiError(msg ? `${P} error: ${msg}` : `${P} error ${res.status}`, res.status);
   }
 
-  async function post(apiKey, model, method, body, signal) {
+  async function http(provider, url, init, signal) {
     let res;
     try {
-      res = await fetch(`${API_BASE}${encodeURIComponent(model)}:${method}`, {
-        method: "POST", signal,
-        headers: { "content-type": "application/json", "x-goog-api-key": apiKey },
-        body: JSON.stringify(body)
-      });
+      res = await fetch(url, { ...init, signal });
     } catch (e) {
       if (e.name === "AbortError") throw e;
-      throw new ApiError("Could not reach Gemini. Check your internet connection.", 0);
+      throw new ApiError(`Could not reach ${PROVIDERS[provider].name}. Check your connection; if it is fine, this provider may block direct browser calls — try Gemini or OpenRouter.`, 0);
     }
-    if (!res.ok) throw await readError(res);
+    if (!res.ok) throw await readError(res, provider);
     return res;
   }
 
-  /** Short thinking budget keeps answers fast; Pro cannot switch thinking off, unknown models get the default. */
-  function thinking(model) {
-    if (/2\.5-flash-lite/.test(model)) return { thinkingConfig: { thinkingBudget: 0 } };
-    if (/2\.5-flash/.test(model)) return { thinkingConfig: { thinkingBudget: 512 } };
-    return {};
-  }
-
-  /** One streamed call; resolves with the parsed analysis JSON. */
-  async function stream({ apiKey, model, userText, onText, signal }) {
-    const gen = { maxOutputTokens: 4000, temperature: 0.2, ...thinking(model) };
-    const base = {
-      systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] },
-      contents: [{ role: "user", parts: [{ text: userText }] }]
-    };
-    let res;
-    try {
-      res = await post(apiKey, model, "streamGenerateContent?alt=sse", {
-        ...base, generationConfig: { ...gen, responseMimeType: "application/json", responseSchema: GEMINI_SCHEMA }
-      }, signal);
-    } catch (e) {
-      // If the schema is rejected (400), fall back to plain JSON mode.
-      if (!(e instanceof ApiError) || e.status !== 400) throw e;
-      res = await post(apiKey, model, "streamGenerateContent?alt=sse", {
-        systemInstruction: base.systemInstruction,
-        contents: [{ role: "user", parts: [{ text: userText + "\n\nAnswer with ONE JSON object only that follows this JSON schema:\n" + JSON.stringify(SCHEMA) }] }],
-        generationConfig: { ...gen, responseMimeType: "application/json" }
-      }, signal);
-    }
-
+  /** Read a server-sent-event body; onData gets each parsed `data:` JSON object. */
+  async function readSse(res, onData) {
     const reader = res.body.getReader();
     const dec = new TextDecoder();
-    let buf = "", text = "", finish = "", blocked = "";
+    let buf = "";
     for (;;) {
       const { done, value } = await reader.read();
       if (done) break;
@@ -336,23 +347,122 @@
         buf = buf.slice(cut + 2);
         const line = evt.split("\n").find(l => l.startsWith("data:"));
         if (!line) continue;
+        const raw = line.slice(5).trim();
+        if (!raw || raw === "[DONE]") continue;
         let msg;
-        try { msg = JSON.parse(line.slice(5)); } catch (e) { continue; }
-        if (msg.error) throw new ApiError(msg.error.message || "Gemini stopped unexpectedly.", 0);
-        if (msg.promptFeedback && msg.promptFeedback.blockReason) blocked = msg.promptFeedback.blockReason;
-        const cand = msg.candidates && msg.candidates[0];
-        if (!cand) continue;
-        const parts = (cand.content && cand.content.parts) || [];
-        const piece = parts.filter(p => !p.thought && typeof p.text === "string").map(p => p.text).join("");
-        if (piece) { text += piece; onText && onText(text); }
-        if (cand.finishReason) finish = cand.finishReason;
+        try { msg = JSON.parse(raw); } catch (e) { continue; }
+        onData(msg);
       }
     }
-    if (blocked) throw new ApiError("Gemini declined to analyse this word.", 0);
+  }
+
+  const jsonInstruction = text => text + "\n\nAnswer with ONE JSON object only (no markdown, no commentary) that follows this JSON schema:\n" + JSON.stringify(SCHEMA);
+
+  /** Short thinking budget keeps Gemini fast; Pro cannot switch thinking off, unknown models get the default. */
+  function thinking(model) {
+    if (/2\.5-flash-lite/.test(model)) return { thinkingConfig: { thinkingBudget: 0 } };
+    if (/2\.5-flash/.test(model)) return { thinkingConfig: { thinkingBudget: 512 } };
+    return {};
+  }
+
+  // ---- one streamed call per provider kind; each resolves with the full answer text ----
+
+  async function streamGemini({ apiKey, model, userText, onText, signal }) {
+    const gen = { maxOutputTokens: 4000, temperature: 0.2, ...thinking(model) };
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:streamGenerateContent?alt=sse`;
+    const call = body => http("gemini", url, {
+      method: "POST", headers: { "content-type": "application/json", "x-goog-api-key": apiKey }, body: JSON.stringify(body)
+    }, signal);
+    const sys = { parts: [{ text: SYSTEM_PROMPT }] };
+    let res;
+    try {
+      res = await call({
+        systemInstruction: sys, contents: [{ role: "user", parts: [{ text: userText }] }],
+        generationConfig: { ...gen, responseMimeType: "application/json", responseSchema: GEMINI_SCHEMA }
+      });
+    } catch (e) {
+      if (!(e instanceof ApiError) || e.status !== 400) throw e;   // schema rejected → plain JSON mode
+      res = await call({
+        systemInstruction: sys, contents: [{ role: "user", parts: [{ text: jsonInstruction(userText) }] }],
+        generationConfig: { ...gen, responseMimeType: "application/json" }
+      });
+    }
+    let text = "", finish = "", blocked = "";
+    await readSse(res, msg => {
+      if (msg.error) throw new ApiError(msg.error.message || "Gemini stopped unexpectedly.", 0);
+      if (msg.promptFeedback && msg.promptFeedback.blockReason) blocked = msg.promptFeedback.blockReason;
+      const cand = msg.candidates && msg.candidates[0];
+      if (!cand) return;
+      const piece = ((cand.content && cand.content.parts) || []).filter(p => !p.thought && typeof p.text === "string").map(p => p.text).join("");
+      if (piece) { text += piece; onText && onText(text); }
+      if (cand.finishReason) finish = cand.finishReason;
+    });
+    if (blocked || finish === "SAFETY" || finish === "PROHIBITED_CONTENT") throw new ApiError("Gemini declined to analyse this word.", 0);
     if (finish === "MAX_TOKENS") throw new ApiError("The answer was cut off. Please try again.", 0);
-    if (finish === "SAFETY" || finish === "PROHIBITED_CONTENT") throw new ApiError("Gemini declined to analyse this word.", 0);
+    return text;
+  }
+
+  async function streamOpenAI({ provider, apiKey, model, userText, onText, signal }) {
+    const cfg = PROVIDERS[provider];
+    const url = cfg.base + "/chat/completions";
+    const call = body => http(provider, url, {
+      method: "POST", headers: { "content-type": "application/json", authorization: "Bearer " + apiKey }, body: JSON.stringify(body)
+    }, signal);
+    const base = {
+      model, stream: true,
+      messages: [{ role: "system", content: SYSTEM_PROMPT }, { role: "user", content: jsonInstruction(userText) }]
+    };
+    let res;
+    try {
+      res = await call({ ...base, response_format: { type: "json_object" } });
+    } catch (e) {
+      if (!(e instanceof ApiError) || e.status !== 400) throw e;   // model without JSON mode → rely on the instruction
+      res = await call(base);
+    }
+    let text = "", finish = "";
+    await readSse(res, msg => {
+      if (msg.error) throw new ApiError((msg.error.message) || cfg.name + " stopped unexpectedly.", 0);
+      const ch = msg.choices && msg.choices[0];
+      if (!ch) return;
+      const piece = ch.delta && ch.delta.content;
+      if (piece) { text += piece; onText && onText(text); }
+      if (ch.finish_reason) finish = ch.finish_reason;
+    });
+    if (finish === "length") throw new ApiError("The answer was cut off. Please try again.", 0);
+    if (finish === "content_filter") throw new ApiError(cfg.name + " declined to analyse this word.", 0);
+    return text;
+  }
+
+  async function streamAnthropic({ apiKey, model, userText, onText, signal }) {
+    const res = await http("anthropic", "https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: {
+        "content-type": "application/json", "x-api-key": apiKey, "anthropic-version": "2023-06-01",
+        "anthropic-dangerous-direct-browser-access": "true"
+      },
+      body: JSON.stringify({
+        model, max_tokens: 3000, stream: true,
+        system: [{ type: "text", text: SYSTEM_PROMPT, cache_control: { type: "ephemeral" } }],
+        messages: [{ role: "user", content: jsonInstruction(userText) }]
+      })
+    }, signal);
+    let text = "", stop = "";
+    await readSse(res, msg => {
+      if (msg.type === "content_block_delta" && msg.delta && msg.delta.type === "text_delta") { text += msg.delta.text; onText && onText(text); }
+      else if (msg.type === "message_delta" && msg.delta && msg.delta.stop_reason) stop = msg.delta.stop_reason;
+      else if (msg.type === "error") throw new ApiError((msg.error && msg.error.message) || "Claude stopped unexpectedly.", 0);
+    });
+    if (stop === "refusal") throw new ApiError("Claude declined to analyse this word.", 0);
+    if (stop === "max_tokens") throw new ApiError("The answer was cut off. Please try again.", 0);
+    return text;
+  }
+
+  async function stream(opts) {
+    const kind = PROVIDERS[opts.provider].kind;
+    const text = await (kind === "gemini" ? streamGemini(opts) : kind === "anthropic" ? streamAnthropic(opts) : streamOpenAI(opts));
     const s = text.indexOf("{"), e = text.lastIndexOf("}");
-    try { return JSON.parse(text.slice(s, e + 1)); } catch (err) { throw new ApiError("Gemini's answer could not be read. Please try again.", 0); }
+    try { return JSON.parse(text.slice(s, e + 1)); }
+    catch (err) { throw new ApiError(PROVIDERS[opts.provider].name + "'s answer could not be read. Please try again.", 0); }
   }
 
   function contextText(word, ctx) {
@@ -366,12 +476,12 @@
   }
 
   /**
-   * @param opts.word, opts.apiKey, opts.model, opts.context (dictionary summary or null)
+   * @param opts.word, opts.provider, opts.apiKey, opts.model, opts.context (dictionary summary or null)
    * @param opts.onMorphemes(list)  called whenever more morphemes have arrived
    * @param opts.onAttempt(n)       called when a retry starts
    */
   async function analyze(opts) {
-    const { word, apiKey, model, context, signal } = opts;
+    const { word, provider, apiKey, model, context, signal } = opts;
     let problems = [];
     for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
       let userText = contextText(word, context);
@@ -382,7 +492,7 @@
       }
       let shown = 0;
       const ai = await stream({
-        apiKey, model, userText, signal,
+        provider, apiKey, model, userText, signal,
         onText: text => {
           if (!opts.onMorphemes) return;
           const ms = partialMorphemes(text);
@@ -392,21 +502,67 @@
       problems = validate(repair(ai), word);
       if (!problems.length) {
         const data = toAppFormat(ai, word, model);
+        data.provider = provider;
         data.attempts = attempt;
         return data;
       }
     }
-    throw new ApiError("Gemini gave an inconsistent analysis for this word, even after a retry. Press Analyze again, or pick Gemini 2.5 Pro in Settings for harder words. (" + problems[0] + ")", 0);
+    throw new ApiError("The AI gave an inconsistent analysis for this word, even after a retry. Press Analyze again, or pick a stronger model in Settings. (" + problems[0] + ")", 0);
   }
 
-  async function testKey(apiKey, model) {
-    const res = await post(apiKey, model, "generateContent", {
-      contents: [{ role: "user", parts: [{ text: "Reply with: OK" }] }],
-      generationConfig: { maxOutputTokens: 64, ...thinking(model) }
-    });
-    await res.json();
+  /** Model ids this key can actually use (used by "Load my models" and the automatic 404 recovery). */
+  async function listModels(provider, apiKey) {
+    const cfg = PROVIDERS[provider];
+    if (cfg.kind === "gemini") {
+      const res = await http(provider, "https://generativelanguage.googleapis.com/v1beta/models?pageSize=200", { headers: { "x-goog-api-key": apiKey } });
+      const j = await res.json();
+      return (j.models || []).filter(m => (m.supportedGenerationMethods || []).includes("generateContent"))
+        .map(m => ({ id: String(m.name).replace(/^models\//, ""), label: m.displayName || String(m.name).replace(/^models\//, "") }));
+    }
+    if (cfg.kind === "anthropic") {
+      const res = await http(provider, "https://api.anthropic.com/v1/models?limit=100", {
+        headers: { "x-api-key": apiKey, "anthropic-version": "2023-06-01", "anthropic-dangerous-direct-browser-access": "true" }
+      });
+      return ((await res.json()).data || []).map(m => ({ id: m.id, label: m.display_name || m.id }));
+    }
+    const res = await http(provider, cfg.base + "/models", { headers: { authorization: "Bearer " + apiKey } });
+    return ((await res.json()).data || []).map(m => ({ id: m.id, label: m.name || m.id }));
+  }
+
+  /** Best general-purpose, fast model from a Gemini model list (newest "flash", not lite/preview/audio/image). */
+  function pickGeminiModel(list) {
+    const bad = /lite|preview|exp|tts|image|live|audio|thinking|embedding|robotics|computer|vision/i;
+    const flash = list.map(m => m.id).filter(id => /^gemini-[\d.]+-flash$/.test(id));
+    flash.sort((a, b) => parseFloat(b.split("-")[1]) - parseFloat(a.split("-")[1]));
+    if (flash.length) return flash[0];
+    const any = list.map(m => m.id).filter(id => /^gemini-/.test(id) && /flash/.test(id) && !bad.test(id));
+    return any[0] || (list[0] && list[0].id) || "";
+  }
+
+  async function testKey(provider, apiKey, model) {
+    const cfg = PROVIDERS[provider];
+    if (cfg.kind === "gemini") {
+      const res = await http(provider, `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`, {
+        method: "POST", headers: { "content-type": "application/json", "x-goog-api-key": apiKey },
+        body: JSON.stringify({ contents: [{ role: "user", parts: [{ text: "Reply with: OK" }] }], generationConfig: { maxOutputTokens: 64, ...thinking(model) } })
+      });
+      await res.json();
+    } else if (cfg.kind === "anthropic") {
+      const res = await http(provider, "https://api.anthropic.com/v1/messages", {
+        method: "POST",
+        headers: { "content-type": "application/json", "x-api-key": apiKey, "anthropic-version": "2023-06-01", "anthropic-dangerous-direct-browser-access": "true" },
+        body: JSON.stringify({ model, max_tokens: 8, messages: [{ role: "user", content: "Reply with: OK" }] })
+      });
+      await res.json();
+    } else {
+      const res = await http(provider, cfg.base + "/chat/completions", {
+        method: "POST", headers: { "content-type": "application/json", authorization: "Bearer " + apiKey },
+        body: JSON.stringify({ model, messages: [{ role: "user", content: "Reply with: OK" }] })
+      });
+      await res.json();
+    }
     return true;
   }
 
-  window.MorphAI = { analyze, testKey, validate, repair, partialMorphemes, MODELS, PROMPT_VERSION, ApiError };
+  window.MorphAI = { analyze, testKey, listModels, pickGeminiModel, validate, repair, partialMorphemes, PROVIDERS, PROMPT_VERSION, ApiError };
 })();

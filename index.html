@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>Morphology — IC analysis lab</title>
   <meta name="theme-color" content="#202225">
-  <meta name="description" content="Practise Immediate Constituent (IC) analysis of English words with AI. Bring your own Gemini API key; it never leaves your browser.">
+  <meta name="description" content="Practise Immediate Constituent (IC) analysis of English words with AI. Bring your own AI API key (Gemini, Grok, OpenAI, Claude); it never leaves your browser.">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -62,7 +62,7 @@
       <section id="view-analyze" class="view">
         <div id="empty-key" class="callout" hidden>
           <div>
-            <strong>Add your Gemini API key to analyse new words.</strong>
+            <strong>Add an AI API key to analyse new words.</strong>
             <span>The 11 verified test words and the dictionary work without it. Your key stays in this browser.</span>
           </div>
           <button type="button" class="btn" data-view="settings">Add key</button>
@@ -163,33 +163,45 @@
       <section id="view-settings" class="view" hidden>
         <div class="settings-grid">
           <form id="settings-form" class="card" autocomplete="off">
-            <div class="sec-head"><h3>Gemini API key</h3></div>
-            <p class="panel-text">Each student uses their own key from
-              <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">Google AI Studio</a> (free to create).
-              It is saved only in this browser (local storage) and sent only to <code>generativelanguage.googleapis.com</code>.</p>
+            <div class="sec-head"><h3 id="prov-title">Gemini API key</h3></div>
+            <div id="prov-pills" class="pills" role="tablist" aria-label="AI provider"></div>
+            <p class="panel-text">Each student uses their own key from <a id="prov-link" href="#" target="_blank" rel="noopener">provider</a>.
+              It is saved only in this browser (local storage) and sent only to the provider you choose. Pick whichever provider works for you; if one is busy, switch to another.</p>
             <label class="field">
               <span>API key</span>
               <div class="field-row">
-                <input id="key-input" type="password" placeholder="AIza… or AQ.…" spellcheck="false" autocomplete="off" autocapitalize="off">
+                <input id="key-input" type="password" placeholder="" spellcheck="false" autocomplete="off" autocapitalize="off">
                 <button type="button" id="key-toggle" class="btn btn-ghost" aria-pressed="false">Show</button>
               </div>
             </label>
             <label class="field">
               <span>Model</span>
-              <select id="model-select"></select>
+              <div class="field-row">
+                <select id="model-select"></select>
+                <button type="button" id="models-load" class="btn btn-ghost">Load my models</button>
+              </div>
+            </label>
+            <label class="field">
+              <span>Or type a model ID (optional, overrides the list)</span>
+              <input id="model-custom" type="text" placeholder="e.g. gemini-2.5-flash" spellcheck="false" autocomplete="off" autocapitalize="off">
             </label>
             <div class="btn-row">
               <button type="submit" class="btn">Save &amp; test</button>
+              <button type="button" id="prov-active" class="btn btn-ghost" hidden>Make active</button>
               <button type="button" id="key-remove" class="btn btn-ghost">Remove key</button>
             </div>
+            <p id="prov-state" class="prov-state"></p>
             <p id="key-status" class="key-status" role="status"></p>
           </form>
 
           <aside class="card tint">
             <div class="sec-head"><h3>Good to know</h3></div>
             <ul class="tips">
+              <li><b>Busy or out of quota?</b> Save a key for a second provider. When one fails, a “Try with …” button appears next to the error.</li>
+              <li><b>Model not available?</b> Press <em>Load my models</em> to see exactly what your key can use.</li>
               <li><b>Shared computer?</b> Press <em>Remove key</em> when you finish.</li>
-              <li><b>Quota:</b> the free tier has daily limits. Words you already analysed are cached on this device and do not use any quota.</li>
+              <li><b>Browser limits:</b> Gemini, OpenAI, Claude and OpenRouter accept calls straight from a web page. If Grok does not connect, use OpenRouter (it offers Grok too).</li>
+              <li><b>Quota:</b> words you already analysed are cached on this device and use no quota.</li>
               <li><b>Dictionary:</b> spelling checks, parts of speech, definitions and etymology come from the
                 <a href="https://l2practice.github.io/dictionary/" target="_blank" rel="noopener">L2 Practice dictionary</a>.</li>
             </ul>

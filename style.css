@@ -355,6 +355,16 @@ h3 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -.01em; }
   font-size: 15px; font-weight: 500; color: var(--ink); outline: 0; transition: border-color .2s;
 }
 .field input:focus, .field select:focus { border-color: var(--blue); }
+.pills { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 16px; }
+.pill {
+  display: inline-flex; align-items: center; gap: 8px; border: 1.5px solid var(--line); background: var(--white); cursor: pointer;
+  font-size: 13.5px; font-weight: 700; color: var(--muted); padding: 8px 16px; border-radius: 999px; transition: all .2s;
+}
+.pill:hover { color: var(--ink); border-color: #d6dbe1; }
+.pill.on { background: var(--dark); border-color: var(--dark); color: #fff; }
+.pill-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green); }
+.pill-dot.act { box-shadow: 0 0 0 3px rgba(171, 189, 129, .45); }
+.prov-state { margin: 14px 0 0; font-size: 13.5px; color: var(--muted); }
 .btn-row { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 22px; }
 .key-status { margin: 14px 0 0; font-size: 14px; min-height: 1.4em; font-weight: 600; }
 .key-status.ok { color: var(--green-d); }
