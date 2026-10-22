@@ -11,8 +11,8 @@ classification, allomorphy, derivation vs. inflection, word family. English only
 - **AI** (`ai.js`): each student pastes their own API key in *Settings* for any of Gemini, Grok (xAI), OpenAI,
   Claude, Groq or OpenRouter. The key is stored in that browser's `localStorage` and sent only to the chosen provider.
   *Load my models* lists the model ids the key can use; if a Gemini model is unavailable the app picks one
-  automatically. The answer is streamed (morpheme cards appear as they arrive). When a provider is busy,
-  a "Try with …" button switches to another provider that has a saved key. Results are cached on the device,
+  automatically. The answer is streamed (morpheme cards appear as they arrive). When a provider is busy the page retries once, then tries another model of the same provider,
+  then any other provider that has a saved key, and says which one answered. Results are cached on the device,
   so repeated words are instant and free.
 - No server, no shared key, no logging. Host it as static files (GitHub Pages).
 

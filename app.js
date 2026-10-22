@@ -510,7 +510,7 @@
     $("#banner-detail").innerHTML = cfg.detail
       ? `<details class="banner-detail"><summary>Technical details</summary><pre>${esc(cfg.detail)}</pre><button type="button" class="btn btn-ghost" data-copy>Copy details</button></details>` : "";
     state.bannerDetail = cfg.detail || "";
-    $("#banner-alt").innerHTML = (cfg.alts || []).map(p =>
+    $("#banner-alt").innerHTML = (cfg.retry ? `<button type="button" class="btn" data-retry>Try again</button>` : "") + (cfg.alts || []).map(p =>
       `<button type="button" class="btn btn-light" data-provider="${p}">Try with ${esc(PROV[p].name)}</button>`).join("");
     state.bannerWord = cfg.word || null;
     $("#ai-banner").hidden = false;
@@ -639,54 +639,102 @@
       showNotice(`“${esc(key)}” is not in the dictionary — it will be analysed as a made-up word.`);
     }
 
+    const attempts = [];   // everything that failed, for the banner
     try {
-      const data = await window.MorphAI.analyze({
-        word: key, provider, apiKey: getKey(provider), model: getModel(provider),
-        context: state.dict, signal: state.abort.signal,
-        onMorphemes: ms => { if (token === state.token) renderBricks(ms); },
-        onAttempt: () => { const m = $("#wait-msg"); if (m && token === state.token) m.textContent = "Double-checking the cuts…"; }
-      });
+      const run = await analyzeWithFallback(key, provider, token, attempts);
       if (token !== state.token) return;
-      state.word = data;
+      state.word = run.data;
       state.source = "ai";
-      cachePut(key, data);
+      cachePut(key, run.data);
       renderAll();
       finish(key, opts);
+      if (run.provider !== provider || run.model !== getModel(provider)) {
+        const first = attempts[0];
+        // The saved model no longer exists for this key: remember the one that worked.
+        if (first && first.status === 404 && run.provider === provider) store.set(modelName(provider), run.model);
+        showNotice(`${esc(PROV[provider].name)} (${esc(getModel(provider))}) could not answer${first ? ` — ${esc(first.short)}` : ""}, so this analysis came from <b>${esc(PROV[run.provider].name)}</b> (${esc(run.model)}).`);
+      }
     } catch (err) {
       if (err.name === "AbortError" || token !== state.token) return;
-
-      // The key cannot use the chosen Gemini model: ask Google which models it can use, pick one, retry once.
-      if (err.status === 404 && provider === "gemini" && !opts.healed) {
-        try {
-          const list = await window.MorphAI.listModels("gemini", getKey("gemini"));
-          const pick = window.MorphAI.pickGeminiModel(list);
-          if (pick && pick !== getModel("gemini")) {
-            store.set(modelName("gemini"), pick);
-            showNotice(`Your key cannot use the old Gemini model, so Morphology switched to <b>${esc(pick)}</b> and is trying again.`);
-            return show(key, { ...opts, healed: true });
-          }
-        } catch (e) { /* fall through to the normal error */ }
-      }
-
       $("#result").hidden = false;
       state.word = null;
       renderUnavailable(key, state.dict);
       hideNotice();
-      const known = err && err.name === "ApiError" || err instanceof window.MorphAI.ApiError;
+      const last = attempts[attempts.length - 1] || { status: err.status, message: err.message, provider, model: getModel(provider) };
+      const known = err instanceof window.MorphAI.ApiError || err.name === "ApiError";
       const detail = [
-        `provider: ${provider}`, `model: ${getModel(provider)}`, `word: ${key}`,
-        `status: ${err.status === undefined ? "-" : err.status}`, `error: ${err.name || "Error"}: ${err.message}`,
-        err.raw ? `provider said:\n${err.raw}` : "",
+        `word: ${key}`,
+        ...attempts.map((x, i) => `try ${i + 1}: ${x.provider} / ${x.model} → status ${x.status === undefined ? "-" : x.status}: ${x.message}${x.raw ? `\n   provider said: ${x.raw.replace(/\s+/g, " ").slice(0, 400)}` : ""}`),
         !known && err.stack ? `stack:\n${String(err.stack).split("\n").slice(0, 5).join("\n")}` : "",
         `page: ${location.href}`
       ].filter(Boolean).join("\n");
+      const tried = attempts.length > 1 ? ` I tried ${attempts.length} times (${[...new Set(attempts.map(x => PROV[x.provider].name))].join(", ")}). Last answer: ` : " ";
       showBanner({
         title: "The AI is not available right now",
-        msg: known ? err.message : "Something unexpected went wrong: " + err.message,
-        detail, word: key, provider,
-        alts: keyedProviders().filter(p => p !== provider)
+        msg: known || attempts.length ? `${tried.trim() ? tried.trim() + " " : ""}${last.message}`.trim() : "Something unexpected went wrong: " + err.message,
+        detail, word: key, provider: last.provider || provider,
+        alts: keyedProviders().filter(p => !attempts.some(x => x.provider === p)),
+        retry: true
       });
     }
+  }
+
+  // ---------- Analysis with automatic recovery (retry, other model, other provider) ----------
+  const shortReason = e => e.status === 404 ? "model not available for this key" : e.status === 429 ? "rate limit or quota" : e.status >= 500 ? "busy" : e.status === 401 ? "key rejected" : e.status === 0 ? "no connection" : "error";
+
+  async function geminiAlternatives(current) {
+    try {
+      state.modelCache = state.modelCache || {};
+      const list = state.modelCache.gemini || (state.modelCache.gemini = await window.MorphAI.listModels("gemini", getKey("gemini")));
+      const ids = list.map(m => m.id).filter(id => /^gemini-[\d.]+-flash(-lite)?$/.test(id) && id !== current);
+      ids.sort((a, b) => (/lite/.test(a) - /lite/.test(b)) || parseFloat(b.split("-")[1]) - parseFloat(a.split("-")[1]));
+      return ids.slice(0, 2);
+    } catch (e) {
+      return ["gemini-2.5-flash", "gemini-2.5-flash-lite"].filter(id => id !== current);
+    }
+  }
+
+  async function buildPlan(provider) {
+    const model = getModel(provider);
+    const plan = [{ provider, model, retry: true }];
+    const same = provider === "gemini" ? await geminiAlternatives(model) : PROV[provider].models.map(m => m.id).filter(id => id !== model).slice(0, 1);
+    same.forEach(id => plan.push({ provider, model: id }));
+    keyedProviders().filter(p => p !== provider).forEach(p => plan.push({ provider: p, model: getModel(p) }));
+    return plan;
+  }
+
+  async function analyzeWithFallback(key, provider, token, attempts) {
+    const plan = await buildPlan(provider);
+    const say = msg => { const m = $("#wait-msg"); if (m && token === state.token) m.textContent = msg; };
+    let lastErr;
+    for (const step of plan) {
+      if (token !== state.token) throw Object.assign(new Error("superseded"), { name: "AbortError" });
+      const tries = step.retry ? 2 : 1;
+      for (let n = 1; n <= tries; n++) {
+        try {
+          if (attempts.length) say(`${PROV[step.provider].name} · ${step.model} …`);
+          const data = await window.MorphAI.analyze({
+            word: key, provider: step.provider, apiKey: getKey(step.provider), model: step.model,
+            context: state.dict, signal: state.abort.signal,
+            onMorphemes: ms => { if (token === state.token) renderBricks(ms); },
+            onAttempt: () => say("Double-checking the cuts…")
+          });
+          return { data, provider: step.provider, model: step.model };
+        } catch (err) {
+          if (err.name === "AbortError") throw err;
+          lastErr = err;
+          attempts.push({
+            provider: step.provider, model: step.model, status: err.status, message: err.message, raw: err.raw || "",
+            short: shortReason(err)
+          });
+          const busy = err.status >= 500;
+          if (busy && n < tries) { say(`${PROV[step.provider].name} is busy, trying again…`); await new Promise(r => setTimeout(r, 1500)); continue; }
+          break;
+        }
+      }
+      if (step !== plan[plan.length - 1]) say(`${PROV[step.provider].name} did not answer, trying another option…`);
+    }
+    throw lastErr;
   }
 
   function finish(key, opts) {
@@ -847,6 +895,7 @@
       if (x) { removePopup(x.closest(".popup")); return; }
       const nav = e.target.closest("[data-view]");
       if (nav) { setView(nav.dataset.view); refreshKeyUi(); return; }
+      if (e.target.closest("#banner-alt [data-retry]") && state.bannerWord) { show(state.bannerWord, { force: true }); return; }
       const alt = e.target.closest("#banner-alt [data-provider]");
       if (alt && state.bannerWord) { setProvider(alt.dataset.provider); refreshKeyUi(); show(state.bannerWord, { force: true }); return; }
       const suggestBtn = e.target.closest("#popups button[data-word]");
