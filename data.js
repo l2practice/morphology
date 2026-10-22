@@ -1,4 +1,4 @@
-/* Morphology — 12 hand-verified test words (English only).
+/* Morphology — 13 hand-verified test words (English only).
    cls keys: prefix-der, prefix-inf, root-free, root-bound, suffix-der, suffix-inf */
 window.IC_DB = {
  "unhappiness": {
@@ -823,6 +823,123 @@ window.IC_DB = {
     "revise",
     "supervise",
     "television"
+   ]
+  }
+ },
+ "receptionists": {
+  "word": "receptionists",
+  "pos": "Noun (plural)",
+  "ipa": "/rɪˈsɛpʃənɪsts/",
+  "gloss": "people whose job is to welcome visitors and answer calls",
+  "process": "Derivation (prefix + two suffixes) + inflection",
+  "morphemes": [
+   {
+    "form": "re-",
+    "surface": "re",
+    "type": "prefix",
+    "cls": "prefix-der",
+    "meaning": "'back, again'. Attaches to the bound root -ceive without changing the word class.",
+    "etym": "Latin re-, 'back, again'."
+   },
+   {
+    "form": "-ceive",
+    "surface": "cep",
+    "type": "root",
+    "cls": "root-bound",
+    "cat": "V",
+    "meaning": "Bound root meaning 'to take, get'. It never stands alone; it is shared by receive, deceive, conceive, perceive.",
+    "etym": "Latin capere 'to take' via Old French receivre."
+   },
+   {
+    "form": "-tion",
+    "surface": "tion",
+    "type": "suffix",
+    "cls": "suffix-der",
+    "meaning": "Forms a noun of action or result from a verb (V → N): receive → reception.",
+    "etym": "Latin -tio(n-)."
+   },
+   {
+    "form": "-ist",
+    "surface": "ist",
+    "type": "suffix",
+    "cls": "suffix-der",
+    "meaning": "Forms a noun for a person who does or practises something (N → N).",
+    "etym": "Greek -istes, via Latin and French."
+   },
+   {
+    "form": "-s",
+    "surface": "s",
+    "type": "suffix",
+    "cls": "suffix-inf",
+    "variant": "-s (plural)",
+    "meaning": "Plural marker on a noun: receptionist → receptionists.",
+    "etym": "Old English plural -as."
+   }
+  ],
+  "tree": {
+   "label": "receptionists",
+   "cat": "N",
+   "children": [
+    {
+     "label": "receptionist",
+     "cat": "N",
+     "children": [
+      {
+       "label": "reception",
+       "cat": "N",
+       "children": [
+        {
+         "label": "receive",
+         "cat": "V",
+         "children": [
+          {
+           "m": 0
+          },
+          {
+           "m": 1
+          }
+         ]
+        },
+        {
+         "m": 2
+        }
+       ]
+      },
+      {
+       "m": 3
+      }
+     ]
+    },
+    {
+     "m": 4
+    }
+   ]
+  },
+  "insights": {
+   "allomorphy": "Allomorphy of the bound root: -ceive appears as cep- before -tion (receive → reception). The spelling changes, but it is the same morpheme.",
+   "restoration": [
+    {
+     "surface": "cep-",
+     "base": "-ceive",
+     "rule": "root allomorph before -tion"
+    }
+   ],
+   "derivInfl": "re-, -tion and -ist are derivational; -s is inflectional and is added last."
+  },
+  "family": {
+   "root": "-ceive / cept-",
+   "rootGloss": "to take, get",
+   "words": [
+    "receive",
+    "deceive",
+    "conceive",
+    "perceive",
+    "reception",
+    "deception",
+    "concept",
+    "perception",
+    "receipt",
+    "receptive"
    ]
   }
  }

@@ -4,7 +4,7 @@
  * morphemes can be shown while the rest of the analysis is still arriving.
  */
 (function () {
-  const PROMPT_VERSION = 10;
+  const PROMPT_VERSION = 11;
   const MAX_ATTEMPTS = 2;   // 1 retry when the answer fails validation
 
   /**
@@ -76,7 +76,8 @@
     "Bound roots are real morphemes. When a clear suffix is attached to a recognisable bound Latinate root, CUT BOTH: visible = vis- (bound root) + -ible; credible = cred- + -ible; audible = aud- + -ible; credibly = [[cred- -ible] -ly] with surfaces cred | ib | ly. Never leave such a word as one root.",
     "Historical (etymological) structure is NOT enough: mention it in \"etym\", but do not cut it.",
     "NEVER invent morphemes and NEVER split a bare root: correct is ONE root (not cor + rect), color is ONE root.",
-    "Pseudo-affix traps that must stay ONE free root: carpet (not car + pet), hammer (not ham + -er), regard (not re- + gard), report (not re- + port), wonder (not won + -der). A word only ends in -er/-ing or starts with re-/in-/un- by accident unless the tests pass.",
+    "Pseudo-affix traps that must stay ONE free root: carpet (not car + pet), hammer (not ham + -er), wonder (not won + -der), corner, butter, number. The leftover piece must belong to a real family; car-, ham- do not.",
+    "Latinate PREFIX + BOUND ROOT: when the same bound root appears with several prefixes, cut the prefix AND the root: receive = re- + -ceive (also deceive, conceive, perceive), refer = re- + -fer (defer, confer), submit = sub- + -mit (permit, admit). A bound root may change its spelling (allomorph): -ceive ~ cep- (reception, deception), -mit ~ -miss- (permission). Example: receptionists = re- | -ceive (surface cep) | -tion | -ist | -s, tree [N|receptionists [N|receptionist [N|reception [V|receive 0 1] 2] 3] 4].",
     "Lexicalised participial adjectives keep their base when the base is a living word: charming = charm + -ing, surprising = surprise + -ing. In these adjectives -ing / -ed are DERIVATIONAL (suffix-der), never inflectional.",
     "",
     "## 2. Spell out every morpheme",
@@ -106,7 +107,7 @@
     "    • Suffix chains build from the inside out: [[hope-less]-ness], [[hurry-ed]-ly], [[cred- -ible] -ly].",
     "    • Hyphenated phrasal compounds follow their phrase structure: editor-in-chief = [editor [in chief]].",
     "## 5. Write",
-    "- Be BRIEF and student-friendly: each meaning at most 12 words, each etym at most 10 words, allomorphy and derivInfl one or two short sentences, gloss at most 10 words.",
+    "- Be BRIEF and student-friendly: process is a LABEL of at most 8 words (for example \"Derivation (prefix + suffix) + inflection\"), never an explanation; each meaning at most 12 words, each etym at most 10 words, allomorphy and derivInfl one or two short sentences, gloss at most 10 words.",
     "- restoration: surface ends with a hyphen; empty list if nothing changed.",
     "- family: the historical root, its short gloss, and 6 real related English words.",
     "- The user message may contain DICTIONARY CONTEXT (part of speech, definition, etymology of the word). Treat it as reliable, use it to decide the segmentation and to keep etym short, and do not contradict it.",

@@ -10,7 +10,7 @@
 (function () {
   const DB = window.IC_DB;
   const TEST_WORDS = ["unhappiness", "reconstruction", "misunderstanding", "running", "arguing",
-    "cities", "sunflower", "children", "uncle", "sing", "unflobbable", "visibly"];
+    "cities", "sunflower", "children", "uncle", "sing", "unflobbable", "visibly", "receptionists"];
 
   const LS = { provider: "morph-provider", cache: "morph-cache-v" + window.MorphAI.PROMPT_VERSION, history: "morph-history", tree: "morph-tree-style", cls: "morph-cls-mode" };
   const CACHE_MAX = 150;
@@ -117,13 +117,31 @@
     return "[" + node.children.map(c => bracket(c, w)).join(" ") + "]";
   }
 
+  /** Short label such as "Derivation (prefix + 2 suffixes) + inflection", worked out from the morphemes. */
+  function processLabel(w) {
+    if (w.source !== "ai" && w.process && w.process.length <= 70) return w.process;   // hand-written for the verified words
+    const ms = w.morphemes;
+    const roots = ms.filter(m => m.type === "root").length;
+    const pre = ms.filter(m => m.cls === "prefix-der").length;
+    const suf = ms.filter(m => m.cls === "suffix-der").length;
+    const inf = ms.some(m => /-inf$/.test(m.cls));
+    const aff = [];
+    if (pre) aff.push(pre > 1 ? `${pre} prefixes` : "prefix");
+    if (suf) aff.push(suf > 1 ? `${suf} suffixes` : "suffix");
+    const bits = [];
+    if (roots > 1) bits.push("Compounding");
+    if (aff.length) bits.push(`${bits.length ? "derivation" : "Derivation"} (${aff.join(" + ")})`);
+    if (inf) bits.push(bits.length ? "inflection" : "Inflection");
+    return bits.length ? bits.join(" + ") : "Single free root";
+  }
+
   function renderHead(w, dict) {
     $("#w-word").textContent = w.word;
     $("#w-ipa").textContent = w.ipa || (dict && dict.ipa) || "";
     $("#w-gloss").textContent = (dict && dict.gloss) || w.gloss || "";
     $("#w-pos").textContent = (dict && dict.pos) || w.pos || "";
     $("#w-cefr").textContent = dict && dict.cefr ? "CEFR " + dict.cefr : "";
-    $("#w-process").textContent = w.process || "";
+    $("#w-process").textContent = w.morphemes ? processLabel(w) : "";
     $("#w-wtype").textContent = w.morphemes ? WORD_TYPES[wordTypeOf(w).key].name : "";
     const src = $("#w-source");
     src.className = "tag source " + (state.source === "verified" ? "verified" : state.source === "ai" ? "ai" : "verified");
@@ -1012,7 +1030,7 @@
     if (!keyedProviders().length && $("#ai-banner").hidden) {
       showBanner({
         title: "Add an AI key to analyse any word",
-        msg: "The 12 verified words and the dictionary already work. Pick a provider, paste your key and press Save & test."
+        msg: `The ${Object.keys(DB).length} verified words and the dictionary already work. Pick a provider, paste your key and press Save & test.`
       });
     }
   }
