@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=20261022e">
+  <link rel="stylesheet" href="style.css?v=20261022f">
 </head>
 <body>
   <div class="frame">
@@ -199,17 +199,28 @@
         </div>
       </section>
 
-      <footer class="footer">Morphology · Immediate Constituent analysis practice for English majors</footer>
+      <footer class="footer">Morphology · Immediate Constituent analysis practice for English majors · build 20261022f</footer>
     </main>
+  </div>
+
+  <div id="loading-overlay" class="overlay" hidden role="status" aria-live="polite">
+    <div class="overlay-card">
+      <img class="overlay-logo" src="logo-mark.svg" alt="" width="84" height="84">
+      <h3 id="ov-title">Analysing…</h3>
+      <p id="ov-msg" class="ov-msg">Starting…</p>
+      <div class="ov-bar" aria-hidden="true"><span></span></div>
+      <p class="ov-meta"><span id="ov-model"></span><span id="ov-time">0 s</span></p>
+      <button type="button" id="ov-cancel" class="btn btn-ghost">Cancel</button>
+    </div>
   </div>
 
   <div id="popups" class="popups" aria-live="polite"></div>
 
-  <script src="data.js?v=20261022e"></script>
-  <script src="dict.js?v=20261022e"></script>
-  <script src="ai.js?v=20261022e"></script>
-  <script src="tree.js?v=20261022e"></script>
-  <script src="bricks.js?v=20261022e"></script>
-  <script src="app.js?v=20261022e"></script>
+  <script src="data.js?v=20261022f"></script>
+  <script src="dict.js?v=20261022f"></script>
+  <script src="ai.js?v=20261022f"></script>
+  <script src="tree.js?v=20261022f"></script>
+  <script src="bricks.js?v=20261022f"></script>
+  <script src="app.js?v=20261022f"></script>
 </body>
 </html>

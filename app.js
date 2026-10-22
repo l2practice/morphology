@@ -574,6 +574,7 @@
     const token = ++state.token;
     hideNotice();
     hideBanner();
+    hideOverlay();
     $("#suggest").hidden = true;
     $("#word-input").value = key;
 
@@ -640,9 +641,11 @@
     }
 
     const attempts = [];   // everything that failed, for the banner
+    showOverlay(key, `Asking ${PROV[provider].name} (${getModel(provider)}) …`);
     try {
       const run = await analyzeWithFallback(key, provider, token, attempts);
       if (token !== state.token) return;
+      hideOverlay();
       state.word = run.data;
       state.source = "ai";
       cachePut(key, run.data);
@@ -651,11 +654,12 @@
       if (run.provider !== provider || run.model !== getModel(provider)) {
         const first = attempts[0];
         // The saved model no longer exists for this key: remember the one that worked.
-        if (first && first.status === 404 && run.provider === provider) store.set(modelName(provider), run.model);
+        if (first && (first.status === 404 || first.status === 400) && run.provider === provider) store.set(modelName(provider), run.model);
         showNotice(`${esc(PROV[provider].name)} (${esc(getModel(provider))}) could not answer${first ? ` — ${esc(first.short)}` : ""}, so this analysis came from <b>${esc(PROV[run.provider].name)}</b> (${esc(run.model)}).`);
       }
     } catch (err) {
-      if (err.name === "AbortError" || token !== state.token) return;
+      if (err.name === "AbortError" || token !== state.token) { if (token === state.token) hideOverlay(); return; }
+      hideOverlay();
       $("#result").hidden = false;
       state.word = null;
       renderUnavailable(key, state.dict);
@@ -677,6 +681,27 @@
         retry: true
       });
     }
+  }
+
+  // ---------- Loading overlay ----------
+  let overlayTimer = 0;
+  function showOverlay(word, msg) {
+    const o = $("#loading-overlay");
+    $("#ov-title").textContent = `Analysing “${word}”`;
+    $("#ov-msg").textContent = msg || "Starting…";
+    $("#ov-time").textContent = "0 s";
+    o.hidden = false;
+    const t0 = Date.now();
+    clearInterval(overlayTimer);
+    overlayTimer = setInterval(() => { $("#ov-time").textContent = Math.round((Date.now() - t0) / 1000) + " s"; }, 500);
+  }
+  function setOverlay(msg, who) {
+    if (msg) $("#ov-msg").textContent = msg;
+    if (who !== undefined) $("#ov-model").textContent = who;
+  }
+  function hideOverlay() {
+    clearInterval(overlayTimer);
+    $("#loading-overlay").hidden = true;
   }
 
   // ---------- Analysis with automatic recovery (retry, other model, other provider) ----------
@@ -705,18 +730,18 @@
 
   async function analyzeWithFallback(key, provider, token, attempts) {
     const plan = await buildPlan(provider);
-    const say = msg => { const m = $("#wait-msg"); if (m && token === state.token) m.textContent = msg; };
+    const say = msg => { const m = $("#wait-msg"); if (m && token === state.token) m.textContent = msg; setOverlay(msg); };
     let lastErr;
     for (const step of plan) {
       if (token !== state.token) throw Object.assign(new Error("superseded"), { name: "AbortError" });
       const tries = step.retry ? 2 : 1;
       for (let n = 1; n <= tries; n++) {
         try {
-          if (attempts.length) say(`${PROV[step.provider].name} · ${step.model} …`);
+          setOverlay(attempts.length ? `Trying ${PROV[step.provider].name} · ${step.model} …` : `Asking ${PROV[step.provider].name} to cut the word into morphemes …`, `${PROV[step.provider].name} · ${step.model}`);
           const data = await window.MorphAI.analyze({
             word: key, provider: step.provider, apiKey: getKey(step.provider), model: step.model,
             context: state.dict, signal: state.abort.signal,
-            onMorphemes: ms => { if (token === state.token) renderBricks(ms); },
+            onMorphemes: ms => { if (token === state.token) { renderBricks(ms); setOverlay(`Receiving the answer … ${ms.length} morpheme${ms.length === 1 ? "" : "s"} so far`); } },
             onAttempt: () => say("Double-checking the cuts…")
           });
           return { data, provider: step.provider, model: step.model };
@@ -857,10 +882,18 @@
       try {
         const list = await window.MorphAI.listModels(viewing, key);
         if (!list.length) { say("The provider returned no models for this key.", "err"); return; }
-        list.sort((a, b) => a.id.localeCompare(b.id));
-        const guess = viewing === "gemini" ? window.MorphAI.pickGeminiModel(list) : "";
-        fillModels(list, guess || list[0].id);
-        say(`${list.length} models found. Choose one and press Save & test.`, "ok");
+        const chat = list.filter(m => !/whisper|tts|guard|embed|moderation|dall-e|image|audio|transcribe|realtime|search-preview|orpheus|safeguard|allam/i.test(m.id));
+        const pool = chat.length ? chat : list;
+        const PREFER = {
+          groq: ["llama-3.3-70b-versatile", "openai/gpt-oss-120b", "openai/gpt-oss-20b", "llama-3.1-8b-instant"],
+          xai: ["grok-4", "grok-3-mini", "grok-3"], openai: ["gpt-4.1-mini", "gpt-4o-mini", "gpt-4.1"],
+          anthropic: ["claude-haiku-5-5", "claude-sonnet-5-5", "claude-opus-5-5"], openrouter: ["google/gemini-2.5-flash", "openai/gpt-4o-mini"]
+        }[viewing] || [];
+        const rank = id => { const i = PREFER.indexOf(id); return i < 0 ? 99 : i; };
+        pool.sort((x, y) => rank(x.id) - rank(y.id) || x.id.localeCompare(y.id));
+        const guess = viewing === "gemini" ? window.MorphAI.pickGeminiModel(pool) : "";
+        fillModels(pool, guess || pool[0].id);
+        say(`${pool.length} chat models found${list.length > pool.length ? ` (${list.length - pool.length} audio, safety or other models hidden)` : ""}. The first one is the recommended choice; press Save & test.`, "ok");
       } catch (err) { say(err.message, "err"); }
     });
     q("active").addEventListener("click", () => { setProvider(viewing); refreshKeyUi(); render(); });
@@ -906,6 +939,12 @@
     });
     $("#key-chip").addEventListener("click", () => setView("settings"));
     $("#banner-close").addEventListener("click", hideBanner);
+    $("#ov-cancel").addEventListener("click", () => {
+      if (state.abort) state.abort.abort();
+      state.token++;
+      hideOverlay();
+      showNotice("Analysis cancelled.");
+    });
     state.clsMode = ["freebound", "baseaffix", "derinf", "list"].includes(store.get(LS.cls)) ? store.get(LS.cls) : "freebound";
     $("#cls-mode").addEventListener("click", e => {
       const b = e.target.closest("[data-mode]");

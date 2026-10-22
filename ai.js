@@ -31,8 +31,8 @@
       name: "Groq", full: "Groq (very fast)", kind: "openai", base: "https://api.groq.com/openai/v1", keyUrl: "https://console.groq.com/keys", keyHint: "gsk_…",
       models: [
         { id: "llama-3.3-70b-versatile", label: "Llama 3.3 70B — fast, accurate" },
-        { id: "llama-3.1-8b-instant", label: "Llama 3.1 8B — fastest" },
-        { id: "openai/gpt-oss-120b", label: "GPT-OSS 120B — most careful" }
+        { id: "openai/gpt-oss-120b", label: "GPT-OSS 120B — most careful" },
+        { id: "llama-3.1-8b-instant", label: "Llama 3.1 8B — fastest, less accurate" }
       ]
     },
     openai: {
@@ -412,25 +412,26 @@
       model, stream: true,
       messages: [{ role: "system", content: SYSTEM_PROMPT }, { role: "user", content: jsonInstruction(userText) }]
     };
-    let res;
-    try {
-      res = await call({ ...base, response_format: { type: "json_object" } });
-    } catch (e) {
-      if (!(e instanceof ApiError) || e.status !== 400) throw e;   // model without JSON mode → rely on the instruction
-      res = await call(base);
+    // JSON mode can fail ("Failed to generate JSON") or be unsupported (400): then rely on the instruction alone.
+    const jsonModeFailed = e => e instanceof ApiError && (e.status === 400 || /failed to generate json|failed_generation|json_validate_failed/i.test(e.message + " " + (e.raw || "")));
+
+    async function run(jsonMode) {
+      const res = await call(jsonMode ? { ...base, response_format: { type: "json_object" } } : base);
+      let text = "", finish = "";
+      await readSse(res, msg => {
+        if (msg.error) throw new ApiError(msg.error.message || cfg.name + " stopped unexpectedly.", 0);
+        const ch = msg.choices && msg.choices[0];
+        if (!ch) return;
+        const piece = ch.delta && ch.delta.content;
+        if (piece) { text += piece; onText && onText(text); }
+        if (ch.finish_reason) finish = ch.finish_reason;
+      });
+      if (finish === "length") throw new ApiError("The answer was cut off. Please try again.", 0);
+      if (finish === "content_filter") throw new ApiError(cfg.name + " declined to analyse this word.", 0);
+      return text;
     }
-    let text = "", finish = "";
-    await readSse(res, msg => {
-      if (msg.error) throw new ApiError((msg.error.message) || cfg.name + " stopped unexpectedly.", 0);
-      const ch = msg.choices && msg.choices[0];
-      if (!ch) return;
-      const piece = ch.delta && ch.delta.content;
-      if (piece) { text += piece; onText && onText(text); }
-      if (ch.finish_reason) finish = ch.finish_reason;
-    });
-    if (finish === "length") throw new ApiError("The answer was cut off. Please try again.", 0);
-    if (finish === "content_filter") throw new ApiError(cfg.name + " declined to analyse this word.", 0);
-    return text;
+    try { return await run(true); }
+    catch (e) { if (!jsonModeFailed(e)) throw e; return await run(false); }
   }
 
   async function streamAnthropic({ apiKey, model, userText, onText, signal }) {
