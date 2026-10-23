@@ -4,7 +4,7 @@
  * morphemes can be shown while the rest of the analysis is still arriving.
  */
 (function () {
-  const PROMPT_VERSION = 15;
+  const PROMPT_VERSION = 17;
   const MAX_ATTEMPTS = 2;   // 1 retry when the answer fails validation
 
   /**
@@ -69,7 +69,7 @@
     "Analyse the word you are given and answer with JSON that follows the schema. Work through the decision procedure below before you answer.",
     "",
     "## 0. Default: ONE morpheme",
-    "A word is ONE morpheme (one free root, tree \"0\") unless a living English affix can clearly be cut off. When in doubt, do NOT cut. Single-morpheme words include simple native words and loanwords borrowed whole: employ, carpet, hammer, wonder, corner, butter, number, village. Never split a word only because it looks like it has pieces, or because its Latin or French ancestor did.",
+    "A word is ONE morpheme (one free root, tree \"0\") unless a living English affix can clearly be cut off. When in doubt, do NOT cut. Single-morpheme words include simple native words and loanwords borrowed whole from French or Latin: employ, deploy, enjoy, refer, carpet, hammer, wonder, corner, butter, number, village. Do not cut en- from enjoy, de- from deploy or re- from refer. Never split a word only because it looks like it has pieces, or because its Latin or French ancestor did.",
     "## 1. Segment: is each cut real in present-day English?",
     "Cut off a piece only if ALL three tests pass:",
     "  (a) the remaining base exists as a word, or as a recognisable BOUND root shared by a word family (vis- in vision, visual, visible);",
@@ -87,7 +87,7 @@
     "- Spell morphemes as they appear in English today; never use a Latin or Greek ancestor as a morpheme (keep ancestors in etym). Words BORROWED WHOLE from French or Latin whose beginning is not a living English prefix stay ONE free root: employ (Old French emploier) is ONE morpheme, so employment = employ + -ment, tree [N|employment 0 1]. The same applies to similar loanwords, for example ploy-type endings: do not invent em- + ploy or in- + plic-.",
     "- \"surface\" is exactly how the morpheme is spelled inside the word, without hyphens. Joining all surfaces in order MUST give the word with its hyphens removed.",
     "- Restore the base form after spelling changes, and add a \"restoration\" entry for each: consonant doubling (stopping: surface \"stopp\", form \"stop\"), silent e (hoping: surface \"hop\", form \"hope\"), y → i (ladies: surface \"ladi\", form \"lady\").",
-    "- Internal change with no separate affix (mice, men, sang): the root keeps its base form with the changed spelling as surface (form \"mouse\", surface \"mice\"), followed by a ZERO morpheme with surface \"\" and form \"{PLURAL}\" or \"{PAST}\", type \"suffix\", cls \"suffix-inf\". Explain the vowel mutation in allomorphy and add a restoration entry (mice- → mouse).",
+    "- Internal change with no separate affix (mice, men, geese, sang, went): the root keeps its base form with the changed spelling as surface (form \"mouse\", surface \"mice\"), followed by a ZERO morpheme with surface \"\" whose form is the regular suffix it replaces: \"-s\" for a plural (mice = mouse + -s, variant \"-s (plural)\"), \"-ed\" for a past tense (sang = sing + -ed, variant \"-ed (v2)\"); type \"suffix\", cls \"suffix-inf\". Explain the vowel change in allomorphy and add a restoration entry (mice- → mouse). Tree for mice: [N|mice 0 1].",
     "- Hyphenated compounds (editor-in-chief): every word between hyphens is a free root; surfaces contain no hyphens.",
     "- allomorphOf: when a morpheme is a conditioned variant of another morpheme, name the basic form, otherwise \"\". The negative prefix in- has the assimilated allomorphs im- (before p, b, m), il- (before l) and ir- (before r): immature → \"im-\" with allomorphOf \"in-\", illegal → \"il-\" with allomorphOf \"in-\". Other examples: -ion vs -tion, a- vs an-.",
     "",
@@ -114,7 +114,7 @@
     "- restoration: surface ends with a hyphen; empty list if nothing changed.",
     "- family: the historical root, its short gloss, and 6 real related English words.",
     "- etymology (about the WHOLE word): summary is ONE sentence on where the word comes from (for example: comes from Latin through Old French and entered English in the 14th century); steps are 2 to 3 stages with a short label such as \"Latin origin\", \"Old French\" or \"Entry into English\" and a text of at most 20 words; meanings are 0 to 3 changes of meaning, each with a period (for example \"14th century\") and a text. Base it on the dictionary etymology when one is given. Only state dates and facts you are sure about; otherwise leave the period out of the text or use an empty list.",
-    "- Read the dictionary etymology as evidence: \"X + -suffix\" (formed inside English) supports a cut; a plain history of borrowing or inheritance with no \"+\" (employ: from Old French emploier) supports ONE root.",
+    "- Read the dictionary etymology as evidence: \"X + -suffix\" (formed inside English) supports a cut; a plain history of borrowing or inheritance with no \"+\" (employ: from Old French emploier; enjoy, deploy, refer likewise) supports ONE root.",
     "- The user message may contain DICTIONARY CONTEXT (part of speech, definition, etymology of the word). Treat it as reliable, use it to decide the segmentation and to keep etym short, and do not contradict it.",
     "- If the user message says the word is NOT in the dictionary, analyse it as a nonce word using productive rules, and say so in the gloss."
   ].join("\n");
@@ -504,7 +504,7 @@
   function contextText(word, ctx) {
     if (!ctx) return `Word to analyse: "${word}"\nDICTIONARY CONTEXT: this word is NOT in the dictionary.`;
     const lines = [`Word to analyse: "${word}"`, "DICTIONARY CONTEXT:"];
-    if (ctx.lemma && ctx.lemma !== word) lines.push(`- "${word}" is an inflected form of "${ctx.lemma}".`);
+    if (ctx.lemma && ctx.lemma !== word) lines.push(`- "${word}" is an inflected form of "${ctx.lemma}"${ctx.tags ? ` (${ctx.tags})` : ""}: analyse it as the root of "${ctx.lemma}" plus its inflection.`);
     if (ctx.pos) lines.push(`- part of speech: ${ctx.pos}`);
     if (ctx.gloss) lines.push(`- definition: ${ctx.gloss}`);
     if (ctx.etymology) lines.push(`- etymology: ${ctx.etymology}`);

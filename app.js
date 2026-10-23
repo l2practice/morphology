@@ -9,8 +9,8 @@
  */
 (function () {
   const DB = window.IC_DB;
-  const TEST_WORDS = ["unhappiness", "reconstruction", "misunderstanding", "running", "arguing",
-    "cities", "sunflower", "children", "uncle", "sing", "unflobbable", "visibly", "receptionists", "employment", "employ"];
+  const TEST_WORDS = ["unhappiness", "reconstruction", "misunderstanding", "running", "cities", "children",
+    "sunflower", "mice", "visibly", "receptionists", "employment", "employ", "enjoy", "deploy", "refer", "unflobbable"];
 
   const LS = { provider: "morph-provider", cache: "morph-cache-v" + window.MorphAI.PROMPT_VERSION, history: "morph-history", tree: "morph-tree-style", cls: "morph-cls-mode" };
   const CACHE_MAX = 150;
@@ -608,6 +608,7 @@
     if (!res || !res.found) return null;
     const s = window.MorphDict.summarize(res.entry);
     s.via = res.via;
+    s.tags = res.via && res.via.tags;
     s.lemma = res.headword;
     return s;
   }

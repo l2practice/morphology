@@ -1,4 +1,4 @@
-/* Morphology — 15 hand-verified test words (English only).
+/* Morphology — 19 hand-verified test words (English only).
    cls keys: prefix-der, prefix-inf, root-free, root-bound, suffix-der, suffix-inf */
 window.IC_DB = {
  "unhappiness": {
@@ -1071,6 +1071,248 @@ window.IC_DB = {
     "employable",
     "unemployed",
     "unemployment"
+   ]
+  }
+ },
+ "deploy": {
+  "word": "deploy",
+  "pos": "Verb",
+  "ipa": "/dɪˈplɔɪ/",
+  "gloss": "to put people or equipment into position for use",
+  "process": "Single free root (borrowed whole)",
+  "morphemes": [
+   {
+    "form": "deploy",
+    "surface": "deploy",
+    "type": "root",
+    "cls": "root-free",
+    "cat": "V",
+    "meaning": "Verb 'to spread out or put into position for action'. Borrowed whole from French, so in English it is a single morpheme.",
+    "etym": "French déployer, from Latin displicare 'to unfold'."
+   }
+  ],
+  "tree": {
+   "label": "deploy",
+   "cat": "V",
+   "m": 0
+  },
+  "insights": {
+   "allomorphy": "No spelling change.",
+   "restoration": [],
+   "derivInfl": "deploy is one morpheme. It was borrowed into English as a whole word, so its Latin or French parts are not analysed as separate morphemes."
+  },
+  "etymology": {
+   "summary": "Borrowed into English from French déployer, which goes back to Latin displicare 'to unfold'.",
+   "steps": [
+    {
+     "stage": "Latin origin",
+     "text": "displicare 'to unfold, scatter'."
+    },
+    {
+     "stage": "French",
+     "text": "déployer 'to unfold, spread out'."
+    },
+    {
+     "stage": "Into English",
+     "text": "borrowed whole in the 1600s as a military term; the parts are not felt in English."
+    }
+   ],
+   "meanings": []
+  },
+  "family": {
+   "root": "deploy",
+   "rootGloss": "to unfold, spread out",
+   "words": [
+    "deployment",
+    "deployable",
+    "redeploy"
+   ]
+  }
+ },
+ "enjoy": {
+  "word": "enjoy",
+  "pos": "Verb",
+  "ipa": "/ɪnˈdʒɔɪ/",
+  "gloss": "to get pleasure from something",
+  "process": "Single free root (borrowed whole)",
+  "morphemes": [
+   {
+    "form": "enjoy",
+    "surface": "enjoy",
+    "type": "root",
+    "cls": "root-free",
+    "cat": "V",
+    "meaning": "Verb 'to take pleasure in'. Borrowed whole from Old French, so in English it is a single morpheme.",
+    "etym": "Old French enjoier 'to give joy to, rejoice'."
+   }
+  ],
+  "tree": {
+   "label": "enjoy",
+   "cat": "V",
+   "m": 0
+  },
+  "insights": {
+   "allomorphy": "No spelling change.",
+   "restoration": [],
+   "derivInfl": "enjoy is one morpheme. It was borrowed into English as a whole word, so its Latin or French parts are not analysed as separate morphemes."
+  },
+  "etymology": {
+   "summary": "Borrowed into English from Old French enjoier, formed in French from en- + joie 'joy'.",
+   "steps": [
+    {
+     "stage": "Old French",
+     "text": "enjoier 'to rejoice, give joy to', built on joie 'joy'."
+    },
+    {
+     "stage": "Into English",
+     "text": "borrowed whole in the Middle Ages, so en- is not felt as a prefix in English."
+    }
+   ],
+   "meanings": []
+  },
+  "family": {
+   "root": "enjoy",
+   "rootGloss": "joy",
+   "words": [
+    "enjoyment",
+    "enjoyable",
+    "enjoyably",
+    "joy"
+   ]
+  }
+ },
+ "refer": {
+  "word": "refer",
+  "pos": "Verb",
+  "ipa": "/rɪˈfɜːr/",
+  "gloss": "to mention or direct attention to something",
+  "process": "Single free root (borrowed whole)",
+  "morphemes": [
+   {
+    "form": "refer",
+    "surface": "refer",
+    "type": "root",
+    "cls": "root-free",
+    "cat": "V",
+    "meaning": "Verb 'to mention, send to, or consult'. Borrowed whole, so in English it is a single morpheme.",
+    "etym": "Latin referre 'to carry back', via Old French referer."
+   }
+  ],
+  "tree": {
+   "label": "refer",
+   "cat": "V",
+   "m": 0
+  },
+  "insights": {
+   "allomorphy": "No spelling change.",
+   "restoration": [],
+   "derivInfl": "refer is one morpheme. It was borrowed into English as a whole word, so its Latin or French parts are not analysed as separate morphemes."
+  },
+  "etymology": {
+   "summary": "Borrowed into English from Latin referre 'to carry back', through Old French referer.",
+   "steps": [
+    {
+     "stage": "Latin origin",
+     "text": "referre 'to carry back', from re- 'back' + ferre 'to carry'."
+    },
+    {
+     "stage": "Old French",
+     "text": "referer 'to relate, report'."
+    },
+    {
+     "stage": "Into English",
+     "text": "borrowed whole in the 1300s; English speakers do not feel separate parts."
+    }
+   ],
+   "meanings": []
+  },
+  "family": {
+   "root": "refer",
+   "rootGloss": "to carry back",
+   "words": [
+    "reference",
+    "referral",
+    "referee",
+    "referent"
+   ]
+  }
+ },
+ "mice": {
+  "word": "mice",
+  "pos": "Noun (plural)",
+  "ipa": "/maɪs/",
+  "gloss": "more than one mouse",
+  "process": "Inflection (irregular plural)",
+  "morphemes": [
+   {
+    "form": "mouse",
+    "surface": "mice",
+    "type": "root",
+    "cls": "root-free",
+    "cat": "N",
+    "meaning": "Noun 'a small rodent'. In the plural the root changes its vowel: mouse → mice.",
+    "etym": "Old English mūs."
+   },
+   {
+    "form": "-s",
+    "surface": "",
+    "type": "suffix",
+    "cls": "suffix-inf",
+    "variant": "-s (plural)",
+    "meaning": "Plural marker. It has no separate sound or letter here: the vowel change carries the plural (an irregular, zero allomorph of -s).",
+    "etym": "Old English plural -as; mice itself is Old English mȳs, the plural of mūs."
+   }
+  ],
+  "tree": {
+   "label": "mice",
+   "cat": "N",
+   "children": [
+    {
+     "m": 0
+    },
+    {
+     "m": 1
+    }
+   ]
+  },
+  "insights": {
+   "allomorphy": "Irregular plural: the vowel of mouse changes (mouse → mice), a remnant of an Old English sound change called i-umlaut. The plural -s has no form of its own, so it is a zero allomorph.",
+   "restoration": [
+    {
+     "surface": "mice-",
+     "base": "mouse",
+     "rule": "the vowel change marks the plural"
+    }
+   ],
+   "derivInfl": "-s is inflectional: it gives the plural form of the same word and keeps the meaning."
+  },
+  "etymology": {
+   "summary": "From Old English mȳs, the plural of mūs 'mouse', formed by a vowel shift called i-umlaut.",
+   "steps": [
+    {
+     "stage": "Germanic origin",
+     "text": "mūs, from Proto-Germanic *mūs."
+    },
+    {
+     "stage": "Old English plural",
+     "text": "mȳs; the vowel changed by i-umlaut."
+    },
+    {
+     "stage": "Modern English",
+     "text": "mice kept the old vowel change instead of adding -s."
+    }
+   ],
+   "meanings": []
+  },
+  "family": {
+   "root": "mouse",
+   "rootGloss": "small rodent",
+   "words": [
+    "mouse",
+    "mousetrap",
+    "mousy",
+    "dormouse",
+    "titmouse"
    ]
   }
  }

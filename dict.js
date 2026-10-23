@@ -83,16 +83,29 @@
     if (!pf) return { found: false };
 
     const hits = (pf.h || []).filter(x => (x[2] || norm(x[0])) === n);
+    let head = null;
     if (hits.length) {
       hits.sort((a, b) => (b[0] === n) - (a[0] === n) || (a[1] ?? Infinity) - (b[1] ?? Infinity));
       const entry = await entryOf(m, hits[0][0]);
-      if (entry) return { found: true, entry, headword: hits[0][0], via: null };
+      if (entry) head = { entry, headword: hits[0][0] };
     }
+    // "mice" is also a rare verb headword, but it is first of all the plural of "mouse".
     const f = (pf.f || []).find(x => x[0] === n);
+    let lemma = null;
     if (f) {
       const entry = await entryOf(m, f[1]);
-      if (entry) return { found: true, entry, headword: f[1], via: { form: n, lemma: f[1], relation: f[2] === "i" ? "inflection" : "variant" } };
+      if (entry) lemma = {
+        entry, headword: f[1],
+        via: { form: n, lemma: f[1], relation: f[2] === "i" ? "inflection" : "variant", tags: f[3] || "" }
+      };
     }
+    if (head && lemma && lemma.via.relation === "inflection") {
+      const hr = head.entry.rank == null ? Infinity : head.entry.rank;
+      const lr = lemma.entry.rank == null ? Infinity : lemma.entry.rank;
+      if (lr <= hr) return { found: true, ...lemma };
+    }
+    if (head) return { found: true, ...head, via: null };
+    if (lemma) return { found: true, ...lemma };
     return { found: false };
   }
 
