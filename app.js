@@ -10,7 +10,7 @@
 (function () {
   const DB = window.IC_DB;
   const TEST_WORDS = ["unhappiness", "reconstruction", "misunderstanding", "running", "arguing",
-    "cities", "sunflower", "children", "uncle", "sing", "unflobbable", "visibly", "receptionists"];
+    "cities", "sunflower", "children", "uncle", "sing", "unflobbable", "visibly", "receptionists", "employment", "employ"];
 
   const LS = { provider: "morph-provider", cache: "morph-cache-v" + window.MorphAI.PROMPT_VERSION, history: "morph-history", tree: "morph-tree-style", cls: "morph-cls-mode" };
   const CACHE_MAX = 150;
@@ -483,6 +483,33 @@
       ${pills}</svg>`;
   }
 
+  // ---------- Etymology card: summary, stages, changes of meaning ----------
+  const SPEAKER = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9z"/><path d="M16 9a4 4 0 0 1 0 6M18.5 6.5a8 8 0 0 1 0 11"/></svg>`;
+  function renderEtymology(w, dict) {
+    const box = $("#etym-body");
+    if (!w && !dict) { box.innerHTML = `<p class="et-empty">Look up a word to see where it comes from.</p>`; return; }
+    const word = (w && w.word) || (dict && dict.word) || "";
+    const ipa = (w && w.ipa) || (dict && dict.ipa) || "";
+    const ety = w && w.etymology;
+    const dictText = dict && dict.etymology ? String(dict.etymology) : "";
+    const summary = (ety && ety.summary) || dictText;
+    // Stages: written by the AI when available, otherwise the origin of each morpheme.
+    let steps = ety && Array.isArray(ety.steps) && ety.steps.length ? ety.steps.map(s => ({ label: s.stage, text: s.text, tags: "" })) : [];
+    if (!steps.length && w) steps = w.morphemes.filter(m => m.etym).map(m => ({ label: m.form, text: m.etym, tags: originTags(m.etym) }));
+    const meanings = ety && Array.isArray(ety.meanings) ? ety.meanings.filter(x => x && x.text) : [];
+    const li = s => `<li><b>${esc(s.label)}:</b> ${s.tags || ""} ${esc(s.text)}</li>`;
+    box.innerHTML = `
+      <div class="et-head">
+        <b class="et-word">${esc(word)}</b>${ipa ? `<span class="et-ipa">${esc(ipa)}</span>` : ""}
+        <button type="button" class="et-speak" data-speak="${esc(word)}" aria-label="Hear “${esc(word)}”" title="Hear the word">${SPEAKER}</button>
+      </div>
+      ${summary ? `<p class="et-summary">${esc(summary)}</p>` : `<p class="et-empty">The dictionary has no etymology for this word.</p>`}
+      ${steps.length ? `<h4>Origin and development</h4><ul class="et-list">${steps.map(li).join("")}</ul>` : ""}
+      ${meanings.length ? `<h4>Changes in meaning</h4><ul class="et-list et-meanings">${meanings.map(m => li({ label: m.period || "Later", text: m.text })).join("")}</ul>` : ""}
+      ${ety && dictText && dictText !== summary ? `<p class="et-src"><b>Dictionary:</b> ${esc(dictText)}</p>` : ""}
+      ${ety ? `<p class="et-note">Summary written by the AI from the dictionary entry. Check the dictionary for the original.</p>` : ""}`;
+  }
+
   function renderAll() {
     const w = state.word;
     if (!w) return;
@@ -494,6 +521,7 @@
     renderClassification(w);
     renderWordType(w);
     renderCheat(w);
+    renderEtymology(w, state.dict);
     renderAllo(w);
     renderFamily(w);
     $$(".chip").forEach(c => c.classList.toggle("active", c.dataset.word === w.word));
@@ -508,6 +536,7 @@
     $("#tree").innerHTML = `<div class="tree-wait"><div class="spinner"><span></span><span></span><span></span><span></span></div><div id="wait-msg">The AI is cutting “${esc(word)}”…</div></div>`;
     $("#detail-title").textContent = "Details";
     $(".details").hidden = true;
+    renderEtymology(null, dict);
   }
 
   /** AI cannot run (no key or provider error): keep the page, show the dictionary card and calm placeholders. */
@@ -519,6 +548,7 @@
     $("#bricks").innerHTML = `<div class="empty-card"><b>No analysis yet</b><span>Connect an AI provider in the box above and “${esc(word)}” will be cut into morphemes here.</span></div>`;
     $("#tree").innerHTML = `<div class="tree-wait"><div>The IC tree appears here once the word has been analysed.</div></div>`;
     $(".details").hidden = true;
+    renderEtymology(null, dict);
   }
 
   // ---------- AI banner (replaces blank pages and red errors) ----------
@@ -936,6 +966,15 @@
     });
 
     document.body.addEventListener("click", e => {
+      const speak = e.target.closest("[data-speak]");
+      if (speak) {
+        try {
+          const u = new SpeechSynthesisUtterance(speak.dataset.speak);
+          u.lang = "en-US"; u.rate = 0.9;
+          speechSynthesis.cancel(); speechSynthesis.speak(u);
+        } catch (err) { /* speech not available */ }
+        return;
+      }
       if (e.target.closest("[data-copy]")) {
         const btn = e.target.closest("[data-copy]");
         const done = () => { btn.textContent = "Copied"; setTimeout(() => { btn.textContent = "Copy details"; }, 1500); };

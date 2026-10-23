@@ -4,7 +4,7 @@
  * morphemes can be shown while the rest of the analysis is still arriving.
  */
 (function () {
-  const PROMPT_VERSION = 11;
+  const PROMPT_VERSION = 14;
   const MAX_ATTEMPTS = 2;   // 1 retry when the answer fails validation
 
   /**
@@ -77,11 +77,12 @@
     "Historical (etymological) structure is NOT enough: mention it in \"etym\", but do not cut it.",
     "NEVER invent morphemes and NEVER split a bare root: correct is ONE root (not cor + rect), color is ONE root.",
     "Pseudo-affix traps that must stay ONE free root: carpet (not car + pet), hammer (not ham + -er), wonder (not won + -der), corner, butter, number. The leftover piece must belong to a real family; car-, ham- do not.",
-    "Latinate PREFIX + BOUND ROOT: when the same bound root appears with several prefixes, cut the prefix AND the root: receive = re- + -ceive (also deceive, conceive, perceive), refer = re- + -fer (defer, confer), submit = sub- + -mit (permit, admit). A bound root may change its spelling (allomorph): -ceive ~ cep- (reception, deception), -mit ~ -miss- (permission). Example: receptionists = re- | -ceive (surface cep) | -tion | -ist | -s, tree [N|receptionists [N|receptionist [N|reception [V|receive 0 1] 2] 3] 4].",
+    "Latinate PREFIX + BOUND ROOT (taught in class): re-ceive is cut as re- + -ceive, because re- is a living prefix and -ceive recurs in deceive, conceive, perceive. A bound root may change its spelling (allomorph): -ceive ~ cep- (reception, deception). Example: receptionists = re- | -ceive (surface cep) | -tion | -ist | -s, tree [N|receptionists [N|receptionist [N|reception [V|receive 0 1] 2] 3] 4].",
     "Lexicalised participial adjectives keep their base when the base is a living word: charming = charm + -ing, surprising = surprise + -ing. In these adjectives -ing / -ed are DERIVATIONAL (suffix-der), never inflectional.",
     "",
     "## 2. Spell out every morpheme",
-    "- List morphemes left to right. \"form\" is the dictionary (base) form with hyphen conventions: prefixes \"un-\", suffixes \"-ness\", roots without hyphens.",
+    "- List morphemes left to right. \"form\" is the morpheme as it appears in English spelling today, with hyphen conventions: prefixes \"un-\", suffixes \"-ness\", bound roots \"-ceive\", free roots without hyphens. Use the base spelling only for regular spelling changes (happi → happy, stopp → stop).",
+    "- Spell morphemes as they appear in English today; never use a Latin or Greek ancestor as a morpheme (keep ancestors in etym). Words BORROWED WHOLE from French or Latin whose beginning is not a living English prefix stay ONE free root: employ (Old French emploier) is ONE morpheme, so employment = employ + -ment, tree [N|employment 0 1]. The same applies to similar loanwords, for example ploy-type endings: do not invent em- + ploy or in- + plic-.",
     "- \"surface\" is exactly how the morpheme is spelled inside the word, without hyphens. Joining all surfaces in order MUST give the word with its hyphens removed.",
     "- Restore the base form after spelling changes, and add a \"restoration\" entry for each: consonant doubling (stopping: surface \"stopp\", form \"stop\"), silent e (hoping: surface \"hop\", form \"hope\"), y → i (ladies: surface \"ladi\", form \"lady\").",
     "- Internal change with no separate affix (mice, men, sang): the root keeps its base form with the changed spelling as surface (form \"mouse\", surface \"mice\"), followed by a ZERO morpheme with surface \"\" and form \"{PLURAL}\" or \"{PAST}\", type \"suffix\", cls \"suffix-inf\". Explain the vowel mutation in allomorphy and add a restoration entry (mice- → mouse).",
@@ -110,6 +111,7 @@
     "- Be BRIEF and student-friendly: process is a LABEL of at most 8 words (for example \"Derivation (prefix + suffix) + inflection\"), never an explanation; each meaning at most 12 words, each etym at most 10 words, allomorphy and derivInfl one or two short sentences, gloss at most 10 words.",
     "- restoration: surface ends with a hyphen; empty list if nothing changed.",
     "- family: the historical root, its short gloss, and 6 real related English words.",
+    "- etymology (about the WHOLE word): summary is ONE sentence on where the word comes from (for example: comes from Latin through Old French and entered English in the 14th century); steps are 2 to 3 stages with a short label such as \"Latin origin\", \"Old French\" or \"Entry into English\" and a text of at most 20 words; meanings are 0 to 3 changes of meaning, each with a period (for example \"14th century\") and a text. Base it on the dictionary etymology when one is given. Only state dates and facts you are sure about; otherwise leave the period out of the text or use an empty list.",
     "- The user message may contain DICTIONARY CONTEXT (part of speech, definition, etymology of the word). Treat it as reliable, use it to decide the segmentation and to keep etym short, and do not contradict it.",
     "- If the user message says the word is NOT in the dictionary, analyse it as a nonce word using productive rules, and say so in the gloss."
   ].join("\n");
@@ -118,7 +120,7 @@
     const str = { type: "string" };
     return {
       type: "object",
-      required: ["morphemes", "tree", "insights", "family", "process", "pos", "gloss"],
+      required: ["morphemes", "tree", "insights", "family", "etymology", "process", "pos", "gloss"],
       properties: {
         morphemes: {
           type: "array",
@@ -153,6 +155,15 @@
           type: "object",
           required: ["root", "rootGloss", "words"],
           properties: { root: str, rootGloss: str, words: { type: "array", items: str } }
+        },
+        etymology: {
+          type: "object",
+          required: ["summary", "steps", "meanings"],
+          properties: {
+            summary: str,
+            steps: { type: "array", items: { type: "object", required: ["stage", "text"], properties: { stage: str, text: str } } },
+            meanings: { type: "array", items: { type: "object", required: ["period", "text"], properties: { period: str, text: str } } }
+          }
         },
         process: str, pos: str, gloss: str
       }
@@ -228,6 +239,15 @@
     });
     if (!ms.some(m => m.type === "root")) problems.push("There is no root.");
     ms.forEach((m, i) => {
+      if (m.type === "root" || !m.surface) return;
+      const f = plain(m.form), sf = String(m.surface).toLowerCase();
+      let common = 0;
+      while (common < f.length && common < sf.length && f[common] === sf[common]) common++;
+      if (f !== sf && !m.allomorphOf && common < Math.min(2, f.length, sf.length)) {
+        problems.push(`Morpheme ${i}: the affix "${m.form}" is spelled "${m.surface}" in the word. Give the form that appears in the spelling (im- for immature, not in-) and set allomorphOf when it is a variant of another affix; keep Latin ancestors in etym.`);
+      }
+    });
+    ms.forEach((m, i) => {
       const v = m.variant || "";
       if (!v) return;
       if (/\((v|v2|adv|comparative|superlative)\)$/.test(v) && m.cls !== "suffix-inf") problems.push(`Morpheme ${i} is labelled ${v}, which is inflectional, but its cls is ${m.cls}.`);
@@ -259,7 +279,7 @@
     };
     return {
       word, pos: ai.pos, ipa: "", gloss: ai.gloss, process: ai.process,
-      morphemes: ms, tree: make(parsed, true), insights: ai.insights, family: ai.family,
+      morphemes: ms, tree: make(parsed, true), insights: ai.insights, family: ai.family, etymology: ai.etymology || null,
       source: "ai", model, promptVersion: PROMPT_VERSION
     };
   }

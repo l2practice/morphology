@@ -6,12 +6,6 @@
  */
 (function () {
   const SVG_NS = "http://www.w3.org/2000/svg";
-  const LEVEL_GAP = 96;
-  const LEAF_GAP = 28;
-  const NODE_H = 40;
-  const PAD_X = 90;     // room for the level labels on the left
-  const PAD_Y = 30;
-  const CHAR_W = 9.2;
 
   function el(name, attrs, text) {
     const node = document.createElementNS(SVG_NS, name);
@@ -20,120 +14,104 @@
     return node;
   }
 
-  function boxWidth(label, tag) {
-    return Math.max(64, label.length * CHAR_W + (tag ? tag.length * 7 + 16 : 0) + 28);
-  }
+  // ------------------------------------------------------------------
+  // Cut diagram (the "box" drawing used on the board): a vertical cut splits a
+  // constituent and the line under it marks that constituent. The cuts are
+  // drawn top-down with a wipe. Irregular words (good → better, mouse → mice)
+  // cannot be cut out of their spelling, so they fall back to the branching tree.
+  // ------------------------------------------------------------------
+  const commonPrefix = (a, b) => { let i = 0; while (i < a.length && i < b.length && a[i] === b[i]) i++; return i; };
 
-  // Build a layout tree: each node gets depth, width, x, y.
-  function build(spec, word, depth) {
-    if (spec.children) {
-      const kids = spec.children.map(c => build(c, word, depth + 1));
-      return { label: spec.label, tag: spec.cat, depth, kids, kind: "inner" };
-    }
-    const m = word.morphemes[spec.m];
-    const isWholeWord = spec.label && word.morphemes.length === 1;
-    const label = isWholeWord ? spec.label : m.form;
-    return { label, tag: m.type === "root" ? (m.cat || spec.cat || "") : "", depth, kind: m.type, cls: m.cls, kids: [] };
-  }
-
-  function layout(root) {
-    let cursor = PAD_X;
-    let maxDepth = 0;
-    (function walk(n) {
-      n.w = boxWidth(n.label, n.tag);
-      n.y = PAD_Y + n.depth * LEVEL_GAP;
-      maxDepth = Math.max(maxDepth, n.depth);
-      if (!n.kids.length) {
-        n.x = cursor + n.w / 2;
-        cursor += n.w + LEAF_GAP;
-      } else {
-        n.kids.forEach(walk);
-        n.x = (n.kids[0].x + n.kids[n.kids.length - 1].x) / 2;
-      }
-    })(root);
-
-    // Resolve overlaps between inner nodes on the same level by shifting
-    // whole subtrees to the right.
-    const levels = [];
-    (function collect(n) { (levels[n.depth] = levels[n.depth] || []).push(n); n.kids.forEach(collect); })(root);
-    const shift = (n, dx) => { n.x += dx; n.kids.forEach(k => shift(k, dx)); };
-    levels.forEach(row => {
-      for (let i = 1; i < row.length; i++) {
-        const a = row[i - 1], b = row[i];
-        const overlap = (a.x + a.w / 2 + LEAF_GAP) - (b.x - b.w / 2);
-        if (overlap > 0) shift(b, overlap);
-      }
+  function isIrregular(word) {
+    return word.morphemes.some(m => {
+      if (m.surface === "") return true;                                  // zero morpheme: {PLURAL}, {PAST}
+      const form = m.form.replace(/-/g, "").toLowerCase();
+      const surf = String(m.surface || "").toLowerCase();
+      return m.type === "root" && form !== surf && commonPrefix(form, surf) < 2;   // good → bett-, go → went
     });
-    (function recenter(n) { if (n.kids.length) { n.kids.forEach(recenter); n.x = (n.kids[0].x + n.kids[n.kids.length - 1].x) / 2; } })(root);
-
-    let maxX = 0, minX = Infinity;
-    (function bounds(n) { maxX = Math.max(maxX, n.x + n.w / 2); minX = Math.min(minX, n.x - n.w / 2); n.kids.forEach(bounds); })(root);
-    return { width: Math.max(maxX + 30, 420), height: PAD_Y * 2 + maxDepth * LEVEL_GAP + NODE_H, maxDepth, minX };
   }
 
-  function renderBoxes(container, word, t) {
+  function renderCuts(container, word, t) {
     container.innerHTML = "";
-    const root = build(word.tree, word, 0);
-    const dims = layout(root);
-    const svg = el("svg", {
-      viewBox: `0 0 ${dims.width} ${dims.height}`,
-      width: "100%", role: "img",
-      "aria-label": `IC tree for ${word.word}`,
-      class: "ic-tree"
-    });
-    svg.style.maxWidth = dims.width + "px";
-
-    // Level guides
-    for (let d = 0; d <= dims.maxDepth; d++) {
-      const y = PAD_Y + d * LEVEL_GAP + NODE_H / 2;
-      svg.appendChild(el("line", { x1: 10, x2: dims.width - 10, y1: y, y2: y, class: "level-line" }));
-      svg.appendChild(el("text", { x: 12, y: y - 8, class: "level-label" }, d === 0 ? t("levelWord") : `${t("levelCut")} ${d}`));
+    if (isIrregular(word)) {
+      const note = document.createElement("p");
+      note.className = "cut-note";
+      note.textContent = "This word is irregular, so its parts cannot be cut out of the spelling. The branching tree is shown instead.";
+      container.appendChild(note);
+      const holder = document.createElement("div");
+      container.appendChild(holder);
+      renderClassic(holder, word);
+      return;
     }
 
-    const edges = el("g", { class: "edges" });
-    const nodes = el("g", { class: "nodes" });
-    svg.appendChild(edges);
-    svg.appendChild(nodes);
+    const FONT = 38, GAP = 28, PAD = 30, TOP = 40, BASE = 82, UL0 = 20, UL_STEP = 18, BAR_W = 4;
+    const ms = word.morphemes;
+    const build = (spec, depth) => spec.children
+      ? { depth, kids: spec.children.map(c => build(c, depth + 1)) }
+      : { depth, leaf: spec.m };
+    const root = build(word.tree, 0);
 
-    let order = 0;
-    (function draw(n) {
-      n.kids.forEach(k => {
-        const path = el("path", {
-          d: `M${n.x},${n.y + NODE_H} C${n.x},${n.y + NODE_H + 30} ${k.x},${k.y - 30} ${k.x},${k.y}`,
-          class: `edge edge-${k.kind}`,
-          style: `animation-delay:${0.15 + k.depth * 0.25}s`
-        });
-        edges.appendChild(path);
-        draw(k);
-      });
+    const wrap = document.createElement("div");
+    wrap.className = "cut-panel";
+    const svg = el("svg", { role: "img", "aria-label": `Cut diagram for ${word.word}`, class: "cut-svg" });
+    wrap.appendChild(svg);
+    container.appendChild(wrap);
 
-      const g = el("g", {
-        class: `node node-${n.kind}`,
-        transform: `translate(${n.x - n.w / 2},${n.y})`,
-        style: `animation-delay:${n.depth * 0.25 + (order++) * 0.03}s`
-      });
-      g.appendChild(el("rect", { width: n.w, height: NODE_H, rx: 9, ry: 9 }));
-      const labelW = n.label.length * CHAR_W;
-      const tagW = n.tag ? n.tag.length * 7 + 16 : 0;
-      const startX = (n.w - labelW - tagW) / 2;
-      g.appendChild(el("text", { x: startX, y: NODE_H / 2 + 6, class: "node-label" }, n.label));
-      if (n.tag) {
-        g.appendChild(el("text", { x: startX + labelW + 8, y: NODE_H / 2 + 5, class: "node-tag" }, n.tag));
-      }
-      const title = el("title", {}, n.kind === "inner" ? `${n.label} (${n.tag})` : `${n.label} — ${t("cls_" + n.cls)}`);
-      g.appendChild(title);
-      nodes.appendChild(g);
+    // Place the morphemes left to right; measure the real text width.
+    const leaves = [];
+    (function collect(n) { if (n.leaf !== undefined) leaves.push(n); else n.kids.forEach(collect); })(root);
+    let x = PAD;
+    leaves.forEach(n => {
+      const m = ms[n.leaf];
+      const text = el("text", { x, y: BASE, class: `cut-morph cut-${m.type}` }, m.form);
+      text.appendChild(el("title", {}, `${m.form} — ${t("cls_" + m.cls)}`));
+      svg.appendChild(text);
+      let w = 0;
+      try { w = text.getComputedTextLength(); } catch (e) { /* not laid out */ }
+      w = w || m.form.length * FONT * 0.6;
+      n.x1 = x; n.x2 = x + w;
+      x += w + GAP;
+    });
+    const width = Math.max(x - GAP + PAD, 260);
+
+    // Constituents: span, cut position, height above the leaves.
+    let maxH = 0;
+    (function measure(n) {
+      if (n.leaf !== undefined) { n.h = 0; return; }
+      n.kids.forEach(measure);
+      n.x1 = n.kids[0].x1; n.x2 = n.kids[n.kids.length - 1].x2;
+      n.cut = (n.kids[0].x2 + n.kids[1].x1) / 2;
+      n.h = 1 + Math.max(...n.kids.map(k => k.h));
+      maxH = Math.max(maxH, n.h);
     })(root);
 
-    container.appendChild(svg);
-    if (!root.kids.length) {
+    const ulY = h => BASE + UL0 + (h - 1) * UL_STEP;
+    const height = (maxH ? ulY(maxH) : BASE) + 30;
+    svg.setAttribute("viewBox", `0 0 ${width} ${height}`);
+    svg.setAttribute("width", width);
+    svg.setAttribute("height", height);
+
+    // Lines: the whole word is cut first, then each part, so deeper cuts come later.
+    (function lines(n) {
+      if (n.leaf !== undefined) return;
+      const y = ulY(n.h);
+      const delay = 0.3 + n.depth * 0.55;
+      svg.appendChild(el("rect", {
+        x: n.x1 - 6, y, width: n.x2 - n.x1 + 12, height: BAR_W, rx: 2, class: "cut-ul", style: `animation-delay:${delay}s`
+      }));
+      svg.appendChild(el("rect", {
+        x: n.cut - BAR_W / 2, y: TOP, width: BAR_W, height: y + BAR_W - TOP, rx: 2, class: "cut-bar", style: `animation-delay:${delay + 0.25}s`
+      }));
+      n.kids.forEach(lines);
+    })(root);
+
+    if (!root.kids) {
       const note = document.createElement("p");
-      note.className = "tree-note";
+      note.className = "cut-note light";
       note.textContent = t("monomorphemic");
       container.appendChild(note);
     }
   }
-
 
   // ------------------------------------------------------------------
   // Textbook style: category labels on the cuts, "pref / V / suff (A) /
@@ -284,7 +262,7 @@
 
   function render(container, word, t, style) {
     window.__ctTitle = m => t("cls_" + m.cls);
-    return style === "boxes" ? renderBoxes(container, word, t) : renderClassic(container, word);
+    return style === "boxes" ? renderCuts(container, word, t) : renderClassic(container, word);
   }
 
   window.ICTree = { render };

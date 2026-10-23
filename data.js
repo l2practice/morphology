@@ -1,4 +1,4 @@
-/* Morphology — 13 hand-verified test words (English only).
+/* Morphology — 15 hand-verified test words (English only).
    cls keys: prefix-der, prefix-inf, root-free, root-bound, suffix-der, suffix-inf */
 window.IC_DB = {
  "unhappiness": {
@@ -940,6 +940,137 @@ window.IC_DB = {
     "perception",
     "receipt",
     "receptive"
+   ]
+  }
+ },
+ "employment": {
+  "word": "employment",
+  "pos": "Noun",
+  "ipa": "/ɪmˈplɔɪmənt/",
+  "gloss": "the state of having a paid job",
+  "process": "Derivation (suffix)",
+  "morphemes": [
+   {
+    "form": "employ",
+    "surface": "employ",
+    "type": "root",
+    "cls": "root-free",
+    "cat": "V",
+    "meaning": "Verb 'to give someone paid work; to use'. Borrowed as a whole from Old French, so in English it is a single morpheme.",
+    "etym": "Old French emploier, from Latin implicare 'to enfold, involve'."
+   },
+   {
+    "form": "-ment",
+    "surface": "ment",
+    "type": "suffix",
+    "cls": "suffix-der",
+    "meaning": "Forms a noun of action or result from a verb (V → N): employ → employment.",
+    "etym": "Latin -mentum, via Old French -ment."
+   }
+  ],
+  "tree": {
+   "label": "employment",
+   "cat": "N",
+   "children": [
+    {
+     "m": 0
+    },
+    {
+     "m": 1
+    }
+   ]
+  },
+  "insights": {
+   "allomorphy": "No spelling change: employ + -ment → employment.",
+   "restoration": [],
+   "derivInfl": "-ment is derivational: it turns the verb employ into a noun. employ itself is a single morpheme (a loanword from French)."
+  },
+  "etymology": {
+   "summary": "From employ (Old French emploier) + the suffix -ment.",
+   "steps": [
+    {
+     "stage": "Latin origin",
+     "text": "implicare 'to fold in, involve'."
+    },
+    {
+     "stage": "Old French",
+     "text": "emploier, and the noun suffix -ment from Latin -mentum."
+    },
+    {
+     "stage": "English",
+     "text": "employ + -ment formed employment 'a use or engagement'."
+    }
+   ],
+   "meanings": []
+  },
+  "family": {
+   "root": "employ",
+   "rootGloss": "to give work",
+   "words": [
+    "employ",
+    "employee",
+    "employer",
+    "employable",
+    "unemployed",
+    "unemployment"
+   ]
+  }
+ },
+ "employ": {
+  "word": "employ",
+  "pos": "Verb",
+  "ipa": "/ɪmˈplɔɪ/",
+  "gloss": "to give someone paid work",
+  "process": "Single free root (borrowed whole from French)",
+  "morphemes": [
+   {
+    "form": "employ",
+    "surface": "employ",
+    "type": "root",
+    "cls": "root-free",
+    "cat": "V",
+    "meaning": "Verb 'to give someone paid work; to use'. Borrowed as a whole from Old French, so in English it is a single morpheme.",
+    "etym": "Old French emploier, from Latin implicare 'to enfold, involve'."
+   }
+  ],
+  "tree": {
+   "label": "employ",
+   "cat": "V",
+   "m": 0
+  },
+  "insights": {
+   "allomorphy": "No spelling change.",
+   "restoration": [],
+   "derivInfl": "employ is one morpheme. The Latin parts in- + plicare merged before the word came into English, so they are not analysed as separate morphemes here."
+  },
+  "etymology": {
+   "summary": "Borrowed into English from Old French emploier, which goes back to Latin implicare 'to enfold, involve'.",
+   "steps": [
+    {
+     "stage": "Latin origin",
+     "text": "implicare 'to fold in, involve', from in- 'in' + plicare 'to fold'."
+    },
+    {
+     "stage": "Old French",
+     "text": "emploier 'to apply, use'; Latin parts had already merged into one word."
+    },
+    {
+     "stage": "Into English",
+     "text": "borrowed whole, so English speakers do not feel separate parts in it."
+    }
+   ],
+   "meanings": []
+  },
+  "family": {
+   "root": "employ",
+   "rootGloss": "to give work",
+   "words": [
+    "employment",
+    "employee",
+    "employer",
+    "employable",
+    "unemployed",
+    "unemployment"
    ]
   }
  }

@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=20261022g">
+  <link rel="stylesheet" href="style.css?v=20261023c">
 </head>
 <body>
   <div class="frame">
@@ -120,13 +120,20 @@
               <div id="tree" class="tree"></div>
             </section>
 
-            <aside class="card dark c-practice">
-              <p class="eyebrow light">Practice mode</p>
-              <h3>Cut it yourself <span class="swash">first</span>, then check!</h3>
-              <p>Say where the first cut falls and which affix attached last. Then compare with the tree.</p>
-              <div id="chips" class="chips" aria-label="Verified test words"></div>
-              <button type="button" id="random" class="btn btn-light">Surprise me</button>
-            </aside>
+            <div class="c-side">
+              <aside class="card dark c-practice">
+                <div class="pr-top">
+                  <p class="eyebrow light">Practice mode</p>
+                  <button type="button" id="random" class="btn btn-light btn-sm">Surprise me</button>
+                </div>
+                <h3>Cut it yourself <span class="swash">first</span>, then check!</h3>
+                <div id="chips" class="chips" aria-label="Verified test words"></div>
+              </aside>
+              <section class="card etym-card" id="etym-card">
+                <div class="sec-head"><h3>Etymology</h3></div>
+                <div id="etym-body" class="etym-body"><p class="et-empty">Look up a word to see where it comes from.</p></div>
+              </section>
+            </div>
           </div>
 
           <section class="card details">
@@ -199,7 +206,7 @@
         </div>
       </section>
 
-      <footer class="footer">Morphology · Immediate Constituent analysis practice for English majors · build 20261022g</footer>
+      <footer class="footer">Morphology · Immediate Constituent analysis practice for English majors · build 20261023c</footer>
     </main>
   </div>
 
@@ -216,11 +223,11 @@
 
   <div id="popups" class="popups" aria-live="polite"></div>
 
-  <script src="data.js?v=20261022g"></script>
-  <script src="dict.js?v=20261022g"></script>
-  <script src="ai.js?v=20261022g"></script>
-  <script src="tree.js?v=20261022g"></script>
-  <script src="bricks.js?v=20261022g"></script>
-  <script src="app.js?v=20261022g"></script>
+  <script src="data.js?v=20261023c"></script>
+  <script src="dict.js?v=20261023c"></script>
+  <script src="ai.js?v=20261023c"></script>
+  <script src="tree.js?v=20261023c"></script>
+  <script src="bricks.js?v=20261023c"></script>
+  <script src="app.js?v=20261023c"></script>
 </body>
 </html>
