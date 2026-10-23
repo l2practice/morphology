@@ -4,7 +4,7 @@
  * morphemes can be shown while the rest of the analysis is still arriving.
  */
 (function () {
-  const PROMPT_VERSION = 14;
+  const PROMPT_VERSION = 15;
   const MAX_ATTEMPTS = 2;   // 1 retry when the answer fails validation
 
   /**
@@ -68,6 +68,8 @@
     "You are an expert English morphologist helping English-major students practise Immediate Constituent (IC) analysis.",
     "Analyse the word you are given and answer with JSON that follows the schema. Work through the decision procedure below before you answer.",
     "",
+    "## 0. Default: ONE morpheme",
+    "A word is ONE morpheme (one free root, tree \"0\") unless a living English affix can clearly be cut off. When in doubt, do NOT cut. Single-morpheme words include simple native words and loanwords borrowed whole: employ, carpet, hammer, wonder, corner, butter, number, village. Never split a word only because it looks like it has pieces, or because its Latin or French ancestor did.",
     "## 1. Segment: is each cut real in present-day English?",
     "Cut off a piece only if ALL three tests pass:",
     "  (a) the remaining base exists as a word, or as a recognisable BOUND root shared by a word family (vis- in vision, visual, visible);",
@@ -112,6 +114,7 @@
     "- restoration: surface ends with a hyphen; empty list if nothing changed.",
     "- family: the historical root, its short gloss, and 6 real related English words.",
     "- etymology (about the WHOLE word): summary is ONE sentence on where the word comes from (for example: comes from Latin through Old French and entered English in the 14th century); steps are 2 to 3 stages with a short label such as \"Latin origin\", \"Old French\" or \"Entry into English\" and a text of at most 20 words; meanings are 0 to 3 changes of meaning, each with a period (for example \"14th century\") and a text. Base it on the dictionary etymology when one is given. Only state dates and facts you are sure about; otherwise leave the period out of the text or use an empty list.",
+    "- Read the dictionary etymology as evidence: \"X + -suffix\" (formed inside English) supports a cut; a plain history of borrowing or inheritance with no \"+\" (employ: from Old French emploier) supports ONE root.",
     "- The user message may contain DICTIONARY CONTEXT (part of speech, definition, etymology of the word). Treat it as reliable, use it to decide the segmentation and to keep etym short, and do not contradict it.",
     "- If the user message says the word is NOT in the dictionary, analyse it as a nonce word using productive rules, and say so in the gloss."
   ].join("\n");
@@ -185,6 +188,11 @@
 
   const plain = s => String(s || "").toLowerCase().replace(/-/g, "");
 
+  // Affixes students meet in class. An affix outside these lists is suspicious: the word may be one root.
+  const PREFIXES = new Set("an anti auto be bi by co com con contra counter de dis en ex extra fore hyper hypo il im in inter intra ir mal micro mid mis mono multi non out over para poly post pre pro pseudo re semi sub super trans tri un under uni up with".split(" "));
+  const SUFFIXES = new Set(("s es 's s' ed en ing er est ly ness ment tion sion ation ition ion ity ty ive ative itive ous ious eous al ial ful less able ible ist ism ize ise ify fy ish y hood ship dom ward wise ant ent ance ence ancy ency ary ory ic ical ure age ee eer ette let ling ster some like th ery ry or ess ial ual").split(" "));
+  const SOFT = "SOFT: ";
+
   /**
    * Parse "[Cat|label left right]" into { cat, label, kids } / { leaf: n }.
    * Returns { tree } or { error }.
@@ -246,6 +254,12 @@
       if (f !== sf && !m.allomorphOf && common < Math.min(2, f.length, sf.length)) {
         problems.push(`Morpheme ${i}: the affix "${m.form}" is spelled "${m.surface}" in the word. Give the form that appears in the spelling (im- for immature, not in-) and set allomorphOf when it is a variant of another affix; keep Latin ancestors in etym.`);
       }
+    });
+    ms.forEach((m, i) => {
+      if (m.type === "root" || !m.form || /^\{/.test(m.form)) return;
+      const f = plain(m.form);
+      const known = m.type === "prefix" ? PREFIXES.has(f) : SUFFIXES.has(f);
+      if (!known) problems.push(`${SOFT}"${m.form}" is not a common English ${m.type}. If the word was borrowed whole (like employ) keep it as ONE root with tree "0"; cut it only if "${m.form}" is a living affix.`);
     });
     ms.forEach((m, i) => {
       const v = m.variant || "";
@@ -527,10 +541,14 @@
         }
       });
       problems = validate(ai, word);
-      if (!problems.length) {
+      const hard = problems.filter(p => !p.startsWith(SOFT));
+      const soft = problems.filter(p => p.startsWith(SOFT));
+      // Hard problems always retry; a soft doubt is raised once and then shown to the student as a warning.
+      if (!hard.length && (!soft.length || attempt === MAX_ATTEMPTS)) {
         const data = toAppFormat(ai, word, model);
         data.provider = provider;
         data.attempts = attempt;
+        if (soft.length) data.warnings = soft.map(p => p.slice(SOFT.length));
         return data;
       }
     }
@@ -593,5 +611,5 @@
     return true;
   }
 
-  window.MorphAI = { analyze, testKey, listModels, pickGeminiModel, validate, parseTree, toAppFormat, partialMorphemes, PROVIDERS, PROMPT_VERSION, ApiError };
+  window.MorphAI = { SOFT, analyze, testKey, listModels, pickGeminiModel, validate, parseTree, toAppFormat, partialMorphemes, PROVIDERS, PROMPT_VERSION, ApiError };
 })();

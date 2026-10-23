@@ -699,6 +699,9 @@
       cachePut(key, run.data);
       renderAll();
       finish(key, opts);
+      if (run.data.warnings && run.data.warnings.length) {
+        popup({ tone: "warn", kind: "warning", sticky: true, html: `<b>Check this cut.</b> ${run.data.warnings.map(esc).join(" ")}` });
+      }
       if (run.provider !== provider || run.model !== getModel(provider)) {
         const first = attempts[0];
         // The saved model no longer exists for this key: remember the one that worked.
