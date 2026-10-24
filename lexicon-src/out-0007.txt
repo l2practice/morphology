@@ -1,0 +1,200 @@
+gain	verb	gain|gain|R|V
+fully	adv	full|ful|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+restaurant	noun	restaurant|restaurant|R|N
+judge	noun	judge|judge|R|N
+scale	noun	scale|scale|R|N
+equipment	noun	equip|equip|R|V ; -ment|ment|S
+afternoon	noun	after|after|R ; noon|noon|R|N
+release	verb	release|release|R|V
+credit	noun	credit|credit|R|N
+critical	adj	critic|critic|R|N ; -al|al|S
+male	adj	male|male|R|Adj
+review	noun	review|review|R|N
+recall	verb	recall|recall|R|V
+interested	adj	interest|interest|R|V ; -ed|ed|S||-ed (adj)
+stare	verb	stare|stare|R|V
+safety	noun	safe|safe|R|Adj ; -ty|ty|S
+otherwise	adv	otherwise|otherwise|R|Adv
+hill	noun	hill|hill|R|N
+neighborhood	noun	neighbor|neighbor|R|N ; -hood|hood|S
+hardly	adv	hard|hard|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+below	prep	below|below|R
+status	noun	status|status|R|N
+troop	noun	troop|troop|R|N
+directly	adv	direct|direct|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+expression	noun	express|express|R|V ; -ion|ion|S
+hurt	verb	hurt|hurt|R|V
+tea	noun	tea|tea|R|N
+sale	noun	sale|sale|R|N
+track	noun	track|track|R|N
+band	noun	band|band|R|N
+strike	verb	strike|strike|R|V
+failure	noun	fail|fail|R|V ; -ure|ure|S
+sky	noun	sky|sky|R|N
+freedom	noun	free|free|R|Adj ; -dom|dom|S
+reader	noun	read|read|R|V ; -er|er|S||-er (N)
+absolutely	adv	absolute|absolute|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+fair	adj	fair|fair|R|Adj
+plane	noun	plane|plane|R|N
+nobody	pron	no|no|R ; body|body|R|N
+essential	adj	essential|essential|R|Adj
+confirm	verb	confirm|confirm|R|V
+adopt	verb	adopt|adopt|R|V
+powerful	adj	power|power|R|N ; -ful|ful|S
+perfect	adj	perfect|perfect|R|Adj
+trust	noun	trust|trust|R|N
+conduct	noun	con-|con|P ; -duct|duct|B|V
+completely	adv	complete|complete|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+conversation	noun	converse|convers|R|V ; -ation|ation|S
+touch	verb	touch|touch|R|V
+farm	noun	farm|farm|R|N
+sentence	noun	sentence|sentence|R|N
+smith	noun	smith|smith|R|N
+file	noun	file|file|R|N
+primary	adj	primary|primary|R|Adj
+sleep	verb	sleep|sleep|R|V
+obvious	adj	obvious|obvious|R|Adj
+length	noun	long|leng|R|Adj ; -th|th|S
+copy	noun	copy|copy|R|N
+investigation	noun	investigate|investigat|R|V ; -ion|ion|S
+balance	noun	balance|balance|R|N
+nuclear	adj	nuclear|nuclear|R|Adj
+researcher	noun	research|research|R|V ; -er|er|S||-er (N)
+branch	noun	branch|branch|R|N
+conflict	noun	conflict|conflict|R|N
+spirit	noun	spirit|spirit|R|N
+league	noun	league|league|R|N
+doubt	noun	doubt|doubt|R|N
+train	verb	train|train|R|V
+accident	noun	accident|accident|R|N
+camp	noun	camp|camp|R|N
+brain	noun	brain|brain|R|N
+studio	noun	studio|studio|R|N
+weekend	noun	week|week|R|N ; end|end|R|N
+dozen	noun	dozen|dozen|R|N
+strength	noun	strong|streng|R|Adj ; -th|th|S
+normally	adv	normal|normal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+contact	noun	contact|contact|R|N
+insurance	noun	insure|insur|R|V ; -ance|ance|S
+battle	noun	battle|battle|R|N
+beginning	noun	begin|begin|R|V ; -ing|ning|S||-ing (N)
+shape	noun	shape|shape|R|N
+contribution	noun	contribute|contribut|R|V ; -ion|ion|S
+transport	noun	transport|transport|R|N
+cash	noun	cash|cash|R|N
+crisis	noun	crisis|crisis|R|N
+fan	noun	fan|fan|R|N
+works	noun	work|work|R|N ; -s|s|I||-s (plural)
+museum	noun	museum|museum|R|N
+stick	verb	stick|stick|R|V
+hole	noun	hole|hole|R|N
+pair	noun	pair|pair|R|N
+annual	adj	annual|annual|R|Adj
+associate	verb	associate|associate|R|V
+vision	noun	vis|vis|B|V ; -ion|ion|S
+marry	verb	marry|marry|R|V
+presence	noun	presence|presence|R|N
+ship	noun	ship|ship|R|N
+protection	noun	protect|protect|R|V ; -ion|ion|S
+collect	verb	collect|collect|R|V
+slowly	adv	slow|slow|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+queen	noun	queen|queen|R|N
+master	noun	master|master|R|N
+driver	noun	drive|driv|R|V ; -er|er|S||-er (N)
+meaning	noun	mean|mean|R|V ; -ing|ing|S||-ing (N)
+spot	noun	spot|spot|R|N
+ice	noun	ice|ice|R|N
+boat	noun	boat|boat|R|N
+employ	verb	employ|employ|R|V
+drink	verb	drink|drink|R|V
+exercise	noun	exercise|exercise|R|N
+consequence	noun	consequence|consequence|R|N
+distance	noun	distance|distance|R|N
+wood	noun	wood|wood|R|N
+relatively	adv	relative|relative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+truck	noun	truck|truck|R|N
+handle	verb	handle|handle|R|V
+august	noun	august|august|R|N
+mountain	noun	mountain|mountain|R|N
+relevant	adj	relevant|relevant|R|Adj
+supposed	adj	suppose|suppos|R|V ; -ed|ed|S||-ed (adj)
+apparently	adv	apparent|apparent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+tradition	noun	tradition|tradition|R|N
+winter	noun	winter|winter|R|N
+speed	noun	speed|speed|R|N
+route	noun	route|route|R|N
+proportion	noun	proportion|proportion|R|N
+consideration	noun	consider|consider|R|V ; -ation|ation|S
+assessment	noun	assess|assess|R|V ; -ment|ment|S
+roll	verb	roll|roll|R|V
+latter	adj	latter|latter|R|Adj
+emerge	verb	emerge|emerge|R|V
+screen	noun	screen|screen|R|N
+regional	adj	region|region|R|N ; -al|al|S
+fig	noun	fig|fig|R|N
+resident	noun	resident|resident|R|N
+hide	verb	hide|hide|R|V
+mark	noun	mark|mark|R|N
+gold	noun	gold|gold|R|N
+separate	adj	separate|separate|R|Adj
+deny	verb	deny|deny|R|V
+practical	adj	practice|practic|R|N ; -al|al|S
+potential	adj	potential|potential|R|Adj
+understanding	noun	understand|understand|R|V ; -ing|ing|S||-ing (N)
+aim	noun	aim|aim|R|N
+danger	noun	danger|danger|R|N
+progress	noun	progress|progress|R|N
+path	noun	path|path|R|N
+reaction	noun	react|react|R|V ; -ion|ion|S
+crowd	noun	crowd|crowd|R|N
+flower	noun	flower|flower|R|N
+appoint	verb	appoint|appoint|R|V
+apartment	noun	apartment|apartment|R|N
+merely	adv	mere|mere|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+willing	adj	will|will|R|V ; -ing|ing|S||-ing (adj)
+regular	adj	regular|regular|R|Adj
+link	noun	link|link|R|N
+comment	noun	comment|comment|R|N
+due	adj	due|due|R|Adj
+content	noun	content|content|R|N
+conclusion	noun	conclude|conclus|R|V ; -ion|ion|S
+prison	noun	prison|prison|R|N
+chief	adj	chief|chief|R|Adj
+ride	verb	ride|ride|R|V
+guard	noun	guard|guard|R|N
+reply	verb	reply|reply|R|V
+reporter	noun	report|report|R|V ; -er|er|S||-er (N)
+justice	noun	just|just|R|Adj ; -ice|ice|S
+deliver	verb	deliver|deliver|R|V
+observe	verb	observe|observe|R|V
+belief	noun	belief|belief|R|N
+tool	noun	tool|tool|R|N
+wild	adj	wild|wild|R|Adj
+mhm	interj	mhm|mhm|R
+vehicle	noun	vehicle|vehicle|R|N
+flight	noun	fly|fligh|R|V ; -t|t|S
+settle	verb	settle|settle|R|V
+ignore	verb	ignore|ignore|R|V
+sight	noun	sight|sight|R|N
+average	adj	average|average|R|Adj
+estate	noun	estate|estate|R|N
+quick	adj	quick|quick|R|Adj
+leadership	noun	leader|leader|R|N ; -ship|ship|S
+wine	noun	wine|wine|R|N
+earn	verb	earn|earn|R|V
+ring	noun	ring|ring|R|N
+bright	adj	bright|bright|R|Adj
+henry	noun	henry|henry|R|N
+propose	verb	propose|propose|R|V
+additional	adj	addition|addition|R|N ; -al|al|S
+guest	noun	guest|guest|R|N
+dad	noun	dad|dad|R|N
+sample	noun	sample|sample|R|N
+contribute	verb	contribute|contribute|R|V
+possibly	adv	possible|possib|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+tiny	adj	tiny|tiny|R|Adj
+block	noun	block|block|R|N
+clothes	noun	clothes|clothes|R|N
+active	adj	active|active|R|Adj
+feed	verb	feed|feed|R|V
+employer	noun	employ|employ|R|V ; -er|er|S||-er (N)

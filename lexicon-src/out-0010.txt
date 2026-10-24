@@ -1,0 +1,200 @@
+notion	noun	notion|notion|R|N
+capture	verb	capture|capture|R|V
+closely	adv	close|close|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+chest	noun	chest|chest|R|N
+ministry	noun	minister|ministr|R|N ; -y|y|S
+emphasis	noun	emphasis|emphasis|R|N
+truly	adv	true|tru|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+increasing	adj	increase|increas|R|V ; -ing|ing|S||-ing (adj)
+neither	det	neither|neither|R
+thick	adj	thick|thick|R|Adj
+afford	verb	afford|afford|R|V
+beauty	noun	beauty|beauty|R|N
+prospect	noun	prospect|prospect|R|N
+emergency	noun	emergency|emergency|R|N
+narrow	adj	narrow|narrow|R|Adj
+inform	verb	inform|inform|R|V
+unique	adj	unique|unique|R|Adj
+advise	verb	advise|advise|R|V
+ethnic	adj	ethnic|ethnic|R|Adj
+priority	noun	prior|prior|R|Adj ; -ity|ity|S
+opening	noun	open|open|R|V ; -ing|ing|S||-ing (N)
+stress	noun	stress|stress|R|N
+combination	noun	combine|combin|R|V ; -ation|ation|S
+rely	verb	rely|rely|R|V
+root	noun	root|root|R|N
+nose	noun	nose|nose|R|N
+fifteen	det	fifteen|fifteen|R
+liberal	adj	liberal|liberal|R|Adj
+appreciate	verb	appreciate|appreciate|R|V
+succeed	verb	succeed|succeed|R|V
+setting	noun	set|set|R|V ; -ing|ting|S||-ing (N)
+upper	adj	upper|upper|R|Adj
+interpretation	noun	interpret|interpret|R|V ; -ation|ation|S
+sick	adj	sick|sick|R|Adj
+outcome	noun	out|out|R ; come|come|R|V
+tooth	noun	tooth|tooth|R|N
+ad	noun	ad|ad|R|N
+defend	verb	defend|defend|R|V
+prepared	adj	prepare|prepar|R|V ; -ed|ed|S||-ed (adj)
+alternative	adj	alternative|alternative|R|Adj
+busy	adj	busy|busy|R|Adj
+wing	noun	wing|wing|R|N
+catholic	adj	catholic|catholic|R|Adj
+lane	noun	lane|lane|R|N
+flow	noun	flow|flow|R|N
+mix	verb	mix|mix|R|V
+crown	noun	crown|crown|R|N
+coal	noun	coal|coal|R|N
+approve	verb	approve|approve|R|V
+bloody	adj	blood|blood|R|N ; -y|y|S
+zone	noun	zone|zone|R|N
+variation	noun	vary|vari|R|V ; -ation|ation|S
+wake	verb	wake|wake|R|V
+airport	noun	air|air|R|N ; port|port|R|N
+castle	noun	castle|castle|R|N
+ourselves	pron	our|our|R ; selves|selv|R|N ; -s|es|I||-s (plural)
+motion	noun	motion|motion|R|N
+brown	adj	brown|brown|R|Adj
+apparent	adj	apparent|apparent|R|Adj
+membership	noun	member|member|R|N ; -ship|ship|S
+shirt	noun	shirt|shirt|R|N
+pilot	noun	pilot|pilot|R|N
+ultimately	adv	ultimate|ultimate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+suggestion	noun	suggest|suggest|R|V ; -ion|ion|S
+persuade	verb	persuade|persuade|R|V
+careful	adj	care|care|R|N ; -ful|ful|S
+cope	verb	cope|cope|R|V
+attractive	adj	attract|attract|R|V ; -ive|ive|S
+snow	noun	snow|snow|R|N
+passage	noun	pass|pass|R|V ; -age|age|S
+politician	noun	politics|politic|R|N ; -ian|ian|S
+steal	verb	steal|steal|R|V
+incident	noun	incident|incident|R|N
+pursue	verb	pursue|pursue|R|V
+slip	verb	slip|slip|R|V
+percentage	noun	percent|percent|R|N ; -age|age|S
+meat	noun	meat|meat|R|N
+funny	adj	fun|fun|R|N ; -y|ny|S
+winner	noun	win|win|R|V ; -er|ner|S||-er (N)
+soil	noun	soil|soil|R|N
+index	noun	index|index|R|N
+surgery	noun	surgery|surgery|R|N
+elect	verb	elect|elect|R|V
+valley	noun	valley|valley|R|N
+blame	verb	blame|blame|R|V
+derive	verb	derive|derive|R|V
+estimate	verb	estimate|estimate|R|V
+basketball	noun	basket|basket|R|N ; ball|ball|R|N
+criterion	noun	criterion|criterion|R|N
+aye	interj	aye|aye|R
+golf	noun	golf|golf|R|N
+square	noun	square|square|R|N
+crazy	adj	craze|craz|R|N ; -y|y|S
+vital	adj	vital|vital|R|Adj
+recover	verb	re-|re|P ; cover|cover|R|V
+significantly	adv	significant|significant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+chain	noun	chain|chain|R|N
+effectively	adv	effective|effective|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+specialist	noun	special|special|R|Adj ; -ist|ist|S
+characteristic	adj	characteristic|characteristic|R|Adj
+governor	noun	govern|govern|R|V ; -or|or|S
+lake	noun	lake|lake|R|N
+tone	noun	tone|tone|R|N
+engineering	noun	engineer|engineer|R|V ; -ing|ing|S||-ing (N)
+kick	verb	kick|kick|R|V
+ancient	adj	ancient|ancient|R|Adj
+pub	noun	pub|pub|R|N
+rating	noun	rate|rat|R|V ; -ing|ing|S||-ing (N)
+golden	adj	gold|gold|R|N ; -en|en|S
+request	noun	request|request|R|N
+foundation	noun	found|found|R|V ; -ation|ation|S
+gender	noun	gender|gender|R|N
+solve	verb	solve|solve|R|V
+deputy	noun	deputy|deputy|R|N
+landscape	noun	landscape|landscape|R|N
+representation	noun	represent|represent|R|V ; -ation|ation|S
+bowl	noun	bowl|bowl|R|N
+rare	adj	rare|rare|R|Adj
+frame	noun	frame|frame|R|N
+typical	adj	typical|typical|R|Adj
+except	prep	except|except|R
+elderly	adj	elder|elder|R|Adj ; -ly|ly|S||-ly (adj)
+eliminate	verb	eliminate|eliminate|R|V
+host	noun	host|host|R|N
+observation	noun	observe|observ|R|V ; -ation|ation|S
+ocean	noun	ocean|ocean|R|N
+tony	noun	tony|tony|R|N
+creation	noun	create|creat|R|V ; -ion|ion|S
+producer	noun	produce|produc|R|V ; -er|er|S||-er (N)
+impression	noun	impress|impress|R|V ; -ion|ion|S
+meanwhile	adv	meanwhile|meanwhile|R|Adv
+neighbour	noun	neighbour|neighbour|R|N
+capable	adj	capable|capable|R|Adj
+regime	noun	regime|regime|R|N
+attach	verb	attach|attach|R|V
+fix	verb	fix|fix|R|V
+grand	adj	grand|grand|R|Adj
+fashion	noun	fashion|fashion|R|N
+mirror	noun	mirror|mirror|R|N
+wash	verb	wash|wash|R|V
+coast	noun	coast|coast|R|N
+atmosphere	noun	atmosphere|atmosphere|R|N
+smart	adj	smart|smart|R|Adj
+mass	noun	mass|mass|R|N
+revolution	noun	revolution|revolution|R|N
+complain	verb	complain|complain|R|V
+topic	noun	topic|topic|R|N
+tear	noun	tear|tear|R|N
+variable	adj	variable|variable|R|Adj
+brief	adj	brief|brief|R|Adj
+distinction	noun	distinguish|distinct|R|V ; -ion|ion|S
+perception	noun	per-|per|P ; -cept|cep|B|V ; -ion|tion|S
+secret	noun	secret|secret|R|N
+mechanism	noun	mechanism|mechanism|R|N
+external	adj	external|external|R|Adj
+clause	noun	clause|clause|R|N
+marketing	noun	market|market|R|V ; -ing|ing|S||-ing (N)
+championship	noun	champion|champion|R|N ; -ship|ship|S
+tank	noun	tank|tank|R|N
+defendant	noun	defend|defend|R|V ; -ant|ant|S
+coverage	noun	cover|cover|R|V ; -age|age|S
+iron	noun	iron|iron|R|N
+aside	adv	aside|aside|R|Adv
+servant	noun	serve|serv|R|V ; -ant|ant|S
+anywhere	adv	any|any|R ; where|where|R|Adv
+roof	noun	roof|roof|R|N
+advance	noun	advance|advance|R|N
+bond	noun	bond|bond|R|N
+milk	noun	milk|milk|R|N
+welfare	noun	welfare|welfare|R|N
+era	noun	era|era|R|N
+bind	verb	bind|bind|R|V
+fun	noun	fun|fun|R|N
+engineer	noun	engine|engin|R|N ; -eer|eer|S
+beneath	prep	beneath|beneath|R
+expectation	noun	expect|expect|R|V ; -ation|ation|S
+drawing	noun	draw|draw|R|V ; -ing|ing|S||-ing (N)
+accuse	verb	accuse|accuse|R|V
+motor	noun	motor|motor|R|N
+somewhat	adv	somewhat|somewhat|R|Adv
+origin	noun	origin|origin|R|N
+pour	verb	pour|pour|R|V
+grey	adj	grey|grey|R|Adj
+stir	verb	stir|stir|R|V
+beach	noun	beach|beach|R|N
+judgment	noun	judge|judg|R|N ; -ment|ment|S
+negotiation	noun	negotiate|negotiat|R|V ; -ion|ion|S
+accompany	verb	accompany|accompany|R|V
+beer	noun	beer|beer|R|N
+establishment	noun	establish|establish|R|V ; -ment|ment|S
+hence	adv	hence|hence|R|Adv
+nineteen	det	nineteen|nineteen|R
+liability	noun	liable|liabil|R|Adj ; -ity|ity|S
+unfortunately	adv	unfortunate|unfortunate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+warning	noun	warn|warn|R|V ; -ing|ing|S||-ing (N)
+hero	noun	hero|hero|R|N
+minor	adj	minor|minor|R|Adj
+height	noun	high|heigh|R|Adj ; -t|t|S
+cloud	noun	cloud|cloud|R|N
+constant	adj	constant|constant|R|Adj

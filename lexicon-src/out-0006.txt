@@ -1,0 +1,200 @@
+employee	noun	employ|employ|R|V ; -ee|ee|S
+cultural	adj	culture|cultur|R|N ; -al|al|S
+employment	noun	employ|employ|R|V ; -ment|ment|S
+peace	noun	peace|peace|R|N
+refuse	verb	refuse|refuse|R|V
+pain	noun	pain|pain|R|N
+prevent	verb	prevent|prevent|R|V
+affair	noun	affair|affair|R|N
+appeal	noun	appeal|appeal|R|N
+shake	verb	shake|shake|R|V
+fly	verb	fly|fly|R|V
+heavy	adj	heavy|heavy|R|Adj
+interview	noun	interview|interview|R|N
+regard	verb	regard|regard|R|V
+chair	noun	chair|chair|R|N
+fish	noun	fish|fish|R|N
+professional	adj	profession|profession|R|N ; -al|al|S
+holiday	noun	holiday|holiday|R|N
+camera	noun	camera|camera|R|N
+technique	noun	technique|technique|R|N
+item	noun	item|item|R|N
+medium	adj	medium|medium|R|Adj
+politics	noun	politics|politics|R|N
+pupil	noun	pupil|pupil|R|N
+perform	verb	perform|perform|R|V
+version	noun	version|version|R|N
+weight	noun	weigh|weigh|R|V ; -t|t|S
+candidate	noun	candidate|candidate|R|N
+direct	adj	direct|direct|R|Adj
+press	noun	press|press|R|N
+advice	noun	advice|advice|R|N
+trip	noun	trip|trip|R|N
+inside	adv	in|in|R ; side|side|R|N
+sales	noun	sale|sale|R|N ; -s|s|I||-s (plural)
+library	noun	library|library|R|N
+adult	noun	adult|adult|R|N
+advantage	noun	advantage|advantage|R|N
+operate	verb	operate|operate|R|V
+worry	verb	worry|worry|R|V
+surface	noun	surface|surface|R|N
+immediately	adv	immediate|immediate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+deep	adj	deep|deep|R|Adj
+worth	adj	worth|worth|R|Adj
+edge	noun	edge|edge|R|N
+variety	noun	variety|variety|R|N
+writer	noun	write|writ|R|V ; -er|er|S||-er (N)
+trouble	noun	trouble|trouble|R|N
+island	noun	island|island|R|N
+challenge	noun	challenge|challenge|R|N
+fear	noun	fear|fear|R|N
+shoulder	noun	shoulder|shoulder|R|N
+useful	adj	use|use|R|V ; -ful|ful|S
+depend	verb	depend|depend|R|V
+middle	adj	middle|middle|R|Adj
+majority	noun	major|major|R|Adj ; -ity|ity|S
+dream	noun	dream|dream|R|N
+extent	noun	extent|extent|R|N
+bar	noun	bar|bar|R|N
+enable	verb	en-|en|P ; able|able|R|Adj
+beautiful	adj	beauty|beauti|R|N ; -ful|ful|S
+competition	noun	compete|compet|R|V ; -ion|ition|S
+instead	adv	instead|instead|R|Adv
+parliament	noun	parliament|parliament|R|N
+goods	noun	good|good|R|Adj ; -s|s|I||-s (plural)
+speaker	noun	speak|speak|R|V ; -er|er|S||-er (N)
+stuff	noun	stuff|stuff|R|N
+complete	adj	complete|complete|R|Adj
+access	noun	access|access|R|N
+somebody	pron	some|some|R ; body|body|R|N
+magazine	noun	magazine|magazine|R|N
+text	noun	text|text|R|N
+soldier	noun	soldier|soldier|R|N
+thirty	det	thirty|thirty|R
+easily	adv	easy|easi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sexual	adj	sex|sex|R|N ; -ual|ual|S
+effective	adj	effect|effect|R|N ; -ive|ive|S
+bag	noun	bag|bag|R|N
+western	adj	west|west|R|N ; -ern|ern|S
+heat	noun	heat|heat|R|N
+payment	noun	pay|pay|R|V ; -ment|ment|S
+york	noun	york|york|R|N
+marriage	noun	marry|marri|R|V ; -age|age|S
+mouth	noun	mouth|mouth|R|N
+ah	interj	ah|ah|R
+tough	adj	tough|tough|R|Adj
+independent	adj	in-|in|P ; dependent|dependent|R|Adj
+sing	verb	sing|sing|R|V
+facility	noun	facility|facility|R|N
+survey	noun	survey|survey|R|N
+reference	noun	refer|refer|R|V ; -ence|ence|S
+realise	verb	real|real|R|Adj ; -ise|ise|S
+context	noun	context|context|R|N
+skin	noun	skin|skin|R|N
+agent	noun	agent|agent|R|N
+owner	noun	own|own|R|V ; -er|er|S||-er (N)
+earlier	adv	early|earli|R|Adj ; -er|er|I||-er (comparative)
+extend	verb	extend|extend|R|V
+gas	noun	gas|gas|R|N
+ahead	adv	ahead|ahead|R|Adv
+importance	noun	importance|importance|R|N
+earth	noun	earth|earth|R|N
+generation	noun	generate|generat|R|V ; -ion|ion|S
+commercial	adj	commerce|commerc|R|N ; -ial|ial|S
+address	noun	address|address|R|N
+object	noun	object|object|R|N
+cancer	noun	cancer|cancer|R|N
+possibility	noun	possible|possibil|R|Adj ; -ity|ity|S
+involved	adj	involve|involv|R|V ; -ed|ed|S||-ed (adj)
+interesting	adj	interest|interest|R|V ; -ing|ing|S||-ing (adj)
+reality	noun	real|real|R|Adj ; -ity|ity|S
+coach	noun	coach|coach|R|N
+means	noun	means|means|R|N
+notice	verb	notice|notice|R|V
+yard	noun	yard|yard|R|N
+beat	verb	beat|beat|R|V
+planning	noun	plan|plan|R|V ; -ing|ning|S||-ing (N)
+violence	noun	violence|violence|R|N
+collection	noun	collect|collect|R|V ; -ion|ion|S
+communication	noun	communicate|communicat|R|V ; -ion|ion|S
+fifty	det	fifty|fifty|R
+considerable	adj	consider|consider|R|V ; -able|able|S
+finger	noun	finger|finger|R|N
+arise	verb	arise|arise|R|V
+species	noun	species|species|R|N
+fit	adj	fit|fit|R|Adj
+partner	noun	partner|partner|R|N
+supply	verb	supply|supply|R|V
+positive	adj	positive|positive|R|Adj
+civil	adj	civil|civil|R|Adj
+examine	verb	examine|examine|R|V
+kitchen	noun	kitchen|kitchen|R|N
+consumer	noun	consume|consum|R|V ; -er|er|S||-er (N)
+document	noun	document|document|R|N
+define	verb	define|define|R|V
+shot	noun	shot|shot|R|N
+budget	noun	budget|budget|R|N
+responsible	adj	responsible|responsible|R|Adj
+painting	noun	paint|paint|R|V ; -ing|ing|S||-ing (N)
+scientist	noun	science|scient|R|N ; -ist|ist|S
+safe	adj	safe|safe|R|Adj
+solution	noun	solution|solution|R|N
+influence	noun	influence|influence|R|N
+existing	adj	exist|exist|R|V ; -ing|ing|S||-ing (adj)
+victim	noun	victim|victim|R|N
+newspaper	noun	news|news|R|N ; paper|paper|R|N
+software	noun	soft|soft|R|Adj ; ware|ware|R|N
+bear	verb	bear|bear|R|V
+threat	noun	threat|threat|R|N
+opinion	noun	opinion|opinion|R|N
+attorney	noun	attorney|attorney|R|N
+score	noun	score|score|R|N
+district	noun	district|district|R|N
+bird	noun	bird|bird|R|N
+audience	noun	audience|audience|R|N
+damage	noun	damage|damage|R|N
+rich	adj	rich|rich|R|Adj
+tomorrow	adv	tomorrow|tomorrow|R|Adv
+dinner	noun	dinner|dinner|R|N
+requirement	noun	require|require|R|V ; -ment|ment|S
+vote	noun	vote|vote|R|N
+extra	adj	extra|extra|R|Adj
+travel	verb	travel|travel|R|V
+debate	noun	debate|debate|R|N
+citizen	noun	citizen|citizen|R|N
+exchange	noun	exchange|exchange|R|N
+quarter	noun	quarter|quarter|R|N
+none	pron	none|none|R
+option	noun	option|option|R|N
+front	noun	front|front|R|N
+born	adj	bear|born|R|V ; -en||I||-en (participle)
+opposition	noun	oppose|oppos|R|V ; -ion|ition|S
+eventually	adv	eventual|eventual|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+occasion	noun	occasion|occasion|R|N
+senior	adj	senior|senior|R|Adj
+highly	adv	high|high|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+arrangement	noun	arrange|arrange|R|V ; -ment|ment|S
+wind	noun	wind|wind|R|N
+key	noun	key|key|R|N
+mission	noun	mission|mission|R|N
+target	noun	target|target|R|N
+aid	noun	aid|aid|R|N
+fast	adj	fast|fast|R|Adj
+alone	adj	alone|alone|R|Adj
+match	noun	match|match|R|N
+railway	noun	rail|rail|R|N ; way|way|R|N
+attend	verb	attend|attend|R|V
+speech	noun	speech|speech|R|N
+concept	noun	con-|con|P ; -cept|cept|B|V
+lack	noun	lack|lack|R|N
+participant	noun	participate|particip|R|V ; -ant|ant|S
+corner	noun	corner|corner|R|N
+southern	adj	south|south|R|N ; -ern|ern|S
+fresh	adj	fresh|fresh|R|Adj
+forest	noun	forest|forest|R|N
+video	noun	video|video|R|N
+global	adj	globe|glob|R|N ; -al|al|S
+mum	noun	mum|mum|R|N
+senate	noun	senate|senate|R|N
+slightly	adv	slight|slight|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+reform	noun	reform|reform|R|N

@@ -88,10 +88,15 @@ Example lines:
 11. Do not cut: proper names, single letters, numbers, fixed phrases (just send them as one morpheme), and
     words whose parts are not English morphemes (table, window, people, animal).
 
+12. CUT ALL THE WAY TO THE ROOT. If the base left after removing one affix is itself a derived word, keep
+    cutting it. unemployment = un- + employ + -ment (never un- + employment); unlikely = un- + like + -ly;
+    independent = in- + depend + -ent; unfortunately = un- + fortune + -ate + -ly; television = tele- + vis + -ion.
+    The same word must always be cut the same way (vision = vis + -ion, so television uses vis + -ion too).
+
 ## Before you answer each line, check
 
 - Do the surfaces joined together spell the word exactly?
-- Is every cut defensible under rules 1–4? If not, merge.
+- Is every cut defensible under rules 1–4? If not, merge. Is every base cut down to its root (rule 12)?
 - Are inflectional endings (code I) only from rule 7, and always the LAST morpheme(s)?
 - Is the number of fields right (exactly 3 tab-separated fields; 6 fields at most per morpheme)?
 

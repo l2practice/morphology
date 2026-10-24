@@ -1,0 +1,200 @@
+nine	det	nine|nine|R
+individual	noun	individual|individual|R|N
+scene	noun	scene|scene|R|N
+attempt	noun	attempt|attempt|R|N
+stock	noun	stock|stock|R|N
+career	noun	career|career|R|N
+feature	noun	feature|feature|R|N
+association	noun	associate|associat|R|V ; -ion|ion|S
+income	noun	in|in|R ; come|come|R|V
+treatment	noun	treat|treat|R|V ; -ment|ment|S
+beyond	prep	beyond|beyond|R
+happy	adj	happy|happy|R|Adj
+relate	verb	relate|relate|R|V
+exactly	adv	exact|exact|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+following	adj	follow|follow|R|V ; -ing|ing|S||-ing (adj)
+cup	noun	cup|cup|R|N
+protect	verb	protect|protect|R|V
+nice	adj	nice|nice|R|Adj
+organisation	noun	organise|organis|R|V ; -ation|ation|S
+manage	verb	manage|manage|R|V
+dog	noun	dog|dog|R|N
+affect	verb	affect|affect|R|V
+fund	noun	fund|fund|R|N
+serious	adj	serious|serious|R|Adj
+identify	verb	identify|identify|R|V
+media	noun	media|media|R|N
+please	verb	please|please|R|V
+ready	adj	ready|ready|R|Adj
+sign	noun	sign|sign|R|N
+whatever	pron	whatever|whatever|R
+difficulty	noun	difficult|difficult|R|Adj ; -y|y|S
+machine	noun	machine|machine|R|N
+modern	adj	modern|modern|R|Adj
+degree	noun	degree|degree|R|N
+legal	adj	legal|legal|R|Adj
+answer	noun	answer|answer|R|N
+cell	noun	cell|cell|R|N
+resource	noun	resource|resource|R|N
+growth	noun	grow|grow|R|V ; -th|th|S
+left	adj	left|left|R|Adj
+mile	noun	mile|mile|R|N
+compare	verb	compare|compare|R|V
+determine	verb	determine|determine|R|V
+lady	noun	lady|lady|R|N
+prepare	verb	prepare|prepare|R|V
+disease	noun	disease|disease|R|N
+whom	pron	whom|whom|R
+final	adj	final|final|R|Adj
+recognize	verb	recognize|recognize|R|V
+task	noun	task|task|R|N
+function	noun	function|function|R|N
+ability	noun	able|abil|R|Adj ; -ity|ity|S
+provision	noun	provision|provision|R|N
+county	noun	county|county|R|N
+indicate	verb	indicate|indicate|R|V
+character	noun	character|character|R|N
+behaviour	noun	behaviour|behaviour|R|N
+defence	noun	defence|defence|R|N
+style	noun	style|style|R|N
+wonder	verb	wonder|wonder|R|V
+attack	noun	attack|attack|R|N
+obtain	verb	obtain|obtain|R|V
+science	noun	science|science|R|N
+television	noun	tele-|tele|P ; vision|vision|R|N
+announce	verb	announce|announce|R|V
+box	noun	box|box|R|N
+feeling	noun	feel|feel|R|V ; -ing|ing|S||-ing (N)
+pretty	adj	pretty|pretty|R|Adj
+everybody	pron	every|every|R ; body|body|R|N
+hall	noun	hall|hall|R|N
+skill	noun	skill|skill|R|N
+physical	adj	physical|physical|R|Adj
+horse	noun	horse|horse|R|N
+lay	verb	lay|lay|R|V
+user	noun	use|us|R|V ; -er|er|S||-er (N)
+message	noun	message|message|R|N
+outside	adv	out|out|R ; side|side|R|N
+nor	conj	nor|nor|R
+normal	adj	norm|norm|R|N ; -al|al|S
+forget	verb	forget|forget|R|V
+peter	noun	peter|peter|R|N
+sex	noun	sex|sex|R|N
+investment	noun	invest|invest|R|V ; -ment|ment|S
+lawyer	noun	law|law|R|N ; -yer|yer|S||-er (N)
+army	noun	army|army|R|N
+environmental	adj	environment|environment|R|N ; -al|al|S
+glass	noun	glass|glass|R|N
+suffer	verb	suffer|suffer|R|V
+sister	noun	sister|sister|R|N
+previous	adj	previous|previous|R|Adj
+maintain	verb	maintain|maintain|R|V
+professor	noun	professor|professor|R|N
+crime	noun	crime|crime|R|N
+publish	verb	publish|publish|R|V
+responsibility	noun	responsible|responsibil|R|Adj ; -ity|ity|S
+total	adj	total|total|R|Adj
+argument	noun	argue|argu|R|V ; -ment|ment|S
+miss	verb	miss|miss|R|V
+anyway	adv	anyway|anyway|R|Adv
+avoid	verb	avoid|avoid|R|V
+bill	noun	bill|bill|R|N
+prime	adj	prime|prime|R|Adj
+express	verb	express|express|R|V
+gun	noun	gun|gun|R|N
+suppose	verb	suppose|suppose|R|V
+blue	adj	blue|blue|R|Adj
+finish	verb	finish|finish|R|V
+element	noun	element|element|R|N
+strategy	noun	strategy|strategy|R|N
+duty	noun	duty|duty|R|N
+tend	verb	tend|tend|R|V
+truth	noun	true|tru|R|Adj ; -th|th|S
+leg	noun	leg|leg|R|N
+song	noun	song|song|R|N
+democratic	adj	democrat|democrat|R|N ; -ic|ic|S
+park	noun	park|park|R|N
+check	verb	check|check|R|V
+suddenly	adv	sudden|sudden|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+title	noun	title|title|R|N
+treat	verb	treat|treat|R|V
+dark	adj	dark|dark|R|Adj
+throughout	prep	throughout|throughout|R
+discussion	noun	discuss|discuss|R|V ; -ion|ion|S
+generally	adv	general|general|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+laugh	verb	laugh|laugh|R|V
+aspect	noun	aspect|aspect|R|N
+guess	verb	guess|guess|R|V
+executive	adj	executive|executive|R|Adj
+industrial	adj	industry|industri|R|N ; -al|al|S
+chairman	noun	chair|chair|R|N ; man|man|R|N
+remove	verb	re-|re|P ; move|move|R|V
+hang	verb	hang|hang|R|V
+visit	verb	visit|visit|R|V
+entire	adj	entire|entire|R|Adj
+rock	noun	rock|rock|R|N
+sorry	adj	sorry|sorry|R|Adj
+sun	noun	sun|sun|R|N
+united	adj	unite|unit|R|V ; -ed|ed|S||-ed (adj)
+exist	verb	exist|exist|R|V
+river	noun	river|river|R|N
+paul	noun	paul|paul|R|N
+customer	noun	customer|customer|R|N
+institution	noun	institute|institut|R|V ; -ion|ion|S
+encourage	verb	en-|en|P ; courage|courage|R|N
+network	noun	net|net|R|N ; work|work|R|V
+specific	adj	specific|specific|R|Adj
+appropriate	adj	appropriate|appropriate|R|Adj
+profit	noun	profit|profit|R|N
+religious	adj	religion|religi|R|N ; -ous|ous|S
+cold	adj	cold|cold|R|Adj
+reflect	verb	reflect|reflect|R|V
+assume	verb	assume|assume|R|V
+admit	verb	admit|admit|R|V
+stone	noun	stone|stone|R|N
+measure	noun	measure|measure|R|N
+conference	noun	conference|conference|R|N
+green	adj	green|green|R|Adj
+division	noun	divide|divis|R|V ; -ion|ion|S
+memory	noun	memory|memory|R|N
+card	noun	card|card|R|N
+smile	verb	smile|smile|R|V
+replace	verb	re-|re|P ; place|place|R|V
+seat	noun	seat|seat|R|N
+post	noun	post|post|R|N
+procedure	noun	procedure|procedure|R|N
+commission	noun	commission|commission|R|N
+trial	noun	try|tri|R|V ; -al|al|S
+expert	noun	expert|expert|R|N
+proposal	noun	propose|propos|R|V ; -al|al|S
+spring	noun	spring|spring|R|N
+unless	conj	unless|unless|R
+mention	verb	mention|mention|R|V
+democrat	noun	democrat|democrat|R|N
+improve	verb	improve|improve|R|V
+radio	noun	radio|radio|R|N
+circumstance	noun	circumstance|circumstance|R|N
+client	noun	client|client|R|N
+obviously	adv	obvious|obvious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+imagine	verb	imagine|imagine|R|V
+sector	noun	sector|sector|R|N
+direction	noun	direct|direct|R|V ; -ion|ion|S
+tonight	adv	tonight|tonight|R|Adv
+basic	adj	base|bas|R|N ; -ic|ic|S
+huge	adj	huge|huge|R|Adj
+ball	noun	ball|ball|R|N
+successful	adj	success|success|R|N ; -ful|ful|S
+yourself	pron	your|your|R ; self|self|R|N
+intend	verb	intend|intend|R|V
+original	adj	original|original|R|Adj
+impact	noun	impact|impact|R|N
+attitude	noun	attitude|attitude|R|N
+respond	verb	respond|respond|R|V
+aware	adj	aware|aware|R|Adj
+discover	verb	dis-|dis|P ; cover|cover|R|V
+popular	adj	popular|popular|R|Adj
+traditional	adj	tradition|tradition|R|N ; -al|al|S
+onto	prep	on|on|R ; to|to|R
+reveal	verb	reveal|reveal|R|V
+de	?	?
+weapon	noun	weapon|weapon|R|N

@@ -1,0 +1,200 @@
+device	noun	device|device|R|N
+vary	verb	vary|vary|R|V
+bottom	noun	bottom|bottom|R|N
+selection	noun	select|select|R|V ; -ion|ion|S
+warn	verb	warn|warn|R|V
+clean	adj	clean|clean|R|Adj
+finance	noun	finance|finance|R|N
+surely	adv	sure|sure|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+impose	verb	impose|impose|R|V
+rural	adj	rural|rural|R|Adj
+lean	verb	lean|lean|R|V
+neck	noun	neck|neck|R|N
+intention	noun	intend|inten|R|V ; -ion|tion|S
+plastic	noun	plastic|plastic|R|N
+tall	adj	tall|tall|R|Adj
+whereas	conj	whereas|whereas|R
+initial	adj	initial|initial|R|Adj
+hate	verb	hate|hate|R|V
+thanks	noun	thanks|thanks|R|N
+examination	noun	examine|examin|R|V ; -ation|ation|S
+alive	adj	alive|alive|R|Adj
+definition	noun	define|definit|R|V ; -ion|ion|S
+declare	verb	declare|declare|R|V
+theater	noun	theater|theater|R|N
+substantial	adj	substantial|substantial|R|Adj
+aircraft	noun	air|air|R|N ; craft|craft|R|N
+chicken	noun	chicken|chicken|R|N
+abuse	noun	abuse|abuse|R|N
+output	noun	out|out|R ; put|put|R|V
+shut	verb	shut|shut|R|V
+suitable	adj	suit|suit|R|V ; -able|able|S
+immediate	adj	immediate|immediate|R|Adj
+map	noun	map|map|R|N
+fourth	adj	fourth|fourth|R|Adj
+divide	verb	divide|divide|R|V
+welcome	verb	welcome|welcome|R|V
+equal	adj	equal|equal|R|Adj
+lots	noun	lot|lot|R|N ; -s|s|I||-s (plural)
+literature	noun	literature|literature|R|N
+reasonable	adj	reason|reason|R|N ; -able|able|S
+offence	noun	offence|offence|R|N
+desire	noun	desire|desire|R|N
+leading	adj	lead|lead|R|V ; -ing|ing|S||-ing (adj)
+reduction	noun	re-|re|P ; -duct|duc|B|V ; -ion|tion|S
+paint	verb	paint|paint|R|V
+working	adj	work|work|R|V ; -ing|ing|S||-ing (adj)
+detailed	adj	detail|detail|R|N ; -ed|ed|S||-ed (adj)
+nod	verb	nod|nod|R|V
+appointment	noun	appoint|appoint|R|V ; -ment|ment|S
+fuel	noun	fuel|fuel|R|N
+leaf	noun	leaf|leaf|R|N
+dry	adj	dry|dry|R|Adj
+instruction	noun	in-|in|P ; -struct|struct|B|V ; -ion|ion|S
+concentration	noun	concentrate|concentrat|R|V ; -ion|ion|S
+overall	adj	overall|overall|R|Adj
+pool	noun	pool|pool|R|N
+climb	verb	climb|climb|R|V
+enterprise	noun	enterprise|enterprise|R|N
+sweet	adj	sweet|sweet|R|Adj
+bedroom	noun	bed|bed|R|N ; room|room|R|N
+salt	noun	salt|salt|R|N
+expand	verb	expand|expand|R|V
+metal	noun	metal|metal|R|N
+fat	adj	fat|fat|R|Adj
+ticket	noun	ticket|ticket|R|N
+expensive	adj	expense|expens|R|N ; -ive|ive|S
+disappear	verb	dis-|dis|P ; appear|appear|R|V
+recommend	verb	recommend|recommend|R|V
+corporate	adj	corporate|corporate|R|Adj
+correct	adj	correct|correct|R|Adj
+reading	noun	read|read|R|V ; -ing|ing|S||-ing (N)
+sufficient	adj	sufficient|sufficient|R|Adj
+urban	adj	urban|urban|R|Adj
+bottle	noun	bottle|bottle|R|N
+mental	adj	mental|mental|R|Adj
+absence	noun	absence|absence|R|N
+lunch	noun	lunch|lunch|R|N
+criticism	noun	critic|critic|R|N ; -ism|ism|S
+educational	adj	education|education|R|N ; -al|al|S
+teaching	noun	teach|teach|R|V ; -ing|ing|S||-ing (N)
+shout	verb	shout|shout|R|V
+sugar	noun	sugar|sugar|R|N
+planet	noun	planet|planet|R|N
+transfer	noun	transfer|transfer|R|N
+explore	verb	explore|explore|R|V
+error	noun	error|error|R|N
+assembly	noun	assemble|assembl|R|V ; -y|y|S
+enemy	noun	enemy|enemy|R|N
+acid	noun	acid|acid|R|N
+straight	adj	straight|straight|R|Adj
+surround	verb	surround|surround|R|V
+athlete	noun	athlete|athlete|R|N
+settlement	noun	settle|settle|R|V ; -ment|ment|S
+scientific	adj	scientist|scientif|R|N ; -ic|ic|S
+soul	noun	soul|soul|R|N
+undertake	verb	undertake|undertake|R|V
+module	noun	module|module|R|N
+panel	noun	panel|panel|R|N
+totally	adv	total|total|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+mom	noun	mom|mom|R|N
+married	adj	marry|marri|R|V ; -ed|ed|S||-ed (adj)
+weather	noun	weather|weather|R|N
+instrument	noun	instrument|instrument|R|N
+whilst	conj	whilst|whilst|R
+pleasure	noun	pleasure|pleasure|R|N
+predict	verb	predict|predict|R|V
+select	verb	select|select|R|V
+presidential	adj	president|presidenti|R|N ; -al|al|S
+channel	noun	channel|channel|R|N
+emotional	adj	emotion|emotion|R|N ; -al|al|S
+fee	noun	fee|fee|R|N
+supreme	adj	supreme|supreme|R|Adj
+pocket	noun	pocket|pocket|R|N
+thin	adj	thin|thin|R|Adj
+temperature	noun	temperature|temperature|R|N
+beside	prep	beside|beside|R
+poll	noun	poll|poll|R|N
+surprise	noun	surprise|surprise|R|N
+waste	noun	waste|waste|R|N
+solicitor	noun	solicit|solicit|R|V ; -or|or|S
+frequently	adv	frequent|frequent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+implication	noun	imply|implic|R|V ; -ation|ation|S
+breath	noun	breath|breath|R|N
+recognition	noun	recognize|recognit|R|V ; -ion|ion|S
+institute	noun	institute|institute|R|N
+component	noun	component|component|R|N
+republic	noun	republic|republic|R|N
+minority	noun	minor|minor|R|Adj ; -ity|ity|S
+seriously	adv	serious|serious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+properly	adv	proper|proper|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+connect	verb	connect|connect|R|V
+unlikely	adj	un-|un|P ; likely|likely|R|Adj
+partly	adv	part|part|R|N ; -ly|ly|I|Adv|-ly (adv)
+elsewhere	adv	elsewhere|elsewhere|R|Adv
+double	adj	double|double|R|Adj
+necessarily	adv	necessary|necessari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+organize	verb	organize|organize|R|V
+empty	adj	empty|empty|R|Adj
+household	noun	house|house|R|N ; hold|hold|R|V
+guide	noun	guide|guide|R|N
+trail	noun	trail|trail|R|N
+novel	noun	novel|novel|R|N
+somehow	adv	somehow|somehow|R|Adv
+jury	noun	jury|jury|R|N
+nurse	noun	nurse|nurse|R|N
+experiment	noun	experiment|experiment|R|N
+breast	noun	breast|breast|R|N
+jack	noun	jack|jack|R|N
+silence	noun	silence|silence|R|N
+acknowledge	verb	acknowledge|acknowledge|R|V
+secure	adj	secure|secure|R|Adj
+sixty	det	sixty|sixty|R
+theme	noun	theme|theme|R|N
+publication	noun	publish|public|R|V ; -ation|ation|S
+storm	noun	storm|storm|R|N
+expenditure	noun	expenditure|expenditure|R|N
+desk	noun	desk|desk|R|N
+treaty	noun	treaty|treaty|R|N
+slow	adj	slow|slow|R|Adj
+fruit	noun	fruit|fruit|R|N
+journey	noun	journey|journey|R|N
+yellow	adj	yellow|yellow|R|Adj
+noise	noun	noise|noise|R|N
+shadow	noun	shadow|shadow|R|N
+struggle	verb	struggle|struggle|R|V
+conclude	verb	con-|con|P ; -clude|clude|B|V
+dance	verb	dance|dance|R|V
+sum	noun	sum|sum|R|N
+analyst	noun	analyst|analyst|R|N
+organise	verb	organise|organise|R|V
+imply	verb	imply|imply|R|V
+being	noun	be|be|R|V ; -ing|ing|S||-ing (N)
+illustrate	verb	illustrate|illustrate|R|V
+captain	noun	captain|captain|R|N
+shift	verb	shift|shift|R|V
+revenue	noun	revenue|revenue|R|N
+locate	verb	locate|locate|R|V
+phase	noun	phase|phase|R|N
+display	verb	display|display|R|V
+initiative	noun	initiative|initiative|R|N
+basically	adv	basic|basic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+sequence	noun	sequence|sequence|R|N
+generate	verb	generate|generate|R|V
+widely	adv	wide|wide|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+assumption	noun	assume|assumpt|R|V ; -ion|ion|S
+curriculum	noun	curriculum|curriculum|R|N
+thinking	noun	think|think|R|V ; -ing|ing|S||-ing (N)
+escape	verb	escape|escape|R|V
+trend	noun	trend|trend|R|N
+comfortable	adj	comfort|comfort|R|N ; -able|able|S
+investor	noun	invest|invest|R|V ; -or|or|S
+angry	adj	angry|angry|R|Adj
+crew	noun	crew|crew|R|N
+gate	noun	gate|gate|R|N
+investigate	verb	investigate|investigate|R|V
+tom	noun	tom|tom|R|N
+hearing	noun	hear|hear|R|V ; -ing|ing|S||-ing (N)
+cat	noun	cat|cat|R|N
+muscle	noun	muscle|muscle|R|N
+gallery	noun	gallery|gallery|R|N

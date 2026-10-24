@@ -1,0 +1,200 @@
+force	noun	force|force|R|N
+air	noun	air|air|R|N
+matter	noun	matter|matter|R|N
+act	noun	act|act|R|N
+teacher	noun	teach|teach|R|V ; -er|er|S||-er (N)
+receive	verb	re-|re|P ; -ceive|ceive|B|V
+enough	det	enough|enough|R
+decide	verb	decide|decide|R|V
+main	adj	main|main|R|Adj
+across	prep	across|across|R
+less	adv	less|less|R|Adv
+foot	noun	foot|foot|R|N
+street	noun	street|street|R|N
+decision	noun	decide|decis|R|V ; -ion|ion|S
+boy	noun	boy|boy|R|N
+industry	noun	industry|industry|R|N
+maybe	adv	maybe|maybe|R|Adv
+patient	noun	patient|patient|R|N
+toward	prep	toward|toward|R
+mind	noun	mind|mind|R|N
+class	noun	class|class|R|N
+everything	pron	every|every|R ; thing|thing|R|N
+clear	adj	clear|clear|R|Adj
+love	noun	love|love|R|N
+major	adj	major|major|R|Adj
+music	noun	music|music|R|N
+church	noun	church|church|R|N
+including	prep	include|includ|R|V ; -ing|ing|I||-ing (v)
+themselves	pron	them|them|R ; self|selv|R|N ; -s|es|I||-s (plural)
+paper	noun	paper|paper|R|N
+itself	pron	it|it|R ; self|self|R|N
+describe	verb	de-|de|P ; -scribe|scribe|B|V
+condition	noun	condition|condition|R|N
+human	adj	human|human|R|Adj
+develop	verb	develop|develop|R|V
+wait	verb	wait|wait|R|V
+agree	verb	agree|agree|R|V
+serve	verb	serve|serve|R|V
+economic	adj	economic|economic|R|Adj
+die	verb	die|die|R|V
+reach	verb	reach|reach|R|V
+upon	prep	up|up|R ; on|on|R
+bank	noun	bank|bank|R|N
+century	noun	century|century|R|N
+sense	noun	sense|sense|R|N
+build	verb	build|build|R|V
+therefore	adv	therefore|therefore|R|Adv
+section	noun	section|section|R|N
+stay	verb	stay|stay|R|V
+table	noun	table|table|R|N
+activity	noun	active|activ|R|Adj ; -ity|ity|S
+nation	noun	nation|nation|R|N
+hundred	det	hundred|hundred|R
+plan	noun	plan|plan|R|N
+cut	verb	cut|cut|R|V
+death	noun	death|death|R|N
+college	noun	college|college|R|N
+involve	verb	involve|involve|R|V
+someone	pron	some|some|R ; one|one|R
+building	noun	build|build|R|V ; -ing|ing|S||-ing (N)
+experience	noun	experience|experience|R|N
+behind	prep	behind|behind|R
+sort	noun	sort|sort|R|N
+likely	adj	like|like|R|Adj ; -ly|ly|S||-ly (adj)
+staff	noun	staff|staff|R|N
+kill	verb	kill|kill|R|V
+return	verb	re-|re|P ; turn|turn|R|V
+draw	verb	draw|draw|R|V
+particular	adj	particular|particular|R|Adj
+raise	verb	raise|raise|R|V
+town	noun	town|town|R|N
+care	noun	care|care|R|N
+international	adj	inter-|inter|P ; nation|nation|R|N ; -al|al|S
+language	noun	language|language|R|N
+either	det	either|either|R
+hard	adj	hard|hard|R|Adj
+special	adj	special|special|R|Adj
+difficult	adj	difficult|difficult|R|Adj
+field	noun	field|field|R|N
+certain	adj	certain|certain|R|Adj
+else	adv	else|else|R|Adv
+particularly	adv	particular|particular|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pass	verb	pass|pass|R|V
+former	adj	former|former|R|Adj
+sell	verb	sell|sell|R|V
+hope	verb	hope|hope|R|V
+sometimes	adv	sometimes|sometimes|R|Adv
+management	noun	manage|manage|R|V ; -ment|ment|S
+along	prep	along|along|R
+department	noun	department|department|R|N
+committee	noun	committee|committee|R|N
+product	noun	pro-|pro|P ; -duct|duct|B|V
+role	noun	role|role|R|N
+better	adj	good|better|R|Adj ; -er||I||-er (comparative)
+whole	adj	whole|whole|R|Adj
+practice	noun	practice|practice|R|N
+effort	noun	effort|effort|R|N
+letter	noun	letter|letter|R|N
+ground	noun	ground|ground|R|N
+evidence	noun	evidence|evidence|R|N
+meeting	noun	meet|meet|R|V ; -ing|ing|S||-ing (N)
+strong	adj	strong|strong|R|Adj
+heart	noun	heart|heart|R|N
+rather	adv	rather|rather|R|Adv
+drug	noun	drug|drug|R|N
+leader	noun	lead|lead|R|V ; -er|er|S||-er (N)
+light	noun	light|light|R|N
+third	adj	third|third|R|Adj
+voice	noun	voice|voice|R|N
+wife	noun	wife|wife|R|N
+union	noun	union|union|R|N
+ten	det	ten|ten|R
+finally	adv	final|final|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+half	noun	half|half|R|N
+pull	verb	pull|pull|R|V
+land	noun	land|land|R|N
+event	noun	event|event|R|N
+free	adj	free|free|R|Adj
+military	adj	military|military|R|Adj
+shall	verb	shall|shall|R|V
+cause	noun	cause|cause|R|N
+according	prep	accord|accord|R|V ; -ing|ing|I||-ing (v)
+thus	adv	thus|thus|R|Adv
+explain	verb	explain|explain|R|V
+son	noun	son|son|R|N
+support	verb	support|support|R|V
+stage	noun	stage|stage|R|N
+lie	verb	lie|lie|R|V
+range	noun	range|range|R|N
+trade	noun	trade|trade|R|N
+relationship	noun	relation|relation|R|N ; -ship|ship|S
+accept	verb	ac-|ac|P|||ad- ; -cept|cept|B|V
+drive	verb	drive|drive|R|V
+arm	noun	arm|arm|R|N
+true	adj	true|true|R|Adj
+club	noun	club|club|R|N
+federal	adj	federal|federal|R|Adj
+break	verb	break|break|R|V
+difference	noun	differ|differ|R|V ; -ence|ence|S
+account	noun	account|account|R|N
+thank	verb	thank|thank|R|V
+material	noun	material|material|R|N
+short	adj	short|short|R|Adj
+whose	det	whose|whose|R
+easy	adj	easy|easy|R|Adj
+situation	noun	situation|situation|R|N
+model	noun	model|model|R|N
+join	verb	join|join|R|V
+season	noun	season|season|R|N
+record	noun	record|record|R|N
+manager	noun	manage|manag|R|V ; -er|er|S||-er (N)
+project	noun	project|project|R|N
+tax	noun	tax|tax|R|N
+director	noun	direct|direct|R|V ; -or|or|S
+example	noun	example|example|R|N
+player	noun	play|play|R|V ; -er|er|S||-er (N)
+yesterday	adv	yesterday|yesterday|R|Adv
+base	noun	base|base|R|N
+especially	adv	especial|especial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+training	noun	train|train|R|V ; -ing|ing|S||-ing (N)
+pick	verb	pick|pick|R|V
+window	noun	window|window|R|N
+wear	verb	wear|wear|R|V
+central	adj	centre|centr|R|N ; -al|al|S
+space	noun	space|space|R|N
+apply	verb	apply|apply|R|V
+increase	verb	increase|increase|R|V
+cover	verb	cover|cover|R|V
+official	adj	office|offic|R|N ; -ial|ial|S
+usually	adv	usual|usual|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+everyone	pron	every|every|R ; one|one|R
+center	noun	center|center|R|N
+university	noun	university|university|R|N
+couple	noun	couple|couple|R|N
+site	noun	site|site|R|N
+claim	verb	claim|claim|R|V
+sir	noun	sir|sir|R|N
+hit	verb	hit|hit|R|V
+indeed	adv	indeed|indeed|R|Adv
+quality	noun	quality|quality|R|N
+star	noun	star|star|R|N
+rule	noun	rule|rule|R|N
+certainly	adv	certain|certain|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+eat	verb	eat|eat|R|V
+similar	adj	similar|similar|R|Adj
+worker	noun	work|work|R|V ; -er|er|S||-er (N)
+teach	verb	teach|teach|R|V
+oil	noun	oil|oil|R|N
+pound	noun	pound|pound|R|N
+data	noun	data|data|R|N
+nature	noun	nature|nature|R|N
+common	adj	common|common|R|Adj
+image	noun	image|image|R|N
+necessary	adj	necessary|necessary|R|Adj
+officer	noun	office|offic|R|N ; -er|er|S||-er (N)
+phone	noun	phone|phone|R|N
+structure	noun	-struct|struct|B|V ; -ure|ure|S
+contain	verb	contain|contain|R|V
+unit	noun	unit|unit|R|N
+method	noun	method|method|R|N

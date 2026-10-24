@@ -1,0 +1,200 @@
+hospital	noun	hospital|hospital|R|N
+picture	noun	picture|picture|R|N
+bed	noun	bed|bed|R|N
+movement	noun	move|move|R|V ; -ment|ment|S
+piece	noun	piece|piece|R|N
+detail	noun	detail|detail|R|N
+recent	adj	recent|recent|R|Adj
+reduce	verb	re-|re|P ; -duce|duce|B|V
+simply	adv	simple|simp|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+single	adj	single|single|R|Adj
+doctor	noun	doctor|doctor|R|N
+date	noun	date|date|R|N
+wall	noun	wall|wall|R|N
+news	noun	news|news|R|N
+personal	adj	person|person|R|N ; -al|al|S
+seven	det	seven|seven|R
+test	noun	test|test|R|N
+establish	verb	establish|establish|R|V
+movie	noun	movie|movie|R|N
+eight	det	eight|eight|R
+computer	noun	compute|comput|R|V ; -er|er|S||-er (N)
+private	adj	private|private|R|Adj
+herself	pron	her|her|R ; self|self|R|N
+approach	noun	approach|approach|R|N
+amount	noun	amount|amount|R|N
+bit	noun	bit|bit|R|N
+technology	noun	technology|technology|R|N
+catch	verb	catch|catch|R|V
+wish	verb	wish|wish|R|V
+scheme	noun	scheme|scheme|R|N
+step	noun	step|step|R|N
+baby	noun	baby|baby|R|N
+award	noun	award|award|R|N
+attention	noun	attend|atten|R|V ; -ion|tion|S
+seek	verb	seek|seek|R|V
+achieve	verb	achieve|achieve|R|V
+chapter	noun	chapter|chapter|R|N
+film	noun	film|film|R|N
+choose	verb	choose|choose|R|V
+republican	adj	republic|republic|R|N ; -an|an|S
+deal	verb	deal|deal|R|V
+organization	noun	organize|organiz|R|V ; -ation|ation|S
+theory	noun	theory|theory|R|N
+tree	noun	tree|tree|R|N
+property	noun	property|property|R|N
+source	noun	source|source|R|N
+poor	adj	poor|poor|R|Adj
+red	adj	red|red|R|Adj
+nearly	adv	near|near|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+wide	adj	wide|wide|R|Adj
+south	noun	south|south|R|N
+financial	adj	finance|financ|R|N ; -ial|ial|S
+hair	noun	hair|hair|R|N
+twenty	det	twenty|twenty|R
+firm	adj	firm|firm|R|Adj
+application	noun	apply|applic|R|V ; -ation|ation|S
+cos	conj	cos|cos|R
+listen	verb	listen|listen|R|V
+production	noun	pro-|pro|P ; -duct|duc|B|V ; -ion|tion|S
+soon	adv	soon|soon|R|Adv
+board	noun	board|board|R|N
+culture	noun	culture|culture|R|N
+billion	det	billion|billion|R
+king	noun	king|king|R|N
+chance	noun	chance|chance|R|N
+secretary	noun	secretary|secretary|R|N
+brother	noun	brother|brother|R|N
+energy	noun	energy|energy|R|N
+fail	verb	fail|fail|R|V
+realize	verb	real|real|R|Adj ; -ize|ize|S
+opportunity	noun	opportunity|opportunity|R|N
+operation	noun	operate|operat|R|V ; -ion|ion|S
+summer	noun	summer|summer|R|N
+share	verb	share|share|R|V
+foreign	adj	foreign|foreign|R|Adj
+lord	noun	lord|lord|R|N
+agreement	noun	agree|agree|R|V ; -ment|ment|S
+plant	noun	plant|plant|R|N
+simple	adj	simple|simple|R|Adj
+contract	noun	contract|contract|R|N
+concerned	adj	concern|concern|R|V ; -ed|ed|S||-ed (adj)
+choice	noun	choice|choice|R|N
+thousand	det	thousand|thousand|R
+security	noun	secure|secur|R|Adj ; -ity|ity|S
+daughter	noun	daughter|daughter|R|N
+occur	verb	occur|occur|R|V
+administration	noun	administer|administr|R|V ; -ation|ation|S
+husband	noun	husband|husband|R|N
+congress	noun	congress|congress|R|N
+election	noun	elect|elect|R|V ; -ion|ion|S
+floor	noun	floor|floor|R|N
+future	noun	future|future|R|N
+campaign	noun	campaign|campaign|R|N
+used	adj	use|us|R|V ; -ed|ed|S||-ed (adj)
+colour	noun	colour|colour|R|N
+population	noun	populate|populat|R|V ; -ion|ion|S
+various	adj	various|various|R|Adj
+rise	verb	rise|rise|R|V
+economy	noun	economy|economy|R|N
+represent	verb	represent|represent|R|V
+medical	adj	medical|medical|R|Adj
+close	adj	close|close|R|Adj
+shop	noun	shop|shop|R|N
+loss	noun	loss|loss|R|N
+clearly	adv	clear|clear|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+risk	noun	risk|risk|R|N
+evening	noun	evening|evening|R|N
+animal	noun	animal|animal|R|N
+current	adj	current|current|R|Adj
+fire	noun	fire|fire|R|N
+standard	noun	standard|standard|R|N
+purpose	noun	purpose|purpose|R|N
+wrong	adj	wrong|wrong|R|Adj
+benefit	noun	benefit|benefit|R|N
+defense	noun	defense|defense|R|N
+behavior	noun	behavior|behavior|R|N
+page	noun	page|page|R|N
+anyone	pron	any|any|R ; one|one|R
+fine	adj	fine|fine|R|Adj
+discuss	verb	discuss|discuss|R|V
+myself	pron	my|my|R ; self|self|R|N
+west	noun	west|west|R|N
+factor	noun	factor|factor|R|N
+sport	noun	sport|sport|R|N
+per	prep	per|per|R
+prove	verb	prove|prove|R|V
+rest	noun	rest|rest|R|N
+argue	verb	argue|argue|R|V
+charge	noun	charge|charge|R|N
+performance	noun	perform|perform|R|V ; -ance|ance|S
+fight	verb	fight|fight|R|V
+pattern	noun	pattern|pattern|R|N
+throw	verb	throw|throw|R|V
+present	adj	present|present|R|Adj
+top	noun	top|top|R|N
+design	noun	design|design|R|N
+quickly	adv	quick|quick|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+past	adj	past|past|R|Adj
+goal	noun	goal|goal|R|N
+royal	adj	royal|royal|R|Adj
+author	noun	author|author|R|N
+enjoy	verb	enjoy|enjoy|R|V
+despite	prep	despite|despite|R
+fill	verb	fill|fill|R|V
+pressure	noun	pressure|pressure|R|N
+focus	noun	focus|focus|R|N
+knowledge	noun	knowledge|knowledge|R|N
+drop	verb	drop|drop|R|V
+blood	noun	blood|blood|R|N
+agency	noun	agent|agen|R|N ; -cy|cy|S
+basis	noun	basis|basis|R|N
+march	verb	march|march|R|V
+push	verb	push|push|R|V
+further	adv	far|further|R|Adv ; -er||I||-er (comparative)
+color	noun	color|color|R|N
+size	noun	size|size|R|N
+introduce	verb	intro-|intro|P ; -duce|duce|B|V
+recently	adv	recent|recent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+series	noun	series|series|R|N
+garden	noun	garden|garden|R|N
+store	noun	store|store|R|N
+environment	noun	environ|environ|R|V ; -ment|ment|S
+sound	noun	sound|sound|R|N
+note	noun	note|note|R|N
+success	noun	success|success|R|N
+enter	verb	enter|enter|R|V
+near	adj	near|near|R|Adj
+analysis	noun	analysis|analysis|R|N
+arrive	verb	arrive|arrive|R|V
+natural	adj	nature|natur|R|N ; -al|al|S
+thought	noun	thought|thought|R|N
+ensure	verb	ensure|ensure|R|V
+region	noun	region|region|R|N
+list	noun	list|list|R|N
+race	noun	race|race|R|N
+concern	noun	concern|concern|R|N
+statement	noun	state|state|R|V ; -ment|ment|S
+relation	noun	relate|relat|R|V ; -ion|ion|S
+significant	adj	significant|significant|R|Adj
+hot	adj	hot|hot|R|Adj
+sea	noun	sea|sea|R|N
+principle	noun	principle|principle|R|N
+demand	noun	demand|demand|R|N
+labour	noun	labour|labour|R|N
+response	noun	response|response|R|N
+dead	adj	dead|dead|R|Adj
+refer	verb	refer|refer|R|V
+capital	noun	capital|capital|R|N
+decade	noun	decade|decade|R|N
+round	adj	round|round|R|Adj
+article	noun	article|article|R|N
+hotel	noun	hotel|hotel|R|N
+shoot	verb	shoot|shoot|R|V
+above	prep	above|above|R
+east	noun	east|east|R|N
+forward	adv	forward|forward|R|Adv
+save	verb	save|save|R|V
+village	noun	village|village|R|N
+artist	noun	art|art|R|N ; -ist|ist|S
+station	noun	station|station|R|N

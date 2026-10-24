@@ -27,7 +27,7 @@
     "cls_suffix-der": "Suffix (Derivational)", "cls_suffix-inf": "Suffix (Inflectional)"
   };
   const t = key => T[key] || key;
-  const SOURCE_LABEL = { verified: "✓ Verified", ai: "✦ AI analysis", cache: "✓ Saved on this device" };
+  const SOURCE_LABEL = { verified: "✓ Verified", ai: "✦ AI analysis", cache: "✓ Saved on this device", lexicon: "✓ Checked cut" };
 
   const ORIGINS = [
     [/Old English/i, "Old English"], [/Middle English/i, "Middle English"], [/Old Norse/i, "Old Norse"],
@@ -638,6 +638,34 @@
     // Dictionary lookup starts at once, in parallel with everything else.
     const dictP = window.MorphDict.lookup(key).catch(() => null);
 
+    // 1b. pre-cut lexicon (also builds regular inflected forms from their lemma): no AI needed for the cut.
+    let lx = null;
+    if (!verified) {
+      lx = await window.MorphLex.resolve(key, await dictP).catch(() => null);
+      if (token !== state.token) return;
+    }
+    if (lx) {
+      const sig = ms => ms.map(m => m.form + "|" + m.surface).join(";");
+      const data = window.MorphAI.toAppFormat(lx.ai, key, "lexicon");
+      const reuse = cached && cached.detailState === "ready" && sig(cached.morphemes) === sig(data.morphemes);
+      const provider = getProvider();
+      const canWrite = !!getKey(provider);
+      data.source = "lexicon";
+      data.detailState = canWrite ? "loading" : "none";
+      state.word = reuse ? cached : data;
+      state.source = reuse ? "cache" : "lexicon";
+      state.dict = dictContext(await dictP);
+      if (token !== state.token) return;
+      $("#result").hidden = false;
+      renderAll();
+      finish(key, opts);
+      if (!reuse && canWrite) {
+        state.abort = new AbortController();
+        startDetails(key, provider, getModel(provider), token);
+      }
+      return;
+    }
+
     if (verified || cached) {
       state.word = verified || cached;
       state.source = verified ? "verified" : "cache";
@@ -791,6 +819,7 @@
   function renderDetailStatus(w) {
     const el = $("#detail-status");
     if (!w || w.detailState === "ready" || !w.detailState) { el.innerHTML = ""; return; }
+    if (w.detailState === "none") { el.innerHTML = `Add an AI key in Settings to see meanings and etymology.`; return; }
     el.innerHTML = w.detailState === "loading"
       ? `<span class="ds-spin"></span>Writing meanings and etymology…`
       : `Meanings could not be loaded. <button type="button" data-retry-details>Try again</button>`;

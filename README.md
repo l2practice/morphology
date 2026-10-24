@@ -33,3 +33,10 @@ classification, allomorphy, derivation vs. inflection, word family. English only
 - The AI returns the IC tree as a bracket string such as `[N|unhappiness [Adj|unhappy 0 1] 2]`;
   the page checks it (two parts per cut, morphemes in order) and builds the tree itself.
 - **Cheat sheet** (a tab under the result and a page in the sidebar): morpheme types, word-type formulas, derivational vs inflectional, same-ending table, IC-tree rules and spelling changes.
+
+
+## Pre-cut lexicon
+`lexicon-src/out-*.txt` are the morpheme cuts written by Muse (rules in `tools/MUSE-PROMPT.md`). Rebuild the app's
+shards with `node tools/import-lexicon.mjs lexicon lexicon-src/rejected.txt lexicon-src/out-*.txt`.
+The importer checks every line and expands roots that are themselves derived words (un- + employment → un- + employ + -ment).
+`lexicon.js` looks a word up there before asking the AI and builds regular inflected forms from their lemma.

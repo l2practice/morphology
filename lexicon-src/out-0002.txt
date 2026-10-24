@@ -1,0 +1,200 @@
+right	adj	right|right|R|Adj
+program	noun	program|program|R|N
+bring	verb	bring|bring|R|V
+hear	verb	hear|hear|R|V
+word	noun	word|word|R|N
+although	conj	although|although|R
+question	noun	question|question|R|N
+before	prep	before|before|R
+next	adj	next|next|R|Adj
+play	verb	play|play|R|V
+fact	noun	fact|fact|R|N
+run	verb	run|run|R|V
+social	adj	social|social|R|Adj
+going	verb	go|go|R|V ; -ing|ing|I||-ing (v)
+quite	adv	quite|quite|R|Adv
+five	det	five|five|R
+move	verb	move|move|R|V
+head	noun	head|head|R|N
+night	noun	night|night|R|N
+live	verb	live|live|R|V
+write	verb	write|write|R|V
+believe	verb	believe|believe|R|V
+side	noun	side|side|R|N
+set	verb	set|set|R|V
+month	noun	month|month|R|N
+today	adv	today|today|R|Adv
+business	noun	busy|busi|R|Adj ; -ness|ness|S
+happen	verb	happen|happen|R|V
+long	adj	long|long|R|Adj
+important	adj	important|important|R|Adj
+eye	noun	eye|eye|R|N
+home	noun	home|home|R|N
+million	det	million|million|R
+information	noun	inform|inform|R|V ; -ation|ation|S
+power	noun	power|power|R|N
+change	verb	change|change|R|V
+water	noun	water|water|R|N
+pay	verb	pay|pay|R|V
+room	noun	room|room|R|N
+young	adj	young|young|R|Adj
+both	det	both|both|R
+mother	noun	mother|mother|R|N
+often	adv	often|often|R|Adv
+interest	noun	interest|interest|R|N
+national	adj	nation|nation|R|N ; -al|al|S
+money	noun	money|money|R|N
+story	noun	story|story|R|N
+development	noun	develop|develop|R|V ; -ment|ment|S
+book	noun	book|book|R|N
+away	adv	away|away|R|Adv
+lot	noun	lot|lot|R|N
+form	noun	form|form|R|N
+study	noun	study|study|R|N
+level	noun	level|level|R|N
+second	adj	second|second|R|Adj
+job	noun	job|job|R|N
+early	adj	early|early|R|Adj
+though	conj	though|though|R
+include	verb	in-|in|P ; -clude|clude|B|V
+car	noun	car|car|R|N
+issue	noun	issue|issue|R|N
+perhaps	adv	perhaps|perhaps|R|Adv
+kind	noun	kind|kind|R|N
+policy	noun	policy|policy|R|N
+council	noun	council|council|R|N
+far	adv	far|far|R|Adv
+black	adj	black|black|R|Adj
+market	noun	market|market|R|N
+court	noun	court|court|R|N
+already	adv	already|already|R|Adv
+little	adj	little|little|R|Adj
+possible	adj	possible|possible|R|Adj
+allow	verb	allow|allow|R|V
+nothing	pron	no|no|R ; thing|thing|R|N
+meet	verb	meet|meet|R|V
+since	prep	since|since|R
+yet	adv	yet|yet|R|Adv
+effect	noun	effect|effect|R|N
+lead	verb	lead|lead|R|V
+around	prep	around|around|R
+result	noun	result|result|R|N
+friend	noun	friend|friend|R|N
+whether	conj	whether|whether|R
+father	noun	father|father|R|N
+idea	noun	idea|idea|R|N
+sit	verb	sit|sit|R|V
+john	noun	john|john|R|N
+until	prep	until|until|R
+name	noun	name|name|R|N
+hour	noun	hour|hour|R|N
+game	noun	game|game|R|N
+stand	verb	stand|stand|R|V
+body	noun	body|body|R|N
+line	noun	line|line|R|N
+report	noun	report|report|R|N
+political	adj	politics|politic|R|N ; -al|al|S
+law	noun	law|law|R|N
+among	prep	among|among|R
+later	adv	late|lat|R|Adj ; -er|er|I||-er (comparative)
+almost	adv	almost|almost|R|Adv
+ever	adv	ever|ever|R|Adv
+bad	adj	bad|bad|R|Adj
+face	noun	face|face|R|N
+carry	verb	carry|carry|R|V
+lose	verb	lose|lose|R|V
+road	noun	road|road|R|N
+authority	noun	authority|authority|R|N
+himself	pron	him|him|R ; self|self|R|N
+together	adv	together|together|R|Adv
+appear	verb	appear|appear|R|V
+city	noun	city|city|R|N
+continue	verb	continue|continue|R|V
+six	det	six|six|R
+minister	noun	minister|minister|R|N
+able	adj	able|able|R|Adj
+community	noun	community|community|R|N
+produce	verb	pro-|pro|P ; -duce|duce|B|V
+rate	noun	rate|rate|R|N
+late	adj	late|late|R|Adj
+door	noun	door|door|R|N
+once	adv	once|once|R|Adv
+general	adj	general|general|R|Adj
+white	adj	white|white|R|Adj
+least	adv	least|least|R|Adv
+office	noun	office|office|R|N
+president	noun	president|president|R|N
+learn	verb	learn|learn|R|V
+war	noun	war|war|R|N
+real	adj	real|real|R|Adj
+offer	verb	offer|offer|R|V
+team	noun	team|team|R|N
+minute	noun	minute|minute|R|N
+person	noun	person|person|R|N
+best	adj	good|best|R|Adj ; -est||I||-est (superlative)
+full	adj	full|full|R|Adj
+reason	noun	reason|reason|R|N
+several	det	several|several|R
+view	noun	view|view|R|N
+consider	verb	consider|consider|R|V
+kid	noun	kid|kid|R|N
+expect	verb	expect|expect|R|V
+suggest	verb	suggest|suggest|R|V
+anything	pron	any|any|R ; thing|thing|R|N
+ago	adv	ago|ago|R|Adv
+term	noun	term|term|R|N
+towards	prep	towards|towards|R
+low	adj	low|low|R|Adj
+public	adj	public|public|R|Adj
+understand	verb	understand|understand|R|V
+require	verb	require|require|R|V
+read	verb	read|read|R|V
+watch	verb	watch|watch|R|V
+period	noun	period|period|R|N
+figure	noun	figure|figure|R|N
+society	noun	society|society|R|N
+centre	noun	centre|centre|R|N
+parent	noun	parent|parent|R|N
+police	noun	police|police|R|N
+stop	verb	stop|stop|R|V
+add	verb	add|add|R|V
+create	verb	create|create|R|V
+fall	verb	fall|fall|R|V
+probably	adv	probable|probab|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+available	adj	avail|avail|R|V ; -able|able|S
+speak	verb	speak|speak|R|V
+others	pron	other|other|R|Adj ; -s|s|I||-s (plural)
+price	noun	price|price|R|N
+control	noun	control|control|R|N
+action	noun	act|act|R|V ; -ion|ion|S
+cost	noun	cost|cost|R|N
+spend	verb	spend|spend|R|V
+process	noun	process|process|R|N
+health	noun	heal|heal|R|V ; -th|th|S
+remain	verb	remain|remain|R|V
+position	noun	posit|posit|R|V ; -ion|ion|S
+art	noun	art|art|R|N
+remember	verb	remember|remember|R|V
+course	noun	course|course|R|N
+sure	adj	sure|sure|R|Adj
+history	noun	history|history|R|N
+buy	verb	buy|buy|R|V
+education	noun	educate|educat|R|V ; -ion|ion|S
+grow	verb	grow|grow|R|V
+actually	adv	actual|actual|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+open	verb	open|open|R|V
+type	noun	type|type|R|N
+morning	noun	morning|morning|R|N
+research	noun	research|research|R|N
+subject	noun	subject|subject|R|N
+walk	verb	walk|walk|R|V
+programme	noun	programme|programme|R|N
+moment	noun	moment|moment|R|N
+win	verb	win|win|R|V
+girl	noun	girl|girl|R|N
+age	noun	age|age|R|N
+guy	noun	guy|guy|R|N
+food	noun	food|food|R|N
+send	verb	send|send|R|V
+value	noun	value|value|R|N
+order	noun	order|order|R|N
