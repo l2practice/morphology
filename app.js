@@ -1157,6 +1157,7 @@
     const help = $("#lv-help"), info = $("#lv-info");
     const toggleHelp = open => { help.hidden = !open; info.setAttribute("aria-expanded", open); };
     info.addEventListener("click", () => toggleHelp(help.hidden));
+    $("#lv-hide").addEventListener("click", () => { toggleHelp(false); info.focus(); });
 
     state.treeStyle = store.get(LS.tree) === "boxes" ? "boxes" : "classic";
     $$("#tree-style button").forEach(b => b.classList.toggle("active", b.dataset.style === state.treeStyle));
