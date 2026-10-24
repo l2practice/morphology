@@ -1,0 +1,150 @@
+narrative	-narr- + -ative	narrator, narrate, narration, metanarrative	Borrowed from Middle Scots narrative, nerrative, from Middle French narratif, from Latin narrātīvus, from narrō (“to narrate”). By surface analysis, Latin narr- + -ate + 
+frequent	-frequ- + -ent	frequently, frequency, infrequent, infrequently	From Old French frequent, from Latin frequens (“crowded, crammed, frequent, repeated, etc.”), possibly from a Proto-Indo-European *bʰrekʷ- (“to cram together”).
+flavor	-flav- + -or	flavorful, flavorless	From Middle English flavour meaning “smell, odour”, usually pleasing, borrowed from Old French flaour (“smell, odour”) (cfr. Sicilian ciàguru, its etymology and semantic)
+junction	-junct- + -ion	injunction, conjunction, juncture, disjunction	From Latin iūnctiō (“union, joining, uniting”), from iungō (“join, attach together”). Equivalent to join + -tion.
+heritage	-herit- + -age	inheritance, inheritor, heritable, heritability	From Middle English heritage, from Old French eritage, heritage (modern French héritage), ultimately derived (through suffixation) from Latin hērēs. By surface analysis, 
+ambition	-ambi- + -tion	ambient, ambiance	From Middle English ambicioun, from Old French ambition, from Latin ambitiō (“ambition, a striving for favor, literally 'a going around', especially of candidates for off
+moderate	-moder- + -ate	moderately, moderation, moderator, immoderate	From Middle English moderat(e) (“moderate, temperate”), borrowed from Latin moderātus, perfect active participle of moderor (“to regulate, to restrain, to moderate”) (see
+hesitate	-hesit- + -ate	hesitation, hesitant, hesitantly, hesitancy	Borrowed from Latin haesitātus, perfect passive participle of haesitō (see -ate (verb-forming suffix)), intensive of haereō (“to hesitate, stick fast; to hang or hold fas
+liable	-liab- + -le	reliable, unreliable, reliably	From Old French lier (“to bind”), from Latin ligō, ligāre (“to bind, to tie”). Compare typologically Russian обя́занный (objázannyj), обяза́тельный (objazátelʹnyj) (akin 
+interior	-interi- + -or	interiorize, interiorly	From Latin interior (“inner, interior”).
+courage	-cour- + -age	encourage, discourage, encouragement, courtyard	From Middle English corage, from Old French corage (French courage), from Vulgar Latin *corāticum, from Latin cor (“heart”). Distantly related to cardiac (“of the heart”)
+cognitive	-cognit- + -ive	recognition, cognition, cognitively, metacognitive	From Medieval Latin cognitīvus, from Latin cognitus, perfect passive participle of cognōscō (“to get to know”) + -īvus (adjective suffix).
+integrate	-integr- + -ate	integration, integrity, integral, disintegrate	First attested in the 1450's as an adjective, first attested in 1638 as a verb; from Middle English integrat(e) (“intact, whole”), borrowed from Latin integrātus, perfect
+fragment	-fragm- + -ent	fragmentation, fragmentary	From Late Middle English fragment, from Latin fragmentum (“a fragment, remnant”), from frangō (“to break”) + -mentum.
+regulate	-regul- + -ate	regular, regulation, regularly, regulator	Borrowed from Latin regulatus, perfect passive participle of regulō (“to direct, rule, regulate”) (see -ate (verb-forming suffix)), from regula (“rule”), from regō (“to k
+ritual	-ritu- + -al	ritualistic, ritually, ritualize, ritualization	From Latin rītuālis (adjective), from rītus (“rite”) + -ālis. Displaced native Old English ġewuna and wuna.
+superior	-superi- + -or	superiority, superiorly	From Middle English, borrowed from Old French superiour, from Latin superior (“higher, upper”).
+physics	-phys- + -ics	physical, physician, physically, physicist	1580s; from physic (see also -ics), from Middle English phisik, from Old French fisike (“natural science, art of healing”), from Latin physica (“study of nature”), from A
+subtle	-subt- + -le	subtly, subtlety, unsubtle	The adjective is derived from Middle English sotil, soubtil, subtil (“of a person, the mind, etc.: clever, ingenious, penetrating; cunning, sly; insidious; delicate, fine
+sponsor	-spons- + -or	responsibility, responsible, sponsorship, responsive	Learned borrowing from Latin spōnsor (“a surety", in Late Latin "a sponsor in baptism”).
+integrity	-integr- + -ity	integration, integrate, integral, disintegrate	Borrowed from Middle French intégrité, from Latin integritās (“soundness, integrity”), from integer. Doublet of entirety.
+convenient	-conveni- + -ent	convenience, conveniently, inconvenience, inconvenient	From Middle English convenient, from Latin conveniēns (“fit, suitable, convenient”), present participle of conveniō, convinīre (“to come together, suit”); see convene and
+artificial	-artifici- + -al	artificially, artificiality	From Middle English artificial (“man-made”) via Old French (modern French artificiel), from Latin artificiālis from artificium (“skill”), from artifex, from ars (“skill”)
+reluctant	re- + -luct- + -ant	reluctantly, reluctance	Learned borrowing from Latin reluctāns (whence -ant), present participle of reluctor (“to struggle against, oppose, resist”), from re- (“back”) + luctor (“to struggle”) (
+situate	-situ- + -ate	situation, situational, situationist	Borrowed from Late Latin situātus, past participle of Medieval Latin situō (“to locate, place”), from Latin situs (“a site”).
+magnificent	-magnific- + -ent	magnification, magnificently, magnificence	From Middle English magnificent, from Middle French magnificent, from Latin magnificentior, comparative of magnificus (“great in deeds or sentiment, noble, splendid, etc.
+assemble	-assemb- + -le	assembly, reassemble, disassemble, disassembly	From Middle English assemblen, from Old French assembler (“to assemble”), from Medieval Latin assimulāre (“to bring together”), from ad- + simulō (“copy, imitate”), from 
+stimulate	-stimul- + -ate	stimulation, stimulant, stimulator, stimulative	Borrowed from Latin stimulātus, perfect passive participle of stimulō (“to urge, goad on”) (see -ate (verb-forming suffix)), from Latin stimulus (“a sting or prick; a sti
+facilitate	-facilit- + -ate	facilitator, facilitation, facilitative	Anglicisation of French faciliter (“facilitate”) through -ate (verb-forming suffix), ultimately from Latin facilis.
+mathematics	-mathemat- + -ics	mathematical, mathematician, mathematically	First use appears c. 1545. From mathematic (noun) + -ics, from Middle English mathematique, methametik, matematik, matamatik, from Old French mathematique, from Latin mat
+continent	-contin- + -ent	continental, contingency, incontinence, intercontinental	Borrowed from Latin continens, noun use of present participle of continēre (“to contain”).
+spectacular	-spectacul- + -ar	spectacularly, unspectacular	From Latin spectaculum (“a sight, show”) + -ar.
+rhetoric	-rhetor- + -ic	rhetorical, rhetorically, rhetorician	Ancient Greek ῥητορῐκή τέχνη (rhētorĭkḗ tékhnē)ellip. Inherited from Middle English rhetorik, rhetoric, borrowed from Old French rhetorique, borrowed from Latin rhētorica
+abolish	-abol- + -ish	diabolical, anabolic, abolishment, diabolically	From late Middle English abolisshen, from Middle French aboliss-, extended stem of abolir, from Latin abolēre (“to retard, check the growth of, (and by extension) destroy
+premium	-prem- + -ium	premise, premade	From Latin praemium (“prize”).
+regret	-regr- + -et	regression, regress, regressive, regretfully	From Middle English regretten, regreten, from Old French regreter, regrater (“to lament”), from re- (intensive prefix) + *greter, *grater (“to weep”), from Frankish *grāt
+delicate	-delic- + -ate	delicacy, delicately, indelicate	From Middle English delicat, from Latin dēlicātus (“giving pleasure, delightful, soft, luxurious, delicate, (in Medieval Latin also) fine, slender”), from dēlicia + -ātus
+casual	-casu- + -al	casualty, casually, casualness	From Middle French casuel, from Late Latin cāsuālis (“happening by chance”), from Latin cāsus (“event”) (English case), from cadere (“to fall”) (whence English cadence).
+isolate	-isol- + -ate	isolation, isolationist, isolationism, isolator	Back-formation from isolated, from French isolé, from Italian isolato, from Latin īnsulātus (whence also insulate), see -ate (etymology 1, 2 and 3).
+elegant	-eleg- + -ant	elegance, elegantly, inelegant, inelegantly	From Late Middle English elegaunt, from Middle French elegant, ultimately from Latin ēlegāns, collateral form of present participle of ēligere, from ex- (“out of, from”) 
+entity	-enti- + -ty	experiential, nonentity	From the Medieval Latin entitās, from ēns (“being”) (stem: ent-) + -tās (compare essentia), see there for more information.
+subsidiary	sub- + -sidi- + -ary	insidious, obsidian, subsidiarity, insidiously	From Middle French subsidiaire, from Latin subsidiarius (“belonging to a reserve”).
+candle	-cand- + -le	candidate, candidacy, candid, candor	From Middle English candel, from Old English candel (“candle”), borrowed from Latin candēla (“candle”), from Latin candeō (“be white, bright, shining”, verb); see candid.
+casualty	-casu- + -al + -ty	casual, casually, casualness	From casual, from Middle French casuel, from Medieval Latin casualitas and Late Latin cāsuālis (“happening by chance”), from Latin cāsus (“event”) (English case), from ca
+confess	-conf- + -ess	confidence, confident, confine, confession	From Middle English confessen, from Anglo-Norman confesser, from Old French confesser, from Latin confessus (Old French confés), past participle of cōnfiteor (“to confess
+contemplate	-contempl- + -ate	contemplation, contemplative, contemplatively	First attested in the 1590s; borrowed from Latin contemplātus, the perfect active participle of contemplor (“to observe, survey, gaze (at), contemplate”), see -ate (verb-
+splendid	-splend- + -id	splendor, splendidly, resplendent, resplendently	From Latin splendidus, from splendere (“to shine”) + -idus (“adjective forming suffix”).
+precious	-preci- + -ous	precision, depreciation, depreciate, imprecision	Inherited from Middle English precious, borrowed from Old French precios (“valuable, costly, precious, beloved, also affected, finical”), from Latin pretiōsus (“of great 
+conceal	-conce- + -al	conceive, concealment, misconceive, preconceive	From Middle English concelen, from Old French conceler (“hide, disguise”), from Latin concēlō, concēlāre (“carefully disguise”).
+primitive	-primit- + -ive	primitively, primitiveness	From Middle English primitif, from Old French primitif, from Latin prīmitīvus (“first or earliest of its kind”), from prīmus (“first”); see prime. Doublet of primitivo.
+systematic	-systemat- + -ic	systematically, systematize, systematics, unsystematic	Borrowed from Late Latin systēmaticus, from Koine Greek συστηματικός (sustēmatikós), from σύστημᾰ (sústēmă, “a composite; system”) + -ῐκός (-ĭkós, adjective suffix). Cogn
+equilibrium	-equilibr- + -ium	disequilibrium, equilibrate, equilibration	From Latin aequilībrium, from equal + lībra (“balance”).
+monument	-monum- + -ent	monumental, monumentally, monumentality	From Middle English monument, from Old French monument, from Latin monumentum (“memorial, monument, tomb”), from monēre (“to remind”). Partially displaced Old English bēa
+nominee	-nomin- + -ee	nomination, nominate, nominal, denomination	From nomin(ate) + -ee.
+awkward	-awkw- + -ard	awkwardly, awkwardness	From awk (“odd, clumsy”) + -ward. Compare Middle English aukeward (“in the wrong direction”).
+bubble	-bubb- + -le	bubbling, bubbly	Partly imitative, also influenced by burble. Compare Middle Dutch bobbe (“bubble”) > Dutch bubbel (“bubble”), Low German bubbel (“bubble”), Danish boble (“bubble”), Swedi
+neutral	-neutr- + -al	neutrality, neutralize, neutralisation, neutrally	From Middle French neutral (compare modern French neutre), from Latin neutrālis. By surface analysis, neuter + -al.
+sterling	-ster- + -ling	sterile, steroid, nonsteroidal, ministership	From Middle English sterling, possibly from Old English *steorling, from steorra (“star”) and -ling, in reference to the stars that appeared on certain English pennies. A
+exotic	-exot- + -ic	exoticism, exotically	Borrowed from Middle French exotique, from Latin exōticus, from Ancient Greek ἐξωτικός (exōtikós, “foreign”, literally “from the outside”), from ἐξω- (exō-, “outside”), f
+intimate	-intim- + -ate	intimacy, intimidate, intimately, intimidation	Borrowed from Latin intimātus, the perfect passive participle of intimō (“to put or bring into, to impress, to make familiar”) (see -ate (adjective forming suffix)), from
+secular	-secul- + -ar	secularism, secularist, secularization, secularize	From Middle English seculer, from Old French seculer, from Latin saeculāris (“of the age”), from saeculum.
+manipulate	-manipul- + -ate	manipulation, manipulative, manipulator, manipulable	Back-formation from manipulation.
+puzzle	-puzz- + -le	puzzling, puzzlement, puzzlingly	The verb, of uncertain origin, is attested first. Apparently cognate with Scots pousle, pouzle, poozle (“to trifle; poke or potter around aimlessly; search about with unc
+utilize	-util- + -ize	utility, utilise, utilization, utilisation	From French utiliser, from Italian utilizzare, from utile (“useful”), from Latin ūtilis, from ūtī (“use”).
+sympathetic	-sympathet- + -ic	sympathetically, unsympathetic, parasympathetic, unsympathetically	Mid 17th century in the sense “relating to an affinity or paranormal influence”, from Latin sympathēticus. By surface analysis, sympathy + -etic (“pertaining to”); compar
+distress	-distr- + -ess	distraction, distressful	The verb is from Middle English distressen, from Old French destrecier (“to restrain, constrain, put in straits, afflict, distress”); compare French détresse. Ultimately 
+aesthetic	-aesth- + -et + -ic	aesthetics, aesthetically, aesthetician, aestheticism	Ancient Greek αἰσθητικός (aisthētikós)bor. From German Ästhetik or French esthétique, both from New Latin aesthēticus, itself borrowed from Ancient Greek αἰσθητικός (aist
+scramble	-scramb- + -le	scrambling, unscramble	Origin uncertain. Perhaps from earlier dialectal scramble, scrammel (“to collect or rake together with the hands”), from scramb (“to pull or scrape together with the hand
+liquid	-liqu- + -id	liquor, liquidity, liquidation, liquidator	From Middle English liquide, from Old French liquide, from Latin liquidus (“fluid, liquid, moist”), from liqueō (“to be liquid, be fluid”). Doublet of liquidus. As a term
+franchise	-franch- + -ise	disenfranchise, disenfranchisement, enfranchisement, enfranchise	From Middle English franchise, fraunchise, from Old French franchise (“freedom”), a derivative of franc (“free”). More at frank.
+supplement	-supplem- + -ent	supplementary, supplemental, supplementation	From Latin supplementum (“that which is added to supply a shortage”), from supplere (“to provide something”).
+tremble	-tremb- + -le	trembling, trembly	From Middle English tremblen, from Old French trembler, from Late Latin tremulāre, ultimately from Latin tremere (“quiver, shake”). Cognate with Ancient Greek τρέμω (trém
+empirical	em- + -piric- + -al	empirically, empiricism, empiricist	Ancient Greek ἐμπειρῐκός (empeirĭkós)bor.
+suspicious	-suspici- + -ous	suspiciously, suspiciousness	From Old French sospecious, from Latin suspiciosus, suspitiosus.
+peculiar	-peculi- + -ar	peculiarly, peculiarity	From Latin pecūliāris (“one's own”), from pecūlium (“private property”), from pecus (“cattle”).
+deprive	-depr- + -ive	depression, depress, depressive, antidepressant	From Middle English depryven, from Old French depriver, from Medieval Latin dēprīvō, from Latin dē- + prīvō.
+suppress	-suppr- + -ess	suppression, suppressant, suppressor, immunosuppressive	From Latin suppressus, perfect passive participle of supprimō (“press down or under”), from sub (“under”) + premō (“press”).
+clarify	-clar- + -ify	declaration, clarity, clarence, claret	From Middle English clarifien, from Old French clarifiier, from Latin clārificō, clārificāre; clārus (“clear”) + faciō, facere (“make”). Semantically clear + -ify.
+beneficial	-benefici- + -al	beneficiary, beneficially	From Late Latin beneficiālis (“beneficial”), from Latin beneficium (“benefit, favor, kindness”).
+eligible	-elig- + -ible	eligibility, ineligible, ineligibility	From Middle French eligible, from Latin eligibilis, from ēligō (“to select, to choose”).
+municipal	-municip- + -al	municipality, municipally	Borrowed from French municipal, from Latin mūnicipālis (“of or belonging to a citizen or a free town”), from mūniceps (“a citizen, an inhabitant of a free town”), from mū
+predator	-pred- + -ator	prediction, predicate, predate, predation	Borrowed from Latin praedātor, from praedor (“loot, pillage”), from praeda (“booty, spoils, prey”).
+caution	-caut- + -ion	precaution, cautionary, precautionary	Recorded since 1297 as Middle English caucioun (“bail, guarantee, pledge”), from Old French caution (“security, surety”), itself from Latin cautiō, from cautus, past part
+fantastic	-fantast- + -ic	fantastically, fantastical	Ancient Greek φανταστικός (phantastikós)bor. Borrowed from Middle French fantastique, borrowed from Late Latin phantasticus, borrowed from Ancient Greek φᾰντᾰστῐκός (phăn
+contrary	-contr- + -ary	contradiction, contraction, contrive, contrite	From Middle English contrarie, compare French contraire, from Old French contraire, from Latin contrārius (“opposite, opposed, contrary”), from contrā (“against”).
+mistress	-mistr- + -ess	mistral, postmistress	From Middle English maistresse, from Old French maistresse (whence French maîtresse), feminine of maistre (“master”). By surface analysis, mist(e)r + -ess.
+mathematical	-mathematic- + -al	mathematician, mathematically	From Middle English mathematicalle, mathematical, from Medieval Latin mathēmaticālis.
+nutrient	-nutri- + -ent	nutrition, nutritional, nutritionist, malnutrition	Borrowed from Latin nūtriēns, present participle of nūtriō (“to suckle, nourish, foster”).
+articulate	-articul- + -ate	articulation, inarticulate, articular, articulately	The adjective is first attested in 1531, the verb in 1551; borrowed from Latin articulātus (“distinct, articulated, jointed”), perfect passive participle of articulō, see
+semantic	-semant- + -ic	semantics, semantically	Borrowed from Ancient Greek σημαντικός (sēmantikós). Compare French sémantique.
+accelerate	-acceler- + -ate	acceleration, accelerator, accelerant, accelerative	First attested in the 1520s. Either from Latin accelerātus, perfect passive participle of accelerō (“to accelerate, hasten”) (see -ate (verb-forming suffix) and -ate (adj
+nominate	-nomin- + -ate	nomination, nominee, nominal, denomination	PIE word *h₁nómn̥
+redundant	-redund- + -ant	redundancy, redundantly	From Latin redundāns, present participle of redundō (“to overflow, redound”), from red- (“again, back”) + undō (“to surge, flood”), from unda (“a wave”).
+delicious	-delici- + -ous	deliciously, deliciousness	From Middle English delicious, from Anglo-Norman delicious, from Old French delicious, delicieux, from Late Latin dēliciōsus (“delicate, delicious”), from dēliciae (“deli
+accumulate	-accumul- + -ate	accumulation, accumulator, accumulative, bioaccumulation	First attested c. 1487; from Middle English accumylaten, borrowed from Latin accumulātus, perfect passive participle of accumulō (“to amass, pile up”) (see -ate (verb-for
+authentic	-authent- + -ic	authenticity, authentically, authenticate, authentication	From Middle English authentik, from Old French autentique, from Latin authenticus, from Ancient Greek αὐθεντικός (authentikós, “authentic, genuine”), from Ancient Greek α
+multiply	-multip- + -ly	multiple, multiparty	From Old French multiplier, from Latin multiplicō, from multi (“many”) + plicō (“to fold”). The noun presumably derives from the verb.
+amateur	-amat- + -eur	amateurish, amateurism, amatory, amateurishness	Borrowed from French amateur, from Latin amātor (“lover”), from amāre (“to love”).
+penetrate	-penetr- + -ate	penetration, impenetrable, penetrator, interpenetration	From Latin penētrātus, perfect passive participle of penētrō (“to put, set, or place within, enter, pierce, penetrate”) (see -ate (verb-forming suffix)), from penes (“wit
+viable	-viab- + -le	enviable, unenviable, nonviable, enviably	Borrowed from French viable (further from Latin vīta), with semantic influence of Latin viābilis (“passable”).
+integral	-integr- + -al	integration, integrate, integrity, disintegrate	Borrowed from Middle French integral, from Medieval Latin integrālis, from Latin integer (“entire”); see integer.
+horizontal	-horizont- + -al	horizontally, horizontality	Borrowed from Middle French horizontal, from horizon, horizonte, from Latin horizōn (stem horizont-).
+differentiate	-differenti- + -ate	differentiation, differential, differentially, differentiable	From New Latin differentiātus, perfect passive participle of differentiō (see -ate (verb-forming suffix) and -ate (noun-forming suffix)), from Latin differentia (“differe
+compatible	-compatib- + -le	incompatible, compatibly	Inherited from Middle English compatible, fron Anglo-Norman compatible, from Medieval Latin compatibilis (“in compatibile beneficium, a benefice which could be held toget
+mammal	-mamm- + -al	mammalian, mammary	Borrowed from Latin mammal, coined 1758 by Linnaeus for the class of mammals, from Late Latin mammalis (“of the breast”), from Latin mamma (“breast”), perhaps cognate wit
+spatial	-spati- + -al	spatially, spatiality	From Latin spatium + -al.
+ensemble	en- + -semb- + -le	resemble, dissemble, dissembling	Borrowed from French ensemble.
+arsenal	-arsen- + -al	arsenic, coarseness, arsenate, arsenical	From Italian arsenale, from Arabic دَار الصِّنَاعَة (dār aṣ-ṣināʕa, “manufacturing shop”), from دَار (dār) + صِنَاعَة (ṣināʕa).
+juvenile	-juven- + -ile	rejuvenate, rejuvenation	Borrowed from Latin iuvenīlis (“youthful; juvenile”), from iuvenis (“young; a youth”) + -īlis (suffix forming adjectives indicating a relationship or a pertaining to). Iu
+surgical	-surgic- + -al	surgically, nonsurgical, postsurgical, neurosurgical	Ancient Greek χειρουργῐκός (kheirourgĭkós)bor. From Middle English cirurgical, borrowed from Middle French cirurgical, from Medieval Latin cirurgicālis, ultimately from A
+warrant	-warr- + -ant	warranty, warrantless, unwarrantable	The noun is derived from Middle English warant (“protector; guard, shield, protection”), from Anglo-Norman warrant, Old Northern French warant, warand, a variant of Old F
+gradual	-gradu- + -al	graduate, gradually, graduation, postgraduate	From Medieval Latin graduālis, from Latin gradus (“step”), from Proto-Indo-European *gʰradʰ-, *gʰredʰ- (“to walk, go”). Cognate with Gothic 𐌲𐍂𐌹𐌸𐍃 (griþs, “step, grade”), 
+arbitrary	-arbitr- + -ary	arbitration, arbitrator, arbitrage, arbitrate	From Middle English arbitrarie, Latin arbitrārius (“arbitrary, uncertain”), from arbiter (“witness, on-looker, listener, judge, overseer”).
+rattle	-ratt- + -le	rattling, rattan	From Middle English ratelen, of uncertain origin; perhaps borrowed from Middle Dutch ratelen or of native origin related to Old English hratele, hrætele (“a plant known f
+aggregate	-aggreg- + -ate	aggregation, disaggregate, disaggregation, aggregator	From Middle English aggregat(e) (“a sum, unit, complex, aggregate”), borrowed from New Latin aggregātum (“an aggregate”), substantivized from the nominative neuter singul
+sediment	-sedim- + -ent	sedimentary, sedimentation	From Middle French sédiment, from Latin sedimentum < sedeō.
+problematic	-problemat- + -ic	problematical, unproblematic, problematically	Borrowed from Middle French problématique, from Late Latin problematicus, from Ancient Greek προβληματικός (problēmatikós), from πρόβλημα (próblēma, “outjutting, barrier,
+cultivate	-cultiv- + -ate	cultivation, cultivar, cultivator	From Medieval Latin cultivātus, perfect passive participle of cultivō (“till, cultivate”) (see -ate (verb-forming suffix) for more), from cultīvus (“tilled”), from Latin 
+reconcile	re- + -conc- + -ile	concern, concession, concise, concessionary	Proto-Indo-European *ḱe? Proto-Indo-European *-(i)yós
+spontaneous	-spontane- + -ous	spontaneously, spontaneity	Learned borrowing from Late Latin spontāneus.
+eternal	-etern- + -al	eternity, eternally	From Middle English eternal, from Old French eternal, from Late Latin aeternālis, from Latin aeternus (“eternal”), from aevum (“age”). Displaced native Old English ēċe.
+skillet	-skil- + -let	skilful, skilfully	From Old French escuëlette, diminutive of escuëlle (“a porringer”), (French écuelle), from Vulgar Latin scutella, diminutive of scutra, scuta (“tray, dish”). Compare scut
+intimacy	-intim- + -acy	intimate, intimidate, intimately, intimidation	From intim(ate) + -acy.
+complement	-complem- + -ent	complementary, complementarity	From Middle English complement, from Latin complēmentum (“that which fills up or completes”), from compleō (“to fill up; to complete”) (English complete). Doublet of comp
+liquor	-liqu- + -or	liquid, liquidity, liquidation, liquidator	From Middle English licour, from Anglo-Norman licour, from Latin liquor (“fluidity, liquidness, a fluid, a liquid”), from liquere (“to be fluid or liquid”); see liquid. D
+fabulous	-fabul- + -ous	fabulously, confabulation, fabulist	From Late Middle English fabulous, fabulose, from Latin fābulōsus (“celebrated in fable”); Equivalent to fable + -ous.
+legitimacy	-legitima- + -cy	illegitimacy, legitimation, delegitimation	From legitim(ate) + -acy.
+tuition	-tuit- + -ion	intuition, intuitive, intuitively, counterintuitive	From Anglo-Norman tuycioun, from Old French tuicion, from Latin tuitiō (“guard, protection, defense”), from tuēri (“to watch, guard, see, observe”). Compare intuition, tu
+vector	-vect- + -or	convection, invective, convective, convector	Learned borrowing from Latin vector (“carrier, transporter”), from vehō (“to carry, transport, bear”), also ultimately the root of English vehicle. The “person or entity 
+trivial	-trivi- + -al	trivialize, triviality, nontrivial, trivialization	PIE word *tréyes
+humble	-humb- + -le	humbling, humbly, humbleness	From Middle English humble, from Old French humble, umble, humle, from Latin humilis (“low, slight, hence mean, humble”) (compare Greek χαμηλός (khamēlós, “on the ground,
+cosmic	-cosm- + -ic	cosmetic, cosmetics, cosmid, cosmetically	Borrowed from Ancient Greek κοσμικός (kosmikós).
+elevate	-elev- + -ate	elevator, elevation	From Middle English elevaten (“to raise up, erect; to elate, inflate (e.g. with pride); (alchemy) to vaporize; (of a bone, excressence, blood vessel) to protrude”), from 
+apprentice	-appr- + -ent + -ice	apprenticeship, apprise	From Middle English apprentice, apprentesse, apprentyse, apprentis, from Old French aprentis, plural of aprentif, from Old French aprendre (verb), Late Latin apprendō, fr
+proprietor	-propriet- + -or	proprietary, proprietorship	Probably from proprietary + -or.
+nominal	-nomin- + -al	nomination, nominee, nominate, denomination	PIE word *h₁nómn̥
+compartment	-compartm- + -ent	compartmentalize, compartmentalise	First attested 1564, from Middle French compartiment, from Italian compartimento, from Late Latin compartiri (“to divide with, to share with”), from com- + partiri (“to a
+bachelor	-bachel- + -or	bachelorette, bachelorhood	From Middle English bacheler, from Anglo-Norman and Old French bacheler (modern French bachelier), from Medieval Latin baccalārius, baccalāris (compare Tuscan baccalare (
+victor	-vict- + -or	victory, conviction, victorine	Inherited from Middle English victour, victor, from Anglo-Norman victor, Latin victor (“conqueror”). Doublet of Victor.
+imitate	-imit- + -ate	imitation, imitator, inimitable, imitative	Borrowed from Latin imitātus, perfect active participle of imitor (“to copy, portray, imitate”), see -ate (verb-forming suffix). Cognate with French imiter.
+peripheral	peri- + -pher- + -al	indecipherable, peripherally, decipherable, undecipherable	Ancient Greek περιφέρεια (periphéreia)bor.
+partisan	-partis- + -an	bipartisan, nonpartisan, partisanship, bipartisanship	From French partisan, from Italian partigiano (“defender of a party”), from parte (“part”). Doublet of partigiano. Attested in English from the late 15th century in the n
+abundant	-abund- + -ant	abundance, abundantly, overabundance, superabundance	First attested about 1380. From Middle English abundaunt, habundaunt, aboundant, from Anglo-Norman abundant, from Old French abondant, from Latin abundāns, present partic
+syllable	-syllab- + -le	monosyllabic, syllabic, monosyllable, syllabary	From Middle English syllable, sillable, syllabylle, sylabul, from Anglo-Norman sillable, from Old French sillebe, from Latin syllaba, from Ancient Greek συλλαβή (sullabḗ)
+magnet	-magn- + -et	magnetic, magnify, magnate, electromagnetic	From Middle English magnete, via Old French magnete, Latin magnēs, magnētem (“lodestone”), from Ancient Greek μαγνῆτις [λίθος] (magnêtis [líthos], “Magnesian [stone]”), e
+syntactic	-syntact- + -ic	syntactically, syntactical	From New Latin syntacticus, from Ancient Greek συντακτικός (suntaktikós).
+deteriorate	de- + -terior- + -ate	deterioration, anteriorly, exteriority, interiorize	Learned borrowing from Late Latin dēteriorātus, perfect passive participle of Late Latin dēteriorō (see -ate (verb-forming suffix)), further from Latin dēterior (“worse”)
+imminent	-immin- + -ent	imminence, imminently	From the present participle of Latin imminēre (“to overhang”), from mineō ("to project, overhang"), related to minae (English menace) and mons (English mount). Compare wi
+navigate	-navig- + -ate	navigation, navigator, navigational, navigable	First attested in 1588; borrowed from Latin nāvigātus, the perfect passive participle of nāvigō (see -ate (verb-forming suffix)), from nāvis (“ship”) + -igō, from Proto-I
+feasible	-feasib- + -le	unfeasible, infeasible, feasibly	From Anglo-Norman fesable, from Latin facere, Old French fesable, faisable (“doable”), from fere, faire (“to do”) + -able.

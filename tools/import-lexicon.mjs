@@ -26,7 +26,7 @@ function check(word, pos, ms) {
   ms.forEach((m, i) => {
     if (!CODES.has(m.code)) p.push(`m${i}: bad code ${m.code}`);
     if (m.code === "I") seenI = true; else if (seenI) p.push(`m${i}: non-inflection after inflection`);
-    if (m.surface === "" && m.code !== "I") p.push(`m${i}: empty surface`);
+    if (m.surface === "" && m.code !== "I" && !(/^-(ed|en)$/.test(m.form) && /\(adj\)$/.test(m.variant))) p.push(`m${i}: empty surface`);
     if (!ADV && m.code === "P" && !PREFIXES.has(m.form.replace(/-/g, "").toLowerCase()) && m.surface) p.push(`m${i}: prefix ${m.form} is not on the allowed list`);
     if (!ADV && (m.code === "S" || m.code === "I") && !SUFFIXES.has(m.form.replace(/^-/, "").toLowerCase())) p.push(`m${i}: suffix ${m.form} is not on the allowed list`);
     if (m.code === "P" && !/-$/.test(m.form)) p.push(`m${i}: prefix form needs trailing hyphen`);
@@ -136,7 +136,7 @@ for (let pass = 0; pass < (ADV ? 0 : 5); pass++) {
         const cut = joined.length - m.surface.length;          // root spelled with its final letter(s) cut off: active → activ + ate
         const last = bms[bms.length - 1];
         if (m.surface === joined) { out.push(...bms); did = true; continue; }
-        if (cut > 0 && cut <= 2 && joined.startsWith(m.surface) && last.surface.length > cut) {
+        if (cut > 0 && cut <= 3 && joined.startsWith(m.surface) && last.surface.length > cut) {
           out.push(...bms.slice(0, -1), { ...last, surface: last.surface.slice(0, last.surface.length - cut) }); did = true; continue;
         }
       }

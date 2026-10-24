@@ -1,6 +1,5 @@
-inform = in- + form (4: informal, informally, informality)
 revolution = revolve + -ion (6: revolutionary, revolutionize, counterrevolutionary)
-active = act + -ive (8: actively, radioactive, reactive)
+active = act + -ive (9: actively, radioactive, reactive)
 comprehensible = comprehend + -ible (4: incomprehensible, comprehensibleness, incomprehensibleness)
 obtrusive = obtrude + -ive (5: unobtrusive, unobtrusively, obtrusively)
 grammatical = grammar + -ical (7: grammatically, ungrammatical, grammaticality)

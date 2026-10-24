@@ -335,10 +335,10 @@ demoralization	noun	de-|de|P||de- (down) ; moral|moral|R|Adj ; -ize|iz|S ; -atio
 demoralize	verb	de-|de|P||de- (down) ; moral|moral|R|Adj ; -ize|ize|S
 demoralized	adj	de-|de|P||de- (down) ; moral|moral|R|Adj ; -ize|ize|S ; -ed|d|S||-ed (adj)
 demoralizing	verb	de-|de|P||de- (down) ; moral|moral|R|Adj ; -ize|iz|S ; -ing|ing|I||-ing (v)
-demotivate	verb	de-|de|P||de- (reverse) ; motivate|motivate|R|V
-demotivated	verb	de-|de|P||de- (reverse) ; motivate|motivat|R|V ; -ed|ed|I||-ed (v2)
-demotivating	verb	de-|de|P||de- (reverse) ; motivate|motivat|R|V ; -ing|ing|I||-ing (v)
-demotivation	noun	de-|de|P||de- (reverse) ; motivate|motivat|R|V ; -ion|ion|S
+demotivate	verb	de-|de|P||de- (reverse) ; motive|motiv|R|N ; -ate|ate|S
+demotivated	verb	de-|de|P||de- (reverse) ; motive|motiv|R|N ; -ate|at|S ; -ed|ed|I||-ed (v2)
+demotivating	verb	de-|de|P||de- (reverse) ; motive|motiv|R|N ; -ate|at|S ; -ing|ing|I||-ing (v)
+demotivation	noun	de-|de|P||de- (reverse) ; motive|motiv|R|N ; -ate|at|S ; -ion|ion|S
 demount	verb	de-|de|P||de- (reverse) ; mount|mount|R|V
 demountable	adj	de-|de|P||de- (reverse) ; mount|mount|R|V ; -able|able|S
 demultiplex	verb	de-|de|P||de- (reverse) ; multiplex|multiplex|R|V
@@ -501,10 +501,10 @@ desegregationist	noun	de-|de|P||de- (reverse) ; segregate|segregat|R|V ; -ion|io
 deselect	verb	de-|de|P||de- (reverse) ; select|select|R|V
 deselection	noun	de-|de|P||de- (reverse) ; select|select|R|V ; -ion|ion|S
 desensitisation	noun	de-|de|P||de- (reverse) ; sensitize|sensitis|R|V ; -ation|ation|S
-desensitization	noun	de-|de|P||de- (reverse) ; sensitive|sensit|R|Adj ; -ize|iz|S ; -ation|ation|S
-desensitize	verb	de-|de|P||de- (reverse) ; sensitive|sensit|R|Adj ; -ize|ize|S
-desensitized	adj	de-|de|P||de- (reverse) ; sensitive|sensit|R|Adj ; -ize|iz|S ; -ed|ed|S||-ed (adj)
-desensitizer	noun	de-|de|P||de- (reverse) ; sensitive|sensit|R|Adj ; -ize|iz|S ; -er|er|S||-er (N)
+desensitization	noun	de-|de|P||de- (reverse) ; sense|sens|R|V ; -itive|it|S ; -ize|iz|S ; -ation|ation|S
+desensitize	verb	de-|de|P||de- (reverse) ; sense|sens|R|V ; -itive|it|S ; -ize|ize|S
+desensitized	adj	de-|de|P||de- (reverse) ; sense|sens|R|V ; -itive|it|S ; -ize|iz|S ; -ed|ed|S||-ed (adj)
+desensitizer	noun	de-|de|P||de- (reverse) ; sense|sens|R|V ; -itive|it|S ; -ize|iz|S ; -er|er|S||-er (N)
 deserialize	verb	de-|de|P||de- (reverse) ; serial|serial|R|Adj ; -ize|ize|S
 desex	verb	de-|de|P||de- (reverse) ; sex|sex|R|N
 desexualization	noun	de-|de|P||de- (reverse) ; sex|sex|R|N ; -ual|ual|S ; -ize|iz|S ; -ation|ation|S
@@ -554,7 +554,7 @@ detrending	noun	de-|de|P||de- (reverse) ; trend|trend|R|N ; -ing|ing|S||-ing (N)
 detribalization	noun	de-|de|P||de- (reverse) ; tribe|trib|R|N ; -al|al|S ; -ize|iz|S ; -ation|ation|S
 detribalize	verb	de-|de|P||de- (reverse) ; tribe|trib|R|N ; -al|al|S ; -ize|ize|S
 detruck	verb	de-|de|P||de- (reverse) ; truck|truck|R|N
-detumescence	noun	de-|de|P||de- (reverse) ; tumescence|tumescence|R|N
+detumescence	noun	de-|de|P||de- (reverse) ; tumescent|tumesc|R|Adj ; -ence|ence|S
 detune	verb	de-|de|P||de- (reverse) ; tune|tune|R|N
 devalorization	noun	de-|de|P||de- (reverse) ; valor|valor|R|N ; -ize|iz|S ; -ation|ation|S
 devalorize	verb	de-|de|P||de- (reverse) ; valor|valor|R|N ; -ize|ize|S
@@ -773,10 +773,6 @@ disendow	verb	dis-|dis|P||dis- (apart) ; endow|endow|R|V
 disenfranchise	verb	dis-|dis|P||dis- (not) ; en-|en|P||en- (make) ; franchise|franchise|R|N
 disenfranchised	adj	dis-|dis|P||dis- (not) ; en-|en|P||en- (make) ; franchise|franchis|R|N ; -ed|ed|S||-ed (adj)
 disenfranchisement	noun	dis-|dis|P||dis- (not) ; en-|en|P||en- (make) ; franchise|franchise|R|N ; -ment|ment|S
-disengage	verb	dis-|dis|P||dis- (apart) ; engage|engage|R|V
-disengaged	verb	dis-|dis|P||dis- (apart) ; engage|engag|R|V ; -ed|ed|I||-ed (v2)
-disengagement	noun	dis-|dis|P||dis- (apart) ; engage|engage|R|V ; -ment|ment|S
-disengaging	verb	dis-|dis|P||dis- (apart) ; engage|engag|R|V ; -ing|ing|I||-ing (v)
 disennoble	verb	dis-|dis|P||dis- (not) ; en-|en|P||en- (make) ; noble|noble|R|Adj
 disentail	verb	dis-|dis|P||dis- (not) ; en-|en|P||en- (into) ; tail|tail|R|V
 disentangle	verb	dis-|dis|P||dis- (apart) ; en-|en|P||en- (into) ; tangle|tangle|R|V
@@ -859,7 +855,6 @@ disinfest	verb	dis-|dis|P||dis- (apart) ; infest|infest|R|V
 disinfestation	noun	dis-|dis|P||dis- (apart) ; infest|infest|R|V ; -ation|ation|S
 disinflation	noun	dis-|dis|P||dis- (not) ; inflate|inflat|R|V ; -ion|ion|S
 disinflationary	adj	dis-|dis|P||dis- (not) ; inflate|inflat|R|V ; -ion|ion|S ; -ary|ary|S
-disinformation	noun	dis-|dis|P||dis- (not) ; inform|inform|R|V ; -ation|ation|S
 disingenuous	adj	dis-|dis|P||dis- (not) ; ingenuous|ingenuous|R|Adj
 disingenuously	adv	dis-|dis|P||dis- (not) ; ingenuous|ingenuous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
 disingenuousness	noun	dis-|dis|P||dis- (not) ; ingenuous|ingenuous|R|Adj ; -ness|ness|S
@@ -914,7 +909,7 @@ dismissed	verb	dis-|dis|P||dis- (apart) ; miss|miss|R|V ; -ed|ed|I||-ed (v2)
 dismount	verb	dis-|dis|P||dis- (apart) ; mount|mount|R|V
 dismounted	verb	dis-|dis|P||dis- (apart) ; mount|mount|R|V ; -ed|ed|I||-ed (v2)
 dismounting	verb	dis-|dis|P||dis- (apart) ; mount|mount|R|V ; -ing|ing|I||-ing (v)
-disobedience	noun	dis-|dis|P||dis- (not) ; obedience|obedience|R|N
+disobedience	noun	dis-|dis|P||dis- (not) ; obedient|obedi|R|Adj ; -ence|ence|S
 disobedient	adj	dis-|dis|P||dis- (not) ; obedient|obedient|R|Adj
 disobediently	adv	dis-|dis|P||dis- (not) ; obedient|obedient|R|Adj ; -ly|ly|I|Adv|-ly (adv)
 disobey	verb	dis-|dis|P||dis- (not) ; obey|obey|R|V
@@ -1217,7 +1212,7 @@ engenderer	noun	en-|en|P||en- (make) ; gender|gender|R|N ; -er|er|S||-er (N)
 engendering	adj	en-|en|P||en- (make) ; gender|gender|R|N ; -ing|ing|S||-ing (adj)
 engild	verb	en-|en|P||en- (into) ; gild|gild|R|V
 engird	verb	en-|en|P||en- (into) ; gird|gird|R|V
-engirdle	verb	en-|en|P||en- (into) ; girdle|girdle|R|N
+engirdle	verb	en-|en|P||en- (into) ; gird|gird|R|V ; -le|le|S
 englacial	adj	en-|en|P||en- (into) ; glacial|glacial|R|N
 engorge	verb	en-|en|P||en- (into) ; gorge|gorge|R|V
 engorged	adj	en-|en|P||en- (into) ; gorge|gorg|R|V ; -ed|ed|S||-ed (adj)
@@ -1682,7 +1677,7 @@ impropriety	noun	im-|im|P||im- (not)|in- ; propriety|propriety|R|N
 improvidence	noun	im-|im|P||im- (not)|in- ; provide|provid|R|V ; -ence|ence|S
 improvident	adj	im-|im|P||im- (not)|in- ; provide|provid|R|V ; -ent|ent|S
 improvidently	adv	im-|im|P||im- (not)|in- ; provide|provid|R|V ; -ent|ent|S ; -ly|ly|I|Adv|-ly (adv)
-imprudence	noun	im-|im|P||im- (not)|in- ; prudence|prudence|R|N
+imprudence	noun	im-|im|P||im- (not)|in- ; prudent|prud|R|Adj ; -ence|ence|S
 imprudent	adj	im-|im|P||im- (not)|in- ; prudent|prudent|R|Adj
 imprudently	adv	im-|im|P||im- (not)|in- ; prudent|prudent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
 imprudentness	noun	im-|im|P||im- (not)|in- ; prudent|prudent|R|Adj ; -ness|ness|S
@@ -1837,7 +1832,7 @@ incitingly	adv	in-|in|P||in- (into) ; cite|cit|R|V ; -ing|ing|S||-ing (adj) ; -l
 incivil	adj	in-|in|P||in- (not) ; civil|civil|R|Adj
 incivility	noun	in-|in|P||in- (not) ; civil|civil|R|Adj ; -ity|ity|S
 incivism	noun	in-|in|P||in- (not) ; civil|civ|R|Adj ; -ism|ism|S
-inclemency	noun	in-|in|P||in- (not) ; clemency|clemency|R|N
+inclemency	noun	in-|in|P||in- (not) ; clement|clem|R|Adj ; -ency|ency|S
 inclement	adj	in-|in|P||in- (not) ; clement|clement|R|Adj
 inclemently	adv	in-|in|P||in- (not) ; clement|clement|R|Adj ; -ly|ly|I|Adv|-ly (adv)
 inclementness	noun	in-|in|P||in- (not) ; clement|clement|R|Adj ; -ness|ness|S
@@ -1874,9 +1869,9 @@ incombustibly	adv	in-|in|P||in- (not) ; combust|combust|R|V ; -ible|ibl|S ; -ly|
 incomer	noun	in-|in|P||in- (into) ; come|com|R|V ; -er|er|S||-er (N)
 incoming	adj	in-|in|P||in- (into) ; come|com|R|V ; -ing|ing|S||-ing (adj)
 incommensurability	noun	in-|in|P||in- (not) ; commensurable|commensurabil|R|Adj ; -ity|ity|S
-incommensurable	adj	in-|in|P||in- (not) ; commensurable|commensurable|R|Adj
-incommensurableness	noun	in-|in|P||in- (not) ; commensurable|commensurable|R|Adj ; -ness|ness|S
-incommensurably	adv	in-|in|P||in- (not) ; commensurable|commensurab|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+incommensurable	adj	in-|in|P||in- (not) ; com-|com|P ; mensurable|mensurable|R|Adj
+incommensurableness	noun	in-|in|P||in- (not) ; com-|com|P ; mensurable|mensurable|R|Adj ; -ness|ness|S
+incommensurably	adv	in-|in|P||in- (not) ; com-|com|P ; mensurable|mensurab|R|Adj ; -ly|ly|I|Adv|-ly (adv)
 incommensurate	adj	in-|in|P||in- (not) ; commensurate|commensurate|R|Adj
 incommensurately	adv	in-|in|P||in- (not) ; commensurate|commensurate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
 incommensurateness	noun	in-|in|P||in- (not) ; commensurate|commensurate|R|Adj ; -ness|ness|S
@@ -1935,7 +1930,7 @@ inconceivably	adv	in-|in|P||in- (not) ; con-|con|P ; -ceive|ceiv|B|V ; -able|ab|
 inconclusive	adj	in-|in|P||in- (not) ; conclude|conclus|R|V ; -ive|ive|S
 inconclusively	adv	in-|in|P||in- (not) ; con-|con|P ; -clude|clus|B|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
 inconclusiveness	noun	in-|in|P||in- (not) ; conclude|conclus|R|V ; -ive|ive|S ; -ness|ness|S
-incongruence	noun	in-|in|P||in- (not) ; congruence|congruence|R|N
+incongruence	noun	in-|in|P||in- (not) ; congruent|congru|R|Adj ; -ence|ence|S
 incongruent	adj	in-|in|P||in- (not) ; congruent|congruent|R|Adj
 incongruently	adv	in-|in|P||in- (not) ; congruent|congruent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
 incongruity	noun	in-|in|P||in- (not) ; congruous|congru|R|Adj ; -ity|ity|S
@@ -1945,7 +1940,7 @@ incongruousness	noun	in-|in|P||in- (not) ; congruous|congruous|R|Adj ; -ness|nes
 inconquerable	adj	in-|in|P||in- (not) ; conquer|conquer|R|V ; -able|able|S
 inconsecutive	adj	in-|in|P||in- (not) ; consecutive|consecutive|R|Adj
 inconsecutiveness	noun	in-|in|P||in- (not) ; consecutive|consecutive|R|Adj ; -ness|ness|S
-inconsequence	noun	in-|in|P||in- (not) ; consequence|consequence|R|N
+inconsequence	noun	in-|in|P||in- (not) ; consequent|consequ|R|Adj ; -ence|ence|S
 inconsequent	adj	in-|in|P||in- (not) ; consequent|consequent|R|Adj
 inconsequential	adj	in-|in|P||in- (not) ; consequent|consequent|R|Adj ; -ial|ial|S
 inconsequentiality	noun	in-|in|P||in- (not) ; consequent|consequent|R|Adj ; -ial|ial|S ; -ity|ity|S
@@ -1964,7 +1959,7 @@ inconsolability	noun	in-|in|P||in- (not) ; console|consol|R|V ; -able|abil|S ; -
 inconsolable	adj	in-|in|P||in- (not) ; console|consol|R|V ; -able|able|S
 inconsolableness	noun	in-|in|P||in- (not) ; console|consol|R|V ; -able|able|S ; -ness|ness|S
 inconsolably	adv	in-|in|P||in- (not) ; console|consol|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
-inconsonance	noun	in-|in|P||in- (not) ; consonance|consonance|R|N
+inconsonance	noun	in-|in|P||in- (not) ; consonant|conson|R|Adj ; -ance|ance|S
 inconsonant	adj	in-|in|P||in- (not) ; consonant|consonant|R|Adj
 inconsonantly	adv	in-|in|P||in- (not) ; consonant|consonant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
 inconspicuous	adj	in-|in|P||in- (not) ; conspicuous|conspicuous|R|Adj
@@ -1986,7 +1981,7 @@ incontrovertibility	noun	in-|in|P||in- (not) ; controvert|controvert|R|V ; -ible
 incontrovertible	adj	in-|in|P||in- (not) ; controvert|controvert|R|V ; -ible|ible|S
 incontrovertibleness	noun	in-|in|P||in- (not) ; controvert|controvert|R|V ; -ible|ible|S ; -ness|ness|S
 incontrovertibly	adv	in-|in|P||in- (not) ; controvert|controvert|R|V ; -ible|ib|S ; -ly|ly|I|Adv|-ly (adv)
-inconvenience	noun	in-|in|P||in- (not) ; convenience|convenience|R|N
+inconvenience	noun	in-|in|P||in- (not) ; convenient|conveni|R|Adj ; -ence|ence|S
 inconvenient	adj	in-|in|P||in- (not) ; convene|conven|R|V ; -ent|ient|S
 inconveniently	adv	in-|in|P||in- (not) ; convenient|convenient|R|Adj ; -ly|ly|I|Adv|-ly (adv)
 inconvertibility	noun	in-|in|P||in- (not) ; convert|convert|R|V ; -ible|ibil|S ; -ity|ity|S
@@ -2253,7 +2248,7 @@ inefficiently	adv	in-|in|P||in- (not) ; efficient|efficient|R|Adj ; -ly|ly|I|Adv
 inegalitarian	adj	in-|in|P||in- (not) ; egalitarian|egalitarian|R|Adj
 inelastic	adj	in-|in|P||in- (not) ; elastic|elastic|R|Adj
 inelasticity	noun	in-|in|P||in- (not) ; elastic|elastic|R|Adj ; -ity|ity|S
-inelegance	noun	in-|in|P||in- (not) ; elegance|elegance|R|N
+inelegance	noun	in-|in|P||in- (not) ; elegant|eleg|R|Adj ; -ance|ance|S
 inelegant	adj	in-|in|P||in- (not) ; elegant|elegant|R|Adj
 inelegantly	adv	in-|in|P||in- (not) ; elegant|elegant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
 ineligibility	noun	in-|in|P||in- (not) ; eligible|eligibil|R|Adj ; -ity|ity|S
@@ -2369,8 +2364,8 @@ infeasible	adj	in-|in|P||in- (not) ; feasible|feasible|R|Adj
 infeasibleness	noun	in-|in|P||in- (not) ; feasible|feasible|R|Adj ; -ness|ness|S
 infecund	adj	in-|in|P||in- (not) ; fecund|fecund|R|Adj
 infecundity	noun	in-|in|P||in- (not) ; fecund|fecund|R|Adj ; -ity|ity|S
-infelicitous	adj	in-|in|P||in- (not) ; felicitous|felicitous|R|Adj
-infelicitously	adv	in-|in|P||in- (not) ; felicitous|felicitous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+infelicitous	adj	in-|in|P||in- (not) ; felicity|felicit|R|N ; -ous|ous|S
+infelicitously	adv	in-|in|P||in- (not) ; felicity|felicit|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
 infelicity	noun	in-|in|P||in- (not) ; felicity|felicity|R|N
 infertile	adj	in-|in|P||in- (not) ; fertile|fertile|R|Adj
 infertility	noun	in-|in|P||in- (not) ; fertile|fertil|R|Adj ; -ity|ity|S
@@ -2423,7 +2418,7 @@ informality	noun	in-|in|P||in- (not) ; form|form|R|N ; -al|al|S ; -ity|ity|S
 informally	adv	in-|in|P||in- (not) ; form|form|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
 informalness	noun	in-|in|P||in- (not) ; form|form|R|N ; -al|al|S ; -ness|ness|S
 infortune	noun	in-|in|P||in- (not) ; fortune|fortune|R|N
-infrequency	noun	in-|in|P||in- (not) ; frequency|frequency|R|N
+infrequency	noun	in-|in|P||in- (not) ; frequent|frequ|R|Adj ; -ency|ency|S
 infrequent	adj	in-|in|P||in- (not) ; frequent|frequent|R|Adj
 infrequently	adv	in-|in|P||in- (not) ; frequent|frequent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
 infringe	verb	in-|in|P||in- (into) ; fringe|fringe|R|V
@@ -2857,9 +2852,6 @@ irresolute	adj	ir-|ir|P||ir- (not)|in- ; resolute|resolute|R|Adj
 irresolutely	adv	ir-|ir|P||ir- (not)|in- ; resolute|resolute|R|Adj ; -ly|ly|I|Adv|-ly (adv)
 irresoluteness	noun	ir-|ir|P||ir- (not)|in- ; resolute|resolute|R|Adj ; -ness|ness|S
 irresolution	noun	ir-|ir|P||ir- (not)|in- ; resolve|resolut|R|V ; -ion|ion|S
-irresolvability	noun	ir-|ir|P||ir- (not)|in- ; resolve|resolv|R|V ; -able|abil|S ; -ity|ity|S
-irresolvable	adj	ir-|ir|P||ir- (not)|in- ; resolve|resolv|R|V ; -able|able|S
-irresolvableness	noun	ir-|ir|P||ir- (not)|in- ; resolve|resolv|R|V ; -able|able|S ; -ness|ness|S
 irrespective	adj	ir-|ir|P||ir- (not)|in- ; respect|respect|R|V ; -ive|ive|S
 irrespectively	adv	ir-|ir|P||ir- (not)|in- ; respect|respect|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
 irrespirable	adj	ir-|ir|P||ir- (not)|in- ; respire|respir|R|V ; -able|able|S
@@ -2934,8 +2926,6 @@ reactor	noun	re-|re|P||re- (against) ; act|act|R|V ; -or|or|S
 readdress	verb	re-|re|P||re- (again) ; address|address|R|V
 readdressing	verb	re-|re|P||re- (again) ; address|address|R|V ; -ing|ing|I||-ing (v)
 readjourn	verb	re-|re|P||re- (again) ; adjourn|adjourn|R|V
-readjust	verb	re-|re|P||re- (again) ; adjust|adjust|R|V
-readjustment	noun	re-|re|P||re- (again) ; adjust|adjust|R|V ; -ment|ment|S
 readmission	noun	re-|re|P||re- (again) ; admit|admiss|R|V ; -ion|ion|S
 readmit	verb	re-|re|P||re- (again) ; admit|admit|R|V
 readmittance	noun	re-|re|P||re- (again) ; admit|admitt|R|V ; -ance|ance|S
@@ -3239,7 +3229,7 @@ refit	verb	re-|re|P||re- (again) ; fit|fit|R|V
 refitting	noun	re-|re|P||re- (again) ; fit|fitt|R|V ; -ing|ing|S||-ing (N)
 refix	verb	re-|re|P||re- (again) ; fix|fix|R|V
 refloat	verb	re-|re|P||re- (again) ; float|float|R|V
-reflorescence	noun	re-|re|P||re- (again) ; florescence|florescence|R|V
+reflorescence	noun	re-|re|P||re- (again) ; florescent|floresc|R|V ; -ence|ence|S
 reflourish	verb	re-|re|P||re- (again) ; flourish|flourish|R|V
 reflow	verb	re-|re|P||re- (again) ; flow|flow|R|V
 refluent	adj	re-|re|P||re- (against) ; fluent|fluent|R|N
@@ -3481,8 +3471,7 @@ reorientation	noun	re-|re|P||re- (again) ; orient|orient|R|V ; -ation|ation|S
 repace	verb	re-|re|P||re- (again) ; pace|pace|R|V
 repacify	verb	re-|re|P||re- (again) ; pacify|pacify|R|V
 repack	verb	re-|re|P||re- (again) ; pack|pack|R|V
-repackage	verb	re-|re|P||re- (again) ; package|package|R|V
-repackaging	verb	re-|re|P||re- (again) ; package|packag|R|V ; -ing|ing|I||-ing (v)
+repackage	verb	re-|re|P||re- (again) ; pack|pack|R|V ; -age|age|S
 repacking	noun	re-|re|P||re- (again) ; pack|pack|R|V ; -ing|ing|S||-ing (N)
 repagination	noun	re-|re|P||re- (again) ; paginate|paginat|R|V ; -ion|ion|S
 repaint	verb	re-|re|P||re- (again) ; paint|paint|R|V
@@ -3783,7 +3772,6 @@ unadaptable	adj	un-|un|P||un- (not) ; adapt|adapt|R|V ; -able|able|S
 unadapted	adj	un-|un|P||un- (not) ; adapt|adapt|R|V ; -ed|ed|S||-ed (adj)
 unaddressed	adj	un-|un|P||un- (not) ; address|address|R|V ; -ed|ed|S||-ed (adj)
 unadjudged	adj	un-|un|P||un- (not) ; ad-|ad|P ; judge|judg|R|V ; -ed|ed|S||-ed (adj)
-unadjusted	adj	un-|un|P||un- (not) ; adjust|adjust|R|V ; -ed|ed|S||-ed (adj)
 unadmirable	adj	un-|un|P||un- (not) ; admire|admir|R|V ; -able|able|S
 unadmired	adj	un-|un|P||un- (not) ; admire|admir|R|V ; -ed|ed|S||-ed (adj)
 unadmiring	adj	un-|un|P||un- (not) ; admire|admir|R|V ; -ing|ing|S||-ing (adj)
@@ -4852,8 +4840,6 @@ unenduring	adj	un-|un|P||un- (not) ; endure|endur|R|V ; -ing|ing|S||-ing (adj)
 unenforceable	adj	un-|un|P||un- (not) ; en-|en|P||en- (into) ; force|force|R|V ; -able|able|S
 unenforced	adj	un-|un|P||un- (not) ; en-|en|P||en- (into) ; force|forc|R|V ; -ed|ed|S||-ed (adj)
 unenfranchised	adj	un-|un|P||un- (not) ; en-|en|P||en- (into) ; franchise|franchise|R|V ; -ed|d|S||-ed (adj)
-unengaged	adj	un-|un|P||un- (not) ; engage|engag|R|V ; -ed|ed|S||-ed (adj)
-unengaging	adj	un-|un|P||un- (not) ; engage|engag|R|V ; -ing|ing|S||-ing (adj)
 unenjoyable	adj	un-|un|P||un- (not) ; enjoy|enjoy|R|V ; -able|able|S
 unenlarged	adj	un-|un|P||un- (not) ; en-|en|P||en- (make) ; large|large|R|Adj ; -ed|d|S||-ed (adj)
 unenriched	adj	un-|un|P||un- (not) ; en-|en|P||en- (make) ; rich|rich|R|Adj ; -ed|ed|S||-ed (adj)
@@ -4902,7 +4888,6 @@ unestranged	adj	un-|un|P||un- (not) ; estrange|estrange|R|V ; -ed|d|S||-ed (adj)
 unethical	adj	un-|un|P||un- (not) ; ethic|ethic|R|N ; -al|al|S
 unevadable	adj	un-|un|P||un- (not) ; evade|evad|R|V ; -able|able|S
 unevaluated	adj	un-|un|P||un- (not) ; evaluate|evaluate|R|V ; -ed|d|S||-ed (adj)
-unevangelical	adj	un-|un|P||un- (not) ; evangelical|evangelical|R|Adj
 unevaporated	adj	un-|un|P||un- (not) ; evaporate|evaporate|R|V ; -ed|d|S||-ed (adj)
 uneven	adj	un-|un|P||un- (not) ; even|even|R|Adj
 unevenly	adv	un-|un|P||un- (not) ; even|even|R|Adj ; -ly|ly|I|Adv|-ly (adv)
@@ -5199,7 +5184,7 @@ ungifted	adj	un-|un|P||un- (not) ; gift|gift|R|N ; -ed|ed|S||-ed (adj)
 ungild	verb	un-|un|P||un- (reverse) ; gild|gild|R|V
 ungilt	adj	un-|un|P||un- (not) ; gild|gilt|R|V ; -ed||S||-ed (adj)
 ungird	verb	un-|un|P||un- (reverse) ; gird|gird|R|V
-ungirdle	verb	un-|un|P||un- (reverse) ; girdle|girdle|R|V
+ungirdle	verb	un-|un|P||un- (reverse) ; gird|gird|R|V ; -le|le|S
 ungiven	adj	un-|un|P||un- (not) ; give|given|R|V ; -en||S||-en (adj)
 unglad	adj	un-|un|P||un- (not) ; glad|glad|R|Adj
 unglamorized	adj	un-|un|P||un- (not) ; glamor|glamor|R|N ; -ize|iz|S ; -ed|ed|S||-ed (adj)
@@ -5265,9 +5250,9 @@ unhampered	adj	un-|un|P||un- (not) ; hamper|hamper|R|V ; -ed|ed|S||-ed (adj)
 unhand	verb	un-|un|P||un- (reverse) ; hand|hand|R|V
 unhandily	adv	un-|un|P||un- (not) ; handy|handi|R|Adj ; -ly|ly|I||-ly (adv)
 unhandiness	noun	un-|un|P||un- (not) ; handy|handi|R|Adj ; -ness|ness|S
-unhandsome	adj	un-|un|P||un- (not) ; handsome|handsome|R|Adj
-unhandsomely	adv	un-|un|P||un- (not) ; handsome|handsome|R|Adj ; -ly|ly|I||-ly (adv)
-unhandsomeness	noun	un-|un|P||un- (not) ; handsome|handsome|R|Adj ; -ness|ness|S
+unhandsome	adj	un-|un|P||un- (not) ; hand|hand|R|N ; -some|some|S
+unhandsomely	adv	un-|un|P||un- (not) ; hand|hand|R|N ; -some|some|S ; -ly|ly|I||-ly (adv)
+unhandsomeness	noun	un-|un|P||un- (not) ; hand|hand|R|N ; -some|some|S ; -ness|ness|S
 unhandy	adj	un-|un|P||un- (not) ; hand|hand|R|N ; -y|y|S
 unhang	verb	un-|un|P||un- (reverse) ; hang|hang|R|V
 unhanged	adj	un-|un|P||un- (not) ; hang|hang|R|V ; -ed|ed|S||-ed (adj)
@@ -5433,8 +5418,6 @@ uninflectable	adj	un-|un|P||un- (not) ; inflect|inflect|R|V ; -able|able|S
 uninflected	adj	un-|un|P||un- (not) ; inflect|inflect|R|V ; -ed|ed|S||-ed (adj)
 uninfluenced	adj	un-|un|P||un- (not) ; influence|influenc|R|V ; -ed|ed|S||-ed (adj)
 uninfluential	adj	un-|un|P||un- (not) ; influence|influent|R|N ; -ial|ial|S
-uninformative	adj	un-|un|P||un- (not) ; inform|inform|R|V ; -ative|ative|S
-uninformed	adj	un-|un|P||un- (not) ; inform|inform|R|V ; -ed|ed|S||-ed (adj)
 uninfringed	adj	un-|un|P||un- (not) ; in-|in|P||in- (into) ; fringe|fring|R|V ; -ed|ed|S||-ed (adj)
 uningenious	adj	un-|un|P||un- (not) ; ingenious|ingenious|R|Adj
 uninhabitability	noun	un-|un|P||un- (not) ; in-|in|P||in- (into) ; habit|habit|R|N ; -able|abil|S ; -ity|ity|S
@@ -5464,7 +5447,7 @@ uninsurability	noun	un-|un|P||un- (not) ; insure|insur|R|V ; -able|abil|S ; -ity
 uninsurable	adj	un-|un|P||un- (not) ; insure|insur|R|V ; -able|able|S
 uninsured	adj	un-|un|P||un- (not) ; insure|insur|R|V ; -ed|ed|S||-ed (adj)
 unintellectual	adj	un-|un|P||un- (not) ; intellect|intellect|R|N ; -ual|ual|S
-unintelligence	noun	un-|un|P||un- (not) ; intelligence|intelligence|R|N
+unintelligence	noun	un-|un|P||un- (not) ; intelligent|intellig|R|Adj ; -ence|ence|S
 unintelligent	adj	un-|un|P||un- (not) ; intelligent|intelligent|R|Adj
 unintelligently	adv	un-|un|P||un- (not) ; intelligent|intelligent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
 unintelligibility	noun	un-|un|P||un- (not) ; intelligible|intelligib|R|Adj ; -ity|ility|S
@@ -5746,15 +5729,15 @@ unmindful	adj	un-|un|P||un- (not) ; mind|mind|R|N ; -ful|ful|S
 unmindfully	adv	un-|un|P||un- (not) ; mind|mind|R|N ; -ful|ful|S ; -ly|ly|I||-ly (adv)
 unmindfulness	noun	un-|un|P||un- (not) ; mind|mind|R|N ; -ful|ful|S ; -ness|ness|S
 unmined	adj	un-|un|P||un- (not) ; mine|min|R|V ; -ed|ed|S||-ed (adj)
-unmingled	adj	un-|un|P||un- (not) ; mingle|mingl|R|V ; -ed|ed|S||-ed (adj)
+unmingled	adj	un-|un|P||un- (not) ; ming|ming|R|N ; -le|l|S ; -ed|ed|S||-ed (adj)
 unminted	adj	un-|un|P||un- (not) ; mint|mint|R|V ; -ed|ed|S||-ed (adj)
 unmirthful	adj	un-|un|P||un- (not) ; mirth|mirth|R|N ; -ful|ful|S
 unmisgiving	noun	un-|un|P||un- (not) ; mis-|mis|P ; give|giv|R|V ; -ing|ing|S||-ing (N)
 unmissable	adj	un-|un|P||un- (not) ; miss|miss|R|V ; -able|able|S
 unmissed	adj	un-|un|P||un- (not) ; miss|miss|R|V ; -ed|ed|S||-ed (adj)
-unmistakable	adj	un-|un|P||un- (not) ; mistake|mistak|R|V ; -able|able|S
-unmistakableness	noun	un-|un|P||un- (not) ; mistake|mistak|R|V ; -able|able|S ; -ness|ness|S
-unmistakably	adv	un-|un|P||un- (not) ; mistake|mistak|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+unmistakable	adj	un-|un|P||un- (not) ; mis-|mis|P ; take|tak|R|V ; -able|able|S
+unmistakableness	noun	un-|un|P||un- (not) ; mis-|mis|P ; take|tak|R|V ; -able|able|S ; -ness|ness|S
+unmistakably	adv	un-|un|P||un- (not) ; mis-|mis|P ; take|tak|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
 unmistrusting	adj	un-|un|P||un- (not) ; mis-|mis|P ; trust|trust|R|V ; -ing|ing|S||-ing (adj)
 unmitigated	adj	un-|un|P||un- (not) ; mitigate|mitigat|R|V ; -ed|ed|S||-ed (adj)
 unmitigatedly	adv	un-|un|P||un- (not) ; mitigate|mitigat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
@@ -5779,7 +5762,7 @@ unmortared	adj	un-|un|P||un- (not) ; mortar|mortar|R|N ; -ed|ed|S||-ed (adj)
 unmortgaged	adj	un-|un|P||un- (not) ; mortgage|mortgag|R|V ; -ed|ed|S||-ed (adj)
 unmortified	adj	un-|un|P||un- (not) ; mortify|mortifi|R|V ; -ed|ed|S||-ed (adj)
 unmotherly	adj	un-|un|P||un- (not) ; mother|mother|R|N ; -ly|ly|S||-ly (adj)
-unmotivated	adj	un-|un|P||un- (not) ; motivate|motivat|R|V ; -ed|ed|S||-ed (adj)
+unmotivated	adj	un-|un|P||un- (not) ; motive|motiv|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
 unmould	verb	un-|un|P||un- (reverse) ; mould|mould|R|V
 unmount	verb	un-|un|P||un- (reverse) ; mount|mount|R|V
 unmounted	adj	un-|un|P||un- (not) ; mount|mount|R|V ; -ed|ed|S||-ed (adj)
@@ -5878,7 +5861,7 @@ unorganised	adj	un-|un|P||un- (not) ; organ|organ|R|N ; -ise|is|S ; -ed|ed|S||-e
 unorganizable	adj	un-|un|P||un- (not) ; organ|organ|R|N ; -ize|iz|S ; -able|able|S
 unorganized	adj	un-|un|P||un- (not) ; organ|organ|R|N ; -ize|iz|S ; -ed|ed|S||-ed (adj)
 unorganizedness	noun	un-|un|P||un- (not) ; organ|organ|R|N ; -ize|iz|S ; -ed|ed|S||-ed (adj) ; -ness|ness|S
-unoriginal	adj	un-|un|P||un- (not) ; original|original|R|Adj
+unoriginal	adj	un-|un|P||un- (not) ; origin|origin|R|N ; -al|al|S
 unoriginate	adj	un-|un|P||un- (not) ; origin|origin|R|N ; -ate|ate|S
 unornamental	adj	un-|un|P||un- (not) ; ornament|ornament|R|N ; -al|al|S
 unornamented	adj	un-|un|P||un- (not) ; ornament|ornament|R|N ; -ed|ed|S||-ed (adj)
@@ -5937,7 +5920,7 @@ unpaved	adj	un-|un|P||un- (not) ; pave|pav|R|V ; -ed|ed|S||-ed (adj)
 unpawned	adj	un-|un|P||un- (not) ; pawn|pawn|R|V ; -ed|ed|S||-ed (adj)
 unpayable	adj	un-|un|P||un- (not) ; pay|pay|R|V ; -able|able|S
 unpeaceful	adj	un-|un|P||un- (not) ; peace|peace|R|N ; -ful|ful|S
-unpedantic	adj	un-|un|P||un- (not) ; pedantic|pedantic|R|Adj
+unpedantic	adj	un-|un|P||un- (not) ; pedant|pedant|R|N ; -ic|ic|S
 unpedestal	verb	un-|un|P||un- (reverse) ; pedestal|pedestal|R|V
 unpedigreed	adj	un-|un|P||un- (not) ; pedigree|pedigree|R|N ; -ed|d|S||-ed (adj)
 unpeeled	adj	un-|un|P||un- (not) ; peel|peel|R|V ; -ed|ed|S||-ed (adj)
@@ -6228,8 +6211,6 @@ unreasoning	adj	un-|un|P||un- (not) ; reason|reason|R|V ; -ing|ing|S||-ing (adj)
 unreasoningly	adv	un-|un|P||un- (not) ; reason|reason|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
 unrebukable	adj	un-|un|P||un- (not) ; rebuke|rebuk|R|V ; -able|able|S
 unrebuked	adj	un-|un|P||un- (not) ; rebuke|rebuk|R|V ; -ed|ed|S||-ed (adj)
-unrecallable	adj	un-|un|P||un- (not) ; recall|recall|R|V ; -able|able|S
-unrecalled	adj	un-|un|P||un- (not) ; recall|recall|R|V ; -ed|ed|S||-ed (adj)
 unreceipted	adj	un-|un|P||un- (not) ; receipt|receipt|R|N ; -ed|ed|S||-ed (adj)
 unreceivable	adj	un-|un|P||un- (not) ; re-|re|P||re- (against) ; -ceive|ceiv|B|N ; -able|able|S
 unreceived	adj	un-|un|P||un- (not) ; re-|re|P||re- (against) ; -ceive|ceiv|B|N ; -ed|ed|S||-ed (adj)
@@ -6266,7 +6247,6 @@ unrefuted	adj	un-|un|P||un- (not) ; refute|refut|R|V ; -ed|ed|S||-ed (adj)
 unregal	adj	un-|un|P||un- (not) ; regal|regal|R|Adj
 unregarded	adj	un-|un|P||un- (not) ; regard|regard|R|V ; -ed|ed|S||-ed (adj)
 unregardful	adj	un-|un|P||un- (not) ; regard|regard|R|V ; -ful|ful|S
-unregenerable	adj	un-|un|P||un- (not) ; regenerate|regener|R|V ; -able|able|S
 unregister	verb	un-|un|P||un- (reverse) ; register|register|R|V
 unregistered	adj	un-|un|P||un- (not) ; register|register|R|V ; -ed|ed|S||-ed (adj)
 unregretted	adj	un-|un|P||un- (not) ; regret|regrett|R|V ; -ed|ed|S||-ed (adj)
@@ -6351,8 +6331,6 @@ unreservedness	noun	un-|un|P||un- (not) ; reserve|reserv|R|V ; -ed|ed|S||-ed (ad
 unresistant	adj	un-|un|P||un- (not) ; resist|resist|R|V ; -ant|ant|S
 unresisted	adj	un-|un|P||un- (not) ; resist|resist|R|V ; -ed|ed|S||-ed (adj)
 unresisting	adj	un-|un|P||un- (not) ; resist|resist|R|V ; -ing|ing|S||-ing (adj)
-unresolvable	adj	un-|un|P||un- (not) ; resolve|resolv|R|V ; -able|able|S
-unresolved	adj	un-|un|P||un- (not) ; resolve|resolv|R|V ; -ed|ed|S||-ed (adj)
 unresonant	adj	un-|un|P||un- (not) ; resonate|reson|R|V ; -ant|ant|S
 unrespectable	adj	un-|un|P||un- (not) ; respect|respect|R|V ; -able|able|S
 unrespected	adj	un-|un|P||un- (not) ; respect|respect|R|V ; -ed|ed|S||-ed (adj)
@@ -6379,7 +6357,6 @@ unrevealed	adj	un-|un|P||un- (not) ; reveal|reveal|R|V ; -ed|ed|S||-ed (adj)
 unrevealing	adj	un-|un|P||un- (not) ; reveal|reveal|R|V ; -ing|ing|S||-ing (adj)
 unrevenged	adj	un-|un|P||un- (not) ; revenge|reveng|R|V ; -ed|ed|S||-ed (adj)
 unreversed	adj	un-|un|P||un- (not) ; reverse|revers|R|V ; -ed|ed|S||-ed (adj)
-unreviewed	adj	un-|un|P||un- (not) ; review|review|R|V ; -ed|ed|S||-ed (adj)
 unrevised	adj	un-|un|P||un- (not) ; revise|revis|R|V ; -ed|ed|S||-ed (adj)
 unrevoked	adj	un-|un|P||un- (not) ; revoke|revok|R|V ; -ed|ed|S||-ed (adj)
 unrevolutionary	adj	un-|un|P||un- (not) ; revolve|revolut|R|V ; -ion|ion|S ; -ary|ary|S
@@ -6717,7 +6694,7 @@ unstably	adv	un-|un|P||un- (not) ; stable|stabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
 unstained	adj	un-|un|P||un- (not) ; stain|stain|R|V ; -ed|ed|S||-ed (adj)
 unstamped	adj	un-|un|P||un- (not) ; stamp|stamp|R|V ; -ed|ed|S||-ed (adj)
 unstanched	adj	un-|un|P||un- (not) ; stanch|stanch|R|V ; -ed|ed|S||-ed (adj)
-unstandardized	adj	un-|un|P||un- (not) ; standard|standard|R|N ; -ize|ize|S ; -ed|d|S||-ed (adj)
+unstandardized	adj	un-|un|P||un- (not) ; stand|stand|R|V ; -ard|ard|S ; -ize|ize|S ; -ed|d|S||-ed (adj)
 unstarch	verb	un-|un|P||un- (reverse) ; starch|starch|R|V
 unstarched	adj	un-|un|P||un- (not) ; starch|starch|R|V ; -ed|ed|S||-ed (adj)
 unstate	verb	un-|un|P||un- (reverse) ; state|state|R|V
@@ -6729,7 +6706,7 @@ unsteadfast	adj	un-|un|P||un- (not) ; stead|stead|R|N ; fast|fast|R|Adj
 unsteadfastness	noun	un-|un|P||un- (not) ; stead|stead|R|N ; fast|fast|R|Adj ; -ness|ness|S
 unsteadily	adv	un-|un|P||un- (not) ; steady|steadi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
 unsteadiness	noun	un-|un|P||un- (not) ; steady|steadi|R|Adj ; -ness|ness|S
-unsteady	adj	un-|un|P||un- (not) ; steady|steady|R|Adj
+unsteady	adj	un-|un|P||un- (not) ; stead|stead|R|N ; -y|y|S
 unsteel	verb	un-|un|P||un- (reverse) ; steel|steel|R|V
 unstep	verb	un-|un|P||un- (reverse) ; step|step|R|V
 unsterile	adj	un-|un|P||un- (not) ; sterile|sterile|R|Adj
@@ -7002,7 +6979,6 @@ untwine	verb	un-|un|P||un- (reverse) ; twine|twine|R|V
 untwist	verb	un-|un|P||un- (reverse) ; twist|twist|R|V
 untwisted	adj	un-|un|P||un- (not) ; twist|twist|R|V ; -ed|ed|S||-ed (adj)
 untwisting	adj	un-|un|P||un- (reverse) ; twist|twist|R|V ; -ing|ing|S||-ing (adj)
-untypical	adj	un-|un|P||un- (not) ; typical|typical|R|Adj
 ununderstandable	adj	un-|un|P||un- (not) ; understand|understand|R|V ; -able|able|S
 ununifiable	adj	un-|un|P||un- (not) ; unify|unifi|R|V ; -able|able|S
 ununiformed	adj	un-|un|P||un- (not) ; uniform|uniform|R|N ; -ed|ed|S||-ed (adj)

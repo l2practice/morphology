@@ -1,0 +1,470 @@
+abnormality	noun	ab-|ab|P ; norm|norm|R|N ; -al|al|S ; -ity|ity|S
+aboard	adv	a-|a|P ; board|board|R|N
+acrylic	noun	acryl|acryl|R|N ; -ic|ic|S
+adjust	verb	ad-|ad|P ; just|just|R|Adv
+adrenaline	noun	ad-|ad|P ; renal|renal|R|Adj ; -ine|ine|S
+aerodynamic	adj	aero-|aero|P ; dynamic|dynamic|R|Adj
+aeronautic	adj	aeronaut|aeronaut|R|N ; -ic|ic|S
+aeroplane	noun	aero-|aero|P ; plane|plane|R|N
+afore	prep	a-|a|P ; fore|fore|R|N
+agronomic	adj	agronomy|agronom|R|N ; -ic|ic|S
+ahead	adv	a-|a|P ; head|head|R|N
+alkaline	adj	alkali|alkal|R|N ; -ine|ine|S
+alkaloid	noun	alkali|alkal|R|N ; -oid|oid|S
+aloft	adv	a-|a|P ; loft|loft|R|N
+amiss	adj	a-|a|P ; miss|miss|R|V
+amnesiac	noun	amnesia|amnesi|R|N ; -ac|ac|S
+amyotrophic	adj	amyotrophy|amyotroph|R|N ; -ic|ic|S
+anagogic	adj	anagoge|anagog|R|N ; -ic|ic|S
+androgenetic	adj	andro-|andro|P ; genetic|genetic|R|Adj
+anesthesiologist	noun	anesthesio-|anesthesio|B|N ; -logy|log|B|N|||study, word ; -ist|ist|S
+angiosarcoma	noun	angio-|angio|P ; sarcoma|sarcoma|R|N
+anisotropy	noun	an-|an|P ; isotropy|isotropy|R|N
+anklet	noun	ankle|ankl|R|N ; -et|et|S
+antedate	verb	ante-|ante|P ; date|date|R|N
+anteroom	noun	ante-|ante|P ; room|room|R|N
+anthropometric	adj	anthropometry|anthropometr|R|N ; -ic|ic|S
+apartment	noun	a-|a|P ; part|part|R|N ; -ment|ment|S
+aphoristic	adj	aphorism|aphor|R|N ; -ist|ist|S ; -ic|ic|S
+appetitive	adj	appetite|appetit|R|N ; -ive|ive|S
+aquarium	noun	aqua|aqu|R|N ; -arium|arium|S
+archbishop	noun	arch-|arch|P ; bishop|bishop|R|N
+archdiocese	noun	arch-|arch|P ; diocese|diocese|R|N
+argentine	adj	argent|argent|R|N ; -ine|ine|S
+arise	verb	a-|a|P ; rise|rise|R|V
+around	prep	a-|a|P ; round|round|R|Adj
+aside	adv	a-|a|P ; side|side|R|N
+asphyxiate	verb	asphyxia|asphyxi|R|N ; -ate|ate|S
+atopic	adj	atopy|atop|R|N ; -ic|ic|S
+audiologic	adj	audio-|audio|B|N ; -logy|log|B|N|||study, word ; -ic|ic|S
+auditorium	noun	audit|audit|R|V ; -ory|or|S ; -ium|ium|S
+autarkic	adj	autarky|autark|R|N ; -ic|ic|S
+authoritarian	adj	authority|authorit|R|N ; -arian|arian|S
+autochthonous	adj	autochthon|autochthon|R|N ; -ous|ous|S
+bawdy	adj	bawd|bawd|R|N ; -y|y|S
+behind	prep	be-|be|P ; hind|hind|R|Adj
+belong	verb	be-|be|P ; long|long|R|Adj
+beneath	prep	be-|be|P ; neath|neath|R
+betray	verb	be-|be|P ; tray|tray|R|N
+bibliographic	adj	biblio-|biblio|B|N|||book ; -graphy|graph|B|N|||writing, recording ; -ic|ic|S
+bioaerosol	noun	bio-|bio|P ; aerosol|aerosol|R|N
+biodiverse	adj	bio-|bio|P ; diverse|diverse|R|Adj
+bioethicist	noun	bioethics|bioethic|R|N ; -ist|ist|S
+biofeedback	noun	bio-|bio|P ; feed|feed|R|V ; back|back|R|Adv
+biofilm	noun	bio-|bio|P ; film|film|R|N
+bioregion	noun	bio-|bio|P ; region|region|R|N
+bioregional	adj	bio-|bio|P ; region|region|R|N ; -al|al|S
+biospherian	noun	biosphere|biospher|R|N ; -ian|ian|S
+biotechnological	adj	biotechno-|biotechno|B|N ; -logy|log|B|N|||study, word ; -ical|ical|S
+blatant	adj	blate|blat|R|V ; -ant|ant|S
+brandish	verb	brand|brand|R|N ; -ish|ish|S
+bronchodilator	noun	broncho-|broncho|P ; dilate|dilat|R|V ; -or|or|S
+candidature	noun	candidate|candidat|R|N ; -ure|ure|S
+capacitive	adj	capacity|capacit|R|N ; -ive|ive|S
+captivate	verb	captive|captiv|R|N ; -ate|ate|S
+cardiorespiratory	adj	cardio-|cardio|P ; respiratory|respiratory|R|Adj
+carnivalesque	adj	carnival|carnival|R|N ; -esque|esque|S
+celeriac	noun	celery|celeri|R|N ; -ac|ac|S
+centimetre	noun	centi-|centi|P ; metre|metre|R|N
+centric	adj	centre|centr|R|N ; -ic|ic|S
+centroid	noun	centre|centr|R|N ; -oid|oid|S
+chondritic	adj	chondrite|chondrit|R|N ; -ic|ic|S
+choreographic	adj	choreo-|choreo|B|N ; -graphy|graph|B|N|||writing, recording ; -ic|ic|S
+circumnavigation	noun	circum-|circum|P ; navigate|navigat|R|V ; -ion|ion|S
+circumstellar	adj	circum-|circum|P ; stellar|stellar|R|Adj
+cocaine	noun	coca|coca|R|N ; -ine|ine|S
+colloquium	noun	colloquy|colloqu|R|N ; -ium|ium|S
+commensurable	adj	com-|com|P ; mensurable|mensurable|R|Adj
+communitarian	adj	community|communit|R|N ; -arian|arian|S
+congenial	adj	con-|con|P ; genial|genial|R|Adj
+congenital	adj	con-|con|P ; genital|genital|R|Adj
+conspiracy	noun	conspire|conspir|R|V ; -acy|acy|S
+contention	noun	contend|conten|R|V ; -tion|tion|S
+contour	noun	con-|con|P ; tour|tour|R|N
+convector	noun	convect|convect|R|V ; -or|or|S
+cooty	noun	coot|coot|R|N ; -y|y|S
+cordite	noun	cord|cord|R|N ; -ite|ite|S
+cornish	adj	corn|corn|R|N ; -ish|ish|S
+crackle	verb	crack|crack|R|V ; -le|le|S
+creatinine	noun	creatine|creatin|R|N ; -ine|ine|S
+crumble	verb	crumb|crumb|R|N ; -le|le|S
+cryopreservation	noun	cryo-|cryo|P ; preserve|preserv|R|V ; -ation|ation|S
+cryptographic	adj	crypto-|crypto|B|N ; -graphy|graph|B|N|||writing, recording ; -ic|ic|S
+cumulative	adj	cumulate|cumulat|R|V ; -ive|ive|S
+curate	noun	cure|cur|R|V ; -ate|ate|S
+curdle	verb	curd|curd|R|N ; -le|le|S
+cytoplasmic	adj	cytoplasm|cytoplasm|R|N ; -ic|ic|S
+daffy	adj	daff|daff|R|V ; -y|y|S
+decency	noun	decent|decen|R|Adj ; -cy|cy|S
+deontological	adj	deonto-|deonto|B|N ; -logy|log|B|N|||study, word ; -ical|ical|S
+dermal	adj	derm|derm|R|N ; -al|al|S
+diamagnetic	adj	dia-|dia|P ; magnet|magnet|R|N ; -ic|ic|S
+diplomate	noun	diploma|diplom|R|N ; -ate|ate|S
+dipole	noun	di-|di|P ; pole|pole|R|N
+discard	verb	dis-|dis|P ; card|card|R|N
+disyllabic	adj	di-|di|P ; syllable|syllab|R|N ; -ic|ic|S
+dizygotic	adj	di-|di|P ; zygote|zygot|R|N ; -ic|ic|S
+dolly	noun	doll|doll|R|N ; -y|y|S
+dullard	noun	dull|dull|R|Adj ; -ard|ard|S
+dysfunctionality	noun	dysfunctional|dysfunctional|R|Adj ; -ity|ity|S
+ecclesiological	adj	ecclesio-|ecclesio|B|N ; -logy|log|B|N|||study, word ; -ical|ical|S
+ecocentric	adj	eco-|eco|P ; centric|centric|R|Adj
+ectoplasmic	adj	ectoplasm|ectoplasm|R|N ; -ic|ic|S
+efficiency	noun	efficient|efficien|R|Adj ; -cy|cy|S
+eighty	det	eight|eigh|R ; -ty|ty|S
+electrocautery	noun	electro-|electro|P ; cautery|cautery|R|N
+electrodermal	adj	electro-|electro|P ; dermal|dermal|R|Adj
+electroencephalogram	noun	electro-|electro|P ; encephalogram|encephalogram|R|N
+electrolytic	adj	electrolyte|electrolyt|R|N ; -ic|ic|S
+electrophysiologic	adj	electro-|electro|P ; physiologic|physiologic|R|Adj
+electroshock	noun	electro-|electro|P ; shock|shock|R|N
+endogenous	adj	endogen|endogen|R|N ; -ous|ous|S
+engage	verb	en-|en|P ; gage|gage|R|N
+envisage	verb	en-|en|P ; visage|visage|R|N
+ephedrine	noun	ephedra|ephedr|R|N ; -ine|ine|S
+epidermis	noun	epi-|epi|P ; dermis|dermis|R|N
+epiphanic	adj	epiphany|epiphan|R|N ; -ic|ic|S
+erectile	adj	erect|erect|R|V ; -ile|ile|S
+estuarine	adj	estuary|estuar|R|N ; -ine|ine|S
+eukaryotic	adj	eukaryote|eukaryot|R|N ; -ic|ic|S
+eutrophic	adj	eu-|eu|P ; trophic|trophic|R|Adj
+eutrophication	noun	eutrophic|eutrophic|R|Adj ; -ate|at|S ; -ion|ion|S
+evangelical	adj	evangel|evangel|R|N ; -ic|ic|S ; -al|al|S
+evangelize	verb	evangel|evangel|R|N ; -ize|ize|S
+exogamous	adj	exogamy|exogam|R|N ; -ous|ous|S
+exudate	noun	exude|exud|R|V ; -ate|ate|S
+factoid	noun	fact|fact|R|N ; -oid|oid|S
+felicitous	adj	felicity|felicit|R|N ; -ous|ous|S
+figurine	noun	figure|figur|R|N ; -ine|ine|S
+fluency	noun	fluent|fluen|R|Adj ; -cy|cy|S
+forward	adv	fore|for|R|N ; -ward|ward|S
+fulsome	adj	full|ful|R|Adj ; -some|some|S
+fusty	adj	fust|fust|R|N ; -y|y|S
+galactosemia	noun	galactose|galactos|R|N ; -emia|emia|S
+genealogical	adj	genea-|genea|B|N ; -logy|log|B|N|||study, word ; -ical|ical|S
+geologic	adj	geo-|geo|B|N|||earth ; -logy|log|B|N|||study, word ; -ic|ic|S
+geomorphologist	noun	geo-|geo|P ; morpho-|morpho|B|N|||form ; -logy|log|B|N|||study, word ; -ist|ist|S
+geopolitics	noun	geo-|geo|P ; politics|politics|R|N
+girdle	noun	gird|gird|R|V ; -le|le|S
+glandular	adj	glandule|glandul|R|N ; -ar|ar|S
+glassine	noun	glass|glass|R|N ; -ine|ine|S
+glycoprotein	noun	glyco-|glyco|P ; protein|protein|R|N
+goatee	noun	goat|goat|R|N ; -ee|ee|S
+grizzly	adj	grizzle|grizzl|R|V ; -y|y|S
+guanine	noun	guano|guan|R|N ; -ine|ine|S
+gynecologic	adj	gyneco-|gyneco|B|N ; -logy|log|B|N|||study, word ; -ic|ic|S
+hackle	noun	hack|hack|R|V ; -le|le|S
+handsome	adj	hand|hand|R|N ; -some|some|S
+heavy	adj	heave|heav|R|V ; -y|y|S
+helmet	noun	helm|helm|R|N ; -et|et|S
+hemostasis	noun	hemo-|hemo|P ; stasis|stasis|R|N
+heroine	noun	hero|hero|R|N ; -ine|ine|S
+heterozygote	noun	hetero-|hetero|P ; zygote|zygote|R|N
+hexadecimal	adj	hexa-|hexa|P ; decimal|decimal|R|N
+hoary	adj	hoar|hoar|R|N ; -y|y|S
+homocysteine	noun	homo-|homo|P ; cysteine|cysteine|R|N
+humanitarian	noun	human|human|R|N ; -ity|it|S ; -arian|arian|S
+husky	adj	husk|husk|R|N ; -y|y|S
+hydrofoil	noun	hydro-|hydro|P ; foil|foil|R|N
+hydrogeologic	adj	hydro-|hydro|P ; geologic|geologic|R|Adj
+hydrographic	adj	hydro-|hydro|B|N|||water ; -graphy|graph|B|N|||writing, recording ; -ic|ic|S
+imaginal	adj	imagine|imagin|R|V ; -al|al|S
+incrimination	noun	incriminate|incriminat|R|V ; -ion|ion|S
+incumbency	noun	incumbent|incumben|R|Adj ; -cy|cy|S
+inertial	adj	inertia|inerti|R|N ; -al|al|S
+infantile	adj	infant|infant|R|N ; -ile|ile|S
+infernal	adj	inferno|infern|R|N ; -al|al|S
+inform	verb	in-|in|P ; form|form|R|N
+infratemporal	adj	infra-|infra|P ; temporal|temporal|R|Adj
+innumerable	adj	in-|in|P ; numerable|numerable|R|Adj
+insectivorous	adj	insecti-|insecti|B|N|||insect ; -vore|vor|B|V|||eat ; -ous|ous|S
+insomniac	noun	insomnia|insomni|R|N ; -ac|ac|S
+interview	noun	inter-|inter|P ; view|view|R|N
+introversion	noun	introvert|introver|R|N ; -sion|sion|S
+isobutane	noun	iso-|iso|P ; butane|butane|R|N
+isoform	noun	iso-|iso|P ; form|form|R|N
+kilohertz	noun	kilo-|kilo|P ; hertz|hertz|R|N
+labyrinthine	adj	labyrinth|labyrinth|R|N ; -ine|ine|S
+limeade	noun	lime|lime|R|N ; -ade|ade|S
+linear	adj	line|line|R|N ; -ar|ar|S
+lingual	adj	lingua|lingu|R|N ; -al|al|S
+lobular	adj	lobule|lobul|R|N ; -ar|ar|S
+logocentric	adj	logo-|logo|P ; centric|centric|R|Adj
+luminescent	adj	luminesce|luminesc|R|V ; -ent|ent|S
+lysate	noun	lyse|lys|R|V ; -ate|ate|S
+macroeconomist	noun	macro-|macro|P ; economy|econom|R|N ; -ist|ist|S
+macromolecule	noun	macro-|macro|P ; molecule|molecule|R|N
+magisterium	noun	magister|magister|R|N ; -ium|ium|S
+majoritarian	adj	major|major|R|Adj ; -ity|it|S ; -arian|arian|S
+maniac	noun	mania|mani|R|N ; -ac|ac|S
+mastoidectomy	noun	mastoid|mastoid|R|N ; -ectomy|ectomy|S
+maxillary	adj	maxilla|maxill|R|N ; -ary|ary|S
+megadeal	noun	mega-|mega|P ; deal|deal|R|V
+megafauna	noun	mega-|mega|P ; fauna|fauna|R|N
+megaparsec	noun	mega-|mega|P ; parsec|parsec|R|N
+megapixel	noun	mega-|mega|P ; pixel|pixel|R|N
+megastar	noun	mega-|mega|P ; star|star|R|N
+megastore	noun	mega-|mega|P ; store|store|R|N
+mesenchymal	adj	mesenchyme|mesenchym|R|N ; -al|al|S
+metafiction	noun	meta-|meta|P ; fiction|fiction|R|N
+metaphysic	noun	meta-|meta|P ; physic|physic|R|N
+metastable	adj	meta-|meta|P ; stable|stable|R|Adj
+microalbuminuria	noun	micro-|micro|P ; albuminuria|albuminuria|R|N
+midriff	noun	mid-|mid|P ; riff|riff|R|N
+milligram	noun	milli-|milli|P ; gram|gram|R|N
+millilitre	noun	milli-|milli|P ; litre|litre|R|N
+millimetre	noun	milli-|milli|P ; metre|metre|R|N
+mingle	verb	ming|ming|R|N ; -le|le|S
+minidisc	noun	mini-|mini|P ; disc|disc|R|N
+misanthropic	adj	misanthrope|misanthrop|R|N ; -ic|ic|S
+miserable	adj	miser|miser|R|N ; -able|able|S
+misogynist	noun	misogyny|misogyn|R|N ; -ist|ist|S
+misogynistic	adj	misogynist|misogynist|R|N ; -ic|ic|S
+mistake	noun	mis-|mis|P ; take|take|R|V
+modular	adj	module|modul|R|N ; -ar|ar|S
+monetarist	noun	monetary|monetar|R|Adj ; -ist|ist|S
+monochromatic	adj	mono-|mono|P ; chromatic|chromatic|R|Adj
+monotonic	adj	mono-|mono|P ; tone|ton|R|N ; -ic|ic|S
+morphologic	adj	morpho-|morpho|B|N|||form ; -logy|log|B|N|||study, word ; -ic|ic|S
+motivate	verb	motive|motiv|R|N ; -ate|ate|S
+mucosal	adj	mucosa|mucos|R|N ; -al|al|S
+myoclonus	noun	myo-|myo|P ; clonus|clonus|R|N
+myoelectric	adj	myo-|myo|P ; electric|electric|R|Adj
+nanogram	noun	nano-|nano|P ; gram|gram|R|N
+nanosecond	noun	nano-|nano|P ; second|second|R|Adj
+nanostructure	noun	nano-|nano|P ; -struct|struct|B|V ; -ure|ure|S
+nanostructured	adj	nano-|nano|P ; struct|struct|B|V ; -ure|ur|S ; -ed|ed|S||-ed (adj)
+nanotube	noun	nano-|nano|P ; tube|tube|R|N
+nanowire	noun	nano-|nano|P ; wire|wire|R|N
+natatorium	noun	natatory|natator|R|Adj ; -ium|ium|S
+naval	adj	navy|nav|R|N ; -al|al|S
+nebular	adj	nebula|nebul|R|N ; -ar|ar|S
+nectarine	noun	nectar|nectar|R|N ; -ine|ine|S
+neoplasm	noun	neo-|neo|P ; plasm|plasm|R|N
+nestle	verb	nest|nest|R|N ; -le|le|S
+neuropeptide	noun	neuro-|neuro|P ; peptide|peptide|R|N
+neurophysiological	adj	neuro-|neuro|P ; physio-|physio|B|N|||nature ; -logy|log|B|N|||study, word ; -ical|ical|S
+ninety	det	nine|nine|R ; -ty|ty|S
+nodular	adj	nodule|nodul|R|N ; -ar|ar|S
+nymphet	noun	nymph|nymph|R|N ; -et|et|S
+nymphomaniac	noun	nymphomania|nymphomani|R|N ; -ac|ac|S
+oceanarium	noun	ocean|ocean|R|N ; -arium|arium|S
+oligonucleotide	noun	oligo-|oligo|P ; nucleotide|nucleotide|R|N
+omnidirectional	adj	omni-|omni|P ; direct|direct|R|V ; -ion|ion|S ; -al|al|S
+omnipresence	noun	omni-|omni|P ; presence|presence|R|N
+omnipresent	adj	omni-|omni|P ; present|present|R|Adj
+oncologist	noun	onco-|onco|B|N ; -logy|log|B|N|||study, word ; -ist|ist|S
+opportunity	noun	opportune|opportun|R|Adj ; -ity|ity|S
+original	adj	origin|origin|R|N ; -al|al|S
+osteoarthritis	noun	osteo-|osteo|P ; arthritis|arthritis|R|N
+osteoclastic	adj	osteoclast|osteoclast|R|N ; -ic|ic|S
+osteomyelitis	noun	osteo-|osteo|P ; myelitis|myelitis|R|N
+osteosarcoma	noun	osteo-|osteo|P ; sarcoma|sarcoma|R|N
+otherwise	adv	other|other|R|Adj ; -wise|wise|S
+package	noun	pack|pack|R|V ; -age|age|S
+pantheism	noun	pan-|pan|P ; theism|theism|R|N
+paranoiac	noun	paranoia|paranoi|R|N ; -ac|ac|S
+parastatal	adj	para-|para|P ; state|stat|R|N ; -al|al|S
+paratuberculosis	noun	para-|para|P ; tuberculosis|tuberculosis|R|N
+paroxysmal	adj	paroxysm|paroxysm|R|N ; -al|al|S
+patellar	adj	patella|patell|R|N ; -ar|ar|S
+pedantic	adj	pedant|pedant|R|N ; -ic|ic|S
+pentagastrin	noun	penta-|penta|P ; gastrin|gastrin|R|N
+percentile	noun	percent|percent|R|N ; -ile|ile|S
+perilymph	noun	peri-|peri|P ; lymph|lymph|R|N
+perioperative	adj	peri-|peri|P ; operate|operat|R|V ; -ive|ive|S
+peritonsillar	adj	peri-|peri|P ; tonsillar|tonsillar|R|Adj
+permanganate	noun	per-|per|P ; manganate|manganate|R|N
+petrological	adj	petro-|petro|B|N ; -logy|log|B|N|||study, word ; -ical|ical|S
+pharmacologist	noun	pharmaco-|pharmaco|B|N ; -logy|log|B|N|||study, word ; -ist|ist|S
+philanthropist	noun	philanthropy|philanthrop|R|N ; -ist|ist|S
+philatelic	adj	philately|philatel|R|N ; -ic|ic|S
+philosophical	adj	philosophy|philosoph|R|N ; -ical|ical|S
+physiognomic	adj	physiognomy|physiognom|R|N ; -ic|ic|S
+physiographic	adj	physio-|physio|B|N|||nature ; -graphy|graph|B|N|||writing, recording ; -ic|ic|S
+physiotherapist	noun	physio-|physio|P ; therapy|therap|R|N ; -ist|ist|S
+pipette	noun	pipe|pip|R|N ; -ette|ette|S
+pipkin	noun	pipe|pip|R|N ; -kin|kin|S
+plagiarize	verb	plagiary|plagiar|R|N ; -ize|ize|S
+planar	adj	plane|plan|R|N ; -ar|ar|S
+plasmid	noun	plasma|plasm|R|N ; -id|id|S
+pneumatological	adj	pneumato-|pneumato|B|N ; -logy|log|B|N|||study, word ; -ical|ical|S
+polyploidy	noun	polyploid|polyploid|R|Adj ; -y|y|S
+polypoid	adj	polyp|polyp|R|N ; -oid|oid|S
+pouchitis	noun	pouch|pouch|R|N ; -itis|itis|S
+proctologist	noun	procto-|procto|B|N ; -logy|log|B|N|||study, word ; -ist|ist|S
+procurator	noun	pro-|pro|P ; cure|cur|R|V ; -ator|ator|S
+proletarianization	noun	proletariat|proletari|R|N ; -an|an|S ; -ize|iz|S ; -ation|ation|S
+property	noun	proper|proper|R|Adj ; -ty|ty|S
+protostar	noun	proto-|proto|P ; star|star|R|N
+psychobabble	noun	psycho-|psycho|P ; babble|babble|R|V
+psychoeducational	adj	psycho-|psycho|P ; educate|educat|R|V ; -ion|ion|S ; -al|al|S
+psychogeriatric	adj	psycho-|psycho|P ; geriatric|geriatric|R|Adj
+psychophysiological	adj	psycho-|psycho|P ; physio-|physio|B|N|||nature ; -logy|log|B|N|||study, word ; -ical|ical|S
+psychotherapist	noun	psycho-|psycho|P ; therapy|therap|R|N ; -ist|ist|S
+pyroclastic	adj	pyro-|pyro|P ; clast|clast|R|N ; -ic|ic|S
+quadruplet	noun	quadruple|quadrupl|R|V ; -et|et|S
+quintuplet	noun	quintuple|quintupl|R|Adj ; -et|et|S
+radionuclide	noun	radio-|radio|P ; nuclide|nuclide|R|N
+recall	verb	re-|re|P ; call|call|R|V
+reflation	noun	reflate|reflat|R|V ; -ion|ion|S
+reflex	noun	re-|re|P ; flex|flex|R|V
+reluctance	noun	reluct|reluct|R|V ; -ance|ance|S
+remind	verb	re-|re|P ; mind|mind|R|N
+residency	noun	reside|resid|R|V ; -ency|ency|S
+resident	noun	reside|resid|R|V ; -ent|ent|S
+resolve	verb	re-|re|P ; solve|solve|R|V
+resource	noun	re-|re|P ; source|source|R|N
+retroactive	adj	retro-|retro|P ; act|act|R|V ; -ive|ive|S
+retroactivity	noun	retroactive|retroactiv|R|Adj ; -ity|ity|S
+retroviral	adj	retro-|retro|P ; viral|viral|R|Adj
+retrovirus	noun	retro-|retro|P ; virus|virus|R|N
+review	noun	re-|re|P ; view|view|R|N
+rhetorician	noun	rhetoric|rhetoric|R|N ; -ian|ian|S
+rickety	adj	rickets|ricket|R|N ; -y|y|S
+riverine	adj	river|river|R|N ; -ine|ine|S
+sadomasochistic	adj	sadomasochist|sadomasochist|R|N ; -ic|ic|S
+saliency	noun	salient|salien|R|Adj ; -cy|cy|S
+salutatorian	noun	salute|salut|R|V ; -ory|atori|S ; -an|an|S
+scatological	adj	scato-|scato|B|N ; -logy|log|B|N|||study, word ; -ical|ical|S
+scenographic	adj	sceno-|sceno|B|N ; -graphy|graph|B|N|||writing, recording ; -ic|ic|S
+sedimentological	adj	sedimento-|sedimento|B|N ; -logy|log|B|N|||study, word ; -ical|ical|S
+senator	noun	senate|senat|R|N ; -or|or|S
+septuplet	noun	septuple|septupl|R|N ; -et|et|S
+serpentine	adj	serpent|serpent|R|N ; -ine|ine|S
+seventy	det	seven|seven|R ; -ty|ty|S
+sextuplet	noun	sextuple|sextupl|R|N ; -et|et|S
+shearling	noun	shear|shear|R|V ; -ling|ling|S
+sigmoid	adj	sigma|sigm|R|N ; -oid|oid|S
+sinusoid	noun	sinus|sinus|R|N ; -oid|oid|S
+sniffle	verb	sniff|sniff|R|V ; -le|le|S
+snuffle	verb	snuff|snuff|R|V ; -le|le|S
+sociobiological	adj	sociobio-|sociobio|B|N ; -logy|log|B|N|||study, word ; -ical|ical|S
+sodium	noun	soda|sod|R|N ; -ium|ium|S
+spinneret	noun	spin|spinn|R|V ; -er|er|S||-er (N) ; -et|et|S
+standard	noun	stand|stand|R|V ; -ard|ard|S
+steady	adj	stead|stead|R|N ; -y|y|S
+steeple	noun	steep|steep|R|Adj ; -le|le|S
+stockade	noun	stock|stock|R|N ; -ade|ade|S
+superannuation	noun	superannuate|superannuat|R|V ; -ion|ion|S
+supraclavicular	adj	supra-|supra|P ; clavicular|clavicular|R|Adj
+supraglottic	adj	supra-|supra|P ; glottic|glottic|R|Adj
+supraventricular	adj	supra-|supra|P ; ventricular|ventricular|R|Adj
+suzerainty	noun	suzerain|suzerain|R|N ; -ty|ty|S
+symmetric	adj	symmetry|symmetr|R|N ; -ic|ic|S
+synodic	adj	synod|synod|R|N ; -ic|ic|S
+tamponade	noun	tampon|tampon|R|N ; -ade|ade|S
+tantric	adj	tantra|tantr|R|N ; -ic|ic|S
+thermocouple	noun	thermo-|thermo|P ; couple|couple|R|N
+thermographic	adj	thermo-|thermo|B|N|||heat ; -graphy|graph|B|N|||writing, recording ; -ic|ic|S
+thermoluminescence	noun	thermo-|thermo|P ; luminesce|luminesc|R|V ; -ence|ence|S
+thermonuclear	adj	thermo-|thermo|P ; nuclear|nuclear|R|Adj
+thermoregulation	noun	thermo-|thermo|P ; regulate|regulat|R|V ; -ion|ion|S
+tibial	adj	tibia|tibi|R|N ; -al|al|S
+tingle	verb	ting|ting|R|N ; -le|le|S
+tinkle	verb	tink|tink|R|V ; -le|le|S
+tootle	verb	toot|toot|R|V ; -le|le|S
+totalitarian	adj	total|total|R|Adj ; -ity|it|S ; -arian|arian|S
+trample	verb	tramp|tramp|R|V ; -le|le|S
+treadle	noun	tread|tread|R|V ; -le|le|S
+triadic	adj	triad|triad|R|N ; -ic|ic|S
+trigeminal	adj	tri-|tri|P ; geminal|geminal|R|Adj
+tropospheric	adj	troposphere|tropospher|R|N ; -ic|ic|S
+truancy	noun	truant|truan|R|N ; -cy|cy|S
+typical	adj	type|typ|R|N ; -ic|ic|S ; -al|al|S
+tyrannize	verb	tyranny|tyrann|R|N ; -ize|ize|S
+ultraconservative	adj	ultra-|ultra|P ; con-|con|P ; serve|serv|R|V ; -ative|ative|S
+ultralight	adj	ultra-|ultra|P ; light|light|R|N
+ultramodern	adj	ultra-|ultra|P ; modern|modern|R|Adj
+ultraportable	adj	ultra-|ultra|P ; port|port|R|V ; -able|able|S
+underneath	prep	under-|under|P ; neath|neath|R
+undertake	verb	under-|under|P ; take|take|R|V
+urbanite	noun	urban|urban|R|Adj ; -ite|ite|S
+urgent	adj	urge|urg|R|V ; -ent|ent|S
+utilitarian	adj	utility|utilit|R|N ; -arian|arian|S
+vacation	noun	vacate|vacat|R|V ; -ion|ion|S
+veritable	adj	verity|verit|R|N ; -able|able|S
+viceregal	adj	vice-|vice|P ; regal|regal|R|Adj
+viceroyalty	noun	vice-|vice|P ; royal|royal|R|Adj ; -ty|ty|S
+abeyance	noun	abeyant|abey|R|Adj ; -ance|ance|S
+absence	noun	absent|abs|R|Adj ; -ence|ence|S
+abstinence	noun	abstinent|abstin|R|Adj ; -ence|ence|S
+adolescence	noun	adolescent|adolesc|R|N ; -ence|ence|S
+allegiance	noun	allegiant|allegi|R|Adj ; -ance|ance|S
+ambulance	noun	ambulant|ambul|R|Adj ; -ance|ance|S
+appurtenance	noun	appurtenant|appurten|R|Adj ; -ance|ance|S
+assonance	noun	assonant|asson|R|Adj ; -ance|ance|S
+audience	noun	audient|audi|R|N ; -ence|ence|S
+benevolence	noun	benevolent|benevol|R|Adj ; -ence|ence|S
+bioluminescence	noun	bioluminescent|bioluminesc|R|Adj ; -ence|ence|S
+brilliance	noun	brilliant|brilli|R|Adj ; -ance|ance|S
+clemency	noun	clement|clem|R|Adj ; -ency|ency|S
+cogency	noun	cogent|cog|R|Adj ; -ency|ency|S
+complacency	noun	complacent|complac|R|Adj ; -ency|ency|S
+concupiscence	noun	concupiscent|concupisc|R|Adj ; -ence|ence|S
+congruence	noun	congruent|congru|R|Adj ; -ence|ence|S
+consequence	noun	consequent|consequ|R|Adj ; -ence|ence|S
+consonance	noun	consonant|conson|R|N ; -ance|ance|S
+contingency	noun	contingent|conting|R|Adj ; -ency|ency|S
+convenience	noun	convenient|conveni|R|Adj ; -ence|ence|S
+decadence	noun	decadent|decad|R|Adj ; -ence|ence|S
+decency	noun	decent|dec|R|Adj ; -ency|ency|S
+diffidence	noun	diffident|diffid|R|Adj ; -ence|ence|S
+diligence	noun	diligent|dilig|R|Adj ; -ence|ence|S
+discrepancy	noun	discrepant|discrep|R|Adj ; -ancy|ancy|S
+distance	noun	distant|dist|R|Adj ; -ance|ance|S
+ebullience	noun	ebullient|ebulli|R|Adj ; -ence|ence|S
+efficiency	noun	efficient|effici|R|Adj ; -ency|ency|S
+efflorescence	noun	efflorescent|effloresc|R|Adj ; -ence|ence|S
+elegance	noun	elegant|eleg|R|Adj ; -ance|ance|S
+evidence	noun	evident|evid|R|Adj ; -ence|ence|S
+excellence	noun	excellent|excell|R|Adj ; -ence|ence|S
+exigence	noun	exigent|exig|R|Adj ; -ence|ence|S
+expediency	noun	expedient|expedi|R|Adj ; -ency|ency|S
+extravagance	noun	extravagant|extravag|R|Adj ; -ance|ance|S
+exuberance	noun	exuberant|exuber|R|Adj ; -ance|ance|S
+flatulence	noun	flatulent|flatul|R|Adj ; -ence|ence|S
+florescence	noun	florescent|floresc|R|Adj ; -ence|ence|S
+fluence	noun	fluent|flu|R|Adj ; -ence|ence|S
+fluency	noun	fluent|flu|R|Adj ; -ency|ency|S
+frequency	noun	frequent|frequ|R|Adj ; -ency|ency|S
+importance	noun	important|import|R|Adj ; -ance|ance|S
+incumbency	noun	incumbent|incumb|R|Adj ; -ency|ency|S
+indigence	noun	indigent|indig|R|Adj ; -ence|ence|S
+innocence	noun	innocent|innoc|R|Adj ; -ence|ence|S
+insouciance	noun	insouciant|insouci|R|Adj ; -ance|ance|S
+intelligence	noun	intelligent|intellig|R|Adj ; -ence|ence|S
+intransigence	noun	intransigent|intransig|R|Adj ; -ence|ence|S
+jurisprudence	noun	jurisprudent|jurisprud|R|N ; -ence|ence|S
+malevolence	noun	malevolent|malevol|R|Adj ; -ence|ence|S
+nonchalance	noun	nonchalant|nonchal|R|Adj ; -ance|ance|S
+obedience	noun	obedient|obedi|R|Adj ; -ence|ence|S
+obeisance	noun	obeisant|obeis|R|Adj ; -ance|ance|S
+omnipotence	noun	omnipotent|omnipot|R|Adj ; -ence|ence|S
+omnipresence	noun	omnipresent|omnipres|R|Adj ; -ence|ence|S
+omniscience	noun	omniscient|omnisci|R|Adj ; -ence|ence|S
+opulence	noun	opulent|opul|R|Adj ; -ence|ence|S
+penitence	noun	penitent|penit|R|Adj ; -ence|ence|S
+permanence	noun	permanent|perman|R|Adj ; -ence|ence|S
+permanency	noun	permanent|perman|R|Adj ; -ency|ency|S
+pestilence	noun	pestilent|pestil|R|Adj ; -ence|ence|S
+presence	noun	present|pres|R|Adj ; -ence|ence|S
+prevalence	noun	prevalent|preval|R|Adj ; -ence|ence|S
+prudence	noun	prudent|prud|R|Adj ; -ence|ence|S
+quiescence	noun	quiescent|quiesc|R|Adj ; -ence|ence|S
+regency	noun	regent|reg|R|N ; -ency|ency|S
+reluctance	noun	reluctant|reluct|R|Adj ; -ance|ance|S
+residency	noun	resident|resid|R|N ; -ency|ency|S
+resilience	noun	resilient|resili|R|Adj ; -ence|ence|S
+reticence	noun	reticent|retic|R|Adj ; -ence|ence|S
+salience	noun	salient|sali|R|Adj ; -ence|ence|S
+saliency	noun	salient|sali|R|Adj ; -ency|ency|S
+senescence	noun	senescent|senesc|R|Adj ; -ence|ence|S
+sentience	noun	sentient|senti|R|Adj ; -ence|ence|S
+sequence	noun	sequent|sequ|R|Adj ; -ence|ence|S
+silence	noun	silent|sil|R|Adj ; -ence|ence|S
+truancy	noun	truant|tru|R|N ; -ancy|ancy|S
+truculence	noun	truculent|trucul|R|Adj ; -ence|ence|S
+tumescence	noun	tumescent|tumesc|R|Adj ; -ence|ence|S
+vacancy	noun	vacant|vac|R|Adj ; -ancy|ancy|S
+violence	noun	violent|viol|R|Adj ; -ence|ence|S
