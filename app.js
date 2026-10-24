@@ -12,7 +12,7 @@
   const TEST_WORDS = ["unhappiness", "reconstruction", "misunderstanding", "running", "irrecoverably", "children",
     "sunflower", "mice", "visibly", "receptionists", "employment", "employ", "enjoy", "deploy", "refer", "unflobbable"];
 
-  const LS = { provider: "morph-provider", cache: "morph-cache-v" + window.MorphAI.PROMPT_VERSION, history: "morph-history", tree: "morph-tree-style", cls: "morph-cls-mode", level: "morph-level" };
+  const LS = { provider: "morph-provider", cache: "morph-cache-v" + window.MorphAI.PROMPT_VERSION, history: "morph-history", tree: "morph-tree-style", cls: "morph-cls-mode", level: "morph-level", aicheck: "morph-aicheck", keypref: "morph-keypref" };
   const CACHE_MAX = 150;
 
   const T = {
@@ -72,6 +72,11 @@
   const setProvider = p => store.set(LS.provider, p);
   const keyedProviders = () => PROV_IDS.filter(p => getKey(p));
 
+  function cacheDel(word, level) {
+    const c = store.json(LS.cache, {});
+    delete c[ck(word, level)];
+    store.set(LS.cache, JSON.stringify(c));
+  }
   const ck = (word, level) => ((level || state.level) === "adv" ? word + "@adv" : word);
   function cacheGet(word) {
     const c = store.json(LS.cache, {});
@@ -459,9 +464,27 @@
     $("#allo-text").textContent = ins.allomorphy || (w.detailState === "loading" ? "Writing the explanation…" : t("noRestore"));
   }
 
+  /** Word family without the AI: words that share the root, from the lexicons (lexicon-family/), else the dictionary's own family list. */
+  const famShards = new Map();
+  async function ensureLocalFamily(w, token) {
+    if (!w || (w.family && w.family.words && w.family.words.length) || w.localFamily) return;
+    const root = w.morphemes.find(m => m.type === "root" && m.cls === "root-free") || w.morphemes.find(m => m.type === "root");
+    if (!root) return;
+    const key = root.form.replace(/-/g, "").toLowerCase();
+    let words = [];
+    if (/^[a-z]{3,}$/.test(key)) {
+      const k = key[0];
+      if (!famShards.has(k)) famShards.set(k, fetch(`lexicon-family/${k}.json`).then(r => (r.ok ? r.json() : {})).catch(() => ({})));
+      words = ((await famShards.get(k))[key] || []).filter(x => x !== w.word);
+    }
+    if (words.length < 2 && state.dict && Array.isArray(state.dict.family)) words = words.concat(state.dict.family.map(x => (typeof x === "string" ? x : x.word)).filter(x => x && x !== w.word && !words.includes(x))).slice(0, 12);
+    if (!words.length || state.word !== w || token !== state.token) return;
+    w.localFamily = { root: key, rootGloss: String(root.meaning || "").replace(/\s*\(.*$/, "").replace(/[;.].*$/, "").slice(0, 40), words };
+    renderFamily(w);
+  }
   function renderFamily(w) {
     const box = $("#family");
-    const fam = w.family || { words: [] };
+    const fam = (w.family && w.family.words && w.family.words.length) ? w.family : (w.localFamily || w.family || { words: [] });
     if (!fam.words || !fam.words.length) { box.innerHTML = `<p class="fam-empty">${w.detailState === "loading" ? "Finding related words…" : t("famEmpty")}</p>`; return; }
     const W = 720, H = 340, cx = W / 2, cy = H / 2, rx = 270, ry = 125;
     const words = fam.words.slice(0, 10);
@@ -595,6 +618,7 @@
     renderDetailStatus(w);
     renderAllo(w);
     renderFamily(w);
+    if (w.detailState === "none" || w.detailState === "ready") ensureLocalFamily(w, state.token);
     $$(".chip").forEach(c => c.classList.toggle("active", c.dataset.word === w.word));
   }
 
@@ -691,6 +715,7 @@
     btn.textContent = on ? "Looking up…" : "Analyze";
     btn.setAttribute("aria-busy", on ? "true" : "false");
     $("#result").classList.toggle("is-busy", on);
+    $$("#level button").forEach(b => b.classList.toggle("is-loading", on && b.classList.contains("active")));
   }
   let busyTimer = 0;
   async function show(raw, opts) {
@@ -734,13 +759,24 @@
     }
     if (lx) {
       const sig = ms => ms.map(m => m.form + "|" + m.surface).join(";");
-      if (lx.ai.morphemes.length >= 3) await window.MorphDict.preloadWords();   // lets the tree rules check that intermediate words exist
+      const provider = getProvider();
+      const canWrite = !!getKey(provider);
+      // An earlier AI double-check that changed the cut is shown again (unless the student went back to the course key).
+      if (state.aiCheck && canWrite && cached && cached.source === "ai-check" && cached.level === level && !keyPref()[key + "@" + level]) {
+        state.word = cached; state.source = "ai-check";
+        state.dict = dictContext(await dictP);
+        if (token !== state.token) return;
+        $("#result").hidden = false;
+        renderAll(); finish(key, opts);
+        setCheckStatus(`The AI double-check changed the cut earlier: <b>${esc(cached.original ? cached.original.morphemes.map(m => m.form).join(" + ") : "")}</b> → <b>${esc(cached.morphemes.map(m => m.form).join(" + "))}</b>. <button type="button" data-ai-revert>Use the course key instead</button>`, "changed");
+        if (cached.detailState !== "ready") { state.abort = new AbortController(); startDetails(key, provider, getModel(provider), token); }
+        return;
+      }
+      if (lx.ai.morphemes.length >= 3) await Promise.race([window.MorphDict.preloadWords(), new Promise(r => setTimeout(r, 700))]);   // lets the tree rules check that intermediate words exist (never holds the answer back long)
       if (token !== state.token) return;
       const data = window.MorphAI.toAppFormat(lx.ai, key, "lexicon");
       data.level = level;
-      const reuse = cached && cached.detailState === "ready" && sig(cached.morphemes) === sig(data.morphemes);
-      const provider = getProvider();
-      const canWrite = !!getKey(provider);
+      const reuse = cached && cached.detailState === "ready" && cached.source !== "ai-check" && sig(cached.morphemes) === sig(data.morphemes);
       data.source = lx.level === "adv" ? "lexicon-adv" : "lexicon";
       data.detailState = canWrite ? "loading" : "none";
       state.word = reuse ? cached : data;
@@ -748,12 +784,21 @@
       state.dict = dictContext(await dictP);
       if (token !== state.token) return;
       $("#result").hidden = false;
+      setCheckStatus("");
       renderAll();
       finish(key, opts);
       if (!reuse) fillLocalMeanings(state.word, token);
       if (!reuse && canWrite) {
         state.abort = new AbortController();
-        startDetails(key, provider, getModel(provider), token);
+        // The AI re-checks the cut first (its answer wins when it differs); the writing is requested for whatever cut is final.
+        (async () => {
+          const keyData = state.word;
+          if (state.aiCheck && !keyPref()[key + "@" + level]) await runAiCheck(key, token, level, keyData);
+          if (token !== state.token) return;
+          startDetails(key, provider, getModel(provider), token);
+        })();
+      } else if (reuse) {
+        setCheckStatus("");
       }
       return;
     }
@@ -888,25 +933,43 @@
     if (!w || w.word !== key) return;
     w.detailState = "loading";
     renderDetailStatus(w);
-    for (let n = 1; n <= 2; n++) {
-      try {
-        const d = await window.MorphAI.enrich({
-          word: key, provider, apiKey: getKey(provider), model, morphemes: w.morphemes,
-          context: state.dict, neighbours: state.neighbours, level: w.level || state.level, signal: state.abort && state.abort.signal
-        });
-        if (token !== state.token || state.word !== w) return;
-        w.morphemes.forEach((m, i) => { if (!m.fixedMeaning && d.morphemes[i].meaning) m.meaning = d.morphemes[i].meaning; if (d.morphemes[i].etym) m.etym = d.morphemes[i].etym; });
-        w.insights = d.insights; w.family = d.family; w.etymology = d.etymology;
-        if (d.gloss) w.gloss = d.gloss;
-        w.detailState = "ready";
-        cachePut(key, w);
-        renderDetails(w);
-        return;
-      } catch (err) {
-        if (err.name === "AbortError" || token !== state.token || state.word !== w) return;
-        if (n === 2) { w.detailState = "failed"; w.detailError = err.message; renderDetails(w); }
+    // Same recovery as the cut: retry a busy model once, then another model of the key, then another provider.
+    const plan = await buildPlan(provider).catch(() => [{ provider, model, retry: true }]);
+    const deadline = Date.now() + 70000;
+    let lastErr, firstErr;
+    for (const step of plan) {
+      if (token !== state.token || state.word !== w) return;
+      if (lastErr && Date.now() > deadline) break;
+      const tries = step.retry ? 2 : 1;
+      for (let n = 1; n <= tries; n++) {
+        try {
+          const d = await window.MorphAI.enrich({
+            word: key, provider: step.provider, apiKey: getKey(step.provider), model: step.model, morphemes: w.morphemes,
+            context: state.dict, neighbours: state.neighbours, level: w.level || state.level,
+            signal: state.abort && state.abort.signal, timeoutMs: Math.max(8000, Math.min(40000, deadline - Date.now()))
+          });
+          if (token !== state.token || state.word !== w) return;
+          w.morphemes.forEach((m, i) => { if (!m.fixedMeaning && d.morphemes[i].meaning) m.meaning = d.morphemes[i].meaning; if (d.morphemes[i].etym) m.etym = d.morphemes[i].etym; });
+          w.insights = d.insights; w.family = d.family; w.etymology = d.etymology;
+          if (d.gloss) w.gloss = d.gloss;
+          w.detailState = "ready";
+          // The saved model no longer exists for this key: remember the one that worked.
+          if (firstErr && (firstErr.status === 404 || firstErr.status === 400) && step.provider === provider && step.model !== model) store.set(modelName(provider), step.model);
+          cachePut(key, w);
+          renderDetails(w);
+          return;
+        } catch (err) {
+          if (err.name === "AbortError" || token !== state.token || state.word !== w) return;
+          lastErr = err; firstErr = firstErr || err;
+          if (err.status >= 500 && err.status !== 408 && n < tries) { await new Promise(r => setTimeout(r, 900)); continue; }
+          break;
+        }
       }
     }
+    w.detailState = "failed";
+    w.detailError = lastErr ? shortReason(lastErr) : "";
+    renderDetails(w);
+    ensureLocalFamily(w, token);
   }
 
   /** Re-draw only the parts that depend on the writing (the cut and the tree stay as they are). */
@@ -917,6 +980,7 @@
     renderFamily(w);
     renderEtymology(w, state.dict);
     renderDetailStatus(w);
+    if (w.detailState === "failed" || w.detailState === "none") ensureLocalFamily(w, state.token);
   }
 
   function renderDetailStatus(w) {
@@ -1007,6 +1071,45 @@
       if (step !== plan[plan.length - 1]) say(`${PROV[step.provider].name} did not answer, trying another option…`);
     }
     throw lastErr;
+  }
+
+  // ---- AI double-check: after a word is cut from the course key, the AI re-checks the cut and its answer is used when it disagrees ----
+  const formsSig = ms => ms.map(m => m.form.replace(/-/g, "").toLowerCase() + "|" + m.type).join(";");
+  const keyPref = () => store.json(LS.keypref, {});
+  function setCheckStatus(html, tone) {
+    const el = $("#ai-check");
+    el.className = "ai-check" + (tone ? " " + tone : "");
+    el.innerHTML = html || "";
+    el.hidden = !html;
+  }
+  /** → true when the AI replaced the course cut on screen. */
+  async function runAiCheck(key, token, level, keyData) {
+    const provider = getProvider();
+    if (!state.aiCheck || !getKey(provider)) { setCheckStatus(""); return false; }
+    setCheckStatus(`<span class="ds-spin"></span>The AI is double-checking this cut…`, "run");
+    const first = keyData.morphemes.map(m => m.form).join(" + ");
+    try {
+      const data = await window.MorphAI.analyze({
+        word: key, provider, apiKey: getKey(provider), model: getModel(provider), context: state.dict, neighbours: state.neighbours,
+        level, firstAnswer: first, signal: state.abort && state.abort.signal, timeoutMs: 30000
+      });
+      if (token !== state.token || state.word !== keyData) return false;
+      if (formsSig(data.morphemes) === formsSig(keyData.morphemes)) {
+        keyData.checked = true;
+        setCheckStatus(`✓ Double-checked by the AI: it agrees with this cut.`, "ok");
+        return false;
+      }
+      data.level = level; data.source = "ai-check"; data.original = keyData; data.detailState = "loading";
+      state.word = data; state.source = "ai-check";
+      renderAll();
+      fillLocalMeanings(data, token);
+      setCheckStatus(`The AI double-check changed the cut: <b>${esc(first)}</b> → <b>${esc(data.morphemes.map(m => m.form).join(" + "))}</b>. <button type="button" data-ai-revert>Use the course key instead</button>`, "changed");
+      return true;
+    } catch (err) {
+      if (err.name === "AbortError" || token !== state.token) return false;
+      setCheckStatus(`AI double-check unavailable (${esc(shortReason(err))}). The course key is shown.`, "warn");
+      return false;
+    }
   }
 
   /** One line under the level switch when the other level would cut this word differently. */
@@ -1265,6 +1368,34 @@
       store.set(LS.tree, state.treeStyle);
       $$("#tree-style button").forEach(x => x.classList.toggle("active", x === b));
       window.ICTree.render($("#tree"), state.word, t, state.treeStyle);
+    });
+    state.aiCheck = store.get(LS.aicheck) !== "0";
+    $("#ai-check-on").checked = state.aiCheck;
+    $("#ai-check-on").addEventListener("change", e => {
+      state.aiCheck = e.target.checked;
+      store.set(LS.aicheck, state.aiCheck ? "1" : "0");
+      if (!state.aiCheck) setCheckStatus("");
+      else if (state.word && state.word.source !== "verified" && state.view === "analyze") show(state.word.word, { silentHash: true });
+    });
+    $("#ai-check").addEventListener("click", e => {
+      if (!e.target.closest("[data-ai-revert]")) return;
+      const w = state.word;
+      if (!w || !w.original) return;
+      const lv = w.level || state.level;
+      const pref = keyPref(); pref[w.word + "@" + lv] = true; store.set(LS.keypref, JSON.stringify(pref));
+      cacheDel(w.word, lv);
+      const back = w.original;
+      back.detailState = back.detailState === "ready" ? "ready" : (getKey(getProvider()) ? "loading" : "none");
+      state.word = back; state.source = back.source || "lexicon";
+      renderAll();
+      setCheckStatus(`Showing the course key. <button type="button" data-ai-again>Ask the AI again</button>`, "ok");
+      if (back.detailState === "loading") { state.abort = new AbortController(); startDetails(w.word, getProvider(), getModel(getProvider()), state.token); }
+    });
+    $("#ai-check").addEventListener("click", e => {
+      if (!e.target.closest("[data-ai-again]")) return;
+      const w = state.word; if (!w) return;
+      const pref = keyPref(); delete pref[w.word + "@" + (w.level || state.level)]; store.set(LS.keypref, JSON.stringify(pref));
+      show(w.word, { silentHash: true });
     });
     $("#lv-note").addEventListener("click", e => { const b = e.target.closest("[data-set-level]"); if (b) state.setLevel(b.dataset.setLevel); });
     $("#history").addEventListener("click", e => { const b = e.target.closest(".h-item"); if (b) show(b.dataset.word); });

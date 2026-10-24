@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=20261025a">
+  <link rel="stylesheet" href="style.css?v=20261025c">
 </head>
 <body>
   <div id="busybar" class="busybar" hidden role="progressbar" aria-label="Looking up"></div>
@@ -71,6 +71,7 @@
               <button type="button" data-level="basic" class="active" aria-pressed="true"><b>Basic</b><small>modern English</small></button>
               <button type="button" data-level="adv" aria-pressed="false"><b>Advanced</b><small>+ Latin &amp; Greek roots</small></button>
             </div>
+            <label class="lv-check" title="After a word is cut, the AI re-checks the cut. When it disagrees, its answer is shown (you can switch back)."><input type="checkbox" id="ai-check-on" checked> <span>AI double-check</span></label>
             <button type="button" id="lv-info" class="lv-info" aria-expanded="false" aria-controls="lv-help"><i aria-hidden="true">i</i> What is the difference? <span class="lv-caret" aria-hidden="true">▾</span></button>
           </div>
           <div id="lv-help" class="lv-help" hidden>
@@ -88,6 +89,7 @@
             <button type="button" id="lv-hide" class="lv-hide">Hide this explanation <span aria-hidden="true">▴</span></button>
           </div>
           <p id="lv-note" class="lv-note" hidden></p>
+          <p id="ai-check" class="ai-check" hidden aria-live="polite"></p>
         </section>
 
         <section id="ai-banner" class="banner" hidden aria-live="polite">
@@ -233,7 +235,7 @@
         </div>
       </section>
 
-      <footer class="footer">Morphology · Immediate Constituent analysis practice for English majors · build 20261025a</footer>
+      <footer class="footer">Morphology · Immediate Constituent analysis practice for English majors · build 20261025c</footer>
     </main>
   </div>
 
@@ -250,16 +252,16 @@
 
   <div id="popups" class="popups" aria-live="polite"></div>
 
-  <script src="data.js?v=20261025a"></script>
-  <script src="dict.js?v=20261025a"></script>
-  <script src="morphotactics.js?v=20261025a"></script>
-  <script src="lexicon.js?v=20261025a"></script>
-  <script src="course-affixes.js?v=20261025a"></script>
-  <script src="gloss.js?v=20261025a"></script>
-  <script src="etymology.js?v=20261025a"></script>
-  <script src="ai.js?v=20261025a"></script>
-  <script src="tree.js?v=20261025a"></script>
-  <script src="bricks.js?v=20261025a"></script>
-  <script src="app.js?v=20261025a"></script>
+  <script src="data.js?v=20261025c"></script>
+  <script src="dict.js?v=20261025c"></script>
+  <script src="morphotactics.js?v=20261025c"></script>
+  <script src="lexicon.js?v=20261025c"></script>
+  <script src="course-affixes.js?v=20261025c"></script>
+  <script src="gloss.js?v=20261025c"></script>
+  <script src="etymology.js?v=20261025c"></script>
+  <script src="ai.js?v=20261025c"></script>
+  <script src="tree.js?v=20261025c"></script>
+  <script src="bricks.js?v=20261025c"></script>
+  <script src="app.js?v=20261025c"></script>
 </body>
 </html>

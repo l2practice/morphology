@@ -602,8 +602,8 @@
   }
 
   const ADV_LINE = "LEVEL: ADVANCED. Also cut recognised Latin/Greek bound roots and affixes that recur in a family of words (science = sci- + -ence; conceive = con- + -ceive; biology = bio- + -logy), and keep the same piece cut the same way. Put the source meaning of a bound root in its meaning.";
-  function contextText(word, ctx, nb, level) {
-    const lv = level === "adv" ? [ADV_LINE] : [];
+  function contextText(word, ctx, nb, level, first) {
+    const lv = (level === "adv" ? [ADV_LINE] : []).concat(first ? [`FIRST ANSWER TO CHECK (from the course's reference key): ${first}. Decide for yourself with the rules of this level. If that cut is right, return exactly that cut; if it is wrong, return the corrected cut.`] : []);
     if (!ctx) return [`Word to analyse: "${word}"`, ...lv, "DICTIONARY CONTEXT: this word is NOT in the dictionary.", ...neighbourLines(nb, word)].join("\n");
     const lines = [`Word to analyse: "${word}"`, ...lv, "DICTIONARY CONTEXT:"];
     if (ctx.lemma && ctx.lemma !== word) lines.push(`- "${word}" is an inflected form of "${ctx.lemma}"${ctx.tags ? ` (${ctx.tags})` : ""}: analyse it as the root of "${ctx.lemma}" plus its inflection.`);
@@ -627,7 +627,7 @@
     const { word, provider, apiKey, model, context, signal } = opts;
     let problems = [];
     for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
-      let userText = contextText(word, context, opts.neighbours, opts.level);
+      let userText = contextText(word, context, opts.neighbours, opts.level, opts.firstAnswer);
       if (problems.length) {
         userText += "\n\nA previous analysis of this word was rejected by the validator for these reasons:\n- " +
           problems.join("\n- ") + "\nFollow the decision procedure carefully and fix every point.";
