@@ -19,4 +19,4 @@ fi
 rm -rf lexicon; node tools/import-lexicon.mjs lexicon lexicon-src/rejected.txt lexicon-src/out-*.txt | tail -1
 echo "== Advanced: Muse output + manual"; node tools/import-lexicon.mjs --adv "$T/a0" "$T/arej" lexicon-adv-src/out-*.txt | tail -1
 echo "== Advanced: course bound bases"; python3 tools/bound-bases.py "$T/b1" lexicon-adv-src/out-adv-zzz-bases.txt "$D/words.txt" 40000 "$T/a0"
-rm -rf lexicon-adv; node tools/import-lexicon.mjs --adv lexicon-adv lexicon-adv-src/rejected.txt lexicon-adv-src/out-*.txt | tail -1
+rm -rf lexicon-adv; node tools/import-lexicon.mjs --adv --basic lexicon lexicon-adv lexicon-adv-src/rejected.txt lexicon-adv-src/out-*.txt | tail -1

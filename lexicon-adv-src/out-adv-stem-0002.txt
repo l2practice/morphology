@@ -1,0 +1,150 @@
+narrative	noun	-narr-|narr|B|V|||Latin narrare 'to narrate' ; -ative|ative|S
+frequent	adj	=
+flavor	noun	=
+junction	noun	-junct-|junct|B|V|||Latin jungere 'to join' ; -ion|ion|S
+heritage	noun	-herit-|herit|B|N|||Latin heres 'heir' ; -age|age|S
+ambition	noun	-ambit-|ambit|B|V|||Latin ambire 'to go around' ; -ion|ion|S
+moderate	adj	-moder-|moder|B|V|||Latin moderari 'to moderate' ; -ate|ate|S
+hesitate	verb	-hesit-|hesit|B|V|||Latin haesitare 'to hesitate' ; -ate|ate|S
+liable	adj	=
+interior	adj	=
+courage	noun	-cour-|cour|B|N|||Latin cor 'heart' ; -age|age|S
+cognitive	adj	-cognit-|cognit|B|V|||Latin cognoscere 'to know' ; -ive|ive|S
+integrate	verb	-integr-|integr|B|Adj|||Latin integer 'whole' ; -ate|ate|S
+fragment	noun	-frag-|frag|B|V|||Latin frangere 'to break' ; -ment|ment|S
+regulate	verb	-regul-|regul|B|N|||Latin regula 'rule' ; -ate|ate|S
+ritual	noun	-ritu-|ritu|B|N|||Latin ritus 'rite' ; -al|al|S
+superior	adj	=
+physics	noun	-phys-|phys|B|N|||Greek physis 'nature' ; -ics|ics|S
+subtle	adj	=
+sponsor	noun	-spons-|spons|B|V|||Latin spondere 'to pledge' ; -or|or|S
+integrity	noun	-integr-|integr|B|Adj|||Latin integer 'whole' ; -ity|ity|S
+convenient	adj	-conveni-|conveni|B|V|||Latin convenire 'to come together' ; -ent|ent|S
+artificial	adj	-artifici-|artifici|B|N|||Latin artificium 'skill' ; -al|al|S
+reluctant	adj	re-|re|P ; -luct-|luct|B|V|||Latin luctari 'to struggle' ; -ant|ant|S
+situate	verb	-situ-|situ|B|N|||Latin situs 'site' ; -ate|ate|S
+magnificent	adj	-magnific-|magnific|B|Adj|||Latin magnificus 'great' ; -ent|ent|S
+assemble	verb	=
+stimulate	verb	-stimul-|stimul|B|N|||Latin stimulus 'goad' ; -ate|ate|S
+facilitate	verb	-facilit-|facilit|B|Adj|||Latin facilis 'easy' ; -ate|ate|S
+mathematics	noun	-mathemat-|mathemat|B|N|||Greek mathema 'learning' ; -ics|ics|S
+continent	noun	-contin-|contin|B|V|||Latin continere 'to contain' ; -ent|ent|S
+spectacular	adj	-spectacul-|spectacul|B|V|||Latin spectare 'to watch' ; -ar|ar|S
+rhetoric	noun	-rhetor-|rhetor|B|N|||Greek rhetor 'speaker' ; -ic|ic|S
+abolish	verb	-abol-|abol|B|V|||Latin abolere 'to destroy' ; -ish|ish|S
+premium	noun	=
+regret	verb	=
+delicate	adj	-delic-|delic|B|N|||Latin deliciae 'delight' ; -ate|ate|S
+casual	adj	-casu-|casu|B|N|||Latin casus 'event' ; -al|al|S
+isolate	verb	-isol-|isol|B|N|||Latin insula 'island' ; -ate|ate|S
+elegant	adj	-eleg-|eleg|B|V|||Latin eligere 'to choose' ; -ant|ant|S
+entity	noun	-ent-|enti|B|V|||Latin esse 'to be' ; -ty|ty|S
+subsidiary	adj	sub-|sub|P ; -sid-|sid|B|V|||Latin sedere 'to sit' ; -iary|iary|S
+candle	noun	=
+casualty	noun	-casu-|casu|B|N|||Latin casus 'event' ; -al|al|S ; -ty|ty|S
+confess	verb	con-|con|P ; -fess-|fess|B|V|||Latin fateri 'to declare'
+contemplate	verb	-contempl-|contempl|B|V|||Latin contemplari 'to contemplate' ; -ate|ate|S
+splendid	adj	-splend-|splend|B|V|||Latin splendere 'to shine' ; -id|id|S
+precious	adj	-preci-|preci|B|N|||Latin pretium 'price' ; -ous|ous|S
+conceal	verb	con-|con|P ; -cel-|ceal|B|V|||Latin celare 'to hide'
+primitive	adj	-primit-|primit|B|Adj|||Latin primus 'first' ; -ive|ive|S
+systematic	adj	-systemat-|systemat|B|N|||Greek systema 'system' ; -ic|ic|S
+equilibrium	noun	equi-|equi|P|||Latin aequus 'equal' ; -libr-|libr|B|N|||Latin libra 'balance' ; -ium|ium|S
+monument	noun	-monu-|monu|B|V|||Latin monere 'to remind' ; -ment|ment|S
+nominee	noun	-nomin-|nomin|B|N|||Latin nomen 'name' ; -ee|ee|S
+awkward	adj	=
+bubble	noun	=
+neutral	adj	-neutr-|neutr|B|Adj|||Latin neuter 'neither' ; -al|al|S
+sterling	noun	=
+exotic	adj	-exot-|exot|B|Adj|||Greek exo 'outside' ; -ic|ic|S
+intimate	adj	-intim-|intim|B|Adj|||Latin intimus 'innermost' ; -ate|ate|S
+secular	adj	-secul-|secul|B|N|||Latin saeculum 'age' ; -ar|ar|S
+manipulate	verb	-manipul-|manipul|B|N|||Latin manus 'hand' ; -ate|ate|S
+puzzle	noun	=
+utilize	verb	-util-|util|B|V|||Latin uti 'to use' ; -ize|ize|S
+sympathetic	adj	-sympathet-|sympathet|B|N|||Greek sympatheia 'feeling together' ; -ic|ic|S
+distress	noun	=
+aesthetic	adj	-aesthet-|aesthet|B|V|||Greek aisthesis 'perception' ; -ic|ic|S
+scramble	verb	=
+liquid	adj	-liqu-|liqu|B|V|||Latin liquere 'to be fluid' ; -id|id|S
+franchise	noun	=
+supplement	noun	sup-|sup|P ; -ple-|ple|B|V|||Latin plere 'to fill' ; -ment|ment|S
+tremble	verb	=
+empirical	adj	em-|em|P ; -peir-|piric|B|N|||Greek peira 'trial' ; -al|al|S
+suspicious	adj	-suspici-|suspici|B|V|||Latin suspicere 'to suspect' ; -ous|ous|S
+peculiar	adj	-peculi-|peculi|B|N|||Latin peculium 'property' ; -ar|ar|S
+deprive	verb	=
+suppress	verb	sup-|sup|P ; -press-|press|B|V|||Latin premere 'to press'
+clarify	verb	-clar-|clar|B|Adj|||Latin clarus 'clear' ; -ify|ify|S
+beneficial	adj	-benefici-|benefici|B|N|||Latin beneficium 'benefit' ; -al|al|S
+eligible	adj	-elig-|elig|B|V|||Latin eligere 'to choose' ; -ible|ible|S
+municipal	adj	-municip-|municip|B|N|||Latin municeps 'citizen' ; -al|al|S
+predator	noun	-pred-|pred|B|N|||Latin praeda 'prey' ; -ator|ator|S
+caution	noun	-caut-|caut|B|V|||Latin cavere 'to beware' ; -ion|ion|S
+fantastic	adj	-fantast-|fantast|B|V|||Greek phantazein 'to imagine' ; -ic|ic|S
+contrary	adj	-contr-|contr|B|Adv|||Latin contra 'against' ; -ary|ary|S
+mistress	noun	=
+mathematical	adj	-mathemat-|mathematic|B|N|||Greek mathema 'learning' ; -al|al|S
+nutrient	noun	-nutri-|nutri|B|V|||Latin nutrire 'to nourish' ; -ent|ent|S
+articulate	verb	-articul-|articul|B|N|||Latin articulus 'joint' ; -ate|ate|S
+semantic	adj	-semant-|semant|B|N|||Greek sema 'sign' ; -ic|ic|S
+accelerate	verb	-acceler-|acceler|B|V|||Latin accelerare 'to hasten' ; -ate|ate|S
+nominate	verb	-nomin-|nomin|B|N|||Latin nomen 'name' ; -ate|ate|S
+redundant	adj	-redund-|redund|B|V|||Latin redundare 'to overflow' ; -ant|ant|S
+delicious	adj	-delici-|delici|B|N|||Latin deliciae 'delight' ; -ous|ous|S
+accumulate	verb	-accumul-|accumul|B|V|||Latin accumulare 'to amass' ; -ate|ate|S
+authentic	adj	-authent-|authent|B|V|||Greek authentes 'one acting' ; -ic|ic|S
+multiply	verb	=
+amateur	noun	-amat-|amat|B|V|||Latin amare 'to love' ; -eur|eur|S
+penetrate	verb	-penetr-|penetr|B|V|||Latin penetrare 'to pierce' ; -ate|ate|S
+viable	adj	=
+integral	adj	-integr-|integr|B|Adj|||Latin integer 'whole' ; -al|al|S
+horizontal	adj	-horizont-|horizont|B|N|||Greek horizon 'boundary' ; -al|al|S
+differentiate	verb	-differenti-|differenti|B|Adj|||Latin differentia 'difference' ; -ate|ate|S
+compatible	adj	com-|com|P ; -pat-|pat|B|V|||Latin pati 'to suffer' ; -ible|ible|S
+mammal	noun	-mamm-|mamm|B|N|||Latin mamma 'breast' ; -al|al|S
+spatial	adj	-spati-|spati|B|N|||Latin spatium 'space' ; -al|al|S
+ensemble	noun	=
+arsenal	noun	=
+juvenile	adj	-juven-|juven|B|Adj|||Latin juvenis 'young' ; -ile|ile|S
+surgical	adj	=
+warrant	noun	=
+gradual	adj	-gradu-|gradu|B|N|||Latin gradus 'step' ; -al|al|S
+arbitrary	adj	-arbitr-|arbitr|B|N|||Latin arbiter 'judge' ; -ary|ary|S
+rattle	verb	=
+aggregate	verb	-aggreg-|aggreg|B|N|||Latin grex 'flock' ; -ate|ate|S
+sediment	noun	-sedi-|sedi|B|V|||Latin sedere 'to sit' ; -ment|ment|S
+problematic	adj	-problemat-|problemat|B|N|||Greek problema 'problem' ; -ic|ic|S
+cultivate	verb	-cultiv-|cultiv|B|V|||Latin colere 'to till' ; -ate|ate|S
+reconcile	verb	=
+spontaneous	adj	-spontane-|spontane|B|N|||Latin sponte 'free will' ; -ous|ous|S
+eternal	adj	-etern-|etern|B|N|||Latin aeternus 'eternal' ; -al|al|S
+skillet	noun	=
+intimacy	noun	-intim-|intim|B|Adj|||Latin intimus 'innermost' ; -acy|acy|S
+complement	noun	com-|com|P ; -ple-|ple|B|V|||Latin plere 'to fill' ; -ment|ment|S
+liquor	noun	-liqu-|liqu|B|V|||Latin liquere 'to be fluid' ; -or|or|S
+fabulous	adj	-fabul-|fabul|B|N|||Latin fabula 'fable' ; -ous|ous|S
+legitimacy	noun	-legitim-|legitim|B|N|||Latin lex 'law' ; -acy|acy|S
+tuition	noun	-tuit-|tuit|B|V|||Latin tueri 'to watch' ; -ion|ion|S
+vector	noun	-vect-|vect|B|V|||Latin vehere 'to carry' ; -or|or|S
+trivial	adj	-trivi-|trivi|B|N|||Latin trivium 'crossroads' ; -al|al|S
+humble	adj	=
+cosmic	adj	-cosm-|cosm|B|N|||Greek kosmos 'world' ; -ic|ic|S
+elevate	verb	-elev-|elev|B|V|||Latin levare 'to lift' ; -ate|ate|S
+apprentice	noun	=
+proprietor	noun	-propriet-|propriet|B|Adj|||Latin proprius 'own' ; -or|or|S
+nominal	adj	-nomin-|nomin|B|N|||Latin nomen 'name' ; -al|al|S
+compartment	noun	com-|com|P ; -part-|part|B|V|||Latin partire 'to divide' ; -ment|ment|S
+bachelor	noun	=
+victor	noun	-vict-|vict|B|V|||Latin vincere 'to conquer' ; -or|or|S
+imitate	verb	-imit-|imit|B|V|||Latin imitari 'to imitate' ; -ate|ate|S
+peripheral	adj	peri-|peri|P|||Greek peri 'around' ; -pher-|pher|B|V|||Greek pherein 'to carry' ; -al|al|S
+partisan	noun	-partis-|partis|B|N|||Latin pars 'part' ; -an|an|S
+abundant	adj	-abund-|abund|B|V|||Latin abundare 'to overflow' ; -ant|ant|S
+syllable	noun	=
+magnet	noun	=
+syntactic	adj	-syntact-|syntact|B|V|||Greek syntassein 'to arrange' ; -ic|ic|S
+deteriorate	verb	-deterior-|deterior|B|Adj|||Latin deterior 'worse' ; -ate|ate|S
+imminent	adj	-immin-|immin|B|V|||Latin imminere 'to overhang' ; -ent|ent|S
+navigate	verb	-navig-|navig|B|N|||Latin navis 'ship' ; -ate|ate|S
+feasible	adj	-feas-|feas|B|V|||Latin facere 'to do' ; -ible|ible|S

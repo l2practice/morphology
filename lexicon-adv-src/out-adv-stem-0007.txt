@@ -1,0 +1,150 @@
+extensor	noun	-extens-|extens|B|V|||Latin extendere 'to stretch out' ; -or|or|S
+semiotics	noun	-semiot-|semiot|B|N|||Greek sēmeion 'sign' ; -ics|ics|S
+littoral	adj	=
+undulate	verb	-undul-|undul|B|N|||Latin undula 'small wave' ; -ate|ate|S
+hydrochloric	adj	hydro-|hydro|P|||Greek hydōr 'water' ; -chlor-|chlor|B|Adj|||Greek chlōros 'green' ; -ic|ic|S
+pediment	noun	=
+therapeutics	noun	-therapeut-|therapeut|B|V|||Greek therapeuein 'to treat' ; -ics|ics|S
+metabolite	noun	-metabol-|metabol|B|N|||Greek metabolē 'change' ; -ite|ite|S
+perquisite	noun	per-|per|P ; -quis-|quis|B|V|||Latin quaerere 'to seek' ; -ite|ite|S
+spastic	adj	-spast-|spast|B|V|||Greek spao 'to draw' ; -ic|ic|S
+confederacy	noun	con-|con|P ; -foeder-|feder|B|N|||Latin foedus 'treaty' ; -acy|acy|S
+remunerate	verb	re-|re|P ; -muner-|muner|B|N|||Latin munus 'gift' ; -ate|ate|S
+ingratiate	verb	in-|in|P ; -grati-|grati|B|N|||Latin gratia 'favor' ; -ate|ate|S
+recursive	adj	-recurs-|recurs|B|V|||Latin currere 'to run' ; -ive|ive|S
+defecate	verb	de-|de|P ; -fec-|fec|B|N|||Latin faex 'dregs' ; -ate|ate|S
+debilitate	verb	-debilit-|debilit|B|Adj|||Latin debilis 'weak' ; -ate|ate|S
+iconoclast	noun	icono-|icono|P|||Greek eikōn 'image' ; -clast|clast|B|V|||Greek klao 'to break'
+linguine	noun	=
+dissemble	verb	=
+neuropathy	noun	neuro-|neuro|P|||Greek neuron 'nerve' ; -pathy|pathy|S|||Greek patheia 'suffering'
+rattan	noun	=
+mastoid	noun	-mast-|mast|B|N|||Greek mastos 'breast' ; -oid|oid|S
+impoverish	verb	im-|im|P ; -pover-|pover|B|Adj|||Latin pauper 'poor' ; -ish|ish|S
+interstitial	adj	inter-|inter|P ; -stiti-|stiti|B|V|||Latin stare 'to stand' ; -al|al|S
+umbrage	noun	-umbr-|umbr|B|N|||Latin umbra 'shadow' ; -age|age|S
+commissar	noun	=
+geophysicist	noun	geo-|geo|P|||Greek gē 'earth' ; -phys-|phys|B|N|||Greek physis 'nature' ; -ic|ic|S ; -ist|ist|S
+menstruate	verb	-menstru-|menstru|B|Adj|||Latin menstruus 'monthly' ; -ate|ate|S
+electromechanical	adj	electro-|electro|P|||Greek ēlektron 'amber' ; -mechan-|mechan|B|N|||Greek mēkhanē 'machine' ; -ical|ical|S
+rabbinic	adj	-rabbin-|rabbin|B|N|||Hebrew rabbi 'teacher' ; -ic|ic|S
+obstetric	adj	-obstetr-|obstetr|B|N|||Latin obstetrix 'midwife' ; -ic|ic|S
+electrochemical	adj	electro-|electro|P|||Greek ēlektron 'amber' ; -chemic-|chemic|B|N|||Greek khēmeia 'alchemy' ; -al|al|S
+denominate	verb	de-|de|P ; -nomin-|nomin|B|N|||Latin nomen 'name' ; -ate|ate|S
+recumbent	adj	re-|re|P ; -cumb-|cumb|B|V|||Latin cubare 'to lie down' ; -ent|ent|S
+biophysical	adj	bio-|bio|P|||Greek bios 'life' ; -phys-|phys|B|N|||Greek physis 'nature' ; -ical|ical|S
+orthodontist	noun	ortho-|ortho|P|||Greek orthos 'straight' ; -odont-|dont|B|N|||Greek odous 'tooth' ; -ist|ist|S
+metacognition	noun	meta-|meta|P|||Greek meta 'beyond' ; -cognit-|cognit|B|V|||Latin cognoscere 'to know' ; -ion|ion|S
+orthopedist	noun	ortho-|ortho|P|||Greek orthos 'straight' ; -ped-|ped|B|N|||Greek pais 'child' ; -ist|ist|S
+hypnotist	noun	-hypnot-|hypnot|B|N|||Greek hypnos 'sleep' ; -ist|ist|S
+systematize	verb	-systemat-|systemat|B|N|||Greek systēma 'system' ; -ize|ize|S
+androgen	noun	andro-|andro|P|||Greek anēr 'man' ; -gen|gen|S|||Greek gennan 'to produce'
+reticle	noun	=
+circumnavigate	verb	circum-|circum|P ; -navig-|navig|B|V|||Latin navigare 'to sail' ; -ate|ate|S
+sophisticate	verb	-soph-|soph|B|N|||Greek sophia 'wisdom' ; -ist|ist|S ; -ic|ic|S ; -ate|ate|S
+terrine	noun	=
+homoerotic	adj	homo-|homo|P|||Greek homos 'same' ; -erot-|erot|B|N|||Greek erōs 'love' ; -ic|ic|S
+recitative	noun	re-|re|P ; -citat-|citat|B|V|||Latin citare 'to summon' ; -ive|ive|S
+physic	noun	-phys-|phys|B|N|||Greek physis 'nature' ; -ic|ic|S
+impudent	adj	im-|im|P ; -pud-|pud|B|V|||Latin pudere 'to feel shame' ; -ent|ent|S
+nucleic	adj	-nucle-|nucle|B|N|||Latin nucleus 'kernel' ; -ic|ic|S
+geostrategic	adj	geo-|geo|P|||Greek gē 'earth' ; -strateg-|strateg|B|N|||Greek stratēgos 'general' ; -ic|ic|S
+benefice	noun	-benef-|benef|B|N|||Latin beneficium 'favor' ; -ice|ice|S
+masochist	noun	=
+interlocutory	adj	inter-|inter|P ; -locut-|locut|B|V|||Latin loqui 'to speak' ; -ory|ory|S
+barbarity	noun	-barbar-|barbar|B|N|||Greek barbaros 'foreigner' ; -ity|ity|S
+verbiage	noun	-verbi-|verbi|B|N|||Latin verbum 'word' ; -age|age|S
+audiovisual	adj	audio-|audio|P|||Latin audire 'to hear' ; -visu-|visu|B|V|||Latin videre 'to see' ; -al|al|S
+astral	adj	-astr-|astr|B|N|||Greek astron 'star' ; -al|al|S
+diachronic	adj	dia-|dia|P|||Greek dia 'through' ; -chron-|chron|B|N|||Greek khronos 'time' ; -ic|ic|S
+obsequious	adj	-obsequi-|obsequi|B|V|||Latin obsequi 'to comply' ; -ous|ous|S
+decrement	noun	de-|de|P ; -cresc-|cre|B|V|||Latin crescere 'to grow' ; -ment|ment|S
+phosphor	noun	phos-|phos|P|||Greek phōs 'light' ; -phor|phor|B|V|||Greek pherein 'to bear'
+turbid	adj	-turb-|turb|B|N|||Latin turba 'crowd' ; -id|id|S
+pubescent	adj	-pubesc-|pubesc|B|V|||Latin pubescere 'to mature' ; -ent|ent|S
+periodontal	adj	peri-|peri|P|||Greek peri 'around' ; -odont-|odont|B|N|||Greek odous 'tooth' ; -al|al|S
+prognostic	adj	-prognost-|prognost|B|V|||Greek progignōskein 'to know beforehand' ; -ic|ic|S
+spectrometry	noun	spectro-|spectro|P|||Latin spectrum 'appearance' ; -metry|metry|S|||Greek metria 'measurement'
+actuate	verb	-actu-|actu|B|V|||Latin agere 'to act' ; -ate|ate|S
+thermodynamic	adj	thermo-|thermo|P|||Greek thermos 'hot' ; -dynam-|dynam|B|V|||Greek dynamis 'power' ; -ic|ic|S
+catechist	noun	-catech-|catech|B|V|||Greek katēkhein 'to instruct' ; -ist|ist|S
+psycholinguistic	adj	psycho-|psycho|P|||Greek psykhē 'soul' ; -lingu-|lingu|B|N|||Latin lingua 'tongue' ; -ist|ist|S ; -ic|ic|S
+coagulate	verb	co-|co|P ; -agul-|agul|B|V|||Latin agere 'to drive' ; -ate|ate|S
+bioremediation	noun	bio-|bio|P|||Greek bios 'life' ; re-|re|P ; -medi-|medi|B|Adj|||Latin medius 'middle' ; -ation|ation|S
+mistral	noun	=
+dielectric	adj	dia-|di|P|||Greek dia 'through' ; -electr-|electr|B|N|||Greek ēlektron 'amber' ; -ic|ic|S
+satiate	verb	-sati-|sati|B|Adv|||Latin satis 'enough' ; -ate|ate|S
+operant	adj	-oper-|oper|B|V|||Latin operari 'to work' ; -ant|ant|S
+electromagnetism	noun	electro-|electro|P|||Greek ēlektron 'amber' ; magnet|magnet|R|N ; -ism|ism|S
+conjugate	verb	con-|con|P ; -jug-|jug|B|N|||Latin jugum 'yoke' ; -ate|ate|S
+binomial	noun	bi-|bi|P ; -nomi-|nomi|B|N|||Greek nomos 'portion' ; -al|al|S
+arabesque	noun	=
+contractile	adj	con-|con|P ; -tract-|tract|B|V|||Latin trahere 'to pull' ; -ile|ile|S
+instantiate	verb	in-|in|P ; -stanti-|stanti|B|V|||Latin stare 'to stand' ; -ate|ate|S
+syncretism	noun	-syncret-|syncret|B|N|||Greek synkrētismos 'Cretan federation' ; -ism|ism|S
+citrine	noun	-citr-|citr|B|N|||Latin citrus 'citron' ; -ine|ine|S
+psychosexual	adj	psycho-|psycho|P|||Greek psykhē 'soul' ; -sexu-|sexu|B|N|||Latin sexus 'sex' ; -al|al|S
+neurochemical	adj	neuro-|neuro|P|||Greek neuron 'nerve' ; -chemic-|chemic|B|N|||Greek khēmeia 'alchemy' ; -al|al|S
+metanarrative	noun	meta-|meta|P|||Greek meta 'beyond' ; -narr-|narr|B|V|||Latin narrare 'to tell' ; -ative|ative|S
+hydrodynamic	adj	hydro-|hydro|P|||Greek hydōr 'water' ; -dynam-|dynam|B|V|||Greek dynamis 'power' ; -ic|ic|S
+geochemical	adj	geo-|geo|P|||Greek gē 'earth' ; -chemic-|chemic|B|N|||Greek khēmeia 'alchemy' ; -al|al|S
+laparotomy	noun	laparo-|laparo|P|||Greek lapara 'flank' ; -tomy|tomy|S|||Greek tomē 'cutting'
+sarcoidosis	noun	-sarc-|sarc|B|N|||Greek sarx 'flesh' ; -oid|oid|S ; -osis|osis|S|||Greek ōsis 'condition'
+sycophant	noun	syco-|syco|P|||Greek sykon 'fig' ; -phant|phant|B|V|||Greek phainein 'to show'
+declaratory	adj	-declarat-|declarat|B|V|||Latin declarare 'to declare' ; -ory|ory|S
+heritable	adj	-herit-|herit|B|N|||Latin heres 'heir' ; -able|able|S
+locution	noun	-locut-|locut|B|V|||Latin loqui 'to speak' ; -ion|ion|S
+dexterous	adj	-dexter-|dexter|B|Adj|||Latin dexter 'right' ; -ous|ous|S
+triforium	noun	=
+syncretic	adj	-syncret-|syncret|B|N|||Greek synkrētismos 'Cretan federation' ; -ic|ic|S
+geomagnetic	adj	geo-|geo|P|||Greek gē 'earth' ; magnet|magnet|R|N ; -ic|ic|S
+inseminate	verb	in-|in|P ; -semin-|semin|B|N|||Latin semen 'seed' ; -ate|ate|S
+fraternize	verb	-fratern-|fratern|B|N|||Latin frater 'brother' ; -ize|ize|S
+retinoic	adj	retino-|retino|P|||Latin rete 'net' ; -ic|ic|S
+equivocate	verb	equi-|equi|P|||Latin aequus 'equal' ; -voc-|voc|B|V|||Latin vocare 'to call' ; -ate|ate|S
+retinopathy	noun	retino-|retino|P|||Latin rete 'net' ; -pathy|pathy|S|||Greek patheia 'suffering'
+participle	noun	=
+immunohistochemical	adj	immuno-|immuno|P|||Latin immunis 'exempt' ; histo-|histo|P|||Greek histos 'tissue' ; -chemic-|chemic|B|N|||Greek khēmeia 'alchemy' ; -al|al|S
+anaphylactic	adj	ana-|ana|P|||Greek ana 'up' ; -phylact-|phylact|B|V|||Greek phylassein 'to guard' ; -ic|ic|S
+licentious	adj	-licenti-|licenti|B|N|||Latin licentia 'freedom' ; -ous|ous|S
+valedictory	adj	-valedict-|valedict|B|V|||Latin valedicere 'to say farewell' ; -ory|ory|S
+psychotherapeutic	adj	psycho-|psycho|P|||Greek psykhē 'soul' ; -therapeut-|therapeut|B|V|||Greek therapeuein 'to treat' ; -ic|ic|S
+photoelectric	adj	photo-|photo|P|||Greek phōs 'light' ; -electr-|electr|B|N|||Greek ēlektron 'amber' ; -ic|ic|S
+eugenic	adj	eu-|eu|P|||Greek eu 'good' ; -gen-|gen|B|V|||Greek gennan 'to produce' ; -ic|ic|S
+mononucleosis	noun	mono-|mono|P|||Greek monos 'single' ; -nucle-|nucle|B|N|||Latin nucleus 'kernel' ; -osis|osis|S|||Greek ōsis 'condition'
+effectuate	verb	-effectu-|effectu|B|V|||Latin efficere 'to effect' ; -ate|ate|S
+victorine	noun	=
+psychophysical	adj	psycho-|psycho|P|||Greek psykhē 'soul' ; -phys-|phys|B|N|||Greek physis 'nature' ; -ical|ical|S
+disquisition	noun	dis-|dis|P ; -quisit-|quisit|B|V|||Latin quaerere 'to seek' ; -ion|ion|S
+cosmid	noun	=
+adenoidectomy	noun	-aden-|aden|B|N|||Greek adēn 'gland' ; -oid|oid|S ; -ectomy|ectomy|S|||Greek ektomē 'excision'
+analytics	noun	ana-|ana|P|||Greek ana 'up' ; -lyt-|lyt|B|V|||Greek lyein 'to loosen' ; -ics|ics|S
+abstinent	adj	ab-|ab|P ; -stin-|stin|B|V|||Latin tenere 'to hold' ; -ent|ent|S
+electromagnet	noun	electro-|electro|P|||Greek ēlektron 'amber' ; magnet|magnet|R|N
+formulary	noun	-formul-|formul|B|N|||Latin formula 'form' ; -ary|ary|S
+psychodynamic	adj	psycho-|psycho|P|||Greek psykhē 'soul' ; -dynam-|dynam|B|V|||Greek dynamis 'power' ; -ic|ic|S
+luminance	noun	-lumin-|lumin|B|N|||Latin lumen 'light' ; -ance|ance|S
+deprecate	verb	de-|de|P ; -prec-|prec|B|V|||Latin precari 'to pray' ; -ate|ate|S
+immunosuppressive	adj	immuno-|immuno|P|||Latin immunis 'exempt' ; -suppress-|suppress|B|V|||Latin supprimere 'to press down' ; -ive|ive|S
+retinitis	noun	-retin-|retin|B|N|||Latin rete 'net' ; -itis|itis|S|||Greek -itis 'inflammation'
+fumigate	verb	-fumig-|fumig|B|V|||Latin fumigare 'to smoke' ; -ate|ate|S
+resorption	noun	re-|re|P ; -sorpt-|sorpt|B|V|||Latin sorbere 'to suck' ; -ion|ion|S
+parlous	adj	=
+improvisatory	adj	-improvisat-|improvisat|B|Adj|||Latin improvisus 'unforeseen' ; -ory|ory|S
+suppository	noun	-supposit-|supposit|B|V|||Latin supponere 'to place under' ; -ory|ory|S
+articular	adj	-articul-|articul|B|N|||Latin articulus 'joint' ; -ar|ar|S
+collimate	verb	col-|col|P ; -line-|lim|B|N|||Latin linea 'line' ; -ate|ate|S
+thermoplastic	adj	thermo-|thermo|P|||Greek thermos 'hot' ; -plast-|plast|B|V|||Greek plassein 'to mold' ; -ic|ic|S
+geophysics	noun	geo-|geo|P|||Greek gē 'earth' ; -phys-|phys|B|N|||Greek physis 'nature' ; -ics|ics|S
+astronautics	noun	astro-|astro|P|||Greek astron 'star' ; -naut-|naut|B|N|||Greek nautēs 'sailor' ; -ics|ics|S
+egotist	noun	=
+fulminate	verb	-fulmin-|fulmin|B|V|||Latin fulminare 'to thunder' ; -ate|ate|S
+retinoid	noun	-retin-|retin|B|N|||Latin rete 'net' ; -oid|oid|S
+liquorice	noun	=
+catechetical	adj	-catech-|catech|B|V|||Greek katēkhein 'to instruct' ; -etic|etic|S ; -al|al|S
+suasion	noun	-suas-|suas|B|V|||Latin suadere 'to advise' ; -ion|ion|S
+sibilant	adj	-sibil-|sibil|B|V|||Latin sibilare 'to hiss' ; -ant|ant|S
+psychoanalytical	adj	psycho-|psycho|P|||Greek psykhē 'soul' ; ana-|ana|P|||Greek ana 'up' ; -lyt-|lyt|B|V|||Greek lyein 'to loosen' ; -ical|ical|S
+imprecation	noun	im-|im|P ; -prec-|prec|B|V|||Latin precari 'to pray' ; -ation|ation|S
+sycophantic	adj	syco-|syco|P|||Greek sykon 'fig' ; -phant-|phant|B|V|||Greek phainein 'to show' ; -ic|ic|S
+magnetar	noun	=

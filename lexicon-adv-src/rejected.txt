@@ -8,3 +8,17 @@ primrose	noun	prim-|prim|B|Adj|||Latin primus 'first' ; -rose|rose|R|N	# m1: fre
 supine	adj	sup-|sup|P||||Latin sub- 'under' ; -ine|ine|S||||Latin -inus 'pertaining to'	# no root
 virilocal	adj	viri-|viri|B|Adj|||Latin vir 'man' ; -local|local|R|Adj	# m1: free root has hyphen
 uxorilocal	adj	uxori-|uxori|B|N|||Latin uxor 'wife' ; -local|local|R|Adj	# m1: free root has hyphen
+astronomy	noun	astro-|astro|P||||Greek astron 'star' ; -nomy|nomy|S||||Greek nomos 'law'	# no root
+carcinogen	noun	carcino-|carcino|P||||Greek karkinos 'crab, cancer' ; -gen|gen|S||||Greek genes 'born, produced'	# no root
+spectroscopy	noun	spectro-|spectro|P||||Latin specere 'to look' ; -scopy|scopy|S||||Greek skopia 'viewing, examination'	# no root
+hologram	noun	holo-|holo|P||||Greek holos 'whole' ; -gram|gram|S||||Greek gramma 'written, drawn thing'	# no root
+holographic	adj	holo-|holo|P||||Greek holos 'whole' ; -graph|graph|S||||Greek graphein 'to write' ; -ic|ic|S	# no root
+carcinogenic	adj	carcino-|carcino|P||||Greek karkinos 'crab, cancer' ; -gen|gen|S||||Greek genes 'born, produced' ; -ic|ic|S	# no root
+cryogenic	adj	cryo-|cryo|P||||Greek kryos 'cold, frost' ; -gen|gen|S||||Greek genes 'born, produced' ; -ic|ic|S	# no root
+sonogram	noun	sono-|sono|P||||Latin sonus 'sound' ; -gram|gram|S||||Greek gramma 'written, drawn thing'	# no root
+neuropathy	noun	neuro-|neuro|P|||Greek neuron 'nerve' ; -pathy|pathy|S|||Greek patheia 'suffering'	# no root
+androgen	noun	andro-|andro|P|||Greek anēr 'man' ; -gen|gen|S|||Greek gennan 'to produce'	# no root
+spectrometry	noun	spectro-|spectro|P|||Latin spectrum 'appearance' ; -metry|metry|S|||Greek metria 'measurement'	# no root
+laparotomy	noun	laparo-|laparo|P|||Greek lapara 'flank' ; -tomy|tomy|S|||Greek tomē 'cutting'	# no root
+retinoic	adj	retino-|retino|P|||Latin rete 'net' ; -ic|ic|S	# no root
+retinopathy	noun	retino-|retino|P|||Latin rete 'net' ; -pathy|pathy|S|||Greek patheia 'suffering'	# no root

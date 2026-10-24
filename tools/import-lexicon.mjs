@@ -6,6 +6,8 @@ import fs from "node:fs";
 const args = process.argv.slice(2);
 const ADV = args[0] === "--adv";            // advanced layer: bound Latin/Greek roots and etymological affixes allowed
 if (ADV) args.shift();
+let BASIC_DIR = null;                        // --basic <dir>: also build advanced cuts for derived words from the basic lexicon
+if (ADV && args[0] === "--basic") { args.shift(); BASIC_DIR = args.shift(); }
 const [outDir, rejFile, ...files] = args;
 const CODES = new Set(["P", "R", "B", "S", "I"]);
 const POS = new Set(["noun", "verb", "adj", "adv", "prep", "pron", "det", "conj", "interj", "?"]);
@@ -66,6 +68,7 @@ const LATINATE = new Set("ive ible able ion tion sion ation ition ant ent ate or
 const FOSSIL = new Set("scientist scientific health wealth stealth filth gift depth width truth length strength youth flight height weight lawyer agency entry ministry introduce".split(" "));
 const CAT = { noun: "N", verb: "V", adj: "Adj", adv: "Adv" };
 const MANUAL = new Set(fs.existsSync("lexicon-adv-src/out-adv-zz-manual.txt") ? fs.readFileSync("lexicon-adv-src/out-adv-zz-manual.txt", "utf8").split("\n").map(l => l.split("\t")[0]).filter(Boolean) : []);
+const fromStem = new Set();                 // advanced cuts confirmed by the stem job: exempt from the recurrence check
 const lex = new Map(), rejected = [];
 let lines = 0, dup = 0;
 for (const f of files) {
@@ -83,6 +86,7 @@ for (const f of files) {
     if (probs.length) { rejected.push(raw + "\t# " + probs.join("; ")); continue; }
     if (lex.has(word)) dup++;
     lex.set(word, pos + "\t" + body);
+    if (/out-adv-stem-/.test(f)) fromStem.add(word);
   }
 }
 // A root that is itself a derived word in the lexicon is cut down to its own root:
@@ -146,6 +150,35 @@ for (let pass = 0; pass < (ADV ? 0 : 5); pass++) {
   }
   if (!changed) break;
 }
+// Advanced: words built on a word that has an advanced cut take that cut (vulnerability = vulnerable + -ity → -vulner- + -able + -ity).
+let advExpanded = 0;
+if (ADV && BASIC_DIR) {
+  const basic = {};
+  for (const f of fs.readdirSync(BASIC_DIR)) Object.assign(basic, JSON.parse(fs.readFileSync(`${BASIC_DIR}/${f}`, "utf8")));
+  for (let pass = 0; pass < 3; pass++) {
+    let changed = false;
+    for (const [w, v] of Object.entries(basic)) {
+      const [pos, body] = v.split("\t");
+      const cur = lex.get(w);
+      const ms = parse(cur ? cur.split("\t")[1] : body), out = [];
+      let did = false;
+      for (const m of ms) {
+        const base = m.code === "R" && m.form !== w ? lex.get(m.form) : null;
+        const bms = base ? parse(base.split("\t")[1]) : null;
+        if (bms && bms.length > 1 && !bms.some(b => b.code === "I")) {
+          const joined = bms.map(b => b.surface).join(""), cut = joined.length - m.surface.length, last = bms[bms.length - 1];
+          if (m.surface === joined) { out.push(...bms); did = true; continue; }
+          if (cut > 0 && cut <= 3 && joined.startsWith(m.surface) && last.surface.length > cut) { out.push(...bms.slice(0, -1), { ...last, surface: last.surface.slice(0, last.surface.length - cut) }); did = true; continue; }
+          if (/^(able|ible)$/.test(last.surface) && m.surface === joined.slice(0, -2) + "il") { out.push(...bms.slice(0, -1), { ...last, surface: last.surface.slice(0, -2) + "il" }); did = true; continue; }   // vulnerable → vulnerabil + ity
+          if (cut > 0 && cut === last.surface.length && joined.startsWith(m.surface) && bms.length >= 2) { out.push(...bms.slice(0, -1)); did = true; continue; }   // pres(ent) + -ence → pres- + -ence
+        }
+        out.push(m);
+      }
+      if (did) { lex.set(w, pos + "\t" + unparse(out)); advExpanded++; changed = true; if (!MANUAL.has(w)) fromStem.add(w); }
+    }
+    if (!changed) break;
+  }
+}
 // Advanced layer: a bound root must recur (at least 3 words) or the cut is dropped. The word falls back to the basic cut.
 const pruned = [];
 if (ADV) {
@@ -153,14 +186,43 @@ if (ADV) {
   for (const [w, v] of lex) for (const m of parse(v.split("\t")[1])) if (m.code === "B") (uses.get(norm(m.form)) || uses.set(norm(m.form), new Set()).get(norm(m.form))).add(w);
   for (const [w, v] of [...lex]) {
     const weak = parse(v.split("\t")[1]).filter(m => m.code === "B" && uses.get(norm(m.form)).size < MIN).map(m => m.form);
-    if (weak.length && !MANUAL.has(w)) { lex.delete(w); pruned.push(w + "\t" + weak.join(",")); }
+    if (weak.length && !MANUAL.has(w) && !fromStem.has(w)) { lex.delete(w); pruned.push(w + "\t" + weak.join(",")); }
   }
   fs.writeFileSync(rejFile.replace(/\.txt$/, "") + "-pruned.txt", pruned.join("\n") + "\n");
 }
+// Words whose own advanced cut was dropped above are rebuilt from the basic lexicon and the cuts that survived.
+if (ADV && BASIC_DIR) {
+  const basic = {};
+  for (const f of fs.readdirSync(BASIC_DIR)) Object.assign(basic, JSON.parse(fs.readFileSync(`${BASIC_DIR}/${f}`, "utf8")));
+  for (let pass = 0; pass < 3; pass++) {
+    let changed = false;
+    for (const [w, v] of Object.entries(basic)) {
+      const [pos, body] = v.split("\t");
+      const cur = lex.get(w);
+      const ms = parse(cur ? cur.split("\t")[1] : body), out = [];
+      let did = false;
+      for (const m of ms) {
+        const base = m.code === "R" && m.form !== w ? lex.get(m.form) : null;
+        const bms = base ? parse(base.split("\t")[1]) : null;
+        if (bms && bms.length > 1 && !bms.some(b => b.code === "I")) {
+          const joined = bms.map(b => b.surface).join(""), cut = joined.length - m.surface.length, last = bms[bms.length - 1];
+          if (m.surface === joined) { out.push(...bms); did = true; continue; }
+          if (cut > 0 && cut <= 3 && joined.startsWith(m.surface) && last.surface.length > cut) { out.push(...bms.slice(0, -1), { ...last, surface: last.surface.slice(0, last.surface.length - cut) }); did = true; continue; }
+          if (/^(able|ible)$/.test(last.surface) && m.surface === joined.slice(0, -2) + "il") { out.push(...bms.slice(0, -1), { ...last, surface: last.surface.slice(0, -2) + "il" }); did = true; continue; }   // vulnerable → vulnerabil + ity
+          if (cut > 0 && cut === last.surface.length && joined.startsWith(m.surface) && bms.length >= 2) { out.push(...bms.slice(0, -1)); did = true; continue; }   // pres(ent) + -ence → pres- + -ence
+        }
+        out.push(m);
+      }
+      if (did) { lex.set(w, pos + "\t" + unparse(out)); advExpanded++; changed = true; if (!MANUAL.has(w)) fromStem.add(w); }
+    }
+    if (!changed) break;
+  }
+}
+
 const shards = {};
 for (const [w, v] of lex) (shards[w.slice(0, 2)] ||= {})[w] = v;
 fs.mkdirSync(outDir, { recursive: true });
 for (const [k, o] of Object.entries(shards)) fs.writeFileSync(`${outDir}/${k}.json`, JSON.stringify(o));
 fs.writeFileSync(rejFile, rejected.join("\n") + (rejected.length ? "\n" : ""));
 const multi = [...lex.values()].filter(v => v.includes(" ; ")).length;
-console.log(`${lines} lines, ${lex.size} accepted (${multi} cut into 2+ morphemes), ${rejected.length} rejected, ${dup} duplicates, ${pruned.length} weak advanced cuts dropped, ${reconciled.length} whole words re-cut like their family, ${expanded} roots expanded to their own root, ${Object.keys(shards).length} shards`);
+console.log(`${lines} lines, ${lex.size} accepted (${multi} cut into 2+ morphemes), ${rejected.length} rejected, ${dup} duplicates, ${pruned.length} weak advanced cuts dropped, ${advExpanded} derived words expanded with advanced cuts, ${reconciled.length} whole words re-cut like their family, ${expanded} roots expanded to their own root, ${Object.keys(shards).length} shards`);

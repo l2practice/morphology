@@ -1,0 +1,150 @@
+question	noun	quest|quest|R|V ; -ion|ion|S
+little	adj	=
+possible	adj	-poss-|poss|B|V|||Latin posse 'to be able' ; -ible|ible|S
+authority	noun	-auct-|auth|B|V|||Latin augere 'to increase' ; -or|or|S ; -ity|ity|S
+appear	verb	=
+community	noun	=
+public	adj	-publ-|publ|B|N|||Latin populus 'people' ; -ic|ic|S
+process	noun	=
+patient	noun	-pati-|pati|B|V|||Latin patior 'to suffer' ; -ent|ent|S
+economic	adj	-econom-|econom|B|N|||Greek oikonomia 'household management' ; -ic|ic|S
+experience	noun	-experi-|experi|B|V|||Latin experiri 'to try' ; -ence|ence|S
+particular	adj	-particul-|particul|B|N|||Latin particula 'small part' ; -ar|ar|S
+department	noun	depart|depart|R|V ; -ment|ment|S
+practice	noun	=
+military	adj	-milit-|milit|B|N|||Latin miles 'soldier' ; -ary|ary|S
+material	adj	-materi-|materi|B|N|||Latin materia 'material' ; -al|al|S
+situation	noun	-situ-|situ|B|N|||Latin situs 'site' ; -ation|ation|S
+university	noun	=
+necessary	adj	-necess-|necess|B|Adj|||Latin necesse 'unavoidable' ; -ary|ary|S
+hospital	noun	-hospit-|hospit|B|N|||Latin hospes 'guest' ; -al|al|S
+establish	verb	=
+private	adj	-priv-|priv|B|V|||Latin privare 'to deprive' ; -ate|ate|S
+secretary	noun	=
+represent	verb	re-|re|P ; -pres-|pres|B|V|||Latin praesens 'being at hand' ; -ent|ent|S
+behavior	noun	=
+present	adj	-pres-|pres|B|V|||Latin praesens 'being at hand' ; -ent|ent|S
+author	noun	-auct-|auth|B|V|||Latin augere 'to increase' ; -or|or|S
+despite	prep	=
+concern	verb	=
+individual	noun	-individu-|individu|B|Adj|||Latin individuus 'indivisible' ; -al|al|S
+serious	adj	-seri-|seri|B|Adj|||Latin serius 'grave' ; -ous|ous|S
+degree	noun	=
+function	noun	-funct-|funct|B|V|||Latin fungi 'to perform' ; -ion|ion|S
+pretty	adj	=
+physical	adj	-phys-|phys|B|N|||Greek physis 'nature' ; -ical|ical|S
+professor	noun	=
+publish	verb	-publ-|publ|B|N|||Latin populus 'people' ; -ish|ish|S
+express	verb	ex-|ex|P ; -press-|press|B|V|||Latin premere 'to press'
+element	noun	=
+executive	noun	=
+appropriate	adj	ap-|ap|P ; -propri-|propri|B|Adj|||Latin proprius 'own' ; -ate|ate|S
+measure	verb	=
+appeal	verb	=
+candidate	noun	-candid-|candid|B|Adj|||Latin candidus 'white' ; -ate|ate|S
+advantage	noun	=
+operate	verb	-oper-|oper|B|V|||Latin operari 'to work' ; -ate|ate|S
+trouble	noun	=
+parliament	noun	=
+address	verb	=
+responsible	adj	-respons-|respons|B|V|||Latin respondere 'to answer' ; -ible|ible|S
+occasion	noun	-occas-|occas|B|N|||Latin occasio 'opportunity' ; -ion|ion|S
+senior	adj	=
+essential	adj	-essenti-|essenti|B|V|||Latin esse 'to be' ; -al|al|S
+nuclear	adj	-nucle-|nucle|B|N|||Latin nucleus 'small nut' ; -ar|ar|S
+tradition	noun	-tradit-|tradit|B|V|||Latin tradere 'to hand over' ; -ion|ion|S
+proportion	noun	pro-|pro|P ; -port-|port|B|N|||Latin portio 'share' ; -ion|ion|S
+separate	verb	-separ-|separ|B|V|||Latin separare 'to separate' ; -ate|ate|S
+potential	adj	-potenti-|potenti|B|N|||Latin potentia 'power' ; -al|al|S
+regular	adj	-regul-|regul|B|N|||Latin regula 'rule' ; -ar|ar|S
+sample	noun	=
+domestic	adj	-domest-|domest|B|N|||Latin domus 'house' ; -ic|ic|S
+ordinary	adj	-ordin-|ordin|B|N|||Latin ordo 'order' ; -ary|ary|S
+actual	adj	-actu-|actu|B|N|||Latin actus 'act' ; -al|al|S
+category	noun	=
+participate	verb	-particip-|particip|B|V|||Latin participare 'to take part' ; -ate|ate|S
+circle	noun	=
+capacity	noun	-capac-|capaci|B|V|||Latin capere 'to take' ; -ty|ty|S
+plastic	adj	-plast-|plast|B|V|||Greek plassein 'to mold' ; -ic|ic|S
+substantial	adj	-substanti-|substanti|B|N|||Latin substantia 'substance' ; -al|al|S
+instrument	noun	in-|in|P ; -stru-|stru|B|V|||Latin struere 'to build' ; -ment|ment|S
+supreme	adj	=
+republic	noun	=
+double	adj	=
+experiment	noun	-experi-|experi|B|V|||Latin experiri 'to try' ; -ment|ment|S
+treaty	noun	=
+illustrate	verb	-illustr-|illustr|B|V|||Latin illustrare 'to light up' ; -ate|ate|S
+investigate	verb	-investig-|investig|B|V|||Latin investigare 'to track' ; -ate|ate|S
+muscle	noun	=
+ethnic	adj	-ethn-|ethn|B|N|||Greek ethnos 'nation' ; -ic|ic|S
+appreciate	verb	-appreci-|appreci|B|N|||Latin pretium 'price' ; -ate|ate|S
+alternative	adj	-altern-|altern|B|V|||Latin alternare 'to alternate' ; -ative|ative|S
+estimate	verb	-estim-|estim|B|V|||Latin aestimare 'to value' ; -ate|ate|S
+characteristic	noun	-characterist-|characterist|B|N|||Greek charakter 'mark' ; -ic|ic|S
+eliminate	verb	-elimin-|elimin|B|N|||Latin limen 'threshold' ; -ate|ate|S
+variable	adj	-vari-|vari|B|Adj|||Latin varius 'different' ; -able|able|S
+secret	noun	=
+multiple	adj	=
+criminal	adj	-crimin-|crimin|B|N|||Latin crimen 'crime' ; -al|al|S
+emphasize	verb	-emphas-|emphas|B|N|||Greek emphasis 'appearance' ; -ize|ize|S
+plenty	noun	-plen-|plen|B|Adj|||Latin plenus 'full' ; -ty|ty|S
+permanent	adj	-perman-|perman|B|V|||Latin permanere 'to stay through' ; -ent|ent|S
+crucial	adj	-cruci-|cruci|B|N|||Latin crux 'cross' ; -al|al|S
+celebrate	verb	-celebr-|celebr|B|V|||Latin celebrare 'to celebrate' ; -ate|ate|S
+interpret	verb	=
+scholar	noun	-schol-|schol|B|N|||Latin schola 'school' ; -ar|ar|S
+currency	noun	-curr-|curr|B|V|||Latin currere 'to run' ; -ency|ency|S
+graduate	noun	-gradu-|gradu|B|N|||Latin gradus 'step' ; -ate|ate|S
+dramatic	adj	-dramat-|dramat|B|N|||Greek drama 'play' ; -ic|ic|S
+schedule	noun	=
+communist	noun	-commun-|commun|B|Adj|||Latin communis 'common' ; -ist|ist|S
+implement	noun	im-|im|P ; -ple-|ple|B|V|||Latin plere 'to fill' ; -ment|ment|S
+calculate	verb	-calcul-|calcul|B|N|||Latin calculus 'pebble' ; -ate|ate|S
+voluntary	adj	-volunt-|volunt|B|N|||Latin voluntas 'will' ; -ary|ary|S
+distinguish	verb	-distingu-|distingu|B|V|||Latin distinguere 'to distinguish' ; -ish|ish|S
+volunteer	noun	-volunt-|volunt|B|N|||Latin voluntas 'will' ; -eer|eer|S
+poverty	noun	-pauper-|pover|B|Adj|||Latin pauper 'poor' ; -ty|ty|S
+evaluate	verb	e-|e|P ; -valu-|valu|B|V|||Latin valere 'to be worth' ; -ate|ate|S
+accomplish	verb	-accompl-|accompl|B|V|||Latin complere 'to fill up' ; -ish|ish|S
+radical	adj	-radic-|radic|B|N|||Latin radix 'root' ; -al|al|S
+dimension	noun	-dimens-|dimens|B|V|||Latin dimetiri 'to measure out' ; -ion|ion|S
+brilliant	adj	=
+electric	adj	-electr-|electr|B|N|||Greek elektron 'amber' ; -ic|ic|S
+historic	adj	-histor-|histor|B|N|||Greek historia 'history' ; -ic|ic|S
+journal	noun	-diurn-|journ|B|Adj|||Latin diurnus 'daily' ; -al|al|S
+literary	adj	-liter-|liter|B|N|||Latin littera 'letter' ; -ary|ary|S
+extreme	adj	=
+negotiate	verb	-negoti-|negoti|B|N|||Latin negotium 'business' ; -ate|ate|S
+chemical	adj	=
+utility	noun	-util-|util|B|V|||Latin uti 'to use' ; -ity|ity|S
+ultimate	adj	-ultim-|ultim|B|Adj|||Latin ultimus 'last' ; -ate|ate|S
+pregnant	adj	=
+anxious	adj	-anxi-|anxi|B|V|||Latin angere 'to choke' ; -ous|ous|S
+communicate	verb	-communic-|communic|B|Adj|||Latin communis 'common' ; -ate|ate|S
+profile	noun	=
+emphasise	verb	-emphas-|emphas|B|N|||Greek emphasis 'appearance' ; -ise|ise|S
+summary	noun	-summ-|summ|B|N|||Latin summa 'total' ; -ary|ary|S
+translate	verb	-translat-|transl|B|V|||Latin transferre 'to carry across' ; -ate|ate|S
+practise	verb	=
+fiction	noun	-fict-|fict|B|V|||Latin fingere 'to fashion' ; -ion|ion|S
+fabric	noun	-fabr-|fabr|B|N|||Latin faber 'artisan' ; -ic|ic|S
+innocent	adj	in-|in|P ; -noc-|noc|B|V|||Latin nocere 'to harm' ; -ent|ent|S
+mutual	adj	-mutu-|mutu|B|Adj|||Latin mutuus 'reciprocal' ; -al|al|S
+percent	noun	=
+inevitable	adj	in-|in|P ; -evit-|evit|B|V|||Latin vitare 'to avoid' ; -able|able|S
+prominent	adj	-promin-|promin|B|V|||Latin prominere 'to jut out' ; -ent|ent|S
+confine	verb	=
+detective	noun	de-|de|P ; -tect-|tect|B|V|||Latin tegere 'to cover' ; -ive|ive|S
+pacific	adj	-pacif-|pacif|B|N|||Latin pax 'peace' ; -ic|ic|S
+constituency	noun	-constitu-|constitu|B|V|||Latin constituere 'to set up' ; -ency|ency|S
+segment	noun	-seg-|seg|B|V|||Latin secare 'to cut' ; -ment|ment|S
+desperate	adj	-desper-|desper|B|V|||Latin desperare 'to be hopeless' ; -ate|ate|S
+horror	noun	-horr-|horr|B|V|||Latin horrere 'to bristle' ; -or|or|S
+vulnerable	adj	-vulner-|vulner|B|V|||Latin vulnus 'wound' ; -able|able|S
+celebrity	noun	-celebr-|celebr|B|Adj|||Latin celeber 'famous' ; -ity|ity|S
+athletic	adj	-athlet-|athlet|B|N|||Greek athlon 'prize' ; -ic|ic|S
+companion	noun	-compan-|compan|B|N|||Latin panis 'bread' ; -ion|ion|S
+medieval	adj	medi-|medi|P|||Latin medius 'middle' ; -ev-|ev|B|N|||Latin aevum 'age' ; -al|al|S
+scandal	noun	-scand-|scand|B|N|||Greek skandalon 'trap' ; -al|al|S
+resemble	verb	=
+judicial	adj	-judici-|judici|B|N|||Latin judicium 'judgment' ; -al|al|S

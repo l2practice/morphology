@@ -1,0 +1,150 @@
+parlor	noun	=
+ambiguous	adj	-ambigu-|ambigu|B|Adj|||Latin ambiguus 'doubtful' ; -ous|ous|S
+generic	adj	-gener-|gener|B|N|||Latin genus 'kind' ; -ic|ic|S
+astronomy	noun	astro-|astro|P||||Greek astron 'star' ; -nomy|nomy|S||||Greek nomos 'law'
+superficial	adj	-superfici-|superfici|B|N|||Latin superficies 'surface' ; -al|al|S
+plausible	adj	-plaus-|plaus|B|V|||Latin plaudere 'to applaud' ; -ible|ible|S
+comrade	noun	=
+discriminate	verb	-discrimin-|discrimin|B|V|||Latin discriminare 'to distinguish' ; -ate|ate|S
+proximity	noun	-proxim-|proxim|B|Adj|||Latin proximus 'nearest' ; -ity|ity|S
+consequent	adj	-consequ-|consequ|B|V|||Latin consequi 'to follow' ; -ent|ent|S
+synthetic	adj	-synthet-|synthet|B|V|||Greek synthesis 'putting together' ; -ic|ic|S
+intimidate	verb	-intimid-|intimid|B|V|||Latin intimidare 'to frighten' ; -ate|ate|S
+diagnostic	adj	-diagnost-|diagnost|B|V|||Greek diagignoskein 'to distinguish' ; -ic|ic|S
+utilise	verb	-util-|util|B|Adj|||Latin utilis 'useful' ; -ise|ise|S
+pragmatic	adj	-pragmat-|pragmat|B|N|||Greek pragma 'deed' ; -ic|ic|S
+vibrant	adj	-vibr-|vibr|B|V|||Latin vibrare 'to vibrate' ; -ant|ant|S
+mediate	verb	-medi-|medi|B|Adj|||Latin medius 'middle' ; -ate|ate|S
+therapeutic	adj	-therapeut-|therapeut|B|V|||Greek therapeuein 'to heal' ; -ic|ic|S
+giggle	verb	=
+indemnity	noun	in-|in|P ; -damn-|demn|B|N|||Latin damnum 'damage' ; -ity|ity|S
+homosexual	adj	homo-|homo|P||||Greek homos 'same' ; -sexu-|sexu|B|N|||Latin sexus 'sex' ; -al|al|S
+hybrid	noun	=
+serial	adj	=
+muscular	adj	-muscul-|muscul|B|N|||Latin musculus 'muscle' ; -ar|ar|S
+compliment	noun	=
+temporal	adj	-tempor-|tempor|B|N|||Latin tempus 'time' ; -al|al|S
+responsive	adj	re-|re|P ; -spons-|spons|B|V|||Latin respondere 'to answer' ; -ive|ive|S
+pathetic	adj	-pathet-|pathet|B|N|||Greek pathos 'feeling' ; -ic|ic|S
+evacuate	verb	-evacu-|evacu|B|V|||Latin evacuare 'to empty' ; -ate|ate|S
+descriptive	adj	-descript-|descript|B|V|||Latin describere 'to describe' ; -ive|ive|S
+elusive	adj	-elus-|elus|B|V|||Latin eludere 'to evade' ; -ive|ive|S
+energetic	adj	-energet-|energet|B|N|||Greek energeia 'activity' ; -ic|ic|S
+prevalent	adj	pre-|pre|P ; -val-|val|B|V|||Latin valere 'to be strong' ; -ent|ent|S
+maternal	adj	-matern-|matern|B|N|||Latin mater 'mother' ; -al|al|S
+disparity	noun	-dispar-|dispar|B|Adj|||Latin dispar 'unequal' ; -ity|ity|S
+maternity	noun	-matern-|matern|B|N|||Latin mater 'mother' ; -ity|ity|S
+shuffle	verb	=
+prophet	noun	pro-|pro|P ; -phet-|phet|B|V|||Greek phemi 'to speak'
+exacerbate	verb	ex-|ex|P ; -acerb-|acerb|B|Adj|||Latin acerbus 'bitter' ; -ate|ate|S
+tangible	adj	-tang-|tang|B|V|||Latin tangere 'to touch' ; -ible|ible|S
+militant	adj	-milit-|milit|B|N|||Latin miles 'soldier' ; -ant|ant|S
+constellation	noun	con-|con|P ; -stell-|stell|B|N|||Latin stella 'star' ; -ation|ation|S
+probation	noun	-proba-|proba|B|V|||Latin probare 'to test' ; -tion|tion|S
+registrar	noun	-registr-|registr|B|N|||Latin registrum 'register' ; -ar|ar|S
+orchard	noun	=
+intricate	adj	-intric-|intric|B|V|||Latin intricare 'to entangle' ; -ate|ate|S
+turbine	noun	=
+foliage	noun	-foli-|foli|B|N|||Latin folium 'leaf' ; -age|age|S
+insurgent	noun	-insurg-|insurg|B|V|||Latin insurgere 'to rise up' ; -ent|ent|S
+competency	noun	-compet-|compet|B|V|||Latin competere 'to be suitable' ; -ency|ency|S
+friction	noun	-frict-|frict|B|V|||Latin fricare 'to rub' ; -ion|ion|S
+alternate	verb	-altern-|altern|B|Adj|||Latin alternus 'by turns' ; -ate|ate|S
+contaminate	verb	-contamin-|contamin|B|V|||Latin contaminare 'to defile' ; -ate|ate|S
+intrinsic	adj	=
+respiratory	adj	-respirat-|respirat|B|V|||Latin respirare 'to breathe' ; -ory|ory|S
+appellant	noun	-appell-|appell|B|V|||Latin appellare 'to call' ; -ant|ant|S
+protagonist	noun	proto-|prot|P||||Greek protos 'first' ; -agon-|agon|B|N|||Greek agon 'contest' ; -ist|ist|S
+escalate	verb	=
+ruthless	adj	=
+ornament	noun	-orna-|orna|B|V|||Latin ornare 'to adorn' ; -ment|ment|S
+heterosexual	adj	hetero-|hetero|P||||Greek heteros 'other' ; -sexu-|sexu|B|N|||Latin sexus 'sex' ; -al|al|S
+discreet	adj	=
+literal	adj	-liter-|liter|B|N|||Latin littera 'letter' ; -al|al|S
+observatory	noun	-observat-|observat|B|V|||Latin observare 'to watch' ; -ory|ory|S
+irritate	verb	-irrit-|irrit|B|V|||Latin irritare 'to excite' ; -ate|ate|S
+ceramic	adj	-ceram-|ceram|B|N|||Greek keramos 'potter's clay' ; -ic|ic|S
+temperament	noun	-tempera-|tempera|B|V|||Latin temperare 'to moderate' ; -ment|ment|S
+wrinkle	noun	=
+erotic	adj	-erot-|erot|B|N|||Greek eros 'love' ; -ic|ic|S
+evaporate	verb	-evapor-|evapor|B|V|||Latin evaporare 'to evaporate' ; -ate|ate|S
+stellar	adj	-stell-|stell|B|N|||Latin stella 'star' ; -ar|ar|S
+incumbent	adj	in-|in|P ; -cumb-|cumb|B|V|||Latin cubare 'to lie' ; -ent|ent|S
+mantle	noun	=
+despise	verb	=
+cardiovascular	adj	cardio-|cardio|P||||Greek kardia 'heart' ; -vascul-|vascul|B|N|||Latin vasculum 'vessel' ; -ar|ar|S
+cardiac	adj	-cardi-|cardi|B|N|||Greek kardia 'heart' ; -ac|ac|S
+exquisite	adj	=
+fascist	noun	-fasc-|fasc|B|N|||Latin fascis 'bundle' ; -ist|ist|S
+phosphate	noun	-phosph-|phosph|B|N|||Greek phosphoros 'light-bearing' ; -ate|ate|S
+imperative	adj	-imper-|imper|B|V|||Latin imperare 'to command' ; -ative|ative|S
+ominous	adj	-omin-|omin|B|N|||Latin omen 'omen' ; -ous|ous|S
+distal	adj	-dist-|dist|B|V|||Latin distare 'to stand apart' ; -al|al|S
+oblivious	adj	-oblivi-|oblivi|B|N|||Latin oblivium 'forgetfulness' ; -ous|ous|S
+extravagant	adj	-extravag-|extravag|B|V|||Latin extravagari 'to wander beyond' ; -ant|ant|S
+relinquish	verb	re-|re|P ; -linqu-|linqu|B|V|||Latin linquere 'to leave' ; -ish|ish|S
+contingent	adj	-conting-|conting|B|V|||Latin contingere 'to happen' ; -ent|ent|S
+vengeance	noun	-venge-|venge|B|V|||Latin vindicare 'to avenge' ; -ance|ance|S
+eradicate	verb	-eradic-|eradic|B|V|||Latin eradicare 'to uproot' ; -ate|ate|S
+emulate	verb	-emul-|emul|B|V|||Latin aemulari 'to rival' ; -ate|ate|S
+negligible	adj	-neglig-|neglig|B|V|||Latin neglegere 'to neglect' ; -ible|ible|S
+cleric	noun	-cler-|cler|B|N|||Greek kleros 'lot' ; -ic|ic|S
+eminent	adj	-emin-|emin|B|V|||Latin eminere 'to project' ; -ent|ent|S
+pretence	noun	=
+precipitate	verb	-precipit-|precipit|B|V|||Latin praecipitare 'to hurl down' ; -ate|ate|S
+exterior	adj	=
+skeptic	noun	-skept-|skept|B|V|||Greek skeptesthai 'to examine' ; -ic|ic|S
+fiddle	noun	=
+candidacy	noun	-candid-|candid|B|Adj|||Latin candidus 'white' ; -acy|acy|S
+arithmetic	noun	-arithmet-|arithmet|B|N|||Greek arithmos 'number' ; -ic|ic|S
+reciprocal	adj	-reciproc-|reciproc|B|Adj|||Latin reciprocus 'back and forth' ; -al|al|S
+assimilate	verb	-assimil-|assimil|B|V|||Latin assimilare 'to make similar' ; -ate|ate|S
+inflate	verb	-infl-|infl|B|V|||Latin inflare 'to blow into' ; -ate|ate|S
+perennial	adj	per-|per|P ; -enni-|enni|B|N|||Latin annus 'year' ; -al|al|S
+contentious	adj	-contenti-|contenti|B|N|||Latin contentio 'contention' ; -ous|ous|S
+jubilee	noun	=
+disparate	adj	-dispar-|dispar|B|V|||Latin disparare 'to separate' ; -ate|ate|S
+baptism	noun	-bapt-|bapt|B|V|||Greek baptizein 'to dip' ; -ism|ism|S
+conservatory	noun	-conservat-|conservat|B|V|||Latin conservare 'to preserve' ; -ory|ory|S
+vantage	noun	=
+vegetarian	noun	-veget-|veget|B|V|||Latin vegetare 'to enliven' ; -arian|arian|S
+tuberculosis	noun	-tubercul-|tubercul|B|N|||Latin tuberculum 'little lump' ; -osis|osis|S
+cohesion	noun	-cohes-|cohes|B|V|||Latin cohaerere 'to stick together' ; -ion|ion|S
+pigment	noun	=
+intestine	noun	=
+console	noun	=
+alphabet	noun	=
+homogeneous	adj	-homogene-|homogene|B|Adj|||Greek homogenes 'same kind' ; -ous|ous|S
+singular	adj	-singul-|singul|B|Adj|||Latin singulus 'single' ; -ar|ar|S
+devolution	noun	de-|de|P ; -volut-|volut|B|V|||Latin volvere 'to roll' ; -ion|ion|S
+acoustic	adj	-acoust-|acoust|B|V|||Greek akouein 'to hear' ; -ic|ic|S
+duplicate	verb	-duplic-|duplic|B|V|||Latin duplicare 'to double' ; -ate|ate|S
+fraternity	noun	-fratern-|fratern|B|N|||Latin frater 'brother' ; -ity|ity|S
+linguist	noun	-lingu-|lingu|B|N|||Latin lingua 'language' ; -ist|ist|S
+hector	verb	=
+aesthetics	noun	-aesthet-|aesthet|B|V|||Greek aisthanesthai 'to perceive' ; -ics|ics|S
+orchid	noun	=
+sterile	adj	=
+ferret	noun	=
+salient	adj	-sali-|sali|B|V|||Latin salire 'to leap' ; -ent|ent|S
+proximal	adj	-proxim-|proxim|B|Adj|||Latin proximus 'nearest' ; -al|al|S
+gastrointestinal	adj	gastro-|gastro|P||||Greek gaster 'stomach' ; -intestin-|intestin|B|Adj|||Latin intestinus 'internal' ; -al|al|S
+dysfunction	noun	dys-|dys|P||||Greek dys 'bad' ; -funct-|funct|B|V|||Latin fungi 'to perform' ; -ion|ion|S
+hesitant	adj	-hesit-|hesit|B|V|||Latin haesitare 'to hesitate' ; -ant|ant|S
+dismal	adj	=
+garnish	verb	=
+hectic	adj	-hect-|hect|B|N|||Greek hexis 'habit' ; -ic|ic|S
+adamant	adj	=
+chlorine	noun	-chlor-|chlor|B|Adj|||Greek chloros 'pale green' ; -ine|ine|S
+precarious	adj	-precari-|precari|B|V|||Latin precari 'to beg' ; -ous|ous|S
+erratic	adj	-errat-|errat|B|V|||Latin errare 'to wander' ; -ic|ic|S
+magnify	verb	-magn-|magn|B|Adj|||Latin magnus 'great' ; -ify|ify|S
+horrify	verb	-horr-|horr|B|N|||Latin horror 'dread' ; -ify|ify|S
+feeble	adj	=
+permeate	verb	-perme-|perme|B|V|||Latin permeare 'to pass through' ; -ate|ate|S
+poignant	adj	-poign-|poign|B|V|||Latin pungere 'to prick' ; -ant|ant|S
+vibrate	verb	-vibr-|vibr|B|V|||Latin vibrare 'to vibrate' ; -ate|ate|S
+contrive	verb	=
+triangular	adj	-triangul-|triangul|B|N|||Latin triangulus 'triangle' ; -ar|ar|S
+delicacy	noun	-delic-|delic|B|Adj|||Latin delicatus 'delicate' ; -acy|acy|S
+drizzle	verb	=

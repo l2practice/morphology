@@ -1,0 +1,150 @@
+florid	adj	-flor-|flor|B|N|||Latin flos 'flower' ; -id|id|S
+perfunctory	adj	per-|per|P ; -funct-|funct|B|V|||Latin fungi 'to perform' ; -ory|ory|S
+militate	verb	-milit-|milit|B|N|||Latin miles 'soldier' ; -ate|ate|S
+jovial	adj	=
+ventilate	verb	-ventil-|ventil|B|N|||Latin ventus 'wind' ; -ate|ate|S
+impregnate	verb	im-|im|P ; -pregn-|pregn|B|Adj|||Latin praegnans 'pregnant' ; -ate|ate|S
+imperious	adj	-imperi-|imperi|B|N|||Latin imperium 'command' ; -ous|ous|S
+confection	noun	con-|con|P ; -fect-|fect|B|V|||Latin facere 'to make' ; -ion|ion|S
+chauvinism	noun	=
+incinerate	verb	in-|in|P ; -ciner-|ciner|B|N|||Latin cinis 'ashes' ; -ate|ate|S
+revile	verb	=
+biodegradable	adj	bio-|bio|P||||Greek bios 'life' ; de-|de|P ; -grad-|grad|B|N|||Latin gradus 'step' ; -able|able|S
+fission	noun	-fiss-|fiss|B|V|||Latin findere 'to split' ; -ion|ion|S
+holographic	adj	holo-|holo|P||||Greek holos 'whole' ; -graph|graph|S||||Greek graphein 'to write' ; -ic|ic|S
+ecclesial	adj	-ecclesi-|ecclesi|B|N|||Greek ekklesia 'assembly' ; -al|al|S
+tyrannical	adj	-tyrann-|tyrann|B|N|||Greek tyrannos 'ruler, despot' ; -ical|ical|S
+presumptuous	adj	pre-|pre|P ; -sumpt-|sumpt|B|V|||Latin sumere 'to take' ; -uous|uous|S
+conflagration	noun	con-|con|P ; -flagr-|flagr|B|V|||Latin flagrare 'to blaze' ; -ation|ation|S
+obstetrics	noun	-obstetr-|obstetr|B|N|||Latin obstetrix 'midwife' ; -ics|ics|S
+sinuous	adj	-sinu-|sinu|B|N|||Latin sinus 'curve, fold' ; -ous|ous|S
+attenuate	verb	at-|at|P ; -tenu-|tenu|B|Adj|||Latin tenuis 'thin' ; -ate|ate|S
+excrement	noun	=
+incarnate	adj	in-|in|P ; -carn-|carn|B|N|||Latin caro 'flesh' ; -ate|ate|S
+lubricate	verb	-lubric-|lubric|B|Adj|||Latin lubricus 'slippery' ; -ate|ate|S
+haggard	adj	=
+petrochemical	adj	petro-|petro|P||||Greek petra 'rock' ; -chemic-|chemic|B|N|||Greek chemia 'alchemy' ; -al|al|S
+chauvinist	noun	=
+clarion	noun	=
+perpetuity	noun	-perpetu-|perpetu|B|Adj|||Latin perpetuus 'continuous' ; -ity|ity|S
+progenitor	noun	pro-|pro|P ; -genit-|genit|B|V|||Latin gignere 'to beget' ; -or|or|S
+bioterrorism	noun	bio-|bio|P||||Greek bios 'life' ; -terror-|terror|B|N|||Latin terror 'fear, dread' ; -ism|ism|S
+heuristic	adj	-heurist-|heurist|B|V|||Greek heuriskein 'to find, discover' ; -ic|ic|S
+philistine	noun	=
+duplicity	noun	-duplic-|duplic|B|Adj|||Latin duplex 'double' ; -ity|ity|S
+culpable	adj	-culp-|culp|B|N|||Latin culpa 'fault' ; -able|able|S
+astrophysics	noun	astro-|astro|P||||Greek astron 'star' ; -phys-|phys|B|N|||Greek physis 'nature' ; -ics|ics|S
+patrician	noun	-patric-|patric|B|N|||Latin pater 'father' ; -ian|ian|S
+straggle	verb	=
+desultory	adj	de-|de|P ; -sult-|sult|B|V|||Latin salire 'to jump' ; -ory|ory|S
+exorcise	verb	-exorc-|exorc|B|V|||Greek exorkizein 'to banish spirit' ; -ise|ise|S
+bioethics	noun	bio-|bio|P||||Greek bios 'life' ; -eth-|eth|B|N|||Greek ethos 'character, custom' ; -ics|ics|S
+implosion	noun	im-|im|P ; -plos-|plos|B|V|||Latin plaudere 'to clap' ; -ion|ion|S
+barbarism	noun	-barbar-|barbar|B|N|||Greek barbaros 'foreigner' ; -ism|ism|S
+chalice	noun	=
+confirmatory	adj	con-|con|P ; -firmat-|firmat|B|V|||Latin firmare 'to strengthen' ; -ory|ory|S
+privation	noun	-privat-|privat|B|V|||Latin privare 'to deprive' ; -ion|ion|S
+barbarous	adj	-barbar-|barbar|B|N|||Greek barbaros 'foreigner' ; -ous|ous|S
+abominable	adj	-abomin-|abomin|B|V|||Latin abominari 'to abhor' ; -able|able|S
+biennial	adj	bi-|bi|P ; -enni-|enni|B|N|||Latin annus 'year' ; -al|al|S
+servile	adj	-serv-|serv|B|N|||Latin servus 'slave' ; -ile|ile|S
+requisition	noun	re-|re|P ; -quisit-|quisit|B|V|||Latin quaerere 'to seek' ; -ion|ion|S
+ambiance	noun	-ambi-|ambi|B|V|||Latin ambire 'to go around' ; -ance|ance|S
+refectory	noun	re-|re|P ; -fect-|fect|B|V|||Latin facere 'to make' ; -ory|ory|S
+invective	noun	in-|in|P ; -vect-|vect|B|V|||Latin vehere 'to carry' ; -ive|ive|S
+abbreviate	verb	ab-|ab|P ; -brevi-|brevi|B|Adj|||Latin brevis 'short' ; -ate|ate|S
+nonchalant	adj	=
+plenary	adj	-plen-|plen|B|Adj|||Latin plenus 'full' ; -ary|ary|S
+jangle	verb	=
+purgatory	noun	-purgat-|purgat|B|V|||Latin purgare 'to cleanse' ; -ory|ory|S
+propitious	adj	-propiti-|propiti|B|Adj|||Latin propitius 'favorable' ; -ous|ous|S
+colloquial	adj	col-|col|P ; -loqu-|loqu|B|V|||Latin loqui 'to speak' ; -ial|ial|S
+exogenous	adj	exo-|exo|P||||Greek exo 'outside' ; -gen-|gen|B|N|||Greek genes 'born, produced' ; -ous|ous|S
+reprise	noun	=
+petulant	adj	-petul-|petul|B|V|||Latin petere 'to seek, ask' ; -ant|ant|S
+aerodynamics	noun	aero-|aero|P||||Greek aer 'air' ; -dynam-|dynam|B|N|||Greek dynamis 'power' ; -ics|ics|S
+dramatist	noun	-dramat-|dramat|B|N|||Greek drama 'deed, play' ; -ist|ist|S
+presumptive	adj	pre-|pre|P ; -sumpt-|sumpt|B|V|||Latin sumere 'to take' ; -ive|ive|S
+carcinogenic	adj	carcino-|carcino|P||||Greek karkinos 'crab, cancer' ; -gen|gen|S||||Greek genes 'born, produced' ; -ic|ic|S
+benediction	noun	bene-|bene|P ; -dict-|dict|B|V|||Latin dicere 'to speak' ; -ion|ion|S
+venerate	verb	-vener-|vener|B|V|||Latin venerari 'to worship' ; -ate|ate|S
+conjugal	adj	con-|con|P ; -jug-|jug|B|N|||Latin iugum 'yoke' ; -al|al|S
+fallible	adj	-fall-|fall|B|V|||Latin fallere 'to deceive' ; -ible|ible|S
+fatuous	adj	-fatu-|fatu|B|Adj|||Latin fatuus 'foolish' ; -ous|ous|S
+crematorium	noun	-crem-|crem|B|V|||Latin cremare 'to burn' ; -atorium|atorium|S
+mechanistic	adj	-mechan-|mechan|B|N|||Greek mechane 'machine, device' ; -istic|istic|S
+treacle	noun	=
+biomechanics	noun	bio-|bio|P||||Greek bios 'life' ; -mechan-|mechan|B|N|||Greek mechane 'machine, device' ; -ics|ics|S
+contrite	adj	=
+astrophysical	adj	astro-|astro|P||||Greek astron 'star' ; -phys-|phys|B|N|||Greek physis 'nature' ; -ical|ical|S
+peremptory	adj	per-|per|P ; -empt-|empt|B|V|||Latin emere 'to take, buy' ; -ory|ory|S
+proximate	adj	-proxim-|proxim|B|Adj|||Latin proximus 'nearest' ; -ate|ate|S
+semiotic	adj	-semiot-|semiot|B|N|||Greek semeion 'sign, mark' ; -ic|ic|S
+ruminate	verb	-rumin-|rumin|B|N|||Latin rumen 'throat, cud' ; -ate|ate|S
+biomechanical	adj	bio-|bio|P||||Greek bios 'life' ; -mechan-|mechan|B|N|||Greek mechane 'machine, device' ; -ical|ical|S
+anthropomorphic	adj	anthropo-|anthropo|P||||Greek anthropos 'human' ; -morph-|morph|B|N|||Greek morphe 'form, shape' ; -ic|ic|S
+paediatric	adj	paed-|paed|P||||Greek pais 'child' ; -iatr-|iatr|B|N|||Greek iatros 'doctor' ; -ic|ic|S
+neoconservative	adj	neo-|neo|P||||Greek neos 'new' ; con-|con|P ; -servat-|servat|B|V|||Latin servare 'to keep' ; -ive|ive|S
+desecrate	verb	de-|de|P ; -secr-|secr|B|Adj|||Latin sacer 'sacred' ; -ate|ate|S
+reliquary	noun	-reliqu-|reliqu|B|N|||Latin reliquiae 'remains' ; -ary|ary|S
+biochemist	noun	bio-|bio|P||||Greek bios 'life' ; -chem-|chem|B|N|||Greek chemia 'alchemy' ; -ist|ist|S
+obsidian	noun	=
+diagrammatic	adj	dia-|dia|P||||Greek dia 'through, across' ; -grammat-|grammat|B|N|||Greek gramma 'letter, writing' ; -ic|ic|S
+depreciate	verb	de-|de|P ; -preci-|preci|B|N|||Latin pretium 'price' ; -ate|ate|S
+inquisitor	noun	in-|in|P ; -quisit-|quisit|B|V|||Latin quaerere 'to seek' ; -or|or|S
+pacifism	noun	-pacif-|pacif|B|N|||Latin pax 'peace' ; -ism|ism|S
+prevaricate	verb	pre-|pre|P ; -varic-|varic|B|Adj|||Latin varus 'bent, crooked' ; -ate|ate|S
+stratify	verb	-strat-|strat|B|N|||Latin stratum 'layer' ; -ify|ify|S
+firmament	noun	-firm-|firm|B|V|||Latin firmare 'to strengthen' ; -ament|ament|S
+acquisitive	adj	ac-|ac|P ; -quisit-|quisit|B|V|||Latin quaerere 'to seek' ; -ive|ive|S
+appellation	noun	-appell-|appell|B|V|||Latin appellare 'to call upon' ; -ation|ation|S
+garnet	noun	=
+hypnotise	verb	-hypnot-|hypnot|B|N|||Greek hypnos 'sleep' ; -ise|ise|S
+emancipate	verb	-emancip-|emancip|B|V|||Latin emancipare 'to liberate' ; -ate|ate|S
+apprise	verb	=
+pectoral	adj	-pector-|pector|B|N|||Latin pectus 'chest, breast' ; -al|al|S
+metacognitive	adj	meta-|meta|P||||Greek meta 'after, beyond' ; -cognit-|cognit|B|V|||Latin cognoscere 'to know' ; -ive|ive|S
+encephalitis	noun	en-|en|P||||Greek en 'in, within' ; -cephal-|cephal|B|N|||Greek kephale 'head' ; -itis|itis|S
+niggle	verb	=
+prophylactic	adj	pro-|pro|P ; -phylact-|phylact|B|V|||Greek phylassein 'to guard' ; -ic|ic|S
+incriminate	verb	in-|in|P ; -crimin-|crimin|B|N|||Latin crimen 'crime, charge' ; -ate|ate|S
+thoracic	adj	-thorac-|thorac|B|N|||Greek thorax 'chest' ; -ic|ic|S
+supercilious	adj	super-|super|P ; -cili-|cili|B|N|||Latin cilium 'eyelid' ; -ous|ous|S
+photosynthetic	adj	photo-|photo|P||||Greek phos 'light' ; -synthet-|synthet|B|V|||Greek tithenai 'to place' ; -ic|ic|S
+pollinate	verb	-pollin-|pollin|B|N|||Latin pollen 'fine dust' ; -ate|ate|S
+acerbic	adj	-acerb-|acerb|B|Adj|||Latin acerbus 'sour, bitter' ; -ic|ic|S
+extradite	verb	ex-|ex|P ; -trad-|trad|B|V|||Latin tradere 'to hand over' ; -ite|ite|S
+sonorous	adj	-sonor-|sonor|B|N|||Latin sonor 'sound' ; -ous|ous|S
+jocular	adj	-jocul-|jocul|B|N|||Latin iocus 'jest, joke' ; -ar|ar|S
+thermodynamics	noun	thermo-|thermo|P||||Greek therme 'heat' ; -dynam-|dynam|B|N|||Greek dynamis 'power' ; -ics|ics|S
+circadian	adj	circ-|circ|P||||Latin circa 'around' ; -adi-|adi|B|N|||Latin dies 'day' ; -an|an|S
+ocular	adj	-ocul-|ocul|B|N|||Latin oculus 'eye' ; -ar|ar|S
+columbine	noun	-columb-|columb|B|N|||Latin columba 'dove' ; -ine|ine|S
+pyrotechnic	adj	pyro-|pyro|P||||Greek pyr 'fire' ; -techn-|techn|B|N|||Greek techne 'skill, art' ; -ic|ic|S
+cryogenic	adj	cryo-|cryo|P||||Greek kryos 'cold, frost' ; -gen|gen|S||||Greek genes 'born, produced' ; -ic|ic|S
+plasticine	noun	=
+laminate	verb	-lamin-|lamin|B|N|||Latin lamina 'thin plate' ; -ate|ate|S
+neuromuscular	adj	neuro-|neuro|P||||Greek neuron 'nerve' ; -muscul-|muscul|B|N|||Latin musculus 'muscle' ; -ar|ar|S
+patristic	adj	-patr-|patr|B|N|||Latin pater 'father' ; -istic|istic|S
+beatific	adj	-beatif-|beatif|B|Adj|||Latin beatus 'blessed' ; -ic|ic|S
+sonogram	noun	sono-|sono|P||||Latin sonus 'sound' ; -gram|gram|S||||Greek gramma 'written, drawn thing'
+procrastinate	verb	pro-|pro|P ; -crastin-|crastin|B|N|||Latin cras 'tomorrow' ; -ate|ate|S
+lascivious	adj	-lascivi-|lascivi|B|N|||Latin lascivia 'lustfulness' ; -ous|ous|S
+tincture	noun	-tinct-|tinct|B|V|||Latin tingere 'to dye, tinge' ; -ure|ure|S
+trophic	adj	-troph-|troph|B|N|||Greek trophe 'food, nourishment' ; -ic|ic|S
+floret	noun	-flor-|flor|B|N|||Latin flos 'flower' ; -et|et|S
+immunodeficiency	noun	immuno-|immuno|P||||Latin immunis 'exempt, free' ; -defici-|defici|B|V|||Latin deficere 'to fail, lack' ; -ency|ency|S
+phosphorous	adj	-phosphor-|phosphor|B|N|||Greek phosphoros 'light-bringer' ; -ous|ous|S
+deuterium	noun	-deuter-|deuter|B|Adj|||Greek deuteros 'second' ; -ium|ium|S
+hysteric	adj	-hyster-|hyster|B|N|||Greek hystera 'womb' ; -ic|ic|S
+masochism	noun	=
+sultana	noun	=
+finial	noun	-fini-|fini|B|N|||Latin finis 'end' ; -al|al|S
+tabular	adj	-tabul-|tabul|B|N|||Latin tabula 'board, plank' ; -ar|ar|S
+applicator	noun	-applic-|applic|B|V|||Latin applicare 'to apply' ; -ator|ator|S
+truculent	adj	-trucul-|trucul|B|Adj|||Latin trux 'fierce, wild' ; -ent|ent|S
+expropriate	verb	ex-|ex|P ; -propri-|propri|B|Adj|||Latin proprius 'own, private' ; -ate|ate|S
+stenosis	noun	-sten-|sten|B|Adj|||Greek stenos 'narrow' ; -osis|osis|S
+fissile	adj	-fiss-|fiss|B|V|||Latin findere 'to split' ; -ile|ile|S
+bursar	noun	-burs-|burs|B|N|||Latin bursa 'purse' ; -ar|ar|S
+mechanize	verb	-mechan-|mechan|B|N|||Greek mechane 'machine, device' ; -ize|ize|S
