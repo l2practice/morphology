@@ -1,73 +1,1224 @@
+abibliophobia	noun	abiblio-|abiblio|B|N ; -phobia|phobia|B|N|||fear
+ablutophobia	noun	abluto-|abluto|B|N ; -phobia|phobia|B|N|||fear
 aborticide	noun	aborti-|aborti|B|N ; -cide|cide|B|V|||kill
-androcide	noun	andro-|andro|B|N ; -cide|cide|B|V|||kill
+absorptiometer	noun	absorptio-|absorptio|B|N ; -meter|meter|B|N|||measure
+acarology	noun	acaro-|acaro|B|N ; -logy|logy|B|N|||study, word
+acarophobia	noun	acaro-|acaro|B|N ; -phobia|phobia|B|N|||fear
+accelerometer	noun	accelero-|accelero|B|N ; -meter|meter|B|N|||measure
+accentology	noun	accento-|accento|B|N ; -logy|logy|B|N|||study, word
+acetimeter	noun	aceti-|aceti|B|N ; -meter|meter|B|N|||measure
+acidimeter	noun	acidi-|acidi|B|N ; -meter|meter|B|N|||measure
+acoumeter	noun	acou-|acou|B|N ; -meter|meter|B|N|||measure
+acrophobia	noun	acro-|acro|B|N ; -phobia|phobia|B|N|||fear
+actinobiology	noun	actinobio-|actinobio|B|N ; -logy|logy|B|N|||study, word
+actinometer	noun	actino-|actino|B|N ; -meter|meter|B|N|||measure
+adhocracy	noun	adho-|adho|B|N ; -cracy|cracy|B|N|||rule, power
+aerobiology	noun	aerobio-|aerobio|B|N ; -logy|logy|B|N|||study, word
+aerograph	noun	aero-|aero|B|N|||air ; -graph|graph|B|N|||write, record
+aerolithology	noun	aerolitho-|aerolitho|B|N ; -logy|logy|B|N|||study, word
+aerology	noun	aero-|aero|B|N|||air ; -logy|logy|B|N|||study, word
+aerometer	noun	aero-|aero|B|N|||air ; -meter|meter|B|N|||measure
+aerophobia	noun	aero-|aero|B|N|||air ; -phobia|phobia|B|N|||fear
+aerophone	noun	aero-|aero|B|N|||air ; -phone|phone|B|N|||sound
+aerophotograph	noun	aerophoto-|aerophoto|B|N ; -graph|graph|B|N|||write, record
+aeroscope	noun	aero-|aero|B|N|||air ; -scope|scope|B|N|||look at, see
+aetiology	noun	aetio-|aetio|B|N ; -logy|logy|B|N|||study, word
+agnotology	noun	agnoto-|agnoto|B|N ; -logy|logy|B|N|||study, word
+agoraphobia	noun	agora-|agora|B|N ; -phobia|phobia|B|N|||fear
+agrobiology	noun	agrobio-|agrobio|B|N ; -logy|logy|B|N|||study, word
+agroecology	noun	agroeco-|agroeco|B|N ; -logy|logy|B|N|||study, word
+agrogeology	noun	agrogeo-|agrogeo|B|N ; -logy|logy|B|N|||study, word
+agrology	noun	agro-|agro|B|N ; -logy|logy|B|N|||study, word
+agrometeorology	noun	agrometeoro-|agrometeoro|B|N ; -logy|logy|B|N|||study, word
+agrostology	noun	agrosto-|agrosto|B|N ; -logy|logy|B|N|||study, word
+aibohphobia	noun	aiboh-|aiboh|B|N ; -phobia|phobia|B|N|||fear
+ailihphilia	noun	ailih-|ailih|B|N ; -philia|philia|B|N|||love
+ailurophile	noun	ailuro-|ailuro|B|N ; -phile|phile|B|N|||lover
+ailurophobia	noun	ailuro-|ailuro|B|N ; -phobia|phobia|B|N|||fear
+alcohology	noun	alcoho-|alcoho|B|N ; -logy|logy|B|N|||study, word
+alcoholometer	noun	alcoholo-|alcoholo|B|N ; -meter|meter|B|N|||measure
+algology	noun	algo-|algo|B|N ; -logy|logy|B|N|||study, word
+algometer	noun	algo-|algo|B|N ; -meter|meter|B|N|||measure
+algophilia	noun	algo-|algo|B|N ; -philia|philia|B|N|||love
+algophobia	noun	algo-|algo|B|N ; -phobia|phobia|B|N|||fear
+allergology	noun	allergo-|allergo|B|N ; -logy|logy|B|N|||study, word
+allograph	noun	allo-|allo|B|N ; -graph|graph|B|N|||write, record
+allophone	noun	allo-|allo|B|N ; -phone|phone|B|N|||sound
+altigraph	noun	alti-|alti|B|N ; -graph|graph|B|N|||write, record
+altimeter	noun	alti-|alti|B|N ; -meter|meter|B|N|||measure
+amaxophobia	noun	amaxo-|amaxo|B|N ; -phobia|phobia|B|N|||fear
+ampelography	noun	ampelo-|ampelo|B|N ; -graphy|graphy|B|N|||writing, recording
+amphibiology	noun	amphibio-|amphibio|B|N ; -logy|logy|B|N|||study, word
+analogy	noun	ana-|ana|B|N|||up, back ; -logy|logy|B|N|||study, word
+androcide	noun	andro-|andro|B|N|||man ; -cide|cide|B|V|||kill
+andrology	noun	andro-|andro|B|N|||man ; -logy|logy|B|N|||study, word
+androphilia	noun	andro-|andro|B|N|||man ; -philia|philia|B|N|||love
+androphobia	noun	andro-|andro|B|N|||man ; -phobia|phobia|B|N|||fear
+anemometer	noun	anemo-|anemo|B|N ; -meter|meter|B|N|||measure
+anemoscope	noun	anemo-|anemo|B|N ; -scope|scope|B|N|||look at, see
+anesthesiology	noun	anesthesio-|anesthesio|B|N ; -logy|logy|B|N|||study, word
+aneurysmography	noun	aneurysmo-|aneurysmo|B|N ; -graphy|graphy|B|N|||writing, recording
+angelology	noun	angelo-|angelo|B|N ; -logy|logy|B|N|||study, word
+angiography	noun	angio-|angio|B|N ; -graphy|graphy|B|N|||writing, recording
+angiology	noun	angio-|angio|B|N ; -logy|logy|B|N|||study, word
+anocracy	noun	ano-|ano|B|N ; -cracy|cracy|B|N|||rule, power
+anthology	noun	antho-|antho|B|N ; -logy|logy|B|N|||study, word
+anthropogeography	noun	anthropogeo-|anthropogeo|B|N ; -graphy|graphy|B|N|||writing, recording
+anthropography	noun	anthropo-|anthropo|B|N|||human ; -graphy|graphy|B|N|||writing, recording
+anthropology	noun	anthropo-|anthropo|B|N|||human ; -logy|logy|B|N|||study, word
+anthropophobia	noun	anthropo-|anthropo|B|N|||human ; -phobia|phobia|B|N|||fear
+antilogy	noun	anti-|anti|B|N ; -logy|logy|B|N|||study, word
+aphasiology	noun	aphasio-|aphasio|B|N ; -logy|logy|B|N|||study, word
 aphidicide	noun	aphidi-|aphidi|B|N ; -cide|cide|B|V|||kill
+apiology	noun	apio-|apio|B|N ; -logy|logy|B|N|||study, word
+apograph	noun	apo-|apo|B|N ; -graph|graph|B|N|||write, record
+apology	noun	apo-|apo|B|N ; -logy|logy|B|N|||study, word
+aporophobia	noun	aporo-|aporo|B|N ; -phobia|phobia|B|N|||fear
+apotemnophilia	noun	apotemno-|apotemno|B|N ; -philia|philia|B|N|||love
+aquariology	noun	aquario-|aquario|B|N ; -logy|logy|B|N|||study, word
 arachnicide	noun	arachni-|arachni|B|N ; -cide|cide|B|V|||kill
+arachnology	noun	arachno-|arachno|B|N|||spider ; -logy|logy|B|N|||study, word
+arachnophobia	noun	arachno-|arachno|B|N|||spider ; -phobia|phobia|B|N|||fear
 arboricide	noun	arbori-|arbori|B|N ; -cide|cide|B|V|||kill
+archaeology	noun	archaeo-|archaeo|B|N ; -logy|logy|B|N|||study, word
+archaeopathology	noun	archaeopatho-|archaeopatho|B|N ; -logy|logy|B|N|||study, word
+archaeozoology	noun	archaeozoo-|archaeozoo|B|N ; -logy|logy|B|N|||study, word
+archontology	noun	archonto-|archonto|B|N ; -logy|logy|B|N|||study, word
+arcology	noun	arco-|arco|B|N ; -logy|logy|B|N|||study, word
+arctophile	noun	arcto-|arcto|B|N ; -phile|phile|B|N|||lover
+areography	noun	areo-|areo|B|N ; -graphy|graphy|B|N|||writing, recording
+areology	noun	areo-|areo|B|N ; -logy|logy|B|N|||study, word
+areometer	noun	areo-|areo|B|N ; -meter|meter|B|N|||measure
+aretalogy	noun	areta-|areta|B|N ; -logy|logy|B|N|||study, word
+aretology	noun	areto-|areto|B|N ; -logy|logy|B|N|||study, word
 aristocide	noun	aristo-|aristo|B|N ; -cide|cide|B|V|||kill
+aristocracy	noun	aristo-|aristo|B|N ; -cracy|cracy|B|N|||rule, power
+aristocrat	noun	aristo-|aristo|B|N ; -crat|crat|B|N|||ruler, member of a rule
+arithmometer	noun	arithmo-|arithmo|B|N ; -meter|meter|B|N|||measure
+arteriography	noun	arterio-|arterio|B|N ; -graphy|graphy|B|N|||writing, recording
+arthrology	noun	arthro-|arthro|B|N ; -logy|logy|B|N|||study, word
+arthrometer	noun	arthro-|arthro|B|N ; -meter|meter|B|N|||measure
+arthroscope	noun	arthro-|arthro|B|N ; -scope|scope|B|N|||look at, see
+asteroseismology	noun	asteroseismo-|asteroseismo|B|N ; -logy|logy|B|N|||study, word
+astrobiology	noun	astrobio-|astrobio|B|N ; -logy|logy|B|N|||study, word
+astrogeology	noun	astrogeo-|astrogeo|B|N ; -logy|logy|B|N|||study, word
+astrology	noun	astro-|astro|B|N|||star ; -logy|logy|B|N|||study, word
+astrometeorology	noun	astrometeoro-|astrometeoro|B|N ; -logy|logy|B|N|||study, word
+astrometer	noun	astro-|astro|B|N|||star ; -meter|meter|B|N|||measure
+atelophobia	noun	atelo-|atelo|B|N ; -phobia|phobia|B|N|||fear
+atheophobia	noun	atheo-|atheo|B|N ; -phobia|phobia|B|N|||fear
+atmometer	noun	atmo-|atmo|B|N ; -meter|meter|B|N|||measure
+audiograph	noun	audio-|audio|B|N ; -graph|graph|B|N|||write, record
+audiology	noun	audio-|audio|B|N ; -logy|logy|B|N|||study, word
+audiophile	noun	audio-|audio|B|N ; -phile|phile|B|N|||lover
+audiphone	noun	audi-|audi|B|N ; -phone|phone|B|N|||sound
+auriscope	noun	auri-|auri|B|N ; -scope|scope|B|N|||look at, see
+autarchy	noun	aut-|aut|B|N ; -archy|archy|B|N|||rule
+autecology	noun	auteco-|auteco|B|N ; -logy|logy|B|N|||study, word
+autocracy	noun	auto-|auto|B|N|||self ; -cracy|cracy|B|N|||rule, power
+autocrat	noun	auto-|auto|B|N|||self ; -crat|crat|B|N|||ruler, member of a rule
+autogynephilia	noun	autogyne-|autogyne|B|N ; -philia|philia|B|N|||love
+automatonophobia	noun	automatono-|automatono|B|N ; -phobia|phobia|B|N|||fear
+auxanometer	noun	auxano-|auxano|B|N ; -meter|meter|B|N|||measure
+auxology	noun	auxo-|auxo|B|N ; -logy|logy|B|N|||study, word
+axiology	noun	axio-|axio|B|N ; -logy|logy|B|N|||study, word
+bacillophobia	noun	bacillo-|bacillo|B|N ; -phobia|phobia|B|N|||fear
 bactericide	noun	bacteri-|bacteri|B|N ; -cide|cide|B|V|||kill
-biocide	noun	bio-|bio|B|N ; -cide|cide|B|V|||kill
+bacteriology	noun	bacterio-|bacterio|B|N ; -logy|logy|B|N|||study, word
+balneology	noun	balneo-|balneo|B|N ; -logy|logy|B|N|||study, word
+barograph	noun	baro-|baro|B|N ; -graph|graph|B|N|||write, record
+barometer	noun	baro-|baro|B|N ; -meter|meter|B|N|||measure
+baroscope	noun	baro-|baro|B|N ; -scope|scope|B|N|||look at, see
+bathometer	noun	batho-|batho|B|N ; -meter|meter|B|N|||measure
+bibliograph	noun	biblio-|biblio|B|N|||book ; -graph|graph|B|N|||write, record
+bibliography	noun	biblio-|biblio|B|N|||book ; -graphy|graphy|B|N|||writing, recording
+bibliology	noun	biblio-|biblio|B|N|||book ; -logy|logy|B|N|||study, word
+bibliophile	noun	biblio-|biblio|B|N|||book ; -phile|phile|B|N|||lover
+bibliophilia	noun	biblio-|biblio|B|N|||book ; -philia|philia|B|N|||love
+bibliophobia	noun	biblio-|biblio|B|N|||book ; -phobia|phobia|B|N|||fear
+biobibliography	noun	biobiblio-|biobiblio|B|N ; -graphy|graphy|B|N|||writing, recording
+biocide	noun	bio-|bio|B|N|||life ; -cide|cide|B|V|||kill
+bioclimatology	noun	bioclimato-|bioclimato|B|N ; -logy|logy|B|N|||study, word
+bioecology	noun	bioeco-|bioeco|B|N ; -logy|logy|B|N|||study, word
+biogeocenology	noun	biogeoceno-|biogeoceno|B|N ; -logy|logy|B|N|||study, word
+biogeography	noun	biogeo-|biogeo|B|N ; -graphy|graphy|B|N|||writing, recording
+biography	noun	bio-|bio|B|N|||life ; -graphy|graphy|B|N|||writing, recording
+biology	noun	bio-|bio|B|N|||life ; -logy|logy|B|N|||study, word
+biometeorology	noun	biometeoro-|biometeoro|B|N ; -logy|logy|B|N|||study, word
+biomicroscope	noun	biomicro-|biomicro|B|N ; -scope|scope|B|N|||look at, see
+biophilia	noun	bio-|bio|B|N|||life ; -philia|philia|B|N|||love
+bioscope	noun	bio-|bio|B|N|||life ; -scope|scope|B|N|||look at, see
+biostratigraphy	noun	biostrati-|biostrati|B|N ; -graphy|graphy|B|N|||writing, recording
+biotechnology	noun	biotechno-|biotechno|B|N ; -logy|logy|B|N|||study, word
+bolometer	noun	bolo-|bolo|B|N ; -meter|meter|B|N|||measure
+brachylogy	noun	brachy-|brachy|B|N ; -logy|logy|B|N|||study, word
+bromatology	noun	bromato-|bromato|B|N ; -logy|logy|B|N|||study, word
+bronchoscope	noun	broncho-|broncho|B|N ; -scope|scope|B|N|||look at, see
+bryology	noun	bryo-|bryo|B|N ; -logy|logy|B|N|||study, word
+bureaucracy	noun	bureau-|bureau|B|N ; -cracy|cracy|B|N|||rule, power
+bureaucrat	noun	bureau-|bureau|B|N ; -crat|crat|B|N|||ruler, member of a rule
+cacography	noun	caco-|caco|B|N ; -graphy|graphy|B|N|||writing, recording
+cacology	noun	caco-|caco|B|N ; -logy|logy|B|N|||study, word
+calciphile	noun	calci-|calci|B|N ; -phile|phile|B|N|||lover
+caliology	noun	calio-|calio|B|N ; -logy|logy|B|N|||study, word
+calligraph	noun	calli-|calli|B|N ; -graph|graph|B|N|||write, record
+calligraphy	noun	calli-|calli|B|N ; -graphy|graphy|B|N|||writing, recording
+calorimeter	noun	calori-|calori|B|N ; -meter|meter|B|N|||measure
+campanology	noun	campano-|campano|B|N ; -logy|logy|B|N|||study, word
+carcinology	noun	carcino-|carcino|B|N ; -logy|logy|B|N|||study, word
+cardiograph	noun	cardio-|cardio|B|N|||heart ; -graph|graph|B|N|||write, record
+cardiography	noun	cardio-|cardio|B|N|||heart ; -graphy|graphy|B|N|||writing, recording
+cardiology	noun	cardio-|cardio|B|N|||heart ; -logy|logy|B|N|||study, word
 carnivore	noun	carni-|carni|B|N|||flesh, meat ; -vore|vore|B|V|||eat
+carpology	noun	carpo-|carpo|B|N ; -logy|logy|B|N|||study, word
+cartography	noun	carto-|carto|B|N ; -graphy|graphy|B|N|||writing, recording
+cartology	noun	carto-|carto|B|N ; -logy|logy|B|N|||study, word
+cataphile	noun	cata-|cata|B|N|||down ; -phile|phile|B|N|||lover
+ceilometer	noun	ceilo-|ceilo|B|N ; -meter|meter|B|N|||measure
+cenology	noun	ceno-|ceno|B|N ; -logy|logy|B|N|||study, word
+centimeter	noun	centi-|centi|B|N|||hundred ; -meter|meter|B|N|||measure
+cerograph	noun	cero-|cero|B|N ; -graph|graph|B|N|||write, record
+cetology	noun	ceto-|ceto|B|N ; -logy|logy|B|N|||study, word
+chalcography	noun	chalco-|chalco|B|N ; -graphy|graphy|B|N|||writing, recording
+chirograph	noun	chiro-|chiro|B|N ; -graph|graph|B|N|||write, record
+cholangiography	noun	cholangio-|cholangio|B|N ; -graphy|graphy|B|N|||writing, recording
+cholangiopancreatography	noun	cholangiopancreato-|cholangiopancreato|B|N ; -graphy|graphy|B|N|||writing, recording
+chordophone	noun	chordo-|chordo|B|N ; -phone|phone|B|N|||sound
+choreograph	verb	choreo-|choreo|B|N ; -graph|graph|B|N|||write, record
+choreography	noun	choreo-|choreo|B|N ; -graphy|graphy|B|N|||writing, recording
+chorography	noun	choro-|choro|B|N ; -graphy|graphy|B|N|||writing, recording
+chorology	noun	choro-|choro|B|N ; -logy|logy|B|N|||study, word
+chromatograph	noun	chromato-|chromato|B|N ; -graph|graph|B|N|||write, record
+chromatography	noun	chromato-|chromato|B|N ; -graphy|graphy|B|N|||writing, recording
+chromolithograph	noun	chromolitho-|chromolitho|B|N ; -graph|graph|B|N|||write, record
+chronobiology	noun	chronobio-|chronobio|B|N ; -logy|logy|B|N|||study, word
+chronograph	noun	chrono-|chrono|B|N|||time ; -graph|graph|B|N|||write, record
+chronology	noun	chrono-|chrono|B|N|||time ; -logy|logy|B|N|||study, word
+chronometer	noun	chrono-|chrono|B|N|||time ; -meter|meter|B|N|||measure
+chronophobia	noun	chrono-|chrono|B|N|||time ; -phobia|phobia|B|N|||fear
+chronoscope	noun	chrono-|chrono|B|N|||time ; -scope|scope|B|N|||look at, see
+chronostratigraphy	noun	chronostrati-|chronostrati|B|N ; -graphy|graphy|B|N|||writing, recording
+cinemascope	noun	cinema-|cinema|B|N ; -scope|scope|B|N|||look at, see
+cinematograph	noun	cinemato-|cinemato|B|N ; -graph|graph|B|N|||write, record
+cinematography	noun	cinemato-|cinemato|B|N ; -graphy|graphy|B|N|||writing, recording
+cinephile	noun	cine-|cine|B|N|||movement ; -phile|phile|B|N|||lover
+cinephilia	noun	cine-|cine|B|N|||movement ; -philia|philia|B|N|||love
+claustrophile	noun	claustro-|claustro|B|N ; -phile|phile|B|N|||lover
+claustrophilia	noun	claustro-|claustro|B|N ; -philia|philia|B|N|||love
+claustrophobia	noun	claustro-|claustro|B|N ; -phobia|phobia|B|N|||fear
+climatology	noun	climato-|climato|B|N ; -logy|logy|B|N|||study, word
+clinometer	noun	clino-|clino|B|N ; -meter|meter|B|N|||measure
+codicology	noun	codico-|codico|B|N ; -logy|logy|B|N|||study, word
+coercimeter	noun	coerci-|coerci|B|N ; -meter|meter|B|N|||measure
+cohomology	noun	cohomo-|cohomo|B|N ; -logy|logy|B|N|||study, word
+coleopterology	noun	coleoptero-|coleoptero|B|N ; -logy|logy|B|N|||study, word
+colonoscope	noun	colono-|colono|B|N ; -scope|scope|B|N|||look at, see
+colorimeter	noun	colori-|colori|B|N ; -meter|meter|B|N|||measure
+colposcope	noun	colpo-|colpo|B|N ; -scope|scope|B|N|||look at, see
+comitology	noun	comito-|comito|B|N ; -logy|logy|B|N|||study, word
+comptometer	noun	compto-|compto|B|N ; -meter|meter|B|N|||measure
+conchology	noun	concho-|concho|B|N ; -logy|logy|B|N|||study, word
+coprology	noun	copro-|copro|B|N ; -logy|logy|B|N|||study, word
+coprophilia	noun	copro-|copro|B|N ; -philia|philia|B|N|||love
+coronagraph	noun	corona-|corona|B|N ; -graph|graph|B|N|||write, record
+coronograph	noun	corono-|corono|B|N ; -graph|graph|B|N|||write, record
+cosmetology	noun	cosmeto-|cosmeto|B|N ; -logy|logy|B|N|||study, word
+cosmocracy	noun	cosmo-|cosmo|B|N|||universe ; -cracy|cracy|B|N|||rule, power
+cosmocrat	noun	cosmo-|cosmo|B|N|||universe ; -crat|crat|B|N|||ruler, member of a rule
+cosmography	noun	cosmo-|cosmo|B|N|||universe ; -graphy|graphy|B|N|||writing, recording
+cosmology	noun	cosmo-|cosmo|B|N|||universe ; -logy|logy|B|N|||study, word
+cottonocracy	noun	cottono-|cottono|B|N ; -cracy|cracy|B|N|||rule, power
+coulometer	noun	coulo-|coulo|B|N ; -meter|meter|B|N|||measure
+coulrophobia	noun	coulro-|coulro|B|N ; -phobia|phobia|B|N|||fear
+craniology	noun	cranio-|cranio|B|N ; -logy|logy|B|N|||study, word
+criminology	noun	crimino-|crimino|B|N ; -logy|logy|B|N|||study, word
+cryobiology	noun	cryobio-|cryobio|B|N ; -logy|logy|B|N|||study, word
+cryoscope	noun	cryo-|cryo|B|N ; -scope|scope|B|N|||look at, see
+cryptocracy	noun	crypto-|crypto|B|N ; -cracy|cracy|B|N|||rule, power
+cryptograph	noun	crypto-|crypto|B|N ; -graph|graph|B|N|||write, record
+cryptography	noun	crypto-|crypto|B|N ; -graphy|graphy|B|N|||writing, recording
+cryptology	noun	crypto-|crypto|B|N ; -logy|logy|B|N|||study, word
+cryptozoology	noun	cryptozoo-|cryptozoo|B|N ; -logy|logy|B|N|||study, word
+crystallography	noun	crystallo-|crystallo|B|N ; -graphy|graphy|B|N|||writing, recording
+culturology	noun	culturo-|culturo|B|N ; -logy|logy|B|N|||study, word
+cyclograph	noun	cyclo-|cyclo|B|N ; -graph|graph|B|N|||write, record
+cyclometer	noun	cyclo-|cyclo|B|N ; -meter|meter|B|N|||measure
+cyclonoscope	noun	cyclono-|cyclono|B|N ; -scope|scope|B|N|||look at, see
+cymometer	noun	cymo-|cymo|B|N ; -meter|meter|B|N|||measure
+cynology	noun	cyno-|cyno|B|N ; -logy|logy|B|N|||study, word
+cynophile	noun	cyno-|cyno|B|N ; -phile|phile|B|N|||lover
+cynophobia	noun	cyno-|cyno|B|N ; -phobia|phobia|B|N|||fear
+cystoscope	noun	cysto-|cysto|B|N ; -scope|scope|B|N|||look at, see
+cytology	noun	cyto-|cyto|B|N ; -logy|logy|B|N|||study, word
+cytopathology	noun	cytopatho-|cytopatho|B|N ; -logy|logy|B|N|||study, word
+dactyliography	noun	dactylio-|dactylio|B|N ; -graphy|graphy|B|N|||writing, recording
+dactylography	noun	dactylo-|dactylo|B|N ; -graphy|graphy|B|N|||writing, recording
+dactylology	noun	dactylo-|dactylo|B|N ; -logy|logy|B|N|||study, word
+decalogy	noun	deca-|deca|B|N ; -logy|logy|B|N|||study, word
+declinometer	noun	declino-|declino|B|N ; -meter|meter|B|N|||measure
 deicide	noun	dei-|dei|B|N ; -cide|cide|B|V|||kill
-democide	noun	demo-|demo|B|N ; -cide|cide|B|V|||kill
+deltiology	noun	deltio-|deltio|B|N ; -logy|logy|B|N|||study, word
+democide	noun	demo-|demo|B|N|||people ; -cide|cide|B|V|||kill
+democracy	noun	demo-|demo|B|N|||people ; -cracy|cracy|B|N|||rule, power
+democrat	noun	demo-|demo|B|N|||people ; -crat|crat|B|N|||ruler, member of a rule
+demography	noun	demo-|demo|B|N|||people ; -graphy|graphy|B|N|||writing, recording
+demonology	noun	demono-|demono|B|N ; -logy|logy|B|N|||study, word
+demophobia	noun	demo-|demo|B|N|||people ; -phobia|phobia|B|N|||fear
+dendrochronology	noun	dendrochrono-|dendrochrono|B|N ; -logy|logy|B|N|||study, word
+dendroclimatology	noun	dendroclimato-|dendroclimato|B|N ; -logy|logy|B|N|||study, word
+dendrology	noun	dendro-|dendro|B|N ; -logy|logy|B|N|||study, word
+dendrophile	noun	dendro-|dendro|B|N ; -phile|phile|B|N|||lover
+densimeter	noun	densi-|densi|B|N ; -meter|meter|B|N|||measure
+densitometer	noun	densito-|densito|B|N ; -meter|meter|B|N|||measure
+deontology	noun	deonto-|deonto|B|N ; -logy|logy|B|N|||study, word
+dermatology	noun	dermato-|dermato|B|N|||skin ; -logy|logy|B|N|||study, word
+desertology	noun	deserto-|deserto|B|N ; -logy|logy|B|N|||study, word
 detritivore	noun	detriti-|detriti|B|N ; -vore|vore|B|V|||eat
-ecocide	noun	eco-|eco|B|N ; -cide|cide|B|V|||kill
-ethnocide	noun	ethno-|ethno|B|N ; -cide|cide|B|V|||kill
+diabetology	noun	diabeto-|diabeto|B|N ; -logy|logy|B|N|||study, word
+dialectology	noun	dialecto-|dialecto|B|N ; -logy|logy|B|N|||study, word
+diameter	noun	dia-|dia|B|N|||through ; -meter|meter|B|N|||measure
+diaphone	noun	dia-|dia|B|N|||through ; -phone|phone|B|N|||sound
+dictaphone	noun	dicta-|dicta|B|N ; -phone|phone|B|N|||sound
+dictograph	noun	dicto-|dicto|B|N ; -graph|graph|B|N|||write, record
+dioptometer	noun	diopto-|diopto|B|N ; -meter|meter|B|N|||measure
+discography	noun	disco-|disco|B|N ; -graphy|graphy|B|N|||writing, recording
+discophile	noun	disco-|disco|B|N ; -phile|phile|B|N|||lover
+dittography	noun	ditto-|ditto|B|N ; -graphy|graphy|B|N|||writing, recording
+dittology	noun	ditto-|ditto|B|N ; -logy|logy|B|N|||study, word
+dodecameter	noun	dodeca-|dodeca|B|N ; -meter|meter|B|N|||measure
+dosimeter	noun	dosi-|dosi|B|N ; -meter|meter|B|N|||measure
+dosology	noun	doso-|doso|B|N ; -logy|logy|B|N|||study, word
+doxology	noun	doxo-|doxo|B|N ; -logy|logy|B|N|||study, word
+drosometer	noun	droso-|droso|B|N ; -meter|meter|B|N|||measure
+drunkometer	noun	drunko-|drunko|B|N ; -meter|meter|B|N|||measure
+durometer	noun	duro-|duro|B|N ; -meter|meter|B|N|||measure
+ebullioscope	noun	ebullio-|ebullio|B|N ; -scope|scope|B|N|||look at, see
+ecclesiology	noun	ecclesio-|ecclesio|B|N ; -logy|logy|B|N|||study, word
+eccrinology	noun	eccrino-|eccrino|B|N ; -logy|logy|B|N|||study, word
+echocardiography	noun	echocardio-|echocardio|B|N ; -graphy|graphy|B|N|||writing, recording
+echography	noun	echo-|echo|B|N ; -graphy|graphy|B|N|||writing, recording
+ecocide	noun	eco-|eco|B|N|||house, environment ; -cide|cide|B|V|||kill
+ecology	noun	eco-|eco|B|N|||house, environment ; -logy|logy|B|N|||study, word
+ecomusicology	noun	ecomusico-|ecomusico|B|N ; -logy|logy|B|N|||study, word
+ecophysiology	noun	ecophysio-|ecophysio|B|N ; -logy|logy|B|N|||study, word
+edaphology	noun	edapho-|edapho|B|N ; -logy|logy|B|N|||study, word
+educology	noun	educo-|educo|B|N ; -logy|logy|B|N|||study, word
+eidograph	noun	eido-|eido|B|N ; -graph|graph|B|N|||write, record
+electrobiology	noun	electrobio-|electrobio|B|N ; -logy|logy|B|N|||study, word
+electrocardiograph	noun	electrocardio-|electrocardio|B|N ; -graph|graph|B|N|||write, record
+electrocardiography	noun	electrocardio-|electrocardio|B|N ; -graphy|graphy|B|N|||writing, recording
+electrodynamometer	noun	electrodynamo-|electrodynamo|B|N ; -meter|meter|B|N|||measure
+electroencephalograph	noun	electroencephalo-|electroencephalo|B|N ; -graph|graph|B|N|||write, record
+electroencephalography	noun	electroencephalo-|electroencephalo|B|N ; -graphy|graphy|B|N|||writing, recording
+electrograph	noun	electro-|electro|B|N ; -graph|graph|B|N|||write, record
+electrography	noun	electro-|electro|B|N ; -graphy|graphy|B|N|||writing, recording
+electrology	noun	electro-|electro|B|N ; -logy|logy|B|N|||study, word
+electrometer	noun	electro-|electro|B|N ; -meter|meter|B|N|||measure
+electromyograph	noun	electromyo-|electromyo|B|N ; -graph|graph|B|N|||write, record
+electromyography	noun	electromyo-|electromyo|B|N ; -graphy|graphy|B|N|||writing, recording
+electronystagmography	noun	electronystagmo-|electronystagmo|B|N ; -graphy|graphy|B|N|||writing, recording
+electrophile	noun	electro-|electro|B|N ; -phile|phile|B|N|||lover
+electrophotography	noun	electrophoto-|electrophoto|B|N ; -graphy|graphy|B|N|||writing, recording
+electrophysiology	noun	electrophysio-|electrophysio|B|N ; -logy|logy|B|N|||study, word
+electroretinograph	noun	electroretino-|electroretino|B|N ; -graph|graph|B|N|||write, record
+electroretinography	noun	electroretino-|electroretino|B|N ; -graphy|graphy|B|N|||writing, recording
+electroscope	noun	electro-|electro|B|N ; -scope|scope|B|N|||look at, see
+electrotechnology	noun	electrotechno-|electrotechno|B|N ; -logy|logy|B|N|||study, word
+electrotelegraphy	noun	electrotele-|electrotele|B|N ; -graphy|graphy|B|N|||writing, recording
+ellipsograph	noun	ellipso-|ellipso|B|N ; -graph|graph|B|N|||write, record
+embryology	noun	embryo-|embryo|B|N ; -logy|logy|B|N|||study, word
+emetophilia	noun	emeto-|emeto|B|N ; -philia|philia|B|N|||love
+emetophobia	noun	emeto-|emeto|B|N ; -phobia|phobia|B|N|||fear
+encephalography	noun	encephalo-|encephalo|B|N ; -graphy|graphy|B|N|||writing, recording
+endemiology	noun	endemio-|endemio|B|N ; -logy|logy|B|N|||study, word
+endocrinology	noun	endocrino-|endocrino|B|N ; -logy|logy|B|N|||study, word
+endoscope	noun	endo-|endo|B|N ; -scope|scope|B|N|||look at, see
+ennealogy	noun	ennea-|ennea|B|N ; -logy|logy|B|N|||study, word
+enterology	noun	entero-|entero|B|N ; -logy|logy|B|N|||study, word
+entomology	noun	entomo-|entomo|B|N|||insect ; -logy|logy|B|N|||study, word
+entomophobia	noun	entomo-|entomo|B|N|||insect ; -phobia|phobia|B|N|||fear
+enzymology	noun	enzymo-|enzymo|B|N ; -logy|logy|B|N|||study, word
+eosinophilia	noun	eosino-|eosino|B|N ; -philia|philia|B|N|||love
+epidemiology	noun	epidemio-|epidemio|B|N ; -logy|logy|B|N|||study, word
+epidiascope	noun	epidia-|epidia|B|N ; -scope|scope|B|N|||look at, see
+epigraph	noun	epi-|epi|B|N ; -graph|graph|B|N|||write, record
+epigraphy	noun	epi-|epi|B|N ; -graphy|graphy|B|N|||writing, recording
+episcope	noun	epi-|epi|B|N ; -scope|scope|B|N|||look at, see
+epistemology	noun	epistemo-|epistemo|B|N ; -logy|logy|B|N|||study, word
+epizootiology	noun	epizootio-|epizootio|B|N ; -logy|logy|B|N|||study, word
+ergatocracy	noun	ergato-|ergato|B|N ; -cracy|cracy|B|N|||rule, power
+ergograph	noun	ergo-|ergo|B|N ; -graph|graph|B|N|||write, record
+ergology	noun	ergo-|ergo|B|N ; -logy|logy|B|N|||study, word
+ergometer	noun	ergo-|ergo|B|N ; -meter|meter|B|N|||measure
+erotology	noun	eroto-|eroto|B|N ; -logy|logy|B|N|||study, word
+erythrocytometer	noun	erythrocyto-|erythrocyto|B|N ; -meter|meter|B|N|||measure
+escapology	noun	escapo-|escapo|B|N ; -logy|logy|B|N|||study, word
+eschatology	noun	eschato-|eschato|B|N ; -logy|logy|B|N|||study, word
+esthesiometer	noun	esthesio-|esthesio|B|N ; -meter|meter|B|N|||measure
+ethnocide	noun	ethno-|ethno|B|N|||race, people ; -cide|cide|B|V|||kill
+ethnocracy	noun	ethno-|ethno|B|N|||race, people ; -cracy|cracy|B|N|||rule, power
+ethnography	noun	ethno-|ethno|B|N|||race, people ; -graphy|graphy|B|N|||writing, recording
+ethnology	noun	ethno-|ethno|B|N|||race, people ; -logy|logy|B|N|||study, word
+ethnomethodology	noun	ethnomethodo-|ethnomethodo|B|N ; -logy|logy|B|N|||study, word
+ethnomusicology	noun	ethnomusico-|ethnomusico|B|N ; -logy|logy|B|N|||study, word
+ethnopsychology	noun	ethnopsycho-|ethnopsycho|B|N ; -logy|logy|B|N|||study, word
+ethnozoology	noun	ethnozoo-|ethnozoo|B|N ; -logy|logy|B|N|||study, word
+ethography	noun	etho-|etho|B|N ; -graphy|graphy|B|N|||writing, recording
+ethology	noun	etho-|etho|B|N ; -logy|logy|B|N|||study, word
+etymology	noun	etymo-|etymo|B|N|||true meaning ; -logy|logy|B|N|||study, word
+eudiometer	noun	eudio-|eudio|B|N ; -meter|meter|B|N|||measure
+evaporimeter	noun	evapori-|evapori|B|N ; -meter|meter|B|N|||measure
+exobiology	noun	exobio-|exobio|B|N ; -logy|logy|B|N|||study, word
+extensometer	noun	extenso-|extenso|B|N ; -meter|meter|B|N|||measure
+extremophile	noun	extremo-|extremo|B|N ; -phile|phile|B|N|||lover
+faunology	noun	fauno-|fauno|B|N ; -logy|logy|B|N|||study, word
 femicide	noun	femi-|femi|B|N ; -cide|cide|B|V|||kill
+feminology	noun	femino-|femino|B|N ; -logy|logy|B|N|||study, word
+fermentology	noun	fermento-|fermento|B|N ; -logy|logy|B|N|||study, word
 feticide	noun	feti-|feti|B|N ; -cide|cide|B|V|||kill
 filicide	noun	fili-|fili|B|N ; -cide|cide|B|V|||kill
+filicology	noun	filico-|filico|B|N ; -logy|logy|B|N|||study, word
+filmography	noun	filmo-|filmo|B|N ; -graphy|graphy|B|N|||writing, recording
+flexography	noun	flexo-|flexo|B|N ; -graphy|graphy|B|N|||writing, recording
+floodometer	noun	floodo-|floodo|B|N ; -meter|meter|B|N|||measure
+floriography	noun	florio-|florio|B|N ; -graphy|graphy|B|N|||writing, recording
+fluorography	noun	fluoro-|fluoro|B|N ; -graphy|graphy|B|N|||writing, recording
+fluoroscope	noun	fluoro-|fluoro|B|N ; -scope|scope|B|N|||look at, see
+fluviograph	noun	fluvio-|fluvio|B|N ; -graph|graph|B|N|||write, record
 folivore	noun	foli-|foli|B|N ; -vore|vore|B|V|||eat
+foolocracy	noun	foolo-|foolo|B|N ; -cracy|cracy|B|N|||rule, power
+fossilology	noun	fossilo-|fossilo|B|N ; -logy|logy|B|N|||study, word
 fratricide	noun	fratri-|fratri|B|N|||brother ; -cide|cide|B|V|||kill
 frugivore	noun	frugi-|frugi|B|N|||fruit ; -vore|vore|B|V|||eat
 fungicide	noun	fungi-|fungi|B|N|||fungus ; -cide|cide|B|V|||kill
+futurology	noun	futuro-|futuro|B|N ; -logy|logy|B|N|||study, word
+galeophobia	noun	galeo-|galeo|B|N ; -phobia|phobia|B|N|||fear
+galvanography	noun	galvano-|galvano|B|N ; -graphy|graphy|B|N|||writing, recording
+galvanometer	noun	galvano-|galvano|B|N ; -meter|meter|B|N|||measure
+galvanoscope	noun	galvano-|galvano|B|N ; -scope|scope|B|N|||look at, see
+gametophobia	noun	gameto-|gameto|B|N ; -phobia|phobia|B|N|||fear
+gasometer	noun	gaso-|gaso|B|N ; -meter|meter|B|N|||measure
+gastroenterology	noun	gastroentero-|gastroentero|B|N ; -logy|logy|B|N|||study, word
+gastrology	noun	gastro-|gastro|B|N|||stomach ; -logy|logy|B|N|||study, word
+gastroscope	noun	gastro-|gastro|B|N|||stomach ; -scope|scope|B|N|||look at, see
+gelotology	noun	geloto-|geloto|B|N ; -logy|logy|B|N|||study, word
+gemmology	noun	gemmo-|gemmo|B|N ; -logy|logy|B|N|||study, word
+gemology	noun	gemo-|gemo|B|N ; -logy|logy|B|N|||study, word
+genealogy	noun	genea-|genea|B|N ; -logy|logy|B|N|||study, word
 genocide	noun	geno-|geno|B|N|||race, kind ; -cide|cide|B|V|||kill
+genophobia	noun	geno-|geno|B|N|||race, kind ; -phobia|phobia|B|N|||fear
+geochronology	noun	geochrono-|geochrono|B|N ; -logy|logy|B|N|||study, word
+geography	noun	geo-|geo|B|N|||earth ; -graphy|graphy|B|N|||writing, recording
+geology	noun	geo-|geo|B|N|||earth ; -logy|logy|B|N|||study, word
+geomorphology	noun	geomorpho-|geomorpho|B|N ; -logy|logy|B|N|||study, word
+geophone	noun	geo-|geo|B|N|||earth ; -phone|phone|B|N|||sound
+gephyrophobia	noun	gephyro-|gephyro|B|N ; -phobia|phobia|B|N|||fear
+geratology	noun	gerato-|gerato|B|N ; -logy|logy|B|N|||study, word
+germanophilia	noun	germano-|germano|B|N ; -philia|philia|B|N|||love
 germicide	noun	germi-|germi|B|N|||germ ; -cide|cide|B|V|||kill
+gerontocracy	noun	geronto-|geronto|B|N|||old age ; -cracy|cracy|B|N|||rule, power
+gerontocrat	noun	geronto-|geronto|B|N|||old age ; -crat|crat|B|N|||ruler, member of a rule
+gerontology	noun	geronto-|geronto|B|N|||old age ; -logy|logy|B|N|||study, word
+gerontophilia	noun	geronto-|geronto|B|N|||old age ; -philia|philia|B|N|||love
+gerontophobia	noun	geronto-|geronto|B|N|||old age ; -phobia|phobia|B|N|||fear
+glaciology	noun	glacio-|glacio|B|N ; -logy|logy|B|N|||study, word
+glossograph	noun	glosso-|glosso|B|N ; -graph|graph|B|N|||write, record
+glossology	noun	glosso-|glosso|B|N ; -logy|logy|B|N|||study, word
+glottochronology	noun	glottochrono-|glottochrono|B|N ; -logy|logy|B|N|||study, word
+glottology	noun	glotto-|glotto|B|N ; -logy|logy|B|N|||study, word
+glucometer	noun	gluco-|gluco|B|N ; -meter|meter|B|N|||measure
+glyptograph	noun	glypto-|glypto|B|N ; -graph|graph|B|N|||write, record
+glyptography	noun	glypto-|glypto|B|N ; -graphy|graphy|B|N|||writing, recording
+gnoseology	noun	gnoseo-|gnoseo|B|N ; -logy|logy|B|N|||study, word
+goniometer	noun	gonio-|gonio|B|N ; -meter|meter|B|N|||measure
+gradiometer	noun	gradio-|gradio|B|N ; -meter|meter|B|N|||measure
 graminivore	noun	gramini-|gramini|B|N ; -vore|vore|B|V|||eat
+gramophone	noun	gramo-|gramo|B|N ; -phone|phone|B|N|||sound
 granivore	noun	grani-|grani|B|N ; -vore|vore|B|V|||eat
+graphology	noun	grapho-|grapho|B|N ; -logy|logy|B|N|||study, word
+graphometer	noun	grapho-|grapho|B|N ; -meter|meter|B|N|||measure
+gravimeter	noun	gravi-|gravi|B|N ; -meter|meter|B|N|||measure
+gymnophobia	noun	gymno-|gymno|B|N ; -phobia|phobia|B|N|||fear
+gynarchy	noun	gyn-|gyn|B|N ; -archy|archy|B|N|||rule
+gynecocracy	noun	gyneco-|gyneco|B|N ; -cracy|cracy|B|N|||rule, power
+gynecology	noun	gyneco-|gyneco|B|N ; -logy|logy|B|N|||study, word
+gynephilia	noun	gyne-|gyne|B|N ; -philia|philia|B|N|||love
+gynophobia	noun	gyno-|gyno|B|N|||woman ; -phobia|phobia|B|N|||fear
+gypsiology	noun	gypsio-|gypsio|B|N ; -logy|logy|B|N|||study, word
+gyroscope	noun	gyro-|gyro|B|N ; -scope|scope|B|N|||look at, see
+haematology	noun	haemato-|haemato|B|N ; -logy|logy|B|N|||study, word
+haemophilia	noun	haemo-|haemo|B|N ; -philia|philia|B|N|||love
+hagiography	noun	hagio-|hagio|B|N ; -graphy|graphy|B|N|||writing, recording
+hagiology	noun	hagio-|hagio|B|N ; -logy|logy|B|N|||study, word
+halography	noun	halo-|halo|B|N ; -graphy|graphy|B|N|||writing, recording
+halometer	noun	halo-|halo|B|N ; -meter|meter|B|N|||measure
+halophile	noun	halo-|halo|B|N ; -phile|phile|B|N|||lover
+haplography	noun	haplo-|haplo|B|N ; -graphy|graphy|B|N|||writing, recording
+haplology	noun	haplo-|haplo|B|N ; -logy|logy|B|N|||study, word
+hectograph	noun	hecto-|hecto|B|N ; -graph|graph|B|N|||write, record
+heliograph	noun	helio-|helio|B|N ; -graph|graph|B|N|||write, record
+heliography	noun	helio-|helio|B|N ; -graphy|graphy|B|N|||writing, recording
+heliometer	noun	helio-|helio|B|N ; -meter|meter|B|N|||measure
+helioscope	noun	helio-|helio|B|N ; -scope|scope|B|N|||look at, see
+helioseismology	noun	helioseismo-|helioseismo|B|N ; -logy|logy|B|N|||study, word
+helminthology	noun	helmintho-|helmintho|B|N ; -logy|logy|B|N|||study, word
+hematology	noun	hemato-|hemato|B|N ; -logy|logy|B|N|||study, word
+hemerology	noun	hemero-|hemero|B|N ; -logy|logy|B|N|||study, word
 hemovore	noun	hemo-|hemo|B|N|||blood ; -vore|vore|B|V|||eat
+hepatology	noun	hepato-|hepato|B|N|||liver ; -logy|logy|B|N|||study, word
+heptalogy	noun	hepta-|hepta|B|N ; -logy|logy|B|N|||study, word
+heptameter	noun	hepta-|hepta|B|N ; -meter|meter|B|N|||measure
+heptarchy	noun	hept-|hept|B|N ; -archy|archy|B|N|||rule
 herbicide	noun	herbi-|herbi|B|N|||herb, plant ; -cide|cide|B|V|||kill
 herbivore	noun	herbi-|herbi|B|N|||herb, plant ; -vore|vore|B|V|||eat
+heresiology	noun	heresio-|heresio|B|N ; -logy|logy|B|N|||study, word
+herpetology	noun	herpeto-|herpeto|B|N|||reptile ; -logy|logy|B|N|||study, word
+heteropatriarchy	noun	heteropatri-|heteropatri|B|N ; -archy|archy|B|N|||rule
+heterophobia	noun	hetero-|hetero|B|N|||other ; -phobia|phobia|B|N|||fear
+hexakosioihexekontahexaphobia	noun	hexakosioihexekontahexa-|hexakosioihexekontahexa|B|N ; -phobia|phobia|B|N|||fear
+hexalogy	noun	hexa-|hexa|B|N ; -logy|logy|B|N|||study, word
+hexameter	noun	hexa-|hexa|B|N ; -meter|meter|B|N|||measure
+hexarchy	noun	hex-|hex|B|N ; -archy|archy|B|N|||rule
+hierarchy	noun	hier-|hier|B|N ; -archy|archy|B|N|||rule
+hierocracy	noun	hiero-|hiero|B|N ; -cracy|cracy|B|N|||rule, power
+hierograph	noun	hiero-|hiero|B|N ; -graph|graph|B|N|||write, record
+hippology	noun	hippo-|hippo|B|N ; -logy|logy|B|N|||study, word
+hippophobia	noun	hippo-|hippo|B|N ; -phobia|phobia|B|N|||fear
+hippopotomonstrosesquipedaliophobia	noun	hippopotomonstrosesquipedalio-|hippopotomonstrosesquipedalio|B|N ; -phobia|phobia|B|N|||fear
+histology	noun	histo-|histo|B|N ; -logy|logy|B|N|||study, word
+histopathology	noun	histopatho-|histopatho|B|N ; -logy|logy|B|N|||study, word
+histophysiology	noun	histophysio-|histophysio|B|N ; -logy|logy|B|N|||study, word
+historiography	noun	historio-|historio|B|N ; -graphy|graphy|B|N|||writing, recording
+hodograph	noun	hodo-|hodo|B|N ; -graph|graph|B|N|||write, record
+hodophile	noun	hodo-|hodo|B|N ; -phile|phile|B|N|||lover
+hodophilia	noun	hodo-|hodo|B|N ; -philia|philia|B|N|||love
+hodophobia	noun	hodo-|hodo|B|N ; -phobia|phobia|B|N|||fear
+hodoscope	noun	hodo-|hodo|B|N ; -scope|scope|B|N|||look at, see
+holograph	noun	holo-|holo|B|N ; -graph|graph|B|N|||write, record
+holography	noun	holo-|holo|B|N ; -graphy|graphy|B|N|||writing, recording
 homicide	noun	homi-|homi|B|N|||man, human ; -cide|cide|B|V|||kill
+homograph	noun	homo-|homo|B|N|||same ; -graph|graph|B|N|||write, record
+homology	noun	homo-|homo|B|N|||same ; -logy|logy|B|N|||study, word
+homopatriarchy	noun	homopatri-|homopatri|B|N ; -archy|archy|B|N|||rule
+homophile	noun	homo-|homo|B|N|||same ; -phile|phile|B|N|||lover
+homophobia	noun	homo-|homo|B|N|||same ; -phobia|phobia|B|N|||fear
+homophone	noun	homo-|homo|B|N|||same ; -phone|phone|B|N|||sound
+horology	noun	horo-|horo|B|N ; -logy|logy|B|N|||study, word
+horoscope	noun	horo-|horo|B|N ; -scope|scope|B|N|||look at, see
+hydrobiology	noun	hydrobio-|hydrobio|B|N ; -logy|logy|B|N|||study, word
+hydrogeology	noun	hydrogeo-|hydrogeo|B|N ; -logy|logy|B|N|||study, word
+hydrography	noun	hydro-|hydro|B|N|||water ; -graphy|graphy|B|N|||writing, recording
+hydrology	noun	hydro-|hydro|B|N|||water ; -logy|logy|B|N|||study, word
+hydrometeorology	noun	hydrometeoro-|hydrometeoro|B|N ; -logy|logy|B|N|||study, word
+hydrometer	noun	hydro-|hydro|B|N|||water ; -meter|meter|B|N|||measure
+hydrophile	noun	hydro-|hydro|B|N|||water ; -phile|phile|B|N|||lover
+hydrophobia	noun	hydro-|hydro|B|N|||water ; -phobia|phobia|B|N|||fear
+hydrophone	noun	hydro-|hydro|B|N|||water ; -phone|phone|B|N|||sound
+hydroscope	noun	hydro-|hydro|B|N|||water ; -scope|scope|B|N|||look at, see
+hyetograph	noun	hyeto-|hyeto|B|N ; -graph|graph|B|N|||write, record
+hygrograph	noun	hygro-|hygro|B|N ; -graph|graph|B|N|||write, record
+hygrometer	noun	hygro-|hygro|B|N ; -meter|meter|B|N|||measure
+hygroscope	noun	hygro-|hygro|B|N ; -scope|scope|B|N|||look at, see
+hymnography	noun	hymno-|hymno|B|N ; -graphy|graphy|B|N|||writing, recording
+hymnology	noun	hymno-|hymno|B|N ; -logy|logy|B|N|||study, word
+hypercohomology	noun	hypercohomo-|hypercohomo|B|N ; -logy|logy|B|N|||study, word
+hypergraph	noun	hyper-|hyper|B|N ; -graph|graph|B|N|||write, record
+hyperhomology	noun	hyperhomo-|hyperhomo|B|N ; -logy|logy|B|N|||study, word
+hypnology	noun	hypno-|hypno|B|N ; -logy|logy|B|N|||study, word
+hypsography	noun	hypso-|hypso|B|N ; -graphy|graphy|B|N|||writing, recording
+hypsometer	noun	hypso-|hypso|B|N ; -meter|meter|B|N|||measure
+ichnography	noun	ichno-|ichno|B|N ; -graphy|graphy|B|N|||writing, recording
+ichnology	noun	ichno-|ichno|B|N ; -logy|logy|B|N|||study, word
+ichthyology	noun	ichthyo-|ichthyo|B|N|||fish ; -logy|logy|B|N|||study, word
+iconography	noun	icono-|icono|B|N ; -graphy|graphy|B|N|||writing, recording
+iconology	noun	icono-|icono|B|N ; -logy|logy|B|N|||study, word
+iconometer	noun	icono-|icono|B|N ; -meter|meter|B|N|||measure
+iconoscope	noun	icono-|icono|B|N ; -scope|scope|B|N|||look at, see
+ideograph	noun	ideo-|ideo|B|N ; -graph|graph|B|N|||write, record
+ideography	noun	ideo-|ideo|B|N ; -graphy|graphy|B|N|||writing, recording
+ideology	noun	ideo-|ideo|B|N ; -logy|logy|B|N|||study, word
+ideophone	noun	ideo-|ideo|B|N ; -phone|phone|B|N|||sound
+idiocracy	noun	idio-|idio|B|N ; -cracy|cracy|B|N|||rule, power
+idiograph	noun	idio-|idio|B|N ; -graph|graph|B|N|||write, record
+idiophone	noun	idio-|idio|B|N ; -phone|phone|B|N|||sound
+illuminometer	noun	illumino-|illumino|B|N ; -meter|meter|B|N|||measure
+immunobiology	noun	immunobio-|immunobio|B|N ; -logy|logy|B|N|||study, word
+immunology	noun	immuno-|immuno|B|N ; -logy|logy|B|N|||study, word
+inclinometer	noun	inclino-|inclino|B|N ; -meter|meter|B|N|||measure
 infanticide	noun	infanti-|infanti|B|N|||infant ; -cide|cide|B|V|||kill
+infectiology	noun	infectio-|infectio|B|N ; -logy|logy|B|N|||study, word
 insecticide	noun	insecti-|insecti|B|N|||insect ; -cide|cide|B|V|||kill
 insectivore	noun	insecti-|insecti|B|N|||insect ; -vore|vore|B|V|||eat
+insectology	noun	insecto-|insecto|B|N ; -logy|logy|B|N|||study, word
+interferometer	noun	interfero-|interfero|B|N ; -meter|meter|B|N|||measure
+intervalometer	noun	intervalo-|intervalo|B|N ; -meter|meter|B|N|||measure
+isocracy	noun	iso-|iso|B|N ; -cracy|cracy|B|N|||rule, power
+isocrat	noun	iso-|iso|B|N ; -crat|crat|B|N|||ruler, member of a rule
+isophone	noun	iso-|iso|B|N ; -phone|phone|B|N|||sound
+ithyphallophobia	noun	ithyphallo-|ithyphallo|B|N ; -phobia|phobia|B|N|||fear
+kakistocracy	noun	kakisto-|kakisto|B|N ; -cracy|cracy|B|N|||rule, power
+kaleidoscope	noun	kaleido-|kaleido|B|N ; -scope|scope|B|N|||look at, see
+karyology	noun	karyo-|karyo|B|N ; -logy|logy|B|N|||study, word
+keraunophobia	noun	kerauno-|kerauno|B|N ; -phobia|phobia|B|N|||fear
+kinescope	noun	kine-|kine|B|N ; -scope|scope|B|N|||look at, see
+kinesiology	noun	kinesio-|kinesio|B|N ; -logy|logy|B|N|||study, word
+kinetograph	noun	kineto-|kineto|B|N ; -graph|graph|B|N|||write, record
+kleptocracy	noun	klepto-|klepto|B|N ; -cracy|cracy|B|N|||rule, power
+kleptocrat	noun	klepto-|klepto|B|N ; -crat|crat|B|N|||ruler, member of a rule
+kymograph	noun	kymo-|kymo|B|N ; -graph|graph|B|N|||write, record
+kyriarchy	noun	kyri-|kyri|B|N ; -archy|archy|B|N|||rule
+lachanophobia	noun	lachano-|lachano|B|N ; -phobia|phobia|B|N|||fear
+lactometer	noun	lacto-|lacto|B|N ; -meter|meter|B|N|||measure
+landocracy	noun	lando-|lando|B|N ; -cracy|cracy|B|N|||rule, power
+laparoscope	noun	laparo-|laparo|B|N ; -scope|scope|B|N|||look at, see
 lapicide	noun	lapi-|lapi|B|N ; -cide|cide|B|V|||kill
 larvicide	noun	larvi-|larvi|B|N ; -cide|cide|B|V|||kill
+laryngology	noun	laryngo-|laryngo|B|N ; -logy|logy|B|N|||study, word
+laryngoscope	noun	laryngo-|laryngo|B|N ; -scope|scope|B|N|||look at, see
+lepidopterology	noun	lepidoptero-|lepidoptero|B|N ; -logy|logy|B|N|||study, word
+lesbophobia	noun	lesbo-|lesbo|B|N ; -phobia|phobia|B|N|||fear
+lexicography	noun	lexico-|lexico|B|N ; -graphy|graphy|B|N|||writing, recording
+lexicology	noun	lexico-|lexico|B|N ; -logy|logy|B|N|||study, word
+lexigraphy	noun	lexi-|lexi|B|N ; -graphy|graphy|B|N|||writing, recording
 liberticide	noun	liberti-|liberti|B|N ; -cide|cide|B|V|||kill
+lichenology	noun	licheno-|licheno|B|N ; -logy|logy|B|N|||study, word
+limnimeter	noun	limni-|limni|B|N ; -meter|meter|B|N|||measure
+limnology	noun	limno-|limno|B|N ; -logy|logy|B|N|||study, word
 linguicide	noun	lingui-|lingui|B|N ; -cide|cide|B|V|||kill
+lithograph	noun	litho-|litho|B|N|||stone ; -graph|graph|B|N|||write, record
+lithography	noun	litho-|litho|B|N|||stone ; -graphy|graphy|B|N|||writing, recording
+lithology	noun	litho-|litho|B|N|||stone ; -logy|logy|B|N|||study, word
+logograph	noun	logo-|logo|B|N ; -graph|graph|B|N|||write, record
+logography	noun	logo-|logo|B|N ; -graphy|graphy|B|N|||writing, recording
+ludology	noun	ludo-|ludo|B|N ; -logy|logy|B|N|||study, word
+lygophilia	noun	lygo-|lygo|B|N ; -philia|philia|B|N|||love
+lysimeter	noun	lysi-|lysi|B|N ; -meter|meter|B|N|||measure
+lyssophobia	noun	lysso-|lysso|B|N ; -phobia|phobia|B|N|||fear
+macrocinematography	noun	macrocinemato-|macrocinemato|B|N ; -graphy|graphy|B|N|||writing, recording
+macroclimatology	noun	macroclimato-|macroclimato|B|N ; -logy|logy|B|N|||study, word
+macrograph	noun	macro-|macro|B|N|||large ; -graph|graph|B|N|||write, record
+macrometeorology	noun	macrometeoro-|macrometeoro|B|N ; -logy|logy|B|N|||study, word
+macrophotograph	noun	macrophoto-|macrophoto|B|N ; -graph|graph|B|N|||write, record
+macrophotography	noun	macrophoto-|macrophoto|B|N ; -graphy|graphy|B|N|||writing, recording
+magnetoencephalography	noun	magnetoencephalo-|magnetoencephalo|B|N ; -graphy|graphy|B|N|||writing, recording
+magnetograph	noun	magneto-|magneto|B|N ; -graph|graph|B|N|||write, record
+magnetometer	noun	magneto-|magneto|B|N ; -meter|meter|B|N|||measure
+magnetophone	noun	magneto-|magneto|B|N ; -phone|phone|B|N|||sound
+magnetoscope	noun	magneto-|magneto|B|N ; -scope|scope|B|N|||look at, see
+malacology	noun	malaco-|malaco|B|N ; -logy|logy|B|N|||study, word
+malariology	noun	malario-|malario|B|N ; -logy|logy|B|N|||study, word
+mammalogy	noun	mamma-|mamma|B|N ; -logy|logy|B|N|||study, word
+mammography	noun	mammo-|mammo|B|N ; -graphy|graphy|B|N|||writing, recording
+manometer	noun	mano-|mano|B|N ; -meter|meter|B|N|||measure
+marconigraph	noun	marconi-|marconi|B|N ; -graph|graph|B|N|||write, record
+mareograph	noun	mareo-|mareo|B|N ; -graph|graph|B|N|||write, record
 mariticide	noun	mariti-|mariti|B|N ; -cide|cide|B|V|||kill
+martyrology	noun	martyro-|martyro|B|N ; -logy|logy|B|N|||study, word
+matriarchy	noun	matri-|matri|B|N|||mother ; -archy|archy|B|N|||rule
 matricide	noun	matri-|matri|B|N|||mother ; -cide|cide|B|V|||kill
+mediocracy	noun	medio-|medio|B|N ; -cracy|cracy|B|N|||rule, power
+megalography	noun	megalo-|megalo|B|N ; -graphy|graphy|B|N|||writing, recording
+megalophobia	noun	megalo-|megalo|B|N ; -phobia|phobia|B|N|||fear
+megaphone	noun	mega-|mega|B|N ; -phone|phone|B|N|||sound
+melophile	noun	melo-|melo|B|N ; -phile|phile|B|N|||lover
+membranophone	noun	membrano-|membrano|B|N ; -phone|phone|B|N|||sound
 menticide	noun	menti-|menti|B|N ; -cide|cide|B|V|||kill
+mereology	noun	mereo-|mereo|B|N ; -logy|logy|B|N|||study, word
+meritocracy	noun	merito-|merito|B|N ; -cracy|cracy|B|N|||rule, power
+meritocrat	noun	merito-|merito|B|N ; -crat|crat|B|N|||ruler, member of a rule
+mesology	noun	meso-|meso|B|N ; -logy|logy|B|N|||study, word
+metallography	noun	metallo-|metallo|B|N ; -graphy|graphy|B|N|||writing, recording
+meteorograph	noun	meteoro-|meteoro|B|N ; -graph|graph|B|N|||write, record
+meteorology	noun	meteoro-|meteoro|B|N ; -logy|logy|B|N|||study, word
+methodology	noun	methodo-|methodo|B|N ; -logy|logy|B|N|||study, word
+metrology	noun	metro-|metro|B|N ; -logy|logy|B|N|||study, word
 microbicide	noun	microbi-|microbi|B|N ; -cide|cide|B|V|||kill
+micrography	noun	micro-|micro|B|N|||small ; -graphy|graphy|B|N|||writing, recording
+micrology	noun	micro-|micro|B|N|||small ; -logy|logy|B|N|||study, word
+micropaleontology	noun	micropaleonto-|micropaleonto|B|N ; -logy|logy|B|N|||study, word
+microphotography	noun	microphoto-|microphoto|B|N ; -graphy|graphy|B|N|||writing, recording
+milometer	noun	milo-|milo|B|N ; -meter|meter|B|N|||measure
+mimeograph	noun	mimeo-|mimeo|B|N ; -graph|graph|B|N|||write, record
+mineralogy	noun	minera-|minera|B|N ; -logy|logy|B|N|||study, word
+misology	noun	miso-|miso|B|N ; -logy|logy|B|N|||study, word
+missiology	noun	missio-|missio|B|N ; -logy|logy|B|N|||study, word
+mixology	noun	mixo-|mixo|B|N ; -logy|logy|B|N|||study, word
+mobocracy	noun	mobo-|mobo|B|N ; -cracy|cracy|B|N|||rule, power
+molinology	noun	molino-|molino|B|N ; -logy|logy|B|N|||study, word
+monadology	noun	monado-|monado|B|N ; -logy|logy|B|N|||study, word
+monarchy	noun	mon-|mon|B|N ; -archy|archy|B|N|||rule
+monocracy	noun	mono-|mono|B|N|||one ; -cracy|cracy|B|N|||rule, power
+monocrat	noun	mono-|mono|B|N|||one ; -crat|crat|B|N|||ruler, member of a rule
+monograph	noun	mono-|mono|B|N|||one ; -graph|graph|B|N|||write, record
+monology	noun	mono-|mono|B|N|||one ; -logy|logy|B|N|||study, word
+morphography	noun	morpho-|morpho|B|N|||form ; -graphy|graphy|B|N|||writing, recording
+morphology	noun	morpho-|morpho|B|N|||form ; -logy|logy|B|N|||study, word
+morphophonology	noun	morphophono-|morphophono|B|N ; -logy|logy|B|N|||study, word
+muscology	noun	musco-|musco|B|N ; -logy|logy|B|N|||study, word
+museology	noun	museo-|museo|B|N ; -logy|logy|B|N|||study, word
+musicology	noun	musico-|musico|B|N ; -logy|logy|B|N|||study, word
+musophobia	noun	muso-|muso|B|N ; -phobia|phobia|B|N|||fear
+mycology	noun	myco-|myco|B|N|||fungus ; -logy|logy|B|N|||study, word
+myocardiograph	noun	myocardio-|myocardio|B|N ; -graph|graph|B|N|||write, record
+myrmecology	noun	myrmeco-|myrmeco|B|N ; -logy|logy|B|N|||study, word
+mysophobia	noun	myso-|myso|B|N ; -phobia|phobia|B|N|||fear
+mythography	noun	mytho-|mytho|B|N ; -graphy|graphy|B|N|||writing, recording
+mythology	noun	mytho-|mytho|B|N ; -logy|logy|B|N|||study, word
+nanotechnology	noun	nanotechno-|nanotechno|B|N ; -logy|logy|B|N|||study, word
+narcology	noun	narco-|narco|B|N ; -logy|logy|B|N|||study, word
+narratology	noun	narrato-|narrato|B|N ; -logy|logy|B|N|||study, word
+nasology	noun	naso-|naso|B|N ; -logy|logy|B|N|||study, word
+necrocracy	noun	necro-|necro|B|N ; -cracy|cracy|B|N|||rule, power
+necrology	noun	necro-|necro|B|N ; -logy|logy|B|N|||study, word
+necrophile	noun	necro-|necro|B|N ; -phile|phile|B|N|||lover
+necrophilia	noun	necro-|necro|B|N ; -philia|philia|B|N|||love
+necrophobia	noun	necro-|necro|B|N ; -phobia|phobia|B|N|||fear
+neology	noun	neo-|neo|B|N ; -logy|logy|B|N|||study, word
 neonaticide	noun	neonati-|neonati|B|N ; -cide|cide|B|V|||kill
+neonatology	noun	neonato-|neonato|B|N ; -logy|logy|B|N|||study, word
+neontology	noun	neonto-|neonto|B|N ; -logy|logy|B|N|||study, word
+neophilia	noun	neo-|neo|B|N ; -philia|philia|B|N|||love
+neophobia	noun	neo-|neo|B|N ; -phobia|phobia|B|N|||fear
+nephology	noun	nepho-|nepho|B|N ; -logy|logy|B|N|||study, word
+nephrology	noun	nephro-|nephro|B|N|||kidney ; -logy|logy|B|N|||study, word
 nepoticide	noun	nepoti-|nepoti|B|N ; -cide|cide|B|V|||kill
-omnivore	noun	omni-|omni|B|N|||all ; -vore|vore|B|V|||eat
+neurobiology	noun	neurobio-|neurobio|B|N ; -logy|logy|B|N|||study, word
+neurology	noun	neuro-|neuro|B|N|||nerve ; -logy|logy|B|N|||study, word
+neuropathology	noun	neuropatho-|neuropatho|B|N ; -logy|logy|B|N|||study, word
+neurophysiology	noun	neurophysio-|neurophysio|B|N ; -logy|logy|B|N|||study, word
+neuropsychology	noun	neuropsycho-|neuropsycho|B|N ; -logy|logy|B|N|||study, word
+nitrometer	noun	nitro-|nitro|B|N ; -meter|meter|B|N|||measure
+noctograph	noun	nocto-|nocto|B|N ; -graph|graph|B|N|||write, record
+nomograph	noun	nomo-|nomo|B|N ; -graph|graph|B|N|||write, record
+nomophobia	noun	nomo-|nomo|B|N ; -phobia|phobia|B|N|||fear
+nosology	noun	noso-|noso|B|N ; -logy|logy|B|N|||study, word
+nucleophile	noun	nucleo-|nucleo|B|N ; -phile|phile|B|N|||lover
+numerology	noun	numero-|numero|B|N ; -logy|logy|B|N|||study, word
+numismatology	noun	numismato-|numismato|B|N ; -logy|logy|B|N|||study, word
+nyctophile	noun	nycto-|nycto|B|N ; -phile|phile|B|N|||lover
+nyctophobia	noun	nycto-|nycto|B|N ; -phobia|phobia|B|N|||fear
+oceanography	noun	oceano-|oceano|B|N ; -graphy|graphy|B|N|||writing, recording
+ochlocracy	noun	ochlo-|ochlo|B|N ; -cracy|cracy|B|N|||rule, power
+ochlocrat	noun	ochlo-|ochlo|B|N ; -crat|crat|B|N|||ruler, member of a rule
+octalogy	noun	octa-|octa|B|N ; -logy|logy|B|N|||study, word
+octameter	noun	octa-|octa|B|N ; -meter|meter|B|N|||measure
+octarchy	noun	oct-|oct|B|N ; -archy|archy|B|N|||rule
+odograph	noun	odo-|odo|B|N ; -graph|graph|B|N|||write, record
+odometer	noun	odo-|odo|B|N ; -meter|meter|B|N|||measure
+odontology	noun	odonto-|odonto|B|N ; -logy|logy|B|N|||study, word
+odontophobia	noun	odonto-|odonto|B|N ; -phobia|phobia|B|N|||fear
+odontoscope	noun	odonto-|odonto|B|N ; -scope|scope|B|N|||look at, see
+oenology	noun	oeno-|oeno|B|N ; -logy|logy|B|N|||study, word
+oenophile	noun	oeno-|oeno|B|N ; -phile|phile|B|N|||lover
+oenophilia	noun	oeno-|oeno|B|N ; -philia|philia|B|N|||love
+oikology	noun	oiko-|oiko|B|N ; -logy|logy|B|N|||study, word
+oilometer	noun	oilo-|oilo|B|N ; -meter|meter|B|N|||measure
+oleograph	noun	oleo-|oleo|B|N ; -graph|graph|B|N|||write, record
+oleography	noun	oleo-|oleo|B|N ; -graphy|graphy|B|N|||writing, recording
+oleometer	noun	oleo-|oleo|B|N ; -meter|meter|B|N|||measure
+olfactometer	noun	olfacto-|olfacto|B|N ; -meter|meter|B|N|||measure
+oligarchy	noun	olig-|olig|B|N ; -archy|archy|B|N|||rule
+ombrology	noun	ombro-|ombro|B|N ; -logy|logy|B|N|||study, word
+ombrometer	noun	ombro-|ombro|B|N ; -meter|meter|B|N|||measure
+ombrophile	noun	ombro-|ombro|B|N ; -phile|phile|B|N|||lover
+omnivore	noun	omni-|omni|B|N|||all, everywhere ; -vore|vore|B|V|||eat
+oncology	noun	onco-|onco|B|N ; -logy|logy|B|N|||study, word
+ondograph	noun	ondo-|ondo|B|N ; -graph|graph|B|N|||write, record
+ondometer	noun	ondo-|ondo|B|N ; -meter|meter|B|N|||measure
+ondoscope	noun	ondo-|ondo|B|N ; -scope|scope|B|N|||look at, see
+oneirology	noun	oneiro-|oneiro|B|N ; -logy|logy|B|N|||study, word
+onomasiology	noun	onomasio-|onomasio|B|N ; -logy|logy|B|N|||study, word
+onomatology	noun	onomato-|onomato|B|N ; -logy|logy|B|N|||study, word
+ontology	noun	onto-|onto|B|N ; -logy|logy|B|N|||study, word
+ophiology	noun	ophio-|ophio|B|N ; -logy|logy|B|N|||study, word
+ophiophobia	noun	ophio-|ophio|B|N ; -phobia|phobia|B|N|||fear
+ophthalmology	noun	ophthalmo-|ophthalmo|B|N ; -logy|logy|B|N|||study, word
+ophthalmoscope	noun	ophthalmo-|ophthalmo|B|N ; -scope|scope|B|N|||look at, see
+opisometer	noun	opiso-|opiso|B|N ; -meter|meter|B|N|||measure
+opisthograph	noun	opistho-|opistho|B|N ; -graph|graph|B|N|||write, record
+optography	noun	opto-|opto|B|N ; -graphy|graphy|B|N|||writing, recording
+optometer	noun	opto-|opto|B|N ; -meter|meter|B|N|||measure
+optophone	noun	opto-|opto|B|N ; -phone|phone|B|N|||sound
+orchesography	noun	orcheso-|orcheso|B|N ; -graphy|graphy|B|N|||writing, recording
+orchidology	noun	orchido-|orchido|B|N ; -logy|logy|B|N|||study, word
+organography	noun	organo-|organo|B|N ; -graphy|graphy|B|N|||writing, recording
+organology	noun	organo-|organo|B|N ; -logy|logy|B|N|||study, word
+ornithology	noun	ornitho-|ornitho|B|N|||bird ; -logy|logy|B|N|||study, word
+ornithophobia	noun	ornitho-|ornitho|B|N|||bird ; -phobia|phobia|B|N|||fear
+orograph	noun	oro-|oro|B|N ; -graph|graph|B|N|||write, record
+orography	noun	oro-|oro|B|N ; -graphy|graphy|B|N|||writing, recording
+orometer	noun	oro-|oro|B|N ; -meter|meter|B|N|||measure
+orthograph	noun	ortho-|ortho|B|N|||straight, correct ; -graph|graph|B|N|||write, record
+orthography	noun	ortho-|ortho|B|N|||straight, correct ; -graphy|graphy|B|N|||writing, recording
+orthoscope	noun	ortho-|ortho|B|N|||straight, correct ; -scope|scope|B|N|||look at, see
+oscillograph	noun	oscillo-|oscillo|B|N ; -graph|graph|B|N|||write, record
+oscillography	noun	oscillo-|oscillo|B|N ; -graphy|graphy|B|N|||writing, recording
+oscillometer	noun	oscillo-|oscillo|B|N ; -meter|meter|B|N|||measure
+oscilloscope	noun	oscillo-|oscillo|B|N ; -scope|scope|B|N|||look at, see
+osmometer	noun	osmo-|osmo|B|N ; -meter|meter|B|N|||measure
+osmoscope	noun	osmo-|osmo|B|N ; -scope|scope|B|N|||look at, see
+osphresiology	noun	osphresio-|osphresio|B|N ; -logy|logy|B|N|||study, word
+osteology	noun	osteo-|osteo|B|N|||bone ; -logy|logy|B|N|||study, word
+otolaryngology	noun	otolaryngo-|otolaryngo|B|N ; -logy|logy|B|N|||study, word
+otology	noun	oto-|oto|B|N ; -logy|logy|B|N|||study, word
+otorhinolaryngology	noun	otorhinolaryngo-|otorhinolaryngo|B|N ; -logy|logy|B|N|||study, word
+otoscope	noun	oto-|oto|B|N ; -scope|scope|B|N|||look at, see
 ovicide	noun	ovi-|ovi|B|N|||egg ; -cide|cide|B|V|||kill
+oximeter	noun	oxi-|oxi|B|N ; -meter|meter|B|N|||measure
+ozonometer	noun	ozono-|ozono|B|N ; -meter|meter|B|N|||measure
+ozonoscope	noun	ozono-|ozono|B|N ; -scope|scope|B|N|||look at, see
+pachymeter	noun	pachy-|pachy|B|N ; -meter|meter|B|N|||measure
+paedophile	noun	paedo-|paedo|B|N ; -phile|phile|B|N|||lover
+paedophilia	noun	paedo-|paedo|B|N ; -philia|philia|B|N|||love
+palaeobiology	noun	palaeobio-|palaeobio|B|N ; -logy|logy|B|N|||study, word
+palaeoclimatology	noun	palaeoclimato-|palaeoclimato|B|N ; -logy|logy|B|N|||study, word
+palaeoecology	noun	palaeoeco-|palaeoeco|B|N ; -logy|logy|B|N|||study, word
+palaeogeography	noun	palaeogeo-|palaeogeo|B|N ; -graphy|graphy|B|N|||writing, recording
+paleoanthropology	noun	paleoanthropo-|paleoanthropo|B|N ; -logy|logy|B|N|||study, word
+paleobiology	noun	paleobio-|paleobio|B|N ; -logy|logy|B|N|||study, word
+paleoecology	noun	paleoeco-|paleoeco|B|N ; -logy|logy|B|N|||study, word
+paleogeology	noun	paleogeo-|paleogeo|B|N ; -logy|logy|B|N|||study, word
+paleography	noun	paleo-|paleo|B|N ; -graphy|graphy|B|N|||writing, recording
+paleoichnology	noun	paleoichno-|paleoichno|B|N ; -logy|logy|B|N|||study, word
+paleontology	noun	paleonto-|paleonto|B|N ; -logy|logy|B|N|||study, word
+paleophytology	noun	paleophyto-|paleophyto|B|N ; -logy|logy|B|N|||study, word
+paleornithology	noun	paleornitho-|paleornitho|B|N ; -logy|logy|B|N|||study, word
+paleozoology	noun	paleozoo-|paleozoo|B|N ; -logy|logy|B|N|||study, word
+palilogy	noun	pali-|pali|B|N ; -logy|logy|B|N|||study, word
+palynology	noun	palyno-|palyno|B|N ; -logy|logy|B|N|||study, word
+pantelegraphy	noun	pantele-|pantele|B|N ; -graphy|graphy|B|N|||writing, recording
+pantelephone	noun	pantele-|pantele|B|N ; -phone|phone|B|N|||sound
+pantisocracy	noun	pantiso-|pantiso|B|N ; -cracy|cracy|B|N|||rule, power
+pantograph	noun	panto-|panto|B|N ; -graph|graph|B|N|||write, record
+pantography	noun	panto-|panto|B|N ; -graphy|graphy|B|N|||writing, recording
+pantology	noun	panto-|panto|B|N ; -logy|logy|B|N|||study, word
+pantometer	noun	panto-|panto|B|N ; -meter|meter|B|N|||measure
+pantoscope	noun	panto-|panto|B|N ; -scope|scope|B|N|||look at, see
+papyrology	noun	papyro-|papyro|B|N ; -logy|logy|B|N|||study, word
+paragraph	noun	para-|para|B|N|||beside ; -graph|graph|B|N|||write, record
+paraphilia	noun	para-|para|B|N|||beside ; -philia|philia|B|N|||love
 parasiticide	noun	parasiti-|parasiti|B|N ; -cide|cide|B|V|||kill
+parasitology	noun	parasito-|parasito|B|N ; -logy|logy|B|N|||study, word
+paraskavedekatriaphobia	noun	paraskavedekatria-|paraskavedekatria|B|N ; -phobia|phobia|B|N|||fear
+paremiology	noun	paremio-|paremio|B|N ; -logy|logy|B|N|||study, word
 parenticide	noun	parenti-|parenti|B|N ; -cide|cide|B|V|||kill
 parricide	noun	parri-|parri|B|N ; -cide|cide|B|V|||kill
+partocracy	noun	parto-|parto|B|N ; -cracy|cracy|B|N|||rule, power
+pasigraphy	noun	pasi-|pasi|B|N ; -graphy|graphy|B|N|||writing, recording
+passimeter	noun	passi-|passi|B|N ; -meter|meter|B|N|||measure
+pathology	noun	patho-|patho|B|N|||disease ; -logy|logy|B|N|||study, word
+pathophysiology	noun	pathophysio-|pathophysio|B|N ; -logy|logy|B|N|||study, word
 patricide	noun	patri-|patri|B|N|||father ; -cide|cide|B|V|||kill
+patrology	noun	patro-|patro|B|N ; -logy|logy|B|N|||study, word
 pediculicide	noun	pediculi-|pediculi|B|N ; -cide|cide|B|V|||kill
+pedology	noun	pedo-|pedo|B|N|||child, foot ; -logy|logy|B|N|||study, word
+pedometer	noun	pedo-|pedo|B|N|||child, foot ; -meter|meter|B|N|||measure
+pedophile	noun	pedo-|pedo|B|N|||child, foot ; -phile|phile|B|N|||lover
+pedophilia	noun	pedo-|pedo|B|N|||child, foot ; -philia|philia|B|N|||love
+peniaphobia	noun	penia-|penia|B|N ; -phobia|phobia|B|N|||fear
+penology	noun	peno-|peno|B|N ; -logy|logy|B|N|||study, word
+pentalogy	noun	penta-|penta|B|N ; -logy|logy|B|N|||study, word
+pentameter	noun	penta-|penta|B|N ; -meter|meter|B|N|||measure
+pentarchy	noun	pent-|pent|B|N ; -archy|archy|B|N|||rule
+perimeter	noun	peri-|peri|B|N|||around ; -meter|meter|B|N|||measure
+periodontology	noun	periodonto-|periodonto|B|N ; -logy|logy|B|N|||study, word
+periscope	noun	peri-|peri|B|N|||around ; -scope|scope|B|N|||look at, see
 pesticide	noun	pesti-|pesti|B|N|||pest ; -cide|cide|B|V|||kill
+pestology	noun	pesto-|pesto|B|N ; -logy|logy|B|N|||study, word
+petrograph	noun	petro-|petro|B|N ; -graph|graph|B|N|||write, record
+petrography	noun	petro-|petro|B|N ; -graphy|graphy|B|N|||writing, recording
+petrology	noun	petro-|petro|B|N ; -logy|logy|B|N|||study, word
+phallocracy	noun	phallo-|phallo|B|N ; -cracy|cracy|B|N|||rule, power
+phallocrat	noun	phallo-|phallo|B|N ; -crat|crat|B|N|||ruler, member of a rule
+pharmacology	noun	pharmaco-|pharmaco|B|N ; -logy|logy|B|N|||study, word
+pharyngology	noun	pharyngo-|pharyngo|B|N ; -logy|logy|B|N|||study, word
+pharyngoscope	noun	pharyngo-|pharyngo|B|N ; -scope|scope|B|N|||look at, see
+phenology	noun	pheno-|pheno|B|N|||show ; -logy|logy|B|N|||study, word
+phenomenology	noun	phenomeno-|phenomeno|B|N ; -logy|logy|B|N|||study, word
+philematology	noun	philemato-|philemato|B|N ; -logy|logy|B|N|||study, word
+philology	noun	philo-|philo|B|N|||love ; -logy|logy|B|N|||study, word
+phlebography	noun	phlebo-|phlebo|B|N ; -graphy|graphy|B|N|||writing, recording
+phlebology	noun	phlebo-|phlebo|B|N ; -logy|logy|B|N|||study, word
+phobophobia	noun	phobo-|phobo|B|N ; -phobia|phobia|B|N|||fear
+phonautograph	noun	phonauto-|phonauto|B|N ; -graph|graph|B|N|||write, record
+phoneidoscope	noun	phoneido-|phoneido|B|N ; -scope|scope|B|N|||look at, see
+phonendoscope	noun	phonendo-|phonendo|B|N ; -scope|scope|B|N|||look at, see
+phonograph	noun	phono-|phono|B|N ; -graph|graph|B|N|||write, record
+phonography	noun	phono-|phono|B|N ; -graphy|graphy|B|N|||writing, recording
+phonology	noun	phono-|phono|B|N ; -logy|logy|B|N|||study, word
+phonometer	noun	phono-|phono|B|N ; -meter|meter|B|N|||measure
+phonoscope	noun	phono-|phono|B|N ; -scope|scope|B|N|||look at, see
+phonotelemeter	noun	phonotele-|phonotele|B|N ; -meter|meter|B|N|||measure
+phosphoroscope	noun	phosphoro-|phosphoro|B|N ; -scope|scope|B|N|||look at, see
+photobiology	noun	photobio-|photobio|B|N ; -logy|logy|B|N|||study, word
+photograph	noun	photo-|photo|B|N|||light ; -graph|graph|B|N|||write, record
+photoheliograph	noun	photohelio-|photohelio|B|N ; -graph|graph|B|N|||write, record
+photolithography	noun	photolitho-|photolitho|B|N ; -graphy|graphy|B|N|||writing, recording
+photomacrography	noun	photomacro-|photomacro|B|N ; -graphy|graphy|B|N|||writing, recording
+photometer	noun	photo-|photo|B|N|||light ; -meter|meter|B|N|||measure
+photomicrograph	noun	photomicro-|photomicro|B|N ; -graph|graph|B|N|||write, record
+photomicrography	noun	photomicro-|photomicro|B|N ; -graphy|graphy|B|N|||writing, recording
+photophobia	noun	photo-|photo|B|N|||light ; -phobia|phobia|B|N|||fear
+photophone	noun	photo-|photo|B|N|||light ; -phone|phone|B|N|||sound
+phototelegraphy	noun	phototele-|phototele|B|N ; -graphy|graphy|B|N|||writing, recording
+phototopography	noun	phototopo-|phototopo|B|N ; -graphy|graphy|B|N|||writing, recording
+photozincography	noun	photozinco-|photozinco|B|N ; -graphy|graphy|B|N|||writing, recording
+phraseograph	noun	phraseo-|phraseo|B|N ; -graph|graph|B|N|||write, record
+phraseology	noun	phraseo-|phraseo|B|N ; -logy|logy|B|N|||study, word
+phrenology	noun	phreno-|phreno|B|N ; -logy|logy|B|N|||study, word
+phycology	noun	phyco-|phyco|B|N ; -logy|logy|B|N|||study, word
+physiocrat	noun	physio-|physio|B|N|||nature ; -crat|crat|B|N|||ruler, member of a rule
+physiography	noun	physio-|physio|B|N|||nature ; -graphy|graphy|B|N|||writing, recording
+physiology	noun	physio-|physio|B|N|||nature ; -logy|logy|B|N|||study, word
+phytogeography	noun	phytogeo-|phytogeo|B|N ; -graphy|graphy|B|N|||writing, recording
+phytography	noun	phyto-|phyto|B|N ; -graphy|graphy|B|N|||writing, recording
+phytopathology	noun	phytopatho-|phytopatho|B|N ; -logy|logy|B|N|||study, word
+pictograph	noun	picto-|picto|B|N ; -graph|graph|B|N|||write, record
+pictography	noun	picto-|picto|B|N ; -graphy|graphy|B|N|||writing, recording
+piezometer	noun	piezo-|piezo|B|N ; -meter|meter|B|N|||measure
 piscivore	noun	pisci-|pisci|B|N|||fish ; -vore|vore|B|V|||eat
+planetology	noun	planeto-|planeto|B|N ; -logy|logy|B|N|||study, word
+planimeter	noun	plani-|plani|B|N ; -meter|meter|B|N|||measure
+planktology	noun	plankto-|plankto|B|N ; -logy|logy|B|N|||study, word
+planography	noun	plano-|plano|B|N ; -graphy|graphy|B|N|||writing, recording
+plethysmograph	noun	plethysmo-|plethysmo|B|N ; -graph|graph|B|N|||write, record
+pleximeter	noun	plexi-|plexi|B|N ; -meter|meter|B|N|||measure
+plutarchy	noun	plut-|plut|B|N ; -archy|archy|B|N|||rule
+plutocracy	noun	pluto-|pluto|B|N ; -cracy|cracy|B|N|||rule, power
+plutocrat	noun	pluto-|pluto|B|N ; -crat|crat|B|N|||ruler, member of a rule
+plutology	noun	pluto-|pluto|B|N ; -logy|logy|B|N|||study, word
+plutophile	noun	pluto-|pluto|B|N ; -phile|phile|B|N|||lover
+plutophobia	noun	pluto-|pluto|B|N ; -phobia|phobia|B|N|||fear
+pluviograph	noun	pluvio-|pluvio|B|N ; -graph|graph|B|N|||write, record
+pluviometer	noun	pluvio-|pluvio|B|N ; -meter|meter|B|N|||measure
+pluviophile	noun	pluvio-|pluvio|B|N ; -phile|phile|B|N|||lover
+pluvioscope	noun	pluvio-|pluvio|B|N ; -scope|scope|B|N|||look at, see
+pneumatograph	noun	pneumato-|pneumato|B|N ; -graph|graph|B|N|||write, record
+pneumatology	noun	pneumato-|pneumato|B|N ; -logy|logy|B|N|||study, word
+pneumatometer	noun	pneumato-|pneumato|B|N ; -meter|meter|B|N|||measure
+pneumology	noun	pneumo-|pneumo|B|N ; -logy|logy|B|N|||study, word
+pogonology	noun	pogono-|pogono|B|N ; -logy|logy|B|N|||study, word
+polarimeter	noun	polari-|polari|B|N ; -meter|meter|B|N|||measure
+polariscope	noun	polari-|polari|B|N ; -scope|scope|B|N|||look at, see
+polemology	noun	polemo-|polemo|B|N ; -logy|logy|B|N|||study, word
+polyarchy	noun	poly-|poly|B|N|||many ; -archy|archy|B|N|||rule
+polycracy	noun	poly-|poly|B|N|||many ; -cracy|cracy|B|N|||rule, power
+polygraphy	noun	poly-|poly|B|N|||many ; -graphy|graphy|B|N|||writing, recording
+pomology	noun	pomo-|pomo|B|N ; -logy|logy|B|N|||study, word
+pornocracy	noun	porno-|porno|B|N ; -cracy|cracy|B|N|||rule, power
+pornography	noun	porno-|porno|B|N ; -graphy|graphy|B|N|||writing, recording
+posology	noun	poso-|poso|B|N ; -logy|logy|B|N|||study, word
+potamology	noun	potamo-|potamo|B|N ; -logy|logy|B|N|||study, word
+potentiometer	noun	potentio-|potentio|B|N ; -meter|meter|B|N|||measure
+praxeology	noun	praxeo-|praxeo|B|N ; -logy|logy|B|N|||study, word
+primatology	noun	primato-|primato|B|N ; -logy|logy|B|N|||study, word
+proctology	noun	procto-|procto|B|N ; -logy|logy|B|N|||study, word
+proctoscope	noun	procto-|procto|B|N ; -scope|scope|B|N|||look at, see
+profilograph	noun	profilo-|profilo|B|N ; -graph|graph|B|N|||write, record
+profilometer	noun	profilo-|profilo|B|N ; -meter|meter|B|N|||measure
 prolicide	noun	proli-|proli|B|N ; -cide|cide|B|V|||kill
+prosopography	noun	prosopo-|prosopo|B|N ; -graphy|graphy|B|N|||writing, recording
+protozoology	noun	protozoo-|protozoo|B|N ; -logy|logy|B|N|||study, word
+psephology	noun	psepho-|psepho|B|N ; -logy|logy|B|N|||study, word
+pseudepigraphy	noun	pseudepi-|pseudepi|B|N ; -graphy|graphy|B|N|||writing, recording
+psychology	noun	psycho-|psycho|B|N|||mind ; -logy|logy|B|N|||study, word
+psychoneuroimmunology	noun	psychoneuroimmuno-|psychoneuroimmuno|B|N ; -logy|logy|B|N|||study, word
+psychopathology	noun	psychopatho-|psychopatho|B|N ; -logy|logy|B|N|||study, word
+psychopharmacology	noun	psychopharmaco-|psychopharmaco|B|N ; -logy|logy|B|N|||study, word
+psychophysiology	noun	psychophysio-|psychophysio|B|N ; -logy|logy|B|N|||study, word
+psychotraumatology	noun	psychotraumato-|psychotraumato|B|N ; -logy|logy|B|N|||study, word
+psychrometer	noun	psychro-|psychro|B|N ; -meter|meter|B|N|||measure
+pteridology	noun	pterido-|pterido|B|N ; -logy|logy|B|N|||study, word
+ptochocracy	noun	ptocho-|ptocho|B|N ; -cracy|cracy|B|N|||rule, power
 pubicide	noun	pubi-|pubi|B|N ; -cide|cide|B|V|||kill
+pulmonology	noun	pulmono-|pulmono|B|N ; -logy|logy|B|N|||study, word
+pulsimeter	noun	pulsi-|pulsi|B|N ; -meter|meter|B|N|||measure
+pupilometer	noun	pupilo-|pupilo|B|N ; -meter|meter|B|N|||measure
+pyelography	noun	pyelo-|pyelo|B|N ; -graphy|graphy|B|N|||writing, recording
+pyranometer	noun	pyrano-|pyrano|B|N ; -meter|meter|B|N|||measure
+pyrgeometer	noun	pyrgeo-|pyrgeo|B|N ; -meter|meter|B|N|||measure
+pyrheliometer	noun	pyrhelio-|pyrhelio|B|N ; -meter|meter|B|N|||measure
+pyrography	noun	pyro-|pyro|B|N ; -graphy|graphy|B|N|||writing, recording
+pyrology	noun	pyro-|pyro|B|N ; -logy|logy|B|N|||study, word
+pyrometer	noun	pyro-|pyro|B|N ; -meter|meter|B|N|||measure
+pyrophobia	noun	pyro-|pyro|B|N ; -phobia|phobia|B|N|||fear
+pyroscope	noun	pyro-|pyro|B|N ; -scope|scope|B|N|||look at, see
+quantometer	noun	quanto-|quanto|B|N ; -meter|meter|B|N|||measure
+radiography	noun	radio-|radio|B|N ; -graphy|graphy|B|N|||writing, recording
+radiology	noun	radio-|radio|B|N ; -logy|logy|B|N|||study, word
+radiometallography	noun	radiometallo-|radiometallo|B|N ; -graphy|graphy|B|N|||writing, recording
+ranidaphobia	noun	ranida-|ranida|B|N ; -phobia|phobia|B|N|||fear
 raticide	noun	rati-|rati|B|N ; -cide|cide|B|V|||kill
+rectoscope	noun	recto-|recto|B|N ; -scope|scope|B|N|||look at, see
+reflectometer	noun	reflecto-|reflecto|B|N ; -meter|meter|B|N|||measure
+reflectoscope	noun	reflecto-|reflecto|B|N ; -scope|scope|B|N|||look at, see
+reflexograph	noun	reflexo-|reflexo|B|N ; -graph|graph|B|N|||write, record
+reflexology	noun	reflexo-|reflexo|B|N ; -logy|logy|B|N|||study, word
+refractometer	noun	refracto-|refracto|B|N ; -meter|meter|B|N|||measure
 regicide	noun	regi-|regi|B|N|||king ; -cide|cide|B|V|||kill
 reginacide	noun	regina-|regina|B|N ; -cide|cide|B|V|||kill
+religiology	noun	religio-|religio|B|N ; -logy|logy|B|N|||study, word
+reprography	noun	repro-|repro|B|N ; -graphy|graphy|B|N|||writing, recording
+respirometer	noun	respiro-|respiro|B|N ; -meter|meter|B|N|||measure
+retinoscope	noun	retino-|retino|B|N ; -scope|scope|B|N|||look at, see
+rheology	noun	rheo-|rheo|B|N ; -logy|logy|B|N|||study, word
+rheometer	noun	rheo-|rheo|B|N ; -meter|meter|B|N|||measure
+rheumatology	noun	rheumato-|rheumato|B|N ; -logy|logy|B|N|||study, word
+rhinology	noun	rhino-|rhino|B|N ; -logy|logy|B|N|||study, word
+rhinoscope	noun	rhino-|rhino|B|N ; -scope|scope|B|N|||look at, see
 rodenticide	noun	rodenti-|rodenti|B|N ; -cide|cide|B|V|||kill
+roentgenograph	noun	roentgeno-|roentgeno|B|N ; -graph|graph|B|N|||write, record
+roentgenometer	noun	roentgeno-|roentgeno|B|N ; -meter|meter|B|N|||measure
+roentgenoscope	noun	roentgeno-|roentgeno|B|N ; -scope|scope|B|N|||look at, see
+rotameter	noun	rota-|rota|B|N ; -meter|meter|B|N|||measure
+rotoscope	noun	roto-|roto|B|N ; -scope|scope|B|N|||look at, see
+roughometer	noun	rougho-|rougho|B|N ; -meter|meter|B|N|||measure
+runology	noun	runo-|runo|B|N ; -logy|logy|B|N|||study, word
+saccharimeter	noun	sacchari-|sacchari|B|N ; -meter|meter|B|N|||measure
+saccharometer	noun	saccharo-|saccharo|B|N ; -meter|meter|B|N|||measure
+salinometer	noun	salino-|salino|B|N ; -meter|meter|B|N|||measure
+saprophile	noun	sapro-|sapro|B|N ; -phile|phile|B|N|||lover
+satanology	noun	satano-|satano|B|N ; -logy|logy|B|N|||study, word
+saxophone	noun	saxo-|saxo|B|N ; -phone|phone|B|N|||sound
+scatology	noun	scato-|scato|B|N ; -logy|logy|B|N|||study, word
+scenograph	noun	sceno-|sceno|B|N ; -graph|graph|B|N|||write, record
+scenography	noun	sceno-|sceno|B|N ; -graphy|graphy|B|N|||writing, recording
+sciagraph	noun	scia-|scia|B|N ; -graph|graph|B|N|||write, record
+sciagraphy	noun	scia-|scia|B|N ; -graphy|graphy|B|N|||writing, recording
+scientocracy	noun	sciento-|sciento|B|N ; -cracy|cracy|B|N|||rule, power
+scintigraphy	noun	scinti-|scinti|B|N ; -graphy|graphy|B|N|||writing, recording
+scintillometer	noun	scintillo-|scintillo|B|N ; -meter|meter|B|N|||measure
+sclerometer	noun	sclero-|sclero|B|N ; -meter|meter|B|N|||measure
+scotobiology	noun	scotobio-|scotobio|B|N ; -logy|logy|B|N|||study, word
+sedimentology	noun	sedimento-|sedimento|B|N ; -logy|logy|B|N|||study, word
+sedimentometer	noun	sedimento-|sedimento|B|N ; -meter|meter|B|N|||measure
+seismograph	noun	seismo-|seismo|B|N ; -graph|graph|B|N|||write, record
+seismography	noun	seismo-|seismo|B|N ; -graphy|graphy|B|N|||writing, recording
+seismology	noun	seismo-|seismo|B|N ; -logy|logy|B|N|||study, word
+seismometer	noun	seismo-|seismo|B|N ; -meter|meter|B|N|||measure
+seismophobia	noun	seismo-|seismo|B|N ; -phobia|phobia|B|N|||fear
+seismoscope	noun	seismo-|seismo|B|N ; -scope|scope|B|N|||look at, see
+selenography	noun	seleno-|seleno|B|N ; -graphy|graphy|B|N|||writing, recording
+selenology	noun	seleno-|seleno|B|N ; -logy|logy|B|N|||study, word
+selenophile	noun	seleno-|seleno|B|N ; -phile|phile|B|N|||lover
+semantology	noun	semanto-|semanto|B|N ; -logy|logy|B|N|||study, word
+semasiology	noun	semasio-|semasio|B|N ; -logy|logy|B|N|||study, word
+sematology	noun	semato-|semato|B|N ; -logy|logy|B|N|||study, word
+semiology	noun	semio-|semio|B|N ; -logy|logy|B|N|||study, word
+sensitometer	noun	sensito-|sensito|B|N ; -meter|meter|B|N|||measure
+serigraph	noun	seri-|seri|B|N ; -graph|graph|B|N|||write, record
+serigraphy	noun	seri-|seri|B|N ; -graphy|graphy|B|N|||writing, recording
+serology	noun	sero-|sero|B|N ; -logy|logy|B|N|||study, word
+serophobia	noun	sero-|sero|B|N ; -phobia|phobia|B|N|||fear
+sexology	noun	sexo-|sexo|B|N ; -logy|logy|B|N|||study, word
 siblicide	noun	sibli-|sibli|B|N ; -cide|cide|B|V|||kill
+siderography	noun	sidero-|sidero|B|N ; -graphy|graphy|B|N|||writing, recording
+sigillography	noun	sigillo-|sigillo|B|N ; -graphy|graphy|B|N|||writing, recording
+sindonology	noun	sindono-|sindono|B|N ; -logy|logy|B|N|||study, word
+sinology	noun	sino-|sino|B|N ; -logy|logy|B|N|||study, word
+sitology	noun	sito-|sito|B|N ; -logy|logy|B|N|||study, word
+slavocracy	noun	slavo-|slavo|B|N ; -cracy|cracy|B|N|||rule, power
+snobocracy	noun	snobo-|snobo|B|N ; -cracy|cracy|B|N|||rule, power
+sociobiology	noun	sociobio-|sociobio|B|N ; -logy|logy|B|N|||study, word
+sociocracy	noun	socio-|socio|B|N|||society ; -cracy|cracy|B|N|||rule, power
+sociology	noun	socio-|socio|B|N|||society ; -logy|logy|B|N|||study, word
+sociopathology	noun	sociopatho-|sociopatho|B|N ; -logy|logy|B|N|||study, word
+somatology	noun	somato-|somato|B|N ; -logy|logy|B|N|||study, word
+somnophilia	noun	somno-|somno|B|N ; -philia|philia|B|N|||love
+sonography	noun	sono-|sono|B|N ; -graphy|graphy|B|N|||writing, recording
+sonometer	noun	sono-|sono|B|N ; -meter|meter|B|N|||measure
+sophocracy	noun	sopho-|sopho|B|N ; -cracy|cracy|B|N|||rule, power
+sophrology	noun	sophro-|sophro|B|N ; -logy|logy|B|N|||study, word
 sororicide	noun	sorori-|sorori|B|N ; -cide|cide|B|V|||kill
+soteriology	noun	soterio-|soterio|B|N ; -logy|logy|B|N|||study, word
+sousaphone	noun	sousa-|sousa|B|N ; -phone|phone|B|N|||sound
+spasmology	noun	spasmo-|spasmo|B|N ; -logy|logy|B|N|||study, word
+speciology	noun	specio-|specio|B|N ; -logy|logy|B|N|||study, word
+spectrograph	noun	spectro-|spectro|B|N ; -graph|graph|B|N|||write, record
+spectrography	noun	spectro-|spectro|B|N ; -graphy|graphy|B|N|||writing, recording
+spectroheliograph	noun	spectrohelio-|spectrohelio|B|N ; -graph|graph|B|N|||write, record
+spectroheliography	noun	spectrohelio-|spectrohelio|B|N ; -graphy|graphy|B|N|||writing, recording
+spectrohelioscope	noun	spectrohelio-|spectrohelio|B|N ; -scope|scope|B|N|||look at, see
+spectrology	noun	spectro-|spectro|B|N ; -logy|logy|B|N|||study, word
+spectrometer	noun	spectro-|spectro|B|N ; -meter|meter|B|N|||measure
+spectrophotography	noun	spectrophoto-|spectrophoto|B|N ; -graphy|graphy|B|N|||writing, recording
+spectrophotometer	noun	spectrophoto-|spectrophoto|B|N ; -meter|meter|B|N|||measure
+spectroscope	noun	spectro-|spectro|B|N ; -scope|scope|B|N|||look at, see
+speedometer	noun	speedo-|speedo|B|N ; -meter|meter|B|N|||measure
+speleology	noun	speleo-|speleo|B|N ; -logy|logy|B|N|||study, word
+spermatology	noun	spermato-|spermato|B|N ; -logy|logy|B|N|||study, word
 spermicide	noun	spermi-|spermi|B|N|||sperm ; -cide|cide|B|V|||kill
+spermology	noun	spermo-|spermo|B|N ; -logy|logy|B|N|||study, word
+spherometer	noun	sphero-|sphero|B|N ; -meter|meter|B|N|||measure
+sphygmograph	noun	sphygmo-|sphygmo|B|N ; -graph|graph|B|N|||write, record
+sphygmography	noun	sphygmo-|sphygmo|B|N ; -graphy|graphy|B|N|||writing, recording
+sphygmology	noun	sphygmo-|sphygmo|B|N ; -logy|logy|B|N|||study, word
+sphygmomanometer	noun	sphygmomano-|sphygmomano|B|N ; -meter|meter|B|N|||measure
+sphygmometer	noun	sphygmo-|sphygmo|B|N ; -meter|meter|B|N|||measure
+sphygmophone	noun	sphygmo-|sphygmo|B|N ; -phone|phone|B|N|||sound
+spinthariscope	noun	spinthari-|spinthari|B|N ; -scope|scope|B|N|||look at, see
+spirograph	noun	spiro-|spiro|B|N ; -graph|graph|B|N|||write, record
+spirometer	noun	spiro-|spiro|B|N ; -meter|meter|B|N|||measure
+splenography	noun	spleno-|spleno|B|N ; -graphy|graphy|B|N|||writing, recording
+splenology	noun	spleno-|spleno|B|N ; -logy|logy|B|N|||study, word
 sporicide	noun	spori-|spori|B|N ; -cide|cide|B|V|||kill
+squirearchy	noun	squire-|squire|B|N ; -archy|archy|B|N|||rule
+stactometer	noun	stacto-|stacto|B|N ; -meter|meter|B|N|||measure
+stadiometer	noun	stadio-|stadio|B|N ; -meter|meter|B|N|||measure
+stalagmometer	noun	stalagmo-|stalagmo|B|N ; -meter|meter|B|N|||measure
+statistology	noun	statisto-|statisto|B|N ; -logy|logy|B|N|||study, word
+statoscope	noun	stato-|stato|B|N ; -scope|scope|B|N|||look at, see
+steganography	noun	stegano-|stegano|B|N ; -graphy|graphy|B|N|||writing, recording
+stenograph	noun	steno-|steno|B|N ; -graph|graph|B|N|||write, record
+stenography	noun	steno-|steno|B|N ; -graphy|graphy|B|N|||writing, recording
+stereograph	noun	stereo-|stereo|B|N ; -graph|graph|B|N|||write, record
+stereography	noun	stereo-|stereo|B|N ; -graphy|graphy|B|N|||writing, recording
+stereometer	noun	stereo-|stereo|B|N ; -meter|meter|B|N|||measure
+stethoscope	noun	stetho-|stetho|B|N ; -scope|scope|B|N|||look at, see
+stoichiology	noun	stoichio-|stoichio|B|N ; -logy|logy|B|N|||study, word
+stomatology	noun	stomato-|stomato|B|N ; -logy|logy|B|N|||study, word
+strainometer	noun	straino-|straino|B|N ; -meter|meter|B|N|||measure
+stratigraphy	noun	strati-|strati|B|N ; -graphy|graphy|B|N|||writing, recording
+stratocracy	noun	strato-|strato|B|N ; -cracy|cracy|B|N|||rule, power
+stroboscope	noun	strobo-|strobo|B|N ; -scope|scope|B|N|||look at, see
+stylograph	noun	stylo-|stylo|B|N ; -graph|graph|B|N|||write, record
+stylophone	noun	stylo-|stylo|B|N ; -phone|phone|B|N|||sound
 suicide	noun	sui-|sui|B|N|||self ; -cide|cide|B|V|||kill
+symbology	noun	symbo-|symbo|B|N ; -logy|logy|B|N|||study, word
+symmetrophobia	noun	symmetro-|symmetro|B|N ; -phobia|phobia|B|N|||fear
+symphorophilia	noun	symphoro-|symphoro|B|N ; -philia|philia|B|N|||love
+symptomatology	noun	symptomato-|symptomato|B|N ; -logy|logy|B|N|||study, word
+symptomology	noun	symptomo-|symptomo|B|N ; -logy|logy|B|N|||study, word
+synarchy	noun	syn-|syn|B|N ; -archy|archy|B|N|||rule
+synchroscope	noun	synchro-|synchro|B|N ; -scope|scope|B|N|||look at, see
+synecology	noun	syneco-|syneco|B|N ; -logy|logy|B|N|||study, word
+syphilology	noun	syphilo-|syphilo|B|N ; -logy|logy|B|N|||study, word
+systematology	noun	systemato-|systemato|B|N ; -logy|logy|B|N|||study, word
+tachistoscope	noun	tachisto-|tachisto|B|N ; -scope|scope|B|N|||look at, see
+tachograph	noun	tacho-|tacho|B|N ; -graph|graph|B|N|||write, record
+tachometer	noun	tacho-|tacho|B|N ; -meter|meter|B|N|||measure
+tachygraphy	noun	tachy-|tachy|B|N ; -graphy|graphy|B|N|||writing, recording
+tachymeter	noun	tachy-|tachy|B|N ; -meter|meter|B|N|||measure
 taenicide	noun	taeni-|taeni|B|N ; -cide|cide|B|V|||kill
+tautology	noun	tauto-|tauto|B|N ; -logy|logy|B|N|||study, word
+taxology	noun	taxo-|taxo|B|N ; -logy|logy|B|N|||study, word
+technocracy	noun	techno-|techno|B|N ; -cracy|cracy|B|N|||rule, power
+technocrat	noun	techno-|techno|B|N ; -crat|crat|B|N|||ruler, member of a rule
+technography	noun	techno-|techno|B|N ; -graphy|graphy|B|N|||writing, recording
+technology	noun	techno-|techno|B|N ; -logy|logy|B|N|||study, word
+technophile	noun	techno-|techno|B|N ; -phile|phile|B|N|||lover
+tectology	noun	tecto-|tecto|B|N ; -logy|logy|B|N|||study, word
+telautograph	noun	telauto-|telauto|B|N ; -graph|graph|B|N|||write, record
+teleiophilia	noun	teleio-|teleio|B|N ; -philia|philia|B|N|||love
+teleology	noun	teleo-|teleo|B|N ; -logy|logy|B|N|||study, word
+telmatology	noun	telmato-|telmato|B|N ; -logy|logy|B|N|||study, word
+tensimeter	noun	tensi-|tensi|B|N ; -meter|meter|B|N|||measure
+tensiometer	noun	tensio-|tensio|B|N ; -meter|meter|B|N|||measure
+teratology	noun	terato-|terato|B|N ; -logy|logy|B|N|||study, word
+terminology	noun	termino-|termino|B|N ; -logy|logy|B|N|||study, word
+tetralogy	noun	tetra-|tetra|B|N ; -logy|logy|B|N|||study, word
+tetrameter	noun	tetra-|tetra|B|N ; -meter|meter|B|N|||measure
+tetraphobia	noun	tetra-|tetra|B|N ; -phobia|phobia|B|N|||fear
+textology	noun	texto-|texto|B|N ; -logy|logy|B|N|||study, word
+thalassocracy	noun	thalasso-|thalasso|B|N ; -cracy|cracy|B|N|||rule, power
+thalassophile	noun	thalasso-|thalasso|B|N ; -phile|phile|B|N|||lover
+thalassophobia	noun	thalasso-|thalasso|B|N ; -phobia|phobia|B|N|||fear
+thanatology	noun	thanato-|thanato|B|N ; -logy|logy|B|N|||study, word
+thanatophobia	noun	thanato-|thanato|B|N ; -phobia|phobia|B|N|||fear
+thearchy	noun	the-|the|B|N ; -archy|archy|B|N|||rule
+theocracy	noun	theo-|theo|B|N|||god ; -cracy|cracy|B|N|||rule, power
+theocrat	noun	theo-|theo|B|N|||god ; -crat|crat|B|N|||ruler, member of a rule
+theology	noun	theo-|theo|B|N|||god ; -logy|logy|B|N|||study, word
+thermograph	noun	thermo-|thermo|B|N|||heat ; -graph|graph|B|N|||write, record
+thermography	noun	thermo-|thermo|B|N|||heat ; -graphy|graphy|B|N|||writing, recording
+thermology	noun	thermo-|thermo|B|N|||heat ; -logy|logy|B|N|||study, word
+thermometer	noun	thermo-|thermo|B|N|||heat ; -meter|meter|B|N|||measure
+thermophile	noun	thermo-|thermo|B|N|||heat ; -phile|phile|B|N|||lover
+thermoscope	noun	thermo-|thermo|B|N|||heat ; -scope|scope|B|N|||look at, see
 tickicide	noun	ticki-|ticki|B|N ; -cide|cide|B|V|||kill
+timocracy	noun	timo-|timo|B|N ; -cracy|cracy|B|N|||rule, power
+tintometer	noun	tinto-|tinto|B|N ; -meter|meter|B|N|||measure
+tocology	noun	toco-|toco|B|N ; -logy|logy|B|N|||study, word
+tokophobia	noun	toko-|toko|B|N ; -phobia|phobia|B|N|||fear
+tomography	noun	tomo-|tomo|B|N ; -graphy|graphy|B|N|||writing, recording
+tonometer	noun	tono-|tono|B|N ; -meter|meter|B|N|||measure
+topography	noun	topo-|topo|B|N ; -graphy|graphy|B|N|||writing, recording
+topology	noun	topo-|topo|B|N ; -logy|logy|B|N|||study, word
+toxicology	noun	toxico-|toxico|B|N ; -logy|logy|B|N|||study, word
+transitology	noun	transito-|transito|B|N ; -logy|logy|B|N|||study, word
+transphile	noun	trans-|trans|B|N ; -phile|phile|B|N|||lover
+transphobia	noun	trans-|trans|B|N ; -phobia|phobia|B|N|||fear
+transpirometer	noun	transpiro-|transpiro|B|N ; -meter|meter|B|N|||measure
+traumatology	noun	traumato-|traumato|B|N ; -logy|logy|B|N|||study, word
+triarchy	noun	tri-|tri|B|N ; -archy|archy|B|N|||rule
+tribology	noun	tribo-|tribo|B|N ; -logy|logy|B|N|||study, word
+tribometer	noun	tribo-|tribo|B|N ; -meter|meter|B|N|||measure
+trichology	noun	tricho-|tricho|B|N ; -logy|logy|B|N|||study, word
+trilogy	noun	tri-|tri|B|N ; -logy|logy|B|N|||study, word
+triskaidekaphobia	noun	triskaideka-|triskaideka|B|N ; -phobia|phobia|B|N|||fear
+tromometer	noun	tromo-|tromo|B|N ; -meter|meter|B|N|||measure
+tropology	noun	tropo-|tropo|B|N ; -logy|logy|B|N|||study, word
 trypanocide	noun	trypano-|trypano|B|N ; -cide|cide|B|V|||kill
+trypophobia	noun	trypo-|trypo|B|N ; -phobia|phobia|B|N|||fear
+typography	noun	typo-|typo|B|N ; -graphy|graphy|B|N|||writing, recording
+typology	noun	typo-|typo|B|N ; -logy|logy|B|N|||study, word
 tyrannicide	noun	tyranni-|tyranni|B|N|||tyrant ; -cide|cide|B|V|||kill
+udometer	noun	udo-|udo|B|N ; -meter|meter|B|N|||measure
+ufology	noun	ufo-|ufo|B|N ; -logy|logy|B|N|||study, word
+ultrasonography	noun	ultrasono-|ultrasono|B|N ; -graphy|graphy|B|N|||writing, recording
+uranography	noun	urano-|urano|B|N ; -graphy|graphy|B|N|||writing, recording
+uranology	noun	urano-|urano|B|N ; -logy|logy|B|N|||study, word
+urinology	noun	urino-|urino|B|N ; -logy|logy|B|N|||study, word
+urogynecology	noun	urogyneco-|urogyneco|B|N ; -logy|logy|B|N|||study, word
+urology	noun	uro-|uro|B|N ; -logy|logy|B|N|||study, word
 uxoricide	noun	uxori-|uxori|B|N ; -cide|cide|B|V|||kill
+vacuometer	noun	vacuo-|vacuo|B|N ; -meter|meter|B|N|||measure
+vaporimeter	noun	vapori-|vapori|B|N ; -meter|meter|B|N|||measure
+variometer	noun	vario-|vario|B|N ; -meter|meter|B|N|||measure
 vaticide	noun	vati-|vati|B|N ; -cide|cide|B|V|||kill
+velocimeter	noun	veloci-|veloci|B|N ; -meter|meter|B|N|||measure
+venereology	noun	venereo-|venereo|B|N ; -logy|logy|B|N|||study, word
 verbicide	noun	verbi-|verbi|B|N ; -cide|cide|B|V|||kill
 vermicide	noun	vermi-|vermi|B|N|||worm ; -cide|cide|B|V|||kill
+vexillology	noun	vexillo-|vexillo|B|N ; -logy|logy|B|N|||study, word
+vibraphone	noun	vibra-|vibra|B|N ; -phone|phone|B|N|||sound
+vibrograph	noun	vibro-|vibro|B|N ; -graph|graph|B|N|||write, record
+vibrometer	noun	vibro-|vibro|B|N ; -meter|meter|B|N|||measure
+vibroscope	noun	vibro-|vibro|B|N ; -scope|scope|B|N|||look at, see
+victimology	noun	victimo-|victimo|B|N ; -logy|logy|B|N|||study, word
+videography	noun	video-|video|B|N ; -graphy|graphy|B|N|||writing, recording
 viricide	noun	viri-|viri|B|N ; -cide|cide|B|V|||kill
+virology	noun	viro-|viro|B|N|||virus ; -logy|logy|B|N|||study, word
 virovore	noun	viro-|viro|B|N|||virus ; -vore|vore|B|V|||eat
+viscometer	noun	visco-|visco|B|N ; -meter|meter|B|N|||measure
+viscosimeter	noun	viscosi-|viscosi|B|N ; -meter|meter|B|N|||measure
+volcanology	noun	volcano-|volcano|B|N ; -logy|logy|B|N|||study, word
+voltameter	noun	volta-|volta|B|N ; -meter|meter|B|N|||measure
+vorarephilia	noun	vorare-|vorare|B|N ; -philia|philia|B|N|||love
+vulcanology	noun	vulcano-|vulcano|B|N ; -logy|logy|B|N|||study, word
+webography	noun	webo-|webo|B|N ; -graphy|graphy|B|N|||writing, recording
+xenoanthropology	noun	xenoanthropo-|xenoanthropo|B|N ; -logy|logy|B|N|||study, word
+xenobiology	noun	xenobio-|xenobio|B|N ; -logy|logy|B|N|||study, word
 xenocide	noun	xeno-|xeno|B|N ; -cide|cide|B|V|||kill
+xenophilia	noun	xeno-|xeno|B|N ; -philia|philia|B|N|||love
+xenophobia	noun	xeno-|xeno|B|N ; -phobia|phobia|B|N|||fear
+xenozoology	noun	xenozoo-|xenozoo|B|N ; -logy|logy|B|N|||study, word
+xerography	noun	xero-|xero|B|N ; -graphy|graphy|B|N|||writing, recording
+xylograph	noun	xylo-|xylo|B|N ; -graph|graph|B|N|||write, record
+xylography	noun	xylo-|xylo|B|N ; -graphy|graphy|B|N|||writing, recording
+xylophone	noun	xylo-|xylo|B|N ; -phone|phone|B|N|||sound
+zincograph	noun	zinco-|zinco|B|N ; -graph|graph|B|N|||write, record
+zincography	noun	zinco-|zinco|B|N ; -graphy|graphy|B|N|||writing, recording
+zooarchaeology	noun	zooarchaeo-|zooarchaeo|B|N ; -logy|logy|B|N|||study, word
+zoobiology	noun	zoobio-|zoobio|B|N ; -logy|logy|B|N|||study, word
+zoogeography	noun	zoogeo-|zoogeo|B|N ; -graphy|graphy|B|N|||writing, recording
+zoography	noun	zoo-|zoo|B|N|||animal ; -graphy|graphy|B|N|||writing, recording
+zoology	noun	zoo-|zoo|B|N|||animal ; -logy|logy|B|N|||study, word
+zoophile	noun	zoo-|zoo|B|N|||animal ; -phile|phile|B|N|||lover
+zoophilia	noun	zoo-|zoo|B|N|||animal ; -philia|philia|B|N|||love
+zoophobia	noun	zoo-|zoo|B|N|||animal ; -phobia|phobia|B|N|||fear
+zoopsychology	noun	zoopsycho-|zoopsycho|B|N ; -logy|logy|B|N|||study, word
+zymology	noun	zymo-|zymo|B|N ; -logy|logy|B|N|||study, word
+zymometer	noun	zymo-|zymo|B|N ; -meter|meter|B|N|||measure
+zythology	noun	zytho-|zytho|B|N ; -logy|logy|B|N|||study, word
+zythophile	noun	zytho-|zytho|B|N ; -phile|phile|B|N|||lover

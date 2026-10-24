@@ -666,6 +666,7 @@
       $("#result").hidden = false;
       renderAll();
       finish(key, opts);
+      if (!reuse) fillLocalMeanings(state.word, token);
       if (!reuse && canWrite) {
         state.abort = new AbortController();
         startDetails(key, provider, getModel(provider), token);
@@ -751,6 +752,7 @@
       cachePut(key, run.data);
       renderAll();
       finish(key, opts);
+      fillLocalMeanings(run.data, token);
       startDetails(key, run.provider, run.model, token);
       if (run.data.warnings && run.data.warnings.length) {
         popup({ tone: "warn", kind: "warning", sticky: true, html: `<b>Check this cut.</b> ${run.data.warnings.map(esc).join(" ")}` });
@@ -788,6 +790,19 @@
   }
 
   // ---------- Stage 2: meanings, etymology and word family arrive after the cut ----------
+  /** Meanings that need no AI: a free root means what the dictionary says its word means. */
+  async function fillLocalMeanings(w, token) {
+    let changed = false;
+    await Promise.all(w.morphemes.map(async m => {
+      if (m.meaning || m.type !== "root" || m.cls !== "root-free" || !/^[a-z]+$/i.test(m.form)) return;
+      const r = await window.MorphDict.lookup(m.form).catch(() => null);
+      if (!r || !r.found) return;
+      const s = window.MorphDict.summarize(r.entry);
+      if (s.gloss && !m.meaning) { m.meaning = (s.pos ? `(${s.pos}) ` : "") + s.gloss; changed = true; }
+    }));
+    if (changed && token === state.token && state.word === w) renderDetails(w);
+  }
+
   async function startDetails(key, provider, model, token) {
     const w = state.word;
     if (!w || w.word !== key) return;
@@ -800,7 +815,7 @@
           context: state.dict, neighbours: state.neighbours, level: w.level || state.level, signal: state.abort && state.abort.signal
         });
         if (token !== state.token || state.word !== w) return;
-        w.morphemes.forEach((m, i) => { m.meaning = d.morphemes[i].meaning; m.etym = d.morphemes[i].etym; });
+        w.morphemes.forEach((m, i) => { if (!m.fixedMeaning && d.morphemes[i].meaning) m.meaning = d.morphemes[i].meaning; if (d.morphemes[i].etym) m.etym = d.morphemes[i].etym; });
         w.insights = d.insights; w.family = d.family; w.etymology = d.etymology;
         if (d.gloss) w.gloss = d.gloss;
         w.detailState = "ready";
@@ -830,7 +845,7 @@
     if (w.detailState === "none") { el.innerHTML = `Add an AI key in Settings to see meanings and etymology.`; return; }
     el.innerHTML = w.detailState === "loading"
       ? `<span class="ds-spin"></span>Writing meanings and etymology…`
-      : `Meanings could not be loaded. <button type="button" data-retry-details>Try again</button>`;
+      : `Some details could not be loaded${w.detailError ? " (" + esc(String(w.detailError).replace(/\s+/g, " ").slice(0, 120)) + ")" : ""}. <button type="button" data-retry-details>Try again</button>`;
   }
 
   // ---------- Loading overlay ----------

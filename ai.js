@@ -284,6 +284,8 @@
   /** Stage-1 answer → the object the page renders. The tree is chosen by the morphotactics rules; the AI tree breaks ties. */
   function toAppFormat(ai, word, model) {
     const ms = ai.morphemes.map(m => ({ ...m, variant: m.variant || "", meaning: m.meaning || "", etym: m.etym || "" }));
+    // Affixes the course teaches come with a ready-made meaning that the AI text does not replace.
+    ms.forEach(m => { if (!m.meaning && window.MorphGloss) { const g = window.MorphGloss.meaning(m); if (g) { m.meaning = g; m.fixedMeaning = true; } } else if (m.meaning) m.fixedMeaning = true; });
     const hint = hintNode(ai, ms.length);
     const planned = window.MorphTactics.plan(ms, hint);
     const rawTree = planned ? planned.node : { m: 0 };
