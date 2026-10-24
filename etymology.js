@@ -67,5 +67,28 @@
     return steps.sort((x, y) => x.size - y.size);
   }
 
-  window.MorphEtym = { parse, buildSteps, familyOf };
+  /**
+   * Word-formation process (Unit 5) read from the dictionary's own etymology wording:
+   * "Clipping of …", "Blend of … and …", "Initialism of …", "Back-formation from …", "Named after …", "Borrowed from …".
+   * → { key, label, detail } or null (derivation, inflection and compounding come from the morpheme cut instead).
+   */
+  function process(text, morphemeCount) {
+    const t = clean(text);
+    if (!t) return null;
+    let m;
+    if ((m = t.match(/\b(?:Clipping|Clipped form|Shortening|Short form|Abbreviation) of ([A-Za-z' -]+?)(?:[,.;(]|$)/))) return { key: "clipping", label: "Clipping", detail: `shortened from “${m[1].trim()}”` };
+    if (/\b(?:Acronym|Initialism) of\b|\bFrom the initials of\b|\bfrom the initial letters of\b/i.test(t)) { m = t.match(/(?:Acronym|Initialism) of ([^.;]+)/i); return { key: "acronym", label: "Acronym / initialism", detail: m ? `from ${m[1].replace(/[()]/g, "").replace(/\s+/g, " ").trim().slice(0, 80)}` : "made from initial letters" }; }
+    if ((m = t.match(/\b(?:Blend|Portmanteau) of ([^,.;]+?) (?:and|\+) ([^,.;(]+)/i))) return { key: "blend", label: "Blending", detail: `${m[1].trim()} + ${m[2].trim()}` };
+    if ((m = t.match(/\bBack-?formation from ([A-Za-z' -]+?)(?:[,.;(]|$)/i))) return { key: "backformation", label: "Back-formation", detail: `from “${m[1].trim()}”` };
+    if ((m = t.match(/\b(?:Named (?:after|for)|Eponym|From the name of|From the surname)\b([^.;]*)/i))) return { key: "coinage", label: "Coinage (eponym)", detail: m[1].replace(/^\s*[:,]?\s*/, "").slice(0, 70) || "named after a person or place" };
+    if (/\b(?:Trademark|Trade name|Brand name|genericized trademark|Proprietary eponym)\b/i.test(t)) return { key: "coinage", label: "Coinage (trade name)", detail: "from a brand name" };
+    if (/^Coined\b|\bCoined (?:by|from|in)\b/.test(t)) return { key: "coinage", label: "Coinage", detail: "a newly invented word" };
+    if (morphemeCount === 1 && (m = t.match(/^(?:Borrowed from|Learned borrowing from|Unadapted borrowing from|Semantic loan from|Calque of|From)\s+((?:Medieval |Late |New |Vulgar |Old |Middle |Ancient |Classical )?(?:Latin|Greek|French|Italian|Spanish|Portuguese|German|Dutch|Arabic|Persian|Hindi|Hindustani|Japanese|Russian|Sanskrit|Turkish|Yiddish|Hebrew|Malay|Mandarin|Chinese|Norwegian|Swedish|Danish))\b/))) {
+      if (/^From (?:Old|Middle|Ancient)/.test(t) && !/Borrowed|loan/i.test(t) && /^From (?:Old English|Middle English)/.test(t)) return null;
+      return { key: "borrowing", label: "Borrowing", detail: `from ${m[1]}` };
+    }
+    return null;
+  }
+
+  window.MorphEtym = { parse, buildSteps, familyOf, process };
 })();

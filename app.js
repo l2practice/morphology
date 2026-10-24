@@ -125,6 +125,19 @@
   }
 
   /** Short label such as "Derivation (prefix + 2 suffixes) + inflection", worked out from the morphemes. */
+  /** Unit 5: the word-formation process the dictionary names for this word, if any. */
+  const FORMATION = {
+    clipping: ["Clipping", "A longer word is shortened.", "advertisement → ad · gymnasium → gym · telephone → phone"],
+    acronym: ["Acronym / initialism", "A word made from the initial letters of a phrase.", "NATO · laser · FBI · radar"],
+    blend: ["Blending", "Parts of two words are joined into one new word.", "breakfast + lunch → brunch · smoke + fog → smog"],
+    coinage: ["Coinage (trade names, eponyms)", "A brand-new word, or a word named after a person, place or product.", "Kleenex · Google · sandwich · boycott"],
+    borrowing: ["Borrowing", "A word taken over from another language.", "pizza · kindergarten · sushi · algebra"],
+    backformation: ["Back-formation", "A shorter word made by removing a supposed affix from a longer one.", "edit ← editor · televise ← television · burgle ← burglar"]
+  };
+  function formationOf(w) {
+    const text = (state.dict && state.dict.etymology) || (w.etymology && w.etymology.summary) || "";
+    return window.MorphEtym.process(text, w.morphemes.length);
+  }
   function processLabel(w) {
     if (w.source !== "ai" && w.process && w.process.length <= 70) return w.process;   // hand-written for the verified words
     const ms = w.morphemes;
@@ -148,7 +161,8 @@
     $("#w-gloss").textContent = (dict && dict.gloss) || w.gloss || "";
     $("#w-pos").textContent = (dict && dict.pos) || w.pos || "";
     $("#w-cefr").textContent = dict && dict.cefr ? "CEFR " + dict.cefr : "";
-    $("#w-process").textContent = w.morphemes ? processLabel(w) : "";
+    const fp = w.morphemes ? formationOf(w) : null;
+    $("#w-process").textContent = w.morphemes ? (fp ? fp.label : processLabel(w)) : "";
     $("#w-wtype").textContent = w.morphemes ? WORD_TYPES[wordTypeOf(w).key].name : "";
     const src = $("#w-source");
     src.className = "tag source " + (state.source === "verified" ? "verified" : state.source === "ai" ? "ai" : "verified");
@@ -386,6 +400,13 @@
     if (wt.key === "compound" && wt.der.length) notes.push("It also contains derivational affixes, so it combines compounding with derivation.");
     if (wt.key === "simple" && wt.roots.length && wt.roots[0].cls === "root-bound") notes.push("Its only root is bound, so it behaves like a simple word only in this analysis.");
     if (wt.key !== "complex" && wt.inf.length) notes.push("Inflectional suffixes do not change the word type.");
+    const fp = formationOf(w);
+    const unit5 = `<h4 class="wt-sub">How was this word formed? (word-formation processes)</h4>
+      ${fp ? `<div class="wt-result"><span class="wt-badge process">${esc(fp.label)}</span><div class="wt-formula">${esc(fp.detail)}</div></div>` : `<p class="cls-note">${w.morphemes.length > 1 ? "Built by affixation or compounding: see the morphemes above." : "No special process is named in the dictionary: it is an ordinary simple word."}</p>`}
+      <div class="wt-table wt-proc">
+        <div class="wt-h">Process</div><div class="wt-h">What happens</div><div class="wt-h">Examples</div>
+        ${Object.entries(FORMATION).map(([k, d]) => `<div class="wt-c wt-type${fp && fp.key === k ? " on" : ""}">${esc(d[0])}</div><div class="wt-c${fp && fp.key === k ? " on" : ""}">${esc(d[1])}</div><div class="wt-c${fp && fp.key === k ? " on" : ""}">${esc(d[2])}</div>`).join("")}
+      </div>`;
     $("#wordtype").innerHTML = `
       <div class="wt-result"><span class="wt-badge ${wt.key}">${def.name}</span><div class="wt-formula">${formula}</div></div>
       ${notes.map(n => `<p class="cls-note">${esc(n)}</p>`).join("")}
@@ -395,7 +416,8 @@
           <div class="wt-c wt-type ${k}${k === wt.key ? " on" : ""}">${d.name}</div>
           <div class="wt-c${k === wt.key ? " on" : ""}">${esc(d.def)}</div>
           <div class="wt-c${k === wt.key ? " on" : ""}">${d.abbr} = ${esc(d.structure)}</div>`).join("")}
-      </div>`;
+      </div>
+      ${unit5}`;
     return def.name;
   }
 

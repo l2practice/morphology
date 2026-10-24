@@ -823,3 +823,8 @@ h3 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -.01em; }
 .lv-switch button { position: relative; }
 @keyframes spin { to { transform: rotate(360deg); } }
 @media (prefers-reduced-motion: reduce) { .lv-switch button.is-loading::after { animation-duration: 2s; } }
+
+.wt-sub { margin: 22px 0 8px; font-size: 13px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.wt-badge.process { background: var(--orange-t); color: var(--orange-d); }
+.wt-proc { grid-template-columns: minmax(150px, 1.1fr) 2fr 2fr; }
+@media (max-width: 640px) { .wt-proc { grid-template-columns: 1fr; } }
