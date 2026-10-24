@@ -53,8 +53,10 @@ Example lines:
    gift = give + -t. Write the changed stem in `surface` (long → `leng`) and the real base in `form`.
 5. A piece that appears in only one or two words is not a morpheme: do not cut cranberry-type residues.
 6. Inflection (-s, -ed, -ing, -er, -est, adverbial -ly) is code `I` and always last, as in the basic key.
-7. Never cut a proper noun, a borrowed word whose parts do not recur in English (employ, deploy, enjoy, refer),
-   or a word where the cut would leave one letter.
+7. Never cut a proper noun or a word where the cut would leave one letter. Borrowed words DO get cut here when the
+   parts recur in a family: refer/prefer/confer/transfer/defer/infer = prefix + -fer (Latin ferre 'to carry');
+   employ/deploy = em-/de- + -ploy, imply/reply/apply/comply/supply = prefix + -ply (Latin plicare 'to fold');
+   enjoy = en- + joy.
 8. Surfaces join to the word; at most 7 fields per morpheme; exactly 3 tab-separated fields per line.
 
 ## When all batches are finished (or when I say "pack it")
