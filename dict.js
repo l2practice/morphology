@@ -61,8 +61,17 @@
   }
 
   const RESERVED = new Set(["con", "prn", "aux", "nul"]);
+  // The published data has no prefix file for the Windows-reserved names (con, aux, nul, prn), so every
+  // "con…" word (construction, control, consider …) would look missing. words.txt still lists them, and the
+  // entry shards are keyed by headword, so rebuild the missing bucket from words.txt.
+  const synth = new Map();
   async function prefixFile(m, key) {
-    return getJson(dataUrl(m, `p/${RESERVED.has(key) ? key + "-" : key}.json`));
+    const pf = await getJson(dataUrl(m, `p/${RESERVED.has(key) ? key + "-" : key}.json`));
+    if (pf || !RESERVED.has(key)) return pf;
+    if (!synth.has(key)) synth.set(key, wordList().then(ws => ({
+      h: ws.filter(x => bucket(m, x[0]) === key).map(x => [x[0], Number.isFinite(x[1]) ? x[1] : null, x[0]]), f: []
+    })));
+    return synth.get(key);
   }
 
   async function entryOf(m, headword) {
@@ -119,6 +128,54 @@
     const k = bucket(m, q);
     if (pf.top && q.length === k.length) return pf.top.en.slice(0, 6);
     return (pf.h || []).filter(x => (x[2] || norm(x[0])).startsWith(q)).slice(0, 6).map(x => x[0]);
+  }
+
+  // ---- related words for a word the dictionary does not have (construction → construct, constructive) ----
+  async function hasHeadword(m, w) {
+    const pf = await prefixFile(m, bucket(m, w)).catch(() => null);
+    return !!(pf && (pf.h || []).some(x => (x[2] || norm(x[0])) === w));
+  }
+
+  /**
+   * Evidence for cutting an unknown word: dictionary words it could be built from (by stripping an affix and
+   * undoing the spelling change) and dictionary words that share its stem.
+   * → { bases: [{word, how}], family: [word], likely: boolean }
+   */
+  async function neighbours(raw) {
+    const m = await manifest();
+    const n = norm(raw);
+    if (!/^[a-z]{5,}$/.test(n)) return { bases: [], family: [], likely: false };
+    const T = window.MorphTactics || {};
+    const sufs = Object.keys({ ...(T.SUFFIX || {}), ...(T.INFLECT || {}) }).filter(s => /^[a-z]+$/.test(s));
+    const cands = new Map();
+    const add = (b, how) => { if (b.length >= 3 && b !== n && !cands.has(b)) cands.set(b, how); };
+    for (const s of sufs) {
+      if (!n.endsWith(s) || n.length - s.length < 3) continue;
+      const stem = n.slice(0, -s.length);
+      add(stem, "-" + s);
+      add(stem + "e", "-" + s + " (final e dropped)");
+      if (/i$/.test(stem)) add(stem.slice(0, -1) + "y", "-" + s + " (y became i)");
+      if (/([b-df-hj-np-tv-z])\1$/.test(stem)) add(stem.slice(0, -1), "-" + s + " (consonant doubled)");
+    }
+    for (const p of Object.keys(T.PREFIX || {})) {
+      if (n.startsWith(p) && n.length - p.length >= 3) add(n.slice(p.length), p + "-");
+    }
+    const checked = await Promise.all([...cands.keys()].map(async b => [b, await hasHeadword(m, b)]));
+    const bases = checked.filter(x => x[1]).map(x => ({ word: x[0], how: cands.get(x[0]) }))
+      .sort((a, b) => (a.how[0] === "-" ? 0 : 1) - (b.how[0] === "-" ? 0 : 1) || b.word.length - a.word.length).slice(0, 4);
+
+    // Words that share the stem: construction → construct, constructed, constructive, constructor …
+    let family = [];
+    const pf = await prefixFile(m, bucket(m, n)).catch(() => null);
+    if (pf) {
+      for (let k = n.length - 1; k >= Math.max(5, n.length - 5) && family.length < 3; k--) {
+        const stem = n.slice(0, k);
+        family = (pf.h || []).filter(x => { const w = x[2] || norm(x[0]); return w !== n && /^[a-z]+$/.test(w) && w.startsWith(stem); })
+          .sort((a, b) => (a[1] ?? Infinity) - (b[1] ?? Infinity)).slice(0, 8).map(x => x[0]);
+      }
+    }
+    const suffixBase = bases.some(b => b.how[0] === "-");
+    return { bases, family: family.length >= 2 ? family : [], likely: suffixBase || family.length >= 3 };
   }
 
   // ---- spelling suggestions (only fetched when a word is not found) ----
@@ -200,5 +257,5 @@
     };
   }
 
-  window.MorphDict = { lookup, suggest, fuzzy, summarize, norm };
+  window.MorphDict = { lookup, suggest, fuzzy, neighbours, summarize, norm };
 })();

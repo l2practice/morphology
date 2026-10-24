@@ -4,7 +4,7 @@
  * morphemes can be shown while the rest of the analysis is still arriving.
  */
 (function () {
-  const PROMPT_VERSION = 18;
+  const PROMPT_VERSION = 20;
   const MAX_ATTEMPTS = 2;   // 1 retry when the answer fails validation
 
   /**
@@ -113,7 +113,7 @@
     "- etymology (about the WHOLE word): summary is ONE sentence on where the word comes from (for example: comes from Latin through Old French and entered English in the 14th century); steps are 2 to 3 stages with a short label such as \"Latin origin\", \"Old French\" or \"Entry into English\" and a text of at most 20 words; meanings are 0 to 3 changes of meaning, each with a period (for example \"14th century\") and a text. Base it on the dictionary etymology when one is given. Only state dates and facts you are sure about; otherwise leave the period out of the text or use an empty list.",
     "- Read the dictionary etymology as evidence: \"X + -suffix\" (formed inside English) supports a cut; a plain history of borrowing or inheritance with no \"+\" (employ: from Old French emploier; enjoy, deploy, refer likewise) supports ONE root.",
     "- The user message may contain DICTIONARY CONTEXT (part of speech, definition, etymology of the word). Treat it as reliable, use it to decide the segmentation and to keep etym short, and do not contradict it.",
-    "- If the user message says the word is NOT in the dictionary, analyse it as a nonce word using productive rules, and say so in the gloss."
+    "- If the user message says the word is NOT in the dictionary: when related dictionary words are listed, build the cut on them (the base must be one of those words or their stem); otherwise analyse it as a nonce word using productive rules."
   ].join("\n");
 
 
@@ -535,8 +535,38 @@
     }
   }
 
-  function contextText(word, ctx) {
-    if (!ctx) return `Word to analyse: "${word}"\nDICTIONARY CONTEXT: this word is NOT in the dictionary.`;
+  /** Lines about dictionary words related to an unknown word (see MorphDict.neighbours). */
+  /** Verified words cut with the same pattern (same prefix at the start / same suffix at the end), best first. */
+  function analogues(word) {
+    const db = window.IC_DB || {};
+    const hits = [];
+    for (const [w, e] of Object.entries(db)) {
+      if (w === word || !e.morphemes) continue;
+      let score = 0;
+      e.morphemes.forEach((m, i) => {
+        const sf = m.surface || "";
+        if (m.type === "prefix" && i === 0 && sf && word.startsWith(sf)) score += 2;
+        if (m.type === "suffix" && i === e.morphemes.length - 1 && sf && word.endsWith(sf)) score += 2;
+        else if (m.type === "suffix" && sf.length > 2 && word.endsWith(sf)) score += 1;
+      });
+      if (score) hits.push([score, e.morphemes.length, w, e.morphemes.map(m => m.form).join(" + ")]);
+    }
+    return hits.sort((a, b) => b[0] - a[0] || b[1] - a[1]).slice(0, 3).map(h => `${h[2]} = ${h[3]}`);
+  }
+
+  function neighbourLines(nb, word) {
+    const out = [];
+    const an = word ? analogues(word) : [];
+    if (an.length) out.push("- Words with a similar build, already cut correctly: " + an.join("; ") + ". Follow the same pattern (same affix forms, same cut order).");
+    if (!nb || (!nb.bases.length && !nb.family.length)) return out;
+    if (nb.bases.length) out.push("- It looks built from words that ARE in the dictionary: " + nb.bases.map(b => `${b.word} (${b.how})`).join(", ") + ".");
+    if (nb.family.length) out.push("- Dictionary words with the same stem: " + nb.family.join(", ") + ".");
+    out.push("- Cut it the same way these related words are cut, and use the real base word as the root.");
+    return out;
+  }
+
+  function contextText(word, ctx, nb) {
+    if (!ctx) return [`Word to analyse: "${word}"`, "DICTIONARY CONTEXT: this word is NOT in the dictionary.", ...neighbourLines(nb, word)].join("\n");
     const lines = [`Word to analyse: "${word}"`, "DICTIONARY CONTEXT:"];
     if (ctx.lemma && ctx.lemma !== word) lines.push(`- "${word}" is an inflected form of "${ctx.lemma}"${ctx.tags ? ` (${ctx.tags})` : ""}: analyse it as the root of "${ctx.lemma}" plus its inflection.`);
     if (ctx.pos) lines.push(`- part of speech: ${ctx.pos}`);
@@ -559,7 +589,7 @@
     const { word, provider, apiKey, model, context, signal } = opts;
     let problems = [];
     for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
-      let userText = contextText(word, context);
+      let userText = contextText(word, context, opts.neighbours);
       if (problems.length) {
         userText += "\n\nA previous analysis of this word was rejected by the validator for these reasons:\n- " +
           problems.join("\n- ") + "\nFollow the decision procedure carefully and fix every point.";
@@ -599,7 +629,7 @@
   async function enrich(opts) {
     const { word, provider, apiKey, model, morphemes, context, signal } = opts;
     const list = morphemes.map((m, i) => `${i}. ${m.form} (${m.type}${m.cls ? ", " + m.cls : ""}${m.variant ? ", " + m.variant : ""})`).join("\n");
-    const userText = contextText(word, context).replace("Word to analyse:", "Word:") + `\nMorphemes, in order:\n${list}`;
+    const userText = contextText(word, context, opts.neighbours).replace("Word to analyse:", "Word:") + `\nMorphemes, in order:\n${list}`;
     const ai = await stream({ provider, apiKey, model, userText, signal, system: DETAIL_PROMPT, schema: DETAIL_SCHEMA, timeoutMs: opts.timeoutMs || 60000 });
     const arr = Array.isArray(ai.morphemes) ? ai.morphemes : [];
     return {

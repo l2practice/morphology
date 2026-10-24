@@ -658,9 +658,14 @@
     if (token !== state.token) return;
     state.dict = dictContext(dictRes);
 
-    // Not in the dictionary: offer spelling suggestions before spending an API call.
+    // Not in the dictionary: look for related dictionary words first. A word built from known words
+    // (construction ← construct) is real; only an unexplained word gets spelling suggestions.
+    let nb = null;
     if (!dictRes || !dictRes.found) {
-      if (dictRes !== null && !opts.force) {
+      nb = dictRes === null ? null : await window.MorphDict.neighbours(key).catch(() => null);
+      if (token !== state.token) return;
+      state.neighbours = nb;
+      if (dictRes !== null && !opts.force && !(nb && nb.likely)) {
         const sugg = await window.MorphDict.fuzzy(key).catch(() => []);
         if (token !== state.token) return;
         if (sugg.length) {
@@ -694,7 +699,9 @@
     if (state.dict === null && dictRes === null) {
       showNotice("The dictionary could not be reached, so this analysis has no dictionary context.");
     } else if (!state.dict) {
-      showNotice(`“${esc(key)}” is not in the dictionary — it will be analysed as a made-up word.`);
+      showNotice(nb && (nb.bases.length || nb.family.length)
+        ? `“${esc(key)}” is not in the dictionary, so it is cut using related words: ${esc([...nb.bases.map(b => b.word), ...nb.family].filter((w, i, arr) => arr.indexOf(w) === i).slice(0, 6).join(", "))}.`
+        : `“${esc(key)}” is not in the dictionary — it will be analysed as a made-up word.`);
     }
 
     const attempts = [];   // everything that failed, for the banner
@@ -754,7 +761,7 @@
       try {
         const d = await window.MorphAI.enrich({
           word: key, provider, apiKey: getKey(provider), model, morphemes: w.morphemes,
-          context: state.dict, signal: state.abort && state.abort.signal
+          context: state.dict, neighbours: state.neighbours, signal: state.abort && state.abort.signal
         });
         if (token !== state.token || state.word !== w) return;
         w.morphemes.forEach((m, i) => { m.meaning = d.morphemes[i].meaning; m.etym = d.morphemes[i].etym; });
@@ -848,7 +855,7 @@
           setOverlay(attempts.length ? `Trying ${PROV[step.provider].name} · ${step.model} …` : `Asking ${PROV[step.provider].name} to cut the word into morphemes …`, `${PROV[step.provider].name} · ${step.model}`);
           const data = await window.MorphAI.analyze({
             word: key, provider: step.provider, apiKey: getKey(step.provider), model: step.model,
-            context: state.dict, signal: state.abort.signal, timeoutMs: Math.max(8000, Math.min(30000, deadline - Date.now())),
+            context: state.dict, neighbours: state.neighbours, signal: state.abort.signal, timeoutMs: Math.max(8000, Math.min(30000, deadline - Date.now())),
             onMorphemes: ms => { if (token === state.token) { renderBricks(ms); setOverlay(`Receiving the answer … ${ms.length} morpheme${ms.length === 1 ? "" : "s"} so far`); } },
             onAttempt: () => say("Double-checking the cuts…")
           });
