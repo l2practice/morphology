@@ -31,6 +31,7 @@
   addS("ment tion ation ition sion ion ure ee eer or", ["V"], ["N"]);
   addS("ance ence ancy ency age", ["V", "Adj"], ["N"]);
   addS("al", ["V", "N"], ["N", "Adj"]);
+  SUFFIX.al.map = { V: "N", N: "Adj" };   // refuse → refusal (N), nation → national (Adj)
   addS("ist ism", ["N", "Adj"], ["N"]);
   addS("hood ship dom ery ry ette let ling ster", ["N", "Adj"], ["N"]);
   addS("able ible", ["V", "N"], ["Adj"]);
@@ -78,6 +79,7 @@
   function apply(rule, cat) {
     if (!rule) return [cat || ""];                      // unknown affix: do not block
     if (cat && !rule.from.includes(cat)) return [];     // wrong class for this affix
+    if (cat && rule.map && rule.map[cat]) return [rule.map[cat]];   // the result depends on the input class
     if (rule.to === same) return [cat || ""];
     return rule.to.slice();
   }
