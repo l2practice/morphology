@@ -1,0 +1,200 @@
+unfed	un- + feed + -ed	adj
+unfeed	un- + feed	verb
+unfeeling	un- + feel + -ing	adj
+unfeelingly	un- + feel + -ing + -ly	adv
+unfeelingness	un- + feel + -ing + -ness	noun
+unfeigned	un- + feign + -ed	adj
+unfeignedly	un- + feign + -ed + -ly	adv
+unfeignedness	un- + feign + -ed + -ness	noun
+unfellowed	un- + fellow + -ed	adj
+unfelt	un- + feel + -ed	adj
+unfeminine	un- + feminine	adj
+unfence	un- + fence	verb
+unfenced	un- + fence + -ed	adj
+unfermentable	un- + ferment + -able	adj
+unfermented	un- + ferment + -ed	adj
+unfertile	un- + fertile	adj
+unfertilized	un- + fertile + -ize + -ed	adj
+unfestive	un- + festive	adj
+unfetter	un- + fetter	verb
+unfettered	un- + fetter + -ed	adj
+unfeudalize	un- + feud + -al + -ize	verb
+unfightable	un- + fight + -able	adj
+unfigured	un- + figure + -ed	adj
+unfile	un- + file	verb
+unfiled	un- + file + -ed	adj
+unfilial	un- + filial	adj
+unfilled	un- + fill + -ed	adj
+unfilmed	un- + film + -ed	adj
+unfiltered	un- + filter + -ed	adj
+unfindable	un- + find + -able	adj
+unfingered	un- + finger + -ed	adj
+unfinished	un- + finish + -ed	adj
+unfinishedness	un- + finish + -ed + -ness	noun
+unfired	un- + fire + -ed	adj
+unfit	un- + fit	adj
+unfitly	un- + fit + -ly	adv
+unfitness	un- + fit + -ness	noun
+unfitted	un- + fit + -ed	adj
+unfitting	un- + fit + -ing	adj
+unfix	un- + fix	verb
+unfixable	un- + fix + -able	adj
+unfixed	un- + fix + -ed	adj
+unflagging	un- + flag + -ing	adj
+unflaggingly	un- + flag + -ing + -ly	adv
+unflamboyant	un- + flamboyant	adj
+unflappability	un- + flap + -able + -ity	noun
+unflappable	un- + flap + -able	adj
+unflappably	un- + flap + -able + -ly	adv
+unflattering	un- + flatter + -ing	adj
+unflatteringly	un- + flatter + -ing + -ly	adv
+unflavored	un- + flavor + -ed	adj
+unflawed	un- + flaw + -ed	adj
+unflecked	un- + fleck + -ed	adj
+unfledged	un- + fledge + -ed	adj
+unfleshed	un- + flesh + -ed	adj
+unfleshly	un- + flesh + -ly	adj
+unflexed	un- + flex + -ed	adj
+unflickering	un- + flick + -er + -ing	adj
+unflinching	un- + flinch + -ing	adj
+unflinchingly	un- + flinch + -ing + -ly	adv
+unflinchingness	un- + flinch + -ing + -ness	noun
+unflower	un- + flower	verb
+unfluctuating	un- + fluctuate + -ing	adj
+unflyable	un- + fly + -able	adj
+unfocused	un- + focus + -ed	adj
+unfoiled	un- + foil + -ed	adj
+unfold	un- + fold	verb
+unfolded	un- + fold + -ed	adj
+unfolding	un- + fold + -ing	adj
+unfoldment	un- + fold + -ment	noun
+unfollow	un- + follow	verb
+unfond	un- + fond	adj
+unfooled	un- + fool + -ed	adj
+unfooted	un- + foot + -ed	adj
+unforbearing	un- + fore- + bear + -ing	adj
+unforbidden	un- + forbid + -en	adj
+unforceable	un- + force + -able	adj
+unforced	un- + force + -ed	adj
+unfordable	un- + ford + -able	adj
+unforeknowable	un- + fore- + know + -able	adj
+unforeseeable	un- + fore- + see + -able	adj
+unforeseeing	un- + fore- + see + -ing	adj
+unforeseen	un- + fore- + see + -en	adj
+unforested	un- + forest + -ed	adj
+unforetold	un- + fore- + tell + -ed	adj
+unforewarned	un- + fore- + warn + -ed	adj
+unforged	un- + forge + -ed	adj
+unforgettability	un- + forget + -able + -ity	noun
+unforgettable	un- + forget + -able	adj
+unforgettableness	un- + forget + -able + -ness	noun
+unforgettably	un- + forget + -able + -ly	adv
+unforgivable	un- + forgive + -able	adj
+unforgivably	un- + forgive + -able + -ly	adv
+unforgiven	un- + forgive + -en	adj
+unforgiving	un- + forgive + -ing	adj
+unforgivingly	un- + forgive + -ing + -ly	adv
+unforgivingness	un- + forgive + -ing + -ness	noun
+unforgotten	un- + forget + -en	adj
+unformed	un- + form + -ed	adj
+unformidable	un- + formidable	adj
+unformulated	un- + formula + -ate + -ed	adj
+unforsaken	un- + forsake + -en	adj
+unforthcoming	un- + forth + come + -ing	adj
+unfortified	un- + fort + -ify + -ed	adj
+unfortunate	un- + fortune + -ate	adj
+unfortunately	un- + fortune + -ate + -ly	adv
+unfortunateness	un- + fortune + -ate + -ness	noun
+unfossiliferous	un- + fossiliferous	adj
+unfought	un- + fight + -ed	adj
+unfound	un- + find + -ed	adj
+unfounded	un- + found + -ed	adj
+unfoundedly	un- + found + -ed + -ly	adv
+unfoundedness	un- + found + -ed + -ness	noun
+unframe	un- + frame	verb
+unframed	un- + frame + -ed	adj
+unfranchised	un- + franchise + -ed	adj
+unfraternal	un- + fraternal	adj
+unfree	un- + free	adj
+unfreedom	un- + free + -dom	noun
+unfreezable	un- + freeze + -able	adj
+unfreeze	un- + freeze	verb
+unfrequent	un- + frequent	adj
+unfrequented	un- + frequent + -ed	adj
+unfriend	un- + friend	verb
+unfriended	un- + friend + -ed	adj
+unfriendliness	un- + friend + -ly + -ness	noun
+unfriendly	un- + friend + -ly	adj
+unfrightened	un- + fright + -en + -ed	adj
+unfrock	un- + frock	verb
+unfrocked	un- + frock + -ed	adj
+unfrocking	un- + frock + -ing	noun
+unfrugal	un- + frugal	adj
+unfruitful	un- + fruit + -ful	adj
+unfruitfully	un- + fruit + -ful + -ly	adv
+unfruitfulness	un- + fruit + -ful + -ness	noun
+unfulfillable	un- + full + fill + -able	adj
+unfulfilled	un- + full + fill + -ed	adj
+unfunctional	un- + function + -al	adj
+unfunded	un- + fund + -ed	adj
+unfunny	un- + fun + -y	adj
+unfurl	un- + furl	verb
+unfurling	un- + furl + -ing	noun
+unfurnish	un- + furnish	verb
+unfurnished	un- + furnish + -ed	adj
+unfurrowed	un- + furrow + -ed	adj
+unfuse	un- + fuse	verb
+unfused	un- + fuse + -ed	adj
+unfussy	un- + fuss + -y	adj
+ungag	un- + gag	verb
+ungainliness	un- + gain + -ly + -ness	noun
+ungainly	un- + gain + -ly	adj
+ungainsayable	un- + gain + say + -able	adj
+ungallant	un- + gallant	adj
+ungalled	un- + gall + -ed	adj
+ungalvanized	un- + galvanize + -ed	adj
+ungarbled	un- + garble + -ed	adj
+ungarmented	un- + garment + -ed	adj
+ungarnered	un- + garner + -ed	adj
+ungarnished	un- + garnish + -ed	adj
+ungated	un- + gate + -ed	adj
+ungathered	un- + gather + -ed	adj
+ungauged	un- + gauge + -ed	adj
+ungear	un- + gear	verb
+ungelded	un- + geld + -ed	adj
+ungenerosity	un- + generous + -ity	noun
+ungenerous	un- + generous	adj
+ungenerously	un- + generous + -ly	adv
+ungenial	un- + genial	adj
+ungenteel	un- + genteel	adj
+ungentle	un- + gentle	adj
+ungentlemanlike	un- + gentle + man + -like	adj
+ungentlemanly	un- + gentle + man + -ly	adj
+ungentleness	un- + gentle + -ness	noun
+ungerminated	un- + germinate + -ed	adj
+unget	un- + get	verb
+unghostly	un- + ghost + -ly	adj
+ungifted	un- + gift + -ed	adj
+ungild	un- + gild	verb
+ungilt	un- + gild + -ed	adj
+ungird	un- + gird	verb
+ungirdle	un- + girdle	verb
+ungiven	un- + give + -en	adj
+unglad	un- + glad	adj
+unglamorized	un- + glamor + -ize + -ed	adj
+unglamorous	un- + glamour + -ous	adj
+unglazed	un- + glaze + -ed	adj
+unglorified	un- + glory + -ify + -ed	adj
+unglossy	un- + gloss + -y	adj
+ungloved	un- + glove + -ed	adj
+unglue	un- + glue	verb
+unglued	un- + glue + -ed	adj
+ungodlike	un- + god + -like	adj
+ungodliness	un- + god + -ly + -ness	noun
+ungodly	un- + god + -ly	adj
+ungoogleable	un- + google + -able	adj
+ungotten	un- + get + -en	adj
+ungovernable	un- + govern + -able	adj
+ungovernableness	un- + govern + -able + -ness	noun
+ungovernably	un- + govern + -able + -ly	adv
+ungoverned	un- + govern + -ed	adj

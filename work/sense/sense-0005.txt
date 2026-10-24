@@ -1,0 +1,200 @@
+disenthrone	dis- + en- + throne	verb
+disentitle	dis- + en- + title	verb
+disentomb	dis- + en- + tomb	verb
+disentombment	dis- + en- + tomb + -ment	noun
+disequilibrate	dis- + equilibrate	verb
+disequilibration	dis- + equilibrate + -ion	noun
+disequilibrium	dis- + equilibrium	noun
+disestablish	dis- + establish	verb
+disestablishment	dis- + establish + -ment	noun
+disestablishmentarian	dis- + establish + -ment + -ian	noun
+disesteem	dis- + esteem	noun
+disfavored	dis- + favor + -ed	adj
+disfavour	dis- + favour	verb
+disfavoured	dis- + favour + -ed	verb
+disfeature	dis- + feature	verb
+disfiguration	dis- + figure + -ation	noun
+disfigure	dis- + figure	verb
+disfigured	dis- + figure + -ed	adj
+disfigurement	dis- + figure + -ment	noun
+disforest	dis- + forest	verb
+disfranchise	dis- + franchise	verb
+disfranchisement	dis- + franchise + -ment	noun
+disfrock	dis- + frock	verb
+disgorge	dis- + gorge	verb
+disgorging	dis- + gorge + -ing	verb
+disgrace	dis- + grace	noun
+disgraced	dis- + grace + -ed	adj
+disgraceful	dis- + grace + -ful	adj
+disgracefully	dis- + grace + -ful + -ly	adv
+disgracefulness	dis- + grace + -ful + -ness	noun
+disgruntled	dis- + gruntle + -ed	adj
+disgruntlement	dis- + gruntle + -ment	noun
+disguise	dis- + guise	verb
+disguised	dis- + guise + -ed	adj
+disguisedly	dis- + guise + -ed + -ly	adv
+disguisement	dis- + guise + -ment	noun
+disguising	dis- + guise + -ing	verb
+dishabituate	dis- + habit + -ate	verb
+dishallow	dis- + hallow	verb
+disharmonious	dis- + harmony + -ious	adj
+disharmonize	dis- + harmony + -ize	verb
+disharmony	dis- + harmony	noun
+dishearten	dis- + heart + -en	verb
+disheartened	dis- + heart + -en + -ed	adj
+disheartening	dis- + heart + -en + -ing	adj
+dishearteningly	dis- + heart + -en + -ing + -ly	adv
+disheartenment	dis- + heart + -en + -ment	noun
+dishonest	dis- + honest	adj
+dishonestly	dis- + honest + -ly	adv
+dishonesty	dis- + honest + -y	noun
+dishonor	dis- + honor	noun
+dishonorable	dis- + honor + -able	adj
+dishonorably	dis- + honor + -able + -ly	adv
+dishonored	dis- + honor + -ed	verb
+dishonour	dis- + honour	noun
+dishonourable	dis- + honour + -able	adj
+dishonoured	dis- + honour + -ed	adj
+dishorn	dis- + horn	verb
+dishouse	dis- + house	verb
+disillusion	dis- + illusion	verb
+disillusioned	dis- + illusion + -ed	adj
+disillusionize	dis- + illusion + -ize	verb
+disillusionment	dis- + illusion + -ment	noun
+disincentive	dis- + incentive	noun
+disincentivize	dis- + incentive + -ize	verb
+disinclination	dis- + incline + -ation	noun
+disincline	dis- + incline	verb
+disinclined	dis- + incline + -ed	adj
+disincorporate	dis- + incorporate	verb
+disinfect	dis- + infect	verb
+disinfectant	dis- + infect + -ant	noun
+disinfection	dis- + infect + -ion	noun
+disinfest	dis- + infest	verb
+disinfestation	dis- + infest + -ation	noun
+disinflation	dis- + inflate + -ion	noun
+disinflationary	dis- + inflate + -ion + -ary	adj
+disinformation	dis- + inform + -ation	noun
+disingenuous	dis- + ingenuous	adj
+disingenuously	dis- + ingenuous + -ly	adv
+disingenuousness	dis- + ingenuous + -ness	noun
+disinherit	dis- + inherit	verb
+disinheritance	dis- + inherit + -ance	noun
+disinhibition	dis- + inhibit + -ion	noun
+disintegrate	dis- + integrate	verb
+disintegrated	dis- + integrate + -ed	adj
+disintegrating	dis- + integrate + -ing	adj
+disintegration	dis- + integrate + -ion	noun
+disintegrative	dis- + integrate + -ive	adj
+disintegrator	dis- + integrate + -or	noun
+disinter	dis- + inter	verb
+disinterest	dis- + interest	noun
+disinterested	dis- + interest + -ed	adj
+disinterestedly	dis- + interest + -ed + -ly	adv
+disinterestedness	dis- + interest + -ed + -ness	noun
+disintermediation	dis- + inter- + mediate + -ion	noun
+disinterment	dis- + inter + -ment	noun
+disintoxicate	dis- + in- + toxic + -ate	verb
+disintoxication	dis- + in- + toxic + -ate + -ion	noun
+disinvest	dis- + invest	verb
+disinvestment	dis- + invest + -ment	noun
+disjoin	dis- + join	verb
+disjoint	dis- + joint	verb
+disjointed	dis- + joint + -ed	adj
+disjointedly	dis- + joint + -ed + -ly	adv
+disjointedness	dis- + joint + -ed + -ness	noun
+disjointness	dis- + joint + -ness	noun
+disjunction	dis- + junction	noun
+disjuncture	dis- + juncture	noun
+dislike	dis- + like	verb
+dislocate	dis- + locate	verb
+dislocated	dis- + locate + -ed	verb
+dislocation	dis- + locate + -ion	noun
+dislodge	dis- + lodge	verb
+dislodgement	dis- + lodge + -ment	noun
+dislodging	dis- + lodge + -ing	verb
+disloyal	dis- + loyal	adj
+disloyalist	dis- + loyal + -ist	noun
+disloyally	dis- + loyal + -ly	adv
+disloyalty	dis- + loyal + -ty	noun
+dismantle	dis- + mantle	verb
+dismantlement	dis- + mantle + -ment	noun
+dismantling	dis- + mantle + -ing	noun
+dismask	dis- + mask	verb
+dismast	dis- + mast	verb
+dismember	dis- + member	verb
+dismembered	dis- + member + -ed	adj
+dismemberment	dis- + member + -ment	noun
+dismissal	dis- + miss + -al	noun
+dismissed	dis- + miss + -ed	verb
+dismount	dis- + mount	verb
+dismounted	dis- + mount + -ed	verb
+dismounting	dis- + mount + -ing	verb
+disobedience	dis- + obedience	noun
+disobedient	dis- + obedient	adj
+disobediently	dis- + obedient + -ly	adv
+disobey	dis- + obey	verb
+disobligation	dis- + oblige + -ation	noun
+disoblige	dis- + oblige	verb
+disobliging	dis- + oblige + -ing	adj
+disobligingly	dis- + oblige + -ing + -ly	adv
+disorder	dis- + order	noun
+disordered	dis- + order + -ed	adj
+disordering	dis- + order + -ing	verb
+disorderliness	dis- + order + -ly + -ness	noun
+disorderly	dis- + order + -ly	adj
+disorganise	dis- + organ + -ise	verb
+disorganised	dis- + organ + -ise + -ed	verb
+disorganization	dis- + organ + -ize + -ation	noun
+disorganize	dis- + organ + -ize	verb
+disorganized	dis- + organ + -ize + -ed	verb
+disorient	dis- + orient	verb
+disorientation	dis- + orient + -ation	noun
+disorienting	dis- + orient + -ing	adj
+disown	dis- + own	verb
+disownment	dis- + own + -ment	noun
+dispart	dis- + part	verb
+dispassion	dis- + passion	noun
+dispassionate	dis- + passion + -ate	adj
+dispassionately	dis- + passion + -ate + -ly	adv
+dispatch	dis- + patch	verb
+dispatcher	dis- + patch + -er	noun
+dispatching	dis- + patch + -ing	verb
+dispeople	dis- + people	verb
+dispirit	dis- + spirit	verb
+displace	dis- + place	verb
+displaceable	dis- + place + -able	adj
+displacement	dis- + place + -ment	noun
+displease	dis- + please	verb
+displeased	dis- + please + -ed	adj
+displeasing	dis- + please + -ing	adj
+displeasingly	dis- + please + -ing + -ly	adv
+displeasure	dis- + pleasure	noun
+displume	dis- + plume	verb
+disporting	dis- + port + -ing	verb
+disposability	dis- + pose + -able + -ity	noun
+disposable	dis- + pose + -able	adj
+disposal	dis- + pose + -al	noun
+dispose	dis- + pose	verb
+disposed	dis- + pose + -ed	adj
+disposer	dis- + pose + -er	noun
+disposing	dis- + pose + -ing	verb
+dispositive	dis- + posit + -ive	adj
+dispossess	dis- + possess	verb
+dispossessed	dis- + possess + -ed	adj
+dispossession	dis- + possess + -ion	noun
+dispossessor	dis- + possess + -or	noun
+dispraise	dis- + praise	noun
+disproof	dis- + proof	noun
+disproportion	dis- + proportion	noun
+disproportional	dis- + proportion + -al	adj
+disproportionality	dis- + proportion + -al + -ity	noun
+disproportionate	dis- + proportion + -ate	adj
+disproportionately	dis- + proportion + -ate + -ly	adv
+disproportioned	dis- + proportion + -ed	adj
+disprove	dis- + prove	verb
+disqualification	dis- + qualify + -ation	noun
+disqualify	dis- + qualify	verb
+disquiet	dis- + quiet	noun
+disquieted	dis- + quiet + -ed	verb
+disquieting	dis- + quiet + -ing	adj

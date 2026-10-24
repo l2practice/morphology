@@ -1,0 +1,200 @@
+impermanent	im- + permanent	adj
+impermeability	im- + permeable + -ity	noun
+impermeable	im- + permeate + -able	adj
+impermeableness	im- + permeate + -able + -ness	noun
+impermeably	im- + permeate + -able + -ly	adv
+impermissibility	im- + permit + -ible + -ity	noun
+impermissible	im- + permit + -ible	adj
+impermissibly	im- + permit + -ible + -ly	adv
+impersonal	im- + person + -al	adj
+impersonalism	im- + person + -al + -ism	noun
+impersonality	im- + person + -al + -ity	noun
+impersonalization	im- + person + -al + -ize + -ation	noun
+impersonalize	im- + person + -al + -ize	verb
+impersonally	im- + person + -al + -ly	adv
+impersonate	im- + person + -ate	verb
+impersonation	im- + person + -ate + -ion	noun
+impersonative	im- + person + -ate + -ive	adj
+impersonator	im- + person + -ate + -or	noun
+impertinence	im- + pertinent + -ence	noun
+impertinent	im- + pertinent	adj
+impertinently	im- + pertinent + -ly	adv
+impertinentness	im- + pertinent + -ness	noun
+imperturbability	im- + perturb + -able + -ity	noun
+imperturbable	im- + perturb + -able	adj
+imperturbableness	im- + perturb + -able + -ness	noun
+imperturbably	im- + perturb + -able + -ly	adv
+imperviable	im- + pervious + -able	adj
+impervious	im- + pervious	adj
+imperviously	im- + pervious + -ly	adv
+imperviousness	im- + pervious + -ness	noun
+impiety	im- + piety	noun
+impious	im- + pious	adj
+impiously	im- + pious + -ly	adv
+impiousness	im- + pious + -ness	noun
+implacable	im- + placate + -able	adj
+implacableness	im- + placate + -able + -ness	noun
+implacably	im- + placate + -able + -ly	adv
+implacentate	im- + placenta + -ate	adj
+implant	im- + plant	verb
+implantable	im- + plant + -able	adj
+implantation	im- + plant + -ation	noun
+implausibility	im- + plausible + -ity	noun
+implausible	im- + plausible	adj
+implausibleness	im- + plausible + -ness	noun
+implausibly	im- + plausible + -ly	adv
+implead	im- + plead	verb
+impleadable	im- + plead + -able	adj
+impolicy	im- + policy	noun
+impolite	im- + polite	adj
+impolitely	im- + polite + -ly	adv
+impoliteness	im- + polite + -ness	noun
+impolitic	im- + politic	adj
+impoliticness	im- + politic + -ness	noun
+imponderability	im- + ponder + -able + -ity	noun
+imponderable	im- + ponder + -able	adj
+imponderableness	im- + ponder + -able + -ness	noun
+imponderably	im- + ponder + -able + -ly	adv
+impossibility	im- + possible + -ity	noun
+impossible	im- + possible	adj
+impossibleness	im- + possible + -ness	noun
+impossibly	im- + possible + -ly	adv
+impotence	im- + potence	noun
+impotency	im- + potent + -cy	noun
+impotent	im- + potent	adj
+impotently	im- + potent + -ly	adv
+impotentness	im- + potent + -ness	noun
+impound	im- + pound	verb
+impoundable	im- + pound + -able	adj
+impoundage	im- + pound + -age	noun
+impounder	im- + pound + -er	noun
+impounding	im- + pound + -ing	noun
+impoundment	im- + pound + -ment	noun
+impracticability	im- + practice + -able + -ity	noun
+impracticable	im- + practice + -able	adj
+impracticableness	im- + practice + -able + -ness	noun
+impracticably	im- + practice + -able + -ly	adv
+impractical	im- + practice + -al	adj
+impracticality	im- + practice + -al + -ity	noun
+impractically	im- + practice + -al + -ly	adv
+imprecise	im- + precise	adj
+imprecisely	im- + precise + -ly	adv
+impreciseness	im- + precise + -ness	noun
+imprecision	im- + precise + -ion	noun
+impregnable	im- + pregnant + -able	adj
+impregnably	im- + pregnant + -able + -ly	adv
+imprescribable	im- + prescribable	adj
+imprescriptible	im- + prescriptible	adj
+impress	im- + press	verb
+impressed	im- + press + -ed	adj
+impressibility	im- + press + -ible + -ity	noun
+impressible	im- + press + -ible	adj
+impressibly	im- + press + -ible + -ly	adv
+impression	im- + press + -ion	noun
+impressionability	im- + press + -ion + -able + -ity	noun
+impressionable	im- + press + -ion + -able	adj
+impressionableness	im- + press + -ion + -able + -ness	noun
+impressional	im- + press + -ion + -al	adj
+impressionary	im- + press + -ion + -ary	adj
+impressionism	im- + press + -ion + -ism	noun
+impressionist	im- + press + -ion + -ist	noun
+impressionistic	im- + press + -ion + -ist + -ic	adj
+impressionistically	im- + press + -ion + -ist + -ic + -ly	adv
+impressive	im- + press + -ive	adj
+impressively	im- + press + -ive + -ly	adv
+impressiveness	im- + press + -ive + -ness	noun
+impressment	im- + press + -ment	noun
+imprint	im- + print	verb
+imprinted	im- + print + -ed	adj
+imprinting	im- + print + -ing	noun
+imprison	im- + prison	verb
+imprisonable	im- + prison + -able	adj
+imprisoner	im- + prison + -er	noun
+imprisonment	im- + prison + -ment	noun
+improbability	im- + probable + -ity	noun
+improbable	im- + probable	adj
+improbableness	im- + probable + -ness	noun
+improbably	im- + probable + -ly	adv
+improbity	im- + probity	noun
+improper	im- + proper	adj
+improperly	im- + proper + -ly	adv
+improperness	im- + proper + -ness	noun
+impropriety	im- + propriety	noun
+improvidence	im- + provide + -ence	noun
+improvident	im- + provide + -ent	adj
+improvidently	im- + provide + -ent + -ly	adv
+imprudence	im- + prudence	noun
+imprudent	im- + prudent	adj
+imprudently	im- + prudent + -ly	adv
+imprudentness	im- + prudent + -ness	noun
+impuissant	im- + puissant	adj
+impure	im- + pure	adj
+impurely	im- + pure + -ly	adv
+impureness	im- + pure + -ness	noun
+impurity	im- + pure + -ity	noun
+inability	in- + able + -ity	noun
+inaccessibility	in- + access + -ible + -ity	noun
+inaccessible	in- + access + -ible	adj
+inaccessibleness	in- + access + -ible + -ness	noun
+inaccessibly	in- + access + -ible + -ly	adv
+inaccuracy	in- + accurate + -cy	noun
+inaccurate	in- + accurate	adj
+inaccurately	in- + accurate + -ly	adv
+inaccurateness	in- + accurate + -ness	noun
+inaction	in- + act + -ion	noun
+inactivate	in- + act + -ive + -ate	verb
+inactivation	in- + act + -ive + -ate + -ion	noun
+inactive	in- + act + -ive	adj
+inactively	in- + act + -ive + -ly	adv
+inactiveness	in- + act + -ive + -ness	noun
+inactivity	in- + act + -ive + -ity	noun
+inadaptability	in- + adapt + -able + -ity	noun
+inadaptable	in- + adapt + -able	adj
+inadequate	in- + adequate	adj
+inadequately	in- + adequate + -ly	adv
+inadequateness	in- + adequate + -ness	noun
+inadmissibility	in- + admit + -ible + -ity	noun
+inadmissible	in- + admissible	adj
+inadmissibly	in- + admit + -ible + -ly	adv
+inadvertence	in- + advert + -ence	noun
+inadvertency	in- + advert + -ency	noun
+inadvertent	in- + advert + -ent	adj
+inadvertently	in- + advert + -ent + -ly	adv
+inadvisability	in- + advise + -able + -ity	noun
+inadvisable	in- + advise + -able	adj
+inadvisableness	in- + advise + -able + -ness	noun
+inaesthetic	in- + aesthetic	adj
+inalienability	in- + alien + -able + -ity	noun
+inalienable	in- + alien + -able	adj
+inalienableness	in- + alien + -able + -ness	noun
+inalienably	in- + alien + -able + -ly	adv
+inalterability	in- + alter + -able + -ity	noun
+inalterable	in- + alter + -able	adj
+inalterableness	in- + alter + -able + -ness	noun
+inalterably	in- + alter + -able + -ly	adv
+inanimacy	in- + animacy	noun
+inanimate	in- + animate	adj
+inanimately	in- + animate + -ly	adv
+inanimateness	in- + animate + -ness	noun
+inanimation	in- + animate + -ion	noun
+inappeasable	in- + appease + -able	adj
+inappetence	in- + appetence	noun
+inapplicability	in- + apply + -able + -ity	noun
+inapplicable	in- + apply + -able	adj
+inapplicableness	in- + apply + -able + -ness	noun
+inapplicably	in- + apply + -able + -ly	adv
+inapposite	in- + apposite	adj
+inappositely	in- + apposite + -ly	adv
+inappositeness	in- + apposite + -ness	noun
+inappreciable	in- + appreciate + -able	adj
+inappreciably	in- + appreciate + -able + -ly	adv
+inappreciation	in- + appreciate + -ion	noun
+inappreciative	in- + appreciate + -ive	adj
+inappreciatively	in- + appreciate + -ive + -ly	adv
+inappreciativeness	in- + appreciate + -ive + -ness	noun
+inapprehensible	in- + apprehend + -ible	adj
+inapprehension	in- + apprehend + -ion	noun
+inapprehensive	in- + apprehend + -ive	adj
+inapprehensiveness	in- + apprehend + -ive + -ness	noun
+inapproachability	in- + approach + -able + -ity	noun
+inapproachable	in- + approach + -able	adj

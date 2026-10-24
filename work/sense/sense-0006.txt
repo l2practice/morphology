@@ -1,0 +1,200 @@
+disquietingly	dis- + quiet + -ing + -ly	adv
+disquietness	dis- + quiet + -ness	noun
+disrate	dis- + rate	verb
+disrecommend	dis- + recommend	verb
+disregard	dis- + regard	verb
+disregarded	dis- + regard + -ed	verb
+disregardful	dis- + regard + -ful	adj
+disrelish	dis- + relish	noun
+disrepair	dis- + repair	noun
+disreputable	dis- + repute + -able	adj
+disreputableness	dis- + repute + -able + -ness	noun
+disreputably	dis- + repute + -able + -ly	adv
+disrepute	dis- + repute	noun
+disrespect	dis- + respect	verb
+disrespectable	dis- + respect + -able	adj
+disrespectful	dis- + respect + -ful	adj
+disrespectfully	dis- + respect + -ful + -ly	adv
+disrobe	dis- + robe	verb
+dissatisfaction	dis- + satisfy + -tion	noun
+dissatisfactory	dis- + satisfy + -ory	adj
+dissatisfied	dis- + satisfy + -ed	adj
+dissatisfy	dis- + satisfy	verb
+dissave	dis- + save	verb
+disserve	dis- + serve	verb
+disservice	dis- + service	noun
+dissever	dis- + sever	verb
+disseverance	dis- + sever + -ance	noun
+dissimilar	dis- + similar	adj
+dissimilarity	dis- + similar + -ity	noun
+dissimilitude	dis- + similitude	noun
+dissimulation	dis- + simulate + -ion	noun
+dissimulator	dis- + simulate + -or	noun
+dissocial	dis- + social	adj
+dissociality	dis- + social + -ity	noun
+dissocialize	dis- + social + -ize	verb
+dissociation	dis- + sociate + -ion	noun
+dissolvable	dis- + solve + -able	adj
+dissolve	dis- + solve	verb
+dissolved	dis- + solve + -ed	adj
+dissolvent	dis- + solve + -ent	noun
+dissolving	dis- + solve + -ing	verb
+dissonant	dis- + sonant	adj
+dissonantly	dis- + sonant + -ly	adv
+dissymmetrical	dis- + symmetry + -ical	adj
+dissymmetry	dis- + symmetry	noun
+distaste	dis- + taste	noun
+distasteful	dis- + taste + -ful	adj
+distastefully	dis- + taste + -ful + -ly	adv
+distastefulness	dis- + taste + -ful + -ness	noun
+distend	dis- + tend	verb
+distended	dis- + tend + -ed	adj
+distension	dis- + tend + -sion	noun
+distrust	dis- + trust	verb
+distrusted	dis- + trust + -ed	verb
+distrustful	dis- + trust + -ful	adj
+distrustfully	dis- + trust + -ful + -ly	adv
+distrusting	dis- + trust + -ing	verb
+disunion	dis- + union	noun
+disunite	dis- + unite	verb
+disunited	dis- + unite + -ed	verb
+disunity	dis- + unit + -y	noun
+disuse	dis- + use	noun
+disused	dis- + use + -ed	adj
+disutility	dis- + utility	noun
+disvalue	dis- + value	verb
+embalm	em- + balm	verb
+embalmer	em- + balm + -er	noun
+embalming	em- + balm + -ing	noun
+embalmment	em- + balm + -ment	noun
+embank	em- + bank	verb
+embanked	em- + bank + -ed	verb
+embankment	em- + bank + -ment	noun
+embarge	em- + barge	verb
+embattle	em- + battle	verb
+embattled	em- + battle + -ed	adj
+embay	em- + bay	verb
+embayed	em- + bay + -ed	verb
+embayment	em- + bay + -ment	noun
+embed	em- + bed	verb
+embeddability	em- + bed + -able + -ity	noun
+embedded	em- + bed + -ed	adj
+embedment	em- + bed + -ment	noun
+embitter	em- + bitter	verb
+embittered	em- + bitter + -ed	adj
+embittering	em- + bitter + -ing	verb
+embitterment	em- + bitter + -ment	noun
+emblazon	em- + blazon	verb
+emblazoned	em- + blazon + -ed	verb
+emblazoner	em- + blazon + -er	noun
+emblazoning	em- + blazon + -ing	verb
+emblazonment	em- + blazon + -ment	noun
+emblazonry	em- + blazon + -ry	noun
+embodied	em- + body + -ed	verb
+embodiment	em- + body + -ment	noun
+embody	em- + body	verb
+embodying	em- + body + -ing	verb
+embog	em- + bog	verb
+embolden	em- + bold + -en	verb
+emboldened	em- + bold + -en + -ed	verb
+emboldening	em- + bold + -en + -ing	verb
+embosom	em- + bosom	verb
+emboss	em- + boss	verb
+embossed	em- + boss + -ed	adj
+embossing	em- + boss + -ing	verb
+embossment	em- + boss + -ment	noun
+embourgeoisement	em- + bourgeois + -ment	noun
+embowelment	em- + bowel + -ment	noun
+embower	em- + bower	verb
+embranchment	em- + branch + -ment	noun
+embrangle	em- + brangle	verb
+embranglement	em- + brangle + -ment	noun
+embrown	em- + brown	verb
+embus	em- + bus	verb
+empale	em- + pale	verb
+empanel	em- + panel	verb
+emplace	em- + place	verb
+emplacement	em- + place + -ment	noun
+emplastic	em- + plastic	adj
+emplume	em- + plume	verb
+empoison	em- + poison	verb
+empower	em- + power	verb
+empowered	em- + power + -ed	verb
+empowering	em- + power + -ing	adj
+empowerment	em- + power + -ment	noun
+empurple	em- + purple	verb
+enable	en- + able	verb
+enabled	en- + able + -ed	verb
+enablement	en- + able + -ment	noun
+enabler	en- + able + -er	noun
+enabling	en- + able + -ing	adj
+enact	en- + act	verb
+enactable	en- + act + -able	adj
+enacting	en- + act + -ing	verb
+enaction	en- + act + -ion	noun
+enactive	en- + act + -ive	adj
+enactment	en- + act + -ment	noun
+enactor	en- + act + -or	noun
+enactory	en- + act + -ory	adj
+enamour	en- + amour	verb
+enamoured	en- + amour + -ed	adj
+encage	en- + cage	verb
+encalm	en- + calm	verb
+encamp	en- + camp	verb
+encampment	en- + camp + -ment	noun
+encapsulate	en- + capsule + -ate	verb
+encapsulation	en- + capsule + -ate + -ion	noun
+encapsulator	en- + capsule + -ate + -or	noun
+encase	en- + case	verb
+encasement	en- + case + -ment	noun
+encash	en- + cash	verb
+encashment	en- + cash + -ment	noun
+encaustic	en- + caustic	adj
+encave	en- + cave	verb
+enchain	en- + chain	verb
+enchained	en- + chain + -ed	verb
+enchainment	en- + chain + -ment	noun
+enchant	en- + chant	verb
+enchanted	en- + chant + -ed	adj
+enchanter	en- + chant + -er	noun
+enchanting	en- + chant + -ing	adj
+enchantingly	en- + chant + -ing + -ly	adv
+enchantment	en- + chant + -ment	noun
+enchase	en- + chase	verb
+encipher	en- + cipher	verb
+encipherer	en- + cipher + -er	noun
+encircle	en- + circle	verb
+encirclement	en- + circle + -ment	noun
+encircling	en- + circle + -ing	verb
+enclasp	en- + clasp	verb
+enclitic	en- + clitic	adj
+encloister	en- + cloister	verb
+enclose	en- + close	verb
+enclosed	en- + close + -ed	adj
+enclosing	en- + close + -ing	adj
+enclosure	en- + close + -ure	noun
+enclothe	en- + clothe	verb
+encloud	en- + cloud	verb
+encode	en- + code	verb
+encoded	en- + code + -ed	verb
+encoder	en- + code + -er	noun
+encoding	en- + code + -ing	noun
+encoffin	en- + coffin	verb
+encolour	en- + colour	verb
+encompass	en- + compass	verb
+encompassment	en- + compass + -ment	noun
+encountering	en- + counter + -ing	verb
+encourage	en- + courage	verb
+encouraged	en- + courage + -ed	verb
+encouragement	en- + courage + -ment	noun
+encourager	en- + courage + -er	noun
+encouraging	en- + courage + -ing	adj
+encouragingly	en- + courage + -ing + -ly	adv
+encradle	en- + cradle	verb
+encrimson	en- + crimson	verb
+encrust	en- + crust	verb
+encrusted	en- + crust + -ed	verb
+encrustment	en- + crust + -ment	noun
+enculturation	en- + culture + -ation	noun
+encumber	en- + cumber	verb
+encumbered	en- + cumber + -ed	adj

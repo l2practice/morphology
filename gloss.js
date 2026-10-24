@@ -144,10 +144,14 @@
     "-est (superlative)": "superlative: most (tall-est).",
     "re- (again)": "again (re-activate). Goes with verbs.",
     "re- (against)": "against, back (re-action). Goes with nouns.",
-    "in- (not)": "not (in-active, ir-refutable). Goes with adjectives.",
-    "in- (into)": "in, into (in-sert). Goes with verbs and nouns.",
-    "un- (not)": "not (un-happy). Goes with adjectives.",
-    "un- (reverse)": "reverse the action (un-lock). Goes with verbs."
+    "in- (not)": "not (in-active). Goes with adjectives.", "im- (not)": "not (im-possible). Goes with adjectives.",
+    "il- (not)": "not (il-legal). Goes with adjectives.", "ir- (not)": "not (ir-refutable). Goes with adjectives.",
+    "in- (into)": "in, into (in-sert). Goes with verbs and nouns.", "im- (into)": "in, into (im-port). Goes with verbs and nouns.",
+    "un- (not)": "not (un-happy). Goes with adjectives.", "un- (reverse)": "reverse the action (un-lock). Goes with verbs.",
+    "de- (reverse)": "remove, reverse (de-activate). Goes with verbs.", "de- (down)": "down, away (de-scend).",
+    "dis- (not)": "not, opposite (dis-honest, dis-agree).", "dis- (apart)": "apart, away (dis-miss, dis-perse).",
+    "en- (make)": "make, cause to be (en-rich, en-large). Makes a verb.", "en- (into)": "in, into (en-close). Makes a verb.",
+    "em- (make)": "make, cause to be (em-power). Makes a verb.", "em- (into)": "in, into (em-bed). Makes a verb."
   };
   const table = { prefix: {}, suffix: {} };
   const fill = (src, kind) => Object.entries(src).forEach(([keys, text]) => keys.split(" ").forEach(k => { table[kind][k] = text; }));

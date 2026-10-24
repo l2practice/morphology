@@ -1,0 +1,200 @@
+encumbering	en- + cumber + -ing	verb
+encumberment	en- + cumber + -ment	noun
+encyclic	en- + cycle + -ic	noun
+encyst	en- + cyst	verb
+encystation	en- + cyst + -ation	noun
+encysted	en- + cyst + -ed	verb
+encystment	en- + cyst + -ment	noun
+endanger	en- + danger	verb
+endangered	en- + danger + -ed	adj
+endangering	en- + danger + -ing	verb
+endangerment	en- + danger + -ment	noun
+endarken	en- + dark + -en	verb
+endarkenment	en- + dark + -en + -ment	noun
+endear	en- + dear	verb
+endeared	en- + dear + -ed	verb
+endearing	en- + dear + -ing	adj
+endearingly	en- + dear + -ing + -ly	adv
+endearment	en- + dear + -ment	noun
+endue	en- + due	verb
+enface	en- + face	verb
+enfacement	en- + face + -ment	noun
+enfeeble	en- + feeble	verb
+enfeebled	en- + feeble + -ed	adj
+enfeeblement	en- + feeble + -ment	noun
+enfeebler	en- + feeble + -er	noun
+enfeebling	en- + feeble + -ing	adj
+enfetter	en- + fetter	verb
+enfold	en- + fold	verb
+enfolder	en- + fold + -er	noun
+enforce	en- + force	verb
+enforceability	en- + force + -able + -ity	noun
+enforceable	en- + force + -able	adj
+enforcedly	en- + force + -ed + -ly	adv
+enforcement	en- + force + -ment	noun
+enforcer	en- + force + -er	noun
+enframe	en- + frame	verb
+enfranchise	en- + franchise	verb
+enfranchised	en- + franchise + -ed	adj
+enfranchisement	en- + franchise + -ment	noun
+engarland	en- + garland	verb
+engender	en- + gender	verb
+engendered	en- + gender + -ed	adj
+engenderer	en- + gender + -er	noun
+engendering	en- + gender + -ing	adj
+engild	en- + gild	verb
+engird	en- + gird	verb
+engirdle	en- + girdle	verb
+englacial	en- + glacial	adj
+engorge	en- + gorge	verb
+engorged	en- + gorge + -ed	adj
+engorgement	en- + gorge + -ment	noun
+engraft	en- + graft	verb
+engraftment	en- + graft + -ment	noun
+engrave	en- + grave	verb
+engraved	en- + grave + -ed	adj
+engraver	en- + grave + -er	noun
+engraving	en- + grave + -ing	noun
+engross	en- + gross	verb
+engrossed	en- + gross + -ed	adj
+engrossing	en- + gross + -ing	verb
+engrossingly	en- + gross + -ing + -ly	adv
+engrossment	en- + gross + -ment	noun
+engulf	en- + gulf	verb
+engulfment	en- + gulf + -ment	noun
+enhalo	en- + halo	verb
+enharmonic	en- + harmony + -ic	adj
+enharmonically	en- + harmony + -ic + -al + -ly	adv
+enhydrous	en- + hydrous	adj
+enisle	en- + isle	verb
+enjoin	en- + join	verb
+enjoined	en- + join + -ed	adj
+enjoiner	en- + join + -er	noun
+enkindler	en- + kindle + -er	noun
+enlace	en- + lace	verb
+enlacement	en- + lace + -ment	noun
+enlarge	en- + large	verb
+enlargement	en- + large + -ment	noun
+enlarger	en- + large + -er	noun
+enlarging	en- + large + -ing	verb
+enlighten	en- + light + -en	verb
+enlightened	en- + light + -en + -ed	adj
+enlightener	en- + light + -en + -er	noun
+enlightening	en- + light + -en + -ing	adj
+enlightenment	en- + light + -en + -ment	noun
+enlink	en- + link	verb
+enlist	en- + list	verb
+enlisted	en- + list + -ed	adj
+enlistee	en- + list + -ee	noun
+enlistment	en- + list + -ment	noun
+enliven	en- + live + -en	verb
+enlivener	en- + live + -en + -er	noun
+enlivening	en- + live + -en + -ing	adj
+enlivenment	en- + live + -en + -ment	noun
+enmesh	en- + mesh	verb
+enmeshed	en- + mesh + -ed	adj
+enmeshing	en- + mesh + -ing	adj
+enmeshment	en- + mesh + -ment	noun
+ennoble	en- + noble	verb
+ennobled	en- + noble + -ed	adj
+ennoblement	en- + noble + -ment	noun
+ennobler	en- + noble + -er	noun
+ennobling	en- + noble + -ing	verb
+enplane	en- + plane	verb
+enqueue	en- + queue	verb
+enrage	en- + rage	verb
+enraged	en- + rage + -ed	adj
+enragement	en- + rage + -ment	noun
+enraging	en- + rage + -ing	adj
+enrapture	en- + rapture	verb
+enraptured	en- + rapture + -ed	adj
+enrapturement	en- + rapture + -ment	noun
+enravish	en- + ravish	verb
+enravishment	en- + ravish + -ment	noun
+enregiment	en- + regiment	verb
+enregister	en- + register	verb
+enrich	en- + rich	verb
+enricher	en- + rich + -er	noun
+enriching	en- + rich + -ing	adj
+enrichment	en- + rich + -ment	noun
+enring	en- + ring	verb
+enrobe	en- + robe	verb
+enroll	en- + roll	verb
+enrollee	en- + roll + -ee	noun
+enrollment	en- + roll + -ment	noun
+enroot	en- + root	verb
+ensanguine	en- + sanguine	verb
+ensanguined	en- + sanguine + -ed	adj
+enschedule	en- + schedule	verb
+ensconce	en- + sconce	verb
+ensconced	en- + sconce + -ed	adj
+enseal	en- + seal	verb
+ensepulcher	en- + sepulcher	verb
+enshrine	en- + shrine	verb
+enshrinement	en- + shrine + -ment	noun
+enshrining	en- + shrine + -ing	adj
+enshroud	en- + shroud	verb
+enshrouding	en- + shroud + -ing	adj
+enslave	en- + slave	verb
+enslavement	en- + slave + -ment	noun
+enslaver	en- + slave + -er	noun
+enslaving	en- + slave + -ing	adj
+ensmallen	en- + small + -en	verb
+ensnare	en- + snare	verb
+ensnarement	en- + snare + -ment	noun
+ensnarer	en- + snare + -er	noun
+ensnaring	en- + snare + -ing	adj
+ensnarl	en- + snarl	verb
+ensoul	en- + soul	verb
+ensphere	en- + sphere	verb
+ensuant	en- + sue + -ant	adj
+ensue	en- + sue	verb
+ensuing	en- + sue + -ing	adj
+enswathe	en- + swathe	verb
+enswathement	en- + swathe + -ment	noun
+entail	en- + tail	verb
+entailed	en- + tail + -ed	adj
+entailment	en- + tail + -ment	noun
+entangle	en- + tangle	verb
+entangled	en- + tangle + -ed	adj
+entanglement	en- + tangle + -ment	noun
+entangler	en- + tangle + -er	noun
+enthrall	en- + thrall	verb
+enthralled	en- + thrall + -ed	adj
+enthralling	en- + thrall + -ing	adj
+enthrallingly	en- + thrall + -ing + -ly	adv
+enthrallment	en- + thrall + -ment	noun
+enthrone	en- + throne	verb
+enthroned	en- + throne + -ed	adj
+enthronement	en- + throne + -ment	noun
+enthroning	en- + throne + -ing	adj
+entitle	en- + title	verb
+entitled	en- + title + -ed	adj
+entitlement	en- + title + -ment	noun
+entoil	en- + toil	verb
+entomb	en- + tomb	verb
+entombment	en- + tomb + -ment	noun
+entrain	en- + train	verb
+entrainment	en- + train + -ment	noun
+entrammel	en- + trammel	verb
+entranced	en- + trance + -ed	adj
+entrancement	en- + trance + -ment	noun
+entrancing	en- + trance + -ing	adj
+entrancingly	en- + trance + -ing + -ly	adv
+entrap	en- + trap	verb
+entrapment	en- + trap + -ment	noun
+entreasure	en- + treasure	verb
+entrench	en- + trench	verb
+entrenchment	en- + trench + -ment	noun
+entruck	en- + truck	verb
+entrust	en- + trust	verb
+entrustment	en- + trust + -ment	noun
+entwine	en- + twine	verb
+entwined	en- + twine + -ed	adj
+entwinement	en- + twine + -ment	noun
+entwining	en- + twine + -ing	adj
+entwist	en- + twist	verb
+envenom	en- + venom	verb
+envenomed	en- + venom + -ed	adj
+envenoming	en- + venom + -ing	adj
+envenomization	en- + venom + -ize + -ation	noun

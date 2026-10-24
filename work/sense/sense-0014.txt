@@ -1,0 +1,200 @@
+inordinately	in- + ordinate + -ly	adv
+inordinateness	in- + ordinate + -ness	noun
+inorganic	in- + organic	adj
+inorganically	in- + organic + -al + -ly	adv
+inorganization	in- + organ + -ize + -ation	noun
+inornate	in- + ornate	adj
+inosculate	in- + osculate	verb
+inosculation	in- + osculate + -ion	noun
+inpatient	in- + patient	noun
+inpouring	in- + pour + -ing	noun
+input	in- + put	noun
+inquest	in- + quest	noun
+inradius	in- + radius	noun
+inroad	in- + road	noun
+inrush	in- + rush	noun
+insalivate	in- + saliva + -ate	verb
+insalivation	in- + saliva + -ate + -ion	noun
+insalubrious	in- + salubrious	adj
+insalubriously	in- + salubrious + -ly	adv
+insane	in- + sane	adj
+insanely	in- + sane + -ly	adv
+insaneness	in- + sane + -ness	noun
+insanitary	in- + sanitary	adj
+insanitation	in- + sanitize + -ation	noun
+insanity	in- + sane + -ity	noun
+insatiable	in- + satiate + -able	adj
+insatiableness	in- + satiate + -able + -ness	noun
+insatiably	in- + satiate + -able + -ly	adv
+inscient	in- + sci- + -ent	adj
+inscribable	in- + -scribe + -able	adj
+inscribe	in- + -scribe	verb
+inscriber	in- + -scribe + -er	noun
+inscription	in- + -scribe + -ion	noun
+inscriptional	in- + -scribe + -ion + -al	adj
+inscriptionless	in- + -scribe + -ion + -less	adj
+inscriptive	in- + -scribe + -ive	adj
+inscriptively	in- + -scribe + -ive + -ly	adv
+inscroll	in- + scroll	verb
+inscrutability	in- + scrutable + -ity	noun
+inscrutable	in- + scrutable	adj
+inscrutableness	in- + scrutable + -ness	noun
+inscrutably	in- + scrutable + -ly	adv
+inseam	in- + seam	noun
+insecure	in- + secure	adj
+insecurely	in- + secure + -ly	adv
+insecureness	in- + secure + -ness	noun
+insecurity	in- + secure + -ity	noun
+insensate	in- + sense + -ate	adj
+insensately	in- + sense + -ate + -ly	adv
+insensateness	in- + sense + -ate + -ness	noun
+insensibility	in- + sense + -ible + -ity	noun
+insensible	in- + sense + -ible	adj
+insensibleness	in- + sense + -ible + -ness	noun
+insensibly	in- + sense + -ible + -ly	adv
+insensitive	in- + sense + -itive	adj
+insensitively	in- + sense + -itive + -ly	adv
+insensitiveness	in- + sense + -itive + -ness	noun
+insensitivity	in- + sense + -itive + -ity	noun
+insentient	in- + sentient	adj
+inseparability	in- + separate + -able + -ity	noun
+inseparable	in- + separate + -able	adj
+inseparableness	in- + separate + -able + -ness	noun
+inseparably	in- + separate + -able + -ly	adv
+inservice	in- + service	adj
+inset	in- + set	noun
+inseverable	in- + sever + -able	adj
+inshore	in- + shore	adj
+insider	in- + side + -er	noun
+insight	in- + sight	noun
+insightful	in- + sight + -ful	adj
+insightfully	in- + sight + -ful + -ly	adv
+insightfulness	in- + sight + -ful + -ness	noun
+insignificance	in- + signify + -ance	noun
+insignificant	in- + signify + -ant	adj
+insignificantly	in- + significant + -ly	adv
+insincere	in- + sincere	adj
+insincerely	in- + sincere + -ly	adv
+insincerity	in- + sincere + -ity	noun
+insobriety	in- + sobriety	noun
+insociable	in- + sociable	adj
+insociably	in- + sociable + -ly	adv
+insole	in- + sole	noun
+insoluble	in- + soluble	adj
+insolubleness	in- + soluble + -ness	noun
+insolubly	in- + soluble + -ly	adv
+insolvable	in- + solve + -able	adj
+insolvably	in- + solve + -able + -ly	adv
+insolvent	in- + solve + -ent	adj
+insomnolence	in- + somnolent + -ence	noun
+insomnolent	in- + somnolent	adj
+insomuch	in- + so + much	adv
+inspan	in- + span	verb
+inspirit	in- + spirit	verb
+inspiriter	in- + spirit + -er	noun
+inspiriting	in- + spirit + -ing	verb
+inspiritingly	in- + spirit + -ing + -ly	adv
+inspissate	in- + spissate	verb
+inspissation	in- + spissate + -ion	noun
+inspissator	in- + spissate + -or	noun
+instability	in- + stable + -ity	noun
+instable	in- + stable	adj
+instate	in- + state	verb
+instep	in- + step	noun
+instill	in- + still	verb
+instillation	in- + still + -ation	noun
+instiller	in- + still + -er	noun
+instilling	in- + still + -ing	verb
+instillment	in- + still + -ment	noun
+instruct	in- + -struct	verb
+instructible	in- + -struct + -ible	adj
+instruction	in- + -struct + -ion	noun
+instructional	in- + -struct + -ion + -al	adj
+instructive	in- + -struct + -ive	adj
+instructively	in- + -struct + -ive + -ly	adv
+instructiveness	in- + -struct + -ive + -ness	noun
+instructor	in- + -struct + -or	noun
+instructorial	in- + -struct + -or + -ial	adj
+instructorship	in- + -struct + -or + -ship	noun
+instructs	in- + -struct + -s	verb
+insubordinate	in- + sub- + ordinate	adj
+insubordinately	in- + sub- + ordinate + -ly	adv
+insubordination	in- + sub- + ordinate + -ion	noun
+insubstantial	in- + substance + -ial	adj
+insubstantiality	in- + substance + -ial + -ity	noun
+insufferable	in- + suffer + -able	adj
+insufferableness	in- + suffer + -able + -ness	noun
+insufferably	in- + suffer + -able + -ly	adv
+insufficiency	in- + sufficient + -cy	noun
+insufficient	in- + sufficient	adj
+insufficiently	in- + sufficient + -ly	adv
+insufflate	in- + sufflate	verb
+insufflation	in- + sufflate + -ion	noun
+insufflator	in- + sufflate + -or	noun
+insuperable	in- + superable	adj
+insuperableness	in- + superable + -ness	noun
+insuperably	in- + superable + -ly	adv
+insupportable	in- + support + -able	adj
+insupportableness	in- + support + -able + -ness	noun
+insupportably	in- + support + -able + -ly	adv
+insuppressible	in- + suppress + -ible	adj
+insuppressibly	in- + suppress + -ible + -ly	adv
+insurmountable	in- + surmount + -able	adj
+insurmountableness	in- + surmount + -able + -ness	noun
+insurmountably	in- + surmount + -able + -ly	adv
+insusceptible	in- + susceptible	adj
+insusceptibly	in- + susceptible + -ly	adv
+inswept	in- + sweep + -ed	adj
+intake	in- + take	noun
+intangible	in- + tangible	adj
+intangibleness	in- + tangible + -ness	noun
+intangibly	in- + tangible + -ly	adv
+integument	in- + tegument	noun
+integumental	in- + tegument + -al	adj
+integumentary	in- + tegument + -ary	adj
+intemperance	in- + temper + -ance	noun
+intemperate	in- + temper + -ate	adj
+intemperately	in- + temper + -ate + -ly	adv
+intemperateness	in- + temper + -ate + -ness	noun
+interminable	in- + terminate + -able	adj
+interminableness	in- + terminate + -able + -ness	noun
+interminably	in- + terminate + -able + -ly	adv
+intestable	in- + test + -able	adj
+intestacy	in- + test + -ate + -cy	noun
+intestate	in- + testate	adj
+intolerability	in- + tolerate + -able + -ity	noun
+intolerable	in- + tolerate + -able	adj
+intolerableness	in- + tolerate + -able + -ness	noun
+intolerably	in- + tolerate + -able + -ly	adv
+intolerance	in- + tolerate + -ance	noun
+intolerant	in- + tolerate + -ant	adj
+intolerantly	in- + tolerate + -ant + -ly	adv
+intonate	in- + tone + -ate	verb
+intonation	in- + tone + -ation	noun
+intonational	in- + tone + -ation + -al	adj
+intone	in- + tone	verb
+intonement	in- + tone + -ment	noun
+intoner	in- + tone + -er	noun
+intoning	in- + tone + -ing	verb
+intown	in- + town	adj
+intoxicate	in- + toxic + -ate	verb
+intoxicated	in- + toxic + -ate + -ed	adj
+intoxicating	in- + toxic + -ate + -ing	adj
+intoxicatingly	in- + toxic + -ate + -ing + -ly	adv
+intoxication	in- + toxic + -ate + -ion	noun
+intoxicative	in- + toxic + -ate + -ive	adj
+intoxicator	in- + toxic + -ate + -or	noun
+intractability	in- + tractable + -ity	noun
+intractable	in- + tractable	adj
+intractableness	in- + tractable + -ness	noun
+intractably	in- + tractable + -ly	adv
+intransitive	in- + transit + -ive	adj
+intransitively	in- + transit + -ive + -ly	adv
+intransitiveness	in- + transit + -ive + -ness	noun
+intransitivity	in- + transit + -ive + -ity	noun
+intranslatability	in- + translate + -able + -ity	noun
+intreat	in- + treat	verb
+intubate	in- + tube + -ate	verb
+intubation	in- + tube + -ate + -ion	noun
+inunction	in- + unction	noun
+inurbane	in- + urbane	adj

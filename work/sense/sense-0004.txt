@@ -1,0 +1,200 @@
+disaffiliation	dis- + affiliate + -ion	noun
+disaffirm	dis- + af- + firm	verb
+disaffirmation	dis- + af- + firm + -ation	noun
+disafforest	dis- + af- + forest	verb
+disafforestation	dis- + af- + forest + -ation	noun
+disafforestment	dis- + af- + forest + -ment	noun
+disaggregate	dis- + aggregate	verb
+disaggregation	dis- + aggregate + -ion	noun
+disagree	dis- + agree	verb
+disagreeable	dis- + agree + -able	adj
+disagreeableness	dis- + agree + -able + -ness	noun
+disagreeably	dis- + agree + -able + -ly	adv
+disagreeing	dis- + agree + -ing	verb
+disagreement	dis- + agree + -ment	noun
+disallow	dis- + allow	verb
+disallowance	dis- + allow + -ance	noun
+disallowed	dis- + allow + -ed	verb
+disambiguate	dis- + ambiguous + -ate	verb
+disambiguation	dis- + ambiguous + -ate + -ion	noun
+disannul	dis- + annul	verb
+disannulment	dis- + annul + -ment	noun
+disappear	dis- + appear	verb
+disappearance	dis- + appear + -ance	noun
+disappeared	dis- + appear + -ed	verb
+disappearing	dis- + appear + -ing	adj
+disappoint	dis- + appoint	verb
+disappointed	dis- + appoint + -ed	adj
+disappointedly	dis- + appoint + -ed + -ly	adv
+disappointing	dis- + appoint + -ing	adj
+disappointingly	dis- + appoint + -ing + -ly	adv
+disappointment	dis- + appoint + -ment	noun
+disappreciate	dis- + appreciate	verb
+disapprobation	dis- + approbation	noun
+disapprobatory	dis- + approve + -ory	adj
+disappropriate	dis- + appropriate	verb
+disapproval	dis- + approve + -al	noun
+disapprove	dis- + approve	verb
+disapproving	dis- + approve + -ing	adj
+disapprovingly	dis- + approve + -ing + -ly	adv
+disarm	dis- + arm	verb
+disarming	dis- + arm + -ing	adj
+disarmingly	dis- + arm + -ing + -ly	adv
+disarrange	dis- + arrange	verb
+disarrangement	dis- + arrange + -ment	noun
+disarray	dis- + array	noun
+disarticulate	dis- + articulate	verb
+disarticulation	dis- + articulate + -ion	noun
+disassemble	dis- + assemble	verb
+disassembler	dis- + assemble + -er	noun
+disassembly	dis- + assemble + -y	noun
+disassimilation	dis- + assimilate + -ation	noun
+disassociate	dis- + associate	verb
+disassociation	dis- + associate + -ion	noun
+disavow	dis- + avow	verb
+disavowal	dis- + avow + -al	noun
+disavowed	dis- + avow + -ed	verb
+disbalance	dis- + balance	noun
+disband	dis- + band	verb
+disbanding	dis- + band + -ing	noun
+disbandment	dis- + band + -ment	noun
+disbar	dis- + bar	verb
+disbark	dis- + bark	verb
+disbarment	dis- + bar + -ment	noun
+disbarring	dis- + bar + -ing	verb
+disbelief	dis- + belief	noun
+disbelieve	dis- + believe	verb
+disbelieved	dis- + believe + -ed	verb
+disbeliever	dis- + believe + -er	noun
+disbelieving	dis- + believe + -ing	adj
+disbelievingly	dis- + believe + -ing + -ly	adv
+disbench	dis- + bench	verb
+disbosom	dis- + bosom	verb
+disbound	dis- + bind + -ed	adj
+disbranch	dis- + branch	verb
+disbud	dis- + bud	verb
+disburden	dis- + burden	verb
+discharge	dis- + charge	verb
+dischargeable	dis- + charge + -able	adj
+dischargee	dis- + charge + -ee	noun
+discharger	dis- + charge + -er	noun
+discharging	dis- + charge + -ing	verb
+disclaim	dis- + claim	verb
+disclaimer	dis- + claim + -er	noun
+disclamation	dis- + claim + -ation	noun
+disclose	dis- + close	verb
+disclosed	dis- + close + -ed	verb
+disclosing	dis- + close + -ing	verb
+disclosure	dis- + close + -ure	noun
+discolor	dis- + color	verb
+discoloration	dis- + color + -ation	noun
+discolored	dis- + color + -ed	adj
+discolorment	dis- + color + -ment	noun
+discolour	dis- + colour	verb
+discoloured	dis- + colour + -ed	adj
+discolouring	dis- + colour + -ing	verb
+discomfort	dis- + comfort	noun
+discomforting	dis- + comfort + -ing	adj
+discommode	dis- + commode	verb
+discommon	dis- + common	verb
+discommons	dis- + common + -s	noun
+discompose	dis- + compose	verb
+discomposed	dis- + compose + -ed	adj
+discomposedly	dis- + compose + -ed + -ly	adv
+discomposing	dis- + compose + -ing	verb
+discomposingly	dis- + compose + -ing + -ly	adv
+discomposure	dis- + compose + -ure	noun
+disconcert	dis- + concert	verb
+disconcerted	dis- + concert + -ed	adj
+disconcerting	dis- + concert + -ing	adj
+disconcertingly	dis- + concert + -ing + -ly	adv
+disconcertment	dis- + concert + -ment	noun
+disconfirm	dis- + confirm	verb
+disconformity	dis- + con- + form + -ity	noun
+discongruity	dis- + congruous + -ity	noun
+disconnect	dis- + connect	verb
+disconnected	dis- + connect + -ed	adj
+disconnectedness	dis- + connect + -ed + -ness	noun
+disconnection	dis- + connect + -ion	noun
+disconnector	dis- + connect + -or	noun
+disconnexion	dis- + connexion	noun
+disconsider	dis- + consider	verb
+disconsolate	dis- + console + -ate	adj
+disconsolately	dis- + console + -ate + -ly	adv
+disconsolateness	dis- + console + -ate + -ness	noun
+disconsolation	dis- + console + -ate + -ion	noun
+discontent	dis- + content	noun
+discontented	dis- + content + -ed	adj
+discontentedly	dis- + content + -ed + -ly	adv
+discontentment	dis- + content + -ment	noun
+discontiguous	dis- + contiguous	adj
+discontinuance	dis- + continue + -ance	noun
+discontinuation	dis- + continue + -ation	noun
+discontinue	dis- + continue	verb
+discontinued	dis- + continue + -ed	adj
+discontinuity	dis- + continue + -ity	noun
+discontinuous	dis- + continue + -ous	adj
+discontinuously	dis- + continue + -ous + -ly	adv
+discount	dis- + count	noun
+discountable	dis- + count + -able	adj
+discounted	dis- + count + -ed	adj
+discountenance	dis- + countenance	verb
+discountenanced	dis- + countenance + -ed	verb
+discounter	dis- + count + -er	noun
+discounting	dis- + count + -ing	noun
+discourage	dis- + courage	verb
+discouraged	dis- + courage + -ed	verb
+discouragement	dis- + courage + -ment	noun
+discouraging	dis- + courage + -ing	adj
+discouragingly	dis- + courage + -ing + -ly	adv
+discoursing	dis- + course + -ing	verb
+discourteous	dis- + court + -eous	adj
+discourteously	dis- + court + -eous + -ly	adv
+discourtesy	dis- + courtesy	noun
+discover	dis- + cover	verb
+discoverable	dis- + cover + -able	adj
+discoverer	dis- + cover + -er	noun
+discovering	dis- + cover + -ing	verb
+discovery	dis- + cover + -y	noun
+discredit	dis- + credit	verb
+discreditable	dis- + credit + -able	adj
+discreditably	dis- + credit + -able + -ly	adv
+discreditation	dis- + credit + -ation	noun
+discredited	dis- + credit + -ed	adj
+discrediting	dis- + credit + -ing	noun
+discrown	dis- + crown	verb
+diseconomy	dis- + economy	noun
+disembark	dis- + embark	verb
+disembarkation	dis- + embark + -ation	noun
+disembarking	dis- + embark + -ing	verb
+disembarkment	dis- + embark + -ment	noun
+disembarrass	dis- + embarrass	verb
+disembodied	dis- + embody + -ed	adj
+disembodiment	dis- + embody + -ment	noun
+disembody	dis- + em- + body	verb
+disembosom	dis- + em- + bosom	verb
+disembowel	dis- + em- + bowel	verb
+disemboweling	dis- + embowel + -ing	verb
+disembowelment	dis- + embowel + -ment	noun
+disembroil	dis- + embroil	verb
+disempower	dis- + em- + power	verb
+disempowerment	dis- + em- + power + -ment	noun
+disenchant	dis- + en- + chant	verb
+disenchanted	dis- + en- + chant + -ed	adj
+disenchanting	dis- + en- + chant + -ing	verb
+disenchantment	dis- + en- + chant + -ment	noun
+disencumber	dis- + en- + cumber	verb
+disendow	dis- + endow	verb
+disenfranchise	dis- + en- + franchise	verb
+disenfranchised	dis- + en- + franchise + -ed	adj
+disenfranchisement	dis- + en- + franchise + -ment	noun
+disengage	dis- + engage	verb
+disengaged	dis- + engage + -ed	verb
+disengagement	dis- + engage + -ment	noun
+disengaging	dis- + engage + -ing	verb
+disennoble	dis- + en- + noble	verb
+disentail	dis- + en- + tail	verb
+disentangle	dis- + en- + tangle	verb
+disentanglement	dis- + en- + tangle + -ment	noun
+disentangling	dis- + en- + tangle + -ing	verb
+disenthrall	dis- + en- + thrall	verb

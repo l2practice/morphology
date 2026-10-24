@@ -1,0 +1,200 @@
+indigestibleness	in- + digest + -ible + -ness	noun
+indigestibly	in- + digest + -ible + -ly	adv
+indigestion	in- + digest + -ion	noun
+indigestive	in- + digest + -ive	adj
+indignity	in- + dignity	noun
+indirect	in- + direct	adj
+indirection	in- + direct + -ion	noun
+indirectly	in- + direct + -ly	adv
+indirectness	in- + direct + -ness	noun
+indiscernibility	in- + discern + -ible + -ity	noun
+indiscernible	in- + discern + -ible	adj
+indiscernibleness	in- + discern + -ible + -ness	noun
+indiscernibly	in- + discern + -ible + -ly	adv
+indisciplinable	in- + discipline + -able	adj
+indiscipline	in- + discipline	noun
+indiscreet	in- + discreet	adj
+indiscreetly	in- + discreet + -ly	adv
+indiscreetness	in- + discreet + -ness	noun
+indiscrete	in- + discrete	adj
+indiscretion	in- + discreet + -ion	noun
+indiscriminate	in- + discriminate	adj
+indiscriminately	in- + discriminate + -ly	adv
+indiscriminateness	in- + discriminate + -ness	noun
+indiscrimination	in- + discriminate + -ion	noun
+indiscriminative	in- + discriminate + -ive	adj
+indispensability	in- + dispense + -able + -ity	noun
+indispensable	in- + dispense + -able	adj
+indispensableness	in- + dispense + -able + -ness	noun
+indispensably	in- + dispense + -able + -ly	adv
+indispose	in- + dis- + pose	verb
+indisposed	in- + dis- + pose + -ed	adj
+indisposedness	in- + dis- + pose + -ed + -ness	noun
+indisposition	in- + dis- + pose + -ition	noun
+indisputability	in- + dispute + -able + -ity	noun
+indisputable	in- + dispute + -able	adj
+indisputableness	in- + dispute + -able + -ness	noun
+indisputably	in- + dispute + -able + -ly	adv
+indissociable	in- + dissociate + -able	adj
+indissolubility	in- + dis- + soluble + -ity	noun
+indissolubleness	in- + dis- + soluble + -ness	noun
+indistinct	in- + distinct	adj
+indistinctive	in- + distinct + -ive	adj
+indistinctively	in- + distinct + -ive + -ly	adv
+indistinctiveness	in- + distinct + -ive + -ness	noun
+indistinctly	in- + distinct + -ly	adv
+indistinctness	in- + distinct + -ness	noun
+indistinguishability	in- + distinguish + -able + -ity	noun
+indistinguishable	in- + distinguish + -able	adj
+indistinguishableness	in- + distinguish + -able + -ness	noun
+indistinguishably	in- + distinguish + -able + -ly	adv
+indistributable	in- + distribute + -able	adj
+indite	in- + dite	verb
+inditement	in- + dite + -ment	noun
+inditer	in- + dite + -er	noun
+indivertible	in- + divert + -ible	adj
+indivisibility	in- + divide + -ible + -ity	noun
+indivisible	in- + divide + -ible	adj
+indivisibleness	in- + divide + -ible + -ness	noun
+indivisibly	in- + divide + -ible + -ly	adv
+indocile	in- + docile	adj
+indocility	in- + docile + -ity	noun
+indoctrinate	in- + doctrine + -ate	verb
+indoctrination	in- + doctrine + -ate + -ion	noun
+indoctrinator	in- + doctrine + -ate + -or	noun
+indoors	in- + doors	adv
+indraught	in- + draught	noun
+indrawn	in- + draw + -en	adj
+indubitability	in- + dubitable + -ity	noun
+indubitable	in- + dubitable	adj
+indubitableness	in- + dubitable + -ness	noun
+indubitably	in- + dubitable + -ly	adv
+induce	in- + -duce	verb
+induced	in- + -duce + -ed	adj
+inducement	in- + -duce + -ment	noun
+inducer	in- + -duce + -er	noun
+inducible	in- + -duce + -ible	adj
+inducing	in- + -duce + -ing	verb
+induct	in- + -duct	verb
+inductance	in- + -duct + -ance	noun
+inductee	in- + -duct + -ee	noun
+induction	in- + -duct + -ion	noun
+inductive	in- + -duct + -ive	adj
+inductively	in- + -duct + -ive + -ly	adv
+inductiveness	in- + -duct + -ive + -ness	noun
+inductivist	in- + -duct + -ive + -ist	noun
+inductivity	in- + -duct + -ive + -ity	noun
+inductor	in- + -duct + -or	noun
+indwell	in- + dwell	verb
+indweller	in- + dwell + -er	noun
+indwelling	in- + dwell + -ing	adj
+inedibility	in- + edible + -ity	noun
+inedible	in- + edible	adj
+inedibly	in- + edible + -ly	adv
+ineducability	in- + educate + -able + -ity	noun
+ineducable	in- + educate + -able	adj
+ineffability	in- + effable + -ity	noun
+ineffable	in- + effable	adj
+ineffableness	in- + effable + -ness	noun
+ineffably	in- + effable + -ly	adv
+ineffaceability	in- + ef- + face + -able + -ity	noun
+ineffaceable	in- + ef- + face + -able	adj
+ineffaceableness	in- + ef- + face + -able + -ness	noun
+ineffaceably	in- + ef- + face + -able + -ly	adv
+ineffective	in- + effect + -ive	adj
+ineffectively	in- + effect + -ive + -ly	adv
+ineffectiveness	in- + effect + -ive + -ness	noun
+ineffectual	in- + effect + -ual	adj
+ineffectuality	in- + effect + -ual + -ity	noun
+ineffectually	in- + effect + -ual + -ly	adv
+ineffectualness	in- + effect + -ual + -ness	noun
+inefficacious	in- + efficacy + -ous	adj
+inefficaciously	in- + efficacy + -ous + -ly	adv
+inefficaciousness	in- + efficacy + -ous + -ness	noun
+inefficacy	in- + efficacy	noun
+inefficiency	in- + efficient + -cy	noun
+inefficient	in- + efficient	adj
+inefficiently	in- + efficient + -ly	adv
+inegalitarian	in- + egalitarian	adj
+inelastic	in- + elastic	adj
+inelasticity	in- + elastic + -ity	noun
+inelegance	in- + elegance	noun
+inelegant	in- + elegant	adj
+inelegantly	in- + elegant + -ly	adv
+ineligibility	in- + eligible + -ity	noun
+ineligible	in- + eligible	adj
+ineligibly	in- + eligible + -ly	adv
+ineloquence	in- + eloquent + -ence	noun
+ineloquent	in- + eloquent	adj
+ineloquently	in- + eloquent + -ly	adv
+ineludible	in- + elude + -ible	adj
+inenarrable	in- + enarrate + -able	adj
+inequable	in- + equable	adj
+inequality	in- + equal + -ity	noun
+inequilateral	in- + equilateral	adj
+inequitable	in- + equity + -able	adj
+inequitableness	in- + equity + -able + -ness	noun
+inequitably	in- + equity + -able + -ly	adv
+inequity	in- + equity	noun
+ineradicability	in- + eradicate + -able + -ity	noun
+ineradicable	in- + eradicate + -able	adj
+ineradicableness	in- + eradicate + -able + -ness	noun
+ineradicably	in- + eradicate + -able + -ly	adv
+inerasable	in- + erase + -able	adj
+inerrable	in- + err + -able	adj
+inerrableness	in- + err + -able + -ness	noun
+inerrancy	in- + err + -ancy	noun
+inerrant	in- + err + -ant	adj
+inerratic	in- + erratic	adj
+inescapable	in- + escape + -able	adj
+inescapableness	in- + escape + -able + -ness	noun
+inescapably	in- + escape + -able + -ly	adv
+inescutcheon	in- + escutcheon	noun
+inessential	in- + essence + -al	adj
+inessentiality	in- + essential + -ity	noun
+inestimability	in- + estimate + -able + -ity	noun
+inestimable	in- + estimate + -able	adj
+inestimableness	in- + estimate + -able + -ness	noun
+inestimably	in- + estimate + -able + -ly	adv
+inevasible	in- + evade + -ible	adj
+inevitableness	in- + evitable + -ness	noun
+inexact	in- + exact	adj
+inexactitude	in- + exactitude	noun
+inexactly	in- + exact + -ly	adv
+inexactness	in- + exact + -ness	noun
+inexcusability	in- + excuse + -able + -ity	noun
+inexcusable	in- + excuse + -able	adj
+inexcusableness	in- + excuse + -able + -ness	noun
+inexcusably	in- + excuse + -able + -ly	adv
+inexecutable	in- + execute + -able	adj
+inexecution	in- + execute + -ion	noun
+inexertion	in- + exert + -ion	noun
+inexhaustibility	in- + exhaust + -ible + -ity	noun
+inexhaustible	in- + exhaust + -ible	adj
+inexhaustibleness	in- + exhaust + -ible + -ness	noun
+inexhaustibly	in- + exhaust + -ible + -ly	adv
+inexistence	in- + exist + -ence	noun
+inexistent	in- + exist + -ent	adj
+inexpectant	in- + expect + -ant	adj
+inexpedience	in- + expedient + -ence	noun
+inexpediency	in- + expedient + -ency	noun
+inexpedient	in- + expedient	adj
+inexpediently	in- + expedient + -ly	adv
+inexpensive	in- + expense + -ive	adj
+inexpensively	in- + expense + -ive + -ly	adv
+inexpensiveness	in- + expense + -ive + -ness	noun
+inexperience	in- + experience	noun
+inexperienced	in- + experience + -ed	adj
+inexpert	in- + expert	adj
+inexpertly	in- + expert + -ly	adv
+inexpertness	in- + expert + -ness	noun
+inexpiable	in- + expiate + -able	adj
+inexpiableness	in- + expiate + -able + -ness	noun
+inexplainable	in- + explain + -able	adj
+inexplainably	in- + explain + -able + -ly	adv
+inexplicability	in- + explicate + -able + -ity	noun
+inexplicable	in- + explicable	adj
+inexplicableness	in- + explicate + -able + -ness	noun
+inexplicably	in- + explicable + -ly	adv
+inexplicit	in- + explicit	adj
+inexplicitness	in- + explicit + -ness	noun

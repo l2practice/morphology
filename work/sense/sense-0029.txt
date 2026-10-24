@@ -1,0 +1,200 @@
+unindexed	un- + index + -ed	adj
+unindicated	un- + indicate + -ed	adj
+unindicted	un- + indict + -ed	adj
+unindifferent	un- + in- + differ + -ent	adj
+unindustrialized	un- + industry + -al + -ize + -ed	adj
+unindustrious	un- + industry + -ious	adj
+uninfected	un- + infect + -ed	adj
+uninfectious	un- + infect + -ious	adj
+uninflamed	un- + in- + flame + -ed	adj
+uninflammability	un- + inflame + -able + -ity	noun
+uninflammable	un- + inflame + -able	adj
+uninflated	un- + inflate + -ed	adj
+uninflectable	un- + inflect + -able	adj
+uninflected	un- + inflect + -ed	adj
+uninfluenced	un- + influence + -ed	adj
+uninfluential	un- + influence + -ial	adj
+uninformative	un- + inform + -ative	adj
+uninformed	un- + inform + -ed	adj
+uninfringed	un- + in- + fringe + -ed	adj
+uningenious	un- + ingenious	adj
+uninhabitability	un- + in- + habit + -able + -ity	noun
+uninhabitable	un- + in- + habit + -able	adj
+uninhabited	un- + in- + habit + -ed	adj
+uninhibited	un- + inhibit + -ed	adj
+uninhibitedly	un- + inhibit + -ed + -ly	adv
+uninhibitedness	un- + inhibit + -ed + -ness	noun
+uninitiated	un- + initiate + -ed	adj
+uninjured	un- + injure + -ed	adj
+uninjurious	un- + injury + -ous	adj
+uninoculated	un- + inoculate + -ed	adj
+uninquiring	un- + inquire + -ing	adj
+uninquisitive	un- + inquisitive	adj
+uninspected	un- + inspect + -ed	adj
+uninspired	un- + inspire + -ed	adj
+uninspiring	un- + inspire + -ing	adj
+uninstall	un- + install	verb
+uninstallation	un- + install + -ation	noun
+uninstalled	un- + install + -ed	verb
+uninstaller	un- + install + -er	noun
+uninstigated	un- + instigate + -ed	adj
+uninstructed	un- + in- + -struct + -ed	adj
+uninstructive	un- + in- + -struct + -ive	adj
+uninsulated	un- + insulate + -ed	adj
+uninsurability	un- + insure + -able + -ity	noun
+uninsurable	un- + insure + -able	adj
+uninsured	un- + insure + -ed	adj
+unintellectual	un- + intellect + -ual	adj
+unintelligence	un- + intelligence	noun
+unintelligent	un- + intelligent	adj
+unintelligently	un- + intelligent + -ly	adv
+unintelligibility	un- + intelligible + -ity	noun
+unintelligible	un- + intelligible	adj
+unintelligibleness	un- + intelligible + -ness	noun
+unintelligibly	un- + intelligible + -ly	adv
+unintended	un- + intend + -ed	adj
+unintentional	un- + intent + -ion + -al	adj
+unintentionally	un- + intend + -ion + -al + -ly	adv
+uninterested	un- + interest + -ed	adj
+uninterestedly	un- + interest + -ed + -ly	adv
+uninterestedness	un- + interest + -ed + -ness	noun
+uninteresting	un- + interest + -ing	adj
+uninterestingly	un- + interest + -ing + -ly	adv
+uninterestingness	un- + interest + -ing + -ness	noun
+unintermitted	un- + intermit + -ed	adj
+unintermittent	un- + intermittent	adj
+uninterpretable	un- + interpret + -able	adj
+uninterpreted	un- + interpret + -ed	adj
+uninterred	un- + inter + -ed	adj
+uninterrupted	un- + interrupt + -ed	adj
+uninterruptedly	un- + interrupt + -ed + -ly	adv
+uninterruptible	un- + interrupt + -ible	adj
+unintimidated	un- + intimidate + -ed	adj
+unintoxicating	un- + in- + toxic + -ate + -ing	adj
+unintuitive	un- + intuit + -ive	adj
+uninvaded	un- + invade + -ed	adj
+uninventive	un- + invent + -ive	adj
+uninvested	un- + invest + -ed	adj
+uninvestigated	un- + investigate + -ed	adj
+uninvite	un- + invite	verb
+uninvited	un- + invite + -ed	adj
+uninviting	un- + invite + -ing	adj
+uninvitingly	un- + invite + -ing + -ly	adv
+uninvoked	un- + invoke + -ed	adj
+uninvolved	un- + involve + -ed	adj
+unironed	un- + iron + -ed	adj
+unironic	un- + irony + -ic	adj
+unironically	un- + irony + -ic + -al + -ly	adv
+unirradiated	un- + ir- + radiate + -ed	adj
+unirrigated	un- + irrigate + -ed	adj
+unirritating	un- + irritate + -ing	adj
+unisolated	un- + isolate + -ed	adj
+unissued	un- + issue + -ed	adj
+unjaded	un- + jade + -ed	adj
+unjaundiced	un- + jaundice + -ed	adj
+unjealous	un- + jealous	adj
+unjoin	un- + join	verb
+unjoint	un- + joint	verb
+unjoyful	un- + joy + -ful	adj
+unjoyous	un- + joy + -ous	adj
+unjudged	un- + judge + -ed	adj
+unjust	un- + just	adj
+unjustifiable	un- + just + -ify + -able	adj
+unjustifiableness	un- + justify + -able + -ness	noun
+unjustifiably	un- + justify + -able + -ly	adv
+unjustified	un- + just + -ify + -ed	adj
+unjustifiedly	un- + justify + -ed + -ly	adv
+unjustly	un- + just + -ly	adv
+unjustness	un- + just + -ness	noun
+unkempt	un- + kempt	adj
+unkennel	un- + kennel	verb
+unkept	un- + keep + -ed	adj
+unkey	un- + key	verb
+unkillable	un- + kill + -able	adj
+unkind	un- + kind	adj
+unkindled	un- + kindle + -ed	adj
+unkindliness	un- + kind + -ly + -ness	noun
+unkindly	un- + kind + -ly	adv
+unkindness	un- + kind + -ness	noun
+unkingly	un- + king + -ly	adj
+unkink	un- + kink	verb
+unkneaded	un- + knead + -ed	adj
+unknight	un- + knight	verb
+unknightliness	un- + knight + -ly + -ness	noun
+unknightly	un- + knight + -ly	adj
+unknit	un- + knit	verb
+unknot	un- + knot	verb
+unknotted	un- + knot + -ed	adj
+unknowability	un- + know + -able + -ity	noun
+unknowable	un- + know + -able	adj
+unknowableness	un- + know + -able + -ness	noun
+unknowably	un- + know + -able + -ly	adv
+unknowing	un- + know + -ing	adj
+unknowingly	un- + know + -ing + -ly	adv
+unknown	un- + known	adj
+unlabeled	un- + label + -ed	adj
+unlabelled	un- + label + -ed	adj
+unlaboured	un- + labour + -ed	adj
+unlace	un- + lace	verb
+unlaced	un- + lace + -ed	adj
+unlade	un- + lade	verb
+unladen	un- + lade + -en	adj
+unladylike	un- + lady + -like	adj
+unlaid	un- + lay + -ed	adj
+unlamented	un- + lament + -ed	adj
+unlanded	un- + land + -ed	adj
+unlanguaged	un- + language + -ed	adj
+unlash	un- + lash	verb
+unlatch	un- + latch	verb
+unlatched	un- + latch + -ed	adj
+unlatching	un- + latch + -ing	adj
+unlaw	un- + law	verb
+unlawful	un- + law + -ful	adj
+unlawfully	un- + law + -ful + -ly	adv
+unlawfulness	un- + law + -ful + -ness	noun
+unlay	un- + lay	verb
+unlead	un- + lead	verb
+unleaded	un- + lead + -ed	adj
+unlearn	un- + learn	verb
+unlearned	un- + learn + -ed	adj
+unlearnedly	un- + learn + -ed + -ly	adv
+unlearning	un- + learn + -ing	noun
+unlearnt	un- + learn + -ed	adj
+unleased	un- + lease + -ed	adj
+unleash	un- + leash	verb
+unleashed	un- + leash + -ed	adj
+unleashing	un- + leash + -ing	verb
+unleavened	un- + leaven + -ed	adj
+unled	un- + lead + -ed	adj
+unlegalized	un- + legal + -ize + -ed	adj
+unleisured	un- + leisure + -ed	adj
+unlent	un- + lend + -ed	adj
+unlet	un- + let	adj
+unlethal	un- + lethal	adj
+unlettable	un- + let + -able	adj
+unlettered	un- + letter + -ed	adj
+unliable	un- + liable	adj
+unliberal	un- + liberal	adj
+unliberated	un- + liberate + -ed	adj
+unlicensed	un- + license + -ed	adj
+unlicked	un- + lick + -ed	adj
+unlighted	un- + light + -ed	adj
+unlightened	un- + light + -en + -ed	adj
+unlikable	un- + like + -able	adj
+unlike	un- + like	prep
+unlikelihood	un- + like + -ly + -hood	noun
+unlikeliness	un- + like + -ly + -ness	noun
+unlikely	un- + like + -ly	adj
+unlikeness	un- + like + -ness	noun
+unlimber	un- + limber	verb
+unlimbered	un- + limber + -ed	adj
+unlimed	un- + lime + -ed	adj
+unlimited	un- + limit + -ed	adj
+unlimitedly	un- + limit + -ed + -ly	adv
+unlimitedness	un- + limit + -ed + -ness	noun
+unline	un- + line	verb
+unlined	un- + line + -ed	adj
+unlink	un- + link	verb
+unlinked	un- + link + -ed	adj
+unliquid	un- + liquid	adj
+unliquidated	un- + liquid + -ate + -ed	adj

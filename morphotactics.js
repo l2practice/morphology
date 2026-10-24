@@ -62,9 +62,16 @@
   //   re- (again) goes with verbs (re-activate), re- (against) with nouns (re-action); in- (not) with adjectives, in- (into) with verbs and nouns.
   const PVARIANT = {
     "re- (again)": { from: ["V"], to: same }, "re- (against)": { from: ["N"], to: same },
-    "in- (not)": { from: ["Adj", "N"], to: same }, "in- (into)": { from: ["V", "N"], to: same },
-    "un- (not)": { from: ["Adj"], to: same }, "un- (reverse)": { from: ["V"], to: same }
+    "in- (not)": { from: ["Adj", "N"], to: same }, "im- (not)": { from: ["Adj", "N"], to: same },
+    "il- (not)": { from: ["Adj", "N"], to: same }, "ir- (not)": { from: ["Adj", "N"], to: same },
+    "in- (into)": { from: ["V", "N"], to: same }, "im- (into)": { from: ["V", "N"], to: same },
+    "un- (not)": { from: ["Adj"], to: same }, "un- (reverse)": { from: ["V"], to: same },
+    "de- (reverse)": { from: ["V"], to: same }, "de- (down)": { from: ["V", "N"], to: same },
+    "dis- (not)": { from: ["V", "Adj", "N"], to: same }, "dis- (apart)": { from: ["V", "N"], to: same },
+    "en- (make)": { from: ["N", "Adj"], to: "V" }, "en- (into)": { from: ["N", "V"], to: "V" },
+    "em- (make)": { from: ["N", "Adj"], to: "V" }, "em- (into)": { from: ["N", "V"], to: "V" }
   };
+
 
   const plain = s => String(s || "").toLowerCase().replace(/-/g, "");
   const catOf = c => {
@@ -179,5 +186,5 @@
     return d ? { node: d, method: "default", ambiguous: false } : null;
   }
 
-  window.MorphTactics = { plan, derive, signature, defaultTree, affixRule, PREFIX, SUFFIX, INFLECT };
+  window.MorphTactics = { PVARIANT, plan, derive, signature, defaultTree, affixRule, PREFIX, SUFFIX, INFLECT };
 })();

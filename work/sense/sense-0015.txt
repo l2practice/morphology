@@ -1,0 +1,200 @@
+inurbanity	in- + urban + -ity	noun
+inurn	in- + urn	verb
+inurnment	in- + urn + -ment	noun
+inutile	in- + utile	adj
+inutility	in- + utile + -ity	noun
+invaginate	in- + vagina + -ate	verb
+invagination	in- + vagina + -ation	noun
+invalid	in- + valid	adj
+invalidate	in- + valid + -ate	verb
+invalidated	in- + valid + -ate + -ed	verb
+invalidation	in- + valid + -ation	noun
+invalidator	in- + valid + -ate + -or	noun
+invalidhood	in- + valid + -hood	noun
+invaliding	in- + valid + -ing	verb
+invalidism	in- + valid + -ism	noun
+invalidity	in- + valid + -ity	noun
+invalidly	in- + valid + -ly	adv
+invaluable	in- + value + -able	adj
+invaluableness	in- + value + -able + -ness	noun
+invaluably	in- + value + -able + -ly	adv
+invariability	in- + vary + -able + -ity	noun
+invariable	in- + vary + -able	adj
+invariableness	in- + vary + -able + -ness	noun
+invariably	in- + vary + -able + -ly	adv
+invariant	in- + vary + -ant	adj
+inveracity	in- + veracity	noun
+inverse	in- + verse	adj
+inversely	in- + verse + -ly	adv
+inversive	in- + verse + -ive	adj
+invertebrate	in- + vertebrate	noun
+inviability	in- + viable + -ity	noun
+inviable	in- + viable	adj
+invigilate	in- + vigil + -ate	verb
+invigilation	in- + vigil + -ation	noun
+invigilator	in- + vigil + -ate + -or	noun
+invigorant	in- + vigor + -ant	noun
+invigorate	in- + vigor + -ate	verb
+invigorated	in- + vigor + -ate + -ed	verb
+invigorating	in- + vigor + -ate + -ing	adj
+invigoratingly	in- + vigor + -ate + -ing + -ly	adv
+invigoration	in- + vigor + -ation	noun
+invigorative	in- + vigor + -ate + -ive	adj
+invincibleness	in- + vincible + -ness	noun
+invincibly	in- + vincible + -ly	adv
+inviolability	in- + violate + -able + -ity	noun
+inviolable	in- + violate + -able	adj
+inviolableness	in- + violate + -able + -ness	noun
+inviolably	in- + violate + -able + -ly	adv
+inviolacy	in- + violate + -cy	noun
+inviolate	in- + violate	adj
+inviolately	in- + violate + -ly	adv
+inviolateness	in- + violate + -ness	noun
+invisibility	in- + vis + -ible + -ity	noun
+invisible	in- + vis + -ible	adj
+invisibleness	in- + vis + -ible + -ness	noun
+invisibly	in- + vis + -ible + -ly	adv
+involuntarily	in- + voluntary + -ly	adv
+involuntariness	in- + voluntary + -ness	noun
+involuntary	in- + voluntary	adj
+involute	in- + volute	adj
+involutely	in- + volute + -ly	adv
+invulnerability	in- + vulnerable + -ity	noun
+invulnerable	in- + vulnerable	adj
+invulnerably	in- + vulnerable + -ly	adv
+inwrought	in- + work + -en	adj
+irradiate	ir- + radiate	verb
+irradiated	ir- + radiate + -ed	adj
+irradiation	ir- + radiate + -ion	noun
+irradiative	ir- + radiate + -ive	adj
+irradiator	ir- + radiate + -or	noun
+irrational	ir- + rational	adj
+irrationalism	ir- + rational + -ism	noun
+irrationality	ir- + rational + -ity	noun
+irrationalize	ir- + rational + -ize	verb
+irrationally	ir- + ration + -al + -ly	adv
+irrationalness	ir- + rational + -ness	noun
+irrebuttable	ir- + rebut + -able	adj
+irreclaimability	ir- + re- + claim + -able + -ity	noun
+irreclaimable	ir- + re- + claim + -able	adj
+irreclaimableness	ir- + re- + claim + -able + -ness	noun
+irreclaimably	ir- + re- + claim + -able + -ly	adv
+irreconcilability	ir- + reconcile + -able + -ity	noun
+irreconcilable	ir- + reconcile + -able	adj
+irreconcilableness	ir- + reconcile + -able + -ness	noun
+irreconcilably	ir- + reconcile + -able + -ly	adv
+irrecoverable	ir- + re- + cover + -able	adj
+irrecoverableness	ir- + re- + cover + -able + -ness	noun
+irrecoverably	ir- + re- + cover + -able + -ly	adv
+irrecusable	ir- + recuse + -able	adj
+irrecusably	ir- + recuse + -able + -ly	adv
+irredeemable	ir- + redeem + -able	adj
+irredeemableness	ir- + redeem + -able + -ness	noun
+irredeemably	ir- + redeem + -able + -ly	adv
+irreducibility	ir- + re- + -duce + -ible + -ity	noun
+irreducible	ir- + re- + -duce + -ible	adj
+irreducibleness	ir- + re- + -duce + -ible + -ness	noun
+irreducibly	ir- + re- + -duce + -ible + -ly	adv
+irreformable	ir- + re- + form + -able	adj
+irrefragability	ir- + refragable + -ity	noun
+irrefragable	ir- + refragable	adj
+irrefragableness	ir- + refragable + -ness	noun
+irrefragably	ir- + refragable + -ly	adv
+irrefrangible	ir- + refrangible	adj
+irrefutability	ir- + refute + -able + -ity	noun
+irrefutable	ir- + refute + -able	adj
+irrefutableness	ir- + refute + -able + -ness	noun
+irrefutably	ir- + refute + -able + -ly	adv
+irregardless	ir- + regard + -less	adv
+irregular	ir- + regular	adj
+irregularity	ir- + regular + -ity	noun
+irregularly	ir- + regular + -ly	adv
+irrelative	ir- + relate + -ive	adj
+irrelatively	ir- + relate + -ive + -ly	adv
+irrelativeness	ir- + relate + -ive + -ness	noun
+irrelevance	ir- + relevant + -ance	noun
+irrelevancy	ir- + relevant + -cy	noun
+irrelevant	ir- + relevant	adj
+irrelevantly	ir- + relevant + -ly	adv
+irreligion	ir- + religion	noun
+irreligionist	ir- + religion + -ist	noun
+irreligious	ir- + religion + -ous	adj
+irreligiously	ir- + religion + -ous + -ly	adv
+irreligiousness	ir- + religion + -ous + -ness	noun
+irremediable	ir- + remedy + -able	adj
+irremediableness	ir- + remedy + -able + -ness	noun
+irremediably	ir- + remedy + -able + -ly	adv
+irremissibility	ir- + remit + -ible + -ity	noun
+irremissible	ir- + remit + -ible	adj
+irremissibleness	ir- + remit + -ible + -ness	noun
+irremissibly	ir- + remit + -ible + -ly	adv
+irremovability	ir- + re- + move + -able + -ity	noun
+irremovable	ir- + re- + move + -able	adj
+irremovableness	ir- + re- + move + -able + -ness	noun
+irremovably	ir- + re- + move + -able + -ly	adv
+irrepairable	ir- + repair + -able	adj
+irreparability	ir- + repair + -able + -ity	noun
+irreparable	ir- + repair + -able	adj
+irreparableness	ir- + repair + -able + -ness	noun
+irreparably	ir- + repair + -able + -ly	adv
+irrepatriable	ir- + repatriate + -able	adj
+irrepealability	ir- + repeal + -able + -ity	noun
+irrepealable	ir- + repeal + -able	adj
+irreplaceability	ir- + re- + place + -able + -ity	noun
+irreplaceable	ir- + re- + place + -able	adj
+irreplaceableness	ir- + re- + place + -able + -ness	noun
+irreplaceably	ir- + re- + place + -able + -ly	adv
+irrepressibility	ir- + re- + press + -ible + -ity	noun
+irrepressible	ir- + re- + press + -ible	adj
+irrepressibleness	ir- + re- + press + -ible + -ness	noun
+irrepressibly	ir- + re- + press + -ible + -ly	adv
+irreproachability	ir- + reproach + -able + -ity	noun
+irreproachable	ir- + reproach + -able	adj
+irreproachableness	ir- + reproach + -able + -ness	noun
+irreproachably	ir- + reproach + -able + -ly	adv
+irresistibility	ir- + resist + -ible + -ity	noun
+irresistible	ir- + resist + -ible	adj
+irresistibleness	ir- + resist + -ible + -ness	noun
+irresistibly	ir- + resist + -ible + -ly	adv
+irresolubility	ir- + resolve + -able + -ity	noun
+irresoluble	ir- + resolve + -able	adj
+irresolute	ir- + resolute	adj
+irresolutely	ir- + resolute + -ly	adv
+irresoluteness	ir- + resolute + -ness	noun
+irresolution	ir- + resolve + -ion	noun
+irresolvability	ir- + resolve + -able + -ity	noun
+irresolvable	ir- + resolve + -able	adj
+irresolvableness	ir- + resolve + -able + -ness	noun
+irrespective	ir- + respect + -ive	adj
+irrespectively	ir- + respect + -ive + -ly	adv
+irrespirable	ir- + respire + -able	adj
+irresponsibility	ir- + responsible + -ity	noun
+irresponsible	ir- + responsible	adj
+irresponsibleness	ir- + responsible + -ness	noun
+irresponsibly	ir- + responsible + -ly	adv
+irresponsive	ir- + responsive	adj
+irresponsively	ir- + responsive + -ly	adv
+irresponsiveness	ir- + responsive + -ness	noun
+irretention	ir- + retention	noun
+irretentive	ir- + retentive	adj
+irretentiveness	ir- + retentive + -ness	noun
+irretrievability	ir- + retrieve + -able + -ity	noun
+irretrievable	ir- + retrieve + -able	adj
+irretrievableness	ir- + retrieve + -able + -ness	noun
+irretrievably	ir- + retrieve + -able + -ly	adv
+irreverence	ir- + revere + -ence	noun
+irreverent	ir- + revere + -ent	adj
+irreverential	ir- + revere + -ent + -ial	adj
+irreverently	ir- + revere + -ent + -ly	adv
+irreversibility	ir- + reverse + -ible + -ity	noun
+irreversible	ir- + reverse + -ible	adj
+irreversibleness	ir- + reverse + -ible + -ness	noun
+irreversibly	ir- + reverse + -ible + -ly	adv
+irrevocability	ir- + revoke + -able + -ity	noun
+irrevocable	ir- + revoke + -able	adj
+irrevocableness	ir- + revoke + -able + -ness	noun
+irrevocably	ir- + revoke + -able + -ly	adv
+irrotational	ir- + rotate + -ion + -al	adj
+misdemeanant	mis- + de- + mean + -ant	noun
+misdescribe	mis- + de- + -scribe	verb
+misimpression	mis- + im- + press + -ion	noun

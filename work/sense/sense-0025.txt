@@ -1,0 +1,200 @@
+undeliberate	un- + deliberate	adj
+undeliberated	un- + deliberate + -ed	adj
+undelightful	un- + delight + -ful	adj
+undeliverable	un- + deliver + -able	adj
+undelivered	un- + deliver + -ed	adj
+undeluded	un- + delude + -ed	adj
+undemanding	un- + demand + -ing	adj
+undemocratic	un- + demo- + -crat + -ic	adj
+undemonstrable	un- + demonstrate + -able	adj
+undemonstrated	un- + demonstrate + -ed	adj
+undemonstrative	un- + demonstrate + -ive	adj
+undemonstratively	un- + demonstrate + -ive + -ly	adv
+undemonstrativeness	un- + demonstrate + -ive + -ness	noun
+undeniable	un- + deny + -able	adj
+undeniableness	un- + deny + -able + -ness	noun
+undeniably	un- + deny + -able + -ly	adv
+undenied	un- + deny + -ed	adj
+undenominational	un- + denominate + -ion + -al	adj
+undenounced	un- + denounce + -ed	adj
+undependability	un- + depend + -able + -ity	noun
+undependable	un- + depend + -able	adj
+undeplored	un- + deplore + -ed	adj
+undeposed	un- + de- + pose + -ed	adj
+undepreciated	un- + depreciate + -ed	adj
+undepressed	un- + de- + press + -ed	adj
+underived	un- + derive + -ed	adj
+underreaction	under- + re- + act + -ion	noun
+undescended	un- + descend + -ed	adj
+undescried	un- + descry + -ed	adj
+undeserved	un- + deserve + -ed	adj
+undeservedly	un- + deserve + -ed + -ly	adv
+undeserving	un- + deserve + -ing	adj
+undesignated	un- + design + -ate + -ed	adj
+undesigned	un- + design + -ed	adj
+undesirability	un- + desire + -able + -ity	noun
+undesirable	un- + desire + -able	adj
+undesirably	un- + desire + -able + -ly	adv
+undesired	un- + desire + -ed	adj
+undesirous	un- + desire + -ous	adj
+undespairing	un- + despair + -ing	adj
+undestroyable	un- + destroy + -able	adj
+undestroyed	un- + destroy + -ed	adj
+undetachable	un- + detach + -able	adj
+undetectable	un- + detect + -able	adj
+undetected	un- + detect + -ed	adj
+undeterminable	un- + determine + -able	adj
+undetermined	un- + determine + -ed	adj
+undeterred	un- + deter + -ed	adj
+undeveloped	un- + develop + -ed	adj
+undeviating	un- + deviate + -ing	adj
+undevised	un- + devise + -ed	adj
+undiagnosed	un- + diagnose + -ed	adj
+undidactic	un- + didactic	adj
+undifferentiated	un- + differentiate + -ed	adj
+undiffused	un- + diffuse + -ed	adj
+undigested	un- + digest + -ed	adj
+undigestible	un- + digest + -ible	adj
+undignified	un- + dignify + -ed	adj
+undiligent	un- + diligent	adj
+undiluted	un- + dilute + -ed	adj
+undiminished	un- + diminish + -ed	adj
+undimmed	un- + dim + -ed	adj
+undiplomatic	un- + diplomat + -ic	adj
+undiplomatically	un- + diplomat + -ic + -al + -ly	adv
+undipped	un- + dip + -ed	adj
+undirected	un- + direct + -ed	verb
+undisbanded	un- + dis- + band + -ed	adj
+undiscerning	un- + discern + -ing	adj
+undischarged	un- + dis- + charge + -ed	adj
+undisciplinable	un- + discipline + -able	adj
+undisciplined	un- + discipline + -ed	adj
+undisclosed	un- + dis- + close + -ed	adj
+undiscolored	un- + dis- + color + -ed	adj
+undiscomfited	un- + discomfit + -ed	adj
+undisconcerted	un- + dis- + concert + -ed	adj
+undiscountable	un- + dis- + count + -able	adj
+undiscouraged	un- + dis- + courage + -ed	adj
+undiscoverable	un- + dis- + cover + -able	adj
+undiscovered	un- + dis- + cover + -ed	adj
+undiscriminated	un- + discriminate + -ed	adj
+undiscriminating	un- + discriminate + -ing	adj
+undiscussed	un- + discuss + -ed	adj
+undisfigured	un- + dis- + figure + -ed	adj
+undisguised	un- + dis- + guise + -ed	adj
+undismayed	un- + dismay + -ed	adj
+undispatched	un- + dis- + patch + -ed	adj
+undispelled	un- + dispel + -ed	adj
+undispersed	un- + disperse + -ed	adj
+undisplayed	un- + display + -ed	adj
+undisposed	un- + dis- + pose + -ed	adj
+undisproved	un- + dis- + prove + -ed	adj
+undisputed	un- + dispute + -ed	adj
+undisputing	un- + dispute + -ing	adj
+undissected	un- + dissect + -ed	adj
+undissembled	un- + dissemble + -ed	adj
+undissembling	un- + dissemble + -ing	adj
+undissolvable	un- + dis- + solve + -able	adj
+undissolved	un- + dis- + solve + -ed	adj
+undistempered	un- + distemper + -ed	adj
+undistilled	un- + distill + -ed	adj
+undistinguishable	un- + distinguish + -able	adj
+undistinguished	un- + distinguish + -ed	adj
+undistorted	un- + distort + -ed	adj
+undistracted	un- + distract + -ed	adj
+undistressed	un- + distress + -ed	adj
+undistributed	un- + distribute + -ed	adj
+undisturbed	un- + disturb + -ed	adj
+undiversified	un- + diversify + -ed	adj
+undiverted	un- + divert + -ed	adj
+undivided	un- + divide + -ed	adj
+undivorced	un- + divorce + -ed	adj
+undivulged	un- + divulge + -ed	adj
+undo	un- + do	verb
+undoable	un- + do + -able	adj
+undock	un- + dock	verb
+undocking	un- + dock + -ing	noun
+undocumented	un- + document + -ed	adj
+undogmatic	un- + dogma + -ic	adj
+undoing	un- + do + -ing	noun
+undomesticated	un- + domestic + -ate + -ed	adj
+undone	un- + do + -en	adj
+undotted	un- + dot + -ed	adj
+undouble	un- + double	verb
+undoubtable	un- + doubt + -able	adj
+undoubted	un- + doubt + -ed	adj
+undoubtedly	un- + doubt + -ed + -ly	adv
+undoubtful	un- + doubt + -ful	adj
+undoubting	un- + doubt + -ing	adj
+undownable	un- + down + -able	adj
+undrainable	un- + drain + -able	adj
+undrained	un- + drain + -ed	adj
+undramatic	un- + dramatic	adj
+undramatized	un- + dramatize + -ed	adj
+undraped	un- + drape + -ed	adj
+undraw	un- + draw	verb
+undreamt	un- + dream + -ed	adj
+undress	un- + dress	verb
+undressed	un- + dress + -ed	adj
+undressing	un- + dress + -ing	noun
+undried	un- + dry + -ed	adj
+undrilled	un- + drill + -ed	adj
+undrinkable	un- + drink + -able	adj
+undriven	un- + drive + -en	adj
+undrowned	un- + drown + -ed	adj
+undrunk	un- + drink + -en	adj
+undubbed	un- + dub + -ed	adj
+undue	un- + due	adj
+undug	un- + dig + -ed	adj
+unduly	un- + due + -ly	adv
+unduplicated	un- + duplicate + -ed	adj
+undurable	un- + durable	adj
+undusted	un- + dust + -ed	adj
+unduteous	un- + duty + -eous	adj
+undutiful	un- + duty + -ful	adj
+undutifully	un- + duty + -ful + -ly	adv
+undutifulness	un- + duty + -ful + -ness	noun
+undyed	un- + dye + -ed	adj
+undynamic	un- + dynamic	adj
+uneager	un- + eager	adj
+unearned	un- + earn + -ed	adj
+unearth	un- + earth	verb
+unearthed	un- + earth + -ed	verb
+unearthing	un- + earth + -ing	verb
+unearthliness	un- + earth + -ly + -ness	noun
+unearthly	un- + earth + -ly	adj
+unease	un- + ease	noun
+uneasily	un- + easy + -ly	adv
+uneasiness	un- + easy + -ness	noun
+uneasy	un- + easy	adj
+uneatable	un- + eat + -able	adj
+uneaten	un- + eat + -en	adj
+uneccentric	un- + eccentric	adj
+uneclipsed	un- + eclipse + -ed	adj
+unecological	un- + eco- + -logy + -ical	adj
+uneconomic	un- + economic	adj
+uneconomical	un- + economy + -ical	adj
+uneconomically	un- + economy + -ical + -ly	adv
+unedge	un- + edge	verb
+unedible	un- + edible	adj
+unedifying	un- + edify + -ing	adj
+unedited	un- + edit + -ed	adj
+uneducable	un- + educate + -able	adj
+uneducated	un- + educate + -ed	adj
+uneffaced	un- + ef- + face + -ed	adj
+uneffected	un- + effect + -ed	adj
+unelaborate	un- + elaborate	adj
+unelaborated	un- + elaborate + -ed	adj
+unelated	un- + elate + -ed	adj
+unelectable	un- + elect + -able	adj
+unelected	un- + elect + -ed	adj
+unelectrified	un- + electrify + -ed	adj
+uneliminated	un- + eliminate + -ed	adj
+uneloquent	un- + eloquent	adj
+unelucidated	un- + elucidate + -ed	adj
+unemancipated	un- + emancipate + -ed	adj
+unembarrassed	un- + embarrass + -ed	adj
+unembellished	un- + embellish + -ed	adj
+unembittered	un- + em- + bitter + -ed	adj
+unembodied	un- + embody + -ed	adj
+unemotional	un- + emotion + -al	adj

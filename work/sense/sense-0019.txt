@@ -1,0 +1,200 @@
+renewing	re- + new + -ing	verb
+renominate	re- + nominate	verb
+renomination	re- + nominate + -ion	noun
+renormalization	re- + norm + -al + -ize + -ation	noun
+renumber	re- + number	verb
+renumbering	re- + number + -ing	noun
+reoccupation	re- + occupy + -ation	noun
+reoccupy	re- + occupy	verb
+reoccur	re- + occur	verb
+reoccurrence	re- + occur + -ence	noun
+reopen	re- + open	verb
+reopening	re- + open + -ing	noun
+reorder	re- + order	verb
+reordering	re- + order + -ing	noun
+reorganization	re- + organ + -ize + -ation	noun
+reorganize	re- + organ + -ize	verb
+reorganized	re- + organ + -ize + -ed	verb
+reorient	re- + orient	verb
+reorientate	re- + orient + -ate	verb
+reorientation	re- + orient + -ation	noun
+repace	re- + pace	verb
+repacify	re- + pacify	verb
+repack	re- + pack	verb
+repackage	re- + package	verb
+repackaging	re- + package + -ing	verb
+repacking	re- + pack + -ing	noun
+repagination	re- + paginate + -ion	noun
+repaint	re- + paint	verb
+repainting	re- + paint + -ing	noun
+repaper	re- + paper	verb
+repartition	re- + partition	noun
+repartitioning	re- + partition + -ing	noun
+repass	re- + pass	verb
+repay	re- + pay	verb
+repayable	re- + pay + -able	adj
+repayment	re- + pay + -ment	noun
+repeople	re- + people	verb
+reperuse	re- + peruse	verb
+rephrase	re- + phrase	verb
+rephrasing	re- + phrase + -ing	verb
+replace	re- + place	verb
+replaceability	re- + place + -able + -ity	noun
+replaceable	re- + place + -able	adj
+replacement	re- + place + -ment	noun
+replacer	re- + place + -er	noun
+replan	re- + plan	verb
+replant	re- + plant	verb
+replantation	re- + plant + -ation	noun
+replanting	re- + plant + -ing	noun
+replate	re- + plate	verb
+replay	re- + play	verb
+repoint	re- + point	verb
+repolarization	re- + pole + -ar + -ize + -ation	noun
+repolish	re- + polish	verb
+repopulate	re- + populate	verb
+repopulation	re- + populate + -ion	noun
+reposit	re- + posit	verb
+reposition	re- + posit + -ion	verb
+repositioning	re- + posit + -ion + -ing	verb
+repository	re- + posit + -ory	noun
+repossess	re- + possess	verb
+repossession	re- + possess + -ion	noun
+repost	re- + post	verb
+repot	re- + pot	verb
+repress	re- + press	verb
+repressed	re- + press + -ed	adj
+represser	re- + press + -er	noun
+repressible	re- + press + -ible	adj
+repressing	re- + press + -ing	verb
+repression	re- + press + -ion	noun
+repressive	re- + press + -ive	adj
+repressively	re- + press + -ive + -ly	adv
+repressiveness	re- + press + -ive + -ness	noun
+repressor	re- + press + -or	noun
+reprint	re- + print	verb
+reprinted	re- + print + -ed	adj
+reprinting	re- + print + -ing	verb
+reprivatization	re- + private + -ize + -ation	noun
+reprocess	re- + process	verb
+reprocessing	re- + process + -ing	noun
+reproduce	re- + pro- + -duce	verb
+reproducer	re- + pro- + -duce + -er	noun
+reproducibility	re- + pro- + -duce + -ible + -ity	noun
+reproducible	re- + pro- + -duce + -ible	adj
+reproducing	re- + pro- + -duce + -ing	verb
+reproduction	re- + pro- + -duce + -ion	noun
+reproductive	re- + pro- + -duct + -ive	adj
+reproductiveness	re- + pro- + -duct + -ive + -ness	noun
+reproductory	re- + pro- + -duct + -ory	adj
+reprogram	re- + program	verb
+reprogrammed	re- + program + -ed	verb
+reprogramming	re- + program + -ing	verb
+reproof	re- + proof	noun
+reproportion	re- + proportion	verb
+reprove	re- + prove	verb
+reprover	re- + prove + -er	noun
+reproving	re- + prove + -ing	verb
+reprovingly	re- + prove + -ing + -ly	adv
+republish	re- + publish	verb
+repulse	re- + pulse	verb
+repulsive	re- + pulse + -ive	adj
+repulsively	re- + pulse + -ive + -ly	adv
+repulsiveness	re- + pulse + -ive + -ness	noun
+repurchase	re- + purchase	verb
+repurpose	re- + purpose	verb
+reradiate	re- + radiate	verb
+reread	re- + read	verb
+rereading	re- + read + -ing	noun
+rerecording	re- + record + -ing	noun
+reregistration	re- + register + -ation	noun
+rerise	re- + rise	verb
+reroute	re- + route	verb
+rerouting	re- + route + -ing	verb
+rerun	re- + run	noun
+resail	re- + sail	verb
+resale	re- + sale	noun
+resaw	re- + saw	verb
+rescale	re- + scale	verb
+rescaling	re- + scale + -ing	noun
+reschedule	re- + schedule	verb
+rescheduling	re- + schedule + -ing	noun
+rescrape	re- + scrape	verb
+rescreening	re- + screen + -ing	noun
+rescript	re- + -scribe	noun
+reseal	re- + seal	verb
+resealable	re- + seal + -able	adj
+reseat	re- + seat	verb
+resee	re- + see	verb
+reseed	re- + seed	verb
+resegregation	re- + segregate + -ion	noun
+resell	re- + sell	verb
+reseller	re- + sell + -er	noun
+resend	re- + send	verb
+reset	re- + set	verb
+resetter	re- + set + -er	noun
+resetting	re- + set + -ing	verb
+resettle	re- + settle	verb
+resettlement	re- + settle + -ment	noun
+reshape	re- + shape	verb
+reshaping	re- + shape + -ing	verb
+reship	re- + ship	verb
+reshipping	re- + ship + -ing	noun
+reshuffle	re- + shuffle	verb
+reshuffling	re- + shuffle + -ing	noun
+resilver	re- + silver	verb
+resit	re- + sit	verb
+resize	re- + size	verb
+resole	re- + sole	verb
+resolidification	re- + solid + -ify + -ation	noun
+resoling	re- + sole + -ing	noun
+resolvable	re- + solve + -able	adj
+resorb	re- + sorb	verb
+resound	re- + sound	verb
+resounding	re- + sound + -ing	adj
+resoundingly	re- + sound + -ing + -ly	adv
+respell	re- + spell	verb
+respelling	re- + spell + -ing	noun
+respray	re- + spray	verb
+restage	re- + stage	verb
+restake	re- + stake	verb
+restart	re- + start	verb
+restate	re- + state	verb
+restatement	re- + state + -ment	noun
+restenosis	re- + stenosis	noun
+restock	re- + stock	verb
+restocking	re- + stock + -ing	verb
+restrain	re- + strain	verb
+restrained	re- + strain + -ed	adj
+restrainer	re- + strain + -er	noun
+restraining	re- + strain + -ing	adj
+restrike	re- + strike	verb
+restructure	re- + -struct + -ure	verb
+restructuring	re- + -struct + -ure + -ing	noun
+restyle	re- + style	verb
+resublime	re- + sublime	verb
+resubmit	re- + submit	verb
+resummons	re- + summon + -s	noun
+resupply	re- + supply	verb
+resurface	re- + surface	verb
+resurfacing	re- + surface + -ing	verb
+resurge	re- + surge	verb
+resurgence	re- + surge + -ence	noun
+resurgent	re- + surge + -ent	adj
+resurvey	re- + survey	verb
+resynthesis	re- + synthesis	noun
+retake	re- + take	verb
+retaken	re- + take + -en	adj
+retannage	re- + tan + -age	noun
+retarget	re- + target	verb
+retell	re- + tell	verb
+retelling	re- + tell + -ing	noun
+retemper	re- + temper	verb
+reterritorialization	re- + territory + -al + -ize + -ation	noun
+retest	re- + test	verb
+rethink	re- + think	verb
+rethinking	re- + think + -ing	verb
+rethread	re- + thread	verb
+retimber	re- + timber	verb
+retime	re- + time	verb
+retool	re- + tool	verb

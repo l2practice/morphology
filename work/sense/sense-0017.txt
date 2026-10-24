@@ -1,0 +1,200 @@
+recombinant	re- + combine + -ant	adj
+recombination	re- + combine + -ation	noun
+recombine	re- + combine	verb
+recombined	re- + combine + -ed	verb
+recombining	re- + combine + -ing	verb
+recommence	re- + commence	verb
+recommit	re- + commit	verb
+recommitment	re- + commit + -ment	noun
+recommittal	re- + commit + -al	noun
+recompilation	re- + compile + -ation	noun
+recompile	re- + compile	verb
+recompose	re- + compose	verb
+recomposition	re- + compose + -ition	noun
+reconcentrate	re- + concentrate	verb
+reconceptualization	re- + con- + -cept + -ual + -ize + -ation	noun
+recondense	re- + con- + dense	verb
+recondition	re- + condition	verb
+reconditioned	re- + condition + -ed	adj
+reconfigurable	re- + con- + figure + -able	adj
+reconfiguration	re- + con- + figure + -ation	noun
+reconfigure	re- + con- + figure	verb
+reconfirm	re- + confirm	verb
+reconfirmation	re- + confirm + -ation	noun
+reconnect	re- + connect	verb
+reconnection	re- + connect + -ion	noun
+reconnoiter	re- + connoiter	verb
+reconnoitre	re- + connoitre	verb
+reconnoitring	re- + connoitre + -ing	verb
+reconquer	re- + conquer	verb
+reconquest	re- + conquest	noun
+reconsider	re- + consider	verb
+reconsideration	re- + consider + -ation	noun
+reconsolidate	re- + con- + solid + -ate	verb
+reconstitute	re- + constitute	verb
+reconstituted	re- + constitute + -ed	adj
+reconstitution	re- + constitute + -ion	noun
+reconstruct	re- + con- + -struct	verb
+reconstructed	re- + con- + -struct + -ed	verb
+reconstructible	re- + con- + -struct + -ible	adj
+reconstruction	re- + con- + -struct + -ion	noun
+reconstructionist	re- + con- + -struct + -ion + -ist	noun
+reconstructive	re- + con- + -struct + -ive	adj
+recontextualization	re- + context + -ual + -ize + -ation	noun
+recontract	re- + contract	verb
+reconvene	re- + convene	verb
+reconvention	re- + convene + -tion	noun
+reconversion	re- + convert + -ion	noun
+reconvert	re- + convert	verb
+reconvey	re- + convey	verb
+reconveyance	re- + convey + -ance	noun
+recopy	re- + copy	verb
+recopying	re- + copy + -ing	verb
+recork	re- + cork	verb
+recount	re- + count	verb
+recounting	re- + count + -ing	noun
+recover	re- + cover	verb
+recoverability	re- + cover + -able + -ity	noun
+recoverable	re- + cover + -able	adj
+recovering	re- + cover + -ing	verb
+recovery	re- + cover + -y	noun
+recreate	re- + create	verb
+recreation	re- + create + -ion	noun
+recreational	re- + create + -ion + -al	adj
+recreative	re- + create + -ive	adj
+recross	re- + cross	verb
+recrossed	re- + cross + -ed	adj
+recrossing	re- + cross + -ing	verb
+recrystallization	re- + crystal + -ize + -ation	noun
+recurrent	re- + current	adj
+recurvate	re- + curve + -ate	adj
+recurve	re- + curve	verb
+recurved	re- + curve + -ed	adj
+recut	re- + cut	verb
+recyclability	re- + cycle + -able + -ity	noun
+recyclable	re- + cycle + -able	adj
+recycle	re- + cycle	verb
+recycled	re- + cycle + -ed	adj
+recycler	re- + cycle + -er	noun
+recycling	re- + cycle + -ing	noun
+redecorate	re- + decor + -ate	verb
+redecoration	re- + decor + -ate + -ion	noun
+redefine	re- + define	verb
+redefinition	re- + define + -ition	noun
+redeliver	re- + deliver	verb
+redelivery	re- + deliver + -y	noun
+redemand	re- + demand	verb
+redemarcation	re- + demarcate + -ion	noun
+redeploy	re- + deploy	verb
+redeployment	re- + deploy + -ment	noun
+redeposit	re- + deposit	verb
+redescend	re- + descend	verb
+redescription	re- + describe + -ion	noun
+redesign	re- + design	verb
+redesignate	re- + design + -ate	verb
+redevelop	re- + develop	verb
+redevelopment	re- + develop + -ment	noun
+redial	re- + dial	verb
+rediffusion	re- + diffuse + -ion	noun
+redirect	re- + direct	verb
+redirection	re- + direct + -ion	noun
+rediscount	re- + dis- + count	verb
+rediscover	re- + dis- + cover	verb
+rediscovery	re- + dis- + cover + -y	noun
+redispose	re- + dis- + pose	verb
+redistribute	re- + distribute	verb
+redistribution	re- + distribute + -ion	noun
+redistributional	re- + distribute + -ion + -al	adj
+redistributive	re- + distribute + -ive	adj
+redistricting	re- + district + -ing	noun
+redivide	re- + divide	verb
+redo	re- + do	verb
+redouble	re- + double	verb
+redraft	re- + draft	verb
+redraw	re- + draw	verb
+redrawing	re- + draw + -ing	verb
+redress	re- + dress	verb
+reduce	re- + -duce	verb
+reduced	re- + -duce + -ed	adj
+reducer	re- + -duce + -er	noun
+reducible	re- + -duce + -ible	adj
+reducing	re- + -duce + -ing	verb
+reduction	re- + -duct + -ion	noun
+reductionistic	re- + -duct + -ion + -ist + -ic	adj
+reductive	re- + -duce + -ive	adj
+reductivist	re- + -duct + -ive + -ist	noun
+reductor	re- + -duct + -or	noun
+reduplicate	re- + duplicate	verb
+reduplication	re- + duplicate + -ion	noun
+reduplicative	re- + duplicate + -ive	adj
+redye	re- + dye	verb
+redyeing	re- + dye + -ing	verb
+reecho	re- + echo	verb
+reedify	re- + edify	verb
+reeducate	re- + educate	verb
+reeducation	re- + educate + -ion	noun
+reelect	re- + elect	verb
+reelection	re- + elect + -ion	noun
+reeligible	re- + eligible	adj
+reenact	re- + en- + act	verb
+reenactment	re- + en- + act + -ment	noun
+reenactor	re- + en- + act + -or	noun
+reengine	re- + engine	verb
+reengineering	re- + engine + -eer + -ing	verb
+reenter	re- + enter	verb
+reentering	re- + enter + -ing	verb
+reentrant	re- + enter + -ant	adj
+reestablish	re- + establish	verb
+reestablishment	re- + establish + -ment	noun
+reexamined	re- + examine + -ed	adj
+reexport	re- + export	verb
+reexportation	re- + export + -ation	noun
+reface	re- + face	verb
+refactor	re- + factor	verb
+refactoring	re- + factor + -ing	noun
+refashion	re- + fashion	verb
+refashioning	re- + fashion + -ing	noun
+refill	re- + fill	verb
+refillable	re- + fill + -able	adj
+refinance	re- + finance	verb
+refinancing	re- + finance + -ing	noun
+refine	re- + fine	verb
+refined	re- + fine + -ed	adj
+refinement	re- + fine + -ment	noun
+refiner	re- + fine + -er	noun
+refinery	re- + fine + -ery	noun
+refining	re- + fine + -ing	noun
+refinish	re- + finish	verb
+refit	re- + fit	verb
+refitting	re- + fit + -ing	noun
+refix	re- + fix	verb
+refloat	re- + float	verb
+reflorescence	re- + florescence	noun
+reflourish	re- + flourish	verb
+reflow	re- + flow	verb
+refluent	re- + fluent	adj
+reflux	re- + flux	noun
+refocus	re- + focus	verb
+refocusing	re- + focus + -ing	verb
+refold	re- + fold	verb
+refolding	re- + fold + -ing	noun
+refoliation	re- + foliate + -ion	noun
+refoot	re- + foot	verb
+reforest	re- + forest	verb
+reforestation	re- + forest + -ation	noun
+reforge	re- + forge	verb
+reforging	re- + forge + -ing	noun
+reform	re- + form	noun
+reformable	re- + form + -able	adj
+reformat	re- + format	verb
+reformation	re- + form + -ation	noun
+reformative	re- + form + -ative	adj
+reformatory	re- + format + -ory	noun
+reformed	re- + form + -ed	adj
+reformer	re- + form + -er	noun
+reforming	re- + form + -ing	noun
+reformism	re- + form + -ism	noun
+reformist	re- + form + -ist	noun
+reformulate	re- + formula + -ate	verb
+reformulation	re- + formula + -ate + -ion	noun
+refortify	re- + fort + -ify	verb

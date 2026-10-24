@@ -1,0 +1,200 @@
+monounsaturated	mono- + un- + saturate + -ed	adj
+nonreactive	non- + re- + act + -ive	adj
+nonrefundable	non- + re- + fund + -able	adj
+nonrenewable	non- + re- + new + -able	adj
+nonreproductive	non- + re- + pro- + -duct + -ive	adj
+overreact	over- + re- + act	verb
+overreaction	over- + re- + act + -ion	noun
+overrefine	over- + re- + fine	verb
+photodisintegrate	photo + dis- + integrate	verb
+photodisintegration	photo + dis- + integrate + -ion	noun
+photoengraving	photo + en- + grave + -ing	noun
+photoinactivation	photo + in- + act + -ive + -ate + -ion	noun
+photoinduced	photo + in- + -duce + -ed	adj
+photoreaction	photo + re- + act + -ion	noun
+photoreactivation	photo + re- + act + -ive + -ate + -ion	noun
+photoreduction	photo + re- + -duct + -ion	noun
+polyunsaturate	poly- + un- + saturate	noun
+polyunsaturated	poly- + un- + saturate + -ed	adj
+postimpressionism	post- + im- + press + -ion + -ism	noun
+predispose	pre- + dis- + pose	verb
+predisposed	pre- + dis- + pose + -ed	adj
+predisposition	pre- + dis- + pose + -ition	noun
+preinstruct	pre- + in- + -struct	verb
+reabsorb	re- + absorb	verb
+reabsorption	re- + absorb + -tion	noun
+reaccept	re- + ac- + -cept	verb
+reaccustom	re- + ac- + custom	verb
+reacquaint	re- + acquaint	verb
+reacquire	re- + acquire	verb
+react	re- + act	verb
+reactance	re- + act + -ance	noun
+reactant	re- + act + -ant	noun
+reaction	re- + act + -ion	noun
+reactionary	re- + act + -ion + -ary	adj
+reactionist	re- + act + -ion + -ist	noun
+reactionless	re- + act + -ion + -less	adj
+reactivate	re- + act + -ive + -ate	verb
+reactivation	re- + act + -ive + -ate + -ion	noun
+reactivator	re- + act + -ive + -ate + -or	noun
+reactive	re- + act + -ive	adj
+reactivity	re- + act + -ive + -ity	noun
+reactor	re- + act + -or	noun
+readdress	re- + address	verb
+readdressing	re- + address + -ing	verb
+readjourn	re- + adjourn	verb
+readjust	re- + adjust	verb
+readjustment	re- + adjust + -ment	noun
+readmission	re- + admit + -ion	noun
+readmit	re- + admit	verb
+readmittance	re- + admit + -ance	noun
+readopt	re- + adopt	verb
+readorn	re- + adorn	verb
+reaffirm	re- + af- + firm	verb
+reaffirmation	re- + af- + firm + -ation	noun
+reafforest	re- + af- + forest	verb
+reafforestation	re- + af- + forest + -ation	noun
+reagency	re- + agency	noun
+reagent	re- + agent	noun
+realign	re- + align	verb
+realigning	re- + align + -ing	verb
+realignment	re- + align + -ment	noun
+reallocate	re- + allocate	verb
+reallocation	re- + allocate + -ion	noun
+reanalysis	re- + analysis	noun
+reanimate	re- + animate	verb
+reanimation	re- + animate + -ion	noun
+reannex	re- + annex	verb
+reappear	re- + appear	verb
+reappearance	re- + appear + -ance	noun
+reappearing	re- + appear + -ing	verb
+reapplication	re- + apply + -ation	noun
+reapply	re- + apply	verb
+reappoint	re- + appoint	verb
+reappointment	re- + appoint + -ment	noun
+reapportionment	re- + ap- + portion + -ment	noun
+reappraisal	re- + appraise + -al	noun
+reappraise	re- + appraise	verb
+reappropriation	re- + appropriate + -ion	noun
+rearm	re- + arm	verb
+rearmament	re- + arm + -ment	noun
+rearming	re- + arm + -ing	verb
+rearrange	re- + arrange	verb
+rearrangement	re- + arrange + -ment	noun
+rearranging	re- + arrange + -ing	verb
+rearrest	re- + arrest	verb
+rearticulate	re- + articulate	verb
+reascend	re- + ascend	verb
+reassemble	re- + assemble	verb
+reassembly	re- + assemble + -y	noun
+reassert	re- + assert	verb
+reassertion	re- + assert + -ion	noun
+reassess	re- + assess	verb
+reassessment	re- + assess + -ment	noun
+reassign	re- + assign	verb
+reassignment	re- + assign + -ment	noun
+reassume	re- + assume	verb
+reassurance	re- + assure + -ance	noun
+reassure	re- + assure	verb
+reassuring	re- + assure + -ing	adj
+reassuringly	re- + assure + -ing + -ly	adv
+reattempt	re- + attempt	verb
+reawaken	re- + a- + wake + -en	verb
+reawakened	re- + a- + wake + -en + -ed	verb
+reawakening	re- + a- + wake + -en + -ing	verb
+rebake	re- + bake	verb
+rebalancing	re- + balance + -ing	noun
+reballasting	re- + ballast + -ing	verb
+rebaptism	re- + baptism	noun
+rebaptize	re- + baptize	verb
+rebarbarize	re- + barbarize	verb
+rebind	re- + bind	verb
+rebinding	re- + bind + -ing	verb
+rebirth	re- + birth	noun
+reblossom	re- + blossom	verb
+reboot	re- + boot	verb
+rebore	re- + bore	verb
+reborn	re- + born	adj
+reborrowing	re- + borrow + -ing	verb
+rebound	re- + bound	verb
+rebounding	re- + bound + -ing	noun
+rebracketing	re- + bracket + -ing	verb
+rebranding	re- + brand + -ing	verb
+rebreather	re- + breathe + -er	noun
+rebroadcast	re- + broad + cast	verb
+rebuild	re- + build	verb
+rebuilder	re- + build + -er	noun
+rebuilding	re- + build + -ing	noun
+rebuilt	re- + build + -ed	verb
+reburial	re- + bury + -al	noun
+rebury	re- + bury	verb
+rebuy	re- + buy	verb
+recalculate	re- + calculate	verb
+recalculation	re- + calculate + -ion	noun
+recalibrate	re- + calibrate	verb
+recalibration	re- + calibrate + -ion	noun
+recallable	re- + call + -able	adj
+recap	re- + cap	verb
+recapitalization	re- + capital + -ize + -ation	noun
+recapitalize	re- + capital + -ize	verb
+recapitulate	re- + capitulate	verb
+recapitulation	re- + capitulate + -ion	noun
+recapitulative	re- + capitulate + -ative	adj
+recapping	re- + cap + -ing	verb
+recapture	re- + capture	verb
+recast	re- + cast	verb
+recasting	re- + cast + -ing	verb
+recede	re- + cede	verb
+receding	re- + cede + -ing	adj
+receivable	re- + -ceive + -able	adj
+receive	re- + -ceive	verb
+received	re- + -ceive + -ed	verb
+receiver	re- + -ceive + -er	noun
+receivership	re- + -ceive + -er + -ship	noun
+receiving	re- + -ceive + -ing	noun
+recentralization	re- + centre + -al + -ize + -ation	noun
+recentralize	re- + centre + -al + -ize	verb
+reception	re- + -cept + -ion	noun
+receptionist	re- + -cept + -ion + -ist	noun
+receptionists	re- + -cept + -ion + -ist + -s	noun
+receptive	re- + -cept + -ive	adj
+receptiveness	re- + -cept + -ive + -ness	noun
+receptivity	re- + -cept + -ive + -ity	noun
+receptor	re- + -cept + -or	noun
+recertification	re- + certify + -ation	noun
+rechange	re- + change	verb
+recharge	re- + charge	verb
+rechargeable	re- + charge + -able	adj
+recharger	re- + charge + -er	noun
+recharging	re- + charge + -ing	verb
+recheck	re- + check	verb
+rechew	re- + chew	verb
+rechristen	re- + christen	verb
+rechristening	re- + christen + -ing	verb
+recirculate	re- + circulate	verb
+recirculation	re- + circulate + -ion	noun
+recital	re- + cite + -al	noun
+recitation	re- + cite + -ation	noun
+recite	re- + cite	verb
+reciter	re- + cite + -er	noun
+reciting	re- + cite + -ing	verb
+reclaim	re- + claim	verb
+reclaimable	re- + claim + -able	adj
+reclaimed	re- + claim + -ed	adj
+reclassification	re- + classify + -ation	noun
+reclassify	re- + class + -ify	verb
+reclothe	re- + clothe	verb
+reclusion	re- + -clude + -ion	noun
+reclusory	re- + -clude + -ory	adj
+recoal	re- + coal	verb
+recoat	re- + coat	verb
+recode	re- + code	verb
+recoil	re- + coil	verb
+recoilless	re- + coil + -less	adj
+recoin	re- + coin	verb
+recoinage	re- + coin + -age	noun
+recollect	re- + collect	verb
+recollection	re- + collect + -ion	noun
+recollective	re- + collect + -ive	adj
+recolonization	re- + colon + -ize + -ation	noun
+recolonize	re- + colon + -ize	verb

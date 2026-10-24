@@ -1,0 +1,200 @@
+inapproachably	in- + approach + -able + -ly	adv
+inappropriate	in- + appropriate	adj
+inappropriately	in- + appropriate + -ly	adv
+inappropriateness	in- + appropriate + -ness	noun
+inapt	in- + apt	adj
+inaptitude	in- + aptitude	noun
+inaptly	in- + apt + -ly	adv
+inaptness	in- + apt + -ness	noun
+inarch	in- + arch	verb
+inarguable	in- + argue + -able	adj
+inarm	in- + arm	verb
+inartful	in- + art + -ful	adj
+inarticulacy	in- + articulacy	noun
+inarticulate	in- + articulate	adj
+inarticulately	in- + articulate + -ly	adv
+inarticulateness	in- + articulate + -ness	noun
+inartificial	in- + artificial	adj
+inartificiality	in- + artificial + -ity	noun
+inartificially	in- + artificial + -ly	adv
+inartificialness	in- + artificial + -ness	noun
+inartistic	in- + art + -ist + -ic	adj
+inartistically	in- + art + -ist + -ic + -al + -ly	adv
+inattention	in- + attend + -ion	noun
+inattentive	in- + attend + -ive	adj
+inattentively	in- + attend + -ive + -ly	adv
+inattentiveness	in- + attend + -ive + -ness	noun
+inaudibility	in- + audible + -ity	noun
+inaudible	in- + audible	adj
+inaudibleness	in- + audible + -ness	noun
+inaudibly	in- + audibly	adv
+inauguratory	in- + augur + -ate + -ory	adj
+inauspicious	in- + auspice + -ous	adj
+inauspiciously	in- + auspice + -ious + -ly	adv
+inauspiciousness	in- + auspice + -ious + -ness	noun
+inauthentic	in- + authentic	adj
+inauthenticity	in- + authentic + -ity	noun
+inbeing	in- + be + -ing	noun
+inboard	in- + board	adj
+inborn	in- + born	adj
+inbound	in- + bound	adj
+inbox	in- + box	noun
+inbreathe	in- + breathe	verb
+inbred	in- + bred	adj
+inbreed	in- + breed	verb
+inbreeding	in- + breed + -ing	noun
+inbuilt	in- + build + -ed	adj
+inbye	in- + bye	adv
+incalculability	in- + calculate + -able + -ity	noun
+incalculable	in- + calculate + -able	adj
+incalculableness	in- + calculate + -able + -ness	noun
+incalculably	in- + calculate + -able + -ly	adv
+incapability	in- + capable + -ity	noun
+incapable	in- + capable	adj
+incapableness	in- + capable + -ness	noun
+incapably	in- + capable + -ly	adv
+incapacious	in- + capacity + -ous	adj
+incapaciousness	in- + capacity + -ous + -ness	noun
+incapacitate	in- + capacity + -ate	verb
+incapacitated	in- + capacity + -ate + -ed	verb
+incapacitating	in- + capacity + -ate + -ing	verb
+incapacitation	in- + capacity + -ate + -ion	noun
+incapacity	in- + capacity	noun
+incaution	in- + caution	noun
+incautious	in- + caution + -ous	adj
+incautiously	in- + caution + -ous + -ly	adv
+incautiousness	in- + caution + -ous + -ness	noun
+incenter	in- + center	noun
+incept	in- + -cept	verb
+inception	in- + -cept + -ion	noun
+inceptive	in- + -cept + -ive	adj
+inceptor	in- + -cept + -or	noun
+incertitude	in- + certitude	noun
+incircle	in- + circle	verb
+incitant	in- + cite + -ant	noun
+incitation	in- + cite + -ation	noun
+incite	in- + cite	verb
+incitement	in- + cite + -ment	noun
+inciter	in- + cite + -er	noun
+incitingly	in- + cite + -ing + -ly	adv
+incivil	in- + civil	adj
+incivility	in- + civil + -ity	noun
+incivism	in- + civil + -ism	noun
+inclemency	in- + clemency	noun
+inclement	in- + clement	adj
+inclemently	in- + clement + -ly	adv
+inclementness	in- + clement + -ness	noun
+includable	in- + -clude + -able	adj
+include	in- + -clude	verb
+included	in- + -clude + -ed	verb
+includible	in- + -clude + -ible	adj
+including	in- + -clude + -ing	prep
+inclusion	in- + -clude + -ion	noun
+inclusionary	in- + -clude + -ion + -ary	adj
+inclusive	in- + -clude + -ive	adj
+inclusively	in- + -clude + -ive + -ly	adv
+inclusiveness	in- + -clude + -ive + -ness	noun
+incoagulability	in- + coagulate + -able + -ity	noun
+incoagulable	in- + coagulate + -able	adj
+incoercible	in- + coerce + -ible	adj
+incogitability	in- + cogitate + -able + -ity	noun
+incogitable	in- + cogitate + -able	adj
+incogitant	in- + cogitate + -ant	adj
+incognizable	in- + cognize + -able	adj
+incognizance	in- + cognize + -ance	noun
+incognizant	in- + cognize + -ant	adj
+incoherence	in- + cohere + -ence	noun
+incoherency	in- + coherent + -ency	noun
+incoherent	in- + coherent	adj
+incoherently	in- + coherent + -ly	adv
+incoherentness	in- + coherent + -ness	noun
+incohesion	in- + cohesion	noun
+incohesive	in- + cohesive	adj
+incombustibility	in- + combust + -ible + -ity	noun
+incombustible	in- + combust + -ible	adj
+incombustibleness	in- + combust + -ible + -ness	noun
+incombustibly	in- + combust + -ible + -ly	adv
+incomer	in- + come + -er	noun
+incoming	in- + come + -ing	adj
+incommensurability	in- + commensurable + -ity	noun
+incommensurable	in- + commensurable	adj
+incommensurableness	in- + commensurable + -ness	noun
+incommensurably	in- + commensurable + -ly	adv
+incommensurate	in- + commensurate	adj
+incommensurately	in- + commensurate + -ly	adv
+incommensurateness	in- + commensurate + -ness	noun
+incommode	in- + commode	verb
+incommodious	in- + commode + -ous	adj
+incommodiously	in- + commode + -ous + -ly	adv
+incommodiousness	in- + commode + -ous + -ness	noun
+incommunicability	in- + communicate + -able + -ity	noun
+incommunicable	in- + communicate + -able	adj
+incommunicableness	in- + communicate + -able + -ness	noun
+incommunicably	in- + communicate + -able + -ly	adv
+incommunicative	in- + communicate + -ive	adj
+incommunicatively	in- + communicate + -ive + -ly	adv
+incommunicativeness	in- + communicate + -ive + -ness	noun
+incommutability	in- + commute + -able + -ity	noun
+incommutable	in- + commute + -able	adj
+incommutably	in- + commute + -able + -ly	adv
+incompact	in- + compact	adj
+incompactness	in- + compact + -ness	noun
+incomparability	in- + compare + -able + -ity	noun
+incomparable	in- + compare + -able	adj
+incomparableness	in- + compare + -able + -ness	noun
+incomparably	in- + compare + -able + -ly	adv
+incompatibility	in- + compatible + -ity	noun
+incompatible	in- + compatible	adj
+incompatibleness	in- + compatible + -ness	noun
+incompatibly	in- + compatible + -ly	adv
+incompetence	in- + competent + -ence	noun
+incompetency	in- + compete + -ency	noun
+incompetent	in- + compete + -ent	adj
+incompetently	in- + compete + -ent + -ly	adv
+incomplete	in- + complete	adj
+incompletely	in- + complete + -ly	adv
+incompleteness	in- + complete + -ness	noun
+incompletion	in- + complete + -ion	noun
+incompliable	in- + comply + -able	adj
+incompliance	in- + comply + -ance	noun
+incompliant	in- + comply + -ant	adj
+incompliantly	in- + comply + -ant + -ly	adv
+incomprehensibility	in- + comprehend + -ible + -ity	noun
+incomprehensible	in- + comprehend + -ible	adj
+incomprehensibleness	in- + comprehend + -ible + -ness	noun
+incomprehensibly	in- + comprehend + -ible + -ly	adv
+incomprehension	in- + comprehend + -ion	noun
+incomprehensive	in- + comprehend + -ive	adj
+incomprehensively	in- + comprehend + -ive + -ly	adv
+incomprehensiveness	in- + comprehend + -ive + -ness	noun
+incompressibility	in- + com- + press + -ible + -ity	noun
+incompressible	in- + com- + press + -ible	adj
+incomputability	in- + compute + -able + -ity	noun
+incomputable	in- + compute + -able	adj
+inconceivability	in- + con- + -ceive + -able + -ity	noun
+inconceivable	in- + con- + -ceive + -able	adj
+inconceivableness	in- + con- + -ceive + -able + -ness	noun
+inconceivably	in- + con- + -ceive + -able + -ly	adv
+inconclusive	in- + conclude + -ive	adj
+inconclusively	in- + con- + -clude + -ive + -ly	adv
+inconclusiveness	in- + conclude + -ive + -ness	noun
+incondensability	in- + con- + dense + -able + -ity	noun
+incondensable	in- + con- + dense + -able	adj
+inconformity	in- + con- + form + -ity	noun
+incongruence	in- + congruence	noun
+incongruent	in- + congruent	adj
+incongruently	in- + congruent + -ly	adv
+incongruity	in- + congruous + -ity	noun
+incongruous	in- + congruous	adj
+incongruously	in- + congruous + -ly	adv
+incongruousness	in- + congruous + -ness	noun
+inconquerable	in- + conquer + -able	adj
+inconsecutive	in- + consecutive	adj
+inconsecutiveness	in- + consecutive + -ness	noun
+inconsequence	in- + consequence	noun
+inconsequent	in- + consequent	adj
+inconsequential	in- + consequent + -ial	adj
+inconsequentiality	in- + consequent + -ial + -ity	noun
+inconsequentially	in- + consequent + -ial + -ly	adv
+inconsequently	in- + consequent + -ly	adv
+inconsequentness	in- + consequent + -ness	noun

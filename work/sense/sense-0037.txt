@@ -1,0 +1,171 @@
+untwisting	un- + twist + -ing	adj
+untypical	un- + typical	adj
+ununderstandable	un- + understand + -able	adj
+ununifiable	un- + unify + -able	adj
+ununiformed	un- + uniform + -ed	adj
+ununited	un- + unite + -ed	adj
+unurged	un- + urge + -ed	adj
+unusable	un- + use + -able	adj
+unused	un- + use + -ed	adj
+unuseful	un- + use + -ful	adj
+unusual	un- + usual	adj
+unusually	un- + usual + -ly	adv
+unusualness	un- + usual + -ness	noun
+unutilized	un- + utilize + -ed	adj
+unutterable	un- + utter + -able	adj
+unutterableness	un- + utter + -able + -ness	noun
+unutterably	un- + utter + -able + -ly	adv
+unuttered	un- + utter + -ed	adj
+unvaccinated	un- + vaccine + -ate + -ed	adj
+unvalued	un- + value + -ed	adj
+unvanquishable	un- + vanquish + -able	adj
+unvanquished	un- + vanquish + -ed	adj
+unvaried	un- + vary + -ed	adj
+unvarnished	un- + varnish + -ed	adj
+unvarying	un- + vary + -ing	adj
+unveil	un- + veil	verb
+unveiled	un- + veil + -ed	verb
+unveiling	un- + veil + -ing	noun
+unvendable	un- + vend + -able	adj
+unvenerable	un- + venerate + -able	adj
+unvenerated	un- + venerate + -ed	adj
+unvenomous	un- + venom + -ous	adj
+unvented	un- + vent + -ed	adj
+unventilated	un- + ventilate + -ed	adj
+unveracious	un- + veracious	adj
+unverbalized	un- + verb + -al + -ize + -ed	adj
+unverifiable	un- + verify + -able	adj
+unverified	un- + verify + -ed	adj
+unversed	un- + verse + -ed	adj
+unvexed	un- + vex + -ed	adj
+unviable	un- + viable	adj
+unvictualled	un- + victual + -ed	adj
+unvindicated	un- + vindicate + -ed	adj
+unviolated	un- + violate + -ed	adj
+unvirtuous	un- + virtue + -ous	adj
+unvisited	un- + visit + -ed	adj
+unvital	un- + vital	adj
+unvitiated	un- + vitiate + -ed	adj
+unvitrified	un- + vitrify + -ed	adj
+unvoice	un- + voice	verb
+unvoiced	un- + voice + -ed	adj
+unvowed	un- + vow + -ed	adj
+unvoyageable	un- + voyage + -able	adj
+unwaged	un- + wage + -ed	adj
+unwaked	un- + wake + -ed	adj
+unwanted	un- + want + -ed	adj
+unwarily	un- + wary + -ly	adv
+unwariness	un- + wary + -ness	noun
+unwarlike	un- + war + -like	adj
+unwarmed	un- + warm + -ed	adj
+unwarned	un- + warn + -ed	adj
+unwarped	un- + warp + -ed	adj
+unwarrantable	un- + warrant + -able	adj
+unwarrantableness	un- + warrant + -able + -ness	noun
+unwarrantably	un- + warrant + -able + -ly	adv
+unwarranted	un- + warrant + -ed	adj
+unwary	un- + wary	adj
+unwashable	un- + wash + -able	adj
+unwashed	un- + wash + -ed	adj
+unwasteful	un- + waste + -ful	adj
+unwatchable	un- + watch + -able	adj
+unwatched	un- + watch + -ed	adj
+unwatchful	un- + watch + -ful	adj
+unwatchfulness	un- + watch + -ful + -ness	noun
+unwater	un- + water	verb
+unwatered	un- + water + -ed	adj
+unwaved	un- + wave + -ed	adj
+unwavering	un- + waver + -ing	adj
+unwealthy	un- + wealth + -y	adj
+unweaned	un- + wean + -ed	adj
+unwearable	un- + wear + -able	adj
+unwearied	un- + weary + -ed	adj
+unweariedly	un- + weary + -ed + -ly	adv
+unweary	un- + weary	verb
+unwearying	un- + weary + -ing	adj
+unweathered	un- + weather + -ed	adj
+unweave	un- + weave	verb
+unwed	un- + wed	adj
+unwedded	un- + wed + -ed	adj
+unweeded	un- + weed + -ed	adj
+unweighed	un- + weigh + -ed	adj
+unweighted	un- + weight + -ed	adj
+unwelcome	un- + welcome	adj
+unwelcomed	un- + welcome + -ed	adj
+unwelcoming	un- + welcome + -ing	adj
+unwell	un- + well	adj
+unwept	un- + weep + -ed	adj
+unwetted	un- + wet + -ed	adj
+unwhipped	un- + whip + -ed	adj
+unwhitened	un- + white + -en + -ed	adj
+unwhitewashed	un- + white + wash + -ed	adj
+unwholesome	un- + whole + -some	adj
+unwholesomely	un- + whole + -some + -ly	adv
+unwholesomeness	un- + whole + -some + -ness	noun
+unwieldily	un- + wield + -y + -ly	adv
+unwieldiness	un- + wield + -y + -ness	noun
+unwieldy	un- + wield + -y	adj
+unwifely	un- + wife + -ly	adj
+unwill	un- + will	verb
+unwilled	un- + will + -ed	adj
+unwilling	un- + will + -ing	adj
+unwillingly	un- + will + -ing + -ly	adv
+unwillingness	un- + will + -ing + -ness	noun
+unwind	un- + wind	verb
+unwinding	un- + wind + -ing	verb
+unwinged	un- + wing + -ed	adj
+unwinking	un- + wink + -ing	adj
+unwinnable	un- + win + -able	adj
+unwiped	un- + wipe + -ed	adj
+unwired	un- + wire + -ed	adj
+unwisdom	un- + wise + -dom	noun
+unwise	un- + wise	adj
+unwisely	un- + wise + -ly	adv
+unwished	un- + wish + -ed	adj
+unwithdrawn	un- + withdraw + -en	adj
+unwithered	un- + wither + -ed	adj
+unwithering	un- + wither + -ing	adj
+unwitnessed	un- + witness + -ed	adj
+unwitting	un- + wit + -ing	adj
+unwittingly	un- + wit + -ing + -ly	adv
+unwitty	un- + wit + -y	adj
+unwomanly	un- + woman + -ly	adj
+unwonted	un- + wont + -ed	adj
+unwontedly	un- + wont + -ed + -ly	adv
+unwontedness	un- + wont + -ed + -ness	noun
+unwooded	un- + wood + -ed	adj
+unwooed	un- + woo + -ed	adj
+unwordable	un- + word + -able	adj
+unwork	un- + work	verb
+unworkability	un- + work + -able + -ity	noun
+unworkable	un- + work + -able	adj
+unworkableness	un- + work + -able + -ness	noun
+unworkably	un- + work + -able + -ly	adv
+unworked	un- + work + -ed	adj
+unworkmanlike	un- + work + man + -like	adj
+unworldliness	un- + world + -ly + -ness	noun
+unworldly	un- + world + -ly	adj
+unworn	un- + worn	adj
+unworried	un- + worry + -ed	adj
+unworthily	un- + worthy + -ly	adv
+unworthy	un- + worth + -y	adj
+unwound	un- + wind + -ed	verb
+unwounded	un- + wound + -ed	adj
+unwrap	un- + wrap	verb
+unwrapped	un- + wrap + -ed	adj
+unwrapping	un- + wrap + -ing	noun
+unwrinkle	un- + wrinkle	verb
+unwrinkled	un- + wrinkle + -ed	adj
+unwrought	un- + work + -en	adj
+unwrung	un- + wring + -en	adj
+unyielding	un- + yield + -ing	adj
+unyieldingly	un- + yield + -ing + -ly	adv
+unyieldingness	un- + yield + -ing + -ness	noun
+unyoke	un- + yoke	verb
+unyoked	un- + yoke + -ed	adj
+unyoking	un- + yoke + -ing	adj
+unyouthful	un- + youth + -ful	adj
+unzealous	un- + zeal + -ous	adj
+unzip	un- + zip	verb
+unzipped	un- + zip + -ed	verb
+unzipping	un- + zip + -ing	noun

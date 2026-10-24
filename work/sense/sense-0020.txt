@@ -1,0 +1,200 @@
+retooling	re- + tool + -ing	noun
+retouch	re- + touch	verb
+retoucher	re- + touch + -er	noun
+retrace	re- + trace	verb
+retracing	re- + trace + -ing	verb
+retrain	re- + train	verb
+retraining	re- + train + -ing	noun
+retransfer	re- + transfer	verb
+retransform	re- + trans- + form	verb
+retranslate	re- + translate	verb
+retranslation	re- + translate + -ion	noun
+retranslocation	re- + trans- + locate + -ion	noun
+retransmission	re- + transmit + -ion	noun
+retransmit	re- + transmit	verb
+retread	re- + tread	verb
+retreading	re- + tread + -ing	verb
+retree	re- + tree	verb
+retrench	re- + trench	verb
+retrenching	re- + trench + -ing	verb
+retrenchment	re- + trench + -ment	noun
+retrial	re- + try + -al	noun
+retry	re- + try	verb
+retrying	re- + try + -ing	verb
+retubing	re- + tube + -ing	verb
+retune	re- + tune	verb
+return	re- + turn	verb
+returnable	re- + turn + -able	adj
+returned	re- + turn + -ed	verb
+returnee	re- + turn + -ee	noun
+returner	re- + turn + -er	noun
+returning	re- + turn + -ing	adj
+returns	re- + turn + -s	noun
+retweet	re- + tweet	verb
+retype	re- + type	verb
+retyre	re- + tyre	verb
+reunification	re- + unify + -ation	noun
+reunify	re- + unify	verb
+reunion	re- + union	noun
+reunionist	re- + union + -ist	noun
+reunionistic	re- + union + -ist + -ic	adj
+reunite	re- + unite	verb
+reunited	re- + unite + -ed	verb
+reuniting	re- + unite + -ing	verb
+reuptake	re- + up + take	noun
+reusability	re- + use + -able + -ity	noun
+reusable	re- + use + -able	adj
+reuse	re- + use	verb
+reusing	re- + use + -ing	verb
+reutilize	re- + utilize	verb
+revaccinate	re- + vaccine + -ate	verb
+revaccination	re- + vaccine + -ate + -ion	noun
+revalidate	re- + valid + -ate	verb
+revalorization	re- + valor + -ize + -ation	noun
+revalorize	re- + valor + -ize	verb
+revaluate	re- + valuate	verb
+revaluation	re- + value + -ation	noun
+revalue	re- + value	verb
+revamp	re- + vamp	verb
+revegetate	re- + vegetate	verb
+revendication	re- + vendicate + -ion	noun
+revisit	re- + visit	verb
+revisiting	re- + visit + -ing	verb
+revitalise	re- + vital + -ise	verb
+revitalization	re- + vital + -ize + -ation	noun
+revitalize	re- + vital + -ize	verb
+revivify	re- + vivify	verb
+revote	re- + vote	verb
+rewarm	re- + warm	verb
+rewash	re- + wash	verb
+rewatch	re- + watch	verb
+rewater	re- + water	verb
+reweigh	re- + weigh	verb
+rewild	re- + wild	verb
+rewilding	re- + wild + -ing	noun
+rewind	re- + wind	verb
+rewinder	re- + wind + -er	noun
+rewire	re- + wire	verb
+reword	re- + word	verb
+rework	re- + work	verb
+reworked	re- + work + -ed	verb
+reworking	re- + work + -ing	noun
+rewritable	re- + write + -able	adj
+rewrite	re- + write	verb
+rewriting	re- + write + -ing	verb
+rezoning	re- + zone + -ing	noun
+superimposition	super- + im- + posit + -ion	noun
+superinduce	super- + in- + -duce	verb
+superinduction	super- + in- + -duce + -tion	noun
+unabashed	un- + abash + -ed	adj
+unabashedly	un- + abash + -ed + -ly	adv
+unabated	un- + abate + -ed	adj
+unabatedly	un- + abate + -ed + -ly	adv
+unabating	un- + abate + -ing	adj
+unabbreviated	un- + abbreviate + -ed	adj
+unabetted	un- + abet + -ed	adj
+unabiding	un- + abide + -ing	adj
+unable	un- + able	adj
+unabolished	un- + abolish + -ed	adj
+unabridged	un- + abridge + -ed	adj
+unabrogated	un- + abrogate + -ed	adj
+unabsolved	un- + absolve + -ed	adj
+unabsorbable	un- + absorb + -able	adj
+unabsorbed	un- + absorb + -ed	adj
+unabsorbent	un- + absorb + -ent	adj
+unacademic	un- + academic	adj
+unaccented	un- + accent + -ed	adj
+unaccentuated	un- + accent + -ate + -ed	adj
+unacceptability	un- + ac- + -cept + -able + -ity	noun
+unacceptable	un- + ac- + -cept + -able	adj
+unacceptably	un- + ac- + -cept + -able + -ly	adv
+unaccepted	un- + ac- + -cept + -ed	adj
+unacclimated	un- + ac- + climate + -ed	adj
+unacclimatized	un- + ac- + climate + -ize + -ed	adj
+unaccommodated	un- + accommodate + -ed	adj
+unaccommodating	un- + accommodate + -ing	adj
+unaccompanied	un- + accompany + -ed	adj
+unaccomplished	un- + accomplish + -ed	adj
+unaccordant	un- + accord + -ant	adj
+unaccorded	un- + accord + -ed	adj
+unaccountability	un- + account + -able + -ity	noun
+unaccountable	un- + account + -able	adj
+unaccountableness	un- + account + -able + -ness	noun
+unaccountably	un- + account + -able + -ly	adv
+unaccounted	un- + account + -ed	adj
+unaccredited	un- + ac- + credit + -ed	adj
+unaccustomed	un- + ac- + custom + -ed	adj
+unaccustomedly	un- + ac- + custom + -ed + -ly	adv
+unaccustomedness	un- + ac- + custom + -ed + -ness	noun
+unachievable	un- + achieve + -able	adj
+unacknowledged	un- + acknowledge + -ed	adj
+unacquaintance	un- + acquaint + -ance	noun
+unacquainted	un- + acquaint + -ed	adj
+unacquirable	un- + acquire + -able	adj
+unacquired	un- + acquire + -ed	adj
+unactable	un- + act + -able	adj
+unacted	un- + act + -ed	adj
+unactive	un- + act + -ive	adj
+unadaptable	un- + adapt + -able	adj
+unadapted	un- + adapt + -ed	adj
+unaddressed	un- + address + -ed	adj
+unadjudged	un- + ad- + judge + -ed	adj
+unadjusted	un- + adjust + -ed	adj
+unadmirable	un- + admire + -able	adj
+unadmired	un- + admire + -ed	adj
+unadmiring	un- + admire + -ing	adj
+unadmitted	un- + admit + -ed	adj
+unadopted	un- + adopt + -ed	adj
+unadorned	un- + adorn + -ed	adj
+unadulterated	un- + adulterate + -ed	adj
+unadvanced	un- + advance + -ed	adj
+unadventurous	un- + adventure + -ous	adj
+unadvertised	un- + advertise + -ed	adj
+unadvisable	un- + advise + -able	adj
+unadvised	un- + advise + -ed	adj
+unadvisedly	un- + advise + -ed + -ly	adv
+unadvisedness	un- + advise + -ed + -ness	noun
+unaesthetic	un- + aesthetic	adj
+unaffable	un- + affable	adj
+unaffected	un- + affect + -ed	adj
+unaffectedly	un- + affect + -ed + -ly	adv
+unaffectedness	un- + affect + -ed + -ness	noun
+unaffiliated	un- + affiliate + -ed	adj
+unaffordable	un- + afford + -able	adj
+unafraid	un- + afraid	adj
+unaggressive	un- + aggress + -ive	adj
+unagreeable	un- + agree + -able	adj
+unaided	un- + aid + -ed	adj
+unaimed	un- + aim + -ed	adj
+unaired	un- + air + -ed	adj
+unalarmed	un- + alarm + -ed	adj
+unalarming	un- + alarm + -ing	adj
+unalienable	un- + alien + -able	adj
+unaligned	un- + align + -ed	adj
+unalike	un- + a- + like	adj
+unalive	un- + alive	adj
+unallayed	un- + allay + -ed	adj
+unalleviated	un- + alleviate + -ed	adj
+unallocated	un- + allocate + -ed	adj
+unallotted	un- + allot + -ed	adj
+unallowable	un- + allow + -able	adj
+unallowed	un- + allow + -ed	adj
+unalloyed	un- + alloy + -ed	adj
+unalloyedly	un- + alloy + -ed + -ly	adv
+unalluring	un- + al- + lure + -ing	adj
+unalphabeted	un- + alphabet + -ed	adj
+unalter	un- + alter	verb
+unalterability	un- + alter + -able + -ity	noun
+unalterable	un- + alter + -able	adj
+unalterableness	un- + alter + -able + -ness	noun
+unalterably	un- + alter + -able + -ly	adv
+unaltered	un- + alter + -ed	adj
+unamazed	un- + amaze + -ed	adj
+unambiguity	un- + ambiguous + -ity	noun
+unambiguous	un- + ambiguous	adj
+unambiguously	un- + ambiguous + -ly	adv
+unambition	un- + ambition	noun
+unambitious	un- + ambition + -ous	adj
+unambitiousness	un- + ambition + -ous + -ness	noun
+unamenable	un- + amenable	adj
+unamendable	un- + a- + mend + -able	adj

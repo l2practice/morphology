@@ -1,0 +1,200 @@
+envisagement	en- + vis + -age + -ment	noun
+envision	en- + vis + -ion	verb
+envisioning	en- + vis + -ion + -ing	verb
+enwind	en- + wind	verb
+enwrap	en- + wrap	verb
+illaudable	il- + laud + -able	adj
+illegal	il- + legal	adj
+illegality	il- + legal + -ity	noun
+illegalization	il- + legal + -ize + -ation	noun
+illegalize	il- + legal + -ize	verb
+illegally	il- + legal + -ly	adv
+illegibility	il- + legible + -ity	noun
+illegible	il- + legible	adj
+illegibleness	il- + legible + -ness	noun
+illegibly	il- + legible + -ly	adv
+illegitimacy	il- + legitimacy	noun
+illegitimate	il- + legitimate	adj
+illegitimately	il- + legitimate + -ly	adv
+illegitimateness	il- + legitimate + -ness	noun
+illiberal	il- + liberal	adj
+illiberalism	il- + liberal + -ism	noun
+illiberality	il- + liberal + -ity	noun
+illiberally	il- + liberal + -ly	adv
+illiberalness	il- + liberal + -ness	noun
+illicit	il- + licit	adj
+illicitly	il- + licit + -ly	adv
+illicitness	il- + licit + -ness	noun
+illimitability	il- + limit + -able + -ity	noun
+illimitable	il- + limit + -able	adj
+illimitableness	il- + limit + -able + -ness	noun
+illimitably	il- + limit + -able + -ly	adv
+illiquid	il- + liquid	adj
+illiquidity	il- + liquid + -ity	noun
+illiteracy	il- + literate + -acy	noun
+illiterate	il- + literate	adj
+illiterately	il- + literate + -ly	adv
+illiterateness	il- + literate + -ness	noun
+illocution	il- + locution	noun
+illocutionary	il- + locution + -ary	adj
+illogical	il- + logic + -al	adj
+illogicality	il- + logic + -al + -ity	noun
+illogically	il- + logic + -al + -ly	adv
+illogicalness	il- + logic + -al + -ness	noun
+imbalance	im- + balance	noun
+imbalanced	im- + balance + -ed	adj
+imbrute	im- + brute	verb
+imbrutement	im- + brute + -ment	noun
+immaculate	im- + macula + -ate	adj
+immaculately	im- + macula + -ate + -ly	adv
+immaculateness	im- + macula + -ate + -ness	noun
+immaterial	im- + material	adj
+immaterialism	im- + material + -ism	noun
+immaterialist	im- + material + -ist	noun
+immateriality	im- + matter + -ial + -ity	noun
+immaterialize	im- + material + -ize	verb
+immaterially	im- + material + -ly	adv
+immaterialness	im- + material + -ness	noun
+immature	im- + mature	adj
+immaturely	im- + mature + -ly	adv
+immatureness	im- + mature + -ness	noun
+immaturity	im- + mature + -ity	noun
+immeasurability	im- + measure + -able + -ity	noun
+immeasurable	im- + measure + -able	adj
+immeasurableness	im- + measure + -able + -ness	noun
+immeasurably	im- + measure + -able + -ly	adv
+immedicable	im- + medic + -able	adj
+immemorable	im- + memory + -able	adj
+immemorial	im- + memory + -ial	adj
+immemorially	im- + memory + -ial + -ly	adv
+immerge	im- + merge	verb
+immergence	im- + merge + -ence	noun
+immesh	im- + mesh	verb
+immigrate	im- + migrate	verb
+immiscibility	im- + miscible + -ity	noun
+immiscible	im- + miscible	adj
+immiscibly	im- + miscible + -ly	adv
+immiserate	im- + miser + -ate	verb
+immission	im- + mission	noun
+immitigability	im- + mitigate + -able + -ity	noun
+immitigable	im- + mitigate + -able	adj
+immitigableness	im- + mitigate + -able + -ness	noun
+immitigably	im- + mitigate + -able + -ly	adv
+immix	im- + mix	verb
+immobile	im- + mobile	adj
+immobilism	im- + mobile + -ism	noun
+immobility	im- + mobile + -ity	noun
+immobilization	im- + mobile + -ize + -ation	noun
+immobilize	im- + mobile + -ize	verb
+immobilized	im- + mobile + -ize + -ed	adj
+immoderate	im- + moderate	adj
+immoderately	im- + moderate + -ly	adv
+immoderateness	im- + moderate + -ness	noun
+immoderation	im- + moderate + -ion	noun
+immodest	im- + modest	adj
+immodestly	im- + modest + -ly	adv
+immodesty	im- + modest + -y	noun
+immoral	im- + moral	adj
+immoralism	im- + moral + -ism	noun
+immoralist	im- + moral + -ist	noun
+immorality	im- + moral + -ity	noun
+immoralize	im- + moral + -ize	verb
+immorally	im- + moral + -ly	adv
+immortal	im- + mortal	adj
+immortalise	im- + mortal + -ise	verb
+immortality	im- + mortal + -ity	noun
+immortalization	im- + mortal + -ize + -ation	noun
+immortalize	im- + mortal + -ize	verb
+immortally	im- + mortal + -ly	adv
+immovability	im- + move + -able + -ity	noun
+immovable	im- + move + -able	adj
+immovableness	im- + move + -able + -ness	noun
+immovably	im- + move + -able + -ly	adv
+immutability	im- + mutable + -ity	noun
+immutable	im- + mutable	adj
+immutableness	im- + mutable + -ness	noun
+immutably	im- + mutable + -ly	adv
+impaired	im- + pair + -ed	adj
+impale	im- + pale	verb
+impaled	im- + pale + -ed	adj
+impalement	im- + pale + -ment	noun
+impaler	im- + pale + -er	noun
+impalpability	im- + palp + -able + -ity	noun
+impalpable	im- + palpable	adj
+impalpably	im- + palp + -able + -ly	adv
+impanel	im- + panel	verb
+impanelment	im- + panel + -ment	noun
+imparadise	im- + paradise	verb
+imparity	im- + par + -ity	noun
+impark	im- + park	verb
+impart	im- + part	verb
+impartable	im- + part + -able	adj
+impartation	im- + part + -ation	noun
+impartial	im- + part + -ial	adj
+impartiality	im- + part + -ial + -ity	noun
+impartially	im- + part + -ial + -ly	adv
+impartialness	im- + part + -ial + -ness	noun
+impartibility	im- + part + -ible + -ity	noun
+impartible	im- + part + -ible	adj
+impartibly	im- + part + -ible + -ly	adv
+imparting	im- + part + -ing	noun
+impartment	im- + part + -ment	noun
+impassability	im- + pass + -able + -ity	noun
+impassable	im- + pass + -able	adj
+impassableness	im- + pass + -able + -ness	noun
+impassably	im- + pass + -able + -ly	adv
+impassibility	im- + pass + -ible + -ity	noun
+impassible	im- + pass + -ible	adj
+impassibleness	im- + pass + -ible + -ness	noun
+impassibly	im- + pass + -ible + -ly	adv
+impassion	im- + passion	verb
+impassioned	im- + passion + -ed	adj
+impassionedness	im- + passion + -ed + -ness	noun
+impassive	im- + pass + -ive	adj
+impassively	im- + pass + -ive + -ly	adv
+impassiveness	im- + pass + -ive + -ness	noun
+impassivity	im- + pass + -ive + -ity	noun
+impastation	im- + paste + -ation	noun
+impaste	im- + paste	verb
+impatience	im- + patient + -ence	noun
+impatient	im- + patient	adj
+impatiently	im- + patient + -ly	adv
+impatientness	im- + patient + -ness	noun
+impawn	im- + pawn	verb
+impearl	im- + pearl	verb
+impeccable	im- + peccable	adj
+impeccableness	im- + peccable + -ness	noun
+impeccably	im- + peccable + -ly	adv
+impeccant	im- + peccant	adj
+impenetrability	im- + penetrate + -able + -ity	noun
+impenetrable	im- + penetrate + -able	adj
+impenetrableness	im- + penetrate + -able + -ness	noun
+impenetrably	im- + penetrate + -able + -ly	adv
+impenetrate	im- + penetrate	verb
+impenitence	im- + penitent + -ence	noun
+impenitent	im- + penitent	adj
+impenitently	im- + penitent + -ly	adv
+imperceptible	im- + per- + -cept + -ible	adj
+imperceptibleness	im- + per- + -cept + -ible + -ness	noun
+imperceptibly	im- + per- + -cept + -ible + -ly	adv
+imperception	im- + per- + -cept + -ion	noun
+imperceptive	im- + per- + -cept + -ive	adj
+imperceptiveness	im- + per- + -cept + -ive + -ness	noun
+imperceptivity	im- + per- + -cept + -ive + -ity	noun
+impercipient	im- + percipient	adj
+imperfect	im- + perfect	adj
+imperfectible	im- + perfect + -ible	adj
+imperfection	im- + perfect + -ion	noun
+imperfective	im- + perfect + -ive	adj
+imperfectly	im- + perfect + -ly	adv
+imperfectness	im- + perfect + -ness	noun
+imperforate	im- + perforate	adj
+imperforation	im- + perforate + -ion	noun
+imperil	im- + peril	verb
+imperiled	im- + peril + -ed	adj
+imperilment	im- + peril + -ment	noun
+imperishability	im- + perish + -able + -ity	noun
+imperishable	im- + perish + -able	adj
+imperishableness	im- + perish + -able + -ness	noun
+imperishably	im- + perish + -able + -ly	adv
+impermanence	im- + permanent + -ence	noun

@@ -1,0 +1,200 @@
+deodorizer	de- + odor + -ize + -er	noun
+deoligarchization	de- + oligarch + -ize + -ation	noun
+deorbit	de- + orbit	verb
+deoxidation	de- + oxide + -ation	noun
+deoxidization	de- + oxide + -ize + -ation	noun
+deoxidize	de- + oxide + -ize	verb
+deoxidizer	de- + oxide + -ize + -er	noun
+deoxygenate	de- + oxygen + -ate	verb
+deoxygenation	de- + oxygen + -ation	noun
+depart	de- + part	verb
+departed	de- + part + -ed	adj
+departer	de- + part + -er	noun
+departing	de- + part + -ing	adj
+departure	de- + part + -ure	noun
+depauperate	de- + pauper + -ate	verb
+depauperation	de- + pauper + -ation	noun
+depauperize	de- + pauper + -ize	verb
+depersonalization	de- + person + -al + -ize + -ation	noun
+depersonalize	de- + person + -al + -ize	verb
+dephase	de- + phase	verb
+dephasing	de- + phase + -ing	verb
+dephosphorization	de- + phosphorus + -ize + -ation	noun
+dephosphorize	de- + phosphorus + -ize	verb
+depigmentation	de- + pigment + -ation	noun
+deplane	de- + plane	verb
+deplatform	de- + platform	verb
+deplenish	de- + plenish	verb
+deplumation	de- + plume + -ation	noun
+deplume	de- + plume	verb
+depolarization	de- + pole + -ar + -ize + -ation	noun
+depolarize	de- + pole + -ar + -ize	verb
+depolarizer	de- + pole + -ar + -ize + -er	noun
+depoliticization	de- + politic + -ize + -ation	noun
+depoliticize	de- + politic + -ize	verb
+depolymerization	de- + polymer + -ize + -ation	noun
+depopulate	de- + populate	verb
+depopulation	de- + populate + -ion	noun
+depopulator	de- + populate + -or	noun
+deport	de- + port	verb
+deportable	de- + port + -able	adj
+deportation	de- + port + -ation	noun
+deportee	de- + port + -ee	noun
+deportment	de- + port + -ment	noun
+deposable	de- + pose + -able	adj
+depose	de- + pose	verb
+depredate	de- + pre- + date	verb
+depredation	de- + pre- + date + -ion	noun
+depredator	de- + pre- + date + -or	noun
+depredatory	de- + pre- + date + -ory	adj
+depress	de- + press	verb
+depressant	de- + press + -ant	noun
+depressed	de- + press + -ed	adj
+depressible	de- + press + -ible	adj
+depressing	de- + press + -ing	adj
+depressingly	de- + press + -ing + -ly	adv
+depression	de- + press + -ion	noun
+depressive	de- + press + -ive	adj
+depressively	de- + press + -ive + -ly	adv
+depressiveness	de- + press + -ive + -ness	noun
+depressor	de- + press + -or	noun
+depressurization	de- + pressure + -ize + -ation	noun
+depressurize	de- + pressure + -ize	verb
+deprogrammer	de- + program + -er	noun
+dequeue	de- + queue	verb
+derail	de- + rail	verb
+derailing	de- + rail + -ing	verb
+derailment	de- + rail + -ment	noun
+derange	de- + range	verb
+deranged	de- + range + -ed	adj
+derangement	de- + range + -ment	noun
+deranging	de- + range + -ing	verb
+derate	de- + rate	verb
+deration	de- + rate + -ion	noun
+deratization	de- + rat + -ize + -ation	noun
+derealization	de- + real + -ize + -ation	noun
+dereference	de- + refer + -ence	verb
+deregister	de- + register	verb
+deregistration	de- + register + -ation	noun
+deregulate	de- + regulate	verb
+deregulated	de- + regulate + -ed	adj
+deregulation	de- + regulate + -ion	noun
+deregulator	de- + regulate + -or	noun
+deregulatory	de- + regulate + -ory	adj
+derepress	de- + re- + press	verb
+derepression	de- + re- + press + -ion	noun
+derequisition	de- + requisition	noun
+derestrict	de- + restrict	verb
+derussification	de- + russify + -ation	noun
+derust	de- + rust	verb
+desalinate	de- + saline + -ate	verb
+desalination	de- + saline + -ation	noun
+desalinator	de- + saline + -or	noun
+desalinize	de- + saline + -ize	verb
+desalt	de- + salt	verb
+desalting	de- + salt + -ing	noun
+desaturate	de- + saturate	verb
+desaturation	de- + saturate + -ion	noun
+descale	de- + scale	verb
+descaling	de- + scale + -ing	noun
+descrambler	de- + scramble + -er	noun
+describable	de- + -scribe + -able	adj
+describe	de- + -scribe	verb
+describer	de- + -scribe + -er	noun
+deseasonalization	de- + season + -al + -ize + -ation	noun
+desegmentation	de- + segment + -ation	noun
+desegregate	de- + segregate	verb
+desegregation	de- + segregate + -ion	noun
+desegregationist	de- + segregate + -ion + -ist	noun
+deselect	de- + select	verb
+deselection	de- + select + -ion	noun
+desensitisation	de- + sensitize + -ation	noun
+desensitization	de- + sensitive + -ize + -ation	noun
+desensitize	de- + sensitive + -ize	verb
+desensitized	de- + sensitive + -ize + -ed	adj
+desensitizer	de- + sensitive + -ize + -er	noun
+deserialize	de- + serial + -ize	verb
+desex	de- + sex	verb
+desexualization	de- + sex + -ual + -ize + -ation	noun
+desexualize	de- + sex + -ual + -ize	verb
+desilver	de- + silver	verb
+desilverize	de- + silver + -ize	verb
+despoil	de- + spoil	verb
+despoiler	de- + spoil + -er	noun
+despoiling	de- + spoil + -ing	verb
+despoilment	de- + spoil + -ment	noun
+despoliation	de- + spoil + -ation	noun
+desquamate	de- + squamate	verb
+desquamation	de- + squamate + -ion	noun
+destabilise	de- + stable + -ise	verb
+destabilization	de- + stable + -ize + -ation	noun
+destabilize	de- + stable + -ize	verb
+destain	de- + stain	verb
+destigmatize	de- + stigma + -ize	verb
+destress	de- + stress	verb
+destruct	de- + -struct	verb
+destructibility	de- + -struct + -ible + -ity	noun
+destructible	de- + -struct + -ible	adj
+destructibleness	de- + -struct + -ible + -ness	noun
+destruction	de- + -struct + -ion	noun
+destructive	de- + -struct + -ive	adj
+destructively	de- + -struct + -ive + -ly	adv
+destructiveness	de- + -struct + -ive + -ness	noun
+destructivity	de- + -struct + -ive + -ity	noun
+destructor	de- + -struct + -or	noun
+deterritorialization	de- + territory + -al + -ize + -ation	noun
+dethrone	de- + throne	verb
+dethronement	de- + throne + -ment	noun
+dethroner	de- + throne + -er	noun
+dethroning	de- + throne + -ing	verb
+detin	de- + tin	verb
+detorsion	de- + torsion	noun
+detour	de- + tour	noun
+detoxicant	de- + toxic + -ant	noun
+detoxicate	de- + toxic + -ate	verb
+detoxication	de- + toxic + -ation	noun
+detoxify	de- + toxic + -ify	verb
+detrain	de- + train	verb
+detrainment	de- + train + -ment	noun
+detransition	de- + transit + -ion	noun
+detransitioner	de- + transit + -ion + -er	noun
+detrending	de- + trend + -ing	noun
+detribalization	de- + tribe + -al + -ize + -ation	noun
+detribalize	de- + tribe + -al + -ize	verb
+detruck	de- + truck	verb
+detumescence	de- + tumescence	noun
+detune	de- + tune	verb
+devalorization	de- + valor + -ize + -ation	noun
+devalorize	de- + valor + -ize	verb
+devaluate	de- + value + -ate	verb
+devaluation	de- + value + -ation	noun
+devalue	de- + value	verb
+devaluing	de- + value + -ing	verb
+deverbal	de- + verb + -al	adj
+devirilize	de- + virile + -ize	verb
+devitalization	de- + vital + -ize + -ation	noun
+devitalize	de- + vital + -ize	verb
+devitrify	de- + vitrify	verb
+devocalization	de- + vocal + -ize + -ation	noun
+devocalize	de- + vocal + -ize	verb
+devoice	de- + voice	verb
+devoicing	de- + voice + -ing	verb
+devoid	de- + void	adj
+dewatering	de- + water + -ing	noun
+deworm	de- + worm	verb
+disability	dis- + able + -ity	noun
+disable	dis- + able	verb
+disabled	dis- + able + -ed	adj
+disablement	dis- + able + -ment	noun
+disabling	dis- + able + -ing	adj
+disabuse	dis- + abuse	verb
+disaccord	dis- + accord	noun
+disaccustom	dis- + ac- + custom	verb
+disadvantage	dis- + advantage	noun
+disadvantaged	dis- + advantage + -ed	adj
+disadvantageous	dis- + advantage + -ous	adj
+disadvantageously	dis- + advantage + -ous + -ly	adv
+disaffect	dis- + affect	verb
+disaffected	dis- + affect + -ed	adj
+disaffection	dis- + affect + -ion	noun
+disaffiliate	dis- + affiliate	verb

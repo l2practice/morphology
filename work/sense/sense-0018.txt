@@ -1,0 +1,200 @@
+refound	re- + found	verb
+reframing	re- + frame + -ing	verb
+refresh	re- + fresh	verb
+refresher	re- + fresh + -er	noun
+refreshing	re- + fresh + -ing	adj
+refreshingly	re- + fresh + -ing + -ly	adv
+refreshment	re- + fresh + -ment	noun
+refuel	re- + fuel	verb
+refueling	re- + fuel + -ing	noun
+refuelling	re- + fuel + -ing	noun
+refulgent	re- + fulgent	adj
+refund	re- + fund	verb
+refundable	re- + fund + -able	adj
+refunding	re- + fund + -ing	verb
+refundment	re- + fund + -ment	noun
+refurbish	re- + furbish	verb
+refurbished	re- + furbish + -ed	adj
+refurbishing	re- + furbish + -ing	noun
+refurbishment	re- + furbish + -ment	noun
+refurnish	re- + furnish	verb
+refusion	re- + fuse + -ion	noun
+regain	re- + gain	verb
+regaining	re- + gain + -ing	verb
+regasification	re- + gas + -ify + -ation	noun
+regasify	re- + gas + -ify	verb
+regather	re- + gather	verb
+regelate	re- + gelate	verb
+regelation	re- + gelate + -ion	noun
+regenerate	re- + generate	verb
+regenerated	re- + generate + -ed	adj
+regeneration	re- + generate + -ion	noun
+regenerative	re- + generate + -ive	adj
+regenerator	re- + generate + -or	noun
+regenesis	re- + genesis	noun
+regerminate	re- + germinate	verb
+regermination	re- + germinate + -ion	noun
+reget	re- + get	verb
+regild	re- + gild	verb
+regorge	re- + gorge	verb
+regrade	re- + grade	verb
+regrading	re- + grade + -ing	verb
+regrant	re- + grant	verb
+regroup	re- + group	verb
+regrouped	re- + group + -ed	adj
+regrouping	re- + group + -ing	noun
+regrow	re- + grow	verb
+regrowth	re- + grow + -th	noun
+rehandle	re- + handle	verb
+rehang	re- + hang	verb
+reharden	re- + hard + -en	verb
+rehash	re- + hash	verb
+rehashing	re- + hash + -ing	verb
+rehear	re- + hear	verb
+rehearing	re- + hear + -ing	noun
+reheat	re- + heat	verb
+reheater	re- + heat + -er	noun
+reheating	re- + heat + -ing	verb
+rehire	re- + hire	verb
+rehouse	re- + house	verb
+rehousing	re- + house + -ing	noun
+rehumiliate	re- + humiliate	verb
+rehydrate	re- + hydrate	verb
+rehydration	re- + hydrate + -ion	noun
+reignite	re- + ignite	verb
+reignition	re- + ignite + -ion	noun
+reimport	re- + import	verb
+reimportation	re- + import + -ation	noun
+reimpose	re- + impose	verb
+reimposition	re- + impose + -ition	noun
+reincarnate	re- + incarnate	verb
+reincarnated	re- + incarnate + -ed	verb
+reincarnation	re- + incarnate + -ion	noun
+reincorporate	re- + incorporate	verb
+reincorporation	re- + incorporate + -ion	noun
+reincrease	re- + increase	verb
+reinduce	re- + in- + -duce	verb
+reindustrialization	re- + industry + -al + -ize + -ation	noun
+reindustrialize	re- + industry + -al + -ize	verb
+reinforce	re- + in- + force	verb
+reinforced	re- + in- + force + -ed	adj
+reinforcement	re- + in- + force + -ment	noun
+reinforcer	re- + in- + force + -er	noun
+reinforcing	re- + in- + force + -ing	adj
+reingratiate	re- + ingratiate	verb
+reinhabit	re- + in- + habit	verb
+reinject	re- + inject	verb
+reinsert	re- + insert	verb
+reinsertion	re- + insert + -ion	noun
+reinspection	re- + inspect + -ion	noun
+reinstall	re- + install	verb
+reinstallation	re- + install + -ation	noun
+reinstate	re- + in- + state	verb
+reinstatement	re- + in- + state + -ment	noun
+reinstitution	re- + institute + -ion	noun
+reinsurance	re- + insure + -ance	noun
+reinsure	re- + insure	verb
+reintegrate	re- + integrate	verb
+reintegration	re- + integrate + -ion	noun
+reinter	re- + inter	verb
+reintermediation	re- + inter- + mediate + -ion	noun
+reinterpret	re- + interpret	verb
+reinterpretation	re- + interpret + -ation	noun
+reintroduce	re- + introduce	verb
+reintroduced	re- + introduce + -ed	verb
+reintroduction	re- + introduce + -tion	noun
+reinvasion	re- + invade + -ion	noun
+reinvent	re- + invent	verb
+reinvention	re- + invent + -ion	noun
+reinvest	re- + invest	verb
+reinvestigate	re- + investigate	verb
+reinvestment	re- + invest + -ment	noun
+reinvigorate	re- + in- + vigor + -ate	verb
+reinvigorated	re- + in- + vigor + -ate + -ed	verb
+reinvigoration	re- + in- + vigor + -ate + -ion	noun
+reissue	re- + issue	verb
+reissuing	re- + issue + -ing	verb
+reiterate	re- + iterate	verb
+reiterated	re- + iterate + -ed	adj
+reiteration	re- + iterate + -ion	noun
+reiterative	re- + iterate + -ive	adj
+rejig	re- + jig	verb
+rejigger	re- + jig + -er	verb
+rejoin	re- + join	verb
+rejoining	re- + join + -ing	verb
+rekindle	re- + kindle	verb
+rekindling	re- + kindle + -ing	verb
+relabel	re- + label	verb
+relabelling	re- + label + -ing	verb
+relapse	re- + lapse	noun
+relaunch	re- + launch	verb
+relay	re- + lay	verb
+relayer	re- + lay + -er	noun
+relaying	re- + lay + -ing	verb
+relearn	re- + learn	verb
+relearning	re- + learn + -ing	verb
+relet	re- + let	verb
+reletting	re- + let + -ing	verb
+relight	re- + light	verb
+reline	re- + line	verb
+relive	re- + live	verb
+reload	re- + load	verb
+reloading	re- + load + -ing	noun
+relocatable	re- + locate + -able	adj
+relocate	re- + locate	verb
+relocation	re- + locate + -ion	noun
+relucent	re- + lucent	adj
+remade	re- + make + -ed	verb
+remake	re- + make	verb
+remaking	re- + make + -ing	verb
+reman	re- + man	verb
+remanufactured	re- + manufacture + -ed	verb
+remapping	re- + map + -ing	verb
+remarriage	re- + marry + -age	noun
+remarried	re- + marry + -ed	adj
+remarry	re- + marry	verb
+remarrying	re- + marry + -ing	verb
+remaster	re- + master	verb
+remastered	re- + master + -ed	verb
+remastering	re- + master + -ing	noun
+remasticate	re- + masticate	verb
+rematch	re- + match	noun
+remediation	re- + mediate + -ion	noun
+remetal	re- + metal	verb
+remigrate	re- + migrate	verb
+remigration	re- + migrate + -ion	noun
+remilitarization	re- + military + -ize + -ation	noun
+remilitarize	re- + military + -ize	verb
+remineralization	re- + mineral + -ize + -ation	noun
+remint	re- + mint	verb
+remix	re- + mix	verb
+remodel	re- + model	verb
+remodeling	re- + model + -ing	verb
+remold	re- + mold	verb
+remolding	re- + mold + -ing	noun
+remonetization	re- + monetize + -ation	noun
+remonetize	re- + monetize	verb
+remortgage	re- + mortgage	verb
+remotor	re- + motor	verb
+remould	re- + mould	verb
+remoulding	re- + mould + -ing	noun
+remount	re- + mount	verb
+remounting	re- + mount + -ing	noun
+removability	re- + move + -able + -ity	noun
+removable	re- + move + -able	adj
+removal	re- + move + -al	noun
+remove	re- + move	verb
+removed	re- + move + -ed	verb
+removing	re- + move + -ing	verb
+rename	re- + name	verb
+renascence	re- + nascence	noun
+renascent	re- + nascent	adj
+renaturalization	re- + nature + -al + -ize + -ation	noun
+renature	re- + nature	verb
+renegotiable	re- + negotiate + -able	adj
+renegotiate	re- + negotiate	verb
+renegotiation	re- + negotiate + -ion	noun
+renest	re- + nest	verb
+renew	re- + new	verb
+renewable	re- + new + -able	adj
+renewal	re- + new + -al	noun

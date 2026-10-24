@@ -1,0 +1,200 @@
+antidepressant	anti- + de- + press + -ant	noun
+antidepressive	anti- + de- + press + -ive	adj
+antidisestablishmentarianism	anti- + dis- + establish + -ment + -ian + -ism	noun
+antirepressive	anti- + re- + press + -ive	adj
+antiunemployment	anti- + un- + employ + -ment	noun
+aregenerative	a- + re- + generate + -ive	adj
+autoinfusion	auto- + in- + fuse + -ion	noun
+autointoxication	auto- + in- + toxic + -ate + -ion	noun
+corepressor	co- + re- + press + -or	noun
+deacidification	de- + acid + -ify + -ation	noun
+deacidify	de- + acid + -ify	verb
+deactivate	de- + act + -ive + -ate	verb
+deactivation	de- + act + -ive + -ate + -ion	noun
+deaerate	de- + aerate	verb
+deaeration	de- + aerate + -ion	noun
+deallocation	de- + allocate + -ion	noun
+deambulation	de- + ambulate + -ion	noun
+deambulatory	de- + ambulate + -ory	adj
+debag	de- + bag	verb
+debaptism	de- + baptism	noun
+debar	de- + bar	verb
+debark	de- + bark	verb
+debarkation	de- + bark + -ation	noun
+debarment	de- + bar + -ment	noun
+debase	de- + base	verb
+debased	de- + base + -ed	adj
+debasement	de- + base + -ment	noun
+debaser	de- + base + -er	noun
+debasing	de- + base + -ing	verb
+debitter	de- + bitter	verb
+debone	de- + bone	verb
+debounce	de- + bounce	verb
+debrief	de- + brief	verb
+debriefing	de- + brief + -ing	noun
+debuff	de- + buff	verb
+debug	de- + bug	verb
+debugger	de- + bug + -er	noun
+debugging	de- + bug + -ing	verb
+debunk	de- + bunk	verb
+debunker	de- + bunk + -er	noun
+debunking	de- + bunk + -ing	noun
+deburr	de- + burr	verb
+debus	de- + bus	verb
+decaffeinate	de- + caffeine + -ate	verb
+decaffeinated	de- + caffeinate + -ed	adj
+decaffeination	de- + caffeine + -ate + -ion	noun
+decalcification	de- + calcify + -ation	noun
+decalcifier	de- + calcify + -er	noun
+decalcify	de- + calcify	verb
+decamp	de- + camp	verb
+decampment	de- + camp + -ment	noun
+decarbonate	de- + carbon + -ate	verb
+decarbonation	de- + carbon + -ate + -ion	noun
+decarbonization	de- + carbon + -ize + -ation	noun
+decarbonize	de- + carbon + -ize	verb
+decarbonizer	de- + carbon + -ize + -er	noun
+decarboxylate	de- + carboxyl + -ate	verb
+deceivable	de- + -ceive + -able	adj
+deceive	de- + -ceive	verb
+deceiver	de- + -ceive + -er	noun
+deceiving	de- + -ceive + -ing	verb
+deceivingly	de- + -ceive + -ing + -ly	adv
+decentralise	de- + centre + -al + -ise	verb
+decentralization	de- + centre + -al + -ize + -ation	noun
+decentralizationist	de- + centre + -al + -ize + -ation + -ist	noun
+decentralize	de- + centre + -al + -ize	verb
+decentralized	de- + centre + -al + -ize + -ed	adj
+decentre	de- + centre	verb
+deception	de- + -cept + -ion	noun
+deceptive	de- + -cept + -ive	adj
+deceptively	de- + -cept + -ive + -ly	adv
+deceptiveness	de- + -cept + -ive + -ness	noun
+decerebrate	de- + cerebrate	verb
+decertification	de- + certify + -ation	noun
+decertify	de- + certify	verb
+decipher	de- + cipher	verb
+decipherable	de- + cipher + -able	adj
+decipherer	de- + cipher + -er	noun
+deciphering	de- + cipher + -ing	verb
+decipherment	de- + cipher + -ment	noun
+decivilization	de- + civil + -ize + -ation	noun
+decivilize	de- + civil + -ize	verb
+declaim	de- + claim	verb
+declaimer	de- + claim + -er	noun
+declaiming	de- + claim + -ing	verb
+declass	de- + class	verb
+declassifiable	de- + classify + -able	adj
+declassification	de- + classify + -ation	noun
+declassify	de- + class + -ify	verb
+declutch	de- + clutch	verb
+declutter	de- + clutter	verb
+decode	de- + code	verb
+decoder	de- + code + -er	noun
+decoding	de- + code + -ing	noun
+decohere	de- + cohere	verb
+decoherence	de- + cohere + -ence	noun
+decoke	de- + coke	verb
+decollate	de- + collate	verb
+decollation	de- + collate + -ion	noun
+decollator	de- + collate + -or	noun
+decolonization	de- + colony + -ize + -ation	noun
+decolonize	de- + colony + -ize	verb
+decolorant	de- + color + -ant	noun
+decolorization	de- + color + -ize + -ation	noun
+decolorize	de- + color + -ize	verb
+decolorizer	de- + color + -ize + -er	noun
+decolour	de- + colour	verb
+decolouration	de- + colour + -ation	noun
+decolourize	de- + colour + -ize	verb
+decommission	de- + commission	verb
+decommissioning	de- + commission + -ing	noun
+decommunization	de- + commune + -ize + -ation	noun
+decommunize	de- + commune + -ize	verb
+decompensate	de- + compensate	verb
+decompensation	de- + compensate + -ion	noun
+decompilation	de- + compile + -ation	noun
+decompile	de- + compile	verb
+decompiler	de- + compile + -er	noun
+decomplex	de- + complex	verb
+decomposability	de- + compose + -able + -ity	noun
+decomposable	de- + compose + -able	adj
+decompose	de- + compose	verb
+decomposer	de- + compose + -er	noun
+decomposite	de- + composite	adj
+decomposition	de- + compose + -ition	noun
+decompositional	de- + compose + -ition + -al	adj
+decompound	de- + compound	verb
+decompress	de- + com- + press	verb
+decompression	de- + com- + press + -ion	noun
+deconfigure	de- + con- + figure	verb
+decongestant	de- + congest + -ant	noun
+deconsecrate	de- + consecrate	verb
+deconstruct	de- + con- + -struct	verb
+deconstruction	de- + con- + -struct + -ion	noun
+deconstructionism	de- + con- + -struct + -ion + -ism	noun
+deconstructionist	de- + con- + -struct + -ion + -ist	noun
+deconstructive	de- + con- + -struct + -ive	adj
+decontaminant	de- + contaminate + -ant	noun
+decontaminate	de- + contaminate	verb
+decontamination	de- + contaminate + -ion	noun
+decontaminator	de- + contaminate + -or	noun
+decontrol	de- + control	verb
+decontrolled	de- + control + -ed	verb
+decorticate	de- + cortex + -ate	verb
+decortication	de- + cortex + -ate + -ion	noun
+decorticator	de- + cortex + -ate + -or	noun
+decouple	de- + couple	verb
+decoupling	de- + couple + -ing	noun
+decrepitate	de- + crepitate	verb
+decrepitation	de- + crepitate + -ion	noun
+decrescendo	de- + crescendo	noun
+decrial	de- + cry + -al	noun
+decrier	de- + cry + -er	noun
+decriminalization	de- + criminal + -ize + -ation	noun
+decriminalize	de- + criminal + -ize	verb
+decry	de- + cry	verb
+decrying	de- + cry + -ing	verb
+decryption	de- + crypt + -ion	noun
+dedollarization	de- + dollar + -ize + -ation	noun
+dedoublement	de- + double + -ment	noun
+deduce	de- + -duce	verb
+deducibility	de- + -duce + -ible + -ity	noun
+deducible	de- + -duce + -ible	adj
+deduct	de- + -duct	verb
+deductibility	de- + -duct + -ible + -ity	noun
+deductible	de- + -duct + -ible	adj
+deduction	de- + -duct + -ion	noun
+deductive	de- + -duct + -ive	adj
+deductively	de- + -duct + -ive + -ly	adv
+deduplicate	de- + duplicate	verb
+deface	de- + face	verb
+defaceable	de- + face + -able	adj
+defacement	de- + face + -ment	noun
+defacer	de- + face + -er	noun
+defamation	de- + fame + -ation	noun
+defamatory	de- + fame + -ory	adj
+defame	de- + fame	verb
+defamed	de- + fame + -ed	verb
+defamer	de- + fame + -er	noun
+defaming	de- + fame + -ing	verb
+defang	de- + fang	verb
+defat	de- + fat	verb
+defatted	de- + fat + -ed	verb
+defeature	de- + feature	verb
+defenestrate	de- + fenestrate	verb
+defenestration	de- + fenestrate + -ion	noun
+defibrillate	de- + fibril + -ate	verb
+defibrillation	de- + fibril + -ate + -ion	noun
+defibrillator	de- + fibril + -ate + -or	noun
+defibrinate	de- + fibrin + -ate	verb
+defibrination	de- + fibrin + -ate + -ion	noun
+deflagrate	de- + flagrate	verb
+deflagration	de- + flagrate + -ion	noun
+deflagrator	de- + flagrate + -or	noun
+deflea	de- + flea	verb
+deflocculation	de- + floccule + -ate + -ion	noun
+deflorate	de- + flora + -ate	verb
+defloration	de- + flora + -ate + -ion	noun
+deflower	de- + flower	verb
+deflowerer	de- + flower + -er	noun

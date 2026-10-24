@@ -1,0 +1,200 @@
+inexplorable	in- + explore + -able	adj
+inexplosive	in- + explode + -ive	adj
+inexpressibility	in- + express + -ible + -ity	noun
+inexpressible	in- + express + -ible	adj
+inexpressibleness	in- + express + -ible + -ness	noun
+inexpressibles	in- + express + -ible + -s	noun
+inexpressibly	in- + express + -ible + -ly	adv
+inexpressive	in- + express + -ive	adj
+inexpressively	in- + express + -ive + -ly	adv
+inexpressiveness	in- + express + -ive + -ness	noun
+inexpugnability	in- + expugn + -able + -ity	noun
+inexpugnable	in- + expugn + -able	adj
+inexpugnableness	in- + expugn + -able + -ness	noun
+inexpugnably	in- + expugn + -able + -ly	adv
+inexpungible	in- + expunge + -ible	adj
+inextensibility	in- + extend + -ible + -ity	noun
+inextensible	in- + extend + -ible	adj
+inextinguishable	in- + extinguish + -able	adj
+inextinguishably	in- + extinguish + -able + -ly	adv
+inextirpable	in- + extirpate + -able	adj
+inextirpableness	in- + extirpate + -able + -ness	noun
+inextricability	in- + extricate + -able + -ity	noun
+inextricable	in- + extricate + -able	adj
+inextricableness	in- + extricate + -able + -ness	noun
+inextricably	in- + extricate + -able + -ly	adv
+infallibility	in- + fall + -ible + -ity	noun
+infallible	in- + fall + -ible	adj
+infallibleness	in- + fallible + -ness	noun
+infallibly	in- + fallible + -ly	adv
+infamous	in- + fame + -ous	adj
+infamously	in- + fame + -ous + -ly	adv
+infamousness	in- + fame + -ous + -ness	noun
+infamy	in- + fame + -y	noun
+infauna	in- + fauna	noun
+infaunal	in- + fauna + -al	adj
+infeasibility	in- + feasible + -ity	noun
+infeasible	in- + feasible	adj
+infeasibleness	in- + feasible + -ness	noun
+infecund	in- + fecund	adj
+infecundity	in- + fecund + -ity	noun
+infelicitous	in- + felicitous	adj
+infelicitously	in- + felicitous + -ly	adv
+infelicity	in- + felicity	noun
+infertile	in- + fertile	adj
+infertility	in- + fertile + -ity	noun
+infeudation	in- + feud + -ation	noun
+infibulation	in- + fibula + -ation	noun
+infidelity	in- + fidelity	noun
+infield	in- + field	noun
+infielder	in- + field + -er	noun
+infighting	in- + fight + -ing	noun
+infill	in- + fill	noun
+infilling	in- + fill + -ing	noun
+infiltrate	in- + filtrate	verb
+infiltration	in- + filtrate + -ion	noun
+infiltrative	in- + filtrate + -ive	adj
+infiltrator	in- + filtrate + -or	noun
+infinite	in- + finite	adj
+infinitely	in- + finite + -ly	adv
+infiniteness	in- + finite + -ness	noun
+infinitism	in- + finite + -ism	noun
+infinitival	in- + finite + -ive + -al	adj
+infinitive	in- + finite + -ive	noun
+infinitize	in- + finite + -ize	verb
+infinity	in- + finite + -y	noun
+infirm	in- + firm	adj
+infirmary	in- + firm + -ary	noun
+infirmity	in- + firm + -ity	noun
+infirmly	in- + firm + -ly	adv
+infirmness	in- + firm + -ness	noun
+infix	in- + fix	verb
+infixation	in- + fix + -ation	noun
+inflame	in- + flame	verb
+inflamed	in- + flame + -ed	adj
+inflamer	in- + flame + -er	noun
+inflaming	in- + flame + -ing	verb
+inflammability	in- + flammable + -ity	noun
+inflammable	in- + flammable	adj
+inflammableness	in- + flammable + -ness	noun
+inflammably	in- + flammable + -ly	adv
+inflexed	in- + flex + -ed	adj
+inflexibility	in- + flex + -ible + -ity	noun
+inflexible	in- + flex + -ible	adj
+inflexibleness	in- + flex + -ible + -ness	noun
+inflexibly	in- + flex + -ible + -ly	adv
+inflexion	in- + flex + -ion	noun
+inflexionless	in- + flex + -ion + -less	adj
+inflow	in- + flow	noun
+inflowing	in- + flow + -ing	verb
+influent	in- + fluent	noun
+influx	in- + flux	noun
+infold	in- + fold	verb
+informal	in- + form + -al	adj
+informality	in- + form + -al + -ity	noun
+informally	in- + form + -al + -ly	adv
+informalness	in- + form + -al + -ness	noun
+infortune	in- + fortune	noun
+infrequency	in- + frequency	noun
+infrequent	in- + frequent	adj
+infrequently	in- + frequent + -ly	adv
+infringe	in- + fringe	verb
+infringed	in- + fringe + -ed	verb
+infringement	in- + fringe + -ment	noun
+infringer	in- + fringe + -er	noun
+infringing	in- + fringe + -ing	verb
+infuriate	in- + fury + -ate	verb
+infuriated	in- + fury + -ate + -ed	adj
+infuriating	in- + fury + -ate + -ing	adj
+infuriatingly	in- + fury + -ate + -ing + -ly	adv
+infuse	in- + fuse	verb
+infuser	in- + fuse + -er	noun
+infusible	in- + fuse + -ible	adj
+infusion	in- + fuse + -ion	noun
+infusive	in- + fuse + -ive	adj
+ingate	in- + gate	noun
+ingather	in- + gather	verb
+ingatherer	in- + gather + -er	noun
+ingathering	in- + gather + -ing	noun
+ingeminate	in- + geminate	verb
+ingemination	in- + geminate + -ion	noun
+ingenerate	in- + generate	adj
+ingenuine	in- + genuine	adj
+inglorious	in- + glory + -ous	adj
+ingloriously	in- + glory + -ious + -ly	adv
+ingloriousness	in- + glory + -ous + -ness	noun
+ingoing	in- + go + -ing	adj
+ingrain	in- + grain	verb
+ingrained	in- + grain + -ed	adj
+ingratitude	in- + gratitude	noun
+ingroup	in- + group	noun
+ingrow	in- + grow	verb
+ingrowing	in- + grow + -ing	adj
+ingrown	in- + grow + -en	adj
+ingrowth	in- + grow + -th	noun
+ingurgitate	in- + gurgitate	verb
+ingurgitation	in- + gurgitate + -ion	noun
+inhabit	in- + habit	verb
+inhabitable	in- + habit + -able	adj
+inhabitancy	in- + habit + -ancy	noun
+inhabitant	in- + habit + -ant	noun
+inhabitation	in- + habit + -ation	noun
+inhabited	in- + habit + -ed	adj
+inhabiter	in- + habit + -er	noun
+inharmonic	in- + harmony + -ic	adj
+inharmonious	in- + harmony + -ous	adj
+inharmoniously	in- + harmony + -ous + -ly	adv
+inharmoniousness	in- + harmony + -ous + -ness	noun
+inhomogeneity	in- + homogeneity	noun
+inhomogeneous	in- + homogeneous	adj
+inhospitable	in- + hospitable	adj
+inhospitableness	in- + hospitable + -ness	noun
+inhospitably	in- + hospitable + -ly	adv
+inhospitality	in- + hospital + -ity	noun
+inhuman	in- + human	adj
+inhumanely	in- + humane + -ly	adv
+inhumanity	in- + human + -ity	noun
+inhumanly	in- + human + -ly	adv
+inhumanness	in- + human + -ness	noun
+inimitable	in- + imitate + -able	adj
+inimitableness	in- + imitate + -able + -ness	noun
+inimitably	in- + imitate + -able + -ly	adv
+injudicious	in- + judicious	adj
+injudiciously	in- + judicious + -ly	adv
+injudiciousness	in- + judicious + -ness	noun
+injustice	in- + justice	noun
+inlaid	in- + lay + -ed	adj
+inlander	in- + land + -er	noun
+inlaw	in- + law	noun
+inlay	in- + lay	noun
+inlayer	in- + lay + -er	noun
+inlet	in- + let	noun
+inlier	in- + lie + -er	noun
+inmate	in- + mate	noun
+innavigable	in- + navigate + -able	adj
+innervate	in- + nerve + -ate	verb
+innervated	in- + nerve + -ate + -ed	verb
+innervation	in- + nerve + -ation	noun
+innervational	in- + nerve + -ation + -al	adj
+innominate	in- + nominate	adj
+innumerate	in- + numerate	adj
+innumerous	in- + numerous	adj
+innutrition	in- + nutrition	noun
+innutritious	in- + nutrition + -ous	adj
+inobservance	in- + observe + -ance	noun
+inobservant	in- + observe + -ant	adj
+inoccupation	in- + occupy + -ation	noun
+inoffensive	in- + offend + -ive	adj
+inoffensively	in- + offend + -ive + -ly	adv
+inoffensiveness	in- + offend + -ive + -ness	noun
+inofficiousness	in- + office + -ious + -ness	noun
+inoperable	in- + operate + -able	adj
+inoperably	in- + operate + -able + -ly	adv
+inoperative	in- + operate + -ive	adj
+inoperativeness	in- + operate + -ive + -ness	noun
+inopportune	in- + opportune	adj
+inopportunely	in- + opportune + -ly	adv
+inopportuneness	in- + opportune + -ness	noun
+inoppugnable	in- + oppugn + -able	adj
+inordinacy	in- + ordinate + -cy	noun
+inordinate	in- + ordinate	adj
