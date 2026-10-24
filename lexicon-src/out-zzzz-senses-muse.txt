@@ -229,7 +229,7 @@ degranulation	noun	de-|de|P||de- (reverse) ; granule|granul|R|N ; -ate|at|S ; -i
 degreasant	noun	de-|de|P||de- (reverse) ; grease|greas|R|N ; -ant|ant|S
 degrease	verb	de-|de|P||de- (reverse) ; grease|grease|R|N
 degreaser	noun	de-|de|P||de- (reverse) ; grease|greas|R|V ; -er|er|S||-er (N)
-degrowth	noun	de-|de|P||de- (reverse) ; grow|grow|R|N ; -th|th|S
+degrowth	noun	de-|de|P||de- (reverse) ; growth|growth|R|N
 dehorn	verb	de-|de|P||de- (reverse) ; horn|horn|R|N
 dehumanising	verb	de-|de|P||de- (reverse) ; human|human|R|N ; -ise|is|S ; -ing|ing|I||-ing (v)
 dehumanization	noun	de-|de|P||de- (reverse) ; human|human|R|N ; -ize|iz|S ; -ation|ation|S
@@ -2379,7 +2379,7 @@ ingroup	noun	in-|in|P||in- (into) ; group|group|R|N
 ingrow	verb	in-|in|P||in- (into) ; grow|grow|R|V
 ingrowing	adj	in-|in|P||in- (into) ; grow|grow|R|V ; -ing|ing|S||-ing (adj)
 ingrown	adj	in-|in|P||in- (into) ; grow|grown|R|V ; -en||I||-en (participle)
-ingrowth	noun	in-|in|P||in- (into) ; grow|grow|R|N ; -th|th|S
+ingrowth	noun	in-|in|P||in- (into) ; growth|growth|R|N
 ingurgitate	verb	in-|in|P||in- (into) ; gurgitate|gurgitate|R|V
 ingurgitation	noun	in-|in|P||in- (into) ; gurgitate|gurgitat|R|V ; -ion|ion|S
 inhabit	verb	in-|in|P||in- (into) ; habit|habit|R|N
@@ -3179,6 +3179,7 @@ regroup	verb	re-|re|P||re- (again) ; group|group|R|V
 regrouped	adj	re-|re|P||re- (again) ; group|group|R|V ; -ed|ed|S||-ed (adj)
 regrouping	noun	re-|re|P||re- (again) ; group|group|R|V ; -ing|ing|S||-ing (N)
 regrow	verb	re-|re|P||re- (again) ; grow|grow|R|V
+regrowth	noun	re-|re|P||re- (again) ; growth|growth|R|V
 rehandle	verb	re-|re|P||re- (again) ; handle|handle|R|V
 rehang	verb	re-|re|P||re- (again) ; hang|hang|R|V
 reharden	verb	re-|re|P||re- (again) ; hard|hard|R|Adj ; -en|en|S

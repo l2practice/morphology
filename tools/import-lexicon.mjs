@@ -65,7 +65,7 @@ function check(word, pos, ms) {
 
 // Fossilised derivations: one morpheme, whatever the AI proposed (see "Core principle" in MUSE-PROMPT.md).
 const LATINATE = new Set("ive ible able ion tion sion ation ition ant ent ate or ory atory ee ic ical ity cy ism ist al ial ous ious eous ence ance ency ancy ify ize ise ure ular ar ator".split(" "));
-const FOSSIL = new Set("scientist scientific health wealth stealth filth gift depth width truth length strength youth flight height weight lawyer agency entry ministry introduce".split(" "));
+const FOSSIL = new Set("science scientist scientific health wealth stealth filth gift depth width truth length strength youth flight height weight lawyer agency entry ministry introduce".split(" "));
 const CAT = { noun: "N", verb: "V", adj: "Adj", adv: "Adv" };
 const MANUAL = new Set(fs.existsSync("lexicon-adv-src/out-adv-zz-manual.txt") ? fs.readFileSync("lexicon-adv-src/out-adv-zz-manual.txt", "utf8").split("\n").map(l => l.split("\t")[0]).filter(Boolean) : []);
 const fromStem = new Set();                 // advanced cuts confirmed by the stem job: exempt from the recurrence check
@@ -179,6 +179,19 @@ if (!ADV) {
     const one = { form: best.head, surface: best.spelled, code: "R", cat: CAT2[hp] || "N", variant: "", allo: "", gloss: "" };
     const out = [...ms.slice(0, best.a), one, ...ms.slice(best.a + best.len)];
     lex.set(w, pos + "\t" + unparse(out)); collapsed++;
+  }
+}
+// SYNCHRONIC: the noun-forming -th (grow-th, warm-th, like heal-th) is a dead affix: a speaker cannot make "happy-th". The ordinal -th (tenth, sixth) is alive and stays.
+if (!ADV) {
+  for (const [w, v] of [...lex]) {
+    const [pos, body] = v.split("\t");
+    const ms = parse(body);
+    const n = ms.length;
+    if (n >= 2 && ms[n - 1].form === "-th" && /^(grow|warm|lukewarm|weal)$/.test(ms[n - 2].form)) {
+      const base = ms[n - 2];
+      const one = { form: base.form + "th", surface: base.surface + "th", code: "R", cat: "N", variant: "", allo: "", gloss: "" };
+      lex.set(w, pos + "\t" + unparse([...ms.slice(0, n - 2), one]));
+    }
   }
 }
 // Advanced: words built on a word that has an advanced cut take that cut (vulnerability = vulnerable + -ity → -vulner- + -able + -ity).
