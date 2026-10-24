@@ -1,0 +1,45 @@
+buoyancy: buoy + -ant + -cy → buoy + -ancy
+polar: polar → pole + -ar
+sectarian: sectarian → sect + -arian
+emergency: emergency → emerge + -ency
+northern: northern → north + -ern
+picturesque: picturesque → picture + -esque
+technician: technician → technic + -ian
+linguistics: linguistics → linguist + -ics
+organise: organise → organ + -ise
+socialite: socialite → social + -ite
+magnetite: magnetite → magnet + -ite
+organize: organize → organ + -ize
+sparkle: sparkle → spark + -le
+wrestle: wrestle → wrest + -le
+humanoid: humanoid → human + -oid
+asteroid: asteroid → aster + -oid
+blockade: blockade → block + -ade
+lemonade: lemonade → lemon + -ade
+planetarium: planetarium → planet + -arium
+organelle: organelle → organ + -elle
+phoneme: phoneme → phone + -eme
+morpheme: morpheme → morph + -eme
+lambkin: lambkin → lamb + -kin
+abnormal: abnormal → ab- + norm + -al
+antenatal: antenatal → ante- + natal
+coordinate: coordinate → co- + ordinate
+demigod: demigod → demi- + god
+equidistant: equidistant → equi- + distant
+hemisphere: hemisphere → hemi- + sphere
+infrastructure: infrastructure → infra- + -struct + -ure
+infrared: infrared → infra- + red
+intravenous: intravenous → intra- + venous
+megabyte: megabyte → mega- + byte
+millisecond: millisecond → milli- + second
+minibus: minibus → mini- + bus
+misunderstand: mis- + under- + stand → mis- + understand
+pseudoscience: pseudo- + sci- + -ence → pseudo- + science
+supranational: supranational → supra- + nation + -al
+suprarenal: suprarenal → supra- + renal
+ultrasonic: ultrasonic → ultra- + sonic
+cryotherapy: cryotherapy → cryo- + therapy
+nanotechnology: nanotechno- + -logy → nano- + techno- + -logy
+angiosperm: angiosperm → angio- + sperm
+electromagnetic: electromagnetic → electro- + magnet + -ic
+noctilucent: noctilucent → nocti- + lucent

@@ -11,6 +11,10 @@ const CODES = new Set(["P", "R", "B", "S", "I"]);
 const POS = new Set(["noun", "verb", "adj", "adv", "prep", "pron", "det", "conj", "interj", "?"]);
 const PREFIXES = new Set("a an anti auto be bi by co com con contra counter de dis en ex extra fore hyper hypo il im in inter intra ir mal micro mid mis mono multi non out over para poly post pre pro per ad ac em col cor af ag al ap ar as at ef ob oc of op ab suf sup sur down pseudo re semi sub super tele trans tri un under uni up with".split(" "));
 const SUFFIXES = new Set("s es 's s' ed en ing er est ly ness ment tion sion ation ition ion ity ty ive ative itive ous ious eous al ial ual ful less able ible ist ism ize ise ify fy ish y hood ship dom ward wise ant ent ance ence ancy ency ary ory ic ical ure age ee eer ette let ling ster some like th ery ry or ess ate cy ian an ren ar ific ator osity uous ular ose esque atory ite ient acy icity ience arian eal".split(" "));
+// The course's own list (docs/course-affixes.json) is part of the allowed inventory.
+const COURSE = JSON.parse(fs.readFileSync(new URL("../docs/course-affixes.json", import.meta.url), "utf8"));
+Object.keys(COURSE.prefix).forEach(p => PREFIXES.add(p));
+Object.keys(COURSE.suffix).forEach(s => SUFFIXES.add(s));
 const INFL_VAR = /\((v|v2|adv|comparative|superlative|plural|3sg|participle)\)$/;
 
 function check(word, pos, ms) {
@@ -59,7 +63,7 @@ function check(word, pos, ms) {
 
 // Fossilised derivations: one morpheme, whatever the AI proposed (see "Core principle" in MUSE-PROMPT.md).
 const LATINATE = new Set("ive ible able ion tion sion ation ition ant ent ate or ory atory ee ic ical ity cy ism ist al ial ous ious eous ence ance ency ancy ify ize ise ure ular ar ator".split(" "));
-const FOSSIL = new Set("scientist scientific health wealth stealth filth gift depth width truth length strength youth flight height weight lawyer service justice agency entry ministry introduce northern southern eastern western".split(" "));
+const FOSSIL = new Set("scientist scientific health wealth stealth filth gift depth width truth length strength youth flight height weight lawyer agency entry ministry introduce".split(" "));
 const CAT = { noun: "N", verb: "V", adj: "Adj", adv: "Adv" };
 const MANUAL = new Set(fs.existsSync("lexicon-adv-src/out-adv-zz-manual.txt") ? fs.readFileSync("lexicon-adv-src/out-adv-zz-manual.txt", "utf8").split("\n").map(l => l.split("\t")[0]).filter(Boolean) : []);
 const lex = new Map(), rejected = [];

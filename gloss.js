@@ -148,10 +148,24 @@
   fill(P, "prefix"); fill(S, "suffix");
 
   const plain = f => String(f || "").toLowerCase().replace(/^-|-$/g, "");
+  const course = () => window.COURSE_AFFIXES || { prefix: {}, suffix: {}, base: {} };
+  const baseIndex = new Map();
+  Object.values(course().base).forEach(b => b.v.forEach(v => baseIndex.set(v, b)));
+  // Teacher wording first ("omni-: all"), with my own fuller text only where the list has nothing or says too little.
+  const OVERRIDE = { omni: "all, everywhere, every time (omni-present).", sui: "self (sui-cide)." };
   function meaning(m) {
-    if (!m || (m.type !== "prefix" && m.type !== "suffix")) return "";
+    if (!m) return "";
+    const f = plain(m.form);
+    if (m.type === "root" && m.cls === "root-bound") {
+      const b = [f, f.replace(/e$/, ""), f.replace(/[ts]$/, ""), f.replace(/ive$/, "")].map(k => baseIndex.get(k)).find(Boolean);
+      return b ? `${b.m.toLowerCase()} (${b.o}; ${b.ex.slice(0, 3).join(", ")})` : "";
+    }
+    if (m.type !== "prefix" && m.type !== "suffix") return "";
     if (m.variant && V[m.variant]) return V[m.variant];
-    return table[m.type][plain(m.form)] || "";
+    if (m.type === "prefix" && OVERRIDE[f]) return OVERRIDE[f];
+    const c = course()[m.type][f];
+    if (c) return `${c.m.join("; ")}${c.ex.length ? " (" + c.ex.slice(0, 2).join(", ") + ")" : ""}`;
+    return table[m.type][f] || "";
   }
   window.MorphGloss = { meaning };
 })();

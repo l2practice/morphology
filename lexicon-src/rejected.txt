@@ -69,7 +69,6 @@ fortieth	adj	forty|forti|R|N ; -th|eth|S	# m0: -th only on an unchanged base
 undying	adj	un-|un|P ; die|dy|R|V ; -ing|ing|S||-ing (adj)	# m1: stem "die" is spelled "dy" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
 viv	?	?	# Muse marked as non-word
 typewritten	adj	type|type|R|N ; write|writt|R|V ; -en|en|I||-en (participle)	# m1: stem "write" is spelled "writt" before -en (irregular stem change: fossilised? keep the word as one morpheme)
-doublet	noun	double|doubl|R|Adj ; -et|et|S	# m1: suffix -et is not on the allowed list
 antacid	noun	ant-|ant|P|||anti- ; acid|acid|R|N	# m0: prefix ant- is not on the allowed list
 thievery	noun	thief|thiev|R|N ; -ery|ery|S	# m0: stem "thief" is spelled "thiev" before -ery (irregular stem change: fossilised? keep the word as one morpheme)
 overlying	verb	over-|over|P ; lie|ly|R|V ; -ing|ing|I||-ing (v)	# m1: stem "lie" is spelled "ly" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
@@ -232,7 +231,6 @@ sequacity	noun	sequacious|sequac|R|Adj ; -ity|ity|S	# m0: stem "sequacious" is s
 shellacking	verb	shellac|shellack|R|V ; -ing|ing|I||-ing (v)	# m0: stem "shellac" is spelled "shellack" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
 skilfulness	noun	skill|skil|R|N ; -ful|ful|S ; -ness|ness|S	# m0: stem "skill" is spelled "skil" before -ful (irregular stem change: fossilised? keep the word as one morpheme)
 skilless	adj	skill|skil|R|N ; -less|less|S	# m0: stem "skill" is spelled "skil" before -less (irregular stem change: fossilised? keep the word as one morpheme)
-swimmeret	noun	swim|swimm|R|V ; -er|er|S||-er (N) ; -et|et|S	# m2: suffix -et is not on the allowed list
 tachometry	noun	tachometer|tachometr|R|N ; -y|y|S	# m0: stem "tachometer" is spelled "tachometr" before -y (irregular stem change: fossilised? keep the word as one morpheme)
 tachymetry	noun	tachymeter|tachymetr|R|N ; -y|y|S	# m0: stem "tachymeter" is spelled "tachymetr" before -y (irregular stem change: fossilised? keep the word as one morpheme)
 thermogenic	adj	thermogenesis|thermogen|R|N ; -ic|ic|S	# m0: stem "thermogenesis" is spelled "thermogen" before -ic (irregular stem change: fossilised? keep the word as one morpheme)
@@ -250,7 +248,6 @@ unskilfulness	noun	un-|un|P ; skill|skil|R|N ; -ful|ful|S ; -ness|ness|S	# m1: s
 untying	noun	un-|un|P ; tie|ty|R|V ; -ing|ing|S||-ing (N)	# m1: stem "tie" is spelled "ty" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
 unwived	adj	un-|un|P ; wife|wiv|R|N ; -ed|ed|S||-ed (adj)	# m1: stem "wife" is spelled "wiv" before -ed (irregular stem change: fossilised? keep the word as one morpheme)
 unwrittenness	noun	un-|un|P ; write|writt|R|V ; -en|en|S ; -ness|ness|S	# m1: stem "write" is spelled "writt" before -en (irregular stem change: fossilised? keep the word as one morpheme)
-verset	noun	verse|vers|R|N ; -et|et|S	# m1: suffix -et is not on the allowed list
 vinify	verb	wine|vin|R|N ; -ify|ify|S	# m0: stem "wine" is spelled "vin" before -ify (irregular stem change: fossilised? keep the word as one morpheme)
 vinous	adj	wine|vin|R|N ; -ous|ous|S	# m0: stem "wine" is spelled "vin" before -ous (irregular stem change: fossilised? keep the word as one morpheme)
 vinously	adv	wine|vin|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)	# m0: stem "wine" is spelled "vin" before -ous (irregular stem change: fossilised? keep the word as one morpheme)

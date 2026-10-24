@@ -1,0 +1,45 @@
+buoyancy	noun	buoy|buoy|R|N ; -ancy|ancy|S
+polar	adj	pole|pol|R|N ; -ar|ar|S
+sectarian	adj	sect|sect|R|N ; -arian|arian|S
+emergency	noun	emerge|emerg|R|V ; -ency|ency|S
+northern	adj	north|north|R|N ; -ern|ern|S
+picturesque	adj	picture|pictur|R|N ; -esque|esque|S
+technician	noun	technic|technic|R|N ; -ian|ian|S
+linguistics	noun	linguist|linguist|R|N ; -ics|ics|S
+organise	verb	organ|organ|R|N ; -ise|ise|S
+socialite	noun	social|social|R|Adj ; -ite|ite|S
+magnetite	noun	magnet|magnet|R|N ; -ite|ite|S
+organize	verb	organ|organ|R|N ; -ize|ize|S
+sparkle	verb	spark|spark|R|N ; -le|le|S
+wrestle	verb	wrest|wrest|R|V ; -le|le|S
+humanoid	noun	human|human|R|Adj ; -oid|oid|S
+asteroid	noun	aster|aster|R|N ; -oid|oid|S
+blockade	noun	block|block|R|N ; -ade|ade|S
+lemonade	noun	lemon|lemon|R|N ; -ade|ade|S
+planetarium	noun	planet|planet|R|N ; -arium|arium|S
+organelle	noun	organ|organ|R|N ; -elle|elle|S
+phoneme	noun	phone|phon|R|N ; -eme|eme|S
+morpheme	noun	morph|morph|R|V ; -eme|eme|S
+lambkin	noun	lamb|lamb|R|N ; -kin|kin|S
+abnormal	adj	ab-|ab|P ; norm|norm|R|N ; -al|al|S
+antenatal	adj	ante-|ante|P ; natal|natal|R|Adj
+coordinate	verb	co-|co|P ; ordinate|ordinate|R|N
+demigod	noun	demi-|demi|P ; god|god|R|N
+equidistant	adj	equi-|equi|P ; distant|distant|R|Adj
+hemisphere	noun	hemi-|hemi|P ; sphere|sphere|R|N
+infrastructure	noun	infra-|infra|P ; -struct|struct|B|V ; -ure|ure|S
+infrared	adj	infra-|infra|P ; red|red|R|Adj
+intravenous	adj	intra-|intra|P ; venous|venous|R|Adj
+megabyte	noun	mega-|mega|P ; byte|byte|R|N
+millisecond	noun	milli-|milli|P ; second|second|R|Adj
+minibus	noun	mini-|mini|P ; bus|bus|R|N
+misunderstand	verb	mis-|mis|P ; understand|understand|R|V
+pseudoscience	noun	pseudo-|pseudo|P ; science|science|R|N
+supranational	adj	supra-|supra|P ; nation|nation|R|N ; -al|al|S
+suprarenal	adj	supra-|supra|P ; renal|renal|R|Adj
+ultrasonic	adj	ultra-|ultra|P ; sonic|sonic|R|Adj
+cryotherapy	noun	cryo-|cryo|P ; therapy|therapy|R|N
+nanotechnology	noun	nano-|nano|P ; techno-|techno|B|N ; -logy|logy|B|N|||study, word
+angiosperm	noun	angio-|angio|P ; sperm|sperm|R|N
+electromagnetic	adj	electro-|electro|P ; magnet|magnet|R|N ; -ic|ic|S
+noctilucent	adj	nocti-|nocti|P ; lucent|lucent|R|Adj
