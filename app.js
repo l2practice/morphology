@@ -618,7 +618,23 @@
     return s;
   }
 
+  /** Look-up feedback: a thin progress bar, a busy button and a dimmed result until the answer (or the AI overlay) is on screen. */
+  function setBusy(on) {
+    $("#busybar").hidden = !on;
+    const btn = document.querySelector("#search button[type=submit]");
+    btn.textContent = on ? "Looking up…" : "Analyze";
+    btn.setAttribute("aria-busy", on ? "true" : "false");
+    $("#result").classList.toggle("is-busy", on);
+  }
+  let busyTimer = 0;
   async function show(raw, opts) {
+    clearTimeout(busyTimer);
+    busyTimer = setTimeout(() => setBusy(true), 120);          // only when the answer is not instant
+    try { return await showWord(raw, opts); }
+    finally { clearTimeout(busyTimer); setBusy(false); }
+  }
+
+  async function showWord(raw, opts) {
     opts = opts || {};
     const key = validWord(raw || "");
     if (!raw || !raw.trim()) { $("#word-input").focus(); return; }
@@ -960,6 +976,7 @@
       clearTimeout(suggestTimer);
       const q = input.value.trim();
       if (q.length < 2) { list.hidden = true; return; }
+      if (window.MorphLex && window.MorphLex.prefetch) window.MorphLex.prefetch(q.toLowerCase(), state.level);   // warm the lexicon file for these letters
       suggestTimer = setTimeout(async () => {
         const seq = ++suggestSeq;
         const items = await window.MorphDict.suggest(q).catch(() => []);

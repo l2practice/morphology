@@ -112,5 +112,10 @@
     return { basic: b ? b.morphemes : null, adv: a && a.level === "adv" ? a.morphemes : null };
   }
 
-  window.MorphLex = { get, resolve, compose, inflection, both };
+  /** Start loading the lexicon files for a word that is still being typed. */
+  function prefetch(word, level) {
+    if (/^[a-z]{2}/.test(word)) { shard(word, "basic"); if (level === "adv") shard(word, "adv"); }
+  }
+
+  window.MorphLex = { get, resolve, compose, inflection, both, prefetch };
 })();
