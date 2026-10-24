@@ -94,7 +94,7 @@
   }
 
   // ---------- Views ----------
-  const TITLES = { analyze: "Analyze", history: "History", cheat: "Cheat sheet", settings: "Settings" };
+  const TITLES = { analyze: "IC Division", history: "History", cheat: "Cheat sheet", settings: "Settings" };
   function setView(name) {
     state.view = name;
     $$(".view").forEach(v => { v.hidden = v.id !== "view-" + name; });
