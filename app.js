@@ -27,7 +27,7 @@
     "cls_suffix-der": "Suffix (Derivational)", "cls_suffix-inf": "Suffix (Inflectional)"
   };
   const t = key => T[key] || key;
-  const SOURCE_LABEL = { verified: "✓ Verified", ai: "✦ AI analysis", cache: "✓ Saved on this device", lexicon: "✓ Checked cut", "lexicon-adv": "✓ Advanced cut" };
+  const SOURCE_LABEL = { verified: "✓ Verified", ai: "✦ AI analysis", cache: "✓ Saved on this device", lexicon: "✓ Checked cut", "lexicon-adv": "✓ Structural cut" };
 
   const ORIGINS = [
     [/Old English/i, "Old English"], [/Middle English/i, "Middle English"], [/Old Norse/i, "Old Norse"],
@@ -401,6 +401,7 @@
     if (wt.key === "simple" && wt.roots.length && wt.roots[0].cls === "root-bound") notes.push("Its only root is bound, so it behaves like a simple word only in this analysis.");
     if (wt.key !== "complex" && wt.inf.length) notes.push("Inflectional suffixes do not change the word type.");
     const fp = formationOf(w);
+    const approachName = (w.level || state.level) === "adv" ? "Structural" : "Synchronic";
     const unit5 = `<h4 class="wt-sub">How was this word formed? (word-formation processes)</h4>
       ${fp ? `<div class="wt-result"><span class="wt-badge process">${esc(fp.label)}</span><div class="wt-formula">${esc(fp.detail)}</div></div>` : `<p class="cls-note">${w.morphemes.length > 1 ? "Built by affixation or compounding: see the morphemes above." : "No special process is named in the dictionary: it is an ordinary simple word."}</p>`}
       <div class="wt-table wt-proc">
@@ -408,7 +409,9 @@
         ${Object.entries(FORMATION).map(([k, d]) => `<div class="wt-c wt-type${fp && fp.key === k ? " on" : ""}">${esc(d[0])}</div><div class="wt-c${fp && fp.key === k ? " on" : ""}">${esc(d[1])}</div><div class="wt-c${fp && fp.key === k ? " on" : ""}">${esc(d[2])}</div>`).join("")}
       </div>`;
     $("#wordtype").innerHTML = `
+      <p class="wt-approach">Word type by the <b>${approachName} approach</b> (${w.morphemes.length} morpheme${w.morphemes.length === 1 ? "" : "s"}).</p>
       <div class="wt-result"><span class="wt-badge ${wt.key}">${def.name}</span><div class="wt-formula">${formula}</div></div>
+      <div id="wt-compare"></div>
       ${notes.map(n => `<p class="cls-note">${esc(n)}</p>`).join("")}
       <div class="wt-table">
         <div class="wt-h">Type</div><div class="wt-h">Definition</div><div class="wt-h">Structure</div>
@@ -632,6 +635,7 @@
     renderHead(w, state.dict);
     renderBricks(w.morphemes);
     window.ICTree.render($("#tree"), w, t, state.treeStyle);
+    $("#tree-approach").textContent = (w.level || state.level) === "adv" ? "Structural approach" : "Synchronic approach";
     $("#detail-title").innerHTML = `<span class="target">“${esc(w.word)}”</span> has ${w.morphemes.length} morpheme${w.morphemes.length === 1 ? "" : "s"}`;
     renderClassification(w);
     renderWordType(w);
@@ -1162,11 +1166,18 @@
     if (state.word && state.word.word !== word) return;
     const basic = (DB[word] ? DB[word].morphemes : r.basic);
     const forms = ms => ms.map(m => m.form).join(" + ");
+    // The word type can differ between the approaches too: show both on the Word type tab.
+    const cmp = $("#wt-compare");
+    if (cmp && basic && r.adv && forms(basic) !== forms(r.adv)) {
+      const tn = ms => WORD_TYPES[wordTypeOf({ morphemes: ms }).key].name;
+      const t1 = tn(basic), t2 = tn(r.adv);
+      cmp.innerHTML = t1 === t2 ? "" : `<p class="wt-compare">Synchronic: <b>${esc(t1)}</b> (${esc(forms(basic))}) · Structural: <b>${esc(t2)}</b> (${esc(forms(r.adv))})</p>`;
+    } else if (cmp) cmp.innerHTML = "";
     if (!basic || !r.adv || forms(basic) === forms(r.adv)) return;
     const here = state.level === "adv";
     note.innerHTML = here
-      ? `<b>Advanced cut</b> (${r.adv.length} morphemes: ${esc(forms(r.adv))}). The <b>Basic</b> cut is ${esc(forms(basic))} (${basic.length}). <button type="button" data-set-level="basic">Show Basic</button>`
-      : `This word also has an <b>Advanced</b> cut: ${esc(forms(r.adv))} (${r.adv.length} morphemes). <button type="button" data-set-level="adv">Show Advanced</button>`;
+      ? `<b>Structural approach</b>: ${esc(forms(r.adv))} (${r.adv.length} morphemes). The <b>Synchronic</b> approach counts ${esc(forms(basic))} (${basic.length}). <button type="button" data-set-level="basic">Show Synchronic</button>`
+      : `The <b>Structural</b> approach cuts this word differently: ${esc(forms(r.adv))} (${r.adv.length} morphemes). <button type="button" data-set-level="adv">Show Structural</button>`;
     note.hidden = false;
   }
 

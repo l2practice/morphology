@@ -33,6 +33,7 @@ archdiocese	noun	arch-|arch|P ; diocese|diocese|R|N
 argentine	adj	argent|argent|R|N ; -ine|ine|S
 arise	verb	a-|a|P ; rise|rise|R|V
 around	prep	a-|a|P ; round|round|R|Adj
+ascribe	verb	a-|a|P ; scribe|scribe|R|N
 aside	adv	a-|a|P ; side|side|R|N
 asphyxiate	verb	asphyxia|asphyxi|R|N ; -ate|ate|S
 atopic	adj	atopy|atop|R|N ; -ic|ic|S
@@ -232,8 +233,8 @@ myoclonus	noun	myo-|myo|P ; clonus|clonus|R|N
 myoelectric	adj	myo-|myo|P ; electric|electric|R|Adj
 nanogram	noun	nano-|nano|P ; gram|gram|R|N
 nanosecond	noun	nano-|nano|P ; second|second|R|Adj
-nanostructure	noun	nano-|nano|P ; -struct|struct|B|V ; -ure|ure|S
-nanostructured	adj	nano-|nano|P ; struct|struct|B|V ; -ure|ur|S ; -ed|ed|S||-ed (adj)
+nanostructure	noun	nano-|nano|P ; structure|structure|R|N
+nanostructured	adj	nano-|nano|P ; structure|structur|R|N ; -ed|ed|S||-ed (adj)
 nanotube	noun	nano-|nano|P ; tube|tube|R|N
 nanowire	noun	nano-|nano|P ; wire|wire|R|N
 natatorium	noun	natatory|natator|R|Adj ; -ium|ium|S
@@ -307,6 +308,7 @@ quadruplet	noun	quadruple|quadrupl|R|V ; -et|et|S
 quintuplet	noun	quintuple|quintupl|R|Adj ; -et|et|S
 radionuclide	noun	radio-|radio|P ; nuclide|nuclide|R|N
 recall	verb	re-|re|P ; call|call|R|V
+reduction	noun	reduce|reduc|R|V ; -tion|tion|S
 reflation	noun	reflate|reflat|R|V ; -ion|ion|S
 reflex	noun	re-|re|P ; flex|flex|R|V
 reluctance	noun	reluct|reluct|R|V ; -ance|ance|S
@@ -459,6 +461,7 @@ resilience	noun	resilient|resili|R|Adj ; -ence|ence|S
 reticence	noun	reticent|retic|R|Adj ; -ence|ence|S
 salience	noun	salient|sali|R|Adj ; -ence|ence|S
 saliency	noun	salient|sali|R|Adj ; -ency|ency|S
+science	noun	scient|sci|R|Adj ; -ence|ence|S
 senescence	noun	senescent|senesc|R|Adj ; -ence|ence|S
 sentience	noun	sentient|senti|R|Adj ; -ence|ence|S
 sequence	noun	sequent|sequ|R|Adj ; -ence|ence|S

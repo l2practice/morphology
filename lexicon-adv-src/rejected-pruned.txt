@@ -337,7 +337,6 @@ retrograde	-grade
 chameleon	cham-,-eleon
 botanic	botan-
 cystic	cyst-
-viscous	visc-
 fortitude	fort-
 derogatory	derog-
 historiography	historio-
@@ -560,7 +559,6 @@ clavicle	clavic-
 abrade	-rade
 proscenium	-scen-
 elide	-lide
-viscose	visc-
 annular	annul-
 gerontologist	geronto-
 salvific	salv-

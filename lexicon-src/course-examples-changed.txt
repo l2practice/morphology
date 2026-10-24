@@ -27,14 +27,13 @@ coordinate: coordinate → co- + ordinate
 demigod: demigod → demi- + god
 equidistant: equidistant → equi- + distant
 hemisphere: hemisphere → hemi- + sphere
-infrastructure: infrastructure → infra- + -struct + -ure
+infrastructure: infrastructure → infra- + structure
 infrared: infrared → infra- + red
 intravenous: intravenous → intra- + venous
 megabyte: megabyte → mega- + byte
 millisecond: millisecond → milli- + second
 minibus: minibus → mini- + bus
 misunderstand: mis- + under- + stand → mis- + understand
-pseudoscience: pseudo- + sci- + -ence → pseudo- + science
 supranational: supranational → supra- + nation + -al
 suprarenal: suprarenal → supra- + renal
 ultrasonic: ultrasonic → ultra- + sonic

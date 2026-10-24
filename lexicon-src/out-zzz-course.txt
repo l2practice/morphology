@@ -27,14 +27,13 @@ coordinate	verb	co-|co|P ; ordinate|ordinate|R|N
 demigod	noun	demi-|demi|P ; god|god|R|N
 equidistant	adj	equi-|equi|P ; distant|distant|R|Adj
 hemisphere	noun	hemi-|hemi|P ; sphere|sphere|R|N
-infrastructure	noun	infra-|infra|P ; -struct|struct|B|V ; -ure|ure|S
+infrastructure	noun	infra-|infra|P ; structure|structure|R|N
 infrared	adj	infra-|infra|P ; red|red|R|Adj
 intravenous	adj	intra-|intra|P ; venous|venous|R|Adj
 megabyte	noun	mega-|mega|P ; byte|byte|R|N
 millisecond	noun	milli-|milli|P ; second|second|R|Adj
 minibus	noun	mini-|mini|P ; bus|bus|R|N
 misunderstand	verb	mis-|mis|P ; understand|understand|R|V
-pseudoscience	noun	pseudo-|pseudo|P ; science|science|R|N
 supranational	adj	supra-|supra|P ; nation|nation|R|N ; -al|al|S
 suprarenal	adj	supra-|supra|P ; renal|renal|R|Adj
 ultrasonic	adj	ultra-|ultra|P ; sonic|sonic|R|Adj

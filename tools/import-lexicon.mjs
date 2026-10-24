@@ -150,6 +150,37 @@ for (let pass = 0; pass < (ADV ? 0 : 5); pass++) {
   }
   if (!changed) break;
 }
+// SYNCHRONIC level: a bound root is not a morpheme a modern speaker analyses (re-duce, se-lect, pre-fer, re-ceive count as ONE morpheme).
+// The smallest stretch that holds the bound root and is itself a dictionary word becomes one root: construct + -ion, tele- + vision, reception + -ist.
+// Neo-classical combining forms taught as bound morphemes (sui- + -cide, bio- + -logy) stay as they are.
+let collapsed = 0;
+if (!ADV) {
+  const combining = new Set();
+  if (fs.existsSync("lexicon-src/out-zz-manual.txt")) for (const l of fs.readFileSync("lexicon-src/out-zz-manual.txt", "utf8").split("\n")) { const b = l.split("\t")[2]; if (b) for (const m of parse(b)) if (m.code === "B") combining.add(m.form); }
+  const CAT2 = { noun: "N", verb: "V", adj: "Adj", adv: "Adv" };
+  for (const [w, v] of [...lex]) {
+    const [pos, body] = v.split("\t");
+    const ms = parse(body);
+    const bi = ms.map((m, i) => (m.code === "B" ? i : -1)).filter(i => i >= 0);
+    if (!bi.length || bi.every(i => combining.has(ms[i].form))) continue;
+    const lo = Math.min(...bi), hi = Math.max(...bi);
+    let best = null;
+    for (let len = Math.max(2, hi - lo + 1); len <= ms.length && !best; len++) {
+      for (let a = Math.max(0, hi - len + 1); a <= lo && a + len <= ms.length; a++) {
+        const span = ms.slice(a, a + len);
+        if (span.some(m => m.code === "I") || (len === ms.length && a === 0)) continue;     // the whole word is the fallback below
+        const spelled = span.map(m => m.surface).join(""), formed = span.map(m => m.form.replace(/-/g, "")).join("");
+        const head = lex.has(spelled) && spelled.length >= 4 ? spelled : (lex.has(formed) && formed.length >= 4 ? formed : "");
+        if (head) { best = { a, len, head, spelled }; break; }
+      }
+    }
+    if (!best) best = { a: 0, len: ms.length, head: w, spelled: w };
+    const hp = lex.get(best.head) ? lex.get(best.head).split("\t")[0] : pos;
+    const one = { form: best.head, surface: best.spelled, code: "R", cat: CAT2[hp] || "N", variant: "", allo: "", gloss: "" };
+    const out = [...ms.slice(0, best.a), one, ...ms.slice(best.a + best.len)];
+    lex.set(w, pos + "\t" + unparse(out)); collapsed++;
+  }
+}
 // Advanced: words built on a word that has an advanced cut take that cut (vulnerability = vulnerable + -ity → -vulner- + -able + -ity).
 let advExpanded = 0;
 if (ADV && BASIC_DIR) {
@@ -225,4 +256,4 @@ fs.mkdirSync(outDir, { recursive: true });
 for (const [k, o] of Object.entries(shards)) fs.writeFileSync(`${outDir}/${k}.json`, JSON.stringify(o));
 fs.writeFileSync(rejFile, rejected.join("\n") + (rejected.length ? "\n" : ""));
 const multi = [...lex.values()].filter(v => v.includes(" ; ")).length;
-console.log(`${lines} lines, ${lex.size} accepted (${multi} cut into 2+ morphemes), ${rejected.length} rejected, ${dup} duplicates, ${pruned.length} weak advanced cuts dropped, ${advExpanded} derived words expanded with advanced cuts, ${reconciled.length} whole words re-cut like their family, ${expanded} roots expanded to their own root, ${Object.keys(shards).length} shards`);
+console.log(`${lines} lines, ${lex.size} accepted (${multi} cut into 2+ morphemes), ${rejected.length} rejected, ${dup} duplicates, ${pruned.length} weak advanced cuts dropped, ${advExpanded} derived words expanded with advanced cuts, ${reconciled.length} whole words re-cut like their family, ${expanded} roots expanded to their own root, ${collapsed} Latinate bound-root cuts collapsed for the synchronic level, ${Object.keys(shards).length} shards`);

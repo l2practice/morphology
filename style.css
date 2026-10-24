@@ -828,3 +828,7 @@ h3 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -.01em; }
 .wt-badge.process { background: var(--orange-t); color: var(--orange-d); }
 .wt-proc { grid-template-columns: minmax(150px, 1.1fr) 2fr 2fr; }
 @media (max-width: 640px) { .wt-proc { grid-template-columns: 1fr; } }
+
+.approach-chip { font: 800 10.5px var(--mono, monospace); letter-spacing: .05em; text-transform: uppercase; background: var(--blue-t); color: var(--blue-d); border-radius: 999px; padding: 3px 10px; vertical-align: middle; margin-left: 8px; }
+.wt-approach { margin: 0 0 10px; font-size: 13.5px; color: var(--muted); }
+.wt-compare { margin: 10px 0 0; padding: 8px 12px; border-radius: 12px; background: var(--orange-t); color: #5b3a0c; font-size: 14px; }

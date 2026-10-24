@@ -64,7 +64,7 @@
 
   // Two small requests instead of one long one: the cut first (seconds), the writing afterwards.
   // The worked examples deliberately avoid common test words, so the rules decide the analysis.
-  const CUT_PROMPT = [
+  const CUT_LINES = [
     "You are an expert English morphologist helping English-major students practise Immediate Constituent (IC) analysis.",
     "Segment the word you are given into morphemes and answer with a SHORT JSON that follows the schema: no meanings, no etymology. Work through the rules below.",
     "",
@@ -103,7 +103,8 @@
     "## 4. The tree",
     "- tree is a bracket string that only gives your best reading; the program checks it and may rebuild it. Notation: [Cat|label left right] with exactly two parts per bracket; the parts are other brackets or morpheme NUMBERS (0-based, in the order of the morphemes list); a single morpheme is just 0. Example: unkindness (un-, kind, -ness) → [N|unkindness [Adj|unkind 0 1] 2]. Inflection is outermost; un-/in- attach to adjectives; a suffix that makes the adjective (-able, -ible) attaches before un-/in-.",
     "- pos is the part of speech of the whole word: noun, verb, adjective, adverb."
-  ].join("\n");
+  ];
+  const CUT_PROMPT = CUT_LINES.join("\n");
 
   const SENSE_LABELS = "re- (again) [verb], re- (against) [noun: re-action], in-/im-/il-/ir- (not) [adjective or noun], in-/im- (into) [verb or noun], un- (not) [adjective], un- (reverse) [verb], de- (reverse) [verb or noun], de- (down) [verb or noun], dis- (not) [verb, adjective, noun], dis- (apart) [verb or noun], en-/em- (make) [noun or adjective], en-/em- (into) [noun or verb]";
   const courseList = kind => Object.keys((window.COURSE_AFFIXES || {})[kind] || {}).join(" ");
@@ -111,26 +112,34 @@
 
   const BASIC_RULES = () => [
     "",
-    "## LEVEL: BASIC (the course convention; follow it strictly)",
-    "Cut only what a student can SEE and DEFEND in present-day English. Never cut because of etymology. Fossilised derivations are ONE morpheme: health, wealth, truth, length, strength, youth, flight, height, weight, depth, width, gift, lawyer; science and scientist are one morpheme at this level.",
+    "## APPROACH: SYNCHRONIC (what a speaker of English today recognises and can use)",
+    "A piece is a morpheme only if a modern speaker still senses its meaning and the process is productive. Words with a Latinate or Greek BOUND root are ONE morpheme at this level: select, reduce, receive, reception, prefer, refer, employ, enjoy, inspect, visible, vision, television is tele- + vision. Only the productive suffix after such a word is cut: reduce + -tion, conclude + -ion, construct + -ion, visible + -ity, visibly = visible + -ly (surfaces visib | ly). Ignore every instruction above that cuts a bound root (re-ceive, vis- + -ible, cred- + -ible): at this level those words are ONE morpheme.",
+    "Dead (fossilised) affixes are not cut: health, wealth, truth, length, strength, youth, flight, height, weight, depth, width, gift, lawyer are ONE morpheme; science and scientist are one morpheme.",
     "Allowed prefixes: " + (courseList("prefix") || "un re in im il ir dis mis non de pre post over under out sub super inter trans") + ".",
     "Allowed suffixes: " + (courseList("suffix") || "ness ment tion ity ive ous al ful less able ible ist ism ize ify ish y hood ship dom") + ". A piece that is not on these lists is not a morpheme here.",
-    "Neo-classical combining forms are bound morphemes in this course: suicide = sui- + -cide, omnivore = omni- + -vore, biology = bio- + -logy, democracy = demo- + -cracy, telescope = tele- + -scope, microphone = micro- + -phone (-cide kill, -vore eat, -logy study, -graph write, -phone sound, -scope look, -meter measure, -phobia fear, -phile love, -cracy rule).",
-    "Cut ALL THE WAY to the root: unemployment = un- + employ + -ment; reactive = re- + act + -ive; active = act + -ive; omnipresence = omni- + present + -ence (surface \"pres\" + \"ence\": -ent/-ant words take -ence/-ance: presence, absence, silence, distance).",
-    "Bound roots only when they recur in a family and the prefix is living: re-ceive, con-struct, per-ceive, de-scribe. Single-morpheme: employ, enjoy, deploy, refer, prefer.",
+    "Neo-classical combining forms that speakers recognise ARE bound morphemes in this course: suicide = sui- + -cide, omnivore = omni- + -vore, biology = bio- + -logy, democracy = demo- + -cracy, telescope = tele- + -scope, microphone = micro- + -phone (-cide kill, -vore eat, -logy study, -graph write, -phone sound, -scope look, -meter measure, -phobia fear, -phile love, -cracy rule).",
+    "Cut ALL THE WAY to the free root or to the dictionary word that holds the bound root: unemployment = un- + employ + -ment; reactive = re- + act + -ive; active = act + -ive; omnipresence = omni- + present + -ence (surface \"pres\" + \"ence\": -ent/-ant words take -ence/-ance: presence, absence, silence, distance).",
     "Prefix senses (set variant to EXACTLY one of these when the cut has that prefix): " + SENSE_LABELS + ". The sense decides the order of the tree: ir-(refute-able), (re-act)-ive-ate, re-(action)-ary."
   ].join("\n");
 
   const ADV_RULES = () => [
     "",
-    "## LEVEL: ADVANCED (bound-root analysis, Nida's recurrence test)",
-    "Everything in the BASIC rules applies, and you ALSO cut recognised Latin, Greek and Old English bound roots when the root comes back in at least THREE English words of a family (science = sci- + -ence; scientist = sci- + -ent + -ist; conceive = con- + -ceive; vulnerable = -vulner- + -able; omnipresence = omni- + -pres- + -ence; refer = re- + -fer; employ = em- + -ploy; health = heal + -th; truth = true + -th; flight = fly + -t).",
+    "## APPROACH: STRUCTURAL (Bloomfield, Nida: systematic distribution and the word matrix; supported by etymology)",
+    "A bound root IS a morpheme when it recurs in a word matrix, whether or not a modern speaker senses its meaning: re-duce, pro-duce, in-duce, de-duce; re-fer, pre-fer, con-fer, trans-fer; se-lect, col-lect, e-lect, neg-lect. So cut these Latinate words into prefix + bound root. Everything in the section above about bound roots applies, and loanword prefixes are cut too (employ = em- + -ploy, deploy = de- + -ploy, enjoy = en- + joy).",
+    "You also cut Latin, Greek and Old English bound roots when the root comes back in at least THREE English words of a family (science = sci- + -ence; scientist = sci- + -ent + -ist; conceive = con- + -ceive; vulnerable = -vulner- + -able; omnipresence = omni- + -pres- + -ence; health = heal + -th; long + -th = length; true + -th = truth; flight = fly + -t).",
     "Write a bound root with hyphens on the sides where it attaches (-vulner-, -pres-, sci-), type root, cls root-bound, cat V, N or Adj. Cut a derived base all the way down and cut the same root the same way in every word.",
     "A piece that occurs in only one or two words is NOT a morpheme (no cranberry residues); a piece that is only an accident of spelling (liqu- in liquid and liqueur, magn- in magnet and magnify) is NOT shared; names and whole borrowings (clarence, sultan, candle) stay one morpheme.",
-    "The course's list of bound bases (use these forms): " + courseBases() + "."
+    "The course's list of bound bases (use these forms): " + courseBases() + ".",
+    "Prefix senses (variant labels): " + SENSE_LABELS + "."
   ].join("\n");
 
-  const cutPrompt = level => CUT_PROMPT + (level === "adv" ? ADV_RULES() : BASIC_RULES());
+  const cutPrompt = level => {
+    if (level === "adv") return CUT_PROMPT + ADV_RULES();
+    // The synchronic level does not cut bound roots: drop the sentences that ask for it.
+    const lines = CUT_LINES.filter(l => !/^(Bound roots are real morphemes|Latinate PREFIX \+ BOUND ROOT)/.test(l))
+      .map(l => l.replace(/^  \(a\) the remaining base exists as a word, or as a recognisable BOUND root shared by a word family \(vis- in vision, visual, visible\);/, "  (a) the remaining base exists as a FREE word;"));
+    return lines.join("\n") + BASIC_RULES();
+  };
 
   const DETAIL_PROMPT = [
     "You write short, student-friendly details about an English word that has ALREADY been cut into the morphemes listed in the user message. Answer with JSON that follows the schema. Never change the segmentation.",
@@ -601,9 +610,9 @@
     return out;
   }
 
-  const ADV_LINE = "LEVEL: ADVANCED. Also cut recognised Latin/Greek bound roots and affixes that recur in a family of words (science = sci- + -ence; conceive = con- + -ceive; biology = bio- + -logy), and keep the same piece cut the same way. Put the source meaning of a bound root in its meaning.";
+  const ADV_LINE = "APPROACH: STRUCTURAL. Cut bound roots and affixes that recur in a family of words (science = sci- + -ence; conceive = con- + -ceive; reduce = re- + -duce), and cut the same piece the same way. Put the source meaning of a bound root in its meaning.";
   function contextText(word, ctx, nb, level, first) {
-    const lv = (level === "adv" ? [ADV_LINE] : []).concat(first ? [`FIRST ANSWER TO CHECK (from the course's reference key): ${first}. Decide for yourself with the rules of this level. If that cut is right, return exactly that cut; if it is wrong, return the corrected cut.`] : []);
+    const lv = (level === "adv" ? [ADV_LINE] : ["APPROACH: SYNCHRONIC. A bound root is not cut: select, reduce, receive, employ are ONE morpheme."]).concat(first ? [`FIRST ANSWER TO CHECK (from the course's reference key): ${first}. Decide for yourself with the rules of this level. If that cut is right, return exactly that cut; if it is wrong, return the corrected cut.`] : []);
     if (!ctx) return [`Word to analyse: "${word}"`, ...lv, "DICTIONARY CONTEXT: this word is NOT in the dictionary.", ...neighbourLines(nb, word)].join("\n");
     const lines = [`Word to analyse: "${word}"`, ...lv, "DICTIONARY CONTEXT:"];
     if (ctx.lemma && ctx.lemma !== word) lines.push(`- "${word}" is an inflected form of "${ctx.lemma}"${ctx.tags ? ` (${ctx.tags})` : ""}: analyse it as the root of "${ctx.lemma}" plus its inflection.`);

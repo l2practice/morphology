@@ -33,6 +33,7 @@ archdiocese: arch- + diocese
 argentine: argent + -ine
 arise: a- + rise
 around: a- + round
+ascribe: a- + scribe
 aside: a- + side
 asphyxiate: asphyxia + -ate
 atopic: atopy + -ic
@@ -307,6 +308,7 @@ quadruplet: quadruple + -et
 quintuplet: quintuple + -et
 radionuclide: radio- + nuclide
 recall: re- + call
+reduction: reduce + -tion
 reflation: reflate + -ion
 reflex: re- + flex
 reluctance: reluct + -ance
@@ -459,6 +461,7 @@ resilience: resilient + -ence
 reticence: reticent + -ence
 salience: salient + -ence
 saliency: salient + -ency
+science: scient + -ence
 senescence: senescent + -ence
 sentience: sentient + -ence
 sequence: sequent + -ence

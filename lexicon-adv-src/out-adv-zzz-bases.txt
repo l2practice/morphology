@@ -17,7 +17,10 @@ complacency	noun	com-|com|P ; -plac-|plac|B|V|||Latin: please ; -ency|ency|S
 compulsory	adj	com-|com|P ; -pel-|puls|B|V|||Latin: drive, push ; -ory|ory|S
 conspiracy	noun	con-|con|P ; -spir-|spir|B|V|||Latin: breathe ; -acy|acy|S
 contention	noun	con-|con|P ; -ten-|tent|B|V|||Latin: hold ; -ion|ion|S
+contraception	noun	contra-|contra|P ; -cap-|cept|B|V|||Latin: take, hold ; -ion|ion|S
+contraceptive	noun	contra-|contra|P ; -cap-|cept|B|V|||Latin: take, hold ; -ive|ive|S
 cursory	adj	-cur-|curs|B|V|||Latin: run ; -ory|ory|S
+deception	noun	de-|de|P ; -cap-|cept|B|V|||Latin: take, hold ; -ion|ion|S
 dedicate	verb	de-|de|P ; -dic-|dic|B|V|||Latin: say, speak ; -ate|ate|S
 delectable	adj	de-|de|P ; -lect-|lect|B|V|||Latin: gather, choose ; -able|able|S
 denture	noun	-dent-|dent|B|V|||Latin: tooth ; -ure|ure|S
@@ -83,6 +86,7 @@ promissory	adj	pro-|pro|P ; -mit-|miss|B|V|||Latin: send ; -ory|ory|S
 propensity	noun	pro-|pro|P ; -pend-|pens|B|V|||Latin: hang, weigh ; -ity|ity|S
 pulsar	noun	-pel-|puls|B|V|||Latin: drive, push ; -ar|ar|S
 radiologist	noun	radio-|radio|P ; -log-|log|B|N|||Greek: word, speech ; -ist|ist|S
+receptor	noun	re-|re|P ; -cap-|cept|B|V|||Latin: take, hold ; -or|or|S
 recognize	verb	re-|re|P ; -cogn-|cogn|B|V|||Latin: know ; -ize|ize|S
 reluctance	noun	re-|re|P ; -luc-|luct|B|V|||Latin: light ; -ance|ance|S
 remit	verb	re-|re|P ; -mit-|mit|B|V|||Latin: send

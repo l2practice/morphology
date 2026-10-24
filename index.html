@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=20261025f">
+  <link rel="stylesheet" href="style.css?v=20261025g">
 </head>
 <body>
   <div id="busybar" class="busybar" hidden role="progressbar" aria-label="Looking up"></div>
@@ -64,28 +64,28 @@
 
       <!-- ---------- Analyze view ---------- -->
       <section id="view-analyze" class="view">
-        <section class="levelbar" id="levelbar" aria-label="Cut level">
+        <section class="levelbar" id="levelbar" aria-label="Approach">
           <div class="lb-main">
-            <span class="lb-label">Cut level</span>
-            <div class="lv-switch" id="level" role="group" aria-label="Basic or Advanced cut">
-              <button type="button" data-level="basic" class="active" aria-pressed="true"><b>Basic</b><small>modern English</small></button>
-              <button type="button" data-level="adv" aria-pressed="false"><b>Advanced</b><small>+ Latin &amp; Greek roots</small></button>
+            <span class="lb-label">Approach</span>
+            <div class="lv-switch" id="level" role="group" aria-label="Synchronic or Structural approach">
+              <button type="button" data-level="basic" class="active" aria-pressed="true"><b>Synchronic</b><small>what speakers sense today</small></button>
+              <button type="button" data-level="adv" aria-pressed="false"><b>Structural</b><small>bound roots &amp; word matrix</small></button>
             </div>
             <label class="lv-check" title="After a word is cut, the AI re-checks the cut. When it disagrees, its answer is shown (you can switch back)."><input type="checkbox" id="ai-check-on" checked> <span>AI double-check</span></label>
             <button type="button" id="lv-info" class="lv-info" aria-expanded="false" aria-controls="lv-help"><i aria-hidden="true">i</i> What is the difference? <span class="lv-caret" aria-hidden="true">▾</span></button>
           </div>
           <div id="lv-help" class="lv-help" hidden>
             <div class="lv-col basic">
-              <h4>Basic</h4>
-              <p>Cut only what you can <b>see and use in English today</b>: living prefixes, suffixes and whole words.</p>
-              <p class="lv-ex">science = <b>1</b> morpheme<br>employ = <b>1</b> · health = <b>1</b><br>receive = re- + -ceive</p>
+              <h4>Synchronic approach</h4>
+              <p>Looks at English <b>as it is now</b>. A part is a morpheme only if a modern speaker still <b>senses its meaning</b> and can <b>use it to make new words</b> (productivity).</p>
+              <p class="lv-ex">reduce, select, prefer, receive, employ = <b>1</b> morpheme<br>health, truth, length = <b>1</b><br>reduce + -tion · visible + -ity</p>
             </div>
             <div class="lv-col adv">
-              <h4>Advanced</h4>
-              <p>Also cut <b>Latin, Greek and Old English roots</b> that come back in a whole family of words (Nida's recurrence test).</p>
-              <p class="lv-ex">science = sci- + -ence<br>employ = em- + -ploy<br>health = heal + -th</p>
+              <h4>Structural approach</h4>
+              <p>Follows Bloomfield and Nida: a part is a morpheme if it comes back in a <b>word matrix</b> (systematic distribution), even if speakers no longer sense its meaning. Etymology supports the cut.</p>
+              <p class="lv-ex">re-duce · pro-duce · de-duce<br>re-fer · pre-fer · con-fer<br>se-lect · col-lect · heal + -th</p>
             </div>
-            <p class="lv-why">Why two answers? They come from two schools. The <b>synchronic</b> view (speaker intuition, productivity; Yule, Fromkin) counts only what a modern speaker still senses. The <b>structural</b> view (Bloomfield, Nida) and the <b>diachronic</b> view (etymology) also count bound roots that recur in a word matrix: re-<b>duce</b>, pro-<b>duce</b>; re-<b>fer</b>, pre-<b>fer</b>; se-<b>lect</b>, col-<b>lect</b>; heal + -<b>th</b>, long + -<b>th</b>. Both are correct: they answer different questions. Basic follows the course (with the bound roots taught in class); Advanced goes the whole way. Words with no deeper structure look the same in both.</p>
+            <p class="lv-why">Why two answers? They are two schools, and both are right: the synchronic school describes what the speaker's mental lexicon stores (reduce is one chunk), the structural school describes the pattern of the lexicon (re- + -duce is a recurring pair). The <b>IC tree</b>, the <b>morpheme count</b> and the <b>word type</b> (simple, complex, compound) all follow the approach you choose. Neo-classical combining forms (bio- + -logy, sui- + -cide) are analysed in both.</p>
             <button type="button" id="lv-hide" class="lv-hide">Hide this explanation <span aria-hidden="true">▴</span></button>
           </div>
           <p id="lv-note" class="lv-note" hidden></p>
@@ -145,7 +145,7 @@
 
           <div class="grid-mid">
             <section class="card c-tree">
-              <div class="sec-head"><h3>IC tree</h3><div class="seg" id="tree-style" role="group" aria-label="Tree style"><button type="button" data-style="classic" class="active">Textbook</button><button type="button" data-style="boxes">Boxes</button></div></div>
+              <div class="sec-head"><h3>IC tree <span class="approach-chip" id="tree-approach"></span></h3><div class="seg" id="tree-style" role="group" aria-label="Tree style"><button type="button" data-style="classic" class="active">Textbook</button><button type="button" data-style="boxes">Boxes</button></div></div>
               <div id="tree" class="tree"></div>
             </section>
 
@@ -235,7 +235,7 @@
         </div>
       </section>
 
-      <footer class="footer">Morphology · Immediate Constituent analysis practice for English majors · build 20261025f</footer>
+      <footer class="footer">Morphology · Immediate Constituent analysis practice for English majors · build 20261025g</footer>
     </main>
   </div>
 
@@ -252,16 +252,16 @@
 
   <div id="popups" class="popups" aria-live="polite"></div>
 
-  <script src="data.js?v=20261025f"></script>
-  <script src="dict.js?v=20261025f"></script>
-  <script src="morphotactics.js?v=20261025f"></script>
-  <script src="lexicon.js?v=20261025f"></script>
-  <script src="course-affixes.js?v=20261025f"></script>
-  <script src="gloss.js?v=20261025f"></script>
-  <script src="etymology.js?v=20261025f"></script>
-  <script src="ai.js?v=20261025f"></script>
-  <script src="tree.js?v=20261025f"></script>
-  <script src="bricks.js?v=20261025f"></script>
-  <script src="app.js?v=20261025f"></script>
+  <script src="data.js?v=20261025g"></script>
+  <script src="dict.js?v=20261025g"></script>
+  <script src="morphotactics.js?v=20261025g"></script>
+  <script src="lexicon.js?v=20261025g"></script>
+  <script src="course-affixes.js?v=20261025g"></script>
+  <script src="gloss.js?v=20261025g"></script>
+  <script src="etymology.js?v=20261025g"></script>
+  <script src="ai.js?v=20261025g"></script>
+  <script src="tree.js?v=20261025g"></script>
+  <script src="bricks.js?v=20261025g"></script>
+  <script src="app.js?v=20261025g"></script>
 </body>
 </html>
