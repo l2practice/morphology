@@ -46,6 +46,32 @@ a family such as fortune → fortunate. A bound root such as -struct, -ceive, -d
 is allowed only with an allowed prefix and/or suffix, in a family of at least three words.)
 If a piece you want to cut is not on these lists, you are inventing: do not cut.
 
+## Theory to apply (descriptive morphology: Bloomfield, Nida, Bauer, Katamba)
+
+Decide every cut with these tests, in this order. A cut needs to pass them all.
+1. Recurrence (Nida's principle): the same form must occur in other words with the same meaning or function.
+   un- in unhappy, unlock, unfair passes. The `-t` of weight, flight, height does not: no recurring meaning.
+2. Commutation / substitution: replacing the piece must give another real word or a regular pattern.
+   happy → un-happy, happi-ness; teach → teach-er, teach-ing. If swapping yields nothing, do not cut.
+3. Residue test: after removing the affix, what is left must be a morpheme too (a free root, or a bound root
+   that recurs). No leftover "cranberry-like" scraps: -ceive, -struct are accepted because they recur in families.
+4. Free vs bound: a free morpheme can stand alone (cover); a bound morpheme cannot (-ceive, un-, -ness).
+   Roots are free (code R) or bound (code B). Affixes are always bound.
+5. Derivation vs inflection: derivation forms new lexemes and can change word class (teach → teacher, happy →
+   happiness); inflection only gives grammatical forms of one lexeme (cat → cats). Inflection is closed,
+   outermost and last. Do not call a derivational ending inflectional, and the reverse.
+6. Allomorphy: one morpheme, several shapes by position or neighbour sound (in- → im-/il-/ir-; -ion → -tion,
+   -sion, -ation). Record the shape actually spelled and the basic form in `allo`.
+7. Zero and suppletive forms: a plural or past that is formed without an overt affix gets a zero morpheme
+   (mice = mouse + -s with empty surface); a suppletive form (went, better, best) is the root with a changed
+   surface plus the zero inflection, not a new root.
+8. Word-formation order (immediate constituents): the cut order follows how the word was built, from the root
+   outward: unhappiness = ((un- happy) -ness); the morpheme list is written left to right, and the order must
+   agree with the affixes' selection: a suffix attaches to the word class it selects (-ness → Adj, -ment → V).
+9. Productivity: prefer cuts built on productive, transparent patterns. Unproductive, opaque, fossilised
+   combinations are single morphemes (see Core principle).
+10. Compounds: two or more free roots are cut as roots (sun + flower); the head is on the right.
+
 ## Output format
 
     word<TAB>pos<TAB>morpheme ; morpheme ; morpheme
@@ -147,3 +173,13 @@ Begin when I send the first batch.
   to `rejected.txt` and can be sent back to Muse as a smaller batch.
 - Irregular headwords (mice, went, better) should be in the batches too, because their forms are listed in the
   dictionary as separate entries or variants.
+
+## When all batches are finished (or when I say "pack it")
+
+1. Check that every input word has exactly one output line in the `out-*.txt` files and nothing is missing.
+2. Put these into ONE zip file named `morpheme-results.zip` and tell me its full path:
+   - all `out-*.txt` files (including `out-pilot.txt` and `out-redo-*.txt`),
+   - a `rejected.txt` listing any word you refused or could not cut (with the reason),
+   - a `summary.txt` with: number of words, number cut into 2+ morphemes, number kept as one morpheme.
+3. Do not change the text format. Do not add folders other than the files above.
+4. Reply with only: the zip path, its size, and the three numbers from summary.txt.
