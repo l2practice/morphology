@@ -36,7 +36,7 @@
   ];
 
   let settingsForm = null, bannerForm = null;
-  const state = { level: "basic", clsMode: "freebound", treeStyle: "classic", word: null, source: "verified", dict: null, view: "analyze", token: 0, abort: null };
+  const state = { deadModels: new Set(), cool: {}, level: "basic", clsMode: "freebound", treeStyle: "classic", word: null, source: "verified", dict: null, view: "analyze", token: 0, abort: null };
 
   const $ = sel => document.querySelector(sel);
   const $$ = sel => Array.from(document.querySelectorAll(sel));
@@ -935,7 +935,7 @@
     renderDetailStatus(w);
     // Same recovery as the cut: retry a busy model once, then another model of the key, then another provider.
     const plan = await buildPlan(provider).catch(() => [{ provider, model, retry: true }]);
-    const deadline = Date.now() + 70000;
+    const deadline = Date.now() + 45000;
     let lastErr, firstErr;
     for (const step of plan) {
       if (token !== state.token || state.word !== w) return;
@@ -946,7 +946,7 @@
           const d = await window.MorphAI.enrich({
             word: key, provider: step.provider, apiKey: getKey(step.provider), model: step.model, morphemes: w.morphemes,
             context: state.dict, neighbours: state.neighbours, level: w.level || state.level,
-            signal: state.abort && state.abort.signal, timeoutMs: Math.max(8000, Math.min(40000, deadline - Date.now()))
+            signal: state.abort && state.abort.signal, timeoutMs: Math.max(6000, Math.min(25000, deadline - Date.now()))
           });
           if (token !== state.token || state.word !== w) return;
           w.morphemes.forEach((m, i) => { if (!m.fixedMeaning && d.morphemes[i].meaning) m.meaning = d.morphemes[i].meaning; if (d.morphemes[i].etym) m.etym = d.morphemes[i].etym; });
@@ -961,6 +961,7 @@
         } catch (err) {
           if (err.name === "AbortError" || token !== state.token || state.word !== w) return;
           lastErr = err; firstErr = firstErr || err;
+          noteFailure(step, err);
           if (err.status >= 500 && err.status !== 408 && n < tries) { await new Promise(r => setTimeout(r, 900)); continue; }
           break;
         }
@@ -1028,19 +1029,29 @@
     }
   }
 
+  /** Remember what failed so the next look-up does not wait for it again: 404 = model not available for this key; 429 = cool down. */
+  function noteFailure(step, err) {
+    const id = step.provider + ":" + step.model;
+    if (err && err.status === 404) state.deadModels.add(id);
+    if (err && err.status === 429) state.cool[id] = Date.now() + 45000;
+  }
+  const usable = step => { const id = step.provider + ":" + step.model; return !state.deadModels.has(id) && !(state.cool[id] > Date.now()); };
+  const allCooling = provider => { const id = provider + ":" + getModel(provider); return state.cool[id] > Date.now(); };
   async function buildPlan(provider) {
     const model = getModel(provider);
     const plan = [{ provider, model, retry: true }];
     const same = provider === "gemini" ? await geminiAlternatives(model) : PROV[provider].models.map(m => m.id).filter(id => id !== model).slice(0, 1);
     same.forEach(id => plan.push({ provider, model: id }));
-    keyedProviders().filter(p => p !== provider).forEach(p => plan.push({ provider: p, model: getModel(p) }));
-    return plan;
+    keyedProviders().filter(pr => pr !== provider).forEach(pr => plan.push({ provider: pr, model: getModel(pr) }));
+    const ok = plan.filter(usable);
+    return ok.length ? ok : plan.slice(0, 1);
   }
 
-  async function analyzeWithFallback(key, provider, token, attempts) {
+  async function analyzeWithFallback(key, provider, token, attempts, extra) {
+    extra = extra || {};
     const plan = await buildPlan(provider);
     const say = msg => { const m = $("#wait-msg"); if (m && token === state.token) m.textContent = msg; setOverlay(msg); };
-    const deadline = Date.now() + 75000;      // never keep the student waiting longer than this in total
+    const deadline = Date.now() + (extra.totalMs || 75000);      // never keep the student waiting longer than this in total
     let lastErr;
     for (const step of plan) {
       if (token !== state.token) throw Object.assign(new Error("superseded"), { name: "AbortError" });
@@ -1051,14 +1062,15 @@
           setOverlay(attempts.length ? `Trying ${PROV[step.provider].name} · ${step.model} …` : `Asking ${PROV[step.provider].name} to cut the word into morphemes …`, `${PROV[step.provider].name} · ${step.model}`);
           const data = await window.MorphAI.analyze({
             word: key, provider: step.provider, apiKey: getKey(step.provider), model: step.model,
-            context: state.dict, neighbours: state.neighbours, level: state.level, signal: state.abort.signal, timeoutMs: Math.max(8000, Math.min(30000, deadline - Date.now())),
-            onMorphemes: ms => { if (token === state.token) { renderBricks(ms); setOverlay(`Receiving the answer … ${ms.length} morpheme${ms.length === 1 ? "" : "s"} so far`); } },
-            onAttempt: () => say("Double-checking the cuts…")
+            context: state.dict, neighbours: state.neighbours, level: extra.level || state.level, firstAnswer: extra.firstAnswer, signal: extra.signal || state.abort.signal, timeoutMs: Math.max(6000, Math.min(extra.stepMs || 30000, deadline - Date.now())),
+            onMorphemes: ms => { if (!extra.quiet && token === state.token) { renderBricks(ms); setOverlay(`Receiving the answer … ${ms.length} morpheme${ms.length === 1 ? "" : "s"} so far`); } },
+            onAttempt: () => { if (!extra.quiet) say("Double-checking the cuts…"); }
           });
           return { data, provider: step.provider, model: step.model };
         } catch (err) {
           if (err.name === "AbortError") throw err;
           lastErr = err;
+          noteFailure(step, err);
           attempts.push({
             provider: step.provider, model: step.model, status: err.status, message: err.message, raw: err.raw || "",
             short: shortReason(err)
@@ -1086,14 +1098,20 @@
   async function runAiCheck(key, token, level, keyData) {
     const provider = getProvider();
     if (!state.aiCheck || !getKey(provider)) { setCheckStatus(""); return false; }
-    setCheckStatus(`<span class="ds-spin"></span>The AI is double-checking this cut…`, "run");
+    if (allCooling(provider) && keyedProviders().length < 2) {
+      setCheckStatus(`The AI is resting (rate limit reached a moment ago), so the double-check was skipped. <button type="button" data-ai-again>Check now</button>`, "warn");
+      return false;
+    }
+    setCheckStatus(`<span class="ds-spin"></span>The AI is double-checking this cut… <button type="button" data-ai-skip>Skip</button>`, "run");
     const first = keyData.morphemes.map(m => m.form).join(" + ");
+    const ctl = new AbortController();
+    state.checkAbort = ctl;
+    const attempts = [];
     try {
-      const data = await window.MorphAI.analyze({
-        word: key, provider, apiKey: getKey(provider), model: getModel(provider), context: state.dict, neighbours: state.neighbours,
-        level, firstAnswer: first, signal: state.abort && state.abort.signal, timeoutMs: 30000
-      });
+      const run = await analyzeWithFallback(key, provider, token, attempts, { firstAnswer: first, level, quiet: true, signal: ctl.signal, totalMs: 22000, stepMs: 14000 });
       if (token !== state.token || state.word !== keyData) return false;
+      const data = run.data;
+      if (attempts.length && run.provider === provider && run.model !== getModel(provider) && (attempts[0].status === 404 || attempts[0].status === 400)) store.set(modelName(provider), run.model);
       if (formsSig(data.morphemes) === formsSig(keyData.morphemes)) {
         keyData.checked = true;
         setCheckStatus(`✓ Double-checked by the AI: it agrees with this cut.`, "ok");
@@ -1106,8 +1124,9 @@
       setCheckStatus(`The AI double-check changed the cut: <b>${esc(first)}</b> → <b>${esc(data.morphemes.map(m => m.form).join(" + "))}</b>. <button type="button" data-ai-revert>Use the course key instead</button>`, "changed");
       return true;
     } catch (err) {
-      if (err.name === "AbortError" || token !== state.token) return false;
-      setCheckStatus(`AI double-check unavailable (${esc(shortReason(err))}). The course key is shown.`, "warn");
+      if (token !== state.token) return false;
+      if (err.name === "AbortError") { setCheckStatus(`Double-check skipped. The course key is shown. <button type="button" data-ai-again>Check now</button>`, ""); return false; }
+      setCheckStatus(`AI double-check unavailable (${esc(shortReason(err))}). The course key is shown. <button type="button" data-ai-again>Try again</button>`, "warn");
       return false;
     }
   }
@@ -1231,15 +1250,28 @@
       if (!key) { say("Paste your API key first.", "err"); return; }
       if (/\s/.test(key) || key.length < 20) { say("That does not look like a complete API key. Copy the whole key from the provider's page.", "err"); return; }
       say("Testing the key…");
+      let useModel = model, note = "";
       try {
-        await window.MorphAI.testKey(p, key, model);
-        store.set(modelName(p), model);
+        try { await window.MorphAI.testKey(p, key, useModel); }
+        catch (err) {
+          if (err.status === 429) note = " (it is rate-limited right now, but the key is accepted)";          // a limit means the key is valid
+          else if (err.status === 404 || err.status === 403 || err.status === 400) {
+            // The key may be fine and only this model is not open to it: find one that is.
+            say("That model is not open to this key. Looking for one that is…");
+            const list = await window.MorphAI.listModels(p, key);          // a rejected key fails here with 401
+            const pick = p === "gemini" ? window.MorphAI.pickGeminiModel(list) : (list.find(m => !/whisper|tts|guard|embed|moderation|image|audio/i.test(m.id)) || {}).id;
+            if (!pick) throw err;
+            await window.MorphAI.testKey(p, key, pick);
+            useModel = pick; note = ` (using ${pick}, the model your key can use)`;
+          } else throw err;
+        }
+        store.set(modelName(p), useModel);
         const saved = store.set(keyName(p), key);
         setProvider(p);
         refreshKeyUi();
         if (opts.onSaved) { opts.onSaved(p); }
         render(p);
-        say(saved ? `Key saved on this device and working. ${PROV[p].name} is now active.` : "The key works, but this browser blocks saving it. It will be forgotten when you close the tab.", saved ? "ok" : "err");
+        say(saved ? `Key saved on this device and working${note}. ${PROV[p].name} is now active.` : "The key works, but this browser blocks saving it. It will be forgotten when you close the tab.", saved ? "ok" : "err");
       } catch (err) {
         say(err.message + (err.status === 404 ? " Press “Load my models” to see which ones your key can use." : ""), "err");
       }
@@ -1390,6 +1422,10 @@
       renderAll();
       setCheckStatus(`Showing the course key. <button type="button" data-ai-again>Ask the AI again</button>`, "ok");
       if (back.detailState === "loading") { state.abort = new AbortController(); startDetails(w.word, getProvider(), getModel(getProvider()), state.token); }
+    });
+    $("#ai-check").addEventListener("click", e => {
+      if (!e.target.closest("[data-ai-skip]")) return;
+      if (state.checkAbort) state.checkAbort.abort();
     });
     $("#ai-check").addEventListener("click", e => {
       if (!e.target.closest("[data-ai-again]")) return;
