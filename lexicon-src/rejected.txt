@@ -1,1 +1,13 @@
+political	adj	politics|politic|R|N ; -al|al|S	# m0: stem "politics" is spelled "politic" before -al (irregular stem change: fossilised? keep the word as one morpheme)
+agency	noun	agent|agen|R|N ; -cy|cy|S	# m0: stem "agent" is spelled "agen" before -cy (irregular stem change: fossilised? keep the word as one morpheme)
+introduce	verb	intro-|intro|P ; -duce|duce|B|V	# m0: prefix intro- is not on the allowed list
+religious	adj	religion|religi|R|N ; -ous|ous|S	# m0: stem "religion" is spelled "religi" before -ous (irregular stem change: fossilised? keep the word as one morpheme)
 de	?	?	# Muse marked as non-word
+scientist	noun	science|scient|R|N ; -ist|ist|S	# m0: stem "science" is spelled "scient" before -ist (irregular stem change: fossilised? keep the word as one morpheme)
+participant	noun	participate|particip|R|V ; -ant|ant|S	# m0: stem "participate" is spelled "particip" before -ant (irregular stem change: fossilised? keep the word as one morpheme)
+entry	noun	enter|entr|R|V ; -y|y|S	# m0: stem "enter" is spelled "entr" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+scientific	adj	scientist|scientif|R|N ; -ic|ic|S	# m0: stem "scientist" is spelled "scientif" before -ic (irregular stem change: fossilised? keep the word as one morpheme)
+presidential	adj	president|presidenti|R|N ; -al|al|S	# m0: stem "president" is spelled "presidenti" before -al (irregular stem change: fossilised? keep the word as one morpheme)
+ministry	noun	minister|ministr|R|N ; -y|y|S	# m0: stem "minister" is spelled "ministr" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+ourselves	pron	our|our|R ; selves|selv|R|N ; -s|es|I||-s (plural)	# m1: stem "selves" is spelled "selv" before -s (irregular stem change: fossilised? keep the word as one morpheme)
+politician	noun	politics|politic|R|N ; -ian|ian|S	# m0: stem "politics" is spelled "politic" before -ian (irregular stem change: fossilised? keep the word as one morpheme)
