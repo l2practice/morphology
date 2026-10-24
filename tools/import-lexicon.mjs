@@ -85,6 +85,38 @@ for (const f of files) {
 // unemployment = un- + employment  →  un- + employ + -ment  (the course cuts all the way to the root).
 const parse = body => body.split(" ; ").map(t => { const [form, surface, code, cat, variant, allo, gloss] = t.split("|"); return { form, surface, code, cat: cat || "", variant: variant || "", allo: allo || "", gloss: gloss || "" }; });
 const unparse = ms => ms.map(m => [m.form, m.surface, m.code, m.cat, m.variant, m.allo, m.gloss].join("|").replace(/\|+$/, "")).join(" ; ");
+// Consistency: a word Muse kept whole (active) while at least three other words cut the same letters the
+// same way (reactive, inactive, interactive = … + act + -ive) is cut like its family: active = act + -ive.
+const PROTECT = new Set([...FOSSIL, ..."employ deploy enjoy refer prefer defer confer infer transfer mouse".split(" "),
+  ...(fs.existsSync("data.js") ? [...fs.readFileSync("data.js", "utf8").matchAll(/^ "([a-z]+)": \{/gm)].map(m => m[1]) : [])]);
+let reconciled = [];
+if (!ADV) {
+  for (let round = 0; round < 3; round++) {
+    const votes = new Map();
+    for (const [w, v] of lex) {
+      const ms = parse(v.split("\t")[1]);
+      if (ms.length < 3 && !ms.some(m => m.code === "P")) { /* two-morpheme words vote too */ }
+      for (let i = 0; i < ms.length; i++) for (let j = i + 1; j < ms.length; j++) {
+        const seq = ms.slice(i, j + 1);
+        if (seq.some(m => m.code === "I") || seq.some(m => m.code === "B") || !seq.some(m => m.code === "R") || !seq.some(m => m.code === "P" || m.code === "S")) continue;
+        const surf = seq.map(m => m.surface).join("");
+        if (surf === w) continue;
+        const base = lex.get(surf);
+        if (!base || base.split("\t")[1].includes(" ; ") || PROTECT.has(surf)) continue;
+        const key = unparse(seq.map(m => ({ ...m, gloss: "" })));
+        const e = votes.get(surf) || votes.set(surf, new Map()).get(surf);
+        (e.get(key) || e.set(key, new Set()).get(key)).add(w);
+      }
+    }
+    let n = 0;
+    for (const [surf, e] of votes) {
+      const [key, ws] = [...e.entries()].sort((a, b) => b[1].size - a[1].size)[0];
+      if (ws.size >= 4) { const pos = lex.get(surf).split("\t")[0]; lex.set(surf, pos + "\t" + key); reconciled.push(`${surf} = ${key.split(" ; ").map(x => x.split("|")[0]).join(" + ")} (${ws.size}: ${[...ws].slice(0, 3).join(", ")})`); n++; }
+    }
+    if (!n) break;
+  }
+  fs.writeFileSync(rejFile.replace(/\.txt$/, "") + "-reconciled.txt", reconciled.join("\n") + "\n");
+}
 let expanded = 0;
 for (let pass = 0; pass < (ADV ? 0 : 5); pass++) {
   let changed = false;
@@ -93,10 +125,18 @@ for (let pass = 0; pass < (ADV ? 0 : 5); pass++) {
     const ms = parse(body), out = [];
     let did = false;
     for (const m of ms) {
-      const base = m.code === "R" && m.surface === m.form && m.form !== w ? lex.get(m.form) : null;
+      const base = m.code === "R" && m.form !== w ? lex.get(m.form) : null;
       const bms = base ? parse(base.split("\t")[1]) : null;
-      if (bms && bms.length > 1 && !bms.some(b => b.code === "I") && bms.map(b => b.surface).join("") === m.surface) { out.push(...bms); did = true; }
-      else out.push(m);
+      if (bms && bms.length > 1 && !bms.some(b => b.code === "I")) {
+        const joined = bms.map(b => b.surface).join("");
+        const cut = joined.length - m.surface.length;          // root spelled with its final letter(s) cut off: active → activ + ate
+        const last = bms[bms.length - 1];
+        if (m.surface === joined) { out.push(...bms); did = true; continue; }
+        if (cut > 0 && cut <= 2 && joined.startsWith(m.surface) && last.surface.length > cut) {
+          out.push(...bms.slice(0, -1), { ...last, surface: last.surface.slice(0, last.surface.length - cut) }); did = true; continue;
+        }
+      }
+      out.push(m);
     }
     if (did) { lex.set(w, pos + "\t" + unparse(out)); changed = true; expanded++; }
   }
@@ -119,4 +159,4 @@ fs.mkdirSync(outDir, { recursive: true });
 for (const [k, o] of Object.entries(shards)) fs.writeFileSync(`${outDir}/${k}.json`, JSON.stringify(o));
 fs.writeFileSync(rejFile, rejected.join("\n") + (rejected.length ? "\n" : ""));
 const multi = [...lex.values()].filter(v => v.includes(" ; ")).length;
-console.log(`${lines} lines, ${lex.size} accepted (${multi} cut into 2+ morphemes), ${rejected.length} rejected, ${dup} duplicates, ${pruned.length} weak advanced cuts dropped, ${expanded} roots expanded to their own root, ${Object.keys(shards).length} shards`);
+console.log(`${lines} lines, ${lex.size} accepted (${multi} cut into 2+ morphemes), ${rejected.length} rejected, ${dup} duplicates, ${pruned.length} weak advanced cuts dropped, ${reconciled.length} whole words re-cut like their family, ${expanded} roots expanded to their own root, ${Object.keys(shards).length} shards`);
