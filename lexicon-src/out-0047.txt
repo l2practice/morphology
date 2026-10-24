@@ -1,0 +1,200 @@
+cartel	noun	cartel|cartel|R|N
+cuckoo	noun	cuckoo|cuckoo|R|N
+curly	adj	curl|curl|R|V ; -y|y|S
+relocation	noun	re-|re|P ; locate|locat|R|V ; -ion|ion|S
+duplicate	verb	duplicate|duplicate|R|V
+fundamentalist	noun	fundamental|fundamental|R|Adj ; -ist|ist|S
+stylistic	adj	style|styl|R|N ; -ist|ist|S ; -ic|ic|S
+nought	noun	nought|nought|R|N
+briskly	adv	brisk|brisk|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+germ	noun	germ|germ|R|N
+reprint	verb	re-|re|P ; print|print|R|V
+hysterical	adj	hysteric|hysteric|R|Adj ; -al|al|S
+drugstore	noun	drug|drug|R|N ; store|store|R|N
+nan	noun	nan|nan|R|N
+inset	noun	in-|in|P ; set|set|R|V
+fraternity	noun	fraternity|fraternity|R|N
+rouge	noun	rouge|rouge|R|N
+crypt	noun	crypt|crypt|R|N
+gaming	noun	game|gam|R|N ; -ing|ing|S||-ing (N)
+richness	noun	rich|rich|R|Adj ; -ness|ness|S
+cunningham	noun	cunningham|cunningham|R|N
+strangle	verb	strangle|strangle|R|V
+replay	verb	re-|re|P ; play|play|R|V
+pup	noun	pup|pup|R|N
+rick	noun	rick|rick|R|N
+stray	verb	stray|stray|R|V
+appetizer	noun	appetize|appetiz|R|V ; -er|er|S||-er (N)
+hunch	noun	hunch|hunch|R|N
+manslaughter	noun	man|man|R|N ; slaughter|slaughter|R|N
+digestion	noun	digest|digest|R|V ; -ion|ion|S
+chic	adj	chic|chic|R|Adj
+observed	adj	observe|observ|R|V ; -ed|ed|S||-ed (adj)
+lineman	noun	line|line|R|N ; man|man|R|N
+linguist	noun	linguist|linguist|R|N
+communicative	adj	communicate|communicat|R|V ; -ive|ive|S
+elude	verb	elude|elude|R|V
+sprawl	verb	sprawl|sprawl|R|V
+dinghy	noun	dinghy|dinghy|R|N
+watt	noun	watt|watt|R|N
+advancing	adj	advance|advanc|R|V ; -ing|ing|S||-ing (adj)
+nave	noun	nave|nave|R|N
+daring	adj	dare|dar|R|V ; -ing|ing|S||-ing (adj)
+hector	verb	hector|hector|R|V
+firsthand	adj	first|first|R|Adj ; hand|hand|R|N
+abbot	noun	abbot|abbot|R|N
+overflow	verb	over-|over|P ; flow|flow|R|V
+shoreline	noun	shore|shore|R|N ; line|line|R|N
+papa	noun	papa|papa|R|N
+aesthetics	noun	aesthetics|aesthetics|R|N
+specificity	noun	specific|specific|R|Adj ; -ity|ity|S
+scorer	noun	score|scor|R|V ; -er|er|S||-er (N)
+grunt	verb	grunt|grunt|R|V
+stiffly	adv	stiff|stiff|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bibliography	noun	bibliography|bibliography|R|N
+carton	noun	carton|carton|R|N
+engender	verb	en-|en|P ; gender|gender|R|N
+grandma	noun	grand|grand|R|Adj ; ma|ma|R|N
+artisan	noun	artisan|artisan|R|N
+fiver	noun	five|fiv|R|Adj ; -er|er|S||-er (N)
+humanities	noun	human|human|R|N ; -ity|iti|S ; -es|es|I||-s (plural)
+towering	adj	tower|tower|R|V ; -ing|ing|S||-ing (adj)
+burgeoning	adj	burgeon|burgeon|R|V ; -ing|ing|S||-ing (adj)
+dissertation	noun	dissert|dissert|R|V ; -ation|ation|S
+metabolism	noun	metabolism|metabolism|R|N
+asparagus	noun	asparagus|asparagus|R|N
+daisy	noun	daisy|daisy|R|N
+infusion	noun	infuse|infus|R|V ; -ion|ion|S
+cracked	adj	crack|crack|R|V ; -ed|ed|S||-ed (adj)
+doe	noun	doe|doe|R|N
+shriek	verb	shriek|shriek|R|V
+neural	adj	neural|neural|R|Adj
+opaque	adj	opaque|opaque|R|Adj
+wearily	adv	weary|weari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+nausea	noun	nausea|nausea|R|N
+umpire	noun	umpire|umpire|R|N
+mapping	noun	map|mapp|R|V ; -ing|ing|S||-ing (N)
+optics	noun	optic|optic|R|Adj ; -s|s|I||-s (plural)
+activation	noun	activate|activat|R|V ; -ion|ion|S
+cactus	noun	cactus|cactus|R|N
+horseback	noun	horse|horse|R|N ; back|back|R|N
+emancipation	noun	emancipate|emancipat|R|V ; -ion|ion|S
+numb	adj	numb|numb|R|Adj
+academically	adv	academic|academic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+peasantry	noun	peasant|peasant|R|N ; -ry|ry|S
+socialization	noun	socialize|socializ|R|V ; -ation|ation|S
+psychoanalysis	noun	psychoanalysis|psychoanalysis|R|N
+yen	noun	yen|yen|R|N
+abdominal	adj	abdominal|abdominal|R|Adj
+famously	adv	famous|famous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+methodological	adj	methodological|methodological|R|Adj
+gleam	verb	gleam|gleam|R|V
+orchid	noun	orchid|orchid|R|N
+insolvency	noun	insolvency|insolvency|R|N
+pluralism	noun	plural|plural|R|Adj ; -ism|ism|S
+pouch	noun	pouch|pouch|R|N
+miraculous	adj	miracle|miracul|R|N ; -ous|ous|S
+crackdown	noun	crack|crack|R|V ; down|down|R|Adv
+humiliate	verb	humiliate|humiliate|R|V
+unnoticed	adj	un-|un|P ; notice|notic|R|V ; -ed|ed|S||-ed (adj)
+remand	verb	remand|remand|R|V
+racially	adv	racial|racial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+relegation	noun	relegate|relegat|R|V ; -ion|ion|S
+pronoun	noun	pro-|pro|P ; noun|noun|R|N
+tyranny	noun	tyranny|tyranny|R|N
+reshuffle	verb	re-|re|P ; shuffle|shuffle|R|V
+heavenly	adj	heaven|heaven|R|N ; -ly|ly|S||-ly (adj)
+scurry	verb	scurry|scurry|R|V
+anal	adj	anal|anal|R|Adj
+gangster	noun	gang|gang|R|N ; -ster|ster|S
+assemblage	noun	assemble|assembl|R|V ; -age|age|S
+sterile	adj	sterile|sterile|R|Adj
+mam	noun	mam|mam|R|N
+orphanage	noun	orphan|orphan|R|N ; -age|age|S
+multilateral	adj	multi-|multi|P ; lateral|lateral|R|Adj
+compiler	noun	compile|compil|R|V ; -er|er|S||-er (N)
+extinct	adj	extinct|extinct|R|Adj
+deletion	noun	delete|delet|R|V ; -ion|ion|S
+networking	noun	network|network|R|N ; -ing|ing|S||-ing (N)
+muted	adj	mute|mut|R|V ; -ed|ed|S||-ed (adj)
+loyalist	noun	loyal|loyal|R|Adj ; -ist|ist|S
+rotor	noun	rot|rot|R|V ; -or|or|S
+unilateral	adj	uni-|uni|P ; lateral|lateral|R|Adj
+gorilla	noun	gorilla|gorilla|R|N
+benedict	noun	benedict|benedict|R|N
+assimilation	noun	assimilate|assimilat|R|V ; -ion|ion|S
+siemens	noun	siemens|siemens|R|N
+residency	noun	residency|residency|R|N
+unbeaten	adj	un-|un|P ; beat|beat|R|V ; -en|en|I||-en (participle)
+asshole	noun	ass|ass|R|N ; hole|hole|R|N
+cloning	noun	clone|clon|R|V ; -ing|ing|S||-ing (N)
+futile	adj	futile|futile|R|Adj
+ferret	noun	ferret|ferret|R|N
+hanging	noun	hang|hang|R|V ; -ing|ing|S||-ing (N)
+renal	adj	renal|renal|R|Adj
+salty	adj	salt|salt|R|N ; -y|y|S
+diabetic	adj	diabetic|diabetic|R|Adj
+posit	verb	posit|posit|R|V
+schema	noun	schema|schema|R|N
+idol	noun	idol|idol|R|N
+dolly	noun	dolly|dolly|R|N
+reshape	verb	re-|re|P ; shape|shape|R|V
+refinery	noun	refine|refin|R|V ; -ery|ery|S
+tenor	noun	tenor|tenor|R|N
+ordinarily	adv	ordinary|ordinari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+stud	noun	stud|stud|R|N
+emptiness	noun	empty|empti|R|Adj ; -ness|ness|S
+plutonium	noun	plutonium|plutonium|R|N
+neutron	noun	neutron|neutron|R|N
+basal	adj	base|bas|R|N ; -al|al|S
+platoon	noun	platoon|platoon|R|N
+gina	noun	gina|gina|R|N
+hustle	verb	hustle|hustle|R|V
+barefoot	adj	bare|bare|R|Adj ; foot|foot|R|N
+invasive	adj	invade|invas|R|V ; -ive|ive|S
+neuron	noun	neuron|neuron|R|N
+upbeat	adj	up-|up|P ; beat|beat|R|V
+doo	noun	doo|doo|R|N
+jess	noun	jess|jess|R|N
+placebo	noun	placebo|placebo|R|N
+outlaw	noun	out-|out|P ; law|law|R|N
+cripple	verb	cripple|cripple|R|V
+luce	noun	luce|luce|R|N
+ballad	noun	ballad|ballad|R|N
+braid	verb	braid|braid|R|V
+shady	adj	shade|shad|R|N ; -y|y|S
+losing	adj	lose|los|R|V ; -ing|ing|S||-ing (adj)
+footing	noun	foot|foot|R|N ; -ing|ing|S||-ing (N)
+waver	verb	waver|waver|R|V
+salient	adj	salient|salient|R|Adj
+carcass	noun	carcass|carcass|R|N
+screenplay	noun	screen|screen|R|N ; play|play|R|N
+summat	pron	summat|summat|R|N
+magician	noun	magic|magic|R|N ; -ian|ian|S
+prophecy	noun	prophecy|prophecy|R|N
+proximal	adj	proximal|proximal|R|Adj
+broom	noun	broom|broom|R|N
+topaz	noun	topaz|topaz|R|N
+candid	adj	candid|candid|R|Adj
+oesophagus	noun	oesophagus|oesophagus|R|N
+trendy	adj	trend|trend|R|N ; -y|y|S
+carcinoma	noun	carcinoma|carcinoma|R|N
+unison	noun	unison|unison|R|N
+unthinkable	adj	un-|un|P ; think|think|R|V ; -able|able|S
+bestow	verb	be-|be|P ; stow|stow|R|V
+pancreatic	adj	pancreatic|pancreatic|R|Adj
+beet	noun	beet|beet|R|N
+bandage	noun	bandage|bandage|R|N
+gastrointestinal	adj	gastrointestinal|gastrointestinal|R|Adj
+intimidating	adj	intimidate|intimidat|R|V ; -ing|ing|S||-ing (adj)
+fairway	noun	fair|fair|R|Adj ; way|way|R|N
+framed	adj	frame|fram|R|V ; -ed|ed|S||-ed (adj)
+polymerase	noun	polymerase|polymerase|R|N
+goblin	noun	goblin|goblin|R|N
+misconception	noun	mis-|mis|P ; con-|con|P ; -cept|cept|B|V ; -ion|ion|S
+hoist	verb	hoist|hoist|R|V
+plasmid	noun	plasmid|plasmid|R|N
+waiver	noun	waive|waiv|R|V ; -er|er|S||-er (N)
+reflux	noun	re-|re|P ; flux|flux|R|N
+tangle	verb	tangle|tangle|R|V
+multiparty	adj	multi-|multi|P ; party|party|R|N

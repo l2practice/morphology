@@ -1,0 +1,200 @@
+accursedly	adv	accurse|accurs|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+accursedness	noun	accurse|accurs|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+accusal	noun	accuse|accus|R|V ; -al|al|S
+accusative	adj	accuse|accus|R|V ; -ative|ative|S
+accusatively	adv	accuse|accus|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+accusatorial	adj	accusatory|accusatori|R|Adj ; -al|al|S
+accusatorially	adv	accusatory|accusatori|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+accusee	noun	accuse|accus|R|V ; -ee|ee|S
+acedia	noun	acedia|acedia|R|N
+acenaphthene	noun	acenaphthene|acenaphthene|R|N
+acentral	adj	a-|a|P ; central|central|R|Adj
+acentric	adj	a-|a|P ; centric|centric|R|Adj
+acephalous	adj	a-|a|P ; cephalous|cephalous|R|Adj
+acerate	adj	acerate|acerate|R|Adj
+acerbate	verb	acerbate|acerbate|R|V
+acerola	noun	acerola|acerola|R|N
+acerose	adj	acerose|acerose|R|Adj
+acerous	adj	acerous|acerous|R|Adj
+acervate	adj	acervate|acervate|R|Adj
+acervuline	adj	acervuline|acervuline|R|Adj
+aces	noun	ace|ace|R|N ; -s|s|I||-s (plural)
+acescent	adj	acescent|acescent|R|Adj
+acetabuliform	adj	acetabuliform|acetabuliform|R|Adj
+acetabulum	noun	acetabulum|acetabulum|R|N
+acetal	noun	acetal|acetal|R|N
+acetamide	noun	acetamide|acetamide|R|N
+acetanilide	noun	acetanilide|acetanilide|R|N
+acetification	noun	acetify|acetific|R|V ; -ation|ation|S
+acetifier	noun	acetify|acetifi|R|V ; -er|er|S||-er (N)
+acetify	verb	acetify|acetify|R|V
+acetimeter	noun	acetimeter|acetimeter|R|N
+acetonemia	noun	acetonemia|acetonemia|R|N
+acetonic	adj	acetone|aceton|R|N ; -ic|ic|S
+acetonitrile	noun	acetonitrile|acetonitrile|R|N
+acetonuria	noun	acetonuria|acetonuria|R|N
+acetophenone	noun	acetophenone|acetophenone|R|N
+acetous	adj	acetous|acetous|R|Adj
+acetylacetone	noun	acetylacetone|acetylacetone|R|N
+acetylation	noun	acetylate|acetylat|R|V ; -ion|ion|S
+acetylcholinesterase	noun	acetylcholinesterase|acetylcholinesterase|R|N
+acetylenic	adj	acetylene|acetylen|R|N ; -ic|ic|S
+acetylsalicylic	adj	acetyl|acetyl|R|N ; salicylic|salicylic|R|Adj
+achalasia	noun	achalasia|achalasia|R|N
+acharya	noun	acharya|acharya|R|N
+acheiropoieton	noun	acheiropoieton|acheiropoieton|R|N
+acheless	adj	ache|ache|R|V ; -less|less|S
+achene	noun	achene|achene|R|N
+achenial	adj	achenial|achenial|R|Adj
+achiasmatic	adj	achiasmatic|achiasmatic|R|Adj
+achieving	verb	achieve|achiev|R|V ; -ing|ing|I||-ing (v)
+achillea	noun	achillea|achillea|R|N
+achiness	noun	achy|achi|R|Adj ; -ness|ness|S
+achira	noun	achira|achira|R|N
+achlamydeous	adj	achlamydeous|achlamydeous|R|Adj
+achondrite	noun	achondrite|achondrite|R|N
+achondroplasia	noun	achondroplasia|achondroplasia|R|N
+achondroplastic	adj	achondroplastic|achondroplastic|R|Adj
+achoo	interj	achoo|achoo|R
+achromatically	adv	a-|a|P ; chromatic|chromatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+achromatism	noun	achromatism|achromatism|R|N
+achromatize	verb	achromat|achromat|R|N ; -ize|ize|S
+achromatopsia	noun	achromatopsia|achromatopsia|R|N
+achromatous	adj	achromatous|achromatous|R|Adj
+achromous	adj	a-|a|P ; chromous|chromous|R|Adj
+achylia	noun	achylia|achylia|R|N
+aciclovir	noun	aciclovir|aciclovir|R|N
+acicula	noun	acicula|acicula|R|N
+acicular	adj	acicular|acicular|R|Adj
+acidaemia	noun	acidaemia|acidaemia|R|N
+acidifiable	adj	acidify|acidifi|R|V ; -able|able|S
+acidifier	noun	acidify|acidifi|R|V ; -er|er|S||-er (N)
+acidimeter	noun	acidimeter|acidimeter|R|N
+acidimetric	adj	acidimetric|acidimetric|R|Adj
+acidimetry	noun	acidimetry|acidimetry|R|N
+acidness	noun	acid|acid|R|Adj ; -ness|ness|S
+acidophilic	adj	acidophilic|acidophilic|R|Adj
+acidophilous	adj	acidophilous|acidophilous|R|Adj
+acidophyte	noun	acidophyte|acidophyte|R|N
+acidotrophic	adj	acidotrophic|acidotrophic|R|Adj
+acidotropic	adj	acidotropic|acidotropic|R|Adj
+acidulate	verb	acidulate|acidulate|R|V
+acidulation	noun	acidulate|acidulat|R|V ; -ion|ion|S
+acidulous	adj	acidulous|acidulous|R|Adj
+acierage	noun	acierage|acierage|R|N
+aciform	adj	aciform|aciform|R|Adj
+acinaceous	adj	acinaceous|acinaceous|R|Adj
+acinose	adj	acinose|acinose|R|Adj
+acinus	noun	acinus|acinus|R|N
+acknowledgeable	adj	acknowledge|acknowledge|R|V ; -able|able|S
+acknowledging	verb	acknowledge|acknowledg|R|V ; -ing|ing|I||-ing (v)
+aclinic	adj	aclinic|aclinic|R|Adj
+acnode	noun	acnode|acnode|R|N
+acock	adj	a-|a|P ; cock|cock|R|N
+acoelomate	noun	acoelomate|acoelomate|R|N
+aconitine	noun	aconitine|aconitine|R|N
+acotyledon	noun	acotyledon|acotyledon|R|N
+acotyledonous	adj	acotyledonous|acotyledonous|R|Adj
+acoumeter	noun	acoumeter|acoumeter|R|N
+acoustics	noun	acoustic|acoustic|R|Adj ; -s|s|I||-s (plural)
+acquainted	verb	acquaint|acquaint|R|V ; -ed|ed|I||-ed (v2)
+acquest	noun	acquest|acquest|R|N
+acquiescently	adv	acquiescent|acquiescent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+acquirable	adj	acquire|acquir|R|V ; -able|able|S
+acquirement	noun	acquire|acquire|R|V ; -ment|ment|S
+acquisitively	adv	acquisitive|acquisitive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+acquisitor	noun	acquisitor|acquisitor|R|N
+acquittance	noun	acquittance|acquittance|R|N
+acquitted	verb	acquit|acquit|R|V ; -ed|ted|I||-ed (v2)
+acquitter	noun	acquit|acquit|R|V ; -er|ter|S||-er (N)
+acral	adj	acral|acral|R|Adj
+acranial	adj	acranial|acranial|R|Adj
+acridine	noun	acridine|acridine|R|N
+acridity	noun	acrid|acrid|R|Adj ; -ity|ity|S
+acridly	adv	acrid|acrid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+acrimoniously	adv	acrimonious|acrimonious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+acrimoniousness	noun	acrimonious|acrimonious|R|Adj ; -ness|ness|S
+acritarch	noun	acritarch|acritarch|R|N
+acrobatically	adv	acrobatic|acrobatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+acrobatism	noun	acrobat|acrobat|R|N ; -ism|ism|S
+acrocarpous	adj	acrocarpous|acrocarpous|R|Adj
+acrocentric	adj	acrocentric|acrocentric|R|Adj
+acrocyanosis	noun	acrocyanosis|acrocyanosis|R|N
+acrodont	noun	acrodont|acrodont|R|N
+acrogenous	adj	acrogenous|acrogenous|R|Adj
+acrogynous	adj	acrogynous|acrogynous|R|Adj
+acrolect	noun	acrolect|acrolect|R|N
+acrolein	noun	acrolein|acrolein|R|N
+acromegalic	adj	acromegalic|acromegalic|R|Adj
+acromegaly	noun	acromegaly|acromegaly|R|N
+acromial	adj	acromial|acromial|R|Adj
+acromion	noun	acromion|acromion|R|N
+acronycal	adj	acronycal|acronycal|R|Adj
+acronymic	adj	acronym|acronym|R|N ; -ic|ic|S
+acronymization	noun	acronymize|acronymiz|R|V ; -ation|ation|S
+acronymous	adj	acronymous|acronymous|R|Adj
+acropetal	adj	acropetal|acropetal|R|Adj
+acropetally	adv	acropetal|acropetal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+acrophobia	noun	acrophobia|acrophobia|R|N
+acropodium	noun	acropodium|acropodium|R|N
+acroscopic	adj	acroscopic|acroscopic|R|Adj
+acrosome	noun	acrosome|acrosome|R|N
+acrospire	noun	acrospire|acrospire|R|N
+acrostic	noun	acrostic|acrostic|R|N
+acrostically	adv	acrostic|acrostic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+acroterium	noun	acroterium|acroterium|R|N
+acryl	noun	acryl|acryl|R|N
+acrylamide	noun	acrylamide|acrylamide|R|N
+acrylate	noun	acrylate|acrylate|R|N
+acrylonitrile	noun	acrylonitrile|acrylonitrile|R|N
+actability	noun	act|act|R|V ; -able|abil|S ; -ity|ity|S
+actable	adj	act|act|R|V ; -able|able|S
+actant	noun	act|act|R|V ; -ant|ant|S
+actinal	adj	actinal|actinal|R|Adj
+actinia	noun	actinia|actinia|R|N
+actinically	adv	actinic|actinic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+actinide	noun	actinide|actinide|R|N
+actiniform	adj	actiniform|actiniform|R|Adj
+actinism	noun	actinism|actinism|R|N
+actinium	noun	actinium|actinium|R|N
+actinobiology	noun	actinobiology|actinobiology|R|N
+actinoid	adj	actinoid|actinoid|R|Adj
+actinolite	noun	actinolite|actinolite|R|N
+actinometer	noun	actinometer|actinometer|R|N
+actinometric	adj	actinometric|actinometric|R|Adj
+actinometry	noun	actinometry|actinometry|R|N
+actinomorphic	adj	actinomorphic|actinomorphic|R|Adj
+actinomorphous	adj	actinomorphous|actinomorphous|R|Adj
+actinomorphy	noun	actinomorphy|actinomorphy|R|N
+actinomycosis	noun	actinomycosis|actinomycosis|R|N
+actinon	noun	actinon|actinon|R|N
+actinospore	noun	actinospore|actinospore|R|N
+actinotherapy	noun	actinotherapy|actinotherapy|R|N
+actinula	noun	actinula|actinula|R|N
+actionably	adv	action|action|R|N ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+actioned	verb	action|action|R|N ; -ed|ed|I||-ed (v2)
+actioning	verb	action|action|R|N ; -ing|ing|I||-ing (v)
+activeness	noun	active|active|R|Adj ; -ness|ness|S
+actomyosin	noun	actomyosin|actomyosin|R|N
+actorish	adj	actor|actor|R|N ; -ish|ish|S
+actualism	noun	actual|actual|R|Adj ; -ism|ism|S
+actuarially	adv	actuarial|actuarial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+acuate	adj	acuate|acuate|R|Adj
+aculeate	adj	aculeate|aculeate|R|Adj
+aculeus	noun	aculeus|aculeus|R|N
+acuminate	verb	acuminate|acuminate|R|V
+acumination	noun	acuminate|acuminat|R|V ; -ion|ion|S
+acupoint	noun	acupoint|acupoint|R|N
+acupressurist	noun	acupressure|acupressur|R|N ; -ist|ist|S
+acupunctural	adj	acupuncture|acupunctur|R|N ; -al|al|S
+acutance	noun	acutance|acutance|R|N
+acutifoliate	adj	acutifoliate|acutifoliate|R|Adj
+acyclic	adj	a-|a|P ; cyclic|cyclic|R|Adj
+acyclicity	noun	a-|a|P ; cyclic|cyclic|R|Adj ; -ity|ity|S
+acyesis	noun	acyesis|acyesis|R|N
+acyl	noun	acyl|acyl|R|N
+acylation	noun	acylate|acylat|R|V ; -ion|ion|S
+adactyly	noun	adactyly|adactyly|R|N
+adagietto	noun	adagietto|adagietto|R|N
+adamantane	noun	adamantane|adamantane|R|N
+adamite	noun	adamite|adamite|R|N

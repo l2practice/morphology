@@ -1,0 +1,200 @@
+boatbill	noun	boat|boat|R|N ; bill|bill|R|N
+boatbuilder	noun	boat|boat|R|N ; build|build|R|V ; -er|er|S||-er (N)
+boatel	noun	boatel|boatel|R|N
+boatful	noun	boat|boat|R|N ; -ful|ful|S
+boathook	noun	boat|boat|R|N ; hook|hook|R|N
+boatie	noun	boatie|boatie|R|N
+boatmanship	noun	boat|boat|R|N ; man|man|R|N ; -ship|ship|S
+boatwright	noun	boat|boat|R|N ; wright|wright|R|N
+bobbery	noun	bobbery|bobbery|R|N
+bobbish	adj	bob|bobb|R|V ; -ish|ish|S
+bobolink	noun	bobolink|bobolink|R|N
+bobsledder	noun	bobsled|bobsledd|R|N ; -er|er|S||-er (N)
+bobsledding	noun	bobsled|bobsledd|R|N ; -ing|ing|S||-ing (N)
+bobsleigh	noun	bob|bob|R|N ; sleigh|sleigh|R|N
+bobstay	noun	bob|bob|R|N ; stay|stay|R|N
+bobtail	noun	bob|bob|R|N ; tail|tail|R|N
+bocal	noun	bocal|bocal|R|N
+boccia	noun	boccia|boccia|R|N
+bock	noun	bock|bock|R|N
+bod	noun	bod|bod|R|N
+bodeful	adj	bode|bode|R|V ; -ful|ful|S
+bodger	noun	bodge|bodg|R|V ; -er|er|S||-er (N)
+bodgie	noun	bodgie|bodgie|R|N
+bodhi	noun	bodhi|bodhi|R|N
+bodhicitta	noun	bodhicitta|bodhicitta|R|N
+bodhisattva	noun	bodhisattva|bodhisattva|R|N
+boding	noun	bode|bod|R|V ; -ing|ing|S||-ing (N)
+bodkin	noun	bodkin|bodkin|R|N
+bodyfat	noun	body|body|R|N ; fat|fat|R|N
+bodyline	noun	body|body|R|N ; line|line|R|N
+bodysuit	noun	body|body|R|N ; suit|suit|R|N
+bodysurf	verb	body|body|R|N ; surf|surf|R|V
+bodysurfer	noun	body|body|R|N ; surf|surf|R|V ; -er|er|S||-er (N)
+bodyswap	noun	body|body|R|N ; swap|swap|R|V
+bodywarmer	noun	body|body|R|N ; warm|warm|R|Adj ; -er|er|S||-er (N)
+boerewors	noun	boerewors|boerewors|R|N
+bogan	noun	bogan|bogan|R|N
+bogart	verb	bogart|bogart|R|V
+bogatyr	noun	bogatyr|bogatyr|R|N
+bogbean	noun	bog|bog|R|N ; bean|bean|R|N
+bogged	adj	bog|bogg|R|N ; -ed|ed|S||-ed (adj)
+bogginess	noun	boggy|boggi|R|Adj ; -ness|ness|S
+bogging	noun	bog|bogg|R|N ; -ing|ing|S||-ing (N)
+boggler	noun	boggle|boggl|R|V ; -er|er|S||-er (N)
+boggling	noun	boggle|boggl|R|V ; -ing|ing|S||-ing (N)
+bogland	noun	bog|bog|R|N ; land|land|R|N
+bogrush	noun	bog|bog|R|N ; rush|rush|R|N
+bogue	noun	bogue|bogue|R|N
+bohea	noun	bohea|bohea|R|N
+bohrium	noun	bohrium|bohrium|R|N
+bohunk	noun	bohunk|bohunk|R|N
+boing	interj	boing|boing|R
+boisterousness	noun	boisterous|boisterous|R|Adj ; -ness|ness|S
+bojagi	noun	bojagi|bojagi|R|N
+bokeh	noun	bokeh|bokeh|R|N
+boko	noun	boko|boko|R|N
+bolas	noun	bolas|bolas|R|N
+boldo	noun	boldo|boldo|R|N
+bolection	noun	bolection|bolection|R|N
+bolete	noun	bolete|bolete|R|N
+boletus	noun	boletus|boletus|R|N
+boliviano	noun	boliviano|boliviano|R|N
+bollocking	noun	bollock|bollock|R|N ; -ing|ing|S||-ing (N)
+bollocks	noun	bollock|bollock|R|N ; -s|s|I||-s (plural)
+bolometer	noun	bolometer|bolometer|R|N
+bolometric	adj	bolometer|bolometr|R|N ; -ic|ic|S
+bolshevize	verb	bolshevik|bolshev|R|N ; -ize|ize|S
+bolstered	adj	bolster|bolster|R|V ; -ed|ed|S||-ed (adj)
+bolsterer	noun	bolster|bolster|R|V ; -er|er|S||-er (N)
+bolstering	noun	bolster|bolster|R|V ; -ing|ing|S||-ing (N)
+bolter	noun	bolt|bolt|R|V ; -er|er|S||-er (N)
+bolthole	noun	bolt|bolt|R|V ; hole|hole|R|N
+bombarder	noun	bombard|bombard|R|V ; -er|er|S||-er (N)
+bombarding	noun	bombard|bombard|R|V ; -ing|ing|S||-ing (N)
+bombardon	noun	bombardon|bombardon|R|N
+bombaster	noun	bombast|bombast|R|N ; -er|er|S||-er (N)
+bombastically	adv	bombastic|bombastic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+bombazine	noun	bombazine|bombazine|R|N
+bombe	noun	bombe|bombe|R|N
+bombinate	verb	bombinate|bombinate|R|V
+bombination	noun	bombinate|bombinat|R|V ; -ion|ion|S
+bombykol	noun	bombykol|bombykol|R|N
+bonbonniere	noun	bonbonniere|bonbonniere|R|N
+bonce	noun	bonce|bonce|R|N
+bondable	adj	bond|bond|R|V ; -able|able|S
+bonder	noun	bond|bond|R|V ; -er|er|S||-er (N)
+bondman	noun	bond|bond|R|N ; man|man|R|N
+bonds	noun	bond|bond|R|N ; -s|s|I||-s (plural)
+bones	noun	bone|bone|R|N ; -s|s|I||-s (plural)
+bonesetter	noun	bone|bone|R|N ; set|sett|R|V ; -er|er|S||-er (N)
+bonesetting	noun	bone|bone|R|N ; set|sett|R|V ; -ing|ing|S||-ing (N)
+bongoist	noun	bongo|bongo|R|N ; -ist|ist|S
+bonhomous	adj	bonhomie|bonhom|R|N ; -ous|ous|S
+boniness	noun	bony|boni|R|Adj ; -ness|ness|S
+boning	noun	bone|bon|R|N ; -ing|ing|S||-ing (N)
+bonkers	adj	bonkers|bonkers|R|Adj
+bonnily	adv	bonny|bonni|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bonniness	noun	bonny|bonni|R|Adj ; -ness|ness|S
+bonze	noun	bonze|bonze|R|N
+bonzer	adj	bonzer|bonzer|R|Adj
+boobook	noun	boobook|boobook|R|N
+boodle	noun	boodle|boodle|R|N
+boohoo	interj	boohoo|boohoo|R
+bookbindery	noun	book|book|R|N ; bind|bind|R|V ; -ery|ery|S
+bookishly	adv	book|book|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+bookishness	noun	book|book|R|N ; -ish|ish|S ; -ness|ness|S
+bookmaking	noun	book|book|R|N ; make|mak|R|V ; -ing|ing|S||-ing (N)
+bookmarklet	noun	book|book|R|N ; mark|mark|R|N ; -let|let|S
+bookplate	noun	book|book|R|N ; plate|plate|R|N
+books	noun	book|book|R|N ; -s|s|I||-s (plural)
+bookselling	noun	book|book|R|N ; sell|sell|R|V ; -ing|ing|S||-ing (N)
+bookstand	noun	book|book|R|N ; stand|stand|R|V
+boominess	noun	boomy|boomi|R|Adj ; -ness|ness|S
+boomslang	noun	boomslang|boomslang|R|N
+boomster	noun	boom|boom|R|V ; -ster|ster|S
+boondock	noun	boondock|boondock|R|N
+boorishly	adv	boor|boor|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+boorishness	noun	boor|boor|R|N ; -ish|ish|S ; -ness|ness|S
+boosting	noun	boost|boost|R|V ; -ing|ing|S||-ing (N)
+bootblack	noun	boot|boot|R|N ; black|black|R|Adj
+booting	noun	boot|boot|R|V ; -ing|ing|S||-ing (N)
+bootjack	noun	boot|boot|R|N ; jack|jack|R|N
+bootless	adj	boot|boot|R|N ; -less|less|S
+bootlessly	adv	boot|boot|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+bootlessness	noun	boot|boot|R|N ; -less|less|S ; -ness|ness|S
+bootlick	verb	boot|boot|R|N ; lick|lick|R|V
+bootlicker	noun	boot|boot|R|N ; lick|lick|R|V ; -er|er|S||-er (N)
+boozehound	noun	booze|booze|R|N ; hound|hound|R|N
+boozing	noun	booze|booz|R|V ; -ing|ing|S||-ing (N)
+bora	noun	bora|bora|R|N
+boracic	adj	boracic|boracic|R|Adj
+borborygmus	noun	borborygmus|borborygmus|R|N
+bordereau	noun	bordereau|bordereau|R|N
+bordered	adj	border|border|R|N ; -ed|ed|S||-ed (adj)
+borderpost	noun	border|border|R|N ; post|post|R|N
+bordure	noun	bordure|bordure|R|N
+borecole	noun	bore|bore|R|N ; cole|cole|R|N
+borhani	noun	borhani|borhani|R|N
+boride	noun	boride|boride|R|N
+boringness	noun	boring|boring|R|Adj ; -ness|ness|S
+borne	verb	bear|borne|R|V ; -en||I||-en (participle)
+borneol	noun	borneol|borneol|R|N
+bornite	noun	bornite|bornite|R|N
+borreliosis	noun	borreliosis|borreliosis|R|N
+bort	noun	bort|bort|R|N
+boscage	noun	boscage|boscage|R|N
+bosh	noun	bosh|bosh|R|N
+bosk	noun	bosk|bosk|R|N
+bosket	noun	bosket|bosket|R|N
+boskiness	noun	bosky|boski|R|Adj ; -ness|ness|S
+bosky	adj	bosk|bosk|R|N ; -y|y|S
+bossage	noun	boss|boss|R|N ; -age|age|S
+bossed	adj	boss|boss|R|V ; -ed|ed|S||-ed (adj)
+bossily	adv	bossy|bossi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bossing	noun	boss|boss|R|V ; -ing|ing|S||-ing (N)
+bossism	noun	boss|boss|R|N ; -ism|ism|S
+bot	noun	bot|bot|R|N
+botanize	verb	botany|botan|R|N ; -ize|ize|S
+botanizer	noun	botany|botan|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+botcher	noun	botch|botch|R|V ; -er|er|S||-er (N)
+botel	noun	botel|botel|R|N
+botfly	noun	bot|bot|R|N ; fly|fly|R|N
+botheration	noun	bother|bother|R|V ; -ation|ation|S
+bothering	noun	bother|bother|R|V ; -ing|ing|S||-ing (N)
+botnet	noun	bot|bot|R|N ; net|net|R|N
+botryoid	adj	botryoid|botryoid|R|Adj
+bottarga	noun	bottarga|bottarga|R|N
+bottomed	adj	bottom|bottom|R|N ; -ed|ed|S||-ed (adj)
+bottoming	noun	bottom|bottom|R|N ; -ing|ing|S||-ing (N)
+bottomlessly	adv	bottom|bottom|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+bottomry	noun	bottom|bottom|R|N ; -ry|ry|S
+bottoms	noun	bottom|bottom|R|N ; -s|s|I||-s (plural)
+botty	noun	botty|botty|R|N
+botulin	noun	botulin|botulin|R|N
+botvinya	noun	botvinya|botvinya|R|N
+bouffage	noun	bouffage|bouffage|R|N
+bought	verb	buy|bought|R|V ; -ed||I||-ed (v2)
+bougie	noun	bougie|bougie|R|N
+boulangerite	noun	boulangerite|boulangerite|R|N
+bouldering	noun	boulder|boulder|R|N ; -ing|ing|S||-ing (N)
+boule	noun	boule|boule|R|N
+boules	noun	boule|boule|R|N ; -s|s|I||-s (plural)
+bouleuterion	noun	bouleuterion|bouleuterion|R|N
+boulevardier	noun	boulevardier|boulevardier|R|N
+bouleversement	noun	bouleversement|bouleversement|R|N
+boulter	noun	boulter|boulter|R|N
+bouncily	adv	bouncy|bounci|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bouncingly	adv	bounce|bounc|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+boundedly	adv	bound|bound|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+boundedness	noun	bound|bound|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+bounteously	adv	bounteous|bounteous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bounteousness	noun	bounteous|bounteous|R|Adj ; -ness|ness|S
+bountied	adj	bounty|bounti|R|N ; -ed|ed|S||-ed (adj)
+bountifulness	noun	bounty|bounti|R|N ; -ful|ful|S ; -ness|ness|S
+bourbon	noun	bourbon|bourbon|R|N
+bourdon	noun	bourdon|bourdon|R|N
+bourgeoisify	verb	bourgeois|bourgeois|R|N ; -ify|ify|S
+bournonite	noun	bournonite|bournonite|R|N
+bouse	verb	bouse|bouse|R|V
+boustrophedon	noun	boustrophedon|boustrophedon|R|N

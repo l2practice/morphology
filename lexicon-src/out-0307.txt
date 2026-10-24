@@ -1,0 +1,200 @@
+indiscrimination	noun	in-|in|P ; discriminate|discriminat|R|V ; -ion|ion|S
+indiscriminative	adj	in-|in|P ; discriminate|discriminat|R|V ; -ive|ive|S
+indispensableness	noun	in-|in|P ; dispense|dispens|R|V ; -able|able|S ; -ness|ness|S
+indispensably	adv	in-|in|P ; dispense|dispens|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+indispose	verb	in-|in|P ; dis-|dis|P ; pose|pose|R|V
+indisposedness	noun	in-|in|P ; dis-|dis|P ; pose|pos|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+indisputability	noun	in-|in|P ; dispute|disput|R|V ; -able|abil|S ; -ity|ity|S
+indisputableness	noun	in-|in|P ; dispute|disput|R|V ; -able|able|S ; -ness|ness|S
+indissociable	adj	in-|in|P ; dissociate|dissoci|R|V ; -able|able|S
+indissolubility	noun	in-|in|P ; dis-|dis|P ; soluble|solubil|R|Adj ; -ity|ity|S
+indissolubleness	noun	in-|in|P ; dis-|dis|P ; soluble|soluble|R|Adj ; -ness|ness|S
+indistinctive	adj	in-|in|P ; distinct|distinct|R|Adj ; -ive|ive|S
+indistinctively	adv	in-|in|P ; distinct|distinct|R|Adj ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+indistinctiveness	noun	in-|in|P ; distinct|distinct|R|Adj ; -ive|ive|S ; -ness|ness|S
+indistinctness	noun	in-|in|P ; distinct|distinct|R|Adj ; -ness|ness|S
+indistinguishability	noun	in-|in|P ; distinguish|distinguish|R|V ; -able|abil|S ; -ity|ity|S
+indistinguishableness	noun	in-|in|P ; distinguish|distinguish|R|V ; -able|able|S ; -ness|ness|S
+indistributable	adj	in-|in|P ; distribute|distribut|R|V ; -able|able|S
+indite	verb	in-|in|P ; dite|dite|R|V
+inditement	noun	in-|in|P ; dite|dite|R|V ; -ment|ment|S
+inditer	noun	in-|in|P ; dite|dit|R|V ; -er|er|S||-er (N)
+indivertible	adj	in-|in|P ; divert|divert|R|V ; -ible|ible|S
+individualistically	adv	individual|individual|R|Adj ; -ist|ist|S ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+indivisibleness	noun	in-|in|P ; divide|divis|R|V ; -ible|ible|S ; -ness|ness|S
+indivisibly	adv	in-|in|P ; divide|divis|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+indocile	adj	in-|in|P ; docile|docile|R|Adj
+indocility	noun	in-|in|P ; docile|docil|R|Adj ; -ity|ity|S
+indoctrinator	noun	indoctrinate|indoctrinat|R|V ; -or|or|S
+indole	noun	indole|indole|R|N
+indomitability	noun	indomitable|indomitabil|R|Adj ; -ity|ity|S
+indomitableness	noun	indomitable|indomitable|R|Adj ; -ness|ness|S
+indomitably	adv	indomitable|indomitab|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+indophenol	noun	indophenol|indophenol|R|N
+indoxyl	noun	indoxyl|indoxyl|R|N
+indraught	noun	in-|in|P ; draught|draught|R|N
+indri	noun	indri|indri|R|N
+indubitability	noun	in-|in|P ; dubitable|dubitabil|R|Adj ; -ity|ity|S
+indubitableness	noun	in-|in|P ; dubitable|dubitable|R|Adj ; -ness|ness|S
+inducible	adj	in-|in|P ; -duce|duc|B|V ; -ible|ible|S
+inducing	verb	in-|in|P ; -duce|duc|B|V ; -ing|ing|I||-ing (v)
+inductile	adj	inductile|inductile|R|Adj
+inductiveness	noun	in-|in|P ; -duct|duct|B|V ; -ive|ive|S ; -ness|ness|S
+inductivity	noun	in-|in|P ; -duct|duct|B|V ; -ive|iv|S ; -ity|ity|S
+indulged	verb	indulge|indulg|R|V ; -ed|ed|I||-ed (v2)
+induline	noun	induline|induline|R|N
+indumentum	noun	indumentum|indumentum|R|N
+induna	noun	induna|induna|R|N
+indurate	verb	indurate|indurate|R|V
+indurative	adj	indurate|indurat|R|V ; -ive|ive|S
+indweller	noun	in-|in|P ; dwell|dwell|R|V ; -er|er|S||-er (N)
+inebriant	noun	inebriate|inebri|R|V ; -ant|ant|S
+inebriate	verb	inebriate|inebriate|R|V
+inebriety	noun	inebriate|inebri|R|V ; -ty|ety|S
+inedibility	noun	in-|in|P ; edible|edibil|R|Adj ; -ity|ity|S
+inedibly	adv	in-|in|P ; edible|edib|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+ineducability	noun	in-|in|P ; educate|educ|R|V ; -able|abil|S ; -ity|ity|S
+ineducable	adj	in-|in|P ; educate|educ|R|V ; -able|able|S
+ineffability	noun	in-|in|P ; effable|effabil|R|Adj ; -ity|ity|S
+ineffableness	noun	in-|in|P ; effable|effable|R|Adj ; -ness|ness|S
+ineffaceability	noun	in-|in|P ; ef-|ef|P|||ex- ; face|face|R|N ; -able|abil|S ; -ity|ity|S
+ineffaceable	adj	in-|in|P ; ef-|ef|P|||ex- ; face|face|R|N ; -able|able|S
+ineffaceableness	noun	in-|in|P ; ef-|ef|P|||ex- ; face|face|R|N ; -able|able|S ; -ness|ness|S
+ineffaceably	adv	in-|in|P ; ef-|ef|P|||ex- ; face|face|R|N ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+ineffectuality	noun	in-|in|P ; effect|effect|R|N ; -ual|ual|S ; -ity|ity|S
+ineffectualness	noun	in-|in|P ; effect|effect|R|N ; -ual|ual|S ; -ness|ness|S
+inefficacious	adj	in-|in|P ; efficacy|efficaci|R|N ; -ous|ous|S
+inefficaciously	adv	in-|in|P ; efficacy|efficaci|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+inefficaciousness	noun	in-|in|P ; efficacy|efficaci|R|N ; -ous|ous|S ; -ness|ness|S
+inelasticity	noun	in-|in|P ; elastic|elastic|R|Adj ; -ity|ity|S
+inelegance	noun	in-|in|P ; elegance|elegance|R|N
+ineligibly	adv	in-|in|P ; eligible|eligib|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+ineloquence	noun	in-|in|P ; eloquence|eloquence|R|N
+ineloquent	adj	in-|in|P ; eloquent|eloquent|R|Adj
+ineloquently	adv	in-|in|P ; eloquent|eloquent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+ineluctability	noun	ineluctable|ineluctabil|R|Adj ; -ity|ity|S
+ineludible	adj	in-|in|P ; elude|elud|R|V ; -ible|ible|S
+inenarrable	adj	in-|in|P ; enarrate|enarr|R|V ; -able|able|S
+inequable	adj	in-|in|P ; equable|equable|R|Adj
+inequilateral	adj	in-|in|P ; equilateral|equilateral|R|Adj
+inequitableness	noun	in-|in|P ; equitable|equitable|R|Adj ; -ness|ness|S
+ineradicability	noun	in-|in|P ; eradicate|eradic|R|V ; -able|abil|S ; -ity|ity|S
+ineradicableness	noun	in-|in|P ; eradicate|eradic|R|V ; -able|able|S ; -ness|ness|S
+ineradicably	adv	in-|in|P ; eradicate|eradic|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+inerasable	adj	in-|in|P ; erase|eras|R|V ; -able|able|S
+inerrable	adj	in-|in|P ; err|err|R|V ; -able|able|S
+inerrableness	noun	in-|in|P ; err|err|R|V ; -able|able|S ; -ness|ness|S
+inerrant	adj	in-|in|P ; errant|errant|R|Adj
+inerratic	adj	in-|in|P ; erratic|erratic|R|Adj
+inertly	adv	inert|inert|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inertness	noun	inert|inert|R|Adj ; -ness|ness|S
+inescapableness	noun	in-|in|P ; escape|escap|R|V ; -able|able|S ; -ness|ness|S
+inescutcheon	noun	in-|in|P ; escutcheon|escutcheon|R|N
+inessentiality	noun	in-|in|P ; essential|essential|R|Adj ; -ity|ity|S
+inessive	adj	inessive|inessive|R|Adj
+inestimability	noun	in-|in|P ; estimate|estim|R|V ; -able|abil|S ; -ity|ity|S
+inestimableness	noun	in-|in|P ; estimate|estim|R|V ; -able|able|S ; -ness|ness|S
+inestimably	adv	in-|in|P ; estimate|estim|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+inevasible	adj	in-|in|P ; evade|evas|R|V ; -ible|ible|S
+inevitableness	noun	in-|in|P ; evitable|evitable|R|Adj ; -ness|ness|S
+inexactitude	noun	in-|in|P ; exactitude|exactitude|R|N
+inexactly	adv	in-|in|P ; exact|exact|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inexactness	noun	in-|in|P ; exact|exact|R|Adj ; -ness|ness|S
+inexcusability	noun	in-|in|P ; excuse|excus|R|V ; -able|abil|S ; -ity|ity|S
+inexcusableness	noun	in-|in|P ; excuse|excus|R|V ; -able|able|S ; -ness|ness|S
+inexecutable	adj	in-|in|P ; execute|execut|R|V ; -able|able|S
+inexecution	noun	in-|in|P ; execute|execut|R|V ; -ion|ion|S
+inexertion	noun	in-|in|P ; exert|exert|R|V ; -ion|ion|S
+inexhaustibility	noun	in-|in|P ; exhaust|exhaust|R|V ; -ible|ibil|S ; -ity|ity|S
+inexhaustibleness	noun	in-|in|P ; exhaust|exhaust|R|V ; -ible|ible|S ; -ness|ness|S
+inexhaustibly	adv	in-|in|P ; exhaust|exhaust|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+inexistence	noun	in-|in|P ; exist|exist|R|V ; -ence|ence|S
+inexistent	adj	in-|in|P ; exist|exist|R|V ; -ent|ent|S
+inexorability	noun	inexorable|inexorabil|R|Adj ; -ity|ity|S
+inexorableness	noun	inexorable|inexorable|R|Adj ; -ness|ness|S
+inexpectant	adj	in-|in|P ; expect|expect|R|V ; -ant|ant|S
+inexpedience	noun	in-|in|P ; expedient|expedi|R|Adj ; -ence|ence|S
+inexpediency	noun	in-|in|P ; expedient|expedi|R|Adj ; -ency|ency|S
+inexpedient	adj	in-|in|P ; expedient|expedient|R|Adj
+inexpediently	adv	in-|in|P ; expedient|expedient|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inexpensiveness	noun	in-|in|P ; expensive|expensive|R|Adj ; -ness|ness|S
+inexpertness	noun	in-|in|P ; expert|expert|R|Adj ; -ness|ness|S
+inexpiable	adj	in-|in|P ; expiate|expi|R|V ; -able|able|S
+inexpiableness	noun	in-|in|P ; expiate|expi|R|V ; -able|able|S ; -ness|ness|S
+inexplainable	adj	in-|in|P ; explain|explain|R|V ; -able|able|S
+inexplainably	adv	in-|in|P ; explain|explain|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+inexplicability	noun	in-|in|P ; explicate|explic|R|V ; -able|abil|S ; -ity|ity|S
+inexplicableness	noun	in-|in|P ; explicate|explic|R|V ; -able|able|S ; -ness|ness|S
+inexplicit	adj	in-|in|P ; explicit|explicit|R|Adj
+inexplicitness	noun	in-|in|P ; explicit|explicit|R|Adj ; -ness|ness|S
+inexplorable	adj	in-|in|P ; explore|explor|R|V ; -able|able|S
+inexplosive	adj	in-|in|P ; explode|explos|R|V ; -ive|ive|S
+inexpressibility	noun	in-|in|P ; express|express|R|V ; -ible|ibil|S ; -ity|ity|S
+inexpressibleness	noun	in-|in|P ; express|express|R|V ; -ible|ible|S ; -ness|ness|S
+inexpressibles	noun	in-|in|P ; express|express|R|V ; -ible|ible|S ; -s|s|I||-s (plural)
+inexpressively	adv	in-|in|P ; express|express|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+inexpressiveness	noun	in-|in|P ; express|express|R|V ; -ive|ive|S ; -ness|ness|S
+inexpugnability	noun	in-|in|P ; expugn|expugn|R|V ; -able|abil|S ; -ity|ity|S
+inexpugnable	adj	in-|in|P ; expugn|expugn|R|V ; -able|able|S
+inexpugnableness	noun	in-|in|P ; expugn|expugn|R|V ; -able|able|S ; -ness|ness|S
+inexpugnably	adv	in-|in|P ; expugn|expugn|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+inexpungible	adj	in-|in|P ; expunge|expung|R|V ; -ible|ible|S
+inextensibility	noun	in-|in|P ; extend|extens|R|V ; -ible|ibil|S ; -ity|ity|S
+inextensible	adj	in-|in|P ; extend|extens|R|V ; -ible|ible|S
+inextinguishably	adv	in-|in|P ; extinguish|extinguish|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+inextirpable	adj	in-|in|P ; extirpate|extirp|R|V ; -able|able|S
+inextirpableness	noun	in-|in|P ; extirpate|extirp|R|V ; -able|able|S ; -ness|ness|S
+inextricability	noun	in-|in|P ; extricate|extric|R|V ; -able|abil|S ; -ity|ity|S
+inextricableness	noun	in-|in|P ; extricate|extric|R|V ; -able|able|S ; -ness|ness|S
+infallibleness	noun	in-|in|P ; fallible|fallible|R|Adj ; -ness|ness|S
+infamize	verb	infamy|infam|R|N ; -ize|ize|S
+infamousness	noun	in-|in|P ; famous|famous|R|Adj ; -ness|ness|S
+infante	noun	infante|infante|R|N
+infanthood	noun	infant|infant|R|N ; -hood|hood|S
+infanticidal	adj	infanticide|infanticid|R|N ; -al|al|S
+infantilism	noun	infantile|infantil|R|Adj ; -ism|ism|S
+infantility	noun	infantile|infantil|R|Adj ; -ity|ity|S
+infantilization	noun	infantile|infantil|R|Adj ; -ize|iz|S ; -ation|ation|S
+infantilize	verb	infantile|infantil|R|Adj ; -ize|ize|S
+infantine	adj	infantine|infantine|R|Adj
+infatuate	verb	infatuate|infatuate|R|V
+infatuatedly	adv	infatuate|infatuat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+infauna	noun	in-|in|P ; fauna|fauna|R|N
+infaunal	adj	in-|in|P ; fauna|faun|R|N ; -al|al|S
+infeasibility	noun	in-|in|P ; feasible|feasibil|R|Adj ; -ity|ity|S
+infeasibleness	noun	in-|in|P ; feasible|feasible|R|Adj ; -ness|ness|S
+infectiology	noun	infectiology|infectiology|R|N
+infectiousness	noun	infect|infect|R|V ; -ious|ious|S ; -ness|ness|S
+infectiveness	noun	infect|infect|R|V ; -ive|ive|S ; -ness|ness|S
+infectivity	noun	infect|infect|R|V ; -ive|iv|S ; -ity|ity|S
+infecund	adj	in-|in|P ; fecund|fecund|R|Adj
+infecundity	noun	in-|in|P ; fecund|fecund|R|Adj ; -ity|ity|S
+infelicific	adj	infelicific|infelicific|R|Adj
+infelicitous	adj	in-|in|P ; felicitous|felicitous|R|Adj
+infelicitously	adv	in-|in|P ; felicitous|felicitous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+infelicity	noun	in-|in|P ; felicity|felicity|R|N
+inferable	adj	infer|infer|R|V ; -able|able|S
+inferably	adv	infer|infer|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+infernality	noun	infernal|infernal|R|Adj ; -ity|ity|S
+infernally	adv	infernal|infernal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inferred	verb	infer|inferr|R|V ; -ed|ed|I||-ed (v2)
+inferrer	noun	infer|inferr|R|V ; -er|er|S||-er (N)
+inferring	verb	infer|inferr|R|V ; -ing|ing|I||-ing (v)
+infester	noun	infest|infest|R|V ; -er|er|S||-er (N)
+infeudation	noun	in-|in|P ; feud|feud|R|N ; -ation|ation|S
+infibulation	noun	in-|in|P ; fibula|fibul|R|N ; -ation|ation|S
+infimum	noun	infimum|infimum|R|N
+infiniteness	noun	in-|in|P ; finite|finite|R|Adj ; -ness|ness|S
+infinitesimality	noun	infinitesimal|infinitesimal|R|Adj ; -ity|ity|S
+infinitesimalness	noun	infinitesimal|infinitesimal|R|Adj ; -ness|ness|S
+infinitism	noun	in-|in|P ; finite|finit|R|Adj ; -ism|ism|S
+infinitival	adj	infinitive|infinitiv|R|N ; -al|al|S
+infinitize	verb	in-|in|P ; finite|finit|R|Adj ; -ize|ize|S
+infirmarian	noun	infirmary|infirmari|R|N ; -an|an|S
+infirmly	adv	in-|in|P ; firm|firm|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+infirmness	noun	in-|in|P ; firm|firm|R|Adj ; -ness|ness|S
+infix	verb	in-|in|P ; fix|fix|R|V
+infixation	noun	in-|in|P ; fix|fix|R|V ; -ation|ation|S
+inflamer	noun	in-|in|P ; flame|flam|R|N ; -er|er|S||-er (N)
+inflaming	verb	in-|in|P ; flame|flam|R|V ; -ing|ing|I||-ing (v)
+inflammability	noun	in-|in|P ; flammable|flammabil|R|Adj ; -ity|ity|S

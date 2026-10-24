@@ -1,0 +1,200 @@
+eulogistic	adj	eulogy|eulog|R|N ; -ist|ist|S ; -ic|ic|S
+eulogistically	adv	eulogy|eulog|R|N ; -ist|ist|S ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+eulogium	noun	eulogium|eulogium|R|N
+eulogizer	noun	eulogy|eulog|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+eulogizing	verb	eulogy|eulog|R|N ; -ize|iz|S ; -ing|ing|I||-ing (v)
+eunuchism	noun	eunuch|eunuch|R|N ; -ism|ism|S
+eupatorium	noun	eupatorium|eupatorium|R|N
+eupepsia	noun	eupepsia|eupepsia|R|N
+eupeptic	adj	eupeptic|eupeptic|R|Adj
+eupeptically	adv	eupeptic|eupeptic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+euphemist	noun	euphemist|euphemist|R|N
+euphemize	verb	euphemize|euphemize|R|V
+euphemizer	noun	euphemize|euphemiz|R|V ; -er|er|S||-er (N)
+euphonic	adj	euphony|euphon|R|N ; -ic|ic|S
+euphonically	adv	euphony|euphon|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+euphoniously	adv	euphonious|euphonious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+euphoniousness	noun	euphonious|euphonious|R|Adj ; -ness|ness|S
+euphonism	noun	euphony|euphon|R|N ; -ism|ism|S
+euphonium	noun	euphonium|euphonium|R|N
+euphonize	verb	euphony|euphon|R|N ; -ize|ize|S
+euphorbiaceous	adj	euphorbiaceous|euphorbiaceous|R|Adj
+euphorically	adv	euphoric|euphoric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+euphory	noun	euphory|euphory|R|N
+euphotic	adj	euphotic|euphotic|R|Adj
+euphotometric	adj	euphotometric|euphotometric|R|Adj
+euphrasy	noun	euphrasy|euphrasy|R|N
+euphuism	noun	euphuism|euphuism|R|N
+euphuist	noun	euphuist|euphuist|R|N
+euphuistic	adj	euphuistic|euphuistic|R|Adj
+euphuistical	adj	euphuistic|euphuistic|R|Adj ; -al|al|S
+euphuistically	adv	euphuistic|euphuistic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+euplankton	noun	euplankton|euplankton|R|N
+euploid	adj	euploid|euploid|R|Adj
+euploidy	noun	euploidy|euploidy|R|N
+eupnoeic	adj	eupnoeic|eupnoeic|R|Adj
+eurhythmic	adj	eurhythmy|eurhythm|R|N ; -ic|ic|S
+eurite	noun	eurite|eurite|R|N
+europium	noun	europium|europium|R|N
+eurythmics	noun	eurythmics|eurythmics|R|N
+eurythmy	noun	eurythmy|eurythmy|R|N
+eusol	noun	eusol|eusol|R|N
+eustasy	noun	eustasy|eustasy|R|N
+eustatic	adj	eustatic|eustatic|R|Adj
+eutectic	adj	eutectic|eutectic|R|Adj
+eutectoid	noun	eutectoid|eutectoid|R|N
+euthanasist	noun	euthanasia|euthanas|R|N ; -ist|ist|S
+euthenics	noun	euthenics|euthenics|R|N
+euthenist	noun	euthenics|euthen|R|N ; -ist|ist|S
+eutherian	noun	eutherian|eutherian|R|N
+euthyroid	adj	euthyroid|euthyroid|R|Adj
+eutrophicate	verb	eutrophic|eutrophic|R|Adj ; -ate|ate|S
+eutrophy	noun	eutrophy|eutrophy|R|N
+euxenite	noun	euxenite|euxenite|R|N
+evacuant	noun	evacuate|evacu|R|V ; -ant|ant|S
+evacuative	adj	evacuate|evacuat|R|V ; -ive|ive|S
+evacuator	noun	evacuate|evacuat|R|V ; -or|or|S
+evadable	adj	evade|evad|R|V ; -able|able|S
+evadible	adj	evade|evad|R|V ; -ible|ible|S
+evaginate	verb	evaginate|evaginate|R|V
+evagination	noun	evaginate|evaginat|R|V ; -ion|ion|S
+evanesce	verb	evanesce|evanesce|R|V
+evanescently	adv	evanescent|evanescent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+evangel	noun	evangel|evangel|R|N
+evangelic	adj	evangel|evangel|R|N ; -ic|ic|S
+evangelically	adv	evangelic|evangelic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+evangelistary	adj	evangelist|evangelist|R|N ; -ary|ary|S
+evangelistically	adv	evangelistic|evangelistic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+evangelizer	noun	evangel|evangel|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+evaporability	noun	evaporate|evapor|R|V ; -able|abil|S ; -ity|ity|S
+evaporable	adj	evaporate|evapor|R|V ; -able|able|S
+evaporatively	adv	evaporative|evaporative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+evaporativity	noun	evaporative|evaporativ|R|Adj ; -ity|ity|S
+evaporimeter	noun	evaporimeter|evaporimeter|R|N
+evection	noun	evection|evection|R|N
+evectional	adj	evection|evection|R|N ; -al|al|S
+evenfall	noun	even|even|R|N ; fall|fall|R|N
+evenhanded	adj	even|even|R|Adj ; hand|hand|R|N ; -ed|ed|S||-ed (adj)
+evens	noun	even|even|R|Adj ; -s|s|I||-s (plural)
+eventfully	adv	event|event|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+eventfulness	noun	event|event|R|N ; -ful|ful|S ; -ness|ness|S
+eventless	adj	event|event|R|N ; -less|less|S
+eventration	noun	eventration|eventration|R|N
+everchanging	adj	ever|ever|R|Adv ; change|chang|R|V ; -ing|ing|S||-ing (adj)
+everglade	noun	ever|ever|R|Adv ; glade|glade|R|N
+evergrowing	adj	ever|ever|R|Adv ; grow|grow|R|V ; -ing|ing|S||-ing (adj)
+everlastingness	noun	ever|ever|R|Adv ; last|last|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+everliving	adj	ever|ever|R|Adv ; live|liv|R|V ; -ing|ing|S||-ing (adj)
+eversible	adj	everse|evers|R|V ; -ible|ible|S
+eversion	noun	everse|evers|R|V ; -ion|ion|S
+everyway	adv	every|every|R ; way|way|R|N
+evictor	noun	evict|evict|R|V ; -or|or|S
+evidentiality	noun	evidential|evidential|R|Adj ; -ity|ity|S
+evidentially	adv	evidential|evidential|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+evildoer	noun	evil|evil|R|Adj ; do|do|R|V ; -er|er|S||-er (N)
+evildoing	noun	evil|evil|R|Adj ; do|do|R|V ; -ing|ing|S||-ing (N)
+evilness	noun	evil|evil|R|Adj ; -ness|ness|S
+evincible	adj	evince|evinc|R|V ; -ible|ible|S
+evincive	adj	evince|evinc|R|V ; -ive|ive|S
+evirate	verb	evirate|evirate|R|V
+evitable	adj	evitable|evitable|R|Adj
+evocable	adj	evoke|evoc|R|V ; -able|able|S
+evocativeness	noun	evoke|evoc|R|V ; -ative|ative|S ; -ness|ness|S
+evocator	noun	evoke|evoc|R|V ; -or|ator|S
+evocatory	adj	evoke|evoc|R|V ; -ory|atory|S
+evolute	adj	evolute|evolute|R|Adj
+evolutional	adj	evolution|evolution|R|N ; -al|al|S
+evolutionistic	adj	evolution|evolution|R|N ; -ist|ist|S ; -ic|ic|S
+evolutive	adj	evolve|evolut|R|V ; -ive|ive|S
+evolvable	adj	evolve|evolv|R|V ; -able|able|S
+evolvement	noun	evolve|evolve|R|V ; -ment|ment|S
+exabit	noun	exabit|exabit|R|N
+exabyte	noun	exabyte|exabyte|R|N
+exacerbating	verb	exacerbate|exacerbat|R|V ; -ing|ing|I||-ing (v)
+exactable	adj	exact|exact|R|V ; -able|able|S
+exactingly	adv	exact|exact|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+exactingness	noun	exact|exact|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+exactor	noun	exact|exact|R|V ; -or|or|S
+exaggerating	verb	exaggerate|exaggerat|R|V ; -ing|ing|I||-ing (v)
+exaggerative	adj	exaggerate|exaggerat|R|V ; -ive|ive|S
+exaggerator	noun	exaggerate|exagger|R|V ; -or|ator|S
+exaggeratory	adj	exaggerate|exaggerat|R|V ; -ory|ory|S
+exalate	adj	exalate|exalate|R|Adj
+exalter	noun	exalt|exalt|R|V ; -er|er|S||-er (N)
+exalting	verb	exalt|exalt|R|V ; -ing|ing|I||-ing (v)
+examinable	adj	examine|examin|R|V ; -able|able|S
+examinational	adj	examination|examination|R|N ; -al|al|S
+examinatorial	adj	examinator|examinator|R|N ; -ial|ial|S
+exanimate	adj	ex-|ex|P ; animate|animate|R|Adj
+exanthematic	adj	exanthematic|exanthematic|R|Adj
+exanthematous	adj	exanthematous|exanthematous|R|Adj
+exarate	verb	exarate|exarate|R|V
+exarch	noun	exarch|exarch|R|N
+exarchal	adj	exarch|exarch|R|N ; -al|al|S
+exarchate	noun	exarch|exarch|R|N ; -ate|ate|S
+exasperater	noun	exasperate|exasperat|R|V ; -er|er|S||-er (N)
+exasperatingly	adv	exasperate|exasperat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+exbibyte	noun	exbibyte|exbibyte|R|N
+excardinate	verb	excardinate|excardinate|R|V
+excardination	noun	excardinate|excardinat|R|V ; -ion|ion|S
+exceeding	verb	exceed|exceed|R|V ; -ing|ing|I||-ing (v)
+excellency	noun	excellent|excell|R|Adj ; -ency|ency|S
+excentric	adj	ex-|ex|P ; centric|centric|R|Adj
+exceptionability	noun	exception|exception|R|N ; -able|abil|S ; -ity|ity|S
+exceptionable	adj	exception|exception|R|N ; -able|able|S
+exceptionably	adv	exception|exception|R|N ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+exceptionalism	noun	exception|exception|R|N ; -al|al|S ; -ism|ism|S
+exceptionalness	noun	exception|exception|R|N ; -al|al|S ; -ness|ness|S
+exceptionless	adj	exception|exception|R|N ; -less|less|S
+exceptive	adj	except|except|R|V ; -ive|ive|S
+excerptible	adj	excerpt|excerpt|R|V ; -ible|ible|S
+excerpting	verb	excerpt|excerpt|R|V ; -ing|ing|I||-ing (v)
+excerption	noun	excerpt|excerpt|R|V ; -ion|ion|S
+exchangeability	noun	exchange|exchange|R|V ; -able|abil|S ; -ity|ity|S
+excipient	noun	excipient|excipient|R|N
+exciple	noun	exciple|exciple|R|N
+excircle	noun	ex-|ex|P ; circle|circle|R|N
+excisable	adj	excise|excis|R|V ; -able|able|S
+exciseman	noun	excise|excise|R|N ; man|man|R|N
+excitableness	noun	excite|excit|R|V ; -able|able|S ; -ness|ness|S
+excitably	adv	excite|excit|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+excitant	noun	excite|excit|R|V ; -ant|ant|S
+excitative	adj	excite|excit|R|V ; -ative|ative|S
+exciter	noun	excite|excit|R|V ; -er|er|S||-er (N)
+excitron	noun	excitron|excitron|R|N
+exclaiming	verb	exclaim|exclaim|R|V ; -ing|ing|I||-ing (v)
+exclamative	adj	exclaim|exclam|R|V ; -ative|ative|S
+exclamatively	adv	exclaim|exclam|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+exclamatorily	adv	exclaim|exclam|R|V ; -ory|atori|S ; -ly|ly|I|Adv|-ly (adv)
+exclave	noun	exclave|exclave|R|N
+excludability	noun	ex-|ex|P ; -clude|clud|B|V ; -able|abil|S ; -ity|ity|S
+excludable	adj	ex-|ex|P ; -clude|clud|B|V ; -able|able|S
+exclusionism	noun	ex-|ex|P ; -clude|clus|B|V ; -ion|ion|S ; -ism|ism|S
+excogitate	verb	ex-|ex|P ; cogitate|cogitate|R|V
+excogitation	noun	ex-|ex|P ; cogitate|cogitat|R|V ; -ion|ion|S
+excogitative	adj	ex-|ex|P ; cogitate|cogitat|R|V ; -ive|ive|S
+excommunicative	adj	excommunicate|excommunicat|R|V ; -ive|ive|S
+excommunicator	noun	excommunicate|excommunic|R|V ; -or|ator|S
+excommunicatory	adj	excommunicate|excommunicat|R|V ; -ory|ory|S
+excoriator	noun	excoriate|excori|R|V ; -or|ator|S
+excremental	adj	excrement|excrement|R|N ; -al|al|S
+excrementitious	adj	excrementitious|excrementitious|R|Adj
+excrescent	adj	ex-|ex|P ; crescent|crescent|R|Adj
+excrescential	adj	excrescent|excrescent|R|Adj ; -ial|ial|S
+excrescently	adv	excrescent|excrescent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+excretal	adj	excrete|excret|R|V ; -al|al|S
+excretes	verb	excrete|excret|R|V ; -es|es|I||-s (3sg)
+excreting	verb	excrete|excret|R|V ; -ing|ing|I||-ing (v)
+excretive	adj	excrete|excret|R|V ; -ive|ive|S
+excruciate	verb	excruciate|excruciate|R|V
+excruciation	noun	excruciate|excruciat|R|V ; -ion|ion|S
+exculpable	adj	exculpate|exculp|R|V ; -able|able|S
+excurrent	adj	ex-|ex|P ; current|current|R|Adj
+excurse	verb	excurse|excurse|R|V
+excursional	adj	excursion|excursion|R|N ; -al|al|S
+excursionist	noun	excursion|excursion|R|N ; -ist|ist|S
+excursive	adj	excurse|excurs|R|V ; -ive|ive|S
+excursively	adv	excursive|excursive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+excursiveness	noun	excursive|excursive|R|Adj ; -ness|ness|S
+excurved	adj	ex-|ex|P ; curve|curv|R|V ; -ed|ed|S||-ed (adj)
+excusableness	noun	excuse|excus|R|V ; -able|able|S ; -ness|ness|S

@@ -1,0 +1,200 @@
+predesign	verb	pre-|pre|P ; design|design|R|V
+predesignate	verb	pre-|pre|P ; designate|designate|R|V
+predestinarian	noun	predestinate|predestin|R|V ; -an|arian|S
+predestinarianism	noun	predestinarian|predestinarian|R|N ; -ism|ism|S
+predestinate	verb	predestine|predestin|R|V ; -ate|ate|S
+predeterminate	verb	pre-|pre|P ; determine|determin|R|V ; -ate|ate|S
+predetermination	noun	pre-|pre|P ; determine|determin|R|V ; -ation|ation|S
+predeterminer	noun	pre-|pre|P ; determine|determin|R|V ; -er|er|S||-er (N)
+predeterminism	noun	pre-|pre|P ; determinism|determinism|R|N
+prediabetes	noun	pre-|pre|P ; diabetes|diabetes|R|N
+prediabetic	adj	pre-|pre|P ; diabetic|diabetic|R|Adj
+predial	adj	predial|predial|R|Adj
+predicability	noun	predicate|predic|R|V ; -able|abil|S ; -ity|ity|S
+predicable	adj	predicate|predic|R|V ; -able|able|S
+predicamental	adj	predicament|predicament|R|N ; -al|al|S
+predicant	noun	predicate|predic|R|V ; -ant|ant|S
+predicational	adj	predicate|predicat|R|V ; -ion|ion|S ; -al|al|S
+predicatively	adv	predicate|predicat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+predicatory	adj	predicate|predic|R|V ; -ory|atory|S
+predicting	verb	predict|predict|R|V ; -ing|ing|I||-ing (v)
+predictively	adv	predict|predict|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+predictiveness	noun	predict|predict|R|V ; -ive|ive|S ; -ness|ness|S
+predigest	verb	pre-|pre|P ; digest|digest|R|V
+predigestion	noun	pre-|pre|P ; digest|digest|R|V ; -ion|ion|S
+predikant	noun	predikant|predikant|R|N
+predominatingly	adv	predominate|predominat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+predomination	noun	predominate|predomin|R|V ; -ation|ation|S
+predominator	noun	predominate|predominat|R|V ; -or|or|S
+predynastic	adj	pre-|pre|P ; dynastic|dynastic|R|Adj
+preelection	noun	pre-|pre|P ; election|election|R|N
+preemptive	adj	preempt|preempt|R|V ; -ive|ive|S
+preener	noun	preen|preen|R|V ; -er|er|S||-er (N)
+preexisting	verb	pre-|pre|P ; exist|exist|R|V ; -ing|ing|I||-ing (v)
+prefabricate	verb	pre-|pre|P ; fabricate|fabricate|R|V
+prefabrication	noun	pre-|pre|P ; fabricate|fabricat|R|V ; -ion|ion|S
+prefabricator	noun	pre-|pre|P ; fabricate|fabricat|R|V ; -or|or|S
+prefaced	verb	preface|prefac|R|V ; -ed|ed|I||-ed (v2)
+prefacer	noun	preface|prefac|R|V ; -er|er|S||-er (N)
+prefactor	noun	pre-|pre|P ; factor|factor|R|N
+prefatorily	adv	preface|prefat|R|N ; -ory|ori|S ; -ly|ly|I|Adv|-ly (adv)
+prefectoral	adj	prefectoral|prefectoral|R|Adj
+prefectorial	adj	prefectorial|prefectorial|R|Adj
+preferability	noun	prefer|prefer|R|V ; -able|abil|S ; -ity|ity|S
+preferableness	noun	prefer|prefer|R|V ; -able|abl|S ; -ness|eness|S
+preferans	noun	preferans|preferans|R|N
+preferences	noun	prefer|prefer|R|V ; -ence|ence|S ; -s|s|I||-s (plural)
+preferendum	noun	preferendum|preferendum|R|N
+preferrer	noun	prefer|preferr|R|V ; -er|er|S||-er (N)
+preferring	verb	prefer|preferr|R|V ; -ing|ing|I||-ing (v)
+prefigurative	adj	pre-|pre|P ; figure|figur|R|V ; -ative|ative|S
+prefiguratively	adv	pre-|pre|P ; figure|figur|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+prefigurativeness	noun	pre-|pre|P ; figure|figur|R|V ; -ative|ative|S ; -ness|ness|S
+prefigurement	noun	pre-|pre|P ; figure|figure|R|V ; -ment|ment|S
+prefiguring	verb	pre-|pre|P ; figure|figur|R|V ; -ing|ing|I||-ing (v)
+prefixal	adj	prefix|prefix|R|N ; -al|al|S
+prefixally	adv	prefix|prefix|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+prefixation	noun	prefix|prefix|R|V ; -ation|ation|S
+prefixed	verb	prefix|prefix|R|V ; -ed|ed|I||-ed (v2)
+prefixing	verb	prefix|prefix|R|V ; -ing|ing|I||-ing (v)
+prefixoid	noun	prefixoid|prefixoid|R|N
+preflight	noun	pre-|pre|P ; flight|flight|R|N
+prefoliation	noun	pre-|pre|P ; foliation|foliation|R|N
+preformation	noun	pre-|pre|P ; form|form|R|V ; -ation|ation|S
+preformative	adj	pre-|pre|P ; form|form|R|V ; -ative|ative|S
+preformism	noun	pre-|pre|P ; form|form|R|V ; -ism|ism|S
+prefusion	noun	pre-|pre|P ; fusion|fusion|R|N
+pregabalin	noun	pregabalin|pregabalin|R|N
+preganglionic	adj	pre-|pre|P ; ganglion|ganglion|R|N ; -ic|ic|S
+pregenital	adj	pre-|pre|P ; genital|genital|R|Adj
+preggers	adj	preggers|preggers|R|Adj
+preglacial	adj	pre-|pre|P ; glacial|glacial|R|Adj
+pregnability	noun	pregnant|pregn|R|Adj ; -able|abil|S ; -ity|ity|S
+pregnable	adj	pregnant|pregn|R|Adj ; -able|able|S
+pregnantly	adv	pregnant|pregnant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+preguidance	noun	pre-|pre|P ; guidance|guidance|R|N
+prehallux	noun	pre-|pre|P ; hallux|hallux|R|N
+preheater	noun	pre-|pre|P ; heat|heat|R|V ; -er|er|S||-er (N)
+prehensible	adj	prehensible|prehensible|R|Adj
+prehensility	noun	prehensile|prehensil|R|Adj ; -ity|ity|S
+prehepatic	adj	pre-|pre|P ; hepatic|hepatic|R|Adj
+prehistorian	noun	pre-|pre|P ; historian|historian|R|N
+prehistorically	adv	pre-|pre|P ; historic|historic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+prehnite	noun	prehnite|prehnite|R|N
+prehuman	adj	pre-|pre|P ; human|human|R|Adj
+preignition	noun	pre-|pre|P ; ignition|ignition|R|N
+preimage	noun	pre-|pre|P ; image|image|R|N
+preindustrial	adj	pre-|pre|P ; industrial|industrial|R|Adj
+preinstruct	verb	pre-|pre|P ; in-|in|P ; -struct|struct|B|V
+prejudger	noun	pre-|pre|P ; judge|judg|R|V ; -er|er|S||-er (N)
+prejudicate	verb	pre-|pre|P ; judicate|judicate|R|V
+prejudicially	adv	prejudice|prejudic|R|N ; -ial|ial|S ; -ly|ly|I|Adv|-ly (adv)
+prejudicialness	noun	prejudice|prejudic|R|N ; -ial|ial|S ; -ness|ness|S
+prelacy	noun	prelate|prela|R|N ; -cy|cy|S
+prelatical	adj	prelate|prelat|R|N ; -ical|ical|S
+prelatist	noun	prelate|prelat|R|N ; -ist|ist|S
+prelatize	verb	prelate|prelat|R|N ; -ize|ize|S
+prelature	noun	prelate|prelat|R|N ; -ure|ure|S
+prelaunch	noun	pre-|pre|P ; launch|launch|R|V
+prelection	noun	pre-|pre|P ; lection|lection|R|N
+prelibation	noun	pre-|pre|P ; libation|libation|R|N
+preluder	noun	prelude|prelud|R|V ; -er|er|S||-er (N)
+preludial	adj	prelude|prelud|R|N ; -ial|ial|S
+prelusion	noun	prelude|prelus|R|N ; -ion|ion|S
+prelusive	adj	prelude|prelus|R|N ; -ive|ive|S
+prelusively	adv	prelude|prelus|R|N ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+premandibular	adj	pre-|pre|P ; mandibular|mandibular|R|Adj
+premaritally	adv	pre-|pre|P ; marital|marital|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+prematrimonial	adj	pre-|pre|P ; matrimonial|matrimonial|R|Adj
+prematuration	noun	pre-|pre|P ; maturation|maturation|R|N
+prematureness	noun	pre-|pre|P ; mature|mature|R|Adj ; -ness|ness|S
+premaxilla	noun	pre-|pre|P ; maxilla|maxilla|R|N
+premaxillary	adj	pre-|pre|P ; maxilla|maxill|R|N ; -ary|ary|S
+premed	noun	pre-|pre|P ; med|med|R|N
+premedication	noun	pre-|pre|P ; medication|medication|R|N
+premeditatedly	adv	pre-|pre|P ; meditate|meditat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+premeditative	adj	pre-|pre|P ; meditate|meditat|R|V ; -ive|ive|S
+premeditator	noun	pre-|pre|P ; meditate|meditat|R|V ; -or|or|S
+premetro	noun	pre-|pre|P ; metro|metro|R|N
+premillennial	adj	pre-|pre|P ; millennial|millennial|R|Adj
+premillennialism	noun	pre-|pre|P ; millennialism|millennialism|R|N
+premillennialist	noun	pre-|pre|P ; millennialist|millennialist|R|N
+premised	verb	premise|premis|R|V ; -ed|ed|I||-ed (v2)
+premises	noun	premise|premise|R|N ; -s|s|I||-s (plural)
+premix	noun	pre-|pre|P ; mix|mix|R|V
+premixing	verb	pre-|pre|P ; mix|mix|R|V ; -ing|ing|I||-ing (v)
+premodern	adj	pre-|pre|P ; modern|modern|R|Adj
+premolar	noun	pre-|pre|P ; molar|molar|R|N
+premonitor	noun	pre-|pre|P ; monitor|monitor|R|N
+premonitorily	adv	pre-|pre|P ; monitor|monitor|R|V ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+premotion	noun	pre-|pre|P ; motion|motion|R|N
+premundane	adj	pre-|pre|P ; mundane|mundane|R|Adj
+premunition	noun	pre-|pre|P ; munition|munition|R|N
+prename	noun	pre-|pre|P ; name|name|R|N
+prenatally	adv	pre-|pre|P ; natal|natal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+prenominate	verb	pre-|pre|P ; nominate|nominate|R|V
+prenotion	noun	pre-|pre|P ; notion|notion|R|N
+preoccipital	adj	pre-|pre|P ; occipital|occipital|R|Adj
+preoccupancy	noun	pre-|pre|P ; occupy|occup|R|V ; -ancy|ancy|S
+preocular	adj	pre-|pre|P ; ocular|ocular|R|Adj
+preopinion	noun	pre-|pre|P ; opinion|opinion|R|N
+preorbital	adj	pre-|pre|P ; orbital|orbital|R|Adj
+preordainment	noun	pre-|pre|P ; ordain|ordain|R|V ; -ment|ment|S
+preorder	verb	pre-|pre|P ; order|order|R|V
+preordination	noun	pre-|pre|P ; ordain|ordin|R|V ; -ation|ation|S
+preovulatory	adj	pre-|pre|P ; ovulate|ovulat|R|V ; -ory|ory|S
+prepandemic	adj	pre-|pre|P ; pandemic|pandemic|R|Adj
+preparable	adj	prepare|prepar|R|V ; -able|able|S
+preparative	adj	prepare|prepar|R|V ; -ative|ative|S
+preparatively	adv	prepare|prepar|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+preparator	noun	prepare|preparat|R|V ; -or|or|S
+preparatorily	adv	prepare|preparat|R|V ; -ory|ori|S ; -ly|ly|I|Adv|-ly (adv)
+preparedly	adv	prepare|prepar|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+preparietal	adj	pre-|pre|P ; parietal|parietal|R|Adj
+preparty	noun	pre-|pre|P ; party|party|R|N
+prepatellar	adj	pre-|pre|P ; patellar|patellar|R|Adj
+prepayable	adj	pre-|pre|P ; pay|pay|R|V ; -able|able|S
+prepend	verb	prepend|prepend|R|V
+prepense	adj	prepense|prepense|R|Adj
+prepensely	adv	prepense|prepense|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+preponderate	verb	pre-|pre|P ; ponder|ponder|R|V ; -ate|ate|S
+preponderately	adv	pre-|pre|P ; ponder|ponder|R|V ; -ate|ate|S ; -ly|ly|I|Adv|-ly (adv)
+preponderation	noun	pre-|pre|P ; ponder|ponder|R|V ; -ation|ation|S
+prepositionally	adv	preposition|preposition|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+prepositive	adj	pre-|pre|P ; posit|posit|R|V ; -ive|ive|S
+prepositively	adv	pre-|pre|P ; posit|posit|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+prepossess	verb	pre-|pre|P ; possess|possess|R|V
+prepossessed	adj	pre-|pre|P ; possess|possess|R|V ; -ed|ed|S||-ed (adj)
+prepossessingly	adv	pre-|pre|P ; possess|possess|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+prepossessingness	noun	pre-|pre|P ; possess|possess|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+prepossession	noun	pre-|pre|P ; possess|possess|R|V ; -ion|ion|S
+preposterousness	noun	preposterous|preposterous|R|Adj ; -ness|ness|S
+prepotence	noun	prepotent|prepot|R|Adj ; -ence|ence|S
+prepotency	noun	prepotent|prepot|R|Adj ; -ency|ency|S
+prepotent	adj	pre-|pre|P ; potent|potent|R|Adj
+prepotently	adv	pre-|pre|P ; potent|potent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+preprandial	adj	pre-|pre|P ; prandial|prandial|R|Adj
+preprint	noun	pre-|pre|P ; print|print|R|V
+preprocess	verb	pre-|pre|P ; process|process|R|V
+preprocessing	noun	pre-|pre|P ; process|process|R|V ; -ing|ing|S||-ing (N)
+preprocessor	noun	pre-|pre|P ; process|process|R|V ; -or|or|S
+preprofessional	adj	pre-|pre|P ; professional|professional|R|Adj
+preproparoxytone	noun	pre-|pre|P ; proparoxytone|proparoxytone|R|N
+preprophase	noun	pre-|pre|P ; prophase|prophase|R|N
+prepuberal	adj	pre-|pre|P ; puberal|puberal|R|Adj
+prepubertal	adj	pre-|pre|P ; pubertal|pubertal|R|Adj
+prepuberty	noun	pre-|pre|P ; puberty|puberty|R|N
+prepubic	adj	pre-|pre|P ; pubic|pubic|R|Adj
+prepublication	noun	pre-|pre|P ; publish|public|R|V ; -ation|ation|S
+prepuce	noun	prepuce|prepuce|R|N
+prepupa	noun	pre-|pre|P ; pupa|pupa|R|N
+preputial	adj	prepuce|preputi|R|N ; -al|al|S
+preputium	noun	preputium|preputium|R|N
+prerecording	noun	pre-|pre|P ; record|record|R|V ; -ing|ing|S||-ing (N)
+preregister	verb	pre-|pre|P ; register|register|R|V
+preregistered	verb	pre-|pre|P ; register|register|R|V ; -ed|ed|I||-ed (v2)
+prerevolutionary	adj	pre-|pre|P ; revolution|revolution|R|N ; -ary|ary|S
+prerogatived	adj	prerogative|prerogativ|R|N ; -ed|ed|S||-ed (adj)
+presageful	adj	presage|presage|R|N ; -ful|ful|S
+presager	noun	presage|presag|R|V ; -er|er|S||-er (N)
+presaging	verb	presage|presag|R|V ; -ing|ing|I||-ing (v)

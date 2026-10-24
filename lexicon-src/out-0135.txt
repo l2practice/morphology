@@ -1,0 +1,200 @@
+rusk	noun	rusk|rusk|R|N
+recode	verb	re-|re|P ; code|code|R|V
+atomistic	adj	atom|atom|R|N ; -ist|ist|S ; -ic|ic|S
+amine	noun	amine|amine|R|N
+inconsistently	adv	in-|in|P ; consist|consist|R|V ; -ent|ent|S ; -ly|ly|I|Adv|-ly (adv)
+genuflect	verb	genuflect|genuflect|R|V
+ghostlike	adj	ghost|ghost|R|N ; -like|like|S
+sockeye	noun	sock|sock|R|N ; eye|eye|R|N
+otolaryngology	noun	otolaryngology|otolaryngology|R|N
+lassitude	noun	lassitude|lassitude|R|N
+exhumation	noun	exhume|exhum|R|V ; -ation|ation|S
+vert	noun	vert|vert|R|N
+recalculate	verb	re-|re|P ; calculate|calculate|R|V
+encoding	noun	en-|en|P ; code|cod|R|V ; -ing|ing|S||-ing (N)
+misspelling	noun	mis-|mis|P ; spell|spell|R|V ; -ing|ing|S||-ing (N)
+clavicle	noun	clavicle|clavicle|R|N
+taffy	noun	taffy|taffy|R|N
+billowy	adj	billow|billow|R|V ; -y|y|S
+beefsteak	noun	beef|beef|R|N ; steak|steak|R|N
+coulter	noun	coulter|coulter|R|N
+sashimi	noun	sashimi|sashimi|R|N
+divestment	noun	divest|divest|R|V ; -ment|ment|S
+gorgeously	adv	gorgeous|gorgeous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+reunify	verb	re-|re|P ; unify|unify|R|V
+despoil	verb	de-|de|P ; spoil|spoil|R|V
+anaphylaxis	noun	anaphylaxis|anaphylaxis|R|N
+pharyngeal	adj	pharyngeal|pharyngeal|R|Adj
+charitably	adv	charity|charit|R|N ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+dander	noun	dander|dander|R|N
+landau	noun	landau|landau|R|N
+sociometric	adj	sociometric|sociometric|R|Adj
+abashed	adj	a-|a|P ; bash|bash|R|V ; -ed|ed|S||-ed (adj)
+buckshot	noun	buck|buck|R|N ; shot|shot|R|N
+waterproofing	noun	water|water|R|N ; proof|proof|R|N ; -ing|ing|S||-ing (N)
+centerline	noun	center|center|R|N ; line|line|R|N
+unapproachable	adj	un-|un|P ; approach|approach|R|V ; -able|able|S
+goalscorer	noun	goal|goal|R|N ; score|scor|R|V ; -er|er|S||-er (N)
+biannual	adj	bi-|bi|P ; annual|annual|R|Adj
+settling	noun	settle|settl|R|V ; -ing|ing|S||-ing (N)
+boned	adj	bone|bon|R|N ; -ed|ed|S||-ed (adj)
+dino	noun	dino|dino|R|N
+perjure	verb	perjure|perjure|R|V
+emotionality	noun	emotion|emotion|R|N ; -al|al|S ; -ity|ity|S
+telecoms	noun	telecom|telecom|R|N ; -s|s|I||-s (plural)
+pilaster	noun	pilaster|pilaster|R|N
+inelastic	adj	in-|in|P ; elastic|elastic|R|Adj
+stomping	noun	stomp|stomp|R|V ; -ing|ing|S||-ing (N)
+encephalopathy	noun	encephalopathy|encephalopathy|R|N
+flapping	noun	flap|flapp|R|V ; -ing|ing|S||-ing (N)
+scimitar	noun	scimitar|scimitar|R|N
+audiogram	noun	audiogram|audiogram|R|N
+magnifier	noun	magnify|magnifi|R|V ; -er|er|S||-er (N)
+mir	noun	mir|mir|R|N
+rhapsodize	verb	rhapsody|rhapsod|R|N ; -ize|ize|S
+lackadaisical	adj	lackadaisical|lackadaisical|R|Adj
+stowaway	noun	stow|stow|R|V ; away|away|R|Adv
+aerie	noun	aerie|aerie|R|N
+latticework	noun	lattice|lattice|R|N ; work|work|R|N
+businessperson	noun	business|business|R|N ; person|person|R|N
+benefice	noun	benefice|benefice|R|N
+nonlinearity	noun	non-|non|P ; linear|linear|R|Adj ; -ity|ity|S
+abrade	verb	abrade|abrade|R|V
+beamish	adj	beam|beam|R|N ; -ish|ish|S
+strictness	noun	strict|strict|R|Adj ; -ness|ness|S
+disheartening	adj	dis-|dis|P ; heart|heart|R|N ; -en|en|S ; -ing|ing|S||-ing (adj)
+lisp	verb	lisp|lisp|R|V
+hothead	noun	hot|hot|R|Adj ; head|head|R|N
+copywriter	noun	copy|copy|R|N ; write|writ|R|V ; -er|er|S||-er (N)
+kraft	noun	kraft|kraft|R|N
+proscenium	noun	proscenium|proscenium|R|N
+positivity	noun	positive|positiv|R|Adj ; -ity|ity|S
+compassionately	adv	compassion|compassion|R|N ; -ate|ate|S ; -ly|ly|I|Adv|-ly (adv)
+deprave	verb	deprave|deprave|R|V
+gainful	adj	gain|gain|R|V ; -ful|ful|S
+calcite	noun	calcite|calcite|R|N
+showerhead	noun	shower|shower|R|N ; head|head|R|N
+billeting	noun	billet|billet|R|V ; -ing|ing|S||-ing (N)
+catcall	noun	cat|cat|R|N ; call|call|R|V
+seasickness	noun	sea|sea|R|N ; sick|sick|R|Adj ; -ness|ness|S
+mina	noun	mina|mina|R|N
+undressed	adj	un-|un|P ; dress|dress|R|V ; -ed|ed|S||-ed (adj)
+megastar	noun	megastar|megastar|R|N
+remix	verb	re-|re|P ; mix|mix|R|V
+intemperate	adj	in-|in|P ; temperate|temperate|R|Adj
+covalent	adj	co-|co|P ; valent|valent|R|Adj
+hollyhock	noun	holly|holly|R|N ; hock|hock|R|N
+gelato	noun	gelato|gelato|R|N
+aught	noun	aught|aught|R|N
+reseed	verb	re-|re|P ; seed|seed|R|V
+jiffy	noun	jiffy|jiffy|R|N
+bicultural	adj	bi-|bi|P ; culture|cultur|R|N ; -al|al|S
+stooped	adj	stoop|stoop|R|V ; -ed|ed|S||-ed (adj)
+upwind	adv	up|up|R ; wind|wind|R|N
+scouse	noun	scouse|scouse|R|N
+zookeeper	noun	zoo|zoo|R|N ; keep|keep|R|V ; -er|er|S||-er (N)
+latke	noun	latke|latke|R|N
+bilingualism	noun	bi-|bi|P ; lingual|lingual|R|Adj ; -ism|ism|S
+uneaten	adj	un-|un|P ; eat|eat|R|V ; -en|en|I||-en (participle)
+chico	noun	chico|chico|R|N
+rheumatic	adj	rheumatic|rheumatic|R|Adj
+looker	noun	look|look|R|V ; -er|er|S||-er (N)
+profiteer	noun	profit|profit|R|N ; -eer|eer|S
+talkback	noun	talk|talk|R|V ; back|back|R
+languorous	adj	languor|languor|R|N ; -ous|ous|S
+prognostication	noun	prognosticate|prognosticat|R|V ; -ion|ion|S
+valance	noun	valance|valance|R|N
+cowrie	noun	cowrie|cowrie|R|N
+jackrabbit	noun	jack|jack|R|N ; rabbit|rabbit|R|N
+computerization	noun	computer|computer|R|N ; -ize|iz|S ; -ation|ation|S
+infective	adj	infect|infect|R|V ; -ive|ive|S
+guillemot	noun	guillemot|guillemot|R|N
+lye	noun	lye|lye|R|N
+cur	noun	cur|cur|R|N
+caliph	noun	caliph|caliph|R|N
+demigod	noun	demigod|demigod|R|N
+jammed	adj	jam|jamm|R|V ; -ed|ed|S||-ed (adj)
+alliteration	noun	alliteration|alliteration|R|N
+elide	verb	elide|elide|R|V
+exoneration	noun	ex-|ex|P ; onerate|onerat|R|V ; -ion|ion|S
+jive	verb	jive|jive|R|V
+undead	adj	un-|un|P ; dead|dead|R|Adj
+cholesteatoma	noun	cholesteatoma|cholesteatoma|R|N
+arpeggio	noun	arpeggio|arpeggio|R|N
+bullfight	noun	bull|bull|R|N ; fight|fight|R|V
+ethnology	noun	ethnology|ethnology|R|N
+pushcart	noun	push|push|R|V ; cart|cart|R|N
+purifier	noun	purify|purifi|R|V ; -er|er|S||-er (N)
+micrograph	noun	micro-|micro|P ; graph|graph|R|N
+placer	noun	place|plac|R|V ; -er|er|S||-er (N)
+unbuckle	verb	un-|un|P ; buckle|buckle|R|V
+asphyxiate	verb	asphyxiate|asphyxiate|R|V
+contrail	noun	con-|con|P ; trail|trail|R|N
+beneficially	adv	beneficial|beneficial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sharpener	noun	sharpen|sharpen|R|V ; -er|er|S||-er (N)
+wavefunction	noun	wave|wave|R|N ; function|function|R|N
+withers	noun	withers|withers|R|N
+rimmed	adj	rim|rimm|R|N ; -ed|ed|S||-ed (adj)
+wynn	noun	wynn|wynn|R|N
+masochist	noun	masochist|masochist|R|N
+spry	adj	spry|spry|R|Adj
+contextually	adv	context|context|R|N ; -ual|ual|S ; -ly|ly|I|Adv|-ly (adv)
+potentate	noun	potent|potent|R|Adj ; -ate|ate|S
+canker	noun	canker|canker|R|N
+sandpiper	noun	sand|sand|R|N ; pipe|pip|R|V ; -er|er|S||-er (N)
+acetylcholine	noun	acetylcholine|acetylcholine|R|N
+nanoparticle	noun	nanoparticle|nanoparticle|R|N
+homebody	noun	home|home|R|N ; body|body|R|N
+tetracycline	noun	tetracycline|tetracycline|R|N
+snowsuit	noun	snow|snow|R|N ; suit|suit|R|N
+debug	verb	de-|de|P ; bug|bug|R|N
+decommission	verb	de-|de|P ; commission|commission|R|V
+luminescence	noun	luminesce|luminesc|R|V ; -ence|ence|S
+schlep	verb	schlep|schlep|R|V
+dreadnought	noun	dread|dread|R|V ; nought|nought|R|N
+fireproof	adj	fire|fire|R|N ; proof|proof|R|N
+distend	verb	dis-|dis|P ; tend|tend|R|V
+videographer	noun	video|video|R|N ; graph|graph|R|N ; -er|er|S||-er (N)
+cutler	noun	cutler|cutler|R|N
+penumbra	noun	penumbra|penumbra|R|N
+viscose	noun	viscose|viscose|R|N
+porta	noun	porta|porta|R|N
+hoo	interj	hoo|hoo|R
+interlocutory	adj	interlocutory|interlocutory|R|Adj
+sprocket	noun	sprocket|sprocket|R|N
+moonscape	noun	moonscape|moonscape|R|N
+untracked	adj	un-|un|P ; track|track|R|V ; -ed|ed|S||-ed (adj)
+lecherous	adj	lech|lech|R|V ; -er|er|S||-er (N) ; -ous|ous|S
+dissociative	adj	dissociate|dissociat|R|V ; -ive|ive|S
+conk	verb	conk|conk|R|V
+vacantly	adv	vacant|vacant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+rayleigh	noun	rayleigh|rayleigh|R|N
+sanitarian	noun	sanitary|sanitari|R|Adj ; -an|an|S
+abrogation	noun	abrogate|abrogat|R|V ; -ion|ion|S
+barbarity	noun	barbarity|barbarity|R|N
+actin	noun	actin|actin|R|N
+vulva	noun	vulva|vulva|R|N
+defamatory	adj	defame|defam|R|V ; -ory|atory|S
+nightspot	noun	night|night|R|N ; spot|spot|R|N
+obit	noun	obit|obit|R|N
+hollowness	noun	hollow|hollow|R|Adj ; -ness|ness|S
+crofting	noun	croft|croft|R|N ; -ing|ing|S||-ing (N)
+flasher	noun	flash|flash|R|V ; -er|er|S||-er (N)
+metadata	noun	metadata|metadata|R|N
+verbiage	noun	verbiage|verbiage|R|N
+codling	noun	cod|cod|R|N ; -ling|ling|S
+kinematic	adj	kinematic|kinematic|R|Adj
+chaperon	noun	chaperon|chaperon|R|N
+airplay	noun	air|air|R|N ; play|play|R|V
+unclench	verb	un-|un|P ; clench|clench|R|V
+simpleton	noun	simpleton|simpleton|R|N
+geode	noun	geode|geode|R|N
+indexation	noun	index|index|R|N ; -ation|ation|S
+embolism	noun	embolism|embolism|R|N
+fraudster	noun	fraud|fraud|R|N ; -ster|ster|S
+audiovisual	adj	audiovisual|audiovisual|R|Adj
+cinnabar	noun	cinnabar|cinnabar|R|N
+intertidal	adj	inter-|inter|P ; tidal|tidal|R|Adj
+pursuing	verb	pursue|pursu|R|V ; -ing|ing|I||-ing (v)
+stringed	adj	string|string|R|N ; -ed|ed|S||-ed (adj)
+easternmost	adj	easternmost|easternmost|R|Adj

@@ -1,0 +1,200 @@
+atonia	noun	atonia|atonia|R|N
+atonic	adj	a-|a|P ; tonic|tonic|R|Adj
+atonicity	noun	a-|a|P ; tonic|tonic|R|Adj ; -ity|ity|S
+atony	noun	atony|atony|R|N
+atopy	noun	atopy|atopy|R|N
+atrabilious	adj	atrabilious|atrabilious|R|Adj
+atrabiliousness	noun	atrabilious|atrabilious|R|Adj ; -ness|ness|S
+atremble	adj	a-|a|P ; tremble|tremble|R|V
+atrociousness	noun	atrocious|atrocious|R|Adj ; -ness|ness|S
+atrophying	verb	atrophy|atrophy|R|V ; -ing|ing|I||-ing (v)
+atta	noun	atta|atta|R|N
+attachable	adj	attach|attach|R|V ; -able|able|S
+attackable	adj	attack|attack|R|V ; -able|able|S
+attagirl	interj	attagirl|attagirl|R|N
+attainability	noun	attain|attain|R|V ; -able|abil|S ; -ity|ity|S
+attainableness	noun	attain|attain|R|V ; -able|able|S ; -ness|ness|S
+attaint	verb	attaint|attaint|R|V
+attemper	verb	attemper|attemper|R|V
+attemptable	adj	attempt|attempt|R|V ; -able|able|S
+attempter	noun	attempt|attempt|R|V ; -er|er|S||-er (N)
+attendantly	adv	attendant|attendant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+attester	noun	attest|attest|R|V ; -er|er|S||-er (N)
+attestor	noun	attest|attest|R|V ; -or|or|S
+atticless	adj	attic|attic|R|N ; -less|less|S
+attired	verb	attire|attir|R|V ; -ed|ed|I||-ed (v2)
+attiring	verb	attire|attir|R|V ; -ing|ing|I||-ing (v)
+attitudinize	verb	attitudinize|attitudinize|R|V
+attitudinizing	verb	attitudinize|attitudiniz|R|V ; -ing|ing|I||-ing (v)
+attometre	noun	attometre|attometre|R|N
+attorneyship	noun	attorney|attorney|R|N ; -ship|ship|S
+attosecond	noun	attosecond|attosecond|R|N
+attractable	adj	attract|attract|R|V ; -able|able|S
+attributed	verb	attribute|attribut|R|V ; -ed|ed|I||-ed (v2)
+attributer	noun	attribute|attribut|R|V ; -er|er|S||-er (N)
+attributively	adv	attribute|attribut|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+attributiveness	noun	attribute|attribut|R|V ; -ive|ive|S ; -ness|ness|S
+attributor	noun	attribute|attribut|R|V ; -or|or|S
+attuning	verb	attune|attun|R|V ; -ing|ing|I||-ing (v)
+atwitter	adj	a-|a|P ; twitter|twitter|R|V
+atypicality	noun	a-|a|P ; typical|typical|R|Adj ; -ity|ity|S
+aubade	noun	aubade|aubade|R|N
+aubrietia	noun	aubrietia|aubrietia|R|N
+auctorial	adj	auctorial|auctorial|R|Adj
+aucuba	noun	aucuba|aucuba|R|N
+audaciousness	noun	audacious|audacious|R|Adj ; -ness|ness|S
+audial	adj	audial|audial|R|Adj
+audibleness	noun	audible|audible|R|Adj ; -ness|ness|S
+audient	noun	audient|audient|R|N
+audiogenic	adj	audiogenic|audiogenic|R|Adj
+audiograph	noun	audiograph|audiograph|R|N
+audion	noun	audion|audion|R|N
+audiphone	noun	audiphone|audiphone|R|N
+audism	noun	audism|audism|R|N
+auditive	adj	auditive|auditive|R|Adj
+auditorial	adj	auditory|auditori|R|Adj ; -al|al|S
+augend	noun	augend|augend|R|N
+augite	noun	augite|augite|R|N
+augmentable	adj	augment|augment|R|V ; -able|able|S
+augmentative	adj	augment|augment|R|V ; -ative|ative|S
+augmenter	noun	augment|augment|R|V ; -er|er|S||-er (N)
+augural	adj	augur|augur|R|V ; -al|al|S
+augustly	adv	august|august|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+augustness	noun	august|august|R|Adj ; -ness|ness|S
+auklet	noun	auk|auk|R|N ; -let|let|S
+aul	noun	aul|aul|R|N
+auld	adj	auld|auld|R|Adj
+aulic	adj	aulic|aulic|R|Adj
+aulos	noun	aulos|aulos|R|N
+aunthood	noun	aunt|aunt|R|N ; -hood|hood|S
+aureate	adj	aureate|aureate|R|Adj
+aurelian	noun	aurelian|aurelian|R|N
+aureola	noun	aureola|aureola|R|N
+aureomycin	noun	aureomycin|aureomycin|R|N
+auric	adj	auric|auric|R|Adj
+auricled	adj	auricle|auricl|R|N ; -ed|ed|S||-ed (adj)
+auricula	noun	auricula|auricula|R|N
+auricularis	noun	auricularis|auricularis|R|N
+auricularly	adv	auricular|auricular|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+auriculate	adj	auricle|auricul|R|N ; -ate|ate|S
+auriferous	adj	auriferous|auriferous|R|Adj
+auriform	adj	auriform|auriform|R|Adj
+aurilave	noun	aurilave|aurilave|R|N
+aurinasal	adj	aurinasal|aurinasal|R|Adj
+auriscope	noun	auriscope|auriscope|R|N
+aurist	noun	aurist|aurist|R|N
+aurochs	noun	aurochs|aurochs|R|N
+aurorally	adv	auroral|auroral|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+aurorean	adj	aurorean|aurorean|R|Adj
+auscultate	verb	auscultate|auscultate|R|V
+auscultative	adj	auscultate|auscultat|R|V ; -ive|ive|S
+auscultatory	adj	auscultate|auscultat|R|V ; -ory|ory|S
+auspicate	verb	auspice|auspic|R|N ; -ate|ate|S
+auspiciousness	noun	auspicious|auspicious|R|Adj ; -ness|ness|S
+austenite	noun	austenite|austenite|R|N
+austereness	noun	austere|austere|R|Adj ; -ness|ness|S
+australopith	noun	australopith|australopith|R|N
+autacoid	noun	autacoid|autacoid|R|N
+autarch	noun	autarch|autarch|R|N
+autarchic	adj	autarchic|autarchic|R|Adj
+autarchical	adj	autarchic|autarchic|R|Adj ; -al|al|S
+autarchy	noun	autarchy|autarchy|R|N
+autarkical	adj	autarky|autark|R|N ; -ical|ical|S
+autarkist	noun	autarky|autark|R|N ; -ist|ist|S
+autarky	noun	autarky|autarky|R|N
+autecology	noun	autecology|autecology|R|N
+authenticator	noun	authenticate|authenticat|R|V ; -or|or|S
+authoritativeness	noun	authoritative|authoritative|R|Adj ; -ness|ness|S
+authorities	noun	authority|authoriti|R|N ; -s|es|I||-s (plural)
+authorizer	noun	authorize|authoriz|R|V ; -er|er|S||-er (N)
+autist	noun	autist|autist|R|N
+autistically	adv	autistic|autistic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+autobesity	noun	autobesity|autobesity|R|N
+autobiographic	adj	auto-|auto|P ; biography|biograph|R|N ; -ic|ic|S
+autobiographicalness	noun	auto-|auto|P ; biography|biograph|R|N ; -ical|ical|S ; -ness|ness|S
+autobus	noun	auto-|auto|P ; bus|bus|R|N
+autocannibalism	noun	auto-|auto|P ; cannibal|cannibal|R|N ; -ism|ism|S
+autocannon	noun	auto-|auto|P ; cannon|cannon|R|N
+autocatalysis	noun	autocatalysis|autocatalysis|R|N
+autocatalytic	adj	autocatalytic|autocatalytic|R|Adj
+autocatalytically	adv	autocatalytic|autocatalytic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+autocephaly	noun	autocephaly|autocephaly|R|N
+autochrome	noun	auto-|auto|P ; chrome|chrome|R|N
+autochthon	noun	autochthon|autochthon|R|N
+autochthonal	adj	autochthon|autochthon|R|N ; -al|al|S
+autochthonic	adj	autochthon|autochthon|R|N ; -ic|ic|S
+autochthonism	noun	autochthon|autochthon|R|N ; -ism|ism|S
+autochthonously	adv	autochthonous|autochthonous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+autochthony	noun	autochthon|autochthon|R|N ; -y|y|S
+autoclaving	verb	autoclave|autoclav|R|V ; -ing|ing|I||-ing (v)
+autocode	noun	auto-|auto|P ; code|code|R|N
+autocomplete	verb	auto-|auto|P ; complete|complete|R|V
+autocorrelogram	noun	autocorrelogram|autocorrelogram|R|N
+autocoup	noun	auto-|auto|P ; coup|coup|R|N
+autocovariance	noun	autocovariance|autocovariance|R|N
+autocratical	adj	autocratic|autocratic|R|Adj ; -al|al|S
+autocross	noun	auto-|auto|P ; cross|cross|R|N
+autodidactic	adj	auto-|auto|P ; didactic|didactic|R|Adj
+autodidacticism	noun	auto-|auto|P ; didactic|didactic|R|Adj ; -ism|ism|S
+autoduality	noun	auto-|auto|P ; duality|duality|R|N
+autodyne	noun	autodyne|autodyne|R|N
+autoecious	adj	autoecious|autoecious|R|Adj
+autoecism	noun	autoecism|autoecism|R|N
+autoeroticism	noun	auto-|auto|P ; erotic|erotic|R|Adj ; -ism|ism|S
+autoerotism	noun	auto-|auto|P ; erotism|erotism|R|N
+autofecundation	noun	autofecundation|autofecundation|R|N
+autofellatio	noun	auto-|auto|P ; fellatio|fellatio|R|N
+autofiction	noun	auto-|auto|P ; fiction|fiction|R|N
+autofluorescence	noun	autofluorescence|autofluorescence|R|N
+autogamic	adj	autogamic|autogamic|R|Adj
+autogamous	adj	autogamous|autogamous|R|Adj
+autogamy	noun	autogamy|autogamy|R|N
+autogenesis	noun	autogenesis|autogenesis|R|N
+autogenous	adj	autogenous|autogenous|R|Adj
+autogenously	adv	autogenous|autogenous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+autogeny	noun	autogeny|autogeny|R|N
+autoglossonym	noun	autoglossonym|autoglossonym|R|N
+autographic	adj	autograph|autograph|R|N ; -ic|ic|S
+autographical	adj	autograph|autograph|R|N ; -ical|ical|S
+autographically	adv	autograph|autograph|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+autographing	verb	autograph|autograph|R|V ; -ing|ing|I||-ing (v)
+autography	noun	autograph|autograph|R|N ; -y|y|S
+autogynephilia	noun	autogynephilia|autogynephilia|R|N
+autogyro	noun	auto-|auto|P ; gyro|gyro|R|N
+autohypnosis	noun	auto-|auto|P ; hypnosis|hypnosis|R|N
+autohypnotic	adj	auto-|auto|P ; hypnotic|hypnotic|R|Adj
+autohypnotism	noun	auto-|auto|P ; hypnotism|hypnotism|R|N
+autoimmunization	noun	auto-|auto|P ; immunize|immuniz|R|V ; -ation|ation|S
+autoinfection	noun	auto-|auto|P ; infection|infection|R|N
+autoinfusion	noun	auto-|auto|P ; infusion|infusion|R|N
+autoinjector	noun	auto-|auto|P ; inject|inject|R|V ; -or|or|S
+autoinoculation	noun	auto-|auto|P ; inoculation|inoculation|R|N
+autointoxication	noun	auto-|auto|P ; intoxication|intoxication|R|N
+autokinetic	adj	auto-|auto|P ; kinetic|kinetic|R|Adj
+autological	adj	auto-|auto|P ; logical|logical|R|Adj
+autolysate	noun	autolysate|autolysate|R|N
+autolysin	noun	autolysin|autolysin|R|N
+autolysis	noun	autolysis|autolysis|R|N
+autolytic	adj	autolytic|autolytic|R|Adj
+automagical	adj	auto-|auto|P ; magical|magical|R|Adj
+automagically	adv	auto-|auto|P ; magical|magical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+automatist	noun	automaton|automat|R|N ; -ist|ist|S
+automative	adj	automative|automative|R|Adj
+automatization	noun	automatize|automatiz|R|V ; -ation|ation|S
+automatize	verb	automatic|automat|R|Adj ; -ize|ize|S
+automatonophobia	noun	automatonophobia|automatonophobia|R|N
+automixis	noun	automixis|automixis|R|N
+automorphic	adj	automorphic|automorphic|R|Adj
+automorphism	noun	automorphism|automorphism|R|N
+autonomically	adv	autonomic|autonomic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+autonomist	noun	autonomy|autonom|R|N ; -ist|ist|S
+autopathy	noun	autopathy|autopathy|R|N
+autopatrolled	verb	auto-|auto|P ; patrol|patroll|R|V ; -ed|ed|I||-ed (v2)
+autophagous	adj	autophagous|autophagous|R|Adj
+autophagy	noun	autophagy|autophagy|R|N
+autophobia	noun	auto-|auto|P ; phobia|phobia|R|N
+autophyte	noun	autophyte|autophyte|R|N
+autoplast	noun	autoplast|autoplast|R|N
+autoplastic	adj	auto-|auto|P ; plastic|plastic|R|Adj
+autoplasty	noun	autoplasty|autoplasty|R|N
+autoploid	adj	autoploid|autoploid|R|Adj

@@ -1,0 +1,200 @@
+hilliness	noun	hill|hill|R|N ; -y|i|S ; -ness|ness|S
+hilling	verb	hill|hill|R|V ; -ing|ing|I||-ing (v)
+hillocky	adj	hillock|hillock|R|N ; -y|y|S
+hillwalking	noun	hill|hill|R|N ; walk|walk|R|V ; -ing|ing|S||-ing (N)
+hilsa	noun	hilsa|hilsa|R|N
+hilum	noun	hilum|hilum|R|N
+himation	noun	himation|himation|R|N
+himbo	noun	himbo|himbo|R|N
+hin	noun	hin|hin|R|N
+hindbrain	noun	hind|hind|R|N ; brain|brain|R|N
+hindering	verb	hinder|hinder|R|V ; -ing|ing|I||-ing (v)
+hindermost	adj	hindermost|hindermost|R|Adj
+hingeless	adj	hinge|hinge|R|N ; -less|less|S
+hinny	noun	hinny|hinny|R|N
+hinting	verb	hint|hint|R|V ; -ing|ing|I||-ing (v)
+hintingly	adv	hint|hint|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+hipe	noun	hipe|hipe|R|N
+hippeastrum	noun	hippeastrum|hippeastrum|R|N
+hippiater	noun	hippiater|hippiater|R|N
+hippic	adj	hippic|hippic|R|Adj
+hippocras	noun	hippocras|hippocras|R|N
+hippodrome	noun	hippodrome|hippodrome|R|N
+hippogriff	noun	hippogriff|hippogriff|R|N
+hippology	noun	hippology|hippology|R|N
+hippophobia	noun	hippophobia|hippophobia|R|N
+hippopotomonstrosesquipedalian	adj	hippopotomonstrosesquipedalian|hippopotomonstrosesquipedalian|R|Adj
+hippopotomonstrosesquipedaliophobia	noun	hippopotomonstrosesquipedaliophobia|hippopotomonstrosesquipedaliophobia|R|N
+hipsterism	noun	hip|hip|R|N ; -ster|ster|S ; -ism|ism|S
+hirable	adj	hire|hir|R|V ; -able|able|S
+hiragana	noun	hiragana|hiragana|R|N
+hircine	adj	hircine|hircine|R|Adj
+hircocervus	noun	hircocervus|hircocervus|R|N
+hirola	noun	hirola|hirola|R|N
+hirple	verb	hirple|hirple|R|V
+hirsutism	noun	hirsutism|hirsutism|R|N
+hirudin	noun	hirudin|hirudin|R|N
+hirundine	adj	hirundine|hirundine|R|Adj
+hispid	adj	hispid|hispid|R|Adj
+hispidity	noun	hispid|hispid|R|Adj ; -ity|ity|S
+hist	interj	hist|hist|R|N
+histaminergic	adj	histaminergic|histaminergic|R|Adj
+histaminic	adj	histamine|histamin|R|N ; -ic|ic|S
+histidine	noun	histidine|histidine|R|N
+histiocytic	adj	histiocytic|histiocytic|R|Adj
+histochemical	adj	histochemical|histochemical|R|Adj
+histochemistry	noun	histochemistry|histochemistry|R|N
+histocompatibility	noun	histocompatibility|histocompatibility|R|N
+histogen	noun	histogen|histogen|R|N
+histogenesis	noun	histogenesis|histogenesis|R|N
+histogenetic	adj	histogenetic|histogenetic|R|Adj
+histogeny	noun	histogeny|histogeny|R|N
+histologist	noun	histology|histolog|R|N ; -ist|ist|S
+histolysis	noun	histolysis|histolysis|R|N
+histolytic	adj	histolytic|histolytic|R|Adj
+histopathologist	noun	histopathology|histopatholog|R|N ; -ist|ist|S
+histophysiology	noun	histophysiology|histophysiology|R|N
+historicize	verb	historic|historic|R|Adj ; -ize|ize|S
+historied	adj	history|histori|R|N ; -ed|ed|S||-ed (adj)
+histrionically	adv	histrionic|histrionic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+hitbox	noun	hit|hit|R|V ; box|box|R|N
+hives	noun	hive|hive|R|N ; -s|s|I||-s (plural)
+hiving	verb	hive|hiv|R|V ; -ing|ing|I||-ing (v)
+hizb	noun	hizb|hizb|R|N
+ho	interj	ho|ho|R|N
+hoarded	verb	hoard|hoard|R|V ; -ed|ed|I||-ed (v2)
+hoariness	noun	hoary|hoari|R|Adj ; -ness|ness|S
+hoarsen	verb	hoarse|hoars|R|Adj ; -en|en|S
+hoarstone	noun	hoar|hoar|R|Adj ; stone|stone|R|N
+hoatzin	noun	hoatzin|hoatzin|R|N
+hoaxing	verb	hoax|hoax|R|V ; -ing|ing|I||-ing (v)
+hobbledehoy	noun	hobbledehoy|hobbledehoy|R|N
+hobbledehoyish	adj	hobbledehoy|hobbledehoy|R|N ; -ish|ish|S
+hobbledehoyism	noun	hobbledehoy|hobbledehoy|R|N ; -ism|ism|S
+hobnail	noun	hob|hob|R|N ; nail|nail|R|N
+hobnailed	adj	hob|hob|R|N ; nail|nail|R|N ; -ed|ed|S||-ed (adj)
+hobnobbing	verb	hobnob|hobnobb|R|V ; -ing|ing|I||-ing (v)
+hoboy	noun	hoboy|hoboy|R|N
+hockshop	noun	hock|hock|R|V ; shop|shop|R|N
+hocus	verb	hocus|hocus|R|V
+hodden	noun	hodden|hodden|R|N
+hodja	noun	hodja|hodja|R|N
+hodman	noun	hod|hod|R|N ; man|man|R|N
+hodograph	noun	hodograph|hodograph|R|N
+hodophile	noun	hodophile|hodophile|R|N
+hodophilia	noun	hodophilia|hodophilia|R|N
+hodophobe	noun	hodophobe|hodophobe|R|N
+hodophobia	noun	hodophobia|hodophobia|R|N
+hodoscope	noun	hodoscope|hodoscope|R|N
+hoecake	noun	hoe|hoe|R|N ; cake|cake|R|N
+hoeing	verb	hoe|hoe|R|V ; -ing|ing|I||-ing (v)
+hogcote	noun	hog|hog|R|N ; cote|cote|R|N
+hogg	noun	hogg|hogg|R|N
+hogged	verb	hog|hogg|R|V ; -ed|ed|I||-ed (v2)
+hoggery	noun	hog|hogg|R|N ; -ery|ery|S
+hogget	noun	hogget|hogget|R|N
+hoggin	noun	hoggin|hoggin|R|N
+hogging	verb	hog|hogg|R|V ; -ing|ing|I||-ing (v)
+hoggish	adj	hog|hogg|R|N ; -ish|ish|S
+hoggishness	noun	hog|hogg|R|N ; -ish|ish|S ; -ness|ness|S
+hogherd	noun	hog|hog|R|N ; herd|herd|R|N
+hoglet	noun	hog|hog|R|N ; -let|let|S
+hogpen	noun	hog|hog|R|N ; pen|pen|R|N
+hogweed	noun	hog|hog|R|N ; weed|weed|R|N
+hoik	verb	hoik|hoik|R|V
+hoise	verb	hoise|hoise|R|V
+hoisting	verb	hoist|hoist|R|V ; -ing|ing|I||-ing (v)
+holandric	adj	holandric|holandric|R|Adj
+holarctic	adj	holarctic|holarctic|R|Adj
+holdfast	noun	hold|hold|R|V ; fast|fast|R|Adj
+holed	verb	hole|hol|R|V ; -ed|ed|I||-ed (v2)
+holidays	noun	holy|holi|R|Adj ; day|day|R|N ; -s|s|I||-s (plural)
+holily	adv	holy|holi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+holing	verb	hole|hol|R|V ; -ing|ing|I||-ing (v)
+holland	noun	holland|holland|R|N
+hollo	interj	hollo|hollo|R|N
+hollowware	noun	hollow|hollow|R|Adj ; ware|ware|R|N
+holm	noun	holm|holm|R|N
+holmium	noun	holmium|holmium|R|N
+holoblastic	adj	holoblastic|holoblastic|R|Adj
+holocrine	adj	holocrine|holocrine|R|Adj
+hologynic	adj	hologynic|hologynic|R|Adj
+holohedral	adj	holohedral|holohedral|R|Adj
+holohedron	noun	holohedron|holohedron|R|N
+holometabolism	noun	holometabolism|holometabolism|R|N
+holometabolous	adj	holometabolous|holometabolous|R|Adj
+holomictic	adj	holomictic|holomictic|R|Adj
+holomorphic	adj	holomorphic|holomorphic|R|Adj
+holonym	noun	holonym|holonym|R|N
+holonymy	noun	holonymy|holonymy|R|N
+holophrastic	adj	holophrastic|holophrastic|R|Adj
+holothurian	noun	holothurian|holothurian|R|N
+holotropic	adj	holotropic|holotropic|R|Adj
+holotype	noun	holotype|holotype|R|N
+hols	noun	hols|hols|R|N
+holystone	noun	holy|holy|R|Adj ; stone|stone|R|N
+homalographic	adj	homalographic|homalographic|R|Adj
+homebird	noun	home|home|R|N ; bird|bird|R|N
+homebrew	noun	home|home|R|N ; brew|brew|R|V
+homecraft	noun	home|home|R|N ; craft|craft|R|N
+homeomorphic	adj	homeomorphic|homeomorphic|R|Adj
+homeomorphism	noun	homeomorphism|homeomorphism|R|N
+homeomorphy	noun	homeomorphy|homeomorphy|R|N
+homeostat	noun	homeostat|homeostat|R|N
+homeschool	verb	home|home|R|N ; school|school|R|N
+homeschooling	noun	home|home|R|N ; school|school|R|N ; -ing|ing|S||-ing (N)
+homestay	noun	home|home|R|N ; stay|stay|R|V
+homeworld	noun	home|home|R|N ; world|world|R|N
+homeyness	noun	homey|homey|R|Adj ; -ness|ness|S
+homilist	noun	homily|homil|R|N ; -ist|ist|S
+hominization	noun	hominization|hominization|R|N
+hominoid	noun	hominoid|hominoid|R|N
+homo	noun	homo|homo|R|N
+homocapitalism	noun	homocapitalism|homocapitalism|R|N
+homocentric	adj	homocentric|homocentric|R|Adj
+homocercal	adj	homocercal|homocercal|R|Adj
+homochromatic	adj	homochromatic|homochromatic|R|Adj
+homocyclic	adj	homocyclic|homocyclic|R|Adj
+homodont	noun	homodont|homodont|R|N
+homoerotism	noun	homoerotism|homoerotism|R|N
+homogametic	adj	homogametic|homogametic|R|Adj
+homogamy	noun	homogamy|homogamy|R|N
+homogeneousness	noun	homogeneous|homogeneous|R|Adj ; -ness|ness|S
+homogenesis	noun	homogenesis|homogenesis|R|N
+homogenetic	adj	homogenetic|homogenetic|R|Adj
+homogenizer	noun	homogenize|homogeniz|R|V ; -er|er|S||-er (N)
+homogeny	noun	homogeny|homogeny|R|N
+homograft	noun	homograft|homograft|R|N
+homograph	noun	homograph|homograph|R|N
+homographic	adj	homographic|homographic|R|Adj
+homolecithal	adj	homolecithal|homolecithal|R|Adj
+homologate	verb	homologate|homologate|R|V
+homologation	noun	homologate|homologat|R|V ; -ion|ion|S
+homological	adj	homology|homolog|R|N ; -ical|ical|S
+homologize	verb	homology|homolog|R|N ; -ize|ize|S
+homomorphic	adj	homomorphic|homomorphic|R|Adj
+homomorphism	noun	homomorphism|homomorphism|R|N
+homomorphous	adj	homomorphous|homomorphous|R|Adj
+homonationalism	noun	homonationalism|homonationalism|R|N
+homonymic	adj	homonymic|homonymic|R|Adj
+homonymous	adj	homonymous|homonymous|R|Adj
+homopatriarchy	noun	homopatriarchy|homopatriarchy|R|N
+homophile	noun	homophile|homophile|R|N
+homophonic	adj	homophonic|homophonic|R|Adj
+homophonous	adj	homophonous|homophonous|R|Adj
+homopteran	noun	homopteran|homopteran|R|N
+homopterous	adj	homopterous|homopterous|R|Adj
+homoromantic	adj	homoromantic|homoromantic|R|Adj
+homoscedastic	adj	homoscedastic|homoscedastic|R|Adj
+homoscedasticity	noun	homoscedasticity|homoscedasticity|R|N
+homosexualization	noun	homosexualize|homosexualiz|R|V ; -ation|ation|S
+homosexualize	verb	homosexual|homosexual|R|Adj ; -ize|ize|S
+homosexually	adv	homosexual|homosexual|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+homosociality	noun	homosocial|homosocial|R|Adj ; -ity|ity|S
+homothallic	adj	homothallic|homothallic|R|Adj
+homothallism	noun	homothallism|homothallism|R|N
+homothetic	adj	homothetic|homothetic|R|Adj
+homothety	noun	homothety|homothety|R|N
+homotopic	adj	homotopic|homotopic|R|Adj
+homotopy	noun	homotopy|homotopy|R|N
+homozygosis	noun	homozygosis|homozygosis|R|N

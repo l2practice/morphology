@@ -1,0 +1,200 @@
+flunkyism	noun	flunky|flunky|R|N ; -ism|ism|S
+fluor	noun	fluor|fluor|R|N
+fluorene	noun	fluorene|fluorene|R|N
+fluoridate	verb	fluoride|fluorid|R|N ; -ate|ate|S
+fluoridization	noun	fluoride|fluorid|R|N ; -ize|iz|S ; -ation|ation|S
+fluoridize	verb	fluoride|fluorid|R|N ; -ize|ize|S
+fluorinate	verb	fluorine|fluorin|R|N ; -ate|ate|S
+fluorobenzene	noun	fluorobenzene|fluorobenzene|R|N
+fluorographic	adj	fluorography|fluorograph|R|N ; -ic|ic|S
+fluorography	noun	fluorography|fluorography|R|N
+fluoroscope	noun	fluoroscope|fluoroscope|R|N
+flurried	verb	flurry|flurri|R|V ; -ed|ed|I||-ed (v2)
+flurrying	verb	flurry|flurry|R|V ; -ing|ing|I||-ing (v)
+flusher	noun	flush|flush|R|V ; -er|er|S||-er (N)
+flusterate	verb	fluster|fluster|R|V ; -ate|ate|S
+flusteration	noun	fluster|fluster|R|V ; -ation|ation|S
+flustering	verb	fluster|fluster|R|V ; -ing|ing|I||-ing (v)
+fluter	noun	flute|flut|R|V ; -er|er|S||-er (N)
+fluttered	verb	flutter|flutter|R|V ; -ed|ed|I||-ed (v2)
+flutterer	noun	flutter|flutter|R|V ; -er|er|S||-er (N)
+fluty	adj	flute|flut|R|N ; -y|y|S
+fluviatic	adj	fluviatile|fluviat|R|Adj ; -ic|ic|S
+fluviatile	adj	fluviatile|fluviatile|R|Adj
+fluviograph	noun	fluviograph|fluviograph|R|N
+fluxation	noun	flux|flux|R|V ; -ation|ation|S
+fluxion	noun	flux|flux|R|V ; -ion|ion|S
+fluxional	adj	flux|flux|R|V ; -ion|ion|S ; -al|al|S
+fluxionary	adj	flux|flux|R|V ; -ion|ion|S ; -ary|ary|S
+flyable	adj	fly|fly|R|V ; -able|able|S
+flyback	noun	fly|fly|R|V ; back|back|R|N
+flyblown	adj	fly|fly|R|N ; blow|blown|R|V ; -en||I||-en (participle)
+flyman	noun	fly|fly|R|N ; man|man|R|N
+flysch	noun	flysch|flysch|R|N
+flyspeck	noun	fly|fly|R|N ; speck|speck|R|N
+flyunder	noun	fly|fly|R|V ; under|under|R|Adv
+foaling	verb	foal|foal|R|V ; -ing|ing|I||-ing (v)
+foamer	noun	foam|foam|R|V ; -er|er|S||-er (N)
+foamless	adj	foam|foam|R|N ; -less|less|S
+fob	noun	fob|fob|R|N
+focalize	verb	focus|foc|R|N ; -al|al|S ; -ize|ize|S
+fodderless	adj	fodder|fodder|R|N ; -less|less|S
+foeder	noun	foeder|foeder|R|N
+foehn	noun	foehn|foehn|R|N
+fogbank	noun	fog|fog|R|N ; bank|bank|R|N
+fogbow	noun	fog|fog|R|N ; bow|bow|R|N
+fogeydom	noun	fogey|fogey|R|N ; -dom|dom|S
+fogeyish	adj	fogey|fogey|R|N ; -ish|ish|S
+fogger	noun	fog|fogg|R|V ; -er|er|S||-er (N)
+fogginess	noun	fog|fogg|R|N ; -y|i|S ; -ness|ness|S
+fogging	verb	fog|fogg|R|V ; -ing|ing|I||-ing (v)
+fogyish	adj	fogy|fogy|R|N ; -ish|ish|S
+fogyism	noun	fogy|fogy|R|N ; -ism|ism|S
+foiler	noun	foil|foil|R|V ; -er|er|S||-er (N)
+foiling	verb	foil|foil|R|V ; -ing|ing|I||-ing (v)
+foilist	noun	foil|foil|R|N ; -ist|ist|S
+foin	verb	foin|foin|R|V
+foison	noun	foison|foison|R|N
+foldability	noun	fold|fold|R|V ; -able|abil|S ; -ity|ity|S
+foldaway	adj	fold|fold|R|V ; away|away|R|Adv
+foldout	noun	fold|fold|R|V ; out|out|R|Adv
+foliaceous	adj	foliaceous|foliaceous|R|Adj
+foliaged	adj	foliage|foliag|R|N ; -ed|ed|S||-ed (adj)
+foliar	adj	foliar|foliar|R|Adj
+foliate	adj	foliate|foliate|R|Adj
+foliated	adj	foliate|foliat|R|Adj ; -ed|ed|S||-ed (adj)
+foliation	noun	foliate|foliat|R|V ; -ion|ion|S
+foliicolous	adj	foliicolous|foliicolous|R|Adj
+foliolate	adj	foliolate|foliolate|R|Adj
+foliole	noun	foliole|foliole|R|N
+foliose	adj	foliose|foliose|R|Adj
+folium	noun	folium|folium|R|N
+folivore	noun	folivore|folivore|R|N
+folkland	noun	folk|folk|R|N ; land|land|R|N
+folklorism	noun	folklore|folklor|R|N ; -ism|ism|S
+folkloristics	noun	folklorist|folklorist|R|N ; -ic|ic|S ; -s|s|I||-s (plural)
+folkmoot	noun	folk|folk|R|N ; moot|moot|R|N
+folksiness	noun	folks|folks|R|N ; -y|i|S ; -ness|ness|S
+folksinger	noun	folk|folk|R|N ; sing|sing|R|V ; -er|er|S||-er (N)
+folktronica	noun	folktronica|folktronica|R|N
+folkway	noun	folk|folk|R|N ; way|way|R|N
+folliculated	adj	follicle|follicul|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+folliculin	noun	folliculin|folliculin|R|N
+followable	adj	follow|follow|R|V ; -able|able|S
+fomentation	noun	foment|foment|R|V ; -ation|ation|S
+fomenter	noun	foment|foment|R|V ; -er|er|S||-er (N)
+fomite	noun	fomite|fomite|R|N
+fondler	noun	fondle|fondl|R|V ; -er|er|S||-er (N)
+fonio	noun	fonio|fonio|R|N
+fontal	adj	font|font|R|N ; -al|al|S
+fontanelle	noun	fontanelle|fontanelle|R|N
+foodless	adj	food|food|R|N ; -less|less|S
+foodporn	noun	food|food|R|N ; porn|porn|R|N
+foodshed	noun	food|food|R|N ; shed|shed|R|N
+foolery	noun	fool|fool|R|N ; -ery|ery|S
+fooling	verb	fool|fool|R|V ; -ing|ing|I||-ing (v)
+foolocracy	noun	foolocracy|foolocracy|R|N
+footbag	noun	foot|foot|R|N ; bag|bag|R|N
+footbath	noun	foot|foot|R|N ; bath|bath|R|N
+footbinding	noun	foot|foot|R|N ; bind|bind|R|V ; -ing|ing|S||-ing (N)
+footboy	noun	foot|foot|R|N ; boy|boy|R|N
+footle	verb	footle|footle|R|V
+footless	adj	foot|foot|R|N ; -less|less|S
+footlicker	noun	foot|foot|R|N ; lick|lick|R|V ; -er|er|S||-er (N)
+footling	verb	footle|footl|R|V ; -ing|ing|I||-ing (v)
+footnoted	verb	foot|foot|R|N ; note|not|R|V ; -ed|ed|I||-ed (v2)
+footpeg	noun	foot|foot|R|N ; peg|peg|R|N
+foots	noun	foot|foot|R|N ; -s|s|I||-s (plural)
+footsore	adj	foot|foot|R|N ; sore|sore|R|Adj
+footstalk	noun	foot|foot|R|N ; stalk|stalk|R|N
+footsure	adj	foot|foot|R|N ; sure|sure|R|Adj
+footwarmer	noun	foot|foot|R|N ; warm|warm|R|Adj ; -er|er|S||-er (N)
+footworn	adj	foot|foot|R|N ; wear|worn|R|V ; -en||I||-en (participle)
+footwrap	noun	foot|foot|R|N ; wrap|wrap|R|N
+footy	noun	foot|foot|R|N ; -y|y|S
+foozle	verb	foozle|foozle|R|V
+foppery	noun	fop|fopp|R|N ; -ery|ery|S
+foppishness	noun	fop|fopp|R|N ; -ish|ish|S ; -ness|ness|S
+foramen	noun	foramen|foramen|R|N
+foraminal	adj	foraminal|foraminal|R|Adj
+foraminate	adj	foraminate|foraminate|R|Adj
+foraminated	adj	foraminate|foraminat|R|Adj ; -ed|ed|S||-ed (adj)
+foraminifer	noun	foraminifer|foraminifer|R|N
+foraminiferal	adj	foraminifer|foraminifer|R|N ; -al|al|S
+foraminiferan	noun	foraminifer|foraminifer|R|N ; -an|an|S
+foraminiferous	adj	foraminifer|foraminifer|R|N ; -ous|ous|S
+forb	noun	forb|forb|R|N
+forbearing	verb	fore-|for|P ; bear|bear|R|V ; -ing|ing|I||-ing (v)
+forbiddance	noun	forbid|forbidd|R|V ; -ance|ance|S
+forbiddingness	noun	forbid|forbidd|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+forcedly	adv	force|forc|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+forceless	adj	force|force|R|N ; -less|less|S
+forcemeat	noun	force|force|R|V ; meat|meat|R|N
+forcer	noun	force|forc|R|V ; -er|er|S||-er (N)
+forces	noun	force|force|R|N ; -s|s|I||-s (plural)
+forcibleness	noun	force|forc|R|V ; -ible|ible|S ; -ness|ness|S
+forcipate	adj	forcipate|forcipate|R|Adj
+forcipulate	adj	forcipulate|forcipulate|R|Adj
+fordable	adj	ford|ford|R|V ; -able|able|S
+fording	verb	ford|ford|R|V ; -ing|ing|I||-ing (v)
+fordless	adj	ford|ford|R|N ; -less|less|S
+forebode	verb	fore-|fore|P ; bode|bode|R|V
+foreboder	noun	fore-|fore|P ; bode|bod|R|V ; -er|er|S||-er (N)
+forebody	noun	fore-|fore|P ; body|body|R|N
+forecastle	noun	fore-|fore|P ; castle|castle|R|N
+forecited	verb	fore-|fore|P ; cite|cit|R|V ; -ed|ed|I||-ed (v2)
+foreclosing	verb	fore-|fore|P ; close|clos|R|V ; -ing|ing|I||-ing (v)
+foredoom	verb	fore-|fore|P ; doom|doom|R|V
+forefeel	verb	fore-|fore|P ; feel|feel|R|V
+foregathering	verb	fore-|fore|P ; gather|gather|R|V ; -ing|ing|I||-ing (v)
+foregift	noun	fore-|fore|P ; gift|gift|R|N
+foreglow	noun	fore-|fore|P ; glow|glow|R|V
+foregoer	noun	fore-|fore|P ; go|go|R|V ; -er|er|S||-er (N)
+foregut	noun	fore-|fore|P ; gut|gut|R|N
+forehanded	adj	fore-|fore|P ; hand|hand|R|N ; -ed|ed|S||-ed (adj)
+forehearth	noun	fore-|fore|P ; hearth|hearth|R|N
+foreignism	noun	foreign|foreign|R|Adj ; -ism|ism|S
+foreignize	verb	foreign|foreign|R|Adj ; -ize|ize|S
+forejudge	verb	fore-|fore|P ; judge|judge|R|V
+foreknow	verb	fore-|fore|P ; know|know|R|V
+foreknowable	adj	fore-|fore|P ; know|know|R|V ; -able|able|S
+foreknown	adj	fore-|fore|P ; know|known|R|V ; -en||I||-en (participle)
+forel	noun	forel|forel|R|N
+forelook	noun	fore-|fore|P ; look|look|R|V
+foremilk	noun	fore-|fore|P ; milk|milk|R|N
+foremother	noun	fore-|fore|P ; mother|mother|R|N
+forenamed	adj	fore-|fore|P ; name|nam|R|V ; -ed|ed|S||-ed (adj)
+forenight	noun	fore-|fore|P ; night|night|R|N
+foreordain	verb	fore-|fore|P ; ordain|ordain|R|V
+foreordainment	noun	fore-|fore|P ; ordain|ordain|R|V ; -ment|ment|S
+foreordination	noun	fore-|fore|P ; ordain|ordin|R|V ; -ation|ation|S
+forepart	noun	fore-|fore|P ; part|part|R|N
+forepassed	verb	fore-|fore|P ; pass|pass|R|V ; -ed|ed|I||-ed (v2)
+foreplane	noun	fore-|fore|P ; plane|plane|R|N
+forereach	verb	fore-|fore|P ; reach|reach|R|V
+forerun	verb	fore-|fore|P ; run|run|R|V
+foresaid	adj	fore-|fore|P ; say|said|R|V ; -ed||I||-ed (v2)
+foresail	noun	fore-|fore|P ; sail|sail|R|N
+foreseeing	verb	fore-|fore|P ; see|see|R|V ; -ing|ing|I||-ing (v)
+foreseen	adj	fore-|fore|P ; see|seen|R|V ; -en||I||-en (participle)
+foreseer	noun	fore-|fore|P ; see|se|R|V ; -er|er|S||-er (N)
+foreshadower	noun	fore-|fore|P ; shadow|shadow|R|V ; -er|er|S||-er (N)
+foreshock	noun	fore-|fore|P ; shock|shock|R|N
+foreshortening	verb	fore-|fore|P ; short|short|R|Adj ; -en|en|S ; -ing|ing|I||-ing (v)
+foreside	noun	fore-|fore|P ; side|side|R|N
+foresighted	adj	fore-|fore|P ; sight|sight|R|N ; -ed|ed|S||-ed (adj)
+foresightedness	noun	fore-|fore|P ; sight|sight|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+foresightful	adj	fore-|fore|P ; sight|sight|R|N ; -ful|ful|S
+foreskinless	adj	fore-|fore|P ; skin|skin|R|N ; -less|less|S
+forespeech	noun	fore-|fore|P ; speech|speech|R|N
+forestage	noun	fore-|fore|P ; stage|stage|R|N
+forestalling	verb	fore-|fore|P ; stall|stall|R|V ; -ing|ing|I||-ing (v)
+forestation	noun	forest|forest|R|N ; -ation|ation|S
+forestay	noun	fore-|fore|P ; stay|stay|R|N
+foresummer	noun	fore-|fore|P ; summer|summer|R|N
+foreteller	noun	fore-|fore|P ; tell|tell|R|V ; -er|er|S||-er (N)
+foretelling	verb	fore-|fore|P ; tell|tell|R|V ; -ing|ing|I||-ing (v)
+forethoughtful	adj	fore-|fore|P ; thought|thought|R|N ; -ful|ful|S
+forethoughtfulness	noun	fore-|fore|P ; thought|thought|R|N ; -ful|ful|S ; -ness|ness|S
+foretime	noun	fore-|fore|P ; time|time|R|N
+foretoken	noun	fore-|fore|P ; token|token|R|N

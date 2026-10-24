@@ -1,0 +1,200 @@
+subduing	verb	subdue|subdu|R|V ; -ing|ing|I||-ing (v)
+subdwarf	noun	sub-|sub|P ; dwarf|dwarf|R|N
+subedit	verb	sub-|sub|P ; edit|edit|R|V
+subeditor	noun	sub-|sub|P ; edit|edit|R|V ; -or|or|S
+subentry	noun	sub-|sub|P ; entry|entry|R|N
+subepidermal	adj	sub-|sub|P ; epidermal|epidermal|R|Adj
+subequal	adj	sub-|sub|P ; equal|equal|R|Adj
+subequatorial	adj	sub-|sub|P ; equatorial|equatorial|R|Adj
+suber	noun	suber|suber|R|N
+suberect	adj	sub-|sub|P ; erect|erect|R|Adj
+subereous	adj	suber|suber|R|N ; -eous|eous|S
+suberic	adj	suber|suber|R|N ; -ic|ic|S
+suberin	noun	suberin|suberin|R|N
+suberization	noun	suber|suber|R|N ; -ize|iz|S ; -ation|ation|S
+suberose	adj	suberose|suberose|R|Adj
+suberous	adj	suber|suber|R|N ; -ous|ous|S
+subfebrile	adj	sub-|sub|P ; febrile|febrile|R|Adj
+subfix	noun	sub-|sub|P ; fix|fix|R|V
+subflavour	noun	sub-|sub|P ; flavour|flavour|R|N
+subfolder	noun	sub-|sub|P ; fold|fold|R|V ; -er|er|S||-er (N)
+subform	noun	sub-|sub|P ; form|form|R|N
+subformula	noun	sub-|sub|P ; formula|formula|R|N
+subfossil	noun	sub-|sub|P ; fossil|fossil|R|N
+subframe	noun	sub-|sub|P ; frame|frame|R|N
+subfreezing	adj	sub-|sub|P ; freeze|freez|R|V ; -ing|ing|S||-ing (adj)
+subfrequency	noun	sub-|sub|P ; frequency|frequency|R|N
+subfusc	adj	subfusc|subfusc|R|Adj
+subgelatinous	adj	sub-|sub|P ; gelatinous|gelatinous|R|Adj
+subgene	noun	sub-|sub|P ; gene|gene|R|N
+subgenus	noun	sub-|sub|P ; genus|genus|R|N
+subgiant	noun	sub-|sub|P ; giant|giant|R|N
+subglacial	adj	sub-|sub|P ; glacial|glacial|R|Adj
+subglobular	adj	sub-|sub|P ; globular|globular|R|Adj
+subgrade	noun	sub-|sub|P ; grade|grade|R|N
+subgraph	noun	sub-|sub|P ; graph|graph|R|N
+subharmonic	noun	sub-|sub|P ; harmonic|harmonic|R|Adj
+subheadline	noun	sub-|sub|P ; head|head|R|N ; line|line|R|N
+subimago	noun	sub-|sub|P ; imago|imago|R|N
+subimperialism	noun	sub-|sub|P ; imperial|imperial|R|Adj ; -ism|ism|S
+subinspector	noun	sub-|sub|P ; inspect|inspect|R|V ; -or|or|S
+subintestinal	adj	sub-|sub|P ; intestinal|intestinal|R|Adj
+subirrigate	verb	sub-|sub|P ; irrigate|irrigate|R|V
+subirrigation	noun	sub-|sub|P ; irrigate|irrigat|R|V ; -ion|ion|S
+subito	adv	subito|subito|R|Adv
+subjacency	noun	subjacency|subjacency|R|N
+subjacent	adj	subjacent|subjacent|R|Adj
+subjacently	adv	subjacent|subjacent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+subjectiveness	noun	subjective|subjective|R|Adj ; -ness|ness|S
+subjectless	adj	subject|subject|R|N ; -less|less|S
+subjoin	verb	sub-|sub|P ; join|join|R|V
+subjoint	noun	sub-|sub|P ; joint|joint|R|N
+subjugable	adj	subjugate|subjug|R|V ; -able|able|S
+subjugator	noun	subjugate|subjugat|R|V ; -or|or|S
+subjugatrix	noun	subjugatrix|subjugatrix|R|N
+subkingdom	noun	sub-|sub|P ; king|king|R|N ; -dom|dom|S
+sublabial	adj	sub-|sub|P ; labial|labial|R|Adj
+sublanceolate	adj	sub-|sub|P ; lanceolate|lanceolate|R|Adj
+sublate	verb	sublate|sublate|R|V
+sublation	noun	sublate|sublat|R|V ; -ion|ion|S
+sublative	adj	sublate|sublat|R|V ; -ive|ive|S
+sublattice	noun	sub-|sub|P ; lattice|lattice|R|N
+sublayer	noun	sub-|sub|P ; lay|lay|R|V ; -er|er|S||-er (N)
+sublessee	noun	sub-|sub|P ; lessee|lessee|R|N
+sublessor	noun	sub-|sub|P ; lessor|lessor|R|N
+sublethal	adj	sub-|sub|P ; lethal|lethal|R|Adj
+sublicense	noun	sub-|sub|P ; license|license|R|N
+subligaculum	noun	subligaculum|subligaculum|R|N
+sublimable	adj	sublime|sublim|R|Adj ; -able|able|S
+sublimeness	noun	sublime|sublime|R|Adj ; -ness|ness|S
+subliming	verb	sublime|sublim|R|V ; -ing|ing|I||-ing (v)
+sublittoral	adj	sub-|sub|P ; littoral|littoral|R|Adj
+sublunar	adj	sub-|sub|P ; lunar|lunar|R|Adj
+sublunary	adj	sub-|sub|P ; lunar|lunar|R|Adj ; -y|y|S
+submammary	adj	sub-|sub|P ; mammary|mammary|R|Adj
+subman	noun	sub-|sub|P ; man|man|R|N
+submanifold	noun	sub-|sub|P ; manifold|manifold|R|N
+submarginal	adj	sub-|sub|P ; marginal|marginal|R|Adj
+submarginally	adv	sub-|sub|P ; marginal|marginal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+submaster	noun	sub-|sub|P ; master|master|R|N
+submaxilla	noun	sub-|sub|P ; maxilla|maxilla|R|N
+submaxillary	adj	sub-|sub|P ; maxillary|maxillary|R|Adj
+submediant	noun	sub-|sub|P ; mediant|mediant|R|N
+submembranous	adj	sub-|sub|P ; membranous|membranous|R|Adj
+submental	adj	sub-|sub|P ; mental|mental|R|Adj
+submerse	verb	submerse|submerse|R|V
+submetallic	adj	sub-|sub|P ; metallic|metallic|R|Adj
+submicron	noun	sub-|sub|P ; micron|micron|R|N
+submicroscopically	adv	sub-|sub|P ; microscopic|microscopic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+subminiature	noun	sub-|sub|P ; miniature|miniature|R|N
+submitter	noun	submit|submitt|R|V ; -er|er|S||-er (N)
+submitting	verb	submit|submitt|R|V ; -ing|ing|I||-ing (v)
+submonoid	noun	sub-|sub|P ; monoid|monoid|R|N
+submontane	adj	sub-|sub|P ; montane|montane|R|Adj
+submucosa	noun	sub-|sub|P ; mucosa|mucosa|R|N
+submucous	adj	sub-|sub|P ; mucous|mucous|R|Adj
+submultiple	noun	sub-|sub|P ; multiple|multiple|R|Adj
+subnasal	adj	sub-|sub|P ; nasal|nasal|R|Adj
+subnet	noun	sub-|sub|P ; net|net|R|N
+subnival	adj	sub-|sub|P ; nival|nival|R|Adj
+subnormality	noun	sub-|sub|P ; normal|normal|R|Adj ; -ity|ity|S
+subnormally	adv	sub-|sub|P ; normal|normal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+subobject	noun	sub-|sub|P ; object|object|R|N
+suboccipital	adj	sub-|sub|P ; occipital|occipital|R|Adj
+suboceanic	adj	sub-|sub|P ; oceanic|oceanic|R|Adj
+subocular	adj	sub-|sub|P ; ocular|ocular|R|Adj
+suboesophageal	adj	sub-|sub|P ; oesophageal|oesophageal|R|Adj
+suboperculum	noun	sub-|sub|P ; operculum|operculum|R|N
+suboptimum	noun	sub-|sub|P ; optimum|optimum|R|N
+suborder	noun	sub-|sub|P ; order|order|R|N
+subordinal	adj	sub-|sub|P ; ordinal|ordinal|R|Adj
+subordinately	adv	subordinate|subordinate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+subordinateness	noun	subordinate|subordinate|R|Adj ; -ness|ness|S
+subordinative	adj	subordinate|subordinat|R|V ; -ive|ive|S
+suborner	verb	suborner|suborner|R|V
+suborning	verb	suborn|suborn|R|V ; -ing|ing|I||-ing (v)
+suboval	adj	sub-|sub|P ; oval|oval|R|Adj
+subovate	adj	sub-|sub|P ; ovate|ovate|R|Adj
+suboxide	noun	sub-|sub|P ; oxide|oxide|R|N
+subpage	noun	sub-|sub|P ; page|page|R|N
+subpar	adj	sub-|sub|P ; par|par|R|N
+subparagraph	noun	sub-|sub|P ; paragraph|paragraph|R|N
+subparallel	adj	sub-|sub|P ; parallel|parallel|R|Adj
+subpassage	noun	sub-|sub|P ; passage|passage|R|N
+subpattern	noun	sub-|sub|P ; pattern|pattern|R|N
+subpharyngeal	adj	sub-|sub|P ; pharyngeal|pharyngeal|R|Adj
+subphrenic	adj	sub-|sub|P ; phrenic|phrenic|R|Adj
+subphylum	noun	sub-|sub|P ; phylum|phylum|R|N
+subpilose	adj	sub-|sub|P ; pilose|pilose|R|Adj
+subpixel	noun	sub-|sub|P ; pixel|pixel|R|N
+subpleural	adj	sub-|sub|P ; pleural|pleural|R|Adj
+subpolar	adj	sub-|sub|P ; polar|polar|R|Adj
+subpotent	adj	sub-|sub|P ; potent|potent|R|Adj
+subprefect	noun	sub-|sub|P ; prefect|prefect|R|N
+subprefecture	noun	sub-|sub|P ; prefecture|prefecture|R|N
+subprincipal	noun	sub-|sub|P ; principal|principal|R|N
+subprior	noun	sub-|sub|P ; prior|prior|R|N
+subproduct	noun	sub-|sub|P ; product|product|R|N
+subprogram	noun	sub-|sub|P ; program|program|R|N
+subpulmonary	adj	sub-|sub|P ; pulmonary|pulmonary|R|Adj
+subpyramidal	adj	sub-|sub|P ; pyramidal|pyramidal|R|Adj
+subquadrate	adj	sub-|sub|P ; quadrate|quadrate|R|Adj
+subquery	noun	sub-|sub|P ; query|query|R|N
+subquestion	noun	sub-|sub|P ; question|question|R|N
+subramose	adj	sub-|sub|P ; ramose|ramose|R|Adj
+subrector	noun	sub-|sub|P ; rector|rector|R|N
+subreddit	noun	subreddit|subreddit|R|N
+subreniform	adj	sub-|sub|P ; reniform|reniform|R|Adj
+subrent	noun	sub-|sub|P ; rent|rent|R|N
+subreption	noun	subreption|subreption|R|N
+subring	noun	sub-|sub|P ; ring|ring|R|N
+subrogate	verb	sub-|sub|P ; rogate|rogate|R|V
+subrogation	noun	sub-|sub|P ; rogate|rogat|R|V ; -ion|ion|S
+subsacral	adj	sub-|sub|P ; sacral|sacral|R|Adj
+subsaturated	adj	sub-|sub|P ; saturate|saturat|R|V ; -ed|ed|S||-ed (adj)
+subsaturation	noun	sub-|sub|P ; saturate|saturat|R|V ; -ion|ion|S
+subscapular	adj	sub-|sub|P ; scapular|scapular|R|Adj
+subscribing	verb	sub-|sub|P ; -scribe|scrib|B|V ; -ing|ing|I||-ing (v)
+subsemigroup	noun	sub-|sub|P ; semi-|semi|P ; group|group|R|N
+subsensible	adj	sub-|sub|P ; sensible|sensible|R|Adj
+subsequence	noun	sub-|sub|P ; sequence|sequence|R|N
+subsequentness	noun	subsequent|subsequent|R|Adj ; -ness|ness|S
+subseries	noun	sub-|sub|P ; series|series|R|N
+subsessile	adj	sub-|sub|P ; sessile|sessile|R|Adj
+subshrub	noun	sub-|sub|P ; shrub|shrub|R|N
+subshrubby	adj	sub-|sub|P ; shrub|shrubb|R|N ; -y|y|S
+subsidiarily	adv	subsidiary|subsidiari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+subsidizer	noun	subsidize|subsidiz|R|V ; -er|er|S||-er (N)
+subsistent	adj	subsist|subsist|R|V ; -ent|ent|S
+subsoiler	noun	sub-|sub|P ; soil|soil|R|N ; -er|er|S||-er (N)
+subsoiling	noun	sub-|sub|P ; soil|soil|R|N ; -ing|ing|S||-ing (N)
+subsolar	adj	sub-|sub|P ; solar|solar|R|Adj
+subspecific	adj	sub-|sub|P ; specific|specific|R|Adj
+subspherical	adj	sub-|sub|P ; spherical|spherical|R|Adj
+substantialism	noun	substantial|substantial|R|Adj ; -ism|ism|S
+substantialist	noun	substantial|substantial|R|Adj ; -ist|ist|S
+substantialize	verb	substantial|substantial|R|Adj ; -ize|ize|S
+substantialness	noun	substantial|substantial|R|Adj ; -ness|ness|S
+substantival	adj	substantive|substantiv|R|Adj ; -al|al|S
+substantivise	verb	substantive|substantiv|R|Adj ; -ise|ise|S
+substantivize	verb	substantive|substantiv|R|Adj ; -ize|ize|S
+substernal	adj	sub-|sub|P ; sternal|sternal|R|Adj
+substituent	noun	substitute|substitu|R|V ; -ent|ent|S
+substitutional	adj	substitute|substitut|R|V ; -ion|ion|S ; -al|al|S
+substitutionally	adv	substitute|substitut|R|V ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+substitutively	adv	substitute|substitut|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+substratosphere	noun	sub-|sub|P ; stratosphere|stratosphere|R|N
+substring	noun	sub-|sub|P ; string|string|R|N
+substruction	noun	sub-|sub|P ; -struct|struct|B|V ; -ion|ion|S
+substructural	adj	sub-|sub|P ; structure|structur|R|N ; -al|al|S
+subtabulation	noun	sub-|sub|P ; tabulate|tabulat|R|V ; -ion|ion|S
+subtangent	noun	sub-|sub|P ; tangent|tangent|R|N
+subteenage	adj	sub-|sub|P ; teenage|teenage|R|Adj
+subtemperate	adj	sub-|sub|P ; temperate|temperate|R|Adj
+subtenancy	noun	sub-|sub|P ; tenancy|tenancy|R|N
+subtenant	noun	sub-|sub|P ; tenant|tenant|R|N
+subterminal	adj	sub-|sub|P ; terminal|terminal|R|Adj
+subterraneous	adj	sub-|sub|P ; terraneous|terraneous|R|Adj
+subthalamus	noun	sub-|sub|P ; thalamus|thalamus|R|N
+subthoracic	adj	sub-|sub|P ; thoracic|thoracic|R|Adj
+subtility	noun	subtle|subtil|R|Adj ; -ity|ity|S

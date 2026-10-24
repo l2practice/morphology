@@ -1,0 +1,200 @@
+sackbut	noun	sackbut|sackbut|R|N
+sacker	noun	sack|sack|R|N ; -er|er|S||-er (N)
+sackless	adj	sack|sack|R|N ; -less|less|S
+sacra	noun	sacra|sacra|R|N
+sacralize	verb	sacral|sacral|R|Adj ; -ize|ize|S
+sacramentalism	noun	sacrament|sacrament|R|N ; -al|al|S ; -ism|ism|S
+sacramentalist	noun	sacrament|sacrament|R|N ; -al|al|S ; -ist|ist|S
+sacramentarian	noun	sacrament|sacrament|R|N ; -ary|ari|S ; -an|an|S
+sacramentarianism	noun	sacrament|sacrament|R|N ; -ary|ari|S ; -an|an|S ; -ism|ism|S
+sacramentary	noun	sacrament|sacrament|R|N ; -ary|ary|S
+sacrarium	noun	sacrarium|sacrarium|R|N
+sacredly	adv	sacred|sacred|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sacrificer	noun	sacrifice|sacrific|R|V ; -er|er|S||-er (N)
+sacrificially	adv	sacrifice|sacrific|R|V ; -ial|ial|S ; -ly|ly|I|Adv|-ly (adv)
+sacrilegiously	adv	sacrilege|sacrileg|R|N ; -ious|ious|S ; -ly|ly|I|Adv|-ly (adv)
+sacrilegist	noun	sacrilege|sacrileg|R|N ; -ist|ist|S
+sacrist	noun	sacrist|sacrist|R|N
+sacrocaudal	adj	sacrocaudal|sacrocaudal|R|Adj
+sacrococcygeal	adj	sacrococcygeal|sacrococcygeal|R|Adj
+sacrolumbar	adj	sacrolumbar|sacrolumbar|R|Adj
+sacrosciatic	adj	sacrosciatic|sacrosciatic|R|Adj
+sacrospinal	adj	sacrospinal|sacrospinal|R|Adj
+sacrovertebral	adj	sacrovertebral|sacrovertebral|R|Adj
+saddening	verb	sadden|sadden|R|V ; -ing|ing|I||-ing (v)
+saddleback	noun	saddle|saddle|R|N ; back|back|R|N
+saddlecloth	noun	saddle|saddle|R|N ; cloth|cloth|R|N
+saddled	verb	saddle|saddl|R|V ; -ed|ed|I||-ed (v2)
+saddling	verb	saddle|saddl|R|V ; -ing|ing|I||-ing (v)
+sadiron	noun	sadiron|sadiron|R|N
+sadomasochism	noun	sadomasochism|sadomasochism|R|N
+sadomasochist	noun	sadomasochist|sadomasochist|R|N
+saeter	noun	saeter|saeter|R|N
+safehouse	noun	safe|safe|R|Adj ; house|house|R|N
+safelight	noun	safe|safe|R|Adj ; light|light|R|N
+safeness	noun	safe|safe|R|Adj ; -ness|ness|S
+safeword	noun	safe|safe|R|Adj ; word|word|R|N
+saffian	noun	saffian|saffian|R|N
+safranin	noun	safranin|safranin|R|N
+sagaciously	adv	sagacious|sagacious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sagamore	noun	sagamore|sagamore|R|N
+saganaki	noun	saganaki|saganaki|R|N
+sageness	noun	sage|sage|R|Adj ; -ness|ness|S
+saggar	noun	saggar|saggar|R|N
+sagged	verb	sag|sagg|R|V ; -ed|ed|I||-ed (v2)
+sagger	noun	sag|sagg|R|V ; -er|er|S||-er (N)
+sagitta	noun	sagitta|sagitta|R|N
+sagittal	adj	sagittal|sagittal|R|Adj
+sagittary	noun	sagittary|sagittary|R|N
+sagittate	adj	sagittate|sagittate|R|Adj
+sagittated	adj	sagittate|sagittat|R|Adj ; -ed|ed|S||-ed (adj)
+saibling	noun	saibling|saibling|R|N
+saiga	noun	saiga|saiga|R|N
+sailable	adj	sail|sail|R|V ; -able|able|S
+sailboater	noun	sail|sail|R|V ; boat|boat|R|N ; -er|er|S||-er (N)
+sailed	verb	sail|sail|R|V ; -ed|ed|I||-ed (v2)
+sailer	noun	sail|sail|R|V ; -er|er|S||-er (N)
+sailoress	noun	sail|sail|R|V ; -or|or|S||-er (N) ; -ess|ess|S
+sailorly	adj	sail|sail|R|V ; -or|or|S||-er (N) ; -ly|ly|S||-ly (adj)
+sails	noun	sail|sail|R|N ; -s|s|I||-s (plural)
+sain	verb	sain|sain|R|V
+sainfoin	noun	sainfoin|sainfoin|R|N
+saint	noun	saint|saint|R|N
+saintess	noun	saint|saint|R|N ; -ess|ess|S
+saintlike	adj	saint|saint|R|N ; -like|like|S
+saintship	noun	saint|saint|R|N ; -ship|ship|S
+saker	noun	saker|saker|R|N
+saki	noun	saki|saki|R|N
+sakura	noun	sakura|sakura|R|N
+salability	noun	sale|sal|R|N ; -able|abil|S ; -ity|ity|S
+salaciously	adv	salacious|salacious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+salaciousness	noun	salacious|salacious|R|Adj ; -ness|ness|S
+salacity	noun	salacious|salac|R|Adj ; -ity|ity|S
+salak	noun	salak|salak|R|N
+salal	noun	salal|salal|R|N
+salamandrine	adj	salamandrine|salamandrine|R|Adj
+salangane	noun	salangane|salangane|R|N
+salariat	noun	salariat|salariat|R|N
+salat	noun	salat|salat|R|N
+salbutamol	noun	salbutamol|salbutamol|R|N
+salep	noun	salep|salep|R|N
+saleratus	noun	saleratus|saleratus|R|N
+salicaceous	adj	salicaceous|salicaceous|R|Adj
+salicin	noun	salicin|salicin|R|N
+salicornia	noun	salicornia|salicornia|R|N
+salicylic	adj	salicylic|salicylic|R|Adj
+salientian	noun	salient|salient|R|Adj ; -ian|ian|S
+saliferous	adj	saliferous|saliferous|R|Adj
+salification	noun	salify|salifi|R|V ; -ation|cation|S
+salify	verb	salify|salify|R|V
+salinization	noun	saline|salin|R|Adj ; -ize|iz|S ; -ation|ation|S
+salinize	verb	saline|salin|R|Adj ; -ize|ize|S
+salinometer	noun	salinometer|salinometer|R|N
+salival	adj	saliva|saliv|R|N ; -al|al|S
+salivant	adj	saliva|saliv|R|N ; -ant|ant|S
+salivous	adj	saliva|saliv|R|N ; -ous|ous|S
+salix	noun	salix|salix|R|N
+sallenders	noun	sallenders|sallenders|R|N
+sallet	noun	sallet|sallet|R|N
+sallowish	adj	sallow|sallow|R|Adj ; -ish|ish|S
+sallowness	noun	sallow|sallow|R|Adj ; -ness|ness|S
+sallowy	adj	sallow|sallow|R|Adj ; -y|y|S
+sallying	verb	sally|sally|R|V ; -ing|ing|I||-ing (v)
+salmagundi	noun	salmagundi|salmagundi|R|N
+salmi	noun	salmi|salmi|R|N
+salmonberry	noun	salmon|salmon|R|N ; berry|berry|R|N
+salmonet	noun	salmonet|salmonet|R|N
+salo	noun	salo|salo|R|N
+saloop	noun	saloop|saloop|R|N
+salp	noun	salp|salp|R|N
+salpicon	noun	salpicon|salpicon|R|N
+salpingectomy	noun	salpingectomy|salpingectomy|R|N
+salpingian	adj	salpingian|salpingian|R|Adj
+salpingitis	noun	salpingitis|salpingitis|R|N
+salpinx	noun	salpinx|salpinx|R|N
+salsify	noun	salsify|salsify|R|N
+saltant	adj	saltant|saltant|R|Adj
+saltation	noun	saltation|saltation|R|N
+saltatorial	adj	saltatorial|saltatorial|R|Adj
+saltatory	adj	saltatory|saltatory|R|Adj
+saltbush	noun	salt|salt|R|N ; bush|bush|R|N
+saltern	noun	saltern|saltern|R|N
+saltigrade	adj	saltigrade|saltigrade|R|Adj
+saltimbanco	noun	saltimbanco|saltimbanco|R|N
+salting	noun	salt|salt|R|V ; -ing|ing|S||-ing (N)
+saltish	adj	salt|salt|R|N ; -ish|ish|S
+saltless	adj	salt|salt|R|N ; -less|less|S
+saltlessness	noun	salt|salt|R|N ; -less|less|S ; -ness|ness|S
+saltness	noun	salt|salt|R|N ; -ness|ness|S
+saltus	noun	saltus|saltus|R|N
+saltworks	noun	salt|salt|R|N ; work|work|R|N ; -s|s|I||-s (plural)
+saltwort	noun	salt|salt|R|N ; wort|wort|R|N
+salubriousness	noun	salubrious|salubrious|R|Adj ; -ness|ness|S
+salubrity	noun	salubrious|salubr|R|Adj ; -ity|ity|S
+salutariness	noun	salutary|salutari|R|Adj ; -ness|ness|S
+salutatory	adj	salute|salut|R|V ; -ory|atory|S
+salutiferous	adj	salutiferous|salutiferous|R|Adj
+salvable	adj	salvable|salvable|R|Adj
+salvaging	verb	salvage|salvag|R|V ; -ing|ing|I||-ing (v)
+salvationism	noun	salvation|salvation|R|N ; -ism|ism|S
+salvationist	noun	salvation|salvation|R|N ; -ist|ist|S
+salvor	noun	salvor|salvor|R|N
+sam	noun	sam|sam|R|N
+samana	noun	samana|samana|R|N
+samanu	noun	samanu|samanu|R|N
+samariform	adj	samariform|samariform|R|Adj
+samaritan	noun	samaritan|samaritan|R|N
+samarium	noun	samarium|samarium|R|N
+sambadrome	noun	sambadrome|sambadrome|R|N
+sambuca	noun	sambuca|sambuca|R|N
+samekh	noun	samekh|samekh|R|N
+samey	adj	same|same|R|Adj ; -y|y|S
+samgyetang	noun	samgyetang|samgyetang|R|N
+samite	noun	samite|samite|R|N
+samlet	noun	samlet|samlet|R|N
+samphire	noun	samphire|samphire|R|N
+sampi	noun	sampi|sampi|R|N
+sanative	adj	sanative|sanative|R|Adj
+sanctifier	noun	sanctify|sanctifi|R|V ; -er|er|S||-er (N)
+sanctifying	verb	sanctify|sanctify|R|V ; -ing|ing|I||-ing (v)
+sanctimoniousness	noun	sanctimonious|sanctimonious|R|Adj ; -ness|ness|S
+sanctitude	noun	sanctitude|sanctitude|R|N
+sandarac	noun	sandarac|sandarac|R|N
+sandbagging	verb	sand|sand|R|N ; bag|bagg|R|V ; -ing|ing|I||-ing (v)
+sandbeach	noun	sand|sand|R|N ; beach|beach|R|N
+sandboy	noun	sand|sand|R|N ; boy|boy|R|N
+sandcastler	noun	sand|sand|R|N ; castle|castl|R|N ; -er|er|S||-er (N)
+sanderling	noun	sanderling|sanderling|R|N
+sandfish	noun	sand|sand|R|N ; fish|fish|R|N
+sandfly	noun	sand|sand|R|N ; fly|fly|R|N
+sandgrouse	noun	sand|sand|R|N ; grouse|grouse|R|N
+sandhi	noun	sandhi|sandhi|R|N
+sandhog	noun	sand|sand|R|N ; hog|hog|R|N
+sandiness	noun	sandy|sandi|R|Adj ; -ness|ness|S
+sandpapered	verb	sand|sand|R|N ; paper|paper|R|V ; -ed|ed|I||-ed (v2)
+sandpapering	verb	sand|sand|R|N ; paper|paper|R|V ; -ing|ing|I||-ing (v)
+sandspit	noun	sand|sand|R|N ; spit|spit|R|N
+sandwichman	noun	sandwich|sandwich|R|N ; man|man|R|N
+sandwort	noun	sand|sand|R|N ; wort|wort|R|N
+sanely	adv	sane|sane|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sanforize	verb	sanforize|sanforize|R|V
+sang	verb	sing|sang|R|V ; -ed||I||-ed (v2)
+sanga	noun	sanga|sanga|R|N
+sangar	noun	sangar|sangar|R|N
+sangaree	noun	sangaree|sangaree|R|N
+sangfroid	noun	sangfroid|sangfroid|R|N
+sangha	noun	sangha|sangha|R|N
+sangoma	noun	sangoma|sangoma|R|N
+sanguicolous	adj	sanguicolous|sanguicolous|R|Adj
+sanguiferous	adj	sanguiferous|sanguiferous|R|Adj
+sanguification	noun	sanguification|sanguification|R|N
+sanguinaria	noun	sanguinaria|sanguinaria|R|N
+sanguinariness	noun	sanguinary|sanguinari|R|Adj ; -ness|ness|S
+sanguinely	adv	sanguine|sanguine|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sanguineness	noun	sanguine|sanguine|R|Adj ; -ness|ness|S
+sanguineous	adj	sanguineous|sanguineous|R|Adj
+sanguinivorous	adj	sanguinivorous|sanguinivorous|R|Adj
+sanguinolent	adj	sanguinolent|sanguinolent|R|Adj
+sanguivorous	adj	sanguivorous|sanguivorous|R|Adj
+sanicle	noun	sanicle|sanicle|R|N
+sanies	noun	sanies|sanies|R|N

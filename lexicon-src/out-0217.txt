@@ -1,0 +1,200 @@
+adaptableness	noun	adapt|adapt|R|V ; -able|able|S ; -ness|ness|S
+adaptationally	adv	adapt|adapt|R|V ; -ation|ation|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+adaptiveness	noun	adapt|adapt|R|V ; -ive|ive|S ; -ness|ness|S
+adaptogen	noun	adaptogen|adaptogen|R|N
+adaxial	adj	ad-|ad|P ; axial|axial|R|Adj
+adblocker	noun	ad|ad|R|N ; block|block|R|V ; -er|er|S||-er (N)
+adcauline	adj	ad-|ad|P ; cauline|cauline|R|Adj
+addable	adj	add|add|R|V ; -able|able|S
+addax	noun	addax|addax|R|N
+addedly	adv	add|add|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+addend	noun	addend|addend|R|N
+addible	adj	add|add|R|V ; -ible|ible|S
+addictologist	noun	addictologist|addictologist|R|N
+additivity	noun	add|add|R|V ; -itive|itiv|S ; -ity|ity|S
+addling	verb	addle|addl|R|V ; -ing|ing|I||-ing (v)
+addressability	noun	address|address|R|V ; -able|abil|S ; -ity|ity|S
+addresser	noun	address|address|R|V ; -er|er|S||-er (N)
+addressing	verb	address|address|R|V ; -ing|ing|I||-ing (v)
+adduceable	adj	ad-|ad|P ; -duce|duce|B|V ; -able|able|S
+adducent	adj	ad-|ad|P ; -duce|duc|B|V ; -ent|ent|S
+adducible	adj	ad-|ad|P ; -duce|duc|B|V ; -ible|ible|S
+adductive	adj	ad-|ad|P ; -duce|duct|B|V ; -ive|ive|S
+ade	noun	ade|ade|R|N
+adelphopoiesis	noun	adelphopoiesis|adelphopoiesis|R|N
+ademption	noun	ademption|ademption|R|N
+adenectomy	noun	adenectomy|adenectomy|R|N
+adenitis	noun	adenitis|adenitis|R|N
+adenohypophysis	noun	adenohypophysis|adenohypophysis|R|N
+adenomyosis	noun	adenomyosis|adenomyosis|R|N
+adequateness	noun	adequate|adequate|R|Adj ; -ness|ness|S
+adequation	noun	adequate|adequat|R|Adj ; -ion|ion|S
+adermatoglyphia	noun	adermatoglyphia|adermatoglyphia|R|N
+adespota	noun	adespota|adespota|R|N
+adessive	noun	adessive|adessive|R|N
+adhan	noun	adhan|adhan|R|N
+adherently	adv	adhere|adher|R|V ; -ent|ent|S ; -ly|ly|I|Adv|-ly (adv)
+adherer	noun	adhere|adher|R|V ; -er|er|S||-er (N)
+adhesively	adv	adhesive|adhesive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+adhesiveness	noun	adhesive|adhesive|R|Adj ; -ness|ness|S
+adhibit	verb	adhibit|adhibit|R|V
+adhocracy	noun	adhocracy|adhocracy|R|N
+adiabat	noun	adiabat|adiabat|R|N
+adiabatically	adv	adiabatic|adiabatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+adiantum	noun	adiantum|adiantum|R|N
+adic	adj	adic|adic|R|Adj
+adicity	noun	adicity|adicity|R|N
+adimensional	adj	a-|a|P ; dimensional|dimensional|R|Adj
+adios	interj	adios|adios|R
+adipate	noun	adipate|adipate|R|N
+adipocere	noun	adipocere|adipocere|R|N
+adipocyte	noun	adipocyte|adipocyte|R|N
+adipolysis	noun	adipolysis|adipolysis|R|N
+adiponectin	noun	adiponectin|adiponectin|R|N
+adipopexis	noun	adipopexis|adipopexis|R|N
+adipose	adj	adipose|adipose|R|Adj
+adiposeness	noun	adipose|adipose|R|Adj ; -ness|ness|S
+adiposis	noun	adiposis|adiposis|R|N
+adiposity	noun	adipose|adipos|R|Adj ; -ity|ity|S
+adipsia	noun	adipsia|adipsia|R|N
+aditus	noun	aditus|aditus|R|N
+adjacence	noun	adjacence|adjacence|R|N
+adjacently	adv	adjacent|adjacent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+adjectivally	adv	adjective|adjectiv|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+adjectively	adv	adjective|adjective|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+adjectivization	noun	adjectivize|adjectiviz|R|V ; -ation|ation|S
+adjectivize	verb	adjective|adjectiv|R|Adj ; -ize|ize|S
+adjika	noun	adjika|adjika|R|N
+adjoint	noun	ad-|ad|P ; joint|joint|R|N
+adjudgment	noun	adjudge|adjudg|R|V ; -ment|ment|S
+adjugate	verb	adjugate|adjugate|R|V
+adjunction	noun	adjunct|adjunct|R|N ; -ion|ion|S
+adjuration	noun	adjure|adjur|R|V ; -ation|ation|S
+adjuratory	adj	adjure|adjurat|R|V ; -ory|ory|S
+adjure	verb	adjure|adjure|R|V
+adjurer	noun	adjure|adjur|R|V ; -er|er|S||-er (N)
+adjuring	verb	adjure|adjur|R|V ; -ing|ing|I||-ing (v)
+adjustably	adv	adjust|adjust|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+adjutancy	noun	adjutant|adjutan|R|N ; -cy|cy|S
+adlay	noun	adlay|adlay|R|N
+admass	noun	admass|admass|R|N
+admeasure	verb	ad-|ad|P ; measure|measure|R|V
+admeasurement	noun	ad-|ad|P ; measure|measure|R|V ; -ment|ment|S
+admin	noun	admin|admin|R|N
+adminiculum	noun	adminiculum|adminiculum|R|N
+administrable	adj	administer|administr|R|V ; -able|able|S
+administrant	noun	administer|administr|R|V ; -ant|ant|S
+administratorship	noun	administrator|administrator|R|N ; -ship|ship|S
+administratrix	noun	administratrix|administratrix|R|N
+admirability	noun	admire|admir|R|V ; -able|abil|S ; -ity|ity|S
+admirableness	noun	admire|admir|R|V ; -able|able|S ; -ness|ness|S
+admiralship	noun	admiral|admiral|R|N ; -ship|ship|S
+admiralty	noun	admiral|admiral|R|N ; -ty|ty|S
+admirative	adj	admire|admir|R|V ; -ative|ative|S
+admissibleness	noun	admissible|admissible|R|Adj ; -ness|ness|S
+admissibly	adv	admissible|admissib|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+admissive	adj	admissive|admissive|R|Adj
+admittable	adj	admit|admit|R|V ; -able|table|S
+admix	verb	ad-|ad|P ; mix|mix|R|V
+admonisher	noun	admonish|admonish|R|V ; -er|er|S||-er (N)
+admonishing	verb	admonish|admonish|R|V ; -ing|ing|I||-ing (v)
+admonishingly	adv	admonish|admonish|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+adnate	adj	adnate|adnate|R|Adj
+adnation	noun	adnate|adnat|R|Adj ; -ion|ion|S
+adnexa	noun	adnexa|adnexa|R|N
+adnexed	adj	adnexed|adnexed|R|Adj
+adnominal	adj	ad-|ad|P ; nominal|nominal|R|Adj
+adnomination	noun	ad-|ad|P ; nomination|nomination|R|N
+adnoun	noun	ad-|ad|P ; noun|noun|R|N
+adolescency	noun	adolescent|adolescen|R|Adj ; -cy|cy|S
+adoptability	noun	adopt|adopt|R|V ; -able|abil|S ; -ity|ity|S
+adoptionism	noun	adoption|adoption|R|N ; -ism|ism|S
+adoptively	adv	adopt|adopt|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+adorability	noun	adore|ador|R|V ; -able|abil|S ; -ity|ity|S
+adorableness	noun	adore|ador|R|V ; -able|able|S ; -ness|ness|S
+adorational	adj	adore|ador|R|V ; -ation|ation|S ; -al|al|S
+adoratory	adj	adore|adorat|R|V ; -ory|ory|S
+adorer	noun	adore|ador|R|V ; -er|er|S||-er (N)
+adorkable	adj	adorkable|adorkable|R|Adj
+adorned	verb	adorn|adorn|R|V ; -ed|ed|I||-ed (v2)
+adorner	noun	adorn|adorn|R|V ; -er|er|S||-er (N)
+adposition	noun	ad-|ad|P ; position|position|R|N
+adrectal	adj	adrectal|adrectal|R|Adj
+adrenalectomy	noun	adrenalectomy|adrenalectomy|R|N
+adrenally	adv	adrenal|adrenal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+adrenergic	adj	adrenergic|adrenergic|R|Adj
+adrenochrome	noun	adrenochrome|adrenochrome|R|N
+adrenocortical	adj	adrenocortical|adrenocortical|R|Adj
+adrenocorticotropic	adj	adrenocorticotropic|adrenocorticotropic|R|Adj
+adret	noun	adret|adret|R|N
+adscititious	adj	adscititious|adscititious|R|Adj
+adscript	adj	adscript|adscript|R|Adj
+adsorbable	adj	adsorb|adsorb|R|V ; -able|able|S
+adsorbate	noun	adsorb|adsorb|R|V ; -ate|ate|S
+adsorbent	noun	adsorb|adsorb|R|V ; -ent|ent|S
+adsorber	noun	adsorb|adsorb|R|V ; -er|er|S||-er (N)
+adsorptive	adj	adsorptive|adsorptive|R|Adj
+adstratum	noun	adstratum|adstratum|R|N
+adularia	noun	adularia|adularia|R|N
+adulate	verb	adulate|adulate|R|V
+adulator	noun	adulate|adulat|R|V ; -or|or|S
+adulterant	noun	adulterate|adulter|R|V ; -ant|ant|S
+adulterator	noun	adulterate|adulterat|R|V ; -or|or|S
+adulterine	adj	adulterine|adulterine|R|Adj
+adulterously	adv	adulterous|adulterous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+adultlike	adj	adult|adult|R|N ; -like|like|S
+adultness	noun	adult|adult|R|N ; -ness|ness|S
+adultoid	adj	adultoid|adultoid|R|Adj
+adumbral	adj	ad-|ad|P ; umbral|umbral|R|Adj
+adumbrated	verb	adumbrate|adumbrat|R|V ; -ed|ed|I||-ed (v2)
+adumbration	noun	adumbrate|adumbrat|R|V ; -ion|ion|S
+adumbrative	adj	adumbrate|adumbrat|R|V ; -ive|ive|S
+adumbratively	adv	adumbrate|adumbrat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+aduncate	adj	aduncate|aduncate|R|Adj
+adust	adj	adust|adust|R|Adj
+advantageousness	noun	advantageous|advantageous|R|Adj ; -ness|ness|S
+advection	noun	advect|advect|R|V ; -ion|ion|S
+advehent	adj	advehent|advehent|R|Adj
+advene	verb	advene|advene|R|V
+adventitia	noun	adventitia|adventitia|R|N
+adventitiously	adv	adventitious|adventitious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+adventitiousness	noun	adventitious|adventitious|R|Adj ; -ness|ness|S
+adventuring	verb	adventure|adventur|R|V ; -ing|ing|I||-ing (v)
+adventurist	noun	adventure|adventur|R|V ; -ist|ist|S
+adverbiality	noun	adverb|adverb|R|N ; -ial|ial|S ; -ity|ity|S
+adverbialization	noun	adverb|adverb|R|N ; -ial|ial|S ; -ize|iz|S ; -ation|ation|S
+adverbialize	verb	adverb|adverb|R|N ; -ial|ial|S ; -ize|ize|S
+adverbially	adv	adverb|adverb|R|N ; -ial|ial|S ; -ly|ly|I|Adv|-ly (adv)
+adversative	adj	adverse|advers|R|Adj ; -ative|ative|S
+adversatively	adv	adverse|advers|R|Adj ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+adverseness	noun	adverse|adverse|R|Adj ; -ness|ness|S
+advertence	noun	advert|advert|R|V ; -ence|ence|S
+advertency	noun	advert|advert|R|V ; -ency|ency|S
+advertent	adj	advert|advert|R|V ; -ent|ent|S
+advertorial	noun	advertorial|advertorial|R|N
+advisableness	noun	advise|advis|R|V ; -able|able|S ; -ness|ness|S
+advisably	adv	advise|advis|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+advised	verb	advise|advis|R|V ; -ed|ed|I||-ed (v2)
+advocaat	noun	advocaat|advocaat|R|N
+advocator	noun	advocate|advocat|R|V ; -or|or|S
+advocatory	adj	advocate|advocat|R|V ; -ory|ory|S
+advowson	noun	advowson|advowson|R|N
+adware	noun	ad|ad|R|N ; ware|ware|R|N
+adynamia	noun	adynamia|adynamia|R|N
+adynamic	adj	a-|a|P ; dynamic|dynamic|R|Adj
+adynaton	noun	adynaton|adynaton|R|N
+adytum	noun	adytum|adytum|R|N
+aecial	adj	aecial|aecial|R|Adj
+aeciospore	noun	aeciospore|aeciospore|R|N
+aecium	noun	aecium|aecium|R|N
+aedeagus	noun	aedeagus|aedeagus|R|N
+aedile	noun	aedile|aedile|R|N
+aeger	noun	aeger|aeger|R|N
+aegipan	noun	aegipan|aegipan|R|N
+aegirine	noun	aegirine|aegirine|R|N
+aegrotat	noun	aegrotat|aegrotat|R|N
+aeonium	noun	aeonium|aeonium|R|N
+aerenchyma	noun	aerenchyma|aerenchyma|R|N
+aeriferous	adj	aeriferous|aeriferous|R|Adj
+aeriform	adj	aeriform|aeriform|R|Adj
+aerify	verb	aerify|aerify|R|V

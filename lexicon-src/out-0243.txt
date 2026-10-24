@@ -1,0 +1,200 @@
+capitate	adj	capitate|capitate|R|Adj
+capitative	adj	capitative|capitative|R|Adj
+capitol	noun	capitol|capitol|R|N
+capitulant	noun	capitulate|capitul|R|V ; -ant|ant|S
+capitular	adj	capitulate|capitul|R|V ; -ar|ar|S
+capitularly	adv	capitulate|capitul|R|V ; -ar|ar|S ; -ly|ly|I|Adv|-ly (adv)
+capitulator	noun	capitulate|capitul|R|V ; -or|ator|S
+capitulatory	adj	capitulate|capitul|R|V ; -ory|atory|S
+capitulum	noun	capitulum|capitulum|R|N
+caplin	noun	caplin|caplin|R|N
+capnomancy	noun	capnomancy|capnomancy|R|N
+capoeira	noun	capoeira|capoeira|R|N
+caponier	noun	caponier|caponier|R|N
+caponize	verb	capon|capon|R|N ; -ize|ize|S
+caporal	noun	caporal|caporal|R|N
+capot	noun	capot|capot|R|N
+capotasto	noun	capotasto|capotasto|R|N
+capote	noun	capote|capote|R|N
+capric	adj	capric|capric|R|Adj
+caprid	noun	caprid|caprid|R|N
+caprification	noun	caprify|caprifi|R|V ; -ation|cation|S
+caprine	adj	caprine|caprine|R|Adj
+capriole	noun	capriole|capriole|R|N
+caprolactam	noun	caprolactam|caprolactam|R|N
+caps	noun	cap|cap|R|N ; -s|s|I||-s (plural)
+capsizing	verb	capsize|capsiz|R|V ; -ing|ing|I||-ing (v)
+capsulize	verb	capsule|capsul|R|N ; -ize|ize|S
+captainess	noun	captain|captain|R|N ; -ess|ess|S
+captainship	noun	captain|captain|R|N ; -ship|ship|S
+captious	adj	captious|captious|R|Adj
+captiously	adv	captious|captious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+captiousness	noun	captious|captious|R|Adj ; -ness|ness|S
+captivation	noun	captivate|captivat|R|V ; -ion|ion|S
+captivator	noun	captivate|captivat|R|V ; -or|or|S
+captured	verb	capture|captur|R|V ; -ed|ed|I||-ed (v2)
+capturer	noun	capture|captur|R|V ; -er|er|S||-er (N)
+caput	noun	caput|caput|R|N
+carabao	noun	carabao|carabao|R|N
+carabid	noun	carabid|carabid|R|N
+carabine	noun	carabine|carabine|R|N
+carabineer	noun	carabine|carabin|R|N ; -eer|eer|S
+caracal	noun	caracal|caracal|R|N
+caracara	noun	caracara|caracara|R|N
+caracole	noun	caracole|caracole|R|N
+carambola	noun	carambola|carambola|R|N
+caramelization	noun	caramel|caramel|R|N ; -ize|iz|S ; -ation|ation|S
+caranx	noun	caranx|caranx|R|N
+caravanner	noun	caravan|caravann|R|N ; -er|er|S||-er (N)
+caravanserai	noun	caravanserai|caravanserai|R|N
+carbamate	noun	carbamate|carbamate|R|N
+carbamide	noun	carbamide|carbamide|R|N
+carbamino	adj	carbamino|carbamino|R|Adj
+carbarn	noun	car|car|R|N ; barn|barn|R|N
+carbene	noun	carbene|carbene|R|N
+carbineer	noun	carbine|carbin|R|N ; -eer|eer|S
+carbocyclic	adj	carbocyclic|carbocyclic|R|Adj
+carbonado	noun	carbonado|carbonado|R|N
+carbonator	noun	carbonate|carbonat|R|V ; -or|or|S
+carboniferous	adj	carboniferous|carboniferous|R|Adj
+carbonization	noun	carbon|carbon|R|N ; -ize|iz|S ; -ation|ation|S
+carbonize	verb	carbon|carbon|R|N ; -ize|ize|S
+carbonizer	noun	carbon|carbon|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+carbonous	adj	carbon|carbon|R|N ; -ous|ous|S
+carbonylic	adj	carbonyl|carbonyl|R|N ; -ic|ic|S
+carboplatin	noun	carboplatin|carboplatin|R|N
+carborundum	noun	carborundum|carborundum|R|N
+carboxyl	noun	carboxyl|carboxyl|R|N
+carboy	noun	carboy|carboy|R|N
+carbuncled	adj	carbuncle|carbuncl|R|N ; -ed|ed|S||-ed (adj)
+carbuncular	adj	carbuncular|carbuncular|R|Adj
+carburet	noun	carburet|carburet|R|N
+carburetion	noun	carburet|carburet|R|V ; -ion|ion|S
+carburize	verb	carburize|carburize|R|V
+carcade	noun	carcade|carcade|R|N
+carcajou	noun	carcajou|carcajou|R|N
+carceral	adj	carceral|carceral|R|Adj
+carcinization	noun	carcinization|carcinization|R|N
+carcinology	noun	carcinology|carcinology|R|N
+carcinomatoid	adj	carcinomatoid|carcinomatoid|R|Adj
+carcinomatosis	noun	carcinomatosis|carcinomatosis|R|N
+carcinomatous	adj	carcinoma|carcinomat|R|N ; -ous|ous|S
+carder	noun	card|card|R|V ; -er|er|S||-er (N)
+cardinalate	noun	cardinal|cardinal|R|N ; -ate|ate|S
+cardinality	noun	cardinal|cardinal|R|Adj ; -ity|ity|S
+cardinalship	noun	cardinal|cardinal|R|N ; -ship|ship|S
+cardio	noun	cardio|cardio|R|N
+cardiogenic	adj	cardiogenic|cardiogenic|R|Adj
+cardiogram	noun	cardiogram|cardiogram|R|N
+cardiograph	noun	cardiograph|cardiograph|R|N
+cardiography	noun	cardiography|cardiography|R|N
+cardioid	noun	cardioid|cardioid|R|N
+cardiological	adj	cardiology|cardiolog|R|N ; -ical|ical|S
+cardiomyocyte	noun	cardiomyocyte|cardiomyocyte|R|N
+cardiopathy	noun	cardiopathy|cardiopathy|R|N
+cardiotonic	adj	cardiotonic|cardiotonic|R|Adj
+carditis	noun	carditis|carditis|R|N
+cardoon	noun	cardoon|cardoon|R|N
+cardphone	noun	card|card|R|N ; phone|phone|R|N
+cardplayer	noun	card|card|R|N ; play|play|R|V ; -er|er|S||-er (N)
+cardsharp	noun	card|card|R|N ; sharp|sharp|R|Adj
+careenage	noun	careen|careen|R|V ; -age|age|S
+careener	noun	careen|careen|R|V ; -er|er|S||-er (N)
+careering	verb	career|career|R|V ; -ing|ing|I||-ing (v)
+carefreeness	noun	care|care|R|N ; free|free|R|Adj ; -ness|ness|S
+caressive	adj	caress|caress|R|V ; -ive|ive|S
+caret	noun	caret|caret|R|N
+carex	noun	carex|carex|R|N
+carfax	noun	carfax|carfax|R|N
+carfree	adj	car|car|R|N ; free|free|R|Adj
+carful	noun	car|car|R|N ; -ful|ful|S
+carib	noun	carib|carib|R|N
+carillonist	noun	carillon|carillon|R|N ; -ist|ist|S
+carinate	adj	carinate|carinate|R|Adj
+cariosity	noun	carious|cari|R|Adj ; -ity|osity|S
+carious	adj	carious|carious|R|Adj
+carmagnole	noun	carmagnole|carmagnole|R|N
+carmeltazite	noun	carmeltazite|carmeltazite|R|N
+carminative	adj	carminative|carminative|R|Adj
+carnallite	noun	carnallite|carnallite|R|N
+carnassial	adj	carnassial|carnassial|R|Adj
+carnauba	noun	carnauba|carnauba|R|N
+carnet	noun	carnet|carnet|R|N
+carnification	noun	carnify|carnifi|R|V ; -ation|cation|S
+carnify	verb	carnify|carnify|R|V
+carnivora	noun	carnivora|carnivora|R|N
+carnivorously	adv	carnivorous|carnivorous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+carnivorousness	noun	carnivorous|carnivorous|R|Adj ; -ness|ness|S
+carnotite	noun	carnotite|carnotite|R|N
+carnyx	noun	carnyx|carnyx|R|N
+carolling	verb	carol|caroll|R|V ; -ing|ing|I||-ing (v)
+carotin	noun	carotin|carotin|R|N
+carousal	noun	carousal|carousal|R|N
+carouser	noun	carouse|carous|R|V ; -er|er|S||-er (N)
+carpellary	adj	carpel|carpell|R|N ; -ary|ary|S
+carpellate	adj	carpel|carpell|R|N ; -ate|ate|S
+carpentered	verb	carpenter|carpenter|R|V ; -ed|ed|I||-ed (v2)
+carpentering	verb	carpenter|carpenter|R|V ; -ing|ing|I||-ing (v)
+carper	noun	carp|carp|R|V ; -er|er|S||-er (N)
+carpogonium	noun	carpogonium|carpogonium|R|N
+carpology	noun	carpology|carpology|R|N
+carpophagous	adj	carpophagous|carpophagous|R|Adj
+carpophore	noun	carpophore|carpophore|R|N
+carpospore	noun	carpospore|carpospore|R|N
+carposporic	adj	carpospore|carpospor|R|N ; -ic|ic|S
+carpus	noun	carpus|carpus|R|N
+carrack	noun	carrack|carrack|R|N
+carrageenan	noun	carrageenan|carrageenan|R|N
+carriageable	adj	carriage|carriage|R|N ; -able|able|S
+carroty	adj	carrot|carrot|R|N ; -y|y|S
+carsickness	noun	car|car|R|N ; sickness|sickness|R|N
+cartable	adj	cart|cart|R|N ; -able|able|S
+cartage	noun	cart|cart|R|N ; -age|age|S
+cartful	noun	cart|cart|R|N ; -ful|ful|S
+cartogram	noun	cartogram|cartogram|R|N
+cartographical	adj	cartography|cartograph|R|N ; -ic|ic|S ; -al|al|S
+cartology	noun	cartology|cartology|R|N
+cartomancer	noun	cartomancy|cartomanc|R|N ; -er|er|S||-er (N)
+cartomancy	noun	cartomancy|cartomancy|R|N
+cartooning	verb	cartoon|cartoon|R|V ; -ing|ing|I||-ing (v)
+cartulary	noun	cartulary|cartulary|R|N
+carucage	noun	carucage|carucage|R|N
+caruncle	noun	caruncle|caruncle|R|N
+carunculate	adj	caruncle|caruncul|R|N ; -ate|ate|S
+carvel	noun	carvel|carvel|R|N
+carven	adj	carve|carv|R|V ; -en|en|I||-en (participle)
+caryatidal	adj	caryatid|caryatid|R|N ; -al|al|S
+caryophyllaceous	adj	caryophyllaceous|caryophyllaceous|R|Adj
+caryopsis	noun	caryopsis|caryopsis|R|N
+casaba	noun	casaba|casaba|R|N
+cascabel	noun	cascabel|cascabel|R|N
+cascaded	verb	cascade|cascad|R|V ; -ed|ed|I||-ed (v2)
+cascode	noun	cascode|cascode|R|N
+caseate	verb	caseate|caseate|R|V
+caseation	noun	caseate|caseat|R|V ; -ion|ion|S
+caseharden	verb	case|case|R|N ; hard|hard|R|Adj ; -en|en|S
+casemate	noun	casemate|casemate|R|N
+caseous	adj	caseous|caseous|R|Adj
+casern	noun	casern|casern|R|N
+cashbook	noun	cash|cash|R|N ; book|book|R|N
+cashed	verb	cash|cash|R|V ; -ed|ed|I||-ed (v2)
+cashiering	verb	cashier|cashier|R|V ; -ing|ing|I||-ing (v)
+casque	noun	casque|casque|R|N
+cassandra	noun	cassandra|cassandra|R|N
+cassata	noun	cassata|cassata|R|N
+cassation	noun	cassation|cassation|R|N
+cassiterite	noun	cassiterite|cassiterite|R|N
+cassolette	noun	cassolette|cassolette|R|N
+cassowary	noun	cassowary|cassowary|R|N
+castability	noun	cast|cast|R|V ; -able|abil|S ; -ity|ity|S
+casted	verb	cast|cast|R|V ; -ed|ed|I||-ed (v2)
+casteism	noun	caste|caste|R|N ; -ism|ism|S
+castella	noun	castella|castella|R|N
+castellan	noun	castellan|castellan|R|N
+castellation	noun	castellate|castellat|R|V ; -ion|ion|S
+castigator	noun	castigate|castigat|R|V ; -or|or|S
+castigatory	adj	castigate|castigat|R|V ; -ory|ory|S
+castling	verb	castle|castl|R|N ; -ing|ing|I||-ing (v)
+castoreum	noun	castoreum|castoreum|R|N
+castrametation	noun	castrametation|castrametation|R|N
+castrator	noun	castrate|castrat|R|V ; -or|or|S

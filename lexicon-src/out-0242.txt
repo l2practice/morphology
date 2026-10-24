@@ -1,0 +1,200 @@
+calefaction	noun	calefaction|calefaction|R|N
+calefactory	adj	calefactory|calefactory|R|Adj
+calendared	verb	calendar|calendar|R|V ; -ed|ed|I||-ed (v2)
+calendaring	verb	calendar|calendar|R|V ; -ing|ing|I||-ing (v)
+calendarist	noun	calendar|calendar|R|N ; -ist|ist|S
+calends	noun	calends|calends|R|N
+calenture	noun	calenture|calenture|R|N
+calicle	noun	calicle|calicle|R|N
+calid	adj	calid|calid|R|Adj
+calidarium	noun	calidarium|calidarium|R|N
+californium	noun	californium|californium|R|N
+calimocho	noun	calimocho|calimocho|R|N
+caliology	noun	caliology|caliology|R|N
+calipash	noun	calipash|calipash|R|N
+calipee	noun	calipee|calipee|R|N
+calipers	noun	caliper|caliper|R|N ; -s|s|I||-s (plural)
+calisthenic	adj	calisthenic|calisthenic|R|Adj
+calk	verb	calk|calk|R|V
+calker	noun	calk|calk|R|V ; -er|er|S||-er (N)
+calkin	noun	calkin|calkin|R|N
+callboy	noun	call|call|R|V ; boy|boy|R|N
+callee	noun	call|call|R|V ; -ee|ee|S
+calligram	noun	calligram|calligram|R|N
+calligraph	noun	calligraph|calligraph|R|N
+calligraphist	noun	calligraphist|calligraphist|R|N
+calliope	noun	calliope|calliope|R|N
+callipygian	adj	callipygian|callipygian|R|Adj
+callose	noun	callose|callose|R|N
+callosity	noun	callous|callos|R|Adj ; -ity|ity|S
+callout	noun	call|call|R|V ; out|out|R|Adv
+callowness	noun	callow|callow|R|Adj ; -ness|ness|S
+calmative	noun	calm|calm|R|Adj ; -ative|ative|S
+calmed	verb	calm|calm|R|V ; -ed|ed|I||-ed (v2)
+calomel	noun	calomel|calomel|R|N
+calorescence	noun	calorescence|calorescence|R|N
+calorically	adv	caloric|caloric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+calorification	noun	calorification|calorification|R|N
+calorifics	noun	calorific|calorific|R|Adj ; -s|s|I||-s (plural)
+calorigenic	adj	calorigenic|calorigenic|R|Adj
+calorimetric	adj	calorimetry|calorimetr|R|N ; -ic|ic|S
+calorimetrically	adv	calorimetry|calorimetr|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+calotte	noun	calotte|calotte|R|N
+caloyer	noun	caloyer|caloyer|R|N
+calpack	noun	calpack|calpack|R|N
+calque	noun	calque|calque|R|N
+caltrop	noun	caltrop|caltrop|R|N
+calumet	noun	calumet|calumet|R|N
+calumniate	verb	calumny|calumni|R|N ; -ate|ate|S
+calumniation	noun	calumniate|calumniat|R|V ; -ion|ion|S
+calumniator	noun	calumniate|calumniat|R|V ; -or|or|S
+calumniatory	adj	calumniate|calumniat|R|V ; -ory|ory|S
+calumnious	adj	calumny|calumni|R|N ; -ous|ous|S
+calumniously	adv	calumny|calumni|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+calvaria	noun	calvaria|calvaria|R|N
+calvary	noun	calvary|calvary|R|N
+calver	noun	calver|calver|R|N
+calvities	noun	calvity|calvit|R|N ; -s|ies|I||-s (plural)
+calvous	adj	calvous|calvous|R|Adj
+calx	noun	calx|calx|R|N
+calyciflorous	adj	calyciflorous|calyciflorous|R|Adj
+calyciform	adj	calyciform|calyciform|R|Adj
+calycine	adj	calycine|calycine|R|Adj
+calyculate	adj	calyculate|calyculate|R|Adj
+calyculus	noun	calyculus|calyculus|R|N
+calypsonian	noun	calypsonian|calypsonian|R|N
+camarilla	noun	camarilla|camarilla|R|N
+camas	noun	camas|camas|R|N
+cambered	verb	camber|camber|R|V ; -ed|ed|I||-ed (v2)
+cambering	verb	camber|camber|R|V ; -ing|ing|I||-ing (v)
+cambial	adj	cambial|cambial|R|Adj
+cambiform	adj	cambiform|cambiform|R|Adj
+cambiogenetic	adj	cambiogenetic|cambiogenetic|R|Adj
+cambist	noun	cambist|cambist|R|N
+cameleer	noun	camel|camel|R|N ; -eer|eer|S
+camelid	noun	camelid|camelid|R|N
+camelry	noun	camel|camel|R|N ; -ry|ry|S
+camelthorn	noun	camel|camel|R|N ; thorn|thorn|R|N
+cameltoe	noun	camel|camel|R|N ; toe|toe|R|N
+cameralism	noun	cameral|cameral|R|Adj ; -ism|ism|S
+cameration	noun	cameration|cameration|R|N
+camerlengo	noun	camerlengo|camerlengo|R|N
+camion	noun	camion|camion|R|N
+camlet	noun	camlet|camlet|R|N
+camouflager	noun	camouflage|camouflag|R|V ; -er|er|S||-er (N)
+campanologist	noun	campanology|campanolog|R|N ; -ist|ist|S
+campanology	noun	campanology|campanology|R|N
+campanulaceous	adj	campanulaceous|campanulaceous|R|Adj
+campanulate	adj	campanulate|campanulate|R|Adj
+campestral	adj	campestral|campestral|R|Adj
+camphene	noun	camphene|camphene|R|N
+camphoraceous	adj	camphoraceous|camphoraceous|R|Adj
+camphorate	verb	camphor|camphor|R|N ; -ate|ate|S
+camphorated	adj	camphor|camphor|R|N ; -ate|ate|S ; -ed|d|S||-ed (adj)
+camphoric	adj	camphor|camphor|R|N ; -ic|ic|S
+canaigre	noun	canaigre|canaigre|R|N
+canaille	noun	canaille|canaille|R|N
+canaliculus	noun	canaliculus|canaliculus|R|N
+canalise	verb	canal|canal|R|N ; -ise|ise|S
+cancan	noun	cancan|cancan|R|N
+cancellable	adj	cancel|cancell|R|V ; -able|able|S
+cancellate	adj	cancellate|cancellate|R|Adj
+cancellated	adj	cancellate|cancellate|R|Adj ; -ed|d|S||-ed (adj)
+cancellous	adj	cancellous|cancellous|R|Adj
+cancriform	adj	cancriform|cancriform|R|Adj
+cancrinite	noun	cancrinite|cancrinite|R|N
+cancroid	noun	cancroid|cancroid|R|N
+candareen	noun	candareen|candareen|R|N
+candela	noun	candela|candela|R|N
+candescent	adj	candescent|candescent|R|Adj
+candescently	adv	candescent|candescent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+candidness	noun	candid|candid|R|Adj ; -ness|ness|S
+candled	verb	candle|candl|R|N ; -ed|ed|I||-ed (v2)
+candlenut	noun	candle|candle|R|N ; nut|nut|R|N
+candlepower	noun	candle|candle|R|N ; power|power|R|N
+candlewick	noun	candle|candle|R|N ; wick|wick|R|N
+candlewood	noun	candle|candle|R|N ; wood|wood|R|N
+candoluminescence	noun	candoluminescence|candoluminescence|R|N
+candrabindu	noun	candrabindu|candrabindu|R|N
+candyman	noun	candy|candy|R|N ; man|man|R|N
+candytuft	noun	candy|candy|R|N ; tuft|tuft|R|N
+canefield	noun	cane|cane|R|N ; field|field|R|N
+canephora	noun	canephora|canephora|R|N
+caner	noun	cane|can|R|V ; -er|er|S||-er (N)
+canes	noun	cane|cane|R|N ; -s|s|I||-s (plural)
+canescent	adj	canescent|canescent|R|Adj
+cangue	noun	cangue|cangue|R|N
+canistel	noun	canistel|canistel|R|N
+cankered	adj	canker|canker|R|N ; -ed|ed|S||-ed (adj)
+cankerous	adj	canker|canker|R|N ; -ous|ous|S
+cankle	noun	cankle|cankle|R|N
+cannabic	adj	cannabis|cannab|R|N ; -ic|ic|S
+cannabinoid	noun	cannabinoid|cannabinoid|R|N
+cannel	noun	cannel|cannel|R|N
+canner	noun	can|cann|R|V ; -er|er|S||-er (N)
+cannibalization	noun	cannibal|cannibal|R|N ; -ize|iz|S ; -ation|ation|S
+canniness	noun	canny|canni|R|Adj ; -ness|ness|S
+cannolo	noun	cannolo|cannolo|R|N
+cannonading	verb	cannonade|cannonad|R|V ; -ing|ing|I||-ing (v)
+cannoned	verb	cannon|cannon|R|V ; -ed|ed|I||-ed (v2)
+cannoneer	noun	cannon|cannon|R|N ; -eer|eer|S
+cannonry	noun	cannon|cannon|R|N ; -ry|ry|S
+cannot	verb	can|can|R|V ; not|not|R|Adv
+cannulate	verb	cannula|cannul|R|N ; -ate|ate|S
+canoness	noun	canon|canon|R|N ; -ess|ess|S
+canonically	adv	canonical|canonical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+canonicate	noun	canonicate|canonicate|R|N
+canonicity	noun	canonical|canonic|R|Adj ; -ity|ity|S
+canonistic	adj	canon|canon|R|N ; -ist|ist|S ; -ic|ic|S
+canonry	noun	canon|canon|R|N ; -ry|ry|S
+canoodling	verb	canoodle|canoodl|R|V ; -ing|ing|I||-ing (v)
+canopying	verb	canopy|canopy|R|N ; -ing|ing|I||-ing (v)
+canorous	adj	canorous|canorous|R|Adj
+canorously	adv	canorous|canorous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+canorousness	noun	canorous|canorous|R|Adj ; -ness|ness|S
+cans	noun	can|can|R|N ; -s|s|I||-s (plural)
+cantabile	adj	cantabile|cantabile|R|Adj
+cantankerously	adv	cantankerous|cantankerous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cantankerousness	noun	cantankerous|cantankerous|R|Adj ; -ness|ness|S
+cantatrice	noun	cantatrice|cantatrice|R|N
+cantering	verb	canter|canter|R|V ; -ing|ing|I||-ing (v)
+canthal	adj	canthus|canth|R|N ; -al|al|S
+cantharid	noun	cantharid|cantharid|R|N
+cantharidin	noun	cantharidin|cantharidin|R|N
+cantharophily	noun	cantharophily|cantharophily|R|N
+canthus	noun	canthus|canthus|R|N
+cantilena	noun	cantilena|cantilena|R|N
+cantillate	verb	cantillate|cantillate|R|V
+cantillation	noun	cantillate|cantillat|R|V ; -ion|ion|S
+cantiness	noun	canty|canti|R|Adj ; -ness|ness|S
+canting	verb	cant|cant|R|V ; -ing|ing|I||-ing (v)
+cantingly	adv	cant|cant|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+cantingness	noun	cant|cant|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+cantle	noun	cantle|cantle|R|N
+cantorial	adj	cantor|cantor|R|N ; -ial|ial|S
+cantrip	noun	cantrip|cantrip|R|N
+cantus	noun	cantus|cantus|R|N
+canty	adj	canty|canty|R|Adj
+canzona	noun	canzona|canzona|R|N
+capableness	noun	capable|capable|R|Adj ; -ness|ness|S
+capaciously	adv	capacious|capacious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+capaciousness	noun	capacious|capacious|R|Adj ; -ness|ness|S
+capacitate	verb	capacity|capacit|R|N ; -ate|ate|S
+capacitation	noun	capacitate|capacitat|R|V ; -ion|ion|S
+capacitively	adv	capacity|capacit|R|N ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+capacitron	noun	capacitron|capacitron|R|N
+caparisoned	verb	caparison|caparison|R|V ; -ed|ed|I||-ed (v2)
+caperberry	noun	caper|caper|R|N ; berry|berry|R|N
+capercaillie	noun	capercaillie|capercaillie|R|N
+capered	verb	caper|caper|R|V ; -ed|ed|I||-ed (v2)
+capering	verb	caper|caper|R|V ; -ing|ing|I||-ing (v)
+capias	noun	capias|capias|R|N
+capillarity	noun	capillary|capillar|R|N ; -ity|ity|S
+capilliform	adj	capilliform|capilliform|R|Adj
+capillitium	noun	capillitium|capillitium|R|N
+capisce	verb	capisce|capisce|R|V
+capita	noun	capita|capita|R|N
+capitalised	verb	capital|capital|R|N ; -ise|is|S ; -ed|ed|I||-ed (v2)
+capitalistically	adv	capital|capital|R|N ; -ist|ist|S ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+capitalizable	adj	capital|capital|R|N ; -ize|iz|S ; -able|able|S
+capitally	adv	capital|capital|R|Adj ; -ly|ly|I|Adv|-ly (adv)

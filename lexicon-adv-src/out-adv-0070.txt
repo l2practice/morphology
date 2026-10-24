@@ -1,0 +1,150 @@
+oboist	noun	=
+barberry	noun	=
+trapezoid	noun	=
+quartzite	noun	=
+neoclassicism	noun	=
+diktat	noun	dict-|dikt|B|V|||Latin dictare 'to dictate' ; -at|at|S||||Latin -atum 'past participle'
+illusionism	noun	=
+arbour	noun	=
+bioreactor	noun	=
+pyro	noun	=
+inebriation	noun	=
+antiproton	noun	=
+labile	adj	=
+eyrie	noun	=
+flagon	noun	=
+modernistic	adj	=
+urological	adj	=
+palaver	noun	=
+zither	noun	=
+ampicillin	noun	=
+paleoanthropologist	noun	=
+liquefaction	noun	=
+psychopharmacology	noun	=
+arsenide	noun	=
+taxidermy	noun	taxi-|taxi|B|N|||Greek taxis 'arrangement' ; -derm-|derm|B|N|||Greek derma 'skin' ; -y|y|S||||Greek -ia 'state'
+adenoid	noun	aden-|aden|B|N|||Greek adēn 'gland' ; -oid|oid|S||||Greek -oeidēs 'like'
+estrogenic	adj	=
+hussar	noun	=
+calender	noun	=
+logocentric	adj	logo-|logo|B|N|||Greek logos 'word, reason' ; -centr-|centr|B|N|||Greek kentron 'centre' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+lymphocytic	adj	=
+solecism	noun	=
+protract	verb	pro-|pro|P||||Latin pro 'forward' ; -tract|tract|B|V|||Latin trahere 'to draw'
+phylum	noun	=
+caries	noun	=
+menses	noun	=
+gastroenterology	noun	gastro-|gastro|B|N|||Greek gastēr 'belly' ; entero-|entero|B|N|||Greek enteron 'intestine' ; -logy|logy|B|N|||Greek logos 'study, word'
+execrable	adj	=
+undramatic	adj	=
+architectonic	adj	=
+preponderant	adj	pre-|pre|P||||Latin prae 'before' ; -ponder-|ponder|B|V|||Latin ponderare 'to weigh' ; -ant|ant|S||||Latin -ans 'agent'
+gingivitis	noun	=
+circumstellar	adj	=
+sultanate	noun	=
+polycyclic	adj	=
+delectation	noun	de-|de|P||||Latin de- 'from' ; -lect-|lect|B|V|||Latin legere 'to choose' ; -ation|ation|S||||Latin -atio 'act'
+equidistant	adj	=
+mandrel	noun	=
+crepuscular	adj	=
+personalism	noun	=
+apoplexy	noun	=
+sagacious	adj	sag-|sag|B|Adj|||Latin sagax 'wise' ; -acious|acious|S||||Latin -ax 'inclined to'
+microsurgery	noun	=
+dissidence	noun	dis-|dis|P||||Latin dis- 'apart' ; -sid-|sid|B|V|||Latin sedēre 'to sit' ; -ence|ence|S||||Latin -entia 'state, quality'
+amoxicillin	noun	=
+putrefaction	noun	putre-|putre|B|Adj|||Latin puter 'rotten' ; -fact-|fact|B|V|||Latin facere 'to make' ; -ion|ion|S||||Latin -io 'act'
+recursion	noun	re-|re|P||||Latin re- 'back, again' ; -curs-|curs|B|V|||Latin currere 'to run' ; -ion|ion|S||||Latin -io 'act'
+rictus	noun	=
+mapper	noun	=
+vasodilator	noun	=
+declension	noun	de-|de|P||||Latin de- 'down' ; -clin-|clen|B|V|||Latin clinare 'to lean' ; -sion|sion|S||||Latin -sio 'act'
+fluorocarbon	noun	=
+ossify	verb	oss-|oss|B|N|||Latin os 'bone' ; -ify|ify|S||||Latin -ificare 'to make'
+transpiration	noun	trans-|trans|P||||Latin trans 'across' ; -spir-|pir|B|V|||Latin spirare 'to breathe' ; -ation|ation|S||||Latin -atio 'act'
+hyperthyroidism	noun	=
+gradualist	noun	=
+gladiatorial	adj	=
+immolate	verb	=
+puerile	adj	puer-|puer|B|N|||Latin puer 'boy, child' ; -ile|ile|S||||Latin -ilis 'pertaining to'
+pseudonymous	adj	pseudo-|pseudo|P||||Greek pseudēs 'false' ; -onym-|nym|B|N|||Greek onoma 'name' ; -ous|ous|S||||Latin -osus 'full of'
+velodrome	noun	velo-|velo|B|N|||Latin velox 'swift' ; -drome|drome|B|N|||Greek dromos 'course'
+telegraphic	adj	tele-|tele|B|N|||Greek tēle 'far' ; -graph-|graph|B|V|||Greek graphein 'to write' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+dysphoria	noun	dys-|dys|P||||Greek dus- 'bad' ; -phor-|phor|B|V|||Greek pherein 'to bear' ; -ia|ia|S||||Greek -ia 'state'
+remediable	adj	=
+perfidious	adj	=
+alumina	noun	alumin-|alumin|B|N|||Latin alumen 'alum' ; -a|a|S||||Latin -a 'substance'
+doofus	noun	=
+glycerine	noun	glycer-|glycer|B|Adj|||Greek glukeros 'sweet' ; -ine|ine|S||||Latin -ina 'substance'
+dwarfism	noun	=
+prehensile	adj	prehens-|prehens|B|V|||Latin prehendere 'to grasp' ; -ile|ile|S||||Latin -ilis 'pertaining to'
+aspic	noun	=
+celiac	adj	coeli-|celi|B|N|||Greek koilia 'belly' ; -ac|ac|S||||Greek -akos 'pertaining to'
+ambidextrous	adj	ambi-|ambi|P||||Latin ambi- 'both' ; -dextr-|dextr|B|Adj|||Latin dexter 'right' ; -ous|ous|S||||Latin -osus 'full of'
+eosinophilic	adj	=
+histopathology	noun	=
+chartist	noun	=
+canticle	noun	cant-|cant|B|V|||Latin cantus 'song' ; -icle|icle|S||||Latin -iculus 'little'
+extirpation	noun	=
+snorer	noun	=
+securitization	noun	=
+phonon	noun	phono-|phono|B|N|||Greek phōnē 'sound' ; -on|n|S||||Greek -on 'thing'
+alleluia	noun	=
+anoxic	adj	=
+peregrination	noun	=
+vermeil	noun	=
+accordionist	noun	=
+pica	noun	=
+pulmonologist	noun	=
+paramedical	adj	=
+declamation	noun	=
+kurtosis	noun	=
+appurtenance	noun	=
+theophylline	noun	theo-|theo|B|N|||Latin Thea 'tea plant' ; -phyll-|phyll|B|N|||Greek phyllon 'leaf' ; -ine|ine|S||||Latin -ina 'substance'
+metrology	noun	metro-|metro|B|N|||Greek metron 'measure' ; -logy|logy|B|N|||Greek logos 'study, word'
+redound	verb	=
+gammon	noun	=
+pubis	noun	=
+residuum	noun	=
+papilloma	noun	=
+sacrum	noun	=
+temporize	verb	=
+excreta	noun	ex-|ex|P||||Latin ex- 'out' ; -cret-|cret|B|V|||Latin cernere 'to sift' ; -a|a|S||||Latin -a 'plural'
+hypothermic	adj	=
+germinal	adj	=
+animism	noun	anim-|anim|B|N|||Latin anima 'soul, life' ; -ism|ism|S||||Greek -ismos 'doctrine'
+nocturne	noun	=
+maxilla	noun	=
+acidify	verb	=
+fundament	noun	fund-|fund|B|V|||Latin fundare 'to found' ; -ament|ament|S||||Latin -amentum 'result'
+winterize	verb	=
+granger	noun	=
+gigawatt	noun	=
+asperity	noun	asper-|asper|B|Adj|||Latin asper 'rough' ; -ity|ity|S||||Latin -itas 'state'
+hemispherical	adj	=
+newel	noun	=
+cosmetologist	noun	=
+phrenology	noun	=
+grapheme	noun	graph-|graph|B|V|||Greek graphein 'to write' ; -eme|eme|S||||Greek -ēma 'unit'
+electrodynamics	noun	electro-|electro|B|N|||Greek ēlektron 'amber' ; -dynam-|dynam|B|V|||Greek dunamis 'power' ; -ics|ics|S||||Greek -ika 'sciences'
+prohibitionist	noun	=
+embattle	verb	=
+tyro	noun	=
+sycophancy	noun	=
+atomizer	noun	=
+lingual	adj	lingu-|lingu|B|N|||Latin lingua 'tongue' ; -al|al|S||||Latin -alis 'pertaining to'
+perigee	noun	peri-|peri|P||||Greek peri 'around, near' ; -gee|gee|B|N|||Greek gē 'earth'
+crape	noun	=
+photomontage	noun	=
+confrere	noun	=
+hieratic	adj	hier-|hier|B|N|||Greek hiereus 'priest' ; -atic|atic|S||||Greek -atikos 'pertaining to'
+hoplite	noun	hopl-|hopl|B|N|||Greek hoplon 'arms' ; -ite|ite|S||||Greek -itēs 'one connected with'
+tuberculous	adj	tubercul-|tubercul|B|N|||Latin tuberculum 'little lump' ; -ous|ous|S||||Latin -osus 'full of'
+charnel	adj	carn-|charn|B|N|||Latin caro 'flesh' ; -el|el|S||||Latin -alis 'pertaining to'
+nystagmus	noun	=
+plagiarist	noun	=
+gorgon	noun	=
+vampirism	noun	=
+indium	noun	=
+corm	noun	=
+geostationary	adj	=

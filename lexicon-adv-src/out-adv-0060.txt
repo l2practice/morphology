@@ -1,0 +1,150 @@
+ephedra	noun	ep-|ep|P||||Greek epi- 'upon' ; -hedra|hedra|B|N|||Greek hedra 'seat'
+experimentalist	noun	=
+specter	noun	=
+coliseum	noun	=
+modulator	noun	=
+ungulate	noun	ungul-|ungul|B|N|||Latin ungula 'hoof' ; -ate|ate|S||||Latin -atus 'having'
+projective	adj	=
+hypersensitivity	noun	=
+prognosticator	noun	=
+matriculate	verb	matricul-|matricul|B|N|||Latin matricula 'register' ; -ate|ate|S||||Latin -atus 'verb-forming'
+homeostasis	noun	homeo-|homeo|B|Adj|||Greek homoios 'similar, same' ; -stasis|stasis|B|N|||Greek stasis 'standing, state'
+panzer	noun	=
+hybridize	verb	=
+episcopate	noun	episcop-|episcop|B|N|||Greek episkopos 'overseer' ; -ate|ate|S||||Latin -atus 'having'
+dynamical	adj	=
+stochastic	adj	=
+dauphin	noun	=
+laudatory	adj	=
+procreative	adj	=
+geostrategic	adj	=
+titillation	noun	=
+histogram	noun	histo-|histo|B|N|||Greek histos 'mast' ; -gram|gram|B|N|||Greek gramma 'written mark'
+effete	adj	=
+edify	verb	=
+anomie	noun	a-|a|P||||Greek a- 'not' ; -nom-|nom|B|N|||Greek nomos 'law' ; -ie|ie|S||||Greek -ia 'state'
+mucous	adj	muc-|muc|B|N|||Latin mucus 'mucus' ; -ous|ous|S||||Latin -osus 'full of'
+vesicle	noun	vesic-|vesic|B|N|||Latin vesica 'bladder' ; -le|le|S||||Latin -ula 'diminutive'
+watercolorist	noun	=
+datum	noun	=
+verbena	noun	=
+contusion	noun	=
+cohere	verb	=
+microsecond	noun	=
+precession	noun	=
+meteoroid	noun	=
+glyph	noun	=
+demonization	noun	=
+pictograph	noun	picto-|picto|B|V|||Latin pictus 'painted' ; -graph|graph|B|N|||Greek graphein 'to write'
+quarto	noun	=
+cystitis	noun	=
+contralto	noun	contr-|contr|P||||Latin contra 'against' ; alto|alto|R|N
+loach	noun	=
+premeditation	noun	=
+celeste	noun	=
+mutable	adj	mut-|mut|B|V|||Latin mutare 'to change' ; -able|able|S||||Latin -abilis 'able to'
+exoticism	noun	=
+condescend	verb	=
+poultice	noun	=
+infliction	noun	in-|in|P||||Latin in- 'on' ; -flict-|flict|B|V||-flig|Latin fligere 'to strike' ; -ion|ion|S||||Latin -io, 'act, state'
+flatulence	noun	=
+erector	noun	=
+nativism	noun	=
+firebomb	noun	=
+urology	noun	=
+dropper	noun	=
+conversationalist	noun	=
+corpulent	adj	=
+constrictor	noun	=
+atomistic	adj	=
+amine	noun	=
+lassitude	noun	=
+vert	noun	=
+clavicle	noun	clavic-|clavic|B|N|||Latin clavis 'key' ; -le|le|S||||Latin -ula 'diminutive'
+despoil	verb	=
+anaphylaxis	noun	=
+pharyngeal	adj	pharyng-|pharyng|B|N|||Greek pharynx 'throat' ; -eal|eal|S||||Latin -alis 'relating to'
+goalscorer	noun	=
+perjure	verb	=
+rhapsodize	verb	=
+benefice	noun	=
+abrade	verb	ab-|ab|P||||Latin ab 'from' ; -rade|rade|B|V|||Latin radere 'to scrape'
+proscenium	noun	pro-|pro|P||||Greek pro 'before' ; -scen-|scen|B|N|||Greek skene 'scene' ; -ium|ium|S||||Greek -ion 'neuter ending'
+deprave	verb	de-|de|P||||Latin de- 'down' ; -prave|prave|B|Adj|||Latin pravus 'crooked'
+calcite	noun	calc-|calc|B|N||calx-|Latin calx 'lime' ; -ite|ite|S||||Greek -ites 'mineral, stone'
+showerhead	noun	=
+mina	noun	=
+megastar	noun	=
+gelato	noun	=
+bilingualism	noun	=
+rheumatic	adj	rheumat-|rheumat|B|N|||Greek rheuma 'stream' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+looker	noun	=
+profiteer	noun	=
+prognostication	noun	=
+caliph	noun	=
+demigod	noun	=
+alliteration	noun	al-|al|P||||Latin ad- 'to' ; -liter-|liter|B|N|||Latin litera 'letter' ; -ation|ation|S||||Latin -atio, 'act, state'
+elide	verb	e-|e|P||||Latin ex- 'out' ; -lide|lide|B|V|||Latin laedere 'to strike'
+exoneration	noun	=
+placer	noun	=
+sharpener	noun	=
+potentate	noun	potent-|potent|B|Adj|||Latin potens 'powerful' ; -ate|ate|S||||Latin -atus 'having'
+nanoparticle	noun	=
+tetracycline	noun	=
+penumbra	noun	pen-|pen|P||||Latin paene 'almost' ; -umbra|umbra|B|N|||Latin umbra 'shadow'
+viscose	noun	visc-|visc|B|N|||Latin viscum 'birdlime' ; -ose|ose|S||||Latin -osus 'full of'
+porta	noun	=
+abrogation	noun	ab-|ab|P||||Latin ab 'from' ; -rog-|rog|B|V|||Latin rogare 'to ask' ; -ation|ation|S||||Latin -atio, 'act, state'
+actin	noun	act-|act|B|N|||Greek aktis 'ray' ; -in|in|S||||Latin -ina 'substance'
+vulva	noun	=
+defamatory	adj	=
+obit	noun	=
+flasher	noun	=
+metadata	noun	=
+geode	noun	=
+embolism	noun	=
+audiovisual	adj	=
+cinnabar	noun	=
+astral	adj	=
+massif	noun	=
+inactivation	noun	=
+obsequious	adj	=
+oleander	noun	=
+sociality	noun	=
+rhesus	noun	=
+ethologist	noun	=
+purvey	verb	=
+reification	noun	=
+salvia	noun	=
+telephony	noun	=
+erythema	noun	=
+magnanimity	noun	=
+phosphor	noun	=
+hora	noun	=
+emolument	noun	=
+turbid	adj	=
+feminize	verb	=
+peon	noun	=
+epidural	adj	=
+campanile	noun	=
+scalar	adj	=
+lexis	noun	=
+inopportune	adj	=
+exhibitionist	noun	=
+vexation	noun	=
+sassafras	noun	=
+stapler	noun	=
+exhibitionism	noun	=
+seasonality	noun	=
+placental	adj	=
+retrench	verb	=
+depoliticize	verb	=
+conventioneer	noun	=
+parsimony	noun	=
+sputum	noun	=
+mastiff	noun	=
+pubescent	adj	=
+pantheism	noun	=
+porcine	adj	=
+periodontal	adj	=
+operable	adj	=

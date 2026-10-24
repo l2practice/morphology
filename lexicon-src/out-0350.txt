@@ -1,0 +1,200 @@
+phenomenalist	noun	phenomenal|phenomenal|R|Adj ; -ist|ist|S
+phenomenalistic	adj	phenomenal|phenomenal|R|Adj ; -ist|ist|S ; -ic|ic|S
+phenomenalistically	adv	phenomenal|phenomenal|R|Adj ; -ist|ist|S ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+phenomenalize	verb	phenomenal|phenomenal|R|Adj ; -ize|ize|S
+phenomenism	noun	phenomenon|phenomen|R|N ; -ism|ism|S
+phenomenist	noun	phenomenon|phenomen|R|N ; -ist|ist|S
+phenomenistic	adj	phenomenon|phenomen|R|N ; -ist|ist|S ; -ic|ic|S
+phenomenologically	adv	phenomenology|phenomenolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+phenyl	noun	phenyl|phenyl|R|N
+phenylacetic	adj	phenyl|phenyl|R|N ; acetic|acetic|R|Adj
+phenylephrine	noun	phenylephrine|phenylephrine|R|N
+philanthropically	adv	philanthropic|philanthropic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+philanthropism	noun	philanthropy|philanthrop|R|N ; -ism|ism|S
+philanthropize	verb	philanthropy|philanthrop|R|N ; -ize|ize|S
+philatelically	adv	philatelic|philatelic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+philatelist	noun	philately|philatel|R|N ; -ist|ist|S
+philately	noun	philately|philately|R|N
+philematology	noun	philematology|philematology|R|N
+philhellene	noun	philhellene|philhellene|R|N
+philhellenic	adj	philhellene|philhellen|R|N ; -ic|ic|S
+philhellenism	noun	philhellene|philhellen|R|N ; -ism|ism|S
+philia	noun	philia|philia|R|N
+philippic	noun	philippic|philippic|R|N
+phillumenist	noun	phillumenist|phillumenist|R|N
+philobiblic	adj	philobiblic|philobiblic|R|Adj
+philogynist	noun	philogyny|philogyn|R|N ; -ist|ist|S
+philogyny	noun	philogyny|philogyny|R|N
+philologian	noun	philology|philolog|R|N ; -ian|ian|S
+philologic	adj	philology|philolog|R|N ; -ic|ic|S
+philologically	adv	philology|philolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+philologize	verb	philology|philolog|R|N ; -ize|ize|S
+philomath	noun	philomath|philomath|R|N
+philomathy	noun	philomathy|philomathy|R|N
+philomel	noun	philomel|philomel|R|N
+philomusical	adj	philomusical|philomusical|R|Adj
+philopena	noun	philopena|philopena|R|N
+philopolemic	adj	philopolemic|philopolemic|R|Adj
+philoprogenitive	adj	philoprogenitive|philoprogenitive|R|Adj
+philoprogenitively	adv	philoprogenitive|philoprogenitive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+philoprogenitiveness	noun	philoprogenitive|philoprogenitive|R|Adj ; -ness|ness|S
+philosophaster	noun	philosophaster|philosophaster|R|N
+philosopheme	noun	philosopheme|philosopheme|R|N
+philosophism	noun	philosophy|philosoph|R|N ; -ism|ism|S
+philosophist	noun	philosophy|philosoph|R|N ; -ist|ist|S
+philosophizer	noun	philosophize|philosophiz|R|V ; -er|er|S||-er (N)
+philotechnic	adj	philotechnic|philotechnic|R|Adj
+philotherm	noun	philotherm|philotherm|R|N
+philter	noun	philter|philter|R|N
+philtrum	noun	philtrum|philtrum|R|N
+phimosis	noun	phimosis|phimosis|R|N
+phiz	noun	phiz|phiz|R|N
+phlebitic	adj	phlebitis|phlebit|R|N ; -ic|ic|S
+phlebogram	noun	phlebogram|phlebogram|R|N
+phlebographic	adj	phlebography|phlebograph|R|N ; -ic|ic|S
+phlebography	noun	phlebography|phlebography|R|N
+phlebology	noun	phlebology|phlebology|R|N
+phlebosclerotic	adj	phlebosclerotic|phlebosclerotic|R|Adj
+phlebotomic	adj	phlebotomy|phlebotom|R|N ; -ic|ic|S
+phlebotomist	noun	phlebotomy|phlebotom|R|N ; -ist|ist|S
+phlebotomize	verb	phlebotomy|phlebotom|R|N ; -ize|ize|S
+phlegmatically	adv	phlegmatic|phlegmatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+phlegmon	noun	phlegmon|phlegmon|R|N
+phlegmonic	adj	phlegmon|phlegmon|R|N ; -ic|ic|S
+phlegmonous	adj	phlegmon|phlegmon|R|N ; -ous|ous|S
+phloem	noun	phloem|phloem|R|N
+phlogistic	adj	phlogistic|phlogistic|R|Adj
+phlogopite	noun	phlogopite|phlogopite|R|N
+phlyctena	noun	phlyctena|phlyctena|R|N
+phlyctenule	noun	phlyctenule|phlyctenule|R|N
+pho	noun	pho|pho|R|N
+phobophobia	noun	phobophobia|phobophobia|R|N
+phocine	adj	phocine|phocine|R|Adj
+phocomelia	noun	phocomelia|phocomelia|R|N
+phoebe	noun	phoebe|phoebe|R|N
+phon	noun	phon|phon|R|N
+phonate	verb	phone|phon|R|N ; -ate|ate|S
+phonation	noun	phonate|phonat|R|V ; -ion|ion|S
+phonatory	adj	phonate|phonat|R|V ; -ory|ory|S
+phonautograph	noun	phonautograph|phonautograph|R|N
+phonecard	noun	phone|phone|R|N ; card|card|R|N
+phoneidoscope	noun	phoneidoscope|phoneidoscope|R|N
+phonematic	adj	phonematic|phonematic|R|Adj
+phonemically	adv	phonemic|phonemic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+phonemicist	noun	phonemics|phonemic|R|N ; -ist|ist|S
+phonemics	noun	phonemics|phonemics|R|N
+phonendoscope	noun	phonendoscope|phonendoscope|R|N
+phones	noun	phone|phone|R|N ; -s|s|I||-s (plural)
+phonetical	adj	phonetic|phonetic|R|Adj ; -al|al|S
+phoneticist	noun	phonetic|phonetic|R|Adj ; -ist|ist|S
+phoneticize	verb	phonetic|phonetic|R|Adj ; -ize|ize|S
+phonetist	noun	phonetic|phonet|R|Adj ; -ist|ist|S
+phoniatrics	noun	phoniatrics|phoniatrics|R|N
+phonically	adv	phonic|phonic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+phonily	adv	phony|phoni|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+phoning	noun	phone|phon|R|V ; -ing|ing|S||-ing (N)
+phonk	noun	phonk|phonk|R|N
+phonogramically	adv	phonogram|phonogram|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+phonogrammic	adj	phonogram|phonogramm|R|N ; -ic|ic|S
+phonographically	adv	phonography|phonograph|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+phonographist	noun	phonography|phonograph|R|N ; -ist|ist|S
+phonography	noun	phonography|phonography|R|N
+phonolite	noun	phonolite|phonolite|R|N
+phonolitic	adj	phonolite|phonolit|R|N ; -ic|ic|S
+phonologist	noun	phonology|phonolog|R|N ; -ist|ist|S
+phonometer	noun	phonometer|phonometer|R|N
+phonopathy	noun	phonopathy|phonopathy|R|N
+phonoreception	noun	phonoreception|phonoreception|R|N
+phonoreceptor	noun	phonoreceptor|phonoreceptor|R|N
+phonoscope	noun	phonoscope|phonoscope|R|N
+phonosemantic	adj	phonosemantic|phonosemantic|R|Adj
+phonotactics	noun	phonotactics|phonotactics|R|N
+phonotelemeter	noun	phonotelemeter|phonotelemeter|R|N
+phonotype	noun	phonotype|phonotype|R|N
+phonotypic	adj	phonotype|phonotyp|R|N ; -ic|ic|S
+phonotypically	adv	phonotype|phonotyp|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+phonotypist	noun	phonotype|phonotyp|R|N ; -ist|ist|S
+phormium	noun	phormium|phormium|R|N
+phosgene	noun	phosgene|phosgene|R|N
+phosphatic	adj	phosphate|phosphat|R|N ; -ic|ic|S
+phosphatize	verb	phosphate|phosphat|R|N ; -ize|ize|S
+phosphaturia	noun	phosphaturia|phosphaturia|R|N
+phosphene	noun	phosphene|phosphene|R|N
+phosphine	noun	phosphine|phosphine|R|N
+phosphinic	adj	phosphine|phosphin|R|N ; -ic|ic|S
+phosphite	noun	phosphite|phosphite|R|N
+phosphofructokinase	noun	phosphofructokinase|phosphofructokinase|R|N
+phosphorate	verb	phosphorus|phosphor|R|N ; -ate|ate|S
+phosphoresce	verb	phosphoresce|phosphoresce|R|V
+phosphorescently	adv	phosphorescent|phosphorescent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+phosphorism	noun	phosphorism|phosphorism|R|N
+phosphorite	noun	phosphorite|phosphorite|R|N
+phosphorize	verb	phosphorus|phosphor|R|N ; -ize|ize|S
+phosphorized	adj	phosphorize|phosphoriz|R|V ; -ed|ed|S||-ed (adj)
+phosphoroscope	noun	phosphoroscope|phosphoroscope|R|N
+phossy	adj	phossy|phossy|R|Adj
+phot	noun	phot|phot|R|N
+photic	adj	photic|photic|R|Adj
+photism	noun	photism|photism|R|N
+photoactive	adj	photo|photo|R|N ; active|active|R|Adj
+photoautotroph	noun	photoautotroph|photoautotroph|R|N
+photoautotrophic	adj	photoautotrophic|photoautotrophic|R|Adj
+photobiologic	adj	photobiology|photobiolog|R|N ; -ic|ic|S
+photobiologist	noun	photobiology|photobiolog|R|N ; -ist|ist|S
+photobiology	noun	photobiology|photobiology|R|N
+photobiotic	adj	photobiotic|photobiotic|R|Adj
+photobomb	noun	photo|photo|R|N ; bomb|bomb|R|N
+photobook	noun	photo|photo|R|N ; book|book|R|N
+photocathode	noun	photo|photo|R|N ; cathode|cathode|R|N
+photochemically	adv	photo|photo|R|N ; chemical|chemical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+photochemist	noun	photochemistry|photochem|R|N ; -ist|ist|S
+photochemistry	noun	photochemistry|photochemistry|R|N
+photochlorination	noun	photo|photo|R|N ; chlorinate|chlorinat|R|V ; -ion|ion|S
+photochromatic	adj	photo|photo|R|N ; chromatic|chromatic|R|Adj
+photochromic	adj	photo|photo|R|N ; chromic|chromic|R|Adj
+photochromism	noun	photochromism|photochromism|R|N
+photochromy	noun	photochromy|photochromy|R|N
+photocompose	verb	photo|photo|R|N ; compose|compose|R|V
+photocomposer	noun	photo|photo|R|N ; compose|compos|R|V ; -er|er|S||-er (N)
+photocomposition	noun	photo|photo|R|N ; compose|composit|R|V ; -ion|ion|S
+photoconduction	noun	photo|photo|R|N ; conduction|conduction|R|N
+photoconductive	adj	photo|photo|R|N ; conductive|conductive|R|Adj
+photoconductivity	noun	photo|photo|R|N ; conductive|conductiv|R|Adj ; -ity|ity|S
+photoconductor	noun	photo|photo|R|N ; conduct|conduct|R|V ; -or|or|S
+photocurrent	noun	photo|photo|R|N ; current|current|R|N
+photodecomposition	noun	photo|photo|R|N ; decompose|decomposit|R|V ; -ion|ion|S
+photodisintegrate	verb	photo|photo|R|N ; disintegrate|disintegrate|R|V
+photodisintegration	noun	photo|photo|R|N ; disintegrate|disintegrat|R|V ; -ion|ion|S
+photodissociate	verb	photo|photo|R|N ; dissociate|dissociate|R|V
+photodissociation	noun	photo|photo|R|N ; dissociate|dissoci|R|V ; -ation|ation|S
+photodrama	noun	photo|photo|R|N ; drama|drama|R|N
+photodramatic	adj	photodramatic|photodramatic|R|Adj
+photodramatist	noun	photodramatist|photodramatist|R|N
+photoelectrically	adv	photo|photo|R|N ; electric|electric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+photoelectricity	noun	photo|photo|R|N ; electric|electric|R|Adj ; -ity|ity|S
+photoelectron	noun	photo|photo|R|N ; electron|electron|R|N
+photoengraving	noun	photo|photo|R|N ; engrave|engrav|R|V ; -ing|ing|S||-ing (N)
+photofit	noun	photo|photo|R|N ; fit|fit|R|N
+photofluorographic	adj	photofluorographic|photofluorographic|R|Adj
+photogenically	adv	photogenic|photogenic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+photogenicity	noun	photogenic|photogenic|R|Adj ; -ity|ity|S
+photoglyphy	noun	photoglyphy|photoglyphy|R|N
+photogram	noun	photo|photo|R|N ; gram|gram|R|N
+photogrammeter	noun	photogrammetry|photogrammet|R|N ; -er|er|S||-er (N)
+photogrammetry	noun	photogrammetry|photogrammetry|R|N
+photographable	adj	photograph|photograph|R|N ; -able|able|S
+photogravure	noun	photogravure|photogravure|R|N
+photoheliograph	noun	photoheliograph|photoheliograph|R|N
+photoinactivation	noun	photo|photo|R|N ; inactivate|inactivat|R|V ; -ion|ion|S
+photoinduced	adj	photo|photo|R|N ; induce|induc|R|V ; -ed|ed|S||-ed (adj)
+photokeratitis	noun	photokeratitis|photokeratitis|R|N
+photokinesis	noun	photokinesis|photokinesis|R|N
+photolithograph	noun	photo|photo|R|N ; lithograph|lithograph|R|N
+photolithographer	noun	photo|photo|R|N ; lithograph|lithograph|R|N ; -er|er|S||-er (N)
+photoluminescence	noun	photo|photo|R|N ; luminescence|luminescence|R|N
+photolysis	noun	photolysis|photolysis|R|N
+photolytic	adj	photolysis|photolyt|R|N ; -ic|ic|S
+photolytically	adv	photolysis|photolyt|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+photomacrography	noun	photomacrography|photomacrography|R|N
+photomagnetic	adj	photo|photo|R|N ; magnetic|magnetic|R|Adj
+photomap	noun	photo|photo|R|N ; map|map|R|N

@@ -1,0 +1,200 @@
+replum	noun	replum|replum|R|N
+repolarization	noun	re-|re|P ; polar|polar|R|Adj ; -ize|iz|S ; -ation|ation|S
+repolish	verb	re-|re|P ; polish|polish|R|V
+reposal	noun	repose|repos|R|V ; -al|al|S
+reposed	adj	repose|repos|R|V ; -ed|ed|S||-ed (adj)
+reposeful	adj	repose|repose|R|V ; -ful|ful|S
+reposefulness	noun	repose|repose|R|V ; -ful|ful|S ; -ness|ness|S
+reposit	verb	re-|re|P ; posit|posit|R|V
+repost	verb	re-|re|P ; post|post|R|V
+reprehend	verb	reprehend|reprehend|R|V
+reprehensibility	noun	reprehend|reprehens|R|V ; -ible|ibil|S ; -ity|ity|S
+reprehensibly	adv	reprehend|reprehens|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+reprehension	noun	reprehend|reprehens|R|V ; -ion|ion|S
+representationalism	noun	represent|represent|R|V ; -ation|ation|S ; -al|al|S ; -ism|ism|S
+representations	noun	represent|represent|R|V ; -ation|ation|S ; -s|s|I||-s (plural)
+representativity	noun	represent|represent|R|V ; -ative|ativ|S ; -ity|ity|S
+representer	noun	represent|represent|R|V ; -er|er|S||-er (N)
+represser	noun	re-|re|P ; press|press|R|V ; -er|er|S||-er (N)
+repressible	adj	re-|re|P ; press|press|R|V ; -ible|ible|S
+repressing	verb	re-|re|P ; press|press|R|V ; -ing|ing|I||-ing (v)
+repressiveness	noun	re-|re|P ; press|press|R|V ; -ive|ive|S ; -ness|ness|S
+reprimanding	verb	reprimand|reprimand|R|V ; -ing|ing|I||-ing (v)
+reprivatization	noun	re-|re|P ; private|privat|R|Adj ; -ize|iz|S ; -ation|ation|S
+reproachable	adj	reproach|reproach|R|V ; -able|able|S
+reproacher	noun	reproach|reproach|R|V ; -er|er|S||-er (N)
+reproachfulness	noun	reproach|reproach|R|V ; -ful|ful|S ; -ness|ness|S
+reproaching	verb	reproach|reproach|R|V ; -ing|ing|I||-ing (v)
+reproachless	adj	reproach|reproach|R|V ; -less|less|S
+reprobative	adj	reprobate|reprobat|R|V ; -ive|ive|S
+reprobatory	adj	reprobate|reprobat|R|V ; -ory|ory|S
+reproducing	verb	re-|re|P ; pro-|pro|P ; -duce|duc|B|V ; -ing|ing|I||-ing (v)
+reproductiveness	noun	re-|re|P ; product|product|R|N ; -ive|ive|S ; -ness|ness|S
+reproductory	adj	re-|re|P ; product|product|R|N ; -ory|ory|S
+reprographic	adj	reprography|reprograph|R|N ; -ic|ic|S
+reprography	noun	reprography|reprography|R|N
+reproportion	verb	re-|re|P ; proportion|proportion|R|N
+reprover	noun	re-|re|P ; prove|prov|R|V ; -er|er|S||-er (N)
+reproving	verb	re-|re|P ; prove|prov|R|V ; -ing|ing|I||-ing (v)
+reptant	adj	reptant|reptant|R|Adj
+reptation	noun	reptation|reptation|R|N
+reptilelike	adj	reptile|reptile|R|N ; -like|like|S
+reptilianness	noun	reptile|reptili|R|N ; -an|an|S ; -ness|ness|S
+republicanize	verb	republican|republican|R|Adj ; -ize|ize|S
+republiqueta	noun	republiqueta|republiqueta|R|N
+repudiated	adj	repudiate|repudiat|R|V ; -ed|ed|S||-ed (adj)
+repudiator	noun	repudiate|repudiat|R|V ; -or|or|S
+repugnancy	noun	repugnant|repugn|R|Adj ; -ancy|ancy|S
+repulsively	adv	re-|re|P ; pulse|puls|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+repulsiveness	noun	re-|re|P ; pulse|puls|R|V ; -ive|ive|S ; -ness|ness|S
+repurpose	verb	re-|re|P ; purpose|purpose|R|V
+reputably	adv	repute|reput|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+requel	noun	requel|requel|R|N
+requital	noun	requite|requit|R|V ; -al|al|S
+requite	verb	requite|requite|R|V
+reradiate	verb	re-|re|P ; radiate|radiate|R|V
+rereading	noun	re-|re|P ; read|read|R|V ; -ing|ing|S||-ing (N)
+rerecording	noun	re-|re|P ; record|record|R|V ; -ing|ing|S||-ing (N)
+reredos	noun	reredos|reredos|R|N
+reregistration	noun	re-|re|P ; register|registr|R|V ; -ation|ation|S
+rerise	verb	re-|re|P ; rise|rise|R|V
+reroute	verb	re-|re|P ; route|route|R|V
+resail	verb	re-|re|P ; sail|sail|R|V
+resaw	verb	re-|re|P ; saw|saw|R|V
+rescale	verb	re-|re|P ; scale|scale|R|V
+rescaling	noun	re-|re|P ; scale|scal|R|V ; -ing|ing|S||-ing (N)
+rescinding	verb	rescind|rescind|R|V ; -ing|ing|I||-ing (v)
+rescissory	adj	rescissory|rescissory|R|Adj
+rescrape	verb	re-|re|P ; scrape|scrape|R|V
+rescreening	noun	re-|re|P ; screen|screen|R|V ; -ing|ing|S||-ing (N)
+rescript	noun	re-|re|P ; -scribe|script|B|V
+rescuing	verb	rescue|rescu|R|V ; -ing|ing|I||-ing (v)
+resealable	adj	re-|re|P ; seal|seal|R|V ; -able|able|S
+researching	verb	research|research|R|V ; -ing|ing|I||-ing (v)
+reseda	noun	reseda|reseda|R|N
+resee	verb	re-|re|P ; see|see|R|V
+resend	verb	re-|re|P ; send|send|R|V
+resentfulness	noun	resent|resent|R|V ; -ful|ful|S ; -ness|ness|S
+reserpine	noun	reserpine|reserpine|R|N
+reservative	adj	reserve|reserv|R|V ; -ative|ative|S
+reservatory	adj	reserve|reservat|R|V ; -ory|ory|S
+reservedly	adv	reserve|reserv|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+reservedness	noun	reserve|reserv|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+reserver	noun	reserve|reserv|R|V ; -er|er|S||-er (N)
+resetter	noun	re-|re|P ; set|sett|R|V ; -er|er|S||-er (N)
+resh	noun	resh|resh|R|N
+reship	verb	re-|re|P ; ship|ship|R|V
+reshipping	noun	re-|re|P ; ship|shipp|R|V ; -ing|ing|S||-ing (N)
+residentiary	noun	resident|resident|R|N ; -ary|iary|S
+resider	noun	reside|resid|R|V ; -er|er|S||-er (N)
+residuate	verb	residue|residu|R|N ; -ate|ate|S
+residuation	noun	residue|residu|R|N ; -ation|ation|S
+resignee	noun	resign|resign|R|V ; -ee|ee|S
+resile	verb	resile|resile|R|V
+resilifer	noun	resilifer|resilifer|R|N
+resilium	noun	resilium|resilium|R|N
+resilver	verb	re-|re|P ; silver|silver|R|V
+resinaceous	adj	resin|resin|R|N ; -eous|aceous|S
+resinate	noun	resin|resin|R|N ; -ate|ate|S
+resiniferous	adj	resiniferous|resiniferous|R|Adj
+resinification	noun	resinify|resinifi|R|V ; -ation|cation|S
+resinify	verb	resin|resin|R|N ; -ify|ify|S
+resinoid	noun	resinoid|resinoid|R|N
+resiny	adj	resin|resin|R|N ; -y|y|S
+resipiscence	noun	resipiscence|resipiscence|R|N
+resistibility	noun	resist|resist|R|V ; -ible|ibil|S ; -ity|ity|S
+resistless	adj	resist|resist|R|V ; -less|less|S
+resole	verb	re-|re|P ; sole|sole|R|V
+resolidification	noun	re-|re|P ; solid|solid|R|Adj ; -ify|ifi|S ; -ation|cation|S
+resoling	noun	re-|re|P ; sole|sol|R|V ; -ing|ing|S||-ing (N)
+resolubility	noun	resolve|resolu|R|V ; -able|bil|S ; -ity|ity|S
+resoluble	adj	resolve|resolu|R|V ; -able|ble|S
+resolutive	adj	resolve|resolut|R|V ; -ive|ive|S
+resolvability	noun	resolve|resolv|R|V ; -able|abil|S ; -ity|ity|S
+resolvent	noun	resolve|resolv|R|V ; -ent|ent|S
+resolver	noun	resolve|resolv|R|V ; -er|er|S||-er (N)
+resolving	verb	resolve|resolv|R|V ; -ing|ing|I||-ing (v)
+resonantly	adv	resonate|reson|R|V ; -ant|ant|S ; -ly|ly|I|Adv|-ly (adv)
+resorb	verb	re-|re|P ; sorb|sorb|R|V
+resourcefully	adv	resource|resource|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+resourceless	adj	resource|resource|R|N ; -less|less|S
+resourcelessness	noun	resource|resource|R|N ; -less|less|S ; -ness|ness|S
+respectfulness	noun	respect|respect|R|V ; -ful|ful|S ; -ness|ness|S
+respectlessness	noun	respect|respect|R|V ; -less|less|S ; -ness|ness|S
+respects	noun	respect|respect|R|V ; -s|s|I||-s (plural)
+respectworthy	adj	respect|respect|R|V ; worthy|worthy|R|Adj
+respell	verb	re-|re|P ; spell|spell|R|V
+respelling	noun	re-|re|P ; spell|spell|R|V ; -ing|ing|S||-ing (N)
+respirability	noun	respire|respir|R|V ; -able|abil|S ; -ity|ity|S
+respiratorium	noun	respiratorium|respiratorium|R|N
+respirometer	noun	respirometer|respirometer|R|N
+resplendence	noun	resplendent|resplend|R|Adj ; -ence|ence|S
+resplendency	noun	resplendent|resplend|R|Adj ; -ency|ency|S
+responding	verb	respond|respond|R|V ; -ing|ing|I||-ing (v)
+responsibilization	noun	responsibilize|responsibiliz|R|V ; -ation|ation|S
+responsibilize	verb	responsibility|responsibil|R|N ; -ize|ize|S
+responsor	noun	respond|respons|R|V ; -or|or|S
+responsory	noun	respond|respons|R|V ; -ory|ory|S
+respray	verb	re-|re|P ; spray|spray|R|V
+ressentiment	noun	ressentiment|ressentiment|R|N
+restake	verb	re-|re|P ; stake|stake|R|V
+restfully	adv	rest|rest|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+restfulness	noun	rest|rest|R|N ; -ful|ful|S ; -ness|ness|S
+restharrow	noun	rest|rest|R|N ; harrow|harrow|R|N
+restiform	adj	restiform|restiform|R|Adj
+restitute	verb	restitute|restitute|R|V
+restively	adv	restive|restive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+restorable	adj	restore|restor|R|V ; -able|able|S
+restorationism	noun	restore|restor|R|V ; -ation|ation|S ; -ism|ism|S
+restrainer	noun	re-|re|P ; strain|strain|R|V ; -er|er|S||-er (N)
+restricting	verb	restrict|restrict|R|V ; -ing|ing|I||-ing (v)
+restrictionism	noun	restrict|restrict|R|V ; -ion|ion|S ; -ism|ism|S
+restrictionist	noun	restrict|restrict|R|V ; -ion|ion|S ; -ist|ist|S
+restrike	verb	re-|re|P ; strike|strike|R|V
+resublime	verb	re-|re|P ; sublime|sublime|R|V
+resultative	adj	result|result|R|V ; -ative|ative|S
+resultful	adj	result|result|R|V ; -ful|ful|S
+resummons	noun	re-|re|P ; summon|summon|R|V ; -s|s|I||-s (plural)
+resupinate	adj	resupinate|resupinate|R|Adj
+resurge	verb	re-|re|P ; surge|surge|R|V
+resurrectionary	adj	resurrect|resurrect|R|V ; -ion|ion|S ; -ary|ary|S
+resurrectionist	noun	resurrect|resurrect|R|V ; -ion|ion|S ; -ist|ist|S
+resuscitative	adj	resuscitate|resuscitat|R|V ; -ive|ive|S
+resuscitator	noun	resuscitate|resuscitat|R|V ; -or|or|S
+resynthesis	noun	re-|re|P ; synthesis|synthesis|R|N
+retable	noun	retable|retable|R|N
+retaliative	adj	retaliate|retaliat|R|V ; -ive|ive|S
+retannage	noun	re-|re|P ; tan|tann|R|V ; -age|age|S
+retardate	noun	retard|retard|R|V ; -ate|ate|S
+retardative	adj	retard|retard|R|V ; -ative|ative|S
+retardatory	adj	retard|retard|R|V ; -ory|atory|S
+retarder	noun	retard|retard|R|V ; -er|er|S||-er (N)
+retarding	verb	retard|retard|R|V ; -ing|ing|I||-ing (v)
+retardment	noun	retard|retard|R|V ; -ment|ment|S
+rete	noun	rete|rete|R|N
+retecious	adj	retecious|retecious|R|Adj
+retemper	verb	re-|re|P ; temper|temper|R|V
+retentively	adv	retain|retent|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+retentiveness	noun	retain|retent|R|V ; -ive|ive|S ; -ness|ness|S
+reterritorialization	noun	re-|re|P ; territorial|territorial|R|Adj ; -ize|iz|S ; -ation|ation|S
+rethread	verb	re-|re|P ; thread|thread|R|V
+retiarius	noun	retiarius|retiarius|R|N
+retiary	adj	retiary|retiary|R|Adj
+reticently	adv	reticent|reticent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+reticula	noun	reticula|reticula|R|N
+reticulate	adj	reticulate|reticulate|R|Adj
+reticulation	noun	reticulate|reticulat|R|V ; -ion|ion|S
+reticulin	noun	reticulin|reticulin|R|N
+reticulocyte	noun	reticulocyte|reticulocyte|R|N
+retiform	adj	retiform|retiform|R|Adj
+retimber	verb	re-|re|P ; timber|timber|R|V
+retime	verb	re-|re|P ; time|time|R|V
+retinaculum	noun	retinaculum|retinaculum|R|N
+retinene	noun	retinene|retinene|R|N
+retinerved	adj	retinerved|retinerved|R|Adj
+retinoblastoma	noun	retinoblastoma|retinoblastoma|R|N
+retinoscope	noun	retinoscope|retinoscope|R|N
+retinoscopy	noun	retinoscopy|retinoscopy|R|N
+retinosis	noun	retinosis|retinosis|R|N
+retoucher	noun	re-|re|P ; touch|touch|R|V ; -er|er|S||-er (N)
+retracing	verb	re-|re|P ; trace|trac|R|V ; -ing|ing|I||-ing (v)

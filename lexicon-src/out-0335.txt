@@ -1,0 +1,200 @@
+novercal	adj	novercal|novercal|R|Adj
+noviceship	noun	novice|novice|R|N ; -ship|ship|S
+novichok	noun	novichok|novichok|R|N
+nowaday	adv	nowaday|nowaday|R|Adv
+noway	noun	no|no|R ; way|way|R|N
+noxiously	adv	noxious|noxious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+noxiousness	noun	noxious|noxious|R|Adj ; -ness|ness|S
+noyan	noun	noyan|noyan|R|N
+nozzleman	noun	nozzle|nozzle|R|N ; man|man|R|N
+np	noun	np|np|R|N
+nshima	noun	nshima|nshima|R|N
+nubbly	adj	nubble|nubbl|R|N ; -y|y|S
+nubcake	noun	nub|nub|R|N ; cake|cake|R|N
+nubility	noun	nubile|nubil|R|Adj ; -ity|ity|S
+nubuck	noun	nubuck|nubuck|R|N
+nucellus	noun	nucellus|nucellus|R|N
+nucha	noun	nucha|nucha|R|N
+nuchal	adj	nucha|nuch|R|N ; -al|al|S
+nuciferous	adj	nuciferous|nuciferous|R|Adj
+nucivorous	adj	nucivorous|nucivorous|R|Adj
+nuclease	noun	nuclease|nuclease|R|N
+nucleate	verb	nucleate|nucleate|R|V
+nucleating	verb	nucleate|nucleat|R|V ; -ing|ing|I||-ing (v)
+nuclein	noun	nuclein|nuclein|R|N
+nucleoid	noun	nucleoid|nucleoid|R|N
+nucleolus	noun	nucleolus|nucleolus|R|N
+nucleonics	noun	nucleonics|nucleonics|R|N
+nucleophile	noun	nucleophile|nucleophile|R|N
+nucleosome	noun	nucleosome|nucleosome|R|N
+nucule	noun	nucule|nucule|R|N
+nudeness	noun	nude|nude|R|Adj ; -ness|ness|S
+nudibranch	noun	nudibranch|nudibranch|R|N
+nudie	noun	nudie|nudie|R|N
+nudism	noun	nude|nud|R|Adj ; -ism|ism|S
+nuggar	noun	nuggar|nuggar|R|N
+nuggets	noun	nugget|nugget|R|N ; -s|s|I||-s (plural)
+nukige	noun	nukige|nukige|R|N
+nulhomotopic	adj	nulhomotopic|nulhomotopic|R|Adj
+nullah	noun	nullah|nullah|R|N
+nullary	adj	null|null|R|Adj ; -ary|ary|S
+nullified	verb	nullify|nullifi|R|V ; -ed|ed|I||-ed (v2)
+nullifier	noun	nullify|nullifi|R|V ; -er|er|S||-er (N)
+nullifying	verb	nullify|nullify|R|V ; -ing|ing|I||-ing (v)
+nullipara	noun	nullipara|nullipara|R|N
+numbat	noun	numbat|numbat|R|N
+numbers	noun	number|number|R|N ; -s|s|I||-s (plural)
+numen	noun	numen|numen|R|N
+numerable	adj	numerable|numerable|R|Adj
+numerary	adj	numerary|numerary|R|Adj
+numerological	adj	numerology|numerolog|R|N ; -ical|ical|S
+numerologist	noun	numerology|numerolog|R|N ; -ist|ist|S
+numeronym	noun	numeronym|numeronym|R|N
+numerously	adv	numerous|numerous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+numerousness	noun	numerous|numerous|R|Adj ; -ness|ness|S
+numismatics	noun	numismatics|numismatics|R|N
+numismatology	noun	numismatology|numismatology|R|N
+nummular	adj	nummular|nummular|R|Adj
+nummulite	noun	nummulite|nummulite|R|N
+numnah	noun	numnah|numnah|R|N
+numskull	noun	numskull|numskull|R|N
+nunatak	noun	nunatak|nunatak|R|N
+nunation	noun	nunation|nunation|R|N
+nunchaku	noun	nunchaku|nunchaku|R|N
+nuncius	noun	nuncius|nuncius|R|N
+nuncle	noun	nuncle|nuncle|R|N
+nunlike	adj	nun|nun|R|N ; -like|like|S
+nunnish	adj	nun|nunn|R|N ; -ish|ish|S
+nuqta	noun	nuqta|nuqta|R|N
+nuraghe	noun	nuraghe|nuraghe|R|N
+nursehound	noun	nurse|nurse|R|N ; hound|hound|R|N
+nurser	noun	nurse|nurs|R|N ; -er|er|S||-er (N)
+nurserymaid	noun	nursery|nursery|R|N ; maid|maid|R|N
+nursling	noun	nurse|nurs|R|N ; -ling|ling|S
+nutate	verb	nutate|nutate|R|V
+nutation	noun	nutate|nutat|R|V ; -ion|ion|S
+nutcake	noun	nut|nut|R|N ; cake|cake|R|N
+nutlet	noun	nut|nut|R|N ; -let|let|S
+nutmeat	noun	nut|nut|R|N ; meat|meat|R|N
+nutrigenomics	noun	nutrigenomics|nutrigenomics|R|N
+nutriment	noun	nutriment|nutriment|R|N
+nutritionism	noun	nutrition|nutrition|R|N ; -ism|ism|S
+nutritiousness	noun	nutritious|nutritious|R|Adj ; -ness|ness|S
+nutted	verb	nut|nutt|R|V ; -ed|ed|I||-ed (v2)
+nutting	noun	nut|nutt|R|V ; -ing|ing|S||-ing (N)
+nuzzling	verb	nuzzle|nuzzl|R|V ; -ing|ing|I||-ing (v)
+nyala	noun	nyala|nyala|R|N
+nychthemeron	noun	nychthemeron|nychthemeron|R|N
+nyctalope	noun	nyctalope|nyctalope|R|N
+nyctalopia	noun	nyctalopia|nyctalopia|R|N
+nyctalopic	adj	nyctalopia|nyctalop|R|N ; -ic|ic|S
+nyctinasty	noun	nyctinasty|nyctinasty|R|N
+nyctophile	noun	nyctophile|nyctophile|R|N
+nyctophobia	noun	nyctophobia|nyctophobia|R|N
+nylonless	adj	nylon|nylon|R|N ; -less|less|S
+nymphaeum	noun	nymphaeum|nymphaeum|R|N
+nymphalid	noun	nymphalid|nymphalid|R|N
+nymphean	adj	nymphean|nymphean|R|Adj
+nympho	noun	nympho|nympho|R|N
+nympholepsy	noun	nympholepsy|nympholepsy|R|N
+nympholept	noun	nympholept|nympholept|R|N
+nymphomania	noun	nymphomania|nymphomania|R|N
+nymphomaniacal	adj	nymphomaniac|nymphomaniac|R|N ; -al|al|S
+nymphosis	noun	nymphosis|nymphosis|R|N
+oafishly	adv	oaf|oaf|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+oafishness	noun	oaf|oaf|R|N ; -ish|ish|S ; -ness|ness|S
+oaklet	noun	oak|oak|R|N ; -let|let|S
+oakling	noun	oak|oak|R|N ; -ling|ling|S
+oaks	noun	oak|oak|R|N ; -s|s|I||-s (plural)
+oakum	noun	oakum|oakum|R|N
+oaky	adj	oak|oak|R|N ; -y|y|S
+oarage	noun	oar|oar|R|N ; -age|age|S
+oared	adj	oar|oar|R|N ; -ed|ed|S||-ed (adj)
+oarfish	noun	oar|oar|R|N ; fish|fish|R|N
+oarless	adj	oar|oar|R|N ; -less|less|S
+oarsmanship	noun	oar|oars|R|N ; man|man|R|N ; -ship|ship|S
+oary	adj	oar|oar|R|N ; -y|y|S
+oasal	adj	oasis|oas|R|N ; -al|al|S
+oaten	adj	oat|oat|R|N ; -en|en|S
+oathbreach	noun	oath|oath|R|N ; breach|breach|R|N
+oathtaking	noun	oath|oath|R|N ; take|tak|R|V ; -ing|ing|S||-ing (N)
+obconic	adj	obconic|obconic|R|Adj
+obcordate	adj	obcordate|obcordate|R|Adj
+obduction	noun	obduction|obduction|R|N
+obdurateness	noun	obdurate|obdurate|R|Adj ; -ness|ness|S
+obe	noun	obe|obe|R|N
+obeahman	noun	obeah|obeah|R|N ; man|man|R|N
+obeche	noun	obeche|obeche|R|N
+obediency	noun	obedient|obedi|R|Adj ; -ency|ency|S
+obedientiary	noun	obedientiary|obedientiary|R|N
+obeisant	adj	obeisant|obeisant|R|Adj
+obeisantly	adv	obeisant|obeisant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+obelize	verb	obelus|obel|R|N ; -ize|ize|S
+obelus	noun	obelus|obelus|R|N
+obeseness	noun	obese|obese|R|Adj ; -ness|ness|S
+obesogenic	adj	obesogenic|obesogenic|R|Adj
+obeyer	noun	obey|obey|R|V ; -er|er|S||-er (N)
+obi	noun	obi|obi|R|N
+obitual	adj	obit|obit|R|N ; -ual|ual|S
+obituarist	noun	obituary|obituar|R|N ; -ist|ist|S
+objectifying	verb	objectify|objectify|R|V ; -ing|ing|I||-ing (v)
+objectionableness	noun	object|object|R|V ; -ion|ion|S ; -able|able|S ; -ness|ness|S
+objectionably	adv	object|object|R|V ; -ion|ion|S ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+objectiveness	noun	object|object|R|V ; -ive|ive|S ; -ness|ness|S
+objectivize	verb	object|object|R|V ; -ive|iv|S ; -ize|ize|S
+objectize	verb	object|object|R|V ; -ize|ize|S
+objectless	adj	object|object|R|N ; -less|less|S
+objurgate	verb	objurgate|objurgate|R|V
+objurgation	noun	objurgation|objurgation|R|N
+objurgatory	adj	objurgate|objurgat|R|V ; -ory|ory|S
+oblanceolate	adj	oblanceolate|oblanceolate|R|Adj
+oblateness	noun	oblate|oblate|R|Adj ; -ness|ness|S
+oblational	adj	oblation|oblation|R|N ; -al|al|S
+oblatory	adj	oblatory|oblatory|R|Adj
+obligee	noun	oblige|oblig|R|V ; -ee|ee|S
+obligement	noun	oblige|oblige|R|V ; -ment|ment|S
+obliger	noun	oblige|oblig|R|V ; -er|er|S||-er (N)
+obligingness	noun	oblige|oblig|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+obligor	noun	oblige|oblig|R|V ; -or|or|S
+obliqueness	noun	oblique|oblique|R|Adj ; -ness|ness|S
+obliquitous	adj	obliquitous|obliquitous|R|Adj
+obliterated	verb	obliterate|obliterat|R|V ; -ed|ed|I||-ed (v2)
+obliterating	verb	obliterate|obliterat|R|V ; -ing|ing|I||-ing (v)
+obliterative	adj	obliterate|obliterat|R|V ; -ive|ive|S
+oblongish	adj	oblong|oblong|R|Adj ; -ish|ish|S
+oblongly	adv	oblong|oblong|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+obmutescence	noun	obmutescence|obmutescence|R|N
+obmutescent	adj	obmutescent|obmutescent|R|Adj
+obnoxiousness	noun	obnoxious|obnoxious|R|Adj ; -ness|ness|S
+obnubilate	verb	obnubilate|obnubilate|R|V
+obnubilation	noun	obnubilation|obnubilation|R|N
+obol	noun	obol|obol|R|N
+obolus	noun	obolus|obolus|R|N
+obovate	adj	obovate|obovate|R|Adj
+obovoid	adj	obovoid|obovoid|R|Adj
+obpyramidal	adj	obpyramidal|obpyramidal|R|Adj
+obpyriform	adj	obpyriform|obpyriform|R|Adj
+obscurant	noun	obscure|obscur|R|Adj ; -ant|ant|S
+obscurantic	adj	obscurant|obscurant|R|N ; -ic|ic|S
+obscuration	noun	obscure|obscur|R|Adj ; -ation|ation|S
+obscureness	noun	obscure|obscure|R|Adj ; -ness|ness|S
+obsecration	noun	obsecration|obsecration|R|N
+obsequial	adj	obsequy|obsequi|R|N ; -al|al|S
+obsequies	noun	obsequy|obsequi|R|N ; -es|es|I||-s (plural)
+observability	noun	observe|observ|R|V ; -able|abil|S ; -ity|ity|S
+observantly	adv	observe|observ|R|V ; -ant|ant|S ; -ly|ly|I|Adv|-ly (adv)
+observing	verb	observe|observ|R|V ; -ing|ing|I||-ing (v)
+observingly	adv	observe|observ|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+obsidional	adj	obsidional|obsidional|R|Adj
+obsolescently	adv	obsolescent|obsolescent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+obsoleteness	noun	obsolete|obsolete|R|Adj ; -ness|ness|S
+obsoletism	noun	obsolete|obsolet|R|Adj ; -ism|ism|S
+obstinateness	noun	obstinate|obstinate|R|Adj ; -ness|ness|S
+obstipation	noun	obstipation|obstipation|R|N
+obstreperously	adv	obstreperous|obstreperous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+obstreperousness	noun	obstreperous|obstreperous|R|Adj ; -ness|ness|S
+obstructiveness	noun	obstruct|obstruct|R|V ; -ive|ive|S ; -ness|ness|S
+obstruent	noun	obstruent|obstruent|R|N
+obtainer	noun	obtain|obtain|R|V ; -er|er|S||-er (N)
+obtainment	noun	obtain|obtain|R|V ; -ment|ment|S
+obtect	adj	obtect|obtect|R|Adj

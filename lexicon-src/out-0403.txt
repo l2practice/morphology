@@ -1,0 +1,200 @@
+trimotor	noun	tri-|tri|P ; motor|motor|R|N
+trinary	adj	trinary|trinary|R|Adj
+trindle	noun	trindle|trindle|R|N
+trine	noun	trine|trine|R|N
+tringle	noun	tringle|tringle|R|N
+trinitarianism	noun	trinity|trinit|R|N ; -arian|arian|S ; -ism|ism|S
+trinitrotoluene	noun	trinitrotoluene|trinitrotoluene|R|N
+trinomial	noun	trinomial|trinomial|R|N
+triode	noun	triode|triode|R|N
+triolet	noun	triolet|triolet|R|N
+triose	noun	triose|triose|R|N
+tripartition	noun	tri-|tri|P ; partition|partition|R|N
+tripeman	noun	tripe|tripe|R|N ; man|man|R|N
+tripersonal	adj	tri-|tri|P ; personal|personal|R|Adj
+tripersonality	noun	tri-|tri|P ; personal|personal|R|Adj ; -ity|ity|S
+tripetalous	adj	tri-|tri|P ; petalous|petalous|R|Adj
+triphase	adj	tri-|tri|P ; phase|phase|R|N
+triphasic	adj	tri-|tri|P ; phasic|phasic|R|Adj
+triphibian	noun	triphibian|triphibian|R|N
+triphibious	adj	triphibious|triphibious|R|Adj
+triphone	noun	tri-|tri|P ; phone|phone|R|N
+triphthong	noun	triphthong|triphthong|R|N
+triphthongal	adj	triphthong|triphthong|R|N ; -al|al|S
+triphylite	noun	triphylite|triphylite|R|N
+triphyllous	adj	tri-|tri|P ; phyllous|phyllous|R|Adj
+tripinnate	adj	tri-|tri|P ; pinnate|pinnate|R|Adj
+triplane	noun	tri-|tri|P ; plane|plane|R|N
+tripler	noun	triple|tripl|R|V ; -er|er|S||-er (N)
+triples	noun	triple|tripl|R|N ; -es|es|I||-s (plural)
+triplication	noun	triplicate|triplicat|R|V ; -ion|ion|S
+triplicity	noun	triple|triplic|R|Adj ; -ity|ity|S
+triploblastic	adj	triploblastic|triploblastic|R|Adj
+triploidy	noun	triploid|triploid|R|N ; -y|y|S
+tripodal	adj	tri-|tri|P ; pod|pod|R|N ; -al|al|S
+tripolar	adj	tri-|tri|P ; polar|polar|R|Adj
+tripping	verb	trip|tripp|R|V ; -ing|ing|I||-ing (v)
+trippingly	adv	trip|tripp|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+trips	noun	trip|trip|R|N ; -s|s|I||-s (plural)
+triptane	noun	triptane|triptane|R|N
+triptote	noun	triptote|triptote|R|N
+tripudiate	verb	tripudiate|tripudiate|R|V
+triquetra	noun	triquetra|triquetra|R|N
+triquetrous	adj	triquetrous|triquetrous|R|Adj
+triradial	adj	tri-|tri|P ; radial|radial|R|Adj
+triradiate	adj	tri-|tri|P ; radiate|radiate|R|V
+trirectangular	adj	tri-|tri|P ; rectangular|rectangular|R|Adj
+trireme	noun	trireme|trireme|R|N
+trisect	verb	tri-|tri|P ; sect|sect|R|V
+trisection	noun	tri-|tri|P ; sect|sect|R|V ; -ion|ion|S
+trisectrix	noun	trisectrix|trisectrix|R|N
+trisepalous	adj	tri-|tri|P ; sepalous|sepalous|R|Adj
+triseptate	adj	tri-|tri|P ; septate|septate|R|Adj
+triserial	adj	tri-|tri|P ; serial|serial|R|Adj
+trishaw	noun	tri-|tri|P ; shaw|shaw|R|N
+triskaidekaphobia	noun	triskaidekaphobia|triskaidekaphobia|R|N
+triskeles	noun	triskeles|triskeles|R|N
+triskelion	noun	triskelion|triskelion|R|N
+trisoctahedron	noun	trisoctahedron|trisoctahedron|R|N
+trisomic	adj	trisomy|trisom|R|N ; -ic|ic|S
+trisomy	noun	trisomy|trisomy|R|N
+trispermous	adj	tri-|tri|P ; spermous|spermous|R|Adj
+trisporous	adj	tri-|tri|P ; sporous|sporous|R|Adj
+triste	adj	triste|triste|R|Adj
+trisubstituted	adj	tri-|tri|P ; substitute|substitut|R|V ; -ed|ed|S||-ed (adj)
+trisyllabic	adj	tri-|tri|P ; syllabic|syllabic|R|Adj
+trisyllable	noun	tri-|tri|P ; syllable|syllable|R|N
+tritagonist	noun	tritagonist|tritagonist|R|N
+tritanopia	noun	tritanopia|tritanopia|R|N
+tritheism	noun	tri-|tri|P ; theism|theism|R|N
+tritheist	noun	tri-|tri|P ; theist|theist|R|N
+tritheistic	adj	tri-|tri|P ; theist|theist|R|N ; -ic|ic|S
+triton	noun	triton|triton|R|N
+tritone	noun	tri-|tri|P ; tone|tone|R|N
+triturable	adj	triturate|tritur|R|V ; -able|able|S
+triturate	verb	triturate|triturate|R|V
+trituration	noun	triturate|tritur|R|V ; -ation|ation|S
+triturator	noun	triturate|tritur|R|V ; -or|ator|S
+triumpher	noun	triumph|triumph|R|V ; -er|er|S||-er (N)
+triumphing	verb	triumph|triumph|R|V ; -ing|ing|I||-ing (v)
+triumvir	noun	triumvir|triumvir|R|N
+triunity	noun	tri-|tri|P ; unity|unity|R|N
+trivalence	noun	trivalent|trival|R|Adj ; -ence|ence|S
+trivalency	noun	trivalent|trival|R|Adj ; -ency|ency|S
+trivalent	adj	tri-|tri|P ; valent|valent|R|Adj
+trivalvular	adj	tri-|tri|P ; valvular|valvular|R|Adj
+trivialism	noun	trivial|trivial|R|Adj ; -ism|ism|S
+trivializing	verb	trivialize|trivializ|R|V ; -ing|ing|I||-ing (v)
+trivium	noun	trivium|trivium|R|N
+triweekly	adj	tri-|tri|P ; weekly|weekly|R|Adj
+troak	verb	troak|troak|R|V
+troat	verb	troat|troat|R|V
+trocar	noun	trocar|trocar|R|N
+trochaic	adj	trochee|trocha|R|N ; -ic|ic|S
+trochal	adj	trochal|trochal|R|Adj
+trochanteral	adj	trochanter|trochanter|R|N ; -al|al|S
+troche	noun	troche|troche|R|N
+trochee	noun	trochee|trochee|R|N
+trochlea	noun	trochlea|trochlea|R|N
+trochlear	adj	trochlea|trochle|R|N ; -ar|ar|S
+trochoid	noun	trochoid|trochoid|R|N
+trochoidal	adj	trochoid|trochoid|R|N ; -al|al|S
+trochophore	noun	trochophore|trochophore|R|N
+trod	verb	tread|trod|R|V ; -ed||I||-ed (v2)
+trogon	noun	trogon|trogon|R|N
+troilite	noun	troilite|troilite|R|N
+trojan	noun	trojan|trojan|R|N
+trollopy	adj	trollop|trollop|R|N ; -y|y|S
+trolly	noun	trolly|trolly|R|N
+tromometer	noun	tromometer|tromometer|R|N
+trona	noun	trona|trona|R|N
+trooping	verb	troop|troop|R|V ; -ing|ing|I||-ing (v)
+troops	noun	troop|troop|R|N ; -s|s|I||-s (plural)
+troostite	noun	troostite|troostite|R|N
+trophallactic	adj	trophallaxis|trophallact|R|N ; -ic|ic|S
+trophallaxis	noun	trophallaxis|trophallaxis|R|N
+trophoblastic	adj	trophoblast|trophoblast|R|N ; -ic|ic|S
+trophozoite	noun	trophozoite|trophozoite|R|N
+tropicbird	noun	tropic|tropic|R|Adj ; bird|bird|R|N
+tropine	noun	tropine|tropine|R|N
+tropism	noun	trope|trop|R|N ; -ism|ism|S
+tropist	noun	trope|trop|R|N ; -ist|ist|S
+tropistic	adj	trope|trop|R|N ; -ist|ist|S ; -ic|ic|S
+tropocollagen	noun	tropocollagen|tropocollagen|R|N
+tropology	noun	tropology|tropology|R|N
+tropomyosin	noun	tropomyosin|tropomyosin|R|N
+troponin	noun	troponin|troponin|R|N
+troponym	noun	troponym|troponym|R|N
+tropopause	noun	tropopause|tropopause|R|N
+tropophilous	adj	tropophilous|tropophilous|R|Adj
+tropophyte	noun	tropophyte|tropophyte|R|N
+troppo	adv	troppo|troppo|R|Adv
+trots	noun	trot|trot|R|N ; -s|s|I||-s (plural)
+trotyl	noun	trotyl|trotyl|R|N
+troubler	noun	trouble|troubl|R|V ; -er|er|S||-er (N)
+troughing	verb	trough|trough|R|V ; -ing|ing|I||-ing (v)
+trouser	verb	trouser|trouser|R|V
+trousering	verb	trouser|trouser|R|V ; -ing|ing|I||-ing (v)
+troutlet	noun	trout|trout|R|N ; -let|let|S
+troutling	noun	trout|trout|R|N ; -ling|ling|S
+trouty	adj	trout|trout|R|N ; -y|y|S
+trouvaille	noun	trouvaille|trouvaille|R|N
+trover	noun	trover|trover|R|N
+trow	verb	trow|trow|R|V
+truanting	verb	truant|truant|R|V ; -ing|ing|I||-ing (v)
+truceless	adj	truce|truce|R|N ; -less|less|S
+truckage	noun	truck|truck|R|N ; -age|age|S
+trucked	verb	truck|truck|R|V ; -ed|ed|I||-ed (v2)
+truckful	noun	truck|truck|R|N ; -ful|ful|S
+truckle	verb	truckle|truckle|R|V
+truckler	noun	truckle|truckl|R|V ; -er|er|S||-er (N)
+truckman	noun	truck|truck|R|N ; man|man|R|N
+truckmaster	noun	truck|truck|R|N ; master|master|R|N
+trucks	noun	truck|truck|R|N ; -s|s|I||-s (plural)
+truculency	noun	truculent|trucul|R|Adj ; -ency|ency|S
+trudgen	noun	trudgen|trudgen|R|N
+trudging	verb	trudge|trudg|R|V ; -ing|ing|I||-ing (v)
+trug	noun	trug|trug|R|N
+truing	verb	true|tru|R|V ; -ing|ing|I||-ing (v)
+truistic	adj	truistic|truistic|R|Adj
+trull	noun	trull|trull|R|N
+trumeau	noun	trumeau|trumeau|R|N
+trumpery	noun	trumpery|trumpery|R|N
+trumpets	noun	trumpet|trumpet|R|N ; -s|s|I||-s (plural)
+trumping	verb	trump|trump|R|V ; -ing|ing|I||-ing (v)
+trumps	noun	trump|trump|R|N ; -s|s|I||-s (plural)
+truncal	adj	truncal|truncal|R|Adj
+trundler	noun	trundle|trundl|R|V ; -er|er|S||-er (N)
+trunked	adj	trunk|trunk|R|N ; -ed|ed|S||-ed (adj)
+trunkfish	noun	trunk|trunk|R|N ; fish|fish|R|N
+trunking	noun	trunk|trunk|R|N ; -ing|ing|S||-ing (N)
+trunkless	adj	trunk|trunk|R|N ; -less|less|S
+trunks	noun	trunk|trunk|R|N ; -s|s|I||-s (plural)
+trussing	verb	truss|truss|R|V ; -ing|ing|I||-ing (v)
+trustable	adj	trust|trust|R|V ; -able|able|S
+truster	noun	trust|trust|R|V ; -er|er|S||-er (N)
+trustfully	adv	trust|trust|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+trustfulness	noun	trust|trust|R|N ; -ful|ful|S ; -ness|ness|S
+trustification	noun	trustify|trustifi|R|V ; -ation|cation|S
+trustify	verb	trust|trust|R|V ; -ify|ify|S
+trustiness	noun	trusty|trusti|R|Adj ; -ness|ness|S
+trustless	adj	trust|trust|R|N ; -less|less|S
+trustworthily	adv	trust|trust|R|N ; worthy|worthi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+truthless	adj	truth|truth|R|N ; -less|less|S
+truthlessness	noun	truth|truth|R|N ; -less|less|S ; -ness|ness|S
+truthseeker	noun	truth|truth|R|N ; seek|seek|R|V ; -er|er|S||-er (N)
+tryhard	noun	try|try|R|V ; hard|hard|R|Adj
+trypanocide	noun	trypanocide|trypanocide|R|N
+trypanosome	noun	trypanosome|trypanosome|R|N
+trypanosomiasis	noun	trypanosomiasis|trypanosomiasis|R|N
+trypanosomic	adj	trypanosome|trypanosom|R|N ; -ic|ic|S
+trypophobia	noun	trypophobia|trypophobia|R|N
+trypsinogen	noun	trypsinogen|trypsinogen|R|N
+tryptamine	noun	tryptamine|tryptamine|R|N
+tryptic	adj	tryptic|tryptic|R|Adj
+trysail	noun	try|try|R|V ; sail|sail|R|N
+trysting	verb	tryst|tryst|R|V ; -ing|ing|I||-ing (v)
+tryzub	noun	tryzub|tryzub|R|N
+tsade	noun	tsade|tsade|R|N
+tsamba	noun	tsamba|tsamba|R|N
+tsardom	noun	tsar|tsar|R|N ; -dom|dom|S

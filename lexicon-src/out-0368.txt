@@ -1,0 +1,200 @@
+recompose	verb	re-|re|P ; compose|compose|R|V
+reconcentrate	verb	re-|re|P ; concentrate|concentrate|R|V
+reconcilability	noun	reconcile|reconcil|R|V ; -able|abil|S ; -ity|ity|S
+reconcilement	noun	reconcile|reconcile|R|V ; -ment|ment|S
+reconciler	noun	reconcile|reconcil|R|V ; -er|er|S||-er (N)
+reconciliatory	adj	reconcile|reconcili|R|V ; -ory|atory|S
+recondense	verb	re-|re|P ; condense|condense|R|V
+reconditeness	noun	recondite|recondite|R|Adj ; -ness|ness|S
+reconnoitring	verb	re-|re|P ; connoitre|connoitr|R|V ; -ing|ing|I||-ing (v)
+reconquest	noun	re-|re|P ; conquest|conquest|R|N
+reconsolidate	verb	re-|re|P ; consolidate|consolidate|R|V
+reconstructible	adj	re-|re|P ; con-|con|P ; -struct|struct|B|V ; -ible|ible|S
+recontract	verb	re-|re|P ; contract|contract|R|V
+reconvention	noun	re-|re|P ; convention|convention|R|N
+reconvey	verb	re-|re|P ; convey|convey|R|V
+reconveyance	noun	re-|re|P ; convey|convey|R|V ; -ance|ance|S
+recopying	verb	re-|re|P ; copy|copy|R|V ; -ing|ing|I||-ing (v)
+recordholder	noun	record|record|R|N ; hold|hold|R|V ; -er|er|S||-er (N)
+recordkeeping	noun	record|record|R|N ; keep|keep|R|V ; -ing|ing|S||-ing (N)
+recork	verb	re-|re|P ; cork|cork|R|V
+recouping	verb	recoup|recoup|R|V ; -ing|ing|I||-ing (v)
+recovering	verb	re-|re|P ; cover|cover|R|V ; -ing|ing|I||-ing (v)
+recreancy	noun	recreant|recre|R|Adj ; -ancy|ancy|S
+recreant	adj	recreant|recreant|R|Adj
+recreative	adj	re-|re|P ; create|creat|R|V ; -ive|ive|S
+recrement	noun	recrement|recrement|R|N
+recriminate	verb	recriminate|recriminate|R|V
+recriminative	adj	recriminate|recriminat|R|V ; -ive|ive|S
+recriminatory	adj	recriminate|recriminat|R|V ; -ory|ory|S
+recrossed	adj	re-|re|P ; cross|cross|R|V ; -ed|ed|S||-ed (adj)
+recrossing	verb	re-|re|P ; cross|cross|R|V ; -ing|ing|I||-ing (v)
+recrudesce	verb	recrudesce|recrudesce|R|V
+recrudescent	adj	recrudesce|recrudesc|R|V ; -ent|ent|S
+recruital	noun	recruit|recruit|R|V ; -al|al|S
+recrystallization	noun	re-|re|P ; crystal|crystall|R|N ; -ize|iz|S ; -ation|ation|S
+rectifiable	adj	rectify|rectifi|R|V ; -able|able|S
+rectilinearity	noun	rectilinear|rectilinear|R|Adj ; -ity|ity|S
+rectitis	noun	rectitis|rectitis|R|N
+rectocele	noun	rectocele|rectocele|R|N
+rectorate	noun	rector|rector|R|N ; -ate|ate|S
+rectorial	adj	rector|rector|R|N ; -ial|ial|S
+rectorship	noun	rector|rector|R|N ; -ship|ship|S
+rectoscope	noun	rectoscope|rectoscope|R|N
+rectotomy	noun	rectotomy|rectotomy|R|N
+recuperator	noun	recuperate|recuperat|R|V ; -or|or|S
+recursiveness	noun	recursive|recursive|R|Adj ; -ness|ness|S
+recursivity	noun	recursive|recursiv|R|Adj ; -ity|ity|S
+recurvate	adj	re-|re|P ; curve|curv|R|V ; -ate|ate|S
+recurve	verb	re-|re|P ; curve|curve|R|V
+recurved	adj	re-|re|P ; curve|curv|R|V ; -ed|ed|S||-ed (adj)
+recusation	noun	recuse|recus|R|V ; -ation|ation|S
+recut	verb	re-|re|P ; cut|cut|R|V
+redact	verb	redact|redact|R|V
+redactor	noun	redact|redact|R|V ; -or|or|S
+redan	noun	redan|redan|R|N
+redargue	verb	redargue|redargue|R|V
+redbait	verb	red|red|R|Adj ; bait|bait|R|V
+redbill	noun	red|red|R|Adj ; bill|bill|R|N
+redbreast	noun	red|red|R|Adj ; breast|breast|R|N
+redcap	noun	red|red|R|Adj ; cap|cap|R|N
+reddishness	noun	red|redd|R|Adj ; -ish|ish|S ; -ness|ness|S
+reddition	noun	reddition|reddition|R|N
+reddle	noun	reddle|reddle|R|N
+reddy	adj	red|redd|R|Adj ; -y|y|S
+redeliver	verb	re-|re|P ; deliver|deliver|R|V
+redelivery	noun	re-|re|P ; deliver|deliver|R|V ; -y|y|S
+redemand	verb	re-|re|P ; demand|demand|R|V
+redemarcation	noun	re-|re|P ; demarcate|demarcat|R|V ; -ion|ion|S
+redescend	verb	re-|re|P ; descend|descend|R|V
+redheaded	adj	red|red|R|Adj ; head|head|R|N ; -ed|ed|S||-ed (adj)
+rediffusion	noun	re-|re|P ; diffuse|diffus|R|V ; -ion|ion|S
+redingote	noun	redingote|redingote|R|N
+redintegrate	verb	redintegrate|redintegrate|R|V
+redintegration	noun	redintegrate|redintegrat|R|V ; -ion|ion|S
+rediscount	verb	re-|re|P ; discount|discount|R|V
+redispose	verb	re-|re|P ; dispose|dispose|R|V
+redlining	noun	red|red|R|Adj ; line|lin|R|V ; -ing|ing|S||-ing (N)
+rednecked	adj	red|red|R|Adj ; neck|neck|R|N ; -ed|ed|S||-ed (adj)
+redpoll	noun	red|red|R|Adj ; poll|poll|R|N
+reductant	noun	reduce|reduct|R|V ; -ant|ant|S
+reductibility	noun	reduce|reduct|R|V ; -ible|ibil|S ; -ity|ity|S
+reductional	adj	reduce|reduct|R|V ; -ion|ion|S ; -al|al|S
+reductor	noun	re-|re|P ; -duct|duct|B|V ; -or|or|S
+reduplication	noun	re-|re|P ; duplicate|duplicat|R|V ; -ion|ion|S
+reduplicative	adj	re-|re|P ; duplicate|duplicat|R|V ; -ive|ive|S
+redux	adj	redux|redux|R|Adj
+redye	verb	re-|re|P ; dye|dye|R|V
+redyeing	verb	re-|re|P ; dye|dye|R|V ; -ing|ing|I||-ing (v)
+ree	noun	ree|ree|R|N
+reecho	verb	re-|re|P ; echo|echo|R|V
+reedbuck	noun	reed|reed|R|N ; buck|buck|R|N
+reeded	adj	reed|reed|R|N ; -ed|ed|S||-ed (adj)
+reedify	verb	re-|re|P ; edify|edify|R|V
+reediness	noun	reed|reed|R|N ; -y|i|S ; -ness|ness|S
+reeding	noun	reed|reed|R|N ; -ing|ing|S||-ing (N)
+reeducate	verb	re-|re|P ; educate|educate|R|V
+reeducation	noun	re-|re|P ; educate|educat|R|V ; -ion|ion|S
+reefed	adj	reef|reef|R|N ; -ed|ed|S||-ed (adj)
+reefing	noun	reef|reef|R|N ; -ing|ing|S||-ing (N)
+reefy	adj	reef|reef|R|N ; -y|y|S
+reeky	adj	reek|reek|R|V ; -y|y|S
+reelect	verb	re-|re|P ; elect|elect|R|V
+reeler	noun	reel|reel|R|V ; -er|er|S||-er (N)
+reeligible	adj	re-|re|P ; eligible|eligible|R|Adj
+reelingly	adv	reel|reel|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+reenact	verb	re-|re|P ; enact|enact|R|V
+reenactment	noun	re-|re|P ; enact|enact|R|V ; -ment|ment|S
+reenactor	noun	re-|re|P ; enact|enact|R|V ; -or|or|S
+reengine	verb	re-|re|P ; engine|engine|R|N
+reentering	verb	re-|re|P ; enter|enter|R|V ; -ing|ing|I||-ing (v)
+reentrant	adj	re-|re|P ; enter|entr|R|V ; -ant|ant|S
+reexamined	adj	re-|re|P ; examine|examin|R|V ; -ed|ed|S||-ed (adj)
+reexport	verb	re-|re|P ; export|export|R|V
+reexportation	noun	re-|re|P ; export|export|R|V ; -ation|ation|S
+reface	verb	re-|re|P ; face|face|R|V
+refactor	verb	re-|re|P ; factor|factor|R|V
+refactoring	noun	re-|re|P ; factor|factor|R|V ; -ing|ing|S||-ing (N)
+refection	noun	refection|refection|R|N
+refectioner	noun	refection|refection|R|N ; -er|er|S||-er (N)
+refective	adj	refective|refective|R|Adj
+referring	verb	refer|referr|R|V ; -ing|ing|I||-ing (v)
+reflate	verb	reflate|reflate|R|V
+reflationary	adj	reflate|reflat|R|V ; -ion|ion|S ; -ary|ary|S
+reflectingly	adv	reflect|reflect|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+reflectometer	noun	reflectometer|reflectometer|R|N
+reflectoscope	noun	reflectoscope|reflectoscope|R|N
+reflet	noun	reflet|reflet|R|N
+reflexibility	noun	reflex|reflex|R|N ; -ible|ibil|S ; -ity|ity|S
+reflexion	noun	reflex|reflex|R|N ; -ion|ion|S
+reflexogenic	adj	reflexogenic|reflexogenic|R|Adj
+reflexograph	noun	reflexograph|reflexograph|R|N
+reflorescence	noun	re-|re|P ; florescence|florescence|R|N
+reflourish	verb	re-|re|P ; flourish|flourish|R|V
+reflow	verb	re-|re|P ; flow|flow|R|V
+refluence	noun	refluence|refluence|R|N
+refluent	adj	re-|re|P ; fluent|fluent|R|Adj
+refolding	noun	re-|re|P ; fold|fold|R|V ; -ing|ing|S||-ing (N)
+refoliation	noun	re-|re|P ; foliate|foliat|R|V ; -ion|ion|S
+refoot	verb	re-|re|P ; foot|foot|R|V
+reforge	verb	re-|re|P ; forge|forge|R|V
+reforging	noun	re-|re|P ; forge|forg|R|V ; -ing|ing|S||-ing (N)
+reformable	adj	re-|re|P ; form|form|R|V ; -able|able|S
+reformative	adj	re-|re|P ; form|form|R|V ; -ative|ative|S
+refortify	verb	re-|re|P ; fortify|fortify|R|V
+refoulement	noun	refoulement|refoulement|R|N
+refractable	adj	refract|refract|R|V ; -able|able|S
+refractional	adj	refract|refract|R|V ; -ion|ion|S ; -al|al|S
+refractivity	noun	refract|refract|R|V ; -ive|iv|S ; -ity|ity|S
+refractometer	noun	refractometer|refractometer|R|N
+refractoriness	noun	refractory|refractori|R|Adj ; -ness|ness|S
+refraining	verb	refrain|refrain|R|V ; -ing|ing|I||-ing (v)
+refrangible	adj	refrangible|refrangible|R|Adj
+refrigerating	verb	refrigerate|refrigerat|R|V ; -ing|ing|I||-ing (v)
+refrigeratory	adj	refrigerate|refrigerat|R|V ; -ory|ory|S
+refringence	noun	refringence|refringence|R|N
+refringent	adj	refringent|refringent|R|Adj
+reft	verb	reave|reft|R|V ; -ed||I||-ed (v2)
+refulgence	noun	refulgence|refulgence|R|N
+refulgent	adj	re-|re|P ; fulgent|fulgent|R|Adj
+refunding	verb	re-|re|P ; fund|fund|R|V ; -ing|ing|I||-ing (v)
+refundment	noun	re-|re|P ; fund|fund|R|V ; -ment|ment|S
+refusable	adj	refuse|refus|R|V ; -able|able|S
+refusion	noun	re-|re|P ; fuse|fus|R|V ; -ion|ion|S
+refutable	adj	refute|refut|R|V ; -able|able|S
+refutal	noun	refute|refut|R|V ; -al|al|S
+refutatory	adj	refute|refutat|R|V ; -ory|ory|S
+refuter	noun	refute|refut|R|V ; -er|er|S||-er (N)
+regaining	verb	re-|re|P ; gain|gain|R|V ; -ing|ing|I||-ing (v)
+regalement	noun	regale|regale|R|V ; -ment|ment|S
+regalism	noun	regal|regal|R|Adj ; -ism|ism|S
+regalist	noun	regal|regal|R|Adj ; -ist|ist|S
+regardant	adj	regard|regard|R|V ; -ant|ant|S
+regardful	adj	regard|regard|R|V ; -ful|ful|S
+regasification	noun	re-|re|P ; gas|gas|R|N ; -ify|ifi|S ; -ation|cation|S
+regasify	verb	re-|re|P ; gas|gas|R|N ; -ify|ify|S
+regather	verb	re-|re|P ; gather|gather|R|V
+regelate	verb	re-|re|P ; gelate|gelate|R|V
+regelation	noun	re-|re|P ; gelate|gelat|R|V ; -ion|ion|S
+regenerator	noun	regenerate|regenerat|R|V ; -or|or|S
+regenesis	noun	re-|re|P ; genesis|genesis|R|N
+regentship	noun	regent|regent|R|N ; -ship|ship|S
+regerminate	verb	re-|re|P ; germinate|germinate|R|V
+regermination	noun	re-|re|P ; germinate|germinat|R|V ; -ion|ion|S
+reget	verb	re-|re|P ; get|get|R|V
+reggaeton	noun	reggaeton|reggaeton|R|N
+regicidal	adj	regicide|regicid|R|N ; -al|al|S
+regie	noun	regie|regie|R|N
+regild	verb	re-|re|P ; gild|gild|R|V
+regimentals	noun	regiment|regiment|R|N ; -al|al|S ; -s|s|I||-s (plural)
+reginacide	noun	reginacide|reginacide|R|N
+reginal	adj	reginal|reginal|R|Adj
+regiolect	noun	regiolect|regiolect|R|N
+regionality	noun	region|region|R|N ; -al|al|S ; -ity|ity|S
+registrarship	noun	registrar|registrar|R|N ; -ship|ship|S
+registrary	noun	registrar|registrar|R|N ; -y|y|S
+reglet	noun	reglet|reglet|R|N
+regmaglypt	noun	regmaglypt|regmaglypt|R|N
+regnal	adj	regnal|regnal|R|Adj
+regnancy	noun	regnant|regn|R|Adj ; -ancy|ancy|S
+regorge	verb	re-|re|P ; gorge|gorge|R|V

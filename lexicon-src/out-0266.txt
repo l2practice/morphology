@@ -1,0 +1,200 @@
+diddler	noun	diddle|diddl|R|V ; -er|er|S||-er (N)
+diddums	interj	diddums|diddums|R
+didelphic	adj	didelphic|didelphic|R|Adj
+didymium	noun	didymium|didymium|R|N
+didynamous	adj	didynamous|didynamous|R|Adj
+diegetic	adj	diegetic|diegetic|R|Adj
+diencephalon	noun	diencephalon|diencephalon|R|N
+diene	noun	diene|diene|R|N
+dieselize	verb	diesel|diesel|R|N ; -ize|ize|S
+diesinking	noun	die|die|R|N ; sink|sink|R|V ; -ing|ing|S||-ing (N)
+dieted	verb	diet|diet|R|V ; -ed|ed|I||-ed (v2)
+diffeomorphic	adj	diffeomorphic|diffeomorphic|R|Adj
+diffeomorphism	noun	diffeomorphism|diffeomorphism|R|N
+differencing	verb	differ|differ|R|V ; -ence|enc|S ; -ing|ing|I||-ing (v)
+differentia	noun	differentia|differentia|R|N
+differentiability	noun	differentiate|differenti|R|V ; -able|abil|S ; -ity|ity|S
+diffluence	noun	diffluence|diffluence|R|N
+diffluent	adj	diffluent|diffluent|R|Adj
+difform	adj	difform|difform|R|Adj
+diffractive	adj	diffract|diffract|R|V ; -ive|ive|S
+diffuseness	noun	diffuse|diffuse|R|Adj ; -ness|ness|S
+diffusibility	noun	diffuse|diffus|R|Adj ; -ible|ibil|S ; -ity|ity|S
+diffusible	adj	diffuse|diffus|R|Adj ; -ible|ible|S
+diffusing	verb	diffuse|diffus|R|V ; -ing|ing|I||-ing (v)
+diffusional	adj	diffuse|diffus|R|V ; -ion|ion|S ; -al|al|S
+diffusiveness	noun	diffuse|diffus|R|Adj ; -ive|ive|S ; -ness|ness|S
+difluoride	noun	difluoride|difluoride|R|N
+difluorine	noun	difluorine|difluorine|R|N
+digametic	adj	digametic|digametic|R|Adj
+digamist	noun	digamy|digam|R|N ; -ist|ist|S
+digamma	noun	digamma|digamma|R|N
+digamous	adj	digamy|digam|R|N ; -ous|ous|S
+digamy	noun	digamy|digamy|R|N
+digastric	adj	digastric|digastric|R|Adj
+digenesis	noun	digenesis|digenesis|R|N
+digenetic	adj	digenetic|digenetic|R|Adj
+digenic	adj	digenic|digenic|R|Adj
+digestant	noun	digest|digest|R|V ; -ant|ant|S
+digestif	noun	digestif|digestif|R|N
+digitalin	noun	digitalin|digitalin|R|N
+digitalize	verb	digital|digital|R|Adj ; -ize|ize|S
+digitate	adj	digit|digit|R|N ; -ate|ate|S
+digitation	noun	digit|digit|R|N ; -ation|ation|S
+digitiform	adj	digitiform|digitiform|R|Adj
+digitigrade	adj	digitigrade|digitigrade|R|Adj
+digitoxin	noun	digitoxin|digitoxin|R|N
+digits	noun	digit|digit|R|N ; -s|s|I||-s (plural)
+diglossia	noun	diglossia|diglossia|R|N
+diglot	noun	diglot|diglot|R|N
+dignification	noun	dignify|dignifi|R|V ; -ation|cation|S
+dignifying	verb	dignify|dignify|R|V ; -ing|ing|I||-ing (v)
+digon	noun	digon|digon|R|N
+digraph	noun	digraph|digraph|R|N
+digraphic	adj	digraph|digraph|R|N ; -ic|ic|S
+digressional	adj	digress|digress|R|V ; -ion|ion|S ; -al|al|S
+digs	noun	dig|dig|R|V ; -s|s|I||-s (plural)
+dihedral	adj	dihedral|dihedral|R|Adj
+dihedron	noun	dihedron|dihedron|R|N
+dihybrid	noun	dihybrid|dihybrid|R|N
+diking	verb	dike|dik|R|N ; -ing|ing|I||-ing (v)
+dilapidate	verb	dilapidate|dilapidate|R|V
+dilatability	noun	dilate|dilat|R|V ; -able|abil|S ; -ity|ity|S
+dilatable	adj	dilate|dilat|R|V ; -able|able|S
+dilatancy	noun	dilate|dilat|R|V ; -ancy|ancy|S
+dilatant	noun	dilate|dilat|R|V ; -ant|ant|S
+dilatorily	adv	dilate|dilat|R|V ; -ory|ori|S ; -ly|ly|I|Adv|-ly (adv)
+dilatoriness	noun	dilate|dilat|R|V ; -ory|ori|S ; -ness|ness|S
+dilemmatic	adj	dilemmatic|dilemmatic|R|Adj
+dilettantish	adj	dilettante|dilettant|R|N ; -ish|ish|S
+dilettantism	noun	dilettante|dilettant|R|N ; -ism|ism|S
+dilithium	noun	dilithium|dilithium|R|N
+dilly	noun	dilly|dilly|R|N
+dilophosaur	noun	dilophosaur|dilophosaur|R|N
+dilruba	noun	dilruba|dilruba|R|N
+diluent	noun	dilute|dilu|R|V ; -ent|ent|S
+dilutee	noun	dilute|dilut|R|V ; -ee|ee|S
+diluteness	noun	dilute|dilute|R|Adj ; -ness|ness|S
+diluvial	adj	diluvium|diluvi|R|N ; -al|al|S
+diluvian	adj	diluvium|diluvi|R|N ; -an|an|S
+diluvium	noun	diluvium|diluvium|R|N
+dimensioned	adj	dimension|dimension|R|N ; -ed|ed|S||-ed (adj)
+dimeric	adj	dimer|dimer|R|N ; -ic|ic|S
+dimerism	noun	dimer|dimer|R|N ; -ism|ism|S
+dimerization	noun	dimerize|dimeriz|R|V ; -ation|ation|S
+dimerize	verb	dimer|dimer|R|N ; -ize|ize|S
+dimerous	adj	dimer|dimer|R|N ; -ous|ous|S
+dimeter	noun	dimeter|dimeter|R|N
+dimethylmercury	noun	dimethylmercury|dimethylmercury|R|N
+dimidiate	verb	dimidiate|dimidiate|R|V
+dimidiation	noun	dimidiate|dimidiat|R|V ; -ion|ion|S
+diminishable	adj	diminish|diminish|R|V ; -able|able|S
+diminutively	adv	diminutive|diminutive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+diminutiveness	noun	diminutive|diminutive|R|Adj ; -ness|ness|S
+dimissory	adj	dimissory|dimissory|R|Adj
+dimmable	adj	dim|dimm|R|Adj ; -able|able|S
+dimmish	adj	dim|dimm|R|Adj ; -ish|ish|S
+dimorphotheca	noun	dimorphotheca|dimorphotheca|R|N
+dimorphous	adj	dimorphous|dimorphous|R|Adj
+dimpling	verb	dimple|dimpl|R|N ; -ing|ing|I||-ing (v)
+dinginess	noun	dingy|dingi|R|Adj ; -ness|ness|S
+dingleberry	noun	dingle|dingle|R|N ; berry|berry|R|N
+dinitrobenzene	noun	dinitrobenzene|dinitrobenzene|R|N
+dinitrophenol	noun	dinitrophenol|dinitrophenol|R|N
+dinkum	adj	dinkum|dinkum|R|Adj
+dinnerless	adj	dinner|dinner|R|N ; -less|less|S
+dinning	verb	din|dinn|R|V ; -ing|ing|I||-ing (v)
+dinoceras	noun	dinoceras|dinoceras|R|N
+dinosaurian	adj	dinosaur|dinosaur|R|N ; -ian|ian|S
+dinosauric	adj	dinosaur|dinosaur|R|N ; -ic|ic|S
+dins	noun	din|din|R|N ; -s|s|I||-s (plural)
+dioecious	adj	dioecious|dioecious|R|Adj
+dioecism	noun	dioecism|dioecism|R|N
+diol	noun	diol|diol|R|N
+dionysian	adj	dionysian|dionysian|R|Adj
+diopside	noun	diopside|diopside|R|N
+dioptase	noun	dioptase|dioptase|R|N
+dioptometer	noun	dioptometer|dioptometer|R|N
+dioptric	adj	dioptric|dioptric|R|Adj
+dioptrics	noun	dioptrics|dioptrics|R|N
+dioramic	adj	diorama|dioram|R|N ; -ic|ic|S
+diorite	noun	diorite|diorite|R|N
+dioritic	adj	diorite|diorit|R|N ; -ic|ic|S
+dipeptide	noun	dipeptide|dipeptide|R|N
+dipetalous	adj	dipetalous|dipetalous|R|Adj
+diphallia	noun	diphallia|diphallia|R|N
+diphase	adj	diphase|diphase|R|Adj
+diphenylamine	noun	diphenylamine|diphenylamine|R|N
+diphtherial	adj	diphtheria|diphtheri|R|N ; -al|al|S
+diphtheritic	adj	diphtheritis|diphtherit|R|N ; -ic|ic|S
+diphtheritis	noun	diphtheritis|diphtheritis|R|N
+diphtheroid	noun	diphtheroid|diphtheroid|R|N
+diphthongal	adj	diphthong|diphthong|R|N ; -al|al|S
+diphthongization	noun	diphthongize|diphthongiz|R|V ; -ation|ation|S
+diphthongize	verb	diphthong|diphthong|R|N ; -ize|ize|S
+diphyodont	adj	diphyodont|diphyodont|R|Adj
+diplegia	noun	diplegia|diplegia|R|N
+diplex	adj	diplex|diplex|R|Adj
+diplococcal	adj	diplococcus|diplococc|R|N ; -al|al|S
+diplococcic	adj	diplococcus|diplococc|R|N ; -ic|ic|S
+diplococcus	noun	diplococcus|diplococcus|R|N
+diploe	noun	diploe|diploe|R|N
+diploidy	noun	diploid|diploid|R|Adj ; -y|y|S
+diplomaed	adj	diploma|diploma|R|N ; -ed|ed|S||-ed (adj)
+diplomatics	noun	diplomatic|diplomat|R|Adj ; -ic|ic|S ; -s|s|I||-s (plural)
+diplomatist	noun	diplomat|diplomat|R|N ; -ist|ist|S
+diplomatize	verb	diplomat|diplomat|R|N ; -ize|ize|S
+diplont	noun	diplont|diplont|R|N
+diplontic	adj	diplont|diplont|R|N ; -ic|ic|S
+diplophase	noun	diplophase|diplophase|R|N
+diplopic	adj	diplopia|diplop|R|N ; -ic|ic|S
+diplopod	noun	diplopod|diplopod|R|N
+dipnoan	noun	dipnoan|dipnoan|R|N
+dipperful	noun	dipper|dipper|R|N ; -ful|ful|S
+diprotic	adj	diprotic|diprotic|R|Adj
+dipso	noun	dipso|dipso|R|N
+dipsomania	noun	dipsomania|dipsomania|R|N
+dipsomaniac	noun	dipsomaniac|dipsomaniac|R|N
+dipteral	adj	dipteral|dipteral|R|Adj
+dipteran	noun	dipteran|dipteran|R|N
+dipteron	noun	dipteron|dipteron|R|N
+dipterous	adj	dipterous|dipterous|R|Adj
+diptote	noun	diptote|diptote|R|N
+dipyramid	noun	dipyramid|dipyramid|R|N
+directions	noun	direct|direct|R|V ; -ion|ion|S ; -s|s|I||-s (plural)
+directress	noun	directress|directress|R|N
+directrix	noun	directrix|directrix|R|N
+direful	adj	dire|dire|R|Adj ; -ful|ful|S
+dirham	noun	dirham|dirham|R|N
+dirhem	noun	dirhem|dirhem|R|N
+dirigibility	noun	dirigible|dirigib|R|Adj ; -ity|ility|S
+dirigisme	noun	dirigisme|dirigisme|R|N
+diriment	adj	diriment|diriment|R|Adj
+dirtily	adv	dirty|dirti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+dirtying	verb	dirty|dirty|R|Adj ; -ing|ing|I||-ing (v)
+disaccharidase	noun	disaccharidase|disaccharidase|R|N
+disaccharide	noun	disaccharide|disaccharide|R|N
+disaccord	noun	dis-|dis|P ; accord|accord|R|N
+disaccustom	verb	dis-|dis|P ; accustom|accustom|R|V
+disadvantageously	adv	dis-|dis|P ; advantage|advantage|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+disaffect	verb	dis-|dis|P ; affect|affect|R|V
+disaffiliate	verb	dis-|dis|P ; affiliate|affiliate|R|V
+disaffiliation	noun	dis-|dis|P ; affiliate|affiliat|R|V ; -ion|ion|S
+disaffirm	verb	dis-|dis|P ; affirm|affirm|R|V
+disaffirmation	noun	dis-|dis|P ; affirm|affirm|R|V ; -ation|ation|S
+disafforest	verb	dis-|dis|P ; afforest|afforest|R|V
+disafforestation	noun	dis-|dis|P ; afforest|afforest|R|V ; -ation|ation|S
+disagreeableness	noun	dis-|dis|P ; agree|agree|R|V ; -able|able|S ; -ness|ness|S
+disagreeing	verb	dis-|dis|P ; agree|agree|R|V ; -ing|ing|I||-ing (v)
+disallowance	noun	dis-|dis|P ; allow|allow|R|V ; -ance|ance|S
+disallowed	verb	dis-|dis|P ; allow|allow|R|V ; -ed|ed|I||-ed (v2)
+disambiguation	noun	disambiguate|disambiguat|R|V ; -ion|ion|S
+disannul	verb	dis-|dis|P ; annul|annul|R|V
+disannulment	noun	dis-|dis|P ; annul|annul|R|V ; -ment|ment|S
+disappointedly	adv	dis-|dis|P ; appoint|appoint|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+disappreciate	verb	dis-|dis|P ; appreciate|appreciate|R|V
+disapprobative	adj	dis-|dis|P ; approve|approb|R|V ; -ative|ative|S
+disapprobatory	adj	dis-|dis|P ; approve|approb|R|V ; -ory|atory|S
+disappropriate	verb	dis-|dis|P ; appropriate|appropriate|R|Adj
+disarrangement	noun	dis-|dis|P ; arrange|arrange|R|V ; -ment|ment|S
+disarticulate	verb	dis-|dis|P ; articulate|articulate|R|V

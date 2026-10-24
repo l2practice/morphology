@@ -1,0 +1,200 @@
+lapa	noun	lapa|lapa|R|N
+whitecap	noun	white|white|R|Adj ; cap|cap|R|N
+paraspinal	adj	para-|para|P ; spinal|spinal|R|Adj
+popliteal	adj	popliteal|popliteal|R|Adj
+matrilocal	adj	matrilocal|matrilocal|R|Adj
+myoclonus	noun	myoclonus|myoclonus|R|N
+presentness	noun	present|present|R|Adj ; -ness|ness|S
+gentoo	noun	gentoo|gentoo|R|N
+ballista	noun	ballista|ballista|R|N
+ovule	noun	ovule|ovule|R|N
+goniometric	adj	goniometric|goniometric|R|Adj
+allottee	noun	allot|allott|R|V ; -ee|ee|S
+autogenic	adj	autogenic|autogenic|R|Adj
+jongleur	noun	jongleur|jongleur|R|N
+gnomon	noun	gnomon|gnomon|R|N
+brindled	adj	brindle|brindl|R|Adj ; -ed|ed|S||-ed (adj)
+atorvastatin	noun	atorvastatin|atorvastatin|R|N
+bluing	noun	blue|blu|R|Adj ; -ing|ing|S||-ing (N)
+sternal	adj	stern|stern|R|N ; -al|al|S
+timpanist	noun	timpanist|timpanist|R|N
+cryptanalyst	noun	crypt|crypt|R|N ; analyst|analyst|R|N
+phrenological	adj	phrenological|phrenological|R|Adj
+tyrosinase	noun	tyrosinase|tyrosinase|R|N
+microcephaly	noun	microcephaly|microcephaly|R|N
+anhydride	noun	an-|an|P ; hydride|hydride|R|N
+scansion	noun	scan|scan|R|V ; -sion|sion|S
+debilitative	adj	debilitate|debilitat|R|V ; -ive|ive|S
+autogenics	noun	autogenic|autogenic|R|Adj ; -s|s|I||-s (plural)
+synodic	adj	synodic|synodic|R|Adj
+bara	noun	bara|bara|R|N
+toxaphene	noun	toxaphene|toxaphene|R|N
+dyno	noun	dyno|dyno|R|N
+diya	noun	diya|diya|R|N
+visitable	adj	visit|visit|R|V ; -able|able|S
+anorectal	adj	anorectal|anorectal|R|Adj
+homonymy	noun	homonym|homonym|R|N ; -y|y|S
+formant	noun	form|form|R|V ; -ant|ant|S
+hypopharyngeal	adj	hypo-|hypo|P ; pharyngeal|pharyngeal|R|Adj
+unorthodoxy	noun	un-|un|P ; orthodox|orthodox|R|Adj ; -y|y|S
+draftnik	noun	draftnik|draftnik|R|N
+impressment	noun	impress|impress|R|V ; -ment|ment|S
+androgenetic	adj	androgenetic|androgenetic|R|Adj
+accentual	adj	accent|accent|R|N ; -ual|ual|S
+chondrosarcoma	noun	chondrosarcoma|chondrosarcoma|R|N
+remineralization	noun	re-|re|P ; mineral|mineral|R|N ; -ize|iz|S ; -ation|ation|S
+reactance	noun	react|react|R|V ; -ance|ance|S
+plainchant	noun	plain|plain|R|Adj ; chant|chant|R|N
+inverting	verb	invert|invert|R|V ; -ing|ing|I||-ing (v)
+atraumatic	adj	a-|a|P ; traumatic|traumatic|R|Adj
+sei	noun	sei|sei|R|N
+cocobolo	noun	cocobolo|cocobolo|R|N
+estrone	noun	estrone|estrone|R|N
+agentry	noun	agent|agent|R|N ; -ry|ry|S
+reprinted	adj	re-|re|P ; print|print|R|V ; -ed|ed|S||-ed (adj)
+plasmapheresis	noun	plasmapheresis|plasmapheresis|R|N
+repressively	adv	re-|re|P ; press|press|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+prang	noun	prang|prang|R|N
+bronchoscope	noun	bronchoscope|bronchoscope|R|N
+berried	adj	berry|berri|R|N ; -ed|ed|S||-ed (adj)
+spondaic	adj	spondaic|spondaic|R|Adj
+muleta	noun	muleta|muleta|R|N
+overdetermine	verb	over-|over|P ; determine|determine|R|V
+tinea	noun	tinea|tinea|R|N
+osteopathy	noun	osteopathy|osteopathy|R|N
+swiftlet	noun	swift|swift|R|Adj ; -let|let|S
+demonstrability	noun	demonstrable|demonstrabil|R|Adj ; -ity|ity|S
+metamorphism	noun	metamorphism|metamorphism|R|N
+enzootic	adj	enzootic|enzootic|R|Adj
+monoecious	adj	monoecious|monoecious|R|Adj
+ranula	noun	ranula|ranula|R|N
+jadeite	noun	jadeite|jadeite|R|N
+capriccio	noun	capriccio|capriccio|R|N
+broadtail	noun	broad|broad|R|Adj ; tail|tail|R|N
+globin	noun	globin|globin|R|N
+anaclitic	adj	anaclitic|anaclitic|R|Adj
+nim	verb	nim|nim|R|V
+proline	noun	proline|proline|R|N
+tenrec	noun	tenrec|tenrec|R|N
+jackscrew	noun	jack|jack|R|N ; screw|screw|R|N
+borzoi	noun	borzoi|borzoi|R|N
+hecatomb	noun	hecatomb|hecatomb|R|N
+sideslip	noun	side|side|R|N ; slip|slip|R|N
+carcinoid	noun	carcinoid|carcinoid|R|N
+tonus	noun	tonus|tonus|R|N
+confidingly	adv	confide|confid|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+ciggy	noun	ciggy|ciggy|R|N
+chargehand	noun	charge|charge|R|V ; hand|hand|R|N
+caressingly	adv	caress|caress|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+pleasance	noun	please|pleas|R|V ; -ance|ance|S
+fielden	noun	fielden|fielden|R|N
+weltanschauung	noun	weltanschauung|weltanschauung|R|N
+villein	noun	villein|villein|R|N
+tenpence	noun	ten|ten|R|N ; pence|pence|R|N
+redwing	noun	red|red|R|Adj ; wing|wing|R|N
+pinstriped	adj	pinstripe|pinstrip|R|N ; -ed|ed|S||-ed (adj)
+microform	noun	micro-|micro|P ; form|form|R|N
+liposome	noun	liposome|liposome|R|N
+isomorphism	noun	isomorphism|isomorphism|R|N
+faff	verb	faff|faff|R|V
+crammer	noun	cram|cramm|R|V ; -er|er|S||-er (N)
+countersunk	adj	counter-|counter|P ; sink|sunk|R|V ; -ed||I||-ed (v2)
+carrycot	noun	carry|carry|R|V ; cot|cot|R|N
+applecart	noun	apple|apple|R|N ; cart|cart|R|N
+sabin	noun	sabin|sabin|R|N
+johannes	noun	johannes|johannes|R|N
+gino	noun	gino|gino|R|N
+woad	noun	woad|woad|R|N
+stocklist	noun	stock|stock|R|N ; list|list|R|N
+statist	noun	state|stat|R|N ; -ist|ist|S
+smoochy	adj	smooch|smooch|R|V ; -y|y|S
+recoverability	noun	re-|re|P ; cover|cover|R|V ; -able|abil|S ; -ity|ity|S
+lor	interj	lor|lor|R|N
+floribunda	noun	floribunda|floribunda|R|N
+ferny	adj	fern|fern|R|N ; -y|y|S
+cred	noun	cred|cred|R|N
+categorial	adj	category|categori|R|N ; -al|al|S
+barrio	noun	barrio|barrio|R|N
+soo	noun	soo|soo|R|N
+margo	noun	margo|margo|R|N
+kiki	noun	kiki|kiki|R|N
+hearts	noun	heart|heart|R|N ; -s|s|I||-s (plural)
+chrissake	interj	chrissake|chrissake|R|N
+calvados	noun	calvados|calvados|R|N
+throatily	adv	throat|throat|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+prebendary	noun	prebend|prebend|R|N ; -ary|ary|S
+plectrum	noun	plectrum|plectrum|R|N
+licentiate	noun	licentiate|licentiate|R|N
+cumulation	noun	cumulate|cumulat|R|V ; -ion|ion|S
+chartism	noun	chart|chart|R|N ; -ism|ism|S
+cagoule	noun	cagoule|cagoule|R|N
+bolting	noun	bolt|bolt|R|V ; -ing|ing|S||-ing (N)
+tarsus	noun	tarsus|tarsus|R|N
+hof	noun	hof|hof|R|N
+underspend	verb	under-|under|P ; spend|spend|R|V
+precentor	noun	precentor|precentor|R|N
+nav	noun	nav|nav|R|N
+molluscan	adj	mollusc|mollusc|R|N ; -an|an|S
+lugworm	noun	lug|lug|R|N ; worm|worm|R|N
+cytogenetic	adj	cytogenetic|cytogenetic|R|Adj
+additionality	noun	additional|additional|R|Adj ; -ity|ity|S
+lau	noun	lau|lau|R|N
+kirkman	noun	kirk|kirk|R|N ; man|man|R|N
+kan	noun	kan|kan|R|N
+bogle	noun	bogle|bogle|R|N
+bello	noun	bello|bello|R|N
+unaudited	adj	un-|un|P ; audit|audit|R|V ; -ed|ed|S||-ed (adj)
+morphia	noun	morphia|morphia|R|N
+frustratedly	adv	frustrate|frustrat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+covalently	adv	covalent|covalent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+raglan	noun	raglan|raglan|R|N
+debby	noun	debby|debby|R|N
+unwaged	adj	un-|un|P ; wage|wag|R|V ; -ed|ed|S||-ed (adj)
+skincare	noun	skin|skin|R|N ; care|care|R|N
+skerry	noun	skerry|skerry|R|N
+refloat	verb	re-|re|P ; float|float|R|V
+playability	noun	play|play|R|V ; -able|abil|S ; -ity|ity|S
+oestrus	noun	oestrus|oestrus|R|N
+dovetailing	noun	dovetail|dovetail|R|V ; -ing|ing|S||-ing (N)
+directionally	adv	directional|directional|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+deconstructionist	noun	de-|de|P ; con-|con|P ; -struct|struct|B|V ; -ion|ion|S ; -ist|ist|S
+cohabitee	noun	co-|co|P ; habit|habit|R|V ; -ee|ee|S
+cataloguer	noun	catalogue|catalogu|R|V ; -er|er|S||-er (N)
+cantonal	adj	canton|canton|R|N ; -al|al|S
+assignable	adj	assign|assign|R|V ; -able|able|S
+vacuole	noun	vacuole|vacuole|R|N
+chappy	noun	chap|chapp|R|N ; -y|y|S
+jin	noun	jin|jin|R|N
+syndicalism	noun	syndical|syndical|R|Adj ; -ism|ism|S
+recusant	noun	recuse|recus|R|V ; -ant|ant|S
+haircare	noun	hair|hair|R|N ; care|care|R|N
+fractionate	verb	fraction|fraction|R|N ; -ate|ate|S
+dunlin	noun	dunlin|dunlin|R|N
+carbonyl	noun	carbonyl|carbonyl|R|N
+redstart	noun	red|red|R|Adj ; start|start|R|N
+abyssal	adj	abyss|abyss|R|N ; -al|al|S
+pogo	noun	pogo|pogo|R|N
+plainsong	noun	plain|plain|R|Adj ; song|song|R|N
+pastern	noun	pastern|pastern|R|N
+lexicography	noun	lexicography|lexicography|R|N
+vail	noun	vail|vail|R|N
+raper	noun	rape|rap|R|V ; -er|er|S||-er (N)
+kang	noun	kang|kang|R|N
+recursively	adv	recursive|recursive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+rassemblement	noun	rassemblement|rassemblement|R|N
+phonologically	adv	phonological|phonological|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bantustan	noun	bantustan|bantustan|R|N
+alkyl	noun	alkyl|alkyl|R|N
+hummel	noun	hummel|hummel|R|N
+moneyer	noun	money|money|R|N ; -er|er|S||-er (N)
+legit	adj	legit|legit|R|Adj
+extinguishing	verb	extinguish|extinguish|R|V ; -ing|ing|I||-ing (v)
+ess	noun	ess|ess|R|N
+underpriced	adj	under-|under|P ; price|pric|R|V ; -ed|ed|S||-ed (adj)
+devi	noun	devi|devi|R|N
+fucked	verb	fuck|fuck|R|V ; -ed|ed|I||-ed (v2)
+antiphon	noun	antiphon|antiphon|R|N
+ranker	noun	rank|rank|R|V ; -er|er|S||-er (N)
+bailee	noun	bail|bail|R|V ; -ee|ee|S
+agriculturally	adv	agricultural|agricultural|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+linotype	noun	lino|lino|R|N ; type|type|R|N

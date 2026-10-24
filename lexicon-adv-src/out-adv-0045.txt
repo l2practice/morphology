@@ -1,0 +1,150 @@
+vehement	adj	=
+phalanx	noun	=
+metastasis	noun	=
+liberator	noun	liberat-|liberat|B|V|||Latin liberare 'to free' ; -or|or|S||||Latin -or 'agent'
+regressive	adj	=
+sedative	adj	sedat-|sedat|B|V|||Latin sedare 'to settle' ; -ive|ive|S||||Latin -ivus 'tending to'
+scruple	noun	scrup-|scrup|B|N|||Latin scrupus 'sharp stone' ; -le|le|S||||Latin -ulus 'diminutive'
+inculcate	verb	=
+monolith	noun	mono-|mono|B||||Greek monos 'one' ; -lith|lith|B|N|||Greek lithos 'stone'
+duster	noun	=
+extermination	noun	ex-|ex|P||||Latin ex- 'thoroughly' ; -termin-|termin|B|V|||Latin terminare 'to end' ; -ation|ation|S||||Latin -atio 'act, state'
+adjuster	noun	=
+idiosyncrasy	noun	idio-|idio|B||||Greek idios 'own' ; syn-|syn|P||||Greek syn 'with' ; -cras-|cras|B|N|||Greek krasis 'mixture' ; -y|y|S||||Greek -ia 'state'
+acrid	adj	acr-|acr|B|Adj|||Latin acer 'sharp' ; -id|id|S||||Latin -idus 'tending to'
+centrifugal	adj	centri-|centri|B|N|||Latin centrum 'center' ; -fug-|fug|B|V|||Latin fugere 'to flee' ; -al|al|S||||Latin -alis 'pertaining to'
+apnea	noun	a-|a|P||||Greek a- 'without' ; -pne-|pne|B|N|||Greek pnoe 'breathing' ; -a|a|S||||Greek -a 'noun ending'
+diagnostics	noun	diagnost-|diagnost|B|V|||Greek diagignoskein 'to distinguish' ; -ic|ic|S||||Greek -ikos 'pertaining to' ; -s|s|I
+flagrant	adj	flagr-|flagr|B|V|||Latin flagrare 'to blaze' ; -ant|ant|S||||Latin -ans 'acting'
+succinct	adj	suc-|suc|P||||Latin sub- 'under' ; -cinct|cinct|B|V|||Latin cingere 'to gird'
+contagion	noun	con-|con|P||||Latin com- 'together' ; -tag-|tag|B|V|||Latin tangere 'to touch' ; -ion|ion|S||||Latin -io 'act, state'
+dualism	noun	=
+laudable	adj	=
+parse	verb	=
+benevolence	noun	bene-|bene|P||||Latin bene 'well' ; -vol-|vol|B|V|||Latin velle 'to wish' ; -ence|ence|S||||Latin -entia, 'state, quality'
+muffler	noun	=
+permutation	noun	per-|per|P||||Latin per 'through' ; -mut-|mut|B|V|||Latin mutare 'to change' ; -ation|ation|S||||Latin -atio 'act, state'
+incisive	adj	in-|in|P||||Latin in- 'into' ; -cis-|cis|B|V|||Latin caedere 'to cut' ; -ive|ive|S||||Latin -ivus 'tending to'
+inhospitable	adj	=
+mimetic	adj	=
+amulet	noun	=
+perceptible	adj	per-|per|P||||Latin per 'through' ; -cept-|cept|B|V|||Latin capere 'to take' ; -ible|ible|S||||Latin -ibilis 'able to'
+intermission	noun	inter-|inter|P||||Latin inter 'between' ; -miss-|miss|B|V|||Latin mittere 'to send' ; -ion|ion|S||||Latin -io 'act, state'
+pensive	adj	pens-|pens|B|V|||Latin pensare 'to think' ; -ive|ive|S||||Latin -ivus 'tending to'
+oratory	noun	orat-|orat|B|V|||Latin orare 'to speak' ; -ory|ory|S||||Latin -orius 'pertaining to'
+acrimonious	adj	acrimon-|acrimon|B|N|||Latin acrimonia 'sharpness' ; -ious|ious|S||||Latin -iosus 'full of'
+autopilot	noun	=
+neophyte	noun	neo-|neo|B||||Greek neos 'new' ; -phyte|phyte|B|N|||Greek phyton 'plant'
+minutia	noun	minut-|minut|B|V|||Latin minuere 'to make small' ; -ia|ia|S||||Greek -ia 'state, quality'
+omnipresent	adj	=
+fortuitous	adj	=
+especial	adj	=
+menial	adj	=
+dexterity	noun	dexter-|dexter|B|Adj|||Latin dexter 'right' ; -ity|ity|S||||Latin -itas 'state, quality'
+atrocious	adj	=
+incomparable	adj	=
+isolationist	noun	=
+congruence	noun	congru-|congru|B|V|||Latin congruere 'to agree' ; -ence|ence|S||||Latin -entia, 'state, quality'
+cuticle	noun	cutic-|cutic|B|N|||Latin cutis 'skin' ; -le|le|S||||Latin -cula 'diminutive'
+raiser	noun	=
+spectrometer	noun	=
+pomp	noun	=
+solstice	noun	=
+monochrome	noun	mono-|mono|B||||Greek monos 'one' ; -chrome|chrome|B|N|||Greek chroma 'color'
+intimation	noun	=
+cognizant	adj	cogniz-|cogniz|B|V|||Latin cognoscere 'to know' ; -ant|ant|S||||Latin -ans 'acting'
+despondent	adj	de-|de|P||||Latin de- 'down' ; -spond-|spond|B|V|||Latin spondere 'to promise' ; -ent|ent|S||||Latin -ens 'acting'
+polygamy	noun	poly-|poly|P||||Greek polys 'many' ; -gam-|gam|B|N|||Greek gamos 'marriage' ; -y|y|S||||Greek -ia 'state'
+fastidious	adj	=
+resplendent	adj	re-|re|P||||Latin re- 'back' ; -splend-|splend|B|V|||Latin splendere 'to shine' ; -ent|ent|S||||Latin -ens 'acting'
+obstinate	adj	obstin-|obstin|B|V|||Latin obstinare 'to resolve' ; -ate|ate|S||||Latin -atus 'having'
+cremate	verb	crem-|crem|B|V|||Latin cremare 'to burn' ; -ate|ate|S||||Latin -atus 'having'
+fucker	noun	=
+dichotomous	adj	=
+snobbery	noun	=
+psychopathology	noun	=
+amphetamine	noun	=
+repudiation	noun	=
+salience	noun	sali-|sali|B|V|||Latin salire 'to leap' ; -ence|ence|S||||Latin -entia, 'state, quality'
+dyad	noun	=
+malignancy	noun	=
+servitude	noun	serv-|serv|B|N|||Latin servus 'slave' ; -itude|itude|S||||Latin -itudo 'state'
+folic	adj	foli-|fol|B|N|||Latin folium 'leaf' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+realtor	noun	=
+dereliction	noun	de-|de|P||||Latin de- 'down' ; re-|re|P||||Latin re- 'back' ; -lict-|lict|B|V|||Latin linquere 'to leave' ; -ion|ion|S||||Latin -io 'act, state'
+expedite	verb	ex-|ex|P||||Latin ex- 'out' ; -ped-|ped|B|N|||Latin pes 'foot' ; -ite|ite|S||||Latin -itus 'past participle'
+unsuited	adj	=
+tedium	noun	=
+raptor	noun	rapt-|rapt|B|V|||Latin rapere 'to seize' ; -or|or|S||||Latin -or 'agent'
+fawn	noun	=
+deciduous	adj	de-|de|P||||Latin de- 'down' ; -cid-|cidu|B|V||cad-|Latin cadere 'to fall' ; -ous|ous|S||||Latin -osus 'full of'
+perturb	verb	per-|per|P||||Latin per 'through' ; -turb|turb|B|V|||Latin turbare 'to disturb'
+indiscretion	noun	=
+indigestion	noun	=
+descriptor	noun	descript-|descript|B|V|||Latin describere 'to write down' ; -or|or|S||||Latin -or 'agent'
+uncharacteristic	adj	=
+epitaph	noun	=
+precipice	noun	=
+adjudicate	verb	ad-|ad|P||||Latin ad- 'to' ; -judic-|judic|B|V|||Latin iudicare 'to judge' ; -ate|ate|S||||Latin -atus 'having'
+copier	noun	=
+abdicate	verb	ab-|ab|P||||Latin ab- 'away' ; -dic-|dic|B|V|||Latin dicere 'to say' ; -ate|ate|S||||Latin -atus 'having'
+posthumous	adj	=
+synopsis	noun	syn-|syn|P||||Greek syn 'with' ; -ops-|ops|B|N|||Greek opsis 'view' ; -is|is|S||||Greek -is 'noun ending'
+amorous	adj	amor-|amor|B|N|||Latin amor 'love' ; -ous|ous|S||||Latin -osus 'full of'
+pacify	verb	pac-|pac|B|N|||Latin pax 'peace' ; -ify|ify|S||||Latin -ficare 'to make'
+stupendous	adj	=
+apologist	noun	=
+interlocutor	noun	inter-|inter|P||||Latin inter 'between' ; -locut-|locut|B|V|||Latin loqui 'to speak' ; -or|or|S||||Latin -or 'agent'
+vendetta	noun	=
+criminalize	verb	=
+nefarious	adj	ne-|ne|P||||Latin ne- 'not' ; -far-|far|B|V|||Latin fas 'divine law' ; -ious|ious|S||||Latin -iosus 'full of'
+eminence	noun	emin-|emin|B|V|||Latin eminere 'to stand out' ; -ence|ence|S||||Latin -entia, 'state, quality'
+inferno	noun	=
+flexion	noun	flex-|flex|B|V|||Latin flectere 'to bend' ; -ion|ion|S||||Latin -io 'act, state'
+undemocratic	adj	=
+immutable	adj	=
+instigation	noun	=
+commendation	noun	=
+regalia	noun	reg-|reg|B|N|||Latin rex 'king' ; -alia|alia|S||||Latin -alis 'royal'
+transitory	adj	transit-|transit|B|V|||Latin transire 'to go across' ; -ory|ory|S||||Latin -orius 'pertaining to'
+lumbar	adj	=
+innovate	verb	in-|in|P||||Latin in- 'into' ; -nov-|nov|B|Adj|||Latin novus 'new' ; -ate|ate|S||||Latin -atus 'having'
+intercede	verb	=
+unremitting	adj	=
+paragon	noun	=
+foolhardy	adj	=
+opiate	noun	opi-|opi|B|N|||Greek opion 'poppy juice' ; -ate|ate|S||||Latin -atus 'having'
+stiletto	noun	stil-|stil|B|N|||Latin stilus 'pointed instrument' ; -etto|etto|S||||Italian -etto 'diminutive'
+deferential	adj	=
+prosciutto	noun	=
+altercation	noun	=
+billiards	noun	=
+sedate	adj	=
+rheumatism	noun	rheumat-|rheumat|B|N|||Greek rheuma 'flux' ; -ism|ism|S||||Greek -ismos 'doctrine'
+stasis	noun	stas-|stas|B|V|||Greek histanai 'to stand' ; -is|is|S||||Greek -is 'noun ending'
+python	noun	=
+operationalize	verb	=
+magnificence	noun	=
+insubstantial	adj	=
+coloration	noun	=
+infirm	adj	=
+accost	verb	ac-|ac|P||||Latin ad- 'to' ; -cost|cost|B|N|||Latin costa 'side'
+randomize	verb	=
+arthritic	adj	arthr-|arthr|B|N|||Greek arthron 'joint' ; -itic|itic|S||||Greek -itikos 'pertaining to'
+chowder	noun	=
+pewter	noun	=
+bulimia	noun	=
+adulation	noun	=
+omnibus	noun	=
+facile	adj	=
+headliner	noun	=
+numeral	noun	numer-|numer|B|N|||Latin numerus 'number' ; -al|al|S||||Latin -alis 'pertaining to'
+irritability	noun	=
+comatose	adj	=
+irrevocable	adj	ir-|ir|P||||Latin in- 'not' ; -revoc-|revoc|B|V|||Latin revocare 'to call back' ; -able|able|S||||Latin -abilis 'able to'
+opus	noun	=
+diatribe	noun	=
+resound	verb	=
+dais	noun	=
+presage	noun	=
+visage	noun	vis-|vis|B|V|||Latin videre 'to see' ; -age|age|S||||Latin -aticum 'state'

@@ -1,0 +1,200 @@
+perspicuous	adj	perspicuous|perspicuous|R|Adj
+perspicuously	adv	perspicuous|perspicuous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+perspicuousness	noun	perspicuous|perspicuous|R|Adj ; -ness|ness|S
+perspirable	adj	perspire|perspir|R|V ; -able|able|S
+perspiratory	adj	perspire|perspir|R|V ; -ory|atory|S
+persuading	verb	persuade|persuad|R|V ; -ing|ing|I||-ing (v)
+persuasibility	noun	persuasible|persuasibil|R|Adj ; -ity|ity|S
+persuasible	adj	persuade|persuas|R|V ; -ible|ible|S
+persuasibleness	noun	persuasible|persuasible|R|Adj ; -ness|ness|S
+pertinacious	adj	pertinacious|pertinacious|R|Adj
+pertinaciously	adv	pertinacious|pertinacious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pertinaciousness	noun	pertinacious|pertinacious|R|Adj ; -ness|ness|S
+pertinency	noun	pertinent|pertin|R|Adj ; -ency|ency|S
+pertness	noun	pert|pert|R|Adj ; -ness|ness|S
+perturbable	adj	perturb|perturb|R|V ; -able|able|S
+perturbational	adj	perturb|perturb|R|V ; -ation|ation|S ; -al|al|S
+perturbative	adj	perturb|perturb|R|V ; -ative|ative|S
+pertused	adj	pertused|pertused|R|Adj
+peruke	noun	peruke|peruke|R|N
+perusable	adj	peruse|perus|R|V ; -able|able|S
+peruser	noun	peruse|perus|R|V ; -er|er|S||-er (N)
+perusing	noun	peruse|perus|R|V ; -ing|ing|S||-ing (N)
+pervader	noun	pervade|pervad|R|V ; -er|er|S||-er (N)
+pervasion	noun	pervade|pervas|R|V ; -ion|ion|S
+perverseness	noun	perverse|perverse|R|Adj ; -ness|ness|S
+perversive	adj	pervert|pervers|R|V ; -ive|ive|S
+perverter	noun	pervert|pervert|R|V ; -er|er|S||-er (N)
+pervertible	adj	pervert|pervert|R|V ; -ible|ible|S
+pervious	adj	pervious|pervious|R|Adj
+perviously	adv	pervious|pervious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+perviousness	noun	pervious|pervious|R|Adj ; -ness|ness|S
+peryton	noun	peryton|peryton|R|N
+pes	noun	pes|pes|R|N
+pesante	adj	pesante|pesante|R|Adj
+pescetarian	noun	pescetarian|pescetarian|R|N
+pescetarianism	noun	pescetarian|pescetarian|R|N ; -ism|ism|S
+peshmerga	noun	peshmerga|peshmerga|R|N
+peshwa	noun	peshwa|peshwa|R|N
+peskily	adv	pesky|peski|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+peskiness	noun	pesky|peski|R|Adj ; -ness|ness|S
+pessimize	verb	pessimize|pessimize|R|V
+pesthole	noun	pest|pest|R|N ; hole|hole|R|N
+pesticidal	adj	pesticide|pesticid|R|N ; -al|al|S
+pestiferous	adj	pestiferous|pestiferous|R|Adj
+pestiferously	adv	pestiferous|pestiferous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pestiferousness	noun	pestiferous|pestiferous|R|Adj ; -ness|ness|S
+pestilent	adj	pestilent|pestilent|R|Adj
+pestilentially	adv	pestilent|pestilent|R|Adj ; -ial|ial|S ; -ly|ly|I|Adv|-ly (adv)
+pestology	noun	pestology|pestology|R|N
+petabit	noun	petabit|petabit|R|N
+petabyte	noun	petabyte|petabyte|R|N
+petaled	adj	petal|petal|R|N ; -ed|ed|S||-ed (adj)
+petaliferous	adj	petaliferous|petaliferous|R|Adj
+petaliform	adj	petaliform|petaliform|R|Adj
+petalled	adj	petal|petall|R|N ; -ed|ed|S||-ed (adj)
+petallike	adj	petal|petal|R|N ; -like|like|S
+petalody	noun	petalody|petalody|R|N
+petaloid	adj	petaloid|petaloid|R|Adj
+petalous	adj	petal|petal|R|N ; -ous|ous|S
+petasus	noun	petasus|petasus|R|N
+petaurist	noun	petaurist|petaurist|R|N
+petcock	noun	pet|pet|R|N ; cock|cock|R|N
+petechia	noun	petechia|petechia|R|N
+petechial	adj	petechia|petechi|R|N ; -al|al|S
+petersham	noun	petersham|petersham|R|N
+petiolate	adj	petiole|petiol|R|N ; -ate|ate|S
+petiolated	adj	petiolate|petiolat|R|Adj ; -ed|ed|S||-ed (adj)
+petioled	adj	petiole|petiol|R|N ; -ed|ed|S||-ed (adj)
+petiolule	noun	petiolule|petiolule|R|N
+petiteness	noun	petite|petite|R|Adj ; -ness|ness|S
+petitionary	adj	petition|petition|R|N ; -ary|ary|S
+petplay	noun	pet|pet|R|N ; play|play|R|N
+petrescence	noun	petrescence|petrescence|R|N
+petrichor	noun	petrichor|petrichor|R|N
+petrifaction	noun	petrifaction|petrifaction|R|N
+petrification	noun	petrify|petrifi|R|V ; -ation|cation|S
+petrochemistry	noun	petrochemistry|petrochemistry|R|N
+petrodollar	noun	petrodollar|petrodollar|R|N
+petrofabric	noun	petrofabric|petrofabric|R|N
+petrofabrics	noun	petrofabric|petrofabric|R|N ; -s|s|I||-s (plural)
+petrogenesis	noun	petrogenesis|petrogenesis|R|N
+petrogenetic	adj	petrogenesis|petrogenet|R|N ; -ic|ic|S
+petroglyphic	adj	petroglyph|petroglyph|R|N ; -ic|ic|S
+petrograph	noun	petrograph|petrograph|R|N
+petrographer	noun	petrography|petrograph|R|N ; -er|er|S||-er (N)
+petrographic	adj	petrography|petrograph|R|N ; -ic|ic|S
+petrographically	adv	petrographic|petrographic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+petrography	noun	petrography|petrography|R|N
+petroil	noun	petroil|petroil|R|N
+petroleur	noun	petroleur|petroleur|R|N
+petrolic	adj	petrol|petrol|R|N ; -ic|ic|S
+petroliferous	adj	petroliferous|petroliferous|R|Adj
+petrologic	adj	petrology|petrolog|R|N ; -ic|ic|S
+petrologically	adv	petrologic|petrologic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+petrologist	noun	petrology|petrolog|R|N ; -ist|ist|S
+petrophilous	adj	petrophilous|petrophilous|R|Adj
+petrosal	adj	petrosal|petrosal|R|Adj
+petrostate	noun	petrostate|petrostate|R|N
+pettifog	verb	pettifog|pettifog|R|V
+pettifogger	noun	pettifog|pettifogg|R|V ; -er|er|S||-er (N)
+pettifoggery	noun	pettifog|pettifogg|R|V ; -ery|ery|S
+pettifogging	noun	pettifog|pettifogg|R|V ; -ing|ing|S||-ing (N)
+pettily	adv	petty|petti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pettish	adj	pet|pett|R|N ; -ish|ish|S
+pettishly	adv	pettish|pettish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pettishness	noun	pettish|pettish|R|Adj ; -ness|ness|S
+petulancy	noun	petulant|petul|R|Adj ; -ancy|ancy|S
+peucedanum	noun	peucedanum|peucedanum|R|N
+pewage	noun	pew|pew|R|N ; -age|age|S
+pewterer	noun	pewter|pewter|R|N ; -er|er|S||-er (N)
+pewterware	noun	pewter|pewter|R|N ; ware|ware|R|N
+pff	interj	pff|pff|R
+phablet	noun	phablet|phablet|R|N
+phacella	noun	phacella|phacella|R|N
+phaenogamic	adj	phaenogamic|phaenogamic|R|Adj
+phagnalon	noun	phagnalon|phagnalon|R|N
+phagocyte	noun	phagocyte|phagocyte|R|N
+phagocytic	adj	phagocyte|phagocyt|R|N ; -ic|ic|S
+phagocytise	verb	phagocyte|phagocyt|R|N ; -ise|ise|S
+phagocytize	verb	phagocyte|phagocyt|R|N ; -ize|ize|S
+phagocytose	verb	phagocytose|phagocytose|R|V
+phagocytosis	noun	phagocytosis|phagocytosis|R|N
+phagosome	noun	phagosome|phagosome|R|N
+phainopepla	noun	phainopepla|phainopepla|R|N
+phalange	noun	phalange|phalange|R|N
+phalangeal	adj	phalange|phalange|R|N ; -al|al|S
+phalanger	noun	phalanger|phalanger|R|N
+phalansterian	noun	phalanstery|phalansteri|R|N ; -an|an|S
+phalansterianism	noun	phalansterian|phalansterian|R|N ; -ism|ism|S
+phalanstery	noun	phalanstery|phalanstery|R|N
+phaleristics	noun	phaleristics|phaleristics|R|N
+phallically	adv	phallic|phallic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+phallicism	noun	phallic|phallic|R|Adj ; -ism|ism|S
+phallocentrism	noun	phallocentrism|phallocentrism|R|N
+phallocracy	noun	phallocracy|phallocracy|R|N
+phallocrat	noun	phallocrat|phallocrat|R|N
+phallocratic	adj	phallocrat|phallocrat|R|N ; -ic|ic|S
+phallodynia	noun	phallodynia|phallodynia|R|N
+phallosome	noun	phallosome|phallosome|R|N
+phalsa	noun	phalsa|phalsa|R|N
+phanerogam	noun	phanerogam|phanerogam|R|N
+phanerogamic	adj	phanerogam|phanerogam|R|N ; -ic|ic|S
+phanerogamous	adj	phanerogam|phanerogam|R|N ; -ous|ous|S
+phanerophyte	noun	phanerophyte|phanerophyte|R|N
+phantasmagorically	adv	phantasmagoric|phantasmagoric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+phantasmal	adj	phantasm|phantasm|R|N ; -al|al|S
+phantasmic	adj	phantasm|phantasm|R|N ; -ic|ic|S
+pharaohess	noun	pharaoh|pharaoh|R|N ; -ess|ess|S
+pharisaic	adj	pharisee|pharisa|R|N ; -ic|ic|S
+pharisaical	adj	pharisaic|pharisaic|R|Adj ; -al|al|S
+pharisaically	adv	pharisaical|pharisaical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pharisaicalness	noun	pharisaical|pharisaical|R|Adj ; -ness|ness|S
+pharisaism	noun	pharisee|pharisa|R|N ; -ism|ism|S
+pharmaceutically	adv	pharmaceutical|pharmaceutical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pharmaceutics	noun	pharmaceutics|pharmaceutics|R|N
+pharmaceutist	noun	pharmaceutist|pharmaceutist|R|N
+pharmacochemistry	noun	pharmacochemistry|pharmacochemistry|R|N
+pharmacodynamic	adj	pharmacodynamic|pharmacodynamic|R|Adj
+pharmacodynamics	noun	pharmacodynamics|pharmacodynamics|R|N
+pharmacognostic	adj	pharmacognostic|pharmacognostic|R|Adj
+pharmacognostical	adj	pharmacognostic|pharmacognostic|R|Adj ; -al|al|S
+pharmacologically	adv	pharmacologic|pharmacologic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+pharmacopoeial	adj	pharmacopoeia|pharmacopoei|R|N ; -al|al|S
+pharmacopoeist	noun	pharmacopoeia|pharmacopoe|R|N ; -ist|ist|S
+pharmacovigilance	noun	pharmacovigilance|pharmacovigilance|R|N
+pharos	noun	pharos|pharos|R|N
+pharyngealization	noun	pharyngeal|pharyngeal|R|Adj ; -ize|iz|S ; -ation|ation|S
+pharyngitis	noun	pharyngitis|pharyngitis|R|N
+pharyngology	noun	pharyngology|pharyngology|R|N
+pharyngoscope	noun	pharyngoscope|pharyngoscope|R|N
+pharyngoscopy	noun	pharyngoscopy|pharyngoscopy|R|N
+pharyngotomy	noun	pharyngotomy|pharyngotomy|R|N
+phasemeter	noun	phase|phase|R|N ; meter|meter|R|N
+phasic	adj	phase|phas|R|N ; -ic|ic|S
+phasor	noun	phase|phas|R|N ; -or|or|S
+phat	adj	phat|phat|R|Adj
+phatic	adj	phatic|phatic|R|Adj
+phatties	noun	phat|phatt|R|Adj ; -y|i|S ; -s|es|I||-s (plural)
+pheasantry	noun	pheasant|pheasant|R|N ; -ry|ry|S
+phelloderm	noun	phelloderm|phelloderm|R|N
+phellodermal	adj	phelloderm|phelloderm|R|N ; -al|al|S
+phellogen	noun	phellogen|phellogen|R|N
+phellogenetic	adj	phellogenetic|phellogenetic|R|Adj
+phenacetin	noun	phenacetin|phenacetin|R|N
+phenanthrene	noun	phenanthrene|phenanthrene|R|N
+phenazone	noun	phenazone|phenazone|R|N
+phene	noun	phene|phene|R|N
+phenetic	adj	phenetic|phenetic|R|Adj
+phenobarbitone	noun	phenobarbitone|phenobarbitone|R|N
+phenocopy	noun	phenocopy|phenocopy|R|N
+phenocryst	noun	phenocryst|phenocryst|R|N
+phenocrystic	adj	phenocryst|phenocryst|R|N ; -ic|ic|S
+phenodeviant	noun	phenodeviant|phenodeviant|R|N
+phenogenetics	noun	phenogenetics|phenogenetics|R|N
+phenological	adj	phenology|phenolog|R|N ; -ical|ical|S
+phenologically	adv	phenological|phenological|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+phenologist	noun	phenology|phenolog|R|N ; -ist|ist|S
+phenolphthalein	noun	phenolphthalein|phenolphthalein|R|N
+phenomena	noun	phenomenon|phenomena|R|N ; -s||I||-s (plural)
+phenomenalism	noun	phenomenal|phenomenal|R|Adj ; -ism|ism|S

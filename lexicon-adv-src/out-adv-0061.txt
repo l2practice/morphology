@@ -1,0 +1,150 @@
+clef	noun	=
+prognostic	adj	=
+hadron	noun	=
+compaction	noun	=
+futurism	noun	=
+collusive	adj	con-|col|P||||Latin com- 'together' ; -lus-|lus|B|V|||Latin ludere 'to play' ; -ive|ive|S||||Latin -ivus 'tending to'
+illusionist	noun	=
+presidio	noun	=
+agate	noun	=
+discrepant	adj	=
+parochialism	noun	=
+fistula	noun	=
+syllogism	noun	=
+bulimic	adj	=
+nudist	noun	=
+ablation	noun	=
+orthographic	adj	ortho-|ortho|B|Adj|||Greek orthos 'straight' ; -graph-|graph|B|N|||Greek graphein 'to write' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+utopianism	noun	=
+harpist	noun	=
+limn	verb	=
+cretin	noun	=
+annular	adj	annul-|annul|B|N|||Latin anulus 'ring' ; -ar|ar|S||||Latin -aris 'pertaining to'
+photochemical	adj	=
+unctuous	adj	=
+militarize	verb	=
+transitive	adj	trans-|trans|P||||Latin trans 'across' ; -it-|it|B|V|||Latin ire 'to go' ; -ive|ive|S||||Latin -ivus 'tending to'
+basso	noun	=
+clarinetist	noun	=
+baccarat	noun	=
+bubonic	adj	=
+careerist	noun	=
+tritium	noun	=
+habituation	noun	=
+apoplectic	adj	=
+gymnastic	adj	=
+airfoil	noun	=
+cation	noun	=
+passim	adv	=
+altimeter	noun	alt-|alti|B|Adj|||Latin altus 'high' ; -meter|meter|B|N|||Greek metron 'measure'
+collegian	noun	=
+paperless	adj	=
+dulcimer	noun	=
+gerontologist	noun	geronto-|geronto|B|N|||Greek geron 'old man' ; -log-|log|B|N|||Greek logos 'study, word' ; -ist|ist|S||||Greek -istes 'one who'
+actuate	verb	=
+jammer	noun	=
+stipendiary	adj	=
+colloquium	noun	com-|col|P||||Latin com- 'together' ; -loqu-|loqu|B|V|||Latin loqui 'to speak' ; -ium|ium|S||||Latin -ium 'thing, place'
+quaternary	adj	=
+thermodynamic	adj	=
+cirque	noun	=
+epidermal	adj	epi-|epi|P||||Greek epi 'upon' ; -derm-|derm|B|N|||Greek derma 'skin' ; -al|al|S||||Latin -alis 'pertaining to'
+sommelier	noun	=
+histrionic	adj	=
+egress	noun	ex-|e|P||||Latin ex- 'out' ; -gress|gress|B|V|||Latin gradi 'to step, go'
+gastroenteritis	noun	=
+colloquy	noun	com-|col|P||||Latin com- 'together' ; -loqu-|loqu|B|V|||Latin loqui 'to speak' ; -y|y|S||||Latin -ium 'thing, state'
+ingenuous	adj	=
+minuet	noun	=
+hotplate	noun	=
+mimosa	noun	=
+salvific	adj	salv-|salv|B|Adj|||Latin salvus 'safe, saved' ; -ific|ific|S||||Latin facere 'to make'
+prunella	noun	=
+intuit	verb	=
+perambulation	noun	per-|per|P||||Latin per 'through' ; -ambul-|ambul|B|V|||Latin ambulare 'to walk' ; -ation|ation|S||||Latin -atio 'act, process'
+narcissus	noun	=
+endorser	noun	=
+sexton	noun	=
+psycholinguistic	adj	=
+morpheme	noun	morph-|morph|B|N|||Greek morphe 'shape, form' ; -eme|eme|S||||Greek -ema 'unit'
+glycoprotein	noun	=
+usury	noun	=
+obiter	adv	=
+seclude	verb	=
+viscera	noun	=
+editorialist	noun	=
+levitation	noun	=
+regularize	verb	=
+coagulate	verb	=
+extirpate	verb	=
+diatom	noun	=
+humanitarianism	noun	=
+unipolar	adj	=
+tyrannosaurus	noun	tyranno-|tyranno|B|N|||Greek tyrannos 'tyrant' ; -saurus|saurus|B|N|||Greek sauros 'lizard'
+coalescence	noun	=
+bioremediation	noun	=
+indolence	noun	in-|in|P||||Latin in- 'not' ; -dol-|dol|B|V|||Latin dolere 'to suffer' ; -ence|ence|S||||Latin -entia 'state, quality'
+guzzler	noun	=
+satiate	verb	=
+octogenarian	noun	=
+areal	adj	=
+lagan	noun	=
+synaptic	adj	=
+bombast	noun	=
+kinematics	noun	=
+acquirer	noun	=
+scamp	noun	=
+alphanumeric	adj	=
+monounsaturated	adj	=
+typological	adj	=
+bioweapon	noun	=
+beneficence	noun	=
+ferrous	adj	ferr-|ferr|B|N|||Latin ferrum 'iron' ; -ous|ous|S||||Latin -osus 'full of'
+moraine	noun	=
+operant	adj	=
+gluteus	noun	=
+sanctification	noun	=
+procreate	verb	=
+diagnostician	noun	=
+zephyr	noun	=
+circumspection	noun	circum-|circum|P||||Latin circum 'around' ; -spect-|spect|B|V|||Latin specere 'to look' ; -ion|ion|S||||Latin -io 'act, state'
+ineluctable	adj	in-|in|P||||Latin in- 'not' ; e-|e|P||||Latin ex- 'out' ; -luct-|luct|B|V|||Latin luctari 'to struggle' ; -able|able|S||||Latin -bilis 'able to'
+bestial	adj	=
+permanency	noun	=
+exculpatory	adj	=
+glutton	noun	=
+coif	noun	=
+gazpacho	noun	=
+quadrennial	adj	quadr-|quadr|B|N|||Latin quattuor 'four' ; -ennial|ennial|S||||Latin annus 'year'
+adjuvant	noun	=
+cryptosporidium	noun	crypto-|crypto|B|N|||Greek kryptos 'hidden' ; -sporidium|sporidium|B|N|||Greek spora 'spore'
+ambulation	noun	ambul-|ambul|B|V|||Latin ambulare 'to walk' ; -ation|ation|S||||Latin -atio 'act, process'
+stalagmite	noun	=
+tenderize	verb	=
+escarole	noun	=
+cannibalistic	adj	=
+torus	noun	=
+exoplanet	noun	=
+aesthete	noun	=
+plebe	noun	=
+hypertrophy	noun	hyper-|hyper|P||||Greek hyper 'over' ; -trophy|trophy|B|N|||Greek trophe 'nourishment'
+tripos	noun	=
+lignite	noun	lign-|lign|B|N|||Latin lignum 'wood' ; -ite|ite|S||||Latin -ites 'mineral, rock'
+chiasmus	noun	=
+honorific	adj	=
+imperium	noun	im-|im|P||||Latin in- 'in, upon' ; -par-|per|B|V|||Latin parare 'to prepare' ; -ium|ium|S||||Latin -ium 'thing, place'
+taverna	noun	=
+predestination	noun	=
+pastoralist	noun	=
+cirrus	noun	=
+gallium	noun	=
+polyphony	noun	poly-|poly|B|N|||Greek polys 'many' ; -phony|phony|B|N|||Greek phone 'sound, voice'
+isometric	adj	=
+asinine	adj	=
+temblor	noun	=
+chemise	noun	=
+paladin	noun	=
+sophomoric	adj	=
+hugger	noun	=
+lactate	noun	lact-|lact|B|V|||Latin lac 'milk' ; -ate|ate|S||||Latin -atus 'verb-forming'
+arms	noun	=

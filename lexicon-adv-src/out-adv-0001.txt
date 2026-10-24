@@ -1,0 +1,150 @@
+people	noun	=
+just	adv	=
+very	adv	ver-|ver|B|Adj|||Latin verus 'true' ; -y|y|S||||Latin -acus, 'relating to'
+system	noun	sys-|sys|P||||Greek syn- 'together' ; -tem|tem|B|N|||Greek histemi 'to stand'
+state	noun	=
+case	noun	=
+number	noun	=
+family	noun	famil-|famil|B|N|||Latin familia 'household' ; -y|y|S||||Latin -ia, 'state'
+company	noun	=
+problem	noun	pro-|pro|P||||Greek pro- 'forth' ; -blem|blem|B|N|||Greek ballein 'to throw'
+student	noun	stud-|stud|B|V|||Latin studere 'to be eager' ; -ent|ent|S||||Latin -ens, 'agent'
+country	noun	=
+party	noun	=
+provide	verb	pro-|pro|P||||Latin pro- 'forth' ; -vide|vide|B|V|||Latin videre 'to see'
+point	noun	=
+different	adj	dif-|dif|P||||Latin dis- 'apart' ; -fer|fer|B|V|||Latin ferre 'to carry' ; -ent|ent|S||||Latin -ens, 'agent'
+large	adj	=
+member	noun	memb-|memb|B|N|||Latin membrum 'limb' ; -er|er|S||||Latin -arius, 'agent'
+local	adj	loc-|loc|B|N|||Latin locus 'place' ; -al|al|S||||Latin -alis, 'relating to'
+program	noun	pro-|pro|P||||Greek pro- 'before' ; -gram|gram|B|N|||Greek graphein 'to write'
+question	noun	ques-|ques|B|V||-quaes|Latin quaerere 'to ask' ; -tion|tion|S||||Latin -io, 'act, state'
+fact	noun	=
+social	adj	soci-|soci|B|N|||Latin socius 'ally' ; -al|al|S||||Latin -alis, 'relating to'
+move	verb	=
+important	adj	im-|im|P||||Latin in- 'in' ; -port-|port|B|V|||Latin portare 'to carry' ; -ant|ant|S||||Latin -ans, 'being'
+million	noun	mill-|mill|B||||Latin mille 'thousand' ; -ion|ion|S||||Italian -one, 'large'
+information	noun	in-|in|P||||Latin in- 'in' ; -form-|form|B|V|||Latin formare 'to form' ; -ation|ation|S||||Latin -atio, 'act, state'
+power	noun	=
+change	noun	=
+interest	noun	inter-|inter|P||||Latin inter- 'between' ; -est|est|B|V|||Latin esse 'to be'
+money	noun	monet-|mon|B|N|||Latin moneta 'mint' ; -ey|ey|S||||Latin -eta, 'relating to'
+story	noun	=
+form	noun	=
+study	noun	stud-|stud|B|V|||Latin studere 'to be eager' ; -y|y|S||||Latin -ium, 'state'
+level	noun	=
+second	adj	-sequ-|sec|B|V|||Latin sequi 'to follow' ; -ond|ond|S||||Latin -undus, 'following'
+include	verb	in-|in|P||||Latin in- 'in' ; -clude|clude|B|V|||Latin claudere 'to shut'
+issue	noun	=
+policy	noun	=
+council	noun	=
+court	noun	=
+possible	adj	=
+allow	verb	=
+effect	noun	ef-|ef|P||||Latin ex- 'out' ; -fect|fect|B|V|||Latin facere 'to make'
+result	noun	re-|re|P||||Latin re- 'back' ; -sult|sult|B|V||-salt|Latin saltare 'to jump'
+idea	noun	=
+hour	noun	=
+report	noun	re-|re|P||||Latin re- 'back' ; -port|port|B|V|||Latin portare 'to carry'
+face	noun	=
+carry	verb	=
+authority	noun	author-|author|B|N|||Latin auctor 'originator' ; -ity|ity|S||||Latin -itas, 'state'
+appear	verb	=
+city	noun	=
+continue	verb	=
+minister	noun	minist-|minist|B|Adj|||Latin minus 'less' ; -er|er|S||||Latin -ter, 'agent'
+able	adj	=
+community	noun	commun-|commun|B|Adj|||Latin communis 'common' ; -ity|ity|S||||Latin -itas, 'state'
+produce	verb	pro-|pro|P||||Latin pro- 'forth' ; -duce|duce|B|V|||Latin ducere 'to lead'
+rate	noun	=
+general	adj	gener-|gener|B|N|||Latin genus 'kind' ; -al|al|S||||Latin -alis, 'relating to'
+office	noun	=
+president	noun	pre-|pre|P||||Latin prae- 'before' ; -sid-|sid|B|V|||Latin sedere 'to sit' ; -ent|ent|S||||Latin -ens, 'agent'
+real	adj	re-|re|B|N|||Latin res 'thing' ; -al|al|S||||Latin -alis, 'relating to'
+minute	noun	=
+person	noun	=
+reason	noun	=
+several	adj	separ-|sever|B|V|||Latin separare 'to separate' ; -al|al|S||||Latin -alis, 'relating to'
+consider	verb	=
+expect	verb	ex-|ex|P||||Latin ex- 'out' ; -spect|pect|B|V|||Latin spectare 'to look at'
+suggest	verb	sug-|sug|P||||Latin sub- 'under' ; -gest|gest|B|V|||Latin gerere 'to carry'
+term	noun	=
+public	adj	publ-|publ|B|N|||Latin populus 'people' ; -ic|ic|S||||Latin -icus, 'relating to'
+require	verb	re-|re|P||||Latin re- 'back' ; -quire|quire|B|V|||Latin quaerere 'to ask, seek'
+period	noun	=
+figure	noun	=
+society	noun	soci-|soci|B|N|||Latin socius 'ally, companion' ; -ety|ety|S||||Latin -etas, 'state'
+centre	noun	=
+parent	noun	par-|par|B|V|||Latin parere 'to bring forth' ; -ent|ent|S||||Latin -ens, 'agent'
+police	noun	=
+create	verb	cre-|cre|B|V|||Latin creare 'to create' ; -ate|ate|S||||Latin -atus, 'made, having'
+price	noun	=
+control	noun	=
+action	noun	=
+cost	noun	=
+process	noun	=
+remain	verb	re-|re|P||||Latin re- 'again' ; -man-|main|B|V|||Latin manere 'to stay'
+position	noun	pos-|pos|B|V||-pon|Latin ponere 'to place' ; -ition|ition|S||||Latin -io, 'act, state'
+remember	verb	=
+course	noun	=
+sure	adj	=
+history	noun	histor-|histor|B|N|||Greek histor 'knowing, learned' ; -y|y|S||||Greek -ia, 'state'
+education	noun	e-|e|P||||Latin ex- 'out' ; -duc-|duc|B|V||-duce|Latin ducere 'to lead' ; -ation|ation|S||||Latin -atio, 'act, state'
+type	noun	=
+subject	noun	sub-|sub|P||||Latin sub- 'under' ; -ject|ject|B|V|||Latin iacere 'to throw'
+moment	noun	=
+value	noun	=
+order	noun	=
+force	noun	=
+matter	noun	=
+receive	verb	re-|re|P||||Latin re- 'back' ; -ceive|ceive|B|V|||Latin capere 'to take'
+decide	verb	de-|de|P||||Latin de- 'down from' ; -cide|cide|B|V|||Latin caedere 'to cut'
+decision	noun	de-|de|P||||Latin de- 'down from' ; -cis-|cis|B|V||-cide|Latin caedere 'to cut' ; -ion|ion|S||||Latin -io, 'act, state'
+industry	noun	industr-|industr|B|Adj|||Latin industrius 'diligent' ; -y|y|S||||Latin -ia, 'state'
+patient	noun	pati-|pati|B|V|||Latin pati 'to suffer' ; -ent|ent|S||||Latin -ens, 'agent'
+class	noun	=
+clear	adj	=
+major	adj	magn-|maj|B|Adj|||Latin magnus 'great' ; -or|or|S||||Latin -ior, 'more'
+music	noun	mus-|mus|B|N|||Greek mousa 'muse' ; -ic|ic|S||||Greek -ikos, 'relating to'
+paper	noun	=
+describe	verb	de-|de|P||||Latin de- 'off' ; -scribe|scribe|B|V|||Latin scribere 'to write'
+condition	noun	con-|con|P||||Latin com- 'together' ; -dit-|dit|B|V||-dic|Latin dicere 'to say' ; -ion|ion|S||||Latin -io, 'act, state'
+human	adj	=
+develop	verb	=
+agree	verb	=
+serve	verb	=
+century	noun	cent-|cent|B||||Latin centum 'hundred' ; -ury|ury|S||||Latin -uria, 'group'
+sense	noun	=
+section	noun	sec-|sec|B|V||-sect|Latin secare 'to cut' ; -tion|tion|S||||Latin -io, 'act, state'
+activity	noun	=
+nation	noun	nat-|nat|B|V|||Latin nasci 'to be born' ; -ion|ion|S||||Latin -io, 'act, state'
+plan	noun	=
+college	noun	=
+experience	noun	experi-|experi|B|V|||Latin experiri 'to try' ; -ence|ence|S||||Latin -entia, 'state, quality'
+sort	noun	=
+return	verb	=
+particular	adj	part-|part|B|N|||Latin pars 'part' ; -icular|icular|S||||Latin -culus, 'small'
+language	noun	lang-|lang|B|N|||Latin lingua 'tongue' ; -uage|uage|S||||Latin -aticum, 'relating to'
+special	adj	speci-|speci|B|V|||Latin specere 'to see' ; -al|al|S||||Latin -alis, 'relating to'
+difficult	adj	dif-|dif|P||||Latin dis- 'apart' ; -ficult|ficult|B|Adj||-facil|Latin facilis 'easy'
+certain	adj	cert-|cert|B|Adj|||Latin certus 'fixed, sure' ; -ain|ain|S||||Latin -anus, 'relating to'
+pass	verb	=
+committee	noun	com-|com|P||||Latin com- 'together' ; -mit-|mit|B|V|||Latin mittere 'to send' ; -ee|tee|S||||French -ee, 'one acted on'
+product	noun	pro-|pro|P||||Latin pro- 'forth' ; -duct|duct|B|V||-duce|Latin ducere 'to lead'
+role	noun	=
+effort	noun	=
+letter	noun	=
+evidence	noun	e-|e|P||||Latin ex- 'out' ; -vid-|vid|B|V|||Latin videre 'to see' ; -ence|ence|S||||Latin -entia, 'state, quality'
+voice	noun	=
+union	noun	uni-|uni|B||||Latin unus 'one' ; -on|on|S||||Latin -io, 'act, state'
+event	noun	e-|e|P||||Latin ex- 'out' ; -vent|vent|B|V|||Latin venire 'to come'
+military	adj	milit-|milit|B|N|||Latin miles 'soldier' ; -ary|ary|S||||Latin -aris, 'relating to'
+cause	noun	=
+explain	verb	=
+support	verb	sup-|sup|P||||Latin sub- 'under' ; -port|port|B|V|||Latin portare 'to carry'
+accept	verb	ac-|ac|P||||Latin ad- 'to' ; -cept|cept|B|V|||Latin capere 'to take'
+federal	adj	feder-|feder|B|N||-foedus|Latin foedus 'treaty, league' ; -al|al|S||||Latin -alis, 'relating to'
+difference	noun	differ-|differ|B|V|||Latin differre 'to differ' ; -ence|ence|S||||Latin -entia, 'state, quality'
+account	noun	=
+material	noun	mater-|mater|B|N|||Latin mater 'mother' ; -ial|ial|S||||Latin -alis, 'relating to'
+situation	noun	situat-|situat|B|V|||Latin situare 'to place' ; -ion|ion|S||||Latin -io, 'act, state'

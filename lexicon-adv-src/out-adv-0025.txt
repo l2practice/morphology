@@ -1,0 +1,150 @@
+partition	noun	=
+luxurious	adj	=
+toxin	noun	toxi-|toxi|B|N|||Greek toxikon 'poison' ; -in|n|S||||Greek -ine 'chemical substance'
+replica	noun	=
+condemnation	noun	=
+drastically	adv	=
+tidal	adj	=
+influx	noun	=
+ensue	verb	=
+emulate	verb	emul-|emul|B|V|||Latin aemulari 'to rival' ; -ate|ate|S||||Latin -atus 'verb-forming'
+augment	verb	=
+abandonment	noun	=
+solemn	adj	=
+supernatural	adj	=
+allude	verb	al-|al|P||||Latin ad- 'to' ; -lud-|lude|B|V|||Latin ludere 'to play'
+epic	adj	=
+rogue	noun	=
+seduce	verb	se-|se|P||||Latin se- 'aside, away' ; -duce|duce|B|V|||Latin ducere 'to lead'
+rectify	verb	rect-|rect|B|Adj|||Latin rectus 'straight' ; -ify|ify|S||||Latin -ficare 'to make'
+negligible	adj	neglig-|neglig|B|V|||Latin neglegere 'to neglect' ; -ible|ible|S||||Latin -ibilis '-ible'
+cleric	noun	=
+intruder	noun	=
+affective	adj	=
+normative	adj	=
+repetitive	adj	repet-|repet|B|V|||Latin repetere 'to repeat' ; -itive|itive|S||||Latin -itivus 'tending to'
+renovate	verb	re-|re|P||||Latin re- 'again' ; -nov-|nov|B|Adj|||Latin novus 'new' ; -ate|ate|S||||Latin -atus 'verb-forming'
+meteor	noun	=
+horrific	adj	horr-|horr|B|V|||Latin horrere 'to fear' ; -ific|ific|S||||Latin -ficare 'to make'
+adjoining	adj	=
+eminent	adj	=
+pneumonia	noun	pneumon-|pneumon|B|N|||Greek pneumon 'lung' ; -ia|ia|S||||Greek -ia 'state, disease'
+obscene	adj	=
+duct	noun	duc-|duc|B|V|||Latin ducere 'to lead' ; -t|t|S||||Latin -tus 'action noun'
+pathogen	noun	patho-|patho|B|N|||Greek pathos 'suffering' ; -gen|gen|B|N|||Greek -genes 'producing'
+thriller	noun	=
+pulp	noun	=
+triumphant	adj	=
+paranoid	adj	=
+bland	adj	=
+curry	noun	=
+vista	noun	=
+cherish	verb	=
+rhyme	noun	=
+ounce	noun	=
+agitation	noun	=
+avid	adj	=
+endow	verb	=
+admirer	noun	=
+municipality	noun	=
+mythology	noun	mytho-|mytho|B|N|||Greek mythos 'story' ; -logy|logy|B|N|||Greek logos 'study, word'
+scissors	noun	=
+precipitate	verb	=
+generalization	noun	=
+stipulate	verb	=
+automotive	adj	=
+exterior	adj	=
+turbulent	adj	turb-|turb|B|N|||Latin turba 'crowd, tumult' ; -ulent|ulent|S||||Latin -ulentus 'full of'
+supersede	verb	super-|super|P||||Latin super 'over' ; -sede|sede|B|V|||Latin sedere 'to sit'
+elegance	noun	=
+unanimous	adj	uni-|un|P||||Latin unus 'one' ; -anim-|anim|B|N|||Latin animus 'mind' ; -ous|ous|S||||Latin -osus 'full of'
+fugitive	noun	fug-|fug|B|V|||Latin fugere 'to flee' ; -ive|itive|S||||Latin -ivus 'tending to'
+intellect	noun	=
+amuse	verb	=
+versatile	adj	vers-|vers|B|V|||Latin vertere 'to turn' ; -atile|atile|S||||Latin -atilis 'capable of'
+irresistible	adj	=
+recourse	noun	=
+intentional	adj	=
+subside	verb	sub-|sub|P||||Latin sub- 'under' ; -sid-|side|B|V|||Latin sidere 'to settle'
+professionalism	noun	=
+vomit	verb	=
+rhythmic	adj	=
+intuitive	adj	=
+conditioner	noun	=
+immaculate	adj	im-|im|P||||Latin in- 'not' ; -macul-|macul|B|N|||Latin macula 'spot, stain' ; -ate|ate|S||||Latin -atus 'past participle'
+illicit	adj	=
+privy	adj	=
+pollute	verb	=
+aerobic	adj	aero-|aero|B|N|||Greek aer 'air' ; -bio-|bi|B|N|||Greek bios 'life' ; -ic|c|S||||Greek -ikos 'relating to'
+skeptic	noun	skept-|skept|B|V|||Greek skeptikos 'inquiring' ; -ic|ic|S||||Greek -ikos 'relating to'
+covert	adj	=
+improvise	verb	=
+hereditary	adj	hered-|hered|B|N|||Latin heres 'heir' ; -itary|itary|S||||Latin -arius 'relating to'
+challenger	noun	=
+arithmetic	noun	arithm-|arithm|B|N|||Greek arithmos 'number' ; -etic|etic|S||||Greek -etikos 'relating to'
+impede	verb	im-|im|P||||Latin in- 'in, on' ; -ped-|pede|B|N|||Latin pes 'foot'
+stringent	adj	string-|string|B|V|||Latin stringere 'to tighten' ; -ent|ent|S||||Latin -ens 'agent'
+collegiate	adj	colleg-|colleg|B|N|||Latin collegium 'community' ; -iate|iate|S||||Latin -iatus 'relating to'
+impersonal	adj	=
+hypothesize	verb	=
+petal	noun	=
+graffiti	noun	=
+retrospective	adj	=
+celestial	adj	=
+rector	noun	rect-|rect|B|V|||Latin regere 'to rule' ; -or|or|S||||Latin -or 'agent'
+aristocracy	noun	aristo-|aristo|B|Adj|||Greek aristos 'best' ; -cracy|cracy|B|N|||Greek kratos 'rule'
+resurrection	noun	re-|re|P||||Latin re- 'again' ; -surrect-|surrect|B|V|||Latin surgere 'to rise' ; -ion|ion|S||||Latin -io 'act, state'
+mundane	adj	=
+purport	verb	pur-|pur|P||||Latin pro- 'forth' ; -port|port|B|V|||Latin portare 'to carry'
+prerogative	noun	pre-|pre|P||||Latin prae- 'before' ; -rog-|rog|B|V|||Latin rogare 'to ask' ; -ative|ative|S||||Latin -ativus 'relating to'
+raspberry	noun	=
+presbyterian	noun	=
+tavern	noun	=
+cedar	noun	=
+aristocratic	adj	aristo-|aristo|B|Adj|||Greek aristos 'best' ; -crat-|crat|B|N|||Greek kratos 'rule' ; -ic|ic|S||||Greek -ikos 'relating to'
+strait	noun	=
+reciprocal	adj	=
+calculator	noun	=
+persecution	noun	=
+cerebral	adj	=
+flex	verb	=
+assimilate	verb	as-|as|P||||Latin ad- 'to' ; -simil-|simil|B|Adj|||Latin similis 'like' ; -ate|ate|S||||Latin -atus 'verb-forming'
+infuse	verb	=
+inflate	verb	=
+accrue	verb	=
+suppression	noun	=
+perennial	adj	=
+presumption	noun	=
+longevity	noun	=
+cilantro	noun	=
+exempt	adj	=
+muse	verb	=
+obsolete	adj	=
+regent	noun	=
+culprit	noun	=
+contentious	adj	=
+sequel	noun	=
+blender	noun	=
+lyric	noun	=
+surrogate	noun	=
+quantify	verb	quant-|quant|B|N|||Latin quantus 'how much' ; -ify|ify|S||||Latin -ficare 'to make'
+clarification	noun	=
+salvage	verb	=
+jubilee	noun	=
+punitive	adj	=
+disparate	adj	=
+arcade	noun	=
+perry	noun	=
+anecdote	noun	=
+autograph	noun	=
+chaplain	noun	=
+barge	noun	=
+baptism	noun	=
+congestion	noun	=
+indicative	adj	=
+buckle	noun	=
+homage	noun	=
+salute	verb	=
+citrus	noun	=
+conservatory	noun	=
+mixer	noun	=

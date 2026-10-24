@@ -1,0 +1,150 @@
+registry	noun	=
+pore	noun	=
+sandal	noun	=
+exhaustion	noun	=
+booster	noun	=
+regeneration	noun	=
+differential	adj	=
+ubiquitous	adj	=
+costa	noun	=
+cosmos	noun	=
+rosemary	noun	=
+anatomy	noun	ana-|ana|P||||Greek ana 'up' ; -tom|tom|B|V|||Greek temnein 'to cut' ; -y|y|S||||Greek -eia 'state'
+dissent	verb	dis-|dis|P||||Latin dis- 'apart' ; -sent|sent|B|V|||Latin sentire 'to feel'
+infantry	noun	=
+scenic	adj	scen-|scen|B|N|||Greek skēnē 'stage' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+solitude	noun	sol-|sol|B|Adj|||Latin solus 'alone' ; -itude|itude|S||||Latin -itudo 'state'
+accession	noun	ac-|ac|P||||Latin ad 'to' ; -cess|cess|B|V|||Latin cedere 'to go' ; -ion|ion|S||||Latin -io 'act, state'
+celery	noun	=
+compression	noun	=
+sculptor	noun	=
+lavender	noun	=
+tutorial	noun	=
+fragrance	noun	=
+intermediary	noun	inter-|inter|P||||Latin inter 'between' ; -medi|medi|B|Adj|||Latin medius 'middle' ; -ary|ary|S||||Latin -arius 'pertaining to'
+converge	verb	con-|con|P||||Latin com- 'together' ; -verge|verge|B|V|||Latin vergere 'to bend'
+designation	noun	=
+scanner	noun	=
+expanse	noun	=
+pronunciation	noun	pro-|pro|P||||Latin pro 'forth' ; -nunci|nunci|B|V|||Latin nuntiare 'to announce' ; -ation|ation|S||||Latin -atio 'act, state'
+inventor	noun	=
+retort	verb	re-|re|P||||Latin re- 'back' ; -tort|tort|B|V|||Latin torquere 'to twist'
+nebula	noun	nebul-|nebul|B|N|||Latin nebula 'cloud' ; -a|a|S||||Latin -a 'feminine ending'
+arrogance	noun	ar-|ar|P||||Latin ad 'to' ; -rog|rog|B|V|||Latin rogare 'to ask' ; -ance|ance|S||||Latin -antia 'state'
+aquatic	adj	aqu-|aqu|B|N|||Latin aqua 'water' ; -atic|atic|S||||Latin -aticus 'pertaining to'
+geometric	adj	geo-|geo|B|N|||Greek gē 'earth' ; -metr|metr|B|N|||Greek metron 'measure' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+vapor	noun	=
+rationality	noun	=
+corporal	adj	corpor-|corpor|B|N|||Latin corpus 'body' ; -al|al|S||||Latin -alis 'pertaining to'
+sage	noun	=
+evacuation	noun	e-|e|P||||Latin ex 'out' ; -vac|vac|B|V|||Latin vacare 'to be empty' ; -uation|uation|S||||Latin -uatio 'act, state'
+irrational	adj	=
+proprietary	adj	=
+pristine	adj	=
+recurrence	noun	re-|re|P||||Latin re- 'back' ; -curr|curr|B|V|||Latin currere 'to run' ; -ence|ence|S||||Latin -entia 'state, quality'
+diver	noun	=
+elector	noun	=
+alpine	adj	=
+confederation	noun	con-|con|P||||Latin com- 'together' ; -feder|feder|B|N|||Latin foedus 'treaty' ; -ation|ation|S||||Latin -atio 'act, state'
+exporter	noun	=
+improper	adj	=
+prosper	verb	pro-|pro|P||||Latin pro 'forward' ; -sper|sper|B|N|||Latin spes 'hope'
+interception	noun	inter-|inter|P||||Latin inter 'between' ; -cept|cept|B|V|||Latin capere 'to take' ; -ion|ion|S||||Latin -io 'act, state'
+adventurer	noun	=
+insecurity	noun	=
+citation	noun	=
+inclusive	adj	in-|in|P||||Latin in 'in, into' ; -clus|clus|B|V|||Latin claudere 'to close' ; -ive|ive|S||||Latin -ivus 'tending to'
+monumental	adj	=
+thyme	noun	=
+silicon	noun	silic-|silic|B|N|||Latin silex 'flint' ; -on|on|S||||Latin -on 'chemical suffix'
+syntax	noun	syn-|syn|P||||Greek syn 'together' ; -tax|tax|B|V|||Greek tassein 'to arrange'
+bugger	noun	=
+alga	noun	=
+genus	noun	=
+modernity	noun	=
+cucumber	noun	=
+piss	verb	=
+lava	noun	=
+asphalt	noun	=
+euro	noun	=
+bacterial	adj	bacteri-|bacteri|B|N|||Greek baktēria 'rod' ; -al|al|S||||Latin -alis 'pertaining to'
+characterization	noun	=
+notation	noun	=
+glucose	noun	gluco-|gluc|B|N|||Greek gleukos 'sweet wine' ; -ose|ose|S||||Greek -ose 'sugar suffix'
+mediation	noun	=
+aroma	noun	=
+lexicon	noun	lexic-|lexic|B|N|||Greek lexikos 'of words' ; -on|on|S||||Greek -on 'neuter ending'
+lantern	noun	=
+cosmetic	adj	cosm-|cosm|B|N|||Greek kosmos 'order' ; -etic|etic|S||||Greek -etikos 'pertaining to'
+fender	noun	=
+heroine	noun	=
+retrospect	noun	retro-|retro|P||||Latin retro 'back' ; -spect|spect|B|V|||Latin specere 'to look'
+duchy	noun	duc-|duch|B|N|||Latin dux 'leader' ; -y|y|S||||Latin -atus 'office'
+trot	verb	=
+liquidity	noun	=
+floral	adj	flor-|flor|B|N|||Latin flos 'flower' ; -al|al|S||||Latin -alis 'pertaining to'
+torque	noun	=
+humidity	noun	=
+eternity	noun	=
+synagogue	noun	syn-|syn|P||||Greek syn 'together' ; -agogue|agogue|B|N|||Greek agōgē 'assembly'
+midfielder	noun	=
+ominous	adj	=
+antigen	noun	anti-|anti|P||||Greek anti 'against' ; -gen|gen|B|N|||Greek genos 'origin'
+peptide	noun	pept-|pept|B|V|||Greek peptein 'to digest' ; -ide|ide|S||||Greek -ides 'related to'
+ethanol	noun	=
+vodka	noun	=
+hype	noun	=
+jeopardy	noun	=
+gastrin	noun	gastr-|gastr|B|N|||Greek gastēr 'stomach' ; -in|in|S||||Latin -ina 'substance'
+materialize	verb	=
+downturn	noun	=
+butcher	noun	=
+muster	verb	=
+tedious	adj	=
+oblivious	adj	=
+narcotic	adj	narcot-|narcot|B|V|||Greek narkoun 'to numb' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+multitude	noun	mult-|mult|B|Adj|||Latin multus 'many' ; -itude|itude|S||||Latin -itudo 'state'
+vitality	noun	=
+prolong	verb	=
+persuasive	adj	per-|per|P||||Latin per 'through' ; -suas|suas|B|V|||Latin suadere 'to advise' ; -ive|ive|S||||Latin -ivus 'tending to'
+perpetual	adj	per-|per|P||||Latin per 'through' ; -pet|pet|B|V|||Latin petere 'to seek' ; -ual|ual|S||||Latin -ualis 'pertaining to'
+emanate	verb	=
+commonplace	adj	=
+refrain	verb	=
+envy	noun	=
+evade	verb	e-|e|P||||Latin ex 'out' ; -vade|vade|B|V|||Latin vadere 'to go'
+devour	verb	de-|de|P||||Latin de 'down, away' ; -vour|vour|B|V|||Latin vorare 'to devour'
+sophistication	noun	=
+economical	adj	=
+sever	verb	=
+intolerable	adj	=
+radiate	verb	radi-|radi|B|N|||Latin radius 'ray' ; -ate|ate|S||||Latin -atus 'having, made'
+denomination	noun	de-|de|P||||Latin de 'down, away' ; -nomin|nomin|B|N|||Latin nomen 'name' ; -ation|ation|S||||Latin -atio 'act, state'
+consolidation	noun	=
+redeem	verb	re-|re|P||||Latin re- 'back' ; -em|deem|B|V|||Latin emere 'to buy'
+stigma	noun	stig-|stig|B|V|||Greek stizein 'to mark' ; -ma|ma|S||||Greek -ma 'result'
+mystical	adj	myst-|myst|B|V|||Greek muein 'to initiate' ; -ical|ical|S||||Greek -ikos 'pertaining to'
+humane	adj	=
+extravagant	adj	extra-|extra|P||||Latin extra 'beyond' ; -vag|vag|B|V|||Latin vagari 'to wander' ; -ant|ant|S||||Latin -ans 'acting'
+grate	noun	=
+metallic	adj	=
+digit	noun	=
+defer	verb	de-|de|P||||Latin de 'down, away' ; -fer|fer|B|V|||Latin ferre 'to bear'
+curtail	verb	=
+deceased	adj	=
+relinquish	verb	re-|re|P||||Latin re- 'back' ; -linqu|linqu|B|V|||Latin linquere 'to leave' ; -ish|ish|S||||Latin -iscere 'inceptive suffix'
+dispel	verb	dis-|dis|P||||Latin dis- 'apart' ; -pel|pel|B|V|||Latin pellere 'to drive'
+derelict	adj	de-|de|P||||Latin de 'down, away' ; re-|re|P||||Latin re- 'back' ; -lict|lict|B|V|||Latin linquere 'to leave'
+contingent	adj	con-|con|P||||Latin com- 'together' ; -ting|ting|B|V|||Latin tangere 'to touch' ; -ent|ent|S||||Latin -ens 'acting'
+transparency	noun	=
+refrigerate	verb	re-|re|P||||Latin re- 'back, again' ; -friger|friger|B|Adj|||Latin frigus 'cold' ; -ate|ate|S||||Latin -atus 'having, made'
+charismatic	adj	=
+gracious	adj	graci-|graci|B|N|||Latin gratia 'favour' ; -ous|ous|S||||Latin -osus 'full of'
+continuum	noun	con-|con|P||||Latin com- 'together' ; -tinu|tinu|B|V|||Latin tenere 'to hold' ; -um|um|S||||Latin -um 'neuter ending'
+indispensable	adj	=
+admirable	adj	=
+entertainer	noun	=
+demeanor	noun	=
+prudent	adj	=
+doctorate	noun	=
+abrupt	adj	ab-|ab|P||||Latin ab 'away, from' ; -rupt|rupt|B|V|||Latin rumpere 'to break'

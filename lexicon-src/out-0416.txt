@@ -1,0 +1,200 @@
+unscale	verb	un-|un|P ; scale|scale|R|V
+unscaled	adj	un-|un|P ; scale|scale|R|V ; -ed|d|S||-ed (adj)
+unscannable	adj	un-|un|P ; scan|scann|R|V ; -able|able|S
+unscared	adj	un-|un|P ; scare|scare|R|V ; -ed|d|S||-ed (adj)
+unscholarly	adj	un-|un|P ; scholar|scholar|R|N ; -ly|ly|S||-ly (adj)
+unscientifically	adv	un-|un|P ; sci-|sci|B|V ; -ent|ent|S ; -ific|ific|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+unscorched	adj	un-|un|P ; scorch|scorch|R|V ; -ed|ed|S||-ed (adj)
+unscored	adj	un-|un|P ; score|score|R|V ; -ed|d|S||-ed (adj)
+unscoured	adj	un-|un|P ; scour|scour|R|V ; -ed|ed|S||-ed (adj)
+unscourged	adj	un-|un|P ; scourge|scourge|R|V ; -ed|d|S||-ed (adj)
+unscrambler	noun	un-|un|P ; scramble|scrambl|R|V ; -er|er|S||-er (N)
+unscratched	adj	un-|un|P ; scratch|scratch|R|V ; -ed|ed|S||-ed (adj)
+unscrewed	adj	un-|un|P ; screw|screw|R|V ; -ed|ed|S||-ed (adj)
+unscrewing	adj	un-|un|P ; screw|screw|R|V ; -ing|ing|S||-ing (adj)
+unscriptural	adj	un-|un|P ; scripture|scriptur|R|N ; -al|al|S
+unscrubbed	adj	un-|un|P ; scrub|scrubb|R|V ; -ed|ed|S||-ed (adj)
+unscrupulously	adv	un-|un|P ; scrupulous|scrupulous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+unscrupulousness	noun	un-|un|P ; scrupulous|scrupulous|R|Adj ; -ness|ness|S
+unsealing	noun	un-|un|P ; seal|seal|R|V ; -ing|ing|S||-ing (N)
+unseam	verb	un-|un|P ; seam|seam|R|V
+unsearchable	adj	un-|un|P ; search|search|R|V ; -able|able|S
+unsearchableness	noun	un-|un|P ; search|search|R|V ; -able|able|S ; -ness|ness|S
+unsearchably	adv	un-|un|P ; search|search|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+unsearched	adj	un-|un|P ; search|search|R|V ; -ed|ed|S||-ed (adj)
+unseasonableness	noun	un-|un|P ; season|season|R|N ; -able|able|S ; -ness|ness|S
+unseated	adj	un-|un|P ; seat|seat|R|V ; -ed|ed|S||-ed (adj)
+unseaworthy	adj	un-|un|P ; sea|sea|R|N ; worthy|worthy|R|Adj
+unsecluded	adj	un-|un|P ; seclude|seclude|R|V ; -ed|d|S||-ed (adj)
+unseconded	adj	un-|un|P ; second|second|R|V ; -ed|ed|S||-ed (adj)
+unsectarian	adj	un-|un|P ; sectarian|sectarian|R|Adj
+unsectarianism	noun	un-|un|P ; sectarian|sectarian|R|Adj ; -ism|ism|S
+unsecular	adj	un-|un|P ; secular|secular|R|Adj
+unseduced	adj	un-|un|P ; seduce|seduce|R|V ; -ed|d|S||-ed (adj)
+unseductive	adj	un-|un|P ; seduce|seduct|R|V ; -ive|ive|S
+unsee	verb	un-|un|P ; see|see|R|V
+unseemliness	noun	un-|un|P ; seemly|seemli|R|Adj ; -ness|ness|S
+unsegmented	adj	un-|un|P ; segment|segment|R|V ; -ed|ed|S||-ed (adj)
+unsegregated	adj	un-|un|P ; segregate|segregate|R|V ; -ed|d|S||-ed (adj)
+unseizable	adj	un-|un|P ; seize|seiz|R|V ; -able|able|S
+unseized	adj	un-|un|P ; seize|seize|R|V ; -ed|d|S||-ed (adj)
+unseldom	adv	un-|un|P ; seldom|seldom|R|Adv
+unselect	verb	un-|un|P ; select|select|R|V
+unselectable	adj	un-|un|P ; select|select|R|V ; -able|able|S
+unselective	adj	un-|un|P ; select|select|R|V ; -ive|ive|S
+unselectively	adv	un-|un|P ; select|select|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+unsensational	adj	un-|un|P ; sense|sens|R|N ; -ation|ation|S ; -al|al|S
+unsensed	adj	un-|un|P ; sense|sense|R|V ; -ed|d|S||-ed (adj)
+unsensitive	adj	un-|un|P ; sense|sens|R|V ; -itive|itive|S
+unsensitiveness	noun	un-|un|P ; sense|sens|R|V ; -itive|itive|S ; -ness|ness|S
+unsent	adj	un-|un|P ; send|sent|R|V ; -ed||I||-ed (v2)
+unsentenced	adj	un-|un|P ; sentence|sentence|R|V ; -ed|d|S||-ed (adj)
+unseparated	adj	un-|un|P ; separate|separate|R|V ; -ed|d|S||-ed (adj)
+unserved	adj	un-|un|P ; serve|serve|R|V ; -ed|d|S||-ed (adj)
+unserviceableness	noun	un-|un|P ; service|service|R|N ; -able|able|S ; -ness|ness|S
+unset	adj	un-|un|P ; set|set|R|V
+unsettlement	noun	un-|un|P ; settle|settle|R|V ; -ment|ment|S
+unsettlingly	adv	un-|un|P ; settle|settl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+unsevered	adj	un-|un|P ; sever|sever|R|V ; -ed|ed|S||-ed (adj)
+unsew	verb	un-|un|P ; sew|sew|R|V
+unsex	verb	un-|un|P ; sex|sex|R|N
+unsexed	adj	un-|un|P ; sex|sex|R|N ; -ed|ed|S||-ed (adj)
+unsexual	adj	un-|un|P ; sex|sex|R|N ; -ual|ual|S
+unsexy	adj	un-|un|P ; sex|sex|R|N ; -y|y|S
+unshackle	verb	un-|un|P ; shackle|shackle|R|V
+unshackling	adj	un-|un|P ; shackle|shackl|R|V ; -ing|ing|S||-ing (adj)
+unshadowed	adj	un-|un|P ; shadow|shadow|R|V ; -ed|ed|S||-ed (adj)
+unshamed	adj	un-|un|P ; shame|shame|R|V ; -ed|d|S||-ed (adj)
+unshapely	adj	un-|un|P ; shape|shape|R|V ; -ly|ly|S||-ly (adj)
+unshapen	adj	un-|un|P ; shape|shapen|R|V ; -en||I||-en (participle)
+unsharp	adj	un-|un|P ; sharp|sharp|R|Adj
+unshattered	adj	un-|un|P ; shatter|shatter|R|V ; -ed|ed|S||-ed (adj)
+unsheathing	noun	un-|un|P ; sheath|sheath|R|V ; -ing|ing|S||-ing (N)
+unshell	verb	un-|un|P ; shell|shell|R|V
+unsheltered	adj	un-|un|P ; shelter|shelter|R|V ; -ed|ed|S||-ed (adj)
+unshift	verb	un-|un|P ; shift|shift|R|V
+unship	verb	un-|un|P ; ship|ship|R|V
+unshipped	adj	un-|un|P ; ship|shipp|R|V ; -ed|ed|S||-ed (adj)
+unshockable	adj	un-|un|P ; shock|shock|R|V ; -able|able|S
+unshocked	adj	un-|un|P ; shock|shock|R|V ; -ed|ed|S||-ed (adj)
+unshod	adj	un-|un|P ; shoe|shod|R|V ; -ed||I||-ed (v2)
+unshoe	verb	un-|un|P ; shoe|shoe|R|V
+unshorn	adj	un-|un|P ; shear|shorn|R|V ; -en||I||-en (participle)
+unshortened	adj	un-|un|P ; shorten|shorten|R|V ; -ed|ed|S||-ed (adj)
+unshot	adj	un-|un|P ; shoot|shot|R|V ; -ed||I||-ed (v2)
+unshown	adj	un-|un|P ; show|shown|R|V ; -en||I||-en (participle)
+unshrinkable	adj	un-|un|P ; shrink|shrink|R|V ; -able|able|S
+unshrinking	adj	un-|un|P ; shrink|shrink|R|V ; -ing|ing|S||-ing (adj)
+unshrunk	adj	un-|un|P ; shrink|shrunk|R|V ; -en||I||-en (participle)
+unshutter	verb	un-|un|P ; shutter|shutter|R|V
+unshuttered	adj	un-|un|P ; shutter|shutter|R|V ; -ed|ed|S||-ed (adj)
+unsifted	adj	un-|un|P ; sift|sift|R|V ; -ed|ed|S||-ed (adj)
+unsight	noun	un-|un|P ; sight|sight|R|N
+unsightliness	noun	un-|un|P ; sight|sight|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+unsilvered	adj	un-|un|P ; silver|silver|R|V ; -ed|ed|S||-ed (adj)
+unsincere	adj	un-|un|P ; sincere|sincere|R|Adj
+unsinful	adj	un-|un|P ; sin|sin|R|N ; -ful|ful|S
+unsingable	adj	un-|un|P ; sing|sing|R|V ; -able|able|S
+unsinged	adj	un-|un|P ; singe|singe|R|V ; -ed|d|S||-ed (adj)
+unsisterliness	noun	un-|un|P ; sister|sister|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+unsisterly	adj	un-|un|P ; sister|sister|R|N ; -ly|ly|S||-ly (adj)
+unsized	adj	un-|un|P ; size|size|R|V ; -ed|d|S||-ed (adj)
+unskilfulness	noun	un-|un|P ; skill|skil|R|N ; -ful|ful|S ; -ness|ness|S
+unskillful	adj	un-|un|P ; skill|skill|R|N ; -ful|ful|S
+unskimmed	adj	un-|un|P ; skim|skimm|R|V ; -ed|ed|S||-ed (adj)
+unslaked	adj	un-|un|P ; slake|slake|R|V ; -ed|d|S||-ed (adj)
+unsleeping	adj	un-|un|P ; sleep|sleep|R|V ; -ing|ing|S||-ing (adj)
+unslept	adj	un-|un|P ; sleep|slept|R|V ; -ed||I||-ed (v2)
+unsliced	adj	un-|un|P ; slice|slice|R|V ; -ed|d|S||-ed (adj)
+unsling	verb	un-|un|P ; sling|sling|R|V
+unsluice	verb	un-|un|P ; sluice|sluice|R|V
+unslumbering	adj	un-|un|P ; slumber|slumber|R|V ; -ing|ing|S||-ing (adj)
+unslung	adj	un-|un|P ; sling|slung|R|V ; -en||I||-en (participle)
+unsmart	adj	un-|un|P ; smart|smart|R|Adj
+unsmirched	adj	un-|un|P ; smirch|smirch|R|V ; -ed|ed|S||-ed (adj)
+unsmokable	adj	un-|un|P ; smoke|smok|R|V ; -able|able|S
+unsmoked	adj	un-|un|P ; smoke|smoke|R|V ; -ed|d|S||-ed (adj)
+unsmooth	adj	un-|un|P ; smooth|smooth|R|Adj
+unsmoothed	adj	un-|un|P ; smooth|smooth|R|V ; -ed|ed|S||-ed (adj)
+unsnap	verb	un-|un|P ; snap|snap|R|V
+unsnapped	adj	un-|un|P ; snap|snapp|R|V ; -ed|ed|S||-ed (adj)
+unsnare	verb	un-|un|P ; snare|snare|R|V
+unsnarl	verb	un-|un|P ; snarl|snarl|R|V
+unsnuffed	adj	un-|un|P ; snuff|snuff|R|V ; -ed|ed|S||-ed (adj)
+unsober	adj	un-|un|P ; sober|sober|R|Adj
+unsociability	noun	un-|un|P ; sociable|sociabil|R|Adj ; -ity|ity|S
+unsociableness	noun	un-|un|P ; sociable|sociable|R|Adj ; -ness|ness|S
+unsocially	adv	un-|un|P ; social|social|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+unsodden	adj	un-|un|P ; sodden|sodden|R|Adj
+unsoiled	adj	un-|un|P ; soil|soil|R|V ; -ed|ed|S||-ed (adj)
+unsolaced	adj	un-|un|P ; solace|solace|R|V ; -ed|d|S||-ed (adj)
+unsolder	verb	un-|un|P ; solder|solder|R|V
+unsoldierlike	adj	un-|un|P ; soldier|soldier|R|N ; -like|like|S
+unsoldierly	adj	un-|un|P ; soldier|soldier|R|N ; -ly|ly|S||-ly (adj)
+unsolemn	adj	un-|un|P ; solemn|solemn|R|Adj
+unsolicitous	adj	un-|un|P ; solicit|solicit|R|V ; -ous|ous|S
+unsolid	adj	un-|un|P ; solid|solid|R|Adj
+unsolidity	noun	un-|un|P ; solid|solid|R|Adj ; -ity|ity|S
+unsolvability	noun	un-|un|P ; solve|solv|R|V ; -able|abil|S ; -ity|ity|S
+unsonlike	adj	un-|un|P ; son|son|R|N ; -like|like|S
+unsonsy	adj	un-|un|P ; sonsy|sonsy|R|Adj
+unsoothed	adj	un-|un|P ; soothe|soothe|R|V ; -ed|d|S||-ed (adj)
+unsophistical	adj	un-|un|P ; sophist|sophist|R|N ; -ical|ical|S
+unsophisticatedly	adv	un-|un|P ; sophisticate|sophisticat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+unsophisticatedness	noun	un-|un|P ; sophisticate|sophisticat|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unsophistication	noun	un-|un|P ; sophisticate|sophisticat|R|V ; -ion|ion|S
+unsortable	adj	un-|un|P ; sort|sort|R|V ; -able|able|S
+unsounded	adj	un-|un|P ; sound|sound|R|V ; -ed|ed|S||-ed (adj)
+unsoundly	adv	un-|un|P ; sound|sound|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+unsoundness	noun	un-|un|P ; sound|sound|R|Adj ; -ness|ness|S
+unsoured	adj	un-|un|P ; sour|sour|R|V ; -ed|ed|S||-ed (adj)
+unsown	adj	un-|un|P ; sow|sown|R|V ; -en||I||-en (participle)
+unsparingly	adv	un-|un|P ; spare|spar|R|Adj ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+unsparingness	noun	un-|un|P ; spare|spar|R|Adj ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unspeakableness	noun	un-|un|P ; speak|speak|R|V ; -able|able|S ; -ness|ness|S
+unspecifiable	adj	un-|un|P ; specify|specifi|R|V ; -able|able|S
+unspectacled	adj	un-|un|P ; spectacle|spectacle|R|N ; -ed|d|S||-ed (adj)
+unspeculative	adj	un-|un|P ; speculate|speculat|R|V ; -ive|ive|S
+unspell	verb	un-|un|P ; spell|spell|R|V
+unsphere	verb	un-|un|P ; sphere|sphere|R|N
+unspiced	adj	un-|un|P ; spice|spice|R|V ; -ed|d|S||-ed (adj)
+unspilt	adj	un-|un|P ; spill|spilt|R|V ; -ed||I||-ed (v2)
+unspinnable	adj	un-|un|P ; spin|spinn|R|V ; -able|able|S
+unspiritual	adj	un-|un|P ; spirit|spirit|R|N ; -ual|ual|S
+unsplit	adj	un-|un|P ; split|split|R|V
+unspontaneous	adj	un-|un|P ; spontaneous|spontaneous|R|Adj
+unsporting	adj	un-|un|P ; sport|sport|R|V ; -ing|ing|S||-ing (adj)
+unspotted	adj	un-|un|P ; spot|spott|R|V ; -ed|ed|S||-ed (adj)
+unspottedness	noun	un-|un|P ; spot|spott|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unsprayed	adj	un-|un|P ; spray|spray|R|V ; -ed|ed|S||-ed (adj)
+unsprung	adj	un-|un|P ; spring|sprung|R|V ; -ed||I||-ed (v2)
+unsquared	adj	un-|un|P ; square|square|R|V ; -ed|d|S||-ed (adj)
+unsqueezed	adj	un-|un|P ; squeeze|squeeze|R|V ; -ed|d|S||-ed (adj)
+unstableness	noun	un-|un|P ; stable|stable|R|Adj ; -ness|ness|S
+unstably	adv	un-|un|P ; stable|stabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+unstamped	adj	un-|un|P ; stamp|stamp|R|V ; -ed|ed|S||-ed (adj)
+unstanched	adj	un-|un|P ; stanch|stanch|R|V ; -ed|ed|S||-ed (adj)
+unstarch	verb	un-|un|P ; starch|starch|R|V
+unstarched	adj	un-|un|P ; starch|starch|R|V ; -ed|ed|S||-ed (adj)
+unstate	verb	un-|un|P ; state|state|R|V
+unstatesmanlike	adj	un-|un|P ; statesman|statesman|R|N ; -like|like|S
+unstatutable	adj	un-|un|P ; statute|statut|R|N ; -able|able|S
+unstayed	adj	un-|un|P ; stay|stay|R|V ; -ed|ed|S||-ed (adj)
+unsteadfast	adj	un-|un|P ; steadfast|steadfast|R|Adj
+unsteadfastness	noun	un-|un|P ; steadfast|steadfast|R|Adj ; -ness|ness|S
+unsteel	verb	un-|un|P ; steel|steel|R|V
+unstep	verb	un-|un|P ; step|step|R|V
+unsterile	adj	un-|un|P ; sterile|sterile|R|Adj
+unsterilizable	adj	un-|un|P ; sterilize|steriliz|R|V ; -able|able|S
+unsterilized	adj	un-|un|P ; sterilize|steriliz|R|V ; -ed|ed|S||-ed (adj)
+unstick	verb	un-|un|P ; stick|stick|R|V
+unstiffen	verb	un-|un|P ; stiffen|stiffen|R|V
+unstimulated	adj	un-|un|P ; stimulate|stimulate|R|V ; -ed|d|S||-ed (adj)
+unstipulated	adj	un-|un|P ; stipulate|stipulate|R|V ; -ed|d|S||-ed (adj)
+unstirred	adj	un-|un|P ; stir|stirr|R|V ; -ed|ed|S||-ed (adj)
+unstitch	verb	un-|un|P ; stitch|stitch|R|V
+unstock	verb	un-|un|P ; stock|stock|R|V
+unstocked	adj	un-|un|P ; stock|stock|R|V ; -ed|ed|S||-ed (adj)
+unstop	verb	un-|un|P ; stop|stop|R|V
+unstopped	adj	un-|un|P ; stop|stopp|R|V ; -ed|ed|S||-ed (adj)
+unstopper	noun	un-|un|P ; stop|stopp|R|V ; -er|er|S||-er (N)

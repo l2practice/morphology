@@ -1,0 +1,150 @@
+mace	noun	=
+alabaster	noun	=
+libretto	noun	=
+omega	noun	=
+endocrine	adj	endo-|endo|B||||Greek endon 'within' ; -crine|crine|B|V|||Greek krinein 'to secrete'
+epsilon	noun	=
+impugn	verb	im-|im|P||||Latin in- 'against' ; -pugn|pugn|B|V|||Latin pugnare 'to fight'
+vestment	noun	=
+lactose	noun	lact-|lact|B|N|||Latin lac 'milk' ; -ose|ose|S||||Greek -ose 'sugar'
+cupola	noun	=
+excoriate	verb	=
+augmentation	noun	=
+autocracy	noun	auto-|auto|B||||Greek autos 'self' ; -cracy|cracy|B|N|||Greek kratos 'rule, power'
+thermonuclear	adj	thermo-|thermo|B||||Greek thermos 'hot' ; nuclear|nuclear|R|Adj
+sconce	noun	=
+torturer	noun	=
+invulnerable	adj	in-|in|P||||Latin in- 'not' ; -vuln-|vuln|B|N|||Latin vulnus 'wound' ; -erable|erable|S||||Latin -abilis 'able to be'
+fallacious	adj	=
+heckler	noun	=
+waif	noun	=
+surreptitious	adj	=
+studious	adj	=
+scurrilous	adj	=
+rhinoceros	noun	rhino-|rhino|B|N|||Greek rhis 'nose' ; -ceros|ceros|B|N|||Greek keras 'horn'
+fecundity	noun	=
+locomotion	noun	loco-|loco|B|N|||Latin locus 'place' ; motion|motion|R|N
+reliquary	noun	=
+interjection	noun	inter-|inter|P||||Latin inter 'between' ; -ject-|ject|B|V|||Latin jacere 'to throw' ; -ion|ion|S||||Latin -io 'act, state'
+capacious	adj	capac-|capac|B|V|||Latin capere 'to hold, take' ; -ious|ious|S||||Latin -iosus 'full of'
+obsidian	noun	=
+ornithologist	noun	=
+varicose	adj	=
+clitoris	noun	=
+torpor	noun	=
+iota	noun	=
+sternum	noun	=
+mullet	noun	=
+blasphemous	adj	=
+barnacle	noun	=
+tellin	noun	=
+vacillate	verb	=
+directorial	adj	=
+diagrammatic	adj	=
+lauder	noun	=
+aver	verb	a-|a|P||||Latin ad- 'to' ; -ver|ver|B|Adj|||Latin verus 'true'
+impure	adj	=
+gypsum	noun	=
+zoologist	noun	=
+terminator	noun	=
+seditious	adj	=
+conduction	noun	=
+miscellany	noun	=
+exultation	noun	=
+behaviorist	noun	=
+idolatry	noun	=
+aeon	noun	=
+ultramarine	noun	=
+photojournalist	noun	=
+foment	verb	=
+depreciate	verb	de-|de|P||||Latin de- 'down, away' ; -preci-|preci|B|N|||Latin pretium 'price' ; -ate|ate|S||||Latin -atus 'verb-forming'
+convalescence	noun	con-|con|P||||Latin con- 'together' ; -val-|val|B|V|||Latin valere 'to be strong' ; -escence|escence|S||||Latin -escentia 'becoming, state'
+cosmonaut	noun	cosmo-|cosmo|B|N|||Greek kosmos 'universe' ; -naut|naut|B|N|||Greek nautes 'sailor'
+bicep	noun	=
+pygmy	noun	=
+reinforcer	noun	=
+communicable	adj	=
+internationalist	noun	=
+certitude	noun	cert-|cert|B|Adj|||Latin certus 'sure, certain' ; -itude|itude|S||||Latin -itudo 'state, quality'
+tankard	noun	=
+sphinx	noun	=
+balsam	noun	=
+lentil	noun	=
+stolid	adj	=
+radicalize	verb	=
+annotation	noun	an-|an|P||||Latin ad- 'to' ; -not-|not|B|V|||Latin notare 'to note' ; -ation|ation|S||||Latin -atio 'act, process'
+ponderosa	noun	=
+atone	verb	=
+imminence	noun	=
+caramelize	verb	=
+plover	noun	=
+tipper	noun	=
+amoral	adj	=
+inquisitor	noun	=
+malfeasance	noun	mal-|mal|P||||Latin male 'badly, evil' ; -feas-|feas|B|V|||Latin facere 'to do, make' ; -ance|ance|S||||Latin -antia 'act, state'
+prevaricate	verb	prae-|pre|P||||Latin prae- 'before, in front' ; -varic-|varic|B|V|||Latin varicare 'to walk crookedly' ; -ate|ate|S||||Latin -atus 'verb-forming'
+concordance	noun	=
+nepotism	noun	=
+pillory	noun	=
+entomology	noun	entomo-|entomo|B|N|||Greek entomon 'insect' ; -logy|logy|B|N|||Greek logos 'study, word'
+jamb	noun	=
+vibrancy	noun	=
+countrywide	adj	=
+refutation	noun	=
+apotheosis	noun	apo-|apo|P||||Greek apo- 'from, away' ; -the-|the|B|N|||Greek theos 'god' ; -osis|osis|S||||Greek -osis 'process, state'
+etymology	noun	=
+deform	verb	=
+multifarious	adj	=
+recycler	noun	=
+aglow	adj	=
+mnemonic	adj	=
+floss	noun	=
+dysentery	noun	=
+occidental	adj	=
+triptych	noun	tri-|tri|P||||Greek tri- 'three' ; -ptych|ptych|B|N|||Greek ptykhe 'fold, layer'
+cohabitation	noun	=
+monad	noun	mono-|mon|B|Adj|||Greek monos 'single, alone' ; -ad|ad|S||||Greek -ad 'unit, group'
+firmament	noun	=
+codex	noun	=
+randomization	noun	=
+synergistic	adj	=
+evidentiary	adj	=
+acquisitive	adj	=
+infinitesimal	adj	=
+concubine	noun	con-|con|P||||Latin con- 'together' ; -cub-|cub|B|V|||Latin cubare 'to lie down' ; -ine|ine|S||||Latin -ina 'feminine suffix'
+synchronization	noun	=
+hitchhiker	noun	=
+nadir	noun	=
+filer	noun	=
+meteorology	noun	meteoro-|meteoro|B|N|||Greek meteora 'celestial phenomena' ; -logy|logy|B|N|||Greek logos 'study, word'
+cortina	noun	=
+arraign	verb	=
+tobacconist	noun	=
+cannery	noun	=
+cohabit	verb	=
+fantastical	adj	=
+appellation	noun	=
+quart	noun	=
+despotic	adj	=
+cranium	noun	crani-|crani|B|N|||Greek kranion 'skull' ; -um|um|S||||Latin -um 'neuter suffix'
+dynamically	adv	=
+cervix	noun	=
+cursive	adj	curs-|curs|B|V|||Latin currere 'to run' ; -ive|ive|S||||Latin -ivus 'tending to'
+pharmacology	noun	pharmaco-|pharmaco|B|N|||Greek pharmakon 'drug, medicine' ; -logy|logy|B|N|||Greek logos 'study, word'
+subcutaneous	adj	sub-|sub|P||||Latin sub- 'under' ; -cut-|cut|B|N|||Latin cutis 'skin' ; -aneous|aneous|S||||Latin -aneus 'pertaining to'
+demonstrative	adj	=
+comport	verb	com-|com|P||||Latin com- 'together' ; -port|port|B|V|||Latin portare 'to carry'
+stimulator	noun	=
+refrigerant	noun	re-|re|P||||Latin re- 'again, back' ; -friger-|friger|B|V|||Latin frigerare 'to cool' ; -ant|ant|S||||Latin -ans 'agent, -ing'
+acacia	noun	=
+emancipate	verb	=
+torturous	adj	=
+crooner	noun	=
+recuse	verb	=
+kinetics	noun	kinet-|kinet|B|V|||Greek kinein 'to move' ; -ics|ics|S||||Greek -ika 'study, art'
+icebox	noun	=
+fonda	noun	=
+alms	noun	=
+juridical	adj	=
+coronal	adj	coron-|coron|B|N|||Latin corona 'crown' ; -al|al|S||||Latin -alis 'pertaining to'
+femoral	adj	femor-|femor|B|N|||Latin femur 'thigh' ; -al|al|S||||Latin -alis 'pertaining to'

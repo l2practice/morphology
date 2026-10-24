@@ -1,0 +1,200 @@
+modem	noun	modem|modem|R|N
+lexical	adj	lexical|lexical|R|Adj
+mucosa	noun	mucosa|mucosa|R|N
+conceptual	adj	concept|concept|R|N ; -ual|ual|S
+yo	interj	yo|yo|R
+pylorus	noun	pylorus|pylorus|R|N
+technically	adv	technical|technical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+visa	noun	visa|visa|R|N
+whatsoever	pron	what|what|R ; so|so|R ; ever|ever|R
+coincidence	noun	co-|co|P ; incidence|incidence|R|N
+overhead	noun	over|over|R ; head|head|R|N
+eve	noun	eve|eve|R|N
+goose	noun	goose|goose|R|N
+demolish	verb	demolish|demolish|R|V
+fireplace	noun	fire|fire|R|N ; place|place|R|N
+peach	noun	peach|peach|R|N
+summarize	verb	summary|summari|R|N ; -ize|ze|S
+nurture	verb	nurture|nurture|R|V
+tread	verb	tread|tread|R|V
+scrap	noun	scrap|scrap|R|N
+vivid	adj	vivid|vivid|R|Adj
+warden	noun	warden|warden|R|N
+frightening	adj	fright|fright|R|N ; -en|en|S ; -ing|ing|S||-ing (adj)
+promptly	adv	prompt|prompt|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+poison	noun	poison|poison|R|N
+indulge	verb	indulge|indulge|R|V
+disguise	verb	dis-|dis|P ; guise|guise|R|N
+repeated	adj	repeat|repeat|R|V ; -ed|ed|S||-ed (adj)
+privileged	adj	privilege|privileg|R|N ; -ed|ed|S||-ed (adj)
+flourish	verb	flourish|flourish|R|V
+rocky	adj	rock|rock|R|N ; -y|y|S
+umbrella	noun	umbrella|umbrella|R|N
+smoothly	adv	smooth|smooth|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+enjoyment	noun	enjoy|enjoy|R|V ; -ment|ment|S
+attachment	noun	attach|attach|R|V ; -ment|ment|S
+underneath	prep	underneath|underneath|R
+batch	noun	batch|batch|R|N
+spider	noun	spider|spider|R|N
+labourer	noun	labour|labour|R|N ; -er|er|S||-er (N)
+obsession	noun	obsess|obsess|R|V ; -ion|ion|S
+problematic	adj	problematic|problematic|R|Adj
+vigorous	adj	vigor|vigor|R|N ; -ous|ous|S
+nutrition	noun	nutrition|nutrition|R|N
+pillar	noun	pillar|pillar|R|N
+obscure	adj	obscure|obscure|R|Adj
+accepted	adj	accept|accept|R|V ; -ed|ed|S||-ed (adj)
+melody	noun	melody|melody|R|N
+restrain	verb	re-|re|P ; strain|strain|R|V
+paradise	noun	paradise|paradise|R|N
+eventual	adj	event|event|R|N ; -ual|ual|S
+physicist	noun	physics|physic|R|N ; -ist|ist|S
+duly	adv	due|du|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+maple	noun	maple|maple|R|N
+controlled	adj	control|controll|R|V ; -ed|ed|S||-ed (adj)
+memoir	noun	memoir|memoir|R|N
+salesman	noun	sales|sales|R|N ; man|man|R|N
+cultivate	verb	cultivate|cultivate|R|V
+agony	noun	agony|agony|R|N
+waiting	noun	wait|wait|R|V ; -ing|ing|S||-ing (N)
+inject	verb	inject|inject|R|V
+microphone	noun	micro-|micro|P ; phone|phone|R|N
+bracket	noun	bracket|bracket|R|N
+goodbye	interj	good|good|R|Adj ; bye|bye|R|N
+realization	noun	real|real|R|Adj ; -ize|iz|S ; -ation|ation|S
+aluminium	noun	aluminium|aluminium|R|N
+meadow	noun	meadow|meadow|R|N
+unreasonable	adj	un-|un|P ; reason|reason|R|V ; -able|able|S
+cherry	noun	cherry|cherry|R|N
+eldest	adj	eldest|eldest|R|Adj
+defy	verb	defy|defy|R|V
+unwilling	adj	un-|un|P ; will|will|R|V ; -ing|ing|S||-ing (adj)
+magical	adj	magic|magic|R|N ; -al|al|S
+plug	noun	plug|plug|R|N
+reconcile	verb	reconcile|reconcile|R|V
+nicely	adv	nice|nice|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+wallet	noun	wallet|wallet|R|N
+uneasy	adj	un-|un|P ; easy|easy|R|Adj
+lunchtime	noun	lunch|lunch|R|N ; time|time|R|N
+fundamentally	adv	fundamental|fundamental|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+accord	verb	accord|accord|R|V
+heap	noun	heap|heap|R|N
+wildly	adv	wild|wild|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+axis	noun	axis|axis|R|N
+bundle	noun	bundle|bundle|R|N
+applause	noun	applause|applause|R|N
+spontaneous	adj	spontaneous|spontaneous|R|Adj
+reluctantly	adv	reluctant|reluctant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+suitcase	noun	suit|suit|R|N ; case|case|R|N
+evenly	adv	even|even|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+vaguely	adv	vague|vague|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+clearance	noun	clear|clear|R|Adj ; -ance|ance|S
+unusually	adv	un-|un|P ; usual|usual|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+financing	noun	finance|financ|R|V ; -ing|ing|S||-ing (N)
+reluctance	noun	reluctance|reluctance|R|N
+presently	adv	present|present|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+admiration	noun	admire|admir|R|V ; -ation|ation|S
+fried	adj	fry|fri|R|V ; -ed|ed|S||-ed (adj)
+simplicity	noun	simplicity|simplicity|R|N
+disappointing	adj	dis-|dis|P ; appoint|appoint|R|V ; -ing|ing|S||-ing (adj)
+quantum	noun	quantum|quantum|R|N
+con	noun	con|con|R|N
+picnic	noun	picnic|picnic|R|N
+mighty	adj	might|might|R|N ; -y|y|S
+heath	noun	heath|heath|R|N
+gardening	noun	garden|garden|R|V ; -ing|ing|S||-ing (N)
+nationalism	noun	nation|nation|R|N ; -al|al|S ; -ism|ism|S
+eternal	adj	eternal|eternal|R|Adj
+feast	noun	feast|feast|R|N
+indictment	noun	indict|indict|R|V ; -ment|ment|S
+mould	noun	mould|mould|R|N
+dairy	noun	dairy|dairy|R|N
+interpreter	noun	interpret|interpret|R|V ; -er|er|S||-er (N)
+morale	noun	morale|morale|R|N
+collision	noun	collide|collis|R|V ; -ion|ion|S
+dash	noun	dash|dash|R|N
+verify	verb	verify|verify|R|V
+encompass	verb	en-|en|P ; compass|compass|R|V
+rude	adj	rude|rude|R|Adj
+clan	noun	clan|clan|R|N
+agreed	adj	agree|agre|R|V ; -ed|ed|S||-ed (adj)
+diplomacy	noun	diplomacy|diplomacy|R|N
+mat	noun	mat|mat|R|N
+spice	noun	spice|spice|R|N
+skillet	noun	skillet|skillet|R|N
+fairy	noun	fairy|fairy|R|N
+hop	verb	hop|hop|R|V
+bitch	noun	bitch|bitch|R|N
+peat	noun	peat|peat|R|N
+unsuccessful	adj	un-|un|P ; success|success|R|N ; -ful|ful|S
+imaginative	adj	imagine|imagin|R|V ; -ative|ative|S
+instrumental	adj	instrument|instrument|R|N ; -al|al|S
+aftermath	noun	after|after|R ; math|math|R|N
+wartime	noun	war|war|R|N ; time|time|R|N
+astronaut	noun	astronaut|astronaut|R|N
+prolonged	adj	pro-|pro|P ; long|long|R|Adj ; -ed|ed|S||-ed (adj)
+outset	noun	out|out|R ; set|set|R|V
+crust	noun	crust|crust|R|N
+prestige	noun	prestige|prestige|R|N
+altar	noun	altar|altar|R|N
+flu	noun	flu|flu|R|N
+sausage	noun	sausage|sausage|R|N
+notify	verb	note|not|R|N ; -ify|ify|S
+millennium	noun	millennium|millennium|R|N
+lieutenant	noun	lieutenant|lieutenant|R|N
+mosquito	noun	mosquito|mosquito|R|N
+reasoning	noun	reason|reason|R|V ; -ing|ing|S||-ing (N)
+listing	noun	list|list|R|V ; -ing|ing|S||-ing (N)
+applied	adj	apply|appli|R|V ; -ed|ed|S||-ed (adj)
+intimacy	noun	intimacy|intimacy|R|N
+pottery	noun	pot|pot|R|N ; -er|ter|S||-er (N) ; -y|y|S
+nationality	noun	nation|nation|R|N ; -al|al|S ; -ity|ity|S
+thoughtful	adj	thought|thought|R|N ; -ful|ful|S
+trench	noun	trench|trench|R|N
+vine	noun	vine|vine|R|N
+absurd	adj	absurd|absurd|R|Adj
+principally	adv	principal|principal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+simulation	noun	simulate|simulat|R|V ; -ion|ion|S
+disruption	noun	disrupt|disrupt|R|V ; -ion|ion|S
+awaken	verb	a-|a|P ; waken|waken|R|V
+linen	noun	linen|linen|R|N
+indirectly	adv	in-|in|P ; direct|direct|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+strangely	adv	strange|strange|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+outrage	noun	out|out|R ; rage|rage|R|N
+constrain	verb	con-|con|P ; strain|strain|R|V
+nun	noun	nun|nun|R|N
+shaw	noun	shaw|shaw|R|N
+broth	noun	broth|broth|R|N
+optional	adj	option|option|R|N ; -al|al|S
+shilling	noun	shilling|shilling|R|N
+aloud	adv	a-|a|P ; loud|loud|R|Adj
+puzzled	adj	puzzle|puzzl|R|V ; -ed|ed|S||-ed (adj)
+dangle	verb	dangle|dangle|R|V
+cigar	noun	cigar|cigar|R|N
+jealous	adj	jealous|jealous|R|Adj
+haven	noun	haven|haven|R|N
+rainbow	noun	rain|rain|R|N ; bow|bow|R|N
+offset	noun	off|off|R ; set|set|R|V
+constructive	adj	con-|con|P ; -struct|struct|B|V ; -ive|ive|S
+complement	noun	complement|complement|R|N
+jerk	noun	jerk|jerk|R|N
+vicar	noun	vicar|vicar|R|N
+competing	adj	compete|compet|R|V ; -ing|ing|S||-ing (adj)
+mob	noun	mob|mob|R|N
+recreation	noun	re-|re|P ; create|creat|R|V ; -ion|ion|S
+enthusiast	noun	enthusiast|enthusiast|R|N
+liquor	noun	liquor|liquor|R|N
+packaging	noun	package|packag|R|V ; -ing|ing|S||-ing (N)
+accountable	adj	account|account|R|N ; -able|able|S
+affirm	verb	af-|af|P|||ad- ; firm|firm|R|Adj
+sip	verb	sip|sip|R|V
+sailing	noun	sail|sail|R|V ; -ing|ing|S||-ing (N)
+drainage	noun	drain|drain|R|V ; -age|age|S
+span	noun	span|span|R|N
+lifelong	adj	life|life|R|N ; long|long|R|Adj
+restricted	adj	restrict|restrict|R|V ; -ed|ed|S||-ed (adj)
+linger	verb	linger|linger|R|V
+applaud	verb	applaud|applaud|R|V
+gloom	noun	gloom|gloom|R|N
+stabilize	verb	stable|stabil|R|Adj ; -ize|ize|S
+chimney	noun	chimney|chimney|R|N

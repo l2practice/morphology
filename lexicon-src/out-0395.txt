@@ -1,0 +1,200 @@
+symptomatologic	noun	symptomatology|symptomatolog|R|N ; -ic|ic|S
+symptomatological	adj	symptomatology|symptomatolog|R|N ; -ical|ical|S
+synaeresis	noun	synaeresis|synaeresis|R|N
+synaesthesia	noun	synaesthesia|synaesthesia|R|N
+synaesthete	noun	synaesthete|synaesthete|R|N
+synagogal	adj	synagogue|synagog|R|N ; -al|al|S
+synagogical	adj	synagogue|synagog|R|N ; -ical|ical|S
+synalepha	noun	synalepha|synalepha|R|N
+synallagmatic	adj	synallagmatic|synallagmatic|R|Adj
+synanthropic	adj	synanthropic|synanthropic|R|Adj
+synapsis	noun	synapsis|synapsis|R|N
+synaptically	adv	synaptic|synaptic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+synarchy	noun	synarchy|synarchy|R|N
+synarthrosis	noun	synarthrosis|synarthrosis|R|N
+syncarp	noun	syncarp|syncarp|R|N
+syncarpium	noun	syncarpium|syncarpium|R|N
+syncarpous	adj	syncarp|syncarp|R|N ; -ous|ous|S
+syncarpy	noun	syncarp|syncarp|R|N ; -y|y|S
+syncategorematic	adj	syncategorematic|syncategorematic|R|Adj
+synchrocyclotron	noun	synchrocyclotron|synchrocyclotron|R|N
+synchroflash	noun	synchroflash|synchroflash|R|N
+synchromesh	noun	synchromesh|synchromesh|R|N
+synchronism	noun	synchronous|synchron|R|Adj ; -ism|ism|S
+synchroscope	noun	synchroscope|synchroscope|R|N
+synchysis	noun	synchysis|synchysis|R|N
+synclinal	adj	syncline|synclin|R|N ; -al|al|S
+syncline	noun	syncline|syncline|R|N
+synclinorium	noun	synclinorium|synclinorium|R|N
+syncopic	adj	syncope|syncop|R|N ; -ic|ic|S
+syncoptic	adj	syncoptic|syncoptic|R|Adj
+syncretist	noun	syncretist|syncretist|R|N
+syncretize	verb	syncretize|syncretize|R|V
+syncytial	adj	syncytium|syncyti|R|N ; -al|al|S
+syncytiotrophoblast	noun	syncytiotrophoblast|syncytiotrophoblast|R|N
+syncytium	noun	syncytium|syncytium|R|N
+syndactylism	noun	syndactyly|syndactyl|R|N ; -ism|ism|S
+syndactylous	adj	syndactyly|syndactyl|R|N ; -ous|ous|S
+syndactyly	noun	syndactyly|syndactyly|R|N
+syndesis	noun	syndesis|syndesis|R|N
+syndesmosis	noun	syndesmosis|syndesmosis|R|N
+syndesmotic	adj	syndesmosis|syndesmot|R|N ; -ic|ic|S
+syndetic	adj	syndetic|syndetic|R|Adj
+syndetically	adv	syndetic|syndetic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+syndic	noun	syndic|syndic|R|N
+syndical	adj	syndic|syndic|R|N ; -al|al|S
+syndromic	adj	syndrome|syndrom|R|N ; -ic|ic|S
+synecdochic	adj	synecdoche|synecdoch|R|N ; -ic|ic|S
+synecdochical	adj	synecdoche|synecdoch|R|N ; -ical|ical|S
+synecdochically	adv	synecdochic|synecdochic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+synecologic	adj	synecology|synecolog|R|N ; -ic|ic|S
+synecological	adj	synecology|synecolog|R|N ; -ical|ical|S
+synecology	noun	synecology|synecology|R|N
+synergetic	adj	synergetic|synergetic|R|Adj
+synergic	adj	synergy|synerg|R|N ; -ic|ic|S
+synergist	noun	synergy|synerg|R|N ; -ist|ist|S
+synesis	noun	synesis|synesis|R|N
+syngamy	noun	syngamy|syngamy|R|N
+syngenesis	noun	syngenesis|syngenesis|R|N
+syngenetic	adj	syngenesis|syngenet|R|N ; -ic|ic|S
+synizesis	noun	synizesis|synizesis|R|N
+synkaryon	noun	synkaryon|synkaryon|R|N
+synodal	adj	synod|synod|R|N ; -al|al|S
+synodical	adj	synod|synod|R|N ; -ical|ical|S
+synoecious	adj	synoecious|synoecious|R|Adj
+synoekete	noun	synoekete|synoekete|R|N
+synonymic	adj	synonym|synonym|R|N ; -ic|ic|S
+synonymical	adj	synonym|synonym|R|N ; -ical|ical|S
+synonymically	adv	synonymic|synonymic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+synonymist	noun	synonym|synonym|R|N ; -ist|ist|S
+synonymity	noun	synonym|synonym|R|N ; -ity|ity|S
+synonymize	verb	synonym|synonym|R|N ; -ize|ize|S
+synonymy	noun	synonym|synonym|R|N ; -y|y|S
+synoptical	adj	synoptic|synoptic|R|Adj ; -al|al|S
+synoptically	adv	synoptic|synoptic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+synoptist	noun	synopsis|synopt|R|N ; -ist|ist|S
+synovia	noun	synovia|synovia|R|N
+synovitis	noun	synovitis|synovitis|R|N
+syntactician	noun	syntactic|syntact|R|Adj ; -ian|ician|S
+syntactics	noun	syntactics|syntactics|R|N
+syntagma	noun	syntagma|syntagma|R|N
+synthesist	noun	synthesis|synthes|R|N ; -ist|ist|S
+synthesizing	verb	synthesize|synthesiz|R|V ; -ing|ing|I||-ing (v)
+synthetase	noun	synthetase|synthetase|R|N
+synthetical	adj	synthetic|synthetic|R|Adj ; -al|al|S
+synthetist	noun	synthetic|synthet|R|Adj ; -ist|ist|S
+synthetize	verb	synthetic|synthet|R|Adj ; -ize|ize|S
+syntonic	adj	syntony|synton|R|N ; -ic|ic|S
+syntonization	noun	syntonize|syntoniz|R|V ; -ation|ation|S
+syntonize	verb	syntony|synton|R|N ; -ize|ize|S
+syntony	noun	syntony|syntony|R|N
+syphiloid	adj	syphiloid|syphiloid|R|Adj
+syphilologist	noun	syphilology|syphilolog|R|N ; -ist|ist|S
+syphilology	noun	syphilology|syphilology|R|N
+syphiloma	noun	syphiloma|syphiloma|R|N
+syphilous	adj	syphilis|syphil|R|N ; -ous|ous|S
+syringa	noun	syringa|syringa|R|N
+syringeal	adj	syringeal|syringeal|R|Adj
+syringomyelia	noun	syringomyelia|syringomyelia|R|N
+syringomyelic	adj	syringomyelia|syringomyel|R|N ; -ic|ic|S
+syringotomy	noun	syringotomy|syringotomy|R|N
+syrinx	noun	syrinx|syrinx|R|N
+sysadmin	noun	sysadmin|sysadmin|R|N
+sysop	noun	sysop|sysop|R|N
+systaltic	adj	systaltic|systaltic|R|Adj
+systematical	adj	systematic|systematic|R|Adj ; -al|al|S
+systematism	noun	systematic|systemat|R|Adj ; -ism|ism|S
+systematist	noun	systematic|systemat|R|Adj ; -ist|ist|S
+systematizer	noun	systematize|systematiz|R|V ; -er|er|S||-er (N)
+systematizing	verb	systematize|systematiz|R|V ; -ing|ing|I||-ing (v)
+systematology	noun	systematology|systematology|R|N
+systemization	noun	systemize|systemiz|R|V ; -ation|ation|S
+systemize	verb	system|system|R|N ; -ize|ize|S
+systemless	adj	system|system|R|N ; -less|less|S
+systyle	noun	systyle|systyle|R|N
+systylous	adj	systylous|systylous|R|Adj
+syzygium	noun	syzygium|syzygium|R|N
+syzygy	noun	syzygy|syzygy|R|N
+szlachcic	noun	szlachcic|szlachcic|R|N
+tabaret	noun	tabaret|tabaret|R|N
+tabasco	noun	tabasco|tabasco|R
+tabefy	verb	tabefy|tabefy|R|V
+tabes	noun	tabes|tabes|R|N
+tabescence	noun	tabescence|tabescence|R|N
+tabescent	adj	tabescent|tabescent|R|Adj
+tabetic	adj	tabetic|tabetic|R|Adj
+tabid	adj	tabid|tabid|R|Adj
+tabinet	noun	tabinet|tabinet|R|N
+tableful	noun	table|table|R|N ; -ful|ful|S
+tables	noun	table|table|R|N ; -s|s|I||-s (plural)
+tablier	noun	tablier|tablier|R|N
+tabling	verb	table|tabl|R|V ; -ing|ing|I||-ing (v)
+tabooed	verb	taboo|taboo|R|V ; -ed|ed|I||-ed (v2)
+tabooing	verb	taboo|taboo|R|V ; -ing|ing|I||-ing (v)
+taboret	noun	taboret|taboret|R|N
+tabula	noun	tabula|tabula|R|N
+tabularize	verb	tabular|tabular|R|Adj ; -ize|ize|S
+tabulator	noun	tabulate|tabulat|R|V ; -or|or|S
+tache	noun	tache|tache|R|N
+tachistoscope	noun	tachistoscope|tachistoscope|R|N
+tachograph	noun	tachograph|tachograph|R|N
+tachometry	noun	tachometer|tachometr|R|N ; -y|y|S
+tachygraphy	noun	tachygraphy|tachygraphy|R|N
+tachymeter	noun	tachymeter|tachymeter|R|N
+tachymetric	adj	tachymeter|tachymetr|R|N ; -ic|ic|S
+tachymetry	noun	tachymeter|tachymetr|R|N ; -y|y|S
+tackily	adv	tacky|tacki|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+tackled	verb	tackle|tackl|R|V ; -ed|ed|I||-ed (v2)
+tactics	noun	tactics|tactics|R|N
+taction	noun	tact|tact|R|N ; -ion|ion|S
+tadalafil	noun	tadalafil|tadalafil|R|N
+tadbhava	noun	tadbhava|tadbhava|R|N
+taekwondoka	noun	taekwondoka|taekwondoka|R|N
+tael	noun	tael|tael|R|N
+taenia	noun	taenia|taenia|R|N
+taenicide	noun	taenicide|taenicide|R|N
+taenifuge	noun	taenifuge|taenifuge|R|N
+tafferel	noun	tafferel|tafferel|R|N
+taffrail	noun	taffrail|taffrail|R|N
+tafsir	noun	tafsir|tafsir|R|N
+tagasaste	noun	tagasaste|tagasaste|R|N
+tagetes	noun	tagetes|tagetes|R|N
+taglierini	noun	taglierini|taglierini|R|N
+tagmeme	noun	tagmeme|tagmeme|R|N
+tahdig	noun	tahdig|tahdig|R|N
+tahr	noun	tahr|tahr|R|N
+taikonaut	noun	taikonaut|taikonaut|R|N
+tailfeather	noun	tail|tail|R|N ; feather|feather|R|N
+tailings	noun	tail|tail|R|V ; -ing|ing|S||-ing (N) ; -s|s|I||-s (plural)
+tailorbird	noun	tailor|tailor|R|N ; bird|bird|R|N
+tailoress	noun	tailor|tailor|R|N ; -ess|ess|S
+tails	noun	tail|tail|R|N ; -s|s|I||-s (plural)
+tailstock	noun	tail|tail|R|N ; stock|stock|R|N
+taimen	noun	taimen|taimen|R|N
+taipan	noun	taipan|taipan|R|N
+tajine	noun	tajine|tajine|R|N
+tajwid	noun	tajwid|tajwid|R|N
+taka	noun	taka|taka|R|N
+takbir	noun	takbir|takbir|R|N
+takeout	noun	take|take|R|V ; out|out|R|Adv
+takhtrawan	noun	takhtrawan|takhtrawan|R|N
+takin	noun	takin|takin|R|N
+takoyaki	noun	takoyaki|takoyaki|R|N
+takuan	noun	takuan|takuan|R|N
+takya	noun	takya|takya|R|N
+talaje	noun	talaje|talaje|R|N
+talapoin	noun	talapoin|talapoin|R|N
+talaq	noun	talaq|talaq|R|N
+talari	noun	talari|talari|R|N
+talaria	noun	talaria|talaria|R|N
+talbot	noun	talbot|talbot|R|N
+talcoid	adj	talcoid|talcoid|R|Adj
+talcose	adj	talcose|talcose|R|Adj
+talcous	adj	talc|talc|R|N ; -ous|ous|S
+talebearer	noun	tale|tale|R|N ; bear|bear|R|V ; -er|er|S||-er (N)
+talebearing	adj	tale|tale|R|N ; bear|bear|R|V ; -ing|ing|S||-ing (adj)
+talecarrier	noun	tale|tale|R|N ; carry|carri|R|V ; -er|er|S||-er (N)
+talemonger	noun	tale|tale|R|N ; monger|monger|R|N
+talentlessness	noun	talent|talent|R|N ; -less|less|S ; -ness|ness|S
+tales	noun	tale|tale|R|N ; -s|s|I||-s (plural)
+talesman	noun	tale|tales|R|N ; man|man|R|N

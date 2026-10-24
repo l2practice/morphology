@@ -1,2 +1,260 @@
 de	?	?	# Muse marked as non-word
-presidential	adj	president|presidenti|R|N ; -al|al|S	# m0: stem "president" is spelled "presidenti" before -al (irregular stem change: fossilised? keep the word as one morpheme)
+written	adj	write|writt|R|V ; -en|en|I||-en (participle)	# m0: stem "write" is spelled "writt" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+imperial	adj	empire|imperi|R|N ; -al|al|S	# m0: stem "empire" is spelled "imperi" before -al (irregular stem change: fossilised? keep the word as one morpheme)
+underlying	adj	under-|under|P ; lie|ly|R|V ; -ing|ing|S||-ing (adj)	# m1: stem "lie" is spelled "ly" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
+re	?	?	# Muse marked as non-word
+dying	adj	die|dy|R|V ; -ing|ing|S||-ing (adj)	# m0: stem "die" is spelled "dy" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
+laundry	noun	launder|laundr|R|V ; -y|y|S	# m0: stem "launder" is spelled "laundr" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+ninth	adj	nine|nin|R ; -th|th|S	# m0: -th only on an unchanged base
+literacy	noun	literate|literac|R|Adj ; -y|y|S	# m0: stem "literate" is spelled "literac" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+clarity	noun	clear|clar|R|Adj ; -ity|ity|S	# m0: stem "clear" is spelled "clar" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+paid	adj	pay|paid|R|V ; -ed||S||-ed (adj)	# m1: empty surface
+beneficiary	noun	benefit|benefici|R|N ; -ary|ary|S	# m0: stem "benefit" is spelled "benefici" before -ary (irregular stem change: fossilised? keep the word as one morpheme)
+spoken	adj	speak|spok|R|V ; -en|en|I||-en (participle)	# m0: stem "speak" is spelled "spok" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+provocative	adj	provoke|provoc|R|V ; -ative|ative|S	# m0: stem "provoke" is spelled "provoc" before -ative (irregular stem change: fossilised? keep the word as one morpheme)
+exemplify	verb	example|exempl|R|N ; -ify|ify|S	# m0: stem "example" is spelled "exempl" before -ify (irregular stem change: fossilised? keep the word as one morpheme)
+inadequacy	noun	in-|in|P ; adequate|adequac|R|Adj ; -y|y|S	# m1: stem "adequate" is spelled "adequac" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+fiery	adj	fire|fier|R|N ; -y|y|S	# m0: stem "fire" is spelled "fier" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+atrocity	noun	atrocious|atroc|R|Adj ; -ity|ity|S	# m0: stem "atrocious" is spelled "atroc" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+instalment	noun	install|instal|R|V ; -ment|ment|S	# m0: stem "install" is spelled "instal" before -ment (irregular stem change: fossilised? keep the word as one morpheme)
+registry	noun	register|regist|R|V ; -ry|ry|S	# m0: stem "register" is spelled "regist" before -ry (irregular stem change: fossilised? keep the word as one morpheme)
+skilful	adj	skill|skil|R|N ; -ful|ful|S	# m0: stem "skill" is spelled "skil" before -ful (irregular stem change: fossilised? keep the word as one morpheme)
+repetitive	adj	repeat|repet|R|V ; -itive|itive|S	# m0: stem "repeat" is spelled "repet" before -itive (irregular stem change: fossilised? keep the word as one morpheme)
+trafficking	noun	traffic|traffick|R|N ; -ing|ing|S||-ing (N)	# m0: stem "traffic" is spelled "traffick" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
+bitten	adj	bite|bitt|R|V ; -en|en|I||-en (participle)	# m0: stem "bite" is spelled "bitt" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+exemplary	adj	example|exempl|R|N ; -ary|ary|S	# m0: stem "example" is spelled "exempl" before -ary (irregular stem change: fossilised? keep the word as one morpheme)
+unspoken	adj	un-|un|P ; speak|spok|R|V ; -en|en|I||-en (participle)	# m1: stem "speak" is spelled "spok" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+ancestry	noun	ancestor|ancestr|R|N ; -y|y|S	# m0: stem "ancestor" is spelled "ancestr" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+trafficker	noun	traffic|traffick|R|N ; -er|er|S||-er (N)	# m0: stem "traffic" is spelled "traffick" before -er (irregular stem change: fossilised? keep the word as one morpheme)
+stricken	adj	strike|strick|R|V ; -en|en|I||-en (participle)	# m0: stem "strike" is spelled "strick" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+unbroken	adj	un-|un|P ; break|brok|R|V ; -en|en|I||-en (participle)	# m1: stem "break" is spelled "brok" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+skilfully	adv	skill|skil|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)	# m0: stem "skill" is spelled "skil" before -ful (irregular stem change: fossilised? keep the word as one morpheme)
+der	?	?	# Muse marked as non-word
+handwritten	adj	hand|hand|R|N ; write|writt|R|V ; -en|en|I||-en (participle)	# m1: stem "write" is spelled "writt" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+molten	adj	melt|molt|R|V ; -en|en|I||-en (participle)	# m0: stem "melt" is spelled "molt" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+wi	?	?	# Muse marked as non-word
+outlying	adj	out-|out|P ; lie|ly|R|V ; -ing|ing|S||-ing (adj)	# m1: stem "lie" is spelled "ly" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
+wilful	adj	will|wil|R|N ; -ful|ful|S	# m0: stem "will" is spelled "wil" before -ful (irregular stem change: fossilised? keep the word as one morpheme)
+ferocity	noun	ferocious|feroc|R|Adj ; -ity|ity|S	# m0: stem "ferocious" is spelled "feroc" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+lying	verb	lie|ly|R|V ; -ing|ing|I||-ing (v)	# m0: stem "lie" is spelled "ly" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
+tenacity	noun	tenacious|tenac|R|Adj ; -ity|ity|S	# m0: stem "tenacious" is spelled "tenac" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+inquisitive	adj	inquire|inquis|R|V ; -itive|itive|S	# m0: stem "inquire" is spelled "inquis" before -itive (irregular stem change: fossilised? keep the word as one morpheme)
+brazen	adj	brass|braz|R|N ; -en|en|S	# m0: stem "brass" is spelled "braz" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+unwritten	adj	un-|un|P ; write|writt|R|V ; -en|en|S	# m1: stem "write" is spelled "writt" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+unspoilt	adj	un-|un|P ; spoil|spoilt|R|V ; -ed||S||-ed (adj)	# m2: empty surface
+und	?	?	# Muse marked as non-word
+vengeful	adj	vengeance|venge|R|N ; -ful|ful|S	# m0: stem "vengeance" is spelled "venge" before -ful (irregular stem change: fossilised? keep the word as one morpheme)
+ne	?	?	# Muse marked as non-word
+ju	?	?	# Muse marked as non-word
+hir	?	?	# Muse marked as non-word
+qt	?	?	# Muse marked as non-word
+yu	?	?	# Muse marked as non-word
+mth	?	?	# Muse marked as non-word
+gutsy	adj	gut|guts|R|N ; -y|y|S	# m0: stem "gut" is spelled "guts" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+rever	?	?	# Muse marked as non-word
+panicky	adj	panic|panick|R|N ; -y|y|S	# m0: stem "panic" is spelled "panick" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+wintry	adj	winter|wintr|R|N ; -y|y|S	# m0: stem "winter" is spelled "wintr" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+thirtieth	adj	thirty|thirti|R|Adj ; -th|eth|S	# m0: -th only on an unchanged base
+shrunken	adj	shrink|shrunk|R|V ; -en|en|I||-en (participle)	# m0: stem "shrink" is spelled "shrunk" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+carpentry	noun	carpenter|carpentr|R|N ; -y|y|S	# m0: stem "carpenter" is spelled "carpentr" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+tying	verb	tie|ty|R|V ; -ing|ing|I||-ing (v)	# m0: stem "tie" is spelled "ty" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
+hilarity	noun	hilarious|hilar|R|Adj ; -ity|ity|S	# m0: stem "hilarious" is spelled "hilar" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+kindergartner	noun	kindergarten|kindergartn|R|N ; -er|er|S||-er (N)	# m0: stem "kindergarten" is spelled "kindergartn" before -er (irregular stem change: fossilised? keep the word as one morpheme)
+dispiriting	adj	dis-|dis|P ; spirit|pirit|R|N ; -ing|ing|S||-ing (adj)	# m1: stem "spirit" is spelled "pirit" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
+que	?	?	# Muse marked as non-word
+crummy	adj	crumb|crum|R|N ; -y|my|S	# m0: stem "crumb" is spelled "crum" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+provocatively	adv	provoke|provoc|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)	# m0: stem "provoke" is spelled "provoc" before -ative (irregular stem change: fossilised? keep the word as one morpheme)
+indeterminacy	noun	in-|in|P ; determinate|determinac|R|Adj ; -y|y|S	# m1: stem "determinate" is spelled "determinac" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+fortieth	adj	forty|forti|R|N ; -th|eth|S	# m0: -th only on an unchanged base
+undying	adj	un-|un|P ; die|dy|R|V ; -ing|ing|S||-ing (adj)	# m1: stem "die" is spelled "dy" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
+viv	?	?	# Muse marked as non-word
+typewritten	adj	type|type|R|N ; write|writt|R|V ; -en|en|I||-en (participle)	# m1: stem "write" is spelled "writt" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+doublet	noun	double|doubl|R|Adj ; -et|et|S	# m1: suffix -et is not on the allowed list
+antacid	noun	ant-|ant|P|||anti- ; acid|acid|R|N	# m0: prefix ant- is not on the allowed list
+thievery	noun	thief|thiev|R|N ; -ery|ery|S	# m0: stem "thief" is spelled "thiev" before -ery (irregular stem change: fossilised? keep the word as one morpheme)
+overlying	verb	over-|over|P ; lie|ly|R|V ; -ing|ing|I||-ing (v)	# m1: stem "lie" is spelled "ly" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
+overabundance	noun	over-|over|P ; abound|abund|R|V ; -ance|ance|S	# m1: stem "abound" is spelled "abund" before -ance (irregular stem change: fossilised? keep the word as one morpheme)
+profundity	noun	profound|profund|R|Adj ; -ity|ity|S	# m0: stem "profound" is spelled "profund" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+garlicky	adj	garlic|garlick|R|N ; -y|y|S	# m0: stem "garlic" is spelled "garlick" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+epistolary	adj	epistle|epistol|R|N ; -ary|ary|S	# m0: stem "epistle" is spelled "epistol" before -ary (irregular stem change: fossilised? keep the word as one morpheme)
+dispirited	adj	dis-|dis|P ; spirit|pirit|R|N ; -ed|ed|S||-ed (adj)	# m1: stem "spirit" is spelled "pirit" before -ed (irregular stem change: fossilised? keep the word as one morpheme)
+bestial	adj	beast|best|R|N ; -ial|ial|S	# m0: stem "beast" is spelled "best" before -ial (irregular stem change: fossilised? keep the word as one morpheme)
+ith	?	?	# Muse marked as non-word
+xxx	?	?	# Muse marked as non-word
+wigg	?	?	# Muse marked as non-word
+bestiality	noun	beast|best|R|N ; -ial|ial|S ; -ity|ity|S	# m0: stem "beast" is spelled "best" before -ial (irregular stem change: fossilised? keep the word as one morpheme)
+ing	?	?	# Muse marked as non-word
+trem	?	?	# Muse marked as non-word
+lucker	?	?	# Muse marked as non-word
+reparative	adj	repair|repar|R|V ; -ative|ative|S	# m0: stem "repair" is spelled "repar" before -ative (irregular stem change: fossilised? keep the word as one morpheme)
+elven	adj	elf|elv|R|N ; -en|en|S	# m0: stem "elf" is spelled "elv" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+seductress	noun	seductor|seductr|R|N ; -ess|ess|S	# m0: stem "seductor" is spelled "seductr" before -ess (irregular stem change: fossilised? keep the word as one morpheme)
+perfunctorily	adv	perfunctory|perfunctoril|R|Adj ; -ly|y|I|Adv|-ly (adv)	# m0: stem "perfunctory" is spelled "perfunctoril" before -ly (irregular stem change: fossilised? keep the word as one morpheme)
+shabbily	adv	shabby|shabbil|R|Adj ; -ly|y|I|Adv|-ly (adv)	# m0: stem "shabby" is spelled "shabbil" before -ly (irregular stem change: fossilised? keep the word as one morpheme)
+circlet	noun	circle|circ|R|N ; -let|let|S	# m0: stem "circle" is spelled "circ" before -let (irregular stem change: fossilised? keep the word as one morpheme)
+peremptorily	adv	peremptory|peremptoril|R|Adj ; -ly|y|I|Adv|-ly (adv)	# m0: stem "peremptory" is spelled "peremptoril" before -ly (irregular stem change: fossilised? keep the word as one morpheme)
+grumpily	adv	grumpy|grumpil|R|Adj ; -ly|y|I|Adv|-ly (adv)	# m0: stem "grumpy" is spelled "grumpil" before -ly (irregular stem change: fossilised? keep the word as one morpheme)
+eightieth	adj	eighty|eighti|R|Adj ; -th|eth|S	# m0: -th only on an unchanged base
+ich	?	?	# Muse marked as non-word
+sud	?	?	# Muse marked as non-word
+laundress	noun	launder|laundr|R|V ; -ess|ess|S	# m0: stem "launder" is spelled "laundr" before -ess (irregular stem change: fossilised? keep the word as one morpheme)
+precocity	noun	precocious|precoc|R|Adj ; -ity|ity|S	# m0: stem "precocious" is spelled "precoc" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+mendacity	noun	mendacious|mendac|R|Adj ; -ity|ity|S	# m0: stem "mendacious" is spelled "mendac" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+proprietress	noun	proprietor|proprietr|R|N ; -ess|ess|S	# m0: stem "proprietor" is spelled "proprietr" before -ess (irregular stem change: fossilised? keep the word as one morpheme)
+picnicker	noun	picnic|picnick|R|N ; -er|er|S||-er (N)	# m0: stem "picnic" is spelled "picnick" before -er (irregular stem change: fossilised? keep the word as one morpheme)
+wilfulness	noun	will|wil|R|N ; -ful|ful|S ; -ness|ness|S	# m0: stem "will" is spelled "wil" before -ful (irregular stem change: fossilised? keep the word as one morpheme)
+tigress	noun	tiger|tigr|R|N ; -ess|ess|S	# m0: stem "tiger" is spelled "tigr" before -ess (irregular stem change: fossilised? keep the word as one morpheme)
+crashworthiness	noun	crash|crash|R|V ; worth|worthi|R|Adj ; -ness|ness|S	# m1: stem "worth" is spelled "worthi" before -ness (irregular stem change: fossilised? keep the word as one morpheme)
+multiplicative	adj	multiply|multiplic|R|V ; -ative|ative|S	# m0: stem "multiply" is spelled "multiplic" before -ative (irregular stem change: fossilised? keep the word as one morpheme)
+unworthiness	noun	un-|un|P ; worth|worthi|R|Adj ; -ness|ness|S	# m1: stem "worth" is spelled "worthi" before -ness (irregular stem change: fossilised? keep the word as one morpheme)
+frostbitten	adj	frost|frost|R|N ; bite|bitt|R|V ; -en|en|I||-en (participle)	# m1: stem "bite" is spelled "bitt" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+predominately	adv	pre-|pre|P ; dominant|dominat|R|Adj ; -ly|ely|I|Adv|-ly (adv)	# m1: stem "dominant" is spelled "dominat" before -ly (irregular stem change: fossilised? keep the word as one morpheme)
+elvish	adj	elf|elv|R|N ; -ish|ish|S	# m0: stem "elf" is spelled "elv" before -ish (irregular stem change: fossilised? keep the word as one morpheme)
+rapacity	noun	rapacious|rapac|R|Adj ; -ity|ity|S	# m0: stem "rapacious" is spelled "rapac" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+cloven	adj	cleave|clove|R|V ; -en|n|I||-en (participle)	# m0: stem "cleave" is spelled "clove" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+unfrozen	adj	un-|un|P ; freeze|froz|R|V ; -en|en|I||-en (participle)	# m1: stem "freeze" is spelled "froz" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+repetitiveness	noun	repeat|repet|R|V ; -itive|itive|S ; -ness|ness|S	# m0: stem "repeat" is spelled "repet" before -itive (irregular stem change: fossilised? keep the word as one morpheme)
+northeasterly	adv	north|north|R|N ; eastern|easter|R|Adj ; -ly|ly|I|Adv|-ly (adv)	# m1: stem "eastern" is spelled "easter" before -ly (irregular stem change: fossilised? keep the word as one morpheme)
+shelved	adj	shelf|shelv|R|N ; -ed|ed|S||-ed (adj)	# m0: stem "shelf" is spelled "shelv" before -ed (irregular stem change: fossilised? keep the word as one morpheme)
+voracity	noun	voracious|vorac|R|Adj ; -ity|ity|S	# m0: stem "voracious" is spelled "vorac" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+trodden	verb	tread|trodd|R|V ; -en|en|I||-en (participle)	# m0: stem "tread" is spelled "trodd" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+pugnacity	noun	pugnacious|pugnac|R|Adj ; -ity|ity|S	# m0: stem "pugnacious" is spelled "pugnac" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+univ	?	?	# Muse marked as non-word
+enchantress	noun	enchanter|enchantr|R|N ; -ess|ess|S	# m0: stem "enchanter" is spelled "enchantr" before -ess (irregular stem change: fossilised? keep the word as one morpheme)
+postmistress	noun	post-|post|P ; mister|mistr|R|N ; -ess|ess|S	# m1: stem "mister" is spelled "mistr" before -ess (irregular stem change: fossilised? keep the word as one morpheme)
+outspokenly	adv	out-|out|P ; speak|spok|R|V ; -en|en|I||-en (participle) ; -ly|ly|I|Adv|-ly (adv)	# m1: stem "speak" is spelled "spok" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+cagily	adv	cagey|cagi|R|Adj ; -ly|ly|I|Adv|-ly (adv)	# m0: stem "cagey" is spelled "cagi" before -ly (irregular stem change: fossilised? keep the word as one morpheme)
+tk	?	?	# Muse marked as non-word
+laundrette	noun	launder|laundr|R|V ; -ette|ette|S	# m0: stem "launder" is spelled "laundr" before -ette (irregular stem change: fossilised? keep the word as one morpheme)
+fulness	noun	full|ful|R|Adj ; -ness|ness|S	# m0: stem "full" is spelled "ful" before -ness (irregular stem change: fossilised? keep the word as one morpheme)
+leng	?	?	# Muse marked as non-word
+nao	?	?	# Muse marked as non-word
+gro	?	?	# Muse marked as non-word
+poss	?	?	# Muse marked as non-word
+shellacked	verb	shellac|shellack|R|V ; -ed|ed|I||-ed (v2)	# m0: stem "shellac" is spelled "shellack" before -ed (irregular stem change: fossilised? keep the word as one morpheme)
+dispiritedly	adv	dis-|dis|P ; spirit|pirit|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)	# m1: stem "spirit" is spelled "pirit" before -ed (irregular stem change: fossilised? keep the word as one morpheme)
+ancestress	noun	ancestor|ancestr|R|N ; -ess|ess|S	# m0: stem "ancestor" is spelled "ancestr" before -ess (irregular stem change: fossilised? keep the word as one morpheme)
+homogenise	verb	homogeneous|homogen|R|Adj ; -ise|ise|S	# m0: stem "homogeneous" is spelled "homogen" before -ise (irregular stem change: fossilised? keep the word as one morpheme)
+pertinacity	noun	pertinacious|pertinac|R|Adj ; -ity|ity|S	# m0: stem "pertinacious" is spelled "pertinac" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+ment	?	?	# Muse marked as non-word
+qu	?	?	# Muse marked as non-word
+leaved	adj	leaf|leav|R|N ; -ed|ed|S||-ed (adj)	# m0: stem "leaf" is spelled "leav" before -ed (irregular stem change: fossilised? keep the word as one morpheme)
+ambidexterity	noun	ambidextrous|ambidexter|R|Adj ; -ity|ity|S	# m0: stem "ambidextrous" is spelled "ambidexter" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+ammonify	verb	ammonia|ammoni|R|N ; -fy|fy|S	# m0: stem "ammonia" is spelled "ammoni" before -fy (irregular stem change: fossilised? keep the word as one morpheme)
+antalkali	noun	ant-|ant|P|||anti- ; alkali|alkali|R|N	# m0: prefix ant- is not on the allowed list
+antaphrodisiac	noun	ant-|ant|P|||anti- ; aphrodisiac|aphrodisiac|R|N	# m0: prefix ant- is not on the allowed list
+antarthritic	adj	ant-|ant|P|||anti- ; arthritic|arthritic|R|Adj	# m0: prefix ant- is not on the allowed list
+antasthmatic	adj	ant-|ant|P|||anti- ; asthmatic|asthmatic|R|Adj	# m0: prefix ant- is not on the allowed list
+anthelmintic	adj	ant-|ant|P|||anti- ; helminth|helmint|R|N ; -ic|ic|S	# m0: prefix ant- is not on the allowed list
+applicative	adj	apply|applic|R|V ; -ative|ative|S	# m0: stem "apply" is spelled "applic" before -ative (irregular stem change: fossilised? keep the word as one morpheme)
+arbitrament	noun	arbitrate|arbitra|R|V ; -ment|ment|S	# m0: stem "arbitrate" is spelled "arbitra" before -ment (irregular stem change: fossilised? keep the word as one morpheme)
+arbitress	noun	arbiter|arbitr|R|N ; -ess|ess|S	# m0: stem "arbiter" is spelled "arbitr" before -ess (irregular stem change: fossilised? keep the word as one morpheme)
+asdfghjkl	?	?	# Muse marked as non-word
+ase	?	?	# Muse marked as non-word
+aspet	?	?	# Muse marked as non-word
+aviatress	noun	aviator|aviatr|R|N ; -ess|ess|S	# m0: stem "aviator" is spelled "aviatr" before -ess (irregular stem change: fossilised? keep the word as one morpheme)
+chronometry	noun	chronometer|chronometr|R|N ; -y|y|S	# m0: stem "chronometer" is spelled "chronometr" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+commixture	noun	com-|com|P ; mix|mix|R|V ; -ture|ture|S	# m2: suffix -ture is not on the allowed list
+consuetudinary	adj	consuetude|consuetudin|R|N ; -ary|ary|S	# m0: stem "consuetude" is spelled "consuetudin" before -ary (irregular stem change: fossilised? keep the word as one morpheme)
+crapulent	adj	crapulence|crapul|R|N ; -ent|ent|S	# m0: stem "crapulence" is spelled "crapul" before -ent (irregular stem change: fossilised? keep the word as one morpheme)
+crapulous	adj	crapulence|crapul|R|N ; -ous|ous|S	# m0: stem "crapulence" is spelled "crapul" before -ous (irregular stem change: fossilised? keep the word as one morpheme)
+deca	?	?	# Muse marked as non-word
+denunciative	adj	denounce|denunci|R|V ; -ative|ative|S	# m0: stem "denounce" is spelled "denunci" before -ative (irregular stem change: fossilised? keep the word as one morpheme)
+denunciator	noun	denounce|denunci|R|V ; -or|ator|S	# m0: stem "denounce" is spelled "denunci" before -or (irregular stem change: fossilised? keep the word as one morpheme)
+denunciatory	adj	denounce|denunci|R|V ; -ory|atory|S	# m0: stem "denounce" is spelled "denunci" before -ory (irregular stem change: fossilised? keep the word as one morpheme)
+depenis	?	?	# Muse marked as non-word
+deputinization	noun	de-|de|P ; Putin|putin|R|N ; -ize|iz|S ; -ation|ation|S	# m1: stem "Putin" is spelled "putin" before -ize (irregular stem change: fossilised? keep the word as one morpheme)
+destalinization	noun	de-|de|P ; Stalin|stalin|R|N ; -ize|iz|S ; -ation|ation|S	# m1: stem "Stalin" is spelled "stalin" before -ize (irregular stem change: fossilised? keep the word as one morpheme)
+deviltry	noun	devil|devil|R|N ; -try|try|S	# m1: suffix -try is not on the allowed list
+dictatress	noun	dictator|dictatr|R|N ; -ess|ess|S	# m0: stem "dictator" is spelled "dictatr" before -ess (irregular stem change: fossilised? keep the word as one morpheme)
+disapprobative	adj	dis-|dis|P ; approve|approb|R|V ; -ative|ative|S	# m1: stem "approve" is spelled "approb" before -ative (irregular stem change: fossilised? keep the word as one morpheme)
+dispiritedness	noun	dis-|dis|P ; spirit|pirit|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S	# m1: stem "spirit" is spelled "pirit" before -ed (irregular stem change: fossilised? keep the word as one morpheme)
+ectogenic	adj	ectogenesis|ectogen|R|N ; -ic|ic|S	# m0: stem "ectogenesis" is spelled "ectogen" before -ic (irregular stem change: fossilised? keep the word as one morpheme)
+efficacity	noun	efficacious|efficac|R|Adj ; -ity|ity|S	# m0: stem "efficacious" is spelled "efficac" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+electress	noun	elector|electr|R|N ; -ess|ess|S	# m0: stem "elector" is spelled "electr" before -ess (irregular stem change: fossilised? keep the word as one morpheme)
+evocativeness	noun	evoke|evoc|R|V ; -ative|ative|S ; -ness|ness|S	# m0: stem "evoke" is spelled "evoc" before -ative (irregular stem change: fossilised? keep the word as one morpheme)
+exclamative	adj	exclaim|exclam|R|V ; -ative|ative|S	# m0: stem "exclaim" is spelled "exclam" before -ative (irregular stem change: fossilised? keep the word as one morpheme)
+exclamatively	adv	exclaim|exclam|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)	# m0: stem "exclaim" is spelled "exclam" before -ative (irregular stem change: fossilised? keep the word as one morpheme)
+fibred	adj	fiber|fibr|R|N ; -ed|ed|S||-ed (adj)	# m0: stem "fiber" is spelled "fibr" before -ed (irregular stem change: fossilised? keep the word as one morpheme)
+frolicky	adj	frolic|frolick|R|V ; -y|y|S	# m0: stem "frolic" is spelled "frolick" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+gt	?	?	# Muse marked as non-word
+hying	verb	hie|hy|R|V ; -ing|ing|I||-ing (v)	# m0: stem "hie" is spelled "hy" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
+idolatress	noun	idolater|idolatr|R|N ; -ess|ess|S	# m0: stem "idolater" is spelled "idolatr" before -ess (irregular stem change: fossilised? keep the word as one morpheme)
+immixture	noun	immix|immix|R|V ; -ture|ture|S	# m1: suffix -ture is not on the allowed list
+inlying	adj	in-|in|P ; lie|ly|R|V ; -ing|ing|S||-ing (adj)	# m1: stem "lie" is spelled "ly" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
+integrand	noun	integrate|integr|R|V ; -and|and|S	# m1: suffix -and is not on the allowed list
+laundrywoman	noun	launder|laundr|R|V ; -y|y|S ; woman|woman|R|N	# m0: stem "launder" is spelled "laundr" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+leptokurtic	adj	leptokurtosis|leptokurt|R|N ; -ic|ic|S	# m0: stem "leptokurtosis" is spelled "leptokurt" before -ic (irregular stem change: fossilised? keep the word as one morpheme)
+loquacity	noun	loquacious|loquac|R|Adj ; -ity|ity|S	# m0: stem "loquacious" is spelled "loquac" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+mamillary	adj	mammilla|mamill|R|N ; -ary|ary|S	# m0: stem "mammilla" is spelled "mamill" before -ary (irregular stem change: fossilised? keep the word as one morpheme)
+mattins	noun	matin|mattin|R|N ; -s|s|I||-s (plural)	# m0: stem "matin" is spelled "mattin" before -s (irregular stem change: fossilised? keep the word as one morpheme)
+megalopolitan	adj	megalopolis|megalopolit|R|N ; -an|an|S	# m0: stem "megalopolis" is spelled "megalopolit" before -an (irregular stem change: fossilised? keep the word as one morpheme)
+mimicker	noun	mimic|mimick|R|V ; -er|er|S||-er (N)	# m0: stem "mimic" is spelled "mimick" before -er (irregular stem change: fossilised? keep the word as one morpheme)
+miscegenetic	adj	miscegenation|miscegenet|R|N ; -ic|ic|S	# m0: stem "miscegenation" is spelled "miscegenet" before -ic (irregular stem change: fossilised? keep the word as one morpheme)
+mordacity	noun	mordacious|mordaci|R|Adj ; -ty|ty|S	# m0: stem "mordacious" is spelled "mordaci" before -ty (irregular stem change: fossilised? keep the word as one morpheme)
+munchies	noun	munch|munch|R|V ; -ies|ies|I||-s (plural)	# m1: suffix -ies is not on the allowed list
+neurochemist	noun	neurochemistry|neurochem|R|N ; -ist|ist|S	# m0: stem "neurochemistry" is spelled "neurochem" before -ist (irregular stem change: fossilised? keep the word as one morpheme)
+ninthly	adv	nine|nin|R|N ; -th|th|S ; -ly|ly|I|Adv|-ly (adv)	# m0: -th only on an unchanged base
+ochery	noun	ochre|ocher|R|N ; -y|y|S	# m0: stem "ochre" is spelled "ocher" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+officiary	noun	office|offici|R|N ; -ary|ary|S	# m0: stem "office" is spelled "offici" before -ary (irregular stem change: fossilised? keep the word as one morpheme)
+olivary	adj	olive|olivar|R|N ; -y|y|S	# m0: stem "olive" is spelled "olivar" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+oncogenic	adj	oncogenesis|oncogen|R|N ; -ic|ic|S	# m0: stem "oncogenesis" is spelled "oncogen" before -ic (irregular stem change: fossilised? keep the word as one morpheme)
+oncogenicity	noun	oncogenesis|oncogen|R|N ; -ic|ic|S ; -ity|ity|S	# m0: stem "oncogenesis" is spelled "oncogen" before -ic (irregular stem change: fossilised? keep the word as one morpheme)
+oncogenous	adj	oncogenesis|oncogen|R|N ; -ous|ous|S	# m0: stem "oncogenesis" is spelled "oncogen" before -ous (irregular stem change: fossilised? keep the word as one morpheme)
+orthogenic	adj	orthogenesis|orthogen|R|N ; -ic|ic|S	# m0: stem "orthogenesis" is spelled "orthogen" before -ic (irregular stem change: fossilised? keep the word as one morpheme)
+ovate	adj	ovum|ov|R|N ; -ate|ate|S	# m0: stem "ovum" is spelled "ov" before -ate (irregular stem change: fossilised? keep the word as one morpheme)
+overfulfilment	noun	over-|over|P ; fulfill|fulfil|R|V ; -ment|ment|S	# m1: stem "fulfill" is spelled "fulfil" before -ment (irregular stem change: fossilised? keep the word as one morpheme)
+overnicety	noun	over-|over|P ; nice|nicet|R|Adj ; -y|y|S	# m1: stem "nice" is spelled "nicet" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+oversubtlety	noun	over-|over|P ; subtle|subtlet|R|Adj ; -y|y|S	# m1: stem "subtle" is spelled "subtlet" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+paraphernal	adj	paraphernalia|paraphern|R|N ; -al|al|S	# m0: stem "paraphernalia" is spelled "paraphern" before -al (irregular stem change: fossilised? keep the word as one morpheme)
+pedogenic	adj	pedogenesis|pedogen|R|N ; -ic|ic|S	# m0: stem "pedogenesis" is spelled "pedogen" before -ic (irregular stem change: fossilised? keep the word as one morpheme)
+photochemist	noun	photochemistry|photochem|R|N ; -ist|ist|S	# m0: stem "photochemistry" is spelled "photochem" before -ist (irregular stem change: fossilised? keep the word as one morpheme)
+platykurtic	adj	platykurtosis|platykurt|R|N ; -ic|ic|S	# m0: stem "platykurtosis" is spelled "platykurt" before -ic (irregular stem change: fossilised? keep the word as one morpheme)
+pliancy	noun	pliant|plianc|R|Adj ; -y|y|S	# m0: stem "pliant" is spelled "plianc" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+portress	noun	porter|portr|R|N ; -ess|ess|S	# m0: stem "porter" is spelled "portr" before -ess (irregular stem change: fossilised? keep the word as one morpheme)
+preambulary	adj	preamble|preambul|R|N ; -ary|ary|S	# m0: stem "preamble" is spelled "preambul" before -ary (irregular stem change: fossilised? keep the word as one morpheme)
+precarity	noun	precarious|precar|R|Adj ; -ity|ity|S	# m0: stem "precarious" is spelled "precar" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+precarization	noun	precarious|precar|R|Adj ; -ize|iz|S ; -ation|ation|S	# m0: stem "precarious" is spelled "precar" before -ize (irregular stem change: fossilised? keep the word as one morpheme)
+predacity	noun	predaceous|predac|R|Adj ; -ity|ity|S	# m0: stem "predaceous" is spelled "predac" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+pronunciative	adj	pronounce|pronunci|R|V ; -ative|ative|S	# m0: stem "pronounce" is spelled "pronunci" before -ative (irregular stem change: fossilised? keep the word as one morpheme)
+pronunciatory	adj	pronounce|pronunciat|R|V ; -ory|ory|S	# m0: stem "pronounce" is spelled "pronunciat" before -ory (irregular stem change: fossilised? keep the word as one morpheme)
+provocativeness	noun	provoke|provoc|R|V ; -ative|ative|S ; -ness|ness|S	# m0: stem "provoke" is spelled "provoc" before -ative (irregular stem change: fossilised? keep the word as one morpheme)
+pyogenic	adj	pyogenesis|pyogen|R|N ; -ic|ic|S	# m0: stem "pyogenesis" is spelled "pyogen" before -ic (irregular stem change: fossilised? keep the word as one morpheme)
+qualificative	adj	qualify|qualific|R|V ; -ative|ative|S	# m0: stem "qualify" is spelled "qualific" before -ative (irregular stem change: fossilised? keep the word as one morpheme)
+renunciative	adj	renounce|renunci|R|V ; -ative|ative|S	# m0: stem "renounce" is spelled "renunci" before -ative (irregular stem change: fossilised? keep the word as one morpheme)
+renunciatory	adj	renounce|renunci|R|V ; -ory|atory|S	# m0: stem "renounce" is spelled "renunci" before -ory (irregular stem change: fossilised? keep the word as one morpheme)
+reptilianness	noun	reptile|reptili|R|N ; -an|an|S ; -ness|ness|S	# m0: stem "reptile" is spelled "reptili" before -an (irregular stem change: fossilised? keep the word as one morpheme)
+rheometry	noun	rheometer|rheometr|R|N ; -y|y|S	# m0: stem "rheometer" is spelled "rheometr" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+saccharimetry	noun	saccharimeter|saccharimetr|R|N ; -y|y|S	# m0: stem "saccharimeter" is spelled "saccharimetr" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+salacity	noun	salacious|salac|R|Adj ; -ity|ity|S	# m0: stem "salacious" is spelled "salac" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+salubrity	noun	salubrious|salubr|R|Adj ; -ity|ity|S	# m0: stem "salubrious" is spelled "salubr" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+sequacity	noun	sequacious|sequac|R|Adj ; -ity|ity|S	# m0: stem "sequacious" is spelled "sequac" before -ity (irregular stem change: fossilised? keep the word as one morpheme)
+shellacking	verb	shellac|shellack|R|V ; -ing|ing|I||-ing (v)	# m0: stem "shellac" is spelled "shellack" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
+skilfulness	noun	skill|skil|R|N ; -ful|ful|S ; -ness|ness|S	# m0: stem "skill" is spelled "skil" before -ful (irregular stem change: fossilised? keep the word as one morpheme)
+skilless	adj	skill|skil|R|N ; -less|less|S	# m0: stem "skill" is spelled "skil" before -less (irregular stem change: fossilised? keep the word as one morpheme)
+swimmeret	noun	swim|swimm|R|V ; -er|er|S||-er (N) ; -et|et|S	# m2: suffix -et is not on the allowed list
+tachometry	noun	tachometer|tachometr|R|N ; -y|y|S	# m0: stem "tachometer" is spelled "tachometr" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+tachymetry	noun	tachymeter|tachymetr|R|N ; -y|y|S	# m0: stem "tachymeter" is spelled "tachymetr" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+thermogenic	adj	thermogenesis|thermogen|R|N ; -ic|ic|S	# m0: stem "thermogenesis" is spelled "thermogen" before -ic (irregular stem change: fossilised? keep the word as one morpheme)
+thermogenous	adj	thermogenesis|thermogen|R|N ; -ous|ous|S	# m0: stem "thermogenesis" is spelled "thermogen" before -ous (irregular stem change: fossilised? keep the word as one morpheme)
+thermometry	noun	thermometer|thermometr|R|N ; -y|y|S	# m0: stem "thermometer" is spelled "thermometr" before -y (irregular stem change: fossilised? keep the word as one morpheme)
+thievish	adj	thief|thiev|R|N ; -ish|ish|S	# m0: stem "thief" is spelled "thiev" before -ish (irregular stem change: fossilised? keep the word as one morpheme)
+thievishly	adv	thief|thiev|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)	# m0: stem "thief" is spelled "thiev" before -ish (irregular stem change: fossilised? keep the word as one morpheme)
+thievishness	noun	thief|thiev|R|N ; -ish|ish|S ; -ness|ness|S	# m0: stem "thief" is spelled "thiev" before -ish (irregular stem change: fossilised? keep the word as one morpheme)
+thraldom	noun	thrall|thral|R|N ; -dom|dom|S	# m0: stem "thrall" is spelled "thral" before -dom (irregular stem change: fossilised? keep the word as one morpheme)
+tigrish	adj	tiger|tigr|R|N ; -ish|ish|S	# m0: stem "tiger" is spelled "tigr" before -ish (irregular stem change: fossilised? keep the word as one morpheme)
+twelfty	adj	twelve|twelf|R ; -ty|ty|S	# m0: stem "twelve" is spelled "twelf" before -ty (irregular stem change: fossilised? keep the word as one morpheme)
+umptieth	adj	umpteen|umpti|R ; -eth|eth|S	# m1: suffix -eth is not on the allowed list; m0: stem "umpteen" is spelled "umpti" before -eth (irregular stem change: fossilised? keep the word as one morpheme)
+unexemplified	adj	un-|un|P ; example|exempl|R|N ; -ify|ifi|S ; -ed|ed|S||-ed (adj)	# m1: stem "example" is spelled "exempl" before -ify (irregular stem change: fossilised? keep the word as one morpheme)
+unskilfulness	noun	un-|un|P ; skill|skil|R|N ; -ful|ful|S ; -ness|ness|S	# m1: stem "skill" is spelled "skil" before -ful (irregular stem change: fossilised? keep the word as one morpheme)
+untying	noun	un-|un|P ; tie|ty|R|V ; -ing|ing|S||-ing (N)	# m1: stem "tie" is spelled "ty" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
+unwived	adj	un-|un|P ; wife|wiv|R|N ; -ed|ed|S||-ed (adj)	# m1: stem "wife" is spelled "wiv" before -ed (irregular stem change: fossilised? keep the word as one morpheme)
+unwrittenness	noun	un-|un|P ; write|writt|R|V ; -en|en|S ; -ness|ness|S	# m1: stem "write" is spelled "writt" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+verset	noun	verse|vers|R|N ; -et|et|S	# m1: suffix -et is not on the allowed list
+vinify	verb	wine|vin|R|N ; -ify|ify|S	# m0: stem "wine" is spelled "vin" before -ify (irregular stem change: fossilised? keep the word as one morpheme)
+vinous	adj	wine|vin|R|N ; -ous|ous|S	# m0: stem "wine" is spelled "vin" before -ous (irregular stem change: fossilised? keep the word as one morpheme)
+vinously	adv	wine|vin|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)	# m0: stem "wine" is spelled "vin" before -ous (irregular stem change: fossilised? keep the word as one morpheme)
+vying	verb	vie|vy|R|V ; -ing|ing|I||-ing (v)	# m0: stem "vie" is spelled "vy" before -ing (irregular stem change: fossilised? keep the word as one morpheme)
+wardress	noun	warder|wardr|R|N ; -ess|ess|S	# m0: stem "warder" is spelled "wardr" before -ess (irregular stem change: fossilised? keep the word as one morpheme)
+woken	verb	wake|wok|R|V ; -en|en|I||-en (participle)	# m0: stem "wake" is spelled "wok" before -en (irregular stem change: fossilised? keep the word as one morpheme)
+wrungness	noun	wring|wrung|R|V ; -ness|ness|S	# m0: stem "wring" is spelled "wrung" before -ness (irregular stem change: fossilised? keep the word as one morpheme)

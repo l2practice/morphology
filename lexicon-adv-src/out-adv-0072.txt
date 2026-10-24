@@ -1,0 +1,150 @@
+contracture	noun	=
+topos	noun	=
+egoist	noun	=
+vaporizer	noun	=
+disseminator	noun	=
+dystopia	noun	dys-|dys|P||||Greek dus- 'bad' ; -top-|top|B|N|||Greek topos 'place' ; -ia|ia|S||||Greek -ia 'state'
+corpuscle	noun	=
+monozygotic	adj	=
+syncopate	verb	syn-|syn|P||||Greek sun 'with' ; -cop-|cop|B|V|||Greek koptein 'to cut' ; -ate|ate|S||||Latin -atus 'past participle'
+bacteriology	noun	=
+toxicant	noun	toxic-|toxic|B|N|||Greek toxikon 'poison' ; -ant|ant|S||||Latin -ans 'agent'
+phantasmagoria	noun	=
+meiosis	noun	=
+aider	noun	=
+lectionary	noun	=
+homonym	noun	homo-|hom|B|Adj|||Greek homos 'same' ; -onym|onym|B|N|||Greek onoma 'name'
+fascistic	adj	=
+platypus	noun	=
+thermoelectric	adj	thermo-|thermo|B|N|||Greek thermē 'heat' ; electric|electric|R|Adj
+vituperation	noun	=
+emancipator	noun	=
+regularization	noun	=
+avidity	noun	=
+aerialist	noun	=
+fosse	noun	=
+theropod	noun	=
+emollient	adj	=
+leftism	noun	=
+vaccinia	noun	vaccin-|vaccin|B|N|||Latin vacca 'cow' ; -ia|ia|S||||Latin -ia 'state'
+catecholamine	noun	=
+abstractionist	noun	=
+congeries	noun	con-|con|P||||Latin com- 'together' ; -ger-|ger|B|V|||Latin gerere 'to carry' ; -ies|ies|S||||Latin -ies 'noun suffix'
+efflorescence	noun	ef-|ef|P||||Latin ex- 'out' ; -floresc-|floresc|B|V|||Latin florescere 'to blossom' ; -ence|ence|S||||Latin -entia 'state'
+noisome	adj	=
+palpitate	verb	palpit-|palpit|B|V|||Latin palpitare 'to throb' ; -ate|ate|S||||Latin -atus 'past participle'
+condyle	noun	=
+ceremonious	adj	ceremoni-|ceremoni|B|N|||Latin caerimonia 'rite' ; -ous|ous|S||||Latin -osus 'full of'
+prosody	noun	=
+trachoma	noun	trach-|trach|B|Adj|||Greek trākhus 'rough' ; -oma|oma|S||||Greek -ōma 'tumour'
+ulna	noun	=
+viticulture	noun	viti-|viti|B|N|||Latin vitis 'vine' ; culture|culture|R|N
+submersion	noun	=
+embouchure	noun	=
+vainglorious	adj	=
+importune	verb	=
+monopole	noun	mono-|mono|P||||Greek monos 'alone' ; -pole|pole|B|V|||Greek pōlein 'to sell'
+farrago	noun	=
+planetoid	noun	=
+fatalist	noun	=
+specie	noun	=
+arbitral	adj	arbitr-|arbitr|B|N|||Latin arbiter 'judge' ; -al|al|S||||Latin -alis 'pertaining to'
+indivisibility	noun	=
+sciatic	adj	=
+polonium	noun	=
+truncation	noun	=
+rapacity	noun	=
+puce	noun	=
+variate	verb	vari-|vari|B|Adj|||Latin varius 'diverse' ; -ate|ate|S||||Latin -atus 'past participle'
+predication	noun	pre-|pre|P||||Latin prae 'before' ; -dic-|dic|B|V|||Latin dicere 'to say' ; -ation|ation|S||||Latin -atio 'act'
+acclimatization	noun	=
+clade	noun	=
+orchardist	noun	=
+decryption	noun	de-|de|P||||Latin de- 'from' ; -crypt|crypt|B|Adj|||Greek kruptos 'hidden' ; -ion|ion|S||||Latin -io 'act'
+estrange	verb	=
+classifier	noun	=
+centrism	noun	=
+inflorescence	noun	in-|in|P||||Latin in- 'in' ; -floresc-|floresc|B|V|||Latin florescere 'to blossom' ; -ence|ence|S||||Latin -entia 'state'
+factorization	noun	=
+australopithecine	noun	australo-|australo|B|Adj|||Latin australis 'southern' ; -pithec-|pithec|B|N|||Greek pithēkos 'ape' ; -ine|ine|S||||Latin -inus 'pertaining to'
+deflower	verb	=
+photocell	noun	=
+glucosamine	noun	glucos-|glucos|B|N|||Greek gleukos 'sweet wine' ; amine|amine|R|N
+isopropyl	noun	=
+embryologist	noun	=
+deist	noun	de-|de|B|N|||Latin Deus 'God' ; -ist|ist|S||||Greek -istēs 'one who'
+suppurative	adj	=
+ibex	noun	=
+extensible	adj	extens-|extens|B|V|||Latin extendere 'to extend' ; -ible|ible|S||||Latin -ibilis 'able'
+cellulitis	noun	cellul-|cellul|B|N|||Latin cellula 'little cell' ; -itis|itis|S||||Greek -itis 'inflammation'
+otic	adj	ot-|ot|B|N|||Greek ous 'ear' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+atropine	noun	atrop-|atrop|B|N|||Latin Atropa 'nightshade genus' ; -ine|ine|S||||Latin -ina 'substance'
+hyssop	noun	=
+nipper	noun	=
+rapporteur	noun	=
+peccadillo	noun	peccad-|peccad|B|V|||Latin peccare 'to sin' ; -illo|illo|S||||Latin -ellus 'little'
+organismic	adj	=
+spheroid	noun	=
+methylene	noun	meth-|meth|B|N|||Greek methu 'wine' ; -ylene|ylene|S||||Greek hulē 'wood'
+abstemious	adj	=
+epee	noun	=
+aggress	verb	ag-|ag|P||||Latin ad- 'to' ; -gress|gress|B|V|||Latin gradi 'to walk, go'
+atavism	noun	at-|at|P||||Latin ad- 'to' ; -av-|av|B|N|||Latin avus 'grandfather, ancestor' ; -ism|ism|S||||Greek -ismos 'doctrine'
+iliac	adj	ili-|ili|B|N|||Latin ilium 'hip bone' ; -ac|ac|S||||Greek -akos 'pertaining to'
+generalship	noun	=
+otolith	noun	oto-|oto|B|N|||Greek ous 'ear' ; -lith|lith|B|N|||Greek lithos 'stone'
+originalism	noun	=
+champaign	noun	=
+phenomenologist	noun	=
+cygnet	noun	cygn-|cygn|B|N|||Latin cygnus 'swan' ; -et|et|S||||Latin -ettus 'little'
+endocarditis	noun	=
+corruptible	adj	=
+inconstant	adj	=
+westernize	verb	=
+glottal	adj	=
+ossification	noun	oss-|oss|B|N|||Latin os 'bone' ; -ification|ification|S||||Latin -ificare 'to make'
+syncope	noun	=
+bibliophile	noun	biblio-|biblio|B|N|||Greek biblion 'book' ; -phile|phile|B|V|||Greek philein 'to love'
+munificent	adj	munific-|munific|B|Adj|||Latin munificus 'generous' ; -ent|ent|S||||Latin -ens 'agent'
+oligopolistic	adj	=
+schist	noun	=
+appreciator	noun	=
+essentialist	noun	=
+biodynamic	adj	=
+cyclamen	noun	=
+arborvitae	noun	=
+accentuation	noun	=
+explainer	noun	=
+suffragan	noun	suffrag-|suffrag|B|N|||Latin suffragium 'vote' ; -an|an|S||||Latin -anus 'pertaining to'
+conceptualism	noun	=
+nincompoop	noun	=
+similitude	noun	=
+scabies	noun	=
+turpitude	noun	=
+circumscription	noun	=
+coreopsis	noun	kori-|core|B|N|||Greek koris 'bedbug' ; -opsis|opsis|B|N|||Greek opsis 'aspect, appearance'
+cartouche	noun	=
+calamine	noun	=
+specular	adj	specul-|specul|B|N|||Latin speculum 'mirror' ; -ar|ar|S||||Latin -aris 'pertaining to'
+florescent	adj	floresc-|floresc|B|V|||Latin florescere 'to blossom' ; -ent|ent|S||||Latin -ens 'agent'
+electroencephalogram	noun	electro-|electro|B|N|||Greek ēlektron 'amber' ; encephalogram|encephalogram|R|N
+exigent	adj	exig-|exig|B|V|||Latin exigere 'to demand' ; -ent|ent|S||||Latin -ens 'agent'
+rabbinate	noun	rabbin-|rabbin|B|N|||Hebrew rabbi 'teacher' ; -ate|ate|S||||Latin -atus 'office'
+medullary	adj	medull-|medull|B|N|||Latin medulla 'marrow' ; -ary|ary|S||||Latin -arius 'pertaining to'
+auricular	adj	auricul-|auricul|B|N|||Latin auricula 'little ear' ; -ar|ar|S||||Latin -aris 'pertaining to'
+exemplification	noun	=
+polycystic	adj	=
+pectoralis	noun	=
+fasciitis	noun	=
+mitosis	noun	=
+dogfish	noun	=
+merchandiser	noun	=
+shibboleth	noun	=
+chemotherapeutic	adj	=
+nanogram	noun	nano-|nano|B|Adj|||Greek nanos 'dwarf' ; gram|gram|R|N
+unamused	adj	=
+altruist	noun	=
+haemophilia	noun	haemo-|haemo|B|N|||Greek haima 'blood' ; -philia|philia|B|N|||Greek philia 'friendship'
+terrapin	noun	=
+kern	noun	=
+schismatic	noun	=

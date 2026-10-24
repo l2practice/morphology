@@ -1,0 +1,200 @@
+negotiatory	adj	negotiate|negotiat|R|V ; -ory|ory|S
+negroid	adj	negroid|negroid|R|Adj
+negroidal	adj	negroid|negroid|R|Adj ; -al|al|S
+negroni	noun	negroni|negroni|R|N
+negus	noun	negus|negus|R|N
+neighbourship	noun	neighbour|neighbour|R|N ; -ship|ship|S
+neighing	verb	neigh|neigh|R|V ; -ing|ing|I||-ing (v)
+nejayote	noun	nejayote|nejayote|R|N
+nek	noun	nek|nek|R|N
+nekton	noun	nekton|nekton|R|N
+nelly	noun	nelly|nelly|R|N
+nemaline	adj	nemaline|nemaline|R|Adj
+nematic	adj	nematic|nematic|R|Adj
+nene	noun	nene|nene|R|N
+nenia	noun	nenia|nenia|R|N
+nenuphar	noun	nenuphar|nenuphar|R|N
+neocolonial	adj	neocolonial|neocolonial|R|Adj
+neocolonialism	noun	neocolonial|neocolonial|R|Adj ; -ism|ism|S
+neocolonialist	noun	neocolonial|neocolonial|R|Adj ; -ist|ist|S
+neocommunism	noun	neocommunism|neocommunism|R|N
+neoconservatism	noun	neoconservatism|neoconservatism|R|N
+neofascism	noun	neofascism|neofascism|R|N
+neofascist	noun	neofascism|neofasc|R|N ; -ist|ist|S
+neoimperialism	noun	neoimperialism|neoimperialism|R|N
+neokoros	noun	neokoros|neokoros|R|N
+neolinguistics	noun	neolinguistics|neolinguistics|R|N
+neological	adj	neology|neolog|R|N ; -ical|ical|S
+neologist	noun	neology|neolog|R|N ; -ist|ist|S
+neologize	verb	neology|neolog|R|N ; -ize|ize|S
+neology	noun	neology|neology|R|N
+neonaticide	noun	neonaticide|neonaticide|R|N
+neonatologist	noun	neonatology|neonatolog|R|N ; -ist|ist|S
+neontology	noun	neontology|neontology|R|N
+neopaganism	noun	neopagan|neopagan|R|N ; -ism|ism|S
+neophilia	noun	neophilia|neophilia|R|N
+neophobia	noun	neophobia|neophobia|R|N
+neoplasticism	noun	neoplastic|neoplastic|R|Adj ; -ism|ism|S
+neopronoun	noun	neopronoun|neopronoun|R|N
+neorealism	noun	neorealism|neorealism|R|N
+neosemanticism	noun	neosemantic|neosemantic|R|Adj ; -ism|ism|S
+neoteny	noun	neoteny|neoteny|R|N
+neoteric	adj	neoteric|neoteric|R|Adj
+neovagina	noun	neovagina|neovagina|R|N
+nepenthes	noun	nepenthes|nepenthes|R|N
+nepheline	noun	nepheline|nepheline|R|N
+nephology	noun	nephology|nephology|R|N
+nephric	adj	nephric|nephric|R|Adj
+nephrite	noun	nephrite|nephrite|R|N
+nephritic	adj	nephritis|nephrit|R|N ; -ic|ic|S
+nephritis	noun	nephritis|nephritis|R|N
+nephrology	noun	nephrology|nephrology|R|N
+nephron	noun	nephron|nephron|R|N
+nephrosis	noun	nephrosis|nephrosis|R|N
+nephrotoxicity	noun	nephrotoxic|nephrotoxic|R|Adj ; -ity|ity|S
+nepotic	adj	nepotic|nepotic|R|Adj
+nepoticide	noun	nepoticide|nepoticide|R|N
+nepotist	noun	nepotism|nepot|R|N ; -ist|ist|S
+neptunium	noun	neptunium|neptunium|R|N
+nereid	noun	nereid|nereid|R|N
+nerf	verb	nerf|nerf|R|V
+neritic	adj	neritic|neritic|R|Adj
+neroli	noun	neroli|neroli|R|N
+nervate	adj	nerve|nerv|R|N ; -ate|ate|S
+nervation	noun	nerve|nerv|R|N ; -ation|ation|S
+nerved	adj	nerve|nerv|R|N ; -ed|ed|S||-ed (adj)
+nervelessly	adv	nerve|nerve|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+nervelessness	noun	nerve|nerve|R|N ; -less|less|S ; -ness|ness|S
+nervine	adj	nervine|nervine|R|Adj
+nerving	verb	nerve|nerv|R|V ; -ing|ing|I||-ing (v)
+nervosity	noun	nervous|nervos|R|Adj ; -ity|ity|S
+nervure	noun	nervure|nervure|R|N
+nescience	noun	nescience|nescience|R|N
+nescient	adj	nescient|nescient|R|Adj
+nesonym	noun	nesonym|nesonym|R|N
+nestful	noun	nest|nest|R|N ; -ful|ful|S
+netbook	noun	net|net|R|N ; book|book|R|N
+netful	noun	net|net|R|N ; -ful|ful|S
+netiquette	noun	netiquette|netiquette|R|N
+netizen	noun	netizen|netizen|R|N
+netlike	adj	net|net|R|N ; -like|like|S
+nets	noun	net|net|R|N ; -s|s|I||-s (plural)
+netsuke	noun	netsuke|netsuke|R|N
+neumatic	adj	neumatic|neumatic|R|Adj
+neume	noun	neume|neume|R|N
+neurite	noun	neurite|neurite|R|N
+neuroblast	noun	neuroblast|neuroblast|R|N
+neuroblastoma	noun	neuroblastoma|neuroblastoma|R|N
+neurochemist	noun	neurochemistry|neurochem|R|N ; -ist|ist|S
+neurocranium	noun	neurocranium|neurocranium|R|N
+neurodegeneration	noun	neurodegeneration|neurodegeneration|R|N
+neurodivergence	noun	neurodivergent|neurodiverg|R|Adj ; -ence|ence|S
+neurodivergent	adj	neurodivergent|neurodivergent|R|Adj
+neurodiverse	adj	neurodiverse|neurodiverse|R|Adj
+neurodiversity	noun	neurodiverse|neurodivers|R|Adj ; -ity|ity|S
+neurogenesis	noun	neurogenesis|neurogenesis|R|N
+neuroglia	noun	neuroglia|neuroglia|R|N
+neurohypophysis	noun	neurohypophysis|neurohypophysis|R|N
+neuroleptic	adj	neuroleptic|neuroleptic|R|Adj
+neurolinguistics	noun	neurolinguistics|neurolinguistics|R|N
+neuropath	noun	neuropath|neuropath|R|N
+neuropathist	noun	neuropathy|neuropath|R|N ; -ist|ist|S
+neuropathologist	noun	neuropathology|neuropatholog|R|N ; -ist|ist|S
+neuropathology	noun	neuropathology|neuropathology|R|N
+neuropil	noun	neuropil|neuropil|R|N
+neuroplasticity	noun	neuroplastic|neuroplastic|R|Adj ; -ity|ity|S
+neurosphere	noun	neurosphere|neurosphere|R|N
+neurotoxicity	noun	neurotoxic|neurotoxic|R|Adj ; -ity|ity|S
+neurotransmission	noun	neurotransmission|neurotransmission|R|N
+neurotropic	adj	neurotropic|neurotropic|R|Adj
+neurotypical	adj	neurotypical|neurotypical|R|Adj
+neutralism	noun	neutral|neutral|R|Adj ; -ism|ism|S
+neutralist	noun	neutral|neutral|R|Adj ; -ist|ist|S
+neutrinic	adj	neutrino|neutrin|R|N ; -ic|ic|S
+neutronic	adj	neutron|neutron|R|N ; -ic|ic|S
+neverland	noun	never|never|R|Adv ; land|land|R|N
+nevermind	noun	never|never|R|Adv ; mind|mind|R|N
+newb	noun	newb|newb|R|N
+newline	noun	new|new|R|Adj ; line|line|R|N
+newsbreak	noun	news|news|R|N ; break|break|R|V
+newscasting	noun	news|news|R|N ; cast|cast|R|V ; -ing|ing|S||-ing (N)
+newsfeed	noun	news|news|R|N ; feed|feed|R|N
+newsmonger	noun	news|news|R|N ; monger|monger|R|N
+newspaperdom	noun	newspaper|newspaper|R|N ; -dom|dom|S
+newspaperese	noun	newspaperese|newspaperese|R|N
+newspaperism	noun	newspaper|newspaper|R|N ; -ism|ism|S
+newspaperwoman	noun	newspaper|newspaper|R|N ; woman|woman|R|N
+newsvendor	noun	news|news|R|N ; vendor|vendor|R|N
+ney	noun	ney|ney|R|N
+ngapi	noun	ngapi|ngapi|R|N
+nibbed	adj	nib|nibb|R|N ; -ed|ed|S||-ed (adj)
+nibbles	noun	nibble|nibble|R|N ; -s|s|I||-s (plural)
+nibling	noun	nibling|nibling|R|N
+nibs	noun	nib|nib|R|N ; -s|s|I||-s (plural)
+nickeliferous	adj	nickeliferous|nickeliferous|R|Adj
+nickeline	noun	nickeline|nickeline|R|N
+nickelize	verb	nickel|nickel|R|N ; -ize|ize|S
+nicking	verb	nick|nick|R|V ; -ing|ing|I||-ing (v)
+nicotian	adj	nicotian|nicotian|R|Adj
+nicotinism	noun	nicotine|nicotin|R|N ; -ism|ism|S
+nicotinize	verb	nicotine|nicotin|R|N ; -ize|ize|S
+nictate	verb	nictate|nictate|R|V
+nictation	noun	nictate|nictat|R|V ; -ion|ion|S
+nictitate	verb	nictitate|nictitate|R|V
+nictitation	noun	nictitate|nictitat|R|V ; -ion|ion|S
+nidicolous	adj	nidicolous|nidicolous|R|Adj
+nidificate	verb	nidificate|nidificate|R|V
+nidification	noun	nidificate|nidific|R|V ; -ation|ation|S
+nidifugous	adj	nidifugous|nidifugous|R|Adj
+nidify	verb	nidify|nidify|R|V
+nidorosity	noun	nidorous|nidoros|R|Adj ; -ity|ity|S
+nidus	noun	nidus|nidus|R|N
+nief	noun	nief|nief|R|N
+niellist	noun	niello|niell|R|N ; -ist|ist|S
+niello	noun	niello|niello|R|N
+niff	noun	niff|niff|R|N
+niffy	adj	niff|niff|R|N ; -y|y|S
+nig	noun	nig|nig|R|N
+nigella	noun	nigella|nigella|R|N
+nigga	noun	nigga|nigga|R|N
+niggard	noun	niggard|niggard|R|N
+niggerboy	noun	nigger|nigger|R|N ; boy|boy|R|N
+niggergirl	noun	nigger|nigger|R|N ; girl|girl|R|N
+nightcrawler	noun	night|night|R|N ; crawl|crawl|R|V ; -er|er|S||-er (N)
+nightlight	noun	night|night|R|N ; light|light|R|N
+nightman	noun	night|night|R|N ; man|man|R|N
+nights	noun	night|night|R|N ; -s|s|I||-s (plural)
+nightscape	noun	nightscape|nightscape|R|N
+nightwork	noun	night|night|R|N ; work|work|R|N
+nighty	noun	night|night|R|N ; -y|y|S
+nigiri	noun	nigiri|nigiri|R|N
+niglet	noun	nig|nig|R|N ; -let|let|S
+nigrescence	noun	nigrescence|nigrescence|R|N
+nigrescent	adj	nigrescent|nigrescent|R|Adj
+nigritude	noun	nigritude|nigritude|R|N
+nihility	noun	nihility|nihility|R|N
+nihonium	noun	nihonium|nihonium|R|N
+nikud	noun	nikud|nikud|R|N
+nikuman	noun	nikuman|nikuman|R|N
+nilas	noun	nilas|nilas|R|N
+nilpotent	adj	nilpotent|nilpotent|R|Adj
+nimber	noun	nimber|nimber|R|N
+nimbostratus	noun	nimbostratus|nimbostratus|R|N
+nimiety	noun	nimiety|nimiety|R|N
+ninefold	adj	nine|nine|R|N ; fold|fold|R|V
+ninepins	noun	nine|nine|R|N ; pin|pin|R|N ; -s|s|I||-s (plural)
+ninesome	noun	nine|nine|R|N ; -some|some|S
+nineties	noun	ninety|nineti|R|N ; -s|es|I||-s (plural)
+ninetysomething	noun	ninety|ninety|R|N ; something|something|R|N
+ninhydrin	noun	ninhydrin|ninhydrin|R|N
+ninjutsu	noun	ninjutsu|ninjutsu|R|N
+ninthly	adv	nine|nin|R|N ; -th|th|S ; -ly|ly|I|Adv|-ly (adv)
+nipa	noun	nipa|nipa|R|N
+nipping	verb	nip|nipp|R|V ; -ing|ing|I||-ing (v)
+nippleless	adj	nipple|nipple|R|N ; -less|less|S
+nipplewort	noun	nipple|nipple|R|N ; wort|wort|R|N
+niqab	noun	niqab|niqab|R|N
+nisba	noun	nisba|nisba|R|N
+nisin	noun	nisin|nisin|R|N
+nisus	noun	nisus|nisus|R|N
+niter	noun	niter|niter|R|N

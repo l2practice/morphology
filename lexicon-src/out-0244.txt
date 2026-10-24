@@ -1,0 +1,200 @@
+casualisation	noun	casual|casual|R|Adj ; -ise|is|S ; -ation|ation|S
+casualwear	noun	casual|casual|R|Adj ; wear|wear|R|N
+casuarina	noun	casuarina|casuarina|R|N
+casuist	noun	casuist|casuist|R|N
+casuistic	adj	casuist|casuist|R|N ; -ic|ic|S
+casuistically	adv	casuist|casuist|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+catabolic	adj	catabolic|catabolic|R|Adj
+catabolically	adv	catabolic|catabolic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+catabolism	noun	catabolism|catabolism|R|N
+catabolite	noun	catabolite|catabolite|R|N
+catachresis	noun	catachresis|catachresis|R|N
+cataclasis	noun	cataclasis|cataclasis|R|N
+cataclastic	adj	cataclastic|cataclastic|R|Adj
+catadioptrics	noun	catadioptrics|catadioptrics|R|N
+catadromous	adj	catadromous|catadromous|R|Adj
+catalase	noun	catalase|catalase|R|N
+catalectic	adj	catalectic|catalectic|R|Adj
+catalepsy	noun	catalepsy|catalepsy|R|N
+cataleptic	adj	catalepsy|catalept|R|N ; -ic|ic|S
+catalogued	verb	catalogue|catalogu|R|N ; -ed|ed|I||-ed (v2)
+catalytical	adj	catalytic|catalytic|R|Adj ; -al|al|S
+catalytically	adv	catalytic|catalytic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+catalyzer	noun	catalyze|catalyz|R|V ; -er|er|S||-er (N)
+catamenial	adj	catamenial|catamenial|R|Adj
+catamite	noun	catamite|catamite|R|N
+catamountain	noun	catamountain|catamountain|R|N
+cataphile	noun	cataphile|cataphile|R|N
+cataphora	noun	cataphora|cataphora|R|N
+cataphoresis	noun	cataphoresis|cataphoresis|R|N
+cataphoretic	adj	cataphoretic|cataphoretic|R|Adj
+cataphract	noun	cataphract|cataphract|R|N
+cataphyll	noun	cataphyll|cataphyll|R|N
+cataplasm	noun	cataplasm|cataplasm|R|N
+cataplexy	noun	cataplexy|cataplexy|R|N
+catarrhal	adj	catarrh|catarrh|R|N ; -al|al|S
+catarrhally	adv	catarrh|catarrh|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+catarrhine	adj	catarrhine|catarrhine|R|Adj
+catastrophist	noun	catastrophe|catastroph|R|N ; -ist|ist|S
+catawampus	noun	catawampus|catawampus|R|N
+catawba	noun	catawba|catawba|R|N
+catboat	noun	cat|cat|R|N ; boat|boat|R|N
+catcalling	verb	cat|cat|R|N ; call|call|R|V ; -ing|ing|I||-ing (v)
+catchfly	noun	catch|catch|R|V ; fly|fly|R|N
+catchiness	noun	catchy|catchi|R|Adj ; -ness|ness|S
+catchpenny	noun	catch|catch|R|V ; penny|penny|R|N
+catechising	verb	catechise|catechis|R|V ; -ing|ing|I||-ing (v)
+catechistic	adj	catechistic|catechistic|R|Adj
+catechistical	adj	catechistic|catechistic|R|Adj ; -al|al|S
+catechization	noun	catechize|catechiz|R|V ; -ation|ation|S
+catechizer	noun	catechize|catechiz|R|V ; -er|er|S||-er (N)
+catechol	noun	catechol|catechol|R|N
+catechu	noun	catechu|catechu|R|N
+categoricalness	noun	categorical|categorical|R|Adj ; -ness|ness|S
+categorizable	adj	category|categori|R|N ; -ize|z|S ; -able|able|S
+catena	noun	catena|catena|R|N
+catenate	verb	catena|caten|R|N ; -ate|ate|S
+catenation	noun	catenate|catenat|R|V ; -ion|ion|S
+catenative	adj	catenate|catenat|R|V ; -ive|ive|S
+catenoid	adj	catenoid|catenoid|R|Adj
+catenulate	adj	catenula|catenul|R|N ; -ate|ate|S
+catered	verb	cater|cater|R|V ; -ed|ed|I||-ed (v2)
+caters	verb	cater|cater|R|V ; -s|s|I||-s (3sg)
+catgirl	noun	cat|cat|R|N ; girl|girl|R|N
+catgut	noun	cat|cat|R|N ; gut|gut|R|N
+cathead	noun	cat|cat|R|N ; head|head|R|N
+cathedra	noun	cathedra|cathedra|R|N
+catheterization	noun	catheter|catheter|R|N ; -ize|iz|S ; -ation|ation|S
+catheterize	verb	catheter|catheter|R|N ; -ize|ize|S
+cathetus	noun	cathetus|cathetus|R|N
+cathodically	adv	cathodic|cathodic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+cathodoluminescence	noun	cathodoluminescence|cathodoluminescence|R|N
+catholically	adv	catholic|catholic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+catholicism	noun	catholic|catholic|R|N ; -ism|ism|S
+catholicness	noun	catholic|catholic|R|Adj ; -ness|ness|S
+catholicon	noun	catholicon|catholicon|R|N
+catholicos	noun	catholicos|catholicos|R|N
+catholyte	noun	catholyte|catholyte|R|N
+catling	noun	catling|catling|R|N
+catloaf	noun	cat|cat|R|N ; loaf|loaf|R|N
+catnapping	verb	cat|cat|R|N ; nap|napp|R|V ; -ing|ing|I||-ing (v)
+catoblepas	noun	catoblepas|catoblepas|R|N
+catoptric	adj	catoptric|catoptric|R|Adj
+catoptrics	noun	catoptric|catoptric|R|Adj ; -s|s|I||-s (plural)
+catshark	noun	cat|cat|R|N ; shark|shark|R|N
+catsitter	noun	cat|cat|R|N ; sit|sitt|R|V ; -er|er|S||-er (N)
+catslaughter	noun	cat|cat|R|N ; slaughter|slaughter|R|N
+cattery	noun	cat|catt|R|N ; -ery|ery|S
+cattily	adv	catty|catti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cattiness	noun	catty|catti|R|Adj ; -ness|ness|S
+cattish	adj	cat|catt|R|N ; -ish|ish|S
+cattishness	noun	cat|catt|R|N ; -ish|ish|S ; -ness|ness|S
+cattleshed	noun	cattle|cattle|R|N ; shed|shed|R|N
+cattleya	noun	cattleya|cattleya|R|N
+caucusdom	noun	caucus|caucus|R|N ; -dom|dom|S
+caudad	adv	caudad|caudad|R|Adv
+caudally	adv	caudal|caudal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+caudate	adj	caudate|caudate|R|Adj
+caudation	noun	caudation|caudation|R|N
+caudex	noun	caudex|caudex|R|N
+caudle	noun	caudle|caudle|R|N
+caulerpa	noun	caulerpa|caulerpa|R|N
+caulescent	adj	caulescent|caulescent|R|Adj
+cauline	adj	cauline|cauline|R|Adj
+caulis	noun	caulis|caulis|R|N
+caulked	verb	caulk|caulk|R|V ; -ed|ed|I||-ed (v2)
+caulker	noun	caulk|caulk|R|V ; -er|er|S||-er (N)
+causable	adj	cause|caus|R|V ; -able|able|S
+causalism	noun	causal|causal|R|Adj ; -ism|ism|S
+causationism	noun	causation|causation|R|N ; -ism|ism|S
+causatively	adv	cause|caus|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+causeless	adj	cause|cause|R|N ; -less|less|S
+causer	noun	cause|caus|R|V ; -er|er|S||-er (N)
+causerie	noun	causerie|causerie|R|N
+causticity	noun	caustic|caustic|R|Adj ; -ity|ity|S
+cauterization	noun	cautery|cauter|R|N ; -ize|iz|S ; -ation|ation|S
+cautioned	verb	caution|caution|R|V ; -ed|ed|I||-ed (v2)
+cautioning	verb	caution|caution|R|V ; -ing|ing|I||-ing (v)
+cavalla	noun	cavalla|cavalla|R|N
+cavatina	noun	cavatina|cavatina|R|N
+cavernicolous	adj	cavernicolous|cavernicolous|R|Adj
+cavernitis	noun	cavernitis|cavernitis|R|N
+cavernously	adv	cavernous|cavernous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cavesson	noun	cavesson|cavesson|R|N
+cavetto	noun	cavetto|cavetto|R|N
+caviler	noun	cavil|cavil|R|V ; -er|er|S||-er (N)
+cavilling	verb	cavil|cavill|R|V ; -ing|ing|I||-ing (v)
+cavitary	adj	cavity|cavit|R|N ; -ary|ary|S
+cavitate	verb	cavity|cavit|R|N ; -ate|ate|S
+cavorting	verb	cavort|cavort|R|V ; -ing|ing|I||-ing (v)
+cavy	noun	cavy|cavy|R|N
+cawl	noun	cawl|cawl|R|N
+cayuse	noun	cayuse|cayuse|R|N
+ceaselessness	noun	cease|cease|R|V ; -less|less|S ; -ness|ness|S
+ceasing	verb	cease|ceas|R|V ; -ing|ing|I||-ing (v)
+cecidium	noun	cecidium|cecidium|R|N
+cecity	noun	cecity|cecity|R|N
+cedi	noun	cedi|cedi|R|N
+cedilla	noun	cedilla|cedilla|R|N
+cee	noun	cee|cee|R|N
+ceil	verb	ceil|ceil|R|V
+ceilometer	noun	ceilometer|ceilometer|R|N
+celandine	noun	celandine|celandine|R|N
+celebrator	noun	celebrate|celebrat|R|V ; -or|or|S
+celebrityhood	noun	celebrity|celebrity|R|N ; -hood|hood|S
+celerity	noun	celerity|celerity|R|N
+celesta	noun	celesta|celesta|R|N
+celestially	adv	celestial|celestial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+celestine	noun	celestine|celestine|R|N
+cella	noun	cella|cella|R|N
+cellarage	noun	cellar|cellar|R|N ; -age|age|S
+cellularly	adv	cellular|cellular|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cellulase	noun	cellulase|cellulase|R|N
+cellule	noun	cellule|cellule|R|N
+cellulosic	adj	cellulose|cellulos|R|N ; -ic|ic|S
+celosia	noun	celosia|celosia|R|N
+celt	noun	celt|celt|R|N
+celtuce	noun	celtuce|celtuce|R|N
+cembalo	noun	cembalo|cembalo|R|N
+cementer	noun	cement|cement|R|V ; -er|er|S||-er (N)
+cementing	verb	cement|cement|R|V ; -ing|ing|I||-ing (v)
+cementite	noun	cementite|cementite|R|N
+cementitious	adj	cementitious|cementitious|R|Adj
+cementum	noun	cementum|cementum|R|N
+cemeterial	adj	cemetery|cemeteri|R|N ; -al|al|S
+cendol	noun	cendol|cendol|R|N
+cenobite	noun	cenobite|cenobite|R|N
+cenology	noun	cenology|cenology|R|N
+cenotaphic	adj	cenotaph|cenotaph|R|N ; -ic|ic|S
+cense	verb	cense|cense|R|V
+censorable	adj	censor|censor|R|V ; -able|able|S
+censorial	adj	censor|censor|R|N ; -ial|ial|S
+censoriously	adv	censorious|censorious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+censoriousness	noun	censorious|censorious|R|Adj ; -ness|ness|S
+censorware	noun	censor|censor|R|V ; ware|ware|R|N
+censurability	noun	censor|censur|R|V ; -able|abil|S ; -ity|ity|S
+censurable	adj	censor|censur|R|V ; -able|able|S
+censurableness	noun	censor|censur|R|V ; -able|able|S ; -ness|ness|S
+censurably	adv	censor|censur|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+censured	verb	censure|censur|R|V ; -ed|ed|I||-ed (v2)
+censurer	noun	censure|censur|R|V ; -er|er|S||-er (N)
+censuring	verb	censure|censur|R|V ; -ing|ing|I||-ing (v)
+cental	noun	cental|cental|R|N
+centauress	noun	centaur|centaur|R|N ; -ess|ess|S
+centaury	noun	centaury|centaury|R|N
+centennially	adv	centennial|centennial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+centesimal	adj	centesimal|centesimal|R|Adj
+centesimally	adv	centesimal|centesimal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+centibar	noun	centibar|centibar|R|N
+centigram	noun	centigram|centigram|R|N
+centilitre	noun	centilitre|centilitre|R|N
+centillion	noun	centillion|centillion|R|N
+centime	noun	centime|centime|R|N
+centimetric	adj	centimetre|centimetr|R|N ; -ic|ic|S
+centimo	noun	centimo|centimo|R|N
+centisecond	noun	centisecond|centisecond|R|N
+centner	noun	centner|centner|R|N
+cento	noun	cento|cento|R|N
+centralistic	adj	central|central|R|Adj ; -ist|ist|S ; -ic|ic|S
+centralizer	noun	central|central|R|Adj ; -ize|iz|S ; -er|er|S||-er (N)
+centreboard	noun	centre|centre|R|N ; board|board|R|N

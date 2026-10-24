@@ -1,0 +1,200 @@
+ploughwise	adv	plough|plough|R|V ; -wise|wise|S
+plowable	adj	plow|plow|R|V ; -able|able|S
+plower	noun	plow|plow|R|V ; -er|er|S||-er (N)
+plowwoman	noun	plow|plow|R|V ; woman|woman|R|N
+pluckily	adv	plucky|plucki|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pluckiness	noun	plucky|plucki|R|Adj ; -ness|ness|S
+pluckless	adj	pluck|pluck|R|N ; -less|less|S
+pluggable	adj	plug|plugg|R|V ; -able|able|S
+plugging	noun	plug|plugg|R|V ; -ing|ing|S||-ing (N)
+plumassier	noun	plumassier|plumassier|R|N
+plumbable	adj	plumb|plumb|R|V ; -able|able|S
+plumbean	adj	plumbean|plumbean|R|Adj
+plumbeous	adj	plumbum|plumb|R|N ; -eous|eous|S
+plumbery	noun	plumber|plumber|R|N ; -y|y|S
+plumbic	adj	plumbum|plumb|R|N ; -ic|ic|S
+plumbiferous	adj	plumbiferous|plumbiferous|R|Adj
+plumbism	noun	plumbum|plumb|R|N ; -ism|ism|S
+plumbless	adj	plumb|plumb|R|N ; -less|less|S
+plumbous	adj	plumbum|plumb|R|N ; -ous|ous|S
+plumelet	noun	plume|plume|R|N ; -let|let|S
+pluming	noun	plume|plum|R|V ; -ing|ing|S||-ing (N)
+plumiped	noun	plumiped|plumiped|R|N
+plumose	adj	plumose|plumose|R|Adj
+plumosely	adv	plumose|plumose|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+plumosity	noun	plumose|plumos|R|Adj ; -ity|ity|S
+plumper	noun	plump|plump|R|V ; -er|er|S||-er (N)
+plumping	noun	plump|plump|R|V ; -ing|ing|S||-ing (N)
+plumply	adv	plump|plump|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+plumpy	adj	plump|plump|R|Adj ; -y|y|S
+plumula	noun	plumula|plumula|R|N
+plumulaceous	adj	plumulaceous|plumulaceous|R|Adj
+plumular	adj	plumula|plumul|R|N ; -ar|ar|S
+plumule	noun	plumule|plumule|R|N
+plumulose	adj	plumulose|plumulose|R|Adj
+plumy	adj	plume|plum|R|N ; -y|y|S
+plunderable	adj	plunder|plunder|R|V ; -able|able|S
+plunderage	noun	plunder|plunder|R|V ; -age|age|S
+plunderous	adj	plunder|plunder|R|V ; -ous|ous|S
+plunker	noun	plunk|plunk|R|V ; -er|er|S||-er (N)
+pluot	noun	pluot|pluot|R|N
+pluralistically	adv	pluralistic|pluralistic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+pluralize	verb	plural|plural|R|Adj ; -ize|ize|S
+plurally	adv	plural|plural|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pluriaxial	adj	pluriaxial|pluriaxial|R|Adj
+pluricellular	adj	pluricellular|pluricellular|R|Adj
+pluriform	adj	pluriform|pluriform|R|Adj
+pluriglandular	adj	pluriglandular|pluriglandular|R|Adj
+pluriharmonic	adj	pluriharmonic|pluriharmonic|R|Adj
+plurilocular	adj	plurilocular|plurilocular|R|Adj
+plurinational	adj	plurinational|plurinational|R|Adj
+pluriparous	adj	pluriparous|pluriparous|R|Adj
+pluripartite	adj	pluripartite|pluripartite|R|Adj
+pluripolar	adj	pluripolar|pluripolar|R|Adj
+pluripotent	adj	pluripotent|pluripotent|R|Adj
+plurisegmental	adj	plurisegmental|plurisegmental|R|Adj
+plurisporous	adj	plurisporous|plurisporous|R|Adj
+plurisubharmonic	adj	plurisubharmonic|plurisubharmonic|R|Adj
+plurivalent	adj	plurivalent|plurivalent|R|Adj
+plurivorous	adj	plurivorous|plurivorous|R|Adj
+plushily	adv	plushy|plushi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+plushiness	noun	plushy|plushi|R|Adj ; -ness|ness|S
+plushly	adv	plush|plush|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+plushness	noun	plush|plush|R|Adj ; -ness|ness|S
+plushy	adj	plush|plush|R|Adj ; -y|y|S
+plutarchy	noun	plutarchy|plutarchy|R|N
+pluteus	noun	pluteus|pluteus|R|N
+plutino	noun	plutino|plutino|R|N
+pluto	noun	pluto|pluto|R|N
+plutocratic	adj	plutocrat|plutocrat|R|N ; -ic|ic|S
+plutocratical	adj	plutocratic|plutocratic|R|Adj ; -al|al|S
+plutocratically	adv	plutocrat|plutocrat|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+plutolatry	noun	plutolatry|plutolatry|R|N
+plutology	noun	plutology|plutology|R|N
+pluton	noun	pluton|pluton|R|N
+plutonic	adj	pluton|pluton|R|N ; -ic|ic|S
+plutonism	noun	pluton|pluton|R|N ; -ism|ism|S
+plutonist	noun	pluton|pluton|R|N ; -ist|ist|S
+plutonomic	adj	plutonomy|plutonom|R|N ; -ic|ic|S
+plutonomist	noun	plutonomy|plutonom|R|N ; -ist|ist|S
+plutonomy	noun	plutonomy|plutonomy|R|N
+plutophile	noun	plutophile|plutophile|R|N
+plutophobia	noun	plutophobia|plutophobia|R|N
+pluvial	adj	pluvia|pluvi|R|N ; -al|al|S
+pluviograph	noun	pluviograph|pluviograph|R|N
+pluviometer	noun	pluviometer|pluviometer|R|N
+pluviometric	adj	pluviometry|pluviometr|R|N ; -ic|ic|S
+pluviometrical	adj	pluviometry|pluviometr|R|N ; -ical|ical|S
+pluviometrically	adv	pluviometry|pluviometr|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+pluviometry	noun	pluviometry|pluviometry|R|N
+pluviophile	noun	pluviophile|pluviophile|R|N
+pluviophilous	adj	pluviophilous|pluviophilous|R|Adj
+pluvioscope	noun	pluvioscope|pluvioscope|R|N
+pluviosity	noun	pluviosity|pluviosity|R|N
+pluvious	adj	pluvia|pluvi|R|N ; -ous|ous|S
+plyer	noun	ply|ply|R|V ; -er|er|S||-er (N)
+plying	noun	ply|ply|R|V ; -ing|ing|S||-ing (N)
+pneuma	noun	pneuma|pneuma|R|N
+pneumaticity	noun	pneumatic|pneumatic|R|Adj ; -ity|ity|S
+pneumatics	noun	pneumatics|pneumatics|R|N
+pneumatocyst	noun	pneumatocyst|pneumatocyst|R|N
+pneumatogram	noun	pneumatogram|pneumatogram|R|N
+pneumatograph	noun	pneumatograph|pneumatograph|R|N
+pneumatologist	noun	pneumatology|pneumatolog|R|N ; -ist|ist|S
+pneumatolysis	noun	pneumatolysis|pneumatolysis|R|N
+pneumatolytic	adj	pneumatolysis|pneumatolyt|R|N ; -ic|ic|S
+pneumatometer	noun	pneumatometer|pneumatometer|R|N
+pneumatophore	noun	pneumatophore|pneumatophore|R|N
+pneumectomy	noun	pneumectomy|pneumectomy|R|N
+pneumococcic	adj	pneumococcus|pneumococc|R|N ; -ic|ic|S
+pneumococcus	noun	pneumococcus|pneumococcus|R|N
+pneumoconiosis	noun	pneumoconiosis|pneumoconiosis|R|N
+pneumogastric	adj	pneumogastric|pneumogastric|R|Adj
+pneumogram	noun	pneumogram|pneumogram|R|N
+pneumographic	adj	pneumography|pneumograph|R|N ; -ic|ic|S
+pneumological	adj	pneumology|pneumolog|R|N ; -ical|ical|S
+pneumology	noun	pneumology|pneumology|R|N
+pneumonoultramicroscopicsilicovolcanoconiosis	noun	pneumonoultramicroscopicsilicovolcanoconiosis|pneumonoultramicroscopicsilicovolcanoconiosis|R|N
+pneumorrhagia	noun	pneumorrhagia|pneumorrhagia|R|N
+pneumostome	noun	pneumostome|pneumostome|R|N
+pnictogen	noun	pnictogen|pnictogen|R|N
+po	interj	po|po|R
+poachable	adj	poach|poach|R|V ; -able|able|S
+pochard	noun	pochard|pochard|R|N
+pochette	noun	pochette|pochette|R|N
+pocketable	adj	pocket|pocket|R|N ; -able|able|S
+pocketed	adj	pocket|pocket|R|N ; -ed|ed|S||-ed (adj)
+pocketing	noun	pocket|pocket|R|V ; -ing|ing|S||-ing (N)
+pocketless	adj	pocket|pocket|R|N ; -less|less|S
+pocketpussy	noun	pocket|pocket|R|N ; pussy|pussy|R|N
+pockety	adj	pocket|pocket|R|N ; -y|y|S
+pockiness	noun	pocky|pocki|R|Adj ; -ness|ness|S
+pocky	adj	pock|pock|R|N ; -y|y|S
+pococurante	noun	pococurante|pococurante|R|N
+pococurantism	noun	pococurante|pococurant|R|N ; -ism|ism|S
+poculiform	adj	poculiform|poculiform|R|Adj
+podagra	noun	podagra|podagra|R|N
+podagral	adj	podagra|podagr|R|N ; -al|al|S
+podal	adj	pod|pod|R|N ; -al|al|S
+podcaster	noun	podcast|podcast|R|N ; -er|er|S||-er (N)
+podded	adj	pod|podd|R|V ; -ed|ed|S||-ed (adj)
+poddy	adj	pod|podd|R|N ; -y|y|S
+podex	noun	podex|podex|R|N
+podge	noun	podge|podge|R|N
+podginess	noun	podgy|podgi|R|Adj ; -ness|ness|S
+podocyst	noun	podocyst|podocyst|R|N
+podogynium	noun	podogynium|podogynium|R|N
+podomere	noun	podomere|podomere|R|N
+podophyllous	adj	podophyllous|podophyllous|R|Adj
+podstakannik	noun	podstakannik|podstakannik|R|N
+podzol	noun	podzol|podzol|R|N
+podzolic	adj	podzol|podzol|R|N ; -ic|ic|S
+poesy	noun	poesy|poesy|R|N
+poetaster	noun	poetaster|poetaster|R|N
+poeticality	noun	poetical|poetical|R|Adj ; -ity|ity|S
+poeticalness	noun	poetical|poetical|R|Adj ; -ness|ness|S
+poeticism	noun	poetic|poetic|R|Adj ; -ism|ism|S
+poeticity	noun	poetic|poetic|R|Adj ; -ity|ity|S
+poeticize	verb	poetic|poetic|R|Adj ; -ize|ize|S
+poetise	verb	poet|poet|R|N ; -ise|ise|S
+poetize	verb	poet|poet|R|N ; -ize|ize|S
+poetizer	noun	poetize|poetiz|R|V ; -er|er|S||-er (N)
+pogonology	noun	pogonology|pogonology|R|N
+pogonophoran	noun	pogonophoran|pogonophoran|R|N
+pogromist	noun	pogrom|pogrom|R|N ; -ist|ist|S
+poignance	noun	poignant|poign|R|Adj ; -ance|ance|S
+poikilocyte	noun	poikilocyte|poikilocyte|R|N
+poikilotherm	noun	poikilotherm|poikilotherm|R|N
+poikilothermic	adj	poikilotherm|poikilotherm|R|N ; -ic|ic|S
+poikilothermism	noun	poikilotherm|poikilotherm|R|N ; -ism|ism|S
+poilu	noun	poilu|poilu|R|N
+poinciana	noun	poinciana|poinciana|R|N
+pointedness	noun	pointed|pointed|R|Adj ; -ness|ness|S
+pointel	noun	pointel|pointel|R|N
+pointillist	noun	pointillism|pointill|R|N ; -ist|ist|S
+points	noun	point|point|R|N ; -s|s|I||-s (plural)
+pointsman	noun	point|points|R|N ; man|man|R|N
+pointwise	adv	point|point|R|N ; -wise|wise|S
+poising	noun	poise|pois|R|V ; -ing|ing|S||-ing (N)
+poisonously	adv	poisonous|poisonous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+poisonousness	noun	poisonous|poisonous|R|Adj ; -ness|ness|S
+pokeweed	noun	poke|poke|R|V ; weed|weed|R|N
+pokie	noun	pokie|pokie|R|N
+pokily	adv	poky|poki|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pokiness	noun	poky|poki|R|Adj ; -ness|ness|S
+polacca	noun	polacca|polacca|R|N
+polarimeter	noun	polarimeter|polarimeter|R|N
+polarimetric	adj	polarimetry|polarimetr|R|N ; -ic|ic|S
+polariscope	noun	polariscope|polariscope|R|N
+polarising	noun	polarise|polaris|R|V ; -ing|ing|S||-ing (N)
+polarizability	noun	polarizable|polarizabil|R|Adj ; -ity|ity|S
+polarizable	adj	polarize|polariz|R|V ; -able|able|S
+polaron	noun	polaron|polaron|R|N
+polatouche	noun	polatouche|polatouche|R|N
+polder	noun	polder|polder|R|N
+pole	noun	pole|pole|R|N
+polearm	noun	pole|pole|R|N ; arm|arm|R|N
+poleaxe	noun	pole|pole|R|N ; axe|axe|R|N
+poled	verb	pole|pol|R|V ; -ed|ed|I||-ed (v2)
+polemarch	noun	polemarch|polemarch|R|N
+polemically	adv	polemic|polemic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)

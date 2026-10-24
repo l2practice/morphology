@@ -1,0 +1,150 @@
+arbitrary	adj	arbit|arbit|B|N|||Latin arbiter 'judge' ; -rary|rary|S||||Latin -arius 'relating to'
+formidable	adj	formid|formid|B|N|||Latin formido 'fear' ; -able|able|S||||Latin -abilis 'able to be'
+clarity	noun	=
+rebellion	noun	=
+graphic	adj	graph|graph|B|N|||Greek graphein 'to write' ; -ic|ic|S||||Greek -ikos 'relating to'
+deficiency	noun	=
+transplant	verb	=
+explosive	adj	=
+pudding	noun	=
+illuminate	verb	il-|il|P||||Latin in- 'in' ; -lumin-|lumin|B|N|||Latin lumen 'light' ; -ate|ate|S||||Latin -atus 'made, having'
+adjacent	adj	ad-|ad|P||||Latin ad- 'to' ; -jac-|jac|B|V|||Latin iacere 'to lie' ; -ent|ent|S||||Latin -ens 'present participle'
+analogy	noun	ana-|ana|P||||Greek ana- 'up, again' ; -log-|log|B|N|||Greek logos 'speech, reckoning' ; -y|y|S||||Greek -ia 'state'
+grill	noun	=
+innocence	noun	in-|in|P||||Latin in- 'not' ; -noc-|noc|B|V|||Latin nocere 'to harm' ; -ence|ence|S||||Latin -entia 'state, quality'
+locality	noun	=
+pony	noun	=
+optimism	noun	optim|optim|B|Adj|||Latin optimus 'best' ; -ism|ism|S||||Greek -ismos 'doctrine, state'
+regression	noun	=
+posture	noun	posit|post|B|V|||Latin ponere 'to put' ; -ure|ure|S||||Latin -ura 'action, result'
+ambiguity	noun	=
+demon	noun	=
+invoke	noun	in-|in|P||||Latin in- 'in' ; -voke|voke|B|V|||Latin vocare 'to call'
+solidarity	noun	=
+abundance	noun	=
+ethnicity	noun	=
+geographic	adj	geo-|geo|B|N|||Greek ge 'earth' ; -graph-|graph|B|N|||Greek graphein 'to write' ; -ic|ic|S||||Greek -ikos 'relating to'
+atomic	adj	=
+portable	adj	=
+environmentalist	noun	=
+subscription	noun	=
+ironic	adj	=
+superintendent	noun	=
+variant	noun	=
+memorandum	noun	memor|memor|B|N|||Latin memor 'mindful' ; -andum|andum|S||||Latin -andus 'to be'
+butler	noun	=
+semester	noun	=
+disciplinary	adj	=
+detector	noun	=
+rotate	verb	=
+decree	noun	=
+alpha	noun	=
+settler	noun	=
+unionist	noun	=
+exclaim	verb	=
+autonomous	adj	auto-|auto|P||||Greek autos 'self' ; -nom-|nom|B|N|||Greek nomos 'law' ; -ous|ous|S||||Greek -os 'having'
+aggregate	noun	=
+amnesty	noun	=
+sediment	noun	sed|sed|B|V|||Latin sedere 'to sit' ; -iment|iment|S||||Latin -imentum 'result'
+lexical	noun	lex|lex|B|N|||Greek lexis 'word' ; -ical|ical|S||||Latin -alis 'relating to'
+conceptual	noun	=
+pylorus	noun	=
+visa	noun	=
+demolish	verb	=
+peach	noun	=
+summarize	verb	=
+nurture	verb	nurt|nurt|B|V|||Latin nutrire 'to nourish' ; -ure|ure|S||||Latin -ura 'action, result'
+vivid	adj	viv|viv|B|V|||Latin vivere 'to live' ; -id|id|S||||Latin -idus 'having'
+poison	noun	=
+indulge	verb	=
+disguise	verb	=
+flourish	verb	flour|flour|B|N|||Latin flos 'flower' ; -ish|ish|S||||French -iss 'verb stem'
+umbrella	noun	umbr|umbr|B|N|||Latin umbra 'shadow' ; -ella|ella|S||||Latin -ella 'little'
+labourer	noun	=
+obsession	noun	=
+problematic	adj	=
+vigorous	adj	=
+nutrition	noun	nutr|nutr|B|V|||Latin nutrire 'to nourish' ; -ition|ition|S||||Latin -itio 'action, process'
+pillar	noun	pil|pill|B|N|||Latin pila 'pillar' ; -ar|ar|S||||Latin -aris 'relating to'
+obscure	adj	=
+melody	noun	=
+restrain	verb	=
+memoir	noun	=
+cultivate	verb	=
+agony	noun	agon|agon|B|N|||Greek agon 'contest' ; -y|y|S||||Greek -ia 'state'
+inject	verb	in-|in|P||||Latin in- 'in' ; -ject|ject|B|V|||Latin iacere 'to throw'
+bracket	noun	=
+aluminium	noun	alumin|alumin|B|N|||Latin alumen 'alum' ; -ium|ium|S||||Latin -ium 'element'
+unreasonable	adj	=
+defy	verb	de-|de|P||||Latin dis- 'away' ; -fy|fy|B|V||fid|Latin fidere 'to trust'
+magical	adj	=
+axis	noun	=
+applause	noun	=
+spontaneous	adj	=
+suitcase	noun	=
+reluctance	noun	=
+admiration	noun	ad-|ad|P||||Latin ad- 'to' ; -mir-|mir|B|V|||Latin mirari 'to wonder' ; -ation|ation|S||||Latin -atio 'action, process'
+simplicity	noun	=
+quantum	noun	=
+eternal	adj	etern|etern|B|N|||Latin aeternus 'eternal' ; -al|al|S||||Latin -alis 'relating to'
+feast	noun	=
+indictment	noun	=
+mould	noun	=
+interpreter	noun	=
+collision	noun	=
+verify	verb	ver|ver|B|Adj|||Latin verus 'true' ; -ify|ify|S||||Latin -ificare 'to make'
+rude	adj	=
+clan	noun	=
+diplomacy	noun	=
+spice	noun	=
+skillet	noun	=
+fairy	noun	=
+peat	noun	=
+imaginative	adj	=
+instrumental	adj	=
+astronaut	noun	astro-|astro|B|N|||Greek astron 'star' ; -naut|naut|B|N|||Greek nautes 'sailor'
+crust	noun	=
+prestige	noun	=
+sausage	noun	=
+millennium	noun	mill|mill|B|N|||Latin mille 'thousand' ; -enn|enn|B|N|||Latin annus 'year' ; -ium|ium|S||||Latin -ium 'abstract noun'
+mosquito	noun	mosqu|mosqu|B|N||mosc|Latin musca 'fly' ; -ito|ito|S||||Spanish -ito 'little'
+nationality	noun	=
+vine	noun	=
+absurd	adj	ab-|ab|P||||Latin ab 'away' ; -surd|surd|B|Adj|||Latin surdus 'deaf, dull'
+simulation	noun	simul|simul|B|V|||Latin simulare 'to imitate' ; -ation|ation|S||||Latin -atio 'action, process'
+disruption	noun	dis-|dis|P||||Latin dis- 'apart' ; -rupt|rupt|B|V|||Latin rumpere 'to break' ; -ion|ion|S||||Latin -io 'action, state'
+outrage	noun	=
+constrain	verb	=
+jealous	adj	jeal|jeal|B|N||zel|Greek zelos 'zeal' ; -ous|ous|S||||Latin -osus 'full of'
+constructive	adj	=
+complement	noun	comple|comple|B|V|||Latin complere 'to fill' ; -ment|ment|S||||Latin -mentum 'result, state'
+vicar	noun	=
+recreation	noun	re-|re|P||||Latin re- 'again' ; -cre-|cre|B|V|||Latin creare 'to create' ; -ation|ation|S||||Latin -atio 'action, process'
+enthusiast	noun	=
+liquor	noun	=
+affirm	verb	=
+applaud	verb	ap-|ap|P||||Latin ad- 'to' ; -plaud|plaud|B|V|||Latin plaudere 'to clap'
+stabilize	verb	=
+chimney	noun	=
+cube	noun	=
+litre	noun	=
+carol	noun	=
+preacher	noun	=
+facial	adj	fac|fac|B|N|||Latin facies 'face' ; -ial|ial|S||||Latin -ialis 'relating to'
+plantation	noun	=
+residue	noun	=
+monarch	noun	mon-|mon|P||||Greek monos 'only' ; -arch|arch|B|N|||Greek arkhe 'rule, power'
+manipulation	noun	=
+proponent	noun	pro-|pro|P||||Latin pro 'forward' ; -pon-|pon|B|V|||Latin ponere 'to put' ; -ent|ent|S||||Latin -ens 'present participle'
+antique	adj	ant|ant|B|N|||Latin ante 'before' ; -ique|ique|S||||Latin -iquus 'relating to'
+pasture	noun	past|past|B|V|||Latin pascere 'to graze' ; -ure|ure|S||||Latin -ura 'action, result'
+fabulous	adj	=
+communism	noun	=
+intersection	noun	=
+asylum	noun	=
+injunction	noun	in-|in|P||||Latin in- 'in' ; -junct|junct|B|V|||Latin iungere 'to join' ; -ion|ion|S||||Latin -io 'action, state'
+reconciliation	noun	=
+erase	verb	e-|e|P||||Latin ex- 'out' ; -rase|rase|B|V|||Latin radere 'to scrape'
+socket	noun	=
+chord	noun	=
+armor	noun	=

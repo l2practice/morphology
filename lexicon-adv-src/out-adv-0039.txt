@@ -1,0 +1,150 @@
+rescind	verb	re-|re|P||||Latin re- 'back' ; -scind|scind|B|V|||Latin scindere 'to cut'
+append	verb	ap-|ap|P||||Latin ad- 'upon' ; -pend|pend|B|V|||Latin pendere 'to hang'
+interrogator	noun	=
+potion	noun	pot-|pot|B|V|||Latin potare 'to drink' ; -ion|ion|S||||Latin -io 'act, result'
+cyst	noun	=
+molestation	noun	=
+moron	noun	=
+pernicious	adj	per-|per|P||||Latin per 'through' ; -nic-|nic|B|N|||Latin nex 'slaughter, death' ; -ious|ious|S||||Latin -iosus 'full of'
+consumerism	noun	=
+caustic	adj	caust-|caust|B|V|||Greek kaiein 'to burn' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+edict	noun	=
+alphabetical	adj	=
+transformative	adj	=
+locust	noun	=
+genteel	adj	gent-|gent|B|N|||Latin gens 'clan, people' ; -eel|eel|S||||Latin -ilis 'pertaining to'
+masturbation	noun	=
+unanimity	noun	=
+acupuncture	noun	acu-|acu|B|N|||Latin acus 'needle' ; -puncture|puncture|R|N
+monotony	noun	mono-|mono|P||||Greek monos 'one, alone' ; -tony|tony|B|N|||Greek tonos 'tone'
+lenient	adj	leni-|leni|B|Adj|||Latin lenis 'soft, gentle' ; -ent|ent|S||||Latin -ens 'present participle'
+pander	verb	=
+citadel	noun	=
+mutton	noun	=
+hypnosis	noun	hypn-|hypn|B|N|||Greek hypnos 'sleep' ; -osis|osis|S||||Greek -osis 'process, state'
+intolerant	adj	=
+altruism	noun	altrui-|altru|B|Adj|||Latin alter 'other' ; -ism|ism|S||||Greek -ismos 'doctrine, practice'
+pauper	noun	=
+ethereal	adj	ether-|ether|B|N|||Greek aither 'upper air' ; -eal|eal|S||||Latin -alis 'pertaining to'
+intrepid	adj	in-|in|P||||Latin in- 'not' ; -trepid|trepid|B|Adj|||Latin trepidus 'anxious'
+neoclassical	adj	=
+scavenger	noun	=
+deformity	noun	=
+spiky	adj	=
+suction	noun	suct-|suct|B|V|||Latin sugere 'to suck' ; -ion|ion|S||||Latin -io 'act, result'
+neoliberal	adj	=
+implacable	adj	=
+perfectionism	noun	=
+predation	noun	praed-|pred|B|V|||Latin praedari 'to plunder' ; -ation|ation|S||||Latin -atio 'act, process'
+evaporation	noun	=
+engross	verb	=
+diminution	noun	=
+converter	noun	=
+perplex	verb	per-|per|P||||Latin per 'through' ; -plex|plex|B|V|||Latin plectere 'to weave'
+psychometric	adj	=
+incredulity	noun	in-|in|P||||Latin in- 'not' ; -credul-|credul|B|V|||Latin credere 'to believe' ; -ity|ity|S||||Latin -itas 'state, quality'
+pivot	noun	=
+perfectionist	noun	=
+polystyrene	noun	poly-|poly|P||||Greek polys 'many' ; -styrene|styrene|B|N|||Greek styrax 'storax resin'
+pomegranate	noun	=
+elucidate	verb	e-|e|P||||Latin ex- 'out' ; -lucid-|lucid|B|V|||Latin lucere 'to shine' ; -ate|ate|S||||Latin -atus 'verb-forming'
+dowry	noun	=
+dainty	adj	=
+chieftain	noun	=
+proportionate	adj	=
+atrium	noun	=
+agonize	verb	=
+nemesis	noun	=
+annihilate	verb	an-|an|P||||Latin ad- 'to' ; -nihil-|nihil|B|N|||Latin nihil 'nothing' ; -ate|ate|S||||Latin -atus 'verb-forming'
+vigilante	noun	=
+parson	noun	=
+precocious	adj	pre-|pre|P||||Latin prae 'before' ; -coqu-|coc|B|V|||Latin coquere 'to ripen' ; -ious|ious|S||||Latin -iosus 'full of'
+indelible	adj	=
+reversion	noun	=
+mauve	noun	=
+impropriety	noun	=
+putative	adj	put-|put|B|V|||Latin putare 'to think' ; -ative|ative|S||||Latin -ativus 'tending to'
+purification	noun	=
+luster	noun	=
+demonize	verb	=
+gingerbread	noun	=
+munition	noun	mun-|mun|B|V|||Latin munire 'to fortify' ; -ition|ition|S||||Latin -tio 'act, result'
+commemoration	noun	=
+relent	verb	re-|re|P||||Latin re- 'again' ; -lent|lent|B|Adj|||Latin lentus 'pliant, slow'
+octopus	noun	octo-|octo|P||||Greek okto 'eight' ; -pus|pus|B|N|||Greek pous 'foot'
+musty	adj	=
+sardine	noun	=
+urchin	noun	=
+synchronize	verb	syn-|syn|P||||Greek syn 'together' ; -chrono-|chron|B|N|||Greek khronos 'time' ; -ize|ize|S||||Greek -izein 'to make'
+abbreviation	noun	ab-|ab|P||||Latin ad- 'to' ; -brevi-|brevi|B|Adj|||Latin brevis 'short' ; -ation|ation|S||||Latin -atio 'act, process'
+phobia	noun	phob-|phob|B|N|||Greek phobos 'fear' ; -ia|ia|S||||Greek -ia 'state, condition'
+purveyor	noun	=
+dissenter	noun	=
+parenthesis	noun	=
+renege	verb	=
+oscillate	verb	=
+sensuality	noun	=
+compatriot	noun	=
+infiltration	noun	=
+violator	noun	=
+stanza	noun	=
+euthanasia	noun	eu-|eu|P||||Greek eu 'good' ; -thanas-|thanas|B|N|||Greek thanatos 'death' ; -ia|ia|S||||Greek -ia 'state, condition'
+emigrant	noun	=
+sardonic	adj	=
+chisel	noun	=
+furor	noun	=
+lichen	noun	=
+particulate	adj	part-|part|B|N|||Latin pars 'part' ; -icul-|icul|S||||Latin -icula 'diminutive' ; -ate|ate|S||||Latin -atus 'adjective-forming'
+launder	verb	=
+morsel	noun	=
+partake	verb	=
+azalea	noun	=
+voluminous	adj	volum-|volum|B|V|||Latin volvere 'to roll' ; -inous|inous|S||||Latin -osus 'full of'
+siphon	noun	=
+solicitation	noun	=
+megawatt	noun	=
+epidemiologist	noun	=
+iodine	noun	iod-|iod|B|Adj|||Greek ioeides 'violet' ; -ine|ine|S||||Greek -ine 'chemical substance'
+malady	noun	=
+parliamentarian	noun	=
+insurrection	noun	=
+quandary	noun	=
+gourd	noun	=
+prudential	adj	prudent-|prudent|B|Adj|||Latin prudens 'wise, foreseeing' ; -ial|ial|S||||Latin -ialis 'pertaining to'
+mega	adj	=
+categorization	noun	=
+minimalist	noun	=
+principality	noun	=
+consulate	noun	=
+prologue	noun	pro-|pro|P||||Greek pro 'before' ; -logue|logue|B|N|||Greek logos 'word, speech'
+trepidation	noun	trepid-|trepid|B|Adj|||Latin trepidus 'anxious' ; -ation|ation|S||||Latin -atio 'act, process'
+ventilator	noun	=
+falsify	verb	=
+hubris	noun	=
+tendril	noun	=
+macabre	adj	=
+hypocrite	noun	=
+concierge	noun	=
+essayist	noun	=
+quadrant	noun	=
+elation	noun	=
+maturation	noun	=
+insinuate	verb	=
+testimonial	noun	=
+primeval	adj	prim-|prim|P||||Latin primus 'first' ; -ev-|ev|B|N|||Latin aevum 'age, time' ; -al|al|S||||Latin -alis 'pertaining to'
+plural	adj	plur-|plur|B|Adj|||Latin plus 'more' ; -al|al|S||||Latin -alis 'pertaining to'
+epilepsy	noun	epi-|epi|P||||Greek epi 'upon' ; -leps-|leps|B|V|||Greek lambanein 'to seize' ; -y|y|S||||Greek -ia 'state, condition'
+archetype	noun	=
+reclamation	noun	=
+heiress	noun	=
+enormity	noun	=
+attitudinal	adj	=
+fecal	adj	=
+globular	adj	=
+bronchitis	noun	bronch-|bronch|B|N|||Greek bronkhos 'windpipe' ; -itis|itis|S||||Greek -itis 'inflammation'
+mysticism	noun	=
+plinth	noun	=
+absenteeism	noun	=
+dissection	noun	=
+gash	noun	=
+lithium	noun	lith-|lith|B|N|||Greek lithos 'stone' ; -ium|ium|S||||Latin -ium 'chemical element'

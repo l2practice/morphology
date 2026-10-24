@@ -1,0 +1,200 @@
+supercompact	adj	super-|super|P ; compact|compact|R|Adj
+supercomplex	adj	super-|super|P ; complex|complex|R|Adj
+superconcentration	noun	super-|super|P ; concentrate|concentrat|R|V ; -ion|ion|S
+superconduction	noun	super-|super|P ; conduct|conduct|R|V ; -ion|ion|S
+supercool	verb	super-|super|P ; cool|cool|R|V
+supercooling	verb	super-|super|P ; cool|cool|R|V ; -ing|ing|I||-ing (v)
+supercurrent	noun	super-|super|P ; current|current|R|N
+superdeterminism	noun	super-|super|P ; determine|determin|R|V ; -ism|ism|S
+superdominance	noun	super-|super|P ; dominant|domin|R|Adj ; -ance|ance|S
+superdominant	adj	super-|super|P ; dominant|dominant|R|Adj
+superdreadnought	noun	super-|super|P ; dreadnought|dreadnought|R|N
+superelevate	verb	super-|super|P ; elevate|elevate|R|V
+superelevation	noun	super-|super|P ; elevate|elevat|R|V ; -ion|ion|S
+superellipse	noun	super-|super|P ; ellipse|ellipse|R|N
+supereminence	noun	super-|super|P ; eminent|emin|R|Adj ; -ence|ence|S
+supereminent	adj	super-|super|P ; eminent|eminent|R|Adj
+supereminently	adv	super-|super|P ; eminent|eminent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+supererogation	noun	supererogate|supererogat|R|V ; -ion|ion|S
+supererogatory	adj	supererogate|supererogat|R|V ; -ory|ory|S
+superethical	adj	super-|super|P ; ethical|ethical|R|Adj
+superexcellence	noun	super-|super|P ; excellent|excell|R|Adj ; -ence|ence|S
+superexcellent	adj	super-|super|P ; excellent|excellent|R|Adj
+superexcitation	noun	super-|super|P ; excite|excit|R|V ; -ation|ation|S
+superfamily	noun	super-|super|P ; family|family|R|N
+superfast	adj	super-|super|P ; fast|fast|R|Adj
+superfatted	adj	super-|super|P ; fat|fatt|R|Adj ; -ed|ed|S||-ed (adj)
+superfecundation	noun	super-|super|P ; fecundate|fecund|R|V ; -ation|ation|S
+superfemale	noun	super-|super|P ; female|female|R|N
+superfetation	noun	super-|super|P ; fetation|fetation|R|N
+superficies	noun	superficies|superficies|R|N
+superfluously	adv	superfluous|superfluous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+superfluousness	noun	superfluous|superfluous|R|Adj ; -ness|ness|S
+superfood	noun	super-|super|P ; food|food|R|N
+superfortress	noun	super-|super|P ; fortress|fortress|R|N
+supergalaxy	noun	super-|super|P ; galaxy|galaxy|R|N
+supergene	noun	super-|super|P ; gene|gene|R|N
+superglass	noun	super-|super|P ; glass|glass|R|N
+supergravity	noun	super-|super|P ; gravity|gravity|R|N
+supergrid	noun	super-|super|P ; grid|grid|R|N
+supergun	noun	super-|super|P ; gun|gun|R|N
+superhard	adj	super-|super|P ; hard|hard|R|Adj
+superharmonic	adj	super-|super|P ; harmonic|harmonic|R|Adj
+superheat	verb	super-|super|P ; heat|heat|R|V
+superheater	noun	super-|super|P ; heat|heat|R|V ; -er|er|S||-er (N)
+superheating	verb	super-|super|P ; heat|heat|R|V ; -ing|ing|I||-ing (v)
+superheavy	adj	super-|super|P ; heavy|heavy|R|Adj
+superheroine	noun	super-|super|P ; heroine|heroine|R|N
+superhet	noun	superhet|superhet|R|N
+superheterodyne	noun	super-|super|P ; heterodyne|heterodyne|R|N
+superhigh	adj	super-|super|P ; high|high|R|Adj
+superhumanity	noun	super-|super|P ; humanity|humanity|R|N
+superhumanly	adv	super-|super|P ; human|human|R|N ; -ly|ly|I|Adv|-ly (adv)
+superhumanness	noun	super-|super|P ; human|human|R|N ; -ness|ness|S
+superimpregnation	noun	super-|super|P ; impregnate|impregn|R|V ; -ation|ation|S
+superincumbence	noun	super-|super|P ; incumbent|incumb|R|Adj ; -ence|ence|S
+superincumbency	noun	super-|super|P ; incumbent|incumb|R|Adj ; -ency|ency|S
+superincumbent	adj	super-|super|P ; incumbent|incumbent|R|Adj
+superincumbently	adv	super-|super|P ; incumbent|incumbent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+superinduce	verb	super-|super|P ; induce|induce|R|V
+superinduction	noun	super-|super|P ; induce|induc|R|V ; -tion|tion|S
+superinfect	verb	super-|super|P ; infect|infect|R|V
+superinfection	noun	super-|super|P ; infect|infect|R|V ; -ion|ion|S
+superintelligence	noun	super-|super|P ; intelligence|intelligence|R|N
+superintendence	noun	super-|super|P ; intend|intend|R|V ; -ence|ence|S
+superioress	noun	superior|superior|R|Adj ; -ess|ess|S
+superjacent	adj	superjacent|superjacent|R|Adj
+superjet	noun	super-|super|P ; jet|jet|R|N
+superlatively	adv	superlative|superlative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+superlativeness	noun	superlative|superlative|R|Adj ; -ness|ness|S
+superlunar	adj	super-|super|P ; lunar|lunar|R|Adj
+superlunary	adj	super-|super|P ; lunary|lunary|R|Adj
+supermolecule	noun	super-|super|P ; molecule|molecule|R|N
+supermoon	noun	super-|super|P ; moon|moon|R|N
+supermundane	adj	super-|super|P ; mundane|mundane|R|Adj
+supernaculum	noun	supernaculum|supernaculum|R|N
+supernally	adv	supernal|supernal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+supernational	adj	super-|super|P ; national|national|R|Adj
+supernationalism	noun	super-|super|P ; national|national|R|Adj ; -ism|ism|S
+supernaturalist	noun	super-|super|P ; natural|natural|R|Adj ; -ist|ist|S
+supernaturalize	verb	super-|super|P ; natural|natural|R|Adj ; -ize|ize|S
+supernaturalness	noun	super-|super|P ; natural|natural|R|Adj ; -ness|ness|S
+supernutrition	noun	super-|super|P ; nutrition|nutrition|R|N
+superorder	noun	super-|super|P ; order|order|R|N
+superordinary	adj	super-|super|P ; ordinary|ordinary|R|Adj
+superorganic	adj	super-|super|P ; organic|organic|R|Adj
+superoxygenation	noun	super-|super|P ; oxygenate|oxygen|R|V ; -ation|ation|S
+superparasite	noun	super-|super|P ; parasite|parasite|R|N
+superparasitic	adj	super-|super|P ; parasitic|parasitic|R|Adj
+superparasitism	noun	super-|super|P ; parasite|parasit|R|N ; -ism|ism|S
+superpartner	noun	super-|super|P ; partner|partner|R|N
+superphosphate	noun	super-|super|P ; phosphate|phosphate|R|N
+superphylum	noun	super-|super|P ; phylum|phylum|R|N
+superphysical	adj	super-|super|P ; physical|physical|R|Adj
+superposable	adj	super-|super|P ; pose|pos|R|V ; -able|able|S
+superposed	verb	super-|super|P ; pose|pos|R|V ; -ed|ed|I||-ed (v2)
+superprofit	noun	super-|super|P ; profit|profit|R|N
+superrealism	noun	super-|super|P ; realism|realism|R|N
+supersacral	adj	super-|super|P ; sacral|sacral|R|Adj
+supersaturate	verb	super-|super|P ; saturate|saturate|R|V
+supersaturated	adj	super-|super|P ; saturate|saturat|R|V ; -ed|ed|S||-ed (adj)
+supersaturation	noun	super-|super|P ; saturate|saturat|R|V ; -ion|ion|S
+superscribe	verb	super-|super|P ; -scribe|scribe|B|V
+superscription	noun	super-|super|P ; -scribe|script|B|V ; -ion|ion|S
+superseding	verb	supersede|supersed|R|V ; -ing|ing|I||-ing (v)
+supersensible	adj	super-|super|P ; sensible|sensible|R|Adj
+supersensitiveness	noun	super-|super|P ; sensitive|sensitive|R|Adj ; -ness|ness|S
+supersensitivity	noun	super-|super|P ; sensitive|sensitiv|R|Adj ; -ity|ity|S
+supersensory	adj	super-|super|P ; sensory|sensory|R|Adj
+supersensual	adj	super-|super|P ; sensual|sensual|R|Adj
+supersensuous	adj	super-|super|P ; sensuous|sensuous|R|Adj
+supersessive	adj	supersessive|supersessive|R|Adj
+supersolar	adj	super-|super|P ; solar|solar|R|Adj
+supersonics	noun	supersonics|supersonics|R|N
+supersound	noun	super-|super|P ; sound|sound|R|N
+superspiritual	adj	super-|super|P ; spiritual|spiritual|R|Adj
+superspirituality	noun	super-|super|P ; spiritual|spiritual|R|Adj ; -ity|ity|S
+superspreader	noun	super-|super|P ; spread|spread|R|V ; -er|er|S||-er (N)
+superstitiousness	noun	superstitious|superstitious|R|Adj ; -ness|ness|S
+superstratum	noun	super-|super|P ; stratum|stratum|R|N
+superstructural	adj	super-|super|P ; structural|structural|R|Adj
+supersubstantial	adj	super-|super|P ; substantial|substantial|R|Adj
+supersubtle	adj	super-|super|P ; subtle|subtle|R|Adj
+supersubtlety	noun	super-|super|P ; subtle|subtle|R|Adj ; -ty|ty|S
+supertax	noun	super-|super|P ; tax|tax|R|N
+supertemporal	adj	super-|super|P ; temporal|temporal|R|Adj
+superterrene	adj	super-|super|P ; terrene|terrene|R|Adj
+superterrestrial	adj	super-|super|P ; terrestrial|terrestrial|R|Adj
+supertonic	noun	super-|super|P ; tonic|tonic|R|N
+supertuberation	noun	super-|super|P ; tuberation|tuberation|R|N
+supertyphoon	noun	super-|super|P ; typhoon|typhoon|R|N
+superuser	noun	super-|super|P ; use|us|R|V ; -er|er|S||-er (N)
+supervenience	noun	supervene|superven|R|V ; -ience|ience|S
+supervenient	adj	supervene|superven|R|V ; -ient|ient|S
+supervention	noun	supervene|superven|R|V ; -tion|tion|S
+supervillain	noun	super-|super|P ; villain|villain|R|N
+supervisorship	noun	supervise|supervis|R|V ; -or|or|S ; -ship|ship|S
+supervolcano	noun	super-|super|P ; volcano|volcano|R|N
+supinate	verb	supinate|supinate|R|V
+supinator	noun	supinate|supinat|R|V ; -or|or|S
+supinely	adv	supine|supine|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+supineness	noun	supine|supine|R|Adj ; -ness|ness|S
+supperless	adj	supper|supper|R|N ; -less|less|S
+supping	verb	sup|supp|R|V ; -ing|ing|I||-ing (v)
+supplantation	noun	supplant|supplant|R|V ; -ation|ation|S
+supplanter	noun	supplant|supplant|R|V ; -er|er|S||-er (N)
+supplanting	verb	supplant|supplant|R|V ; -ing|ing|I||-ing (v)
+supplely	adv	supple|supple|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+suppletion	noun	suppletion|suppletion|R|N
+suppletive	adj	suppletive|suppletive|R|Adj
+suppletory	adj	suppletory|suppletory|R|Adj
+suppliance	noun	suppliant|suppli|R|N ; -ance|ance|S
+suppliantly	adv	suppliant|suppliant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+supplicatingly	adv	supplicate|supplicat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+supplicatory	adj	supplicate|supplicat|R|V ; -ory|ory|S
+supplies	noun	supply|suppl|R|N ; -s|ies|I||-s (plural)
+supportably	adv	support|support|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+supposable	adj	suppose|suppos|R|V ; -able|able|S
+supposably	adv	suppose|suppos|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+supposal	noun	suppose|suppos|R|V ; -al|al|S
+suppositional	adj	suppose|supposit|R|V ; -ion|ion|S ; -al|al|S
+suppositionally	adv	suppose|supposit|R|V ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+suppositious	adj	suppositious|suppositious|R|Adj
+supposititiousness	noun	supposititious|supposititious|R|Adj ; -ness|ness|S
+suppressible	adj	suppress|suppress|R|V ; -ible|ible|S
+suppressing	verb	suppress|suppress|R|V ; -ing|ing|I||-ing (v)
+suppuration	noun	suppurate|suppurat|R|V ; -ion|ion|S
+supracargo	noun	supracargo|supracargo|R|N
+supracostal	adj	supracostal|supracostal|R|Adj
+supraliminal	adj	supraliminal|supraliminal|R|Adj
+supramaxillary	adj	supramaxillary|supramaxillary|R|Adj
+supramolecular	adj	supramolecular|supramolecular|R|Adj
+supramundane	adj	supramundane|supramundane|R|Adj
+supranationalism	noun	supranational|supranational|R|Adj ; -ism|ism|S
+supranationality	noun	supranational|supranational|R|Adj ; -ity|ity|S
+supraorbital	adj	supraorbital|supraorbital|R|Adj
+suprarenal	adj	suprarenal|suprarenal|R|Adj
+suprasegmental	adj	suprasegmental|suprasegmental|R|Adj
+supraspinatus	noun	supraspinatus|supraspinatus|R|N
+supremacism	noun	supremacy|supremac|R|N ; -ism|ism|S
+supremum	noun	supremum|supremum|R|N
+surah	noun	surah|surah|R|N
+sural	adj	sural|sural|R|Adj
+surbase	noun	surbase|surbase|R|N
+surbased	adj	surbase|surbas|R|N ; -ed|ed|S||-ed (adj)
+surcharged	verb	surcharge|surcharge|R|V ; -ed|d|I||-ed (v2)
+surcingle	noun	surcingle|surcingle|R|N
+surculose	adj	surculose|surculose|R|Adj
+surd	noun	surd|surd|R|N
+surefooted	adj	sure|sure|R|Adj ; foot|foot|R|N ; -ed|ed|S||-ed (adj)
+suretyship	noun	surety|surety|R|N ; -ship|ship|S
+surfbird	noun	surf|surf|R|N ; bird|bird|R|N
+surfeiting	verb	surfeit|surfeit|R|V ; -ing|ing|I||-ing (v)
+surficial	adj	surficial|surficial|R|Adj
+surfie	noun	surfie|surfie|R|N
+surfy	adj	surf|surf|R|N ; -y|y|S
+surgeonfish	noun	surgeon|surgeon|R|N ; fish|fish|R|N
+suricate	noun	suricate|suricate|R|N
+surimi	noun	surimi|surimi|R|N
+surjection	noun	surjection|surjection|R|N
+surjective	adj	surjective|surjective|R|Adj

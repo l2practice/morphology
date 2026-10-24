@@ -1,0 +1,200 @@
+unstored	adj	un-|un|P ; store|store|R|V ; -ed|d|S||-ed (adj)
+unstow	verb	un-|un|P ; stow|stow|R|V
+unstrained	adj	un-|un|P ; strain|strain|R|V ; -ed|ed|S||-ed (adj)
+unstrapped	adj	un-|un|P ; strap|strapp|R|V ; -ed|ed|S||-ed (adj)
+unstratified	adj	un-|un|P ; stratify|stratifi|R|V ; -ed|ed|S||-ed (adj)
+unstreaked	adj	un-|un|P ; streak|streak|R|V ; -ed|ed|S||-ed (adj)
+unstreamed	adj	un-|un|P ; stream|stream|R|V ; -ed|ed|S||-ed (adj)
+unstring	verb	un-|un|P ; string|string|R|V
+unstriped	adj	un-|un|P ; stripe|stripe|R|V ; -ed|d|S||-ed (adj)
+unstripped	adj	un-|un|P ; strip|stripp|R|V ; -ed|ed|S||-ed (adj)
+unstruck	adj	un-|un|P ; strike|struck|R|V ; -ed||I||-ed (v2)
+unstudious	adj	un-|un|P ; studious|studious|R|Adj
+unstuffy	adj	un-|un|P ; stuff|stuff|R|N ; -y|y|S
+unstylish	adj	un-|un|P ; style|styl|R|N ; -ish|ish|S
+unsubdued	adj	un-|un|P ; subdue|subdue|R|V ; -ed|d|S||-ed (adj)
+unsubjugated	adj	un-|un|P ; subjugate|subjugate|R|V ; -ed|d|S||-ed (adj)
+unsubmissive	adj	un-|un|P ; submit|submiss|R|V ; -ive|ive|S
+unsubmissiveness	noun	un-|un|P ; submit|submiss|R|V ; -ive|ive|S ; -ness|ness|S
+unsubscribe	verb	un-|un|P ; sub-|sub|P ; -scribe|scribe|B|V
+unsubscription	noun	un-|un|P ; sub-|sub|P ; -scribe|script|B|V ; -ion|ion|S
+unsubstantiality	noun	un-|un|P ; substantial|substantial|R|Adj ; -ity|ity|S
+unsubstantially	adv	un-|un|P ; substantial|substantial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+unsuccess	noun	un-|un|P ; success|success|R|N
+unsuccessfulness	noun	un-|un|P ; success|success|R|N ; -ful|ful|S ; -ness|ness|S
+unsuccessive	adj	un-|un|P ; successive|successive|R|Adj
+unsufferable	adj	un-|un|P ; suffer|suffer|R|V ; -able|able|S
+unsugared	adj	un-|un|P ; sugar|sugar|R|V ; -ed|ed|S||-ed (adj)
+unsuggestible	adj	un-|un|P ; suggest|suggest|R|V ; -ible|ible|S
+unsuggestive	adj	un-|un|P ; suggest|suggest|R|V ; -ive|ive|S
+unsuitableness	noun	un-|un|P ; suit|suit|R|V ; -able|able|S ; -ness|ness|S
+unsummed	adj	un-|un|P ; sum|summ|R|V ; -ed|ed|S||-ed (adj)
+unsummoned	adj	un-|un|P ; summon|summon|R|V ; -ed|ed|S||-ed (adj)
+unsunned	adj	un-|un|P ; sun|sunn|R|V ; -ed|ed|S||-ed (adj)
+unsuperstitious	adj	un-|un|P ; superstitious|superstitious|R|Adj
+unsupple	adj	un-|un|P ; supple|supple|R|Adj
+unsupplied	adj	un-|un|P ; supply|suppli|R|V ; -ed|ed|S||-ed (adj)
+unsuppressed	adj	un-|un|P ; suppress|suppress|R|V ; -ed|ed|S||-ed (adj)
+unsurfaced	adj	un-|un|P ; surface|surface|R|V ; -ed|d|S||-ed (adj)
+unsurgical	adj	un-|un|P ; surgery|surgic|R|N ; -al|al|S
+unsurmised	adj	un-|un|P ; surmise|surmise|R|V ; -ed|d|S||-ed (adj)
+unsurmounted	adj	un-|un|P ; surmount|surmount|R|V ; -ed|ed|S||-ed (adj)
+unsurrendered	adj	un-|un|P ; surrender|surrender|R|V ; -ed|ed|S||-ed (adj)
+unsurveyed	adj	un-|un|P ; survey|survey|R|V ; -ed|ed|S||-ed (adj)
+unsurvivable	adj	un-|un|P ; survive|surviv|R|V ; -able|able|S
+unsusceptibility	noun	un-|un|P ; susceptible|susceptibil|R|Adj ; -ity|ity|S
+unsusceptible	adj	un-|un|P ; susceptible|susceptible|R|Adj
+unsuspectedly	adv	un-|un|P ; suspect|suspect|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+unsuspectedness	noun	un-|un|P ; suspect|suspect|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unsuspectingly	adv	un-|un|P ; suspect|suspect|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+unsuspenseful	adj	un-|un|P ; suspense|suspense|R|N ; -ful|ful|S
+unsuspicious	adj	un-|un|P ; suspicious|suspicious|R|Adj
+unsuspiciousness	noun	un-|un|P ; suspicious|suspicious|R|Adj ; -ness|ness|S
+unsustained	adj	un-|un|P ; sustain|sustain|R|V ; -ed|ed|S||-ed (adj)
+unswaddle	verb	un-|un|P ; swaddle|swaddle|R|V
+unswallowed	adj	un-|un|P ; swallow|swallow|R|V ; -ed|ed|S||-ed (adj)
+unswathe	verb	un-|un|P ; swathe|swathe|R|V
+unswear	verb	un-|un|P ; swear|swear|R|V
+unsworn	adj	un-|un|P ; swear|sworn|R|V ; -en||I||-en (participle)
+unsyllabic	adj	un-|un|P ; syllable|syllab|R|N ; -ic|ic|S
+unsymbolical	adj	un-|un|P ; symbol|symbol|R|N ; -ical|ical|S
+unsymmetrical	adj	un-|un|P ; symmetry|symmetr|R|N ; -ical|ical|S
+unsymmetrically	adv	un-|un|P ; symmetry|symmetr|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+unsymmetry	noun	un-|un|P ; symmetry|symmetry|R|N
+unsystematized	adj	un-|un|P ; systematize|systematiz|R|V ; -ed|ed|S||-ed (adj)
+untalkative	adj	un-|un|P ; talk|talk|R|V ; -ative|ative|S
+untameable	adj	un-|un|P ; tame|tame|R|V ; -able|able|S
+untangling	adj	un-|un|P ; tangle|tangl|R|V ; -ing|ing|S||-ing (adj)
+untanned	adj	un-|un|P ; tan|tann|R|V ; -ed|ed|S||-ed (adj)
+untarnishable	adj	un-|un|P ; tarnish|tarnish|R|V ; -able|able|S
+untasked	adj	un-|un|P ; task|task|R|V ; -ed|ed|S||-ed (adj)
+untasted	adj	un-|un|P ; taste|taste|R|V ; -ed|d|S||-ed (adj)
+untaught	adj	un-|un|P ; teach|taught|R|V ; -ed||I||-ed (v2)
+unteach	verb	un-|un|P ; teach|teach|R|V
+unteachableness	noun	un-|un|P ; teach|teach|R|V ; -able|able|S ; -ness|ness|S
+untearable	adj	un-|un|P ; tear|tear|R|V ; -able|able|S
+untechnical	adj	un-|un|P ; technical|technical|R|Adj
+untempted	adj	un-|un|P ; tempt|tempt|R|V ; -ed|ed|S||-ed (adj)
+untenability	noun	un-|un|P ; tenable|tenabil|R|Adj ; -ity|ity|S
+untenableness	noun	un-|un|P ; tenable|tenable|R|Adj ; -ness|ness|S
+untenably	adv	un-|un|P ; tenable|tenabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+untenant	verb	un-|un|P ; tenant|tenant|R|N
+untenantable	adj	un-|un|P ; tenant|tenant|R|N ; -able|able|S
+untenanted	adj	un-|un|P ; tenant|tenant|R|N ; -ed|ed|S||-ed (adj)
+untender	adj	un-|un|P ; tender|tender|R|Adj
+untendered	adj	un-|un|P ; tender|tender|R|V ; -ed|ed|S||-ed (adj)
+untent	verb	un-|un|P ; tent|tent|R|N
+unterrified	adj	un-|un|P ; terrify|terrifi|R|V ; -ed|ed|S||-ed (adj)
+untether	verb	un-|un|P ; tether|tether|R|V
+unthanked	adj	un-|un|P ; thank|thank|R|V ; -ed|ed|S||-ed (adj)
+unthankful	adj	un-|un|P ; thank|thank|R|V ; -ful|ful|S
+unthankfully	adv	un-|un|P ; thank|thank|R|V ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+unthankfulness	noun	un-|un|P ; thank|thank|R|V ; -ful|ful|S ; -ness|ness|S
+unthatched	adj	un-|un|P ; thatch|thatch|R|V ; -ed|ed|S||-ed (adj)
+unthawed	adj	un-|un|P ; thaw|thaw|R|V ; -ed|ed|S||-ed (adj)
+untheatrical	adj	un-|un|P ; theatre|theatr|R|N ; -ical|ical|S
+unthinkability	noun	un-|un|P ; think|think|R|V ; -able|abil|S ; -ity|ity|S
+unthinkableness	noun	un-|un|P ; think|think|R|V ; -able|able|S ; -ness|ness|S
+unthinkingness	noun	un-|un|P ; think|think|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unthorough	adj	un-|un|P ; thorough|thorough|R|Adj
+unthoughtful	adj	un-|un|P ; thought|thought|R|N ; -ful|ful|S
+unthoughtfulness	noun	un-|un|P ; thought|thought|R|N ; -ful|ful|S ; -ness|ness|S
+unthrashed	adj	un-|un|P ; thrash|thrash|R|V ; -ed|ed|S||-ed (adj)
+unthread	verb	un-|un|P ; thread|thread|R|V
+unthreadable	adj	un-|un|P ; thread|thread|R|V ; -able|able|S
+unthreshed	adj	un-|un|P ; thresh|thresh|R|V ; -ed|ed|S||-ed (adj)
+unthriftiness	noun	un-|un|P ; thrifty|thrifti|R|Adj ; -ness|ness|S
+unthrifty	adj	un-|un|P ; thrift|thrift|R|N ; -y|y|S
+unthrone	verb	un-|un|P ; throne|throne|R|V
+unthwarted	adj	un-|un|P ; thwart|thwart|R|V ; -ed|ed|S||-ed (adj)
+untile	verb	un-|un|P ; tile|tile|R|V
+untiled	adj	un-|un|P ; tile|tile|R|V ; -ed|d|S||-ed (adj)
+untillable	adj	un-|un|P ; till|till|R|V ; -able|able|S
+untimbered	adj	un-|un|P ; timber|timber|R|V ; -ed|ed|S||-ed (adj)
+untimeliness	noun	un-|un|P ; time|time|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+untin	verb	un-|un|P ; tin|tin|R|V
+untinctured	adj	un-|un|P ; tincture|tincture|R|V ; -ed|d|S||-ed (adj)
+untinged	adj	un-|un|P ; tinge|tinge|R|V ; -ed|d|S||-ed (adj)
+untired	adj	un-|un|P ; tire|tire|R|V ; -ed|d|S||-ed (adj)
+untiringly	adv	un-|un|P ; tire|tir|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+untithed	adj	un-|un|P ; tithe|tithe|R|V ; -ed|d|S||-ed (adj)
+untomb	verb	un-|un|P ; tomb|tomb|R|V
+untooth	verb	un-|un|P ; tooth|tooth|R|N
+untormented	adj	un-|un|P ; torment|torment|R|V ; -ed|ed|S||-ed (adj)
+untorn	adj	un-|un|P ; tear|torn|R|V ; -en||I||-en (participle)
+untortured	adj	un-|un|P ; torture|torture|R|V ; -ed|d|S||-ed (adj)
+untouchably	adv	un-|un|P ; touch|touch|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+untowardly	adv	un-|un|P ; toward|toward|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+untowardness	noun	un-|un|P ; toward|toward|R|Adj ; -ness|ness|S
+untraced	adj	un-|un|P ; trace|trace|R|V ; -ed|d|S||-ed (adj)
+untragic	adj	un-|un|P ; tragedy|trag|R|N ; -ic|ic|S
+untragical	adj	un-|un|P ; tragedy|trag|R|N ; -ical|ical|S
+untranquil	adj	un-|un|P ; tranquil|tranquil|R|Adj
+untransferable	adj	un-|un|P ; transfer|transfer|R|V ; -able|able|S
+untranslatability	noun	un-|un|P ; translate|translat|R|V ; -able|abil|S ; -ity|ity|S
+untranslatableness	noun	un-|un|P ; translate|translat|R|V ; -able|able|S ; -ness|ness|S
+untransmissible	adj	un-|un|P ; transmissible|transmissible|R|Adj
+untransmutable	adj	un-|un|P ; transmute|transmut|R|V ; -able|able|S
+untransportable	adj	un-|un|P ; transport|transport|R|V ; -able|able|S
+untraversable	adj	un-|un|P ; traverse|travers|R|V ; -able|able|S
+untressed	adj	un-|un|P ; tress|tress|R|V ; -ed|ed|S||-ed (adj)
+untrigintillion	noun	untrigintillion|untrigintillion|R
+untrod	adj	un-|un|P ; tread|trod|R|V ; -ed||I||-ed (v2)
+untrodden	adj	un-|un|P ; tread|trodden|R|V ; -en||I||-en (participle)
+untroubledness	noun	un-|un|P ; trouble|troubl|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+untrueness	noun	un-|un|P ; true|true|R|Adj ; -ness|ness|S
+untruly	adv	un-|un|P ; true|tru|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+untrussed	adj	un-|un|P ; truss|truss|R|V ; -ed|ed|S||-ed (adj)
+untrustworthiness	noun	un-|un|P ; trust|trust|R|V ; worthy|worthi|R|Adj ; -ness|ness|S
+untruthfulness	noun	un-|un|P ; truth|truth|R|N ; -ful|ful|S ; -ness|ness|S
+untuck	verb	un-|un|P ; tuck|tuck|R|V
+untune	verb	un-|un|P ; tune|tune|R|V
+untuned	adj	un-|un|P ; tune|tune|R|V ; -ed|d|S||-ed (adj)
+untuneful	adj	un-|un|P ; tune|tune|R|N ; -ful|ful|S
+unturf	verb	un-|un|P ; turf|turf|R|V
+untwine	verb	un-|un|P ; twine|twine|R|V
+untwist	verb	un-|un|P ; twist|twist|R|V
+untwisting	adj	un-|un|P ; twist|twist|R|V ; -ing|ing|S||-ing (adj)
+untying	noun	un-|un|P ; tie|ty|R|V ; -ing|ing|S||-ing (N)
+ununbium	noun	ununbium|ununbium|R|N
+ununderstandable	adj	un-|un|P ; understand|understand|R|V ; -able|able|S
+ununennium	noun	ununennium|ununennium|R|N
+ununhexium	noun	ununhexium|ununhexium|R|N
+ununifiable	adj	un-|un|P ; unify|unifi|R|V ; -able|able|S
+ununiformed	adj	un-|un|P ; uniform|uniform|R|Adj ; -ed|ed|S||-ed (adj)
+ununited	adj	un-|un|P ; unite|unite|R|V ; -ed|d|S||-ed (adj)
+ununoctium	noun	ununoctium|ununoctium|R|N
+ununpentium	noun	ununpentium|ununpentium|R|N
+ununquadium	noun	ununquadium|ununquadium|R|N
+ununseptium	noun	ununseptium|ununseptium|R|N
+ununtrium	noun	ununtrium|ununtrium|R|N
+unununium	noun	unununium|unununium|R|N
+unurged	adj	un-|un|P ; urge|urge|R|V ; -ed|d|S||-ed (adj)
+unuseful	adj	un-|un|P ; use|use|R|V ; -ful|ful|S
+unutilized	adj	un-|un|P ; utilize|utiliz|R|V ; -ed|ed|S||-ed (adj)
+unutterableness	noun	un-|un|P ; utter|utter|R|V ; -able|able|S ; -ness|ness|S
+unuttered	adj	un-|un|P ; utter|utter|R|V ; -ed|ed|S||-ed (adj)
+unvaccinated	adj	un-|un|P ; vaccinate|vaccinate|R|V ; -ed|d|S||-ed (adj)
+unvalued	adj	un-|un|P ; value|value|R|V ; -ed|d|S||-ed (adj)
+unvanquishable	adj	un-|un|P ; vanquish|vanquish|R|V ; -able|able|S
+unvanquished	adj	un-|un|P ; vanquish|vanquish|R|V ; -ed|ed|S||-ed (adj)
+unvaried	adj	un-|un|P ; vary|vari|R|V ; -ed|ed|S||-ed (adj)
+unvendable	adj	un-|un|P ; vend|vend|R|V ; -able|able|S
+unvenerable	adj	un-|un|P ; venerate|vener|R|V ; -able|able|S
+unvenerated	adj	un-|un|P ; venerate|venerate|R|V ; -ed|d|S||-ed (adj)
+unvenomous	adj	un-|un|P ; venom|venom|R|N ; -ous|ous|S
+unveracious	adj	un-|un|P ; veracious|veracious|R|Adj
+unverbalized	adj	un-|un|P ; verbalize|verbaliz|R|V ; -ed|ed|S||-ed (adj)
+unversed	adj	un-|un|P ; verse|verse|R|V ; -ed|d|S||-ed (adj)
+unvexed	adj	un-|un|P ; vex|vex|R|V ; -ed|ed|S||-ed (adj)
+unvictualled	adj	un-|un|P ; victual|victuall|R|V ; -ed|ed|S||-ed (adj)
+unvigintillion	noun	unvigintillion|unvigintillion|R
+unvindicated	adj	un-|un|P ; vindicate|vindicate|R|V ; -ed|d|S||-ed (adj)
+unviolated	adj	un-|un|P ; violate|violate|R|V ; -ed|d|S||-ed (adj)
+unvirtuous	adj	un-|un|P ; virtue|virtu|R|N ; -ous|ous|S
+unvisited	adj	un-|un|P ; visit|visit|R|V ; -ed|ed|S||-ed (adj)
+unvital	adj	un-|un|P ; vital|vital|R|Adj
+unvitiated	adj	un-|un|P ; vitiate|vitiate|R|V ; -ed|d|S||-ed (adj)
+unvitrified	adj	un-|un|P ; vitrify|vitrifi|R|V ; -ed|ed|S||-ed (adj)
+unvoice	verb	un-|un|P ; voice|voice|R|V
+unvowed	adj	un-|un|P ; vow|vow|R|V ; -ed|ed|S||-ed (adj)

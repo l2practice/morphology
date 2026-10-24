@@ -1,0 +1,200 @@
+interpenetrant	adj	inter-|inter|P ; penetrate|penetr|R|V ; -ant|ant|S
+interpenetrative	adj	inter-|inter|P ; penetrate|penetrat|R|V ; -ive|ive|S
+interpersonally	adv	inter-|inter|P ; personal|personal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+interphalangeal	adj	inter-|inter|P ; phalange|phalange|R|N ; -al|al|S
+interphase	noun	inter-|inter|P ; phase|phase|R|N
+interphobia	noun	inter-|inter|P ; phobia|phobia|R|N
+interplait	verb	inter-|inter|P ; plait|plait|R|V
+interplant	verb	inter-|inter|P ; plant|plant|R|V
+interplead	verb	inter-|inter|P ; plead|plead|R|V
+interpleader	noun	inter-|inter|P ; plead|plead|R|V ; -er|er|S||-er (N)
+interpolar	adj	inter-|inter|P ; polar|polar|R|Adj
+interpolative	adj	interpolate|interpolat|R|V ; -ive|ive|S
+interpolator	noun	interpolate|interpolat|R|V ; -or|or|S
+interposable	adj	inter-|inter|P ; pose|pos|R|V ; -able|able|S
+interposal	noun	inter-|inter|P ; pose|pos|R|V ; -al|al|S
+interposer	noun	inter-|inter|P ; pose|pos|R|V ; -er|er|S||-er (N)
+interposingly	adv	inter-|inter|P ; pose|pos|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+interpretableness	noun	interpret|interpret|R|V ; -able|able|S ; -ness|ness|S
+interpretational	adj	interpret|interpret|R|V ; -ation|ation|S ; -al|al|S
+interpretatively	adv	interpret|interpret|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+interpretership	noun	interpret|interpret|R|V ; -er|er|S||-er (N) ; -ship|ship|S
+interpretively	adv	interpret|interpret|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+interprovincial	adj	inter-|inter|P ; province|provinci|R|N ; -al|al|S
+interpunct	noun	interpunct|interpunct|R|N
+interpunctuate	verb	interpunctuate|interpunctuate|R|V
+interpupillary	adj	inter-|inter|P ; pupil|pupill|R|N ; -ary|ary|S
+interred	verb	inter|interr|R|V ; -ed|ed|I||-ed (v2)
+interregnal	adj	inter-|inter|P ; regnal|regnal|R|Adj
+interrex	noun	interrex|interrex|R|N
+interring	verb	inter|interr|R|V ; -ing|ing|I||-ing (v)
+interrobang	noun	interrobang|interrobang|R|N
+interrogable	adj	interrogate|interrog|R|V ; -able|able|S
+interrogating	verb	interrogate|interrogat|R|V ; -ing|ing|I||-ing (v)
+interrogational	adj	interrogate|interrogat|R|V ; -ion|ion|S ; -al|al|S
+interrogatively	adv	interrogate|interrogat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+interrogatorily	adv	interrogate|interrogat|R|V ; -ory|ori|S ; -ly|ly|I|Adv|-ly (adv)
+interruptedly	adv	interrupt|interrupt|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+interruptedness	noun	interrupt|interrupt|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+interruptive	adj	interrupt|interrupt|R|V ; -ive|ive|S
+interruptory	adj	interrupt|interrupt|R|V ; -ory|ory|S
+interscholastically	adv	inter-|inter|P ; scholastic|scholastic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+interschool	adj	inter-|inter|P ; school|school|R|N
+intersectant	adj	intersect|intersect|R|V ; -ant|ant|S
+intersectional	adj	intersect|intersect|R|V ; -ion|ion|S ; -al|al|S
+intersectionality	noun	intersect|intersect|R|V ; -ion|ion|S ; -al|al|S ; -ity|ity|S
+intersegmental	adj	inter-|inter|P ; segment|segment|R|N ; -al|al|S
+intersessional	adj	inter-|inter|P ; session|session|R|N ; -al|al|S
+intersexuality	noun	inter-|inter|P ; sex|sex|R|N ; -ual|ual|S ; -ity|ity|S
+intershoot	verb	inter-|inter|P ; shoot|shoot|R|V
+interspace	noun	inter-|inter|P ; space|space|R|N
+interspatial	adj	inter-|inter|P ; space|spati|R|N ; -al|al|S
+interspecies	adj	inter-|inter|P ; species|species|R|N
+interspersal	noun	intersperse|interspers|R|V ; -al|al|S
+interspersed	adj	intersperse|interspers|R|V ; -ed|ed|S||-ed (adj)
+interspersedly	adv	intersperse|interspers|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+interspersion	noun	intersperse|interspers|R|V ; -ion|ion|S
+intersterile	adj	inter-|inter|P ; sterile|sterile|R|Adj
+intersterility	noun	inter-|inter|P ; sterile|steril|R|Adj ; -ity|ity|S
+intersticed	adj	interstice|interstic|R|N ; -ed|ed|S||-ed (adj)
+interstitially	adv	interstitial|interstitial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+interstitium	noun	interstitium|interstitium|R|N
+interstratification	noun	inter-|inter|P ; stratify|stratifi|R|V ; -ation|cation|S
+interstratified	adj	inter-|inter|P ; stratify|stratifi|R|V ; -ed|ed|S||-ed (adj)
+interstratify	verb	inter-|inter|P ; stratify|stratify|R|V
+intertangle	verb	inter-|inter|P ; tangle|tangle|R|V
+intertropical	adj	inter-|inter|P ; tropic|tropic|R|N ; -al|al|S
+intertwinement	noun	inter-|inter|P ; twine|twine|R|V ; -ment|ment|S
+intertwist	verb	inter-|inter|P ; twist|twist|R|V
+intertwisting	verb	inter-|inter|P ; twist|twist|R|V ; -ing|ing|I||-ing (v)
+interuniversity	adj	inter-|inter|P ; university|university|R|N
+intervale	noun	intervale|intervale|R|N
+intervallic	adj	interval|intervall|R|N ; -ic|ic|S
+intervalometer	noun	intervalometer|intervalometer|R|N
+intervascular	adj	inter-|inter|P ; vascular|vascular|R|Adj
+interveinal	adj	inter-|inter|P ; vein|vein|R|N ; -al|al|S
+intervenient	adj	intervene|interven|R|V ; -ient|ient|S
+interventricular	adj	inter-|inter|P ; ventricle|ventricul|R|N ; -ar|ar|S
+intervertebrally	adv	inter-|inter|P ; vertebra|vertebr|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+interviewable	adj	interview|interview|R|V ; -able|able|S
+intervisit	verb	inter-|inter|P ; visit|visit|R|V
+intervisitation	noun	inter-|inter|P ; visit|visit|R|V ; -ation|ation|S
+intervocalic	adj	inter-|inter|P ; vocal|vocal|R|Adj ; -ic|ic|S
+intervolution	noun	inter-|inter|P ; volution|volution|R|N
+intervolve	verb	intervolve|intervolve|R|V
+interweavement	noun	inter-|inter|P ; weave|weave|R|V ; -ment|ment|S
+interweaver	noun	inter-|inter|P ; weave|weav|R|V ; -er|er|S||-er (N)
+interwind	verb	inter-|inter|P ; wind|wind|R|V
+interwork	verb	inter-|inter|P ; work|work|R|V
+interwreathe	verb	inter-|inter|P ; wreathe|wreathe|R|V
+interzonal	adj	inter-|inter|P ; zone|zon|R|N ; -al|al|S
+intestable	adj	in-|in|P ; test|test|R|V ; -able|able|S
+intestinally	adv	intestine|intestin|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+intima	noun	intima|intima|R|N
+intimal	adj	intima|intim|R|N ; -al|al|S
+intimateness	noun	intimate|intimate|R|Adj ; -ness|ness|S
+intimism	noun	intimate|intim|R|Adj ; -ism|ism|S
+intimist	noun	intimate|intim|R|Adj ; -ist|ist|S
+intinction	noun	intinction|intinction|R|N
+intine	noun	intine|intine|R|N
+intolerability	noun	in-|in|P ; tolerate|toler|R|V ; -able|abil|S ; -ity|ity|S
+intolerableness	noun	in-|in|P ; tolerate|toler|R|V ; -able|able|S ; -ness|ness|S
+intolerantly	adv	in-|in|P ; tolerate|toler|R|V ; -ant|ant|S ; -ly|ly|I|Adv|-ly (adv)
+intonate	verb	in-|in|P ; tone|ton|R|V ; -ate|ate|S
+intonational	adj	in-|in|P ; tone|ton|R|V ; -ation|ation|S ; -al|al|S
+intonement	noun	in-|in|P ; tone|tone|R|V ; -ment|ment|S
+intoner	noun	in-|in|P ; tone|ton|R|V ; -er|er|S||-er (N)
+intoning	verb	in-|in|P ; tone|ton|R|V ; -ing|ing|I||-ing (v)
+intown	adj	in-|in|P ; town|town|R|N
+intoxicatingly	adv	intoxicate|intoxicat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+intoxicative	adj	intoxicate|intoxicat|R|V ; -ive|ive|S
+intoxicator	noun	intoxicate|intoxicat|R|V ; -or|or|S
+intraabdominal	adj	intra-|intra|P ; abdomen|abdomin|R|N ; -al|al|S
+intraarterial	adj	intra-|intra|P ; artery|arteri|R|N ; -al|al|S
+intraatomic	adj	intra-|intra|P ; atom|atom|R|N ; -ic|ic|S
+intracardiac	adj	intra-|intra|P ; cardiac|cardiac|R|Adj
+intracellularly	adv	intra-|intra|P ; cell|cell|R|N ; -ular|ular|S ; -ly|ly|I|Adv|-ly (adv)
+intracerebral	adj	intra-|intra|P ; cerebral|cerebral|R|Adj
+intracommunity	noun	intra-|intra|P ; community|community|R|N
+intractableness	noun	in-|in|P ; tractable|tractable|R|Adj ; -ness|ness|S
+intractably	adv	in-|in|P ; tractable|tractabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+intracutaneous	adj	intra-|intra|P ; cutaneous|cutaneous|R|Adj
+intracutaneously	adv	intra-|intra|P ; cutaneous|cutaneous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+intradermal	adj	intra-|intra|P ; dermal|dermal|R|Adj
+intradermally	adv	intra-|intra|P ; dermal|dermal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+intradermic	adj	intra-|intra|P ; derm|derm|R|N ; -ic|ic|S
+intradiegetic	adj	intra-|intra|P ; diegetic|diegetic|R|Adj
+intrados	noun	intrados|intrados|R|N
+intragalactic	adj	intra-|intra|P ; galactic|galactic|R|Adj
+intrahepatic	adj	intra-|intra|P ; hepatic|hepatic|R|Adj
+intramolecular	adj	intra-|intra|P ; molecule|molecul|R|N ; -ar|ar|S
+intramolecularly	adv	intra-|intra|P ; molecule|molecul|R|N ; -ar|ar|S ; -ly|ly|I|Adv|-ly (adv)
+intramurally	adv	intra-|intra|P ; mural|mural|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+intranational	adj	intra-|intra|P ; nation|nation|R|N ; -al|al|S
+intransigency	noun	intransigent|intransigen|R|Adj ; -cy|cy|S
+intransigentism	noun	intransigent|intransigent|R|Adj ; -ism|ism|S
+intransigently	adv	intransigent|intransigent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+intransitively	adv	intransitive|intransitive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+intransitiveness	noun	intransitive|intransitive|R|Adj ; -ness|ness|S
+intransitivity	noun	intransitive|intransitiv|R|Adj ; -ity|ity|S
+intranslatability	noun	in-|in|P ; translate|translat|R|V ; -able|abil|S ; -ity|ity|S
+intrant	noun	intrant|intrant|R|N
+intranuclear	adj	intra-|intra|P ; nuclear|nuclear|R|Adj
+intraosseous	adj	intra-|intra|P ; osseous|osseous|R|Adj
+intraperitoneal	adj	intra-|intra|P ; peritoneal|peritoneal|R|Adj
+intrapsychically	adv	intra-|intra|P ; psychic|psychic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+intrasexual	adj	intra-|intra|P ; sexual|sexual|R|Adj
+intraspecies	adj	intra-|intra|P ; species|species|R|N
+intrastate	adj	intra-|intra|P ; state|state|R|N
+intrathecal	adj	intra-|intra|P ; thecal|thecal|R|Adj
+intravascularly	adv	intra-|intra|P ; vascular|vascular|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+intravital	adj	intra-|intra|P ; vital|vital|R|Adj
+intravitam	adj	intravitam|intravitam|R|Adj
+intreat	verb	in-|in|P ; treat|treat|R|V
+intrepidity	noun	intrepid|intrepid|R|Adj ; -ity|ity|S
+intrepidly	adv	intrepid|intrepid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+intrepidness	noun	intrepid|intrepid|R|Adj ; -ness|ness|S
+intricateness	noun	intricate|intricate|R|Adj ; -ness|ness|S
+intrigant	noun	intrigue|intrig|R|V ; -ant|ant|S
+intrigante	noun	intrigante|intrigante|R|N
+intriguant	noun	intrigue|intrigu|R|V ; -ant|ant|S
+intrinsical	adj	intrinsic|intrinsic|R|Adj ; -al|al|S
+introducer	noun	introduce|introduc|R|V ; -er|er|S||-er (N)
+introducible	adj	introduce|introduc|R|V ; -ible|ible|S
+introductive	adj	introduce|introduct|R|V ; -ive|ive|S
+introductorily	adv	introduce|introduct|R|V ; -ory|ori|S ; -ly|ly|I|Adv|-ly (adv)
+introductoriness	noun	introduce|introduct|R|V ; -ory|ori|S ; -ness|ness|S
+introgressant	noun	introgress|introgress|R|V ; -ant|ant|S
+introgression	noun	introgress|introgress|R|V ; -ion|ion|S
+introgressive	adj	introgress|introgress|R|V ; -ive|ive|S
+introit	noun	introit|introit|R|N
+intromission	noun	intromit|intromiss|R|V ; -ion|ion|S
+intromissive	adj	intromit|intromiss|R|V ; -ive|ive|S
+intromit	verb	intromit|intromit|R|V
+intromittent	adj	intromit|intromitt|R|V ; -ent|ent|S
+intromitter	noun	intromit|intromitt|R|V ; -er|er|S||-er (N)
+introrse	adj	introrse|introrse|R|Adj
+introspect	verb	introspect|introspect|R|V
+introspectable	adj	introspect|introspect|R|V ; -able|able|S
+introspectional	adj	introspect|introspect|R|V ; -ion|ion|S ; -al|al|S
+introspectionism	noun	introspect|introspect|R|V ; -ion|ion|S ; -ism|ism|S
+introspectively	adv	introspective|introspective|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+introspectiveness	noun	introspective|introspective|R|Adj ; -ness|ness|S
+introversive	adj	introvert|introvers|R|V ; -ive|ive|S
+introvertive	adj	introvert|introvert|R|V ; -ive|ive|S
+intruded	verb	intrude|intrud|R|V ; -ed|ed|I||-ed (v2)
+intrudingly	adv	intrude|intrud|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+intrusional	adj	intrude|intrus|R|V ; -ion|ion|S ; -al|al|S
+intrusively	adv	intrude|intrus|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+intuitable	adj	intuit|intuit|R|V ; -able|able|S
+intuiting	verb	intuit|intuit|R|V ; -ing|ing|I||-ing (v)
+intuitional	adj	intuit|intuit|R|V ; -ion|ion|S ; -al|al|S
+intuitionalism	noun	intuit|intuit|R|V ; -ion|ion|S ; -al|al|S ; -ism|ism|S
+intuitionalist	noun	intuit|intuit|R|V ; -ion|ion|S ; -al|al|S ; -ist|ist|S
+intuitionally	adv	intuit|intuit|R|V ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+intuitionism	noun	intuit|intuit|R|V ; -ion|ion|S ; -ism|ism|S
+intuitionist	noun	intuit|intuit|R|V ; -ion|ion|S ; -ist|ist|S
+intuitionistic	adj	intuit|intuit|R|V ; -ion|ion|S ; -ist|ist|S ; -ic|ic|S
+intuitiveness	noun	intuit|intuit|R|V ; -ive|ive|S ; -ness|ness|S
+intuitivism	noun	intuit|intuit|R|V ; -ive|iv|S ; -ism|ism|S
+intuitivist	noun	intuit|intuit|R|V ; -ive|iv|S ; -ist|ist|S

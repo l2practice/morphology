@@ -1,0 +1,200 @@
+surmaster	noun	surmaster|surmaster|R|N
+surmising	verb	surmise|surmis|R|V ; -ing|ing|I||-ing (v)
+surmounted	verb	surmount|surmount|R|V ; -ed|ed|I||-ed (v2)
+surmounting	verb	surmount|surmount|R|V ; -ing|ing|I||-ing (v)
+surmullet	noun	surmullet|surmullet|R|N
+surnamed	adj	surname|surnam|R|N ; -ed|ed|S||-ed (adj)
+surpassable	adj	surpass|surpass|R|V ; -able|able|S
+surpassingness	noun	surpass|surpass|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+surpliced	adj	surplice|surplic|R|N ; -ed|ed|S||-ed (adj)
+surplusage	noun	surplus|surplus|R|N ; -age|age|S
+surprint	noun	surprint|surprint|R|N
+surprisal	noun	surprise|surpris|R|V ; -al|al|S
+surprisedly	adv	surprise|surpris|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+surprisingness	noun	surprise|surpris|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+surra	noun	surra|surra|R|N
+surrealistically	adv	surreal|surreal|R|Adj ; -ist|ist|S ; -ic|ic|S ; -ly|ally|I|Adv|-ly (adv)
+surrebutter	noun	surrebutter|surrebutter|R|N
+surrejoin	verb	surrejoin|surrejoin|R|V
+surrejoinder	noun	surrejoin|surrejoin|R|V ; -er|der|S||-er (N)
+surrendering	verb	surrender|surrender|R|V ; -ing|ing|I||-ing (v)
+surreptitiousness	noun	surreptitious|surreptitious|R|Adj ; -ness|ness|S
+surrogateship	noun	surrogate|surrogate|R|N ; -ship|ship|S
+surrounds	noun	surround|surround|R|N ; -s|s|I||-s (plural)
+surtitle	noun	surtitle|surtitle|R|N
+surtout	noun	surtout|surtout|R|N
+surveil	verb	surveil|surveil|R|V
+surveyorship	noun	survey|survey|R|V ; -or|or|S ; -ship|ship|S
+survivorship	noun	survive|surviv|R|V ; -or|or|S ; -ship|ship|S
+susceptance	noun	susceptance|susceptance|R|N
+susceptibleness	noun	susceptible|susceptible|R|Adj ; -ness|ness|S
+susceptibly	adv	susceptible|susceptibl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+susceptive	adj	susceptive|susceptive|R|Adj
+susceptivity	noun	susceptive|susceptiv|R|Adj ; -ity|ity|S
+suslik	noun	suslik|suslik|R|N
+suspender	noun	suspend|suspend|R|V ; -er|er|S||-er (N)
+suspensibility	noun	suspend|suspens|R|V ; -ible|ibil|S ; -ity|ity|S
+suspensive	adj	suspend|suspens|R|V ; -ive|ive|S
+suspensively	adv	suspend|suspens|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+suspensoid	noun	suspensoid|suspensoid|R|N
+suspensor	noun	suspend|suspens|R|V ; -or|or|S
+suspensory	adj	suspend|suspens|R|V ; -ory|ory|S
+suspicional	adj	suspicion|suspicion|R|N ; -al|al|S
+suspiration	noun	suspiration|suspiration|R|N
+suspire	verb	suspire|suspire|R|V
+sussed	verb	suss|suss|R|V ; -ed|ed|I||-ed (v2)
+sustaining	verb	sustain|sustain|R|V ; -ing|ing|I||-ing (v)
+sustentacular	adj	sustentacular|sustentacular|R|Adj
+sustentaculum	noun	sustentaculum|sustentaculum|R|N
+sustentation	noun	sustentation|sustentation|R|N
+susurrus	noun	susurrus|susurrus|R|N
+sutegana	noun	sutegana|sutegana|R|N
+suttee	noun	suttee|suttee|R|N
+sutural	adj	suture|sutur|R|N ; -al|al|S
+suturation	noun	suture|sutur|R|N ; -ation|ation|S
+svarabhakti	noun	svarabhakti|svarabhakti|R|N
+svedberg	noun	svedberg|svedberg|R|N
+sveltely	adv	svelte|svelte|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+svelteness	noun	svelte|svelte|R|Adj ; -ness|ness|S
+svirel	noun	svirel|svirel|R|N
+swabber	noun	swab|swabb|R|V ; -er|er|S||-er (N)
+swabbing	verb	swab|swabb|R|V ; -ing|ing|I||-ing (v)
+swadeshi	noun	swadeshi|swadeshi|R|N
+swadeshism	noun	swadeshi|swadesh|R|N ; -ism|ism|S
+swage	noun	swage|swage|R|N
+swaggerer	noun	swagger|swagger|R|V ; -er|er|S||-er (N)
+swaggeringly	adv	swagger|swagger|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+swaging	verb	swage|swag|R|V ; -ing|ing|I||-ing (v)
+swagman	noun	swag|swag|R|N ; man|man|R|N
+swallet	noun	swallet|swallet|R|N
+swamped	verb	swamp|swamp|R|V ; -ed|ed|I||-ed (v2)
+swamper	noun	swamp|swamp|R|V ; -er|er|S||-er (N)
+swamphen	noun	swamp|swamp|R|N ; hen|hen|R|N
+swamping	verb	swamp|swamp|R|V ; -ing|ing|I||-ing (v)
+swanherd	noun	swan|swan|R|N ; herd|herd|R|N
+swankiness	noun	swank|swank|R|N ; -y|i|S ; -ness|ness|S
+swannery	noun	swan|swann|R|N ; -ery|ery|S
+swanskin	noun	swan|swan|R|N ; skin|skin|R|N
+swaraj	noun	swaraj|swaraj|R|N
+swarajist	noun	swaraj|swaraj|R|N ; -ist|ist|S
+swarded	adj	sward|sward|R|N ; -ed|ed|S||-ed (adj)
+swarf	noun	swarf|swarf|R|N
+swart	adj	swart|swart|R|Adj
+swarthiness	noun	swarthy|swarth|R|Adj ; -ness|iness|S
+swartness	noun	swart|swart|R|Adj ; -ness|ness|S
+swashing	verb	swash|swash|R|V ; -ing|ing|I||-ing (v)
+swashy	adj	swash|swash|R|N ; -y|y|S
+swathing	verb	swathe|swath|R|V ; -ing|ing|I||-ing (v)
+swatting	verb	swat|swatt|R|V ; -ing|ing|I||-ing (v)
+swayed	verb	sway|sway|R|V ; -ed|ed|I||-ed (v2)
+sweal	verb	sweal|sweal|R|V
+swearer	noun	swear|swear|R|V ; -er|er|S||-er (N)
+sweated	verb	sweat|sweat|R|V ; -ed|ed|I||-ed (v2)
+sweatily	adv	sweaty|sweat|R|Adj ; -ly|ily|I|Adv|-ly (adv)
+sweatiness	noun	sweaty|sweat|R|Adj ; -ness|iness|S
+sweatless	adj	sweat|sweat|R|N ; -less|less|S
+sweatpants	noun	sweat|sweat|R|N ; pants|pants|R|N
+swede	noun	swede|swede|R|N
+sweeny	noun	sweeny|sweeny|R|N
+sweepback	noun	sweep|sweep|R|V ; back|back|R|N
+sweepingness	noun	sweep|sweep|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+sweepings	noun	sweep|sweep|R|V ; -ing|ing|S||-ing (N) ; -s|s|I||-s (plural)
+sweepstakes	noun	sweep|sweep|R|V ; stakes|stakes|R|N
+sweetbread	noun	sweet|sweet|R|Adj ; bread|bread|R|N
+sweetening	noun	sweet|sweet|R|Adj ; -en|en|S ; -ing|ing|S||-ing (N)
+sweetfish	noun	sweet|sweet|R|Adj ; fish|fish|R|N
+sweetmeal	noun	sweet|sweet|R|Adj ; meal|meal|R|N
+sweets	noun	sweet|sweet|R|N ; -s|s|I||-s (plural)
+swelldom	noun	swell|swell|R|N ; -dom|dom|S
+swellish	adj	swell|swell|R|Adj ; -ish|ish|S
+swelteringly	adv	swelter|swelter|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+swerveless	adj	swerve|swerve|R|V ; -less|less|S
+swerving	verb	swerve|swerv|R|V ; -ing|ing|I||-ing (v)
+swiften	verb	swift|swift|R|Adj ; -en|en|S
+swilling	verb	swill|swill|R|V ; -ing|ing|I||-ing (v)
+swimmeret	noun	swim|swimm|R|V ; -er|er|S||-er (N) ; -et|et|S
+swimmily	adv	swim|swimm|R|V ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+swimminess	noun	swim|swimm|R|V ; -y|i|S ; -ness|ness|S
+swimmy	adj	swim|swimm|R|V ; -y|y|S
+swindling	verb	swindle|swindl|R|V ; -ing|ing|I||-ing (v)
+swindlingly	adv	swindle|swindl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+swineherd	noun	swine|swine|R|N ; herd|herd|R|N
+swinery	noun	swine|swin|R|N ; -ery|ery|S
+swingle	noun	swingle|swingle|R|N
+swinglebar	noun	swingle|swingle|R|N ; bar|bar|R|N
+swinish	adj	swine|swin|R|N ; -ish|ish|S
+swinishness	noun	swine|swin|R|N ; -ish|ish|S ; -ness|ness|S
+swiper	noun	swipe|swip|R|V ; -er|er|S||-er (N)
+swipes	verb	swipe|swip|R|V ; -s|es|I||-s (3sg)
+swipple	noun	swipple|swipple|R|N
+swirled	verb	swirl|swirl|R|V ; -ed|ed|I||-ed (v2)
+swirlingly	adv	swirl|swirl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+swiss	noun	swiss|swiss|R|N
+switchgear	noun	switch|switch|R|V ; gear|gear|R|N
+switchman	noun	switch|switch|R|V ; man|man|R|N
+swither	verb	swither|swither|R|V
+swizz	noun	swizz|swizz|R|N
+swooningly	adv	swoon|swoon|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+swordless	adj	sword|sword|R|N ; -less|less|S
+swordlike	adj	sword|sword|R|N ; -like|like|S
+swordsmanship	noun	sword|swords|R|N ; man|man|R|N ; -ship|ship|S
+swordsmith	noun	sword|sword|R|N ; smith|smith|R|N
+swordswoman	noun	sword|swords|R|N ; woman|woman|R|N
+swordtail	noun	sword|sword|R|N ; tail|tail|R|N
+swotter	noun	swot|swott|R|V ; -er|er|S||-er (N)
+sybaritically	adv	sybaritic|sybaritic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+sybaritism	noun	sybarite|sybarit|R|N ; -ism|ism|S
+sycamine	noun	sycamine|sycamine|R|N
+sycee	noun	sycee|sycee|R|N
+sychnocarpous	adj	sychnocarpous|sychnocarpous|R|Adj
+syconium	noun	syconium|syconium|R|N
+sycosis	noun	sycosis|sycosis|R|N
+syenite	noun	syenite|syenite|R|N
+syenitic	adj	syenite|syenit|R|N ; -ic|ic|S
+syllabically	adv	syllabic|syllabic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+syllabicate	verb	syllabic|syllabic|R|Adj ; -ate|ate|S
+syllabication	noun	syllabic|syllabic|R|Adj ; -ate|at|S ; -ion|ion|S
+syllabification	noun	syllabify|syllabifi|R|V ; -ation|cation|S
+syllabify	verb	syllable|syllab|R|N ; -ify|ify|S
+syllabize	verb	syllable|syllab|R|N ; -ize|ize|S
+syllabled	adj	syllable|syllabl|R|N ; -ed|ed|S||-ed (adj)
+syllabub	noun	syllabub|syllabub|R|N
+syllepsis	noun	syllepsis|syllepsis|R|N
+sylleptic	adj	syllepsis|syllept|R|N ; -ic|ic|S
+syllogistical	adj	syllogistic|syllogistic|R|Adj ; -al|al|S
+syllogize	verb	syllogize|syllogize|R|V
+sylphid	noun	sylphid|sylphid|R|N
+sylphlike	adj	sylph|sylph|R|N ; -like|like|S
+sylvanite	noun	sylvanite|sylvanite|R|N
+sylvatic	adj	sylvatic|sylvatic|R|Adj
+sylvine	noun	sylvine|sylvine|R|N
+sylvite	noun	sylvite|sylvite|R|N
+symbiogenesis	noun	symbiogenesis|symbiogenesis|R|N
+symbolatry	noun	symbolatry|symbolatry|R|N
+symbolical	adj	symbolic|symbolic|R|Adj ; -al|al|S
+symbolics	noun	symbolics|symbolics|R|N
+symbolistic	adj	symbol|symbol|R|N ; -ist|ist|S ; -ic|ic|S
+symbolizing	verb	symbol|symbol|R|N ; -ize|iz|S ; -ing|ing|I||-ing (v)
+symbololatry	noun	symbololatry|symbololatry|R|N
+symmetrization	noun	symmetry|symmetr|R|N ; -ize|iz|S ; -ation|ation|S
+symmetrize	verb	symmetry|symmetr|R|N ; -ize|ize|S
+symmetrophobia	noun	symmetrophobia|symmetrophobia|R|N
+sympathectomy	noun	sympathectomy|sympathectomy|R|N
+sympathising	verb	sympathy|sympath|R|N ; -ise|is|S ; -ing|ing|I||-ing (v)
+sympathizing	verb	sympathy|sympath|R|N ; -ize|iz|S ; -ing|ing|I||-ing (v)
+sympatholytic	adj	sympatholytic|sympatholytic|R|Adj
+sympathomimetic	adj	sympathomimetic|sympathomimetic|R|Adj
+sympatrically	adv	sympatric|sympatric|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+sympetalous	adj	sympetalous|sympetalous|R|Adj
+symphonically	adv	symphonic|symphonic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+symphonious	adj	symphony|symphoni|R|N ; -ous|ous|S
+symphoniously	adv	symphony|symphoni|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+symphonist	noun	symphony|symphoni|R|N ; -ist|st|S
+symphorophilia	noun	symphorophilia|symphorophilia|R|N
+symphyseal	adj	symphysis|symphys|R|N ; -eal|eal|S
+symphysis	noun	symphysis|symphysis|R|N
+sympodial	adj	sympodial|sympodial|R|Adj
+symposial	adj	symposium|symposi|R|N ; -al|al|S
+symposiarch	noun	symposiarch|symposiarch|R|N
+symposion	noun	symposion|symposion|R|N
+symptomatical	adj	symptomatic|symptomatic|R|Adj ; -al|al|S

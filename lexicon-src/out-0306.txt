@@ -1,0 +1,200 @@
+inconceivableness	noun	in-|in|P ; con-|con|P ; -ceive|ceiv|B|V ; -able|able|S ; -ness|ness|S
+inconclusiveness	noun	in-|in|P ; conclude|conclus|R|V ; -ive|ive|S ; -ness|ness|S
+incondensability	noun	in-|in|P ; condense|condens|R|V ; -able|abil|S ; -ity|ity|S
+incondensable	adj	in-|in|P ; condense|condens|R|V ; -able|able|S
+incondite	adj	incondite|incondite|R|Adj
+inconditely	adv	incondite|incondite|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inconformity	noun	in-|in|P ; conformity|conformity|R|N
+incongruently	adv	in-|in|P ; congruent|congruent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+incongruousness	noun	in-|in|P ; congruous|congruous|R|Adj ; -ness|ness|S
+inconnu	noun	inconnu|inconnu|R|N
+inconquerable	adj	in-|in|P ; conquer|conquer|R|V ; -able|able|S
+inconsecutive	adj	in-|in|P ; consecutive|consecutive|R|Adj
+inconsecutiveness	noun	in-|in|P ; consecutive|consecutive|R|Adj ; -ness|ness|S
+inconsequence	noun	in-|in|P ; consequence|consequence|R|N
+inconsequent	adj	in-|in|P ; consequent|consequent|R|Adj
+inconsequentia	noun	inconsequentia|inconsequentia|R|N
+inconsequentiality	noun	in-|in|P ; consequential|consequential|R|Adj ; -ity|ity|S
+inconsequently	adv	in-|in|P ; consequent|consequent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inconsequentness	noun	in-|in|P ; consequent|consequent|R|Adj ; -ness|ness|S
+inconsiderableness	noun	in-|in|P ; consider|consider|R|V ; -able|able|S ; -ness|ness|S
+inconsiderably	adv	in-|in|P ; consider|consider|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+inconsiderately	adv	in-|in|P ; considerate|considerate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inconsiderateness	noun	in-|in|P ; considerate|considerate|R|Adj ; -ness|ness|S
+inconsideration	noun	in-|in|P ; consider|consider|R|V ; -ation|ation|S
+inconsolability	noun	in-|in|P ; console|consol|R|V ; -able|abil|S ; -ity|ity|S
+inconsolableness	noun	in-|in|P ; console|consol|R|V ; -able|able|S ; -ness|ness|S
+inconsonance	noun	in-|in|P ; consonance|consonance|R|N
+inconsonant	adj	in-|in|P ; consonant|consonant|R|Adj
+inconsonantly	adv	in-|in|P ; consonant|consonant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inconspicuousness	noun	in-|in|P ; conspicuous|conspicuous|R|Adj ; -ness|ness|S
+inconstantly	adv	in-|in|P ; constant|constant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inconsumable	adj	in-|in|P ; consume|consum|R|V ; -able|able|S
+inconsumably	adv	in-|in|P ; consume|consum|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+incontestability	noun	in-|in|P ; contest|contest|R|V ; -able|abil|S ; -ity|ity|S
+incontestableness	noun	in-|in|P ; contest|contest|R|V ; -able|able|S ; -ness|ness|S
+incontestably	adv	in-|in|P ; contest|contest|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+incontinently	adv	in-|in|P ; continent|continent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+incontrovertibility	noun	in-|in|P ; controvert|controvert|R|V ; -ible|ibil|S ; -ity|ity|S
+incontrovertibleness	noun	in-|in|P ; controvert|controvert|R|V ; -ible|ible|S ; -ness|ness|S
+inconvertibility	noun	in-|in|P ; convert|convert|R|V ; -ible|ibil|S ; -ity|ity|S
+inconvertible	adj	in-|in|P ; convert|convert|R|V ; -ible|ible|S
+inconvertibleness	noun	in-|in|P ; convert|convert|R|V ; -ible|ible|S ; -ness|ness|S
+inconvertibly	adv	in-|in|P ; convert|convert|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+inconvincible	adj	in-|in|P ; convince|convinc|R|V ; -ible|ible|S
+incoordinate	adj	in-|in|P ; co-|co|P ; ordinate|ordinate|R|V
+incoordinately	adv	in-|in|P ; co-|co|P ; ordinate|ordinate|R|V ; -ly|ly|I|Adv|-ly (adv)
+incoordination	noun	in-|in|P ; co-|co|P ; ordinate|ordinat|R|V ; -ion|ion|S
+incorporable	adj	in-|in|P ; corporate|corpor|R|Adj ; -able|able|S
+incorporatedness	noun	in-|in|P ; corporate|corporat|R|Adj ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+incorporative	adj	in-|in|P ; corporate|corporat|R|Adj ; -ive|ive|S
+incorporator	noun	in-|in|P ; corporate|corporat|R|Adj ; -or|or|S
+incorporeality	noun	in-|in|P ; corporeal|corporeal|R|Adj ; -ity|ity|S
+incorporeally	adv	in-|in|P ; corporeal|corporeal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+incorporeity	noun	in-|in|P ; corporeal|corpore|R|Adj ; -ity|ity|S
+incorrigibility	noun	in-|in|P ; corrigible|corrigibil|R|Adj ; -ity|ity|S
+incorrigibleness	noun	in-|in|P ; corrigible|corrigible|R|Adj ; -ness|ness|S
+incorrodable	adj	in-|in|P ; corrode|corrod|R|V ; -able|able|S
+incorrosible	adj	in-|in|P ; corrode|corros|R|V ; -ible|ible|S
+incorrupt	adj	in-|in|P ; corrupt|corrupt|R|Adj
+incorruptibleness	noun	in-|in|P ; corrupt|corrupt|R|Adj ; -ible|ible|S ; -ness|ness|S
+incorruptibly	adv	in-|in|P ; corrupt|corrupt|R|Adj ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+incorruptness	noun	in-|in|P ; corrupt|corrupt|R|Adj ; -ness|ness|S
+incrassate	verb	in-|in|P ; crass|crass|R|Adj ; -ate|ate|S
+increasable	adj	increase|increas|R|V ; -able|able|S
+increaser	noun	increase|increas|R|V ; -er|er|S||-er (N)
+incredibility	noun	in-|in|P ; credible|credibil|R|Adj ; -ity|ity|S
+incredibleness	noun	in-|in|P ; credible|credible|R|Adj ; -ness|ness|S
+incredulousness	noun	in-|in|P ; credulous|credulous|R|Adj ; -ness|ness|S
+incretion	noun	incretion|incretion|R|N
+incriminator	noun	incriminate|incriminat|R|V ; -or|or|S
+incriminatory	adj	incriminate|incriminat|R|V ; -ory|ory|S
+incrustation	noun	in-|in|P ; crust|crust|R|N ; -ation|ation|S
+incubational	adj	incubate|incubat|R|V ; -ion|ion|S ; -al|al|S
+incubative	adj	incubate|incubat|R|V ; -ive|ive|S
+incubatory	adj	incubate|incubat|R|V ; -ory|ory|S
+inculcative	adj	inculcate|inculcat|R|V ; -ive|ive|S
+inculcator	noun	inculcate|inculcat|R|V ; -or|or|S
+inculcatory	adj	inculcate|inculcat|R|V ; -ory|ory|S
+inculpability	noun	in-|in|P ; culpable|culpabil|R|Adj ; -ity|ity|S
+inculpable	adj	in-|in|P ; culpable|culpable|R|Adj
+inculpableness	noun	in-|in|P ; culpable|culpable|R|Adj ; -ness|ness|S
+inculpate	verb	inculpate|inculpate|R|V
+inculpation	noun	inculpate|inculpat|R|V ; -ion|ion|S
+inculpatory	adj	inculpate|inculpat|R|V ; -ory|ory|S
+incumbently	adv	incumbent|incumbent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+incumbrance	noun	in-|in|P ; cumber|cumbr|R|V ; -ance|ance|S
+incunabula	noun	incunabula|incunabula|R|N
+incunabulum	noun	incunabulum|incunabulum|R|N
+incurability	noun	in-|in|P ; curable|curabil|R|Adj ; -ity|ity|S
+incurableness	noun	in-|in|P ; curable|curable|R|Adj ; -ness|ness|S
+incuriosity	noun	in-|in|P ; curiosity|curiosity|R|N
+incuriously	adv	in-|in|P ; curious|curious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+incuriousness	noun	in-|in|P ; curious|curious|R|Adj ; -ness|ness|S
+incurrent	adj	in-|in|P ; current|current|R|Adj
+incursive	adj	in-|in|P ; cursive|cursive|R|Adj
+incurvation	noun	in-|in|P ; curve|curv|R|V ; -ation|ation|S
+incurvature	noun	in-|in|P ; curve|curv|R|V ; -ure|ature|S
+incurve	verb	in-|in|P ; curve|curve|R|V
+incuse	verb	incuse|incuse|R|V
+indaba	noun	indaba|indaba|R|N
+indeciduate	adj	indeciduate|indeciduate|R|Adj
+indeciduous	adj	in-|in|P ; deciduous|deciduous|R|Adj
+indecipherability	noun	in-|in|P ; decipher|decipher|R|V ; -able|abil|S ; -ity|ity|S
+indecipherableness	noun	in-|in|P ; decipher|decipher|R|V ; -able|able|S ; -ness|ness|S
+indecipherably	adv	in-|in|P ; decipher|decipher|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+indeclinable	adj	in-|in|P ; decline|declin|R|V ; -able|able|S
+indeclinableness	noun	in-|in|P ; decline|declin|R|V ; -able|able|S ; -ness|ness|S
+indecomposability	noun	in-|in|P ; de-|de|P ; compose|compos|R|V ; -able|abil|S ; -ity|ity|S
+indecomposable	adj	in-|in|P ; de-|de|P ; compose|compos|R|V ; -able|able|S
+indecomposableness	noun	in-|in|P ; de-|de|P ; compose|compos|R|V ; -able|able|S ; -ness|ness|S
+indecorously	adv	in-|in|P ; decorous|decorous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+indecorousness	noun	in-|in|P ; decorous|decorous|R|Adj ; -ness|ness|S
+indecorum	noun	in-|in|P ; decorum|decorum|R|N
+indefatigability	noun	in-|in|P ; de-|de|P ; fatigue|fatig|R|V ; -able|abil|S ; -ity|ity|S
+indefatigableness	noun	in-|in|P ; de-|de|P ; fatigue|fatig|R|V ; -able|able|S ; -ness|ness|S
+indefeasibility	noun	in-|in|P ; de-|de|P ; feasible|feasibil|R|Adj ; -ity|ity|S
+indefeasible	adj	in-|in|P ; de-|de|P ; feasible|feasible|R|Adj
+indefeasibleness	noun	in-|in|P ; de-|de|P ; feasible|feasible|R|Adj ; -ness|ness|S
+indefeasibly	adv	in-|in|P ; de-|de|P ; feasible|feasib|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+indefectibility	noun	in-|in|P ; defect|defect|R|N ; -ible|ibil|S ; -ity|ity|S
+indefectible	adj	in-|in|P ; defect|defect|R|N ; -ible|ible|S
+indefectibly	adv	in-|in|P ; defect|defect|R|N ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+indefensibility	noun	in-|in|P ; defense|defens|R|N ; -ible|ibil|S ; -ity|ity|S
+indefensibleness	noun	in-|in|P ; defense|defens|R|N ; -ible|ible|S ; -ness|ness|S
+indefensibly	adv	in-|in|P ; defense|defens|R|N ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+indefinability	noun	in-|in|P ; define|defin|R|V ; -able|abil|S ; -ity|ity|S
+indefiniteness	noun	in-|in|P ; definite|definite|R|Adj ; -ness|ness|S
+indefinitive	adj	in-|in|P ; definite|definit|R|Adj ; -ive|ive|S
+indefinitiveness	noun	in-|in|P ; definite|definit|R|Adj ; -ive|ive|S ; -ness|ness|S
+indegree	noun	in-|in|P ; degree|degree|R|N
+indehiscence	noun	in-|in|P ; dehiscence|dehiscence|R|N
+indehiscent	adj	in-|in|P ; dehiscent|dehiscent|R|Adj
+indeliberate	adj	in-|in|P ; deliberate|deliberate|R|Adj
+indeliberateness	noun	in-|in|P ; deliberate|deliberate|R|Adj ; -ness|ness|S
+indelibility	noun	in-|in|P ; delete|del|R|V ; -ible|ibil|S ; -ity|ity|S
+indelibleness	noun	in-|in|P ; delete|del|R|V ; -ible|ible|S ; -ness|ness|S
+indelicacy	noun	in-|in|P ; delicacy|delicacy|R|N
+indelicately	adv	in-|in|P ; delicate|delicate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+indelicateness	noun	in-|in|P ; delicate|delicate|R|Adj ; -ness|ness|S
+indemnifier	noun	indemnify|indemnifi|R|V ; -er|er|S||-er (N)
+indemnitee	noun	indemnify|indemnit|R|V ; -ee|ee|S
+indemnitor	noun	indemnitor|indemnitor|R|N
+indemonstrability	noun	in-|in|P ; demonstrate|demonstr|R|V ; -able|abil|S ; -ity|ity|S
+indemonstrable	adj	in-|in|P ; demonstrate|demonstr|R|V ; -able|able|S
+indemonstrableness	noun	in-|in|P ; demonstrate|demonstr|R|V ; -able|able|S ; -ness|ness|S
+indemonstrably	adv	in-|in|P ; demonstrate|demonstr|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+indene	noun	indene|indene|R|N
+indenting	verb	in-|in|P ; dent|dent|R|N ; -ing|ing|I||-ing (v)
+indention	noun	in-|in|P ; dent|dent|R|N ; -ion|ion|S
+indentureship	noun	indenture|indenture|R|N ; -ship|ship|S
+independency	noun	in-|in|P ; depend|depend|R|V ; -ency|ency|S
+independentism	noun	in-|in|P ; depend|depend|R|V ; -ent|ent|S ; -ism|ism|S
+independentist	noun	in-|in|P ; depend|depend|R|V ; -ent|ent|S ; -ist|ist|S
+indescribability	noun	in-|in|P ; de-|de|P ; -scribe|scrib|B|V ; -able|abil|S ; -ity|ity|S
+indescribableness	noun	in-|in|P ; de-|de|P ; -scribe|scrib|B|V ; -able|able|S ; -ness|ness|S
+indestructibility	noun	in-|in|P ; de-|de|P ; -struct|struct|B|V ; -ible|ibil|S ; -ity|ity|S
+indestructibleness	noun	in-|in|P ; de-|de|P ; -struct|struct|B|V ; -ible|ible|S ; -ness|ness|S
+indestructibly	adv	in-|in|P ; de-|de|P ; -struct|struct|B|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+indetectable	adj	in-|in|P ; detect|detect|R|V ; -able|able|S
+indeterminable	adj	in-|in|P ; de-|de|P ; terminate|termin|R|V ; -able|able|S
+indeterminableness	noun	in-|in|P ; de-|de|P ; terminate|termin|R|V ; -able|able|S ; -ness|ness|S
+indeterminably	adv	in-|in|P ; de-|de|P ; terminate|termin|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+indeterminately	adv	in-|in|P ; de-|de|P ; terminate|terminate|R|V ; -ly|ly|I|Adv|-ly (adv)
+indeterminateness	noun	in-|in|P ; de-|de|P ; terminate|terminate|R|V ; -ness|ness|S
+indetermination	noun	in-|in|P ; de-|de|P ; terminate|terminat|R|V ; -ion|ion|S
+indeterminism	noun	in-|in|P ; de-|de|P ; terminate|termin|R|V ; -ism|ism|S
+indeterminist	noun	in-|in|P ; de-|de|P ; terminate|termin|R|V ; -ist|ist|S
+indeterministic	adj	in-|in|P ; de-|de|P ; terminate|termin|R|V ; -ist|ist|S ; -ic|ic|S
+indexable	adj	index|index|R|N ; -able|able|S
+indexless	adj	index|index|R|N ; -less|less|S
+indic	noun	indic|indic|R|N
+indicatively	adv	indicate|indicat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+indicatory	adj	indicate|indicat|R|V ; -ory|ory|S
+indicia	noun	indicia|indicia|R|N
+indicial	adj	indicia|indici|R|N ; -al|al|S
+indicter	noun	indict|indict|R|V ; -er|er|S||-er (N)
+indiction	noun	indict|indict|R|V ; -ion|ion|S
+indictor	noun	indict|indict|R|V ; -or|or|S
+indifferentism	noun	in-|in|P ; different|different|R|Adj ; -ism|ism|S
+indifferentist	noun	in-|in|P ; different|different|R|Adj ; -ist|ist|S
+indigene	noun	indigene|indigene|R|N
+indigenize	verb	indigene|indigen|R|N ; -ize|ize|S
+indigenously	adv	indigenous|indigenous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+indigenousness	noun	indigenous|indigenous|R|Adj ; -ness|ness|S
+indigently	adv	indigent|indigent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+indigested	adj	in-|in|P ; digest|digest|R|V ; -ed|ed|S||-ed (adj)
+indigestibility	noun	in-|in|P ; digest|digest|R|V ; -ible|ibil|S ; -ity|ity|S
+indigestibleness	noun	in-|in|P ; digest|digest|R|V ; -ible|ible|S ; -ness|ness|S
+indigestibly	adv	in-|in|P ; digest|digest|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+indigestive	adj	in-|in|P ; digest|digest|R|V ; -ive|ive|S
+indigotin	noun	indigotin|indigotin|R|N
+indirectness	noun	in-|in|P ; direct|direct|R|Adj ; -ness|ness|S
+indiscernibility	noun	in-|in|P ; discern|discern|R|V ; -ible|ibil|S ; -ity|ity|S
+indiscernibleness	noun	in-|in|P ; discern|discern|R|V ; -ible|ible|S ; -ness|ness|S
+indiscernibly	adv	in-|in|P ; discern|discern|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+indiscerptibility	noun	indiscerptibility|indiscerptibility|R|N
+indisciplinable	adj	in-|in|P ; discipline|disciplin|R|V ; -able|able|S
+indiscreetness	noun	in-|in|P ; discreet|discreet|R|Adj ; -ness|ness|S
+indiscrete	adj	in-|in|P ; discrete|discrete|R|Adj
+indiscriminateness	noun	in-|in|P ; discriminate|discriminate|R|Adj ; -ness|ness|S

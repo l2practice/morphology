@@ -1,0 +1,150 @@
+slicer	noun	=
+moviemaker	noun	=
+fecund	adj	=
+amity	noun	=
+indolent	adj	in-|in|P||||Latin in- 'not' ; -dol-|dol|B|V|||Latin dolere 'to hurt' ; -ent|ent|S||||Latin -ens 'being'
+nautilus	noun	=
+convener	noun	=
+planar	adj	=
+vapid	adj	=
+archduke	noun	=
+aerate	verb	aer-|aer|B|N|||Latin aer 'air' ; -ate|ate|S
+impoverish	verb	=
+airbrush	noun	=
+quadrangle	noun	=
+impermeable	adj	=
+interstitial	adj	=
+dimmer	noun	=
+pumice	noun	=
+lector	noun	leg-|lect|B|V|||Latin legere 'to read' ; -or|or|S||||Latin -or 'agent'
+fealty	noun	=
+profundity	noun	=
+miasma	noun	=
+internationalize	verb	=
+personalization	noun	=
+lipoprotein	noun	lipo-|lipo|B|N|||Greek lipos 'fat' ; protein|protein|R|N
+amethyst	noun	=
+melaleuca	noun	mela-|mela|B|Adj|||Greek melas 'black' ; -leuca|leuca|B|Adj|||Greek leukos 'white'
+papery	adj	=
+sphincter	noun	=
+turbinate	adj	=
+progressivism	noun	=
+umbrage	noun	=
+alchemical	adj	=
+origination	noun	=
+expansionism	noun	=
+commissar	noun	=
+hieroglyphic	adj	=
+musicologist	noun	music|music|R|N ; -olog-|olog|B|N|||Greek logos 'study, word' ; -ist|ist|S||||Greek -istes 'one who'
+botulism	noun	botul-|botul|B|N|||Latin botulus 'sausage' ; -ism|ism|S||||Greek -ismos 'condition'
+aero	noun	=
+lyre	noun	=
+monetarism	noun	=
+cognate	adj	co-|co|P||||Latin co- 'together' ; -gnate|gnate|B|V|||Latin gnatus 'born'
+expeditious	adj	=
+solicitude	noun	=
+geophysicist	noun	=
+topiary	noun	=
+busker	noun	=
+orgasmic	adj	=
+hemorrhoid	noun	=
+marjoram	noun	=
+electromechanical	adj	=
+inextricable	adj	=
+plenitude	noun	=
+banco	noun	=
+perdition	noun	=
+nullity	noun	=
+sensationalize	verb	=
+avarice	noun	=
+cruciform	adj	cruci-|cruci|B|N|||Latin crux 'cross' ; -form|form|S||||Latin -formis 'shaped'
+angiography	noun	=
+derogation	noun	=
+polygamist	noun	=
+obfuscation	noun	ob-|ob|P||||Latin ob 'over' ; -fusc-|fusc|B|Adj|||Latin fuscus 'dark' ; -ation|ation|S||||Latin -atio, 'act, state'
+synoptic	adj	=
+hypothyroidism	noun	=
+pituitary	noun	=
+obstetric	adj	=
+vertiginous	adj	=
+assembler	noun	=
+sumac	noun	=
+stigmatization	noun	=
+fescue	noun	=
+electrochemical	adj	=
+diffuser	noun	=
+hallucinogenic	adj	=
+swinger	noun	=
+bordello	noun	=
+gastroenterologist	noun	=
+dirge	noun	=
+parachutist	noun	=
+effeminate	adj	ef-|ef|P||||Latin ex- 'out' ; -femin-|femin|B|N|||Latin femina 'woman' ; -ate|ate|S||||Latin -atus 'verb-forming'
+phage	noun	=
+baba	noun	=
+gargle	verb	=
+limbic	adj	=
+reductionist	noun	=
+turbidity	noun	=
+quadratic	adj	=
+notate	verb	=
+occlude	verb	oc-|oc|P||||Latin ob 'before' ; -clude|clude|B|V|||Latin claudere 'to shut'
+bodega	noun	=
+cumulus	noun	=
+energizer	noun	=
+talcum	noun	=
+illiberal	adj	=
+pontificate	verb	ponti-|ponti|B|N|||Latin pons 'bridge' ; -fic-|fic|B|V|||Latin facere 'to make' ; -ate|ate|S||||Latin -atus 'verb-forming'
+avow	verb	=
+edification	noun	=
+anatomist	noun	=
+keyboardist	noun	=
+barrack	noun	=
+egotism	noun	ego|ego|R|N ; -tism|tism|S|||-ism|Greek -ismos 'condition'
+mons	noun	=
+unionize	verb	=
+codeine	noun	=
+kaleidoscopic	adj	=
+pulsation	noun	=
+estimable	adj	=
+megacity	noun	=
+borer	noun	=
+condenser	noun	=
+ejaculate	verb	=
+decorous	adj	=
+palimpsest	noun	=
+afforestation	noun	=
+prima	noun	=
+philosophize	verb	=
+recumbent	adj	=
+shingles	noun	=
+melanin	noun	melan-|melan|B|Adj|||Greek melas 'black' ; -in|in|S||||Latin -ina 'substance'
+biophysical	adj	=
+luge	noun	=
+monopolist	noun	=
+forager	noun	=
+hieroglyph	noun	=
+ischemia	noun	isch-|isch|B|V|||Greek iskhein 'to hold back' ; -emia|emia|B|N|||Greek haima 'blood'
+metonymy	noun	met-|met|P||||Greek meta 'other' ; -onym-|onym|B|N|||Greek onoma 'name' ; -y|y|S||||Greek -ia 'state'
+amniotic	adj	amni-|amni|B|N|||Greek amnion 'fetal sac' ; -otic|otic|S||||Greek -ikos 'pertaining to'
+feint	noun	=
+elastomer	noun	=
+orthodontist	noun	=
+pergola	noun	=
+lemur	noun	=
+atheistic	adj	=
+pontifical	adj	ponti-|ponti|B|N|||Latin pons 'bridge' ; -fic-|fic|B|V|||Latin facere 'to make' ; -al|al|S||||Latin -alis 'relating to'
+octagon	noun	=
+paella	noun	=
+unexplainable	adj	=
+dermatitis	noun	dermat-|dermat|B|N|||Greek derma 'skin, hide' ; -itis|itis|S||||Greek -itis 'inflammation'
+joust	verb	=
+coagulation	noun	=
+coppice	noun	=
+aspersion	noun	=
+metacognition	noun	=
+splitter	noun	=
+tench	noun	=
+reagent	noun	=
+excelsior	noun	=
+hyperplasia	noun	=

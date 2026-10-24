@@ -1,0 +1,200 @@
+nitid	adj	nitid|nitid|R|Adj
+nitpicker	noun	nit|nit|R|N ; pick|pick|R|V ; -er|er|S||-er (N)
+nitpicking	verb	nit|nit|R|N ; pick|pick|R|V ; -ing|ing|I||-ing (v)
+nitpicky	adj	nit|nit|R|N ; pick|pick|R|V ; -y|y|S
+nitrary	adj	nitre|nitr|R|N ; -ary|ary|S
+nitrated	verb	nitrate|nitrat|R|N ; -ed|ed|I||-ed (v2)
+nitrating	verb	nitrate|nitrat|R|N ; -ing|ing|I||-ing (v)
+nitration	noun	nitrate|nitrat|R|N ; -ion|ion|S
+nitre	noun	nitre|nitre|R|N
+nitrene	noun	nitrene|nitrene|R|N
+nitriding	verb	nitride|nitrid|R|N ; -ing|ing|I||-ing (v)
+nitrify	verb	nitrify|nitrify|R|V
+nitrile	noun	nitrile|nitrile|R|N
+nitrobenzene	noun	nitrobenzene|nitrobenzene|R|N
+nitrocellulose	noun	nitrocellulose|nitrocellulose|R|N
+nitrofen	noun	nitrofen|nitrofen|R|N
+nitrometer	noun	nitrometer|nitrometer|R|N
+nitrox	noun	nitrox|nitrox|R|N
+nitwitted	adj	nit|nit|R|N ; wit|witt|R|N ; -ed|ed|S||-ed (adj)
+nixie	noun	nixie|nixie|R|N
+nixtamalization	noun	nixtamalize|nixtamaliz|R|V ; -ation|ation|S
+nobbling	verb	nobble|nobbl|R|V ; -ing|ing|I||-ing (v)
+nobelium	noun	nobelium|nobelium|R|N
+nobiliary	adj	nobiliary|nobiliary|R|Adj
+nobleness	noun	noble|noble|R|Adj ; -ness|ness|S
+nocebo	noun	nocebo|nocebo|R|N
+nociception	noun	nociception|nociception|R|N
+noctambulant	adj	noctambulant|noctambulant|R|Adj
+noctambulism	noun	noctambulism|noctambulism|R|N
+noctambulist	noun	noctambulism|noctambul|R|N ; -ist|ist|S
+noctiflorous	adj	noctiflorous|noctiflorous|R|Adj
+noctilucent	adj	noctilucent|noctilucent|R|Adj
+noctivagant	adj	noctivagant|noctivagant|R|Adj
+noctivagous	adj	noctivagous|noctivagous|R|Adj
+noctograph	noun	noctograph|noctograph|R|N
+noctovision	noun	noctovision|noctovision|R|N
+noctuid	noun	noctuid|noctuid|R|N
+noctule	noun	noctule|noctule|R|N
+nocturia	noun	nocturia|nocturia|R|N
+nocturnality	noun	nocturnal|nocturnal|R|Adj ; -ity|ity|S
+nocturnally	adv	nocturnal|nocturnal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+nocuous	adj	nocuous|nocuous|R|Adj
+noddle	noun	noddle|noddle|R|N
+noddled	verb	noddle|noddl|R|V ; -ed|ed|I||-ed (v2)
+nodose	adj	nodose|nodose|R|Adj
+nodosity	noun	nodose|nodos|R|Adj ; -ity|ity|S
+nodulated	verb	nodulate|nodulat|R|V ; -ed|ed|I||-ed (v2)
+nodulose	adj	nodulose|nodulose|R|Adj
+nodus	noun	nodus|nodus|R|N
+noel	noun	noel|noel|R|N
+noesis	noun	noesis|noesis|R|N
+nohow	adv	no|no|R|Adv ; how|how|R|Adv
+noil	noun	noil|noil|R|N
+noised	verb	noise|nois|R|V ; -ed|ed|I||-ed (v2)
+noiselessness	noun	noise|noise|R|N ; -less|less|S ; -ness|ness|S
+noiseproof	adj	noise|noise|R|N ; proof|proof|R|N
+noisiness	noun	noisy|noisi|R|Adj ; -ness|ness|S
+noisomeness	noun	noisome|noisome|R|Adj ; -ness|ness|S
+nom	verb	nom|nom|R|V
+noma	noun	noma|noma|R|N
+nomadism	noun	nomad|nomad|R|N ; -ism|ism|S
+nomadize	verb	nomad|nomad|R|N ; -ize|ize|S
+nomarch	noun	nomarch|nomarch|R|N
+nomen	noun	nomen|nomen|R|N
+nomenclative	adj	nomenclature|nomenclat|R|N ; -ive|ive|S
+nomenclator	noun	nomenclature|nomenclat|R|N ; -or|or|S
+nominalist	noun	nominal|nominal|R|Adj ; -ist|ist|S
+nominalization	noun	nominalize|nominaliz|R|V ; -ation|ation|S
+nominalize	verb	nominal|nominal|R|Adj ; -ize|ize|S
+nominalizer	noun	nominalize|nominaliz|R|V ; -er|er|S||-er (N)
+nominatival	adj	nominative|nominativ|R|Adj ; -al|al|S
+nominative	adj	nominate|nominat|R|V ; -ive|ive|S
+nomogram	noun	nomogram|nomogram|R|N
+nomograph	noun	nomograph|nomograph|R|N
+nomographic	adj	nomography|nomograph|R|N ; -ic|ic|S
+nomophobia	noun	nomophobia|nomophobia|R|N
+nonacceptable	adj	non-|non|P ; acceptable|acceptable|R|Adj
+nonacceptance	noun	non-|non|P ; acceptance|acceptance|R|N
+nonacosane	noun	nonacosane|nonacosane|R|N
+nonacquiescent	adj	non-|non|P ; acquiescent|acquiescent|R|Adj
+nonadecane	noun	nonadecane|nonadecane|R|N
+nonage	noun	non-|non|P ; age|age|R|N
+nonagon	noun	nonagon|nonagon|R|N
+nonagonal	adj	nonagon|nonagon|R|N ; -al|al|S
+nonaligned	adj	non-|non|P ; align|align|R|V ; -ed|ed|S||-ed (adj)
+nonalingual	adj	nonalingual|nonalingual|R|Adj
+nonane	noun	nonane|nonane|R|N
+nonary	adj	nonary|nonary|R|Adj
+nonasyllabic	adj	non-|non|P ; asyllabic|asyllabic|R|Adj
+nonatomic	adj	non-|non|P ; atomic|atomic|R|Adj
+nonbearing	adj	non-|non|P ; bear|bear|R|V ; -ing|ing|S||-ing (adj)
+nonbeliever	noun	non-|non|P ; believe|believ|R|V ; -er|er|S||-er (N)
+nonbiodegradable	adj	non-|non|P ; biodegradable|biodegradable|R|Adj
+noncitizen	noun	non-|non|P ; citizen|citizen|R|N
+noncommutative	adj	non-|non|P ; commute|commut|R|V ; -ative|ative|S
+nonconforming	adj	non-|non|P ; conform|conform|R|V ; -ing|ing|S||-ing (adj)
+nonconformism	noun	non-|non|P ; conform|conform|R|V ; -ism|ism|S
+noncongested	adj	non-|non|P ; congest|congest|R|V ; -ed|ed|S||-ed (adj)
+nonconsolidated	adj	non-|non|P ; consolidate|consolidat|R|V ; -ed|ed|S||-ed (adj)
+nondazzle	adj	non-|non|P ; dazzle|dazzle|R|V
+nondemocratic	adj	non-|non|P ; democratic|democratic|R|Adj
+nondeterministic	adj	non-|non|P ; deterministic|deterministic|R|Adj
+nondrinker	noun	non-|non|P ; drink|drink|R|V ; -er|er|S||-er (N)
+nondriver	noun	non-|non|P ; drive|driv|R|V ; -er|er|S||-er (N)
+nonectodermal	adj	non-|non|P ; ectodermal|ectodermal|R|Adj
+nones	noun	nones|nones|R|N
+nonessential	adj	non-|non|P ; essential|essential|R|Adj
+nonesuch	noun	none|none|R|Adv ; such|such|R|Adj
+nonet	noun	nonet|nonet|R|N
+nonflammable	adj	non-|non|P ; flammable|flammable|R|Adj
+nonfree	adj	non-|non|P ; free|free|R|Adj
+noni	noun	noni|noni|R|N
+nonillion	noun	nonillion|nonillion|R|N
+nonillionaire	noun	nonillionaire|nonillionaire|R|N
+noninterference	noun	non-|non|P ; interference|interference|R|N
+nonius	noun	nonius|nonius|R|N
+nonkilling	adj	non-|non|P ; kill|kill|R|V ; -ing|ing|S||-ing (adj)
+nonmetal	noun	non-|non|P ; metal|metal|R|N
+nonmilitary	adj	non-|non|P ; military|military|R|Adj
+nonnegotiable	adj	non-|non|P ; negotiable|negotiable|R|Adj
+nonobservance	noun	non-|non|P ; observance|observance|R|N
+nonpermeable	adj	non-|non|P ; permeable|permeable|R|Adj
+nonplus	verb	nonplus|nonplus|R|V
+nonplussing	verb	nonplus|nonpluss|R|V ; -ing|ing|I||-ing (v)
+nonpolitical	adj	non-|non|P ; political|political|R|Adj
+nonpositive	adj	non-|non|P ; positive|positive|R|Adj
+nonpracticing	adj	non-|non|P ; practice|practic|R|V ; -ing|ing|S||-ing (adj)
+nonprofessional	adj	non-|non|P ; professional|professional|R|Adj
+nonreligious	adj	non-|non|P ; religious|religious|R|Adj
+nonrepudiation	noun	non-|non|P ; repudiation|repudiation|R|N
+nonsectarian	adj	non-|non|P ; sectarian|sectarian|R|Adj
+nonsensicality	noun	nonsensical|nonsensical|R|Adj ; -ity|ity|S
+nonsensically	adv	nonsensical|nonsensical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+nonsensicalness	noun	nonsensical|nonsensical|R|Adj ; -ness|ness|S
+nonsingular	adj	non-|non|P ; singular|singular|R|Adj
+nonspecialist	noun	non-|non|P ; specialist|specialist|R|N
+nonstandard	adj	non-|non|P ; standard|standard|R|Adj
+nonstarter	noun	non-|non|P ; start|start|R|V ; -er|er|S||-er (N)
+nonsuit	noun	nonsuit|nonsuit|R|N
+nonswimmer	noun	non-|non|P ; swim|swimm|R|V ; -er|er|S||-er (N)
+nontransferable	adj	non-|non|P ; transferable|transferable|R|Adj
+nontransparent	adj	non-|non|P ; transparent|transparent|R|Adj
+nonuplet	noun	nonuplet|nonuplet|R|N
+nonvoter	noun	non-|non|P ; vote|vot|R|V ; -er|er|S||-er (N)
+nonwoven	adj	non-|non|P ; weave|woven|R|V ; -en||I||-en (participle)
+nonzero	adj	non-|non|P ; zero|zero|R|N
+noob	noun	noob|noob|R|N
+noodles	noun	noodle|noodle|R|N ; -s|s|I||-s (plural)
+noogie	noun	noogie|noogie|R|N
+noona	noun	noona|noona|R|N
+noontide	noun	noon|noon|R|N ; tide|tide|R|N
+noosphere	noun	noosphere|noosphere|R|N
+nordic	adj	nordic|nordic|R|Adj
+noria	noun	noria|noria|R|N
+normalizing	verb	normalize|normaliz|R|V ; -ing|ing|I||-ing (v)
+normation	noun	norm|norm|R|N ; -ation|ation|S
+normativization	noun	normativize|normativiz|R|V ; -ation|ation|S
+normcore	noun	norm|norm|R|N ; core|core|R|N
+normie	noun	normie|normie|R|N
+normotensive	adj	normotensive|normotensive|R|Adj
+normothermic	adj	normothermic|normothermic|R|Adj
+north	noun	north|north|R|N
+norther	noun	norther|norther|R|N
+northing	noun	north|north|R|N ; -ing|ing|S||-ing (N)
+northwardly	adv	north|north|R|N ; -ward|ward|S ; -ly|ly|I|Adv|-ly (adv)
+northwester	noun	north|north|R|N ; west|west|R|N ; -er|er|S||-er (N)
+noseband	noun	nose|nose|R|N ; band|band|R|N
+nosed	adj	nose|nos|R|N ; -ed|ed|S||-ed (adj)
+noseless	adj	nose|nose|R|N ; -less|less|S
+noser	noun	nose|nos|R|V ; -er|er|S||-er (N)
+nosher	noun	nosh|nosh|R|V ; -er|er|S||-er (N)
+nosily	adv	nosy|nosi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+nosiness	noun	nosy|nosi|R|Adj ; -ness|ness|S
+nosing	verb	nose|nos|R|V ; -ing|ing|I||-ing (v)
+nosode	noun	nosode|nosode|R|N
+nosology	noun	nosology|nosology|R|N
+nostoc	noun	nostoc|nostoc|R|N
+nostrification	noun	nostrify|nostrifi|R|V ; -ation|cation|S
+nostrify	verb	nostrify|nostrify|R|V
+notability	noun	notable|notab|R|Adj ; -ity|ility|S
+notarize	verb	notary|notar|R|N ; -ize|ize|S
+notaryship	noun	notary|notary|R|N ; -ship|ship|S
+notching	verb	notch|notch|R|V ; -ing|ing|I||-ing (v)
+notecase	noun	note|note|R|N ; case|case|R|N
+notehead	noun	note|note|R|N ; head|head|R|N
+noteless	adj	note|note|R|N ; -less|less|S
+notelet	noun	note|note|R|N ; -let|let|S
+notetaking	noun	note|note|R|N ; take|tak|R|V ; -ing|ing|S||-ing (N)
+nothingburger	noun	nothing|nothing|R|N ; burger|burger|R|N
+noting	verb	note|not|R|V ; -ing|ing|I||-ing (v)
+notionalist	noun	notional|notional|R|Adj ; -ist|ist|S
+notochord	noun	notochord|notochord|R|N
+noughties	noun	nought|nought|R|N ; -y|i|S ; -s|es|I||-s (plural)
+noumenal	adj	noumenon|noumen|R|N ; -al|al|S
+noumenon	noun	noumenon|noumenon|R|N
+novation	noun	novation|novation|R|N
+novelese	noun	novelese|novelese|R|N
+novelize	verb	novel|novel|R|N ; -ize|ize|S
+novemdecillion	noun	novemdecillion|novemdecillion|R|N
+novennial	adj	novennial|novennial|R|Adj

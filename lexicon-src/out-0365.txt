@@ -1,0 +1,200 @@
+quadragesimal	adj	quadragesimal|quadragesimal|R|Adj
+quadrangular	adj	quadrangular|quadrangular|R|Adj
+quadrantal	adj	quadrant|quadrant|R|N ; -al|al|S
+quadraphonic	adj	quadraphonic|quadraphonic|R|Adj
+quadraphony	noun	quadraphony|quadraphony|R|N
+quadrat	noun	quadrat|quadrat|R|N
+quadrate	adj	quadrate|quadrate|R|Adj
+quadratus	noun	quadratus|quadratus|R|N
+quadrel	noun	quadrel|quadrel|R|N
+quadrennium	noun	quadrennium|quadrennium|R|N
+quadric	noun	quadric|quadric|R|N
+quadricapsular	adj	quadricapsular|quadricapsular|R|Adj
+quadricentennial	adj	quadricentennial|quadricentennial|R|Adj
+quadricorn	adj	quadricorn|quadricorn|R|Adj
+quadricornous	adj	quadricornous|quadricornous|R|Adj
+quadricycle	noun	quadricycle|quadricycle|R|N
+quadridentate	adj	quadridentate|quadridentate|R|Adj
+quadrifarious	adj	quadrifarious|quadrifarious|R|Adj
+quadrifid	adj	quadrifid|quadrifid|R|Adj
+quadriga	noun	quadriga|quadriga|R|N
+quadrigeminal	adj	quadrigeminal|quadrigeminal|R|Adj
+quadrilingual	adj	quadrilingual|quadrilingual|R|Adj
+quadrillionaire	noun	quadrillionaire|quadrillionaire|R|N
+quadrilobate	adj	quadrilobate|quadrilobate|R|Adj
+quadrilocular	adj	quadrilocular|quadrilocular|R|Adj
+quadrimester	noun	quadrimester|quadrimester|R|N
+quadrinate	adj	quadrinate|quadrinate|R|Adj
+quadripennate	adj	quadripennate|quadripennate|R|Adj
+quadriphyllous	adj	quadriphyllous|quadriphyllous|R|Adj
+quadripinnate	adj	quadripinnate|quadripinnate|R|Adj
+quadriplane	noun	quadriplane|quadriplane|R|N
+quadripolar	adj	quadripolar|quadripolar|R|Adj
+quadripole	noun	quadripole|quadripole|R|N
+quadrisyllabic	adj	quadrisyllabic|quadrisyllabic|R|Adj
+quadrisyllable	noun	quadrisyllable|quadrisyllable|R|N
+quadrivalence	noun	quadrivalence|quadrivalence|R|N
+quadrivalency	noun	quadrivalency|quadrivalency|R|N
+quadrivalent	adj	quadrivalent|quadrivalent|R|Adj
+quadrivial	adj	quadrivial|quadrivial|R|Adj
+quadrivium	noun	quadrivium|quadrivium|R|N
+quadrivoltine	adj	quadrivoltine|quadrivoltine|R|Adj
+quadrobist	noun	quadrobist|quadrobist|R|N
+quadroon	noun	quadroon|quadroon|R|N
+quadrumanous	adj	quadrumanous|quadrumanous|R|Adj
+quadrumvirate	noun	quadrumvirate|quadrumvirate|R|N
+quadrupedal	adj	quadruped|quadruped|R|N ; -al|al|S
+quadrupedalism	noun	quadrupedal|quadrupedal|R|Adj ; -ism|ism|S
+quadrupedally	adv	quadrupedal|quadrupedal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+quadrupler	noun	quadruple|quadrupl|R|V ; -er|er|S||-er (N)
+quadruplex	noun	quadruplex|quadruplex|R|N
+quadruplicate	verb	quadruplicate|quadruplicate|R|V
+quadruplicated	verb	quadruplicate|quadruplicat|R|V ; -ed|ed|I||-ed (v2)
+quadruplication	noun	quadruplicate|quadruplicat|R|V ; -ion|ion|S
+quadruplicity	noun	quadruplicity|quadruplicity|R|N
+quadruply	adv	quadruple|quadrupl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+quads	noun	quad|quad|R|N ; -s|s|I||-s (plural)
+quaestor	noun	quaestor|quaestor|R|N
+quaestorial	adj	quaestor|quaestor|R|N ; -ial|ial|S
+quaffing	verb	quaff|quaff|R|V ; -ing|ing|I||-ing (v)
+quaffle	verb	quaffle|quaffle|R|V
+quaggy	adj	quag|quagg|R|N ; -y|y|S
+quailing	verb	quail|quail|R|V ; -ing|ing|I||-ing (v)
+quaky	adj	quake|quak|R|V ; -y|y|S
+qualifiable	adj	qualify|qualifi|R|V ; -able|able|S
+qualificative	adj	qualify|qualific|R|V ; -ative|ative|S
+qualityless	adj	quality|quality|R|N ; -less|less|S
+qualmish	adj	qualm|qualm|R|N ; -ish|ish|S
+qualmishness	noun	qualmish|qualmish|R|Adj ; -ness|ness|S
+qualmy	adj	qualm|qualm|R|N ; -y|y|S
+quantic	adj	quant|quant|R|N ; -ic|ic|S
+quantile	noun	quantile|quantile|R|N
+quantizer	noun	quantize|quantiz|R|V ; -er|er|S||-er (N)
+quantometer	noun	quantometer|quantometer|R|N
+quaquaversal	adj	quaquaversal|quaquaversal|R|Adj
+quarantinable	adj	quarantine|quarantin|R|V ; -able|able|S
+quarkonium	noun	quarkonium|quarkonium|R|N
+quarreler	noun	quarrel|quarrel|R|V ; -er|er|S||-er (N)
+quarrelling	verb	quarrel|quarrell|R|V ; -ing|ing|I||-ing (v)
+quarrelsomeness	noun	quarrel|quarrel|R|V ; -some|some|S ; -ness|ness|S
+quarrier	noun	quarry|quarri|R|V ; -er|er|S||-er (N)
+quartan	adj	quart|quart|R|N ; -an|an|S
+quarterage	noun	quarter|quarter|R|N ; -age|age|S
+quarterfinalist	noun	quarter|quarter|R|N ; final|final|R|Adj ; -ist|ist|S
+quartering	verb	quarter|quarter|R|V ; -ing|ing|I||-ing (v)
+quarters	noun	quarter|quarter|R|N ; -s|s|I||-s (plural)
+quartic	adj	quart|quart|R|N ; -ic|ic|S
+quartziferous	adj	quartziferous|quartziferous|R|Adj
+quartzous	adj	quartz|quartz|R|N ; -ous|ous|S
+quartzy	adj	quartz|quartz|R|N ; -y|y|S
+quashing	verb	quash|quash|R|V ; -ing|ing|I||-ing (v)
+quasihemidemisemiquaver	noun	quasihemidemisemiquaver|quasihemidemisemiquaver|R|N
+quasiparticle	noun	quasiparticle|quasiparticle|R|N
+quassia	noun	quassia|quassia|R|N
+quassin	noun	quassin|quassin|R|N
+quatercentenary	noun	quatercentenary|quatercentenary|R|N
+quaternate	adj	quaternate|quaternate|R|Adj
+quaternion	noun	quaternion|quaternion|R|N
+quaternity	noun	quaternity|quaternity|R|N
+quaternization	noun	quaternize|quaterniz|R|V ; -ation|ation|S
+quatorzain	noun	quatorzain|quatorzain|R|N
+quatrayle	noun	quatrayle|quatrayle|R|N
+quatrefoil	noun	quatrefoil|quatrefoil|R|N
+quattrocentist	noun	quattrocentist|quattrocentist|R|N
+quattuordecillion	noun	quattuordecillion|quattuordecillion|R|N
+quattuorvigintillion	noun	quattuorvigintillion|quattuorvigintillion|R|N
+quayage	noun	quay|quay|R|N ; -age|age|S
+qubit	noun	qubit|qubit|R|N
+quean	noun	quean|quean|R|N
+quebracho	noun	quebracho|quebracho|R|N
+queef	noun	queef|queef|R|N
+queendom	noun	queen|queen|R|N ; -dom|dom|S
+queenhood	noun	queen|queen|R|N ; -hood|hood|S
+queening	verb	queen|queen|R|V ; -ing|ing|I||-ing (v)
+queenlike	adj	queen|queen|R|N ; -like|like|S
+queenliness	noun	queen|queen|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+queenside	noun	queen|queen|R|N ; side|side|R|N
+queerbaiting	noun	queerbait|queerbait|R|V ; -ing|ing|S||-ing (N)
+queering	verb	queer|queer|R|V ; -ing|ing|I||-ing (v)
+queerish	adj	queer|queer|R|Adj ; -ish|ish|S
+queerplatonic	adj	queer|queer|R|Adj ; platonic|platonic|R|Adj
+quelling	verb	quell|quell|R|V ; -ing|ing|I||-ing (v)
+quenchable	adj	quench|quench|R|V ; -able|able|S
+quencher	noun	quench|quench|R|V ; -er|er|S||-er (N)
+quenching	verb	quench|quench|R|V ; -ing|ing|I||-ing (v)
+quenchless	adj	quench|quench|R|V ; -less|less|S
+querent	noun	querent|querent|R|N
+querist	noun	query|quer|R|V ; -ist|ist|S
+quern	noun	quern|quern|R|N
+querulant	noun	querulant|querulant|R|N
+querulousness	noun	querulous|querulous|R|Adj ; -ness|ness|S
+querying	verb	query|query|R|V ; -ing|ing|I||-ing (v)
+questionary	noun	question|question|R|N ; -ary|ary|S
+questionless	adj	question|question|R|N ; -less|less|S
+questions	noun	question|question|R|N ; -s|s|I||-s (plural)
+quetzal	noun	quetzal|quetzal|R|N
+queued	verb	queue|queu|R|V ; -ed|ed|I||-ed (v2)
+queuer	noun	queue|queu|R|V ; -er|er|S||-er (N)
+quibbler	noun	quibble|quibbl|R|V ; -er|er|S||-er (N)
+quickens	verb	quicken|quicken|R|V ; -s|s|I||-s (3sg)
+quickset	noun	quick|quick|R|Adj ; set|set|R|N
+quickshot	noun	quick|quick|R|Adj ; shot|shot|R|N
+quickstep	noun	quick|quick|R|Adj ; step|step|R|N
+quickthorn	noun	quick|quick|R|Adj ; thorn|thorn|R|N
+quickwitted	adj	quick|quick|R|Adj ; wit|witt|R|N ; -ed|ed|S||-ed (adj)
+quidam	noun	quidam|quidam|R|N
+quidditch	noun	quidditch|quidditch|R|N
+quiddity	noun	quiddity|quiddity|R|N
+quiddle	verb	quiddle|quiddle|R|V
+quiesce	verb	quiesce|quiesce|R|V
+quiescency	noun	quiesce|quiesc|R|V ; -ency|ency|S
+quietening	verb	quieten|quieten|R|V ; -ing|ing|I||-ing (v)
+quietive	noun	quiet|quiet|R|Adj ; -ive|ive|S
+quietus	noun	quietus|quietus|R|N
+quiller	noun	quill|quill|R|N ; -er|er|S||-er (N)
+quillet	noun	quillet|quillet|R|N
+quilling	verb	quill|quill|R|V ; -ing|ing|I||-ing (v)
+quillon	noun	quillon|quillon|R|N
+quillwort	noun	quill|quill|R|N ; wort|wort|R|N
+quim	noun	quim|quim|R|N
+quinary	adj	quinary|quinary|R|Adj
+quinate	adj	quinate|quinate|R|Adj
+quinazoline	noun	quinazoline|quinazoline|R|N
+quincuncial	adj	quincuncial|quincuncial|R|Adj
+quincunx	noun	quincunx|quincunx|R|N
+quindecillion	noun	quindecillion|quindecillion|R|N
+quinic	adj	quinic|quinic|R|Adj
+quinidine	noun	quinidine|quinidine|R|N
+quinism	noun	quinism|quinism|R|N
+quinoline	noun	quinoline|quinoline|R|N
+quinolone	noun	quinolone|quinolone|R|N
+quinone	noun	quinone|quinone|R|N
+quinoxaline	noun	quinoxaline|quinoxaline|R|N
+quinquagenarian	noun	quinquagenarian|quinquagenarian|R|N
+quinquagenary	adj	quinquagenary|quinquagenary|R|Adj
+quinquefarious	adj	quinquefarious|quinquefarious|R|Adj
+quinquefid	adj	quinquefid|quinquefid|R|Adj
+quinquefoliate	adj	quinquefoliate|quinquefoliate|R|Adj
+quinqueliteral	adj	quinqueliteral|quinqueliteral|R|Adj
+quinquennial	adj	quinquennial|quinquennial|R|Adj
+quinquennium	noun	quinquennium|quinquennium|R|N
+quinquepartite	adj	quinquepartite|quinquepartite|R|Adj
+quinquereme	noun	quinquereme|quinquereme|R|N
+quinquesect	verb	quinquesect|quinquesect|R|V
+quinquesyllable	noun	quinquesyllable|quinquesyllable|R|N
+quinquevalence	noun	quinquevalence|quinquevalence|R|N
+quinquevalve	adj	quinquevalve|quinquevalve|R|Adj
+quinquivalence	noun	quinquivalence|quinquivalence|R|N
+quinquivalent	adj	quinquivalent|quinquivalent|R|Adj
+quinsy	noun	quinsy|quinsy|R|N
+quintain	noun	quintain|quintain|R|N
+quintal	noun	quintal|quintal|R|N
+quintan	adj	quintan|quintan|R|Adj
+quintic	adj	quint|quint|R|N ; -ic|ic|S
+quintile	noun	quintile|quintile|R|N
+quintillion	noun	quintillion|quintillion|R|N
+quintillionaire	noun	quintillionaire|quintillionaire|R|N
+quintuplicate	verb	quintuplicate|quintuplicate|R|V
+quintuply	adv	quintuple|quintupl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+quinvigintillion	noun	quinvigintillion|quinvigintillion|R|N
+quipu	noun	quipu|quipu|R|N

@@ -1,0 +1,200 @@
+heptalingual	adj	heptalingual|heptalingual|R|Adj
+heptalogy	noun	heptalogy|heptalogy|R|N
+heptameter	noun	heptameter|heptameter|R|N
+heptane	noun	heptane|heptane|R|N
+heptarchy	noun	heptarchy|heptarchy|R|N
+heptasyllabic	adj	heptasyllabic|heptasyllabic|R|Adj
+heptathlete	noun	heptathlete|heptathlete|R|N
+heptavalent	adj	heptavalent|heptavalent|R|Adj
+heptode	noun	heptode|heptode|R|N
+heptose	noun	heptose|heptose|R|N
+heraldess	noun	herald|herald|R|N ; -ess|ess|S
+heralding	verb	herald|herald|R|V ; -ing|ing|I||-ing (v)
+heraldist	noun	herald|herald|R|N ; -ist|ist|S
+herbicidal	adj	herbicide|herbicid|R|N ; -al|al|S
+herbiferous	adj	herbiferous|herbiferous|R|Adj
+herbivora	noun	herbivora|herbivora|R|N
+herbivory	noun	herbivore|herbivor|R|N ; -y|y|S
+herborist	noun	herborist|herborist|R|N
+herborization	noun	herborize|herboriz|R|V ; -ation|ation|S
+herborize	verb	herborize|herborize|R|V
+hereabout	adv	here|here|R|Adv ; about|about|R|Adv
+hereat	adv	here|here|R|Adv ; at|at|R|Adv
+hereaway	adv	here|here|R|Adv ; away|away|R|Adv
+hereditable	adj	hereditable|hereditable|R|Adj
+hereditament	noun	hereditament|hereditament|R|N
+hereditariness	noun	hereditary|hereditari|R|Adj ; -ness|ness|S
+hereditism	noun	heredity|heredit|R|N ; -ism|ism|S
+hereditist	noun	heredity|heredit|R|N ; -ist|ist|S
+hereinabove	adv	here|here|R|Adv ; in|in|R|Adv ; above|above|R|Adv
+hereinbefore	adv	here|here|R|Adv ; in|in|R|Adv ; before|before|R|Adv
+hereinbelow	adv	here|here|R|Adv ; in|in|R|Adv ; below|below|R|Adv
+hereon	adv	here|here|R|Adv ; on|on|R|Adv
+heresiarch	noun	heresiarch|heresiarch|R|N
+heresiology	noun	heresiology|heresiology|R|N
+heretically	adv	heretic|heretic|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+hereunder	adv	here|here|R|Adv ; under|under|R|Adv
+hereupon	adv	here|here|R|Adv ; upon|upon|R|Adv
+heritor	noun	heritor|heritor|R|N
+herl	noun	herl|herl|R|N
+herm	noun	herm|herm|R|N
+hermaphroditically	adv	hermaphroditic|hermaphroditic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+hermaphroditism	noun	hermaphrodite|hermaphrodit|R|N ; -ism|ism|S
+hermeneut	noun	hermeneut|hermeneut|R|N
+hermeneutically	adv	hermeneutic|hermeneutic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+hermeticism	noun	hermetic|hermetic|R|Adj ; -ism|ism|S
+hermitic	adj	hermit|hermit|R|N ; -ic|ic|S
+hermitical	adj	hermit|hermit|R|N ; -ical|ical|S
+hern	noun	hern|hern|R|N
+hernial	adj	hernia|herni|R|N ; -al|al|S
+herniate	verb	hernia|herni|R|N ; -ate|ate|S
+herniorrhaphy	noun	herniorrhaphy|herniorrhaphy|R|N
+herniotomy	noun	herniotomy|herniotomy|R|N
+heroify	verb	hero|hero|R|N ; -ify|ify|S
+heroinist	noun	heroin|heroin|R|N ; -ist|ist|S
+heroization	noun	heroize|heroiz|R|V ; -ation|ation|S
+heroize	verb	hero|hero|R|N ; -ize|ize|S
+heronry	noun	heron|heron|R|N ; -ry|ry|S
+herpetic	adj	herpes|herpet|R|N ; -ic|ic|S
+herpetological	adj	herpetology|herpetolog|R|N ; -ical|ical|S
+herrenvolk	noun	herrenvolk|herrenvolk|R|N
+hesitating	verb	hesitate|hesitat|R|V ; -ing|ing|I||-ing (v)
+hesitative	adj	hesitate|hesitat|R|V ; -ive|ive|S
+hesperian	adj	hesperian|hesperian|R|Adj
+hesperidin	noun	hesperidin|hesperidin|R|N
+hesperidium	noun	hesperidium|hesperidium|R|N
+hessonite	noun	hessonite|hessonite|R|N
+het	noun	het|het|R|N
+hetaera	noun	hetaera|hetaera|R|N
+hetaerism	noun	hetaera|hetaer|R|N ; -ism|ism|S
+heteroatom	noun	heteroatom|heteroatom|R|N
+heterocentrism	noun	heterocentrism|heterocentrism|R|N
+heterocercal	adj	heterocercal|heterocercal|R|Adj
+heterochromatic	adj	heterochromatic|heterochromatic|R|Adj
+heterochromatin	noun	heterochromatin|heterochromatin|R|N
+heterochromia	noun	heterochromia|heterochromia|R|N
+heteroclite	noun	heteroclite|heteroclite|R|N
+heteroclitic	adj	heteroclite|heteroclit|R|N ; -ic|ic|S
+heterocycle	noun	heterocycle|heterocycle|R|N
+heterocyst	noun	heterocyst|heterocyst|R|N
+heterocystous	adj	heterocyst|heterocyst|R|N ; -ous|ous|S
+heterodont	adj	heterodont|heterodont|R|Adj
+heterodyne	noun	heterodyne|heterodyne|R|N
+heterogamete	noun	heterogamete|heterogamete|R|N
+heterogametic	adj	heterogamete|heterogamet|R|N ; -ic|ic|S
+heterogamy	noun	heterogamy|heterogamy|R|N
+heterogeneously	adv	heterogeneous|heterogeneous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+heterogenesis	noun	heterogenesis|heterogenesis|R|N
+heterogenetic	adj	heterogenesis|heterogenet|R|N ; -ic|ic|S
+heterogony	noun	heterogony|heterogony|R|N
+heterograft	noun	heterograft|heterograft|R|N
+heterological	adj	heterology|heterolog|R|N ; -ical|ical|S
+heterologous	adj	heterology|heterolog|R|N ; -ous|ous|S
+heteromorphic	adj	heteromorphic|heteromorphic|R|Adj
+heteromorphism	noun	heteromorphism|heteromorphism|R|N
+heteronationalism	noun	heteronationalism|heteronationalism|R|N
+heteronomy	noun	heteronomy|heteronomy|R|N
+heteronormative	adj	heteronormative|heteronormative|R|Adj
+heteronormativity	noun	heteronormativity|heteronormativity|R|N
+heteronym	noun	heteronym|heteronym|R|N
+heteronymous	adj	heteronym|heteronym|R|N ; -ous|ous|S
+heteropatriarchy	noun	heteropatriarchy|heteropatriarchy|R|N
+heterophobe	noun	heterophobe|heterophobe|R|N
+heterophobia	noun	heterophobia|heterophobia|R|N
+heterophobic	adj	heterophobia|heterophob|R|N ; -ic|ic|S
+heterophylly	noun	heterophylly|heterophylly|R|N
+heterophyte	noun	heterophyte|heterophyte|R|N
+heteroploid	adj	heteroploid|heteroploid|R|Adj
+heteropolar	adj	heteropolar|heteropolar|R|Adj
+heteropolarity	noun	heteropolar|heteropolar|R|Adj ; -ity|ity|S
+heteropteran	noun	heteroptera|heteropter|R|N ; -an|an|S
+heteropterous	adj	heteroptera|heteropter|R|N ; -ous|ous|S
+heteroscedasticity	noun	heteroscedasticity|heteroscedasticity|R|N
+heterosis	noun	heterosis|heterosis|R|N
+heteroslop	noun	heteroslop|heteroslop|R|N
+heterospory	noun	heterospory|heterospory|R|N
+heterothallic	adj	heterothallus|heterothall|R|N ; -ic|ic|S
+heterotic	adj	heterotic|heterotic|R|Adj
+heterotopia	noun	heterotopia|heterotopia|R|N
+heterotroph	noun	heterotroph|heterotroph|R|N
+heth	noun	heth|heth|R|N
+hetman	noun	hetman|hetman|R|N
+hetmanate	noun	hetman|hetman|R|N ; -ate|ate|S
+heulandite	noun	heulandite|heulandite|R|N
+hewing	verb	hew|hew|R|V ; -ing|ing|I||-ing (v)
+hexabromocyclododecane	noun	hexabromocyclododecane|hexabromocyclododecane|R|N
+hexachord	noun	hexachord|hexachord|R|N
+hexacontagon	noun	hexacontagon|hexacontagon|R|N
+hexacontane	noun	hexacontane|hexacontane|R|N
+hexacosane	noun	hexacosane|hexacosane|R|N
+hexacosichoron	noun	hexacosichoron|hexacosichoron|R|N
+hexad	noun	hexad|hexad|R|N
+hexade	noun	hexade|hexade|R|N
+hexadecachoron	noun	hexadecachoron|hexadecachoron|R|N
+hexadecagon	noun	hexadecagon|hexadecagon|R|N
+hexadecahedron	noun	hexadecahedron|hexadecahedron|R|N
+hexadecane	noun	hexadecane|hexadecane|R|N
+hexagram	noun	hexagram|hexagram|R|N
+hexahedral	adj	hexahedron|hexahedr|R|N ; -al|al|S
+hexahedron	noun	hexahedron|hexahedron|R|N
+hexahydrate	noun	hexahydrate|hexahydrate|R|N
+hexakosioihexekontahexaphobia	noun	hexakosioihexekontahexaphobia|hexakosioihexekontahexaphobia|R|N
+hexalingual	adj	hexalingual|hexalingual|R|Adj
+hexalogy	noun	hexalogy|hexalogy|R|N
+hexamethylenediamine	noun	hexamethylenediamine|hexamethylenediamine|R|N
+hexametric	adj	hexameter|hexametr|R|N ; -ic|ic|S
+hexametrical	adj	hexameter|hexametr|R|N ; -ical|ical|S
+hexane	noun	hexane|hexane|R|N
+hexaploid	adj	hexaploid|hexaploid|R|Adj
+hexapod	noun	hexapod|hexapod|R|N
+hexapodous	adj	hexapod|hexapod|R|N ; -ous|ous|S
+hexapody	noun	hexapod|hexapod|R|N ; -y|y|S
+hexarchy	noun	hexarchy|hexarchy|R|N
+hexastich	noun	hexastich|hexastich|R|N
+hexasyllabic	adj	hexasyllabic|hexasyllabic|R|Adj
+hexatomic	adj	hexatomic|hexatomic|R|Adj
+hexavalent	adj	hexavalent|hexavalent|R|Adj
+hexecontahedron	noun	hexecontahedron|hexecontahedron|R|N
+hexed	verb	hex|hex|R|V ; -ed|ed|I||-ed (v2)
+hexene	noun	hexene|hexene|R|N
+hexing	verb	hex|hex|R|V ; -ing|ing|I||-ing (v)
+hexoctahedron	noun	hexoctahedron|hexoctahedron|R|N
+hexokinase	noun	hexokinase|hexokinase|R|N
+hexose	noun	hexose|hexose|R|N
+hiatal	adj	hiatus|hiat|R|N ; -al|al|S
+hibakusha	noun	hibakusha|hibakusha|R|N
+hibernaculum	noun	hibernaculum|hibernaculum|R|N
+hibernal	adj	hibernal|hibernal|R|Adj
+hibernant	adj	hibernant|hibernant|R|Adj
+hic	interj	hic|hic|R|N
+hiccoughing	verb	hiccough|hiccough|R|V ; -ing|ing|I||-ing (v)
+hiccuping	verb	hiccup|hiccup|R|V ; -ing|ing|I||-ing (v)
+hiccups	noun	hiccup|hiccup|R|N ; -s|s|I||-s (plural)
+hiddenite	noun	hiddenite|hiddenite|R|N
+hided	verb	hide|hid|R|V ; -ed|ed|I||-ed (v2)
+hidrosis	noun	hidrosis|hidrosis|R|N
+hidrotic	adj	hidrosis|hidrot|R|N ; -ic|ic|S
+hielaman	noun	hielaman|hielaman|R|N
+hiemal	adj	hiemal|hiemal|R|Adj
+hierarchism	noun	hierarchy|hierarch|R|N ; -ism|ism|S
+hierarchization	noun	hierarchize|hierarchiz|R|V ; -ation|ation|S
+hierarchize	verb	hierarchy|hierarch|R|N ; -ize|ize|S
+hierocracy	noun	hierocracy|hierocracy|R|N
+hierodule	noun	hierodule|hierodule|R|N
+hierodulic	adj	hierodule|hierodul|R|N ; -ic|ic|S
+hierogram	noun	hierogram|hierogram|R|N
+hierograph	noun	hierograph|hierograph|R|N
+hierolatry	noun	hierolatry|hierolatry|R|N
+hieromonk	noun	hieromonk|hieromonk|R|N
+hierophant	noun	hierophant|hierophant|R|N
+hierophany	noun	hierophany|hierophany|R|N
+highbrowism	noun	high|high|R|Adj ; brow|brow|R|N ; -ism|ism|S
+highfalutin	adj	highfalutin|highfalutin|R|Adj
+highflier	noun	high|high|R|Adj ; fly|fli|R|V ; -er|er|S||-er (N)
+highlands	noun	high|high|R|Adj ; land|land|R|N ; -s|s|I||-s (plural)
+highlights	noun	high|high|R|Adj ; light|light|R|N ; -s|s|I||-s (plural)
+highwire	noun	high|high|R|Adj ; wire|wire|R|N
+hijabi	noun	hijabi|hijabi|R|N
+hijiki	noun	hijiki|hijiki|R|N
+hikikomori	noun	hikikomori|hikikomori|R|N
+hilariousness	noun	hilarious|hilarious|R|Adj ; -ness|ness|S

@@ -1,0 +1,200 @@
+disassembler	noun	dis-|dis|P ; assemble|assembl|R|V ; -er|er|S||-er (N)
+disassimilation	noun	dis-|dis|P ; assimilate|assimil|R|V ; -ation|ation|S
+disavowed	verb	dis-|dis|P ; avow|avow|R|V ; -ed|ed|I||-ed (v2)
+disbalance	noun	dis-|dis|P ; balance|balance|R|N
+disbark	verb	dis-|dis|P ; bark|bark|R|V
+disbarring	verb	dis-|dis|P ; bar|barr|R|V ; -ing|ing|I||-ing (v)
+disbelieved	verb	dis-|dis|P ; believe|believ|R|V ; -ed|ed|I||-ed (v2)
+disbeliever	noun	dis-|dis|P ; believe|believ|R|V ; -er|er|S||-er (N)
+disbench	verb	dis-|dis|P ; bench|bench|R|N
+disbosom	verb	dis-|dis|P ; bosom|bosom|R|N
+disbound	adj	dis-|dis|P ; bind|bound|R|V ; -ed||I||-ed (v2)
+disbranch	verb	dis-|dis|P ; branch|branch|R|N
+disbud	verb	dis-|dis|P ; bud|bud|R|N
+disburden	verb	dis-|dis|P ; burden|burden|R|N
+discalceate	adj	discalceate|discalceate|R|Adj
+discalced	adj	discalced|discalced|R|Adj
+discarnate	adj	discarnate|discarnate|R|Adj
+discerp	verb	discerp|discerp|R|V
+discerptibility	noun	discerptibility|discerptibility|R|N
+discerption	noun	discerption|discerption|R|N
+dischargeable	adj	dis-|dis|P ; charge|charge|R|V ; -able|able|S
+dischargee	noun	dis-|dis|P ; charge|charg|R|V ; -ee|ee|S
+discharging	verb	dis-|dis|P ; charge|charg|R|V ; -ing|ing|I||-ing (v)
+disciform	adj	disciform|disciform|R|Adj
+disciplinable	adj	discipline|disciplin|R|N ; -able|able|S
+disciplinal	adj	discipline|disciplin|R|N ; -al|al|S
+discipular	adj	discipular|discipular|R|Adj
+disclamation	noun	dis-|dis|P ; claim|clam|R|V ; -ation|ation|S
+disclosing	verb	dis-|dis|P ; close|clos|R|V ; -ing|ing|I||-ing (v)
+discobolus	noun	discobolus|discobolus|R|N
+discographical	adj	discography|discograph|R|N ; -ical|ical|S
+discographically	adv	discography|discograph|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+discoid	adj	discoid|discoid|R|Adj
+discoidal	adj	discoid|discoid|R|Adj ; -al|al|S
+discolor	verb	dis-|dis|P ; color|color|R|N
+discolorment	noun	dis-|dis|P ; color|color|R|N ; -ment|ment|S
+discolouring	verb	dis-|dis|P ; colour|colour|R|N ; -ing|ing|I||-ing (v)
+discombobulate	verb	discombobulate|discombobulate|R|V
+discombobulated	adj	discombobulate|discombobulat|R|V ; -ed|ed|S||-ed (adj)
+discombobulating	verb	discombobulate|discombobulat|R|V ; -ing|ing|I||-ing (v)
+discombobulation	noun	discombobulate|discombobulat|R|V ; -ion|ion|S
+discommode	verb	dis-|dis|P ; commode|commode|R|N
+discommon	verb	dis-|dis|P ; common|common|R|Adj
+discommons	noun	dis-|dis|P ; common|common|R|Adj ; -s|s|I||-s (plural)
+discompose	verb	dis-|dis|P ; compose|compose|R|V
+discomposed	adj	dis-|dis|P ; compose|compos|R|V ; -ed|ed|S||-ed (adj)
+discomposedly	adv	dis-|dis|P ; compose|compos|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+discomposing	verb	dis-|dis|P ; compose|compos|R|V ; -ing|ing|I||-ing (v)
+discomposingly	adv	dis-|dis|P ; compose|compos|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+discomposure	noun	dis-|dis|P ; compose|compos|R|V ; -ure|ure|S
+disconcertment	noun	dis-|dis|P ; concert|concert|R|V ; -ment|ment|S
+disconformity	noun	dis-|dis|P ; conform|conform|R|V ; -ity|ity|S
+discongruity	noun	dis-|dis|P ; congruous|congru|R|Adj ; -ity|ity|S
+disconnector	noun	dis-|dis|P ; connect|connect|R|V ; -or|or|S
+disconnexion	noun	dis-|dis|P ; connexion|connexion|R|N
+disconsider	verb	dis-|dis|P ; consider|consider|R|V
+disconsolateness	noun	disconsolate|disconsolate|R|Adj ; -ness|ness|S
+disconsolation	noun	disconsolate|disconsolat|R|Adj ; -ion|ion|S
+discontentedly	adv	dis-|dis|P ; content|content|R|Adj ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+discontentment	noun	dis-|dis|P ; content|content|R|N ; -ment|ment|S
+discontiguous	adj	dis-|dis|P ; contiguous|contiguous|R|Adj
+discontinuously	adv	dis-|dis|P ; continue|continu|R|V ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+discophile	noun	discophile|discophile|R|N
+discordantly	adv	discord|discord|R|N ; -ant|ant|S ; -ly|ly|I|Adv|-ly (adv)
+discountable	adj	dis-|dis|P ; count|count|R|V ; -able|able|S
+discountenance	verb	dis-|dis|P ; countenance|countenance|R|N
+discountenanced	verb	dis-|dis|P ; countenance|countenanc|R|N ; -ed|ed|I||-ed (v2)
+discoursing	verb	dis-|dis|P ; course|cours|R|V ; -ing|ing|I||-ing (v)
+discourteously	adv	dis-|dis|P ; court|court|R|N ; -eous|eous|S ; -ly|ly|I|Adv|-ly (adv)
+discovering	verb	dis-|dis|P ; cover|cover|R|V ; -ing|ing|I||-ing (v)
+discreditably	adv	dis-|dis|P ; credit|credit|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+discreditation	noun	dis-|dis|P ; credit|credit|R|V ; -ation|ation|S
+discreteness	noun	discrete|discrete|R|Adj ; -ness|ness|S
+discretization	noun	discretize|discretiz|R|V ; -ation|ation|S
+discretize	verb	discrete|discret|R|Adj ; -ize|ize|S
+discrown	verb	dis-|dis|P ; crown|crown|R|N
+disculpate	verb	disculpate|disculpate|R|V
+discursion	noun	discursion|discursion|R|N
+discursiveness	noun	discursive|discursive|R|Adj ; -ness|ness|S
+disdainfulness	noun	disdain|disdain|R|V ; -ful|ful|S ; -ness|ness|S
+disdaining	verb	disdain|disdain|R|V ; -ing|ing|I||-ing (v)
+disembarking	verb	dis-|dis|P ; embark|embark|R|V ; -ing|ing|I||-ing (v)
+disembarkment	noun	dis-|dis|P ; embark|embark|R|V ; -ment|ment|S
+disembarrass	verb	dis-|dis|P ; embarrass|embarrass|R|V
+disembogue	verb	disembogue|disembogue|R|V
+disembosom	verb	dis-|dis|P ; embosom|embosom|R|V
+disemboweling	verb	dis-|dis|P ; embowel|embowel|R|V ; -ing|ing|I||-ing (v)
+disembowelment	noun	dis-|dis|P ; embowel|embowel|R|V ; -ment|ment|S
+disembroil	verb	dis-|dis|P ; embroil|embroil|R|V
+disenchant	verb	dis-|dis|P ; enchant|enchant|R|V
+disenchanting	verb	dis-|dis|P ; enchant|enchant|R|V ; -ing|ing|I||-ing (v)
+disencumber	verb	dis-|dis|P ; encumber|encumber|R|V
+disendow	verb	dis-|dis|P ; endow|endow|R|V
+disengaging	verb	dis-|dis|P ; engage|engag|R|V ; -ing|ing|I||-ing (v)
+disennoble	verb	dis-|dis|P ; ennoble|ennoble|R|V
+disentail	verb	dis-|dis|P ; entail|entail|R|V
+disentanglement	noun	dis-|dis|P ; entangle|entangle|R|V ; -ment|ment|S
+disentangling	verb	dis-|dis|P ; entangle|entangl|R|V ; -ing|ing|I||-ing (v)
+disenthrall	verb	dis-|dis|P ; enthrall|enthrall|R|V
+disenthrone	verb	dis-|dis|P ; enthrone|enthrone|R|V
+disentomb	verb	dis-|dis|P ; entomb|entomb|R|V
+disentombment	noun	dis-|dis|P ; entomb|entomb|R|V ; -ment|ment|S
+disequilibrate	verb	dis-|dis|P ; equilibrate|equilibrate|R|V
+disequilibration	noun	dis-|dis|P ; equilibrate|equilibrat|R|V ; -ion|ion|S
+disestablishmentarian	noun	dis-|dis|P ; establish|establish|R|V ; -ment|ment|S ; -ian|arian|S
+disesteem	noun	dis-|dis|P ; esteem|esteem|R|N
+diseuse	noun	diseuse|diseuse|R|N
+disfavoured	verb	dis-|dis|P ; favour|favour|R|V ; -ed|ed|I||-ed (v2)
+disfeature	verb	dis-|dis|P ; feature|feature|R|N
+disfiguration	noun	dis-|dis|P ; figure|figur|R|V ; -ation|ation|S
+disforest	verb	dis-|dis|P ; forest|forest|R|N
+disfranchise	verb	dis-|dis|P ; franchise|franchise|R|N
+disfranchisement	noun	dis-|dis|P ; franchise|franchise|R|N ; -ment|ment|S
+disfrock	verb	dis-|dis|P ; frock|frock|R|N
+disgorging	verb	dis-|dis|P ; gorge|gorg|R|V ; -ing|ing|I||-ing (v)
+disgracefulness	noun	disgrace|disgrace|R|N ; -ful|ful|S ; -ness|ness|S
+disguisedly	adv	dis-|dis|P ; guise|guis|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+disguisement	noun	dis-|dis|P ; guise|guise|R|V ; -ment|ment|S
+disguising	verb	dis-|dis|P ; guise|guis|R|V ; -ing|ing|I||-ing (v)
+disgustful	adj	disgust|disgust|R|V ; -ful|ful|S
+dishabituate	verb	dis-|dis|P ; habituate|habituate|R|V
+dishallow	verb	dis-|dis|P ; hallow|hallow|R|V
+disharmonize	verb	dis-|dis|P ; harmonize|harmonize|R|V
+dishearteningly	adv	dis-|dis|P ; hearten|hearten|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+disheartenment	noun	dis-|dis|P ; hearten|hearten|R|V ; -ment|ment|S
+dished	verb	dish|dish|R|N ; -ed|ed|I||-ed (v2)
+dishes	noun	dish|dish|R|N ; -es|es|I||-s (plural)
+dishevel	verb	dishevel|dishevel|R|V
+dishful	noun	dish|dish|R|N ; -ful|ful|S
+dishing	verb	dish|dish|R|N ; -ing|ing|I||-ing (v)
+dishorn	verb	dis-|dis|P ; horn|horn|R|N
+dishouse	verb	dis-|dis|P ; house|house|R|N
+dishrack	noun	dish|dish|R|N ; rack|rack|R|N
+disillusionize	verb	dis-|dis|P ; illusion|illusion|R|N ; -ize|ize|S
+disincentivize	verb	dis-|dis|P ; incentive|incentiv|R|N ; -ize|ize|S
+disincline	verb	dis-|dis|P ; incline|incline|R|V
+disincorporate	verb	dis-|dis|P ; incorporate|incorporate|R|V
+disinfest	verb	dis-|dis|P ; infest|infest|R|V
+disinfestation	noun	dis-|dis|P ; infest|infest|R|V ; -ation|ation|S
+disinflationary	adj	dis-|dis|P ; inflation|inflation|R|N ; -ary|ary|S
+disinheritance	noun	dis-|dis|P ; inherit|inherit|R|V ; -ance|ance|S
+disintegrative	adj	dis-|dis|P ; integrate|integrat|R|V ; -ive|ive|S
+disintegrator	noun	dis-|dis|P ; integrate|integrat|R|V ; -or|or|S
+disintermediation	noun	dis-|dis|P ; intermediate|intermediat|R|Adj ; -ion|ion|S
+disinterment	noun	dis-|dis|P ; inter|inter|R|V ; -ment|ment|S
+disintoxicate	verb	dis-|dis|P ; intoxicate|intoxicate|R|V
+disintoxication	noun	dis-|dis|P ; intoxicate|intoxicat|R|V ; -ion|ion|S
+disinvest	verb	dis-|dis|P ; invest|invest|R|V
+disjointedly	adv	dis-|dis|P ; joint|joint|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+disjointedness	noun	dis-|dis|P ; joint|joint|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+disjointness	noun	dis-|dis|P ; joint|joint|R|N ; -ness|ness|S
+dislodgement	noun	dis-|dis|P ; lodge|lodge|R|V ; -ment|ment|S
+dislodging	verb	dis-|dis|P ; lodge|lodg|R|V ; -ing|ing|I||-ing (v)
+disloyalist	noun	dis-|dis|P ; loyal|loyal|R|Adj ; -ist|ist|S
+disloyally	adv	dis-|dis|P ; loyal|loyal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+dismalness	noun	dismal|dismal|R|Adj ; -ness|ness|S
+dismals	noun	dismal|dismal|R|Adj ; -s|s|I||-s (plural)
+dismask	verb	dis-|dis|P ; mask|mask|R|N
+dismast	verb	dis-|dis|P ; mast|mast|R|N
+dismissible	adj	dismiss|dismiss|R|V ; -ible|ible|S
+dismissing	verb	dismiss|dismiss|R|V ; -ing|ing|I||-ing (v)
+dismission	noun	dismiss|dismiss|R|V ; -ion|ion|S
+dismounted	verb	dis-|dis|P ; mount|mount|R|V ; -ed|ed|I||-ed (v2)
+dismounting	verb	dis-|dis|P ; mount|mount|R|V ; -ing|ing|I||-ing (v)
+disobediently	adv	dis-|dis|P ; obedient|obedient|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+disobligation	noun	dis-|dis|P ; obligation|obligation|R|N
+disoblige	verb	dis-|dis|P ; oblige|oblige|R|V
+disobliging	adj	dis-|dis|P ; oblige|oblig|R|V ; -ing|ing|S||-ing (adj)
+disobligingly	adv	dis-|dis|P ; oblige|oblig|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+disomatous	adj	disomatous|disomatous|R|Adj
+disordering	verb	dis-|dis|P ; order|order|R|V ; -ing|ing|I||-ing (v)
+disorderliness	noun	dis-|dis|P ; order|order|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+disownment	noun	dis-|dis|P ; own|own|R|V ; -ment|ment|S
+disparately	adv	disparate|disparate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+disparateness	noun	disparate|disparate|R|Adj ; -ness|ness|S
+dispart	verb	dis-|dis|P ; part|part|R|V
+dispatching	verb	dispatch|dispatch|R|V ; -ing|ing|I||-ing (v)
+dispensationalism	noun	dispensation|dispensation|R|N ; -al|al|S ; -ism|ism|S
+dispeople	verb	dis-|dis|P ; people|people|R|N
+dispersedly	adv	disperse|dispers|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+disperser	noun	disperse|dispers|R|V ; -er|er|S||-er (N)
+dispersible	adj	disperse|dispers|R|V ; -ible|ible|S
+dispersity	noun	disperse|dispers|R|V ; -ity|ity|S
+dispersoid	noun	dispersoid|dispersoid|R|N
+dispiritedness	noun	dis-|dis|P ; spirit|pirit|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+dispiteously	adv	dispiteous|dispiteous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+displaceable	adj	dis-|dis|P ; place|place|R|V ; -able|able|S
+displeasing	adj	dis-|dis|P ; please|pleas|R|V ; -ing|ing|S||-ing (adj)
+displeasingly	adv	dis-|dis|P ; please|pleas|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+displume	verb	dis-|dis|P ; plume|plume|R|N
+disporting	verb	dis-|dis|P ; port|port|R|V ; -ing|ing|I||-ing (v)
+disposability	noun	dispose|dispos|R|V ; -able|abil|S ; -ity|ity|S
+disposing	verb	dis-|dis|P ; pose|pos|R|V ; -ing|ing|I||-ing (v)
+dispossessor	noun	dis-|dis|P ; possess|possess|R|V ; -or|or|S
+dispraise	noun	dis-|dis|P ; praise|praise|R|N
+disproof	noun	dis-|dis|P ; proof|proof|R|N
+disproportioned	adj	dis-|dis|P ; proportion|proportion|R|N ; -ed|ed|S||-ed (adj)
+disputably	adv	dispute|disput|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+disputatiously	adv	disputatious|disputatious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+disputatiousness	noun	disputatious|disputatious|R|Adj ; -ness|ness|S

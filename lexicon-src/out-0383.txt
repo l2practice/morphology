@@ -1,0 +1,200 @@
+smishing	noun	smishing|smishing|R|N
+smiter	noun	smite|smit|R|V ; -er|er|S||-er (N)
+smithereens	noun	smithereens|smithereens|R|N
+smithery	noun	smith|smith|R|N ; -ery|ery|S
+smithsonite	noun	smithsonite|smithsonite|R|N
+smitten	verb	smite|smitten|R|V ; -en||I||-en (participle)
+smocked	verb	smock|smock|R|V ; -ed|ed|I||-ed (v2)
+smocking	verb	smock|smock|R|V ; -ing|ing|I||-ing (v)
+smokable	adj	smoke|smok|R|V ; -able|able|S
+smokebox	noun	smoke|smoke|R|N ; box|box|R|N
+smokefall	noun	smoke|smoke|R|N ; fall|fall|R|N
+smokehole	noun	smoke|smoke|R|N ; hole|hole|R|N
+smokelessness	noun	smoke|smoke|R|N ; -less|less|S ; -ness|ness|S
+smokily	adv	smoky|smoki|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+smokingly	adv	smoke|smok|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+smoko	noun	smoko|smoko|R|N
+smombie	noun	smombie|smombie|R|N
+smoothen	verb	smooth|smooth|R|Adj ; -en|en|S
+smorzando	adv	smorzando|smorzando|R|Adv
+smothery	adj	smother|smother|R|V ; -y|y|S
+smudginess	noun	smudgy|smudgi|R|Adj ; -ness|ness|S
+smudging	verb	smudge|smudg|R|V ; -ing|ing|I||-ing (v)
+smurf	noun	smurf|smurf|R|N
+smush	verb	smush|smush|R|V
+smutch	verb	smutch|smutch|R|V
+smutchy	adj	smutch|smutch|R|V ; -y|y|S
+smuttily	adv	smutty|smutti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+smuttiness	noun	smutty|smutti|R|Adj ; -ness|ness|S
+snackette	noun	snack|snack|R|N ; -ette|ette|S
+snagging	verb	snag|snagg|R|V ; -ing|ing|I||-ing (v)
+snaggy	adj	snag|snagg|R|N ; -y|y|S
+snailfish	noun	snail|snail|R|N ; fish|fish|R|N
+snaillike	adj	snail|snail|R|N ; -like|like|S
+snakefly	noun	snake|snake|R|N ; fly|fly|R|N
+snakelet	noun	snake|snake|R|N ; -let|let|S
+snakelike	adj	snake|snake|R|N ; -like|like|S
+snakeroot	noun	snake|snake|R|N ; root|root|R|N
+snakes	noun	snake|snake|R|N ; -s|s|I||-s (plural)
+snakiness	noun	snaky|snaki|R|Adj ; -ness|ness|S
+snakish	adj	snake|snak|R|N ; -ish|ish|S
+snapback	noun	snap|snap|R|V ; back|back|R|N
+snappiness	noun	snappy|snappi|R|Adj ; -ness|ness|S
+snappishly	adv	snappish|snappish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+snappishness	noun	snappish|snappish|R|Adj ; -ness|ness|S
+snapweed	noun	snap|snap|R|V ; weed|weed|R|N
+snarer	noun	snare|snar|R|V ; -er|er|S||-er (N)
+snaring	verb	snare|snar|R|V ; -ing|ing|I||-ing (v)
+snark	noun	snark|snark|R|N
+snarler	noun	snarl|snarl|R|V ; -er|er|S||-er (N)
+snatchy	adj	snatch|snatch|R|V ; -y|y|S
+snath	noun	snath|snath|R|N
+snazzily	adv	snazzy|snazzi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+snazziness	noun	snazzy|snazzi|R|Adj ; -ness|ness|S
+sneakernet	noun	sneaker|sneaker|R|N ; net|net|R|N
+sneakiness	noun	sneaky|sneaki|R|Adj ; -ness|ness|S
+sneakingly	adv	sneak|sneak|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+sneck	noun	sneck|sneck|R|N
+sneerer	noun	sneer|sneer|R|V ; -er|er|S||-er (N)
+sneezewort	noun	sneeze|sneeze|R|V ; wort|wort|R|N
+snib	noun	snib|snib|R|N
+snickerer	noun	snicker|snicker|R|V ; -er|er|S||-er (N)
+snickersnee	noun	snickersnee|snickersnee|R|N
+snicket	noun	snicket|snicket|R|N
+snideness	noun	snide|snide|R|Adj ; -ness|ness|S
+sniffily	adv	sniffy|sniffi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sniffiness	noun	sniffy|sniffi|R|Adj ; -ness|ness|S
+sniffish	adj	sniff|sniff|R|V ; -ish|ish|S
+sniffishly	adv	sniffish|sniffish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sniffles	noun	sniffle|sniffle|R|N ; -s|s|I||-s (plural)
+snig	verb	snig|snig|R|V
+sniggerer	noun	snigger|snigger|R|V ; -er|er|S||-er (N)
+sniggering	verb	snigger|snigger|R|V ; -ing|ing|I||-ing (v)
+sniggle	verb	sniggle|sniggle|R|V
+sniping	verb	snipe|snip|R|V ; -ing|ing|I||-ing (v)
+snipped	verb	snip|snipp|R|V ; -ed|ed|I||-ed (v2)
+snipper	noun	snip|snipp|R|V ; -er|er|S||-er (N)
+snippers	noun	snip|snipp|R|V ; -er|er|S||-er (N) ; -s|s|I||-s (plural)
+snippety	adj	snippet|snippet|R|N ; -y|y|S
+snippiness	noun	snippy|snippi|R|Adj ; -ness|ness|S
+snipping	verb	snip|snipp|R|V ; -ing|ing|I||-ing (v)
+snips	noun	snip|snip|R|N ; -s|s|I||-s (plural)
+snipy	adj	snip|snip|R|N ; -y|y|S
+sniveler	noun	snivel|snivel|R|V ; -er|er|S||-er (N)
+snivelled	verb	snivel|snivell|R|V ; -ed|ed|I||-ed (v2)
+snobbishly	adv	snobbish|snobbish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+snobocracy	noun	snobocracy|snobocracy|R|N
+snood	noun	snood|snood|R|N
+snookered	verb	snooker|snooker|R|V ; -ed|ed|I||-ed (v2)
+snootily	adv	snooty|snooti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+snootiness	noun	snooty|snooti|R|Adj ; -ness|ness|S
+snorter	noun	snort|snort|R|V ; -er|er|S||-er (N)
+snotnose	noun	snot|snot|R|N ; nose|nose|R|N
+snottiness	noun	snotty|snotti|R|Adj ; -ness|ness|S
+snottite	noun	snottite|snottite|R|N
+snouted	adj	snout|snout|R|N ; -ed|ed|S||-ed (adj)
+snouty	adj	snout|snout|R|N ; -y|y|S
+snowbell	noun	snow|snow|R|N ; bell|bell|R|N
+snowberry	noun	snow|snow|R|N ; berry|berry|R|N
+snowblind	adj	snow|snow|R|N ; blind|blind|R|Adj
+snowboot	noun	snow|snow|R|N ; boot|boot|R|N
+snowclad	adj	snow|snow|R|N ; clad|clad|R|Adj
+snowclone	noun	snow|snow|R|N ; clone|clone|R|N
+snowcock	noun	snow|snow|R|N ; cock|cock|R|N
+snowcone	noun	snow|snow|R|N ; cone|cone|R|N
+snowdropper	noun	snow|snow|R|N ; drop|dropp|R|V ; -er|er|S||-er (N)
+snowily	adv	snowy|snowi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+snowiness	noun	snowy|snowi|R|Adj ; -ness|ness|S
+snowing	verb	snow|snow|R|V ; -ing|ing|I||-ing (v)
+snowmachine	noun	snow|snow|R|N ; machine|machine|R|N
+snowmobiler	noun	snowmobile|snowmobil|R|N ; -er|er|S||-er (N)
+snows	noun	snow|snow|R|N ; -s|s|I||-s (plural)
+snowslide	noun	snow|snow|R|N ; slide|slide|R|V
+snubber	noun	snub|snubb|R|V ; -er|er|S||-er (N)
+snubbing	verb	snub|snubb|R|V ; -ing|ing|I||-ing (v)
+snubbingly	adv	snub|snubb|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+snuffer	noun	snuff|snuff|R|V ; -er|er|S||-er (N)
+snuffers	noun	snuff|snuff|R|V ; -er|er|S||-er (N) ; -s|s|I||-s (plural)
+snuffiness	noun	snuffy|snuffi|R|Adj ; -ness|ness|S
+snuffing	verb	snuff|snuff|R|V ; -ing|ing|I||-ing (v)
+snuffingly	adv	snuff|snuff|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+snuffler	noun	snuffle|snuffl|R|V ; -er|er|S||-er (N)
+snuffling	verb	snuffle|snuffl|R|V ; -ing|ing|I||-ing (v)
+snuffy	adj	snuff|snuff|R|N ; -y|y|S
+snuggery	noun	snug|snugg|R|Adj ; -ery|ery|S
+snuggling	verb	snuggle|snuggl|R|V ; -ing|ing|I||-ing (v)
+snugness	noun	snug|snug|R|Adj ; -ness|ness|S
+snus	noun	snus|snus|R|N
+soakage	noun	soak|soak|R|V ; -age|age|S
+soapberry	noun	soap|soap|R|N ; berry|berry|R|N
+soapery	noun	soap|soap|R|N ; -ery|ery|S
+soapily	adv	soapy|soapi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+soapiness	noun	soapy|soapi|R|Adj ; -ness|ness|S
+soaping	verb	soap|soap|R|V ; -ing|ing|I||-ing (v)
+soapless	adj	soap|soap|R|N ; -less|less|S
+soapmaker	noun	soap|soap|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+soapnut	noun	soap|soap|R|N ; nut|nut|R|N
+soapwort	noun	soap|soap|R|N ; wort|wort|R|N
+soberness	noun	sober|sober|R|Adj ; -ness|ness|S
+sobersided	adj	sober|sober|R|Adj ; side|sid|R|N ; -ed|ed|S||-ed (adj)
+sobremesa	noun	sobremesa|sobremesa|R|N
+soc	noun	soc|soc|R|N
+socage	noun	socage|socage|R|N
+socager	noun	socage|socag|R|N ; -er|er|S||-er (N)
+sociableness	noun	sociable|sociable|R|Adj ; -ness|ness|S
+sociably	adv	sociable|sociabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+socialistically	adv	socialistic|socialistic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+socializer	noun	socialize|socializ|R|V ; -er|er|S||-er (N)
+socialness	noun	social|social|R|Adj ; -ness|ness|S
+sociation	noun	sociation|sociation|R|N
+societally	adv	societal|societal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sociobiologically	adv	sociobiological|sociobiological|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sociocracy	noun	sociocracy|sociocracy|R|N
+socioculturally	adv	sociocultural|sociocultural|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+socioeconomics	noun	socioeconomics|socioeconomics|R|N
+sociogram	noun	sociogram|sociogram|R|N
+sociolect	noun	sociolect|sociolect|R|N
+sociolinguistically	adv	sociolinguistic|sociolinguistic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+sociolinguistics	noun	sociolinguistics|sociolinguistics|R|N
+sociometry	noun	sociometry|sociometry|R|N
+sociopathology	noun	sociopathology|sociopathology|R|N
+sociopathy	noun	sociopathy|sociopathy|R|N
+sockdolager	noun	sockdolager|sockdolager|R|N
+socker	noun	sock|sock|R|N ; -er|er|S||-er (N)
+socketed	adj	socket|socket|R|N ; -ed|ed|S||-ed (adj)
+socking	verb	sock|sock|R|V ; -ing|ing|I||-ing (v)
+soddenly	adv	sodden|sodden|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+soddenness	noun	sodden|sodden|R|Adj ; -ness|ness|S
+sodic	adj	sodic|sodic|R|Adj
+sodomise	verb	sodomise|sodomise|R|V
+sodomist	noun	sodomist|sodomist|R|N
+softa	noun	softa|softa|R|N
+softballer	noun	soft|soft|R|Adj ; ball|ball|R|N ; -er|er|S||-er (N)
+softhead	noun	soft|soft|R|Adj ; head|head|R|N
+softhearted	adj	soft|soft|R|Adj ; heart|heart|R|N ; -ed|ed|S||-ed (adj)
+softish	adj	soft|soft|R|Adj ; -ish|ish|S
+soggily	adv	soggy|soggi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sogginess	noun	soggy|soggi|R|Adj ; -ness|ness|S
+soigneur	noun	soigneur|soigneur|R|N
+soilage	noun	soil|soil|R|N ; -age|age|S
+soilborne	adj	soil|soil|R|N ; bear|borne|R|V
+soilless	adj	soil|soil|R|N ; -less|less|S
+soilure	noun	soil|soil|R|V ; -ure|ure|S
+sojourning	verb	sojourn|sojourn|R|V ; -ing|ing|I||-ing (v)
+soju	noun	soju|soju|R|N
+soke	noun	soke|soke|R|N
+sokha	noun	sokha|sokha|R|N
+sol	noun	sol|sol|R|N
+solacing	verb	solace|solac|R|V ; -ing|ing|I||-ing (v)
+solan	noun	solan|solan|R|N
+solanaceous	adj	solanaceous|solanaceous|R|Adj
+solanine	noun	solanine|solanine|R|N
+solanum	noun	solanum|solanum|R|N
+solarize	verb	solar|solar|R|Adj ; -ize|ize|S
+solastalgia	noun	solastalgia|solastalgia|R|N
+solatium	noun	solatium|solatium|R|N
+soldanella	noun	soldanella|soldanella|R|N
+solderability	noun	solderable|solderabil|R|Adj ; -ity|ity|S
+solderable	adj	solder|solder|R|V ; -able|able|S
+soldierlike	adj	soldier|soldier|R|N ; -like|like|S
+soldiership	noun	soldier|soldier|R|N ; -ship|ship|S

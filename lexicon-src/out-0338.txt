@@ -1,0 +1,200 @@
+onomatope	noun	onomatope|onomatope|R|N
+onomatopoetic	adj	onomatopoeia|onomatopoet|R|N ; -ic|ic|S
+onosma	noun	onosma|onosma|R|N
+onsen	noun	onsen|onsen|R|N
+onside	adj	on|on|R|Adv ; side|side|R|N
+ontogenesis	noun	ontogenesis|ontogenesis|R|N
+ontogenetically	adv	ontogenetic|ontogenet|R|Adj ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+ontologically	adv	ontology|ontolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+ontologist	noun	ontology|ontolog|R|N ; -ist|ist|S
+onychia	noun	onychia|onychia|R|N
+onychium	noun	onychium|onychium|R|N
+onycholysis	noun	onycholysis|onycholysis|R|N
+onychomycosis	noun	onychomycosis|onychomycosis|R|N
+onychophoran	noun	onychophoran|onychophoran|R|N
+onymous	adj	onymous|onymous|R|Adj
+oodles	noun	oodle|oodle|R|N ; -s|s|I||-s (plural)
+ooecium	noun	ooecium|ooecium|R|N
+oofy	adj	oof|oof|R|N ; -y|y|S
+oogamete	noun	oogamete|oogamete|R|N
+oogamous	adj	oogamous|oogamous|R|Adj
+oogamy	noun	oogamy|oogamy|R|N
+oogenesis	noun	oogenesis|oogenesis|R|N
+oogenetic	adj	oogenesis|oogenet|R|N ; -ic|ic|S
+oogonial	adj	oogonium|oogoni|R|N ; -al|al|S
+oogonium	noun	oogonium|oogonium|R|N
+ooid	noun	ooid|ooid|R|N
+oolite	noun	oolite|oolite|R|N
+oolith	noun	oolith|oolith|R|N
+oolitic	adj	oolite|oolit|R|N ; -ic|ic|S
+oological	adj	oology|oolog|R|N ; -ical|ical|S
+oologist	noun	oology|oolog|R|N ; -ist|ist|S
+oology	noun	oology|oology|R|N
+oont	noun	oont|oont|R|N
+oophore	noun	oophore|oophore|R|N
+oophorectomy	noun	oophorectomy|oophorectomy|R|N
+oophoritis	noun	oophoritis|oophoritis|R|N
+oophoron	noun	oophoron|oophoron|R|N
+oophytic	adj	oophytic|oophytic|R|Adj
+ooplasm	noun	ooplasm|ooplasm|R|N
+ooplasmic	adj	ooplasm|ooplasm|R|N ; -ic|ic|S
+ooplast	noun	ooplast|ooplast|R|N
+oosperm	noun	oosperm|oosperm|R|N
+oosphere	noun	oosphere|oosphere|R|N
+oosporangium	noun	oosporangium|oosporangium|R|N
+oospore	noun	oospore|oospore|R|N
+ootheca	noun	ootheca|ootheca|R|N
+oothecal	adj	ootheca|oothec|R|N ; -al|al|S
+ootype	noun	ootype|ootype|R|N
+ooziness	noun	oozy|oozi|R|Adj ; -ness|ness|S
+oozooid	noun	oozooid|oozooid|R|N
+op	noun	op|op|R|N
+opah	noun	opah|opah|R|N
+opalesce	verb	opalesce|opalesce|R|V
+opalescence	noun	opalesce|opalesc|R|V ; -ence|ence|S
+opalesque	adj	opalesque|opalesque|R|Adj
+opaline	adj	opaline|opaline|R|Adj
+opalize	verb	opal|opal|R|N ; -ize|ize|S
+opanak	noun	opanak|opanak|R|N
+ope	verb	ope|ope|R|V
+opegrapha	noun	opegrapha|opegrapha|R|N
+openable	adj	open|open|R|V ; -able|able|S
+operationalism	noun	operational|operational|R|Adj ; -ism|ism|S
+operationalist	noun	operational|operational|R|Adj ; -ist|ist|S
+operations	noun	operation|operation|R|N ; -s|s|I||-s (plural)
+operatively	adv	operative|operative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+operatize	verb	operate|operat|R|V ; -ize|ize|S
+opercular	adj	operculum|opercul|R|N ; -ar|ar|S
+operculate	adj	operculum|opercul|R|N ; -ate|ate|S
+operculated	adj	operculum|opercul|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+operculation	noun	operculate|operculat|R|V ; -ion|ion|S
+operculiform	adj	operculiform|operculiform|R|Adj
+operculigenous	adj	operculigenous|operculigenous|R|Adj
+operculum	noun	operculum|operculum|R|N
+operettist	noun	operetta|operett|R|N ; -ist|ist|S
+operon	noun	operon|operon|R|N
+ophicleide	noun	ophicleide|ophicleide|R|N
+ophidian	noun	ophidian|ophidian|R|N
+ophidism	noun	ophidism|ophidism|R|N
+ophiocephalous	adj	ophiocephalous|ophiocephalous|R|Adj
+ophiolater	noun	ophiolater|ophiolater|R|N
+ophiolatrous	adj	ophiolatrous|ophiolatrous|R|Adj
+ophiolatry	noun	ophiolatry|ophiolatry|R|N
+ophiological	adj	ophiology|ophiolog|R|N ; -ical|ical|S
+ophiologist	noun	ophiology|ophiolog|R|N ; -ist|ist|S
+ophiology	noun	ophiology|ophiology|R|N
+ophiophagous	adj	ophiophagous|ophiophagous|R|Adj
+ophiophobia	noun	ophiophobia|ophiophobia|R|N
+ophite	noun	ophite|ophite|R|N
+ophitic	adj	ophite|ophit|R|N ; -ic|ic|S
+ophiuroid	noun	ophiuroid|ophiuroid|R|N
+ophrys	noun	ophrys|ophrys|R|N
+ophthalmalgia	noun	ophthalmalgia|ophthalmalgia|R|N
+ophthalmia	noun	ophthalmia|ophthalmia|R|N
+ophthalmitis	noun	ophthalmitis|ophthalmitis|R|N
+ophthalmological	adj	ophthalmology|ophthalmolog|R|N ; -ical|ical|S
+ophthalmologically	adv	ophthalmology|ophthalmolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+ophthalmoscope	noun	ophthalmoscope|ophthalmoscope|R|N
+ophthalmoscopic	adj	ophthalmoscope|ophthalmoscop|R|N ; -ic|ic|S
+ophthalmoscopy	noun	ophthalmoscopy|ophthalmoscopy|R|N
+ophthalmotomy	noun	ophthalmotomy|ophthalmotomy|R|N
+opining	verb	opine|opin|R|V ; -ing|ing|I||-ing (v)
+opinionable	adj	opinion|opinion|R|N ; -able|able|S
+opinionatedness	noun	opinionated|opinionated|R|Adj ; -ness|ness|S
+opinionative	adj	opinion|opinion|R|N ; -ative|ative|S
+opinionatively	adv	opinion|opinion|R|N ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+opinionativeness	noun	opinion|opinion|R|N ; -ative|ative|S ; -ness|ness|S
+opinionist	noun	opinion|opinion|R|N ; -ist|ist|S
+opinionmaker	noun	opinion|opinion|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+opiomaniac	noun	opiomaniac|opiomaniac|R|N
+opisometer	noun	opisometer|opisometer|R|N
+opisthognathous	adj	opisthognathous|opisthognathous|R|Adj
+opisthograph	noun	opisthograph|opisthograph|R|N
+opisthotic	adj	opisthotic|opisthotic|R|Adj
+opiumism	noun	opium|opium|R|N ; -ism|ism|S
+opopanax	noun	opopanax|opopanax|R|N
+opp	noun	opp|opp|R|N
+oppa	noun	oppa|oppa|R|N
+oppidan	noun	oppidan|oppidan|R|N
+opponency	noun	opponent|oppon|R|N ; -ency|ency|S
+opportunely	adv	opportune|opportune|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+opportuneness	noun	opportune|opportune|R|Adj ; -ness|ness|S
+opposability	noun	opposable|opposabil|R|Adj ; -ity|ity|S
+opposeless	adj	oppose|oppose|R|V ; -less|less|S
+opposer	noun	oppose|oppos|R|V ; -er|er|S||-er (N)
+oppositeness	noun	opposite|opposite|R|Adj ; -ness|ness|S
+oppositifolious	adj	oppositifolious|oppositifolious|R|Adj
+oppositive	adj	opposite|opposit|R|Adj ; -ive|ive|S
+oppressing	verb	oppress|oppress|R|V ; -ing|ing|I||-ing (v)
+opprobrious	adj	opprobrium|opprobri|R|N ; -ous|ous|S
+opprobriously	adv	opprobrium|opprobri|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+oppugn	verb	oppugn|oppugn|R|V
+oppugnant	adj	oppugnant|oppugnant|R|Adj
+oprichnina	noun	oprichnina|oprichnina|R|N
+ops	noun	ops|ops|R|N
+opsimath	noun	opsimath|opsimath|R|N
+opsimathy	noun	opsimathy|opsimathy|R|N
+opsin	noun	opsin|opsin|R|N
+opsonic	adj	opsonin|opson|R|N ; -ic|ic|S
+opsonification	noun	opsonify|opsonifi|R|V ; -ation|cation|S
+opsonify	verb	opsonin|opson|R|N ; -ify|ify|S
+opsonin	noun	opsonin|opsonin|R|N
+opsonization	noun	opsonize|opsoniz|R|V ; -ation|ation|S
+opsonize	verb	opsonin|opson|R|N ; -ize|ize|S
+optant	noun	optant|optant|R|N
+optative	adj	optative|optative|R|Adj
+opticist	noun	optic|optic|R|Adj ; -ist|ist|S
+optimate	noun	optimate|optimate|R|N
+optime	noun	optime|optime|R|N
+optimizer	noun	optimize|optimiz|R|V ; -er|er|S||-er (N)
+optoelectronics	noun	optoelectronics|optoelectronics|R|N
+optogram	noun	optogram|optogram|R|N
+optography	noun	optography|optography|R|N
+optometer	noun	optometer|optometer|R|N
+optometric	adj	optometry|optometr|R|N ; -ic|ic|S
+optophone	noun	optophone|optophone|R|N
+opulently	adv	opulent|opulent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+opuscule	noun	opuscule|opuscule|R|N
+ora	noun	ora|ora|R|N
+orach	noun	orach|orach|R|N
+oracularity	noun	oracular|oracular|R|Adj ; -ity|ity|S
+orality	noun	oral|oral|R|Adj ; -ity|ity|S
+orangeade	noun	orangeade|orangeade|R|N
+orans	noun	orans|orans|R|N
+orate	verb	orate|orate|R|V
+oratorically	adv	oratorical|oratorical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+oratorize	verb	orator|orator|R|N ; -ize|ize|S
+oratress	noun	oratress|oratress|R|N
+orbicular	adj	orbicular|orbicular|R|Adj
+orbicularis	noun	orbicularis|orbicularis|R|N
+orbicularity	noun	orbicular|orbicular|R|Adj ; -ity|ity|S
+orbiculate	adj	orbiculate|orbiculate|R|Adj
+orbitonasal	adj	orbitonasal|orbitonasal|R|Adj
+orcess	noun	orc|orc|R|N ; -ess|ess|S
+orcharder	noun	orchard|orchard|R|N ; -er|er|S||-er (N)
+orcharding	noun	orchard|orchard|R|N ; -ing|ing|S||-ing (N)
+orchardman	noun	orchard|orchard|R|N ; man|man|R|N
+orchesis	noun	orchesis|orchesis|R|N
+orchesography	noun	orchesography|orchesography|R|N
+orchestic	adj	orchestic|orchestic|R|Adj
+orchestics	noun	orchestics|orchestics|R|N
+orchestrina	noun	orchestrina|orchestrina|R|N
+orchestrion	noun	orchestrion|orchestrion|R|N
+orchic	adj	orchic|orchic|R|Adj
+orchidaceous	adj	orchidaceous|orchidaceous|R|Adj
+orchidalgia	noun	orchidalgia|orchidalgia|R|N
+orchidea	noun	orchidea|orchidea|R|N
+orchidist	noun	orchid|orchid|R|N ; -ist|ist|S
+orchidologist	noun	orchidology|orchidolog|R|N ; -ist|ist|S
+orchidology	noun	orchidology|orchidology|R|N
+orchidotomy	noun	orchidotomy|orchidotomy|R|N
+orchiectomy	noun	orchiectomy|orchiectomy|R|N
+orchil	noun	orchil|orchil|R|N
+orchis	noun	orchis|orchis|R|N
+orchitis	noun	orchitis|orchitis|R|N
+orda	noun	orda|orda|R|N
+ordainment	noun	ordain|ordain|R|V ; -ment|ment|S
+orderer	noun	order|order|R|V ; -er|er|S||-er (N)
+ordinalism	noun	ordinal|ordinal|R|Adj ; -ism|ism|S
+ordinand	noun	ordinand|ordinand|R|N
+ordinariate	noun	ordinariate|ordinariate|R|N

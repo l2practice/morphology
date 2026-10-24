@@ -1,0 +1,200 @@
+potables	noun	potable|potable|R|Adj ; -s|s|I||-s (plural)
+potamic	adj	potamic|potamic|R|Adj
+potamology	noun	potamology|potamology|R|N
+potass	noun	potass|potass|R|N
+potassic	adj	potass|potass|R|N ; -ic|ic|S
+potation	noun	potation|potation|R|N
+potatory	adj	potatory|potatory|R|Adj
+potbellied	adj	pot|pot|R|N ; belly|belli|R|N ; -ed|ed|S||-ed (adj)
+poteen	noun	poteen|poteen|R|N
+potentialize	verb	potential|potential|R|Adj ; -ize|ize|S
+potentiometric	adj	potentiometer|potentiometr|R|N ; -ic|ic|S
+potentness	noun	potent|potent|R|Adj ; -ness|ness|S
+potful	noun	pot|pot|R|N ; -ful|ful|S
+pother	noun	pother|pother|R|N
+potholing	noun	pot|pot|R|N ; hole|hol|R|N ; -ing|ing|S||-ing (N)
+potman	noun	pot|pot|R|N ; man|man|R|N
+potoo	noun	potoo|potoo|R|N
+potoroo	noun	potoroo|potoroo|R|N
+pots	noun	pot|pot|R|N ; -s|s|I||-s (plural)
+pott	noun	pott|pott|R|N
+potterer	noun	potter|potter|R|V ; -er|er|S||-er (N)
+pottering	verb	potter|potter|R|V ; -ing|ing|I||-ing (v)
+pottle	noun	pottle|pottle|R|N
+potto	noun	potto|potto|R|N
+pouched	adj	pouch|pouch|R|N ; -ed|ed|S||-ed (adj)
+pouchy	adj	pouch|pouch|R|N ; -y|y|S
+poulard	noun	poulard|poulard|R|N
+poult	noun	poult|poult|R|N
+poulterer	noun	poulter|poulter|R|N ; -er|er|S||-er (N)
+poulticed	verb	poultice|poultic|R|V ; -ed|ed|I||-ed (v2)
+pouncer	noun	pounce|pounc|R|V ; -er|er|S||-er (N)
+pouncing	verb	pounce|pounc|R|V ; -ing|ing|I||-ing (v)
+poundal	noun	pound|pound|R|N ; -al|al|S
+pourboire	noun	pourboire|pourboire|R|N
+pourparler	noun	pourparler|pourparler|R|N
+pourpoint	noun	pourpoint|pourpoint|R|N
+poussette	noun	poussette|poussette|R|N
+pouter	noun	pout|pout|R|V ; -er|er|S||-er (N)
+poutine	noun	poutine|poutine|R|N
+poutingly	adv	pout|pout|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+powdering	verb	powder|powder|R|V ; -ing|ing|I||-ing (v)
+powerbank	noun	power|power|R|N ; bank|bank|R|N
+powerfulness	noun	power|power|R|N ; -ful|ful|S ; -ness|ness|S
+powerlessly	adv	power|power|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+powerlifting	noun	power|power|R|N ; lift|lift|R|V ; -ing|ing|S||-ing (N)
+powiat	noun	powiat|powiat|R|N
+powidl	noun	powidl|powidl|R|N
+poxvirus	noun	pox|pox|R|N ; virus|virus|R|N
+pozzy	noun	pozzy|pozzy|R|N
+pp	noun	pp|pp|R|N
+practicableness	noun	practice|practic|R|V ; -able|abl|S ; -ness|eness|S
+practicably	adv	practice|practic|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+practicalness	noun	practical|practical|R|Adj ; -ness|ness|S
+practician	noun	practice|practic|R|V ; -ian|ian|S
+practiser	noun	practise|practis|R|V ; -er|er|S||-er (N)
+praecoxal	adj	praecoxal|praecoxal|R|Adj
+praedial	adj	praedial|praedial|R|Adj
+praemunire	noun	praemunire|praemunire|R|N
+praenomen	noun	praenomen|praenomen|R|N
+praepostor	noun	praepostor|praepostor|R|N
+praetor	noun	praetor|praetor|R|N
+praetorial	adj	praetor|praetor|R|N ; -ial|ial|S
+praetorship	noun	praetor|praetor|R|N ; -ship|ship|S
+pragmatical	adj	pragmatic|pragmatic|R|Adj ; -al|al|S
+pragmatise	verb	pragmatic|pragmat|R|Adj ; -ise|ise|S
+pragmatistic	adj	pragmatist|pragmatist|R|N ; -ic|ic|S
+pragmatize	verb	pragmatic|pragmat|R|Adj ; -ize|ize|S
+praisable	adj	praise|prais|R|V ; -able|able|S
+praiser	noun	praise|prais|R|V ; -er|er|S||-er (N)
+praiseworthily	adv	praise|praise|R|V ; worthy|worthi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+praiseworthiness	noun	praise|praise|R|V ; worthy|worthi|R|Adj ; -ness|ness|S
+praising	verb	praise|prais|R|V ; -ing|ing|I||-ing (v)
+prajna	noun	prajna|prajna|R|N
+prajnaparamita	noun	prajnaparamita|prajnaparamita|R|N
+prancer	noun	prance|pranc|R|V ; -er|er|S||-er (N)
+prancingly	adv	prance|pranc|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+prandial	adj	prandial|prandial|R|Adj
+prandially	adv	prandial|prandial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pranged	verb	prang|prang|R|V ; -ed|ed|I||-ed (v2)
+pranker	noun	prank|prank|R|V ; -er|er|S||-er (N)
+prankful	adj	prank|prank|R|N ; -ful|ful|S
+prankishly	adv	prankish|prankish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+prankishness	noun	prankish|prankish|R|Adj ; -ness|ness|S
+prase	noun	prase|prase|R|N
+praseodymium	noun	praseodymium|praseodymium|R|N
+prater	noun	prate|prat|R|V ; -er|er|S||-er (N)
+pratincole	noun	pratincole|pratincole|R|N
+prating	verb	prate|prat|R|V ; -ing|ing|I||-ing (v)
+pratingly	adv	prate|prat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+pratique	noun	pratique|pratique|R|N
+prattler	noun	prattle|prattl|R|V ; -er|er|S||-er (N)
+prattling	verb	prattle|prattl|R|V ; -ing|ing|I||-ing (v)
+prattlingly	adv	prattle|prattl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+prawner	noun	prawn|prawn|R|N ; -er|er|S||-er (N)
+praxeology	noun	praxeology|praxeology|R|N
+prayerfulness	noun	prayer|prayer|R|N ; -ful|ful|S ; -ness|ness|S
+prayerless	adj	prayer|prayer|R|N ; -less|less|S
+preabdomen	noun	pre-|pre|P ; abdomen|abdomen|R|N
+preachership	noun	preach|preach|R|V ; -er|er|S||-er (N) ; -ship|ship|S
+preachification	noun	preach|preach|R|V ; -ify|ifi|S ; -ation|cation|S
+preachify	verb	preach|preach|R|V ; -ify|ify|S
+preachily	adv	preach|preach|R|V ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+preachiness	noun	preach|preach|R|V ; -y|i|S ; -ness|ness|S
+preachingly	adv	preach|preach|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+preachment	noun	preach|preach|R|V ; -ment|ment|S
+preacquaint	verb	pre-|pre|P ; acquaint|acquaint|R|V
+preacquaintance	noun	pre-|pre|P ; acquaint|acquaint|R|V ; -ance|ance|S
+preadaptation	noun	pre-|pre|P ; adapt|adapt|R|V ; -ation|ation|S
+preadaptive	adj	pre-|pre|P ; adapt|adapt|R|V ; -ive|ive|S
+preadmonish	verb	pre-|pre|P ; admonish|admonish|R|V
+preadmonition	noun	pre-|pre|P ; admonish|admonit|R|V ; -ion|ion|S
+preadolescence	noun	pre-|pre|P ; adolescence|adolescence|R|N
+preagricultural	adj	pre-|pre|P ; agricultural|agricultural|R|Adj
+preambulary	adj	preamble|preambul|R|N ; -ary|ary|S
+preannounce	verb	pre-|pre|P ; announce|announce|R|V
+preannouncement	noun	pre-|pre|P ; announce|announce|R|V ; -ment|ment|S
+preantepenultimate	adj	pre-|pre|P ; antepenultimate|antepenultimate|R|Adj
+prearrange	verb	pre-|pre|P ; arrange|arrange|R|V
+preaxial	adj	pre-|pre|P ; axial|axial|R|Adj
+prebendal	adj	prebend|prebend|R|N ; -al|al|S
+prebiologic	adj	pre-|pre|P ; biologic|biologic|R|Adj
+prebiological	adj	pre-|pre|P ; biological|biological|R|Adj
+prebrachial	adj	pre-|pre|P ; brachial|brachial|R|Adj
+precampaign	noun	pre-|pre|P ; campaign|campaign|R|N
+precancel	verb	pre-|pre|P ; cancel|cancel|R|V
+precariat	noun	precariat|precariat|R|N
+precarity	noun	precarious|precar|R|Adj ; -ity|ity|S
+precarization	noun	precarious|precar|R|Adj ; -ize|iz|S ; -ation|ation|S
+precative	adj	precative|precative|R|Adj
+precatory	adj	precatory|precatory|R|Adj
+precautious	adj	pre-|pre|P ; cautious|cautious|R|Adj
+precaval	adj	pre-|pre|P ; caval|caval|R|Adj
+precedented	adj	precedent|precedent|R|N ; -ed|ed|S||-ed (adj)
+precent	verb	precent|precent|R|V
+precentorial	adj	precentor|precentor|R|N ; -ial|ial|S
+precentorship	noun	precentor|precentor|R|N ; -ship|ship|S
+precentral	adj	pre-|pre|P ; central|central|R|Adj
+preceptive	adj	precept|precept|R|N ; -ive|ive|S
+preceptively	adv	precept|precept|R|N ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+preceptorial	adj	preceptor|preceptor|R|N ; -ial|ial|S
+preceptorially	adv	preceptor|preceptor|R|N ; -ial|ial|S ; -ly|ly|I|Adv|-ly (adv)
+preceptorship	noun	preceptor|preceptor|R|N ; -ship|ship|S
+precessional	adj	precess|precess|R|V ; -ion|ion|S ; -al|al|S
+preciosity	noun	precious|precios|R|Adj ; -ity|ity|S
+precipitability	noun	precipitate|precipit|R|V ; -able|abil|S ; -ity|ity|S
+precipitable	adj	precipitate|precipit|R|V ; -able|able|S
+precipitance	noun	precipitant|precipit|R|N ; -ance|ance|S
+precipitancy	noun	precipitant|precipit|R|N ; -ancy|ancy|S
+precipitantly	adv	precipitant|precipit|R|N ; -ant|ant|S ; -ly|ly|I|Adv|-ly (adv)
+precipitated	verb	precipitate|precipitat|R|V ; -ed|ed|I||-ed (v2)
+precipitateness	noun	precipitate|precipitat|R|V ; -ness|eness|S
+precipitative	adj	precipitate|precipitat|R|V ; -ive|ive|S
+precipitin	noun	precipitin|precipitin|R|N
+precipitousness	noun	precipitous|precipitous|R|Adj ; -ness|ness|S
+preciseness	noun	precise|precise|R|Adj ; -ness|ness|S
+precisian	noun	precise|precis|R|Adj ; -ian|ian|S
+precisianism	noun	precisian|precisian|R|N ; -ism|ism|S
+precisive	adj	precise|precis|R|Adj ; -ive|ive|S
+preclassical	adj	pre-|pre|P ; classical|classical|R|Adj
+preclusive	adj	pre-|pre|P ; -clude|clus|B|V ; -ive|ive|S
+preclusively	adv	pre-|pre|P ; -clude|clus|B|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+precoat	verb	pre-|pre|P ; coat|coat|R|V
+precocial	adj	precocial|precocial|R|Adj
+precogitate	verb	pre-|pre|P ; cogitate|cogitate|R|V
+precommissioning	noun	pre-|pre|P ; commission|commission|R|V ; -ing|ing|S||-ing (N)
+precompiler	noun	pre-|pre|P ; compile|compil|R|V ; -er|er|S||-er (N)
+precomposed	verb	pre-|pre|P ; compose|compos|R|V ; -ed|ed|I||-ed (v2)
+precompression	noun	pre-|pre|P ; compress|compress|R|V ; -ion|ion|S
+preconcert	verb	pre-|pre|P ; concert|concert|R|V
+precondemn	verb	pre-|pre|P ; condemn|condemn|R|V
+preconization	noun	preconize|preconiz|R|V ; -ation|ation|S
+preconize	verb	preconize|preconize|R|V
+preconscious	adj	pre-|pre|P ; con-|con|P ; sci-|sci|B|V ; -ous|ous|S
+preconsider	verb	pre-|pre|P ; consider|consider|R|V
+preconsign	verb	pre-|pre|P ; consign|consign|R|V
+preconsonantal	adj	pre-|pre|P ; consonant|consonant|R|N ; -al|al|S
+preconstitute	verb	pre-|pre|P ; constitute|constitute|R|V
+precontract	noun	pre-|pre|P ; contract|contract|R|N
+precontrive	verb	pre-|pre|P ; contrive|contrive|R|V
+precool	verb	pre-|pre|P ; cool|cool|R|V
+precooler	noun	pre-|pre|P ; cool|cool|R|V ; -er|er|S||-er (N)
+precosmic	adj	pre-|pre|P ; cosmic|cosmic|R|Adj
+precostal	adj	pre-|pre|P ; costal|costal|R|Adj
+precranial	adj	pre-|pre|P ; cranial|cranial|R|Adj
+precritical	adj	pre-|pre|P ; critical|critical|R|Adj
+precrural	adj	pre-|pre|P ; crural|crural|R|Adj
+precum	noun	precum|precum|R|N
+precuneus	noun	precuneus|precuneus|R|N
+precursive	adj	pre-|pre|P ; cursor|curs|R|N ; -ive|ive|S
+precursory	adj	pre-|pre|P ; cursor|cursor|R|N ; -y|y|S
+precystic	adj	pre-|pre|P ; cystic|cystic|R|Adj
+predaceous	adj	predaceous|predaceous|R|Adj
+predacity	noun	predaceous|predac|R|Adj ; -ity|ity|S
+predal	adj	predal|predal|R|Adj
+predatism	noun	predatism|predatism|R|N
+predatorily	adv	predator|predator|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+predatoriness	noun	predator|predator|R|N ; -y|i|S ; -ness|ness|S
+predawn	noun	pre-|pre|P ; dawn|dawn|R|N
+predeclare	verb	pre-|pre|P ; declare|declare|R|V
+predefine	verb	pre-|pre|P ; define|define|R|V

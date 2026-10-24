@@ -1,0 +1,150 @@
+declaration	noun	=
+ethics	noun	eth-|eth|B|N|||Greek ethos 'character' ; -ic|ic|S||||Greek -ikos 'pertaining to' ; -s|s|I
+nomination	noun	=
+correspond	verb	=
+modify	verb	mod-|mod|B|N|||Latin modus 'measure' ; -ify|ify|S||||Latin -ficare 'to make'
+chapel	noun	chap-|chap|B|N|||Latin cappa 'cloak' ; -el|el|S||||Latin -ella 'small'
+frustration	noun	=
+rational	adj	ration-|ration|B|N|||Latin ratio 'reason' ; -al|al|S||||Latin -alis 'pertaining to'
+conception	noun	con-|con|P||||Latin com- 'together' ; -cept-|cept|B|V|||Latin capere 'to take' ; -ion|ion|S||||Latin -tio 'act, process'
+attribute	verb	at-|at|P||||Latin ad- 'to' ; -tribute|tribute|B|V|||Latin tribuere 'to assign'
+acute	adj	=
+dose	noun	=
+stimulus	noun	=
+competitor	noun	com-|com|P||||Latin com- 'together' ; -pet-|pet|B|V|||Latin petere 'to seek' ; -itor|itor|S||||Latin -tor 'agent'
+mortality	noun	=
+federation	noun	=
+powder	noun	=
+allocation	noun	=
+moderate	adj	moder-|moder|B|V|||Latin moderari 'to regulate' ; -ate|ate|S||||Latin -atus 'past participle'
+hypothesis	noun	=
+molecule	noun	molec-|molec|B|N|||Latin moles 'mass' ; -ule|ule|S||||Latin -cula 'small'
+urgent	adj	urg-|urg|B|V|||Latin urgere 'to press' ; -ent|ent|S||||Latin -ens 'agent'
+exact	adj	ex-|ex|P||||Latin ex- 'out' ; -act|act|B|V|||Latin agere 'to drive'
+disturb	verb	dis-|dis|P||||Latin dis- 'apart' ; -turb|turb|B|V|||Latin turbare 'to disorder'
+isle	noun	=
+sole	adj	=
+admire	verb	ad-|ad|P||||Latin ad- 'to' ; -mire|mire|B|V|||Latin mirari 'to wonder'
+hesitate	verb	hesit-|hesit|B|V|||Latin haerere 'to stick' ; -ate|ate|S||||Latin -atus 'past participle'
+miracle	noun	mir-|mir|B|V|||Latin mirari 'to wonder' ; -acle|acle|S||||Latin -culum 'thing, instrument'
+rhythm	noun	=
+satisfactory	adj	satisfact-|satisfact|B|V|||Latin satisfacere 'to satisfy' ; -ory|ory|S||||Latin -orius 'pertaining to'
+script	noun	=
+distinctive	adj	=
+tactic	noun	tact-|tact|B|V|||Greek tassein 'to order' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+transformation	noun	=
+invasion	noun	in-|in|P||||Latin in- 'into' ; -vas-|vas|B|V|||Latin vadere 'to go' ; -ion|ion|S||||Latin -tio 'act, process'
+intensity	noun	=
+liable	adj	li-|li|B|V|||Latin ligare 'to bind' ; -able|able|S||||Latin -abilis 'able to be'
+exhibit	verb	ex-|ex|P||||Latin ex- 'out' ; -hibit|hibit|B|V|||Latin habere 'to hold'
+interior	noun	=
+concrete	adj	con-|con|P||||Latin com- 'together' ; -crete|crete|B|V|||Latin crescere 'to grow'
+prescription	noun	pre-|pre|P||||Latin prae- 'before' ; -script-|script|B|V|||Latin scribere 'to write' ; -ion|ion|S||||Latin -tio 'act, process'
+chase	verb	=
+render	verb	=
+consensus	noun	=
+taxi	noun	=
+cinema	noun	=
+courage	noun	cour-|cour|B|N|||Latin cor 'heart' ; -age|age|S||||Latin -aticum 'pertaining to'
+induce	verb	in-|in|P||||Latin in- 'into' ; -duce|duce|B|V|||Latin ducere 'to lead'
+dictionary	noun	diction-|diction|B|V|||Latin dicere 'to say' ; -ary|ary|S||||Latin -arius 'pertaining to'
+lamp	noun	=
+constable	noun	con-|con|P||||Latin com- 'with' ; stable|stable|R|N
+cognitive	adj	cognit-|cognit|B|V|||Latin cognoscere 'to know' ; -ive|ive|S||||Latin -ivus 'tending to'
+domain	noun	=
+integrate	verb	integr-|integr|B|Adj|||Latin integer 'whole' ; -ate|ate|S||||Latin -atus 'past participle'
+fragment	noun	frag-|frag|B|V|||Latin frangere 'to break' ; -ment|ment|S||||Latin -mentum 'result, means'
+equity	noun	equ-|equ|B|Adj|||Latin aequus 'equal' ; -ity|ity|S||||Latin -itas 'state'
+statute	noun	stat-|stat|B|V|||Latin statuere 'to set up' ; -ute|ute|S||||Latin -utus 'past participle'
+marginal	adj	=
+murmur	noun	=
+dramatically	adv	dramat-|dramat|B|N|||Greek drama 'action, play' ; -ic|ic|S||||Greek -ikos 'pertaining to' ; -ally|ally|I
+decrease	verb	de-|de|P||||Latin de- 'down, from' ; -crease|crease|B|V|||Latin crescere 'to grow'
+anniversary	noun	anni-|anni|B|N|||Latin annus 'year' ; -vers-|vers|B|V|||Latin vertere 'to turn' ; -ary|ary|S||||Latin -arius 'pertaining to'
+necessity	noun	necess-|necess|B|Adj|||Latin necesse 'unavoidable' ; -ity|ity|S||||Latin -itas 'state'
+navy	noun	=
+exclusive	adj	ex-|ex|P||||Latin ex- 'out' ; -clus-|clus|B|V|||Latin claudere 'to close' ; -ive|ive|S||||Latin -ivus 'tending to'
+legend	noun	leg-|leg|B|V|||Latin legere 'to read' ; -end|end|S||||Latin -endus 'to be done'
+nursery	noun	=
+illustration	noun	=
+regulate	verb	regul-|regul|B|N|||Latin regula 'rule' ; -ate|ate|S||||Latin -atus 'past participle'
+superb	adj	=
+adolescent	noun	adolesc-|adolesc|B|V|||Latin adolescere 'to grow up' ; -ent|ent|S||||Latin -ens 'agent'
+interrupt	verb	inter-|inter|P||||Latin inter- 'between' ; -rupt|rupt|B|V|||Latin rumpere 'to break'
+norm	noun	=
+delight	noun	=
+lion	noun	=
+invent	verb	in-|in|P||||Latin in- 'into' ; -vent|vent|B|V|||Latin venire 'to come'
+accommodate	verb	ac-|ac|P||||Latin ad- 'to' ; -commod-|commod|B|Adj|||Latin commodus 'suitable' ; -ate|ate|S||||Latin -atus 'past participle'
+ritual	noun	ritu-|ritu|B|N|||Latin ritus 'rite' ; -al|al|S||||Latin -alis 'pertaining to'
+insect	noun	in-|in|P||||Latin in- 'into' ; -sect|sect|B|V|||Latin secare 'to cut'
+motive	noun	mot-|mot|B|V|||Latin movere 'to move' ; -ive|ive|S||||Latin -ivus 'tending to'
+salmon	noun	=
+superior	adj	=
+magic	noun	mag-|mag|B|N|||Greek magos 'magician' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+combat	noun	com-|com|P||||Latin com- 'with' ; -bat|bat|B|V|||Latin battuere 'to beat'
+surgeon	noun	=
+rape	noun	=
+physics	noun	phys-|phys|B|N|||Greek physis 'nature' ; -ics|ics|S||||Greek -ika 'study of'
+counsel	noun	=
+initiate	noun	initi-|initi|B|N|||Latin initium 'beginning' ; -ate|ate|S||||Latin -atus 'past participle'
+echo	noun	=
+pill	noun	=
+sculpture	noun	sculpt-|sculpt|B|V|||Latin sculpere 'to carve' ; -ure|ure|S||||Latin -ura 'act, result'
+presidency	noun	=
+subtle	adj	=
+comply	verb	com-|com|P||||Latin com- 'together' ; -ply|ply|B|V|||Latin plere 'to fill'
+colony	noun	colon-|colon|B|N|||Latin colonus 'farmer' ; -y|y|S||||Latin -ia 'place'
+monopoly	noun	mono-|mono|P||||Greek monos 'sole' ; -poly|poly|B|V|||Greek polein 'to sell'
+medal	noun	=
+sponsor	noun	=
+ethical	adj	=
+rebel	noun	re-|re|P||||Latin re- 'again' ; -bel|bel|B|N|||Latin bellum 'war'
+specification	noun	=
+allegation	noun	=
+villa	noun	=
+integrity	noun	integr-|integr|B|Adj|||Latin integer 'whole' ; -ity|ity|S||||Latin -itas 'state'
+essence	noun	ess-|ess|B|V|||Latin esse 'to be' ; -ence|ence|S||||Latin -entia 'state, quality'
+suburban	adj	sub-|sub|P||||Latin sub- 'under' ; -urb-|urb|B|N|||Latin urbs 'city' ; -an|an|S||||Latin -anus 'pertaining to'
+closet	noun	=
+merger	noun	=
+jurisdiction	noun	juris-|juris|B|N|||Latin ius 'law' ; -dict-|dict|B|V|||Latin dicere 'to say' ; -ion|ion|S||||Latin -tio 'act, process'
+gastric	adj	gastr-|gastr|B|N|||Greek gaster 'stomach' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+convenient	adj	con-|con|P||||Latin com- 'together' ; -veni-|veni|B|V|||Latin venire 'to come' ; -ent|ent|S||||Latin -ens 'agent'
+rumour	noun	=
+rumor	noun	=
+artificial	adj	artifici-|artifici|B|N|||Latin artificium 'skill' ; -al|al|S||||Latin -alis 'pertaining to'
+humanity	noun	=
+beef	noun	=
+fraction	noun	fract-|fract|B|V|||Latin frangere 'to break' ; -ion|ion|S||||Latin -tio 'act, process'
+reluctant	adj	re-|re|P||||Latin re- 'back' ; -luct-|luct|B|V|||Latin luctari 'to struggle' ; -ant|ant|S||||Latin -ans 'agent'
+confuse	verb	con-|con|P||||Latin com- 'together' ; -fuse|fuse|B|V|||Latin fundere 'to pour'
+airplane	noun	=
+plead	verb	=
+situate	verb	situ-|situ|B|N|||Latin situs 'site' ; -ate|ate|S||||Latin -atus 'past participle'
+suburb	noun	sub-|sub|P||||Latin sub- 'under' ; -urb|urb|B|N|||Latin urbs 'city'
+magnificent	adj	magni-|magni|B|Adj|||Latin magnus 'great' ; -fic-|fic|B|V|||Latin facere 'to make' ; -ent|ent|S||||Latin -ens 'agent'
+trunk	noun	=
+lens	noun	=
+proposition	noun	pro-|pro|P||||Latin pro- 'forward' ; -posit-|posit|B|V|||Latin ponere 'to put' ; -ion|ion|S||||Latin -tio 'act, process'
+enforce	verb	=
+triumph	noun	=
+businessman	noun	=
+fraud	noun	=
+contend	verb	con-|con|P||||Latin com- 'together' ; -tend|tend|B|V|||Latin tendere 'to stretch'
+array	noun	=
+chemistry	noun	chem-|chem|B|N|||Greek khymeia 'art of pouring' ; -istry|istry|S||||English -istry 'art, practice'
+assemble	verb	as-|as|P||||Latin ad- 'to' ; -semble|semble|B|V|||Latin simulare 'to copy'
+champagne	noun	=
+provoke	verb	pro-|pro|P||||Latin pro- 'forward' ; -voke|voke|B|V|||Latin vocare 'to call'
+stimulate	verb	stimul-|stimul|B|N|||Latin stimulus 'goad, sting' ; -ate|ate|S||||Latin -atus 'past participle'
+cave	noun	=
+monster	noun	=
+colonel	noun	=
+diplomatic	adj	=
+facilitate	verb	facil-|facil|B|Adj|||Latin facilis 'easy' ; -itate|itate|S||||Latin -itare 'to make, do'
+obstacle	noun	ob-|ob|P||||Latin ob- 'against' ; -stacle|stacle|B|V|||Latin stare 'to stand'
+successor	noun	=
+abbey	noun	abb-|abb|B|N|||Latin abbas 'abbot' ; -ey|ey|S||||Latin -ia 'place'
+herb	noun	=
+indicator	noun	=

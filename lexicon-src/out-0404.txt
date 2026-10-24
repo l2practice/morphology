@@ -1,0 +1,200 @@
+tsarevich	noun	tsarevich|tsarevich|R|N
+tsarism	noun	tsar|tsar|R|N ; -ism|ism|S
+tselina	noun	tselina|tselina|R|N
+tsotsi	noun	tsotsi|tsotsi|R|N
+tsunamic	adj	tsunami|tsunam|R|N ; -ic|ic|S
+tsundere	noun	tsundere|tsundere|R|N
+tsuris	noun	tsuris|tsuris|R|N
+tteok	noun	tteok|tteok|R|N
+tteokbokki	noun	tteokbokki|tteokbokki|R|N
+tuatara	noun	tuatara|tuatara|R|N
+tubaist	noun	tuba|tuba|R|N ; -ist|ist|S
+tubar	adj	tubar|tubar|R|N
+tubbiness	noun	tub|tubb|R|N ; -y|i|S ; -ness|ness|S
+tubbish	adj	tub|tubb|R|N ; -ish|ish|S
+tubed	verb	tube|tub|R|N ; -ed|ed|I||-ed (v2)
+tuberculate	adj	tubercle|tubercul|R|N ; -ate|ate|S
+tuberculation	noun	tubercle|tubercul|R|N ; -ation|ation|S
+tuberculization	noun	tuberculize|tuberculiz|R|V ; -ation|ation|S
+tuberculize	verb	tubercle|tubercul|R|N ; -ize|ize|S
+tuberculoid	adj	tuberculoid|tuberculoid|R|N
+tuberculose	adj	tuberculose|tuberculose|R|N
+tuberiferous	adj	tuberiferous|tuberiferous|R|N
+tuberiform	adj	tuberiform|tuberiform|R|N
+tubeteika	noun	tubeteika|tubeteika|R|N
+tubful	noun	tub|tub|R|N ; -ful|ful|S
+tubicolous	adj	tubicolous|tubicolous|R|N
+tubifex	noun	tubifex|tubifex|R|N
+tubiflorous	adj	tubiflorous|tubiflorous|R|N
+tubiform	adj	tubiform|tubiform|R|N
+tubist	noun	tuba|tub|R|N ; -ist|ist|S
+tubocurarine	noun	tubocurarine|tubocurarine|R|N
+tubulated	adj	tubule|tubul|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+tubuliflorous	adj	tubuliflorous|tubuliflorous|R|N
+tubulin	noun	tubulin|tubulin|R|N
+tubulous	adj	tubule|tubul|R|N ; -ous|ous|S
+tubulure	noun	tubulure|tubulure|R|N
+tuckered	verb	tucker|tucker|R|V ; -ed|ed|I||-ed (v2)
+tucking	verb	tuck|tuck|R|V ; -ing|ing|I||-ing (v)
+tucupi	noun	tucupi|tucupi|R|N
+tucuxi	noun	tucuxi|tucuxi|R|N
+tuff	noun	tuff|tuff|R|N
+tuffaceous	adj	tuffaceous|tuffaceous|R|N
+tuffet	noun	tuffet|tuffet|R|N
+tufting	noun	tuft|tuft|R|N ; -ing|ing|S||-ing (N)
+tufty	adj	tuft|tuft|R|N ; -y|y|S
+tughra	noun	tughra|tughra|R|N
+tugrik	noun	tugrik|tugrik|R|N
+tui	noun	tui|tui|R|N
+tulou	noun	tulou|tulou|R|N
+tulpa	noun	tulpa|tulpa|R|N
+tulumba	noun	tulumba|tulumba|R|N
+tumblerful	noun	tumble|tumbl|R|V ; -er|er|S||-er (N) ; -ful|ful|S
+tumbril	noun	tumbril|tumbril|R|N
+tumefaction	noun	tumefy|tumefact|R|V ; -ion|ion|S
+tumefactive	adj	tumefy|tumefact|R|V ; -ive|ive|S
+tumefy	verb	tumefy|tumefy|R|N
+tumid	adj	tumid|tumid|R|N
+tumidity	noun	tumid|tumid|R|Adj ; -ity|ity|S
+tumidness	noun	tumid|tumid|R|Adj ; -ness|ness|S
+tumorigenic	adj	tumorigenic|tumorigenic|R|N
+tumorigenicity	noun	tumorigenicity|tumorigenicity|R|N
+tumpline	noun	tumpline|tumpline|R|N
+tumular	adj	tumulus|tumul|R|N ; -ar|ar|S
+tumultuary	adj	tumult|tumult|R|N ; -ary|uary|S
+tumultuousness	noun	tumult|tumult|R|N ; -uous|uous|S ; -ness|ness|S
+tundish	noun	tundish|tundish|R|N
+tunefully	adv	tune|tune|R|N ; -ful|ful|S ; -ly|ly|I||-ly (adv)
+tunefulness	noun	tune|tune|R|N ; -ful|ful|S ; -ness|ness|S
+tunelessness	noun	tune|tune|R|N ; -less|less|S ; -ness|ness|S
+tungstate	noun	tungsten|tungst|R|N ; -ate|ate|S
+tungstic	adj	tungsten|tungst|R|N ; -ic|ic|S
+tunicate	noun	tunic|tunic|R|N ; -ate|ate|S
+tunicle	noun	tunicle|tunicle|R|N
+tunny	noun	tunny|tunny|R|N
+tup	noun	tup|tup|R|N
+tuplet	noun	tuplet|tuplet|R|N
+tuppenny	noun	tuppenny|tuppenny|R|N
+tur	noun	tur|tur|R|N
+turbary	noun	turbary|turbary|R|N
+turbellarian	noun	turbellarian|turbellarian|R|N
+turbidness	noun	turbid|turbid|R|Adj ; -ness|ness|S
+turbiniform	adj	turbiniform|turbiniform|R|Adj
+turbit	noun	turbit|turbit|R|N
+turbodiesel	noun	turbo|turbo|R|N ; diesel|diesel|R|N
+turbodrill	noun	turbo|turbo|R|N ; drill|drill|R|N
+turbogenerator	noun	turbo|turbo|R|N ; generate|generat|R|V ; -or|or|S
+turboshaft	noun	turbo|turbo|R|N ; shaft|shaft|R|N
+turbulently	adv	turbulent|turbulent|R|Adj ; -ly|ly|I||-ly (adv)
+turbulization	noun	turbulization|turbulization|R|N
+turdoid	adj	turdoid|turdoid|R|N
+turducken	noun	turducken|turducken|R|N
+turfed	verb	turf|turf|R|N ; -ed|ed|I||-ed (v2)
+turfite	noun	turf|turf|R|N ; -ite|ite|S
+turfman	noun	turf|turf|R|N ; man|man|R|N
+turfy	adj	turf|turf|R|N ; -y|y|S
+turgescence	noun	turgescent|turgesc|R|Adj ; -ence|ence|S
+turgescent	adj	turgescent|turgescent|R|Adj
+turgidity	noun	turgid|turgid|R|Adj ; -ity|ity|S
+turgidly	adv	turgid|turgid|R|Adj ; -ly|ly|I||-ly (adv)
+turgor	noun	turgor|turgor|R|N
+turion	noun	turion|turion|R|N
+turkeycock	noun	turkey|turkey|R|N ; cock|cock|R|N
+turnagain	noun	turn|turn|R|V ; again|again|R|Adv
+turnback	noun	turn|turn|R|V ; back|back|R|N
+turncock	noun	turn|turn|R|V ; cock|cock|R|N
+turnery	noun	turn|turn|R|V ; -ery|ery|S
+turnplate	noun	turn|turn|R|V ; plate|plate|R|N
+turnsole	noun	turnsole|turnsole|R|N
+turnspit	noun	turn|turn|R|V ; spit|spit|R|N
+turnstone	noun	turn|turn|R|V ; stone|stone|R|N
+turnt	verb	turn|turnt|R|V ; -ed||I||-ed (v2)
+turpeth	noun	turpeth|turpeth|R|N
+turriculate	adj	turricle|turricul|R|N ; -ate|ate|S
+turriculated	adj	turricle|turricul|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+turtler	noun	turtle|turtl|R|N ; -er|er|S||-er (N)
+turtling	verb	turtle|turtl|R|N ; -ing|ing|I||-ing (v)
+tusked	adj	tusk|tusk|R|N ; -ed|ed|S||-ed (adj)
+tusker	noun	tusk|tusk|R|N ; -er|er|S||-er (N)
+tusky	adj	tusk|tusk|R|N ; -y|y|S
+tussal	adj	tussal|tussal|R|N
+tussive	adj	tussive|tussive|R|N
+tute	verb	tute|tute|R|N
+tutelar	adj	tutelar|tutelar|R|N
+tutenag	noun	tutenag|tutenag|R|N
+tutorage	noun	tutor|tutor|R|V ; -age|age|S
+tutoress	noun	tutor|tutor|R|V ; -ess|ess|S
+tutorship	noun	tutor|tutor|R|V ; -ship|ship|S
+tutovka	noun	tutovka|tutovka|R|N
+tuyere	noun	tuyere|tuyere|R|N
+tvorog	noun	tvorog|tvorog|R|N
+twaddler	noun	twaddle|twaddl|R|V ; -er|er|S||-er (N)
+twaddling	verb	twaddle|twaddl|R|V ; -ing|ing|I||-ing (v)
+twanging	verb	twang|twang|R|V ; -ing|ing|I||-ing (v)
+twayblade	noun	tway|tway|R ; blade|blade|R|N
+tweaked	verb	tweak|tweak|R|V ; -ed|ed|I||-ed (v2)
+tweaker	noun	tweak|tweak|R|V ; -er|er|S||-er (N)
+tweedle	verb	tweedle|tweedle|R|N
+tweenager	noun	tweenager|tweenager|R|N
+tweeny	noun	tween|tween|R|N ; -y|y|S
+tweeting	verb	tweet|tweet|R|V ; -ing|ing|I||-ing (v)
+tweezer	noun	tweezer|tweezer|R|N
+twelfty	adj	twelve|twelf|R ; -ty|ty|S
+twelvefold	adj	twelvefold|twelvefold|R|N
+twelvemo	noun	twelvemo|twelvemo|R|N
+twelvemonth	noun	twelve|twelve|R ; month|month|R|N
+twenties	noun	twenty|twenti|R ; -es|es|I||-s (plural)
+twentyfold	adj	twentyfold|twentyfold|R|N
+twerk	verb	twerk|twerk|R|N
+twerking	verb	twerk|twerk|R|V ; -ing|ing|I||-ing (v)
+twibill	noun	twi|twi|R ; bill|bill|R|N
+twicer	noun	twice|twic|R|Adv ; -er|er|S||-er (N)
+twiddling	verb	twiddle|twiddl|R|V ; -ing|ing|I||-ing (v)
+twinborn	adj	twin|twin|R|N ; born|born|R|Adj
+twiner	noun	twine|twin|R|V ; -er|er|S||-er (N)
+twinhood	noun	twin|twin|R|N ; -hood|hood|S
+twink	verb	twink|twink|R|N
+twinning	verb	twin|twinn|R|N ; -ing|ing|I||-ing (v)
+twins	noun	twin|twin|R|N ; -s|s|I||-s (plural)
+twirp	noun	twirp|twirp|R|N
+twitchily	adv	twitch|twitch|R|V ; -y|i|S ; -ly|ly|I||-ly (adv)
+twitchiness	noun	twitch|twitch|R|V ; -y|i|S ; -ness|ness|S
+twite	noun	twite|twite|R|N
+twittery	adj	twitter|twitter|R|V ; -y|y|S
+twitting	verb	twit|twitt|R|V ; -ing|ing|I||-ing (v)
+twopenny	adj	two|two|R ; penny|penny|R|N
+tycoonery	noun	tycoon|tycoon|R|N ; -ery|ery|S
+tymbal	noun	tymbal|tymbal|R|N
+tympan	noun	tympan|tympan|R|N
+tympanal	adj	tympanum|tympan|R|N ; -al|al|S
+tympanites	noun	tympanites|tympanites|R|N
+tympanitis	noun	tympanitis|tympanitis|R|N
+typecase	noun	type|type|R|N ; case|case|R|N
+typefounding	noun	type|type|R|N ; found|found|R|V ; -ing|ing|S||-ing (N)
+typer	noun	type|typ|R|V ; -er|er|S||-er (N)
+typewrite	verb	type|type|R|N ; write|write|R|V
+typhlitis	noun	typhlitis|typhlitis|R|N
+typhoidal	adj	typhoid|typhoid|R|N ; -al|al|S
+typhous	adj	typhus|typh|R|N ; -ous|ous|S
+typic	adj	type|typ|R|N ; -ic|ic|S
+typographically	adv	typographic|typographic|R|Adj ; -al|al|S ; -ly|ly|I||-ly (adv)
+typologically	adv	typology|typolog|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I||-ly (adv)
+typologist	noun	typology|typolog|R|N ; -ist|ist|S
+typomorphic	adj	typomorphic|typomorphic|R|N
+typonym	noun	typonym|typonym|R|N
+tyrannic	adj	tyrant|tyrann|R|N ; -ic|ic|S
+tyrannically	adv	tyrant|tyrann|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I||-ly (adv)
+tyrannicide	noun	tyrannicide|tyrannicide|R|N
+tyrannizer	noun	tyrant|tyrann|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+tyred	adj	tyre|tyr|R|N ; -ed|ed|S||-ed (adj)
+tyreless	adj	tyre|tyre|R|N ; -less|less|S
+tyrocidine	noun	tyrocidine|tyrocidine|R|N
+tyrolean	adj	tyrolean|tyrolean|R|N
+tzaddik	noun	tzaddik|tzaddik|R|N
+tzaraath	noun	tzaraath|tzaraath|R|N
+tzatziki	noun	tzatziki|tzatziki|R|N
+tzigane	noun	tzigane|tzigane|R|N
+tzitzit	noun	tzitzit|tzitzit|R|N
+uakari	noun	uakari|uakari|R|N
+ubac	noun	ubac|ubac|R|N
+ubiety	noun	ubiety|ubiety|R|N

@@ -1,0 +1,200 @@
+creationary	adj	create|creat|R|V ; -ion|ion|S ; -ary|ary|S
+creationist	noun	create|creat|R|V ; -ion|ion|S ; -ist|ist|S
+creationistic	adj	create|creat|R|V ; -ion|ion|S ; -ist|ist|S ; -ic|ic|S
+creator	noun	create|creat|R|V ; -or|or|S
+creatural	adj	create|creat|R|V ; -ure|ur|S ; -al|al|S
+creatureliness	noun	create|creat|R|V ; -ure|ure|S ; -ly|li|S||-ly (adj) ; -ness|ness|S
+credentialism	noun	credential|credential|R|N ; -ism|ism|S
+credibleness	noun	credible|credible|R|Adj ; -ness|ness|S
+creditableness	noun	credit|credit|R|N ; -able|able|S ; -ness|ness|S
+crediting	verb	credit|credit|R|V ; -ing|ing|I||-ing (v)
+credulously	adv	credulous|credulous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+credulousness	noun	credulous|credulous|R|Adj ; -ness|ness|S
+creepingly	adv	creep|creep|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+creepypasta	noun	creepy|creepy|R|Adj ; pasta|pasta|R|N
+cremaster	noun	cremaster|cremaster|R|N
+cremator	noun	cremate|cremat|R|V ; -or|or|S
+cremocarp	noun	cremocarp|cremocarp|R|N
+crenate	adj	crenate|crenate|R|Adj
+crenated	adj	crenate|crenat|R|Adj ; -ed|ed|S||-ed (adj)
+crenately	adv	crenate|crenate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+crenel	noun	crenel|crenel|R|N
+crenelate	verb	crenel|crenel|R|N ; -ate|ate|S
+crenelated	adj	crenel|crenel|R|N ; -ate|ate|S ; -ed|d|S||-ed (adj)
+creodont	noun	creodont|creodont|R|N
+creole	noun	creole|creole|R|N
+creolistics	noun	creolistics|creolistics|R|N
+creosol	noun	creosol|creosol|R|N
+creperie	noun	creperie|creperie|R|N
+crepida	noun	crepida|crepida|R|N
+crepitant	adj	crepitant|crepitant|R|Adj
+crepitate	verb	crepitate|crepitate|R|V
+crepitation	noun	crepitate|crepitat|R|V ; -ion|ion|S
+crepitus	noun	crepitus|crepitus|R|N
+crescent	noun	crescent|crescent|R|N
+crescentic	adj	crescent|crescent|R|N ; -ic|ic|S
+crescentiform	adj	crescentiform|crescentiform|R|Adj
+cresol	noun	cresol|cresol|R|N
+cresset	noun	cresset|cresset|R|N
+crestless	adj	crest|crest|R|N ; -less|less|S
+cresylic	adj	cresylic|cresylic|R|Adj
+cretinize	verb	cretin|cretin|R|N ; -ize|ize|S
+cretinoid	adj	cretinoid|cretinoid|R|Adj
+cretonne	noun	cretonne|cretonne|R|N
+crewel	noun	crewel|crewel|R|N
+cribbed	verb	crib|cribb|R|V ; -ed|ed|I||-ed (v2)
+cribber	noun	crib|cribb|R|V ; -er|er|S||-er (N)
+cribbing	verb	crib|cribb|R|V ; -ing|ing|I||-ing (v)
+cribble	verb	cribble|cribble|R|V
+cribrose	adj	cribrose|cribrose|R|Adj
+cricothyrotomy	noun	cricothyrotomy|cricothyrotomy|R|N
+cridanimod	noun	cridanimod|cridanimod|R|N
+criminate	verb	criminate|criminate|R|V
+crimination	noun	criminate|criminat|R|V ; -ion|ion|S
+criminator	noun	criminate|criminat|R|V ; -or|or|S
+criminogenic	adj	criminogenic|criminogenic|R|Adj
+criminologically	adv	criminology|criminolog|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+crimper	noun	crimp|crimp|R|V ; -er|er|S||-er (N)
+crimping	verb	crimp|crimp|R|V ; -ing|ing|I||-ing (v)
+cringeworthiness	noun	cringe|cringe|R|V ; worthy|worthi|R|Adj ; -ness|ness|S
+cringeworthy	adj	cringe|cringe|R|V ; worthy|worthy|R|Adj
+cringle	noun	cringle|cringle|R|N
+crinite	adj	crinite|crinite|R|Adj
+crinkling	verb	crinkle|crinkl|R|V ; -ing|ing|I||-ing (v)
+crinoid	noun	crinoid|crinoid|R|N
+crinose	adj	crinose|crinose|R|Adj
+crippler	noun	cripple|crippl|R|V ; -er|er|S||-er (N)
+crispate	adj	crisp|crisp|R|Adj ; -ate|ate|S
+crisper	noun	crisp|crisp|R|Adj ; -er|er|S||-er (N)
+crispiness	noun	crispy|crispi|R|Adj ; -ness|ness|S
+crisping	verb	crisp|crisp|R|V ; -ing|ing|I||-ing (v)
+crissum	noun	crissum|crissum|R|N
+crista	noun	crista|crista|R|N
+cristate	adj	crista|crist|R|N ; -ate|ate|S
+criterium	noun	criterium|criterium|R|N
+criticalness	noun	critical|critical|R|Adj ; -ness|ness|S
+criticizable	adj	criticize|criticiz|R|V ; -able|able|S
+criticizer	noun	criticize|criticiz|R|V ; -er|er|S||-er (N)
+croakily	adv	croaky|croaki|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+croceate	adj	croceate|croceate|R|Adj
+crocked	adj	crock|crock|R|N ; -ed|ed|S||-ed (adj)
+crocket	noun	crocket|crocket|R|N
+crocky	adj	crock|crock|R|N ; -y|y|S
+crocoite	noun	crocoite|crocoite|R|N
+cromlech	noun	cromlech|cromlech|R|N
+cronut	noun	cronut|cronut|R|N
+crookback	noun	crook|crook|R|Adj ; back|back|R|N
+crooking	verb	crook|crook|R|V ; -ing|ing|I||-ing (v)
+cropful	noun	crop|crop|R|N ; -ful|ful|S
+croppy	adj	crop|cropp|R|N ; -y|y|S
+croquembouche	noun	croquembouche|croquembouche|R|N
+croquis	noun	croquis|croquis|R|N
+crore	noun	crore|crore|R|N
+crossarm	noun	cross|cross|R|N ; arm|arm|R|N
+crossbill	noun	cross|cross|R|N ; bill|bill|R|N
+crossbred	adj	cross|cross|R|N ; breed|bred|R|V ; -ed||I||-ed (v2)
+crossbreeding	noun	cross|cross|R|N ; breed|breed|R|V ; -ing|ing|S||-ing (N)
+crosser	noun	cross|cross|R|V ; -er|er|S||-er (N)
+crossfader	noun	cross|cross|R|N ; fade|fad|R|V ; -er|er|S||-er (N)
+crossguard	noun	cross|cross|R|N ; guard|guard|R|N
+crosslet	noun	cross|cross|R|N ; -let|let|S
+crossness	noun	cross|cross|R|Adj ; -ness|ness|S
+crosspoint	noun	cross|cross|R|N ; point|point|R|N
+crosspost	verb	cross|cross|R|N ; post|post|R|V
+crosstown	adj	cross|cross|R|N ; town|town|R|N
+crosstree	noun	cross|cross|R|N ; tree|tree|R|N
+crossvein	noun	cross|cross|R|N ; vein|vein|R|N
+crossways	adv	crossways|crossways|R|Adv
+crotcheteer	noun	crotchet|crotchet|R|N ; -eer|eer|S
+crotchetiness	noun	crotchety|crotcheti|R|Adj ; -ness|ness|S
+crotonaldehyde	noun	croton|croton|R|N ; aldehyde|aldehyde|R|N
+croustade	noun	croustade|croustade|R|N
+crowberry	noun	crow|crow|R|N ; berry|berry|R|N
+crowdedness	noun	crowd|crowd|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+crowdfunding	noun	crowd|crowd|R|N ; fund|fund|R|V ; -ing|ing|S||-ing (N)
+crowdie	noun	crowdie|crowdie|R|N
+crowdsourcing	noun	crowd|crowd|R|N ; source|sourc|R|V ; -ing|ing|S||-ing (N)
+crowfoot	noun	crow|crow|R|N ; foot|foot|R|N
+crownless	adj	crown|crown|R|N ; -less|less|S
+crownvetch	noun	crown|crown|R|N ; vetch|vetch|R|N
+cruciality	noun	crucial|crucial|R|Adj ; -ity|ity|S
+crucian	noun	crucian|crucian|R|N
+cruciately	adv	cruciate|cruciate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+crucifer	noun	crucifer|crucifer|R|N
+crucifier	noun	crucify|crucifi|R|V ; -er|er|S||-er (N)
+cruciformly	adv	cruciform|cruciform|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cruciverbalist	noun	cruciverbal|cruciverbal|R|Adj ; -ist|ist|S
+cruft	noun	cruft|cruft|R|N
+crumbliness	noun	crumb|crumb|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+crumbs	noun	crumb|crumb|R|N ; -s|s|I||-s (plural)
+crumby	adj	crumb|crumb|R|N ; -y|y|S
+crumhorn	noun	crumhorn|crumhorn|R|N
+crumpling	verb	crumple|crumpl|R|V ; -ing|ing|I||-ing (v)
+crumply	adj	crumple|crumpl|R|V ; -y|y|S
+crunchable	adj	crunch|crunch|R|V ; -able|able|S
+crunkmeister	noun	crunk|crunk|R|N ; meister|meister|R|N
+crupper	noun	crupper|crupper|R|N
+crural	adj	crural|crural|R|Adj
+cruse	noun	cruse|cruse|R|N
+crushable	adj	crush|crush|R|V ; -able|able|S
+crustaceous	adj	crustacea|crustace|R|N ; -ous|ous|S
+crustily	adv	crusty|crusti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+crustiness	noun	crusty|crusti|R|Adj ; -ness|ness|S
+crusting	verb	crust|crust|R|V ; -ing|ing|I||-ing (v)
+crutched	adj	crutch|crutch|R|N ; -ed|ed|S||-ed (adj)
+cruzeiro	noun	cruzeiro|cruzeiro|R|N
+crwth	noun	crwth|crwth|R|N
+cryobiology	noun	cryobiology|cryobiology|R|N
+cryogen	noun	cryogen|cryogen|R|N
+cryolite	noun	cryolite|cryolite|R|N
+cryophysics	noun	cryophysics|cryophysics|R|N
+cryoscope	noun	cryoscope|cryoscope|R|N
+cryoscopic	adj	cryoscope|cryoscop|R|N ; -ic|ic|S
+cryoscopy	noun	cryoscope|cryoscop|R|N ; -y|y|S
+cryotherapy	noun	cryotherapy|cryotherapy|R|N
+cryotron	noun	cryotron|cryotron|R|N
+cryotronics	noun	cryotronics|cryotronics|R|N
+cryovolcano	noun	cryovolcano|cryovolcano|R|N
+cryptanalysis	noun	cryptanalysis|cryptanalysis|R|N
+cryptanalytic	adj	cryptanalytic|cryptanalytic|R|Adj
+cryptarithm	noun	cryptarithm|cryptarithm|R|N
+cryptarithmetic	noun	cryptarithmetic|cryptarithmetic|R|N
+crypticness	noun	crypt|crypt|R|N ; -ic|ic|S ; -ness|ness|S
+cryptid	noun	cryptid|cryptid|R|N
+crypto	noun	crypto|crypto|R|N
+cryptobiosis	noun	cryptobiosis|cryptobiosis|R|N
+cryptocracy	noun	cryptocracy|cryptocracy|R|N
+cryptocrystalline	adj	cryptocrystalline|cryptocrystalline|R|Adj
+cryptocurrency	noun	crypto|crypto|R|N ; currency|currency|R|N
+cryptodepression	noun	cryptodepression|cryptodepression|R|N
+cryptogam	noun	cryptogam|cryptogam|R|N
+cryptogamic	adj	cryptogam|cryptogam|R|N ; -ic|ic|S
+cryptogamous	adj	cryptogam|cryptogam|R|N ; -ous|ous|S
+cryptogenic	adj	cryptogenic|cryptogenic|R|Adj
+cryptogrammic	adj	cryptogram|cryptogramm|R|N ; -ic|ic|S
+cryptograph	noun	cryptograph|cryptograph|R|N
+cryptographical	adj	cryptograph|cryptograph|R|N ; -ic|ic|S ; -al|al|S
+cryptographically	adv	cryptograph|cryptograph|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+cryptolect	noun	cryptolect|cryptolect|R|N
+cryptologist	noun	cryptology|cryptolog|R|N ; -ist|ist|S
+cryptomeria	noun	cryptomeria|cryptomeria|R|N
+cryptomnesia	noun	cryptomnesia|cryptomnesia|R|N
+cryptonym	noun	cryptonym|cryptonym|R|N
+cryptoporticus	noun	cryptoporticus|cryptoporticus|R|N
+cryptorchid	noun	cryptorchid|cryptorchid|R|N
+cryptorchidism	noun	cryptorchid|cryptorchid|R|N ; -ism|ism|S
+cryptorchism	noun	cryptorchism|cryptorchism|R|N
+cryptovirus	noun	crypto|crypto|R|N ; virus|virus|R|N
+cryptozoic	adj	cryptozoic|cryptozoic|R|Adj
+cryptozoology	noun	cryptozoology|cryptozoology|R|N
+crystalliferous	adj	crystalliferous|crystalliferous|R|Adj
+crystallinity	noun	crystalline|crystallin|R|Adj ; -ity|ity|S
+crystallizable	adj	crystal|crystall|R|N ; -ize|iz|S ; -able|able|S
+crystallizer	noun	crystal|crystall|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+crystallographically	adv	crystallography|crystallograph|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+crystalloid	noun	crystalloid|crystalloid|R|N
+crystalloidal	adj	crystalloid|crystalloid|R|N ; -al|al|S
+csardas	noun	csardas|csardas|R|N
+ctenoid	adj	ctenoid|ctenoid|R|Adj
+ctenophoral	adj	ctenophore|ctenophor|R|N ; -al|al|S
+ctenophore	noun	ctenophore|ctenophore|R|N

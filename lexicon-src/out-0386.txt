@@ -1,0 +1,200 @@
+spidergram	noun	spidergram|spidergram|R|N
+spiderman	noun	spider|spider|R|N ; man|man|R|N
+spiderwort	noun	spider|spider|R|N ; wort|wort|R|N
+spiegeleisen	noun	spiegeleisen|spiegeleisen|R|N
+spier	noun	spy|spi|R|V ; -er|er|S||-er (N)
+spiflicate	verb	spiflicate|spiflicate|R|V
+spikefish	noun	spike|spike|R|N ; fish|fish|R|N
+spikelet	noun	spike|spike|R|N ; -let|let|S
+spikenard	noun	spikenard|spikenard|R|N
+spikes	noun	spike|spike|R|N ; -s|s|I||-s (plural)
+spikewise	adv	spike|spike|R|N ; -wise|wise|S
+spile	noun	spile|spile|R|N
+spiling	noun	spile|spil|R|N ; -ing|ing|S||-ing (N)
+spillikin	noun	spillikin|spillikin|R|N
+spillikins	noun	spillikin|spillikin|R|N ; -s|s|I||-s (plural)
+spina	noun	spina|spina|R|N
+spinate	adj	spin|spin|R|N ; -ate|ate|S
+spination	noun	spin|spin|R|N ; -ation|ation|S
+spindling	noun	spindle|spindl|R|N ; -ing|ing|S||-ing (N)
+spined	adj	spine|spin|R|N ; -ed|ed|S||-ed (adj)
+spinel	noun	spinel|spinel|R|N
+spinelessly	adv	spine|spine|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+spinelessness	noun	spine|spine|R|N ; -less|less|S ; -ness|ness|S
+spinescent	adj	spinescent|spinescent|R|Adj
+spinetail	noun	spine|spine|R|N ; tail|tail|R|N
+spiniferous	adj	spiniferous|spiniferous|R|Adj
+spiniform	adj	spiniform|spiniform|R|Adj
+spininess	noun	spine|spin|R|N ; -y|i|S ; -ness|ness|S
+spinnery	noun	spin|spinn|R|V ; -ery|ery|S
+spinon	noun	spinon|spinon|R|N
+spinor	noun	spinor|spinor|R|N
+spinorial	adj	spinor|spinor|R|N ; -ial|ial|S
+spinosaurus	noun	spinosaurus|spinosaurus|R|N
+spinose	adj	spinose|spinose|R|Adj
+spinosely	adv	spinose|spinose|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+spinosity	noun	spinose|spinos|R|Adj ; -ity|ity|S
+spinstress	noun	spinstress|spinstress|R|N
+spinthariscope	noun	spinthariscope|spinthariscope|R|N
+spinulation	noun	spinule|spinul|R|N ; -ation|ation|S
+spinule	noun	spinule|spinule|R|N
+spinulescent	adj	spinulescent|spinulescent|R|Adj
+spinulose	adj	spinulose|spinulose|R|Adj
+spinulous	adj	spinule|spinul|R|N ; -ous|ous|S
+spiracle	noun	spiracle|spiracle|R|N
+spiracular	adj	spiracle|spiracul|R|N ; -ar|ar|S
+spirality	noun	spiral|spiral|R|Adj ; -ity|ity|S
+spirally	adv	spiral|spiral|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+spirant	noun	spirant|spirant|R|N
+spireme	noun	spireme|spireme|R|N
+spiriferous	adj	spiriferous|spiriferous|R|Adj
+spirillum	noun	spirillum|spirillum|R|N
+spiriting	verb	spirit|spirit|R|V ; -ing|ing|I||-ing (v)
+spiritism	noun	spirit|spirit|R|N ; -ism|ism|S
+spiritistic	adj	spirit|spirit|R|N ; -ist|ist|S ; -ic|ic|S
+spiritoso	adj	spiritoso|spiritoso|R|Adj
+spirits	noun	spirit|spirit|R|N ; -s|s|I||-s (plural)
+spiritualistic	adj	spirit|spirit|R|N ; -ual|ual|S ; -ist|ist|S ; -ic|ic|S
+spiritualization	noun	spirit|spirit|R|N ; -ual|ual|S ; -ize|iz|S ; -ation|ation|S
+spiritualize	verb	spirit|spirit|R|N ; -ual|ual|S ; -ize|ize|S
+spiritualness	noun	spirit|spirit|R|N ; -ual|ual|S ; -ness|ness|S
+spiritualty	noun	spirit|spirit|R|N ; -ual|ual|S ; -ty|ty|S
+spirituelle	adj	spirituelle|spirituelle|R|Adj
+spirituous	adj	spirit|spirit|R|N ; -ous|uous|S
+spirituousness	noun	spirit|spirit|R|N ; -ous|uous|S ; -ness|ness|S
+spirograph	noun	spirograph|spirograph|R|N
+spirographic	adj	spirograph|spirograph|R|N ; -ic|ic|S
+spirogyra	noun	spirogyra|spirogyra|R|N
+spiroid	adj	spiroid|spiroid|R|Adj
+spirometer	noun	spirometer|spirometer|R|N
+spirometry	noun	spirometry|spirometry|R|N
+spirula	noun	spirula|spirula|R|N
+spirulina	noun	spirulina|spirulina|R|N
+spiry	adj	spire|spir|R|N ; -y|y|S
+spitefulness	noun	spite|spite|R|N ; -ful|ful|S ; -ness|ness|S
+spitted	verb	spit|spitt|R|V ; -ed|ed|I||-ed (v2)
+spitz	noun	spitz|spitz|R|N
+spivvery	noun	spiv|spivv|R|N ; -ery|ery|S
+splanchnic	adj	splanchnic|splanchnic|R|Adj
+splanchnotomy	noun	splanchnotomy|splanchnotomy|R|N
+splashback	noun	splash|splash|R|N ; back|back|R|N
+splasher	noun	splash|splash|R|V ; -er|er|S||-er (N)
+splattering	noun	splatter|splatter|R|V ; -ing|ing|S||-ing (N)
+spleenful	adj	spleen|spleen|R|N ; -ful|ful|S
+spleenwort	noun	spleen|spleen|R|N ; wort|wort|R|N
+spleeny	adj	spleen|spleen|R|N ; -y|y|S
+splenalgia	noun	splenalgia|splenalgia|R|N
+splendent	adj	splendent|splendent|R|Adj
+splendiferous	adj	splendiferous|splendiferous|R|Adj
+splendorous	adj	splendor|splendor|R|N ; -ous|ous|S
+splenectomized	verb	splenectomy|splenectom|R|N ; -ize|iz|S ; -ed|ed|I||-ed (v2)
+splenetic	adj	splenetic|splenetic|R|Adj
+splenetically	adv	splenetic|splenetic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+splenial	adj	splenial|splenial|R|Adj
+splenitic	adj	splenitis|splenit|R|N ; -ic|ic|S
+splenitis	noun	splenitis|splenitis|R|N
+splenius	noun	splenius|splenius|R|N
+splenization	noun	splenization|splenization|R|N
+splenocyte	noun	splenocyte|splenocyte|R|N
+splenography	noun	splenography|splenography|R|N
+splenoid	adj	splenoid|splenoid|R|Adj
+splenology	noun	splenology|splenology|R|N
+splenomegaly	noun	splenomegaly|splenomegaly|R|N
+splenopathy	noun	splenopathy|splenopathy|R|N
+splenotomy	noun	splenotomy|splenotomy|R|N
+splicing	noun	splice|splic|R|V ; -ing|ing|S||-ing (N)
+splints	noun	splint|splint|R|N ; -s|s|I||-s (plural)
+splits	noun	split|split|R|N ; -s|s|I||-s (plural)
+splittable	adj	split|splitt|R|V ; -able|able|S
+splittism	noun	split|splitt|R|V ; -ism|ism|S
+splotching	verb	splotch|splotch|R|V ; -ing|ing|I||-ing (v)
+splutterer	noun	splutter|splutter|R|V ; -er|er|S||-er (N)
+spodosol	noun	spodosol|spodosol|R|N
+spodumene	noun	spodumene|spodumene|R|N
+spoffish	adj	spoffish|spoffish|R|Adj
+spoilsman	noun	spoil|spoils|R|N ; man|man|R|N
+spokewise	adv	spoke|spoke|R|N ; -wise|wise|S
+spoliation	noun	spoliate|spoliat|R|V ; -ion|ion|S
+spoliatory	adj	spoliate|spoliat|R|V ; -ory|ory|S
+spondaical	adj	spondaical|spondaical|R|Adj
+spondee	noun	spondee|spondee|R|N
+spondulicks	noun	spondulicks|spondulicks|R|N
+spondyloarthropathy	noun	spondyloarthropathy|spondyloarthropathy|R|N
+spondylolisthesis	noun	spondylolisthesis|spondylolisthesis|R|N
+spondylosis	noun	spondylosis|spondylosis|R|N
+spondylotherapeutics	noun	spondylotherapeutics|spondylotherapeutics|R|N
+spondylotherapy	noun	spondylotherapy|spondylotherapy|R|N
+spondylous	adj	spondylous|spondylous|R|Adj
+spongin	noun	spongin|spongin|R|N
+sponging	verb	sponge|spong|R|V ; -ing|ing|I||-ing (v)
+spongioblast	noun	spongioblast|spongioblast|R|N
+sponsion	noun	sponsion|sponsion|R|N
+sponson	noun	sponson|sponson|R|N
+sponsorial	adj	sponsor|sponsor|R|N ; -ial|ial|S
+spontaneousness	noun	spontaneous|spontaneous|R|Adj ; -ness|ness|S
+spontoon	noun	spontoon|spontoon|R|N
+spoofed	verb	spoof|spoof|R|V ; -ed|ed|I||-ed (v2)
+spoofer	noun	spoof|spoof|R|V ; -er|er|S||-er (N)
+spoofing	verb	spoof|spoof|R|V ; -ing|ing|I||-ing (v)
+spookiness	noun	spook|spook|R|N ; -y|i|S ; -ness|ness|S
+spookish	adj	spook|spook|R|N ; -ish|ish|S
+spooler	noun	spool|spool|R|V ; -er|er|S||-er (N)
+spooling	verb	spool|spool|R|V ; -ing|ing|I||-ing (v)
+spooner	noun	spoon|spoon|R|V ; -er|er|S||-er (N)
+spoonily	adv	spoony|spooni|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+spooniness	noun	spoon|spoon|R|N ; -y|i|S ; -ness|ness|S
+spooning	verb	spoon|spoon|R|V ; -ing|ing|I||-ing (v)
+spoons	noun	spoon|spoon|R|N ; -s|s|I||-s (plural)
+spoony	adj	spoon|spoon|R|N ; -y|y|S
+sporadical	adj	sporadic|sporadic|R|Adj ; -al|al|S
+sporadicalness	noun	sporadic|sporadic|R|Adj ; -al|al|S ; -ness|ness|S
+sporangial	adj	sporangium|sporangi|R|N ; -al|al|S
+sporangium	noun	sporangium|sporangium|R|N
+sporeling	noun	spore|spore|R|N ; -ling|ling|S
+sporicide	noun	sporicide|sporicide|R|N
+sporiferous	adj	sporiferous|sporiferous|R|Adj
+sporification	noun	sporify|sporifi|R|V ; -ation|cation|S
+spork	noun	spork|spork|R|N
+sporocarp	noun	sporocarp|sporocarp|R|N
+sporogenesis	noun	sporogenesis|sporogenesis|R|N
+sporogenous	adj	sporogenous|sporogenous|R|Adj
+sporophyll	noun	sporophyll|sporophyll|R|N
+sporozoan	noun	sporozoan|sporozoan|R|N
+sportful	adj	sport|sport|R|N ; -ful|ful|S
+sportily	adv	sporty|sporti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sportiness	noun	sport|sport|R|N ; -y|i|S ; -ness|ness|S
+sportiveness	noun	sport|sport|R|N ; -ive|ive|S ; -ness|ness|S
+sports	noun	sport|sport|R|N ; -s|s|I||-s (plural)
+sportsperson	noun	sport|sports|R|N ; person|person|R|N
+sporulate	verb	sporulate|sporulate|R|V
+sporulation	noun	sporulate|sporulat|R|V ; -ion|ion|S
+sporule	noun	sporule|sporule|R|N
+spotlessness	noun	spot|spot|R|N ; -less|less|S ; -ness|ness|S
+spottily	adv	spotty|spotti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+spottiness	noun	spot|spott|R|N ; -y|i|S ; -ness|ness|S
+spotting	verb	spot|spott|R|V ; -ing|ing|I||-ing (v)
+spouted	verb	spout|spout|R|V ; -ed|ed|I||-ed (v2)
+spouter	noun	spout|spout|R|V ; -er|er|S||-er (N)
+spouting	verb	spout|spout|R|V ; -ing|ing|I||-ing (v)
+spoutless	adj	spout|spout|R|N ; -less|less|S
+sprachbund	noun	sprachbund|sprachbund|R|N
+spraddle	verb	spraddle|spraddle|R|V
+sprag	noun	sprag|sprag|R|N
+spratter	verb	spratter|spratter|R|V
+sprayboard	noun	spray|spray|R|N ; board|board|R|N
+sprayey	adj	sprayey|sprayey|R|Adj
+spriggy	adj	sprig|sprigg|R|N ; -y|y|S
+sprightful	adj	spright|spright|R|N ; -ful|ful|S
+sprightliness	noun	spright|spright|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+springald	noun	springald|springald|R|N
+springe	noun	springe|springe|R|N
+springhead	noun	spring|spring|R|N ; head|head|R|N
+springily	adv	springy|springi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+springiness	noun	spring|spring|R|N ; -y|i|S ; -ness|ness|S
+springless	adj	spring|spring|R|N ; -less|less|S
+springlet	noun	spring|spring|R|N ; -let|let|S
+springlike	adj	spring|spring|R|N ; -like|like|S
+springtail	noun	spring|spring|R|N ; tail|tail|R|N
+springtide	noun	spring|spring|R|N ; tide|tide|R|N
+springwood	noun	spring|spring|R|N ; wood|wood|R|N
+sprinklered	adj	sprinkler|sprinkler|R|N ; -ed|ed|S||-ed (adj)

@@ -1,0 +1,150 @@
+laundress	noun	=
+antitoxin	noun	=
+pneumatology	noun	pneumato-|pneumato|B|N|||Greek pneuma 'breath' ; -logy|logy|B|N|||Greek logos 'study, word'
+doge	noun	=
+spica	noun	=
+apostolate	noun	=
+analogize	verb	=
+pathophysiology	noun	=
+debility	noun	de-|de|P||||Latin de- 'from, away' ; -bil-|bil|B|Adj|||Latin habilis 'able' ; -ity|ity|S
+canvasser	noun	=
+advancer	noun	=
+giro	noun	=
+alopecia	noun	=
+prolactin	noun	pro-|pro|P||||Greek pro 'before' ; lact-|lact|B|N|||Latin lac 'milk' ; -in|in|S
+ingress	noun	=
+anthracite	noun	anthrac-|anthrac|B|N|||Greek anthrax 'charcoal' ; -ite|ite|S
+fornicate	verb	fornic-|fornic|B|N|||Latin fornix 'arch, brothel' ; -ate|ate|S
+grackle	noun	=
+nanomachine	noun	=
+polymorphous	adj	poly-|poly|P||||Greek polus 'many' ; -morph-|morph|B|N|||Greek morphe 'form, shape' ; -ous|ous|S
+stroma	noun	=
+subclinical	adj	=
+elocution	noun	=
+rarefy	verb	=
+codicil	noun	=
+numerator	noun	=
+transubstantiation	noun	=
+bract	noun	=
+afferent	adj	af-|af|P||||Latin ad- 'to, toward' ; -fer-|fer|B|V|||Latin ferre 'to carry' ; -ent|ent|S
+thalamus	noun	=
+balloonist	noun	=
+interrogative	adj	=
+acidophilus	noun	=
+ethnomusicologist	noun	=
+didacticism	noun	=
+inseparability	noun	=
+nasopharyngeal	adj	=
+psychoanalyze	verb	=
+finderscope	noun	=
+sere	verb	=
+sacral	adj	sacr-|sacr|B|Adj|||Latin sacer 'sacred' ; -al|al|S
+alar	adj	al-|al|B|N|||Latin ala 'wing' ; -ar|ar|S
+pseudoephedrine	noun	=
+formidably	adv	=
+biophysics	noun	=
+conciliator	noun	=
+resinous	adj	=
+majordomo	noun	major|major|R|Adj ; domo|domo|B|N|||Latin domus 'household'
+incorporeal	adj	=
+sinecure	noun	=
+amorality	noun	=
+propitiate	verb	=
+nutritive	adj	nutr-|nutr|B|V|||Latin nutrire 'to suckle' ; -itive|itive|S
+stele	noun	=
+importunate	adj	=
+stentorian	adj	=
+digitalis	noun	=
+gherkin	noun	=
+libertarianism	noun	=
+doss	noun	=
+ideologist	noun	=
+unitive	adj	=
+aerodynamically	adv	=
+scissor	verb	=
+incrementalism	noun	=
+buffoonery	noun	=
+disconsolate	adj	dis-|dis|P||||Latin dis- 'away' ; -consol-|consol|B|V|||Latin consolari 'to console' ; -ate|ate|S
+particularize	verb	=
+nanowire	noun	=
+chiral	adj	chir-|chir|B|N|||Greek kheir 'hand' ; -al|al|S
+malleus	noun	=
+septuagenarian	noun	=
+nonuniform	adj	=
+millenarian	noun	millen-|millen|B|N|||Latin mille 'thousand' ; -arian|arian|S
+orgiastic	adj	=
+vaseline	noun	=
+lave	verb	=
+timorous	adj	=
+ironist	noun	=
+characterful	adj	=
+keratin	noun	kerat-|kerat|B|N|||Greek keras 'horn' ; -in|in|S
+colostrum	noun	=
+mendacity	noun	mendac-|mendac|B|Adj|||Latin mendax 'lying' ; -ity|ity|S
+emerita	noun	=
+biosafety	noun	=
+ludic	adj	lud-|lud|B|V|||Latin ludere 'to play' ; -ic|ic|S
+ghettoize	verb	=
+viburnum	noun	=
+lineament	noun	=
+purslane	noun	=
+gyre	noun	=
+lignin	noun	lign-|lign|B|N|||Latin lignum 'wood' ; -in|in|S
+polysaccharide	noun	=
+prostration	noun	=
+tole	noun	=
+baryon	noun	baryo-|bary|B|Adj|||Greek barus 'heavy' ; -on|on|S
+biopsychosocial	adj	=
+premeditate	verb	=
+skirmisher	noun	=
+relaxer	noun	=
+transcendentalism	noun	=
+ductile	adj	=
+nanostructure	noun	=
+tastemaker	noun	=
+affine	adj	=
+bestiary	noun	=
+tittle	noun	=
+piratical	adj	=
+adsorb	verb	ad-|ad|P||||Latin ad- 'to' ; -sorb|sorb|B|V|||Latin sorbere 'to suck in'
+mediastinum	noun	=
+obtrude	verb	ob-|ob|P||||Latin ob- 'against' ; -trud-|trude|B|V|||Latin trudere 'to thrust'
+rheumatology	noun	rheumato-|rheumato|B|N|||Greek rheuma 'flow' ; -logy|logy|B|N|||Greek logos 'study, word'
+indissoluble	adj	=
+flautist	noun	=
+croaker	noun	=
+expostulate	verb	=
+scholasticism	noun	=
+gastroesophageal	adj	=
+bureaucratically	adv	=
+ingrate	noun	in-|in|P||||Latin in- 'not' ; -grate|grate|B|Adj|||Latin gratus 'pleasing'
+antiparticle	noun	=
+dumper	noun	=
+antonym	noun	=
+resect	verb	re-|re|P||||Latin re- 'again, back' ; -sect|sect|B|V|||Latin secare 'to cut'
+cephalopod	noun	cephalo-|cephalo|B|N|||Greek kephale 'head' ; -pod|pod|B|N|||Greek pous 'foot'
+bioethical	adj	=
+diatonic	adj	=
+grandiloquent	adj	grandi-|grandi|B|Adj|||Latin grandis 'great' ; -loqu-|loqu|B|V|||Latin loqui 'to speak' ; -ent|ent|S
+novena	noun	=
+voluntarism	noun	=
+conjunctivitis	noun	=
+violist	noun	=
+thyroidectomy	noun	=
+pamphleteer	noun	=
+asbestosis	noun	=
+bleeder	noun	=
+megafauna	noun	=
+theoretic	adj	=
+dicker	noun	=
+upsilon	noun	=
+agronomy	noun	agro-|agro|B|N|||Greek agros 'field' ; -nomy|nomy|B|N|||Greek nomos 'law'
+tutti	adv	=
+gerrymandering	noun	=
+soteriology	noun	soteri-|soteri|B|N|||Greek soter 'savior' ; -ology|ology|B|N|||Greek logos 'study, word'
+intercessor	noun	inter-|inter|P||||Latin inter 'between' ; -cess-|cess|B|V|||Latin cedere 'to go' ; -or|or|S
+nasopharynx	noun	=
+peroration	noun	per-|per|P||||Latin per 'very, through' ; -or-|or|B|V|||Latin orare 'to speak' ; -ation|ation|S
+latitudinal	adj	=
+carnitine	noun	carn-|carn|B|N|||Latin caro 'meat' ; -itine|itine|S
+praetorian	adj	=

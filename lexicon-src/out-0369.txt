@@ -1,0 +1,200 @@
+regrant	verb	re-|re|P ; grant|grant|R|V
+regrate	verb	regrate|regrate|R|V
+regressand	noun	regressand|regressand|R|N
+regressed	adj	regress|regress|R|V ; -ed|ed|S||-ed (adj)
+regressing	verb	regress|regress|R|V ; -ing|ing|I||-ing (v)
+regressor	noun	regress|regress|R|V ; -or|or|S
+regretting	verb	regret|regrett|R|V ; -ing|ing|I||-ing (v)
+regrouped	adj	re-|re|P ; group|group|R|V ; -ed|ed|S||-ed (adj)
+regulable	adj	regulate|regul|R|V ; -able|able|S
+regulus	noun	regulus|regulus|R|N
+regurgitant	adj	regurgitate|regurgit|R|V ; -ant|ant|S
+rehabilitant	noun	rehabilitate|rehabilit|R|V ; -ant|ant|S
+rehandle	verb	re-|re|P ; handle|handle|R|V
+rehang	verb	re-|re|P ; hang|hang|R|V
+reharden	verb	re-|re|P ; harden|harden|R|V
+rehearsing	verb	rehearse|rehears|R|V ; -ing|ing|I||-ing (v)
+reheater	noun	re-|re|P ; heat|heat|R|V ; -er|er|S||-er (N)
+rehumiliate	verb	re-|re|P ; humiliate|humiliate|R|V
+reichsmark	noun	reichsmark|reichsmark|R|N
+reificatory	adj	reify|reifi|R|V ; -ory|catory|S
+reigle	noun	reigle|reigle|R|N
+reignition	noun	re-|re|P ; ignite|ignit|R|V ; -ion|ion|S
+reimbursable	adj	reimburse|reimburs|R|V ; -able|able|S
+reimport	verb	re-|re|P ; import|import|R|V
+reincrease	verb	re-|re|P ; increase|increase|R|V
+reinduce	verb	re-|re|P ; induce|induce|R|V
+reindustrialization	noun	re-|re|P ; industrial|industrial|R|Adj ; -ize|iz|S ; -ation|ation|S
+reindustrialize	verb	re-|re|P ; industrial|industrial|R|Adj ; -ize|ize|S
+reinette	noun	reinette|reinette|R|N
+reingratiate	verb	re-|re|P ; ingratiate|ingratiate|R|V
+reinhabit	verb	re-|re|P ; inhabit|inhabit|R|V
+reinject	verb	re-|re|P ; inject|inject|R|V
+reinless	adj	rein|rein|R|N ; -less|less|S
+reins	noun	rein|rein|R|N ; -s|s|I||-s (plural)
+reinsman	noun	rein|reins|R|N ; man|man|R|N
+reinspection	noun	re-|re|P ; inspect|inspect|R|V ; -ion|ion|S
+reinsure	verb	re-|re|P ; insure|insure|R|V
+reinter	verb	re-|re|P ; inter|inter|R|V
+reintermediation	noun	re-|re|P ; intermediate|intermediat|R|V ; -ion|ion|S
+reinvasion	noun	re-|re|P ; invade|invas|R|V ; -ion|ion|S
+reis	noun	reis|reis|R|N
+reissuing	verb	re-|re|P ; issue|issu|R|V ; -ing|ing|I||-ing (v)
+reiter	noun	reiter|reiter|R|N
+reiterative	adj	re-|re|P ; iterate|iterat|R|V ; -ive|ive|S
+rejectable	adj	reject|reject|R|V ; -able|able|S
+rejectamenta	noun	rejectamenta|rejectamenta|R|N
+rejecting	verb	reject|reject|R|V ; -ing|ing|I||-ing (v)
+rejoining	verb	re-|re|P ; join|join|R|V ; -ing|ing|I||-ing (v)
+rejuvenesce	verb	rejuvenesce|rejuvenesce|R|V
+rejuvenescence	noun	rejuvenesce|rejuvenesc|R|V ; -ence|ence|S
+rejuvenescent	adj	rejuvenesce|rejuvenesc|R|V ; -ent|ent|S
+relabelling	verb	re-|re|P ; label|labell|R|V ; -ing|ing|I||-ing (v)
+relating	verb	relate|relat|R|V ; -ing|ing|I||-ing (v)
+relationshopping	noun	relation|relation|R|N ; shop|shopp|R|V ; -ing|ing|S||-ing (N)
+relativization	noun	relative|relativ|R|Adj ; -ize|iz|S ; -ation|ation|S
+relatrix	noun	relatrix|relatrix|R|N
+relaxative	adj	relax|relax|R|V ; -ative|ative|S
+relayer	noun	re-|re|P ; lay|lay|R|V ; -er|er|S||-er (N)
+relaying	verb	re-|re|P ; lay|lay|R|V ; -ing|ing|I||-ing (v)
+releasee	noun	release|releas|R|V ; -ee|ee|S
+releaser	noun	release|releas|R|V ; -er|er|S||-er (N)
+releasing	verb	release|releas|R|V ; -ing|ing|I||-ing (v)
+releasor	noun	release|releas|R|V ; -or|or|S
+relenting	verb	relent|relent|R|V ; -ing|ing|I||-ing (v)
+relet	verb	re-|re|P ; let|let|R|V
+reletting	verb	re-|re|P ; let|lett|R|V ; -ing|ing|I||-ing (v)
+relievo	noun	relievo|relievo|R|N
+religiological	adj	religiology|religiolog|R|N ; -ical|ical|S
+religiologist	noun	religiology|religiolog|R|N ; -ist|ist|S
+religiology	noun	religiology|religiology|R|N
+religioner	noun	religion|religion|R|N ; -er|er|S||-er (N)
+religionism	noun	religion|religion|R|N ; -ism|ism|S
+religionize	verb	religion|religion|R|N ; -ize|ize|S
+religiose	adj	religiose|religiose|R|Adj
+relishable	adj	relish|relish|R|V ; -able|able|S
+relishing	verb	relish|relish|R|V ; -ing|ing|I||-ing (v)
+reloading	noun	re-|re|P ; load|load|R|V ; -ing|ing|S||-ing (N)
+relocatable	adj	relocate|relocat|R|V ; -able|able|S
+relucent	adj	re-|re|P ; lucent|lucent|R|Adj
+reluct	verb	reluct|reluct|R|V
+reluctivity	noun	reluct|reluct|R|V ; -ive|iv|S ; -ity|ity|S
+remade	verb	re-|re|P ; make|made|R|V ; -ed||I||-ed (v2)
+reman	verb	re-|re|P ; man|man|R|V
+remanence	noun	remanence|remanence|R|N
+remanent	adj	remanent|remanent|R|Adj
+remanet	noun	remanet|remanet|R|N
+remarkableness	noun	remark|remark|R|V ; -able|able|S ; -ness|ness|S
+remarked	adj	remark|remark|R|V ; -ed|ed|S||-ed (adj)
+remarque	noun	remarque|remarque|R|N
+remarrying	verb	re-|re|P ; marry|marry|R|V ; -ing|ing|I||-ing (v)
+remaster	verb	re-|re|P ; master|master|R|V
+remastering	noun	re-|re|P ; master|master|R|V ; -ing|ing|S||-ing (N)
+remasticate	verb	re-|re|P ; masticate|masticate|R|V
+remble	verb	remble|remble|R|V
+remdesivir	noun	remdesivir|remdesivir|R|N
+remediless	adj	remedy|remedi|R|N ; -less|less|S
+rememberable	adj	remember|remember|R|V ; -able|able|S
+remembrancer	noun	remember|remembr|R|V ; -ance|anc|S ; -er|er|S||-er (N)
+remetal	verb	re-|re|P ; metal|metal|R|N
+remex	noun	remex|remex|R|N
+remigial	adj	remigial|remigial|R|Adj
+remigrate	verb	re-|re|P ; migrate|migrate|R|V
+remigration	noun	re-|re|P ; migrate|migrat|R|V ; -ion|ion|S
+remilitarize	verb	re-|re|P ; military|militar|R|Adj ; -ize|ize|S
+remindful	adj	remind|remind|R|V ; -ful|ful|S
+reminding	verb	remind|remind|R|V ; -ing|ing|I||-ing (v)
+reminiscing	verb	reminisce|reminisc|R|V ; -ing|ing|I||-ing (v)
+remint	verb	re-|re|P ; mint|mint|R|V
+remise	noun	remise|remise|R|N
+remissible	adj	remiss|remiss|R|Adj ; -ible|ible|S
+remissive	adj	remiss|remiss|R|Adj ; -ive|ive|S
+remissly	adv	remiss|remiss|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+remissness	noun	remiss|remiss|R|Adj ; -ness|ness|S
+remittal	noun	remit|remitt|R|V ; -al|al|S
+remittee	noun	remit|remitt|R|V ; -ee|ee|S
+remittent	adj	remit|remitt|R|V ; -ent|ent|S
+remitter	noun	remit|remitt|R|V ; -er|er|S||-er (N)
+remitting	verb	remit|remitt|R|V ; -ing|ing|I||-ing (v)
+remolding	noun	re-|re|P ; mold|mold|R|V ; -ing|ing|S||-ing (N)
+remonetization	noun	re-|re|P ; monetize|monetiz|R|V ; -ation|ation|S
+remonetize	verb	re-|re|P ; monetize|monetize|R|V
+remonstrant	noun	remonstrate|remonstr|R|V ; -ant|ant|S
+remonstration	noun	remonstrate|remonstrat|R|V ; -ion|ion|S
+remonstrative	adj	remonstrate|remonstrat|R|V ; -ive|ive|S
+remonstrator	noun	remonstrate|remonstrat|R|V ; -or|or|S
+remontant	adj	remontant|remontant|R|Adj
+remontoir	noun	remontoir|remontoir|R|N
+remorsefully	adv	remorse|remorse|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+remorsefulness	noun	remorse|remorse|R|N ; -ful|ful|S ; -ness|ness|S
+remotor	verb	re-|re|P ; motor|motor|R|N
+remoulade	noun	remoulade|remoulade|R|N
+remoulding	noun	re-|re|P ; mould|mould|R|V ; -ing|ing|S||-ing (N)
+remounting	noun	re-|re|P ; mount|mount|R|V ; -ing|ing|S||-ing (N)
+removability	noun	remove|remov|R|V ; -able|abil|S ; -ity|ity|S
+removing	verb	remove|remov|R|V ; -ing|ing|I||-ing (v)
+ren	noun	ren|ren|R|N
+renanthera	noun	renanthera|renanthera|R|N
+renascence	noun	re-|re|P ; nascence|nascence|R|N
+renascent	adj	re-|re|P ; nascent|nascent|R|Adj
+renaturalization	noun	re-|re|P ; natural|natural|R|Adj ; -ize|iz|S ; -ation|ation|S
+renature	verb	re-|re|P ; nature|nature|R|N
+rendaku	noun	rendaku|rendaku|R|N
+renderer	noun	render|render|R|V ; -er|er|S||-er (N)
+renegotiable	adj	re-|re|P ; negotiate|negoti|R|V ; -able|able|S
+renest	verb	re-|re|P ; nest|nest|R|V
+renewing	verb	re-|re|P ; new|new|R|Adj ; -ing|ing|I||-ing (v)
+reniculus	noun	reniculus|reniculus|R|N
+reniform	adj	reniform|reniform|R|Adj
+renin	noun	renin|renin|R|N
+renitence	noun	renitent|renit|R|Adj ; -ence|ence|S
+renitent	adj	renitent|renitent|R|Adj
+renminbi	noun	renminbi|renminbi|R|N
+rennin	noun	rennin|rennin|R|N
+renominate	verb	re-|re|P ; nominate|nominate|R|V
+renormism	noun	renormism|renormism|R|N
+renouncement	noun	renounce|renounce|R|V ; -ment|ment|S
+renouncer	noun	renounce|renounc|R|V ; -er|er|S||-er (N)
+rentability	noun	rent|rent|R|V ; -able|abil|S ; -ity|ity|S
+rentable	adj	rent|rent|R|V ; -able|able|S
+rentcharge	noun	rent|rent|R|N ; charge|charge|R|V
+renumbering	noun	re-|re|P ; number|number|R|V ; -ing|ing|S||-ing (N)
+renunciative	adj	renounce|renunci|R|V ; -ative|ative|S
+renunciatory	adj	renounce|renunci|R|V ; -ory|atory|S
+reorient	verb	re-|re|P ; orient|orient|R|V
+repace	verb	re-|re|P ; pace|pace|R|V
+repacify	verb	re-|re|P ; pacify|pacify|R|V
+repacking	noun	re-|re|P ; pack|pack|R|V ; -ing|ing|S||-ing (N)
+repagination	noun	re-|re|P ; paginate|paginat|R|V ; -ion|ion|S
+repainting	noun	re-|re|P ; paint|paint|R|V ; -ing|ing|S||-ing (N)
+repairing	verb	repair|repair|R|V ; -ing|ing|I||-ing (v)
+repairment	noun	repair|repair|R|V ; -ment|ment|S
+repairwoman	noun	repair|repair|R|V ; woman|woman|R|N
+repand	adj	repand|repand|R|Adj
+repaper	verb	re-|re|P ; paper|paper|R|V
+reparable	adj	reparable|reparable|R|Adj
+repartition	noun	re-|re|P ; partition|partition|R|N
+repartitioning	noun	re-|re|P ; partition|partition|R|N ; -ing|ing|S||-ing (N)
+repass	verb	re-|re|P ; pass|pass|R|V
+repdigit	noun	repdigit|repdigit|R|N
+repealable	adj	repeal|repeal|R|V ; -able|able|S
+repealing	verb	repeal|repeal|R|V ; -ing|ing|I||-ing (v)
+repechage	noun	repechage|repechage|R|N
+repeller	noun	repel|repell|R|V ; -er|er|S||-er (N)
+repelling	verb	repel|repell|R|V ; -ing|ing|I||-ing (v)
+repenting	verb	repent|repent|R|V ; -ing|ing|I||-ing (v)
+repeople	verb	re-|re|P ; people|people|R|N
+reperuse	verb	re-|re|P ; peruse|peruse|R|V
+repetitiously	adv	repetitious|repetitious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+repetitiousness	noun	repetitious|repetitious|R|Adj ; -ness|ness|S
+rephrasing	verb	re-|re|P ; phrase|phras|R|V ; -ing|ing|I||-ing (v)
+repine	verb	repine|repine|R|V
+repining	verb	repine|repin|R|V ; -ing|ing|I||-ing (v)
+replaceability	noun	re-|re|P ; place|place|R|V ; -able|abil|S ; -ity|ity|S
+replacer	noun	re-|re|P ; place|plac|R|V ; -er|er|S||-er (N)
+replantation	noun	re-|re|P ; plant|plant|R|V ; -ation|ation|S
+replate	verb	re-|re|P ; plate|plate|R|V
+replenisher	noun	replenish|replenish|R|V ; -er|er|S||-er (N)
+replenishing	verb	replenish|replenish|R|V ; -ing|ing|I||-ing (v)
+repletion	noun	replete|replet|R|Adj ; -ion|ion|S
+replicon	noun	replicon|replicon|R|N

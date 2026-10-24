@@ -1,0 +1,200 @@
+ordoliberalism	noun	ordoliberal|ordoliberal|R|Adj ; -ism|ism|S
+ordonnance	noun	ordonnance|ordonnance|R|N
+ordurous	adj	ordurous|ordurous|R|Adj
+oread	noun	oread|oread|R|N
+orecchiette	noun	orecchiette|orecchiette|R|N
+orectic	adj	orectic|orectic|R|Adj
+oreographical	adj	oreography|oreograph|R|N ; -ical|ical|S
+orexigenic	adj	orexigenic|orexigenic|R|Adj
+orexin	noun	orexin|orexin|R|N
+orexis	noun	orexis|orexis|R|N
+organicism	noun	organic|organic|R|Adj ; -ism|ism|S
+organigram	noun	organigram|organigram|R|N
+organizable	adj	organize|organiz|R|V ; -able|able|S
+organogen	noun	organogen|organogen|R|N
+organogenesis	noun	organogenesis|organogenesis|R|N
+organogenic	adj	organogen|organogen|R|N ; -ic|ic|S
+organography	noun	organography|organography|R|N
+organoid	noun	organoid|organoid|R|N
+organoleptic	adj	organoleptic|organoleptic|R|Adj
+organology	noun	organology|organology|R|N
+organomercury	noun	organomercury|organomercury|R|N
+organon	noun	organon|organon|R|N
+organonomy	noun	organonomy|organonomy|R|N
+organophyly	noun	organophyly|organophyly|R|N
+organoplastic	adj	organoplastic|organoplastic|R|Adj
+organotherapeutics	noun	organotherapeutics|organotherapeutics|R|N
+organotherapy	noun	organotherapy|organotherapy|R|N
+organotrophic	adj	organotrophic|organotrophic|R|Adj
+organotypic	adj	organotypic|organotypic|R|Adj
+organule	noun	organule|organule|R|N
+orgastic	adj	orgastic|orgastic|R|Adj
+orgeat	noun	orgeat|orgeat|R|N
+orgiac	adj	orgiac|orgiac|R|Adj
+orgiast	noun	orgiast|orgiast|R|N
+orgonite	noun	orgonite|orgonite|R|N
+oribi	noun	oribi|oribi|R|N
+oriel	noun	oriel|oriel|R|N
+orientability	noun	orientable|orientabil|R|Adj ; -ity|ity|S
+orientable	adj	orient|orient|R|V ; -able|able|S
+orientalism	noun	oriental|oriental|R|Adj ; -ism|ism|S
+orientalist	noun	oriental|oriental|R|Adj ; -ist|ist|S
+orientating	verb	orientate|orientat|R|V ; -ing|ing|I||-ing (v)
+orificial	adj	orifice|orific|R|N ; -ial|ial|S
+oriflamme	noun	oriflamme|oriflamme|R|N
+origamist	noun	origami|origam|R|N ; -ist|ist|S
+origanum	noun	origanum|origanum|R|N
+originative	adj	originate|originat|R|V ; -ive|ive|S
+orinasal	adj	orinasal|orinasal|R|Adj
+orisha	noun	orisha|orisha|R|N
+orison	noun	orison|orison|R|N
+orle	noun	orle|orle|R|N
+orlop	noun	orlop|orlop|R|N
+ormer	noun	ormer|ormer|R|N
+ornamentalism	noun	ornamental|ornamental|R|Adj ; -ism|ism|S
+ornamentalist	noun	ornamental|ornamental|R|Adj ; -ist|ist|S
+ornamenter	noun	ornament|ornament|R|N ; -er|er|S||-er (N)
+ornateness	noun	ornate|ornate|R|Adj ; -ness|ness|S
+ornithic	adj	ornithic|ornithic|R|Adj
+ornithine	noun	ornithine|ornithine|R|N
+ornitholite	noun	ornitholite|ornitholite|R|N
+ornithologically	adv	ornithology|ornitholog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+ornithomancy	noun	ornithomancy|ornithomancy|R|N
+ornithomimus	noun	ornithomimus|ornithomimus|R|N
+ornithophilous	adj	ornithophilous|ornithophilous|R|Adj
+ornithophobia	noun	ornithophobia|ornithophobia|R|N
+ornithopod	noun	ornithopod|ornithopod|R|N
+ornithopter	noun	ornithopter|ornithopter|R|N
+ornithorhynchus	noun	ornithorhynchus|ornithorhynchus|R|N
+ornithosis	noun	ornithosis|ornithosis|R|N
+orogenesis	noun	orogenesis|orogenesis|R|N
+orogenetic	adj	orogenesis|orogenet|R|N ; -ic|ic|S
+orogenic	adj	orogeny|orogen|R|N ; -ic|ic|S
+orogenically	adv	orogeny|orogen|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+orograph	noun	orograph|orograph|R|N
+orographer	noun	orography|orograph|R|N ; -er|er|S||-er (N)
+orography	noun	orography|orography|R|N
+oroide	noun	oroide|oroide|R|N
+orometer	noun	orometer|orometer|R|N
+orometric	adj	orometry|orometr|R|N ; -ic|ic|S
+oronasal	adj	oronasal|oronasal|R|Adj
+oronym	noun	oronym|oronym|R|N
+orotund	adj	orotund|orotund|R|Adj
+orphanhood	noun	orphan|orphan|R|N ; -hood|hood|S
+orphrey	noun	orphrey|orphrey|R|N
+orpiment	noun	orpiment|orpiment|R|N
+orpine	noun	orpine|orpine|R|N
+orra	adj	orra|orra|R|Adj
+orrery	noun	orrery|orrery|R|N
+orris	noun	orris|orris|R|N
+ort	noun	ort|ort|R|N
+orthal	adj	orthal|orthal|R|Adj
+orthaxial	adj	orthaxial|orthaxial|R|Adj
+orthocenter	noun	orthocenter|orthocenter|R|N
+orthocentric	adj	orthocentric|orthocentric|R|Adj
+orthocephalic	adj	orthocephalic|orthocephalic|R|Adj
+orthocephaly	noun	orthocephaly|orthocephaly|R|N
+orthochromatic	adj	orthochromatic|orthochromatic|R|Adj
+orthoclase	noun	orthoclase|orthoclase|R|N
+orthocomplement	noun	orthocomplement|orthocomplement|R|N
+orthodoxly	adv	orthodox|orthodox|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+orthodromic	adj	orthodromic|orthodromic|R|Adj
+orthoepic	adj	orthoepic|orthoepic|R|Adj
+orthoepist	noun	orthoepy|orthoep|R|N ; -ist|ist|S
+orthoepy	noun	orthoepy|orthoepy|R|N
+orthoevolution	noun	orthoevolution|orthoevolution|R|N
+orthogamous	adj	orthogamous|orthogamous|R|Adj
+orthogamy	noun	orthogamy|orthogamy|R|N
+orthogenesis	noun	orthogenesis|orthogenesis|R|N
+orthogenetic	adj	orthogenesis|orthogenet|R|N ; -ic|ic|S
+orthogenic	adj	orthogenesis|orthogen|R|N ; -ic|ic|S
+orthognathism	noun	orthognathism|orthognathism|R|N
+orthognathous	adj	orthognathous|orthognathous|R|Adj
+orthogonality	noun	orthogonal|orthogonal|R|Adj ; -ity|ity|S
+orthogonalization	noun	orthogonalize|orthogonaliz|R|V ; -ation|ation|S
+orthogonalize	verb	orthogonal|orthogonal|R|Adj ; -ize|ize|S
+orthogonally	adv	orthogonal|orthogonal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+orthograde	adj	orthograde|orthograde|R|Adj
+orthograph	noun	orthograph|orthograph|R|N
+orthographer	noun	orthography|orthograph|R|N ; -er|er|S||-er (N)
+orthographical	adj	orthography|orthograph|R|N ; -ical|ical|S
+orthographically	adv	orthography|orthograph|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+orthographist	noun	orthography|orthograph|R|N ; -ist|ist|S
+orthomorphism	noun	orthomorphism|orthomorphism|R|N
+orthonormal	adj	orthonormal|orthonormal|R|Adj
+orthonormalization	noun	orthonormalize|orthonormaliz|R|V ; -ation|ation|S
+orthonormalize	verb	orthonormal|orthonormal|R|Adj ; -ize|ize|S
+orthophony	noun	orthophony|orthophony|R|N
+orthophoria	noun	orthophoria|orthophoria|R|N
+orthophosphate	noun	orthophosphate|orthophosphate|R|N
+orthophosphoric	adj	orthophosphate|orthophosphor|R|N ; -ic|ic|S
+orthophoto	noun	orthophoto|orthophoto|R|N
+orthophyre	noun	orthophyre|orthophyre|R|N
+orthopneic	adj	orthopneic|orthopneic|R|Adj
+orthopnoea	noun	orthopnoea|orthopnoea|R|N
+orthoptera	noun	orthoptera|orthoptera|R|N
+orthopteran	noun	orthoptera|orthopter|R|N ; -an|an|S
+orthopterist	noun	orthoptera|orthopter|R|N ; -ist|ist|S
+orthopteroid	noun	orthopteroid|orthopteroid|R|N
+orthopterous	adj	orthopterous|orthopterous|R|Adj
+orthoptic	adj	orthoptic|orthoptic|R|Adj
+orthopyroxene	noun	orthopyroxene|orthopyroxene|R|N
+orthoradial	adj	orthoradial|orthoradial|R|Adj
+orthorexia	noun	orthorexia|orthorexia|R|N
+orthorhombic	adj	orthorhombic|orthorhombic|R|Adj
+orthoscope	noun	orthoscope|orthoscope|R|N
+orthoscopic	adj	orthoscope|orthoscop|R|N ; -ic|ic|S
+orthoselection	noun	orthoselection|orthoselection|R|N
+orthosomatic	adj	orthosomatic|orthosomatic|R|Adj
+orthospermous	adj	orthospermous|orthospermous|R|Adj
+orthostichous	adj	orthostichous|orthostichous|R|Adj
+orthostichy	noun	orthostichy|orthostichy|R|N
+orthotopic	adj	orthotopic|orthotopic|R|Adj
+orthotropic	adj	orthotropic|orthotropic|R|Adj
+orthotropism	noun	orthotropism|orthotropism|R|N
+orthotropous	adj	orthotropous|orthotropous|R|Adj
+ortolan	noun	ortolan|ortolan|R|N
+oscar	noun	oscar|oscar|R|N
+oscillogram	noun	oscillogram|oscillogram|R|N
+oscillograph	noun	oscillograph|oscillograph|R|N
+oscillography	noun	oscillography|oscillography|R|N
+oscillometer	noun	oscillometer|oscillometer|R|N
+oscillometry	noun	oscillometry|oscillometry|R|N
+oscilloscopic	adj	oscilloscope|oscilloscop|R|N ; -ic|ic|S
+oscitance	noun	oscitance|oscitance|R|N
+oscitancy	noun	oscitancy|oscitancy|R|N
+oscitation	noun	oscitation|oscitation|R|N
+osculant	adj	osculant|osculant|R|Adj
+oscular	adj	oscular|oscular|R|Adj
+osculate	verb	osculate|osculate|R|V
+osculating	verb	osculate|osculat|R|V ; -ing|ing|I||-ing (v)
+osculation	noun	osculate|osculat|R|V ; -ion|ion|S
+osculatory	adj	osculate|osculat|R|V ; -ory|ory|S
+osculatrix	noun	osculatrix|osculatrix|R|N
+osculum	noun	osculum|osculum|R|N
+osier	noun	osier|osier|R|N
+osmanthus	noun	osmanthus|osmanthus|R|N
+osmatic	adj	osmatic|osmatic|R|Adj
+osmeterium	noun	osmeterium|osmeterium|R|N
+osmic	adj	osmic|osmic|R|Adj
+osmics	noun	osmics|osmics|R|N
+osmiophil	noun	osmiophil|osmiophil|R|N
+osmiophilic	adj	osmiophilic|osmiophilic|R|Adj
+osmiridium	noun	osmiridium|osmiridium|R|N
+osmometer	noun	osmometer|osmometer|R|N
+osmometric	adj	osmometry|osmometr|R|N ; -ic|ic|S
+osmometry	noun	osmometry|osmometry|R|N
+osmoregulation	noun	osmoregulation|osmoregulation|R|N
+osmoscope	noun	osmoscope|osmoscope|R|N
+osmose	verb	osmose|osmose|R|V
+osmotaxis	noun	osmotaxis|osmotaxis|R|N
+osphradium	noun	osphradium|osphradium|R|N
+osphresiology	noun	osphresiology|osphresiology|R|N
+ossature	noun	ossature|ossature|R|N
+ossein	noun	ossein|ossein|R|N
+osselet	noun	osselet|osselet|R|N
+ossicone	noun	ossicone|ossicone|R|N
+ossiferous	adj	ossiferous|ossiferous|R|Adj
+ossific	adj	ossific|ossific|R|Adj
+ossifrage	noun	ossifrage|ossifrage|R|N
+ossivorous	adj	ossivorous|ossivorous|R|Adj

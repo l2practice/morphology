@@ -1,0 +1,200 @@
+vesiculation	noun	vesicle|vesicul|R|N ; -ation|ation|S
+vesper	noun	vesper|vesper|R|N
+vespertine	adj	vespertine|vespertine|R|Adj
+vespiary	noun	vespiary|vespiary|R|N
+vespiform	adj	vespiform|vespiform|R|Adj
+vespine	adj	vespine|vespine|R|Adj
+vestee	noun	vest|vest|R|V ; -ee|ee|S
+vestiarian	noun	vestiarian|vestiarian|R|N
+vestiary	noun	vestiary|vestiary|R|N
+vestigially	adv	vestige|vestigi|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+vestimentary	adj	vestimentary|vestimentary|R|Adj
+vestiture	noun	vestiture|vestiture|R|N
+vestmental	adj	vestment|vestment|R|N ; -al|al|S
+vesture	noun	vest|vest|R|V ; -ure|ure|S
+vetchling	noun	vetch|vetch|R|N ; -ling|ling|S
+vetiver	noun	vetiver|vetiver|R|N
+vetoer	noun	veto|veto|R|V ; -er|er|S||-er (N)
+vetted	adj	vet|vett|R|V ; -ed|ed|S||-ed (adj)
+vexatiously	adv	vexatious|vexatious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+vexatiousness	noun	vexatious|vexatious|R|Adj ; -ness|ness|S
+vexedly	adv	vex|vex|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+vexer	noun	vex|vex|R|V ; -er|er|S||-er (N)
+vexil	noun	vexil|vexil|R|N
+vexillologic	adj	vexillology|vexillolog|R|N ; -ic|ic|S
+vexillologist	noun	vexillology|vexillolog|R|N ; -ist|ist|S
+vexillology	noun	vexillology|vexillology|R|N
+vexillum	noun	vexillum|vexillum|R|N
+vexingly	adv	vex|vex|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+viably	adv	viable|viabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+viand	noun	viand|viand|R|N
+viands	noun	viand|viand|R|N ; -s|s|I||-s (plural)
+viatic	adj	viatic|viatic|R|Adj
+viatical	adj	viatic|viatic|R|Adj ; -al|al|S
+viaticals	noun	viatic|viatic|R|Adj ; -al|al|S ; -s|s|I||-s (plural)
+viaticum	noun	viaticum|viaticum|R|N
+viator	noun	viator|viator|R|N
+vibhuti	noun	vibhuti|vibhuti|R|N
+vibrance	noun	vibrant|vibr|R|Adj ; -ance|ance|S
+vibraphonist	noun	vibraphone|vibraphon|R|N ; -ist|ist|S
+vibratile	adj	vibratile|vibratile|R|Adj
+vibratility	noun	vibratile|vibratil|R|Adj ; -ity|ity|S
+vibrio	noun	vibrio|vibrio|R|N
+vibrioid	adj	vibrioid|vibrioid|R|Adj
+vibrissa	noun	vibrissa|vibrissa|R|N
+vibrograph	noun	vibrograph|vibrograph|R|N
+vibrometer	noun	vibrometer|vibrometer|R|N
+vibroscope	noun	vibroscope|vibroscope|R|N
+vicaress	noun	vicar|vicar|R|N ; -ess|ess|S
+vicarial	adj	vicar|vicar|R|N ; -ial|ial|S
+vicariate	noun	vicariate|vicariate|R|N
+vicariousness	noun	vicarious|vicarious|R|Adj ; -ness|ness|S
+vicarship	noun	vicar|vicar|R|N ; -ship|ship|S
+viced	adj	vice|vice|R|N ; -ed|d|S||-ed (adj)
+vicegeral	adj	vicegerent|viceger|R|N ; -al|al|S
+vicegerency	noun	vicegerent|viceger|R|N ; -ency|ency|S
+vicegerent	noun	vicegerent|vicegerent|R|N
+vicenary	adj	vicenary|vicenary|R|Adj
+vicennial	adj	vicennial|vicennial|R|Adj
+viceregally	adv	viceregal|viceregal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+vicereine	noun	vicereine|vicereine|R|N
+vicinage	noun	vicinage|vicinage|R|N
+vicinal	adj	vicinal|vicinal|R|Adj
+vicissitudinous	adj	vicissitudinous|vicissitudinous|R|Adj
+victimhood	noun	victim|victim|R|N ; -hood|hood|S
+victimism	noun	victim|victim|R|N ; -ism|ism|S
+victimist	noun	victim|victim|R|N ; -ist|ist|S
+victimizable	adj	victim|victim|R|N ; -ize|iz|S ; -able|able|S
+victimology	noun	victimology|victimology|R|N
+victoriousness	noun	victorious|victorious|R|Adj ; -ness|ness|S
+victrix	noun	victrix|victrix|R|N
+victualling	noun	victual|victuall|R|V ; -ing|ing|S||-ing (N)
+videlicet	adv	videlicet|videlicet|R|Adv
+videoblog	noun	video|video|R|N ; blog|blog|R|N
+videogram	noun	video|video|R|N ; gram|gram|R|N
+videotex	noun	videotex|videotex|R|N
+vidimus	noun	vidimus|vidimus|R|N
+viduity	noun	viduity|viduity|R|N
+vielle	noun	vielle|vielle|R|N
+viewed	verb	view|view|R|V ; -ed|ed|I||-ed (v2)
+viewership	noun	view|view|R|V ; -er|er|S||-er (N) ; -ship|ship|S
+viewless	adj	view|view|R|N ; -less|less|S
+vigesimal	adj	vigesimal|vigesimal|R|Adj
+vigia	noun	vigia|vigia|R|N
+vigintillion	noun	vigintillion|vigintillion|R|N
+vigneron	noun	vigneron|vigneron|R|N
+vignetter	noun	vignette|vignett|R|N ; -er|er|S||-er (N)
+vignetting	noun	vignette|vignett|R|V ; -ing|ing|S||-ing (N)
+vignettist	noun	vignette|vignett|R|N ; -ist|ist|S
+vigoroso	adv	vigoroso|vigoroso|R|Adv
+vigorousness	noun	vigorous|vigorous|R|Adj ; -ness|ness|S
+vijnana	noun	vijnana|vijnana|R|N
+vila	noun	vila|vila|R|N
+vilayet	noun	vilayet|vilayet|R|N
+vilifier	noun	vilify|vilifi|R|V ; -er|er|S||-er (N)
+vilipend	verb	vilipend|vilipend|R|V
+vill	noun	vill|vill|R|N
+villadom	noun	villa|villa|R|N ; -dom|dom|S
+villainously	adv	villain|villain|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+villainousness	noun	villain|villain|R|N ; -ous|ous|S ; -ness|ness|S
+villakin	noun	villakin|villakin|R|N
+villancico	noun	villancico|villancico|R|N
+villeggiatura	noun	villeggiatura|villeggiatura|R|N
+villeinage	noun	villein|villein|R|N ; -age|age|S
+villin	noun	villin|villin|R|N
+villosity	noun	villous|vill|R|Adj ; -osity|osity|S
+villously	adv	villous|villous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+villus	noun	villus|villus|R|N
+vimen	noun	vimen|vimen|R|N
+viminal	adj	viminal|viminal|R|Adj
+vimineous	adj	vimineous|vimineous|R|Adj
+vinaceous	adj	vinaceous|vinaceous|R|Adj
+vinasse	noun	vinasse|vinasse|R|N
+vinaya	noun	vinaya|vinaya|R|N
+vincible	adj	vincible|vincible|R|Adj
+vinculum	noun	vinculum|vinculum|R|N
+vindicability	noun	vindicable|vindicabil|R|Adj ; -ity|ity|S
+vindicable	adj	vindicate|vindic|R|V ; -able|able|S
+vindicative	adj	vindicate|vindicat|R|V ; -ive|ive|S
+vindicatory	adj	vindicate|vindicat|R|V ; -ory|ory|S
+vindictively	adv	vindicate|vindict|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+vineal	adj	vine|vine|R|N ; -al|al|S
+vinegarish	adj	vinegar|vinegar|R|N ; -ish|ish|S
+vinegaroon	noun	vinegaroon|vinegaroon|R|N
+vinegret	noun	vinegret|vinegret|R|N
+vinery	noun	vine|vin|R|N ; -ery|ery|S
+vinicultural	adj	viniculture|vinicultur|R|N ; -al|al|S
+viniculture	noun	viniculture|viniculture|R|N
+viniculturist	noun	viniculture|vinicultur|R|N ; -ist|ist|S
+viniferous	adj	viniferous|viniferous|R|Adj
+vinify	verb	wine|vin|R|N ; -ify|ify|S
+vinok	noun	vinok|vinok|R|N
+vinolence	noun	vinolent|vinol|R|Adj ; -ence|ence|S
+vinolent	adj	vinolent|vinolent|R|Adj
+vinose	adj	vinose|vinose|R|Adj
+vinous	adj	wine|vin|R|N ; -ous|ous|S
+vinously	adv	wine|vin|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+vint	verb	vint|vint|R|V
+vintager	noun	vintage|vintag|R|N ; -er|er|S||-er (N)
+vintaging	noun	vintage|vintag|R|V ; -ing|ing|S||-ing (N)
+vintnery	noun	vintner|vintner|R|N ; -y|y|S
+viny	adj	vine|vin|R|N ; -y|y|S
+vinylic	adj	vinyl|vinyl|R|N ; -ic|ic|S
+vinylon	noun	vinylon|vinylon|R|N
+violability	noun	violable|violabil|R|Adj ; -ity|ity|S
+violable	adj	violate|viol|R|V ; -able|able|S
+violableness	noun	violate|viol|R|V ; -able|able|S ; -ness|ness|S
+violably	adv	violate|viol|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+violaceous	adj	violaceous|violaceous|R|Adj
+violinistic	adj	violin|violin|R|N ; -ist|ist|S ; -ic|ic|S
+violoncellist	noun	violoncello|violoncell|R|N ; -ist|ist|S
+violoncello	noun	violoncello|violoncello|R|N
+vipassana	noun	vipassana|vipassana|R|N
+viperine	adj	viperine|viperine|R|Adj
+viperish	adj	viper|viper|R|N ; -ish|ish|S
+viperous	adj	viper|viper|R|N ; -ous|ous|S
+viperously	adv	viper|viper|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+viraemia	noun	viraemia|viraemia|R|N
+viraginian	adj	viraginian|viraginian|R|Adj
+viraginous	adj	viraginous|viraginous|R|Adj
+virally	adv	viral|viral|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+virama	noun	virama|virama|R|N
+virescence	noun	virescent|viresc|R|Adj ; -ence|ence|S
+virginally	adv	virgin|virgin|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+virginhood	noun	virgin|virgin|R|N ; -hood|hood|S
+virgule	noun	virgule|virgule|R|N
+viricide	noun	viricide|viricide|R|N
+virid	adj	virid|virid|R|Adj
+viridescence	noun	viridescent|viridesc|R|Adj ; -ence|ence|S
+viridescent	adj	viridescent|viridescent|R|Adj
+viridity	noun	virid|virid|R|Adj ; -ity|ity|S
+virilescence	noun	virilescent|virilesc|R|Adj ; -ence|ence|S
+virilescent	adj	virilescent|virilescent|R|Adj
+virilism	noun	virile|viril|R|Adj ; -ism|ism|S
+virion	noun	virion|virion|R|N
+viroid	noun	viroid|viroid|R|N
+virological	adj	virology|virolog|R|N ; -ical|ical|S
+virose	adj	virose|virose|R|Adj
+virovore	noun	virovore|virovore|R|N
+virtualization	noun	virtual|virtual|R|Adj ; -ize|iz|S ; -ation|ation|S
+virtueless	adj	virtue|virtue|R|N ; -less|less|S
+virtuosa	noun	virtuosa|virtuosa|R|N
+virtuose	adj	virtuose|virtuose|R|Adj
+virtuosically	adv	virtuoso|virtuos|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+virtuousness	noun	virtue|virtu|R|N ; -ous|ous|S ; -ness|ness|S
+vis	noun	vis|vis|R|N
+visaless	adj	visa|visa|R|N ; -less|less|S
+visard	noun	visard|visard|R|N
+visarga	noun	visarga|visarga|R|N
+viscacha	noun	viscacha|viscacha|R|N
+viscid	adj	viscid|viscid|R|Adj
+viscidity	noun	viscid|viscid|R|Adj ; -ity|ity|S
+viscidly	adv	viscid|viscid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+viscidness	noun	viscid|viscid|R|Adj ; -ness|ness|S
+viscometer	noun	viscometer|viscometer|R|N
+viscometric	adj	viscometer|viscometr|R|N ; -ic|ic|S
+viscometry	noun	viscometry|viscometry|R|N
+viscosimeter	noun	viscosimeter|viscosimeter|R|N
+viscountcy	noun	viscount|viscount|R|N ; -cy|cy|S
+viscountship	noun	viscount|viscount|R|N ; -ship|ship|S
+viscounty	noun	viscount|viscount|R|N ; -y|y|S

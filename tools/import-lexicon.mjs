@@ -9,8 +9,8 @@ if (ADV) args.shift();
 const [outDir, rejFile, ...files] = args;
 const CODES = new Set(["P", "R", "B", "S", "I"]);
 const POS = new Set(["noun", "verb", "adj", "adv", "prep", "pron", "det", "conj", "interj", "?"]);
-const PREFIXES = new Set("a an anti auto be bi by co com con contra counter de dis en ex extra fore hyper hypo il im in inter intra ir mal micro mid mis mono multi non out over para poly post pre pro per ad ac pseudo re semi sub super tele trans tri un under uni up with".split(" "));
-const SUFFIXES = new Set("s es 's s' ed en ing er est ly ness ment tion sion ation ition ion ity ty ive ative itive ous ious eous al ial ual ful less able ible ist ism ize ise ify fy ish y hood ship dom ward wise ant ent ance ence ancy ency ary ory ic ical ure age ee eer ette let ling ster some like th ery ry or ess ate cy ian an ren".split(" "));
+const PREFIXES = new Set("a an anti auto be bi by co com con contra counter de dis en ex extra fore hyper hypo il im in inter intra ir mal micro mid mis mono multi non out over para poly post pre pro per ad ac em col cor af ag al ap ar as at ef ob oc of op ab suf sup sur down pseudo re semi sub super tele trans tri un under uni up with".split(" "));
+const SUFFIXES = new Set("s es 's s' ed en ing er est ly ness ment tion sion ation ition ion ity ty ive ative itive ous ious eous al ial ual ful less able ible ist ism ize ise ify fy ish y hood ship dom ward wise ant ent ance ence ancy ency ary ory ic ical ure age ee eer ette let ling ster some like th ery ry or ess ate cy ian an ren ar ific ator osity uous ular ose esque atory ite ient acy icity ience arian eal".split(" "));
 const INFL_VAR = /\((v|v2|adv|comparative|superlative|plural|3sg|participle)\)$/;
 
 function check(word, pos, ms) {
@@ -39,7 +39,10 @@ function check(word, pos, ms) {
     if (nx.surface === "") return;                                              // zero morpheme: irregular form (mice, went)
     const a = m.surface, b = m.form;
     const truncation = b.startsWith(a) && a.length >= 3 && b.length - a.length <= 3 && /^[aeiouy]/.test(nx.surface);   // religion → religi + ous (final segment truncated)
-    const regular = truncation || b.slice(0, -1) === a && b.endsWith("e") || b.slice(0, -1) + "i" === a && b.endsWith("y") || a === b
+    const doubled = a.length === b.length + 1 && a.startsWith(b) && a[a.length - 1] === b[b.length - 1];                         // map → mapp + ing
+    let cp = 0; while (cp < a.length && cp < b.length && a[cp] === b[cp]) cp++;
+    const latinate = cp >= 3 && b.length - cp <= 3 && a.length - cp <= 3 && LATINATE.has(nx.form.replace(/^-/, ""));          // apprehend → apprehens + ive
+    const regular = truncation || doubled || latinate || b.slice(0, -1) === a && b.endsWith("e") || b.slice(0, -1) + "i" === a && b.endsWith("y") || a === b
       || (b.endsWith("le") && b.slice(0, -2) + "i" === a.slice(0, -1) && a.endsWith("l") && nx.surface === "ity")      // able → abil + ity
       || (b.endsWith("le") && b.slice(0, -2) === a && nx.form === "-ly")                                              // simple → simp + ly
       || (b.endsWith("ll") && b.slice(0, -1) === a && nx.form === "-ly")                                              // full → ful + ly
@@ -55,8 +58,10 @@ function check(word, pos, ms) {
 }
 
 // Fossilised derivations: one morpheme, whatever the AI proposed (see "Core principle" in MUSE-PROMPT.md).
+const LATINATE = new Set("ive ible able ion tion sion ation ition ant ent ate or ory atory ee ic ical ity cy ism ist al ial ous ious eous ence ance ency ancy ify ize ise ure ular ar ator".split(" "));
 const FOSSIL = new Set("scientist scientific health wealth stealth filth gift depth width truth length strength youth flight height weight lawyer service justice agency entry ministry introduce northern southern eastern western".split(" "));
 const CAT = { noun: "N", verb: "V", adj: "Adj", adv: "Adv" };
+const MANUAL = new Set(fs.existsSync("lexicon-adv-src/out-adv-zz-manual.txt") ? fs.readFileSync("lexicon-adv-src/out-adv-zz-manual.txt", "utf8").split("\n").map(l => l.split("\t")[0]).filter(Boolean) : []);
 const lex = new Map(), rejected = [];
 let lines = 0, dup = 0;
 for (const f of files) {
@@ -97,10 +102,21 @@ for (let pass = 0; pass < (ADV ? 0 : 5); pass++) {
   }
   if (!changed) break;
 }
+// Advanced layer: a bound root must recur (at least 3 words) or the cut is dropped. The word falls back to the basic cut.
+const pruned = [];
+if (ADV) {
+  const MIN = 3, norm = f => f.replace(/-/g, "").toLowerCase(), uses = new Map();
+  for (const [w, v] of lex) for (const m of parse(v.split("\t")[1])) if (m.code === "B") (uses.get(norm(m.form)) || uses.set(norm(m.form), new Set()).get(norm(m.form))).add(w);
+  for (const [w, v] of [...lex]) {
+    const weak = parse(v.split("\t")[1]).filter(m => m.code === "B" && uses.get(norm(m.form)).size < MIN).map(m => m.form);
+    if (weak.length && !MANUAL.has(w)) { lex.delete(w); pruned.push(w + "\t" + weak.join(",")); }
+  }
+  fs.writeFileSync(rejFile.replace(/\.txt$/, "") + "-pruned.txt", pruned.join("\n") + "\n");
+}
 const shards = {};
 for (const [w, v] of lex) (shards[w.slice(0, 2)] ||= {})[w] = v;
 fs.mkdirSync(outDir, { recursive: true });
 for (const [k, o] of Object.entries(shards)) fs.writeFileSync(`${outDir}/${k}.json`, JSON.stringify(o));
 fs.writeFileSync(rejFile, rejected.join("\n") + (rejected.length ? "\n" : ""));
 const multi = [...lex.values()].filter(v => v.includes(" ; ")).length;
-console.log(`${lines} lines, ${lex.size} accepted (${multi} cut into 2+ morphemes), ${rejected.length} rejected, ${dup} duplicates, ${expanded} roots expanded to their own root, ${Object.keys(shards).length} shards`);
+console.log(`${lines} lines, ${lex.size} accepted (${multi} cut into 2+ morphemes), ${rejected.length} rejected, ${dup} duplicates, ${pruned.length} weak advanced cuts dropped, ${expanded} roots expanded to their own root, ${Object.keys(shards).length} shards`);

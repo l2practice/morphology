@@ -1,0 +1,200 @@
+fylfot	noun	fylfot|fylfot|R|N
+fyrd	noun	fyrd|fyrd|R|N
+gabapentin	noun	gabapentin|gabapentin|R|N
+gabber	noun	gab|gabb|R|V ; -er|er|S||-er (N)
+gabbler	noun	gabble|gabbl|R|V ; -er|er|S||-er (N)
+gabbling	verb	gabble|gabbl|R|V ; -ing|ing|I||-ing (v)
+gabbro	noun	gabbro|gabbro|R|N
+gabbroic	adj	gabbro|gabbro|R|N ; -ic|ic|S
+gabelle	noun	gabelle|gabelle|R|N
+gabfest	noun	gab|gab|R|V ; fest|fest|R|N
+gabion	noun	gabion|gabion|R|N
+gabionade	noun	gabionade|gabionade|R|N
+gablet	noun	gablet|gablet|R|N
+gablock	noun	gablock|gablock|R|N
+gac	noun	gac|gac|R|N
+gadabout	noun	gad|gad|R|V ; about|about|R|Adv
+gadbee	noun	gad|gad|R|N ; bee|bee|R|N
+gadder	noun	gad|gadd|R|V ; -er|er|S||-er (N)
+gadding	verb	gad|gadd|R|V ; -ing|ing|I||-ing (v)
+gadgety	adj	gadget|gadget|R|N ; -y|y|S
+gadje	noun	gadje|gadje|R|N
+gadoid	adj	gadoid|gadoid|R|Adj
+gadroon	noun	gadroon|gadroon|R|N
+gaffing	verb	gaff|gaff|R|V ; -ing|ing|I||-ing (v)
+gaffle	noun	gaffle|gaffle|R|N
+gaffsail	noun	gaff|gaff|R|N ; sail|sail|R|N
+gagged	verb	gag|gagg|R|V ; -ed|ed|I||-ed (v2)
+gagger	noun	gag|gagg|R|V ; -er|er|S||-er (N)
+gahnite	noun	gahnite|gahnite|R|N
+gaillardia	noun	gaillardia|gaillardia|R|N
+gainable	adj	gain|gain|R|V ; -able|able|S
+gainly	adj	gainly|gainly|R|Adj
+gains	noun	gain|gain|R|N ; -s|s|I||-s (plural)
+gainsaying	verb	gain|gain|R|V ; say|say|R|V ; -ing|ing|I||-ing (v)
+gainst	prep	gainst|gainst|R
+gaited	adj	gait|gait|R|N ; -ed|ed|S||-ed (adj)
+gaiwan	noun	gaiwan|gaiwan|R|N
+galactagogue	noun	galactagogue|galactagogue|R|N
+galactocentric	adj	galactocentric|galactocentric|R|Adj
+galactophorous	adj	galactophorous|galactophorous|R|Adj
+galactopoiesis	noun	galactopoiesis|galactopoiesis|R|N
+galactopoietic	adj	galactopoietic|galactopoietic|R|Adj
+galactorrhea	noun	galactorrhea|galactorrhea|R|N
+galactose	noun	galactose|galactose|R|N
+galago	noun	galago|galago|R|N
+galah	noun	galah|galah|R|N
+galangal	noun	galangal|galangal|R|N
+galantamine	noun	galantamine|galantamine|R|N
+galantine	noun	galantine|galantine|R|N
+galbanum	noun	galbanum|galbanum|R|N
+galder	noun	galder|galder|R|N
+galea	noun	galea|galea|R|N
+galeate	adj	galea|gale|R|N ; -ate|ate|S
+galeiform	adj	galeiform|galeiform|R|Adj
+galenic	adj	galenic|galenic|R|Adj
+galenical	noun	galenical|galenical|R|N
+galeophobia	noun	galeophobia|galeophobia|R|N
+galge	noun	galge|galge|R|N
+galimatias	noun	galimatias|galimatias|R|N
+galingale	noun	galingale|galingale|R|N
+galipot	noun	galipot|galipot|R|N
+gallamine	noun	gallamine|gallamine|R|N
+gallate	noun	gall|gall|R|N ; -ate|ate|S
+galleass	noun	galleass|galleass|R|N
+galled	verb	gall|gall|R|V ; -ed|ed|I||-ed (v2)
+gallerist	noun	gallery|galler|R|N ; -ist|ist|S
+gallet	noun	gallet|gallet|R|N
+galliard	noun	galliard|galliard|R|N
+gallicize	verb	gallic|gallic|R|Adj ; -ize|ize|S
+galliform	adj	galliform|galliform|R|Adj
+gallimaufry	noun	gallimaufry|gallimaufry|R|N
+gallinaceous	adj	gallinaceous|gallinaceous|R|Adj
+gallinule	noun	gallinule|gallinule|R|N
+galliot	noun	galliot|galliot|R|N
+gallipot	noun	gallipot|gallipot|R|N
+gallivanting	verb	gallivant|gallivant|R|V ; -ing|ing|I||-ing (v)
+gallivat	noun	gallivat|gallivat|R|N
+gallnut	noun	gall|gall|R|N ; nut|nut|R|N
+gallonage	noun	gallon|gallon|R|N ; -age|age|S
+galloon	noun	galloon|galloon|R|N
+gallopade	noun	gallopade|gallopade|R|N
+galloper	noun	gallop|gallop|R|V ; -er|er|S||-er (N)
+galloway	noun	galloway|galloway|R|N
+galluses	noun	gallus|gallus|R|N ; -es|es|I||-s (plural)
+gally	verb	gally|gally|R|V
+galoot	noun	galoot|galoot|R|N
+galop	noun	galop|galop|R|N
+galoshed	adj	galosh|galosh|R|N ; -ed|ed|S||-ed (adj)
+galumphing	verb	galumph|galumph|R|V ; -ing|ing|I||-ing (v)
+galvanically	adv	galvanic|galvanic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+galvanism	noun	galvanism|galvanism|R|N
+galvanist	noun	galvanist|galvanist|R|N
+galvanization	noun	galvanize|galvaniz|R|V ; -ation|ation|S
+galvanocautery	noun	galvanocautery|galvanocautery|R|N
+galvanography	noun	galvanography|galvanography|R|N
+galvanoluminescence	noun	galvanoluminescence|galvanoluminescence|R|N
+galvanomagnetism	noun	galvanomagnetism|galvanomagnetism|R|N
+galvanometer	noun	galvanometer|galvanometer|R|N
+galvanometry	noun	galvanometry|galvanometry|R|N
+galvanoplastic	adj	galvanoplastic|galvanoplastic|R|Adj
+galvanoplasty	noun	galvanoplasty|galvanoplasty|R|N
+galvanoscope	noun	galvanoscope|galvanoscope|R|N
+galvanotropism	noun	galvanotropism|galvanotropism|R|N
+gambado	noun	gambado|gambado|R|N
+gambeson	noun	gambeson|gambeson|R|N
+gambier	noun	gambier|gambier|R|N
+gambist	noun	gamba|gamb|R|N ; -ist|ist|S
+gambrel	noun	gambrel|gambrel|R|N
+gambusia	noun	gambusia|gambusia|R|N
+gameboard	noun	game|game|R|N ; board|board|R|N
+gamebook	noun	game|game|R|N ; book|book|R|N
+gameful	adj	game|game|R|N ; -ful|ful|S
+gameness	noun	game|game|R|Adj ; -ness|ness|S
+gamepad	noun	game|game|R|N ; pad|pad|R|N
+gamesome	adj	game|game|R|N ; -some|some|S
+gamesomeness	noun	game|game|R|N ; -some|some|S ; -ness|ness|S
+gamester	noun	game|game|R|N ; -ster|ster|S
+gametal	adj	gamete|gamet|R|N ; -al|al|S
+gametangium	noun	gametangium|gametangium|R|N
+gametic	adj	gamete|gamet|R|N ; -ic|ic|S
+gametocyte	noun	gametocyte|gametocyte|R|N
+gametogenesis	noun	gametogenesis|gametogenesis|R|N
+gametogeny	noun	gametogeny|gametogeny|R|N
+gametophobia	noun	gametophobia|gametophobia|R|N
+gametophore	noun	gametophore|gametophore|R|N
+gamey	adj	game|game|R|N ; -y|y|S
+gamic	adj	gamic|gamic|R|Adj
+gamification	noun	gamify|gamifi|R|V ; -ation|cation|S
+gamify	verb	game|gam|R|N ; -ify|ify|S
+gamin	noun	gamin|gamin|R|N
+gammoning	verb	gammon|gammon|R|V ; -ing|ing|I||-ing (v)
+gammy	adj	gammy|gammy|R|Adj
+gamodeme	noun	gamodeme|gamodeme|R|N
+gamogenesis	noun	gamogenesis|gamogenesis|R|N
+gamogenetic	adj	gamogenetic|gamogenetic|R|Adj
+gamogony	noun	gamogony|gamogony|R|N
+gamont	noun	gamont|gamont|R|N
+gamopetalous	adj	gamopetalous|gamopetalous|R|Adj
+gamophyllous	adj	gamophyllous|gamophyllous|R|Adj
+gamp	noun	gamp|gamp|R|N
+ganch	verb	ganch|ganch|R|V
+gandaria	noun	gandaria|gandaria|R|N
+gandharva	noun	gandharva|gandharva|R|N
+gangbang	noun	gang|gang|R|N ; bang|bang|R|V
+gangboard	noun	gang|gang|R|N ; board|board|R|N
+ganger	noun	gang|gang|R|N ; -er|er|S||-er (N)
+ganging	verb	gang|gang|R|V ; -ing|ing|I||-ing (v)
+gangliate	adj	gangliate|gangliate|R|Adj
+gangliocyte	noun	gangliocyte|gangliocyte|R|N
+ganglionated	adj	ganglion|ganglion|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+ganglionic	adj	ganglion|ganglion|R|N ; -ic|ic|S
+gangrened	verb	gangrene|gangren|R|V ; -ed|ed|I||-ed (v2)
+gangue	noun	gangue|gangue|R|N
+ganguro	noun	ganguro|ganguro|R|N
+ganister	noun	ganister|ganister|R|N
+ganoid	adj	ganoid|ganoid|R|Adj
+gaokao	noun	gaokao|gaokao|R|N
+gaolbreak	noun	gaol|gaol|R|N ; break|break|R|V
+gaoling	verb	gaol|gaol|R|V ; -ing|ing|I||-ing (v)
+gaper	noun	gape|gap|R|V ; -er|er|S||-er (N)
+gapes	noun	gape|gap|R|N ; -es|es|I||-s (plural)
+gapped	verb	gap|gapp|R|V ; -ed|ed|I||-ed (v2)
+gapping	verb	gap|gapp|R|V ; -ing|ing|I||-ing (v)
+gappy	adj	gap|gapp|R|V ; -y|y|S
+gar	noun	gar|gar|R|N
+garaged	verb	garage|garag|R|V ; -ed|ed|I||-ed (v2)
+garaging	noun	garage|garag|R|N ; -ing|ing|S||-ing (N)
+garbed	verb	garb|garb|R|V ; -ed|ed|I||-ed (v2)
+garbhagriha	noun	garbhagriha|garbhagriha|R|N
+garbling	verb	garble|garbl|R|V ; -ing|ing|I||-ing (v)
+garbo	noun	garbo|garbo|R|N
+garboard	noun	garboard|garboard|R|N
+garbologist	noun	garbology|garbolog|R|N ; -ist|ist|S
+garcinia	noun	garcinia|garcinia|R|N
+gardenburger	noun	garden|garden|R|N ; burger|burger|R|N
+gardened	verb	garden|garden|R|V ; -ed|ed|I||-ed (v2)
+garderobe	noun	garderobe|garderobe|R|N
+garefowl	noun	garefowl|garefowl|R|N
+garfish	noun	gar|gar|R|N ; fish|fish|R|N
+garganey	noun	garganey|garganey|R|N
+garget	noun	garget|garget|R|N
+gargety	adj	garget|garget|R|N ; -y|y|S
+gargling	verb	gargle|gargl|R|V ; -ing|ing|I||-ing (v)
+garishness	noun	garish|garish|R|Adj ; -ness|ness|S
+garlanding	verb	garland|garland|R|V ; -ing|ing|I||-ing (v)
+garmon	noun	garmon|garmon|R|N
+garnering	verb	garner|garner|R|V ; -ing|ing|I||-ing (v)
+garnetiferous	adj	garnetiferous|garnetiferous|R|Adj
+garnierite	noun	garnierite|garnierite|R|N
+garnishee	noun	garnish|garnish|R|V ; -ee|ee|S
+garnishing	verb	garnish|garnish|R|V ; -ing|ing|I||-ing (v)
+garniture	noun	garniture|garniture|R|N
+garpike	noun	gar|gar|R|N ; pike|pike|R|N
+garreteer	noun	garret|garret|R|N ; -eer|eer|S
+garrigue	noun	garrigue|garrigue|R|N
+garrot	noun	garrot|garrot|R|N
+garrulity	noun	garrulous|garrul|R|Adj ; -ity|ity|S
+garrulously	adv	garrulous|garrulous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+garrulousness	noun	garrulous|garrulous|R|Adj ; -ness|ness|S
+garrupa	noun	garrupa|garrupa|R|N

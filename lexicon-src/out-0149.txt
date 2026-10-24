@@ -1,0 +1,200 @@
+ligature	noun	ligature|ligature|R|N
+outspokenness	noun	out-|out|P ; spoken|spoken|R|Adj ; -ness|ness|S
+investigatory	adj	investigate|investigat|R|V ; -ory|ory|S
+sot	noun	sot|sot|R|N
+iconoclasm	noun	iconoclasm|iconoclasm|R|N
+transfect	verb	transfect|transfect|R|V
+sigmoidoscopy	noun	sigmoidoscopy|sigmoidoscopy|R|N
+unmentionable	adj	un-|un|P ; mention|mention|R|V ; -able|able|S
+gastroscopy	noun	gastroscopy|gastroscopy|R|N
+gristle	noun	gristle|gristle|R|N
+multicellular	adj	multi-|multi|P ; cellular|cellular|R|Adj
+integrin	noun	integrin|integrin|R|N
+goulash	noun	goulash|goulash|R|N
+hardhat	noun	hard|hard|R|Adj ; hat|hat|R|N
+unvarying	adj	un-|un|P ; vary|vary|R|V ; -ing|ing|S||-ing (adj)
+diagenetic	adj	diagenetic|diagenetic|R|Adj
+perchance	adv	per-|per|P ; chance|chance|R|N
+cornflower	noun	corn|corn|R|N ; flower|flower|R|N
+deductibility	noun	de-|de|P ; -duct|duct|B|V ; -ible|ibil|S ; -ity|ity|S
+riskless	adj	risk|risk|R|N ; -less|less|S
+bromeliad	noun	bromeliad|bromeliad|R|N
+reductivist	noun	re-|re|P ; -duct|duct|B|V ; -ive|iv|S ; -ist|ist|S
+egomaniac	noun	ego|ego|R|N ; maniac|maniac|R|N
+lysozyme	noun	lysozyme|lysozyme|R|N
+leukocyte	noun	leukocyte|leukocyte|R|N
+sanitizer	noun	sanitize|sanitiz|R|V ; -er|er|S||-er (N)
+amphora	noun	amphora|amphora|R|N
+sandlot	noun	sand|sand|R|N ; lot|lot|R|N
+valedictory	adj	valedictory|valedictory|R|Adj
+verderer	noun	verderer|verderer|R|N
+catastrophically	adv	catastrophe|catastroph|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+thrombolytic	adj	thrombolytic|thrombolytic|R|Adj
+dolt	noun	dolt|dolt|R|N
+heterosexism	noun	heterosexism|heterosexism|R|N
+douche	noun	douche|douche|R|N
+fingering	noun	finger|finger|R|N ; -ing|ing|S||-ing (N)
+menthol	noun	menthol|menthol|R|N
+novitiate	noun	novitiate|novitiate|R|N
+ester	noun	ester|ester|R|N
+homeopath	noun	homeopath|homeopath|R|N
+rigatoni	noun	rigatoni|rigatoni|R|N
+enviously	adv	envy|envi|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+fiendishly	adv	fiend|fiend|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+apoptosis	noun	apoptosis|apoptosis|R|N
+clacking	noun	clack|clack|R|V ; -ing|ing|S||-ing (N)
+anadromous	adj	anadromous|anadromous|R|Adj
+warpath	noun	war|war|R|N ; path|path|R|N
+thalidomide	noun	thalidomide|thalidomide|R|N
+operationalization	noun	operate|operat|R|V ; -ion|ion|S ; -al|al|S ; -ize|iz|S ; -ation|ation|S
+eyeful	noun	eye|eye|R|N ; -ful|ful|S
+orthopedics	noun	orthopedics|orthopedics|R|N
+chargee	noun	charge|charg|R|V ; -ee|ee|S
+ephedrine	noun	ephedrine|ephedrine|R|N
+respectably	adv	respect|respect|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+showboat	noun	show|show|R|V ; boat|boat|R|N
+neonate	noun	neonate|neonate|R|N
+isoform	noun	isoform|isoform|R|N
+wakeful	adj	wake|wake|R|V ; -ful|ful|S
+boasting	noun	boast|boast|R|V ; -ing|ing|S||-ing (N)
+closeted	adj	closet|closet|R|N ; -ed|ed|S||-ed (adj)
+jejunum	noun	jejunum|jejunum|R|N
+cadaveric	adj	cadaver|cadaver|R|N ; -ic|ic|S
+uncommunicative	adj	un-|un|P ; communicate|communicat|R|V ; -ive|ive|S
+curdled	adj	curdle|curdl|R|V ; -ed|ed|S||-ed (adj)
+inked	adj	ink|ink|R|N ; -ed|ed|S||-ed (adj)
+clairvoyant	noun	clairvoyant|clairvoyant|R|N
+creditworthiness	noun	credit|credit|R|N ; worth|worth|R ; -y|i|S ; -ness|ness|S
+acinar	adj	acinar|acinar|R|Adj
+zealotry	noun	zealot|zealot|R|N ; -ry|ry|S
+rubella	noun	rubella|rubella|R|N
+expansiveness	noun	expanse|expans|R|N ; -ive|ive|S ; -ness|ness|S
+nubby	adj	nub|nubb|R|N ; -y|y|S
+brokenness	noun	broken|broken|R|Adj ; -ness|ness|S
+helicobacter	noun	helicobacter|helicobacter|R|N
+unexciting	adj	un-|un|P ; excite|excit|R|V ; -ing|ing|S||-ing (adj)
+colectomy	noun	colectomy|colectomy|R|N
+hairnet	noun	hair|hair|R|N ; net|net|R|N
+antrum	noun	antrum|antrum|R|N
+exfoliate	verb	ex-|ex|P ; foliate|foliate|R|V
+anastomosis	noun	anastomosis|anastomosis|R|N
+chignon	noun	chignon|chignon|R|N
+stipple	verb	stipple|stipple|R|V
+intraluminal	adj	intra-|intra|P ; luminal|luminal|R|Adj
+pretended	adj	pretend|pretend|R|V ; -ed|ed|S||-ed (adj)
+reproducibility	noun	re-|re|P ; pro-|pro|P ; -duce|duc|B|V ; -ible|ibil|S ; -ity|ity|S
+stratus	noun	stratus|stratus|R|N
+stereotypic	adj	stereotype|stereotyp|R|N ; -ic|ic|S
+gofer	noun	gofer|gofer|R|N
+deputize	verb	deputy|deput|R|N ; -ize|ize|S
+ecclesiological	adj	ecclesiological|ecclesiological|R|Adj
+rifting	noun	rift|rift|R|N ; -ing|ing|S||-ing (N)
+imperturbable	adj	im-|im|P|||in- ; perturb|perturb|R|V ; -able|able|S
+fingerprinting	noun	finger|finger|R|N ; print|print|R|V ; -ing|ing|S||-ing (N)
+cerebrospinal	adj	cerebrospinal|cerebrospinal|R|Adj
+mesenchyme	noun	mesenchyme|mesenchyme|R|N
+neologism	noun	neologism|neologism|R|N
+contig	noun	contig|contig|R|N
+prioress	noun	prior|prior|R|N ; -ess|ess|S
+thieving	noun	thieve|thiev|R|V ; -ing|ing|S||-ing (N)
+creditworthy	adj	credit|credit|R|N ; worth|worth|R ; -y|y|S
+streamliner	noun	stream|stream|R|N ; line|lin|R|V ; -er|er|S||-er (N)
+druthers	noun	druthers|druthers|R|N
+papillomavirus	noun	papillomavirus|papillomavirus|R|N
+compartmentalization	noun	compartment|compartment|R|N ; -al|al|S ; -ize|iz|S ; -ation|ation|S
+sharer	noun	share|shar|R|V ; -er|er|S||-er (N)
+pinion	noun	pinion|pinion|R|N
+interactively	adv	interact|interact|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+lysosomal	adj	lysosome|lysosom|R|N ; -al|al|S
+brushless	adj	brush|brush|R|N ; -less|less|S
+enalapril	noun	enalapril|enalapril|R|N
+dizzily	adv	dizzy|dizzi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+candleholder	noun	candle|candle|R|N ; hold|hold|R|V ; -er|er|S||-er (N)
+sexualize	verb	sexual|sexual|R|Adj ; -ize|ize|S
+muezzin	noun	muezzin|muezzin|R|N
+endolymphatic	adj	endolymphatic|endolymphatic|R|Adj
+triticale	noun	triticale|triticale|R|N
+grisaille	noun	grisaille|grisaille|R|N
+nouveau	adj	nouveau|nouveau|R|Adj
+endonuclease	noun	endonuclease|endonuclease|R|N
+provincialism	noun	province|provinc|R|N ; -ial|ial|S ; -ism|ism|S
+crystallite	noun	crystallite|crystallite|R|N
+myeloma	noun	myeloma|myeloma|R|N
+mesclun	noun	mesclun|mesclun|R|N
+crunching	noun	crunch|crunch|R|V ; -ing|ing|S||-ing (N)
+biometrics	noun	biometrics|biometrics|R|N
+lanyard	noun	lanyard|lanyard|R|N
+waybill	noun	way|way|R|N ; bill|bill|R|N
+somatostatin	noun	somatostatin|somatostatin|R|N
+procedurally	adv	procedure|procedur|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+woodcutter	noun	wood|wood|R|N ; cut|cutt|R|V ; -er|er|S||-er (N)
+trifecta	noun	trifecta|trifecta|R|N
+autochthonous	adj	autochthonous|autochthonous|R|Adj
+taekwondo	noun	taekwondo|taekwondo|R|N
+swordsman	noun	swords|swords|R|N ; man|man|R|N
+polemicist	noun	polemic|polemic|R|N ; -ist|ist|S
+prosthetist	noun	prosthetic|prosthet|R|Adj ; -ist|ist|S
+sophistry	noun	sophist|sophist|R|N ; -ry|ry|S
+camshaft	noun	cam|cam|R|N ; shaft|shaft|R|N
+laterality	noun	lateral|lateral|R|Adj ; -ity|ity|S
+psychotherapeutic	adj	psychotherapeutic|psychotherapeutic|R|Adj
+regimentation	noun	regiment|regiment|R|N ; -ation|ation|S
+falsifiable	adj	falsify|falsifi|R|V ; -able|able|S
+groaning	noun	groan|groan|R|V ; -ing|ing|S||-ing (N)
+firetruck	noun	fire|fire|R|N ; truck|truck|R|N
+maraschino	noun	maraschino|maraschino|R|N
+terminated	adj	terminate|terminat|R|V ; -ed|ed|S||-ed (adj)
+snatcher	noun	snatch|snatch|R|V ; -er|er|S||-er (N)
+regionalization	noun	region|region|R|N ; -al|al|S ; -ize|iz|S ; -ation|ation|S
+spangle	noun	spangle|spangle|R|N
+cultic	adj	cult|cult|R|N ; -ic|ic|S
+stator	noun	stator|stator|R|N
+discharger	noun	discharge|discharg|R|V ; -er|er|S||-er (N)
+klutz	noun	klutz|klutz|R|N
+trashed	adj	trash|trash|R|N ; -ed|ed|S||-ed (adj)
+abruptness	noun	abrupt|abrupt|R|Adj ; -ness|ness|S
+breezeway	noun	breeze|breeze|R|N ; way|way|R|N
+holist	noun	holist|holist|R|N
+dovish	adj	dove|dov|R|N ; -ish|ish|S
+photoelectric	adj	photoelectric|photoelectric|R|Adj
+exploitable	adj	exploit|exploit|R|V ; -able|able|S
+becalmed	adj	be-|be|P ; calm|calm|R|Adj ; -ed|ed|S||-ed (adj)
+chine	noun	chine|chine|R|N
+germanium	noun	germanium|germanium|R|N
+emancipated	adj	emancipate|emancipat|R|V ; -ed|ed|S||-ed (adj)
+sepoy	noun	sepoy|sepoy|R|N
+soba	noun	soba|soba|R|N
+arborist	noun	arbor|arbor|R|N ; -ist|ist|S
+fon	noun	fon|fon|R|N
+uncheck	verb	un-|un|P ; check|check|R|V
+jejunal	adj	jejunal|jejunal|R|Adj
+oratorio	noun	oratorio|oratorio|R|N
+eugenic	adj	eugenic|eugenic|R|Adj
+cochlea	noun	cochlea|cochlea|R|N
+contiguity	noun	contiguous|contigu|R|Adj ; -ity|ity|S
+gliadin	noun	gliadin|gliadin|R|N
+minidress	noun	mini|mini|R|Adj ; dress|dress|R|N
+implicature	noun	implicature|implicature|R|N
+unbelieving	adj	un-|un|P ; believe|believ|R|V ; -ing|ing|S||-ing (adj)
+endoscopically	adv	endoscope|endoscop|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+quietude	noun	quietude|quietude|R|N
+taxiway	noun	taxi|taxi|R|N ; way|way|R|N
+phosphatidylcholine	noun	phosphatidylcholine|phosphatidylcholine|R|N
+submissiveness	noun	submissive|submissive|R|Adj ; -ness|ness|S
+cavalierly	adv	cavalier|cavalier|R|N ; -ly|ly|I|Adv|-ly (adv)
+shebang	noun	shebang|shebang|R|N
+balladeer	noun	ballad|ballad|R|N ; -eer|eer|S
+bratty	adj	brat|bratt|R|N ; -y|y|S
+trem	?	?
+unrehearsed	adj	un-|un|P ; rehearse|rehears|R|V ; -ed|ed|S||-ed (adj)
+loudmouth	noun	loud|loud|R|Adj ; mouth|mouth|R|N
+analogously	adv	analogous|analogous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+multiprocessing	noun	multi-|multi|P ; process|process|R|V ; -ing|ing|S||-ing (N)
+andouille	noun	andouille|andouille|R|N
+baldy	noun	bald|bald|R|Adj ; -y|y|S
+retinol	noun	retinol|retinol|R|N
+mononucleosis	noun	mononucleosis|mononucleosis|R|N
+cornmill	noun	corn|corn|R|N ; mill|mill|R|N
+extrajudicial	adj	extra-|extra|P ; judicial|judicial|R|Adj
+variceal	adj	variceal|variceal|R|Adj
+rugose	adj	rugose|rugose|R|Adj

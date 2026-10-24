@@ -1,0 +1,200 @@
+unappealably	adv	un-|un|P ; appeal|appeal|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+unappeasable	adj	un-|un|P ; appease|appeas|R|V ; -able|able|S
+unappeasably	adv	un-|un|P ; appease|appeas|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+unappeased	adj	un-|un|P ; appease|appeas|R|V ; -ed|ed|S||-ed (adj)
+unappetizingly	adv	un-|un|P ; appetite|appet|R|N ; -ize|iz|S ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unapplauded	adj	un-|un|P ; applaud|applaud|R|V ; -ed|ed|S||-ed (adj)
+unapplied	adj	un-|un|P ; apply|appli|R|V ; -ed|ed|S||-ed (adj)
+unappreciatively	adv	un-|un|P ; appreciate|appreciat|R|V ; -ive|ive|S ; -ly|ly|I||-ly (adv)
+unapprehended	adj	un-|un|P ; apprehend|apprehend|R|V ; -ed|ed|S||-ed (adj)
+unapprehensive	adj	un-|un|P ; apprehend|apprehens|R|V ; -ive|ive|S
+unapprised	adj	un-|un|P ; apprise|appris|R|V ; -ed|ed|S||-ed (adj)
+unapproachability	noun	un-|un|P ; approach|approach|R|V ; -able|abil|S ; -ity|ity|S
+unapproachableness	noun	un-|un|P ; approach|approach|R|V ; -able|able|S ; -ness|ness|S
+unapproachably	adv	un-|un|P ; approach|approach|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+unappropriate	adj	un-|un|P ; appropriate|appropriate|R|Adj
+unappropriated	adj	un-|un|P ; appropriate|appropriat|R|V ; -ed|ed|S||-ed (adj)
+unapproving	adj	un-|un|P ; approve|approv|R|V ; -ing|ing|S||-ing (adj)
+unapt	adj	un-|un|P ; apt|apt|R|Adj
+unaptly	adv	un-|un|P ; apt|apt|R|Adj ; -ly|ly|I||-ly (adv)
+unaptness	noun	un-|un|P ; apt|apt|R|Adj ; -ness|ness|S
+unarchitectural	adj	un-|un|P ; architectural|architectural|R|Adj
+unargued	adj	un-|un|P ; argue|argu|R|V ; -ed|ed|S||-ed (adj)
+unarm	verb	un-|un|P ; arm|arm|R|V
+unarmoured	adj	un-|un|P ; armour|armour|R|N ; -ed|ed|S||-ed (adj)
+unarranged	adj	un-|un|P ; arrange|arrang|R|V ; -ed|ed|S||-ed (adj)
+unarrested	adj	un-|un|P ; arrest|arrest|R|V ; -ed|ed|S||-ed (adj)
+unartful	adj	un-|un|P ; art|art|R|N ; -ful|ful|S
+unartificial	adj	un-|un|P ; artificial|artificial|R|Adj
+unartistic	adj	un-|un|P ; artistic|artistic|R|Adj
+unary	adj	unary|unary|R|N
+unascertainable	adj	un-|un|P ; ascertain|ascertain|R|V ; -able|able|S
+unascertained	adj	un-|un|P ; ascertain|ascertain|R|V ; -ed|ed|S||-ed (adj)
+unashamedness	noun	un-|un|P ; ashamed|ashamed|R|Adj ; -ness|ness|S
+unaspirated	adj	un-|un|P ; aspirate|aspirat|R|V ; -ed|ed|S||-ed (adj)
+unassailability	noun	un-|un|P ; assail|assail|R|V ; -able|abil|S ; -ity|ity|S
+unassailableness	noun	un-|un|P ; assail|assail|R|V ; -able|able|S ; -ness|ness|S
+unassailably	adv	un-|un|P ; assail|assail|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+unassayed	adj	un-|un|P ; assay|assay|R|V ; -ed|ed|S||-ed (adj)
+unassented	adj	un-|un|P ; assent|assent|R|V ; -ed|ed|S||-ed (adj)
+unasserted	adj	un-|un|P ; assert|assert|R|V ; -ed|ed|S||-ed (adj)
+unassertively	adv	un-|un|P ; assert|assert|R|V ; -ive|ive|S ; -ly|ly|I||-ly (adv)
+unassertiveness	noun	un-|un|P ; assert|assert|R|V ; -ive|ive|S ; -ness|ness|S
+unassessable	adj	un-|un|P ; assess|assess|R|V ; -able|able|S
+unassignable	adj	un-|un|P ; assign|assign|R|V ; -able|able|S
+unassimilable	adj	un-|un|P ; assimilate|assimil|R|V ; -able|able|S
+unassimilated	adj	un-|un|P ; assimilate|assimilat|R|V ; -ed|ed|S||-ed (adj)
+unassuaged	adj	un-|un|P ; assuage|assuag|R|V ; -ed|ed|S||-ed (adj)
+unassumed	adj	un-|un|P ; assume|assum|R|V ; -ed|ed|S||-ed (adj)
+unassumingly	adv	un-|un|P ; assume|assum|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unassumingness	noun	un-|un|P ; assume|assum|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unassured	adj	un-|un|P ; assure|assur|R|V ; -ed|ed|S||-ed (adj)
+unathletic	adj	un-|un|P ; athletic|athletic|R|Adj
+unatonable	adj	un-|un|P ; atone|aton|R|V ; -able|able|S
+unatoned	adj	un-|un|P ; atone|aton|R|V ; -ed|ed|S||-ed (adj)
+unattackable	adj	un-|un|P ; attack|attack|R|V ; -able|able|S
+unattainability	noun	un-|un|P ; attain|attain|R|V ; -able|abil|S ; -ity|ity|S
+unattainableness	noun	un-|un|P ; attain|attain|R|V ; -able|able|S ; -ness|ness|S
+unattainably	adv	un-|un|P ; attain|attain|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+unattained	adj	un-|un|P ; attain|attain|R|V ; -ed|ed|S||-ed (adj)
+unattainted	adj	un-|un|P ; attaint|attaint|R|V ; -ed|ed|S||-ed (adj)
+unattempted	adj	un-|un|P ; attempt|attempt|R|V ; -ed|ed|S||-ed (adj)
+unattentive	adj	un-|un|P ; attentive|attentive|R|Adj
+unattenuated	adj	un-|un|P ; attenuate|attenuat|R|V ; -ed|ed|S||-ed (adj)
+unattested	adj	un-|un|P ; attest|attest|R|V ; -ed|ed|S||-ed (adj)
+unattired	adj	un-|un|P ; attire|attir|R|V ; -ed|ed|S||-ed (adj)
+unattractiveness	noun	un-|un|P ; attractive|attractive|R|Adj ; -ness|ness|S
+unattributable	adj	un-|un|P ; attribute|attribut|R|V ; -able|able|S
+unattributed	adj	un-|un|P ; attribute|attribut|R|V ; -ed|ed|S||-ed (adj)
+unattuned	adj	un-|un|P ; attune|attun|R|V ; -ed|ed|S||-ed (adj)
+unauthentic	adj	un-|un|P ; authentic|authentic|R|Adj
+unauthenticate	verb	un-|un|P ; authenticate|authenticate|R|V
+unauthenticated	adj	un-|un|P ; authenticate|authenticat|R|V ; -ed|ed|S||-ed (adj)
+unauthoritative	adj	un-|un|P ; authoritative|authoritative|R|Adj
+unautomated	adj	un-|un|P ; automate|automat|R|V ; -ed|ed|S||-ed (adj)
+unavailingly	adv	un-|un|P ; avail|avail|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unavailingness	noun	un-|un|P ; avail|avail|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unavenged	adj	un-|un|P ; avenge|aveng|R|V ; -ed|ed|S||-ed (adj)
+unavertable	adj	un-|un|P ; avert|avert|R|V ; -able|able|S
+unaverted	adj	un-|un|P ; avert|avert|R|V ; -ed|ed|S||-ed (adj)
+unavertible	adj	un-|un|P ; avert|avert|R|V ; -ible|ible|S
+unavoidability	noun	un-|un|P ; avoid|avoid|R|V ; -able|abil|S ; -ity|ity|S
+unavoidableness	noun	un-|un|P ; avoid|avoid|R|V ; -able|able|S ; -ness|ness|S
+unavowable	adj	un-|un|P ; avow|avow|R|V ; -able|able|S
+unavowed	adj	un-|un|P ; avow|avow|R|V ; -ed|ed|S||-ed (adj)
+unawakened	adj	un-|un|P ; awaken|awaken|R|V ; -ed|ed|S||-ed (adj)
+unawarely	adv	un-|un|P ; aware|aware|R|Adj ; -ly|ly|I||-ly (adv)
+unawed	adj	un-|un|P ; awe|aw|R|N ; -ed|ed|S||-ed (adj)
+unbacked	adj	un-|un|P ; back|back|R|N ; -ed|ed|S||-ed (adj)
+unbailable	adj	un-|un|P ; bail|bail|R|V ; -able|able|S
+unbailed	adj	un-|un|P ; bail|bail|R|V ; -ed|ed|S||-ed (adj)
+unbalanceable	adj	un-|un|P ; balance|balance|R|V ; -able|able|S
+unbalancing	verb	un-|un|P ; balance|balanc|R|V ; -ing|ing|I||-ing (v)
+unballast	verb	un-|un|P ; ballast|ballast|R|N
+unballasted	adj	un-|un|P ; ballast|ballast|R|N ; -ed|ed|S||-ed (adj)
+unban	verb	un-|un|P ; ban|ban|R|V
+unbandage	verb	un-|un|P ; bandage|bandage|R|N
+unbank	verb	un-|un|P ; bank|bank|R|N
+unbanked	adj	un-|un|P ; bank|bank|R|N ; -ed|ed|S||-ed (adj)
+unbar	verb	un-|un|P ; bar|bar|R|N
+unbarbed	adj	un-|un|P ; barb|barb|R|N ; -ed|ed|S||-ed (adj)
+unbarbered	adj	un-|un|P ; barber|barber|R|N ; -ed|ed|S||-ed (adj)
+unbark	verb	un-|un|P ; bark|bark|R|V
+unbarred	adj	un-|un|P ; bar|barr|R|N ; -ed|ed|S||-ed (adj)
+unbarricade	verb	un-|un|P ; barricade|barricade|R|N
+unbarricaded	adj	un-|un|P ; barricade|barricad|R|N ; -ed|ed|S||-ed (adj)
+unbashful	adj	un-|un|P ; bashful|bashful|R|Adj
+unbated	adj	un-|un|P ; bate|bat|R|V ; -ed|ed|S||-ed (adj)
+unbe	verb	un-|un|P ; be|be|R|V
+unbear	verb	un-|un|P ; bear|bear|R|V
+unbearableness	noun	un-|un|P ; bear|bear|R|V ; -able|able|S ; -ness|ness|S
+unbearded	adj	un-|un|P ; beard|beard|R|N ; -ed|ed|S||-ed (adj)
+unbeatably	adv	un-|un|P ; beat|beat|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+unbeautiful	adj	un-|un|P ; beautiful|beautiful|R|Adj
+unbecome	verb	un-|un|P ; become|become|R|V
+unbecomingly	adv	un-|un|P ; become|becom|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unbecomingness	noun	un-|un|P ; become|becom|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unbefitting	adj	un-|un|P ; befit|befitt|R|V ; -ing|ing|S||-ing (adj)
+unbefriended	adj	un-|un|P ; befriend|befriend|R|V ; -ed|ed|S||-ed (adj)
+unbegotten	adj	un-|un|P ; beget|begotten|R|V ; -en||I||-en (participle)
+unbegun	adj	un-|un|P ; begin|begun|R|V ; -en||I||-en (participle)
+unbeholden	adj	un-|un|P ; beholden|beholden|R|Adj
+unbelievingly	adv	un-|un|P ; believe|believ|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unbelievingness	noun	un-|un|P ; believe|believ|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unbelligerent	adj	un-|un|P ; belligerent|belligerent|R|Adj
+unbeloved	adj	un-|un|P ; beloved|beloved|R|Adj
+unbelt	verb	un-|un|P ; belt|belt|R|N
+unbendable	adj	un-|un|P ; bend|bend|R|V ; -able|able|S
+unbendingly	adv	un-|un|P ; bend|bend|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unbendingness	noun	un-|un|P ; bend|bend|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unbeneficial	adj	un-|un|P ; beneficial|beneficial|R|Adj
+unbenefited	adj	un-|un|P ; benefit|benefit|R|N ; -ed|ed|S||-ed (adj)
+unbent	adj	un-|un|P ; bend|bent|R|V ; -ed||I||-ed (v2)
+unbenumb	verb	un-|un|P ; benumb|benumb|R|V
+unbesought	adj	un-|un|P ; beseech|besought|R|V ; -ed||I||-ed (v2)
+unbespoken	adj	un-|un|P ; bespeak|bespoken|R|V ; -en||I||-en (participle)
+unbewitch	verb	un-|un|P ; bewitch|bewitch|R|V
+unbias	verb	un-|un|P ; bias|bias|R|N
+unbiasedly	adv	un-|un|P ; bias|bias|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unbiasedness	noun	un-|un|P ; bias|bias|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unbibium	noun	unbibium|unbibium|R|N
+unbiblical	adj	un-|un|P ; biblical|biblical|R|Adj
+unbigoted	adj	un-|un|P ; bigot|bigot|R|N ; -ed|ed|S||-ed (adj)
+unbihexium	noun	unbihexium|unbihexium|R|N
+unbilled	adj	un-|un|P ; bill|bill|R|N ; -ed|ed|S||-ed (adj)
+unbinilium	noun	unbinilium|unbinilium|R|N
+unbipentium	noun	unbipentium|unbipentium|R|N
+unbiquadium	noun	unbiquadium|unbiquadium|R|N
+unbirthday	noun	un-|un|P ; birth|birth|R|N ; day|day|R|N
+unbishop	verb	un-|un|P ; bishop|bishop|R|N
+unbitrium	noun	unbitrium|unbitrium|R|N
+unbitted	adj	un-|un|P ; bit|bitt|R|N ; -ed|ed|S||-ed (adj)
+unbiunium	noun	unbiunium|unbiunium|R|N
+unblamed	adj	un-|un|P ; blame|blam|R|V ; -ed|ed|S||-ed (adj)
+unblenched	adj	un-|un|P ; blench|blench|R|V ; -ed|ed|S||-ed (adj)
+unblenching	adj	un-|un|P ; blench|blench|R|V ; -ing|ing|S||-ing (adj)
+unblended	adj	un-|un|P ; blend|blend|R|V ; -ed|ed|S||-ed (adj)
+unblessed	adj	un-|un|P ; bless|bless|R|V ; -ed|ed|S||-ed (adj)
+unblighted	adj	un-|un|P ; blight|blight|R|V ; -ed|ed|S||-ed (adj)
+unblinded	adj	un-|un|P ; blind|blind|R|Adj ; -ed|ed|S||-ed (adj)
+unblindfold	verb	un-|un|P ; blindfold|blindfold|R|N
+unblocker	noun	un-|un|P ; block|block|R|V ; -er|er|S||-er (N)
+unblocking	verb	un-|un|P ; block|block|R|V ; -ing|ing|I||-ing (v)
+unblooded	adj	un-|un|P ; blood|blood|R|N ; -ed|ed|S||-ed (adj)
+unbloodied	adj	un-|un|P ; bloody|bloodi|R|Adj ; -ed|ed|S||-ed (adj)
+unbloody	adj	un-|un|P ; bloody|bloody|R|Adj
+unblotted	adj	un-|un|P ; blot|blott|R|V ; -ed|ed|S||-ed (adj)
+unblown	adj	un-|un|P ; blow|blown|R|V ; -en||I||-en (participle)
+unblurred	adj	un-|un|P ; blur|blurr|R|V ; -ed|ed|S||-ed (adj)
+unblushing	adj	un-|un|P ; blush|blush|R|V ; -ing|ing|S||-ing (adj)
+unblushingly	adv	un-|un|P ; blush|blush|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unblushingness	noun	un-|un|P ; blush|blush|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unboastful	adj	un-|un|P ; boast|boast|R|V ; -ful|ful|S
+unboiled	adj	un-|un|P ; boil|boil|R|V ; -ed|ed|S||-ed (adj)
+unboned	adj	un-|un|P ; bone|bon|R|N ; -ed|ed|S||-ed (adj)
+unbonnet	verb	un-|un|P ; bonnet|bonnet|R|N
+unbonneted	adj	un-|un|P ; bonnet|bonnet|R|N ; -ed|ed|S||-ed (adj)
+unbooked	adj	un-|un|P ; book|book|R|N ; -ed|ed|S||-ed (adj)
+unbookish	adj	un-|un|P ; book|book|R|N ; -ish|ish|S
+unbooted	adj	un-|un|P ; boot|boot|R|N ; -ed|ed|S||-ed (adj)
+unborrowed	adj	un-|un|P ; borrow|borrow|R|V ; -ed|ed|S||-ed (adj)
+unbosoming	verb	un-|un|P ; bosom|bosom|R|N ; -ing|ing|I||-ing (v)
+unbottomed	adj	un-|un|P ; bottom|bottom|R|N ; -ed|ed|S||-ed (adj)
+unboundedly	adv	un-|un|P ; bound|bound|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unboundedness	noun	un-|un|P ; bound|bound|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unbox	verb	un-|un|P ; box|box|R|N
+unboxing	verb	un-|un|P ; box|box|R|N ; -ing|ing|I||-ing (v)
+unbrace	verb	un-|un|P ; brace|brace|R|N
+unbraced	adj	un-|un|P ; brace|brac|R|N ; -ed|ed|S||-ed (adj)
+unbracketed	adj	un-|un|P ; bracket|bracket|R|N ; -ed|ed|S||-ed (adj)
+unbraid	verb	un-|un|P ; braid|braid|R|V
+unbreakableness	noun	un-|un|P ; break|break|R|V ; -able|able|S ; -ness|ness|S
+unbreakably	adv	un-|un|P ; break|break|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+unbreathable	adj	un-|un|P ; breathe|breath|R|V ; -able|able|S
+unbreathed	adj	un-|un|P ; breathe|breath|R|V ; -ed|ed|S||-ed (adj)
+unbreathing	adj	un-|un|P ; breathe|breath|R|V ; -ing|ing|S||-ing (adj)
+unbred	adj	un-|un|P ; breed|bred|R|V ; -ed||I||-ed (v2)
+unbreech	verb	un-|un|P ; breech|breech|R|N
+unbribable	adj	un-|un|P ; bribe|brib|R|V ; -able|able|S
+unbribed	adj	un-|un|P ; bribe|brib|R|V ; -ed|ed|S||-ed (adj)
+unbridged	adj	un-|un|P ; bridge|bridg|R|N ; -ed|ed|S||-ed (adj)

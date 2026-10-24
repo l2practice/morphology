@@ -1,0 +1,200 @@
+unconformity	noun	un-|un|P ; con-|con|P ; form|form|R|V ; -ity|ity|S
+unconfused	adj	un-|un|P ; confuse|confus|R|V ; -ed|ed|S||-ed (adj)
+unconfutable	adj	un-|un|P ; confute|confut|R|V ; -able|able|S
+uncongeal	verb	un-|un|P ; congeal|congeal|R|V
+uncongealable	adj	un-|un|P ; congeal|congeal|R|V ; -able|able|S
+uncongealed	adj	un-|un|P ; congeal|congeal|R|V ; -ed|ed|S||-ed (adj)
+uncongeniality	noun	un-|un|P ; con-|con|P ; genial|genial|R|Adj ; -ity|ity|S
+unconjugated	adj	un-|un|P ; conjugate|conjugat|R|V ; -ed|ed|S||-ed (adj)
+unconnectedly	adv	un-|un|P ; connect|connect|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+unconnectedness	noun	un-|un|P ; connect|connect|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unconquerably	adv	un-|un|P ; conquer|conquer|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+unconscientious	adj	un-|un|P ; con-|con|P ; sci-|sci|B|V ; -ent|ent|S ; -ious|ious|S
+unconscientiousness	noun	un-|un|P ; con-|con|P ; sci-|sci|B|V ; -ent|ent|S ; -ious|ious|S ; -ness|ness|S
+unconscionableness	noun	un-|un|P ; con-|con|P ; sci-|sci|B|V ; -ence|on|S ; -able|able|S ; -ness|ness|S
+unconsecrated	adj	un-|un|P ; consecrate|consecrat|R|V ; -ed|ed|S||-ed (adj)
+unconsenting	adj	un-|un|P ; consent|consent|R|V ; -ing|ing|S||-ing (adj)
+unconsolable	adj	un-|un|P ; console|consol|R|V ; -able|able|S
+unconsoled	adj	un-|un|P ; console|consol|R|V ; -ed|ed|S||-ed (adj)
+unconstraint	noun	un-|un|P ; constraint|constraint|R|N
+unconstructive	adj	un-|un|P ; con-|con|P ; -struct|struct|B|V ; -ive|ive|S
+unconsumed	adj	un-|un|P ; consume|consum|R|V ; -ed|ed|S||-ed (adj)
+uncontained	adj	un-|un|P ; contain|contain|R|V ; -ed|ed|S||-ed (adj)
+uncontemplated	adj	un-|un|P ; contemplate|contemplat|R|V ; -ed|ed|S||-ed (adj)
+uncontented	adj	un-|un|P ; content|content|R|Adj ; -ed|ed|S||-ed (adj)
+uncontestable	adj	un-|un|P ; contest|contest|R|V ; -able|able|S
+uncontinuous	adj	un-|un|P ; continue|continu|R|V ; -ous|ous|S
+uncontracted	adj	un-|un|P ; contract|contract|R|V ; -ed|ed|S||-ed (adj)
+uncontradictable	adj	un-|un|P ; contradict|contradict|R|V ; -able|able|S
+uncontradicted	adj	un-|un|P ; contradict|contradict|R|V ; -ed|ed|S||-ed (adj)
+uncontrite	adj	un-|un|P ; contrite|contrite|R|Adj
+uncontrollability	noun	un-|un|P ; control|controll|R|V ; -able|abil|S ; -ity|ity|S
+uncontrollableness	noun	un-|un|P ; control|controll|R|V ; -able|able|S ; -ness|ness|S
+uncontrolledness	noun	un-|un|P ; control|controll|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+uncontroversially	adv	un-|un|P ; controversy|controversi|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+uncontroverted	adj	un-|un|P ; controvert|controvert|R|V ; -ed|ed|S||-ed (adj)
+uncontrovertible	adj	un-|un|P ; controvert|controvert|R|V ; -ible|ible|S
+unconversable	adj	un-|un|P ; converse|convers|R|V ; -able|able|S
+unconversant	adj	un-|un|P ; converse|convers|R|V ; -ant|ant|S
+unconvertible	adj	un-|un|P ; convert|convert|R|V ; -ible|ible|S
+unconvincingness	noun	un-|un|P ; convince|convinc|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+uncool	adj	un-|un|P ; cool|cool|R|Adj
+uncooled	adj	un-|un|P ; cool|cool|R|Adj ; -ed|ed|S||-ed (adj)
+uncoop	verb	un-|un|P ; coop|coop|R|N
+uncooperation	noun	un-|un|P ; co-|co|P ; operate|operat|R|V ; -ion|ion|S
+uncooperatively	adv	un-|un|P ; co-|co|P ; operate|operat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+uncooperativeness	noun	un-|un|P ; co-|co|P ; operate|operat|R|V ; -ive|ive|S ; -ness|ness|S
+uncord	verb	un-|un|P ; cord|cord|R|N
+uncordial	adj	un-|un|P ; cordial|cordial|R|Adj
+uncorking	noun	un-|un|P ; cork|cork|R|N ; -ing|ing|S||-ing (N)
+uncorrectable	adj	un-|un|P ; correct|correct|R|V ; -able|able|S
+uncorrupt	adj	un-|un|P ; corrupt|corrupt|R|Adj
+uncorseted	adj	un-|un|P ; corset|corset|R|N ; -ed|ed|S||-ed (adj)
+uncostly	adj	un-|un|P ; cost|cost|R|N ; -ly|ly|S||-ly (adj)
+uncountenanced	adj	un-|un|P ; countenance|countenanc|R|V ; -ed|ed|S||-ed (adj)
+uncounterfeit	adj	un-|un|P ; counterfeit|counterfeit|R|Adj
+uncounterfeited	adj	un-|un|P ; counterfeit|counterfeit|R|Adj ; -ed|ed|S||-ed (adj)
+uncoupler	noun	un-|un|P ; couple|coupl|R|V ; -er|er|S||-er (N)
+uncoupling	noun	un-|un|P ; couple|coupl|R|V ; -ing|ing|S||-ing (N)
+uncourageous	adj	un-|un|P ; courage|courage|R|N ; -ous|ous|S
+uncourteous	adj	un-|un|P ; court|court|R|N ; -eous|eous|S
+uncourtly	adj	un-|un|P ; court|court|R|N ; -ly|ly|S||-ly (adj)
+uncouthly	adv	un-|un|P ; couth|couth|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+uncouthness	noun	un-|un|P ; couth|couth|R|Adj ; -ness|ness|S
+uncovenanted	adj	un-|un|P ; covenant|covenant|R|N ; -ed|ed|S||-ed (adj)
+uncoveted	adj	un-|un|P ; covet|covet|R|V ; -ed|ed|S||-ed (adj)
+uncrate	verb	un-|un|P ; crate|crate|R|N
+uncreasable	adj	un-|un|P ; crease|creas|R|V ; -able|able|S
+uncreate	verb	un-|un|P ; create|create|R|V
+uncreditable	adj	un-|un|P ; credit|credit|R|N ; -able|able|S
+uncrippled	adj	un-|un|P ; cripple|crippl|R|V ; -ed|ed|S||-ed (adj)
+uncriticized	adj	un-|un|P ; criticize|criticiz|R|V ; -ed|ed|S||-ed (adj)
+uncropped	adj	un-|un|P ; crop|cropp|R|V ; -ed|ed|S||-ed (adj)
+uncross	verb	un-|un|P ; cross|cross|R|V
+uncrossable	adj	un-|un|P ; cross|cross|R|V ; -able|able|S
+uncrown	verb	un-|un|P ; crown|crown|R|N
+uncrushable	adj	un-|un|P ; crush|crush|R|V ; -able|able|S
+uncrystallizable	adj	un-|un|P ; crystallize|crystalliz|R|V ; -able|able|S
+uncrystallized	adj	un-|un|P ; crystallize|crystalliz|R|V ; -ed|ed|S||-ed (adj)
+unctuosity	noun	unctuous|unctu|R|Adj ; -osity|osity|S
+unctuousness	noun	unctuous|unctuous|R|Adj ; -ness|ness|S
+unculled	adj	un-|un|P ; cull|cull|R|V ; -ed|ed|S||-ed (adj)
+uncultivable	adj	un-|un|P ; cultivate|cultiv|R|V ; -able|able|S
+uncultural	adj	un-|un|P ; culture|cultur|R|N ; -al|al|S
+uncurb	verb	un-|un|P ; curb|curb|R|N
+uncurbed	adj	un-|un|P ; curb|curb|R|N ; -ed|ed|S||-ed (adj)
+uncurious	adj	un-|un|P ; curious|curious|R|Adj
+uncurled	adj	un-|un|P ; curl|curl|R|V ; -ed|ed|S||-ed (adj)
+uncurling	noun	un-|un|P ; curl|curl|R|V ; -ing|ing|S||-ing (N)
+uncurrent	adj	un-|un|P ; current|current|R|Adj
+uncurtailed	adj	un-|un|P ; curtail|curtail|R|V ; -ed|ed|S||-ed (adj)
+uncurtain	verb	un-|un|P ; curtain|curtain|R|N
+uncushioned	adj	un-|un|P ; cushion|cushion|R|N ; -ed|ed|S||-ed (adj)
+uncustomary	adj	un-|un|P ; custom|custom|R|N ; -ary|ary|S
+uncustomed	adj	un-|un|P ; custom|custom|R|N ; -ed|ed|S||-ed (adj)
+uncuttable	adj	un-|un|P ; cut|cutt|R|V ; -able|able|S
+undamped	adj	un-|un|P ; damp|damp|R|Adj ; -ed|ed|S||-ed (adj)
+undampened	adj	un-|un|P ; dampen|dampen|R|V ; -ed|ed|S||-ed (adj)
+undanceable	adj	un-|un|P ; dance|dance|R|V ; -able|able|S
+undangerous	adj	un-|un|P ; danger|danger|R|N ; -ous|ous|S
+undaring	adj	un-|un|P ; dare|dar|R|V ; -ing|ing|S||-ing (adj)
+undauntable	adj	un-|un|P ; daunt|daunt|R|V ; -able|able|S
+undauntedly	adv	un-|un|P ; daunt|daunt|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+undauntedness	noun	un-|un|P ; daunt|daunt|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+undazzled	adj	un-|un|P ; dazzle|dazzl|R|V ; -ed|ed|S||-ed (adj)
+undeadly	adj	un-|un|P ; dead|dead|R|Adj ; -ly|ly|S||-ly (adj)
+undealt	adj	un-|un|P ; deal|dealt|R|V ; -ed||I||-ed (v2)
+undebarred	adj	un-|un|P ; debar|debarr|R|V ; -ed|ed|S||-ed (adj)
+undebatable	adj	un-|un|P ; debate|debat|R|V ; -able|able|S
+undebatably	adv	un-|un|P ; debate|debat|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+undebated	adj	un-|un|P ; debate|debat|R|V ; -ed|ed|S||-ed (adj)
+undebauched	adj	un-|un|P ; debauch|debauch|R|V ; -ed|ed|S||-ed (adj)
+undecadent	adj	un-|un|P ; decadent|decadent|R|Adj
+undecagon	noun	undecagon|undecagon|R|N
+undecane	noun	undecane|undecane|R|N
+undecayable	adj	un-|un|P ; decay|decay|R|V ; -able|able|S
+undecaying	adj	un-|un|P ; decay|decay|R|V ; -ing|ing|S||-ing (adj)
+undeceivable	adj	un-|un|P ; de-|de|P ; -ceive|ceiv|B|V ; -able|able|S
+undeceivableness	noun	un-|un|P ; de-|de|P ; -ceive|ceiv|B|V ; -able|able|S ; -ness|ness|S
+undeceivably	adv	un-|un|P ; de-|de|P ; -ceive|ceiv|B|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+undeceive	verb	un-|un|P ; de-|de|P ; -ceive|ceive|B|V
+undeceived	adj	un-|un|P ; de-|de|P ; -ceive|ceiv|B|V ; -ed|ed|S||-ed (adj)
+undecennial	adj	undecennial|undecennial|R|Adj
+undecidability	noun	un-|un|P ; decide|decid|R|V ; -able|abil|S ; -ity|ity|S
+undecidedly	adv	un-|un|P ; decide|decid|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+undecidedness	noun	un-|un|P ; decide|decid|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+undecillion	noun	undecillion|undecillion|R|N
+undeciphered	adj	un-|un|P ; decipher|decipher|R|V ; -ed|ed|S||-ed (adj)
+undecked	adj	un-|un|P ; deck|deck|R|N ; -ed|ed|S||-ed (adj)
+undeclinable	adj	un-|un|P ; decline|declin|R|V ; -able|able|S
+undeclined	adj	un-|un|P ; decline|declin|R|V ; -ed|ed|S||-ed (adj)
+undecomposable	adj	un-|un|P ; decompose|decompos|R|V ; -able|able|S
+undedicated	adj	un-|un|P ; dedicate|dedicat|R|V ; -ed|ed|S||-ed (adj)
+undefaced	adj	un-|un|P ; deface|defac|R|V ; -ed|ed|S||-ed (adj)
+undefective	adj	un-|un|P ; defect|defect|R|N ; -ive|ive|S
+undefensible	adj	un-|un|P ; defend|defens|R|V ; -ible|ible|S
+undeformed	adj	un-|un|P ; deform|deform|R|V ; -ed|ed|S||-ed (adj)
+undelayed	adj	un-|un|P ; delay|delay|R|V ; -ed|ed|S||-ed (adj)
+undelegated	adj	un-|un|P ; delegate|delegat|R|V ; -ed|ed|S||-ed (adj)
+undeliberate	adj	un-|un|P ; deliberate|deliberate|R|Adj
+undeliberated	adj	un-|un|P ; deliberate|deliberat|R|V ; -ed|ed|S||-ed (adj)
+undelightful	adj	un-|un|P ; delight|delight|R|N ; -ful|ful|S
+undeliverable	adj	un-|un|P ; deliver|deliver|R|V ; -able|able|S
+undeluded	adj	un-|un|P ; delude|delud|R|V ; -ed|ed|S||-ed (adj)
+undemonstrable	adj	un-|un|P ; demonstrate|demonstr|R|V ; -able|able|S
+undemonstrated	adj	un-|un|P ; demonstrate|demonstrat|R|V ; -ed|ed|S||-ed (adj)
+undemonstratively	adv	un-|un|P ; demonstrate|demonstrat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+undemonstrativeness	noun	un-|un|P ; demonstrate|demonstrat|R|V ; -ive|ive|S ; -ness|ness|S
+undeniableness	noun	un-|un|P ; deny|deni|R|V ; -able|able|S ; -ness|ness|S
+undenied	adj	un-|un|P ; deny|deni|R|V ; -ed|ed|S||-ed (adj)
+undenominational	adj	un-|un|P ; denominate|denominat|R|V ; -ion|ion|S ; -al|al|S
+undenounced	adj	un-|un|P ; denounce|denounc|R|V ; -ed|ed|S||-ed (adj)
+undependability	noun	un-|un|P ; depend|depend|R|V ; -able|abil|S ; -ity|ity|S
+undeplored	adj	un-|un|P ; deplore|deplor|R|V ; -ed|ed|S||-ed (adj)
+undeposed	adj	un-|un|P ; depose|depos|R|V ; -ed|ed|S||-ed (adj)
+undepreciated	adj	un-|un|P ; depreciate|depreciat|R|V ; -ed|ed|S||-ed (adj)
+undepressed	adj	un-|un|P ; depress|depress|R|V ; -ed|ed|S||-ed (adj)
+underachiever	noun	under-|under|P ; achieve|achiev|R|V ; -er|er|S||-er (N)
+underact	verb	under-|under|P ; act|act|R|V
+underactivity	noun	under-|under|P ; activity|activity|R|N
+underactor	noun	under-|under|P ; act|act|R|V ; -or|or|S
+underappreciate	verb	under-|under|P ; appreciate|appreciate|R|V
+underbite	noun	under-|under|P ; bite|bite|R|V
+underblanket	noun	under-|under|P ; blanket|blanket|R|N
+underbred	adj	under-|under|P ; breed|bred|R|V ; -ed||I||-ed (v2)
+underbrim	noun	under-|under|P ; brim|brim|R|N
+underbuy	verb	under-|under|P ; buy|buy|R|V
+undercapitalize	verb	under-|under|P ; capitalize|capitalize|R|V
+undercard	noun	under-|under|P ; card|card|R|N
+undercart	noun	under-|under|P ; cart|cart|R|N
+undercharge	verb	under-|under|P ; charge|charge|R|V
+underclad	adj	under-|under|P ; clad|clad|R|Adj
+underclay	noun	under-|under|P ; clay|clay|R|N
+underclerk	noun	under-|under|P ; clerk|clerk|R|N
+underconsumption	noun	under-|under|P ; consumption|consumption|R|N
+undercook	verb	under-|under|P ; cook|cook|R|V
+undercool	verb	under-|under|P ; cool|cool|R|Adj
+undercroft	noun	under-|under|P ; croft|croft|R|N
+undercrossing	noun	under-|under|P ; cross|cross|R|V ; -ing|ing|S||-ing (N)
+undercrust	noun	under-|under|P ; crust|crust|R|N
+undercure	verb	under-|under|P ; cure|cure|R|V
+undercutter	noun	under-|under|P ; cut|cutt|R|V ; -er|er|S||-er (N)
+underdesigned	adj	under-|under|P ; design|design|R|V ; -ed|ed|S||-ed (adj)
+underdo	verb	under-|under|P ; do|do|R|V
+underdose	verb	under-|under|P ; dose|dose|R|N
+underdot	verb	under-|under|P ; dot|dot|R|N
+underdrain	verb	under-|under|P ; drain|drain|R|V
+underdrainage	noun	under-|under|P ; drain|drain|R|V ; -age|age|S
+underdraw	verb	under-|under|P ; draw|draw|R|V
+underdrawers	noun	under-|under|P ; draw|draw|R|V ; -er|er|S||-er (N) ; -s|s|I||-s (plural)
+underdrive	verb	under-|under|P ; drive|drive|R|V
+undereducation	noun	under-|under|P ; educate|educat|R|V ; -ion|ion|S
+underemphasis	noun	under-|under|P ; emphasis|emphasis|R|N
+underemphasize	verb	under-|under|P ; emphasize|emphasize|R|V
+underexpose	verb	under-|under|P ; expose|expose|R|V
+underexposure	noun	under-|under|P ; expose|expos|R|V ; -ure|ure|S
+underfeed	verb	under-|under|P ; feed|feed|R|V
+underfelt	noun	under-|under|P ; felt|felt|R|N
+underfired	adj	under-|under|P ; fire|fir|R|V ; -ed|ed|S||-ed (adj)
+underflow	noun	under-|under|P ; flow|flow|R|V
+underframe	noun	under-|under|P ; frame|frame|R|N

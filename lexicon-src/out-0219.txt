@@ -1,0 +1,200 @@
+agitating	verb	agitate|agitat|R|V ; -ing|ing|I||-ing (v)
+agitational	adj	agitate|agitat|R|V ; -ion|ion|S ; -al|al|S
+agitative	adj	agitate|agitat|R|V ; -ive|ive|S
+aglare	adj	a-|a|P ; glare|glare|R|V
+agleam	adj	a-|a|P ; gleam|gleam|R|V
+aglet	noun	aglet|aglet|R|N
+agley	adv	agley|agley|R|Adv
+aglimmer	adj	a-|a|P ; glimmer|glimmer|R|V
+aglitter	adj	a-|a|P ; glitter|glitter|R|V
+aglomerular	adj	a-|a|P ; glomerular|glomerular|R|Adj
+aglossate	adj	aglossate|aglossate|R|Adj
+agminated	adj	agminate|agminat|R|V ; -ed|ed|S||-ed (adj)
+agnail	noun	agnail|agnail|R|N
+agnathan	noun	agnathan|agnathan|R|N
+agnatically	adv	agnatic|agnatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+agnation	noun	agnation|agnation|R|N
+agnolotti	noun	agnolotti|agnolotti|R|N
+agnomen	noun	agnomen|agnomen|R|N
+agnosia	noun	agnosia|agnosia|R|N
+agnostically	adv	agnostic|agnostic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+agnotology	noun	agnotology|agnotology|R|N
+agogic	adj	agogic|agogic|R|Adj
+agon	noun	agon|agon|R|N
+agonic	adj	agon|agon|R|N ; -ic|ic|S
+agonistically	adv	agonistic|agonistic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+agoraphobe	noun	agoraphobe|agoraphobe|R|N
+agoraphobiac	noun	agoraphobiac|agoraphobiac|R|N
+agorism	noun	agorism|agorism|R|N
+agrammatical	adj	a-|a|P ; grammatical|grammatical|R|Adj
+agrammatism	noun	agrammatism|agrammatism|R|N
+agranular	adj	a-|a|P ; granular|granular|R|Adj
+agranulocyte	noun	a-|a|P ; granulocyte|granulocyte|R|N
+agranulocytosis	noun	a-|a|P ; granulocytosis|granulocytosis|R|N
+agraphia	noun	agraphia|agraphia|R|N
+agrarianize	verb	agrarian|agrarian|R|Adj ; -ize|ize|S
+agrarianly	adv	agrarian|agrarian|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+agreeability	noun	agreeable|agreeabil|R|Adj ; -ity|ity|S
+agreeing	verb	agree|agree|R|V ; -ing|ing|I||-ing (v)
+agrestic	adj	agrestic|agrestic|R|Adj
+agriculturalism	noun	agricultural|agricultural|R|Adj ; -ism|ism|S
+agrimi	noun	agrimi|agrimi|R|N
+agrimony	noun	agrimony|agrimony|R|N
+agrimotor	noun	agrimotor|agrimotor|R|N
+agriotype	noun	agriotype|agriotype|R|N
+agrisystem	noun	agrisystem|agrisystem|R|N
+agritourism	noun	agritourism|agritourism|R|N
+agrobacterium	noun	agrobacterium|agrobacterium|R|N
+agrobiologic	adj	agrobiology|agrobiolog|R|N ; -ic|ic|S
+agrobiological	adj	agrobiologic|agrobiologic|R|Adj ; -al|al|S
+agrobiologically	adv	agrobiological|agrobiological|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+agrobiologist	noun	agrobiology|agrobiolog|R|N ; -ist|ist|S
+agrobiology	noun	agrobiology|agrobiology|R|N
+agrochemist	noun	agrochemist|agrochemist|R|N
+agrochemistry	noun	agrochemistry|agrochemistry|R|N
+agroecological	adj	agroecologic|agroecologic|R|Adj ; -al|al|S
+agroecology	noun	agroecology|agroecology|R|N
+agroecosystem	noun	agroecosystem|agroecosystem|R|N
+agrogeology	noun	agrogeology|agrogeology|R|N
+agroindustrial	adj	agroindustrial|agroindustrial|R|Adj
+agroindustry	noun	agroindustry|agroindustry|R|N
+agrology	noun	agrology|agrology|R|N
+agrometeorological	adj	agrometeorology|agrometeorolog|R|N ; -ical|ical|S
+agrometeorology	noun	agrometeorology|agrometeorology|R|N
+agronomical	adj	agronomy|agronom|R|N ; -ical|ical|S
+agrostology	noun	agrostology|agrostology|R|N
+agrotechnical	adj	agrotechnical|agrotechnical|R|Adj
+agrypnia	noun	agrypnia|agrypnia|R|N
+aguish	adj	ague|agu|R|N ; -ish|ish|S
+aguishness	noun	ague|agu|R|N ; -ish|ish|S ; -ness|ness|S
+aheap	adv	a-|a|P ; heap|heap|R|N
+ahegao	noun	ahegao|ahegao|R|N
+ahimsa	noun	ahimsa|ahimsa|R|N
+ahistoric	adj	a-|a|P ; historic|historic|R|Adj
+ahistorically	adv	a-|a|P ; historic|historic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+ahoge	noun	ahoge|ahoge|R|N
+ahull	adj	a-|a|P ; hull|hull|R|N
+ai	noun	ai|ai|R|N
+aiblins	adv	aiblins|aiblins|R|Adv
+aibohphobia	noun	aibohphobia|aibohphobia|R|N
+aidoru	noun	aidoru|aidoru|R|N
+aiglet	noun	aiglet|aiglet|R|N
+aigrette	noun	aigrette|aigrette|R|N
+aiguille	noun	aiguille|aiguille|R|N
+aiguillette	noun	aiguillette|aiguillette|R|N
+ailanthus	noun	ailanthus|ailanthus|R|N
+ailihphilia	noun	ailihphilia|ailihphilia|R|N
+ailurophile	noun	ailurophile|ailurophile|R|N
+ailurophobe	noun	ailurophobe|ailurophobe|R|N
+ailurophobia	noun	ailurophobia|ailurophobia|R|N
+aimbot	noun	aim|aim|R|V ; bot|bot|R|N
+aimed	adj	aim|aim|R|V ; -ed|ed|S||-ed (adj)
+aiming	verb	aim|aim|R|V ; -ing|ing|I||-ing (v)
+airan	noun	airan|airan|R|N
+airbridge	noun	air|air|R|N ; bridge|bridge|R|N
+aircraftman	noun	air|air|R|N ; craft|craft|R|N ; man|man|R|N
+aircraftwoman	noun	air|air|R|N ; craft|craft|R|N ; woman|woman|R|N
+aircrash	noun	air|air|R|N ; crash|crash|R|N
+airdropped	adj	air|air|R|N ; drop|dropp|R|V ; -ed|ed|S||-ed (adj)
+airhorn	noun	air|air|R|N ; horn|horn|R|N
+airlessness	noun	air|air|R|N ; -less|less|S ; -ness|ness|S
+airmanship	noun	air|air|R|N ; man|man|R|N ; -ship|ship|S
+airmonger	noun	air|air|R|N ; monger|monger|R|N
+airphoto	noun	air|air|R|N ; photo|photo|R|N
+airportable	adj	air|air|R|N ; port|port|R|V ; -able|able|S
+airproof	adj	air|air|R|N ; proof|proof|R|N
+airs	noun	air|air|R|N ; -s|s|I||-s (plural)
+airscrew	noun	air|air|R|N ; screw|screw|R|N
+airwoman	noun	air|air|R|N ; woman|woman|R|N
+ait	noun	ait|ait|R|N
+aitchbone	noun	aitch|aitch|R|N ; bone|bone|R|N
+ajapsandali	noun	ajapsandali|ajapsandali|R|N
+ajog	adv	ajog|ajog|R|Adv
+ajumma	noun	ajumma|ajumma|R|N
+ajvar	noun	ajvar|ajvar|R|N
+ajwain	noun	ajwain|ajwain|R|N
+akamatsu	noun	akamatsu|akamatsu|R|N
+akanbe	noun	akanbe|akanbe|R|N
+akaryocyte	noun	a-|a|P ; karyocyte|karyocyte|R|N
+akaryote	noun	akaryote|akaryote|R|N
+akashvani	noun	akashvani|akashvani|R|N
+akhirah	noun	akhirah|akhirah|R|N
+akhund	noun	akhund|akhund|R|N
+akinesia	noun	akinesia|akinesia|R|N
+akinete	noun	akinete|akinete|R|N
+akja	noun	akja|akja|R|N
+alabastron	noun	alabastron|alabastron|R|N
+alack	interj	alack|alack|R
+alackaday	interj	alackaday|alackaday|R
+alacritous	adj	alacrity|alacrit|R|N ; -ous|ous|S
+alalia	noun	alalia|alalia|R|N
+alanine	noun	alanine|alanine|R|N
+alarum	noun	alarum|alarum|R|N
+alate	adj	alate|alate|R|Adj
+alatern	noun	alatern|alatern|R|N
+alb	noun	alb|alb|R|N
+albata	noun	albata|albata|R|N
+albedometer	noun	albedo|albedo|R|N ; meter|meter|R|N
+albertosaurus	noun	albertosaurus|albertosaurus|R|N
+albinistic	adj	albino|albin|R|N ; -ist|ist|S ; -ic|ic|S
+albite	noun	albite|albite|R|N
+albitic	adj	albite|albit|R|N ; -ic|ic|S
+albugo	noun	albugo|albugo|R|N
+albumen	noun	albumen|albumen|R|N
+albumenize	verb	albumen|albumen|R|N ; -ize|ize|S
+albuminemia	noun	albuminemia|albuminemia|R|N
+albuminoid	noun	albuminoid|albuminoid|R|N
+albuminous	adj	albumin|albumin|R|N ; -ous|ous|S
+albuminuria	noun	albuminuria|albuminuria|R|N
+albuminuric	adj	albuminuria|albuminur|R|N ; -ic|ic|S
+alburnum	noun	alburnum|alburnum|R|N
+alcarraza	noun	alcarraza|alcarraza|R|N
+alcazar	noun	alcazar|alcazar|R|N
+alcelaphine	adj	alcelaphine|alcelaphine|R|Adj
+alchemic	adj	alchemy|alchem|R|N ; -ic|ic|S
+alchemise	verb	alchemy|alchem|R|N ; -ise|ise|S
+alchemistic	adj	alchemy|alchem|R|N ; -ist|ist|S ; -ic|ic|S
+alchemistical	adj	alchemy|alchem|R|N ; -ist|ist|S ; -ical|ical|S
+alcid	noun	alcid|alcid|R|N
+alcogel	noun	alcogel|alcogel|R|N
+alcoholaemia	noun	alcoholaemia|alcoholaemia|R|N
+alcoholate	noun	alcohol|alcohol|R|N ; -ate|ate|S
+alcoholization	noun	alcohol|alcohol|R|N ; -ize|iz|S ; -ation|ation|S
+alcoholize	verb	alcohol|alcohol|R|N ; -ize|ize|S
+alcohology	noun	alcohology|alcohology|R|N
+alcoholometer	noun	alcoholometer|alcoholometer|R|N
+alcoholometry	noun	alcoholometry|alcoholometry|R|N
+alcopop	noun	alcopop|alcopop|R|N
+alcyonarian	noun	alcyonarian|alcyonarian|R|N
+alderfly	noun	alder|alder|R|N ; fly|fly|R|N
+aldermancy	noun	aldermancy|aldermancy|R|N
+aldermanic	adj	alderman|alderman|R|N ; -ic|ic|S
+aldermanite	noun	aldermanite|aldermanite|R|N
+aldermanry	noun	alderman|alderman|R|N ; -ry|ry|S
+aldermanship	noun	alderman|alderman|R|N ; -ship|ship|S
+aldol	noun	aldol|aldol|R|N
+aldolase	noun	aldolase|aldolase|R|N
+aldopentose	noun	aldopentose|aldopentose|R|N
+aldose	noun	aldose|aldose|R|N
+aldosterone	noun	aldosterone|aldosterone|R|N
+aldosteronism	noun	aldosterone|aldosteron|R|N ; -ism|ism|S
+aldrin	noun	aldrin|aldrin|R|N
+aleak	adj	a-|a|P ; leak|leak|R|V
+alecithal	adj	alecithal|alecithal|R|Adj
+alee	adv	a-|a|P ; lee|lee|R|N
+alegar	noun	alegar|alegar|R|N
+alembic	noun	alembic|alembic|R|N
+alepidote	adj	alepidote|alepidote|R|Adj
+alerion	noun	alerion|alerion|R|N
+aleurone	noun	aleurone|aleurone|R|N
+aleuronic	adj	aleurone|aleuron|R|N ; -ic|ic|S
+alevin	noun	alevin|alevin|R|N
+alexandrine	noun	alexandrine|alexandrine|R|N
+alexandrite	noun	alexandrite|alexandrite|R|N
+alexia	noun	alexia|alexia|R|N
+alexin	noun	alexin|alexin|R|N
+alexithymia	noun	alexithymia|alexithymia|R|N
+alfisol	noun	alfisol|alfisol|R|N
+alfresco	adv	alfresco|alfresco|R|Adv
+algebraical	adj	algebra|algebra|R|N ; -ical|ical|S
+algebraist	noun	algebra|algebra|R|N ; -ist|ist|S

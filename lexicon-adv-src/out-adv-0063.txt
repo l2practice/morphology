@@ -1,0 +1,150 @@
+capsaicin	noun	=
+instantiate	verb	=
+infarct	noun	=
+syllabic	adj	=
+dermis	noun	=
+pertussis	noun	per-|per|P||||Latin per 'thorough' ; -tuss-|tuss|B|N|||Latin tussis 'cough' ; -is|is|S||||Latin -is 'noun ending'
+rheumatologist	noun	=
+subduction	noun	sub-|sub|P||||Latin sub 'under' ; -duct-|duct|B|V|||Latin ducere 'to lead, draw' ; -ion|ion|S||||Latin -io 'act, state'
+scarab	noun	=
+syncretism	noun	=
+nutria	noun	=
+citrine	noun	citr-|citr|B|N|||Latin citrus 'citron' ; -ine|ine|S||||Latin -inus 'pertaining to'
+estoppel	noun	=
+caudal	adj	caud-|caud|B|N|||Latin cauda 'tail' ; -al|al|S||||Latin -alis 'pertaining to'
+psychosexual	adj	=
+assignation	noun	=
+occipital	adj	=
+vertex	noun	=
+gonad	noun	=
+pathologically	adv	=
+enzymatic	adj	=
+polyphenol	noun	=
+discomfit	verb	=
+chondrite	noun	chondr-|chondr|B|N|||Greek chondros 'grain' ; -ite|ite|S||||Greek -ites 'belonging to'
+botulinum	noun	botulin-|botulin|B|N|||Latin botulus 'sausage' ; -um|um|S||||Latin -um 'neuter ending'
+pectin	noun	pect-|pect|B|V|||Greek pektikos 'curdling' ; -in|in|S
+solenoid	noun	=
+phylogeny	noun	=
+harasser	noun	=
+depute	verb	=
+commodious	adj	=
+continuo	noun	=
+effector	noun	=
+anticlimax	noun	=
+literalism	noun	=
+tyrosine	noun	tyros-|tyros|B|N|||Greek tyros 'cheese' ; -ine|ine|S
+crystallographic	adj	=
+interpolate	verb	=
+peroxidase	noun	=
+perfidy	noun	=
+fibula	noun	=
+boosterism	noun	=
+verifier	noun	=
+duodenum	noun	=
+scammer	noun	=
+molybdenum	noun	=
+defecation	noun	=
+pimiento	noun	=
+tachycardia	noun	tachy-|tachy|B|Adj|||Greek tachys 'swift' ; -cardia|cardia|B|N|||Greek kardia 'heart'
+monolayer	noun	=
+obeisance	noun	=
+febrile	adj	febr-|febr|B|N|||Latin febris 'fever' ; -ile|ile|S||||Latin -ilis 'pertaining to'
+vacillation	noun	=
+nubile	adj	nub-|nub|B|V|||Latin nubere 'to marry' ; -ile|ile|S||||Latin -ilis 'pertaining to'
+noisemaker	noun	=
+pendulous	adj	pend-|pend|B|V|||Latin pendere 'to hang' ; -ulous|ulous|S||||Latin -ulosus 'prone to'
+iambic	adj	iamb-|iamb|B|N|||Greek iambos 'iamb' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+biphenyl	noun	=
+universalize	verb	=
+oncogene	noun	=
+aliquot	noun	=
+bioengineered	adj	=
+abjure	verb	=
+facilitative	adj	=
+introversion	noun	intro-|intro|P||||Latin intro 'within' ; -vers-|vers|B|V|||Latin vertere 'to turn' ; -ion|ion|S||||Latin -io 'act, state'
+geochemical	adj	=
+prednisone	noun	=
+arum	noun	=
+dilatation	noun	=
+seneschal	noun	=
+echinoderm	noun	echino-|echino|B|N|||Greek echinos 'sea urchin' ; -derm|derm|B|N|||Greek derma 'skin'
+deuce	noun	=
+samara	noun	=
+interpretable	adj	=
+ostentation	noun	=
+enteric	adj	enter-|enter|B|N|||Greek enteron 'intestine' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+convolution	noun	con-|con|P||||Latin com- 'together' ; -volut-|volut|B|V|||Latin volvere 'to roll' ; -ion|ion|S||||Latin -io 'act, state'
+idem	pron	=
+conjugation	noun	=
+nomenklatura	noun	=
+apologia	noun	apo-|apo|P||||Greek apo 'from' ; -log-|log|B|N|||Greek logos 'word, speech' ; -ia|ia|S||||Greek -ia 'state, condition'
+astigmatism	noun	a-|a|P||||Greek a- 'not' ; -stigmat-|stigmat|B|N|||Greek stigma 'mark, point' ; -ism|ism|S||||Greek -ismos 'condition'
+denier	noun	=
+ejecta	noun	=
+combustor	noun	combust-|combust|B|V|||Latin comburere 'to burn up' ; -or|or|S||||Latin -tor 'agent'
+biocontrol	noun	=
+coitus	noun	=
+gastropod	noun	gastro-|gastro|B|N|||Greek gaster 'stomach' ; -pod|pod|B|N|||Greek pous 'foot'
+leptin	noun	lept-|lept|B|Adj|||Greek leptos 'thin' ; -in|in|S
+apposition	noun	ap-|ap|P||||Latin ad- 'to, near' ; -posit-|posit|B|V|||Latin ponere 'to put' ; -ion|ion|S||||Latin -io 'act, state'
+odorous	adj	=
+cultist	noun	=
+juicer	noun	=
+coleus	noun	=
+sedum	noun	=
+oratorical	adj	=
+tansy	noun	=
+abacus	noun	=
+thallium	noun	thall-|thall|B|N|||Greek thallos 'green branch' ; -ium|ium|S||||Latin -ium 'element suffix'
+tahini	noun	=
+acoustically	adv	=
+languor	noun	=
+gizzard	noun	=
+heterodox	adj	hetero-|hetero|B|Adj|||Greek heteros 'other, different' ; -dox|dox|B|N|||Greek doxa 'opinion'
+rescission	noun	re-|re|P||||Latin re- 'back' ; -sciss-|sciss|B|V|||Latin scindere 'to cut' ; -ion|ion|S||||Latin -io 'act, state'
+contextualization	noun	=
+parenthetical	adj	par-|par|P||||Greek para 'beside' ; en-|en|P||||Greek en 'in' ; -thet-|thet|B|V|||Greek tithenai 'to put' ; -ical|ical|S||||Latin -alis 'pertaining to'
+anticoagulant	noun	=
+commutation	noun	=
+metatarsal	noun	=
+pannier	noun	=
+austral	adj	=
+sarcoidosis	noun	=
+getter	noun	=
+agarose	noun	=
+hypotension	noun	=
+polyacrylamide	noun	=
+hypotenuse	noun	=
+concretion	noun	=
+sycophant	noun	syco-|syco|B|N|||Greek sykon 'fig' ; -phant|phant|B|V|||Greek phainein 'to show'
+daemon	noun	=
+biogeography	noun	=
+aphasia	noun	a-|a|P||||Greek a- 'not' ; -phas-|phas|B|N|||Greek phasis 'speech' ; -ia|ia|S||||Greek -ia 'state, condition'
+capuchin	noun	=
+pentagonal	adj	=
+axillary	adj	=
+phenylketonuria	noun	=
+cruncher	noun	=
+codon	noun	=
+trombonist	noun	=
+lamprey	noun	=
+jingoistic	adj	=
+reactivation	noun	=
+psychodrama	noun	=
+lysosome	noun	=
+individualization	noun	=
+angiosperm	noun	=
+stratigraphical	adj	=
+sacristy	noun	=
+chanson	noun	=
+ewer	noun	=
+saccharin	noun	sacchar-|sacchar|B|N|||Latin saccharum 'sugar' ; -in|in|S
+avaricious	adj	=
+microscopically	adv	=
+bursa	noun	=
+agonist	noun	agon-|agon|B|N|||Greek agon 'contest' ; -ist|ist|S||||Greek -istes 'one who'
+fentanyl	noun	=
+phosphatase	noun	=
+teleology	noun	teleo-|teleo|B|N|||Greek telos 'end, purpose' ; -logy|logy|B|N|||Greek logos 'study, word'
+schemer	noun	=

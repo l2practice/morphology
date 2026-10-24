@@ -1,0 +1,200 @@
+shanghaiing	verb	shanghai|shanghai|R|V ; -ing|ing|I||-ing (v)
+shanny	noun	shanny|shanny|R|N
+shanti	noun	shanti|shanti|R|N
+shantung	noun	shantung|shantung|R|N
+shantyman	noun	shanty|shanty|R|N ; man|man|R|N
+shanzhai	noun	shanzhai|shanzhai|R|N
+shapelessness	noun	shape|shape|R|N ; -less|less|S ; -ness|ness|S
+shapeshift	verb	shape|shape|R|N ; shift|shift|R|V
+shapeshifter	noun	shape|shape|R|N ; shift|shift|R|V ; -er|er|S||-er (N)
+sharashka	noun	sharashka|sharashka|R|N
+sharecrop	verb	share|share|R|N ; crop|crop|R|V
+sharepusher	noun	share|share|R|N ; push|push|R|V ; -er|er|S||-er (N)
+shariatic	adj	shariatic|shariatic|R|Adj
+sharif	noun	sharif|sharif|R|N
+sharked	verb	shark|shark|R|V ; -ed|ed|I||-ed (v2)
+sharking	verb	shark|shark|R|V ; -ing|ing|I||-ing (v)
+sharper	noun	sharp|sharp|R|Adj ; -er|er|S||-er (N)
+shart	noun	shart|shart|R|N
+shashlik	noun	shashlik|shashlik|R|N
+shatranj	noun	shatranj|shatranj|R|N
+shattery	adj	shatter|shatter|R|V ; -y|y|S
+shaveling	noun	shave|shav|R|V ; -ling|eling|S
+shavetail	noun	shave|shave|R|V ; tail|tail|R|N
+shawarma	noun	shawarma|shawarma|R|N
+shawm	noun	shawm|shawm|R|N
+shazam	interj	shazam|shazam|R
+shchi	noun	shchi|shchi|R|N
+sheading	noun	sheading|sheading|R|N
+sheaflike	adj	sheaf|sheaf|R|N ; -like|like|S
+sheafy	adj	sheaf|sheaf|R|N ; -y|y|S
+shears	noun	shear|shear|R|N ; -s|s|I||-s (plural)
+sheartail	noun	shear|shear|R|V ; tail|tail|R|N
+sheat	noun	sheat|sheat|R|N
+sheatfish	noun	sheat|sheat|R|N ; fish|fish|R|N
+sheathless	adj	sheath|sheath|R|N ; -less|less|S
+sheathy	adj	sheath|sheath|R|N ; -y|y|S
+sheave	verb	sheave|sheave|R|V
+shebeen	noun	shebeen|shebeen|R|N
+shedder	noun	shed|shedd|R|V ; -er|er|S||-er (N)
+sheeny	adj	sheen|sheen|R|N ; -y|y|S
+sheepcote	noun	sheep|sheep|R|N ; cote|cote|R|N
+sheepishness	noun	sheep|sheep|R|N ; -ish|ish|S ; -ness|ness|S
+sheeple	noun	sheeple|sheeple|R|N
+sheepman	noun	sheep|sheep|R|N ; man|man|R|N
+sheeppox	noun	sheep|sheep|R|N ; pox|pox|R|N
+sheepshank	noun	sheep|sheep|R|N ; shank|shank|R|N
+sheers	noun	sheer|sheer|R|N ; -s|s|I||-s (plural)
+sheesh	interj	sheesh|sheesh|R
+sheeted	adj	sheet|sheet|R|N ; -ed|ed|S||-ed (adj)
+sheeter	noun	sheet|sheet|R|N ; -er|er|S||-er (N)
+sheets	noun	sheet|sheet|R|N ; -s|s|I||-s (plural)
+shegetz	noun	shegetz|shegetz|R|N
+shellacking	verb	shellac|shellack|R|V ; -ing|ing|I||-ing (v)
+shellback	noun	shell|shell|R|N ; back|back|R|N
+shelterbelt	noun	shelter|shelter|R|N ; belt|belt|R|N
+shelterless	adj	shelter|shelter|R|N ; -less|less|S
+sheltron	noun	sheltron|sheltron|R|N
+shelvy	adj	shelvy|shelvy|R|Adj
+shemale	noun	she|she|R ; male|male|R|N
+shemozzle	noun	shemozzle|shemozzle|R|N
+shepherding	verb	shepherd|shepherd|R|V ; -ing|ing|I||-ing (v)
+shereef	noun	shereef|shereef|R|N
+sheriffalty	noun	sheriffalty|sheriffalty|R|N
+sheriffdom	noun	sheriff|sheriff|R|N ; -dom|dom|S
+sheriffhood	noun	sheriff|sheriff|R|N ; -hood|hood|S
+sheriffship	noun	sheriff|sheriff|R|N ; -ship|ship|S
+sheth	noun	sheth|sheth|R|N
+shetland	noun	shetland|shetland|R|N
+sheugh	noun	sheugh|sheugh|R|N
+shieldless	adj	shield|shield|R|N ; -less|less|S
+shieldmaiden	noun	shield|shield|R|N ; maiden|maiden|R|N
+shieldmaker	noun	shield|shield|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+shieling	noun	shieling|shieling|R|N
+shiftable	adj	shift|shift|R|V ; -able|able|S
+shiftily	adv	shift|shift|R|V ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+shiftiness	noun	shift|shift|R|V ; -y|i|S ; -ness|ness|S
+shiftlessness	noun	shift|shift|R|V ; -less|less|S ; -ness|ness|S
+shikar	noun	shikar|shikar|R|N
+shikari	noun	shikari|shikari|R|N
+shikra	noun	shikra|shikra|R|N
+shilajit	noun	shilajit|shilajit|R|N
+shimmed	verb	shim|shimm|R|V ; -ed|ed|I||-ed (v2)
+shimming	verb	shim|shimm|R|V ; -ing|ing|I||-ing (v)
+shimmying	verb	shimmy|shimmy|R|V ; -ing|ing|I||-ing (v)
+shindy	noun	shindy|shindy|R|N
+shingler	noun	shingle|shingl|R|N ; -er|er|S||-er (N)
+shingling	verb	shingle|shingl|R|V ; -ing|ing|I||-ing (v)
+shingly	adj	shingle|shingl|R|N ; -y|y|S
+shininess	noun	shiny|shini|R|Adj ; -ness|ness|S
+shinjitai	noun	shinjitai|shinjitai|R|N
+shinleaf	noun	shin|shin|R|N ; leaf|leaf|R|N
+shinned	verb	shin|shinn|R|V ; -ed|ed|I||-ed (v2)
+shinplaster	noun	shin|shin|R|N ; plaster|plaster|R|N
+shinty	noun	shinty|shinty|R|N
+shipped	verb	ship|shipp|R|V ; -ed|ed|I||-ed (v2)
+shipway	noun	ship|ship|R|N ; way|way|R|N
+shipwrecky	adj	ship|ship|R|N ; wreck|wreck|R|V ; -y|y|S
+shirker	noun	shirk|shirk|R|V ; -er|er|S||-er (N)
+shirking	verb	shirk|shirk|R|V ; -ing|ing|I||-ing (v)
+shirr	verb	shirr|shirr|R|V
+shirring	verb	shirr|shirr|R|V ; -ing|ing|I||-ing (v)
+shirtily	adv	shirt|shirt|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+shirtiness	noun	shirt|shirt|R|N ; -y|i|S ; -ness|ness|S
+shirting	noun	shirt|shirt|R|N ; -ing|ing|S||-ing (N)
+shirtmaker	noun	shirt|shirt|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+shitbox	noun	shit|shit|R|N ; box|box|R|N
+shiteater	noun	shit|shit|R|N ; eat|eat|R|V ; -er|er|S||-er (N)
+shitfaced	adj	shit|shit|R|N ; face|fac|R|N ; -ed|ed|S||-ed (adj)
+shithole	noun	shit|shit|R|N ; hole|hole|R|N
+shitling	noun	shit|shit|R|N ; -ling|ling|S
+shitlips	noun	shit|shit|R|N ; lip|lip|R|N ; -s|s|I||-s (plural)
+shitload	noun	shit|shit|R|N ; load|load|R|N
+shitly	adj	shit|shit|R|N ; -ly|ly|S||-ly (adj)
+shitpost	noun	shit|shit|R|N ; post|post|R|V
+shits	noun	shit|shit|R|N ; -s|s|I||-s (plural)
+shitstorm	noun	shit|shit|R|N ; storm|storm|R|N
+shittah	noun	shittah|shittah|R|N
+shittimwood	noun	shittim|shittim|R|N ; wood|wood|R|N
+shitting	verb	shit|shitt|R|V ; -ing|ing|I||-ing (v)
+shive	noun	shive|shive|R|N
+shivoo	noun	shivoo|shivoo|R|N
+shnor	verb	shnor|shnor|R|V
+shoaling	verb	shoal|shoal|R|V ; -ing|ing|I||-ing (v)
+shoaly	adj	shoal|shoal|R|N ; -y|y|S
+shockingness	noun	shock|shock|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+shoebill	noun	shoe|shoe|R|N ; bill|bill|R|N
+shoeblack	noun	shoe|shoe|R|N ; black|black|R|Adj
+shoegazing	noun	shoe|shoe|R|N ; gaze|gaz|R|V ; -ing|ing|S||-ing (N)
+shoemaking	noun	shoe|shoe|R|N ; make|mak|R|V ; -ing|ing|S||-ing (N)
+shoeshiner	noun	shoe|shoe|R|N ; shine|shin|R|V ; -er|er|S||-er (N)
+shogi	noun	shogi|shogi|R|N
+shogunal	adj	shogun|shogun|R|N ; -al|al|S
+shogunate	noun	shogun|shogun|R|N ; -ate|ate|S
+shojo	noun	shojo|shojo|R|N
+shooing	verb	shoo|shoo|R|V ; -ing|ing|I||-ing (v)
+shopaholism	noun	shopaholism|shopaholism|R|N
+shophouse	noun	shop|shop|R|N ; house|house|R|N
+shopman	noun	shop|shop|R|N ; man|man|R|N
+shopowner	noun	shop|shop|R|N ; own|own|R|V ; -er|er|S||-er (N)
+shoppy	adj	shop|shopp|R|N ; -y|y|S
+shoring	verb	shore|shor|R|V ; -ing|ing|I||-ing (v)
+shortchange	verb	short|short|R|Adj ; change|change|R|V
+shorted	verb	short|short|R|V ; -ed|ed|I||-ed (v2)
+shorter	adj	short|short|R|Adj ; -er|er|I||-er (comparative)
+shorthanded	adj	short|short|R|Adj ; hand|hand|R|N ; -ed|ed|S||-ed (adj)
+shorting	verb	short|short|R|V ; -ing|ing|I||-ing (v)
+shortsword	noun	short|short|R|Adj ; sword|sword|R|N
+shotel	noun	shotel|shotel|R|N
+shotted	verb	shot|shott|R|V ; -ed|ed|I||-ed (v2)
+shotten	adj	shotten|shotten|R|Adj
+shotty	adj	shot|shott|R|N ; -y|y|S
+shouldering	verb	shoulder|shoulder|R|V ; -ing|ing|I||-ing (v)
+shoulders	noun	shoulder|shoulder|R|N ; -s|s|I||-s (plural)
+shovelbill	noun	shovel|shovel|R|N ; bill|bill|R|N
+shovelling	verb	shovel|shovell|R|V ; -ing|ing|I||-ing (v)
+shovelman	noun	shovel|shovel|R|N ; man|man|R|N
+showeriness	noun	shower|shower|R|N ; -y|i|S ; -ness|ness|S
+showily	adv	showy|showi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+showiness	noun	showy|showi|R|Adj ; -ness|ness|S
+showrunner	noun	show|show|R|N ; run|runn|R|V ; -er|er|S||-er (N)
+shraddha	noun	shraddha|shraddha|R|N
+shrank	verb	shrink|shrank|R|V ; -ed||I||-ed (v2)
+shreddy	adj	shred|shredd|R|V ; -y|y|S
+shreds	noun	shred|shred|R|N ; -s|s|I||-s (plural)
+shrewishly	adv	shrew|shrew|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+shrewishness	noun	shrew|shrew|R|N ; -ish|ish|S ; -ness|ness|S
+shrieval	adj	shrieval|shrieval|R|Adj
+shrievalty	noun	shrieval|shrieval|R|Adj ; -ty|ty|S
+shrilling	verb	shrill|shrill|R|V ; -ing|ing|I||-ing (v)
+shrinkable	adj	shrink|shrink|R|V ; -able|able|S
+shrinkflation	noun	shrinkflation|shrinkflation|R|N
+shrive	verb	shrive|shrive|R|V
+shrivelling	verb	shrivel|shrivell|R|V ; -ing|ing|I||-ing (v)
+shriving	verb	shrive|shriv|R|V ; -ing|ing|I||-ing (v)
+shroff	noun	shroff|shroff|R|N
+shrouding	verb	shroud|shroud|R|V ; -ing|ing|I||-ing (v)
+shrugging	verb	shrug|shrugg|R|V ; -ing|ing|I||-ing (v)
+shrunk	verb	shrink|shrunk|R|V ; -en||I||-en (participle)
+shtup	verb	shtup|shtup|R|V
+shucker	noun	shuck|shuck|R|V ; -er|er|S||-er (N)
+shucking	verb	shuck|shuck|R|V ; -ing|ing|I||-ing (v)
+shuffler	noun	shuffle|shuffl|R|V ; -er|er|S||-er (N)
+shufflingly	adv	shuffle|shuffl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+shufti	noun	shufti|shufti|R|N
+shulgoer	noun	shul|shul|R|N ; go|go|R|V ; -er|er|S||-er (N)
+shumai	noun	shumai|shumai|R|N
+shunless	adj	shun|shun|R|V ; -less|less|S
+shunning	verb	shun|shunn|R|V ; -ing|ing|I||-ing (v)
+shunted	verb	shunt|shunt|R|V ; -ed|ed|I||-ed (v2)
+shuriken	noun	shuriken|shuriken|R|N
+shushing	verb	shush|shush|R|V ; -ing|ing|I||-ing (v)
+shutterless	adj	shutter|shutter|R|N ; -less|less|S
+shvantz	noun	shvantz|shvantz|R|N
+shyer	adj	shy|shy|R|Adj ; -er|er|I||-er (comparative)
+shying	verb	shy|shy|R|V ; -ing|ing|I||-ing (v)
+si	noun	si|si|R|N
+sial	noun	sial|sial|R|N
+sialogogic	adj	sialogogic|sialogogic|R|Adj
+sialogogue	noun	sialogogue|sialogogue|R|N
+siamang	noun	siamang|siamang|R|N

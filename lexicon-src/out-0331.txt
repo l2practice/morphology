@@ -1,0 +1,200 @@
+mudfish	noun	mud|mud|R|N ; fish|fish|R|N
+mudflap	noun	mud|mud|R|N ; flap|flap|R|N
+mudir	noun	mudir|mudir|R|N
+mudlark	noun	mud|mud|R|N ; lark|lark|R|N
+mudpuppy	noun	mud|mud|R|N ; puppy|puppy|R|N
+mudra	noun	mudra|mudra|R|N
+mudskipper	noun	mud|mud|R|N ; skip|skipp|R|V ; -er|er|S||-er (N)
+mudslinger	noun	mud|mud|R|N ; sling|sling|R|V ; -er|er|S||-er (N)
+mudslinging	noun	mud|mud|R|N ; sling|sling|R|V ; -ing|ing|S||-ing (N)
+mudsnail	noun	mud|mud|R|N ; snail|snail|R|N
+muffed	verb	muff|muff|R|V ; -ed|ed|I||-ed (v2)
+muffing	noun	muff|muff|R|V ; -ing|ing|S||-ing (N)
+muffling	noun	muffle|muffl|R|V ; -ing|ing|S||-ing (N)
+mugginess	noun	mug|mugg|R|N ; -y|i|S ; -ness|ness|S
+muggins	noun	muggins|muggins|R|N
+muggle	noun	muggle|muggle|R|N
+muggles	noun	muggle|muggle|R|N ; -s|s|I||-s (plural)
+mugham	noun	mugham|mugham|R|N
+mugwort	noun	mug|mug|R|N ; wort|wort|R|N
+mugwump	noun	mugwump|mugwump|R|N
+mugwumpery	noun	mugwump|mugwump|R|N ; -ery|ery|S
+mujahid	noun	mujahid|mujahid|R|N
+mujik	noun	mujik|mujik|R|N
+mukbang	noun	mukbang|mukbang|R|N
+mukhtar	noun	mukhtar|mukhtar|R|N
+mulattress	noun	mulattress|mulattress|R|N
+mulct	verb	mulct|mulct|R|V
+mulcting	noun	mulct|mulct|R|V ; -ing|ing|S||-ing (N)
+mules	noun	mule|mule|R|N ; -s|s|I||-s (plural)
+muleteer	noun	muleteer|muleteer|R|N
+muliebrity	noun	muliebrity|muliebrity|R|N
+mulishness	noun	mule|mul|R|N ; -ish|ish|S ; -ness|ness|S
+mulligatawny	noun	mulligatawny|mulligatawny|R|N
+mulligrubs	noun	mulligrubs|mulligrubs|R|N
+mulling	noun	mull|mull|R|V ; -ing|ing|S||-ing (N)
+multangular	adj	multi-|mult|P ; angular|angular|R|Adj
+multibillionaire	noun	multi-|multi|P ; billionaire|billionaire|R|N
+multibreast	adj	multi-|multi|P ; breast|breast|R|N
+multicollinearity	noun	multi-|multi|P ; col-|col|P|||com- ; linear|linear|R|Adj ; -ity|ity|S
+multicolor	adj	multi-|multi|P ; color|color|R|N
+multiculturality	noun	multi-|multi|P ; culture|cultur|R|N ; -al|al|S ; -ity|ity|S
+multiculturally	adv	multi-|multi|P ; culture|cultur|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+multidifferential	adj	multi-|multi|P ; differential|differential|R|Adj
+multiengined	adj	multi-|multi|P ; engine|engin|R|N ; -ed|ed|S||-ed (adj)
+multiethnic	adj	multi-|multi|P ; ethnic|ethnic|R|Adj
+multiflorous	adj	multiflorous|multiflorous|R|Adj
+multifold	adj	multi-|multi|P ; fold|fold|R|V
+multigenerational	adj	multi-|multi|P ; generate|generat|R|V ; -ion|ion|S ; -al|al|S
+multihour	adj	multi-|multi|P ; hour|hour|R|N
+multihull	noun	multi-|multi|P ; hull|hull|R|N
+multilanguage	noun	multi-|multi|P ; language|language|R|N
+multilayer	noun	multi-|multi|P ; layer|layer|R|N
+multilayeredness	noun	multi-|multi|P ; layer|layer|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+multilinear	adj	multi-|multi|P ; linear|linear|R|Adj
+multilingualism	noun	multi-|multi|P ; lingual|lingual|R|Adj ; -ism|ism|S
+multimeter	noun	multi-|multi|P ; meter|meter|R|N
+multimorphism	noun	multi-|multi|P ; morphic|morph|R|Adj ; -ism|ism|S
+multipage	adj	multi-|multi|P ; page|page|R|N
+multiparous	adj	multiparous|multiparous|R|Adj
+multipartite	adj	multipartite|multipartite|R|Adj
+multipartyism	noun	multi-|multi|P ; party|party|R|N ; -ism|ism|S
+multiphase	adj	multi-|multi|P ; phase|phase|R|N
+multiplane	noun	multi-|multi|P ; plane|plane|R|N
+multiplayer	noun	multi-|multi|P ; play|play|R|V ; -er|er|S||-er (N)
+multiplexing	noun	multiplex|multiplex|R|V ; -ing|ing|S||-ing (N)
+multipliable	adj	multiply|multipli|R|V ; -able|able|S
+multiplicable	adj	multiplicable|multiplicable|R|Adj
+multiplicand	noun	multiplicand|multiplicand|R|N
+multiplicate	verb	multiplicate|multiplicate|R|V
+multiplicator	noun	multiplicator|multiplicator|R|N
+multiplug	noun	multi-|multi|P ; plug|plug|R|N
+multipolarity	noun	multi-|multi|P ; pole|pol|R|N ; -ar|ar|S ; -ity|ity|S
+multiprogram	noun	multi-|multi|P ; program|program|R|N
+multiset	noun	multi-|multi|P ; set|set|R|N
+multisport	adj	multi-|multi|P ; sport|sport|R|N
+multistable	adj	multi-|multi|P ; stable|stable|R|Adj
+multistoried	adj	multi-|multi|P ; story|stori|R|N ; -ed|ed|S||-ed (adj)
+multisyllable	noun	multi-|multi|P ; syllable|syllable|R|N
+multithreaded	adj	multi-|multi|P ; thread|thread|R|N ; -ed|ed|S||-ed (adj)
+multitool	noun	multi-|multi|P ; tool|tool|R|N
+multitudinousness	noun	multitudinous|multitudinous|R|Adj ; -ness|ness|S
+multiuser	noun	multi-|multi|P ; user|user|R|N
+multivalence	noun	multi-|multi|P ; valence|valence|R|N
+multivalued	adj	multi-|multi|P ; value|valu|R|V ; -ed|ed|S||-ed (adj)
+multivarious	adj	multivarious|multivarious|R|Adj
+multivibrator	noun	multi-|multi|P ; vibrate|vibrat|R|V ; -or|or|S
+multiwindow	noun	multi-|multi|P ; window|window|R|N
+multure	noun	multure|multure|R|N
+mumming	noun	mum|mumm|R|N ; -ing|ing|S||-ing (N)
+mump	verb	mump|mump|R|V
+mumpish	adj	mump|mump|R|V ; -ish|ish|S
+munchies	noun	munch|munch|R|V ; -ies|ies|I||-s (plural)
+mundaneness	noun	mundane|mundane|R|Adj ; -ness|ness|S
+munge	verb	munge|munge|R|V
+municipalism	noun	municipal|municipal|R|Adj ; -ism|ism|S
+municipalization	noun	municipal|municipal|R|Adj ; -ize|iz|S ; -ation|ation|S
+municipalize	verb	municipal|municipal|R|Adj ; -ize|ize|S
+munificently	adv	munificent|munificent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+muniment	noun	muniment|muniment|R|N
+munitioning	noun	munition|munition|R|N ; -ing|ing|S||-ing (N)
+munshi	noun	munshi|munshi|R|N
+muntin	noun	muntin|muntin|R|N
+muntjac	noun	muntjac|muntjac|R|N
+muqarnas	noun	muqarnas|muqarnas|R|N
+murabba	noun	murabba|murabba|R|N
+murex	noun	murex|murex|R|N
+muriatic	adj	muriatic|muriatic|R|Adj
+muricate	adj	murex|muric|R|N ; -ate|ate|S
+muricated	adj	muricate|muricat|R|Adj ; -ed|ed|S||-ed (adj)
+murrain	noun	murrain|murrain|R|N
+murrey	adj	murrey|murrey|R|Adj
+murtabak	noun	murtabak|murtabak|R|N
+musalla	noun	musalla|musalla|R|N
+muscadet	noun	muscadet|muscadet|R|N
+muscadin	noun	muscadin|muscadin|R|N
+muscardine	noun	muscardine|muscardine|R|N
+muscarine	noun	muscarine|muscarine|R|N
+musclebound	adj	muscle|muscle|R|N ; bind|bound|R|V ; -en||I||-en (participle)
+muscling	noun	muscle|muscl|R|N ; -ing|ing|S||-ing (N)
+muscologist	noun	muscology|muscolog|R|N ; -ist|ist|S
+muscology	noun	muscology|muscology|R|N
+muscovado	noun	muscovado|muscovado|R|N
+muscovite	noun	muscovite|muscovite|R|N
+musculation	noun	muscle|muscul|R|N ; -ation|ation|S
+museal	adj	muse|muse|R|N ; -al|al|S
+museologist	noun	museology|museolog|R|N ; -ist|ist|S
+musette	noun	musette|musette|R|N
+mushiness	noun	mush|mush|R|N ; -y|i|S ; -ness|ness|S
+mushing	noun	mush|mush|R|V ; -ing|ing|S||-ing (N)
+mushrik	noun	mushrik|mushrik|R|N
+mushroomer	noun	mushroom|mushroom|R|N ; -er|er|S||-er (N)
+musketoon	noun	musketoon|musketoon|R|N
+musketproof	adj	musket|musket|R|N ; proof|proof|R|N
+musophobia	noun	musophobia|musophobia|R|N
+mussiness	noun	muss|muss|R|V ; -y|i|S ; -ness|ness|S
+mussitate	verb	mussitate|mussitate|R|V
+mussitation	noun	mussitate|mussitat|R|V ; -ion|ion|S
+mussy	adj	muss|muss|R|V ; -y|y|S
+mustachio	noun	mustachio|mustachio|R|N
+mustering	noun	muster|muster|R|V ; -ing|ing|S||-ing (N)
+musth	noun	musth|musth|R|N
+mutagenicity	noun	mutagen|mutagen|R|N ; -ic|ic|S ; -ity|ity|S
+mutasarrif	noun	mutasarrif|mutasarrif|R|N
+mutating	noun	mutate|mutat|R|V ; -ing|ing|S||-ing (N)
+mutative	adj	mutate|mutat|R|V ; -ive|ive|S
+mutator	noun	mutate|mutat|R|V ; -or|or|S
+mutex	noun	mutex|mutex|R|N
+mutilative	adj	mutilate|mutilat|R|V ; -ive|ive|S
+mutilatory	adj	mutilate|mutilat|R|V ; -ory|ory|S
+muting	noun	mute|mut|R|V ; -ing|ing|S||-ing (N)
+mutinying	noun	mutiny|mutiny|R|V ; -ing|ing|S||-ing (N)
+muttonchop	noun	mutton|mutton|R|N ; chop|chop|R|N
+muttony	adj	mutton|mutton|R|N ; -y|y|S
+mutualize	verb	mutual|mutual|R|Adj ; -ize|ize|S
+muzz	verb	muzz|muzz|R|V
+muzziness	noun	muzz|muzz|R|Adj ; -y|i|S ; -ness|ness|S
+muzzled	adj	muzzle|muzzl|R|N ; -ed|ed|S||-ed (adj)
+muzzleloading	noun	muzzle|muzzle|R|N ; load|load|R|V ; -ing|ing|S||-ing (N)
+muzzling	noun	muzzle|muzzl|R|V ; -ing|ing|S||-ing (N)
+mwah	interj	mwah|mwah|R
+mycelial	adj	mycelium|myceli|R|N ; -al|al|S
+mycobacterium	noun	mycobacterium|mycobacterium|R|N
+mycologic	adj	mycology|mycolog|R|N ; -ic|ic|S
+mycological	adj	mycology|mycolog|R|N ; -ical|ical|S
+mycoplasma	noun	mycoplasma|mycoplasma|R|N
+mycorrhiza	noun	mycorrhiza|mycorrhiza|R|N
+mycosis	noun	mycosis|mycosis|R|N
+mydriasis	noun	mydriasis|mydriasis|R|N
+mydriatic	adj	mydriasis|mydriat|R|N ; -ic|ic|S
+myelitis	noun	myelitis|myelitis|R|N
+myelopathy	noun	myelopathy|myelopathy|R|N
+myelosclerosis	noun	myelosclerosis|myelosclerosis|R|N
+myiasis	noun	myiasis|myiasis|R|N
+myna	noun	myna|myna|R|N
+mynheer	noun	mynheer|mynheer|R|N
+myocardiograph	noun	myocardiograph|myocardiograph|R|N
+myocarditis	noun	myocarditis|myocarditis|R|N
+myofibril	noun	myofibril|myofibril|R|N
+myoga	noun	myoga|myoga|R|N
+myoma	noun	myoma|myoma|R|N
+myometrium	noun	myometrium|myometrium|R|N
+myopathic	adj	myopathic|myopathic|R|Adj
+myopathy	noun	myopathy|myopathy|R|N
+myope	noun	myope|myope|R|N
+myositis	noun	myositis|myositis|R|N
+myosotis	noun	myosotis|myosotis|R|N
+myriagon	noun	myriagon|myriagon|R|N
+myriapod	noun	myriapod|myriapod|R|N
+myrmecologist	noun	myrmecology|myrmecolog|R|N ; -ist|ist|S
+myrmecology	noun	myrmecology|myrmecology|R|N
+myrmecophily	noun	myrmecophily|myrmecophily|R|N
+myrmicine	adj	myrmicine|myrmicine|R|Adj
+myrmidon	noun	myrmidon|myrmidon|R|N
+myrobalan	noun	myrobalan|myrobalan|R|N
+myroblyte	noun	myroblyte|myroblyte|R|N
+myrtaceous	adj	myrtaceous|myrtaceous|R|Adj
+mysophobe	noun	mysophobe|mysophobe|R|N
+mysophobia	noun	mysophobia|mysophobia|R|N
+mystagogue	noun	mystagogue|mystagogue|R|N
+mysterial	adj	mystery|mysteri|R|N ; -al|al|S

@@ -1,0 +1,200 @@
+continualness	noun	continue|continu|R|V ; -al|al|S ; -ness|ness|S
+continuant	noun	continue|continu|R|V ; -ant|ant|S
+continuative	adj	continue|continu|R|V ; -ative|ative|S
+continuatively	adv	continue|continu|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+continuator	noun	continue|continu|R|V ; -or|ator|S
+continuer	noun	continue|continu|R|V ; -er|er|S||-er (N)
+continuousness	noun	continue|continu|R|V ; -ous|ous|S ; -ness|ness|S
+contoid	adj	contoid|contoid|R|Adj
+contorniate	verb	contorniate|contorniate|R|V
+contortedly	adv	contort|contort|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+contortedness	noun	contort|contort|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+contortionistic	adj	contort|contort|R|V ; -ion|ion|S ; -ist|ist|S ; -ic|ic|S
+contortive	adj	contort|contort|R|V ; -ive|ive|S
+contouring	noun	contour|contour|R|V ; -ing|ing|S||-ing (N)
+contrabandage	noun	contra-|contra|P ; bandage|bandage|R|N
+contrabandism	noun	contra-|contra|P ; band|band|R|N ; -ism|ism|S
+contrabandist	noun	contra-|contra|P ; band|band|R|N ; -ist|ist|S
+contrabass	noun	contra-|contra|P ; bass|bass|R|N
+contrabassist	noun	contra-|contra|P ; bass|bass|R|N ; -ist|ist|S
+contrabassoon	noun	contra-|contra|P ; bassoon|bassoon|R|N
+contractibility	noun	contract|contract|R|V ; -ible|ibil|S ; -ity|ity|S
+contractible	adj	contract|contract|R|V ; -ible|ible|S
+contractibleness	noun	contract|contract|R|V ; -ible|ible|S ; -ness|ness|S
+contractive	adj	contract|contract|R|V ; -ive|ive|S
+contracyclical	adj	contra-|contra|P ; cyclic|cyclic|R|Adj ; -al|al|S
+contradictable	adj	contradict|contradict|R|V ; -able|able|S
+contradicted	verb	contradict|contradict|R|V ; -ed|ed|I||-ed (v2)
+contradicter	noun	contradict|contradict|R|V ; -er|er|S||-er (N)
+contradicting	noun	contradict|contradict|R|V ; -ing|ing|S||-ing (N)
+contradictiousness	noun	contradict|contradict|R|V ; -ious|ious|S ; -ness|ness|S
+contradictorily	adv	contradict|contradict|R|V ; -ory|ori|S ; -ly|ly|I|Adv|-ly (adv)
+contradictoriness	noun	contradict|contradict|R|V ; -ory|ori|S ; -ness|ness|S
+contradistinctive	adj	contra-|contra|P ; distinct|distinct|R|Adj ; -ive|ive|S
+contradistinctively	adv	contra-|contra|P ; distinct|distinct|R|Adj ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+contradistinguish	verb	contra-|contra|P ; distinguish|distinguish|R|V
+contrapose	verb	contra-|contra|P ; pose|pose|R|V
+contraposition	noun	contra-|contra|P ; position|position|R|N
+contrapositive	adj	contra-|contra|P ; positive|positive|R|Adj
+contrapposto	noun	contrapposto|contrapposto|R|N
+contrapuntally	adv	contrapuntal|contrapuntal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+contrapuntist	noun	contrapuntist|contrapuntist|R|N
+contrariant	adj	contrary|contrari|R|Adj ; -ant|ant|S
+contrariety	noun	contrary|contrari|R|Adj ; -ity|ety|S
+contrastable	adj	contrast|contrast|R|V ; -able|able|S
+contrastingly	adv	contrast|contrast|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+contravallation	noun	contravallation|contravallation|R|N
+contravariance	noun	contra-|contra|P ; vary|vari|R|V ; -ance|ance|S
+contravariant	adj	contra-|contra|P ; vary|vari|R|V ; -ant|ant|S
+contravener	noun	contravene|contraven|R|V ; -er|er|S||-er (N)
+contributive	adj	contribute|contribut|R|V ; -ive|ive|S
+contributively	adv	contribute|contribut|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+contributiveness	noun	contribute|contribut|R|V ; -ive|ive|S ; -ness|ness|S
+contriteness	noun	contrite|contrite|R|Adj ; -ness|ness|S
+contrivedly	adv	contrive|contriv|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+contriver	noun	contrive|contriv|R|V ; -er|er|S||-er (N)
+contriving	noun	contrive|contriv|R|V ; -ing|ing|S||-ing (N)
+controllership	noun	control|controll|R|V ; -er|er|S||-er (N) ; -ship|ship|S
+contronym	noun	contronym|contronym|R|N
+controversialist	noun	controversy|controversi|R|N ; -al|al|S ; -ist|ist|S
+controversiality	noun	controversy|controversi|R|N ; -al|al|S ; -ity|ity|S
+controvertible	adj	controvert|controvert|R|V ; -ible|ible|S
+controvertist	noun	controvert|controvert|R|V ; -ist|ist|S
+contumacious	adj	contumacy|contumaci|R|N ; -ous|ous|S
+contumaciously	adv	contumacy|contumaci|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+contumaciousness	noun	contumacy|contumaci|R|N ; -ous|ous|S ; -ness|ness|S
+contumacy	noun	contumacy|contumacy|R|N
+contumeliously	adv	contumely|contumeli|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+contumeliousness	noun	contumely|contumeli|R|N ; -ous|ous|S ; -ness|ness|S
+contumely	noun	contumely|contumely|R|N
+contuse	verb	contuse|contuse|R|V
+contused	adj	contuse|contus|R|V ; -ed|ed|S||-ed (adj)
+contusive	adj	contuse|contus|R|V ; -ive|ive|S
+convallaria	noun	convallaria|convallaria|R|N
+convect	verb	convect|convect|R|V
+convecting	noun	convect|convect|R|V ; -ing|ing|S||-ing (N)
+convectional	adj	convect|convect|R|V ; -ion|ion|S ; -al|al|S
+convectively	adv	convect|convect|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+convenable	adj	convene|conven|R|V ; -able|able|S
+conventicle	noun	conventicle|conventicle|R|N
+conventionalist	noun	convene|conven|R|V ; -tion|tion|S ; -al|al|S ; -ist|ist|S
+conventionalization	noun	convene|conven|R|V ; -tion|tion|S ; -al|al|S ; -ize|iz|S ; -ation|ation|S
+conventionalize	verb	convene|conven|R|V ; -tion|tion|S ; -al|al|S ; -ize|ize|S
+conventual	adj	convent|convent|R|N ; -ual|ual|S
+converb	noun	con-|con|P ; verb|verb|R|N
+conversable	adj	converse|convers|R|V ; -able|able|S
+conversableness	noun	converse|convers|R|V ; -able|able|S ; -ness|ness|S
+conversance	noun	converse|convers|R|V ; -ance|ance|S
+conversancy	noun	converse|convers|R|V ; -ancy|ancy|S
+conversantly	adv	converse|convers|R|V ; -ant|ant|S ; -ly|ly|I|Adv|-ly (adv)
+conversationist	noun	converse|convers|R|V ; -ation|ation|S ; -ist|ist|S
+conversazione	noun	conversazione|conversazione|R|N
+converser	noun	converse|convers|R|V ; -er|er|S||-er (N)
+conversing	noun	converse|convers|R|V ; -ing|ing|S||-ing (N)
+conversional	adj	converse|convers|R|V ; -ion|ion|S ; -al|al|S
+conversionary	adj	converse|convers|R|V ; -ion|ion|S ; -ary|ary|S
+convertibleness	noun	convert|convert|R|V ; -ible|ible|S ; -ness|ness|S
+convertibly	adv	convert|convert|R|V ; -ible|ib|S ; -ly|ly|I|Adv|-ly (adv)
+convexly	adv	convex|convex|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+convexness	noun	convex|convex|R|Adj ; -ness|ness|S
+conveyable	adj	convey|convey|R|V ; -able|able|S
+convictional	adj	convict|convict|R|V ; -ion|ion|S ; -al|al|S
+convictive	adj	convict|convict|R|V ; -ive|ive|S
+convictively	adv	convict|convict|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+convincement	noun	convince|convinc|R|V ; -ment|ement|S
+convincer	noun	convince|convinc|R|V ; -er|er|S||-er (N)
+convincible	adj	convince|convinc|R|V ; -ible|ible|S
+convincingness	noun	convince|convinc|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+convivially	adv	convivial|convivial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+convocational	adj	convoke|convoc|R|V ; -ation|ation|S ; -al|al|S
+convoker	noun	convoke|convok|R|V ; -er|er|S||-er (N)
+convolutely	adv	convolute|convolute|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+convolutional	adj	convolute|convolut|R|V ; -ion|ion|S ; -al|al|S
+convolve	verb	convolve|convolve|R|V
+convulsant	noun	convulse|convuls|R|V ; -ant|ant|S
+convulsiveness	noun	convulse|convuls|R|V ; -ive|ive|S ; -ness|ness|S
+cony	noun	cony|cony|R|N
+coochie	noun	coochie|coochie|R|N
+coochy	noun	coochy|coochy|R|N
+cookies	noun	cookie|cooki|R|N ; -s|es|I||-s (plural)
+coolbox	noun	cool|cool|R|Adj ; box|box|R|N
+coolish	adj	cool|cool|R|Adj ; -ish|ish|S
+coomb	noun	coomb|coomb|R|N
+coomer	noun	coomer|coomer|R|N
+cooperage	noun	cooper|cooper|R|N ; -age|age|S
+coopering	noun	cooper|cooper|R|N ; -ing|ing|S||-ing (N)
+coopery	noun	cooper|cooper|R|N ; -y|y|S
+cooping	noun	coop|coop|R|N ; -ing|ing|S||-ing (N)
+coorganizer	noun	co-|co|P ; organize|organiz|R|V ; -er|er|S||-er (N)
+cootie	noun	cootie|cootie|R|N
+copaiba	noun	copaiba|copaiba|R|N
+copaliferous	adj	copaliferous|copaliferous|R|Adj
+coparcenary	noun	co-|co|P ; parcenary|parcenary|R|N
+copartner	noun	co-|co|P ; partner|partner|R|N
+copartnership	noun	co-|co|P ; partner|partner|R|N ; -ship|ship|S
+copay	noun	co-|co|P ; pay|pay|R|V
+copayment	noun	co-|co|P ; pay|pay|R|V ; -ment|ment|S
+coped	verb	cope|cope|R|V ; -ed|d|I||-ed (v2)
+coper	noun	cope|cop|R|V ; -er|er|S||-er (N)
+copernicium	noun	copernicium|copernicium|R|N
+copiable	adj	copy|copi|R|V ; -able|able|S
+copilot	noun	co-|co|P ; pilot|pilot|R|N
+copiousness	noun	copious|copious|R|Adj ; -ness|ness|S
+coplaintiff	noun	co-|co|P ; plaintiff|plaintiff|R|N
+coplanar	adj	co-|co|P ; planar|planar|R|Adj
+coplanarity	noun	co-|co|P ; planar|planar|R|Adj ; -ity|ity|S
+copolymerization	noun	co-|co|P ; polymer|polymer|R|N ; -ize|iz|S ; -ation|ation|S
+copolymerize	verb	co-|co|P ; polymer|polymer|R|N ; -ize|ize|S
+copped	verb	cop|copp|R|V ; -ed|ed|I||-ed (v2)
+copperas	noun	copperas|copperas|R|N
+copperskin	noun	copper|copper|R|N ; skin|skin|R|N
+copperware	noun	copper|copper|R|N ; ware|ware|R|N
+coprime	adj	co-|co|P ; prime|prime|R|Adj
+coproduce	verb	co-|co|P ; produce|produce|R|V
+coproducer	noun	co-|co|P ; produce|produc|R|V ; -er|er|S||-er (N)
+coproduction	noun	co-|co|P ; produce|product|R|V ; -ion|ion|S
+coprogenous	adj	coprogenous|coprogenous|R|Adj
+coprolalia	noun	coprolalia|coprolalia|R|N
+coprology	noun	coprology|coprology|R|N
+coprophagous	adj	coprophagous|coprophagous|R|Adj
+coprophagy	noun	coprophagy|coprophagy|R|N
+coprophilia	noun	coprophilia|coprophilia|R|N
+coprophilous	adj	coprophilous|coprophilous|R|Adj
+coprophyte	noun	coprophyte|coprophyte|R|N
+cops	noun	cop|cop|R|N ; -s|s|I||-s (plural)
+copsy	noun	copse|cops|R|N ; -y|y|S
+copula	noun	copula|copula|R|N
+copulative	adj	copula|copul|R|N ; -ative|ative|S
+copulatively	adv	copula|copul|R|N ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+copunctal	adj	copunctal|copunctal|R|Adj
+copyedit	verb	copy|copy|R|V ; edit|edit|R|V
+copyhold	noun	copy|copy|R|N ; hold|hold|R|V
+copyholder	noun	copy|copy|R|N ; hold|hold|R|V ; -er|er|S||-er (N)
+copyleft	noun	copy|copy|R|V ; left|left|R|V
+copypasta	noun	copy|copy|R|N ; pasta|pasta|R|N
+copyrightable	adj	copyright|copyright|R|N ; -able|able|S
+copywrite	verb	copy|copy|R|V ; write|write|R|V
+coquelicot	noun	coquelicot|coquelicot|R|N
+coquet	verb	coquet|coquet|R|V
+coquetting	noun	coquet|coquett|R|V ; -ing|ing|S||-ing (N)
+coquettishness	noun	coquette|coquett|R|N ; -ish|ish|S ; -ness|ness|S
+coquito	noun	coquito|coquito|R|N
+coracoid	adj	coracoid|coracoid|R|Adj
+coralliferous	adj	coralliferous|coralliferous|R|Adj
+coralliform	adj	coralliform|coralliform|R|Adj
+corallinaceous	adj	corallinaceous|corallinaceous|R|Adj
+coralline	adj	coralline|coralline|R|Adj
+corallite	noun	corallite|corallite|R|N
+coralloid	adj	coralloid|coralloid|R|Adj
+coralroot	noun	coral|coral|R|N ; root|root|R|N
+coranto	noun	coranto|coranto|R|N
+corban	noun	corban|corban|R|N
+corbeil	noun	corbeil|corbeil|R|N
+corbicula	noun	corbicula|corbicula|R|N
+corbie	noun	corbie|corbie|R|N
+cordate	adj	cord|cord|R|N ; -ate|ate|S
+cordately	adv	cord|cord|R|N ; -ate|ate|S ; -ly|ly|I|Adv|-ly (adv)
+corder	noun	cord|cord|R|N ; -er|er|S||-er (N)
+cordierite	noun	cordierite|cordierite|R|N
+cordiform	adj	cordiform|cordiform|R|Adj
+cording	noun	cord|cord|R|N ; -ing|ing|S||-ing (N)

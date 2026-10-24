@@ -1,0 +1,150 @@
+eccentricity	noun	=
+abrasive	adj	=
+posterior	adj	=
+prodigious	adj	=
+resolute	adj	=
+morbid	adj	=
+retro	adj	=
+canonical	adj	=
+pandemic	adj	pan-|pan|P||||Greek pan 'all' ; -dem-|dem|B|N|||Greek demos 'people' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+vertigo	noun	=
+frayed	adj	=
+anemia	noun	an-|an|P||||Greek a- 'not' ; -emia|emia|B|N|||Greek haima 'blood'
+sordid	adj	=
+relativism	noun	=
+loin	noun	=
+inexorable	adj	=
+prodigy	noun	=
+enigma	noun	=
+cessation	noun	=
+apologetic	adj	apo-|apo|P||||Greek apo 'from, away' ; -log-|log|B|N|||Greek logos 'word, speech' ; -etic|etic|S||||Greek -etikos 'pertaining to'
+rosary	noun	=
+conjecture	noun	con-|con|P||||Latin com- 'together' ; -ject-|ject|B|V|||Latin iacere 'to throw' ; -ure|ure|S||||Latin -ura 'act, result'
+interminable	adj	=
+usurp	verb	=
+turret	noun	=
+prudence	noun	=
+indignity	noun	=
+impervious	adj	=
+phosphorus	noun	phos-|phos|B|N|||Greek phos 'light' ; -phorus|phorus|B|V|||Greek pherein 'to bear'
+diaphragm	noun	dia-|dia|P||||Greek dia 'across' ; -phragm|phragm|B|N|||Greek phragma 'barrier'
+superstitious	adj	=
+vertebra	noun	=
+incongruous	adj	=
+renter	noun	=
+pallet	noun	=
+ingest	verb	=
+quarantine	noun	=
+deride	verb	=
+photocopy	noun	=
+admonition	noun	=
+inter	verb	=
+defunct	adj	=
+sociable	adj	=
+diminutive	adj	=
+lucid	adj	luc-|luc|B|V|||Latin lucere 'to shine' ; -id|id|S||||Latin -idus 'adjective-forming'
+distil	verb	=
+vociferous	adj	=
+squalor	noun	=
+squalid	adj	=
+caramel	noun	=
+denominator	noun	=
+oscillation	noun	=
+inactivity	noun	=
+conundrum	noun	=
+fictitious	adj	=
+barbaric	adj	=
+affluence	noun	=
+rivet	noun	=
+chastise	verb	=
+iconography	noun	=
+miscellaneous	adj	=
+seniority	noun	=
+stubble	noun	=
+epitome	noun	=
+vortex	noun	=
+concoction	noun	=
+apportion	verb	=
+peruse	verb	=
+cordial	adj	cord-|cord|B|N|||Latin cor 'heart' ; -ial|ial|S||||Latin -ialis 'pertaining to'
+salutary	adj	=
+interject	verb	inter-|inter|P||||Latin inter 'between' ; -ject|ject|B|V|||Latin iacere 'to throw'
+polluter	noun	=
+microcosm	noun	micro-|micro|B|N|||Greek mikros 'small' ; -cosm|cosm|B|N|||Greek kosmos 'universe, order'
+quadruple	adj	=
+balm	noun	=
+penultimate	adj	pene-|pen|P||||Latin paene 'almost' ; -ultimate|ultimate|R|Adj
+inanimate	adj	in-|in|P||||Latin in- 'not' ; -anim-|anim|B|N|||Latin anima 'life, soul' ; -ate|ate|S||||Latin -atus 'adjective-forming'
+causality	noun	=
+extol	verb	=
+metamorphosis	noun	meta-|meta|P||||Greek meta 'change' ; -morph-|morph|B|N|||Greek morphe 'form' ; -osis|osis|S||||Greek -osis 'process, state'
+clamour	noun	=
+reciprocate	verb	=
+orgy	noun	=
+cryptic	adj	crypt-|crypt|B|V|||Greek kryptein 'to hide' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+somatic	adj	somat-|somat|B|N|||Greek soma 'body' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+agility	noun	=
+hospitable	adj	=
+supple	adj	=
+rigidity	noun	=
+choreography	noun	choreo-|choreo|B|N|||Greek khoreia 'dance' ; -graphy|graphy|B|N|||Greek graphia 'writing'
+deceit	noun	de-|de|P||||Latin de- 'away, down' ; -ceit|ceit|B|V|||Latin capere 'to take'
+subterranean	adj	sub-|sub|P||||Latin sub- 'under' ; -terrane-|terrane|B|N|||Latin terra 'earth' ; -an|an|S||||Latin -anus 'pertaining to'
+enunciate	verb	e-|e|P||||Latin ex- 'out' ; -nunci-|nunci|B|V|||Latin nuntiare 'to report' ; -ate|ate|S||||Latin -atus 'verb-forming'
+mozzarella	noun	=
+custodian	noun	=
+copious	adj	=
+immaterial	adj	=
+retainer	noun	=
+accede	verb	ac-|ac|P||||Latin ad- 'to' ; -cede|cede|B|V|||Latin cedere 'to move, yield'
+penthouse	noun	=
+echelon	noun	=
+commendable	adj	com-|com|P||||Latin com- 'together' ; -mand-|mend|B|V|||Latin mandare 'to entrust' ; -able|able|S||||Latin -abilis 'able to be'
+logistic	adj	log-|log|B|N|||Greek logos 'reason' ; -istic|istic|S||||Greek -istikos 'pertaining to'
+passer	noun	=
+consummate	adj	=
+obviate	verb	=
+accolade	noun	=
+absolve	verb	=
+nationalistic	adj	=
+nomad	noun	=
+revitalization	noun	=
+archipelago	noun	arci-|archi|P||||Greek arkhi- 'foremost' ; -pelago|pelago|B|N|||Greek pelagos 'sea'
+immobile	adj	=
+desolation	noun	=
+optic	adj	opt-|opt|B|V|||Greek optos 'visible' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+genealogy	noun	=
+checker	noun	=
+anathema	noun	=
+duffel	noun	=
+extant	adj	ex-|ex|P||||Latin ex- 'out' ; -stant|tant|B|V|||Latin stare 'to stand'
+freighter	noun	=
+atypical	adj	=
+avian	adj	avi-|avi|B|N|||Latin avis 'bird' ; -an|an|S||||Latin -ianus 'pertaining to'
+crucifix	noun	=
+contravene	verb	=
+vestibule	noun	=
+amicable	adj	=
+profusion	noun	=
+tenacity	noun	ten-|ten|B|V|||Latin tenere 'to hold' ; -acity|acity|S||||Latin -acitas 'quality'
+supposition	noun	sub-|sup|P||||Latin sub- 'under' ; -posit-|posit|B|V|||Latin ponere 'to place' ; -ion|ion|S||||Latin -io 'act, result'
+subsume	verb	sub-|sub|P||||Latin sub- 'under' ; -sume|sume|B|V|||Latin sumere 'to take'
+tenacious	adj	ten-|ten|B|V|||Latin tenere 'to hold' ; -acious|acious|S||||Latin -ax 'inclined to'
+proffer	verb	=
+pretentious	adj	=
+lurid	adj	=
+inquisitive	adj	=
+incessant	adj	in-|in|P||||Latin in- 'not' ; -cess-|cess|B|V|||Latin cessare 'to cease' ; -ant|ant|S||||Latin -ans 'present participle'
+dispensation	noun	=
+panther	noun	=
+spherical	adj	=
+nondescript	adj	=
+virginity	noun	=
+contemptuous	adj	=
+religiosity	noun	=
+broach	verb	=
+ethnography	noun	=
+cauldron	noun	=
+secession	noun	=
+fallacy	noun	=
+arbiter	noun	=

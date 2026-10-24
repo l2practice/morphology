@@ -1,0 +1,150 @@
+affirmation	noun	=
+ethnographic	adj	=
+insanity	noun	=
+ingenuity	noun	=
+rustic	adj	=
+seductive	adj	se-|se|P||||Latin se- 'apart' ; -duct|duct|B|V|||Latin ducere 'to lead' ; -ive|ive|S
+involuntary	adj	=
+connotation	noun	=
+crocodile	noun	=
+scribble	verb	=
+squire	noun	=
+renounce	verb	=
+molest	verb	=
+contaminant	noun	=
+stamina	noun	=
+revel	verb	=
+infancy	noun	=
+dysfunctional	adj	=
+subtlety	noun	=
+lagoon	noun	=
+ambivalence	noun	ambi-|ambi|P||||Latin ambi- 'both' ; -val-|val|B|V|||Latin valere 'to be strong' ; -ence|ence|S||||Latin -entia 'state, quality'
+detrimental	adj	=
+divisive	adj	=
+melon	noun	=
+earner	noun	=
+supremacy	noun	=
+regularity	noun	=
+approximate	adj	=
+pulpit	noun	=
+procure	verb	=
+dishonest	adj	=
+vocation	noun	=
+vulgar	adj	=
+suitability	noun	=
+resultant	adj	=
+logistics	noun	=
+ethos	noun	=
+disseminate	verb	=
+rapist	noun	=
+acquit	verb	=
+ballistic	adj	=
+prelude	noun	=
+elastic	adj	=
+coexist	verb	=
+savour	verb	=
+traitor	noun	=
+rarity	noun	=
+espouse	verb	=
+adherence	noun	=
+chopper	noun	=
+permissible	adj	=
+benevolent	adj	=
+traction	noun	tract-|tract|B|V|||Latin trahere 'to pull' ; -ion|ion|S
+rodent	noun	=
+analog	adj	ana-|ana|P||||Greek ana 'up to' ; -log|log|B|N|||Greek logos 'ratio, word'
+paralysis	noun	para-|para|P||||Greek para 'beside' ; -lysis|lysis|B|N|||Greek lysis 'loosening'
+provocation	noun	=
+tempo	noun	=
+divinity	noun	=
+emblem	noun	=
+pantomime	noun	panto-|panto|B|Adj|||Greek pas 'all' ; mime|mime|R|V
+hegemony	noun	=
+psychosocial	adj	=
+importer	noun	=
+palpable	adj	palp-|palp|B|V|||Latin palpare 'to touch softly' ; -able|able|S
+illumination	noun	=
+cosmetics	noun	=
+synonymous	adj	=
+prolific	adj	prol-|proli|B|N||proles|Latin proles 'offspring' ; -fic|fic|B|V|||Latin facere 'to make'
+predominate	verb	=
+grandeur	noun	=
+ridicule	noun	=
+rectangle	noun	rect-|rect|B|Adj|||Latin rectus 'right, straight' ; angle|angle|R|N
+angular	adj	=
+imperfect	adj	=
+periphery	noun	=
+reflex	noun	=
+trinity	noun	=
+notification	noun	=
+heron	noun	=
+exodus	noun	=
+translucent	adj	=
+sensual	adj	=
+turbulence	noun	=
+chandelier	noun	=
+characteristically	adv	=
+formative	adj	=
+innate	adj	=
+cent	noun	=
+captivity	noun	=
+avalanche	noun	=
+festive	adj	=
+ramification	noun	=
+venerable	adj	=
+microbe	noun	=
+serene	adj	=
+gorge	noun	=
+tapestry	noun	=
+pathology	noun	patho-|patho|B|N|||Greek pathos 'suffering, disease' ; -logy|logy|B|N|||Greek logos 'study, word'
+vigil	noun	=
+orthodoxy	noun	ortho-|ortho|B|Adj|||Greek orthos 'correct' ; -dox-|dox|B|N|||Greek doxa 'opinion, way' ; -y|y|S
+compilation	noun	=
+sect	noun	=
+excavate	verb	=
+metric	adj	=
+estimation	noun	=
+pious	adj	=
+expulsion	noun	=
+modernism	noun	=
+uniformity	noun	=
+predominant	adj	=
+fidelity	noun	=
+finalist	noun	=
+periodical	noun	=
+zeal	noun	=
+decipher	verb	=
+exemplary	adj	=
+osteoporosis	noun	=
+deplete	verb	=
+propagate	verb	=
+proficiency	noun	=
+patriarchal	adj	=
+transmitter	noun	=
+pagan	noun	=
+penguin	noun	=
+gambler	noun	=
+sectarian	adj	=
+archaic	adj	=
+adept	adj	=
+exponent	noun	ex-|ex|P||||Latin ex- 'out, away' ; -pon-|pon|B|V|||Latin ponere 'to put, place' ; -ent|ent|S
+subtract	verb	sub-|sub|P||||Latin sub 'under' ; -tract|tract|B|V|||Latin trahere 'to draw, pull'
+nourish	verb	=
+syndicate	noun	=
+hysteria	noun	=
+dominion	noun	=
+cheeky	adj	=
+intolerance	noun	=
+festivity	noun	=
+infringe	verb	in-|in|P||||Latin in 'in' ; -frang-|fringe|B|V||frang|Latin frangere 'to break'
+diagonal	adj	dia-|dia|P||||Greek dia 'across' ; -gon-|gon|B|N|||Greek gonia 'angle' ; -al|al|S
+insulate	verb	insul-|insul|B|N|||Latin insula 'island' ; -ate|ate|S
+operative	adj	=
+coherence	noun	=
+anthology	noun	=
+imprint	verb	=
+audition	noun	=
+repository	noun	=
+projector	noun	=
+falcon	noun	=
+austerity	noun	=

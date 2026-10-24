@@ -1,0 +1,200 @@
+countability	noun	count|count|R|V ; -able|abil|S ; -ity|ity|S
+countably	adv	count|count|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+counteractive	adj	counter-|counter|P ; active|active|R|Adj
+counteractively	adv	counter-|counter|P ; active|active|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+counterblast	noun	counter-|counter|P ; blast|blast|R|N
+counterblow	noun	counter-|counter|P ; blow|blow|R|N
+counterbore	noun	counter-|counter|P ; bore|bore|R|V
+countercharge	noun	counter-|counter|P ; charge|charge|R|V
+countercheck	noun	counter-|counter|P ; check|check|R|V
+countercoup	noun	counter-|counter|P ; coup|coup|R|N
+countercurrent	noun	counter-|counter|P ; current|current|R|N
+countercyclical	adj	counter-|counter|P ; cyclic|cyclic|R|Adj ; -al|al|S
+counterdemonstration	noun	counter-|counter|P ; demonstrate|demonstrat|R|V ; -ion|ion|S
+counterespionage	noun	counter-|counter|P ; espionage|espionage|R|N
+counterexample	noun	counter-|counter|P ; example|example|R|N
+counterfort	noun	counter-|counter|P ; fort|fort|R|N
+counterjumper	noun	counter|counter|R|N ; jump|jump|R|V ; -er|er|S||-er (N)
+countermanding	noun	countermand|countermand|R|V ; -ing|ing|S||-ing (N)
+countermarch	noun	counter-|counter|P ; march|march|R|V
+countermark	noun	counter-|counter|P ; mark|mark|R|V
+countermine	noun	counter-|counter|P ; mine|mine|R|N
+countermovement	noun	counter-|counter|P ; move|move|R|V ; -ment|ment|S
+countermure	noun	countermure|countermure|R|N
+counterplot	noun	counter-|counter|P ; plot|plot|R|N
+counterpoison	noun	counter-|counter|P ; poison|poison|R|N
+counterpower	noun	counter-|counter|P ; power|power|R|N
+counterproductively	adv	counter-|counter|P ; produce|product|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+counterproposal	noun	counter-|counter|P ; proposal|proposal|R|N
+counterquestion	noun	counter-|counter|P ; question|question|R|N
+counterrevolutionary	adj	counter-|counter|P ; revolve|revolut|R|V ; -ion|ion|S ; -ary|ary|S
+counterscarp	noun	counter-|counter|P ; scarp|scarp|R|N
+countersignal	noun	counter-|counter|P ; signal|signal|R|N
+countersignature	noun	counter-|counter|P ; signature|signature|R|N
+counterspy	noun	counter-|counter|P ; spy|spy|R|N
+countersteer	verb	counter-|counter|P ; steer|steer|R|V
+countersubject	noun	counter-|counter|P ; subject|subject|R|N
+countersurveillance	noun	counter-|counter|P ; surveillance|surveillance|R|N
+counterterrorist	noun	counter-|counter|P ; terrorist|terrorist|R|N
+countertrade	noun	counter-|counter|P ; trade|trade|R|V
+counterview	noun	counter-|counter|P ; view|view|R|N
+counterwind	noun	counter-|counter|P ; wind|wind|R|N
+countlessly	adv	count|count|R|V ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+countrify	verb	country|countri|R|N ; -fy|fy|S
+counts	noun	count|count|R|V ; -s|s|I||-s (plural)
+coupist	noun	coup|coup|R|N ; -ist|ist|S
+courageousness	noun	courageous|courageous|R|Adj ; -ness|ness|S
+courante	noun	courante|courante|R|N
+courbaril	noun	courbaril|courbaril|R|N
+coursed	verb	course|course|R|V ; -ed|d|I||-ed (v2)
+coursemate	noun	course|course|R|N ; mate|mate|R|N
+courser	noun	course|cours|R|V ; -er|er|S||-er (N)
+courted	verb	court|court|R|V ; -ed|ed|I||-ed (v2)
+courteousness	noun	courteous|courteous|R|Adj ; -ness|ness|S
+courter	noun	court|court|R|V ; -er|er|S||-er (N)
+courtesanship	noun	courtesan|courtesan|R|N ; -ship|ship|S
+courtside	noun	court|court|R|N ; side|side|R|N
+couscoussier	noun	couscoussier|couscoussier|R|N
+cousinhood	noun	cousin|cousin|R|N ; -hood|hood|S
+cousinly	adj	cousin|cousin|R|N ; -ly|ly|S||-ly (adj)
+cousinship	noun	cousin|cousin|R|N ; -ship|ship|S
+couth	adj	couth|couth|R|Adj
+couvade	noun	couvade|couvade|R|N
+couverture	noun	couverture|couverture|R|N
+covalence	noun	co-|co|P ; valence|valence|R|N
+covariant	adj	co-|co|P ; variant|variant|R|Adj
+covelline	noun	covelline|covelline|R|N
+covenantally	adv	covenant|covenant|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+covenanted	verb	covenant|covenant|R|V ; -ed|ed|I||-ed (v2)
+covenantee	noun	covenant|covenant|R|N ; -ee|ee|S
+covenanter	noun	covenant|covenant|R|N ; -er|er|S||-er (N)
+covenantor	noun	covenant|covenant|R|N ; -or|or|S
+covenstead	noun	coven|coven|R|N ; stead|stead|R|N
+coventrate	verb	coventrate|coventrate|R|V
+coventrize	verb	coventrize|coventrize|R|V
+coverable	adj	cover|cover|R|V ; -able|able|S
+coverb	noun	co-|co|P ; verb|verb|R|N
+coverless	adj	cover|cover|R|V ; -less|less|S
+coverlid	noun	cover|cover|R|V ; lid|lid|R|N
+covers	noun	cover|cover|R|V ; -s|s|I||-s (plural)
+coverslip	noun	cover|cover|R|V ; slip|slip|R|N
+covertness	noun	covert|covert|R|Adj ; -ness|ness|S
+coverture	noun	covert|covert|R|Adj ; -ure|ure|S
+covetable	adj	covet|covet|R|V ; -able|able|S
+coveter	noun	covet|covet|R|V ; -er|er|S||-er (N)
+coveting	noun	covet|covet|R|V ; -ing|ing|S||-ing (N)
+covetingly	adv	covet|covet|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+covetously	adv	covetous|covetous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+covidiot	noun	covidiot|covidiot|R|N
+covinous	adj	covin|covin|R|N ; -ous|ous|S
+cowalker	noun	co-|co|P ; walk|walk|R|V ; -er|er|S||-er (N)
+cowardliness	noun	coward|coward|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+cowbane	noun	cow|cow|R|N ; bane|bane|R|N
+cowcatcher	noun	cow|cow|R|N ; catch|catch|R|V ; -er|er|S||-er (N)
+cowedly	adv	cow|cow|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+cowherb	noun	cow|cow|R|N ; herb|herb|R|N
+cowherd	noun	cow|cow|R|N ; herd|herd|R|N
+cowish	adj	cow|cow|R|N ; -ish|ish|S
+cowlike	adj	cow|cow|R|N ; -like|like|S
+cowlstaff	noun	cowl|cowl|R|N ; staff|staff|R|N
+cowman	noun	cow|cow|R|N ; man|man|R|N
+cowpat	noun	cow|cow|R|N ; pat|pat|R|N
+cowpie	noun	cow|cow|R|N ; pie|pie|R|N
+coxa	noun	coxa|coxa|R|N
+coxal	adj	coxa|cox|R|N ; -al|al|S
+coxalgia	noun	coxalgia|coxalgia|R|N
+coxalgic	adj	coxalgic|coxalgic|R|Adj
+coxcomb	noun	coxcomb|coxcomb|R|N
+coxcombry	noun	coxcomb|coxcomb|R|N ; -ry|ry|S
+coxed	verb	cox|cox|R|V ; -ed|ed|I||-ed (v2)
+coxy	adj	cox|cox|R|N ; -y|y|S
+coyish	adj	coy|coy|R|Adj ; -ish|ish|S
+coypu	noun	coypu|coypu|R|N
+coz	noun	coz|coz|R|N
+coze	verb	coze|coze|R|V
+cozen	verb	cozen|cozen|R|V
+cozenage	noun	cozen|cozen|R|V ; -age|age|S
+cozener	noun	cozen|cozen|R|V ; -er|er|S||-er (N)
+cozening	noun	cozen|cozen|R|V ; -ing|ing|S||-ing (N)
+cp	noun	cp|cp|R|N
+crabbedly	adv	crab|crabb|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+crabbedness	noun	crab|crabb|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+crabber	noun	crab|crabb|R|V ; -er|er|S||-er (N)
+crabbily	adv	crab|crabb|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+crabbiness	noun	crab|crabb|R|N ; -y|i|S ; -ness|ness|S
+crabbing	noun	crab|crabb|R|V ; -ing|ing|S||-ing (N)
+crabbit	adj	crabbit|crabbit|R|Adj
+crabs	noun	crab|crab|R|N ; -s|s|I||-s (plural)
+crabshell	noun	crab|crab|R|N ; shell|shell|R|N
+crackbrain	noun	crack|crack|R|V ; brain|brain|R|N
+crackled	verb	crackle|crackl|R|V ; -ed|ed|I||-ed (v2)
+crackles	noun	crackle|crackl|R|V ; -s|es|I||-s (plural)
+crackleware	noun	crackle|crackle|R|N ; ware|ware|R|N
+cracknel	noun	cracknel|cracknel|R|N
+cracky	adj	crack|crack|R|V ; -y|y|S
+cradling	noun	cradle|cradl|R|V ; -ing|ing|S||-ing (N)
+craftless	adj	craft|craft|R|N ; -less|less|S
+craftsmanly	adj	crafts|crafts|R|N ; man|man|R|N ; -ly|ly|S||-ly (adj)
+cragged	adj	crag|cragg|R|N ; -ed|ed|S||-ed (adj)
+craggily	adv	crag|cragg|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+cragginess	noun	crag|cragg|R|N ; -y|i|S ; -ness|ness|S
+cragsman	noun	crags|crags|R|N ; man|man|R|N
+crake	noun	crake|crake|R|N
+crambo	noun	crambo|crambo|R|N
+crampedness	noun	cramp|cramp|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+cramps	noun	cramp|cramp|R|N ; -s|s|I||-s (plural)
+cran	noun	cran|cran|R|N
+cranage	noun	cran|cran|R|N ; -age|age|S
+cranefly	noun	crane|crane|R|N ; fly|fly|R|N
+craneman	noun	crane|crane|R|N ; man|man|R|N
+cranesbill	noun	crane|cranes|R|N ; bill|bill|R|N
+cranially	adv	cranium|crani|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+craniate	noun	cranium|crani|R|N ; -ate|ate|S
+craning	noun	crane|cran|R|V ; -ing|ing|S||-ing (N)
+craniological	adj	craniology|craniolog|R|N ; -ical|ical|S
+craniology	noun	craniology|craniology|R|N
+craniometry	noun	craniometry|craniometry|R|N
+craniopharyngioma	noun	craniopharyngioma|craniopharyngioma|R|N
+cranked	verb	crank|crank|R|V ; -ed|ed|I||-ed (v2)
+crankily	adv	crank|crank|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+cranking	noun	crank|crank|R|V ; -ing|ing|S||-ing (N)
+crankle	verb	crankle|crankle|R|V
+crankman	noun	crank|crank|R|N ; man|man|R|N
+crankset	noun	crank|crank|R|N ; set|set|R|N
+crannied	adj	cranny|cranni|R|N ; -ed|ed|S||-ed (adj)
+crapper	noun	crap|crapp|R|V ; -er|er|S||-er (N)
+craps	noun	crap|crap|R|N ; -s|s|I||-s (plural)
+crapshooter	noun	crap|crap|R|N ; shoot|shoot|R|V ; -er|er|S||-er (N)
+crapulence	noun	crapulence|crapulence|R|N
+crapulent	adj	crapulence|crapul|R|N ; -ent|ent|S
+crapulous	adj	crapulence|crapul|R|N ; -ous|ous|S
+crapy	adj	crap|crap|R|N ; -y|y|S
+craquelure	noun	craquelure|craquelure|R|N
+crasis	noun	crasis|crasis|R|N
+crassitude	noun	crassitude|crassitude|R|N
+crassula	noun	crassula|crassula|R|N
+crassulaceous	adj	crassulaceous|crassulaceous|R|Adj
+cratch	noun	cratch|cratch|R|N
+crateriform	adj	crateriform|crateriform|R|Adj
+craterlet	noun	crater|crater|R|N ; -let|let|S
+craton	noun	craton|craton|R|N
+cravenness	noun	craven|craven|R|Adj ; -ness|ness|S
+craver	noun	crave|crav|R|V ; -er|er|S||-er (N)
+cravingly	adv	crave|crav|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+crawlingly	adv	crawl|crawl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+crayoning	noun	crayon|crayon|R|N ; -ing|ing|S||-ing (N)
+crayonist	noun	crayon|crayon|R|N ; -ist|ist|S
+crazing	noun	craze|craz|R|V ; -ing|ing|S||-ing (N)
+creakily	adv	creak|creak|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+creakiness	noun	creak|creak|R|N ; -y|i|S ; -ness|ness|S
+creakingly	adv	creak|creak|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+creamily	adv	cream|cream|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+creaming	noun	cream|cream|R|N ; -ing|ing|S||-ing (N)
+creampie	noun	cream|cream|R|N ; pie|pie|R|N
+creaseless	adj	crease|crease|R|N ; -less|less|S
+creaser	noun	crease|creas|R|V ; -er|er|S||-er (N)
+creasing	noun	crease|creas|R|V ; -ing|ing|S||-ing (N)
+creasy	adj	crease|creas|R|V ; -y|y|S
+creatable	adj	create|creat|R|V ; -able|able|S
+creatine	noun	creatine|creatine|R|N
+creational	adj	create|creat|R|V ; -ion|ion|S ; -al|al|S

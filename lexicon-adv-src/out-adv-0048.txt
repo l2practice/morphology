@@ -1,0 +1,150 @@
+convivial	adj	con-|con|P||||Latin com- 'together' ; -viv-|viv|B|V|||Latin vivere 'to live' ; -ial|ial|S||||Latin -alis 'pertaining to'
+axiomatic	adj	axiom-|axiom|B|N|||Greek axioma 'principle' ; -atic|atic|S||||Greek -ikos 'pertaining to'
+concave	adj	con-|con|P||||Latin com- 'together' ; -cave|cave|B|Adj|||Latin cavus 'hollow'
+herbivore	noun	=
+circulatory	adj	circul-|circul|B|V|||Latin circulare 'to circulate' ; -atory|atory|S||||Latin -orius 'relating to'
+trestle	noun	=
+booby	noun	=
+heredity	noun	hered-|hered|B|N|||Latin heres 'heir' ; -ity|ity|S||||Latin -itas 'state, quality'
+armada	noun	=
+astrophysics	noun	=
+spoiler	noun	=
+damnation	noun	damn-|damn|B|V|||Latin damnare 'to condemn' ; -ation|ation|S||||Latin -atio 'act, state'
+alimony	noun	ali-|ali|B|V|||Latin alere 'to nourish' ; -mony|mony|S||||Latin -monia 'state, condition'
+constabulary	noun	=
+patrician	noun	=
+nematode	noun	nemat-|nemat|B|N|||Greek nema 'thread' ; -ode|ode|S||||Greek -odes 'like'
+incantation	noun	in-|in|P||||Latin in- 'upon' ; -cant-|cant|B|V|||Latin cantare 'to sing' ; -ation|ation|S||||Latin -atio 'act, state'
+verbatim	adj	=
+ambulatory	adj	=
+inductive	adj	induct-|induct|B|V|||Latin inducere 'to lead in' ; -ive|ive|S||||Latin -ivus 'tending to'
+inconspicuous	adj	=
+aster	noun	=
+resuscitation	noun	=
+vandalize	verb	=
+olfactory	adj	olfact-|olfact|B|V|||Latin olfacere 'to smell' ; -ory|ory|S||||Latin -orius 'relating to'
+theta	noun	=
+prejudicial	adj	=
+exegesis	noun	ex-|ex|P||||Greek ex 'out' ; -egesis|egesis|B|V|||Greek hegeisthai 'to lead'
+distillation	noun	distill-|distill|B|V|||Latin distillare 'to drip' ; -ation|ation|S||||Latin -atio 'act, state'
+granular	adj	=
+encyclopedic	adj	=
+tuner	noun	=
+reflexive	adj	=
+perversity	noun	=
+probate	noun	prob-|prob|B|V|||Latin probare 'to test' ; -ate|ate|S||||Latin -atus 'past participle'
+ostentatious	adj	ostent-|ostent|B|V|||Latin ostentare 'to show' ; -at-|at|S||||Latin -atus 'past participle' ; -ious|ious|S||||Latin -osus 'full of'
+dynamo	noun	=
+signification	noun	signific-|signific|B|V|||Latin significare 'to signify' ; -ation|ation|S||||Latin -atio 'act, state'
+reverberation	noun	=
+exigency	noun	exig-|exig|B|V|||Latin exigere 'to demand' ; -ency|ency|S||||Latin -entia 'state, quality'
+rascal	noun	=
+desultory	adj	=
+daub	verb	=
+hearse	noun	=
+cellist	noun	=
+diode	noun	di-|di|P||||Greek dis 'two' ; -ode|ode|B|N|||Greek hodos 'way'
+aphorism	noun	=
+volunteerism	noun	=
+serpentine	adj	=
+pallid	adj	=
+metamorphose	verb	=
+exorcise	verb	=
+funder	noun	=
+bioethics	noun	=
+ardor	noun	ard-|ard|B|V|||Latin ardere 'to burn' ; -or|or|S||||Latin -or 'state, quality'
+preeminence	noun	pre-|pre|P||||Latin prae 'before' ; -emin-|emin|B|V|||Latin eminere 'to stand out' ; -ence|ence|S||||Latin -entia 'state, quality'
+inky	adj	=
+invigorate	verb	invigor-|invigor|B|N|||Latin vigor 'strength' ; -ate|ate|S||||Latin -atus 'past participle'
+praxis	noun	=
+slander	noun	=
+androgynous	adj	andro-|andro|B|N|||Greek aner 'man' ; -gyn-|gyn|B|N|||Greek gyne 'woman' ; -ous|ous|S||||Greek -os 'pertaining to'
+epileptic	adj	epilept-|epilept|B|N|||Greek epilepsia 'seizure' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+hallucinate	verb	hallucin-|hallucin|B|V|||Latin alucinari 'to dream' ; -ate|ate|S||||Latin -atus 'past participle'
+conch	noun	=
+carnivorous	adj	carn-|carn|B|N|||Latin caro 'meat, flesh' ; -ivor-|ivor|B|V|||Latin vorare 'to eat' ; -ous|ous|S||||Latin -osus 'full of'
+subjugation	noun	=
+decker	noun	=
+encyclical	noun	en-|en|P||||Greek en- 'in' ; -cycl-|cycl|B|N|||Greek kyklos 'circle' ; -ical|ical|S||||Latin -alis 'pertaining to'
+collude	verb	col-|col|P||||Latin com- 'together' ; -lude|lude|B|V|||Latin ludere 'to play'
+plausibility	noun	plausib-|plausib|B|Adj|||Latin plausibilis 'plausible' ; -ility|ility|S||||Latin -itas 'state, quality'
+chalice	noun	=
+metabolize	verb	meta-|meta|P||||Greek meta 'change, beyond' ; -bol-|bol|B|V|||Greek ballein 'to throw' ; -ize|ize|S||||Greek -izein 'to make'
+irreparable	adj	=
+dehumanize	verb	=
+deliberative	adj	deliberat-|deliberat|B|V|||Latin deliberare 'to weigh' ; -ive|ive|S||||Latin -ivus 'tending to'
+punctual	adj	punct-|punct|B|N|||Latin punctus 'point' ; -ual|ual|S||||Latin -alis 'pertaining to'
+acolyte	noun	=
+privation	noun	priv-|priv|B|V|||Latin privare 'to deprive' ; -ation|ation|S||||Latin -atio 'act, state'
+tuba	noun	=
+equivalency	noun	equi-|equi|P||||Latin aequus 'equal' ; -val-|val|B|V|||Latin valere 'to be strong' ; -ency|ency|S||||Latin -entia 'state, quality'
+bicentennial	noun	=
+stencil	noun	=
+arrhythmia	noun	ar-|ar|P||||Greek a- 'without' ; -rhythm-|rhythm|B|N|||Greek rhythmos 'rhythm' ; -ia|ia|S||||Greek -ia 'condition'
+proscribe	verb	pro-|pro|P||||Latin pro- 'before' ; -scribe|scribe|B|V|||Latin scribere 'to write'
+dyslexia	noun	dys-|dys|P||||Greek dys- 'bad' ; -lex-|lex|B|N|||Greek lexis 'word' ; -ia|ia|S||||Greek -ia 'condition'
+procrastination	noun	pro-|pro|P||||Latin pro- 'forward' ; -crastin-|crastin|B|N|||Latin cras 'tomorrow' ; -ation|ation|S||||Latin -atio 'act, state'
+excrete	verb	ex-|ex|P||||Latin ex- 'out' ; -crete|crete|B|V|||Latin cernere 'to separate'
+laconic	adj	=
+menstruation	noun	=
+barbarous	adj	barbar-|barbar|B|N|||Greek barbaros 'foreign' ; -ous|ous|S||||Latin -osus 'full of'
+abominable	adj	=
+verve	noun	=
+colonoscopy	noun	=
+absorber	noun	=
+vise	noun	=
+biennial	adj	=
+demagogue	noun	dem-|dem|B|N|||Greek demos 'people' ; -agogue|agogue|B|N|||Greek agogos 'guide'
+monochromatic	adj	mono-|mono|P||||Greek monos 'alone, only' ; -chromat-|chromat|B|N|||Greek khroma 'color' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+tweezers	noun	=
+indefatigable	adj	in-|in|P||||Latin in- 'not' ; -de-|de|P||||Latin de- 'down' ; -fatig-|fatig|B|V|||Latin fatigare 'to tire' ; -able|able|S||||Latin -abilis 'able to'
+larynx	noun	=
+liposuction	noun	=
+adjudge	verb	ad-|ad|P||||Latin ad- 'to' ; -judge|judge|B|V|||Latin iudicare 'to judge'
+repatriate	verb	re-|re|P||||Latin re- 'back' ; -patri-|patri|B|N|||Latin patria 'homeland' ; -ate|ate|S||||Latin -atus 'past participle'
+transact	verb	trans-|trans|P||||Latin trans 'across' ; -act|act|B|V|||Latin agere 'to do'
+necrosis	noun	necro-|necro|B|N|||Greek nekros 'dead' ; -osis|sis|S||||Greek -osis 'condition'
+servile	adj	=
+requisition	noun	=
+immanent	adj	im-|im|P||||Latin in- 'in' ; -man-|man|B|V|||Latin manere 'to remain' ; -ent|ent|S||||Latin -ens 'present participle'
+sorghum	noun	=
+corporeal	adj	corpor-|corpor|B|N|||Latin corpus 'body' ; -eal|eal|S||||Latin -alis 'pertaining to'
+paradigmatic	adj	paradigm-|paradigm|B|N|||Greek paradeigma 'example' ; -atic|atic|S||||Greek -ikos 'pertaining to'
+melatonin	noun	=
+sinker	noun	=
+plait	noun	=
+constriction	noun	con-|con|P||||Latin com- 'together' ; -strict-|strict|B|V|||Latin stringere 'to bind' ; -ion|ion|S||||Latin -io 'act, state'
+sanctify	verb	sanct-|sanct|B|Adj|||Latin sanctus 'holy' ; -ify|ify|S||||Latin -ficare 'to make'
+deputation	noun	deput-|deput|B|V|||Latin deputare 'to assign' ; -ation|ation|S||||Latin -atio 'act, state'
+castrate	verb	castr-|castr|B|V|||Latin castrare 'to castrate' ; -ate|ate|S||||Latin -atus 'past participle'
+egalitarianism	noun	=
+monogamy	noun	mono-|mono|P||||Greek monos 'one' ; -gamy|gamy|B|N|||Greek gamos 'marriage'
+refectory	noun	=
+halogen	noun	halo-|halo|B|N|||Greek hals 'salt' ; -gen|gen|B|V|||Greek gennan 'to produce'
+lambda	noun	=
+leniency	noun	leni-|leni|B|Adj|||Latin lenis 'soft' ; -ency|ency|S||||Latin -entia 'state, quality'
+damsel	noun	=
+analgesic	adj	an-|an|P||||Greek an- 'without' ; -alges-|alges|B|N|||Greek algos 'pain' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+griddle	noun	=
+subjugate	verb	=
+dictation	noun	=
+colossus	noun	=
+scotia	noun	=
+obelisk	noun	obel-|obel|B|N|||Greek obelos 'needle' ; -isk|isk|S||||Greek -iskos 'small'
+heretical	adj	=
+isolationism	noun	=
+microbiology	noun	=
+figural	adj	figur-|figur|B|N|||Latin figura 'figure' ; -al|al|S||||Latin -alis 'pertaining to'
+astrologer	noun	=
+palmetto	noun	=
+osteoarthritis	noun	=
+materiality	noun	=
+predetermine	verb	=
+albatross	noun	=
+invective	noun	=
+ineptitude	noun	=
+indomitable	adj	in-|in|P||||Latin in- 'not' ; -domit-|domit|B|V|||Latin domitare 'to tame' ; -able|able|S||||Latin -abilis 'able to'
+inarticulate	adj	=
+hesitancy	noun	=
+hydrate	noun	hydr-|hydr|B|N|||Greek hydor 'water' ; -ate|ate|S||||Greek -ate 'compound suffix'
+changeable	adj	=

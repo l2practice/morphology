@@ -1,0 +1,200 @@
+greatly	adv	great|great|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+favourite	adj	favourite|favourite|R|Adj
+jail	noun	jail|jail|R|N
+briefly	adv	brief|brief|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+delay	verb	delay|delay|R|V
+honest	adj	honest|honest|R|Adj
+diversity	noun	diverse|divers|R|Adj ; -ity|ity|S
+sake	noun	sake|sake|R|N
+relax	verb	relax|relax|R|V
+essay	noun	essay|essay|R|N
+edition	noun	edit|edit|R|V ; -ion|ion|S
+respondent	noun	respond|respond|R|V ; -ent|ent|S
+circuit	noun	circuit|circuit|R|N
+giant	noun	giant|giant|R|N
+exciting	adj	excite|excit|R|V ; -ing|ing|S||-ing (adj)
+negotiate	verb	negotiate|negotiate|R|V
+historian	noun	history|histor|R|N ; -ian|ian|S
+clock	noun	clock|clock|R|N
+written	adj	write|writt|R|V ; -en|en|I||-en (participle)
+pop	verb	pop|pop|R|V
+demonstration	noun	demonstrate|demonstrat|R|V ; -ion|ion|S
+chemical	adj	chemical|chemical|R|Adj
+resign	verb	resign|resign|R|V
+criticize	verb	critic|critic|R|N ; -ize|ize|S
+bath	noun	bath|bath|R|N
+differ	verb	differ|differ|R|V
+adviser	noun	advise|advis|R|V ; -er|er|S||-er (N)
+nineteenth	adj	nineteenth|nineteenth|R|Adj
+advanced	adj	advance|advanc|R|V ; -ed|ed|S||-ed (adj)
+disability	noun	dis-|dis|P ; able|abil|R|Adj ; -ity|ity|S
+stupid	adj	stupid|stupid|R|Adj
+defeat	verb	defeat|defeat|R|V
+shell	noun	shell|shell|R|N
+consumption	noun	consume|consumpt|R|V ; -ion|ion|S
+classical	adj	classic|classic|R|Adj ; -al|al|S
+biological	adj	biology|biolog|R|N ; -ical|ical|S
+peasant	noun	peasant|peasant|R|N
+province	noun	province|province|R|N
+pause	verb	pause|pause|R|V
+acquisition	noun	acquire|acquisit|R|V ; -ion|ion|S
+onion	noun	onion|onion|R|N
+socialist	noun	social|social|R|Adj ; -ist|ist|S
+aunt	noun	aunt|aunt|R|N
+brand	noun	brand|brand|R|N
+commons	noun	common|common|R|Adj ; -s|s|I||-s (plural)
+assure	verb	assure|assure|R|V
+mad	adj	mad|mad|R|Adj
+split	verb	split|split|R|V
+criteria	noun	criterion|criteria|R|N ; -s||I||-s (plural)
+altogether	adv	altogether|altogether|R|Adv
+utility	noun	utility|utility|R|N
+confident	adj	confide|confid|R|V ; -ent|ent|S
+remark	verb	remark|remark|R|V
+helpful	adj	help|help|R|V ; -ful|ful|S
+highway	noun	high|high|R|Adj ; way|way|R|N
+clinical	adj	clinic|clinic|R|N ; -al|al|S
+survival	noun	survive|surviv|R|V ; -al|al|S
+sink	verb	sink|sink|R|V
+workshop	noun	work|work|R|V ; shop|shop|R|N
+lecture	noun	lecture|lecture|R|N
+ingredient	noun	ingredient|ingredient|R|N
+occupation	noun	occupy|occup|R|V ; -ation|ation|S
+stake	noun	stake|stake|R|N
+fiber	noun	fiber|fiber|R|N
+activist	noun	active|activ|R|Adj ; -ist|ist|S
+mount	verb	mount|mount|R|V
+snap	verb	snap|snap|R|V
+terrorism	noun	terror|terror|R|N ; -ism|ism|S
+refugee	noun	refuge|refug|R|N ; -ee|ee|S
+formula	noun	formula|formula|R|N
+guidance	noun	guide|guid|R|V ; -ance|ance|S
+ultimate	adj	ultimate|ultimate|R|Adj
+statistics	noun	statistic|statistic|R|N ; -s|s|I||-s (plural)
+hip	noun	hip|hip|R|N
+tail	noun	tail|tail|R|N
+gear	noun	gear|gear|R|N
+found	verb	find|found|R|V ; -ed||I||-ed (v2)
+barrier	noun	barrier|barrier|R|N
+distinct	adj	distinct|distinct|R|Adj
+assign	verb	assign|assign|R|V
+compensation	noun	compensate|compensat|R|V ; -ion|ion|S
+killer	noun	kill|kill|R|V ; -er|er|S||-er (N)
+poet	noun	poet|poet|R|N
+gang	noun	gang|gang|R|N
+johnson	noun	johnson|johnson|R|N
+developing	adj	develop|develop|R|V ; -ing|ing|S||-ing (adj)
+supplier	noun	supply|suppli|R|V ; -er|er|S||-er (N)
+classic	adj	classic|classic|R|Adj
+ben	noun	ben|ben|R|N
+earnings	noun	earn|earn|R|V ; -ing|ing|S||-ing (N) ; -s|s|I||-s (plural)
+label	noun	label|label|R|N
+teen	noun	teen|teen|R|N
+widespread	adj	wide|wide|R|Adj ; spread|spread|R|V
+respectively	adv	respect|respect|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+vacation	noun	vacation|vacation|R|N
+advocate	verb	advocate|advocate|R|V
+draft	noun	draft|draft|R|N
+extraordinary	adj	extra-|extra|P ; ordinary|ordinary|R|Adj
+sept	noun	sept|sept|R|N
+fortune	noun	fortune|fortune|R|N
+heaven	noun	heaven|heaven|R|N
+yell	verb	yell|yell|R|V
+pregnant	adj	pregnant|pregnant|R|Adj
+anxious	adj	anxious|anxious|R|Adj
+distant	adj	distant|distant|R|Adj
+satellite	noun	satellite|satellite|R|N
+conscious	adj	con-|con|P ; sci-|sci|B|V ; -ous|ous|S
+personally	adv	person|person|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+tackle	verb	tackle|tackle|R|V
+chocolate	noun	chocolate|chocolate|R|N
+sweep	verb	sweep|sweep|R|V
+stable	adj	stable|stable|R|Adj
+satisfied	adj	satisfy|satisfi|R|V ; -ed|ed|S||-ed (adj)
+borrow	verb	borrow|borrow|R|V
+ceiling	noun	ceiling|ceiling|R|N
+reasonably	adv	reason|reason|R|N ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+preference	noun	prefer|prefer|R|V ; -ence|ence|S
+universal	adj	universe|univers|R|N ; -al|al|S
+spin	verb	spin|spin|R|V
+button	noun	button|button|R|N
+bell	noun	bell|bell|R|N
+operating	adj	operate|operat|R|V ; -ing|ing|S||-ing (adj)
+clothing	noun	clothe|cloth|R|V ; -ing|ing|S||-ing (N)
+super	adj	super|super|R|Adj
+pitch	noun	pitch|pitch|R|N
+yield	verb	yield|yield|R|V
+fence	noun	fence|fence|R|N
+given	adj	give|given|R|V ; -en||I||-en (participle)
+portrait	noun	portrait|portrait|R|N
+indication	noun	indicate|indicat|R|V ; -ion|ion|S
+roughly	adv	rough|rough|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bunch	noun	bunch|bunch|R|N
+concerning	prep	concern|concern|R|V ; -ing|ing|I||-ing (v)
+awful	adj	awe|aw|R|N ; -ful|ful|S
+lawsuit	noun	law|law|R|N ; suit|suit|R|N
+testimony	noun	testimony|testimony|R|N
+distribute	verb	distribute|distribute|R|V
+inevitably	adv	inevitable|inevitab|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+burden	noun	burden|burden|R|N
+react	verb	re-|re|P ; act|act|R|V
+measurement	noun	measure|measure|R|V ; -ment|ment|S
+cooperation	noun	co-|co|P ; operate|operat|R|V ; -ion|ion|S
+ceremony	noun	ceremony|ceremony|R|N
+disabled	adj	dis-|dis|P ; able|abl|R|Adj ; -ed|ed|S||-ed (adj)
+communicate	verb	communicate|communicate|R|V
+ownership	noun	own|own|R|V ; -er|er|S||-er (N) ; -ship|ship|S
+lost	adj	lose|lost|R|V ; -ed||I||-ed (v2)
+practitioner	noun	practitioner|practitioner|R|N
+profile	noun	profile|profile|R|N
+constitutional	adj	constitute|constitut|R|V ; -ion|ion|S ; -al|al|S
+enthusiasm	noun	enthusiasm|enthusiasm|R|N
+cease	verb	cease|cease|R|V
+disagree	verb	dis-|dis|P ; agree|agree|R|V
+impressive	adj	impress|impress|R|V ; -ive|ive|S
+satisfaction	noun	satisfy|satisfac|R|V ; -tion|tion|S
+remote	adj	remote|remote|R|Adj
+resort	noun	resort|resort|R|N
+destruction	noun	destroy|destruct|R|V ; -ion|ion|S
+qualify	verb	qualify|qualify|R|V
+emphasise	verb	emphasise|emphasise|R|V
+tissue	noun	tissue|tissue|R|N
+interval	noun	interval|interval|R|N
+eighteen	adj	eighteen|eighteen|R|Adj
+pant	verb	pant|pant|R|V
+princess	noun	prince|princ|R|N ; -ess|ess|S
+stranger	noun	strange|strang|R|Adj ; -er|er|S||-er (N)
+confusion	noun	confuse|confus|R|V ; -ion|ion|S
+broken	adj	break|broken|R|V ; -en||I||-en (participle)
+provided	verb	provide|provid|R|V ; -ed|ed|I||-ed (v2)
+sheep	noun	sheep|sheep|R|N
+bet	verb	bet|bet|R|V
+operator	noun	operate|operat|R|V ; -or|or|S
+virus	noun	virus|virus|R|N
+strategic	adj	strategy|strateg|R|N ; -ic|ic|S
+storage	noun	store|stor|R|V ; -age|age|S
+jean	noun	jean|jean|R|N
+assistant	noun	assist|assist|R|V ; -ant|ant|S
+strengthen	verb	strength|strength|R|N ; -en|en|S
+summary	noun	summary|summary|R|N
+catalogue	noun	catalogue|catalogue|R|N
+publisher	noun	publish|publish|R|V ; -er|er|S||-er (N)
+wipe	verb	wipe|wipe|R|V
+architecture	noun	architecture|architecture|R|N
+encounter	verb	encounter|encounter|R|V
+shopping	noun	shop|shopp|R|V ; -ing|ing|S||-ing (N)
+cousin	noun	cousin|cousin|R|N
+outstanding	adj	out-|out|P ; stand|stand|R|V ; -ing|ing|S||-ing (adj)
+minimum	noun	minimum|minimum|R|N
+blind	adj	blind|blind|R|Adj
+exceed	verb	exceed|exceed|R|V
+dominant	adj	dominate|domin|R|V ; -ant|ant|S
+genetic	adj	genetic|genetic|R|Adj
+incentive	noun	incentive|incentive|R|N
+related	adj	relate|relat|R|V ; -ed|ed|S||-ed (adj)
+ken	noun	ken|ken|R|N
+slave	noun	slave|slave|R|N
+accurate	adj	accurate|accurate|R|Adj
+theoretical	adj	theoretic|theoretic|R|Adj ; -al|al|S
+translate	verb	translate|translate|R|V
+processing	noun	process|process|R|V ; -ing|ing|S||-ing (N)

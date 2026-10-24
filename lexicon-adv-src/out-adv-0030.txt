@@ -1,0 +1,150 @@
+patriarch	noun	=
+primate	noun	prim-|prim|B|Adj|||Latin primus 'first' ; -ate|ate|S
+unionism	noun	=
+caricature	noun	=
+honda	noun	=
+cholera	noun	=
+suffrage	noun	=
+propulsion	noun	=
+macho	adj	=
+frontal	adj	=
+splendor	noun	=
+blatant	adj	=
+temperate	adj	=
+funnel	noun	=
+semantics	noun	=
+abstinence	noun	=
+proletariat	noun	=
+pictorial	adj	=
+fanatic	noun	=
+sequential	adj	=
+schizophrenia	noun	schizo-|schizo|B|V|||Greek schizein 'to split' ; -phren-|phren|B|N|||Greek phren 'mind, heart' ; -ia|ia|S
+rectory	noun	=
+remembrance	noun	=
+ammonia	noun	=
+repercussion	noun	=
+frivolous	adj	=
+thematic	adj	=
+familial	adj	=
+deviant	adj	=
+primer	noun	=
+porn	noun	=
+bison	noun	=
+physiology	noun	=
+biochemical	adj	=
+deport	verb	de-|de|P||||Latin de- 'away' ; -port|port|B|V|||Latin portare 'to carry'
+debacle	noun	=
+radial	adj	=
+jasper	noun	=
+ardent	adj	=
+synonym	noun	=
+centennial	adj	=
+subpoena	noun	=
+gamma	noun	=
+cistern	noun	=
+internalize	verb	=
+repatriation	noun	=
+devout	adj	=
+metabolic	adj	=
+fresco	noun	=
+reorganize	verb	=
+grimace	noun	=
+arbitrator	noun	=
+narration	noun	narr-|narr|B|V|||Latin narrare 'to tell' ; -ate|at|S ; -ion|ion|S
+amplitude	noun	=
+leash	noun	=
+auditory	adj	audit-|audit|B|V|||Latin audire 'to hear' ; -ory|ory|S
+propensity	noun	=
+morbidity	noun	=
+felicity	noun	=
+filtration	noun	=
+carp	noun	=
+contra	prep	=
+delusion	noun	=
+debenture	noun	=
+theorem	noun	=
+privatize	verb	=
+pluralist	noun	=
+curvature	noun	=
+refund	verb	re-|re|P||||Latin re- 'back' ; -fund|fund|B|V|||Latin fundere 'to pour'
+stabilization	noun	=
+pane	noun	=
+cortex	noun	=
+eject	verb	=
+sincerity	noun	=
+incubate	verb	=
+mute	adj	=
+proton	noun	=
+adhesion	noun	=
+integer	noun	=
+intersect	verb	inter-|inter|P||||Latin inter 'between' ; -sect|sect|B|V|||Latin secare 'to cut'
+dormitory	noun	dorm-|dorm|B|V|||Latin dormire 'to sleep' ; -itory|itory|S
+moderation	noun	=
+cursor	noun	curr-|curs|B|V||curr|Latin currere 'to run' ; -or|or|S
+adultery	noun	=
+dorsal	adj	dors-|dors|B|N|||Latin dorsum 'back' ; -al|al|S
+tort	noun	=
+symmetric	adj	=
+singularity	noun	=
+cameraman	noun	=
+cognition	noun	=
+phoneme	noun	phon-|phon|B|N|||Greek phone 'sound' ; -eme|eme|S
+mythical	adj	=
+leukemia	noun	leuk-|leuk|B|Adj|||Greek leukos 'white' ; -emia|emia|B|N|||Greek haima 'blood'
+marginalize	verb	=
+blah	noun	=
+excitation	noun	=
+censor	noun	cens-|cens|B|V|||Latin censere 'to judge, assess' ; -or|or|S
+ventral	adj	ventr-|ventr|B|N|||Latin venter 'belly, abdomen' ; -al|al|S
+conducive	adj	=
+conceptualize	verb	=
+beige	adj	=
+lymphocyte	noun	lympho-|lympho|B|N|||Greek lympha 'water, lymph' ; -cyte|cyte|B|N|||Greek kytos 'cell'
+sanity	noun	=
+fervor	noun	ferv-|ferv|B|V|||Latin fervere 'to boil, be hot' ; -or|or|S
+abduction	noun	ab-|ab|P||||Latin ab 'away' ; -duct|duct|B|V|||Latin ducere 'to lead' ; -ion|ion|S
+predatory	adj	=
+cavern	noun	=
+diffusion	noun	=
+endoscopy	noun	endo-|endo|P||||Greek endon 'within' ; -scop-|scop|B|V|||Greek skopein 'to see' ; -y|y|S
+argentine	adj	=
+shallot	noun	=
+timer	noun	=
+quad	noun	=
+conscientious	adj	con-|con|P||||Latin con- 'together' ; -sci-|sci|B|V|||Latin scire 'to know' ; -ent|ent|S ; -ious|ious|S
+antisocial	adj	=
+tenuous	adj	=
+innumerable	adj	=
+inconvenient	adj	=
+inaccessible	adj	=
+refute	verb	=
+meticulous	adj	=
+transpire	verb	=
+vaccination	noun	=
+garner	verb	=
+canister	noun	=
+fraudulent	adj	=
+extinguish	verb	=
+budge	verb	=
+submerge	verb	=
+strenuous	adj	=
+antioxidant	noun	=
+institutionalize	verb	=
+saturate	verb	=
+consign	verb	=
+uniformly	adv	=
+vindicate	verb	=
+divergent	adj	dis-|di|P||||Latin dis- 'apart' ; -verg-|verg|B|V|||Latin vergere 'to turn' ; -ent|ent|S
+ignition	noun	=
+respite	noun	=
+methane	noun	meth-|meth|B|N|||Greek methu 'wine' ; -ane|ane|S
+allusion	noun	al-|al|P||||Latin ad- 'to' ; -lus-|lus|B|V|||Latin ludere 'to play' ; -ion|ion|S
+apex	noun	=
+perjury	noun	per-|per|P||||Latin per- 'through' ; -jur-|jur|B|V|||Latin jurare 'to swear' ; -y|y|S
+repel	verb	re-|re|P||||Latin re- 'back' ; -pel|pel|B|V|||Latin pellere 'to drive'
+condone	verb	=
+ferocious	adj	=
+rehabilitate	verb	=
+culmination	noun	=
+fervour	noun	ferv-|ferv|B|V|||Latin fervere 'to boil, be hot' ; -our|our|S
+seismic	adj	seism-|seism|B|N|||Greek seismos 'shaking, earthquake' ; -ic|ic|S

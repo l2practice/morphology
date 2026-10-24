@@ -1,0 +1,150 @@
+anabolic	adj	ana-|ana|P||||Greek ana- 'up' ; -bol-|bol|B|V|||Greek ballo 'I throw' ; -ic|ic|S||||Latin -icus 'pertaining to'
+meridian	noun	=
+aureus	noun	aur-|aur|B|N|||Latin aurum 'gold' ; -eus|eus|S||||Latin -eus 'made of'
+horticulture	noun	=
+expunge	verb	=
+tenner	noun	=
+laceration	noun	=
+operationally	adv	=
+permeable	adj	=
+tartar	noun	=
+effusive	adj	=
+eroticism	noun	=
+quiescent	adj	=
+ubiquity	noun	=
+acrobatic	adj	=
+transvestite	noun	trans-|trans|P||||Latin trans 'across' ; -vest-|vest|B|V|||Latin vestire 'to clothe' ; -ite|ite|S||||Latin -itus 'past participle'
+pelagic	adj	pelag-|pelag|B|N|||Greek pelagos 'sea' ; -ic|ic|S||||Latin -icus 'pertaining to'
+venereal	adj	=
+semiotic	adj	semio-|semio|B|N|||Greek sema 'mark, sign' ; -tic|tic|S||||Greek -ikos 'pertaining to'
+cataclysm	noun	=
+fester	verb	=
+tabernacle	noun	=
+truncate	verb	trunc-|trunc|B|V|||Latin truncare 'to maim' ; -ate|ate|S||||Latin -atus 'verb-forming'
+oligarchy	noun	olig-|olig|B|Adj|||Greek oligos 'few' ; -archy|archy|B|N|||Greek arkhe 'rule'
+chlorophyll	noun	chloro-|chloro|B|Adj|||Greek khloros 'pale green' ; -phyll|phyll|B|N|||Greek phyllon 'leaf'
+lynx	noun	=
+ruminate	verb	rumin-|rumin|B|V|||Latin ruminari 'to chew cud' ; -ate|ate|S||||Latin -atus 'verb-forming'
+refract	verb	re-|re|P||||Latin re- 'again' ; -fract|fract|B|V|||Latin frangere 'to break'
+psychopathic	adj	=
+palatial	adj	=
+toxics	noun	=
+cortical	adj	cortic-|cortic|B|N|||Latin cortex 'bark' ; -al|al|S||||Latin -alis 'pertaining to'
+decant	verb	de-|de|P||||Latin de- 'from' ; -cant|cant|B|N|||Latin canthus 'beak, jug'
+debase	verb	=
+conjoin	verb	=
+subterfuge	noun	subter-|subter|P||||Latin subter 'under' ; -fuge|fuge|B|V|||Latin fugere 'to flee'
+hyperbolic	adj	=
+patrimony	noun	patri-|patri|B|N|||Latin pater 'father' ; -mony|mony|S||||Latin -monium 'state'
+hermeneutics	noun	=
+sepia	noun	=
+arboretum	noun	arbor-|arbor|B|N|||Latin arbor 'tree' ; -etum|etum|S||||Latin -etum 'plantation'
+sterility	noun	=
+infra	prep	=
+lamentation	noun	=
+professorial	adj	=
+formalism	noun	=
+strangulation	noun	=
+sylvan	adj	sylv-|sylv|B|N|||Latin silva 'forest' ; -an|an|S||||Latin -anus 'belonging to'
+theorise	verb	=
+conformist	noun	=
+elongation	noun	=
+carotene	noun	=
+assize	noun	=
+biomechanical	adj	=
+affectation	noun	=
+congeal	verb	=
+thrombosis	noun	=
+chiropractic	noun	chiro-|chiro|B|N|||Greek kheir 'hand' ; -practic|practic|B|Adj|||Greek praktikos 'concerned with action'
+coder	noun	=
+inoculation	noun	=
+nativist	noun	=
+hominid	noun	=
+plasticity	noun	=
+dowager	noun	=
+coronet	noun	coron-|coron|B|N|||Latin corona 'crown' ; -et|et|S||||French -ette 'diminutive'
+segregationist	noun	=
+locator	noun	=
+anthropomorphic	adj	=
+magisterium	noun	=
+antiviral	adj	=
+mulatto	noun	=
+germination	noun	germin-|germin|B|N|||Latin germen 'shoot, sprout' ; -ation|ation|S||||Latin -atio 'act, process'
+ammonium	noun	=
+derisive	adj	deris-|deris|B|V|||Latin deridere 'to deride' ; -ive|ive|S||||Latin -ivus 'tending to'
+sedition	noun	sed-|sed|P||||Latin se- 'apart' ; -it-|it|B|V|||Latin ire 'to go' ; -ion|ion|S||||Latin -io 'act, state'
+nihilism	noun	nihil-|nihil|B|N|||Latin nihil 'nothing' ; -ism|ism|S||||Greek -ismos 'doctrine, practice'
+misogyny	noun	miso-|miso|B|V|||Greek misein 'to hate' ; -gyny|gyny|B|N|||Greek gyne 'woman'
+regionalism	noun	=
+incontinent	adj	=
+sire	noun	=
+dodger	noun	=
+junket	noun	=
+phlegmatic	adj	=
+opacity	noun	=
+exaltation	noun	=
+palliative	adj	=
+augur	noun	=
+rattler	noun	=
+contemporaneous	adj	con-|con|P||||Latin com- 'with' ; -tempor-|tempor|B|N|||Latin tempus 'time' ; -aneous|aneous|S||||Latin -aneus 'pertaining to'
+sacrilege	noun	=
+sable	noun	=
+neoconservative	noun	=
+profligate	adj	proflig-|proflig|B|V|||Latin profligare 'to strike down' ; -ate|ate|S||||Latin -atus 'verb-forming'
+orifice	noun	ori-|ori|B|N|||Latin os 'mouth' ; -fice|fice|B|V|||Latin facere 'to make'
+insincere	adj	=
+trapeze	noun	=
+cutlet	noun	=
+torrid	adj	=
+autumnal	adj	=
+nanotube	noun	=
+absolution	noun	=
+filial	adj	fili-|fili|B|N|||Latin filius 'son' ; -al|al|S||||Latin -alis 'pertaining to'
+declination	noun	=
+vagabond	noun	=
+explication	noun	=
+exhalation	noun	=
+birder	noun	=
+salacious	adj	sal-|sal|B|V|||Latin salire 'to leap' ; -acious|acious|S||||Latin -ax 'tending to'
+escapism	noun	=
+energise	verb	=
+tannin	noun	tann-|tann|B|N|||Latin tannum 'oak bark' ; -in|in|S||||Latin -ina 'substance'
+alchemist	noun	=
+skateboarder	noun	=
+acclimatise	verb	=
+expansionist	noun	=
+insinuation	noun	in-|in|P||||Latin in- 'in' ; -sinu-|sinu|B|N|||Latin sinus 'bend, fold' ; -ation|ation|S||||Latin -atio 'act, process'
+adrenal	adj	ad-|ad|P||||Latin ad- 'near' ; -ren-|ren|B|N|||Latin ren 'kidney' ; -al|al|S||||Latin -alis 'pertaining to'
+phraseology	noun	phraseo-|phraseo|B|N|||Greek phrasis 'speech' ; -logy|logy|B|N|||Greek logos 'explanation'
+opal	noun	=
+decanter	noun	=
+damask	noun	=
+statuary	noun	statu-|statu|B|N|||Latin statua 'statue' ; -ary|ary|S||||Latin -arius 'pertaining to'
+gout	noun	=
+megachurch	noun	=
+timidity	noun	=
+deactivate	verb	=
+erectile	adj	=
+mitre	noun	=
+metaphysic	noun	=
+actualize	verb	=
+paralegal	noun	=
+tiara	noun	=
+billet	noun	bill-|bill|B|N|||Latin bulla 'document' ; -et|et|S||||French -ette 'diminutive'
+perspire	verb	per-|per|P||||Latin per 'through' ; -spire|spire|B|V|||Latin spirare 'to breathe'
+fatalistic	adj	=
+paddler	noun	=
+celebrant	noun	=
+soliloquy	noun	soli-|soli|B|Adj|||Latin solus 'only, sole' ; -loquy|loquy|B|V|||Latin loqui 'to speak'
+osprey	noun	=
+physiologically	adv	=
+solitaire	noun	=
+scandalize	verb	=
+xenophobic	adj	xeno-|xeno|B|Adj|||Greek xenos 'foreign, strange' ; -phob-|phob|B|N|||Greek phobos 'fear' ; -ic|ic|S||||Latin -icus 'pertaining to'
+tracery	noun	=
+consecration	noun	=
+petroglyph	noun	petro-|petro|B|N|||Greek petra 'rock' ; -glyph|glyph|B|N|||Greek glyphe 'carved work'
+pontiff	noun	=
+oration	noun	or-|or|B|V|||Latin orare 'to orate' ; -ation|ation|S||||Latin -atio 'act, process'
+polypropylene	noun	=
+rumination	noun	rumin-|rumin|B|V|||Latin ruminari 'to chew cud' ; -ation|ation|S||||Latin -atio 'act, process'

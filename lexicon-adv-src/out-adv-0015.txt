@@ -1,0 +1,150 @@
+kilometre	noun	kilo-|kilo|P||||Greek khilioi 'thousand' ; -metre|metre|B|N|||Greek metron 'measure'
+beneficial	adj	benefici-|benefici|B|N|||Latin beneficium 'benefit' ; -al|al|S||||Latin -alis 'pertaining to'
+cure	noun	=
+revision	noun	re-|re|P||||Latin re- 'again' ; -vis-|vis|B|V|||Latin videre 'to see' ; -ion|ion|S||||Latin -io 'act, state'
+amend	verb	a-|a|P||||Latin ex 'out of' ; -mend|mend|B|N|||Latin mendum 'fault'
+comparative	adj	compar-|compar|B|V|||Latin comparare 'to compare' ; -ative|ative|S||||Latin -ivus 'tending to'
+cemetery	noun	cemet-|cemet|B|V|||Greek koiman 'to sleep' ; -ery|ery|S||||Greek -terion 'place'
+fame	noun	=
+manuscript	noun	manu-|manu|B|N|||Latin manus 'hand' ; -script|script|B|V|||Latin scribere 'to write'
+carrot	noun	=
+continuity	noun	=
+quota	noun	=
+heir	noun	=
+eligible	adj	elig-|elig|B|V|||Latin eligere 'to choose' ; -ible|ible|S||||Latin -ibilis 'able to be'
+diameter	noun	dia-|dia|P||||Greek dia 'across' ; -meter|meter|B|N|||Greek metron 'measure'
+refuge	noun	re-|re|P||||Latin re- 'back' ; -fuge|fuge|B|V|||Latin fugere 'to flee'
+sexuality	noun	=
+legislator	noun	legis-|legis|B|N|||Latin lex 'law' ; -lator|lator|B|V|||Latin ferre 'to carry'
+cheer	noun	=
+faction	noun	fact-|fact|B|V|||Latin facere 'to make' ; -ion|ion|S||||Latin -io 'act, state'
+intact	adj	in-|in|P||||Latin in- 'not' ; -tact|tact|B|V|||Latin tangere 'to touch'
+applicable	adj	applic-|applic|B|V|||Latin applicare 'to apply' ; -able|able|S||||Latin -abilis 'able to be'
+elaborate	adj	e-|e|P||||Latin ex- 'out, fully' ; labor|labor|R|V ; -ate|ate|S||||Latin -atus 'having been'
+commentator	noun	comment-|comment|B|V|||Latin commentari 'to consider' ; -ator|ator|S||||Latin -ator 'agent'
+referee	noun	=
+fossil	noun	foss-|foss|B|V|||Latin fodere 'to dig' ; -il|il|S||||Latin -ilis 'pertaining to'
+verb	noun	=
+feminist	noun	femin-|femin|B|N|||Latin femina 'woman' ; -ist|ist|S||||Greek -istes 'practitioner'
+bacterium	noun	bacter-|bacter|B|N|||Greek bakteria 'staff' ; -ium|ium|S||||Latin -ium 'neuter suffix'
+clergy	noun	=
+dioxide	noun	di-|di|P||||Greek dis 'twice' ; ox-|ox|B|N|||Greek oxys 'acid' ; -ide|ide|S||||suffix 'compound'
+covenant	noun	coven-|coven|B|V|||Latin convenire 'to agree' ; -ant|ant|S||||Latin -ans 'agent'
+philosophical	adj	=
+dictate	verb	dict-|dict|B|V|||Latin dicere 'to say' ; -ate|ate|S||||Latin -atus 'having been'
+patron	noun	patr-|patr|B|N|||Latin pater 'father' ; -on|on|S||||Latin -onus 'agent'
+municipal	adj	municip-|municip|B|N|||Latin municeps 'citizen' ; -al|al|S||||Latin -alis 'pertaining to'
+harmony	noun	=
+tolerance	noun	toler-|toler|B|V|||Latin tolerare 'to endure' ; -ance|ance|S||||Latin -antia 'state'
+supervise	verb	super-|super|P||||Latin super 'over' ; -vise|vise|B|V|||Latin videre 'to see'
+misery	noun	miser-|miser|B|Adj|||Latin miser 'wretched' ; -y|y|S||||Latin -ia 'state'
+fringe	noun	=
+fortunate	adj	fortun-|fortun|B|N|||Latin fortuna 'fortune' ; -ate|ate|S||||Latin -atus 'having been'
+cruise	verb	=
+temptation	noun	=
+merge	verb	=
+calendar	noun	calend-|calend|B|N|||Latin kalendae 'first day' ; -ar|ar|S||||Latin -arium 'place, thing'
+throne	noun	=
+impulse	noun	im-|im|P||||Latin in 'upon' ; -pulse|pulse|B|V|||Latin pellere 'to drive'
+brutal	adj	brut-|brut|B|Adj|||Latin brutus 'dull' ; -al|al|S||||Latin -alis 'pertaining to'
+predator	noun	praed-|pred|B|N|||Latin praeda 'booty' ; -ator|ator|S||||Latin -ator 'agent'
+deliberate	adj	de-|de|P||||Latin de 'fully' ; -liber-|liber|B|N|||Latin libra 'scales' ; -ate|ate|S||||Latin -atus 'having been'
+persistent	adj	=
+soar	verb	=
+enact	verb	=
+circular	adj	circul-|circul|B|N|||Latin circulus 'circle' ; -ar|ar|S||||Latin -aris 'pertaining to'
+caution	noun	caut-|caut|B|V|||Latin cavere 'to beware' ; -ion|ion|S||||Latin -io 'act, state'
+fragile	adj	frag-|frag|B|V|||Latin frangere 'to break' ; -ile|ile|S||||Latin -ilis 'able to be'
+exhaust	verb	ex-|ex|P||||Latin ex 'out' ; -haust|haust|B|V|||Latin haurire 'to draw'
+furious	adj	furi-|furi|B|N|||Latin furia 'rage' ; -ous|ous|S||||Latin -osus 'full of'
+globe	noun	=
+prescribe	verb	pre-|pre|P||||Latin prae 'before' ; -scribe|scribe|B|V|||Latin scribere 'to write'
+morality	noun	moral-|moral|B|N|||Latin mos 'custom' ; -ity|ity|S||||Latin -itas 'state'
+prevail	verb	pre-|pre|P||||Latin prae 'before' ; -vail|vail|B|V|||Latin valere 'to be able'
+despair	noun	de-|de|P||||Latin de 'away' ; -spair|spair|B|V|||Latin sperare 'to hope'
+fantastic	adj	fantast-|fantast|B|V|||Greek phantazein 'to imagine' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+screw	noun	=
+invention	noun	in-|in|P||||Latin in 'upon' ; -vent-|vent|B|V|||Latin venire 'to come' ; -ion|ion|S||||Latin -io 'act, state'
+contempt	noun	con-|con|P||||Latin com- 'together' ; -tempt|tempt|B|V|||Latin temnere 'to despise'
+relaxation	noun	=
+projection	noun	=
+brochure	noun	=
+contrary	adj	contra-|contra|P||||Latin contra 'against' ; -ry|ry|S||||Latin -arius 'pertaining to'
+mansion	noun	mans-|mans|B|V|||Latin manere 'to remain' ; -ion|ion|S||||Latin -io 'act, state'
+prospective	adj	prospect-|prospect|B|V|||Latin prospicere 'to look forward' ; -ive|ive|S||||Latin -ivus 'tending to'
+authorize	verb	author-|author|B|N|||Latin auctor 'author' ; -ize|ize|S||||Greek -izein 'to make'
+confer	verb	con-|con|P||||Latin com- 'together' ; -fer|fer|B|V|||Latin ferre 'to carry'
+arch	noun	=
+retreat	noun	re-|re|P||||Latin re- 'back' ; -treat|treat|B|V|||Latin trahere 'to pull'
+minus	noun	=
+insufficient	adj	=
+conform	verb	con-|con|P||||Latin com- 'together' ; -form|form|B|N|||Latin forma 'shape'
+rehabilitation	noun	re-|re|P||||Latin re- 'again' ; -habilit-|habilit|B|Adj|||Latin habilis 'able' ; -ation|ation|S||||Latin -atio 'act, state'
+philosopher	noun	philo-|philo|B|V|||Greek philein 'to love' ; -sopher|sopher|B|N|||Greek sophia 'wisdom'
+vocabulary	noun	vocabul-|vocabul|B|N|||Latin vocabulum 'word' ; -ary|ary|S||||Latin -arium 'collection'
+gravel	noun	=
+fatigue	noun	=
+quarry	noun	=
+noble	adj	nob-|nob|B|V|||Latin noscere 'to know' ; -le|le|S||||Latin -ilis 'able to be'
+mathematical	adj	=
+speculate	verb	specul-|specul|B|N|||Latin specula 'watchtower' ; -ate|ate|S||||Latin -atus 'having been'
+marker	noun	=
+preach	verb	=
+blond	adj	=
+confession	noun	con-|con|P||||Latin com- 'together' ; -fess-|fess|B|V|||Latin fateri 'to confess' ; -ion|ion|S||||Latin -io 'act, state'
+cylinder	noun	=
+archive	noun	=
+textile	noun	text-|text|B|V|||Latin texere 'to weave' ; -ile|ile|S||||Latin -ilis 'pertaining to'
+trauma	noun	=
+surveillance	noun	=
+testament	noun	test-|test|B|N|||Latin testis 'witness' ; -ament|ament|S||||Latin -mentum 'result'
+dragon	noun	=
+negligence	noun	neg-|neg|P||||Latin nec 'not' ; -lig-|lig|B|V|||Latin legere 'to pick' ; -ence|ence|S||||Latin -entia 'state'
+consecutive	adj	con-|con|P||||Latin com- 'together' ; -secut-|secut|B|V|||Latin sequi 'to follow' ; -ive|ive|S||||Latin -ivus 'tending to'
+coordinate	verb	=
+lace	noun	=
+nutrient	noun	nutri-|nutri|B|V|||Latin nutrire 'to nourish' ; -ent|ent|S||||Latin -ens 'agent'
+inherent	adj	in-|in|P||||Latin in 'in' ; -her-|her|B|V|||Latin haerere 'to stick' ; -ent|ent|S||||Latin -ens 'agent'
+exploitation	noun	=
+frustrate	verb	frustr-|frustr|B|V|||Latin frustrari 'to deceive' ; -ate|ate|S||||Latin -atus 'having been'
+contributor	noun	=
+transit	noun	trans-|trans|P||||Latin trans 'over' ; -it|it|B|V|||Latin ire 'to go'
+configuration	noun	=
+dense	adj	=
+intermediate	adj	inter-|inter|P||||Latin inter 'between' ; -medi-|medi|B|Adj|||Latin medius 'middle' ; -ate|ate|S||||Latin -atus 'having been'
+articulate	adj	articul-|articul|B|N|||Latin articulus 'joint' ; -ate|ate|S||||Latin -atus 'having been'
+accusation	noun	ac-|ac|P||||Latin ad 'to' ; -cus-|cus|B|N|||Latin causa 'cause' ; -ation|ation|S||||Latin -atio 'act, state'
+biography	noun	bio-|bio|B|N|||Greek bios 'life' ; -graphy|graphy|B|N|||Greek graphein 'to write'
+linear	adj	=
+exemption	noun	=
+economically	adv	=
+membrane	noun	membr-|membr|B|N|||Latin membrum 'limb' ; -ane|ane|S||||Latin -ana 'covering'
+erosion	noun	e-|e|P||||Latin ex 'away' ; -ros-|ros|B|V|||Latin rodere 'to gnaw' ; -ion|ion|S||||Latin -io 'act, state'
+convenience	noun	conveni-|conveni|B|V|||Latin convenire 'to suit' ; -ence|ence|S||||Latin -entia 'state'
+probe	verb	=
+ozone	noun	=
+learner	noun	=
+bulb	noun	=
+cargo	noun	=
+narrator	noun	=
+calcium	noun	calc-|calc|B|N|||Latin calx 'lime' ; -ium|ium|S||||Latin -ium 'element suffix'
+node	noun	=
+semantic	adj	semant-|semant|B|N|||Greek sema 'sign' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+serum	noun	=
+diplomat	noun	=
+epidemic	noun	epi-|epi|P||||Greek epi 'upon' ; -demic|demic|B|N|||Greek demos 'people'
+presume	verb	pre-|pre|P||||Latin prae 'before' ; -sume|sume|B|V|||Latin sumere 'to take'
+divert	verb	di-|di|P||||Latin dis 'apart' ; -vert|vert|B|V|||Latin vertere 'to turn'
+accelerate	verb	ac-|ac|P||||Latin ad 'to' ; -celer-|celer|B|Adj|||Latin celer 'swift' ; -ate|ate|S||||Latin -atus 'having been'
+vacuum	noun	vacu-|vacu|B|Adj|||Latin vacuus 'empty' ; -um|um|S||||Latin -um 'neuter suffix'
+renew	verb	=
+parcel	noun	parc-|parc|B|N|||Latin particula 'particle' ; -el|el|S||||Latin -ella 'small'
+sensor	noun	=
+laundry	noun	laund-|laund|B|V|||Latin lavare 'to wash' ; -ry|ry|S||||Latin -aria 'place, business'
+revise	verb	re-|re|P||||Latin re- 'again' ; -vise|vise|B|V|||Latin visere 'to examine'
+apology	noun	apo-|apo|P||||Greek apo 'from' ; -logy|logy|B|N|||Greek logos 'word, speech'
+sketch	noun	=
+pronounce	verb	pro-|pro|P||||Latin pro 'forth' ; -nounce|nounce|B|V|||Latin nuntiare 'to announce'
+obey	verb	=
+retrieve	verb	=
+bomber	noun	=

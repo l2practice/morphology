@@ -1,0 +1,200 @@
+ogival	adj	ogive|ogiv|R|N ; -al|al|S
+ogive	noun	ogive|ogive|R|N
+ogling	verb	ogle|ogl|R|V ; -ing|ing|I||-ing (v)
+ogonek	noun	ogonek|ogonek|R|N
+ogreish	adj	ogre|ogre|R|N ; -ish|ish|S
+ogress	noun	ogre|ogr|R|N ; -ess|ess|S
+ohana	noun	ohana|ohana|R|N
+ohmic	adj	ohm|ohm|R|N ; -ic|ic|S
+ohmmeter	noun	ohm|ohm|R|N ; meter|meter|R|N
+ohnosecond	noun	ohnosecond|ohnosecond|R|N
+oidium	noun	oidium|oidium|R|N
+oikology	noun	oikology|oikology|R|N
+oikonym	noun	oikonym|oikonym|R|N
+oikos	noun	oikos|oikos|R|N
+oilbird	noun	oil|oil|R|N ; bird|bird|R|N
+oilcan	noun	oil|oil|R|N ; can|can|R|N
+oildom	noun	oil|oil|R|N ; -dom|dom|S
+oilery	noun	oil|oil|R|N ; -ery|ery|S
+oilily	adv	oil|oil|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+oiling	noun	oil|oil|R|N ; -ing|ing|S||-ing (N)
+oilometer	noun	oilometer|oilometer|R|N
+oilpaper	noun	oil|oil|R|N ; paper|paper|R|N
+oka	noun	oka|oka|R|N
+okara	noun	okara|okara|R|N
+okina	noun	okina|okina|R|N
+okonomiyaki	noun	okonomiyaki|okonomiyaki|R|N
+okroshka	noun	okroshka|okroshka|R|N
+okrug	noun	okrug|okrug|R|N
+olallieberry	noun	olallie|olallie|R|N ; berry|berry|R|N
+older	adj	old|old|R|Adj ; -er|er|I||-er (comparative)
+oldest	adj	old|old|R|Adj ; -est|est|I||-est (superlative)
+oldishness	noun	old|old|R|Adj ; -ish|ish|S ; -ness|ness|S
+oldsquaw	noun	old|old|R|Adj ; squaw|squaw|R|N
+ole	noun	ole|ole|R|N
+oleaginous	adj	oleaginous|oleaginous|R|Adj
+oleaginously	adv	oleaginous|oleaginous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+oleaster	noun	oleaster|oleaster|R|N
+oleate	noun	oleate|oleate|R|N
+olecranal	adj	olecranon|olecran|R|N ; -al|al|S
+olecranon	noun	olecranon|olecranon|R|N
+olefiant	adj	olefiant|olefiant|R|Adj
+oleic	adj	oleic|oleic|R|Adj
+oleiferous	adj	oleiferous|oleiferous|R|Adj
+olein	noun	olein|olein|R|N
+oleograph	noun	oleograph|oleograph|R|N
+oleographic	adj	oleography|oleograph|R|N ; -ic|ic|S
+oleography	noun	oleography|oleography|R|N
+oleomargarine	noun	oleomargarine|oleomargarine|R|N
+oleometer	noun	oleometer|oleometer|R|N
+oleophilic	adj	oleophilic|oleophilic|R|Adj
+oleoresin	noun	oleoresin|oleoresin|R|N
+oleoresinous	adj	oleoresin|oleoresin|R|N ; -ous|ous|S
+oleosaccharum	noun	oleosaccharum|oleosaccharum|R|N
+olericulture	noun	olericulture|olericulture|R|N
+oleum	noun	oleum|oleum|R|N
+olfactive	adj	olfactive|olfactive|R|Adj
+olfactometer	noun	olfactometer|olfactometer|R|N
+olibanum	noun	olibanum|olibanum|R|N
+olid	adj	olid|olid|R|Adj
+oliebol	noun	oliebol|oliebol|R|N
+olifant	noun	olifant|olifant|R|N
+oligandrous	adj	oligandrous|oligandrous|R|Adj
+oligarchical	adj	oligarchy|oligarch|R|N ; -ical|ical|S
+oligarchist	noun	oligarchy|oligarch|R|N ; -ist|ist|S
+oligocardia	noun	oligocardia|oligocardia|R|N
+oligochaete	noun	oligochaete|oligochaete|R|N
+oligochaetous	adj	oligochaete|oligochaet|R|N ; -ous|ous|S
+oligoclase	noun	oligoclase|oligoclase|R|N
+oligodendrocyte	noun	oligodendrocyte|oligodendrocyte|R|N
+oligodynamic	adj	oligodynamic|oligodynamic|R|Adj
+oligogene	noun	oligogene|oligogene|R|N
+oligogenic	adj	oligogene|oligogen|R|N ; -ic|ic|S
+oligolectic	adj	oligolectic|oligolectic|R|Adj
+oligolecty	noun	oligolecty|oligolecty|R|N
+oligomer	noun	oligomer|oligomer|R|N
+oligomeric	adj	oligomer|oligomer|R|N ; -ic|ic|S
+oligomerous	adj	oligomer|oligomer|R|N ; -ous|ous|S
+oligophagous	adj	oligophagous|oligophagous|R|Adj
+oligophagy	noun	oligophagy|oligophagy|R|N
+oligophrenia	noun	oligophrenia|oligophrenia|R|N
+oligophrenic	adj	oligophrenia|oligophren|R|N ; -ic|ic|S
+oligophyllous	adj	oligophyllous|oligophyllous|R|Adj
+oligopsony	noun	oligopsony|oligopsony|R|N
+oligosaccharide	noun	oligosaccharide|oligosaccharide|R|N
+oligosomal	adj	oligosome|oligosom|R|N ; -al|al|S
+oligospermatism	noun	oligospermatism|oligospermatism|R|N
+oligospermous	adj	oligospermous|oligospermous|R|Adj
+oligotherapy	noun	oligotherapy|oligotherapy|R|N
+oligotrophic	adj	oligotrophic|oligotrophic|R|Adj
+oliguria	noun	oliguria|oliguria|R|N
+olingo	noun	olingo|olingo|R|N
+olinguito	noun	olinguito|olinguito|R|N
+olio	noun	olio|olio|R|N
+oliva	noun	oliva|oliva|R|N
+olivaceous	adj	olivaceous|olivaceous|R|Adj
+olivary	adj	olive|olivar|R|N ; -y|y|S
+olivet	noun	olivet|olivet|R|N
+olivin	noun	olivin|olivin|R|N
+olivinic	adj	olivin|olivin|R|N ; -ic|ic|S
+olla	noun	olla|olla|R|N
+olm	noun	olm|olm|R|N
+ology	noun	ology|ology|R|N
+omadhaun	noun	omadhaun|omadhaun|R|N
+omasum	noun	omasum|omasum|R|N
+ombre	noun	ombre|ombre|R|N
+ombrology	noun	ombrology|ombrology|R|N
+ombrometer	noun	ombrometer|ombrometer|R|N
+ombrophile	noun	ombrophile|ombrophile|R|N
+ombrophobe	noun	ombrophobe|ombrophobe|R|N
+ombrotrophic	adj	ombrotrophic|ombrotrophic|R|Adj
+omened	adj	omen|omen|R|N ; -ed|ed|S||-ed (adj)
+omental	adj	omentum|oment|R|N ; -al|al|S
+omentum	noun	omentum|omentum|R|N
+omer	noun	omer|omer|R|N
+omissible	adj	omissible|omissible|R|Adj
+omissive	adj	omit|omiss|R|V ; -ive|ive|S
+omittance	noun	omit|omitt|R|V ; -ance|ance|S
+omitting	verb	omit|omitt|R|V ; -ing|ing|I||-ing (v)
+ommatidial	adj	ommatidium|ommatidi|R|N ; -al|al|S
+ommatidium	noun	ommatidium|ommatidium|R|N
+ommatophore	noun	ommatophore|ommatophore|R|N
+omnibenevolence	noun	omnibenevolence|omnibenevolence|R|N
+omnibenevolent	adj	omnibenevolent|omnibenevolent|R|Adj
+omnicompetence	noun	omnicompetence|omnicompetence|R|N
+omnicompetent	adj	omnicompetent|omnicompetent|R|Adj
+omnifarious	adj	omnifarious|omnifarious|R|Adj
+omnific	adj	omnific|omnific|R|Adj
+omnificent	adj	omnificent|omnificent|R|Adj
+omniform	adj	omniform|omniform|R|Adj
+omniformity	noun	omniform|omniform|R|Adj ; -ity|ity|S
+omnigenous	adj	omnigenous|omnigenous|R|Adj
+omnipercipience	noun	omnipercipience|omnipercipience|R|N
+omnipotency	noun	omnipotent|omnipot|R|Adj ; -ency|ency|S
+omnitheism	noun	omnitheism|omnitheism|R|N
+omnivorousness	noun	omnivorous|omnivorous|R|Adj ; -ness|ness|S
+omophagia	noun	omophagia|omophagia|R|N
+omophagic	adj	omophagia|omophag|R|N ; -ic|ic|S
+omophagist	noun	omophagia|omophag|R|N ; -ist|ist|S
+omophagous	adj	omophagous|omophagous|R|Adj
+omophorion	noun	omophorion|omophorion|R|N
+omoplate	noun	omoplate|omoplate|R|N
+omphalic	adj	omphalos|omphal|R|N ; -ic|ic|S
+omphalocele	noun	omphalocele|omphalocele|R|N
+omphaloid	adj	omphaloid|omphaloid|R|Adj
+omphalomesenteric	adj	omphalomesenteric|omphalomesenteric|R|Adj
+omphaloskepsis	noun	omphaloskepsis|omphaloskepsis|R|N
+omphalotomy	noun	omphalotomy|omphalotomy|R|N
+onaga	noun	onaga|onaga|R|N
+onager	noun	onager|onager|R|N
+onagraceous	adj	onagraceous|onagraceous|R|Adj
+onanistic	adj	onanism|onan|R|N ; -ist|ist|S ; -ic|ic|S
+oncer	noun	once|onc|R|Adv ; -er|er|S||-er (N)
+onchocerciasis	noun	onchocerciasis|onchocerciasis|R|N
+onchocercosis	noun	onchocercosis|onchocercosis|R|N
+oncilla	noun	oncilla|oncilla|R|N
+oncogenesis	noun	oncogenesis|oncogenesis|R|N
+oncogenic	adj	oncogenesis|oncogen|R|N ; -ic|ic|S
+oncogenicity	noun	oncogenesis|oncogen|R|N ; -ic|ic|S ; -ity|ity|S
+oncogenous	adj	oncogenesis|oncogen|R|N ; -ous|ous|S
+oncologic	adj	oncology|oncolog|R|N ; -ic|ic|S
+oncological	adj	oncology|oncolog|R|N ; -ical|ical|S
+oncologically	adv	oncology|oncolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+oncosis	noun	oncosis|oncosis|R|N
+oncosphere	noun	oncosphere|oncosphere|R|N
+oncotic	adj	oncosis|oncot|R|N ; -ic|ic|S
+oncotomy	noun	oncotomy|oncotomy|R|N
+ondograph	noun	ondograph|ondograph|R|N
+ondol	noun	ondol|ondol|R|N
+ondometer	noun	ondometer|ondometer|R|N
+ondoscope	noun	ondoscope|ondoscope|R|N
+onefold	adj	onefold|onefold|R|Adj
+oneirism	noun	oneirism|oneirism|R|N
+oneirocritic	noun	oneirocritic|oneirocritic|R|N
+oneirocritical	adj	oneirocritic|oneirocritic|R|N ; -al|al|S
+oneirocriticism	noun	oneirocritic|oneirocritic|R|N ; -ism|ism|S
+oneirodynia	noun	oneirodynia|oneirodynia|R|N
+oneirologist	noun	oneirology|oneirolog|R|N ; -ist|ist|S
+oneirology	noun	oneirology|oneirology|R|N
+oneiromancy	noun	oneiromancy|oneiromancy|R|N
+oner	noun	one|on|R|N ; -er|er|S||-er (N)
+onerousness	noun	onerous|onerous|R|Adj ; -ness|ness|S
+oneshot	adj	one|one|R|N ; shot|shot|R|N
+onesie	noun	onesie|onesie|R|N
+onfall	noun	on|on|R|Adv ; fall|fall|R|V
+onflow	noun	on|on|R|Adv ; flow|flow|R|V
+onhanger	noun	on|on|R|Adv ; hang|hang|R|V ; -er|er|S||-er (N)
+onigiri	noun	onigiri|onigiri|R|N
+oniomania	noun	oniomania|oniomania|R|N
+onioned	adj	onion|onion|R|N ; -ed|ed|S||-ed (adj)
+oniony	adj	onion|onion|R|N ; -y|y|S
+onlay	noun	on|on|R|Adv ; lay|lay|R|V
+onlooking	noun	on|on|R|Adv ; look|look|R|V ; -ing|ing|S||-ing (N)
+onocentaur	noun	onocentaur|onocentaur|R|N
+onomasiological	adj	onomasiology|onomasiolog|R|N ; -ical|ical|S
+onomasiology	noun	onomasiology|onomasiology|R|N
+onomastic	adj	onomastic|onomastic|R|Adj
+onomastician	noun	onomastic|onomastic|R|Adj ; -ian|ian|S
+onomasticon	noun	onomasticon|onomasticon|R|N
+onomastics	noun	onomastics|onomastics|R|N
+onomatology	noun	onomatology|onomatology|R|N

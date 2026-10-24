@@ -1,0 +1,150 @@
+perimeter	noun	peri-|peri|P||||Greek peri 'around' ; meter|meter|R|N
+exchequer	noun	=
+proximity	noun	=
+lettuce	noun	=
+honorary	adj	=
+brace	noun	=
+consequent	adj	=
+manifesto	noun	=
+sermon	noun	=
+progression	noun	=
+volatile	adj	=
+oval	adj	ov-|ov|B|N|||Latin ovum 'egg' ; -al|al|S||||Latin -alis, 'relating to'
+rigorous	adj	=
+synthetic	adj	=
+mason	noun	=
+cape	noun	=
+sturdy	adj	=
+convoy	noun	=
+amused	adj	=
+propel	verb	pro-|pro|P||||Latin pro- 'forward' ; -pel|pel|B|V|||Latin pellere 'to drive'
+parsley	noun	=
+enclosure	noun	=
+replicate	verb	=
+pest	noun	=
+dame	noun	=
+intimidate	verb	=
+prohibition	noun	=
+substitution	noun	=
+verge	noun	=
+plague	noun	=
+admiral	noun	=
+smoker	noun	=
+expire	verb	ex-|ex|P||||Latin ex- 'out' ; -pire|pire|B|V||spir|Latin spirare 'to breathe'
+flora	noun	=
+catastrophe	noun	=
+diagnostic	adj	=
+lucrative	adj	=
+transcend	verb	=
+utilise	verb	=
+elicit	verb	=
+fascination	noun	=
+madam	noun	ma-|ma|P||||French ma 'my' ; dame|dam|R|N
+contender	noun	=
+dissolution	noun	=
+heater	noun	=
+vest	noun	=
+inquire	verb	in-|in|P||||Latin in- 'into' ; -quire|quire|B|V|||Latin quaerere 'to seek'
+vibration	noun	=
+elevation	noun	=
+pragmatic	adj	=
+inference	noun	=
+vibrant	adj	=
+sensibility	noun	=
+parole	noun	=
+ecclesiastical	adj	=
+reformer	noun	=
+poetic	adj	=
+eruption	noun	=
+interrogation	noun	=
+libel	noun	=
+cultivation	noun	=
+foil	noun	=
+alec	noun	=
+radioactive	adj	=
+curb	noun	=
+anthropology	noun	=
+bail	noun	=
+conquer	verb	=
+mediate	verb	=
+dictator	noun	dict-|dict|B|V|||Latin dicere 'to say' ; -ator|ator|S||||Latin -ator, 'agent'
+composite	adj	=
+sociologist	noun	=
+symmetry	noun	=
+therapeutic	adj	=
+inhale	verb	in-|in|P||||Latin in 'into' ; -hale|hale|B|V|||Latin halare 'to breathe'
+syllabus	noun	=
+siren	noun	=
+consultative	adj	=
+scarce	adj	=
+indemnity	noun	=
+pervasive	adj	per-|per|P||||Latin per 'through' ; -vas-|vas|B|V|||Latin vadere 'to go' ; -ive|ive|S||||Latin -ivus, 'relating to'
+stella	noun	=
+papal	adj	=
+translator	noun	=
+strategist	noun	=
+transcription	noun	=
+aerospace	noun	=
+oracle	noun	=
+polar	adj	=
+header	noun	=
+median	adj	medi-|medi|B|Adj|||Latin medius 'middle' ; -an|an|S||||Latin -anus, 'relating to'
+guitarist	noun	=
+chromosome	noun	chromo-|chromo|B|N|||Greek khroma 'colour' ; -some|some|B|N|||Greek soma 'body'
+linguistics	noun	=
+void	noun	=
+colon	noun	=
+battered	adj	=
+granite	noun	=
+lesion	noun	=
+erode	verb	=
+intestinal	adj	=
+dexter	adj	=
+syrup	noun	=
+infinitive	noun	=
+beverage	noun	=
+mimic	verb	mim-|mim|B|N|||Greek mimos 'imitator, actor' ; -ic|ic|S||||Greek -ikos, 'relating to'
+oppression	noun	=
+ammunition	noun	=
+pierce	verb	=
+hybrid	noun	=
+prairie	noun	=
+serial	adj	=
+dubious	adj	=
+boomer	noun	=
+drastic	adj	=
+unsuitable	adj	=
+contradict	verb	contra-|contra|P||||Latin contra 'against' ; -dict|dict|B|V|||Latin dicere 'to say'
+muscular	adj	=
+subscribe	verb	=
+compliment	noun	=
+commute	verb	=
+temporal	adj	=
+lunar	adj	=
+discrepancy	noun	=
+sincere	adj	=
+demise	noun	de-|de|P||||Latin de- 'away' ; -mise|mise|B|V||mit|Latin mittere 'to send'
+chant	noun	=
+hesitation	noun	=
+crater	noun	=
+pamphlet	noun	=
+scout	noun	=
+adolescence	noun	=
+comprehend	verb	com-|com|P||||Latin com- 'together' ; -prehend|prehend|B|V|||Latin prehendere 'to seize'
+prosperous	adj	=
+squirrel	noun	=
+responsive	adj	=
+pathetic	adj	=
+inclination	noun	=
+deceive	verb	=
+accidental	adj	=
+evacuate	verb	=
+descriptive	adj	=
+lever	noun	=
+squash	verb	=
+famine	noun	=
+instability	noun	=
+legion	noun	leg-|leg|B|V|||Latin legere 'to gather' ; -ion|ion|S||||Latin -io, 'action, result'
+ignorant	adj	=
+affiliate	verb	af-|af|P|||ad-|Latin ad- 'to' ; -fili-|fili|B|N|||Latin filius 'son' ; -ate|ate|S||||Latin -atus, 'verb-forming'
+elusive	adj	=

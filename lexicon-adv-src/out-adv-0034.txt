@@ -1,0 +1,150 @@
+prospectus	noun	=
+navigator	noun	=
+paternal	adj	=
+pang	noun	=
+aversion	noun	=
+chronology	noun	chrono-|chrono|B|N|||Greek khronos 'time' ; -logy|logy|B|N|||Greek logos 'study, word'
+coalesce	verb	=
+experimenter	noun	=
+insomnia	noun	in-|in|P||||Latin in- 'without' ; somn-|somn|B|N|||Latin somnus 'sleep' ; -ia|ia|S||||Latin -ia 'state'
+crystalline	adj	=
+serenity	noun	=
+daphne	noun	=
+colossal	adj	=
+null	adj	=
+vaginal	adj	=
+espresso	noun	=
+filler	noun	=
+assailant	noun	=
+radicalism	noun	=
+heterogeneous	adj	hetero-|hetero|B|Adj|||Greek heteros 'other' ; -gen-|gen|B|N|||Greek genos 'kind' ; -eous|eous|S||||Greek -eos 'relating to'
+calculus	noun	=
+geographer	noun	=
+propagation	noun	=
+apparition	noun	=
+computation	noun	=
+multiplication	noun	=
+fortify	verb	=
+cavernous	adj	=
+arsenic	noun	=
+equator	noun	=
+tribune	noun	=
+synod	noun	syn-|syn|P||||Greek syn 'with' ; -od|od|B|N|||Greek hodos 'way, path'
+dramatize	verb	=
+perilous	adj	=
+acrylic	adj	=
+soluble	adj	solv-|solu|B|V|||Latin solvere 'to loosen' ; -ble|ble|S||||Latin -bilis 'able to be'
+objector	noun	=
+algebra	noun	=
+epoch	noun	=
+limbo	noun	=
+adorable	adj	=
+ruby	noun	=
+imbue	verb	=
+meander	verb	=
+sullen	adj	=
+egregious	adj	e-|e|P||||Latin ex- 'out of' ; -greg-|greg|B|N|||Latin grex 'flock' ; -ious|ious|S||||Latin -osus 'full of'
+lander	noun	=
+macaroni	noun	=
+baptize	verb	=
+biologically	adv	bio-|bio|B|N|||Greek bios 'life' ; -log-|log|B|N|||Greek logos 'study, word' ; -ic|ic|S||||Greek -ikos 'pertaining to' ; -al|al|S||||Latin -alis 'relating to' ; -ly|ly|I
+promulgate	verb	=
+paraphrase	verb	=
+beryl	noun	=
+annuity	noun	=
+immortality	noun	=
+sentry	noun	=
+apocalyptic	adj	apo-|apo|P||||Greek apo 'away from' ; -calypt-|calypt|B|V|||Greek kalyptein 'to cover' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+ordination	noun	=
+caterer	noun	=
+glacial	adj	glaci-|glaci|B|N|||Latin glacies 'ice' ; -al|al|S||||Latin -alis 'relating to'
+plumage	noun	=
+amplification	noun	=
+congenital	adj	=
+entirety	noun	=
+replication	noun	=
+persecute	verb	per-|per|P||||Latin per 'through' ; -secute|secute|B|V|||Latin sequi 'to follow'
+deluxe	adj	=
+chandler	noun	=
+empirically	adv	=
+soloist	noun	=
+retina	noun	=
+raucous	adj	=
+organist	noun	=
+chime	noun	=
+cobra	noun	=
+consonant	noun	con-|con|P||||Latin com- 'with' ; -son-|son|B|V|||Latin sonare 'to sound' ; -ant|ant|S||||Latin -ans 'agent'
+cartoonist	noun	=
+elemental	adj	=
+mystique	noun	=
+proverb	noun	=
+adhesive	adj	=
+imperfection	noun	=
+granule	noun	=
+notoriety	noun	notor-|notor|B|V|||Latin noscere 'to know' ; -iety|iety|S||||Latin -ietas 'state'
+sultan	noun	=
+centrality	noun	=
+polyester	noun	=
+torpedo	noun	=
+auspice	noun	=
+subordination	noun	=
+oppress	verb	=
+airman	noun	=
+pulmonary	adj	pulmon-|pulmon|B|N|||Latin pulmo 'lung' ; -ary|ary|S||||Latin -arius 'relating to'
+inundate	verb	in-|in|P||||Latin in- 'into' ; -und-|und|B|V|||Latin undare 'to flood' ; -ate|ate|S||||Latin -atus 'verb ending'
+absentee	noun	=
+plurality	noun	=
+repress	verb	=
+violet	noun	viol-|viol|B|N|||Latin viola 'violet' ; -et|et|S||||Latin -etta 'diminutive'
+reparation	noun	=
+communicator	noun	=
+pungent	adj	pung-|pung|B|V|||Latin pungere 'to sting' ; -ent|ent|S||||Latin -ens 'agent'
+sarcastic	adj	=
+bonanza	noun	=
+panorama	noun	pan-|pan|P||||Greek pan 'all' ; -orama|orama|B|N|||Greek horama 'view'
+griffin	noun	=
+topography	noun	topo-|topo|B|N|||Greek topos 'place' ; -graph-|graph|B|V|||Greek graphein 'to write' ; -y|y|S||||Greek -ia 'study'
+prism	noun	=
+gymnasium	noun	gymnas-|gymnas|B|Adj|||Greek gymnos 'naked' ; -ium|ium|S||||Greek -ion 'place'
+diva	noun	=
+relapse	verb	re-|re|P||||Latin re- 'back' ; -lapse|lapse|B|V|||Latin labi 'to slip'
+scooter	noun	=
+intelligentsia	noun	=
+empress	noun	=
+recoil	verb	=
+hormonal	adj	=
+extremism	noun	=
+ovation	noun	=
+corrosion	noun	=
+acidity	noun	=
+hooper	noun	=
+mystic	noun	=
+astute	adj	=
+aggregation	noun	=
+abstention	noun	=
+octave	noun	=
+vestige	noun	=
+fuselage	noun	=
+subsidence	noun	=
+manic	adj	=
+phonetic	adj	=
+orchestral	adj	=
+excruciating	adj	ex-|ex|P||||Latin ex- 'out' ; -cruci-|cruci|B|V|||Latin cruciare 'to torment' ; -at|at|S||||Latin -atus 'verb ending' ; -ing|ing|I
+harrier	noun	=
+discursive	adj	=
+migraine	noun	=
+highlander	noun	=
+candor	noun	cand-|cand|B|V|||Latin candere 'to shine' ; -or|or|S||||Latin -or 'state'
+cadmium	noun	=
+laity	noun	=
+arcane	adj	=
+decimal	adj	decim-|decim|B|Adj|||Latin decem 'ten' ; -al|al|S||||Latin -alis 'relating to'
+renegade	noun	=
+hoax	noun	=
+anorexia	noun	an-|an|P||||Greek an- 'not' ; -orex-|orex|B|N|||Greek orexis 'yearning' ; -ia|ia|S||||Greek -ia 'state'
+prosthetic	adj	=
+sonnet	noun	son-|sonn|B|N|||Latin sonus 'sound' ; -et|et|S||||Latin -etta 'diminutive'
+fluency	noun	=
+contiguous	adj	=
+semblance	noun	=
+replete	adj	=

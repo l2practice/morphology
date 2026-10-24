@@ -1,0 +1,200 @@
+centred	adj	centre|centr|R|V ; -ed|ed|S||-ed (adj)
+centrical	adj	centric|centric|R|Adj ; -al|al|S
+centrically	adv	centric|centric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+centricity	noun	centric|centric|R|Adj ; -ity|ity|S
+centrifugalism	noun	centrifugal|centrifugal|R|Adj ; -ism|ism|S
+centrifugally	adv	centrifugal|centrifugal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+centriole	noun	centriole|centriole|R|N
+centripetally	adv	centripetal|centripetal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+centromere	noun	centromere|centromere|R|N
+centroplasm	noun	centroplasm|centroplasm|R|N
+centrosome	noun	centrosome|centrosome|R|N
+centrosphere	noun	centrosphere|centrosphere|R|N
+centuple	noun	centuple|centuple|R|N
+centuplicate	verb	centuplicate|centuplicate|R|V
+centurial	adj	century|centuri|R|N ; -al|al|S
+centurylong	adj	century|century|R|N ; long|long|R|Adj
+cep	noun	cep|cep|R|N
+cepelinas	noun	cepelinas|cepelinas|R|N
+cephalad	adv	cephalad|cephalad|R|Adv
+cephalic	adj	cephalic|cephalic|R|Adj
+cephalically	adv	cephalic|cephalic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+cephalometry	noun	cephalometry|cephalometry|R|N
+cephalothorax	noun	cephalothorax|cephalothorax|R|N
+cepstrum	noun	cepstrum|cepstrum|R|N
+ceraceous	adj	ceraceous|ceraceous|R|Adj
+ceramal	noun	ceramal|ceramal|R|N
+cerambycid	noun	cerambycid|cerambycid|R|N
+ceramicist	noun	ceramic|ceramic|R|N ; -ist|ist|S
+ceramide	noun	ceramide|ceramide|R|N
+cerastes	noun	cerastes|cerastes|R|N
+ceratosaur	noun	ceratosaur|ceratosaur|R|N
+cercal	adj	cercal|cercal|R|Adj
+cercaria	noun	cercaria|cercaria|R|N
+cercopid	noun	cercopid|cercopid|R|N
+cere	noun	cere|cere|R|N
+cerebrally	adv	cerebral|cerebral|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cerebrate	verb	cerebrate|cerebrate|R|V
+cerebration	noun	cerebrate|cerebrat|R|V ; -ion|ion|S
+cerecloth	noun	cere|cere|R|N ; cloth|cloth|R|N
+cerement	noun	cerement|cerement|R|N
+ceremonialism	noun	ceremonial|ceremonial|R|Adj ; -ism|ism|S
+ceremonialist	noun	ceremonial|ceremonial|R|Adj ; -ist|ist|S
+ceremoniousness	noun	ceremonious|ceremonious|R|Adj ; -ness|ness|S
+ceresin	noun	ceresin|ceresin|R|N
+ceria	noun	ceria|ceria|R|N
+ceric	adj	cerium|cer|R|N ; -ic|ic|S
+cerite	noun	cerite|cerite|R|N
+cerium	noun	cerium|cerium|R|N
+cermet	noun	cermet|cermet|R|N
+cernuous	adj	cernuous|cernuous|R|Adj
+cerograph	noun	cerograph|cerograph|R|N
+ceroplastics	noun	ceroplastics|ceroplastics|R|N
+cerous	adj	cerous|cerous|R|Adj
+certificatory	adj	certificate|certificat|R|N ; -ory|ory|S
+certifier	noun	certify|certifi|R|V ; -er|er|S||-er (N)
+ceruminous	adj	ceruminous|ceruminous|R|Adj
+ceruse	noun	ceruse|ceruse|R|N
+cerussite	noun	cerussite|cerussite|R|N
+cervelat	noun	cervelat|cervelat|R|N
+cervicitis	noun	cervicitis|cervicitis|R|N
+cervid	noun	cervid|cervid|R|N
+cervine	adj	cervine|cervine|R|Adj
+cessationism	noun	cessation|cessation|R|N ; -ism|ism|S
+cessationist	noun	cessation|cessation|R|N ; -ist|ist|S
+cesser	noun	cesser|cesser|R|N
+cestode	noun	cestode|cestode|R|N
+cestoid	adj	cestoid|cestoid|R|Adj
+cestus	noun	cestus|cestus|R|N
+cetane	noun	cetane|cetane|R|N
+cetology	noun	cetology|cetology|R|N
+cevapi	noun	cevapi|cevapi|R|N
+chaat	noun	chaat|chaat|R|N
+chabazite	noun	chabazite|chabazite|R|N
+chacha	noun	chacha|chacha|R|N
+chachalaca	noun	chachalaca|chachalaca|R|N
+chad	noun	chad|chad|R|N
+chadless	adj	chad|chad|R|N ; -less|less|S
+chaeta	noun	chaeta|chaeta|R|N
+chafer	noun	chafer|chafer|R|N
+chaffed	verb	chaff|chaff|R|V ; -ed|ed|I||-ed (v2)
+chaffer	verb	chaffer|chaffer|R|V
+chafferer	noun	chaffer|chaffer|R|V ; -er|er|S||-er (N)
+chaffing	verb	chaff|chaff|R|V ; -ing|ing|I||-ing (v)
+chaffy	adj	chaff|chaff|R|N ; -y|y|S
+chaga	noun	chaga|chaga|R|N
+chagrining	verb	chagrin|chagrin|R|V ; -ing|ing|I||-ing (v)
+chaikhana	noun	chaikhana|chaikhana|R|N
+chaining	verb	chain|chain|R|V ; -ing|ing|I||-ing (v)
+chainlet	noun	chain|chain|R|N ; -let|let|S
+chainlink	noun	chain|chain|R|N ; link|link|R|N
+chainplate	noun	chain|chain|R|N ; plate|plate|R|N
+chainring	noun	chain|chain|R|N ; ring|ring|R|N
+chairship	noun	chair|chair|R|N ; -ship|ship|S
+chakram	noun	chakram|chakram|R|N
+chakravartin	noun	chakravartin|chakravartin|R|N
+chalaza	noun	chalaza|chalaza|R|N
+chalazion	noun	chalazion|chalazion|R|N
+chalcanthite	noun	chalcanthite|chalcanthite|R|N
+chalcedonic	adj	chalcedony|chalcedon|R|N ; -ic|ic|S
+chalcocite	noun	chalcocite|chalcocite|R|N
+chalcogen	noun	chalcogen|chalcogen|R|N
+chalcography	noun	chalcography|chalcography|R|N
+chalcopyrite	noun	chalcopyrite|chalcopyrite|R|N
+chalked	verb	chalk|chalk|R|V ; -ed|ed|I||-ed (v2)
+chalkiness	noun	chalk|chalk|R|N ; -y|i|S ; -ness|ness|S
+chalking	verb	chalk|chalk|R|V ; -ing|ing|I||-ing (v)
+challengeable	adj	challenge|challenge|R|V ; -able|able|S
+chalone	noun	chalone|chalone|R|N
+chalumeau	noun	chalumeau|chalumeau|R|N
+chalybeate	adj	chalybeate|chalybeate|R|Adj
+cham	noun	cham|cham|R|N
+chamade	noun	chamade|chamade|R|N
+chamaephyte	noun	chamaephyte|chamaephyte|R|N
+chambers	noun	chamber|chamber|R|N ; -s|s|I||-s (plural)
+chameleonic	adj	chameleon|chameleon|R|N ; -ic|ic|S
+chamfron	noun	chamfron|chamfron|R|N
+champac	noun	champac|champac|R|N
+champignon	noun	champignon|champignon|R|N
+champing	verb	champ|champ|R|V ; -ing|ing|I||-ing (v)
+championing	verb	champion|champion|R|V ; -ing|ing|I||-ing (v)
+chancily	adv	chancy|chanci|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+chanciness	noun	chancy|chanci|R|Adj ; -ness|ness|S
+chancing	verb	chance|chanc|R|V ; -ing|ing|I||-ing (v)
+chancre	noun	chancre|chancre|R|N
+chancroid	noun	chancroid|chancroid|R|N
+chancroidal	adj	chancroid|chancroid|R|N ; -al|al|S
+chandelle	noun	chandelle|chandelle|R|N
+chandlery	noun	chandler|chandler|R|N ; -y|y|S
+changeableness	noun	changeable|changeable|R|Adj ; -ness|ness|S
+changeably	adv	change|change|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+changeful	adj	change|change|R|V ; -ful|ful|S
+changefully	adv	change|change|R|V ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+changefulness	noun	change|change|R|V ; -ful|ful|S ; -ness|ness|S
+changelessness	noun	change|change|R|V ; -less|less|S ; -ness|ness|S
+changelog	noun	change|change|R|V ; log|log|R|N
+changeroom	noun	change|change|R|V ; room|room|R|N
+channels	noun	channel|channel|R|N ; -s|s|I||-s (plural)
+chansonnier	noun	chansonnier|chansonnier|R|N
+chanticleer	noun	chanticleer|chanticleer|R|N
+chantingly	adv	chant|chant|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+chanyu	noun	chanyu|chanyu|R|N
+chaparajos	noun	chaparajos|chaparajos|R|N
+chape	noun	chape|chape|R|N
+chapelmaster	noun	chapel|chapel|R|N ; master|master|R|N
+chaperonage	noun	chaperon|chaperon|R|N ; -age|age|S
+chaperoned	verb	chaperon|chaperon|R|V ; -ed|ed|I||-ed (v2)
+chaperoning	verb	chaperon|chaperon|R|V ; -ing|ing|I||-ing (v)
+chapiter	noun	chapiter|chapiter|R|N
+chaplainship	noun	chaplain|chaplain|R|N ; -ship|ship|S
+chaplet	noun	chaplet|chaplet|R|N
+chaps	noun	chap|chap|R|N ; -s|s|I||-s (plural)
+characterizer	noun	characterize|characteriz|R|V ; -er|er|S||-er (N)
+charactron	noun	charactron|charactron|R|N
+charadriiform	adj	charadriiform|charadriiform|R|Adj
+charango	noun	charango|charango|R|N
+charas	noun	charas|charas|R|N
+charbon	noun	charbon|charbon|R|N
+charbonnier	noun	charbonnier|charbonnier|R|N
+chare	noun	chare|chare|R|N
+chargeability	noun	chargeable|chargeabil|R|Adj ; -ity|ity|S
+chargeableness	noun	chargeable|chargeable|R|Adj ; -ness|ness|S
+chargeback	noun	charge|charge|R|N ; back|back|R|N
+charily	adv	chary|chari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+chariness	noun	chary|chari|R|Adj ; -ness|ness|S
+charism	noun	charism|charism|R|N
+charismatically	adv	charismatic|charismatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+charitableness	noun	charitable|charitable|R|Adj ; -ness|ness|S
+charivari	noun	charivari|charivari|R|N
+charlatanic	adj	charlatan|charlatan|R|N ; -ic|ic|S
+charlatanism	noun	charlatan|charlatan|R|N ; -ism|ism|S
+charlatanry	noun	charlatan|charlatan|R|N ; -ry|ry|S
+charleston	noun	charleston|charleston|R|N
+charlock	noun	charlock|charlock|R|N
+charmeuse	noun	charmeuse|charmeuse|R|N
+charoite	noun	charoite|charoite|R|N
+charpoy	noun	charpoy|charpoy|R|N
+charqui	noun	charqui|charqui|R|N
+charring	verb	char|charr|R|V ; -ing|ing|I||-ing (v)
+charterhouse	noun	charter|charter|R|N ; house|house|R|N
+chased	verb	chase|chas|R|V ; -ed|ed|I||-ed (v2)
+chasma	noun	chasma|chasma|R|N
+chasmal	adj	chasma|chasm|R|N ; -al|al|S
+chasmogamic	adj	chasmogamy|chasmogam|R|N ; -ic|ic|S
+chasmogamy	noun	chasmogamy|chasmogamy|R|N
+chasmy	adj	chasm|chasm|R|N ; -y|y|S
+chassepot	noun	chassepot|chassepot|R|N
+chasseur	noun	chasseur|chasseur|R|N
+chastener	noun	chasten|chasten|R|V ; -er|er|S||-er (N)
+chasteness	noun	chaste|chaste|R|Adj ; -ness|ness|S
+chastening	verb	chasten|chasten|R|V ; -ing|ing|I||-ing (v)
+chastisable	adj	chastise|chastis|R|V ; -able|able|S
+chastiser	noun	chastise|chastis|R|V ; -er|er|S||-er (N)
+chastushka	noun	chastushka|chastushka|R|N
+chatbot	noun	chat|chat|R|N ; bot|bot|R|N
+chateaubriand	noun	chateaubriand|chateaubriand|R|N
+chaton	noun	chaton|chaton|R|N
+chatoyant	adj	chatoyant|chatoyant|R|Adj
+chattiness	noun	chatty|chatti|R|Adj ; -ness|ness|S
+chauffer	noun	chauffer|chauffer|R|N
+chaulmoogra	noun	chaulmoogra|chaulmoogra|R|N

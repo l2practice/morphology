@@ -1,0 +1,200 @@
+rhythmist	noun	rhythm|rhythm|R|N ; -ist|ist|S
+rhythmize	verb	rhythm|rhythm|R|N ; -ize|ize|S
+rhyton	noun	rhyton|rhyton|R|N
+ri	noun	ri|ri|R|N
+ria	noun	ria|ria|R|N
+rial	noun	rial|rial|R|N
+rialto	noun	rialto|rialto|R|N
+riant	adj	riant|riant|R|Adj
+ribauldequin	noun	ribauldequin|ribauldequin|R|N
+ribband	noun	ribband|ribband|R|N
+ribbit	noun	ribbit|ribbit|R|N
+ribbonfish	noun	ribbon|ribbon|R|N ; fish|fish|R|N
+ribbonlike	adj	ribbon|ribbon|R|N ; -like|like|S
+ribbonmaker	noun	ribbon|ribbon|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+ribonuclease	noun	ribonuclease|ribonuclease|R|N
+ribonucleic	adj	ribonucleic|ribonucleic|R|Adj
+ribonucleotide	noun	ribonucleotide|ribonucleotide|R|N
+ribosomic	adj	ribosome|ribosom|R|N ; -ic|ic|S
+ribwort	noun	rib|rib|R|N ; wort|wort|R|N
+riceburger	noun	rice|rice|R|N ; burger|burger|R|N
+ricefield	noun	rice|rice|R|N ; field|field|R|N
+richen	verb	rich|rich|R|Adj ; -en|en|S
+ricinus	noun	ricinus|ricinus|R|N
+ricketiness	noun	rickety|ricketi|R|Adj ; -ness|ness|S
+rickettsia	noun	rickettsia|rickettsia|R|N
+rickroll	verb	rickroll|rickroll|R|V
+rictal	adj	rictal|rictal|R|Adj
+ridden	verb	ride|ridden|R|V ; -en||I||-en (participle)
+riddling	verb	riddle|riddl|R|V ; -ing|ing|I||-ing (v)
+ridging	verb	ridge|ridg|R|V ; -ing|ing|I||-ing (v)
+ridgy	adj	ridge|ridg|R|N ; -y|y|S
+ridiculing	verb	ridicule|ridicul|R|V ; -ing|ing|I||-ing (v)
+ridotto	noun	ridotto|ridotto|R|N
+riel	noun	riel|riel|R|N
+rifeness	noun	rife|rife|R|Adj ; -ness|ness|S
+rigadoon	noun	rigadoon|rigadoon|R|N
+rigescent	adj	rigescent|rigescent|R|Adj
+rightard	noun	rightard|rightard|R|N
+righting	verb	right|right|R|V ; -ing|ing|I||-ing (v)
+rightism	noun	right|right|R|N ; -ism|ism|S
+rightsholder	noun	right|rights|R|N ; hold|hold|R|V ; -er|er|S||-er (N)
+righty	noun	right|right|R|N ; -y|y|S
+rigorism	noun	rigor|rigor|R|N ; -ism|ism|S
+riichi	noun	riichi|riichi|R|N
+rijksmonument	noun	rijksmonument|rijksmonument|R|N
+rillet	noun	rillet|rillet|R|N
+rimed	adj	rime|rim|R|N ; -ed|ed|S||-ed (adj)
+rimer	noun	rime|rim|R|V ; -er|er|S||-er (N)
+riming	verb	rime|rim|R|V ; -ing|ing|I||-ing (v)
+rimmer	noun	rim|rimm|R|N ; -er|er|S||-er (N)
+rimming	verb	rim|rimm|R|V ; -ing|ing|I||-ing (v)
+rimose	adj	rimose|rimose|R|Adj
+rimy	adj	rime|rim|R|N ; -y|y|S
+rinded	adj	rind|rind|R|N ; -ed|ed|S||-ed (adj)
+ringent	adj	ringent|ringent|R|Adj
+ringgit	noun	ringgit|ringgit|R|N
+ringleted	adj	ring|ring|R|N ; -let|let|S ; -ed|ed|S||-ed (adj)
+ringlety	adj	ring|ring|R|N ; -let|let|S ; -y|y|S
+ringoid	adj	ringoid|ringoid|R|Adj
+rings	noun	ring|ring|R|N ; -s|s|I||-s (plural)
+ringspot	noun	ring|ring|R|N ; spot|spot|R|N
+ringstone	noun	ring|ring|R|N ; stone|stone|R|N
+ringtail	noun	ring|ring|R|N ; tail|tail|R|N
+ringtone	noun	ring|ring|R|N ; tone|tone|R|N
+ringwoodite	noun	ringwoodite|ringwoodite|R|N
+rinking	verb	rink|rink|R|V ; -ing|ing|I||-ing (v)
+rinpoche	noun	rinpoche|rinpoche|R|N
+rinser	noun	rinse|rins|R|V ; -er|er|S||-er (N)
+riotousness	noun	riot|riot|R|N ; -ous|ous|S ; -ness|ness|S
+ripicolous	adj	ripicolous|ripicolous|R|Adj
+ripost	noun	ripost|ripost|R|N
+ripply	adj	ripple|rippl|R|N ; -y|y|S
+ripsaw	noun	rip|rip|R|V ; saw|saw|R|N
+rishi	noun	rishi|rishi|R|N
+risibility	noun	risible|risib|R|Adj ; -ity|ility|S
+riskily	adv	risky|riski|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+risking	verb	risk|risk|R|V ; -ing|ing|I||-ing (v)
+riskish	adj	risk|risk|R|N ; -ish|ish|S
+risktaker	noun	risk|risk|R|N ; take|tak|R|V ; -er|er|S||-er (N)
+ritard	noun	ritard|ritard|R|N
+ritardando	noun	ritardando|ritardando|R|N
+ritualism	noun	ritual|ritual|R|N ; -ism|ism|S
+ritualist	noun	ritual|ritual|R|N ; -ist|ist|S
+rivage	noun	rivage|rivage|R|N
+rivalship	noun	rival|rival|R|N ; -ship|ship|S
+riverain	adj	riverain|riverain|R|Adj
+riverbend	noun	river|river|R|N ; bend|bend|R|N
+rivered	adj	river|river|R|N ; -ed|ed|S||-ed (adj)
+riverman	noun	river|river|R|N ; man|man|R|N
+rivery	adj	river|river|R|N ; -y|y|S
+riving	verb	rive|riv|R|V ; -ing|ing|I||-ing (v)
+rivose	adj	rivose|rivose|R|Adj
+riyal	noun	riyal|riyal|R|N
+rizz	noun	rizz|rizz|R|N
+roadability	noun	road|road|R|N ; -able|abil|S ; -ity|ity|S
+roadholding	noun	road|road|R|N ; hold|hold|R|V ; -ing|ing|S||-ing (N)
+roadman	noun	road|road|R|N ; man|man|R|N
+roadstead	noun	road|road|R|N ; stead|stead|R|N
+roadtest	verb	road|road|R|N ; test|test|R|V
+roadworker	noun	road|road|R|N ; work|work|R|V ; -er|er|S||-er (N)
+roadworthiness	noun	road|road|R|N ; worthy|worthi|R|Adj ; -ness|ness|S
+roarer	noun	roar|roar|R|V ; -er|er|S||-er (N)
+robing	verb	robe|rob|R|V ; -ing|ing|I||-ing (v)
+robinsonade	noun	robinsonade|robinsonade|R|N
+roborant	noun	roborant|roborant|R|N
+robotaxi	noun	robotaxi|robotaxi|R|N
+robotization	noun	robot|robot|R|N ; -ize|iz|S ; -ation|ation|S
+robotize	verb	robot|robot|R|N ; -ize|ize|S
+robotized	adj	robot|robot|R|N ; -ize|iz|S ; -ed|ed|S||-ed (adj)
+robovac	noun	robovac|robovac|R|N
+roburite	noun	roburite|roburite|R|N
+rocaille	noun	rocaille|rocaille|R|N
+rocambole	noun	rocambole|rocambole|R|N
+rochet	noun	rochet|rochet|R|N
+rockability	noun	rock|rock|R|V ; -able|abil|S ; -ity|ity|S
+rockbound	adj	rock|rock|R|N ; bound|bound|R|Adj
+rockcress	noun	rock|rock|R|N ; cress|cress|R|N
+rocketer	noun	rocket|rocket|R|V ; -er|er|S||-er (N)
+rockfoil	noun	rock|rock|R|N ; foil|foil|R|N
+rockhead	noun	rock|rock|R|N ; head|head|R|N
+rockhole	noun	rock|rock|R|N ; hole|hole|R|N
+rockily	adv	rocky|rocki|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+rockiness	noun	rocky|rocki|R|Adj ; -ness|ness|S
+rockrose	noun	rock|rock|R|N ; rose|rose|R|N
+rocks	noun	rock|rock|R|N ; -s|s|I||-s (plural)
+rockstar	noun	rock|rock|R|N ; star|star|R|N
+rode	verb	ride|rode|R|V ; -ed||I||-ed (v2)
+rodenticide	noun	rodenticide|rodenticide|R|N
+rodman	noun	rod|rod|R|N ; man|man|R|N
+rodomontade	noun	rodomontade|rodomontade|R|N
+rodster	noun	rod|rod|R|N ; -ster|ster|S
+roentgenium	noun	roentgenium|roentgenium|R|N
+roentgenogram	noun	roentgenogram|roentgenogram|R|N
+roentgenograph	noun	roentgenograph|roentgenograph|R|N
+roentgenographic	adj	roentgenograph|roentgenograph|R|N ; -ic|ic|S
+roentgenography	noun	roentgenograph|roentgenograph|R|N ; -y|y|S
+roentgenologist	noun	roentgenology|roentgenolog|R|N ; -ist|ist|S
+roentgenometer	noun	roentgenometer|roentgenometer|R|N
+roentgenoscope	noun	roentgenoscope|roentgenoscope|R|N
+roentgenoscopic	adj	roentgenoscope|roentgenoscop|R|N ; -ic|ic|S
+roentgenoscopy	noun	roentgenoscope|roentgenoscop|R|N ; -y|y|S
+roentgenotherapy	noun	roentgenotherapy|roentgenotherapy|R|N
+rogation	noun	rogate|rogat|R|V ; -ion|ion|S
+rogatory	adj	rogate|rogat|R|V ; -ory|ory|S
+rogering	verb	roger|roger|R|V ; -ing|ing|I||-ing (v)
+roguery	noun	rogue|rogu|R|N ; -ery|ery|S
+roguishly	adv	rogue|rogu|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+roguishness	noun	rogue|rogu|R|N ; -ish|ish|S ; -ness|ness|S
+roister	verb	roister|roister|R|V
+roisterer	noun	roister|roister|R|V ; -er|er|S||-er (N)
+roistering	verb	roister|roister|R|V ; -ing|ing|I||-ing (v)
+roisterous	adj	roister|roister|R|V ; -ous|ous|S
+roke	noun	roke|roke|R|N
+roleplay	verb	role|role|R|N ; play|play|R|V
+roleplaying	verb	role|role|R|N ; play|play|R|V ; -ing|ing|I||-ing (v)
+rollable	adj	roll|roll|R|V ; -able|able|S
+rollator	noun	rollator|rollator|R|N
+rollerblade	verb	roller|roller|R|N ; blade|blade|R|N
+rolley	noun	rolley|rolley|R|N
+rollick	verb	rollick|rollick|R|V
+rollmop	noun	roll|roll|R|V ; mop|mop|R|N
+rollrim	noun	roll|roll|R|V ; rim|rim|R|N
+rollup	noun	roll|roll|R|V ; up|up|R|Adv
+romaja	noun	romaja|romaja|R|N
+romaji	noun	romaji|romaji|R|N
+roman	noun	roman|roman|R|N
+romancer	noun	romance|romanc|R|V ; -er|er|S||-er (N)
+romancing	verb	romance|romanc|R|V ; -ing|ing|I||-ing (v)
+romanize	verb	roman|roman|R|Adj ; -ize|ize|S
+rompers	noun	romp|romp|R|V ; -er|er|S||-er (N) ; -s|s|I||-s (plural)
+romping	verb	romp|romp|R|V ; -ing|ing|I||-ing (v)
+rompingly	adv	romp|romp|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+rompish	adj	romp|romp|R|V ; -ish|ish|S
+rompy	adj	romp|romp|R|V ; -y|y|S
+rondache	noun	rondache|rondache|R|N
+rondavel	noun	rondavel|rondavel|R|N
+rondeau	noun	rondeau|rondeau|R|N
+rondel	noun	rondel|rondel|R|N
+rondure	noun	rondure|rondure|R|N
+ronin	noun	ronin|ronin|R|N
+roofage	noun	roof|roof|R|N ; -age|age|S
+roofed	adj	roof|roof|R|N ; -ed|ed|S||-ed (adj)
+roofie	noun	roofie|roofie|R|N
+rooftree	noun	roof|roof|R|N ; tree|tree|R|N
+rooibos	noun	rooibos|rooibos|R|N
+rooinek	noun	rooinek|rooinek|R|N
+rooker	noun	rook|rook|R|V ; -er|er|S||-er (N)
+rooking	verb	rook|rook|R|V ; -ing|ing|I||-ing (v)
+rooky	adj	rook|rook|R|N ; -y|y|S
+roomer	noun	room|room|R|N ; -er|er|S||-er (N)
+roomette	noun	room|room|R|N ; -ette|ette|S
+roomily	adv	roomy|roomi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+rootage	noun	root|root|R|N ; -age|age|S
+rootball	noun	root|root|R|N ; ball|ball|R|N
+rootle	verb	rootle|rootle|R|V
+roots	noun	root|root|R|N ; -s|s|I||-s (plural)
+ropemaker	noun	rope|rope|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+ropemaking	noun	rope|rope|R|N ; make|mak|R|V ; -ing|ing|S||-ing (N)
+ropes	noun	rope|rope|R|N ; -s|s|I||-s (plural)
+ropewalk	noun	rope|rope|R|N ; walk|walk|R|N

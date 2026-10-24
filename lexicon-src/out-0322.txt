@@ -1,0 +1,200 @@
+louvar	noun	louvar|louvar|R|N
+lovability	noun	love|lov|R|V ; -able|abil|S ; -ity|ity|S
+lovableness	noun	love|lov|R|V ; -able|able|S ; -ness|ness|S
+lovebud	noun	love|love|R|N ; bud|bud|R|N
+lovelessness	noun	love|love|R|N ; -less|less|S ; -ness|ness|S
+lovelock	noun	love|love|R|N ; lock|lock|R|N
+loverlike	adj	love|lov|R|V ; -er|er|S||-er (N) ; -like|like|S
+loverly	adj	love|lov|R|V ; -er|er|S||-er (N) ; -ly|ly|S||-ly (adj)
+lovers	noun	love|lov|R|V ; -er|er|S||-er (N) ; -s|s|I||-s (plural)
+lovesickness	noun	love|love|R|N ; sick|sick|R|Adj ; -ness|ness|S
+loveworthy	adj	love|love|R|N ; worth|worth|R|N ; -y|y|S
+lovingkindness	noun	love|lov|R|V ; -ing|ing|S||-ing (adj) ; kind|kind|R|Adj ; -ness|ness|S
+lovingness	noun	love|lov|R|V ; -ing|ing|S||-ing (N) ; -ness|ness|S
+lowball	noun	low|low|R|Adj ; ball|ball|R|N
+lowboy	noun	low|low|R|Adj ; boy|boy|R|N
+lowbrowism	noun	low|low|R|Adj ; brow|brow|R|N ; -ism|ism|S
+lowery	adj	lower|lower|R|V ; -y|y|S
+lowlander	noun	low|low|R|Adj ; land|land|R|N ; -er|er|S||-er (N)
+lowliness	noun	low|low|R|Adj ; -ly|li|S||-ly (adj) ; -ness|ness|S
+lowness	noun	low|low|R|Adj ; -ness|ness|S
+loxodrome	noun	loxodrome|loxodrome|R|N
+loxodromic	adj	loxodrome|loxodrom|R|N ; -ic|ic|S
+loyalism	noun	loyal|loyal|R|Adj ; -ism|ism|S
+loyalize	verb	loyal|loyal|R|Adj ; -ize|ize|S
+lozengy	adj	lozenge|lozeng|R|N ; -y|y|S
+lubber	noun	lubber|lubber|R|N
+lubberland	noun	lubber|lubber|R|N ; land|land|R|N
+lubberlike	adj	lubber|lubber|R|N ; -like|like|S
+lubberliness	noun	lubber|lubber|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+lubberly	adj	lubber|lubber|R|N ; -ly|ly|S||-ly (adj)
+lubra	noun	lubra|lubra|R|N
+lubricative	adj	lubricate|lubricat|R|V ; -ive|ive|S
+lubricator	noun	lubricate|lubricat|R|V ; -or|or|S
+lubricatory	adj	lubricate|lubricat|R|V ; -ory|ory|S
+lubricity	noun	lubricity|lubricity|R|N
+lubricous	adj	lubricous|lubricous|R|Adj
+lucarne	noun	lucarne|lucarne|R|N
+lucency	noun	lucent|luc|R|Adj ; -ency|ency|S
+lucent	adj	lucent|lucent|R|Adj
+lucidness	noun	lucid|lucid|R|Adj ; -ness|ness|S
+luciferin	noun	luciferin|luciferin|R|N
+lucifugous	adj	lucifugous|lucifugous|R|Adj
+luckiness	noun	luck|luck|R|N ; -y|i|S ; -ness|ness|S
+lucmo	noun	lucmo|lucmo|R|N
+lucratively	adv	lucre|lucr|R|N ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+lucrativeness	noun	lucre|lucr|R|N ; -ative|ative|S ; -ness|ness|S
+lucubrate	verb	lucubrate|lucubrate|R|V
+lucubration	noun	lucubrate|lucubrat|R|V ; -ion|ion|S
+lucumo	noun	lucumo|lucumo|R|N
+ludicrousness	noun	ludicrous|ludicrous|R|Adj ; -ness|ness|S
+ludology	noun	ludology|ludology|R|N
+lues	noun	lues|lues|R|N
+lugging	noun	lug|lugg|R|V ; -ing|ing|S||-ing (N)
+lughole	noun	lug|lug|R|N ; hole|hole|R|N
+lugsail	noun	lug|lug|R|N ; sail|sail|R|N
+lugubriosity	noun	lugubrious|lugubrios|R|Adj ; -ity|ity|S
+lugubriousness	noun	lugubrious|lugubrious|R|Adj ; -ness|ness|S
+lukewarmly	adv	lukewarm|lukewarm|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+lukewarmness	noun	lukewarm|lukewarm|R|Adj ; -ness|ness|S
+lukewarmth	noun	lukewarm|lukewarm|R|Adj ; -th|th|S
+lumbered	verb	lumber|lumber|R|V ; -ed|ed|I||-ed (v2)
+lumberer	noun	lumber|lumber|R|V ; -er|er|S||-er (N)
+lumberroom	noun	lumber|lumber|R|N ; room|room|R|N
+lumbosacral	adj	lumbosacral|lumbosacral|R|Adj
+lumbrical	adj	lumbrical|lumbrical|R|Adj
+lumenal	adj	lumen|lumen|R|N ; -al|al|S
+luminaire	noun	luminaire|luminaire|R|N
+luminesce	verb	luminesce|luminesce|R|V
+luminiferous	adj	luminiferous|luminiferous|R|Adj
+luminousness	noun	luminous|luminous|R|Adj ; -ness|ness|S
+lumpenproletariat	noun	lumpen|lumpen|R|Adj ; proletariat|proletariat|R|N
+lumpfish	noun	lump|lump|R|N ; fish|fish|R|N
+lumpia	noun	lumpia|lumpia|R|N
+lumping	noun	lump|lump|R|V ; -ing|ing|S||-ing (N)
+lumpishness	noun	lump|lump|R|N ; -ish|ish|S ; -ness|ness|S
+lumps	verb	lump|lump|R|V ; -s|s|I||-s (3sg)
+lumpsucker	noun	lump|lump|R|N ; suck|suck|R|V ; -er|er|S||-er (N)
+lunanaut	noun	lunanaut|lunanaut|R|N
+lunary	adj	lunar|lunar|R|Adj ; -y|y|S
+lunate	adj	lunate|lunate|R|Adj
+lunated	adj	lunate|lunat|R|Adj ; -ed|ed|S||-ed (adj)
+lunatical	adj	lunatic|lunatic|R|Adj ; -al|al|S
+lunation	noun	lunation|lunation|R|N
+lunchbreak	noun	lunch|lunch|R|N ; break|break|R|N
+luncher	noun	lunch|lunch|R|V ; -er|er|S||-er (N)
+lunching	noun	lunch|lunch|R|V ; -ing|ing|S||-ing (N)
+lunged	verb	lunge|lung|R|V ; -ed|ed|I||-ed (v2)
+lunger	noun	lung|lung|R|N ; -er|er|S||-er (N)
+lungfish	noun	lung|lung|R|N ; fish|fish|R|N
+lungi	noun	lungi|lungi|R|N
+lungwort	noun	lung|lung|R|N ; wort|wort|R|N
+luniform	adj	luniform|luniform|R|Adj
+lunisolar	adj	lunisolar|lunisolar|R|Adj
+lunistice	noun	lunistice|lunistice|R|N
+lunitidal	adj	lunitidal|lunitidal|R|Adj
+lunkhead	noun	lunk|lunk|R|N ; head|head|R|N
+lunokhod	noun	lunokhod|lunokhod|R|N
+lunula	noun	lunula|lunula|R|N
+lunule	noun	lunule|lunule|R|N
+lupinosis	noun	lupinosis|lupinosis|R|N
+lur	noun	lur|lur|R|N
+lurchingly	adv	lurch|lurch|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+lurement	noun	lure|lure|R|N ; -ment|ment|S
+lurer	noun	lure|lur|R|V ; -er|er|S||-er (N)
+luridness	noun	lurid|lurid|R|Adj ; -ness|ness|S
+luring	noun	lure|lur|R|V ; -ing|ing|S||-ing (N)
+luringly	adv	lure|lur|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+lusciousness	noun	luscious|luscious|R|Adj ; -ness|ness|S
+luser	noun	luser|luser|R|N
+lushy	adj	lush|lush|R|Adj ; -y|y|S
+lusterware	noun	luster|luster|R|N ; ware|ware|R|N
+lustfulness	noun	lust|lust|R|N ; -ful|ful|S ; -ness|ness|S
+lustiness	noun	lust|lust|R|N ; -y|i|S ; -ness|ness|S
+lusting	noun	lust|lust|R|V ; -ing|ing|S||-ing (N)
+lustral	adj	lustral|lustral|R|Adj
+lustration	noun	lustrate|lustrat|R|V ; -ion|ion|S
+lustring	noun	lustre|lustr|R|N ; -ing|ing|S||-ing (N)
+lustrously	adv	lustrous|lustrous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+lustrum	noun	lustrum|lustrum|R|N
+luteal	adj	lute|lute|R|N ; -al|al|S
+lutefisk	noun	lutefisk|lutefisk|R|N
+luteinize	verb	lutein|lutein|R|N ; -ize|ize|S
+lutenist	noun	lutenist|lutenist|R|N
+luteous	adj	luteous|luteous|R|Adj
+lutescent	adj	lutescent|lutescent|R|Adj
+lutetium	noun	lutetium|lutetium|R|N
+lutherie	noun	lutherie|lutherie|R|N
+luthier	noun	luthier|luthier|R|N
+luting	noun	lute|lut|R|V ; -ing|ing|S||-ing (N)
+lutist	noun	lute|lut|R|N ; -ist|ist|S
+lutite	noun	lutite|lutite|R|N
+lutz	noun	lutz|lutz|R|N
+luxate	verb	luxate|luxate|R|V
+luxation	noun	luxate|luxat|R|V ; -ion|ion|S
+lyase	noun	lyase|lyase|R|N
+lycanthropic	adj	lycanthropy|lycanthrop|R|N ; -ic|ic|S
+lycanthropy	noun	lycanthropy|lycanthropy|R|N
+lycopod	noun	lycopod|lycopod|R|N
+lycopodium	noun	lycopodium|lycopodium|R|N
+lyddite	noun	lyddite|lyddite|R|N
+lygophilia	noun	lygophilia|lygophilia|R|N
+lymantria	noun	lymantria|lymantria|R|N
+lyncean	adj	lyncean|lyncean|R|Adj
+lyonnaise	adj	lyonnaise|lyonnaise|R|Adj
+lyophilization	noun	lyophilize|lyophiliz|R|V ; -ation|ation|S
+lyophilize	verb	lyophilize|lyophilize|R|V
+lyophobic	adj	lyophobic|lyophobic|R|Adj
+lyotropic	adj	lyotropic|lyotropic|R|Adj
+lyra	noun	lyra|lyra|R|N
+lyrate	adj	lyre|lyr|R|N ; -ate|ate|S
+lyrebird	noun	lyre|lyre|R|N ; bird|bird|R|N
+lyricalness	noun	lyric|lyric|R|Adj ; -al|al|S ; -ness|ness|S
+lyriform	adj	lyriform|lyriform|R|Adj
+lyrist	noun	lyre|lyr|R|N ; -ist|ist|S
+lyse	verb	lyse|lyse|R|V
+lysimeter	noun	lysimeter|lysimeter|R|N
+lysin	noun	lysin|lysin|R|N
+lyssophobia	noun	lyssophobia|lyssophobia|R|N
+ma	noun	ma|ma|R|N
+maar	noun	maar|maar|R|N
+maca	noun	maca|maca|R|N
+macaco	noun	macaco|macaco|R|N
+macadamization	noun	macadamize|macadamiz|R|V ; -ation|ation|S
+macadamize	verb	macadam|macadam|R|N ; -ize|ize|S
+macapuno	noun	macapuno|macapuno|R|N
+macaron	noun	macaron|macaron|R|N
+macaronic	adj	macaron|macaron|R|N ; -ic|ic|S
+macaronism	noun	macaron|macaron|R|N ; -ism|ism|S
+macassar	noun	macassar|macassar|R|N
+maccaboy	noun	maccaboy|maccaboy|R|N
+macchia	noun	macchia|macchia|R|N
+macchiato	noun	macchiato|macchiato|R|N
+macedoine	noun	macedoine|macedoine|R|N
+maceration	noun	macerate|macerat|R|V ; -ion|ion|S
+macerative	adj	macerate|macerat|R|V ; -ive|ive|S
+macerator	noun	macerate|macerat|R|V ; -or|or|S
+machicolate	verb	machicolate|machicolate|R|V
+machicolated	verb	machicolate|machicolat|R|V ; -ed|ed|I||-ed (v2)
+machicolation	noun	machicolate|machicolat|R|V ; -ion|ion|S
+machicoulis	noun	machicoulis|machicoulis|R|N
+machinability	noun	machine|machin|R|N ; -able|abil|S ; -ity|ity|S
+machinable	adj	machine|machin|R|N ; -able|able|S
+machinate	verb	machinate|machinate|R|V
+machinator	noun	machinate|machinat|R|V ; -or|or|S
+machineless	adj	machine|machine|R|N ; -less|less|S
+machinelike	adj	machine|machine|R|N ; -like|like|S
+machineman	noun	machine|machine|R|N ; man|man|R|N
+machinima	noun	machinima|machinima|R|N
+mackle	noun	mackle|mackle|R|N
+macle	noun	macle|macle|R|N
+macroaggregate	noun	macroaggregate|macroaggregate|R|N
+macrobiotics	noun	macrobiotics|macrobiotics|R|N
+macrocephalic	adj	macrocephaly|macrocephal|R|N ; -ic|ic|S
+macrocephalous	adj	macrocephaly|macrocephal|R|N ; -ous|ous|S
+macrocephaly	noun	macrocephaly|macrocephaly|R|N
+macrocinematography	noun	macrocinematography|macrocinematography|R|N
+macroclimate	noun	macroclimate|macroclimate|R|N
+macroclimatic	adj	macroclimate|macroclimat|R|N ; -ic|ic|S
+macroclimatology	noun	macroclimatology|macroclimatology|R|N
+macrocosmically	adv	macrocosm|macrocosm|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)

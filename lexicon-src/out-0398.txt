@@ -1,0 +1,200 @@
+tetrachloromethane	noun	tetrachloromethane|tetrachloromethane|R|N
+tetrachord	noun	tetrachord|tetrachord|R|N
+tetrachromacy	noun	tetrachromacy|tetrachromacy|R|N
+tetracontadigon	noun	tetracontadigon|tetracontadigon|R|N
+tetracontagon	noun	tetracontagon|tetracontagon|R|N
+tetracontane	noun	tetracontane|tetracontane|R|N
+tetracosane	noun	tetracosane|tetracosane|R|N
+tetractys	noun	tetractys|tetractys|R|N
+tetrad	noun	tetrad|tetrad|R|N
+tetradactyl	noun	tetradactyl|tetradactyl|R|N
+tetradactylous	adj	tetradactyl|tetradactyl|R|Adj ; -ous|ous|S
+tetradecagon	noun	tetradecagon|tetradecagon|R|N
+tetradecagonal	adj	tetradecagon|tetradecagon|R|N ; -al|al|S
+tetradecahedron	noun	tetradecahedron|tetradecahedron|R|N
+tetradecane	noun	tetradecane|tetradecane|R|N
+tetradrachm	noun	tetradrachm|tetradrachm|R|N
+tetragon	noun	tetragon|tetragon|R|N
+tetragonal	adj	tetragon|tetragon|R|N ; -al|al|S
+tetragram	noun	tetragram|tetragram|R|N
+tetrahydrocannabinol	noun	tetrahydrocannabinol|tetrahydrocannabinol|R|N
+tetralogy	noun	tetralogy|tetralogy|R|N
+tetramerous	adj	tetramer|tetramer|R|N ; -ous|ous|S
+tetrameter	noun	tetrameter|tetrameter|R|N
+tetramorph	noun	tetramorph|tetramorph|R|N
+tetraphobia	noun	tetraphobia|tetraphobia|R|N
+tetraplegia	noun	tetraplegia|tetraplegia|R|N
+tetrarch	noun	tetrarch|tetrarch|R|N
+tetrarchy	noun	tetrarch|tetrarch|R|N ; -y|y|S
+tetrastyle	noun	tetrastyle|tetrastyle|R|N
+tetrasyllabic	adj	tetrasyllable|tetrasyllab|R|N ; -ic|ic|S
+tetrasyllable	noun	tetrasyllable|tetrasyllable|R|N
+tetration	noun	tetration|tetration|R|N
+tetratomic	adj	tetratomic|tetratomic|R|Adj
+tetravalence	noun	tetravalence|tetravalence|R|N
+tetravalent	adj	tetravalent|tetravalent|R|Adj
+tetrode	noun	tetrode|tetrode|R|N
+tetrose	noun	tetrose|tetrose|R|N
+tetroxide	noun	tetroxide|tetroxide|R|N
+tetter	noun	tetter|tetter|R|N
+textiles	noun	textile|textile|R|N ; -s|s|I||-s (plural)
+texting	verb	text|text|R|V ; -ing|ing|I||-ing (v)
+textological	adj	textology|textolog|R|N ; -ical|ical|S
+textologist	noun	textology|textolog|R|N ; -ist|ist|S
+textology	noun	textology|textology|R|N
+textualist	noun	textual|textual|R|Adj ; -ist|ist|S
+textureless	adj	texture|texture|R|N ; -less|less|S
+thalamic	adj	thalamus|thalam|R|N ; -ic|ic|S
+thalassocracy	noun	thalassocracy|thalassocracy|R|N
+thalassophile	noun	thalassophile|thalassophile|R|N
+thalassophobia	noun	thalassophobia|thalassophobia|R|N
+thalassotherapy	noun	thalassotherapy|thalassotherapy|R|N
+thaler	noun	thaler|thaler|R|N
+thallophyte	noun	thallophyte|thallophyte|R|N
+thallus	noun	thallus|thallus|R|N
+thalweg	noun	thalweg|thalweg|R|N
+thanakha	noun	thanakha|thanakha|R|N
+thanatocoenose	noun	thanatocoenose|thanatocoenose|R|N
+thanatolatry	noun	thanatolatry|thanatolatry|R|N
+thanatology	noun	thanatology|thanatology|R|N
+thanatophobia	noun	thanatophobia|thanatophobia|R|N
+thanatosis	noun	thanatosis|thanatosis|R|N
+thangka	noun	thangka|thangka|R|N
+thanking	verb	thank|thank|R|V ; -ing|ing|I||-ing (v)
+thanklessly	adv	thank|thank|R|V ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+thanklessness	noun	thank|thank|R|V ; -less|less|S ; -ness|ness|S
+thankworthy	adj	thank|thank|R|V ; worthy|worthy|R|Adj
+thatching	noun	thatch|thatch|R|V ; -ing|ing|S||-ing (N)
+thaumaturge	noun	thaumaturge|thaumaturge|R|N
+thaumaturgic	adj	thaumaturgy|thaumaturg|R|N ; -ic|ic|S
+thaumaturgical	adj	thaumaturgy|thaumaturg|R|N ; -ical|ical|S
+thaumaturgics	noun	thaumaturgics|thaumaturgics|R|N
+thaumaturgist	noun	thaumaturgy|thaumaturg|R|N ; -ist|ist|S
+thaumaturgy	noun	thaumaturgy|thaumaturgy|R|N
+thawless	adj	thaw|thaw|R|V ; -less|less|S
+thawy	adj	thaw|thaw|R|V ; -y|y|S
+theanine	noun	theanine|theanine|R|N
+thearchic	adj	thearchy|thearch|R|N ; -ic|ic|S
+thearchy	noun	thearchy|thearchy|R|N
+theatricalism	noun	theatrical|theatrical|R|Adj ; -ism|ism|S
+theatricalness	noun	theatrical|theatrical|R|Adj ; -ness|ness|S
+theatricals	noun	theatrical|theatrical|R|Adj ; -s|s|I||-s (plural)
+theatricize	verb	theatric|theatric|R|Adj ; -ize|ize|S
+thecodont	noun	thecodont|thecodont|R|N
+theine	noun	theine|theine|R|N
+theistical	adj	theistic|theistic|R|Adj ; -al|al|S
+thema	noun	thema|thema|R|N
+thenal	adj	thenal|thenal|R|Adj
+thenar	noun	thenar|thenar|R|N
+theobromine	noun	theobromine|theobromine|R|N
+theocratical	adj	theocratic|theocratic|R|Adj ; -al|al|S
+theogonic	adj	theogony|theogon|R|N ; -ic|ic|S
+theogony	noun	theogony|theogony|R|N
+theolatry	noun	theolatry|theolatry|R|N
+theologic	adj	theology|theolog|R|N ; -ic|ic|S
+theologize	verb	theology|theolog|R|N ; -ize|ize|S
+theologoumenon	noun	theologoumenon|theologoumenon|R|N
+theologue	noun	theologue|theologue|R|N
+theonym	noun	theonym|theonym|R|N
+theopanism	noun	theopanism|theopanism|R|N
+theophany	noun	theophany|theophany|R|N
+theophoric	adj	theophoric|theophoric|R|Adj
+theorbo	noun	theorbo|theorbo|R|N
+theoretics	noun	theoretics|theoretics|R|N
+theorisation	noun	theorise|theoris|R|V ; -ation|ation|S
+theorizer	noun	theorize|theoriz|R|V ; -er|er|S||-er (N)
+theosis	noun	theosis|theosis|R|N
+theosophic	adj	theosophy|theosoph|R|N ; -ic|ic|S
+theosophical	adj	theosophy|theosoph|R|N ; -ical|ical|S
+theosophist	noun	theosophy|theosoph|R|N ; -ist|ist|S
+theosophy	noun	theosophy|theosophy|R|N
+therapeutical	adj	therapeutic|therapeutic|R|Adj ; -al|al|S
+therapeutist	noun	therapeutic|therapeut|R|Adj ; -ist|ist|S
+thereabout	adv	there|there|R|Adv ; about|about|R|Adv
+thereamong	adv	there|there|R|Adv ; among|among|R
+thereat	adv	there|there|R|Adv ; at|at|R
+thereinafter	adv	there|there|R|Adv ; in|in|R ; after|after|R|Adv
+thereinbefore	adv	there|there|R|Adv ; in|in|R ; before|before|R|Adv
+thereinunder	adv	there|there|R|Adv ; in|in|R ; under|under|R|Adv
+theremin	noun	theremin|theremin|R|N
+therewithal	adv	there|there|R|Adv ; withal|withal|R|Adv
+theriac	noun	theriac|theriac|R|N
+therianthrope	noun	therianthrope|therianthrope|R|N
+therianthropy	noun	therianthropy|therianthropy|R|N
+therm	noun	therm|therm|R|N
+thermae	noun	thermae|thermae|R|N
+thermalism	noun	thermal|thermal|R|Adj ; -ism|ism|S
+thermalization	noun	thermalize|thermaliz|R|V ; -ation|ation|S
+thermic	adj	therm|therm|R|N ; -ic|ic|S
+thermion	noun	thermion|thermion|R|N
+thermionic	adj	thermion|thermion|R|N ; -ic|ic|S
+thermite	noun	thermite|thermite|R|N
+thermobaric	adj	thermobaric|thermobaric|R|Adj
+thermoception	noun	thermoception|thermoception|R|N
+thermochemical	adj	thermochemical|thermochemical|R|Adj
+thermochemistry	noun	thermochemistry|thermochemistry|R|N
+thermoelectricity	noun	thermoelectric|thermoelectric|R|Adj ; -ity|ity|S
+thermogenesis	noun	thermogenesis|thermogenesis|R|N
+thermogenetic	adj	thermogenesis|thermogenet|R|N ; -ic|ic|S
+thermogenic	adj	thermogenesis|thermogen|R|N ; -ic|ic|S
+thermogenous	adj	thermogenesis|thermogen|R|N ; -ous|ous|S
+thermograph	noun	thermograph|thermograph|R|N
+thermologist	noun	thermology|thermolog|R|N ; -ist|ist|S
+thermology	noun	thermology|thermology|R|N
+thermolysis	noun	thermolysis|thermolysis|R|N
+thermomagnetic	adj	thermomagnetism|thermomagnet|R|N ; -ic|ic|S
+thermomagnetism	noun	thermomagnetism|thermomagnetism|R|N
+thermometric	adj	thermometer|thermometr|R|N ; -ic|ic|S
+thermometrical	adj	thermometer|thermometr|R|N ; -ical|ical|S
+thermometry	noun	thermometer|thermometr|R|N ; -y|y|S
+thermopause	noun	thermopause|thermopause|R|N
+thermophile	noun	thermophile|thermophile|R|N
+thermopile	noun	thermopile|thermopile|R|N
+thermopolium	noun	thermopolium|thermopolium|R|N
+thermoreceptor	noun	thermoreceptor|thermoreceptor|R|N
+thermoregulator	noun	thermoregulator|thermoregulator|R|N
+thermoscope	noun	thermoscope|thermoscope|R|N
+thermosetting	noun	thermoset|thermosett|R|V ; -ing|ing|S||-ing (N)
+thermosphere	noun	thermosphere|thermosphere|R|N
+thermostable	adj	thermostable|thermostable|R|Adj
+thermostatics	noun	thermostatics|thermostatics|R|N
+thermotherapy	noun	thermotherapy|thermotherapy|R|N
+thermotic	adj	thermotic|thermotic|R|Adj
+thermotropism	noun	thermotropism|thermotropism|R|N
+theroid	adj	theroid|theroid|R|Adj
+thespian	noun	thespian|thespian|R|N
+thetic	adj	thetic|thetic|R|Adj
+theurgic	adj	theurgy|theurg|R|N ; -ic|ic|S
+theurgical	adj	theurgy|theurg|R|N ; -ical|ical|S
+theurgist	noun	theurgy|theurg|R|N ; -ist|ist|S
+theurgy	noun	theurgy|theurgy|R|N
+thewless	adj	thew|thew|R|N ; -less|less|S
+thewy	adj	thew|thew|R|N ; -y|y|S
+theyyam	noun	theyyam|theyyam|R|N
+thiazine	noun	thiazine|thiazine|R|N
+thiazole	noun	thiazole|thiazole|R|N
+thickhead	noun	thick|thick|R|Adj ; head|head|R|N
+thickheaded	adj	thick|thick|R|Adj ; head|head|R|N ; -ed|ed|S||-ed (adj)
+thickish	adj	thick|thick|R|Adj ; -ish|ish|S
+thickskin	noun	thick|thick|R|Adj ; skin|skin|R|N
+thievish	adj	thief|thiev|R|N ; -ish|ish|S
+thievishly	adv	thief|thiev|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+thievishness	noun	thief|thiev|R|N ; -ish|ish|S ; -ness|ness|S
+thill	noun	thill|thill|R|N
+thiller	noun	thill|thill|R|N ; -er|er|S||-er (N)
+thimblerig	noun	thimble|thimble|R|N ; rig|rig|R|N
+thimblerigger	noun	thimble|thimble|R|N ; rig|rigg|R|N ; -er|er|S||-er (N)
+thingamabob	noun	thingamabob|thingamabob|R|N
+thingum	noun	thingum|thingum|R|N
+thingummy	noun	thingum|thingumm|R|N ; -y|y|S
+thiocyanate	noun	thiocyanate|thiocyanate|R|N
+thioether	noun	thioether|thioether|R|N
+thiophene	noun	thiophene|thiophene|R|N
+thiosulfate	noun	thiosulfate|thiosulfate|R|N
+thiosulphate	noun	thiosulphate|thiosulphate|R|N
+thirstiness	noun	thirsty|thirsti|R|Adj ; -ness|ness|S
+thirsting	verb	thirst|thirst|R|V ; -ing|ing|I||-ing (v)
+thirteener	noun	thirteen|thirteen|R ; -er|er|S||-er (N)
+thirties	noun	thirty|thirti|R ; -es|es|I||-s (plural)
+thistly	adj	thistle|thistl|R|N ; -y|y|S
+thixotropic	adj	thixotropy|thixotrop|R|N ; -ic|ic|S

@@ -1,0 +1,150 @@
+sampler	noun	=
+foreword	noun	=
+altruistic	adj	=
+canine	adj	=
+amorphous	adj	a-|a|P||||Greek a- 'without' ; -morph-|morph|B|N|||Greek morphē 'form' ; -ous|ous|S||||Greek -ous 'having'
+semi	noun	=
+larder	noun	=
+aria	noun	=
+billiard	noun	=
+sabbatical	noun	sabbat-|sabbat|B|N|||Latin sabbatum 'Sabbath' ; -ical|ical|S||||Latin -icus 'pertaining to'
+repulsive	adj	=
+testicle	noun	test-|test|B|N|||Latin testis 'witness' ; -icle|icle|S||||Latin -iculus 'small'
+chivalry	noun	=
+gondola	noun	=
+carnation	noun	=
+frond	noun	=
+magnetism	noun	=
+viaduct	noun	via-|via|B|N|||Latin via 'road' ; -duct|duct|B|V|||Latin ducere 'to lead'
+demonic	adj	=
+acuity	noun	acu-|acu|B|V|||Latin acuere 'to sharpen' ; -ity|ity|S||||Latin -itas 'state'
+penance	noun	pen-|pen|B|V||penit|Latin paenitere 'to repent' ; -ance|ance|S||||Latin -antia 'state'
+adage	noun	=
+pretzel	noun	=
+superstore	noun	=
+provenance	noun	pro-|pro|P||||Latin pro 'forth' ; -ven-|ven|B|V|||Latin venire 'to come' ; -ance|ance|S||||Latin -antia 'state'
+femme	noun	=
+impurity	noun	=
+defector	noun	=
+annihilation	noun	=
+pulley	noun	=
+sacrificial	adj	sacri-|sacri|B|Adj|||Latin sacer 'sacred' ; -fic-|fic|B|V|||Latin facere 'to make' ; -ial|ial|S||||Latin -alis 'pertaining to'
+blasphemy	noun	=
+bard	noun	=
+recline	verb	re-|re|P||||Latin re- 'back' ; -cline|cline|B|V|||Latin clinare 'to bend'
+puny	adj	=
+projectile	noun	pro-|pro|P||||Latin pro 'forth' ; -ject-|ject|B|V|||Latin iacere 'to throw' ; -ile|ile|S||||Latin -ilis 'pertaining to'
+negro	noun	=
+derivation	noun	=
+zenith	noun	=
+machete	noun	=
+cavalier	noun	=
+panacea	noun	=
+masquerade	noun	=
+environmentalism	noun	=
+anchovy	noun	=
+authoritarianism	noun	=
+inverse	adj	in-|in|P||||Latin in- 'against' ; -verse|verse|B|V|||Latin vertere 'to turn'
+overseer	noun	=
+responder	noun	=
+spleen	noun	=
+fragility	noun	=
+geranium	noun	=
+consort	noun	=
+exemplar	noun	exempl-|exempl|B|N|||Latin exemplum 'example' ; -ar|ar|S||||Latin -aris 'pertaining to'
+tinnitus	noun	=
+modulate	verb	=
+refrigeration	noun	=
+chafe	verb	=
+burrito	noun	=
+margarita	noun	=
+infallible	adj	=
+circa	prep	=
+dispenser	noun	=
+concentric	adj	con-|con|P||||Latin com- 'together' ; -centr-|centr|B|N|||Latin centrum 'center' ; -ic|ic|S||||Latin -icus 'pertaining to'
+aural	adj	aur-|aur|B|N|||Latin auris 'ear' ; -al|al|S||||Latin -alis 'pertaining to'
+tantalize	verb	=
+tepid	adj	=
+constrict	verb	con-|con|P||||Latin com- 'together' ; -strict|strict|B|V|||Latin stringere 'to bind'
+secularism	noun	=
+zealous	adj	=
+feral	adj	fer-|fer|B|Adj|||Latin ferus 'wild' ; -al|al|S||||Latin -alis 'pertaining to'
+antagonist	noun	ant-|ant|P||||Greek anti 'against' ; -agon-|agon|B|N|||Greek agōn 'contest' ; -ist|ist|S
+indigent	adj	=
+roil	verb	=
+magpie	noun	=
+frieze	noun	=
+fetish	noun	=
+pseudonym	noun	pseudo-|pseud|B|Adj|||Greek pseudēs 'false' ; -onym|onym|B|N|||Greek onuma 'name'
+belligerent	adj	belli-|belli|B|N|||Latin bellum 'war' ; -ger-|ger|B|V|||Latin gerere 'to carry' ; -ent|ent|S||||Latin -ens 'agent'
+temperance	noun	=
+gynecologist	noun	gyneco-|gyneco|B|N|||Greek gunē 'woman' ; -log-|log|B|N|||Greek logos 'study' ; -ist|ist|S
+catapult	noun	=
+nautical	adj	naut-|naut|B|N|||Greek nautēs 'sailor' ; -ical|ical|S||||Latin -icus 'pertaining to'
+extrinsic	adj	=
+recuperate	verb	=
+fortification	noun	=
+junta	noun	=
+bassist	noun	=
+primrose	noun	prim-|prim|B|Adj|||Latin primus 'first' ; -rose|rose|R|N
+jogger	noun	=
+virtuoso	noun	virtu-|virtu|B|N|||Latin virtus 'excellence' ; -oso|oso|S||||Latin -osus 'full of'
+consecrate	verb	=
+convection	noun	con-|con|P||||Latin com- 'together' ; -vect-|vect|B|V|||Latin vehere 'to carry' ; -ion|ion|S||||Latin -io 'act, state'
+dispersion	noun	=
+proletarian	noun	=
+incandescent	adj	in-|in|P||||Latin in- 'intensifying' ; -cand-|cand|B|Adj|||Latin candidus 'white' ; -escent|escent|S||||Latin -escens 'becoming'
+gestation	noun	gest-|gest|B|V|||Latin gestare 'to carry' ; -ation|ation|S||||Latin -atio 'act, state'
+jettison	verb	=
+esquire	noun	=
+buzzard	noun	=
+surgically	adv	=
+antecedent	noun	ante-|ante|P||||Latin ante 'before' ; -ced-|ced|B|V|||Latin cedere 'to go' ; -ent|ent|S||||Latin -ens 'agent'
+parasitic	adj	para-|para|P||||Greek para 'beside' ; -sit-|sit|B|N|||Greek sitos 'food' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+malevolent	adj	male-|male|P||||Latin male 'badly' ; -vol-|vol|B|V|||Latin velle 'to wish' ; -ent|ent|S||||Latin -ens 'agent'
+emulsion	noun	=
+expiration	noun	=
+expletive	noun	ex-|ex|P||||Latin ex- 'out' ; -plet-|plet|B|V|||Latin plere 'to fill' ; -ive|ive|S||||Latin -ivus 'tending to'
+formalize	verb	=
+renunciation	noun	re-|re|P||||Latin re- 'back' ; -nunci-|nunci|B|V|||Latin nuntiare 'to announce' ; -ation|ation|S||||Latin -atio 'act, state'
+tracker	noun	=
+conscription	noun	con-|con|P||||Latin com- 'together' ; -script-|script|B|V|||Latin scribere 'to write' ; -ion|ion|S||||Latin -io 'act, state'
+gymnast	noun	gymn-|gymn|B|N|||Greek gumnos 'naked' ; -ast|ast|S||||Greek -astēs 'agent'
+glossary	noun	gloss-|gloss|B|N|||Greek glōssa 'tongue' ; -ary|ary|S||||Latin -arium 'place for'
+dungeon	noun	=
+annal	noun	ann-|ann|B|N|||Latin annus 'year' ; -al|al|S||||Latin -alis 'pertaining to'
+astrophysicist	noun	=
+meringue	noun	=
+sweetener	noun	=
+sojourn	noun	=
+bondage	noun	=
+itinerant	adj	itiner-|itiner|B|N|||Latin iter 'journey' ; -ant|ant|S||||Latin -ans 'agent'
+geothermal	adj	=
+docker	noun	=
+duality	noun	=
+prescriptive	adj	pre-|pre|P||||Latin prae 'before' ; -script-|script|B|V|||Latin scribere 'to write' ; -ive|ive|S||||Latin -ivus 'tending to'
+patronize	verb	=
+affable	adj	af-|af|P||||Latin ad- 'to' ; -fable|fable|B|V|||Latin fari 'to speak'
+prefix	noun	pre-|pre|P||||Latin prae 'before' ; -fix|fix|B|V|||Latin figere 'to fix'
+urinary	adj	=
+stigmatize	verb	=
+inquisition	noun	in-|in|P||||Latin in- 'into' ; -quis-|quis|B|V|||Latin quaerere 'to seek' ; -ition|ition|S||||Latin -itio 'act, state'
+vindication	noun	=
+dandelion	noun	=
+adoration	noun	ad-|ad|P||||Latin ad- 'to' ; -or-|or|B|V|||Latin orare 'to speak' ; -ation|ation|S||||Latin -atio 'act, state'
+astrology	noun	astro-|astro|B|N|||Greek astron 'star' ; -logy|logy|B|N|||Greek logos 'study, word'
+tripartite	adj	tri-|tri|P||||Latin tri- 'three' ; part|part|R|N ; -ite|ite|S||||Latin -itus 'having'
+hotelier	noun	=
+crucifixion	noun	cruci-|cruci|B|N|||Latin crux 'cross' ; -fix-|fix|B|V|||Latin figere 'to fix' ; -ion|ion|S||||Latin -io 'act, state'
+manicure	noun	mani-|mani|B|N|||Latin manus 'hand' ; -cure|cure|B|N|||Latin cura 'care'
+biochemistry	noun	=
+adduce	verb	ad-|ad|P||||Latin ad- 'to' ; -duce|duce|B|V|||Latin ducere 'to lead'
+gelatin	noun	=
+deluge	noun	=
+rabid	adj	=
+cacophony	noun	caco-|caco|B|Adj|||Greek kakos 'bad' ; -phony|phony|B|N|||Greek phōnē 'sound'
+marmalade	noun	=
+mutate	verb	mut-|mut|B|V|||Latin mutare 'to change' ; -ate|ate|S||||Latin -atus 'verb ending'
+pylon	noun	=
+universality	noun	=
+discontinuity	noun	=

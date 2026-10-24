@@ -1,0 +1,200 @@
+amphidelphic	adj	amphidelphic|amphidelphic|R|Adj
+amphidetic	adj	amphidetic|amphidetic|R|Adj
+amphidisc	noun	amphidisc|amphidisc|R|N
+amphigenesis	noun	amphigenesis|amphigenesis|R|N
+amphigenous	adj	amphigenous|amphigenous|R|Adj
+amphigory	noun	amphigory|amphigory|R|N
+amphigynous	adj	amphigynous|amphigynous|R|Adj
+amphimacer	noun	amphimacer|amphimacer|R|N
+amphimictic	adj	amphimictic|amphimictic|R|Adj
+amphimixis	noun	amphimixis|amphimixis|R|N
+amphinectid	noun	amphinectid|amphinectid|R|N
+amphioxus	noun	amphioxus|amphioxus|R|N
+amphiphilic	adj	amphiphilic|amphiphilic|R|Adj
+amphipod	noun	amphipod|amphipod|R|N
+amphipodan	adj	amphipod|amphipod|R|N ; -an|an|S
+amphipodous	adj	amphipodous|amphipodous|R|Adj
+amphiprostyle	noun	amphiprostyle|amphiprostyle|R|N
+amphiptere	noun	amphiptere|amphiptere|R|N
+amphisbaena	noun	amphisbaena|amphisbaena|R|N
+amphisbaenic	adj	amphisbaenic|amphisbaenic|R|Adj
+amphispore	noun	amphispore|amphispore|R|N
+amphitheatrical	adj	amphitheatre|amphitheatr|R|N ; -ical|ical|S
+amphithecium	noun	amphithecium|amphithecium|R|N
+amphitropous	adj	amphitropous|amphitropous|R|Adj
+amphitryon	noun	amphitryon|amphitryon|R|N
+ampholyte	noun	ampholyte|ampholyte|R|N
+amphophil	adj	amphophil|amphophil|R|Adj
+amphoral	adj	amphoral|amphoral|R|Adj
+amphoric	adj	amphoric|amphoric|R|Adj
+amphoteric	adj	amphoteric|amphoteric|R|Adj
+amplectant	adj	amplectant|amplectant|R|Adj
+ampleness	noun	ample|ample|R|Adj ; -ness|ness|S
+amplexicaul	adj	amplexicaul|amplexicaul|R|Adj
+amplexus	noun	amplexus|amplexus|R|N
+ampliative	adj	amplify|ampli|R|V ; -ative|ative|S
+amplidyne	noun	amplidyne|amplidyne|R|N
+ampullaceous	adj	ampullaceous|ampullaceous|R|Adj
+ampulliform	adj	ampulliform|ampulliform|R|Adj
+amputator	noun	amputate|amputat|R|V ; -or|or|S
+amrita	noun	amrita|amrita|R|N
+amurca	noun	amurca|amurca|R|N
+amusable	adj	amuse|amus|R|V ; -able|able|S
+amuser	noun	amuse|amus|R|V ; -er|er|S||-er (N)
+amusia	noun	amusia|amusia|R|N
+amusingness	noun	amuse|amus|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+amygdalic	adj	amygdala|amygdal|R|N ; -ic|ic|S
+amygdalin	noun	amygdalin|amygdalin|R|N
+amygdaloid	adj	amygdaloid|amygdaloid|R|Adj
+amylaceous	adj	amylaceous|amylaceous|R|Adj
+amylic	adj	amyl|amyl|R|N ; -ic|ic|S
+amylolysis	noun	amylolysis|amylolysis|R|N
+amylome	noun	amylome|amylome|R|N
+amylopectin	noun	amylopectin|amylopectin|R|N
+amyloplast	noun	amyloplast|amyloplast|R|N
+amylopsin	noun	amylopsin|amylopsin|R|N
+amylose	noun	amylose|amylose|R|N
+amylum	noun	amylum|amylum|R|N
+amyotrophy	noun	amyotrophy|amyotrophy|R|N
+anabas	noun	anabas|anabas|R|N
+anabasis	noun	anabasis|anabasis|R|N
+anabatic	adj	anabatic|anabatic|R|Adj
+anabiosis	noun	anabiosis|anabiosis|R|N
+anabiotic	adj	anabiotic|anabiotic|R|Adj
+anabolism	noun	anabolism|anabolism|R|N
+anabolite	noun	anabolite|anabolite|R|N
+anabranch	noun	anabranch|anabranch|R|N
+anacanthous	adj	anacanthous|anacanthous|R|Adj
+anacardiaceous	adj	anacardiaceous|anacardiaceous|R|Adj
+anachronic	adj	anachronic|anachronic|R|Adj
+anachronous	adj	anachronous|anachronous|R|Adj
+anachronously	adv	anachronous|anachronous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+anaclastic	adj	anaclastic|anaclastic|R|Adj
+anaclastics	noun	anaclastic|anaclastic|R|Adj ; -s|s|I||-s (plural)
+anacoenosis	noun	anacoenosis|anacoenosis|R|N
+anacoluthic	adj	anacoluthic|anacoluthic|R|Adj
+anacoluthon	noun	anacoluthon|anacoluthon|R|N
+anacreontic	adj	anacreontic|anacreontic|R|Adj
+anacrusis	noun	anacrusis|anacrusis|R|N
+anacusis	noun	anacusis|anacusis|R|N
+anadem	noun	anadem|anadem|R|N
+anadiplosis	noun	anadiplosis|anadiplosis|R|N
+anaerobe	noun	an-|an|P|||a- ; aerobe|aerobe|R|N
+anaerobically	adv	anaerobic|anaerobic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+anaerobiosis	noun	anaerobiosis|anaerobiosis|R|N
+anaerophyte	noun	anaerophyte|anaerophyte|R|N
+anaesthetization	noun	anaesthetize|anaesthetiz|R|V ; -ation|ation|S
+anagenesis	noun	anagenesis|anagenesis|R|N
+anaglyph	noun	anaglyph|anaglyph|R|N
+anaglyphic	adj	anaglyph|anaglyph|R|N ; -ic|ic|S
+anaglyptic	adj	anaglyptic|anaglyptic|R|Adj
+anagoge	noun	anagoge|anagoge|R|N
+anagogical	adj	anagogy|anagog|R|N ; -ical|ical|S
+anagogy	noun	anagogy|anagogy|R|N
+anagrammatic	adj	anagrammatic|anagrammatic|R|Adj
+anagrammatical	adj	anagrammatic|anagrammatic|R|Adj ; -al|al|S
+anagrammatically	adv	anagrammatic|anagrammatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+anagrammatise	verb	anagrammatise|anagrammatise|R|V
+anagrammatism	noun	anagrammatism|anagrammatism|R|N
+anagrammatist	noun	anagrammatist|anagrammatist|R|N
+anagrammatize	verb	anagrammatize|anagrammatize|R|V
+analcime	noun	analcime|analcime|R|N
+analecta	noun	analecta|analecta|R|N
+analectic	adj	analectic|analectic|R|Adj
+analects	noun	analect|analect|R|N ; -s|s|I||-s (plural)
+analemma	noun	analemma|analemma|R|N
+analepsis	noun	analepsis|analepsis|R|N
+analeptic	adj	analeptic|analeptic|R|Adj
+analgetic	adj	analgetic|analgetic|R|Adj
+anally	adv	anal|anal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+analogic	adj	analog|analog|R|N ; -ic|ic|S
+analogically	adv	analogic|analogic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+analogist	noun	analog|analog|R|N ; -ist|ist|S
+analogizing	noun	analogize|analogiz|R|V ; -ing|ing|S||-ing (N)
+analogousness	noun	analogous|analogous|R|Adj ; -ness|ness|S
+analphabet	noun	analphabet|analphabet|R|N
+analphabetic	adj	analphabet|analphabet|R|N ; -ic|ic|S
+analyticity	noun	analyticity|analyticity|R|N
+analyzable	adj	analyze|analyz|R|V ; -able|able|S
+analyzation	noun	analyze|analyz|R|V ; -ation|ation|S
+anamnesis	noun	anamnesis|anamnesis|R|N
+anamnestic	adj	anamnestic|anamnestic|R|Adj
+anamnestically	adv	anamnestic|anamnestic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+anamorphosis	noun	anamorphosis|anamorphosis|R|N
+ananas	noun	ananas|ananas|R|N
+anandrous	adj	anandrous|anandrous|R|Adj
+anankastia	noun	anankastia|anankastia|R|N
+anantherous	adj	anantherous|anantherous|R|Adj
+ananym	noun	ananym|ananym|R|N
+anapaestic	adj	anapaest|anapaest|R|N ; -ic|ic|S
+anapest	noun	anapest|anapest|R|N
+anapestic	adj	anapest|anapest|R|N ; -ic|ic|S
+anaphase	noun	anaphase|anaphase|R|N
+anaphasis	noun	anaphasis|anaphasis|R|N
+anaphoresis	noun	anaphoresis|anaphoresis|R|N
+anaphoric	adj	anaphor|anaphor|R|N ; -ic|ic|S
+anaphrodisia	noun	anaphrodisia|anaphrodisia|R|N
+anaphrodisiac	adj	anaphrodisiac|anaphrodisiac|R|Adj
+anaphylactically	adv	anaphylactic|anaphylactic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+anaplasia	noun	anaplasia|anaplasia|R|N
+anaplasmosis	noun	anaplasmosis|anaplasmosis|R|N
+anaplastic	adj	anaplastic|anaplastic|R|Adj
+anaplasty	noun	anaplasty|anaplasty|R|N
+anaptyxis	noun	anaptyxis|anaptyxis|R|N
+anarch	noun	anarch|anarch|R|N
+anarchically	adv	anarchic|anarchic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+anarthria	noun	anarthria|anarthria|R|N
+anarthrous	adj	anarthrous|anarthrous|R|Adj
+anasarca	noun	anasarca|anasarca|R|N
+anasarcous	adj	anasarca|anasarc|R|N ; -ous|ous|S
+anastasis	noun	anastasis|anastasis|R|N
+anastatic	adj	anastatic|anastatic|R|Adj
+anastigmat	noun	anastigmat|anastigmat|R|N
+anastigmatic	adj	anastigmat|anastigmat|R|N ; -ic|ic|S
+anastomose	verb	anastomose|anastomose|R|V
+anastomotic	adj	anastomotic|anastomotic|R|Adj
+anastral	adj	anastral|anastral|R|Adj
+anastrophe	noun	anastrophe|anastrophe|R|N
+anastylosis	noun	anastylosis|anastylosis|R|N
+anatase	noun	anatase|anatase|R|N
+anathematic	adj	anathematic|anathematic|R|Adj
+anathematical	adj	anathematic|anathematic|R|Adj ; -al|al|S
+anathematization	noun	anathematize|anathematiz|R|V ; -ation|ation|S
+anathematize	verb	anathematize|anathematize|R|V
+anational	adj	a-|a|P ; national|national|R|Adj
+anatman	noun	anatman|anatman|R|N
+anatomization	noun	anatomize|anatomiz|R|V ; -ation|ation|S
+anatomopathological	adj	anatomopathological|anatomopathological|R|Adj
+anatomopathologist	noun	anatomopathologist|anatomopathologist|R|N
+anatoxin	noun	anatoxin|anatoxin|R|N
+anatropous	adj	anatropous|anatropous|R|Adj
+anatta	noun	anatta|anatta|R|N
+anaxial	adj	an-|an|P|||a- ; axial|axial|R|Adj
+anbury	noun	anbury|anbury|R|N
+ancestrally	adv	ancestral|ancestral|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+ancestrula	noun	ancestrula|ancestrula|R|N
+anchoress	noun	anchor|anchor|R|N ; -ess|ess|S
+anchoretic	adj	anchoretic|anchoretic|R|Adj
+anchorite	noun	anchorite|anchorite|R|N
+anchoritic	adj	anchorite|anchorit|R|N ; -ic|ic|S
+anchorless	adj	anchor|anchor|R|N ; -less|less|S
+ancientness	noun	ancient|ancient|R|Adj ; -ness|ness|S
+ancipital	adj	ancipital|ancipital|R|Adj
+ancistroid	adj	ancistroid|ancistroid|R|Adj
+ancon	noun	ancon|ancon|R|N
+anconeal	adj	anconeal|anconeal|R|Adj
+anconeus	noun	anconeus|anconeus|R|N
+ancylostomiasis	noun	ancylostomiasis|ancylostomiasis|R|N
+andalusite	noun	andalusite|andalusite|R|N
+andantino	noun	andantino|andantino|R|N
+andesine	noun	andesine|andesine|R|N
+andesite	noun	andesite|andesite|R|N
+andiroba	noun	andiroba|andiroba|R|N
+andisol	noun	andisol|andisol|R|N
+andradite	noun	andradite|andradite|R|N
+andragogy	noun	andragogy|andragogy|R|N
+andrewsarchus	noun	andrewsarchus|andrewsarchus|R|N
+androcentrism	noun	androcentrism|androcentrism|R|N
+androcide	noun	androcide|androcide|R|N
+androclinium	noun	androclinium|androclinium|R|N
+androconium	noun	androconium|androconium|R|N

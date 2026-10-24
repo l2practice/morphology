@@ -1,0 +1,200 @@
+aristocratical	adj	aristocratic|aristocratic|R|Adj ; -al|al|S
+aristocratically	adv	aristocratic|aristocratic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+aristogenesis	noun	aristogenesis|aristogenesis|R|N
+aristogenic	adj	aristogenic|aristogenic|R|Adj
+aristotle	noun	aristotle|aristotle|R|N
+arithmancy	noun	arithmancy|arithmancy|R|N
+arithmetization	noun	arithmetize|arithmetiz|R|V ; -ation|ation|S
+arithmomania	noun	arithmomania|arithmomania|R|N
+arithmometer	noun	arithmometer|arithmometer|R|N
+arity	noun	arity|arity|R|N
+arkhalig	noun	arkhalig|arkhalig|R|N
+arkose	noun	arkose|arkose|R|N
+arkosic	adj	arkose|arkos|R|N ; -ic|ic|S
+armatole	noun	armatole|armatole|R|N
+armiger	noun	armiger|armiger|R|N
+armigerous	adj	armiger|armiger|R|N ; -ous|ous|S
+armill	noun	armill|armill|R|N
+armilla	noun	armilla|armilla|R|N
+armlock	noun	arm|arm|R|N ; lock|lock|R|N
+armorist	noun	armor|armor|R|N ; -ist|ist|S
+armorless	adj	armor|armor|R|N ; -less|less|S
+armouring	verb	armour|armour|R|N ; -ing|ing|I||-ing (v)
+armyless	adj	army|army|R|N ; -less|less|S
+aroid	noun	aroid|aroid|R|N
+aromaless	adj	aroma|aroma|R|N ; -less|less|S
+aromantic	adj	a-|a|P ; romantic|romantic|R|Adj
+aromanticism	noun	a-|a|P ; romantic|romantic|R|Adj ; -ism|ism|S
+aromatase	noun	aromatase|aromatase|R|N
+aromatically	adv	aromatic|aromatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+aromaticity	noun	aromatic|aromatic|R|Adj ; -ity|ity|S
+aromaticness	noun	aromatic|aromatic|R|Adj ; -ness|ness|S
+aromatization	noun	aromatize|aromatiz|R|V ; -ation|ation|S
+aromatize	verb	aromatic|aromat|R|Adj ; -ize|ize|S
+arowana	noun	arowana|arowana|R|N
+arpeggiate	verb	arpeggio|arpeggi|R|N ; -ate|ate|S
+arquebus	noun	arquebus|arquebus|R|N
+arquebusier	noun	arquebusier|arquebusier|R|N
+arracacha	noun	arracacha|arracacha|R|N
+arrack	noun	arrack|arrack|R|N
+arraigner	noun	arraign|arraign|R|V ; -er|er|S||-er (N)
+arraigning	verb	arraign|arraign|R|V ; -ing|ing|I||-ing (v)
+arranging	verb	arrange|arrang|R|V ; -ing|ing|I||-ing (v)
+arrantly	adv	arrant|arrant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+arrear	noun	arrear|arrear|R|N
+arrearage	noun	arrear|arrear|R|N ; -age|age|S
+arrester	noun	arrest|arrest|R|V ; -er|er|S||-er (N)
+arrestment	noun	arrest|arrest|R|V ; -ment|ment|S
+arrhenogenic	adj	arrhenogenic|arrhenogenic|R|Adj
+arrhizotonic	adj	arrhizotonic|arrhizotonic|R|Adj
+arriero	noun	arriero|arriero|R|N
+arris	noun	arris|arris|R|N
+arrivederci	noun	arrivederci|arrivederci|R|N
+arriver	noun	arrive|arriv|R|V ; -er|er|S||-er (N)
+arrivistic	adj	arriviste|arrivist|R|N ; -ic|ic|S
+arroba	noun	arroba|arroba|R|N
+arrogated	verb	arrogate|arrogat|R|V ; -ed|ed|I||-ed (v2)
+arrogation	noun	arrogate|arrogat|R|V ; -ion|ion|S
+arrogative	adj	arrogate|arrogat|R|V ; -ive|ive|S
+arrowmaker	noun	arrow|arrow|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+arrows	noun	arrow|arrow|R|N ; -s|s|I||-s (plural)
+arrowslit	noun	arrow|arrow|R|N ; slit|slit|R|N
+arrowword	noun	arrow|arrow|R|N ; word|word|R|N
+arrowy	adj	arrow|arrow|R|N ; -y|y|S
+arsenious	adj	arsenic|arsen|R|N ; -ious|ious|S
+arsenite	noun	arsenite|arsenite|R|N
+arsenobetaine	noun	arsenobetaine|arsenobetaine|R|N
+arsenopyrite	noun	arsenopyrite|arsenopyrite|R|N
+arsenous	adj	arsenic|arsen|R|N ; -ous|ous|S
+arshin	noun	arshin|arshin|R|N
+arsine	noun	arsine|arsine|R|N
+arsis	noun	arsis|arsis|R|N
+artel	noun	artel|artel|R|N
+artemisinin	noun	artemisinin|artemisinin|R|N
+arterialization	noun	arterialize|arterializ|R|V ; -ation|ation|S
+arterialize	verb	arterial|arterial|R|Adj ; -ize|ize|S
+arterially	adv	arterial|arterial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+arteriolar	adj	arteriolar|arteriolar|R|Adj
+arteriole	noun	arteriole|arteriole|R|N
+arteriosclerotic	adj	arteriosclerotic|arteriosclerotic|R|Adj
+arteriotomy	noun	arteriotomy|arteriotomy|R|N
+arteritis	noun	arteritis|arteritis|R|N
+arthral	adj	arthral|arthral|R|Adj
+arthralgia	noun	arthralgia|arthralgia|R|N
+arthritically	adv	arthritic|arthritic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+arthrodesis	noun	arthrodesis|arthrodesis|R|N
+arthrogenous	adj	arthrogenous|arthrogenous|R|Adj
+arthrogram	noun	arthrogram|arthrogram|R|N
+arthrogryposis	noun	arthrogryposis|arthrogryposis|R|N
+arthrology	noun	arthrology|arthrology|R|N
+arthromere	noun	arthromere|arthromere|R|N
+arthrometer	noun	arthrometer|arthrometer|R|N
+arthropathy	noun	arthropathy|arthropathy|R|N
+arthrophyte	noun	arthrophyte|arthrophyte|R|N
+arthropodal	adj	arthropodal|arthropodal|R|Adj
+arthroscope	noun	arthroscope|arthroscope|R|N
+arthroscopic	adj	arthroscope|arthroscop|R|N ; -ic|ic|S
+arthrosis	noun	arthrosis|arthrosis|R|N
+arthrospore	noun	arthrospore|arthrospore|R|N
+arthrostracous	adj	arthrostracous|arthrostracous|R|Adj
+arthrous	adj	arthrous|arthrous|R|Adj
+articles	noun	article|article|R|N ; -s|s|I||-s (plural)
+articularly	adv	articular|articular|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+articulative	adj	articulate|articulat|R|V ; -ive|ive|S
+artificialize	verb	artificial|artificial|R|Adj ; -ize|ize|S
+artificialness	noun	artificial|artificial|R|Adj ; -ness|ness|S
+artillerist	noun	artillery|artiller|R|N ; -ist|ist|S
+artily	adv	arty|arti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+artiness	noun	arty|arti|R|Adj ; -ness|ness|S
+artiodactyl	noun	artiodactyl|artiodactyl|R|N
+artiodactylous	adj	artiodactylous|artiodactylous|R|Adj
+artisanality	noun	artisanal|artisanal|R|Adj ; -ity|ity|S
+artisanry	noun	artisan|artisan|R|N ; -ry|ry|S
+artisanship	noun	artisan|artisan|R|N ; -ship|ship|S
+artistdom	noun	artist|artist|R|N ; -dom|dom|S
+artistical	adj	artistic|artistic|R|Adj ; -al|al|S
+artlessness	noun	art|art|R|N ; -less|less|S ; -ness|ness|S
+aryballos	noun	aryballos|aryballos|R|N
+aryk	noun	aryk|aryk|R|N
+aryl	noun	aryl|aryl|R|N
+asafoetida	noun	asafoetida|asafoetida|R|N
+asana	noun	asana|asana|R|N
+asarabacca	noun	asarabacca|asarabacca|R|N
+asbestine	adj	asbestine|asbestine|R|Adj
+asbestotic	adj	asbestotic|asbestotic|R|Adj
+ascariasis	noun	ascariasis|ascariasis|R|N
+ascarid	noun	ascarid|ascarid|R|N
+ascendable	adj	ascend|ascend|R|V ; -able|able|S
+ascendible	adj	ascend|ascend|R|V ; -ible|ible|S
+ascensional	adj	ascension|ascension|R|N ; -al|al|S
+ascertainableness	noun	ascertain|ascertain|R|V ; -able|able|S ; -ness|ness|S
+ascertainably	adv	ascertain|ascertain|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+ascesis	noun	ascesis|ascesis|R|N
+ascetical	adj	ascetic|ascetic|R|Adj ; -al|al|S
+ascetically	adv	ascetic|ascetic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+ascidian	noun	ascidian|ascidian|R|N
+ascidiate	adj	ascidiate|ascidiate|R|Adj
+ascidiform	adj	ascidiform|ascidiform|R|Adj
+ascidium	noun	ascidium|ascidium|R|N
+asciferous	adj	asciferous|asciferous|R|Adj
+asclepiadaceous	adj	asclepiadaceous|asclepiadaceous|R|Adj
+ascocarp	noun	ascocarp|ascocarp|R|N
+ascogenous	adj	ascogenous|ascogenous|R|Adj
+ascoma	noun	ascoma|ascoma|R|N
+ascomycete	noun	ascomycete|ascomycete|R|N
+ascorbate	noun	ascorbic|ascorb|R|Adj ; -ate|ate|S
+ascorbic	adj	ascorbic|ascorbic|R|Adj
+ascospore	noun	ascospore|ascospore|R|N
+ascosporous	adj	ascosporous|ascosporous|R|Adj
+ascribable	adj	ascribe|ascrib|R|V ; -able|able|S
+ascus	noun	ascus|ascus|R|N
+asdfghjkl	?	?
+ase	?	?
+aseismic	adj	a-|a|P ; seismic|seismic|R|Adj
+aseity	noun	aseity|aseity|R|N
+asemic	adj	a-|a|P ; seme|sem|R|N ; -ic|ic|S
+asepsis	noun	a-|a|P ; sepsis|sepsis|R|N
+aseptate	adj	a-|a|P ; septate|septate|R|Adj
+asepticism	noun	a-|a|P ; septic|septic|R|Adj ; -ism|ism|S
+asexuality	noun	a-|a|P ; sex|sex|R|N ; -ual|ual|S ; -ity|ity|S
+ashake	adj	a-|a|P ; shake|shake|R|V
+ashcan	noun	ash|ash|R|N ; can|can|R|N
+ashet	noun	ashet|ashet|R|N
+ashiness	noun	ashy|ashi|R|Adj ; -ness|ness|S
+ashrafi	noun	ashrafi|ashrafi|R|N
+ashtanga	noun	ashtanga|ashtanga|R|N
+ashugh	noun	ashugh|ashugh|R|N
+ashwagandha	noun	ashwagandha|ashwagandha|R|N
+asiento	noun	asiento|asiento|R|N
+asininity	noun	asinine|asinin|R|Adj ; -ity|ity|S
+askar	noun	askar|askar|R|N
+asked	verb	ask|ask|R|V ; -ed|ed|I||-ed (v2)
+asker	noun	ask|ask|R|V ; -er|er|S||-er (N)
+askewness	noun	askew|askew|R|Adj ; -ness|ness|S
+asociality	noun	a-|a|P ; social|social|R|Adj ; -ity|ity|S
+asocially	adv	a-|a|P ; social|social|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+asparagine	noun	asparagine|asparagine|R|N
+asparagusate	adj	asparagusate|asparagusate|R|Adj
+aspartate	noun	aspartic|aspart|R|Adj ; -ate|ate|S
+aspartic	adj	aspartic|aspartic|R|Adj
+aspectual	adj	aspect|aspect|R|N ; -ual|ual|S
+asperges	noun	asperges|asperges|R|N
+aspergillum	noun	aspergillum|aspergillum|R|N
+aspergillus	noun	aspergillus|aspergillus|R|N
+aspermia	noun	aspermia|aspermia|R|N
+asperse	verb	asperse|asperse|R|V
+aspersive	adj	asperse|aspers|R|V ; -ive|ive|S
+aspersorium	noun	aspersorium|aspersorium|R|N
+aspersory	noun	aspersory|aspersory|R|N
+aspet	?	?
+asphalted	verb	asphalt|asphalt|R|V ; -ed|ed|I||-ed (v2)
+asphaltic	adj	asphalt|asphalt|R|N ; -ic|ic|S
+asphalting	verb	asphalt|asphalt|R|V ; -ing|ing|I||-ing (v)
+asphericity	noun	a-|a|P ; sphere|spher|R|N ; -ic|ic|S ; -ity|ity|S
+asphodel	noun	asphodel|asphodel|R|N
+asphyxiant	noun	asphyxia|asphyxi|R|N ; -ant|ant|S
+asphyxiating	verb	asphyxiate|asphyxiat|R|V ; -ing|ing|I||-ing (v)
+asphyxiator	noun	asphyxiate|asphyxiat|R|V ; -or|or|S
+aspidochelone	noun	aspidochelone|aspidochelone|R|N
+aspie	noun	aspie|aspie|R|N
+aspirator	noun	aspirate|aspirat|R|V ; -or|or|S

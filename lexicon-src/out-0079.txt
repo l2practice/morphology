@@ -1,0 +1,200 @@
+protectionism	noun	protection|protection|R|N ; -ism|ism|S
+fetish	noun	fetish|fetish|R|N
+scab	noun	scab|scab|R|N
+milking	noun	milk|milk|R|N ; -ing|ing|S||-ing (N)
+throwback	noun	throw|throw|R|V ; back|back|R|Adv
+functionally	adv	function|function|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+downpour	noun	down|down|R|Adv ; pour|pour|R|V
+assertiveness	noun	assert|assert|R|V ; -ive|ive|S ; -ness|ness|S
+nanotechnology	noun	nanotechnology|nanotechnology|R|N
+pseudonym	noun	pseudonym|pseudonym|R|N
+belligerent	adj	belligerent|belligerent|R|Adj
+sellout	noun	sell|sell|R|V ; out|out|R|Adv
+sundown	noun	sun|sun|R|N ; down|down|R|Adv
+purported	adj	purport|purport|R|V ; -ed|ed|S||-ed (adj)
+temperance	noun	temper|temper|R|V ; -ance|ance|S
+peerage	noun	peer|peer|R|N ; -age|age|S
+homey	adj	home|home|R|N ; -y|y|S
+gynecologist	noun	gynecologist|gynecologist|R|N
+flak	noun	flak|flak|R|N
+catapult	noun	catapult|catapult|R|N
+enthrall	verb	en-|en|P ; thrall|thrall|R|N
+overhang	noun	over-|over|P ; hang|hang|R|V
+allowable	adj	allow|allow|R|V ; -able|able|S
+aft	adv	aft|aft|R|Adv
+molding	noun	mold|mold|R|N ; -ing|ing|S||-ing (N)
+guarantor	noun	guarantee|guarant|R|N ; -or|or|S
+viciously	adv	vice|vici|R|N ; -ious|ous|S ; -ly|ly|I|Adv|-ly (adv)
+surcharge	noun	surcharge|surcharge|R|N
+multi	adj	multi|multi|R|Adj
+wholeness	noun	whole|whole|R|Adj ; -ness|ness|S
+knocking	noun	knock|knock|R|V ; -ing|ing|S||-ing (N)
+nautical	adj	nautical|nautical|R|Adj
+clumsily	adv	clumsy|clumsi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+feathered	adj	feather|feather|R|N ; -ed|ed|S||-ed (adj)
+attacking	verb	attack|attack|R|V ; -ing|ing|I||-ing (v)
+twinge	noun	twinge|twinge|R|N
+fuller	noun	full|full|R|Adj ; -er|er|S||-er (N)
+trembling	noun	tremble|trembl|R|V ; -ing|ing|S||-ing (N)
+extrinsic	adj	extrinsic|extrinsic|R|Adj
+sideboard	noun	side|side|R|N ; board|board|R|N
+racecourse	noun	race|race|R|N ; course|course|R|N
+recuperate	verb	recuperate|recuperate|R|V
+fortification	noun	fortify|fortific|R|V ; -ation|ation|S
+contemptuously	adv	contempt|contempt|R|N ; -uous|uous|S ; -ly|ly|I|Adv|-ly (adv)
+cloakroom	noun	cloak|cloak|R|N ; room|room|R|N
+alder	noun	alder|alder|R|N
+junta	noun	junta|junta|R|N
+bassist	noun	bass|bass|R|N ; -ist|ist|S
+hookup	noun	hook|hook|R|V ; up|up|R|Adv
+psycho	noun	psycho|psycho|R|N
+handiwork	noun	handy|handi|R|Adj ; work|work|R|N
+mitt	noun	mitt|mitt|R|N
+transferable	adj	transfer|transfer|R|V ; -able|able|S
+untrained	adj	un-|un|P ; train|train|R|V ; -ed|ed|S||-ed (adj)
+slag	noun	slag|slag|R|N
+scone	noun	scone|scone|R|N
+primrose	noun	prim|prim|R|Adj ; rose|rose|R|N
+allegorical	adj	allegory|allegor|R|N ; -ical|ical|S
+militancy	noun	militant|milit|R|Adj ; -ancy|ancy|S
+teasing	noun	tease|teas|R|V ; -ing|ing|S||-ing (N)
+dammit	interj	dammit|dammit|R
+foregoing	adj	fore-|fore|P ; go|go|R|V ; -ing|ing|S||-ing (adj)
+coldness	noun	cold|cold|R|Adj ; -ness|ness|S
+jogger	noun	jog|jogg|R|V ; -er|er|S||-er (N)
+dank	adj	dank|dank|R|Adj
+bramble	noun	bramble|bramble|R|N
+leaguer	noun	league|leagu|R|N ; -er|er|S||-er (N)
+marcel	noun	marcel|marcel|R|N
+tanned	adj	tan|tann|R|V ; -ed|ed|S||-ed (adj)
+crashing	verb	crash|crash|R|V ; -ing|ing|I||-ing (v)
+totter	verb	totter|totter|R|V
+pushchair	noun	push|push|R|V ; chair|chair|R|N
+comfy	adj	comfy|comfy|R|Adj
+digger	noun	dig|digg|R|V ; -er|er|S||-er (N)
+confirmed	adj	confirm|confirm|R|V ; -ed|ed|S||-ed (adj)
+tor	noun	tor|tor|R|N
+unsolicited	adj	un-|un|P ; solicit|solicit|R|V ; -ed|ed|S||-ed (adj)
+embattled	adj	em-|em|P|||en- ; battle|battl|R|N ; -ed|ed|S||-ed (adj)
+disallow	verb	dis-|dis|P ; allow|allow|R|V
+unstoppable	adj	un-|un|P ; stop|stopp|R|V ; -able|able|S
+copse	noun	copse|copse|R|N
+nothingness	noun	nothing|nothing|R|N ; -ness|ness|S
+virtuoso	noun	virtuoso|virtuoso|R|N
+reinstatement	noun	reinstate|reinstate|R|V ; -ment|ment|S
+consecrate	verb	consecrate|consecrate|R|V
+windowless	adj	window|window|R|N ; -less|less|S
+bucks	noun	buck|buck|R|N ; -s|s|I||-s (plural)
+convection	noun	convect|convect|R|V ; -ion|ion|S
+snub	verb	snub|snub|R|V
+dispersion	noun	disperse|dispers|R|V ; -ion|ion|S
+foursome	noun	four|four|R|N ; -some|some|S
+subtext	noun	sub-|sub|P ; text|text|R|N
+rant	verb	rant|rant|R|V
+sweatshop	noun	sweat|sweat|R|V ; shop|shop|R|N
+foreclose	verb	fore-|fore|P ; close|close|R|V
+disrespectful	adj	dis-|dis|P ; respect|respect|R|V ; -ful|ful|S
+proletarian	noun	proletarian|proletarian|R|N
+unanticipated	adj	un-|un|P ; anticipate|anticipat|R|V ; -ed|ed|S||-ed (adj)
+resettlement	noun	re-|re|P ; settle|settle|R|V ; -ment|ment|S
+incandescent	adj	incandescent|incandescent|R|Adj
+wren	noun	wren|wren|R|N
+digitally	adv	digital|digital|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+normalization	noun	normalize|normaliz|R|V ; -ation|ation|S
+gestation	noun	gestate|gestat|R|V ; -ion|ion|S
+silverware	noun	silver|silver|R|N ; ware|ware|R|N
+jettison	verb	jettison|jettison|R|V
+yoke	noun	yoke|yoke|R|N
+esquire	noun	esquire|esquire|R|N
+buzzard	noun	buzzard|buzzard|R|N
+surgically	adv	surgical|surgical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+moi	interj	moi|moi|R
+snare	noun	snare|snare|R|N
+antecedent	noun	antecedent|antecedent|R|N
+chagrin	noun	chagrin|chagrin|R|N
+parasitic	adj	parasite|parasit|R|N ; -ic|ic|S
+mythological	adj	mythology|mytholog|R|N ; -ical|ical|S
+observant	adj	observe|observ|R|V ; -ant|ant|S
+gruff	adj	gruff|gruff|R|Adj
+interrelationship	noun	inter-|inter|P ; relationship|relationship|R|N
+scrambled	adj	scramble|scrambl|R|V ; -ed|ed|S||-ed (adj)
+bayou	noun	bayou|bayou|R|N
+kimono	noun	kimono|kimono|R|N
+pout	verb	pout|pout|R|V
+malevolent	adj	malevolent|malevolent|R|Adj
+multiracial	adj	multi-|multi|P ; racial|racial|R|Adj
+fairground	noun	fair|fair|R|N ; ground|ground|R|N
+emulsion	noun	emulsion|emulsion|R|N
+fullback	noun	full|full|R|Adj ; back|back|R|N
+breech	noun	breech|breech|R|N
+expiration	noun	expire|expir|R|V ; -ation|ation|S
+belch	verb	belch|belch|R|V
+expletive	noun	expletive|expletive|R|N
+corrosive	adj	corrode|corros|R|V ; -ive|ive|S
+slog	verb	slog|slog|R|V
+tracksuit	noun	track|track|R|N ; suit|suit|R|N
+knighthood	noun	knight|knight|R|N ; -hood|hood|S
+unintentionally	adv	un-|un|P ; intention|intention|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+formalize	verb	formal|formal|R|Adj ; -ize|ize|S
+tainted	adj	taint|taint|R|V ; -ed|ed|S||-ed (adj)
+poetics	noun	poetics|poetics|R|N
+weariness	noun	weary|weari|R|Adj ; -ness|ness|S
+authorship	noun	author|author|R|N ; -ship|ship|S
+judgmental	adj	judgment|judgment|R|N ; -al|al|S
+midpoint	noun	mid-|mid|P ; point|point|R|N
+renunciation	noun	renounce|renunci|R|V ; -ation|ation|S
+geometrical	adj	geometric|geometric|R|Adj ; -al|al|S
+tracker	noun	track|track|R|V ; -er|er|S||-er (N)
+conscription	noun	con-|con|P ; -scribe|script|B|V ; -ion|ion|S
+motley	adj	motley|motley|R|Adj
+slaughterhouse	noun	slaughter|slaughter|R|V ; house|house|R|N
+holiness	noun	holy|holi|R|Adj ; -ness|ness|S
+adaptability	noun	adaptable|adaptabil|R|Adj ; -ity|ity|S
+gymnast	noun	gymnast|gymnast|R|N
+pont	noun	pont|pont|R|N
+banjo	noun	banjo|banjo|R|N
+blanc	adj	blanc|blanc|R|Adj
+glossary	noun	glossary|glossary|R|N
+lazily	adv	lazy|lazi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+dungeon	noun	dungeon|dungeon|R|N
+classless	adj	class|class|R|N ; -less|less|S
+eucalyptus	noun	eucalyptus|eucalyptus|R|N
+annal	noun	annal|annal|R|N
+catwalk	noun	cat|cat|R|N ; walk|walk|R|V
+disingenuous	adj	dis-|dis|P ; ingenuous|ingenuous|R|Adj
+granulate	verb	granule|granul|R|N ; -ate|ate|S
+astrophysicist	noun	astrophysicist|astrophysicist|R|N
+structuring	noun	structure|structur|R|N ; -ing|ing|S||-ing (N)
+shameless	adj	shame|shame|R|N ; -less|less|S
+forestall	verb	fore-|fore|P ; stall|stall|R|V
+okra	noun	okra|okra|R|N
+womanhood	noun	woman|woman|R|N ; -hood|hood|S
+hydroelectric	adj	hydroelectric|hydroelectric|R|Adj
+meringue	noun	meringue|meringue|R|N
+ode	noun	ode|ode|R|N
+charger	noun	charge|charg|R|V ; -er|er|S||-er (N)
+touchy	adj	touch|touch|R|V ; -y|y|S
+sweetener	noun	sweeten|sweeten|R|V ; -er|er|S||-er (N)
+nightingale	noun	nightingale|nightingale|R|N
+sojourn	noun	sojourn|sojourn|R|N
+papaya	noun	papaya|papaya|R|N
+bondage	noun	bond|bond|R|N ; -age|age|S
+godmother	noun	god|god|R|N ; mother|mother|R|N
+heretofore	adv	heretofore|heretofore|R|Adv
+itinerant	adj	itinerant|itinerant|R|Adj
+geothermal	adj	geothermal|geothermal|R|Adj
+starlight	noun	star|star|R|N ; light|light|R|N
+curbside	noun	curb|curb|R|N ; side|side|R|N
+asymmetrical	adj	a-|a|P ; symmetrical|symmetrical|R|Adj
+docker	noun	dock|dock|R|V ; -er|er|S||-er (N)
+brine	noun	brine|brine|R|N
+tryout	noun	try|try|R|V ; out|out|R|Adv
+inappropriately	adv	in-|in|P ; appropriate|appropriate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+maintained	verb	maintain|maintain|R|V ; -ed|ed|I||-ed (v2)
+duality	noun	dual|dual|R|Adj ; -ity|ity|S
+lathe	noun	lathe|lathe|R|N
+hitting	verb	hit|hitt|R|V ; -ing|ing|I||-ing (v)
+harbinger	noun	harbinger|harbinger|R|N
+retinue	noun	retinue|retinue|R|N
+prescriptive	adj	prescribe|prescript|R|V ; -ive|ive|S
+patronize	verb	patron|patron|R|N ; -ize|ize|S

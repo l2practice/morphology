@@ -1,0 +1,200 @@
+panorama	noun	panorama|panorama|R|N
+untold	adj	un-|un|P ; tell|told|R|V ; -ed||I||-ed (v2)
+burly	adj	burly|burly|R|Adj
+stardom	noun	star|star|R|N ; -dom|dom|S
+bombard	verb	bombard|bombard|R|V
+mocking	adj	mock|mock|R|V ; -ing|ing|S||-ing (adj)
+defensively	adv	defense|defens|R|N ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+pep	noun	pep|pep|R|N
+telltale	adj	tell|tell|R|V ; tale|tale|R|N
+griffin	noun	griffin|griffin|R|N
+zombie	noun	zombie|zombie|R|N
+alkaline	adj	alkaline|alkaline|R|Adj
+grinder	noun	grind|grind|R|V ; -er|er|S||-er (N)
+scapegoat	noun	scapegoat|scapegoat|R|N
+stallion	noun	stallion|stallion|R|N
+topography	noun	topography|topography|R|N
+monoxide	noun	mono-|mon|P ; oxide|oxide|R|N
+prism	noun	prism|prism|R|N
+gymnasium	noun	gymnasium|gymnasium|R|N
+sheikh	noun	sheikh|sheikh|R|N
+mindless	adj	mind|mind|R|N ; -less|less|S
+rye	noun	rye|rye|R|N
+diva	noun	diva|diva|R|N
+rudder	noun	rudder|rudder|R|N
+relapse	noun	re-|re|P ; lapse|lapse|R|N
+mire	noun	mire|mire|R|N
+quaker	noun	quake|quak|R|V ; -er|er|S||-er (N)
+roomy	adj	room|room|R|N ; -y|y|S
+contravention	noun	contravene|contraven|R|V ; -tion|tion|S
+shellfish	noun	shell|shell|R|N ; fish|fish|R|N
+scooter	noun	scoot|scoot|R|V ; -er|er|S||-er (N)
+intelligentsia	noun	intelligentsia|intelligentsia|R|N
+empress	noun	empress|empress|R|N
+buried	adj	bury|buri|R|V ; -ed|ed|S||-ed (adj)
+frankenstein	noun	frankenstein|frankenstein|R|N
+kissing	noun	kiss|kiss|R|V ; -ing|ing|S||-ing (N)
+miniseries	noun	mini|mini|R|Adj ; series|series|R|N
+trustworthy	adj	trust|trust|R|N ; worthy|worthy|R|Adj
+sidestep	verb	side|side|R|N ; step|step|R|V
+poly	noun	poly|poly|R|N
+whimsical	adj	whimsy|whimsi|R|N ; -ical|cal|S
+immunization	noun	immunize|immuniz|R|V ; -ation|ation|S
+effortlessly	adv	effort|effort|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+lighted	adj	light|light|R|V ; -ed|ed|S||-ed (adj)
+mounting	noun	mount|mount|R|V ; -ing|ing|S||-ing (N)
+finch	noun	finch|finch|R|N
+recoil	verb	re-|re|P ; coil|coil|R|V
+sammy	noun	sammy|sammy|R|N
+armpit	noun	arm|arm|R|N ; pit|pit|R|N
+harem	noun	harem|harem|R|N
+hormonal	adj	hormone|hormon|R|N ; -al|al|S
+transformer	noun	trans-|trans|P ; form|form|R|V ; -er|er|S||-er (N)
+perpetually	adv	perpetual|perpetual|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+fondness	noun	fond|fond|R|Adj ; -ness|ness|S
+mmm	interj	mmm|mmm|R
+rhino	noun	rhino|rhino|R|N
+consensual	adj	consensual|consensual|R|Adj
+extremism	noun	extreme|extrem|R|Adj ; -ism|ism|S
+helpline	noun	help|help|R|V ; line|line|R|N
+ovation	noun	ovation|ovation|R|N
+corrosion	noun	corrode|corros|R|V ; -ion|ion|S
+khaki	noun	khaki|khaki|R|N
+premiership	noun	premier|premier|R|N ; -ship|ship|S
+hiking	noun	hike|hik|R|V ; -ing|ing|S||-ing (N)
+finder	noun	find|find|R|V ; -er|er|S||-er (N)
+embedded	adj	em-|em|P|||en- ; bed|bedd|R|V ; -ed|ed|S||-ed (adj)
+acidity	noun	acid|acid|R|N ; -ity|ity|S
+hooper	noun	hoop|hoop|R|N ; -er|er|S||-er (N)
+nationalisation	noun	nation|nation|R|N ; -al|al|S ; -ise|is|S ; -ation|ation|S
+standout	noun	stand|stand|R|V ; out|out|R|Adv
+mystic	noun	mystic|mystic|R|N
+astute	adj	astute|astute|R|Adj
+kyle	noun	kyle|kyle|R|N
+aggregation	noun	aggregate|aggregat|R|V ; -ion|ion|S
+abstention	noun	abstention|abstention|R|N
+prowl	verb	prowl|prowl|R|V
+octave	noun	octave|octave|R|N
+vestige	noun	vestige|vestige|R|N
+figurine	noun	figurine|figurine|R|N
+fertilization	noun	fertilize|fertiliz|R|V ; -ation|ation|S
+quail	noun	quail|quail|R|N
+morphology	noun	morphology|morphology|R|N
+entrench	verb	en-|en|P ; trench|trench|R|V
+nonpartisan	adj	non-|non|P ; partisan|partisan|R|Adj
+afar	adv	a-|a|P ; far|far|R|Adv
+fuselage	noun	fuselage|fuselage|R|N
+arterial	adj	artery|arteri|R|N ; -al|al|S
+revamp	verb	re-|re|P ; vamp|vamp|R|V
+subsidence	noun	subside|subsid|R|V ; -ence|ence|S
+quartz	noun	quartz|quartz|R|N
+manic	adj	manic|manic|R|Adj
+phonetic	adj	phonetic|phonetic|R|Adj
+glee	noun	glee|glee|R|N
+extracurricular	adj	extra-|extra|P ; curricular|curricular|R|Adj
+understatement	noun	under-|under|P ; state|state|R|V ; -ment|ment|S
+orchestral	adj	orchestra|orchestr|R|N ; -al|al|S
+heirloom	noun	heir|heir|R|N ; loom|loom|R|N
+failing	noun	fail|fail|R|V ; -ing|ing|S||-ing (N)
+excruciating	adj	excruciate|excruciat|R|V ; -ing|ing|S||-ing (adj)
+hearer	noun	hear|hear|R|V ; -er|er|S||-er (N)
+harrier	noun	harry|harri|R|V ; -er|er|S||-er (N)
+discursive	adj	discursive|discursive|R|Adj
+uproar	noun	uproar|uproar|R|N
+din	noun	din|din|R|N
+migraine	noun	migraine|migraine|R|N
+highlander	noun	high|high|R|Adj ; land|land|R|N ; -er|er|S||-er (N)
+observational	adj	observe|observ|R|V ; -ation|ation|S ; -al|al|S
+brownie	noun	brownie|brownie|R|N
+burned	adj	burn|burn|R|V ; -ed|ed|S||-ed (adj)
+candor	noun	candor|candor|R|N
+ombudsman	noun	ombudsman|ombudsman|R|N
+cadmium	noun	cadmium|cadmium|R|N
+uncontrollable	adj	un-|un|P ; control|controll|R|V ; -able|able|S
+laity	noun	laity|laity|R|N
+ply	verb	ply|ply|R|V
+err	verb	err|err|R|V
+winged	adj	wing|wing|R|N ; -ed|ed|S||-ed (adj)
+arcane	adj	arcane|arcane|R|Adj
+decimal	noun	decimal|decimal|R|N
+renegade	noun	renegade|renegade|R|N
+hoax	noun	hoax|hoax|R|N
+anorexia	noun	anorexia|anorexia|R|N
+prosthetic	adj	prosthetic|prosthetic|R|Adj
+gathered	adj	gather|gather|R|V ; -ed|ed|S||-ed (adj)
+aspen	noun	aspen|aspen|R|N
+newscast	noun	news|news|R|N ; cast|cast|R|V
+ottoman	noun	ottoman|ottoman|R|N
+mona	noun	mona|mona|R|N
+personalized	adj	person|person|R|N ; -al|al|S ; -ize|iz|S ; -ed|ed|S||-ed (adj)
+writhe	verb	writhe|writhe|R|V
+sonnet	noun	sonnet|sonnet|R|N
+axle	noun	axle|axle|R|N
+skirmish	noun	skirmish|skirmish|R|N
+fluency	noun	fluency|fluency|R|N
+standardize	verb	standard|standard|R|N ; -ize|ize|S
+contiguous	adj	contiguous|contiguous|R|Adj
+semblance	noun	semblance|semblance|R|N
+replete	adj	replete|replete|R|Adj
+liquidator	noun	liquid|liquid|R|N ; -ate|at|S ; -or|or|S
+pesto	noun	pesto|pesto|R|N
+ecu	noun	ecu|ecu|R|N
+hydrocarbon	noun	hydrocarbon|hydrocarbon|R|N
+primordial	adj	primordial|primordial|R|Adj
+glint	noun	glint|glint|R|N
+kidnapper	noun	kidnap|kidnapp|R|V ; -er|er|S||-er (N)
+equivalence	noun	equivalent|equival|R|Adj ; -ence|ence|S
+eyelash	noun	eye|eye|R|N ; lash|lash|R|N
+multidimensional	adj	multi-|multi|P ; dimension|dimension|R|N ; -al|al|S
+seaweed	noun	sea|sea|R|N ; weed|weed|R|N
+adjudication	noun	adjudicate|adjudicat|R|V ; -ion|ion|S
+thorny	adj	thorn|thorn|R|N ; -y|y|S
+memento	noun	memento|memento|R|N
+wisp	noun	wisp|wisp|R|N
+blocking	noun	block|block|R|V ; -ing|ing|S||-ing (N)
+oceanic	adj	ocean|ocean|R|N ; -ic|ic|S
+urn	noun	urn|urn|R|N
+zoe	noun	zoe|zoe|R|N
+encase	verb	en-|en|P ; case|case|R|N
+computational	adj	compute|comput|R|V ; -ation|ation|S ; -al|al|S
+mink	noun	mink|mink|R|N
+gaily	adv	gay|gai|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+causation	noun	cause|caus|R|V ; -ation|ation|S
+configure	verb	con-|con|P ; figure|figure|R|V
+uncertainly	adv	un-|un|P ; certain|certain|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cull	verb	cull|cull|R|V
+nutritionist	noun	nutrition|nutrition|R|N ; -ist|ist|S
+corrective	adj	correct|correct|R|V ; -ive|ive|S
+pornographic	adj	pornography|pornograph|R|N ; -ic|ic|S
+elitist	noun	elite|elit|R|N ; -ist|ist|S
+pare	verb	pare|pare|R|V
+wacky	adj	wack|wack|R|N ; -y|y|S
+stripper	noun	strip|stripp|R|V ; -er|er|S||-er (N)
+jessie	noun	jessie|jessie|R|N
+linoleum	noun	linoleum|linoleum|R|N
+skinhead	noun	skin|skin|R|N ; head|head|R|N
+clot	noun	clot|clot|R|N
+theo	noun	theo|theo|R|N
+nutritious	adj	nutrition|nutriti|R|N ; -ous|ous|S
+mismanagement	noun	mis-|mis|P ; manage|manage|R|V ; -ment|ment|S
+choosing	noun	choose|choos|R|V ; -ing|ing|S||-ing (N)
+psychoanalytic	adj	psychoanalytic|psychoanalytic|R|Adj
+marinate	verb	marinate|marinate|R|V
+kiosk	noun	kiosk|kiosk|R|N
+magically	adv	magic|magic|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+increment	noun	increment|increment|R|N
+angst	noun	angst|angst|R|N
+craven	adj	craven|craven|R|Adj
+wiry	adj	wire|wir|R|N ; -y|y|S
+geneticist	noun	genetic|genetic|R|Adj ; -ist|ist|S
+behemoth	noun	behemoth|behemoth|R|N
+spitfire	noun	spit|spit|R|V ; fire|fire|R|N
+calorie	noun	calorie|calorie|R|N
+mull	verb	mull|mull|R|V
+abate	verb	abate|abate|R|V
+constipation	noun	constipate|constipat|R|V ; -ion|ion|S
+nah	interj	nah|nah|R
+postscript	noun	post-|post|P ; script|script|R|N
+dora	noun	dora|dora|R|N
+veritable	adj	veritable|veritable|R|Adj
+conveyance	noun	convey|convey|R|V ; -ance|ance|S

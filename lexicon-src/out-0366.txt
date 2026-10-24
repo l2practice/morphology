@@ -1,0 +1,200 @@
+quisle	noun	quisle|quisle|R|N
+quisling	noun	quisling|quisling|R|N
+quitch	noun	quitch|quitch|R|N
+quitrent	noun	quit|quit|R|V ; rent|rent|R|N
+quittance	noun	quit|quitt|R|V ; -ance|ance|S
+quittor	noun	quittor|quittor|R|N
+quivered	verb	quiver|quiver|R|V ; -ed|ed|I||-ed (v2)
+quiverful	noun	quiver|quiver|R|N ; -ful|ful|S
+quixotically	adv	quixotic|quixotic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+quixotism	noun	quixotic|quixot|R|Adj ; -ism|ism|S
+quixotry	noun	quixotry|quixotry|R|N
+quizmaster	noun	quiz|quiz|R|N ; master|master|R|N
+quizzer	noun	quiz|quizz|R|V ; -er|er|S||-er (N)
+quizzicality	noun	quizzical|quizzical|R|Adj ; -ity|ity|S
+quizzing	verb	quiz|quizz|R|V ; -ing|ing|I||-ing (v)
+quoin	noun	quoin|quoin|R|N
+quoits	noun	quoit|quoit|R|N ; -s|s|I||-s (plural)
+quokka	noun	quokka|quokka|R|N
+quoll	noun	quoll|quoll|R|N
+quondam	adj	quondam|quondam|R|Adj
+quorate	adj	quorate|quorate|R|Adj
+quotative	adj	quote|quot|R|V ; -ative|ative|S
+quoting	verb	quote|quot|R|V ; -ing|ing|I||-ing (v)
+quotum	noun	quotum|quotum|R|N
+rabbinist	noun	rabbinist|rabbinist|R|N
+rabbiting	verb	rabbit|rabbit|R|V ; -ing|ing|I||-ing (v)
+rabbitlike	adj	rabbit|rabbit|R|N ; -like|like|S
+rabbitry	noun	rabbit|rabbit|R|N ; -ry|ry|S
+rabbity	adj	rabbit|rabbit|R|N ; -y|y|S
+rabbler	noun	rabble|rabbl|R|V ; -er|er|S||-er (N)
+rabidity	noun	rabid|rabid|R|Adj ; -ity|ity|S
+rabidness	noun	rabid|rabid|R|Adj ; -ness|ness|S
+rabiz	noun	rabiz|rabiz|R|N
+rabona	noun	rabona|rabona|R|N
+raced	verb	race|rac|R|V ; -ed|ed|I||-ed (v2)
+racemate	noun	raceme|racem|R|N ; -ate|ate|S
+raceme	noun	raceme|raceme|R|N
+racemic	adj	raceme|racem|R|N ; -ic|ic|S
+racemization	noun	racemize|racemiz|R|V ; -ation|ation|S
+racemose	adj	raceme|racem|R|N ; -ose|ose|S
+racemule	noun	racemule|racemule|R|N
+racemulose	adj	racemulose|racemulose|R|Adj
+raceplay	noun	race|race|R|N ; play|play|R|N
+racewalker	noun	race|race|R|N ; walk|walk|R|V ; -er|er|S||-er (N)
+racewalking	noun	race|race|R|N ; walk|walk|R|V ; -ing|ing|S||-ing (N)
+rachial	adj	rachis|rachi|R|N ; -al|al|S
+rachidial	adj	rachidial|rachidial|R|Adj
+rachilla	noun	rachilla|rachilla|R|N
+rachiodont	noun	rachiodont|rachiodont|R|N
+rachis	noun	rachis|rachis|R|N
+rachitic	adj	rachitis|rachit|R|N ; -ic|ic|S
+rachitis	noun	rachitis|rachitis|R|N
+racily	adv	racy|raci|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+raciness	noun	racy|raci|R|Adj ; -ness|ness|S
+racked	verb	rack|rack|R|V ; -ed|ed|I||-ed (v2)
+racketing	verb	racket|racket|R|V ; -ing|ing|I||-ing (v)
+rackets	noun	racket|racket|R|N ; -s|s|I||-s (plural)
+rackett	noun	rackett|rackett|R|N
+rackety	adj	racket|racket|R|N ; -y|y|S
+racks	noun	rack|rack|R|N ; -s|s|I||-s (plural)
+racon	noun	racon|racon|R|N
+ractopamine	noun	ractopamine|ractopamine|R|N
+rad	noun	rad|rad|R|N
+raddle	verb	raddle|raddle|R|V
+raddled	verb	raddle|raddl|R|V ; -ed|ed|I||-ed (v2)
+radiable	adj	radiate|radi|R|V ; -able|able|S
+radiale	noun	radiale|radiale|R|N
+radiancy	noun	radiant|radianc|R|Adj ; -cy|y|S
+radiatiform	adj	radiatiform|radiatiform|R|Adj
+radicand	noun	radicand|radicand|R|N
+radicate	verb	radicate|radicate|R|V
+radicel	noun	radicel|radicel|R|N
+radicicolous	adj	radicicolous|radicicolous|R|Adj
+radiciflorous	adj	radiciflorous|radiciflorous|R|Adj
+radiciform	adj	radiciform|radiciform|R|Adj
+radicle	noun	radicle|radicle|R|N
+radicular	adj	radicle|radicul|R|N ; -ar|ar|S
+radicule	noun	radicule|radicule|R|N
+radiculopathy	noun	radiculopathy|radiculopathy|R|N
+radif	noun	radif|radif|R|N
+radioactivate	verb	radio|radio|R|N ; activate|activate|R|V
+radioactivation	noun	radio|radio|R|N ; activate|activat|R|V ; -ion|ion|S
+radiobiology	noun	radio|radio|R|N ; biology|biology|R|N
+radiobroadcast	verb	radio|radio|R|N ; broad|broad|R|Adj ; cast|cast|R|V
+radiocast	verb	radio|radio|R|N ; cast|cast|R|V
+radiochemist	noun	radio|radio|R|N ; chemist|chemist|R|N
+radiochemistry	noun	radio|radio|R|N ; chemistry|chemistry|R|N
+radiodiagnostics	noun	radio|radio|R|N ; diagnostics|diagnostics|R|N
+radiogenic	adj	radiogenic|radiogenic|R|Adj
+radiogramophone	noun	radio|radio|R|N ; gramophone|gramophone|R|N
+radiolarian	noun	radiolaria|radiolari|R|N ; -an|an|S
+radiolocation	noun	radio|radio|R|N ; locate|locat|R|V ; -ion|ion|S
+radiolocator	noun	radio|radio|R|N ; locate|locat|R|V ; -or|or|S
+radiolucency	noun	radio|radio|R|N ; lucent|luc|R|Adj ; -ency|ency|S
+radiolucent	adj	radio|radio|R|N ; lucent|lucent|R|Adj
+radiolysis	noun	radio|radio|R|N ; lysis|lysis|R|N
+radiolytic	adj	radio|radio|R|N ; lytic|lytic|R|Adj
+radiometallography	noun	radiometallography|radiometallography|R|N
+radiometry	noun	radiometry|radiometry|R|N
+radiomimetic	adj	radio|radio|R|N ; mimetic|mimetic|R|Adj
+radionavigation	noun	radio|radio|R|N ; navigate|navigat|R|V ; -ion|ion|S
+radiopacity	noun	radio|radi|R|N ; opaque|opac|R|Adj ; -ity|ity|S
+radiopaque	adj	radio|radi|R|N ; opaque|opaque|R|Adj
+radiophare	noun	radiophare|radiophare|R|N
+radiopharmaceutical	noun	radio|radio|R|N ; pharmaceutical|pharmaceutical|R|Adj
+radiophone	noun	radio|radio|R|N ; phone|phone|R|N
+radiophonic	adj	radio|radio|R|N ; phonic|phonic|R|Adj
+radiophony	noun	radiophony|radiophony|R|N
+radiophosphorus	noun	radio|radio|R|N ; phosphorus|phosphorus|R|N
+radiophotography	noun	radio|radio|R|N ; photography|photography|R|N
+radiophotoluminescence	noun	radio|radio|R|N ; photoluminescence|photoluminescence|R|N
+radiophysics	noun	radio|radio|R|N ; physics|physics|R|N
+radioplay	noun	radio|radio|R|N ; play|play|R|N
+radioprotective	adj	radio|radio|R|N ; protect|protect|R|V ; -ive|ive|S
+radiopurity	noun	radio|radio|R|N ; pure|pur|R|Adj ; -ity|ity|S
+radioresistant	adj	radio|radio|R|N ; resist|resist|R|V ; -ant|ant|S
+radioscope	noun	radio|radio|R|N ; scope|scope|R|N
+radioscopic	adj	radio|radio|R|N ; scope|scop|R|N ; -ic|ic|S
+radioscopy	noun	radioscopy|radioscopy|R|N
+radiosensitive	adj	radio|radio|R|N ; sense|sens|R|N ; -itive|itive|S
+radiosensitivity	noun	radio|radio|R|N ; sense|sens|R|N ; -itive|itiv|S ; -ity|ity|S
+radiosonde	noun	radio|radio|R|N ; sonde|sonde|R|N
+radiosurgery	noun	radio|radio|R|N ; surgery|surgery|R|N
+radiosymmetrical	adj	radio|radio|R|N ; symmetric|symmetric|R|Adj ; -al|al|S
+radiotelegram	noun	radio|radio|R|N ; telegram|telegram|R|N
+radiotelegraph	verb	radio|radio|R|N ; telegraph|telegraph|R|N
+radiotelegraphy	noun	radio|radio|R|N ; telegraphy|telegraphy|R|N
+radiotelephone	noun	radio|radio|R|N ; telephone|telephone|R|N
+radiotelephony	noun	radio|radio|R|N ; telephony|telephony|R|N
+radiotherapeutics	noun	radio|radio|R|N ; therapeutics|therapeutics|R|N
+radiotherapist	noun	radio|radio|R|N ; therapist|therapist|R|N
+radiotolerance	noun	radio|radio|R|N ; tolerate|toler|R|V ; -ance|ance|S
+radiotracer	noun	radio|radio|R|N ; trace|trac|R|V ; -er|er|S||-er (N)
+radiotrician	noun	radiotrician|radiotrician|R|N
+radioulna	noun	radio|radio|R|N ; ulna|ulna|R|N
+radioulnar	adj	radio|radio|R|N ; ulna|uln|R|N ; -ar|ar|S
+radix	noun	radix|radix|R|N
+radome	noun	radome|radome|R|N
+radula	noun	radula|radula|R|N
+rafale	noun	rafale|rafale|R|N
+raffinate	noun	raffinate|raffinate|R|N
+raffishly	adv	raffish|raffish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+raffishness	noun	raffish|raffish|R|Adj ; -ness|ness|S
+rafflesia	noun	rafflesia|rafflesia|R|N
+raftsman	noun	raft|rafts|R|N ; man|man|R|N
+ragdoll	noun	rag|rag|R|N ; doll|doll|R|N
+ragebait	noun	rage|rage|R|N ; bait|bait|R|N
+ragequit	verb	rage|rage|R|N ; quit|quit|R|V
+raggedness	noun	ragged|ragged|R|Adj ; -ness|ness|S
+raglet	noun	rag|rag|R|N ; -let|let|S
+ragman	noun	rag|rag|R|N ; man|man|R|N
+ragpicker	noun	rag|rag|R|N ; pick|pick|R|V ; -er|er|S||-er (N)
+ragstone	noun	rag|rag|R|N ; stone|stone|R|N
+ragworm	noun	rag|rag|R|N ; worm|worm|R|N
+railage	noun	rail|rail|R|N ; -age|age|S
+railer	noun	rail|rail|R|V ; -er|er|S||-er (N)
+railgun	noun	rail|rail|R|N ; gun|gun|R|N
+raillery	noun	rail|raill|R|V ; -ery|ery|S
+railroader	noun	rail|rail|R|N ; road|road|R|N ; -er|er|S||-er (N)
+railroading	noun	rail|rail|R|N ; road|road|R|N ; -ing|ing|S||-ing (N)
+railwaywoman	noun	rail|rail|R|N ; way|way|R|N ; woman|woman|R|N
+rainbird	noun	rain|rain|R|N ; bird|bird|R|N
+rainily	adv	rainy|raini|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+raininess	noun	rainy|raini|R|Adj ; -ness|ness|S
+raining	verb	rain|rain|R|V ; -ing|ing|I||-ing (v)
+rainproof	adj	rain|rain|R|N ; proof|proof|R|N
+rains	noun	rain|rain|R|N ; -s|s|I||-s (plural)
+rainstick	noun	rain|rain|R|N ; stick|stick|R|N
+raintight	adj	rain|rain|R|N ; tight|tight|R|Adj
+rainwear	noun	rain|rain|R|N ; wear|wear|R|N
+raion	noun	raion|raion|R|N
+raker	noun	rake|rak|R|V ; -er|er|S||-er (N)
+rakhi	noun	rakhi|rakhi|R|N
+rakija	noun	rakija|rakija|R|N
+rakishness	noun	rakish|rakish|R|Adj ; -ness|ness|S
+rakshasa	noun	rakshasa|rakshasa|R|N
+rale	noun	rale|rale|R|N
+rallentando	noun	rallentando|rallentando|R|N
+ralline	adj	ralline|ralline|R|Adj
+rallycross	noun	rally|rally|R|N ; cross|cross|R|N
+rallyingly	adv	rally|rally|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+ramal	adj	ramus|ram|R|N ; -al|al|S
+rambutan	noun	rambutan|rambutan|R|N
+ramen	noun	ramen|ramen|R|N
+ramiferous	adj	ramiferous|ramiferous|R|Adj
+ramiflorous	adj	ramiflorous|ramiflorous|R|Adj
+ramiform	adj	ramiform|ramiform|R|Adj
+ramigerous	adj	ramigerous|ramigerous|R|Adj
+rammer	noun	ram|ramm|R|V ; -er|er|S||-er (N)
+ramming	verb	ram|ramm|R|V ; -ing|ing|I||-ing (v)
+rammish	adj	ram|ramm|R|N ; -ish|ish|S
+ramoconidium	noun	ramoconidium|ramoconidium|R|N
+ramose	adj	ram|ram|R|N ; -ose|ose|S
+rampageous	adj	rampage|rampage|R|V ; -ous|ous|S
+rampageously	adv	rampage|rampage|R|V ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+rampageousness	noun	rampage|rampage|R|V ; -ous|ous|S ; -ness|ness|S
+rampancy	noun	rampant|rampanc|R|Adj ; -cy|y|S
+rampion	noun	rampion|rampion|R|N
+ramraid	noun	ram|ram|R|V ; raid|raid|R|N
+rams	noun	ram|ram|R|N ; -s|s|I||-s (plural)

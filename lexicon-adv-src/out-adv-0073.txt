@@ -1,0 +1,150 @@
+beatify	verb	=
+medievalist	noun	=
+paterfamilias	noun	=
+abracadabra	noun	=
+vaporization	noun	=
+chocolatier	noun	=
+sermonize	verb	=
+flagellation	noun	=
+neurosurgical	adj	=
+abolitionism	noun	=
+chanter	noun	=
+immutability	noun	=
+carcinogenicity	noun	=
+tetrachloride	noun	=
+microelectronic	adj	=
+sanctimony	noun	sanct-|sanct|B|Adj|||Latin sanctus 'holy' ; -imony|imony|S||||Latin -monia 'action, result'
+herbage	noun	=
+tubercle	noun	=
+cine	noun	=
+photosensitive	adj	photo-|photo|B|N|||Greek phos 'light' ; sensitive|sensitive|R|Adj
+pruritus	noun	=
+quadruped	noun	quadri-|quadru|P||||Latin quadri- 'four' ; -ped|ped|B|N|||Latin pes 'foot'
+superfluity	noun	=
+autoantibody	noun	=
+transduction	noun	trans-|trans|P||||Latin trans 'across' ; -duc-|duc|B|V|||Latin ducere 'to lead' ; -tion|tion|S||||Latin -tio 'act, state'
+artificer	noun	=
+acceptor	noun	=
+evanescence	noun	=
+pusillanimous	adj	=
+communistic	adj	=
+tubule	noun	=
+theodicy	noun	theo-|theo|B|N|||Greek theos 'god' ; -dic-|dic|B|N|||Greek dike 'justice' ; -y|y|S||||Greek -ia 'state, quality'
+rhabdomyosarcoma	noun	=
+hortatory	adj	=
+stacker	noun	=
+testis	noun	=
+autodidact	noun	auto-|auto|P||||Greek autos 'self' ; -didact|didact|B|V|||Greek didaskein 'to teach'
+hawser	noun	=
+tympanum	noun	=
+precipitator	noun	=
+reformism	noun	=
+dendritic	adj	dendr-|dendr|B|N|||Greek dendron 'tree' ; -it-|it|S||||Greek -ites 'relating to' ; -ic|ic|S||||Greek -ikos 'relating to'
+cytotoxic	adj	cyto-|cyto|B|N|||Greek kytos 'cell' ; -tox-|tox|B|N|||Greek toxon 'poison' ; -ic|ic|S||||Greek -ikos 'relating to'
+doxology	noun	doxo-|doxo|B|N|||Greek doxa 'glory' ; -logy|logy|B|N|||Greek logos 'study, word'
+screensaver	noun	=
+bourse	noun	=
+ferrule	noun	=
+chitin	noun	=
+fluvial	adj	fluvi-|fluvi|B|V|||Latin fluere 'to flow' ; -al|al|S||||Latin -alis 'relating to'
+somnolence	noun	=
+indigenization	noun	=
+politesse	noun	=
+munificence	noun	mun-|mun|B|N|||Latin munus 'gift' ; -ific-|ific|B|V|||Latin facere 'to make' ; -ence|ence|S||||Latin -entia 'state, quality'
+leprous	adj	=
+hypo	noun	=
+oryx	noun	=
+choleric	adj	=
+centipede	noun	centi-|centi|P||||Latin centi- 'hundred' ; -pede|pede|B|N|||Latin pes 'foot'
+ammonite	noun	=
+eccentrically	adv	=
+surplice	noun	=
+ecclesiastic	noun	=
+astrobiologist	noun	=
+pleurisy	noun	=
+plangent	adj	=
+bioluminescent	adj	bio-|bio|B|N|||Greek bios 'life' ; luminescent|luminescent|R|Adj
+copolymer	noun	=
+ambulate	verb	ambul-|ambul|B|V|||Latin ambulare 'to walk' ; -ate|ate|S||||Latin -atus 'verb-forming'
+hyperextension	noun	=
+blaspheme	verb	=
+iterate	verb	=
+coagulant	noun	coagul-|coagul|B|V|||Latin coagulare 'to thicken' ; -ant|ant|S||||Latin -ans 'present participle'
+geniality	noun	=
+stupefaction	noun	=
+encourager	noun	=
+endometrium	noun	endo-|endo|P||||Greek endo- 'inner' ; -metr-|metr|B|N|||Greek metrion 'of a mother' ; -ium|ium|S||||Latin -ium 'noun-forming'
+hubristic	adj	=
+effluvium	noun	ef-|ef|P||||Latin ex- 'out of' ; -fluv-|fluv|B|V||flu|Latin fluere 'to flow' ; -ium|ium|S||||Latin -ium 'noun-forming'
+scapular	adj	scapul-|scapul|B|N|||Latin scapula 'shoulder' ; -ar|ar|S
+subvention	noun	sub-|sub|P||||Latin sub 'under' ; -vent-|vent|B|V|||Latin venire 'to come' ; -ion|ion|S||||Latin -io 'act, state'
+purpura	noun	=
+preeminent	adj	pre-|pre|P||||Latin prae- 'before' ; -emin-|emin|B|V|||Latin eminere 'to stand out' ; -ent|ent|S||||Latin -ens 'present participle'
+schizoid	adj	schiz-|schiz|B|V|||Greek skhizein 'to split' ; -oid|oid|S||||Greek -eides 'form, likeness'
+imbecility	noun	=
+agonistic	adj	=
+laminar	adj	=
+antinomy	noun	=
+trigeminal	adj	tri-|tri|P||||Latin tri- 'three' ; -gemin-|gemin|B|Adj|||Latin geminus 'twin, double' ; -al|al|S||||Latin -alis 'relating to'
+vacuity	noun	=
+bacchanal	noun	=
+saltpetre	noun	=
+denotation	noun	de-|de|P||||Latin de- 'completely' ; -not-|not|B|V|||Latin notare 'to mark' ; -ation|ation|S||||Latin -atio 'act, state'
+cardiothoracic	adj	cardio-|cardio|B|N|||Greek kardia 'heart' ; thoracic|thoracic|R|Adj
+purgation	noun	=
+cannelloni	noun	=
+apophatic	adj	=
+ferric	adj	ferr-|ferr|B|N|||Latin ferrum 'iron' ; -ic|ic|S||||Latin -icus 'relating to'
+suppurate	verb	sup-|sup|P||||Latin sub- 'under' ; -pur-|pur|B|N|||Latin pus 'pus' ; -ate|ate|S||||Latin -atus 'verb-forming'
+lapidary	adj	=
+halitosis	noun	=
+lecithin	noun	=
+decennial	adj	dec-|dec|P||||Latin decem 'ten' ; -enn-|enn|B|N||ann|Latin annus 'year' ; -ial|ial|S||||Latin -ialis 'relating to'
+basilisk	noun	=
+derogate	verb	=
+sciatica	noun	=
+candelabrum	noun	=
+interleukin	noun	inter-|inter|P||||Latin inter 'between' ; -leuk-|leuk|B|N|||Greek leukos 'white' ; -in|in|S||||Greek -ine 'chemical substance'
+pantaloons	noun	=
+decoction	noun	de-|de|P||||Latin de- 'down' ; -coct-|coct|B|V||coqu|Latin coquere 'to cook' ; -ion|ion|S||||Latin -io 'act, state'
+imposture	noun	=
+caudillo	noun	=
+corbel	noun	=
+petrify	verb	petr-|petr|B|N|||Latin petra 'rock' ; -ify|ify|S||||Latin -ficare 'to make'
+hemodialysis	noun	hemo-|hemo|B|N|||Greek haima 'blood' ; -dia-|dia|P||||Greek dia 'through' ; -lysis|lysis|B|V|||Greek lyein 'to loose'
+enchanter	noun	en-|en|P||||Latin in- 'upon' ; -chant-|chant|B|V|||Latin cantare 'to sing' ; -er|er|S
+conceptualist	noun	=
+cerebrum	noun	=
+pictogram	noun	picto-|picto|B|V|||Latin pictus 'painted' ; -gram|gram|B|N|||Greek gramma 'letter'
+belladonna	noun	=
+empiric	adj	empir-|empir|B|N|||Greek empeiria 'experience' ; -ic|ic|S||||Greek -ikos 'relating to'
+catalysis	noun	cata-|cata|P||||Greek kata 'down' ; -lysis|lysis|B|V|||Greek lyein 'to loose'
+cautery	noun	=
+scriptorium	noun	script-|script|B|V|||Latin scribere 'to write' ; -orium|orium|S||||Latin -orium 'place'
+assonance	noun	as-|as|P||||Latin ad- 'to' ; -son-|son|B|V|||Latin sonare 'to sound' ; -ance|ance|S||||Latin -antia 'state, quality'
+experiencer	noun	=
+consigliere	noun	=
+armamentarium	noun	=
+percept	noun	per-|per|P||||Latin per 'through' ; -cept|cept|B|V|||Latin capere 'to take'
+puffery	noun	=
+parvenu	noun	=
+spinney	noun	=
+ablative	adj	ab-|ab|P||||Latin ab 'away' ; -lat-|lat|B|V|||Latin ferre 'to carry' ; -ive|ive|S||||Latin -ivus 'tending to'
+fibril	noun	fibr-|fibr|B|N|||Latin fibra 'fibre' ; -il|il|S||||Latin -illa 'diminutive'
+ramify	verb	ram-|ram|B|N|||Latin ramus 'branch' ; -ify|ify|S||||Latin -ficare 'to make'
+lambent	adj	=
+proconsul	noun	=
+castellated	adj	=
+gasohol	noun	=
+perspicacity	noun	per-|per|P||||Latin per 'through' ; -spic-|spic|B|V|||Latin specere 'to see' ; -acity|acity|S||||Latin -acitas 'state, quality'
+medulla	noun	=
+pellucid	adj	=
+pone	noun	=
+monotonic	adj	mono-|mono|P||||Greek monos 'one' ; -ton-|ton|B|N|||Greek tonos 'tone' ; -ic|ic|S||||Greek -ikos 'relating to'
+quadrature	noun	=
+plasm	noun	=
+revetment	noun	re-|re|P||||Latin re- 'again' ; -vet-|vet|B|V|||Latin vestire 'to clothe' ; -ment|ment|S||||Latin -mentum 'result'
+debunker	noun	=
+tomfoolery	noun	=
+androstenedione	noun	=
+dualist	noun	=

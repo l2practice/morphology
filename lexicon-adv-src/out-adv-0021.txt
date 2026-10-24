@@ -1,0 +1,150 @@
+energetic	adj	=
+susceptible	adj	=
+mercury	noun	=
+skepticism	noun	=
+incomplete	adj	=
+laborer	noun	=
+immunity	noun	=
+speculative	adj	=
+chess	noun	=
+dedication	noun	=
+tornado	noun	=
+sinister	adj	=
+diversion	noun	=
+sperm	noun	=
+sedan	noun	=
+irrigation	noun	=
+extinction	noun	=
+rein	noun	=
+cabbage	noun	=
+suffice	verb	suf-|suf|P|||sub-|Latin sub 'under' ; -fice|fice|B|V||fac|Latin facere 'to do'
+impetus	noun	im-|im|P|||in-|Latin in- 'upon' ; -petus|petus|B|V|||Latin petere 'to seek'
+prevalent	adj	pre-|pre|P||||Latin prae 'before' ; -valent|valent|B|Adj|||Latin valere 'to be strong'
+benign	adj	ben-|ben|P||||Latin bene 'well' ; -ign|ign|B|N||gen|Latin genus 'kind'
+climax	noun	=
+imitation	noun	=
+optimal	adj	optim-|optim|B|Adj|||Latin optimus 'best' ; -al|al|S||||Latin -alis, 'relating to'
+preclude	verb	=
+irritation	noun	=
+staple	noun	=
+autobiography	noun	=
+deduction	noun	=
+irregular	adj	=
+whiskey	noun	=
+alas	interj	=
+lavatory	noun	=
+tester	noun	=
+canopy	noun	=
+impatient	adj	=
+merchandise	noun	=
+negotiator	noun	=
+deception	noun	=
+herald	noun	=
+excel	verb	=
+fungus	noun	=
+astronomical	adj	=
+compass	noun	=
+disparity	noun	=
+spacious	adj	=
+intercept	verb	=
+severity	noun	=
+acceleration	noun	=
+dire	adj	=
+honorable	adj	=
+pave	verb	=
+radius	noun	=
+infectious	adj	=
+novice	noun	nov-|nov|B|Adj|||Latin novus 'new' ; -ice|ice|S||||Latin -icius, 'relating to'
+plaza	noun	=
+activism	noun	=
+tactical	adj	=
+qualitative	adj	=
+contradictory	adj	=
+myriad	noun	=
+necessitate	verb	=
+residual	adj	=
+metro	noun	=
+crap	noun	=
+equate	verb	equ-|equ|B|Adj|||Latin aequus 'equal' ; -ate|ate|S||||Latin -atus, 'verb-forming'
+stew	noun	=
+antenna	noun	=
+maternity	noun	=
+abusive	adj	=
+sovereign	noun	=
+cannon	noun	=
+ethic	noun	=
+purity	noun	=
+pastoral	adj	=
+thermal	adj	=
+precinct	noun	=
+navigation	noun	=
+estuary	noun	=
+scarlet	noun	=
+prophet	noun	=
+dental	adj	dent-|dent|B|N|||Latin dens 'tooth' ; -al|al|S||||Latin -alis, 'relating to'
+obesity	noun	=
+affluent	adj	af-|af|P|||ad-|Latin ad- 'to' ; -flu-|flu|B|V|||Latin fluere 'to flow' ; -ent|ent|S||||Latin -ens, 'agent'
+terminology	noun	termin-|termin|B|N|||Latin terminus 'term' ; -ology|ology|B|N|||Greek logos 'study, word'
+exacerbate	verb	=
+tangible	adj	=
+feat	noun	=
+militant	adj	=
+defective	adj	=
+mortar	noun	=
+deterrent	noun	=
+dialect	noun	=
+attic	noun	=
+infer	verb	=
+moustache	noun	=
+populate	verb	popul-|popul|B|N|||Latin populus 'people' ; -ate|ate|S||||Latin -atus, 'verb-forming'
+maneuver	noun	=
+probation	noun	=
+masculine	adj	=
+registrar	noun	=
+jumper	noun	=
+pirate	noun	=
+imposition	noun	=
+allergy	noun	all-|all|B|Adj|||Greek allos 'other' ; -erg-|erg|B|N|||Greek ergon 'work' ; -y|y|S||||Greek -ia, 'condition'
+provocative	adj	=
+burglary	noun	=
+dart	noun	=
+recurrent	adj	=
+levy	noun	=
+freezer	noun	=
+induction	noun	=
+delta	noun	=
+adversary	noun	=
+subsidize	verb	=
+exemplify	verb	=
+puppet	noun	=
+intricate	adj	=
+claimant	noun	=
+chamberlain	noun	=
+construe	verb	=
+renovation	noun	=
+mural	noun	=
+glue	noun	=
+excise	noun	=
+burglar	noun	=
+visibility	noun	=
+diaper	noun	=
+microscope	noun	micro-|micro|B|Adj|||Greek mikros 'small' ; -scope|scope|B|V|||Greek skopein 'to look at'
+parasite	noun	=
+theatrical	adj	=
+turbine	noun	=
+frenzy	noun	=
+latent	adj	=
+veto	noun	=
+foliage	noun	=
+focal	adj	=
+archaeology	noun	=
+insurgent	noun	in-|in|P||||Latin in 'against' ; -surg-|surg|B|V|||Latin surgere 'to rise' ; -ent|ent|S||||Latin -ens, 'agent'
+veil	noun	=
+traumatic	adj	=
+crusade	noun	=
+deposition	noun	=
+scripture	noun	=
+competency	noun	=
+torso	noun	=
+nobility	noun	=
+penal	adj	=

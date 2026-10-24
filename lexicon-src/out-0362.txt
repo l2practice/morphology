@@ -1,0 +1,200 @@
+protogen	noun	protogen|protogen|R|N
+protogenesis	noun	protogenesis|protogenesis|R|N
+protogenic	adj	protogen|protogen|R|N ; -ic|ic|S
+protohistory	noun	protohistory|protohistory|R|N
+protohuman	noun	protohuman|protohuman|R|N
+protolithic	adj	protolith|protolith|R|N ; -ic|ic|S
+protologism	noun	protology|protolog|R|N ; -ism|ism|S
+protolysis	noun	protolysis|protolysis|R|N
+protomartyr	noun	protomartyr|protomartyr|R|N
+protomerite	noun	protomerite|protomerite|R|N
+protomorphic	adj	protomorph|protomorph|R|N ; -ic|ic|S
+protonate	verb	proton|proton|R|N ; -ate|ate|S
+protonema	noun	protonema|protonema|R|N
+protonephridial	adj	protonephridium|protonephridi|R|N ; -al|al|S
+protonephridium	noun	protonephridium|protonephridium|R|N
+protonic	adj	proton|proton|R|N ; -ic|ic|S
+protopathic	adj	protopathic|protopathic|R|Adj
+protoperithecium	noun	protoperithecium|protoperithecium|R|N
+protophyte	noun	protophyte|protophyte|R|N
+protoplanetary	adj	protoplanet|protoplanet|R|N ; -ary|ary|S
+protoplasmatic	adj	protoplasmatic|protoplasmatic|R|Adj
+protoplasmic	adj	protoplasm|protoplasm|R|N ; -ic|ic|S
+protoplast	noun	protoplast|protoplast|R|N
+protoplastic	adj	protoplast|protoplast|R|N ; -ic|ic|S
+protopod	noun	protopod|protopod|R|N
+protostele	noun	protostele|protostele|R|N
+protostome	noun	protostome|protostome|R|N
+prototroph	noun	prototroph|prototroph|R|N
+prototypal	adj	prototype|prototyp|R|N ; -al|al|S
+protozoal	adj	protozoa|protozo|R|N ; -al|al|S
+protozoic	adj	protozoa|protozo|R|N ; -ic|ic|S
+protozoological	adj	protozoology|protozoolog|R|N ; -ical|ical|S
+protozoologist	noun	protozoology|protozoolog|R|N ; -ist|ist|S
+protozoology	noun	protozoology|protozoology|R|N
+protozoon	noun	protozoon|protozoon|R|N
+protractedly	adv	protract|protract|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+protractedness	noun	protract|protract|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+protractile	adj	protractile|protractile|R|Adj
+protractility	noun	protractile|protractil|R|Adj ; -ity|ity|S
+protraction	noun	protract|protract|R|V ; -ion|ion|S
+protractive	adj	protract|protract|R|V ; -ive|ive|S
+protrusile	adj	protrusile|protrusile|R|Adj
+protrusive	adj	protrude|protrus|R|V ; -ive|ive|S
+protrusively	adv	protrude|protrus|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+protrusiveness	noun	protrude|protrus|R|V ; -ive|ive|S ; -ness|ness|S
+protuberantly	adv	protuberant|protuberant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+proudling	noun	proud|proud|R|Adj ; -ling|ling|S
+provability	noun	prove|prov|R|V ; -able|abil|S ; -ity|ity|S
+provableness	noun	prove|prov|R|V ; -able|able|S ; -ness|ness|S
+provably	adv	prove|prov|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+provenly	adv	proven|proven|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+prover	noun	prove|prov|R|V ; -er|er|S||-er (N)
+proverbialism	noun	proverb|proverb|R|N ; -ial|ial|S ; -ism|ism|S
+proverbialist	noun	proverb|proverb|R|N ; -ial|ial|S ; -ist|ist|S
+proviant	noun	proviant|proviant|R|N
+providentialism	noun	providence|providenti|R|N ; -al|al|S ; -ism|ism|S
+providently	adv	provident|provident|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+providentness	noun	provident|provident|R|Adj ; -ness|ness|S
+provinces	noun	province|provinc|R|N ; -es|es|I||-s (plural)
+provincialist	noun	province|provinc|R|N ; -ial|ial|S ; -ist|ist|S
+provincialization	noun	provincialize|provincializ|R|V ; -ation|ation|S
+provincialize	verb	province|provinc|R|N ; -ial|ial|S ; -ize|ize|S
+provisionality	noun	provision|provision|R|N ; -al|al|S ; -ity|ity|S
+provisionalness	noun	provision|provision|R|N ; -al|al|S ; -ness|ness|S
+provisioner	noun	provision|provision|R|N ; -er|er|S||-er (N)
+provisionless	adj	provision|provision|R|N ; -less|less|S
+provisionment	noun	provision|provision|R|N ; -ment|ment|S
+provisor	noun	pro-|pro|P ; vis|vis|B|V ; -or|or|S
+provisory	adj	pro-|pro|P ; vis|vis|B|V ; -ory|ory|S
+provitamin	noun	pro-|pro|P ; vitamin|vitamin|R|N
+provocativeness	noun	provoke|provoc|R|V ; -ative|ative|S ; -ness|ness|S
+provoker	noun	provoke|provok|R|V ; -er|er|S||-er (N)
+provokingly	adv	provoke|provok|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+provostship	noun	provost|provost|R|N ; -ship|ship|S
+prowfish	noun	prow|prow|R|N ; fish|fish|R|N
+prox	noun	prox|prox|R|N
+proxemics	noun	proxemics|proxemics|R|N
+proximad	adv	proximad|proximad|R|Adv
+proximately	adv	proximate|proximate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+proximateness	noun	proximate|proximate|R|Adj ; -ness|ness|S
+proximo	noun	proximo|proximo|R|N
+prudentially	adv	prudence|prudenti|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+prudishly	adv	prude|prud|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+pruinose	adj	pruinose|pruinose|R|Adj
+prunello	noun	prunello|prunello|R|N
+pruniform	adj	pruniform|pruniform|R|Adj
+pruno	noun	pruno|pruno|R|N
+pruriency	noun	prurient|pruri|R|Adj ; -ency|ency|S
+pruriently	adv	prurient|prurient|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pruriginous	adj	pruriginous|pruriginous|R|Adj
+prurigo	noun	prurigo|prurigo|R|N
+pruritic	adj	pruritus|prurit|R|N ; -ic|ic|S
+prusik	noun	prusik|prusik|R|N
+prussic	adj	prussic|prussic|R|Adj
+pryer	noun	pry|pry|R|V ; -er|er|S||-er (N)
+pryingly	adv	pry|pry|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+psalmodic	adj	psalmody|psalmod|R|N ; -ic|ic|S
+psalmodist	noun	psalmody|psalmod|R|N ; -ist|ist|S
+psalmodize	verb	psalmody|psalmod|R|N ; -ize|ize|S
+psalmody	noun	psalmody|psalmody|R|N
+psalterium	noun	psalterium|psalterium|R|N
+psaltery	noun	psaltery|psaltery|R|N
+psammon	noun	psammon|psammon|R|N
+psammophilous	adj	psammophilous|psammophilous|R|Adj
+psammophyte	noun	psammophyte|psammophyte|R|N
+psammosere	noun	psammosere|psammosere|R|N
+psephite	noun	psephite|psephite|R|N
+psephological	adj	psephology|psepholog|R|N ; -ical|ical|S
+psephologist	noun	psephology|psepholog|R|N ; -ist|ist|S
+psephology	noun	psephology|psephology|R|N
+pseud	noun	pseud|pseud|R|N
+pseudepigrapha	noun	pseudepigrapha|pseudepigrapha|R|N
+pseudepigraphy	noun	pseudepigraphy|pseudepigraphy|R|N
+pseudoallele	noun	pseudo-|pseudo|P ; allele|allele|R|N
+pseudoallelic	adj	pseudo-|pseudo|P ; allele|allel|R|N ; -ic|ic|S
+pseudoallelism	noun	pseudo-|pseudo|P ; allele|allel|R|N ; -ism|ism|S
+pseudoaquatic	adj	pseudo-|pseudo|P ; aquatic|aquatic|R|Adj
+pseudobivalent	adj	pseudo-|pseudo|P ; bivalent|bivalent|R|Adj
+pseudobranch	noun	pseudo-|pseudo|P ; branch|branch|R|N
+pseudobulbous	adj	pseudo-|pseudo|P ; bulbous|bulbous|R|Adj
+pseudocapsule	noun	pseudo-|pseudo|P ; capsule|capsule|R|N
+pseudocarp	noun	pseudo-|pseudo|P ; carp|carp|R|N
+pseudocarpous	adj	pseudo-|pseudo|P ; carp|carp|R|N ; -ous|ous|S
+pseudocellus	noun	pseudocellus|pseudocellus|R|N
+pseudocereal	noun	pseudo-|pseudo|P ; cereal|cereal|R|N
+pseudocode	noun	pseudo-|pseudo|P ; code|code|R|N
+pseudocoel	noun	pseudocoel|pseudocoel|R|N
+pseudocoelomate	noun	pseudo-|pseudo|P ; coelom|coelom|R|N ; -ate|ate|S
+pseudocolumella	noun	pseudo-|pseudo|P ; columella|columella|R|N
+pseudocone	noun	pseudo-|pseudo|P ; cone|cone|R|N
+pseudoconformal	adj	pseudo-|pseudo|P ; conformal|conformal|R|Adj
+pseudocyesis	noun	pseudo-|pseudo|P ; cyesis|cyesis|R|N
+pseudocyst	noun	pseudo-|pseudo|P ; cyst|cyst|R|N
+pseudodemocracy	noun	pseudo-|pseudo|P ; democracy|democracy|R|N
+pseudodominance	noun	pseudo-|pseudo|P ; dominant|domin|R|Adj ; -ance|ance|S
+pseudoepiphyte	noun	pseudo-|pseudo|P ; epiphyte|epiphyte|R|N
+pseudofolliculitis	noun	pseudo-|pseudo|P ; folliculitis|folliculitis|R|N
+pseudofossil	noun	pseudo-|pseudo|P ; fossil|fossil|R|N
+pseudogamic	adj	pseudo-|pseudo|P ; gamic|gamic|R|Adj
+pseudogap	noun	pseudo-|pseudo|P ; gap|gap|R|N
+pseudogene	noun	pseudo-|pseudo|P ; gene|gene|R|N
+pseudogout	noun	pseudo-|pseudo|P ; gout|gout|R|N
+pseudograph	noun	pseudo-|pseudo|P ; graph|graph|R|N
+pseudohypoparathyroidism	noun	pseudo-|pseudo|P ; hypo-|hypo|P ; para-|para|P ; thyroid|thyroid|R|N ; -ism|ism|S
+pseudomembrane	noun	pseudo-|pseudo|P ; membrane|membrane|R|N
+pseudomitosis	noun	pseudo-|pseudo|P ; mitosis|mitosis|R|N
+pseudomorph	noun	pseudo-|pseudo|P ; morph|morph|R|N
+pseudomorphism	noun	pseudo-|pseudo|P ; morph|morph|R|N ; -ism|ism|S
+pseudomorphous	adj	pseudo-|pseudo|P ; morph|morph|R|N ; -ous|ous|S
+pseudonymity	noun	pseudonym|pseudonym|R|N ; -ity|ity|S
+pseudonymously	adv	pseudonym|pseudonym|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+pseudonymousness	noun	pseudonym|pseudonym|R|N ; -ous|ous|S ; -ness|ness|S
+pseudoparticle	noun	pseudo-|pseudo|P ; particle|particle|R|N
+pseudoperiodic	adj	pseudo-|pseudo|P ; period|period|R|N ; -ic|ic|S
+pseudopregnancy	noun	pseudo-|pseudo|P ; pregnant|pregnan|R|Adj ; -cy|cy|S
+pseudoprophet	noun	pseudo-|pseudo|P ; prophet|prophet|R|N
+pseudopseudohypoparathyroidism	noun	pseudo-|pseudo|P ; pseudo-|pseudo|P ; hypo-|hypo|P ; para-|para|P ; thyroid|thyroid|R|N ; -ism|ism|S
+pseudorandom	adj	pseudo-|pseudo|P ; random|random|R|Adj
+pseudoreferendum	noun	pseudo-|pseudo|P ; referendum|referendum|R|N
+pseudoscientific	adj	pseudo-|pseudo|P ; sci-|sci|B|V ; -ent|ent|S ; -ific|ific|S
+pseudoscientifically	adv	pseudo-|pseudo|P ; sci-|sci|B|V ; -ent|ent|S ; -ific|ific|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+pseudoscientist	noun	pseudo-|pseudo|P ; sci-|sci|B|V ; -ent|ent|S ; -ist|ist|S
+pseudoscorpion	noun	pseudo-|pseudo|P ; scorpion|scorpion|R|N
+pseudosphere	noun	pseudo-|pseudo|P ; sphere|sphere|R|N
+pseudospherical	adj	pseudo-|pseudo|P ; sphere|spher|R|N ; -ical|ical|S
+pseudovector	noun	pseudo-|pseudo|P ; vector|vector|R|N
+pseudovirtuous	adj	pseudo-|pseudo|P ; virtue|virtu|R|N ; -ous|ous|S
+pseudoword	noun	pseudo-|pseudo|P ; word|word|R|N
+pshaw	interj	pshaw|pshaw|R
+psilanthropism	noun	psilanthropy|psilanthrop|R|N ; -ism|ism|S
+psilanthropist	noun	psilanthropy|psilanthrop|R|N ; -ist|ist|S
+psilanthropy	noun	psilanthropy|psilanthropy|R|N
+psilosis	noun	psilosis|psilosis|R|N
+psionic	adj	psionic|psionic|R|Adj
+psittacine	adj	psittacine|psittacine|R|Adj
+psittacosis	noun	psittacosis|psittacosis|R|N
+psittacotic	adj	psittacotic|psittacotic|R|Adj
+psocopteran	noun	psocopteran|psocopteran|R|N
+psoriatic	adj	psoriasis|psoriat|R|N ; -ic|ic|S
+psst	interj	psst|psst|R
+psychasthenia	noun	psychasthenia|psychasthenia|R|N
+psychasthenic	adj	psychasthenia|psychasthen|R|N ; -ic|ic|S
+psychedelically	adv	psychedelic|psychedelic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+psychiatrical	adj	psychiatric|psychiatric|R|Adj ; -al|al|S
+psychicism	noun	psychic|psychic|R|Adj ; -ism|ism|S
+psychoanalytically	adv	psychoanalytic|psychoanalytic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+psychohistory	noun	psychohistory|psychohistory|R|N
+psycholinguistics	noun	psycholinguistics|psycholinguistics|R|N
+psychologic	adj	psychology|psycholog|R|N ; -ic|ic|S
+psychologism	noun	psychology|psycholog|R|N ; -ism|ism|S
+psychologize	verb	psychology|psycholog|R|N ; -ize|ize|S
+psychomancy	noun	psychomancy|psychomancy|R|N
+psychometrical	adj	psychometry|psychometr|R|N ; -ical|ical|S
+psychometry	noun	psychometry|psychometry|R|N
+psychomotor	adj	psychomotor|psychomotor|R|Adj
+psychomotricity	noun	psychomotricity|psychomotricity|R|N
+psychonaut	noun	psychonaut|psychonaut|R|N
+psychoneurosis	noun	psychoneurosis|psychoneurosis|R|N
+psychoneurotic	adj	psychoneurosis|psychoneurot|R|N ; -ic|ic|S
+psychoonomastics	noun	psychoonomastics|psychoonomastics|R|N

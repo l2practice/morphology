@@ -1,0 +1,200 @@
+ladling	verb	ladle|ladl|R|V ; -ing|ing|I||-ing (v)
+ladrone	noun	ladrone|ladrone|R|N
+ladyboy	noun	lady|lady|R|N ; boy|boy|R|N
+ladyfinger	noun	lady|lady|R|N ; finger|finger|R|N
+ladyish	adj	lady|lady|R|N ; -ish|ish|S
+ladyling	noun	lady|lady|R|N ; -ling|ling|S
+ladylove	noun	lady|lady|R|N ; love|love|R|N
+laggardly	adv	laggard|laggard|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+laggardness	noun	laggard|laggard|R|Adj ; -ness|ness|S
+lagger	noun	lag|lagg|R|V ; -er|er|S||-er (N)
+laghman	noun	laghman|laghman|R|N
+lagomorph	noun	lagomorph|lagomorph|R|N
+lagomorphic	adj	lagomorph|lagomorph|R|N ; -ic|ic|S
+lah	interj	lah|lah|R
+lahar	noun	lahar|lahar|R|N
+lahmacun	noun	lahmacun|lahmacun|R|N
+lahpet	noun	lahpet|lahpet|R|N
+laic	adj	laic|laic|R|Adj
+laicism	noun	laic|laic|R|Adj ; -ism|ism|S
+laicist	noun	laic|laic|R|Adj ; -ist|ist|S
+laicization	noun	laic|laic|R|Adj ; -ize|iz|S ; -ation|ation|S
+laicize	verb	laic|laic|R|Adj ; -ize|ize|S
+laika	noun	laika|laika|R|N
+lairy	adj	lairy|lairy|R|Adj
+laitance	noun	laitance|laitance|R|N
+lakelet	noun	lake|lake|R|N ; -let|let|S
+lakh	noun	lakh|lakh|R|N
+laksa	noun	laksa|laksa|R|N
+lallapalootza	noun	lallapalootza|lallapalootza|R|N
+lallation	noun	lallation|lallation|R|N
+lallygag	verb	lallygag|lallygag|R|V
+lamaism	noun	lama|lama|R|N ; -ism|ism|S
+lamaist	noun	lama|lama|R|N ; -ist|ist|S
+lamaistic	adj	lama|lama|R|N ; -ist|ist|S ; -ic|ic|S
+lamasery	noun	lamasery|lamasery|R|N
+lamassu	noun	lamassu|lamassu|R|N
+lambdacism	noun	lambdacism|lambdacism|R|N
+lambency	noun	lambent|lamb|R|Adj ; -ency|ency|S
+lambic	adj	lambic|lambic|R|Adj
+lambkin	noun	lambkin|lambkin|R|N
+lamblike	adj	lamb|lamb|R|N ; -like|like|S
+lamebrain	noun	lame|lame|R|Adj ; brain|brain|R|N
+lamed	noun	lamed|lamed|R|N
+lamella	noun	lamella|lamella|R|N
+lamellarly	adv	lamella|lamell|R|N ; -ar|ar|S ; -ly|ly|I|Adv|-ly (adv)
+lamellation	noun	lamellate|lamell|R|V ; -ation|ation|S
+lamellibranch	noun	lamellibranch|lamellibranch|R|N
+lamellibranchiate	adj	lamellibranchiate|lamellibranchiate|R|Adj
+lamellicorn	adj	lamellicorn|lamellicorn|R|Adj
+lamelliform	adj	lamelliform|lamelliform|R|Adj
+lamentableness	noun	lament|lament|R|V ; -able|able|S ; -ness|ness|S
+lamenting	verb	lament|lament|R|V ; -ing|ing|I||-ing (v)
+lames	noun	lame|lam|R|N ; -s|es|I||-s (plural)
+lametta	noun	lametta|lametta|R|N
+lamia	noun	lamia|lamia|R|N
+laminable	adj	laminate|lamin|R|V ; -able|able|S
+laminal	adj	lamina|lamin|R|N ; -al|al|S
+laminaria	noun	laminaria|laminaria|R|N
+laminator	noun	lamina|lamin|R|N ; -ate|at|S ; -or|or|S
+laminectomy	noun	laminectomy|laminectomy|R|N
+laming	verb	lame|lam|R|V ; -ing|ing|I||-ing (v)
+lamington	noun	lamington|lamington|R|N
+laminitis	noun	laminitis|laminitis|R|N
+lammergeier	noun	lammergeier|lammergeier|R|N
+lamming	verb	lam|lamm|R|V ; -ing|ing|I||-ing (v)
+lampas	noun	lampas|lampas|R|N
+lampblack	noun	lamp|lamp|R|N ; black|black|R|Adj
+lampern	noun	lampern|lampern|R|N
+lampholder	noun	lamp|lamp|R|N ; hold|hold|R|V ; -er|er|S||-er (N)
+lampion	noun	lampion|lampion|R|N
+lampmaker	noun	lamp|lamp|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+lampooner	noun	lampoon|lampoon|R|V ; -er|er|S||-er (N)
+lampoonery	noun	lampoon|lampoon|R|V ; -ery|ery|S
+lampoonist	noun	lampoon|lampoon|R|V ; -ist|ist|S
+lampshaded	adj	lamp|lamp|R|N ; shade|shad|R|N ; -ed|ed|S||-ed (adj)
+lampshading	verb	lamp|lamp|R|N ; shade|shad|R|N ; -ing|ing|I||-ing (v)
+lampstand	noun	lamp|lamp|R|N ; stand|stand|R|N
+lanate	adj	lanate|lanate|R|Adj
+lancelet	noun	lance|lance|R|N ; -let|let|S
+lanceolate	adj	lanceolate|lanceolate|R|Adj
+lancers	noun	lance|lanc|R|V ; -er|er|S||-er (N) ; -s|s|I||-s (plural)
+lancewood	noun	lance|lance|R|N ; wood|wood|R|N
+lancinating	verb	lancinate|lancinat|R|V ; -ing|ing|I||-ing (v)
+lancing	verb	lance|lanc|R|V ; -ing|ing|I||-ing (v)
+landaulet	noun	landau|landau|R|N ; -let|let|S
+landgrave	noun	landgrave|landgrave|R|N
+landgraviate	noun	landgraviate|landgraviate|R|N
+landlessness	noun	land|land|R|N ; -less|less|S ; -ness|ness|S
+landlubbing	adj	landlubbing|landlubbing|R|Adj
+landocracy	noun	landocracy|landocracy|R|N
+landrace	noun	land|land|R|N ; race|race|R|N
+landside	noun	land|land|R|N ; side|side|R|N
+laneway	noun	lane|lane|R|N ; way|way|R|N
+langlauf	noun	langlauf|langlauf|R|N
+langos	noun	langos|langos|R|N
+langouste	noun	langouste|langouste|R|N
+langsat	noun	langsat|langsat|R|N
+langsyne	adv	langsyne|langsyne|R|Adv
+langued	adj	langued|langued|R|Adj
+languet	noun	languet|languet|R|N
+languidness	noun	languid|languid|R|Adj ; -ness|ness|S
+languishment	noun	languish|languish|R|V ; -ment|ment|S
+laniferous	adj	laniferous|laniferous|R|Adj
+lanigerous	adj	lanigerous|lanigerous|R|Adj
+lankiness	noun	lank|lank|R|Adj ; -y|i|S ; -ness|ness|S
+lansquenet	noun	lansquenet|lansquenet|R|N
+lanternfish	noun	lantern|lantern|R|N ; fish|fish|R|N
+lanthanide	noun	lanthanide|lanthanide|R|N
+lanuginose	adj	lanuginose|lanuginose|R|Adj
+lanugo	noun	lanugo|lanugo|R|N
+lapicide	noun	lapicide|lapicide|R|N
+lapidate	verb	lapidate|lapidate|R|V
+lapidation	noun	lapidation|lapidation|R|N
+lapidify	verb	lapidify|lapidify|R|V
+lapped	verb	lap|lapp|R|V ; -ed|ed|I||-ed (v2)
+lappet	noun	lappet|lappet|R|N
+lapsing	verb	lapse|laps|R|V ; -ing|ing|I||-ing (v)
+lapstrake	noun	lap|lap|R|N ; strake|strake|R|N
+lapsus	noun	lapsus|lapsus|R|N
+lapti	noun	lapti|lapti|R|N
+lar	noun	lar|lar|R|N
+larb	noun	larb|larb|R|N
+larcener	noun	larceny|larcen|R|N ; -er|er|S||-er (N)
+lardaceous	adj	lardaceous|lardaceous|R|Adj
+larded	verb	lard|lard|R|V ; -ed|ed|I||-ed (v2)
+larding	verb	lard|lard|R|V ; -ing|ing|I||-ing (v)
+lardon	noun	lardon|lardon|R|N
+lardy	adj	lard|lard|R|N ; -y|y|S
+larghetto	noun	larghetto|larghetto|R|N
+lari	noun	lari|lari|R|N
+larimar	noun	larimar|larimar|R|N
+larkiness	noun	lark|lark|R|N ; -y|i|S ; -ness|ness|S
+larking	verb	lark|lark|R|V ; -ing|ing|I||-ing (v)
+larkingly	adv	lark|lark|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+larky	adj	lark|lark|R|N ; -y|y|S
+larnax	noun	larnax|larnax|R|N
+larrikin	noun	larrikin|larrikin|R|N
+larrikinism	noun	larrikin|larrikin|R|N ; -ism|ism|S
+larrup	verb	larrup|larrup|R|V
+larvicide	noun	larvicide|larvicide|R|N
+larviform	adj	larviform|larviform|R|Adj
+laryngectomee	noun	laryngectomy|laryngectom|R|N ; -ee|ee|S
+laryngitic	adj	laryngitis|laryngit|R|N ; -ic|ic|S
+laryngological	adj	laryngology|laryngolog|R|N ; -ical|ical|S
+laryngologist	noun	laryngology|laryngolog|R|N ; -ist|ist|S
+laryngology	noun	laryngology|laryngology|R|N
+laryngopharynx	noun	laryngopharynx|laryngopharynx|R|N
+laryngoscopical	adj	laryngoscopy|laryngoscop|R|N ; -ical|ical|S
+laryngospasm	noun	laryngospasm|laryngospasm|R|N
+laryngotomy	noun	laryngotomy|laryngotomy|R|N
+laryngotracheal	adj	laryngotracheal|laryngotracheal|R|Adj
+lascar	noun	lascar|lascar|R|N
+lase	verb	lase|lase|R|V
+laserwort	noun	laser|laser|R|N ; wort|wort|R|N
+lashed	verb	lash|lash|R|V ; -ed|ed|I||-ed (v2)
+lasher	noun	lash|lash|R|V ; -er|er|S||-er (N)
+lassi	noun	lassi|lassi|R|N
+lassoer	noun	lasso|lasso|R|N ; -er|er|S||-er (N)
+lassoing	verb	lasso|lasso|R|V ; -ing|ing|I||-ing (v)
+lastborn	adj	last|last|R|Adj ; born|born|R|V
+lastingness	noun	last|last|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+latakia	noun	latakia|latakia|R|N
+latchet	noun	latchet|latchet|R|N
+latching	verb	latch|latch|R|V ; -ing|ing|I||-ing (v)
+latchstring	noun	latch|latch|R|N ; string|string|R|N
+lateen	noun	lateen|lateen|R|N
+laten	verb	laten|laten|R|V
+laterite	noun	laterite|laterite|R|N
+lateritic	adj	laterite|laterit|R|N ; -ic|ic|S
+laterization	noun	laterize|lateriz|R|V ; -ation|ation|S
+laters	interj	laters|laters|R
+latest	adj	late|lat|R|Adj ; -est|est|I||-est (superlative)
+lathered	verb	lather|lather|R|V ; -ed|ed|I||-ed (v2)
+lathering	verb	lather|lather|R|V ; -ing|ing|I||-ing (v)
+lathery	adj	lather|lather|R|N ; -y|y|S
+lathi	noun	lathi|lathi|R|N
+lathing	noun	lath|lath|R|N ; -ing|ing|S||-ing (N)
+lathyrism	noun	lathyrism|lathyrism|R|N
+lathyritic	adj	lathyritic|lathyritic|R|Adj
+laticifer	noun	laticifer|laticifer|R|N
+laticiferous	adj	laticiferous|laticiferous|R|Adj
+laticlave	noun	laticlave|laticlave|R|N
+latifundium	noun	latifundium|latifundium|R|N
+latish	adj	late|lat|R|Adj ; -ish|ish|S
+latitudinarian	adj	latitudinarian|latitudinarian|R|Adj
+latitudinarianism	noun	latitudinarianism|latitudinarianism|R|N
+lative	adj	lative|lative|R|Adj
+latosol	noun	latosol|latosol|R|N
+latosolic	adj	latosol|latosol|R|N ; -ic|ic|S
+lattermath	noun	latter|latter|R|N ; math|math|R|N
+lattermost	adj	lattermost|lattermost|R|Adj
+lauan	noun	lauan|lauan|R|N
+laudability	noun	laud|laud|R|V ; -able|abil|S ; -ity|ity|S
+laudableness	noun	laud|laud|R|V ; -able|able|S ; -ness|ness|S
+laudation	noun	laud|laud|R|V ; -ation|ation|S
+laudative	adj	laud|laud|R|V ; -ative|ative|S
+laudator	noun	laudator|laudator|R|N
+laudemium	noun	laudemium|laudemium|R|N
+lauding	verb	laud|laud|R|V ; -ing|ing|I||-ing (v)
+laughableness	noun	laugh|laugh|R|V ; -able|able|S ; -ness|ness|S

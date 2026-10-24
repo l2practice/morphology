@@ -1,0 +1,200 @@
+irreplaceability	noun	ir-|ir|P|||in- ; replace|replace|R|V ; -able|abil|S ; -ity|ity|S
+irreplaceableness	noun	ir-|ir|P|||in- ; replace|replace|R|V ; -able|able|S ; -ness|ness|S
+irreplaceably	adv	ir-|ir|P|||in- ; replace|replace|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+irrepressibility	noun	ir-|ir|P|||in- ; repress|repress|R|V ; -ible|ibil|S ; -ity|ity|S
+irrepressibleness	noun	ir-|ir|P|||in- ; repress|repress|R|V ; -ible|ible|S ; -ness|ness|S
+irreproachability	noun	ir-|ir|P|||in- ; reproach|reproach|R|V ; -able|abil|S ; -ity|ity|S
+irreproachableness	noun	ir-|ir|P|||in- ; reproach|reproach|R|V ; -able|able|S ; -ness|ness|S
+irreproachably	adv	ir-|ir|P|||in- ; reproach|reproach|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+irresistibility	noun	ir-|ir|P|||in- ; resist|resist|R|V ; -ible|ibil|S ; -ity|ity|S
+irresistibleness	noun	ir-|ir|P|||in- ; resist|resist|R|V ; -ible|ible|S ; -ness|ness|S
+irresolubility	noun	ir-|ir|P|||in- ; resoluble|resolub|R|Adj ; -ity|ility|S
+irresoluble	adj	ir-|ir|P|||in- ; resoluble|resoluble|R|Adj
+irresolutely	adv	ir-|ir|P|||in- ; resolute|resolute|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+irresoluteness	noun	ir-|ir|P|||in- ; resolute|resolute|R|Adj ; -ness|ness|S
+irresolvability	noun	ir-|ir|P|||in- ; resolve|resolv|R|V ; -able|abil|S ; -ity|ity|S
+irresolvableness	noun	ir-|ir|P|||in- ; resolve|resolv|R|V ; -able|able|S ; -ness|ness|S
+irrespectively	adv	ir-|ir|P|||in- ; respective|respective|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+irrespirable	adj	ir-|ir|P|||in- ; respire|respir|R|V ; -able|able|S
+irresponsibleness	noun	ir-|ir|P|||in- ; responsible|responsible|R|Adj ; -ness|ness|S
+irresponsive	adj	ir-|ir|P|||in- ; responsive|responsive|R|Adj
+irresponsively	adv	ir-|ir|P|||in- ; responsive|responsive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+irresponsiveness	noun	ir-|ir|P|||in- ; responsive|responsive|R|Adj ; -ness|ness|S
+irretention	noun	ir-|ir|P|||in- ; retention|retention|R|N
+irretentive	adj	ir-|ir|P|||in- ; retentive|retentive|R|Adj
+irretentiveness	noun	ir-|ir|P|||in- ; retentive|retentive|R|Adj ; -ness|ness|S
+irretrievability	noun	ir-|ir|P|||in- ; retrieve|retriev|R|V ; -able|abil|S ; -ity|ity|S
+irretrievableness	noun	ir-|ir|P|||in- ; retrieve|retriev|R|V ; -able|able|S ; -ness|ness|S
+irreverential	adj	ir-|ir|P|||in- ; reverent|reverent|R|Adj ; -ial|ial|S
+irreversibleness	noun	ir-|ir|P|||in- ; reverse|revers|R|V ; -ible|ible|S ; -ness|ness|S
+irrevocability	noun	ir-|ir|P|||in- ; revoke|revoc|R|V ; -able|abil|S ; -ity|ity|S
+irrevocableness	noun	ir-|ir|P|||in- ; revoke|revoc|R|V ; -able|able|S ; -ness|ness|S
+irrigable	adj	irrigate|irrig|R|V ; -able|able|S
+irrigational	adj	irrigate|irrigat|R|V ; -ion|ion|S ; -al|al|S
+irrigative	adj	irrigate|irrigat|R|V ; -ive|ive|S
+irritableness	noun	irritable|irritable|R|Adj ; -ness|ness|S
+irritancy	noun	irritant|irrit|R|N ; -ancy|ancy|S
+irritative	adj	irritate|irritat|R|V ; -ive|ive|S
+irritativeness	noun	irritate|irritat|R|V ; -ive|ive|S ; -ness|ness|S
+irritator	noun	irritate|irritat|R|V ; -or|or|S
+irrotational	adj	ir-|ir|P|||in- ; rotation|rotation|R|N ; -al|al|S
+irrumate	verb	irrumate|irrumate|R|V
+irrumation	noun	irrumation|irrumation|R|N
+irrupt	verb	irrupt|irrupt|R|V
+irruptive	adj	irrupt|irrupt|R|V ; -ive|ive|S
+isagogic	adj	isagogic|isagogic|R|Adj
+isagogics	noun	isagogics|isagogics|R|N
+isallobar	noun	isallobar|isallobar|R|N
+isapostle	noun	isapostle|isapostle|R|N
+ischiatic	adj	ischiatic|ischiatic|R|Adj
+isegoria	noun	isegoria|isegoria|R|N
+isekai	noun	isekai|isekai|R|N
+isentropic	adj	isentropic|isentropic|R|Adj
+isha	noun	isha|isha|R|N
+ishan	noun	ishan|ishan|R|N
+islandish	adj	island|island|R|N ; -ish|ish|S
+isoagglutinative	adj	isoagglutinative|isoagglutinative|R|Adj
+isoantibody	noun	isoantibody|isoantibody|R|N
+isobar	noun	isobar|isobar|R|N
+isobaric	adj	isobar|isobar|R|N ; -ic|ic|S
+isobath	noun	isobath|isobath|R|N
+isobutene	noun	isobutene|isobutene|R|N
+isochore	noun	isochore|isochore|R|N
+isochromatic	adj	isochromatic|isochromatic|R|Adj
+isochronal	adj	isochrone|isochron|R|N ; -al|al|S
+isochronally	adv	isochrone|isochron|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+isochrone	noun	isochrone|isochrone|R|N
+isochronism	noun	isochrone|isochron|R|N ; -ism|ism|S
+isochronize	verb	isochrone|isochron|R|N ; -ize|ize|S
+isochronous	adj	isochrone|isochron|R|N ; -ous|ous|S
+isochronously	adv	isochrone|isochron|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+isochrony	noun	isochrone|isochron|R|N ; -y|y|S
+isoclinal	adj	isocline|isoclin|R|N ; -al|al|S
+isoclinally	adv	isocline|isoclin|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+isocline	noun	isocline|isocline|R|N
+isoclinic	adj	isocline|isoclin|R|N ; -ic|ic|S
+isocost	noun	isocost|isocost|R|N
+isocracy	noun	isocracy|isocracy|R|N
+isocrat	noun	isocrat|isocrat|R|N
+isocratic	adj	isocrat|isocrat|R|N ; -ic|ic|S
+isocyanate	noun	isocyanate|isocyanate|R|N
+isocyanide	noun	isocyanide|isocyanide|R|N
+isodiametric	adj	isodiametric|isodiametric|R|Adj
+isodynamic	adj	isodynamic|isodynamic|R|Adj
+isodynamical	adj	isodynamic|isodynamic|R|Adj ; -al|al|S
+isoelectric	adj	isoelectric|isoelectric|R|Adj
+isoelectronic	adj	isoelectronic|isoelectronic|R|Adj
+isoenergetic	adj	isoenergetic|isoenergetic|R|Adj
+isoenzyme	noun	isoenzyme|isoenzyme|R|N
+isogamous	adj	isogamous|isogamous|R|Adj
+isogamy	noun	isogamy|isogamy|R|N
+isogeneic	adj	isogeneic|isogeneic|R|Adj
+isogenous	adj	isogenous|isogenous|R|Adj
+isogloss	noun	isogloss|isogloss|R|N
+isoglossal	adj	isogloss|isogloss|R|N ; -al|al|S
+isogon	noun	isogon|isogon|R|N
+isogonal	adj	isogon|isogon|R|N ; -al|al|S
+isogonality	noun	isogon|isogon|R|N ; -al|al|S ; -ity|ity|S
+isogonic	adj	isogon|isogon|R|N ; -ic|ic|S
+isogoria	noun	isogoria|isogoria|R|N
+isohel	noun	isohel|isohel|R|N
+isohyet	noun	isohyet|isohyet|R|N
+isohypse	noun	isohypse|isohypse|R|N
+isolability	noun	isolate|isol|R|V ; -able|abil|S ; -ity|ity|S
+isolable	adj	isolate|isol|R|V ; -able|able|S
+isolatable	adj	isolate|isolat|R|V ; -able|able|S
+isoleucine	noun	isoleucine|isoleucine|R|N
+isologous	adj	isologous|isologous|R|Adj
+isomagnetic	adj	isomagnetic|isomagnetic|R|Adj
+isomalt	noun	isomalt|isomalt|R|N
+isomerase	noun	isomerase|isomerase|R|N
+isomeric	adj	isomer|isomer|R|N ; -ic|ic|S
+isomerism	noun	isomer|isomer|R|N ; -ism|ism|S
+isomerization	noun	isomerize|isomeriz|R|V ; -ation|ation|S
+isomerize	verb	isomer|isomer|R|N ; -ize|ize|S
+isomerous	adj	isomer|isomer|R|N ; -ous|ous|S
+isometry	noun	isometry|isometry|R|N
+isomorph	noun	isomorph|isomorph|R|N
+isomorphous	adj	isomorph|isomorph|R|N ; -ous|ous|S
+isonomia	noun	isonomia|isonomia|R|N
+isonomic	adj	isonomia|isonom|R|N ; -ic|ic|S
+isonomous	adj	isonomia|isonom|R|N ; -ous|ous|S
+isopentane	noun	isopentane|isopentane|R|N
+isoperimetric	adj	isoperimetric|isoperimetric|R|Adj
+isoperimetrical	adj	isoperimetric|isoperimetric|R|Adj ; -al|al|S
+isophone	noun	isophone|isophone|R|N
+isopiestic	adj	isopiestic|isopiestic|R|Adj
+isopleth	noun	isopleth|isopleth|R|N
+isopod	noun	isopod|isopod|R|N
+isopodan	adj	isopod|isopod|R|N ; -an|an|S
+isoprene	noun	isoprene|isoprene|R|N
+isopteran	noun	isoptera|isopter|R|N ; -an|an|S
+isoquant	noun	isoquant|isoquant|R|N
+isosceles	adj	isosceles|isosceles|R|Adj
+isoseismal	adj	isoseismal|isoseismal|R|Adj
+isoseismic	adj	isoseismic|isoseismic|R|Adj
+isosporous	adj	isosporous|isosporous|R|Adj
+isospory	noun	isospory|isospory|R|N
+isostasy	noun	isostasy|isostasy|R|N
+isostatic	adj	isostasy|isostat|R|N ; -ic|ic|S
+isosyllabic	adj	isosyllabic|isosyllabic|R|Adj
+isotach	noun	isotach|isotach|R|N
+isotherm	noun	isotherm|isotherm|R|N
+isothermal	adj	isotherm|isotherm|R|N ; -al|al|S
+isothermic	adj	isotherm|isotherm|R|N ; -ic|ic|S
+isotone	noun	isotone|isotone|R|N
+isotopically	adv	isotopic|isotopic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+isotopy	noun	isotopy|isotopy|R|N
+isotropy	noun	isotropy|isotropy|R|N
+isozyme	noun	isozyme|isozyme|R|N
+ispravnic	noun	ispravnic|ispravnic|R|N
+issuable	adj	issue|issu|R|V ; -able|able|S
+issuant	adj	issue|issu|R|V ; -ant|ant|S
+issueless	adj	issue|issue|R|V ; -less|less|S
+isthmian	adj	isthmus|isthm|R|N ; -ian|ian|S
+istighfar	noun	istighfar|istighfar|R|N
+itacolumite	noun	itacolumite|itacolumite|R|N
+italicisation	noun	italic|italic|R|Adj ; -ise|is|S ; -ation|ation|S
+italicization	noun	italic|italic|R|Adj ; -ize|iz|S ; -ation|ation|S
+itemization	noun	itemize|itemiz|R|V ; -ation|ation|S
+itemizer	noun	itemize|itemiz|R|V ; -er|er|S||-er (N)
+iterant	adj	iterate|iter|R|V ; -ant|ant|S
+iterativeness	noun	iterate|iterat|R|V ; -ive|ive|S ; -ness|ness|S
+iterator	noun	iterate|iterat|R|V ; -or|or|S
+ithyphallic	adj	ithyphallic|ithyphallic|R|Adj
+ithyphallophobia	noun	ithyphallophobia|ithyphallophobia|R|N
+itinerate	verb	itinerate|itinerate|R|V
+itineration	noun	itinerate|itinerat|R|V ; -ion|ion|S
+ivied	adj	ivy|ivi|R|N ; -ed|ed|S||-ed (adj)
+ivorylike	adj	ivory|ivory|R|N ; -like|like|S
+ivorysmith	noun	ivory|ivory|R|N ; smith|smith|R|N
+ixia	noun	ixia|ixia|R|N
+izakaya	noun	izakaya|izakaya|R|N
+izard	noun	izard|izard|R|N
+izba	noun	izba|izba|R|N
+izhitsa	noun	izhitsa|izhitsa|R|N
+izzard	noun	izzard|izzard|R|N
+izzat	noun	izzat|izzat|R|N
+jabberer	noun	jabber|jabber|R|V ; -er|er|S||-er (N)
+jabbering	verb	jabber|jabber|R|V ; -ing|ing|I||-ing (v)
+jabiru	noun	jabiru|jabiru|R|N
+jaborandi	noun	jaborandi|jaborandi|R|N
+jabot	noun	jabot|jabot|R|N
+jaboticaba	noun	jaboticaba|jaboticaba|R|N
+jacamar	noun	jacamar|jacamar|R|N
+jacana	noun	jacana|jacana|R|N
+jacinth	noun	jacinth|jacinth|R|N
+jackalope	noun	jackalope|jackalope|R|N
+jackanapes	noun	jackanapes|jackanapes|R|N
+jackaroo	noun	jackaroo|jackaroo|R|N
+jackassery	noun	jackass|jackass|R|N ; -ery|ery|S
+jacked	verb	jack|jack|R|V ; -ed|ed|I||-ed (v2)
+jackfish	noun	jack|jack|R|N ; fish|fish|R|N
+jacking	verb	jack|jack|R|V ; -ing|ing|I||-ing (v)
+jacks	noun	jack|jack|R|N ; -s|s|I||-s (plural)
+jacksnipe	noun	jacksnipe|jacksnipe|R|N
+jaconet	noun	jaconet|jaconet|R|N
+jacquerie	noun	jacquerie|jacquerie|R|N
+jactation	noun	jactation|jactation|R|N
+jactitation	noun	jactitation|jactitation|R|N
+jacuzzi	noun	jacuzzi|jacuzzi|R|N

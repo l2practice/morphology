@@ -1,0 +1,200 @@
+pekan	noun	pekan|pekan|R|N
+pekoe	noun	pekoe|pekoe|R|N
+pelage	noun	pelage|pelage|R|N
+pelecypod	noun	pelecypod|pelecypod|R|N
+peled	noun	peled|peled|R|N
+pelerine	noun	pelerine|pelerine|R|N
+pelf	noun	pelf|pelf|R|N
+pelisse	noun	pelisse|pelisse|R|N
+pellagrous	adj	pellagra|pellagr|R|N ; -ous|ous|S
+pelleted	adj	pellet|pellet|R|N ; -ed|ed|S||-ed (adj)
+pelletize	verb	pellet|pellet|R|N ; -ize|ize|S
+pellicle	noun	pellicle|pellicle|R|N
+pellicular	adj	pellicle|pellicul|R|N ; -ar|ar|S
+pellitory	noun	pellitory|pellitory|R|N
+pellucidity	noun	pellucid|pellucid|R|Adj ; -ity|ity|S
+pellucidly	adv	pellucid|pellucid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pellucidness	noun	pellucid|pellucid|R|Adj ; -ness|ness|S
+pelma	noun	pelma|pelma|R|N
+pelmanism	noun	pelmanism|pelmanism|R|N
+pelmeni	noun	pelmeni|pelmeni|R|N
+peloria	noun	peloria|peloria|R|N
+peloric	adj	peloria|pelor|R|N ; -ic|ic|S
+peloton	noun	peloton|peloton|R|N
+pelta	noun	pelta|pelta|R|N
+peltast	noun	peltast|peltast|R|N
+peltate	adj	pelt|pelt|R|N ; -ate|ate|S
+peltately	adv	peltate|peltate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pelted	verb	pelt|pelt|R|V ; -ed|ed|I||-ed (v2)
+pelter	noun	pelt|pelt|R|V ; -er|er|S||-er (N)
+peltmonger	noun	pelt|pelt|R|N ; monger|monger|R|N
+peltry	noun	pelt|pelt|R|N ; -ry|ry|S
+pelvisacral	adj	pelvis|pelvi|R|N ; sacral|sacral|R|Adj
+pemoline	noun	pemoline|pemoline|R|N
+pemphigous	adj	pemphigus|pemphig|R|N ; -ous|ous|S
+pemphigus	noun	pemphigus|pemphigus|R|N
+penalised	verb	penal|penal|R|Adj ; -ise|ise|S ; -ed|d|I||-ed (v2)
+penalization	noun	penal|penal|R|Adj ; -ize|iz|S ; -ation|ation|S
+penally	adv	penal|penal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+penates	noun	penates|penates|R|N
+penciler	noun	pencil|pencil|R|N ; -er|er|S||-er (N)
+pencilling	noun	pencil|pencill|R|V ; -ing|ing|S||-ing (N)
+pencraft	noun	pen|pen|R|N ; craft|craft|R|N
+pend	verb	pend|pend|R|V
+pendeloque	noun	pendeloque|pendeloque|R|N
+pendent	adj	pend|pend|R|V ; -ent|ent|S
+pendentive	noun	pendent|pendent|R|Adj ; -ive|ive|S
+pendently	adv	pendent|pendent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pendicle	noun	pendicle|pendicle|R|N
+pendragon	noun	pendragon|pendragon|R|N
+pendular	adj	pendulum|pendul|R|N ; -ar|ar|S
+pendulate	verb	pendulum|pendul|R|N ; -ate|ate|S
+pendulously	adv	pendulum|pendul|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+pendulousness	noun	pendulum|pendul|R|N ; -ous|ous|S ; -ness|ness|S
+peneplain	noun	peneplain|peneplain|R|N
+penetrability	noun	penetrable|penetrabil|R|Adj ; -ity|ity|S
+penetrably	adv	penetrable|penetrabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+penetralia	noun	penetralia|penetralia|R|N
+penetrant	noun	penetrate|penetr|R|V ; -ant|ant|S
+penetrometer	noun	penetrate|penetro|R|V ; meter|meter|R|N
+penholder	noun	pen|pen|R|N ; hold|hold|R|V ; -er|er|S||-er (N)
+penial	adj	penis|peni|R|N ; -al|al|S
+peniaphobia	noun	peniaphobia|peniaphobia|R|N
+penicillamine	noun	penicillamine|penicillamine|R|N
+penicillate	adj	penicillate|penicillate|R|Adj
+penicilliform	adj	penicilliform|penicilliform|R|Adj
+penicillium	noun	penicillium|penicillium|R|N
+peniform	adj	peniform|peniform|R|Adj
+peninsulate	verb	peninsula|peninsul|R|N ; -ate|ate|S
+penised	adj	penis|penis|R|N ; -ed|ed|S||-ed (adj)
+penisless	adj	penis|penis|R|N ; -less|less|S
+penitentially	adv	penitent|penitenti|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+penitently	adv	penitent|penitent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+penna	noun	penna|penna|R|N
+pennate	adj	penna|penn|R|N ; -ate|ate|S
+penner	noun	pen|penn|R|N ; -er|er|S||-er (N)
+pennies	noun	penny|penni|R|N ; -es|es|I||-s (plural)
+penniferous	adj	penniferous|penniferous|R|Adj
+penniform	adj	penniform|penniform|R|Adj
+pennigerous	adj	pennigerous|pennigerous|R|Adj
+pennilessly	adv	penniless|penniless|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pennilessness	noun	penniless|penniless|R|Adj ; -ness|ness|S
+penning	noun	pen|penn|R|V ; -ing|ing|S||-ing (N)
+pennon	noun	pennon|pennon|R|N
+pennoncel	noun	pennoncel|pennoncel|R|N
+pennycress	noun	penny|penny|R|N ; cress|cress|R|N
+pennyroyal	noun	pennyroyal|pennyroyal|R|N
+pennyweight	noun	penny|penny|R|N ; weight|weight|R|N
+pennywise	adj	penny|penny|R|N ; -wise|wise|S
+pennywort	noun	penny|penny|R|N ; wort|wort|R|N
+pennyworth	noun	penny|penny|R|N ; worth|worth|R|N
+penological	adj	penology|penolog|R|N ; -ical|ical|S
+penologically	adv	penological|penological|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+penologist	noun	penology|penolog|R|N ; -ist|ist|S
+penology	noun	penology|penology|R|N
+pensile	adj	pensile|pensile|R|Adj
+pensionary	noun	pension|pension|R|N ; -ary|ary|S
+pensiveness	noun	pensive|pensive|R|Adj ; -ness|ness|S
+penstock	noun	pen|pen|R|N ; stock|stock|R|N
+pentacapsular	adj	pentacapsular|pentacapsular|R|Adj
+pentacarpellary	adj	pentacarpellary|pentacarpellary|R|Adj
+pentachloride	noun	pentachloride|pentachloride|R|N
+pentachord	noun	pentachord|pentachord|R|N
+pentachoron	noun	pentachoron|pentachoron|R|N
+pentacle	noun	pentacle|pentacle|R|N
+pentacontagon	noun	pentacontagon|pentacontagon|R|N
+pentacosane	noun	pentacosane|pentacosane|R|N
+pentad	noun	pentad|pentad|R|N
+pentadactyl	adj	pentadactyl|pentadactyl|R|Adj
+pentadactylism	noun	pentadactyl|pentadactyl|R|Adj ; -ism|ism|S
+pentadecagon	noun	pentadecagon|pentadecagon|R|N
+pentadecahedron	noun	pentadecahedron|pentadecahedron|R|N
+pentadecane	noun	pentadecane|pentadecane|R|N
+pentagonally	adv	pentagon|pentagon|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+pentagynous	adj	pentagynous|pentagynous|R|Adj
+pentahedral	adj	pentahedral|pentahedral|R|Adj
+pentahedron	noun	pentahedron|pentahedron|R|N
+pentahydrate	noun	pentahydrate|pentahydrate|R|N
+pentalingual	adj	pentalingual|pentalingual|R|Adj
+pentalogy	noun	pentalogy|pentalogy|R|N
+pentamerism	noun	pentamerism|pentamerism|R|N
+pentamerous	adj	pentamerous|pentamerous|R|Adj
+pentandrous	adj	pentandrous|pentandrous|R|Adj
+pentane	noun	pentane|pentane|R|N
+pentangle	noun	pentangle|pentangle|R|N
+pentangular	adj	pentangular|pentangular|R|Adj
+pentapetalous	adj	pentapetalous|pentapetalous|R|Adj
+pentaploid	adj	pentaploid|pentaploid|R|Adj
+pentaprism	noun	pentaprism|pentaprism|R|N
+pentaquark	noun	pentaquark|pentaquark|R|N
+pentarchy	noun	pentarchy|pentarchy|R|N
+pentaspherical	adj	pentaspherical|pentaspherical|R|Adj
+pentastyle	noun	pentastyle|pentastyle|R|N
+pentasyllabic	adj	pentasyllable|pentasyllab|R|N ; -ic|ic|S
+pentasyllable	noun	pentasyllable|pentasyllable|R|N
+pentathlete	noun	pentathlete|pentathlete|R|N
+pentatomic	adj	pentatomic|pentatomic|R|Adj
+pentavalence	noun	pentavalence|pentavalence|R|N
+pentavalent	adj	pentavalent|pentavalent|R|Adj
+pentazole	noun	pentazole|pentazole|R|N
+penteconter	noun	penteconter|penteconter|R|N
+pentene	noun	pentene|pentene|R|N
+pentice	noun	pentice|pentice|R|N
+pentimento	noun	pentimento|pentimento|R|N
+pentode	noun	pentode|pentode|R|N
+pentomic	adj	pentomic|pentomic|R|Adj
+pentose	noun	pentose|pentose|R|N
+pentoxide	noun	pentoxide|pentoxide|R|N
+penult	noun	penult|penult|R|N
+penultimately	adv	penultimate|penultimate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+penumbrous	adj	penumbra|penumbr|R|N ; -ous|ous|S
+penuriously	adv	penurious|penurious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+penuriousness	noun	penurious|penurious|R|Adj ; -ness|ness|S
+penwiper	noun	pen|pen|R|N ; wipe|wip|R|V ; -er|er|S||-er (N)
+peopled	verb	people|people|R|N ; -ed|d|I||-ed (v2)
+peot	noun	peot|peot|R|N
+peperino	noun	peperino|peperino|R|N
+peperomia	noun	peperomia|peperomia|R|N
+peplos	noun	peplos|peplos|R|N
+peplum	noun	peplum|peplum|R|N
+pepo	noun	pepo|pepo|R|N
+pepperbox	noun	pepper|pepper|R|N ; box|box|R|N
+pepperiness	noun	peppery|pepperi|R|Adj ; -ness|ness|S
+peppering	noun	pepper|pepper|R|V ; -ing|ing|S||-ing (N)
+pepperwort	noun	pepper|pepper|R|N ; wort|wort|R|N
+peppily	adv	peppy|peppi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+peppiness	noun	peppy|peppi|R|Adj ; -ness|ness|S
+peptics	noun	peptic|peptic|R|Adj ; -s|s|I||-s (plural)
+peptogen	noun	peptogen|peptogen|R|N
+peptone	noun	peptone|peptone|R|N
+peptonic	adj	peptone|pepton|R|N ; -ic|ic|S
+peptonization	noun	peptonize|peptoniz|R|V ; -ation|ation|S
+peptonize	verb	peptone|pepton|R|N ; -ize|ize|S
+peradventure	adv	per-|per|P ; adventure|adventure|R|N
+perambulator	noun	per-|per|P ; ambulate|ambulat|R|V ; -or|or|S
+perambulatory	adj	per-|per|P ; ambulate|ambulat|R|V ; -ory|ory|S
+perborate	noun	per-|per|P ; borate|borate|R|N
+perceivably	adv	per-|per|P ; -ceive|ceiv|B|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+percentagewise	adv	percentage|percentage|R|N ; -wise|wise|S
+percentual	adj	percent|percent|R|N ; -ual|ual|S
+percentually	adv	percentual|percentual|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+perceptibility	noun	perceptible|perceptibil|R|Adj ; -ity|ity|S
+perceptional	adj	perception|perception|R|N ; -al|al|S
+perceptivity	noun	perceptive|perceptiv|R|Adj ; -ity|ity|S
+perching	noun	perch|perch|R|V ; -ing|ing|S||-ing (N)
+perchloric	adj	per-|per|P ; chloric|chloric|R|Adj
+percipience	noun	percipience|percipience|R|N
+percipiency	noun	percipiency|percipiency|R|N
+percipient	adj	percipient|percipient|R|Adj
+percurrent	adj	per-|per|P ; current|current|R|Adj
+percuss	verb	percuss|percuss|R|V
+percussively	adv	percuss|percuss|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+percussiveness	noun	percuss|percuss|R|V ; -ive|ive|S ; -ness|ness|S
+percutaneously	adv	per-|per|P ; cutaneous|cutaneous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+perdu	noun	perdu|perdu|R|N
+perdurability	noun	per-|per|P ; durable|durab|R|Adj ; -ity|ility|S
+perdurable	adj	per-|per|P ; durable|durable|R|Adj
+perdurably	adv	per-|per|P ; durable|durabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+perdure	verb	perdure|perdure|R|V
+peregrinate	verb	peregrinate|peregrinate|R|V
+peregrinator	noun	peregrinate|peregrinat|R|V ; -or|or|S

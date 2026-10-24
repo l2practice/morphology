@@ -1,0 +1,150 @@
+saccharine	adj	sacchar-|sacchar|B|N|||Greek sakcharon 'sugar' ; -ine|ine|S||||Latin -ina 'relating to'
+insensible	adj	=
+laryngitis	noun	laryng-|laryng|B|N|||Greek larunx 'throat' ; -itis|itis|S||||Greek -itis 'inflammation'
+nasogastric	adj	naso-|naso|B|N|||Latin nasus 'nose' ; gastr-|gastr|B|N|||Greek gaster 'stomach' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+leucine	noun	leuco-|leuc|B|Adj|||Greek leukos 'white' ; -ine|ine|S||||Latin -ina 'relating to'
+galena	noun	=
+rhapsodic	adj	=
+phospholipid	noun	=
+endotoxin	noun	=
+pater	noun	=
+aerator	noun	=
+hydroponic	adj	hydro-|hydro|B|N|||Greek hudor 'water' ; -pon-|pon|B|N|||Greek ponos 'work, labour' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+sphagnum	noun	=
+asterism	noun	aster-|aster|B|N|||Greek aster 'star' ; -ism|ism|S||||Greek -ismos 'doctrine'
+desperado	noun	=
+locution	noun	locut-|locut|B|V||loqu-|Latin loqui 'to speak' ; -ion|ion|S||||Latin -io 'act, state'
+fossilize	verb	=
+minestrone	noun	=
+hypochlorite	noun	=
+dexterous	adj	dexter-|dexter|B|Adj|||Latin dexter 'right, ready' ; -ous|ous|S||||Latin -osus 'full of'
+buccal	adj	bucc-|bucc|B|N|||Latin bucca 'cheek' ; -al|al|S||||Latin -alis 'relating to'
+urinalysis	noun	=
+oxytocin	noun	oxy-|oxy|B|Adj|||Greek oxus 'swift' ; -toc-|toc|B|N|||Greek tokos 'childbirth' ; -in|in|S||||Latin -ina 'substance'
+inelegant	adj	=
+gerrymander	noun	=
+ranchero	noun	=
+querulous	adj	=
+luminal	adj	lumin-|lumin|B|N|||Latin lumen 'light' ; -al|al|S||||Latin -alis 'relating to'
+belemnite	noun	=
+consonance	noun	con-|con|P||||Latin com- 'together' ; son-|son|B|V|||Latin sonare 'to sound' ; -ance|ance|S||||Latin -antia 'state, quality'
+rectus	noun	=
+peristalsis	noun	=
+triforium	noun	=
+ablution	noun	=
+peevish	adj	=
+tautology	noun	tauto-|tauto|B|Adj|||Greek tautos 'the same' ; -logy|logy|B|N|||Greek logos 'study, word'
+confit	noun	=
+dysphagia	noun	=
+parabola	noun	=
+rectilinear	adj	recti-|recti|B|Adj|||Latin rectus 'straight' ; -line-|line|B|N|||Latin linea 'line' ; -ar|ar|S||||Latin -aris 'relating to'
+decimation	noun	=
+elute	verb	=
+tetra	noun	=
+patriarchate	noun	=
+muralist	noun	=
+tryptophan	noun	=
+arachidonic	adj	=
+biohazard	noun	=
+pyrrhic	adj	=
+geomagnetic	adj	=
+etiological	adj	etio-|etio|B|N|||Greek aitia 'cause' ; -log-|log|B|N|||Greek logos 'study, word' ; -ical|ical|S||||Latin -icalis 'relating to'
+trypsin	noun	tryps-|tryps|B|N|||Greek tripsis 'rubbing' ; -in|in|S||||Latin -ina 'substance'
+inductor	noun	in-|in|P||||Latin in- 'in' ; -duct-|duct|B|V|||Latin ducere 'to lead' ; -or|or|S||||Latin -or 'agent'
+integrationist	noun	=
+malefactor	noun	male-|male|P||||Latin male 'evilly' ; -fact-|fact|B|V|||Latin facere 'to make' ; -or|or|S||||Latin -or 'agent'
+reconceptualization	noun	=
+desensitization	noun	=
+pentatonic	adj	=
+pellagra	noun	pell-|pell|B|N|||Latin pellis 'skin' ; -agra|agra|B|N|||Greek agra 'seizure, catching'
+instillation	noun	=
+erotically	adv	=
+cacophonous	adj	caco-|caco|B|Adj|||Greek kakos 'bad' ; -phon-|phon|B|N|||Greek phone 'sound' ; -ous|ous|S||||Latin -osus 'full of'
+inseminate	verb	=
+dejection	noun	=
+cyclops	noun	=
+julep	noun	=
+sequent	adj	sequ-|sequ|B|V|||Latin sequi 'to follow' ; -ent|ent|S||||Latin -ens 'agent'
+situationist	noun	=
+ricin	noun	=
+parallax	noun	=
+appendectomy	noun	=
+theism	noun	theo-|the|B|N|||Greek theos 'god' ; -ism|ism|S||||Greek -ismos 'doctrine'
+rentier	noun	=
+relativize	verb	=
+summa	noun	=
+stultify	verb	=
+chemiluminescence	noun	=
+rufous	adj	=
+herbivorous	adj	herb-|herbi|B|N|||Latin herba 'grass' ; -vor-|vor|B|V|||Latin vorare 'to devour' ; -ous|ous|S||||Latin -osus 'full of'
+philanderer	noun	phil-|phil|B|Adj|||Greek philos 'love' ; -ander-|ander|B|N|||Greek aner 'man' ; -er|er|S||-er (N)
+disputation	noun	=
+hyperspace	noun	=
+patella	noun	=
+primatologist	noun	=
+oxygenation	noun	=
+explainable	adj	=
+oocyte	noun	=
+certiorari	noun	=
+bifurcated	adj	bi-|bi|P||||Latin bi- 'two' ; -furc-|furc|B|N|||Latin furca 'fork' ; -ate|at|S||||Latin -atus 'made, having' ; -ed|ed|I
+nihilist	noun	nihil-|nihil|B|N|||Latin nihil 'nothing' ; -ist|ist|S||||Greek -istes 'one who'
+bifurcate	verb	bi-|bi|P||||Latin bi- 'two' ; -furc-|furc|B|N|||Latin furca 'fork' ; -ate|ate|S||||Latin -atus 'made, having'
+tuple	noun	=
+equivocate	verb	=
+graptolite	noun	=
+adduct	verb	ad-|ad|P||||Latin ad- 'to' ; -duct|duct|B|V|||Latin ducere 'to lead'
+intellectualism	noun	=
+sigmoid	adj	sigm-|sigm|B|N|||Greek sigma 'letter s' ; -oid|oid|S||||Greek -oeides 'like'
+perfuse	verb	=
+satiety	noun	=
+mandibular	adj	=
+orogeny	noun	oro-|oro|B|N|||Greek oros 'mountain' ; -geny|geny|B|N|||Greek geneia 'birth, making'
+leaker	noun	=
+orfe	noun	=
+triennial	adj	tri-|tri|P||||Latin tres 'three' ; -ann-|enn|B|N|||Latin annus 'year' ; -ial|ial|S||||Latin -alis 'relating to'
+ileum	noun	=
+repugnance	noun	=
+vermicelli	noun	=
+recapitulation	noun	=
+magnetize	verb	=
+musicology	noun	=
+cholecystectomy	noun	=
+mononuclear	adj	=
+methylation	noun	=
+totalize	verb	=
+evolutionism	noun	=
+aseptic	adj	=
+choline	noun	chol-|chol|B|N|||Greek chole 'bile' ; -ine|ine|S||||Latin -ina 'relating to'
+arcana	noun	=
+telomerase	noun	=
+distension	noun	=
+instantiation	noun	=
+zygote	noun	=
+imago	noun	=
+vermiculite	noun	=
+lemma	noun	=
+quackery	noun	=
+nucleon	noun	=
+lacerate	verb	=
+papilla	noun	=
+melancholia	noun	=
+participle	noun	=
+amaryllis	noun	=
+darter	noun	=
+caecum	noun	=
+gerontological	adj	=
+cystoscopy	noun	=
+splenic	adj	splen-|splen|B|N|||Greek splen 'spleen' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+vegetate	verb	veget-|veget|B|V|||Latin vegetare 'enliven, arouse' ; -ate|ate|S||||Latin -atus 'made, having'
+scientism	noun	sci-|sci|B|V|||Latin scire 'to know' ; -ent|ent|S||||Latin -ens 'agent' ; -ism|ism|S||||Greek -ismos 'doctrine'
+audiologist	noun	=
+penitence	noun	=
+magnetization	noun	=
+pepsin	noun	peps-|peps|B|N|||Greek pepsis 'digestion' ; -in|in|S||||Latin -ina 'substance'
+semolina	noun	=
+superoxide	noun	=
+planktonic	adj	=
+speculum	noun	=
+vegetal	adj	veget-|veget|B|V|||Latin vegetare 'enliven, arouse' ; -al|al|S||||Latin -alis 'relating to'
+ergometer	noun	=
+deltoid	noun	delt-|delt|B|N|||Greek delta 'letter d' ; -oid|oid|S||||Greek -oeides 'like'

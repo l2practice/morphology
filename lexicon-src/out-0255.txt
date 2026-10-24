@@ -1,0 +1,200 @@
+cords	noun	cord|cord|R|N ; -s|s|I||-s (plural)
+cordwain	noun	cordwain|cordwain|R|N
+cordwainer	noun	cordwain|cordwain|R|N ; -er|er|S||-er (N)
+cordwainery	noun	cordwain|cordwain|R|N ; -ery|ery|S
+core	noun	core|core|R|N
+cored	verb	core|core|R|V ; -ed|d|I||-ed (v2)
+corelation	noun	co-|co|P ; relation|relation|R|N
+coreless	adj	core|core|R|N ; -less|less|S
+coremium	noun	coremium|coremium|R|N
+corepressor	noun	co-|co|P ; repress|repress|R|V ; -or|or|S
+corer	noun	core|cor|R|V ; -er|er|S||-er (N)
+coresidual	adj	co-|co|P ; residual|residual|R|Adj
+corf	noun	corf|corf|R|N
+coriaceous	adj	coriaceous|coriaceous|R|Adj
+coring	noun	core|cor|R|V ; -ing|ing|S||-ing (N)
+corium	noun	corium|corium|R|N
+corkiness	noun	cork|cork|R|N ; -y|i|S ; -ness|ness|S
+corking	noun	cork|cork|R|N ; -ing|ing|S||-ing (N)
+corkscrewing	noun	cork|cork|R|N ; screw|screw|R|N ; -ing|ing|S||-ing (N)
+corkwood	noun	cork|cork|R|N ; wood|wood|R|N
+cornaceous	adj	cornaceous|cornaceous|R|Adj
+corncockle	noun	corn|corn|R|N ; cockle|cockle|R|N
+cornel	noun	cornel|cornel|R|N
+cornelian	noun	cornelian|cornelian|R|N
+corneous	adj	corneous|corneous|R|Adj
+cornerways	adv	cornerways|cornerways|R|Adv
+cornerwise	adv	corner|corner|R|N ; -wise|wise|S
+cornetist	noun	cornet|cornet|R|N ; -ist|ist|S
+cornett	noun	cornett|cornett|R|N
+cornflakes	noun	corn|corn|R|N ; flake|flak|R|N ; -s|es|I||-s (plural)
+corniced	adj	cornice|cornic|R|N ; -ed|ed|S||-ed (adj)
+cornicle	noun	cornicle|cornicle|R|N
+cornification	noun	corn|corn|R|N ; -ify|ific|S ; -ation|ation|S
+corniform	adj	corniform|corniform|R|Adj
+cornily	adv	corn|corn|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+corniness	noun	corn|corn|R|N ; -y|i|S ; -ness|ness|S
+cornless	adj	corn|corn|R|N ; -less|less|S
+cornoid	adj	cornoid|cornoid|R|Adj
+cornrow	noun	corn|corn|R|N ; row|row|R|N
+cornucopian	adj	cornucopia|cornucopi|R|N ; -an|an|S
+corollate	adj	corolla|coroll|R|N ; -ate|ate|S
+coronach	noun	coronach|coronach|R|N
+coronally	adv	corona|coron|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+coronasceptic	adj	corona|corona|R|N ; sceptic|sceptic|R|Adj
+coronate	verb	corona|coron|R|N ; -ate|ate|S
+coronated	verb	coronate|coronat|R|V ; -ed|ed|I||-ed (v2)
+coronene	noun	coronene|coronene|R|N
+coronership	noun	coroner|coroner|R|N ; -ship|ship|S
+coronograph	noun	coronograph|coronograph|R|N
+coronoid	adj	coronoid|coronoid|R|Adj
+corotate	verb	co-|co|P ; rotate|rotate|R|V
+corotation	noun	co-|co|P ; rotate|rotat|R|V ; -ion|ion|S
+coroutine	noun	co-|co|P ; routine|routine|R|N
+corozo	noun	corozo|corozo|R|N
+corporally	adv	corporal|corporal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+corporatize	verb	corporate|corporat|R|Adj ; -ize|ize|S
+corporator	noun	corporate|corporat|R|Adj ; -or|or|S
+corporealism	noun	corporeal|corporeal|R|Adj ; -ism|ism|S
+corporealist	noun	corporeal|corporeal|R|Adj ; -ist|ist|S
+corporealize	verb	corporeal|corporeal|R|Adj ; -ize|ize|S
+corporeally	adv	corporeal|corporeal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+corporealness	noun	corporeal|corporeal|R|Adj ; -ness|ness|S
+corporeity	noun	corporeal|corpore|R|Adj ; -ity|ity|S
+corposant	noun	corposant|corposant|R|N
+corpulently	adv	corpulent|corpulent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+corpuscular	adj	corpuscular|corpuscular|R|Adj
+corpuscularian	noun	corpuscularian|corpuscularian|R|N
+corrade	verb	corrade|corrade|R|V
+corrasion	noun	corrade|corras|R|V ; -ion|ion|S
+correctamundo	interj	correctamundo|correctamundo|R
+correctitude	noun	correctitude|correctitude|R|N
+correctively	adv	correct|correct|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+corregidor	noun	corregidor|corregidor|R|N
+correlatively	adv	correlate|correlat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+correlativeness	noun	correlate|correlat|R|V ; -ive|ive|S ; -ness|ness|S
+correlator	noun	correlate|correlat|R|V ; -or|or|S
+correlogram	noun	correlogram|correlogram|R|N
+correspondently	adv	correspond|correspond|R|V ; -ent|ent|S ; -ly|ly|I|Adv|-ly (adv)
+corresponsive	adj	correspond|correspons|R|V ; -ive|ive|S
+corretto	noun	corretto|corretto|R|N
+corrigendum	noun	corrigendum|corrigendum|R|N
+corrigibility	noun	corrigible|corrigib|R|Adj ; -ity|ility|S
+corrigible	adj	corrigible|corrigible|R|Adj
+corrigibly	adv	corrigible|corrigib|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+corrin	noun	corrin|corrin|R|N
+corrival	noun	cor-|cor|P|||con- ; rival|rival|R|N
+corroborated	verb	corroborate|corroborat|R|V ; -ed|ed|I||-ed (v2)
+corroborator	noun	corroborate|corroborat|R|V ; -or|or|S
+corroboratory	adj	corroborate|corroborat|R|V ; -ory|ory|S
+corroboree	noun	corroboree|corroboree|R|N
+corrodent	noun	corrode|corrod|R|V ; -ent|ent|S
+corrodible	adj	corrode|corrod|R|V ; -ible|ible|S
+corroding	noun	corrode|corrod|R|V ; -ing|ing|S||-ing (N)
+corrosible	adj	corrode|corros|R|V ; -ible|ible|S
+corrosively	adv	corrode|corros|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+corrosiveness	noun	corrode|corros|R|V ; -ive|ive|S ; -ness|ness|S
+corrugate	verb	corrugate|corrugate|R|V
+corrupter	noun	corrupt|corrupt|R|V ; -er|er|S||-er (N)
+corruptibility	noun	corrupt|corrupt|R|V ; -ible|ibil|S ; -ity|ity|S
+corruptibleness	noun	corrupt|corrupt|R|V ; -ible|ible|S ; -ness|ness|S
+corruptibly	adv	corrupt|corrupt|R|V ; -ible|ib|S ; -ly|ly|I|Adv|-ly (adv)
+corruptness	noun	corrupt|corrupt|R|Adj ; -ness|ness|S
+corselet	noun	corselet|corselet|R|N
+corseque	noun	corseque|corseque|R|N
+corsetiere	noun	corsetiere|corsetiere|R|N
+corsetry	noun	corset|corset|R|N ; -ry|ry|S
+cortically	adv	cortex|cortic|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+corticate	adj	cortex|cortic|R|N ; -ate|ate|S
+corticated	adj	corticate|corticat|R|V ; -ed|ed|S||-ed (adj)
+corticiferous	adj	corticiferous|corticiferous|R|Adj
+corticiform	adj	corticiform|corticiform|R|Adj
+corticoid	noun	corticoid|corticoid|R|N
+coruler	noun	co-|co|P ; ruler|ruler|R|N
+coruscant	adj	coruscate|corusc|R|V ; -ant|ant|S
+coruscating	noun	coruscate|coruscat|R|V ; -ing|ing|S||-ing (N)
+coruscation	noun	coruscate|corusc|R|V ; -ation|ation|S
+corvee	noun	corvee|corvee|R|N
+corvid	noun	corvid|corvid|R|N
+corvine	adj	corvine|corvine|R|Adj
+corybantic	adj	corybantic|corybantic|R|Adj
+corymb	noun	corymb|corymb|R|N
+corymbiform	adj	corymbiform|corymbiform|R|Adj
+corymbosely	adv	corymbose|corymbose|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+corynebacterium	noun	corynebacterium|corynebacterium|R|N
+coryphaeus	noun	coryphaeus|coryphaeus|R|N
+corypheus	noun	corypheus|corypheus|R|N
+coryza	noun	coryza|coryza|R|N
+cosecant	noun	co-|co|P ; secant|secant|R|N
+coseismal	adj	co-|co|P ; seismal|seismal|R|Adj
+cosentient	adj	co-|co|P ; sentient|sentient|R|Adj
+coset	noun	co-|co|P ; set|set|R|N
+cosher	verb	cosher|cosher|R|V
+cosign	verb	co-|co|P ; sign|sign|R|V
+cosignatory	noun	co-|co|P ; signatory|signatory|R|N
+cosmetician	noun	cosmetician|cosmetician|R|N
+cosmism	noun	cosmism|cosmism|R|N
+cosmochemistry	noun	cosmochemistry|cosmochemistry|R|N
+cosmocracy	noun	cosmocracy|cosmocracy|R|N
+cosmocrat	noun	cosmocrat|cosmocrat|R|N
+cosmodrome	noun	cosmodrome|cosmodrome|R|N
+cosmogenic	adj	cosmogenic|cosmogenic|R|Adj
+cosmogonic	adj	cosmogonic|cosmogonic|R|Adj
+cosmogonically	adv	cosmogonic|cosmogonic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+cosmogonist	noun	cosmogony|cosmogon|R|N ; -ist|ist|S
+cosmographer	noun	cosmography|cosmograph|R|N ; -er|er|S||-er (N)
+cosmographic	adj	cosmography|cosmograph|R|N ; -ic|ic|S
+cosmographical	adj	cosmography|cosmograph|R|N ; -ical|ical|S
+cosmography	noun	cosmography|cosmography|R|N
+cosmologically	adv	cosmology|cosmolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+cosmonautic	adj	cosmonaut|cosmonaut|R|N ; -ic|ic|S
+cosmonautical	adj	cosmonaut|cosmonaut|R|N ; -ical|ical|S
+cosmonautics	noun	cosmonaut|cosmonaut|R|N ; -ic|ic|S ; -s|s|I||-s (plural)
+cosmopolis	noun	cosmopolis|cosmopolis|R|N
+cosmopolitanize	verb	cosmopolitan|cosmopolitan|R|Adj ; -ize|ize|S
+cosmopolite	noun	cosmopolite|cosmopolite|R|N
+cosmopolitism	noun	cosmopolite|cosmopolit|R|N ; -ism|ism|S
+cosplay	noun	cosplay|cosplay|R|N
+cosplayer	noun	cosplay|cosplay|R|N ; -er|er|S||-er (N)
+cossie	noun	cossie|cossie|R|N
+costard	noun	costard|costard|R|N
+costean	verb	costean|costean|R|V
+coster	noun	coster|coster|R|N
+costive	adj	costive|costive|R|Adj
+costively	adv	costive|costive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+costiveness	noun	costive|costive|R|Adj ; -ness|ness|S
+costlessness	noun	cost|cost|R|N ; -less|less|S ; -ness|ness|S
+costliness	noun	cost|cost|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+costmary	noun	costmary|costmary|R|N
+costus	noun	costus|costus|R|N
+cosubordinate	noun	co-|co|P ; subordinate|subordinate|R|Adj
+cotangent	noun	co-|co|P ; tangent|tangent|R|N
+cotenant	noun	co-|co|P ; tenant|tenant|R|N
+cotext	noun	co-|co|P ; text|text|R|N
+cothurnus	noun	cothurnus|cothurnus|R|N
+cotidal	adj	co-|co|P ; tidal|tidal|R|Adj
+cotinga	noun	cotinga|cotinga|R|N
+cotransplantation	noun	co-|co|P ; transplant|transplant|R|V ; -ation|ation|S
+cottagey	adj	cottage|cottage|R|N ; -y|y|S
+cotter	noun	cotter|cotter|R|N
+cottongrass	noun	cotton|cotton|R|N ; grass|grass|R|N
+cottonocracy	noun	cottonocracy|cottonocracy|R|N
+cotyledonal	adj	cotyledon|cotyledon|R|N ; -al|al|S
+cotyledonous	adj	cotyledon|cotyledon|R|N ; -ous|ous|S
+cotyloid	adj	cotyloid|cotyloid|R|Adj
+cotylosaur	noun	cotylosaur|cotylosaur|R|N
+coua	noun	coua|coua|R|N
+coucal	noun	coucal|coucal|R|N
+couchant	adj	couch|couch|R|V ; -ant|ant|S
+couched	verb	couch|couch|R|V ; -ed|ed|I||-ed (v2)
+coucher	noun	couch|couch|R|V ; -er|er|S||-er (N)
+couchette	noun	couch|couch|R|N ; -ette|ette|S
+couching	noun	couch|couch|R|V ; -ing|ing|S||-ing (N)
+cougher	noun	cough|cough|R|V ; -er|er|S||-er (N)
+coulisse	noun	coulisse|coulisse|R|N
+coulombmeter	noun	coulomb|coulomb|R|N ; meter|meter|R|N
+coulometer	noun	coulometer|coulometer|R|N
+coulrophobia	noun	coulrophobia|coulrophobia|R|N
+coumarou	noun	coumarou|coumarou|R|N
+councilmember	noun	council|council|R|N ; member|member|R|N
+counselee	noun	counsel|counsel|R|V ; -ee|ee|S

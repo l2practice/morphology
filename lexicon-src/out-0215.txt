@@ -1,0 +1,200 @@
+ablaut	noun	ablaut|ablaut|R|N
+ableism	noun	able|able|R|Adj ; -ism|ism|S
+ableist	noun	able|able|R|Adj ; -ist|ist|S
+ableness	noun	able|able|R|Adj ; -ness|ness|S
+ablepsia	noun	ablepsia|ablepsia|R|N
+ablet	noun	ablet|ablet|R|N
+abloom	adj	a-|a|P ; bloom|bloom|R|N
+abluent	noun	abluent|abluent|R|N
+ablush	adj	a-|a|P ; blush|blush|R|V
+ablute	verb	ablute|ablute|R|V
+ablutionary	adj	ablution|ablution|R|N ; -ary|ary|S
+ablutophobia	noun	ablutophobia|ablutophobia|R|N
+abnegate	verb	abnegate|abnegate|R|V
+abnegator	noun	abnegate|abnegat|R|V ; -or|or|S
+abnormalcy	noun	abnormal|abnormal|R|Adj ; -cy|cy|S
+abnormity	noun	abnormity|abnormity|R|N
+abo	noun	abo|abo|R|N
+abohm	noun	abohm|abohm|R|N
+aboil	adj	a-|a|P ; boil|boil|R|V
+abolishable	adj	abolish|abolish|R|V ; -able|able|S
+abolitionary	adj	abolition|abolition|R|N ; -ary|ary|S
+abomasum	noun	abomasum|abomasum|R|N
+abominableness	noun	abominable|abominable|R|Adj ; -ness|ness|S
+abominate	verb	abominate|abominate|R|V
+abominator	noun	abominate|abominat|R|V ; -or|or|S
+abonnement	noun	abonnement|abonnement|R|N
+aboral	adj	aboral|aboral|R|Adj
+aboriginality	noun	aboriginal|aboriginal|R|Adj ; -ity|ity|S
+aboriginally	adv	aboriginal|aboriginal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+aborigines	noun	aborigine|aborigin|R|N ; -es|es|I||-s (plural)
+aborning	adj	a-|a|P ; born|born|R|V ; -ing|ing|I||-ing (v)
+aborter	noun	abort|abort|R|V ; -er|er|S||-er (N)
+aborticide	noun	aborticide|aborticide|R|N
+abortin	noun	abortin|abortin|R|N
+abortively	adv	abort|abort|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+abortiveness	noun	abort|abort|R|V ; -ive|ive|S ; -ness|ness|S
+abounding	verb	abound|abound|R|V ; -ing|ing|I||-ing (v)
+abovementioned	adj	above|above|R|Adv ; mention|mention|R|V ; -ed|ed|S||-ed (adj)
+abovesaid	adj	above|above|R|Adv ; say|said|R|V ; -ed||I||-ed (v2)
+abrachia	noun	abrachia|abrachia|R|N
+abradant	noun	abradant|abradant|R|N
+abranchial	adj	a-|a|P ; branch|branch|R|N ; -ial|ial|S
+abranchiate	adj	abranchiate|abranchiate|R|Adj
+abreact	verb	abreact|abreact|R|V
+abreaction	noun	abreact|abreact|R|V ; -ion|ion|S
+abridger	noun	abridge|abridg|R|V ; -er|er|S||-er (N)
+abridging	verb	abridge|abridg|R|V ; -ing|ing|I||-ing (v)
+abrim	adj	a-|a|P ; brim|brim|R|N
+abroach	adj	a-|a|P ; broach|broach|R|V
+abrogable	adj	abrogate|abrog|R|V ; -able|able|S
+abrogative	adj	abrogate|abrogat|R|V ; -ive|ive|S
+abruption	noun	abrupt|abrupt|R|Adj ; -ion|ion|S
+abs	noun	abs|abs|R|N
+abscise	verb	abscise|abscise|R|V
+absciss	noun	absciss|absciss|R|N
+abscissa	noun	abscissa|abscissa|R|N
+abscission	noun	abscission|abscission|R|N
+absconder	noun	abscond|abscond|R|V ; -er|er|S||-er (N)
+absconding	verb	abscond|abscond|R|V ; -ing|ing|I||-ing (v)
+abseiler	noun	abseil|abseil|R|V ; -er|er|S||-er (N)
+abseiling	verb	abseil|abseil|R|V ; -ing|ing|I||-ing (v)
+absentation	noun	absent|absent|R|V ; -ation|ation|S
+absinthian	adj	absinthian|absinthian|R|Adj
+absinthin	noun	absinthin|absinthin|R|N
+absolutive	adj	absolute|absolut|R|Adj ; -ive|ive|S
+absolutize	verb	absolute|absolut|R|Adj ; -ize|ize|S
+absolutory	adj	absolute|absolut|R|Adj ; -ory|ory|S
+absolvable	adj	absolve|absolv|R|V ; -able|able|S
+absorbability	noun	absorb|absorb|R|V ; -able|abil|S ; -ity|ity|S
+absorbedly	adv	absorb|absorb|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+absorbedness	noun	absorb|absorb|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+absorbefacient	adj	absorbefacient|absorbefacient|R|Adj
+absorbingly	adv	absorb|absorb|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+absorptance	noun	absorptance|absorptance|R|N
+absorptiometer	noun	absorptiometer|absorptiometer|R|N
+absorptivity	noun	absorptive|absorptiv|R|Adj ; -ity|ity|S
+absquatulate	verb	absquatulate|absquatulate|R|V
+abstemiously	adv	abstemious|abstemious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+abstemiousness	noun	abstemious|abstemious|R|Adj ; -ness|ness|S
+abstentionist	noun	abstention|abstention|R|N ; -ist|ist|S
+abstergent	noun	abstergent|abstergent|R|N
+abstersive	adj	abstersive|abstersive|R|Adj
+abstinency	noun	abstinency|abstinency|R|N
+abstinently	adv	abstinent|abstinent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+abstractedness	noun	abstract|abstract|R|Adj ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+abstracter	noun	abstract|abstract|R|V ; -er|er|S||-er (N)
+abstractionism	noun	abstraction|abstraction|R|N ; -ism|ism|S
+abstractive	adj	abstract|abstract|R|Adj ; -ive|ive|S
+abstriction	noun	abstriction|abstriction|R|N
+abstrusely	adv	abstruse|abstruse|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+abstruseness	noun	abstruse|abstruse|R|Adj ; -ness|ness|S
+absurdism	noun	absurd|absurd|R|Adj ; -ism|ism|S
+abterminal	adj	abterminal|abterminal|R|Adj
+abugida	noun	abugida|abugida|R|N
+abulia	noun	abulia|abulia|R|N
+abulic	adj	abulic|abulic|R|Adj
+abura	noun	abura|abura|R|N
+abutilon	noun	abutilon|abutilon|R|N
+abuttal	noun	abut|abut|R|V ; -al|tal|S
+abutter	noun	abut|abut|R|V ; -er|ter|S||-er (N)
+abutting	verb	abut|abut|R|V ; -ing|ting|I||-ing (v)
+abuzz	adj	a-|a|P ; buzz|buzz|R|V
+abysm	noun	abysm|abysm|R|N
+abyssobenthic	adj	abyssobenthic|abyssobenthic|R|Adj
+abzyme	noun	abzyme|abzyme|R|N
+ac	noun	ac|ac|R|N
+academese	noun	academese|academese|R|N
+academicals	noun	academical|academical|R|Adj ; -s|s|I||-s (plural)
+academicism	noun	academic|academic|R|Adj ; -ism|ism|S
+acai	noun	acai|acai|R|N
+acalculia	noun	acalculia|acalculia|R|N
+acaleph	noun	acaleph|acaleph|R|N
+acanthite	noun	acanthite|acanthite|R|N
+acanthocarpous	adj	acanthocarpous|acanthocarpous|R|Adj
+acanthocephalan	noun	acanthocephalan|acanthocephalan|R|N
+acanthocephalous	adj	acanthocephalous|acanthocephalous|R|Adj
+acanthocladous	adj	acanthocladous|acanthocladous|R|Adj
+acanthocyte	noun	acanthocyte|acanthocyte|R|N
+acanthoma	noun	acanthoma|acanthoma|R|N
+acanthopore	noun	acanthopore|acanthopore|R|N
+acanthosis	noun	acanthosis|acanthosis|R|N
+acapsular	adj	a-|a|P ; capsular|capsular|R|Adj
+acardia	noun	a-|a|P ; cardia|cardia|R|N
+acarid	noun	acarid|acarid|R|N
+acarology	noun	acarology|acarology|R|N
+acarophobia	noun	acarophobia|acarophobia|R|N
+acarpellous	adj	a-|a|P ; carpellous|carpellous|R|Adj
+acarpous	adj	a-|a|P ; carpous|carpous|R|Adj
+acarus	noun	acarus|acarus|R|N
+acatalectic	adj	a-|a|P ; catalectic|catalectic|R|Adj
+acatalepsy	noun	a-|a|P ; catalepsy|catalepsy|R|N
+acathistus	noun	acathistus|acathistus|R|N
+acatholic	adj	a-|a|P ; catholic|catholic|R|Adj
+acaulescent	adj	a-|a|P ; caulescent|caulescent|R|Adj
+acauline	adj	a-|a|P ; cauline|cauline|R|Adj
+acaulose	adj	a-|a|P ; caulose|caulose|R|Adj
+acaulosia	noun	acaulosia|acaulosia|R|N
+acaulous	adj	a-|a|P ; caulous|caulous|R|Adj
+acaustobiolith	noun	acaustobiolith|acaustobiolith|R|N
+accedence	noun	accede|acced|R|V ; -ence|ence|S
+accelerando	noun	accelerando|accelerando|R|N
+accelerationism	noun	acceleration|acceleration|R|N ; -ism|ism|S
+accentologist	noun	accentologist|accentologist|R|N
+accentology	noun	accentology|accentology|R|N
+accentor	noun	accentor|accentor|R|N
+accentually	adv	accentual|accentual|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+accentuator	noun	accentuate|accentuat|R|V ; -or|or|S
+acceptableness	noun	accept|accept|R|V ; -able|able|S ; -ness|ness|S
+acceptation	noun	accept|accept|R|V ; -ation|ation|S
+accessary	noun	access|access|R|N ; -ary|ary|S
+accessibleness	noun	access|access|R|N ; -ible|ible|S ; -ness|ness|S
+accessibly	adv	access|access|R|N ; -ible|ib|S ; -ly|ly|I|Adv|-ly (adv)
+accessional	adj	accession|accession|R|N ; -al|al|S
+accessorial	adj	accessory|accessori|R|N ; -al|al|S
+accessorily	adv	accessory|accessori|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+accessoriness	noun	accessory|accessori|R|N ; -ness|ness|S
+acciaccatura	noun	acciaccatura|acciaccatura|R|N
+accidence	noun	accidence|accidence|R|N
+accidie	noun	accidie|accidie|R|N
+accipiter	noun	accipiter|accipiter|R|N
+accipitral	adj	accipitral|accipitral|R|Adj
+accipitrid	noun	accipitrid|accipitrid|R|N
+accipitrine	adj	accipitrine|accipitrine|R|Adj
+acclaimer	noun	acclaim|acclaim|R|V ; -er|er|S||-er (N)
+acclamatory	adj	acclamatory|acclamatory|R|Adj
+acclimatation	noun	acclimate|acclimat|R|V ; -ation|ation|S
+acclimated	verb	acclimate|acclimat|R|V ; -ed|ed|I||-ed (v2)
+acclimatizational	adj	acclimatization|acclimatization|R|N ; -al|al|S
+acclimatizer	noun	acclimatize|acclimatiz|R|V ; -er|er|S||-er (N)
+acclivity	noun	acclivity|acclivity|R|N
+acclivous	adj	acclivous|acclivous|R|Adj
+accommodatingly	adv	accommodate|accommodat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+accommodativeness	noun	accommodate|accommodat|R|V ; -ive|ive|S ; -ness|ness|S
+accommodator	noun	accommodate|accommodat|R|V ; -or|or|S
+accomplishable	adj	accomplish|accomplish|R|V ; -able|able|S
+accomplisher	noun	accomplish|accomplish|R|V ; -er|er|S||-er (N)
+accordant	adj	accord|accord|R|V ; -ant|ant|S
+accordantly	adv	accord|accord|R|V ; -ant|ant|S ; -ly|ly|I|Adv|-ly (adv)
+accosted	verb	accost|accost|R|V ; -ed|ed|I||-ed (v2)
+accosting	verb	accost|accost|R|V ; -ing|ing|I||-ing (v)
+accouchement	noun	accouchement|accouchement|R|N
+accoucheur	noun	accoucheur|accoucheur|R|N
+accoucheuse	noun	accoucheuse|accoucheuse|R|N
+accountableness	noun	account|account|R|V ; -able|able|S ; -ness|ness|S
+accountantship	noun	accountant|accountant|R|N ; -ship|ship|S
+accouter	verb	accouter|accouter|R|V
+accouterment	noun	accouter|accouter|R|V ; -ment|ment|S
+accrescent	adj	accrescent|accrescent|R|Adj
+accretionary	adj	accretion|accretion|R|N ; -ary|ary|S
+accretive	adj	accrete|accret|R|V ; -ive|ive|S
+accruement	noun	accrue|accrue|R|V ; -ment|ment|S
+accruing	verb	accrue|accru|R|V ; -ing|ing|I||-ing (v)
+acculturated	verb	acculturate|acculturat|R|V ; -ed|ed|I||-ed (v2)
+acculture	verb	ac-|ac|P ; culture|culture|R|N
+accumbent	adj	accumbent|accumbent|R|Adj
+accumulable	adj	accumulate|accumul|R|V ; -able|able|S
+accumulatively	adv	accumulate|accumulat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+accumulativeness	noun	accumulate|accumulat|R|V ; -ive|ive|S ; -ness|ness|S
+accurateness	noun	accurate|accurate|R|Adj ; -ness|ness|S
+accurse	verb	ac-|ac|P ; curse|curse|R|V

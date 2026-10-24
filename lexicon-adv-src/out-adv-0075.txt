@@ -1,0 +1,150 @@
+dorsum	noun	=
+obscurantism	noun	obscur-|obscur|B|Adj|||Latin obscurare 'to obscure' ; -ant|ant|S||||Latin -ans 'present participle' ; -ism|ism|S||||Greek -ismos 'doctrine'
+credited	verb	cred-|cred|B|V|||Latin credere 'to trust' ; -it|it|S||||Latin -itus 'past participle' ; -ed|ed|I
+altruistically	adv	=
+eventuate	verb	event-|eventu|B|N|||Latin eventus 'event' ; -ate|ate|S||||Latin -atus 'verb-forming'
+carnelian	noun	=
+dolorous	adj	dolor-|dolor|B|N|||Latin dolor 'pain' ; -ous|ous|S||||Latin -osus 'full of'
+reticule	noun	=
+revolutionist	noun	=
+caesura	noun	=
+bilateralism	noun	=
+technetium	noun	techn-|techn|B|N|||Greek tekhne 'art, skill' ; -et-|et|S||||Greek -tos 'artificial, made' ; -ium|ium|S||||Latin -ium 'chemical element'
+enantiomer	noun	=
+tufa	noun	=
+gazetteer	noun	=
+goby	noun	=
+biogeographical	adj	bio-|bio|B|N|||Greek bios 'life' ; geographical|geographical|R|Adj
+monstrance	noun	monstr-|monstr|B|V|||Latin monstrare 'to show' ; -ance|ance|S||||Latin -antia 'state, quality'
+tuberose	noun	tuber-|tuber|B|N|||Latin tuber 'swelling' ; -ose|ose|S||||Latin -osus 'full of'
+serous	adj	ser-|ser|B|N|||Latin serum 'whey' ; -ous|ous|S||||Latin -osus 'full of'
+strychnine	noun	strychn-|strychn|B|N|||Greek strykhnos 'nightshade' ; -ine|ine|S||||Greek -ine 'chemical substance'
+scrutineer	noun	=
+mutualistic	noun	=
+krypton	noun	krypt-|krypt|B|Adj|||Greek kryptos 'hidden' ; -on|on|S||||Greek -on 'chemical element'
+countrified	adj	=
+impiety	noun	im-|im|P||||Latin in- 'not' ; -piet-|piet|B|Adj|||Latin pius 'pious' ; -y|y|S||||Latin -tas 'state, quality'
+biodegrade	verb	bio-|bio|B|N|||Greek bios 'life' ; degrade|degrade|R|V
+pugnacity	noun	pugn-|pugn|B|V|||Latin pugnare 'to fight' ; -acity|acity|S||||Latin -acitas 'state, quality'
+fantasist	noun	phantas-|fantas|B|V|||Greek phantazein 'to imagine' ; -ist|ist|S
+statically	adv	stat-|stat|B|V|||Greek histanai 'to stand' ; -ic|ic|S||||Greek -ikos 'relating to' ; -al|al|S||||Latin -alis 'relating to' ; -ly|ly|I
+bastardize	verb	=
+abjection	noun	ab-|ab|P||||Latin ab 'away' ; -ject-|ject|B|V|||Latin iacere 'to throw' ; -ion|ion|S||||Latin -io 'act, state'
+marchese	noun	=
+selva	noun	=
+glaucous	adj	glauc-|glauc|B|Adj|||Greek glaukos 'blue-green' ; -ous|ous|S||||Latin -osus 'full of'
+gastrocnemius	noun	=
+proselytism	noun	=
+experimentalism	noun	=
+chthonic	adj	chthon-|chthon|B|N|||Greek khthon 'ground' ; -ic|ic|S||||Greek -ikos 'relating to'
+caliche	noun	=
+japonica	noun	=
+incurious	adj	in-|in|P||||Latin in- 'not' ; -curi-|curi|B|Adj|||Latin curiosus 'careful' ; -ous|ous|S||||Latin -osus 'full of'
+ethane	noun	=
+cunnilingus	noun	=
+diagnosable	adj	=
+milfoil	noun	mil-|mil|P||||Latin mille 'thousand' ; -foli-|foil|B|N|||Latin folium 'leaf'
+recto	noun	=
+periosteum	noun	peri-|peri|P||||Greek peri 'around' ; -oste-|osteum|B|N|||Greek osteon 'bone'
+preterite	noun	=
+evert	verb	e-|e|P||||Latin ex- 'out' ; -vert|vert|B|V|||Latin vertere 'to turn'
+stegosaurus	noun	stego-|stego|B|N|||Greek stegos 'roof' ; -saurus|saurus|B|N|||Greek sauros 'lizard'
+rubidium	noun	=
+hematocrit	noun	hemato-|hemato|B|N|||Greek haima 'blood' ; -crit|crit|B|V|||Greek krinein 'to judge, separate'
+circumvention	noun	=
+mutism	noun	=
+goniometer	noun	gonio-|gonio|B|N|||Greek gonia 'angle' ; meter|meter|R|N
+turbofan	noun	=
+neurophysiology	noun	=
+precognition	noun	pre-|pre|P||||Latin prae- 'before' ; -cogn-|cogn|B|V|||Latin cognoscere 'to know' ; -ition|ition|S||||Latin -itio 'act, state'
+supervene	verb	super-|super|P||||Latin super 'above' ; -ven-|vene|B|V|||Latin venire 'to come'
+weaponization	noun	=
+dematerialize	verb	=
+disputable	adj	=
+lubricious	adj	lubric-|lubric|B|Adj|||Latin lubricus 'slippery' ; -ious|ious|S||||Latin -iosus 'full of'
+homunculus	noun	hom-|hom|B|N|||Latin homo 'man' ; -unculus|unculus|S||||Latin -culus 'diminutive'
+solon	noun	=
+tian	noun	=
+caryatid	noun	=
+apotropaic	adj	apo-|apo|P||||Greek apo 'away' ; -trop-|trop|B|N|||Greek tropos 'turn' ; -aic|aic|S||||Greek -ikos 'relating to'
+seraph	noun	=
+syllabary	noun	syllab-|syllab|B|N|||Latin syllaba 'syllable' ; -ary|ary|S||||Latin -arius 'relating to'
+verdure	noun	verd-|verd|B|Adj|||Latin viridis 'green' ; -ure|ure|S||||Latin -ura 'abstract noun'
+biorhythm	noun	bio-|bio|B|N|||Greek bios 'life' ; rhythm|rhythm|R|N
+dissimulate	verb	dis-|dis|P||||Latin dis- 'apart' ; -simul-|simul|B|V|||Latin simulare 'to pretend' ; -ate|ate|S||||Latin -atus 'verb-forming'
+pyroclastic	adj	pyro-|pyro|B|N|||Greek pyr 'fire' ; -clast-|clast|B|Adj|||Greek klastos 'broken' ; -ic|ic|S||||Greek -ikos 'relating to'
+asphyxia	noun	asphyx-|asphyx|B|N|||Greek asphyxia 'stopping of pulse' ; -ia|ia|S||||Greek -ia 'state, quality'
+accommodative	adj	=
+pabulum	noun	=
+ignoramus	noun	=
+satrap	noun	=
+organochlorine	noun	=
+chatelaine	noun	=
+anarchical	adj	=
+biped	noun	bi-|bi|P||||Latin bi- 'two' ; -ped|ped|B|N|||Latin pes 'foot'
+summiteer	noun	=
+commensurable	adj	com-|com|P||||Latin com- 'with' ; -mensur-|mensur|B|V|||Latin mensurare 'to measure' ; -able|able|S||||Latin -abilis 'able'
+televisual	adj	tele-|tele|B||||Greek tele 'far' ; visual|visual|R|Adj
+telephonic	adj	tele-|tele|B||||Greek tele 'far' ; -phon-|phon|B|N|||Greek phone 'sound, voice' ; -ic|ic|S||||Greek -ikos 'relating to'
+peritoneal	adj	=
+scabious	noun	=
+gnosis	noun	gno-|gno|B|V|||Greek gignoskein 'to know' ; -sis|sis|S||||Greek -sis 'process'
+impalpable	adj	=
+photomultiplier	noun	photo-|photo|B|N|||Greek phos 'light' ; multiplier|multiplier|R|N
+ferromagnetic	adj	=
+urologic	adj	=
+insectivorous	adj	insecti-|insecti|B|N|||Latin insectum 'insect' ; -vor-|vor|B|V|||Latin vorare 'to eat' ; -ous|ous|S||||Latin -osus 'full of'
+coronagraph	noun	=
+episiotomy	noun	episio-|episio|B|N|||Greek epision 'pubic region' ; -tomy|tomy|B|V|||Greek temnein 'to cut'
+demotic	adj	demo-|demo|B|N|||Greek demos 'common people' ; -tic|tic|S||||Greek -tikos 'relating to'
+creolization	noun	=
+primogeniture	noun	primo-|primo|B|Adj|||Latin primus 'first' ; geniture|geniture|R|N
+magus	noun	=
+amyloidosis	noun	=
+fluorine	noun	fluor-|fluor|B|V|||Latin fluere 'to flow' ; -ine|ine|S
+mariculture	noun	mari-|mari|B|N|||Latin mare 'sea' ; culture|culture|R|N
+showery	adj	=
+sententious	adj	sententi-|sententi|B|N|||Latin sententia 'opinion' ; -ous|ous|S||||Latin -osus 'full of'
+rubicon	noun	=
+penetrable	adj	penetr-|penetr|B|V|||Latin penetrare 'to pierce' ; -able|able|S||||Latin -abilis 'able'
+manumission	noun	=
+thrombus	noun	=
+sublingual	adj	=
+plasticizer	noun	=
+parboil	verb	par-|par|P||||Latin per 'thoroughly' ; -bull-|boil|B|V|||Latin bullire 'to boil'
+onomatopoeia	noun	onomato-|onomato|B|N|||Greek onoma 'name' ; -poeia|poeia|B|V|||Greek poiein 'to make'
+frigidity	noun	frigid-|frigid|B|Adj|||Latin frigidus 'cold' ; -ity|ity|S||||Latin -itas 'state, quality'
+travertine	noun	=
+avascular	adj	=
+dynast	noun	=
+bioengineering	noun	bio-|bio|B|N|||Greek bios 'life' ; engineering|engineering|R|N
+zoonotic	adj	=
+pantheist	noun	=
+adenine	noun	aden-|aden|B|N|||Greek aden 'gland' ; -ine|ine|S||||Greek -ine 'chemical substance'
+homoeroticism	noun	homo-|homo|B||||Greek homos 'same' ; eroticism|eroticism|R|N
+kilim	noun	=
+odoriferous	adj	odori-|odori|B|N|||Latin odor 'smell' ; -fer-|fer|B|V|||Latin ferre 'to carry' ; -ous|ous|S||||Latin -osus 'full of'
+arriviste	noun	=
+fulmination	noun	=
+glycerol	noun	glycer-|glycer|B|Adj|||Greek glykeros 'sweet' ; -ol|ol|S||||Greek -ol 'alcohol'
+arrant	adj	arr-|arr|B|V||err|Latin errare 'to wander' ; -ant|ant|S||||Latin -ans 'present participle'
+brachialis	noun	brachi-|brachi|B|N|||Latin bracchium 'arm' ; -alis|alis|S||||Latin -alis 'relating to'
+liturgist	noun	=
+unction	noun	unct-|unct|B|V|||Latin unguere 'to anoint' ; -ion|ion|S||||Latin -io 'act, state'
+parthenogenesis	noun	partheno-|partheno|B|N|||Greek parthenos 'virgin' ; -genesis|genesis|B|N|||Greek genesis 'origin'
+eidetic	adj	=
+concision	noun	con-|con|P||||Latin com- 'together' ; -cis-|cis|B|V|||Latin caedere 'to cut' ; -ion|ion|S||||Latin -io 'act, state'
+physiatrist	noun	=
+infrequency	noun	=
+dysphonia	noun	dys-|dys|P||||Greek dys- 'ill, hard' ; -phon-|phon|B|N|||Greek phone 'sound, voice' ; -ia|ia|S||||Greek -ia 'state, quality'
+commissionaire	noun	=
+areola	noun	=
+voltmeter	noun	=
+glebe	noun	=
+pederast	noun	ped-|ped|B|N|||Greek pais 'boy' ; -erast|erast|B|V|||Greek eran 'to love'
+diopter	noun	di-|di|P||||Greek dia 'through' ; -opt-|opt|B|V|||Greek optein 'to see' ; -er|er|S
+indecorous	adj	=
+macromolecule	noun	macro-|macro|B||||Greek makros 'large' ; molecule|molecule|R|N
+humoral	adj	=
+memorialization	noun	=
+biphasic	adj	=

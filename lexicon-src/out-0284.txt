@@ -1,0 +1,200 @@
+fideicommissum	noun	fideicommissum|fideicommissum|R|N
+fideism	noun	fideism|fideism|R|N
+fideist	noun	fideist|fideist|R|N
+fidgetiness	noun	fidget|fidget|R|V ; -y|i|S ; -ness|ness|S
+fidgets	noun	fidget|fidget|R|V ; -s|s|I||-s (plural)
+fidibus	noun	fidibus|fidibus|R|N
+fiducial	adj	fiducial|fiducial|R|Adj
+fieldsman	noun	field|fields|R|N ; man|man|R|N
+fiendishness	noun	fiend|fiend|R|N ; -ish|ish|S ; -ness|ness|S
+fiendlike	adj	fiend|fiend|R|N ; -like|like|S
+fierily	adv	fiery|fieri|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+fieriness	noun	fiery|fieri|R|Adj ; -ness|ness|S
+fifer	noun	fife|fif|R|N ; -er|er|S||-er (N)
+fifties	noun	fifty|fifti|R|N ; -s|es|I||-s (plural)
+fiftyfold	adj	fifty|fifty|R|N ; fold|fold|R|N
+fiftysomething	noun	fifty|fifty|R|N ; some|some|R ; thing|thing|R|N
+figged	verb	fig|figg|R|V ; -ed|ed|I||-ed (v2)
+figging	verb	fig|figg|R|V ; -ing|ing|I||-ing (v)
+figulate	verb	figulate|figulate|R|V
+figuline	noun	figuline|figuline|R|N
+figurable	adj	figure|figur|R|V ; -able|able|S
+figurant	noun	figure|figur|R|V ; -ant|ant|S
+figurate	adj	figure|figur|R|V ; -ate|ate|S
+figurativeness	noun	figure|figur|R|V ; -ative|ative|S ; -ness|ness|S
+figured	verb	figure|figur|R|V ; -ed|ed|I||-ed (v2)
+figures	noun	figure|figure|R|N ; -s|s|I||-s (plural)
+figurette	noun	figure|figur|R|N ; -ette|ette|S
+figwort	noun	fig|fig|R|N ; wort|wort|R|N
+filamentation	noun	filament|filament|R|N ; -ation|ation|S
+filamented	adj	filament|filament|R|N ; -ed|ed|S||-ed (adj)
+filaria	noun	filaria|filaria|R|N
+filarial	adj	filaria|filari|R|N ; -al|al|S
+filariform	adj	filariform|filariform|R|Adj
+filature	noun	filature|filature|R|N
+filcher	noun	filch|filch|R|V ; -er|er|S||-er (N)
+filching	verb	filch|filch|R|V ; -ing|ing|I||-ing (v)
+filemot	noun	filemot|filemot|R|N
+filetype	noun	file|file|R|N ; type|type|R|N
+filiality	noun	filial|filial|R|Adj ; -ity|ity|S
+filialness	noun	filial|filial|R|Adj ; -ness|ness|S
+filibustering	verb	filibuster|filibuster|R|V ; -ing|ing|I||-ing (v)
+filicidal	adj	filicide|filicid|R|N ; -al|al|S
+filicide	noun	filicide|filicide|R|N
+filicoid	adj	filicoid|filicoid|R|Adj
+filicology	noun	filicology|filicology|R|N
+filiety	noun	filiety|filiety|R|N
+filiform	adj	filiform|filiform|R|Adj
+filleted	verb	fillet|fillet|R|V ; -ed|ed|I||-ed (v2)
+filleting	verb	fillet|fillet|R|V ; -ing|ing|I||-ing (v)
+fillister	noun	fillister|fillister|R|N
+filmdom	noun	film|film|R|N ; -dom|dom|S
+filmgoer	noun	film|film|R|N ; go|go|R|V ; -er|er|S||-er (N)
+filminess	noun	film|film|R|N ; -y|i|S ; -ness|ness|S
+filmize	verb	film|film|R|N ; -ize|ize|S
+filmland	noun	film|film|R|N ; land|land|R|N
+filoselle	noun	filoselle|filoselle|R|N
+filterability	noun	filter|filter|R|V ; -able|abil|S ; -ity|ity|S
+filterable	adj	filter|filter|R|V ; -able|able|S
+filthily	adv	filth|filth|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+filthiness	noun	filth|filth|R|N ; -y|i|S ; -ness|ness|S
+filtrate	noun	filtrate|filtrate|R|N
+filtrated	verb	filtrate|filtrat|R|V ; -ed|ed|I||-ed (v2)
+fimbria	noun	fimbria|fimbria|R|N
+fimbrial	adj	fimbria|fimbri|R|N ; -al|al|S
+fimbriate	adj	fimbria|fimbri|R|N ; -ate|ate|S
+fimbriated	adj	fimbria|fimbri|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+fimbriation	noun	fimbria|fimbri|R|N ; -ation|ation|S
+fimbrillate	adj	fimbrillate|fimbrillate|R|Adj
+finable	adj	fine|fin|R|V ; -able|able|S
+finagler	noun	finagle|finagl|R|V ; -er|er|S||-er (N)
+finagling	verb	finagle|finagl|R|V ; -ing|ing|I||-ing (v)
+finalisation	noun	final|final|R|Adj ; -ise|is|S ; -ation|ation|S
+finalism	noun	final|final|R|Adj ; -ism|ism|S
+finals	noun	final|final|R|N ; -s|s|I||-s (plural)
+finances	noun	finance|finance|R|N ; -s|s|I||-s (plural)
+financials	noun	financial|financial|R|Adj ; -s|s|I||-s (plural)
+finasteride	noun	finasteride|finasteride|R|N
+finback	noun	fin|fin|R|N ; back|back|R|N
+findability	noun	find|find|R|V ; -able|abil|S ; -ity|ity|S
+findable	adj	find|find|R|V ; -able|able|S
+findom	noun	findom|findom|R|N
+finer	adj	fine|fin|R|Adj ; -er|er|I||-er (comparative)
+finessed	verb	finesse|finess|R|V ; -ed|ed|I||-ed (v2)
+finessing	verb	finesse|finess|R|V ; -ing|ing|I||-ing (v)
+finest	adj	fine|fin|R|Adj ; -est|est|I||-est (superlative)
+fingered	verb	finger|finger|R|V ; -ed|ed|I||-ed (v2)
+fingerhole	noun	finger|finger|R|N ; hole|hole|R|N
+fingerroot	noun	finger|finger|R|N ; root|root|R|N
+finical	adj	finical|finical|R|Adj
+finicality	noun	finical|finical|R|Adj ; -ity|ity|S
+finicalness	noun	finical|finical|R|Adj ; -ness|ness|S
+finicking	verb	finick|finick|R|V ; -ing|ing|I||-ing (v)
+finikin	noun	finikin|finikin|R|N
+fining	verb	fine|fin|R|V ; -ing|ing|I||-ing (v)
+finitary	adj	finite|finit|R|Adj ; -ary|ary|S
+finiteness	noun	finite|finite|R|Adj ; -ness|ness|S
+finitism	noun	finite|finit|R|Adj ; -ism|ism|S
+finity	noun	finity|finity|R|N
+finless	adj	fin|fin|R|N ; -less|less|S
+finlet	noun	fin|fin|R|N ; -let|let|S
+finner	noun	fin|finn|R|N ; -er|er|S||-er (N)
+fintech	noun	fintech|fintech|R|N
+fioritura	noun	fioritura|fioritura|R|N
+fiqh	noun	fiqh|fiqh|R|N
+firebrat	noun	fire|fire|R|N ; brat|brat|R|N
+firebrick	noun	fire|fire|R|N ; brick|brick|R|N
+firebug	noun	fire|fire|R|N ; bug|bug|R|N
+firecrest	noun	fire|fire|R|N ; crest|crest|R|N
+firedamp	noun	fire|fire|R|N ; damp|damp|R|N
+fireless	adj	fire|fire|R|N ; -less|less|S
+firelock	noun	fire|fire|R|N ; lock|lock|R|N
+fireproofness	noun	fire|fire|R|N ; proof|proof|R|N ; -ness|ness|S
+firer	noun	fire|fir|R|V ; -er|er|S||-er (N)
+fireship	noun	fire|fire|R|N ; ship|ship|R|N
+firestarter	noun	fire|fire|R|N ; start|start|R|V ; -er|er|S||-er (N)
+firestriker	noun	fire|fire|R|N ; strike|strik|R|V ; -er|er|S||-er (N)
+firethorn	noun	fire|fire|R|N ; thorn|thorn|R|N
+firewire	noun	fire|fire|R|N ; wire|wire|R|N
+firewoman	noun	fire|fire|R|N ; woman|woman|R|N
+fireworm	noun	fire|fire|R|N ; worm|worm|R|N
+firkin	noun	firkin|firkin|R|N
+firman	noun	firman|firman|R|N
+firmer	adj	firm|firm|R|Adj ; -er|er|I||-er (comparative)
+firming	verb	firm|firm|R|V ; -ing|ing|I||-ing (v)
+firn	noun	firn|firn|R|N
+firstfruit	noun	first|first|R|Adj ; fruit|fruit|R|N
+firstling	noun	first|first|R|Adj ; -ling|ling|S
+fisc	noun	fisc|fisc|R|N
+fiscality	noun	fiscal|fiscal|R|Adj ; -ity|ity|S
+fishball	noun	fish|fish|R|N ; ball|ball|R|N
+fishbolt	noun	fish|fish|R|N ; bolt|bolt|R|N
+fishburger	noun	fish|fish|R|N ; burger|burger|R|N
+fishcake	noun	fish|fish|R|N ; cake|cake|R|N
+fished	verb	fish|fish|R|V ; -ed|ed|I||-ed (v2)
+fishes	noun	fish|fish|R|N ; -s|es|I||-s (plural)
+fishgig	noun	fish|fish|R|N ; gig|gig|R|N
+fishhead	noun	fish|fish|R|N ; head|head|R|N
+fishily	adv	fish|fish|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+fishiness	noun	fish|fish|R|N ; -y|i|S ; -ness|ness|S
+fishmarket	noun	fish|fish|R|N ; market|market|R|N
+fishplate	noun	fish|fish|R|N ; plate|plate|R|N
+fishworm	noun	fish|fish|R|N ; worm|worm|R|N
+fissilingual	adj	fissilingual|fissilingual|R|Adj
+fissility	noun	fissile|fissil|R|Adj ; -ity|ity|S
+fissiparism	noun	fissiparism|fissiparism|R|N
+fissiparity	noun	fissiparity|fissiparity|R|N
+fissiped	noun	fissiped|fissiped|R|N
+fissirostral	adj	fissirostral|fissirostral|R|Adj
+fissuration	noun	fissure|fissur|R|N ; -ation|ation|S
+fistball	noun	fist|fist|R|N ; ball|ball|R|N
+fistic	adj	fist|fist|R|N ; -ic|ic|S
+fistical	adj	fist|fist|R|N ; -ic|ic|S ; -al|al|S
+fisticuffs	noun	fisticuffs|fisticuffs|R|N
+fisting	verb	fist|fist|R|V ; -ing|ing|I||-ing (v)
+fistular	adj	fistular|fistular|R|Adj
+fistulose	adj	fistulose|fistulose|R|Adj
+fistwise	adv	fist|fist|R|N ; -wise|wise|S
+fitchet	noun	fitchet|fitchet|R|N
+fitfulness	noun	fit|fit|R|N ; -ful|ful|S ; -ness|ness|S
+fivepenny	adj	five|five|R|N ; penny|penny|R|N
+fives	noun	five|five|R|N ; -s|s|I||-s (plural)
+fivesome	noun	five|five|R|N ; -some|some|S
+fixature	noun	fixature|fixature|R|N
+fixedness	noun	fix|fix|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+fixings	noun	fix|fix|R|V ; -ing|ing|S||-ing (N) ; -s|s|I||-s (plural)
+fixism	noun	fix|fix|R|V ; -ism|ism|S
+fixist	noun	fix|fix|R|V ; -ist|ist|S
+fizgig	noun	fizgig|fizgig|R|N
+fizzenless	adj	fizzen|fizzen|R|N ; -less|less|S
+fizzling	verb	fizzle|fizzl|R|V ; -ing|ing|I||-ing (v)
+fjeld	noun	fjeld|fjeld|R|N
+flabbergasting	adj	flabbergast|flabbergast|R|V ; -ing|ing|S||-ing (adj)
+flabbily	adv	flab|flabb|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+flabbiness	noun	flab|flabb|R|N ; -y|i|S ; -ness|ness|S
+flabellate	adj	flabellate|flabellate|R|Adj
+flabelliform	adj	flabelliform|flabelliform|R|Adj
+flabellinerved	adj	flabellinerved|flabellinerved|R|Adj
+flabellum	noun	flabellum|flabellum|R|N
+flaccidity	noun	flaccid|flaccid|R|Adj ; -ity|ity|S
+flaccidness	noun	flaccid|flaccid|R|Adj ; -ness|ness|S
+flacon	noun	flacon|flacon|R|N
+flagellant	noun	flagellate|flagell|R|V ; -ant|ant|S
+flagellator	noun	flagellate|flagellat|R|V ; -or|or|S
+flagellatory	adj	flagellate|flagellat|R|V ; -ory|ory|S
+flagelliform	adj	flagelliform|flagelliform|R|Adj
+flagellum	noun	flagellum|flagellum|R|N
+flageolet	noun	flageolet|flageolet|R|N
+flageoletist	noun	flageolet|flageolet|R|N ; -ist|ist|S
+flagfish	noun	flag|flag|R|N ; fish|fish|R|N
+flagginess	noun	flag|flagg|R|N ; -y|i|S ; -ness|ness|S
+flaggy	adj	flag|flagg|R|N ; -y|y|S
+flagitious	adj	flagitious|flagitious|R|Adj
+flagitiousness	noun	flagitious|flagitious|R|Adj ; -ness|ness|S
+flagman	noun	flag|flag|R|N ; man|man|R|N
+flagrancy	noun	flagrant|flagran|R|Adj ; -cy|cy|S
+flam	noun	flam|flam|R|N
+flambeau	noun	flambeau|flambeau|R|N
+flamberge	noun	flamberge|flamberge|R|N
+flamboyancy	noun	flamboyant|flamboy|R|Adj ; -ancy|ancy|S
+flamed	verb	flame|flam|R|V ; -ed|ed|I||-ed (v2)

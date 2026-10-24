@@ -1,0 +1,200 @@
+dolichocranial	adj	dolichocranial|dolichocranial|R|Adj
+dolichofacial	adj	dolichofacial|dolichofacial|R|Adj
+dolichophallic	adj	dolichophallic|dolichophallic|R|Adj
+doline	noun	doline|doline|R|N
+doling	verb	dole|dol|R|V ; -ing|ing|I||-ing (v)
+dollarize	verb	dollar|dollar|R|N ; -ize|ize|S
+dollish	adj	doll|doll|R|N ; -ish|ish|S
+dolma	noun	dolma|dolma|R|N
+dolman	noun	dolman|dolman|R|N
+dolomitic	adj	dolomite|dolomit|R|N ; -ic|ic|S
+dolomitize	verb	dolomite|dolomit|R|N ; -ize|ize|S
+dolose	adj	dolose|dolose|R|Adj
+dolostone	noun	dolostone|dolostone|R|N
+dolour	noun	dolour|dolour|R|N
+dolphinarium	noun	dolphinarium|dolphinarium|R|N
+dolphinfish	noun	dolphin|dolphin|R|N ; fish|fish|R|N
+doltishness	noun	dolt|dolt|R|N ; -ish|ish|S ; -ness|ness|S
+domanial	adj	domanial|domanial|R|Adj
+dombra	noun	dombra|dombra|R|N
+domelike	adj	dome|dome|R|N ; -like|like|S
+domesticable	adj	domestic|domestic|R|Adj ; -able|able|S
+domesticize	verb	domestic|domestic|R|Adj ; -ize|ize|S
+domestique	noun	domestique|domestique|R|N
+domett	noun	domett|domett|R|N
+domic	adj	domic|domic|R|Adj
+domical	adj	domical|domical|R|Adj
+domiciled	adj	domicile|domicil|R|V ; -ed|ed|S||-ed (adj)
+domiciliate	verb	domicile|domicil|R|V ; -ate|iate|S
+domiciliation	noun	domicile|domicil|R|V ; -ation|iation|S
+domineeringly	adv	domineer|domineer|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+dominical	adj	dominical|dominical|R|Adj
+dominie	noun	dominie|dominie|R|N
+dominium	noun	dominium|dominium|R|N
+dominoed	adj	domino|domino|R|N ; -ed|ed|S||-ed (adj)
+dominoes	noun	domino|domino|R|N ; -es|es|I||-s (plural)
+domotics	noun	domotics|domotics|R|N
+domovoy	noun	domovoy|domovoy|R|N
+donah	noun	donah|donah|R|N
+donative	noun	donate|donat|R|V ; -ive|ive|S
+donator	noun	donate|donat|R|V ; -or|or|S
+donatory	adj	donate|donat|R|V ; -ory|ory|S
+donburi	noun	donburi|donburi|R|N
+donee	noun	donee|donee|R|N
+donga	noun	donga|donga|R|N
+dongle	noun	dongle|dongle|R|N
+donjon	noun	donjon|donjon|R|N
+donnishness	noun	don|donn|R|N ; -ish|ish|S ; -ness|ness|S
+donovanosis	noun	donovanosis|donovanosis|R|N
+doodah	noun	doodah|doodah|R|N
+doodlebug	noun	doodle|doodle|R|V ; bug|bug|R|N
+doodling	verb	doodle|doodl|R|V ; -ing|ing|I||-ing (v)
+doogh	noun	doogh|doogh|R|N
+doolie	noun	doolie|doolie|R|N
+dooming	verb	doom|doom|R|V ; -ing|ing|I||-ing (v)
+doomscrolling	noun	doom|doom|R|N ; scroll|scroll|R|V ; -ing|ing|S||-ing (N)
+doona	noun	doona|doona|R|N
+doorknocker	noun	door|door|R|N ; knock|knock|R|V ; -er|er|S||-er (N)
+doorplate	noun	door|door|R|N ; plate|plate|R|N
+doors	noun	door|door|R|N ; -s|s|I||-s (plural)
+doorwoman	noun	door|door|R|N ; woman|woman|R|N
+dop	noun	dop|dop|R|N
+doped	verb	dope|dop|R|V ; -ed|ed|I||-ed (v2)
+doper	noun	dope|dop|R|V ; -er|er|S||-er (N)
+dopester	noun	dope|dope|R|N ; -ster|ster|S
+dor	noun	dor|dor|R|N
+dorayaki	noun	dorayaki|dorayaki|R|N
+dorcadion	noun	dorcadion|dorcadion|R|N
+dormition	noun	dormition|dormition|R|N
+dormitive	adj	dormitive|dormitive|R|Adj
+dorp	noun	dorp|dorp|R|N
+dorsifixed	adj	dorsifixed|dorsifixed|R|Adj
+dorsispinal	adj	dorsispinal|dorsispinal|R|Adj
+dorsiventrality	noun	dorsiventrality|dorsiventrality|R|N
+dorsoventral	adj	dorsoventral|dorsoventral|R|Adj
+dorter	noun	dorter|dorter|R|N
+dosimetric	adj	dosimetry|dosimetr|R|N ; -ic|ic|S
+dosimetry	noun	dosimetry|dosimetry|R|N
+dosology	noun	dosology|dosology|R|N
+dotara	noun	dotara|dotara|R|N
+dotation	noun	dotation|dotation|R|N
+dotingly	adv	dote|dot|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+dots	noun	dot|dot|R|N ; -s|s|I||-s (plural)
+dotterel	noun	dotterel|dotterel|R|N
+dottiness	noun	dotty|dotti|R|Adj ; -ness|ness|S
+dotting	verb	dot|dott|R|V ; -ing|ing|I||-ing (v)
+dottle	noun	dottle|dottle|R|N
+doty	adj	doty|doty|R|Adj
+douane	noun	douane|douane|R|N
+doubanjiang	noun	doubanjiang|doubanjiang|R|N
+doubler	noun	double|doubl|R|V ; -er|er|S||-er (N)
+doubles	noun	double|double|R|N ; -s|s|I||-s (plural)
+doublethink	noun	double|double|R|Adj ; think|think|R|V
+doubleton	noun	doubleton|doubleton|R|N
+doubletree	noun	double|double|R|Adj ; tree|tree|R|N
+doublure	noun	doublure|doublure|R|N
+doubted	verb	doubt|doubt|R|V ; -ed|ed|I||-ed (v2)
+doubtfulness	noun	doubt|doubt|R|V ; -ful|ful|S ; -ness|ness|S
+douceur	noun	douceur|douceur|R|N
+douchebag	noun	douche|douche|R|N ; bag|bag|R|N
+douchi	noun	douchi|douchi|R|N
+douching	verb	douche|douch|R|V ; -ing|ing|I||-ing (v)
+doughface	noun	dough|dough|R|N ; face|face|R|N
+doughiness	noun	doughy|doughi|R|Adj ; -ness|ness|S
+doughlike	adj	dough|dough|R|N ; -like|like|S
+doughnutery	noun	doughnut|doughnut|R|N ; -ery|ery|S
+doughtiness	noun	doughty|doughti|R|Adj ; -ness|ness|S
+dougong	noun	dougong|dougong|R|N
+douhua	noun	douhua|douhua|R|N
+doujinshi	noun	doujinshi|doujinshi|R|N
+doum	noun	doum|doum|R|N
+douzeper	noun	douzeper|douzeper|R|N
+dovekie	noun	dovekie|dovekie|R|N
+dovelet	noun	dove|dove|R|N ; -let|let|S
+dovelike	adj	dove|dove|R|N ; -like|like|S
+dovetailed	verb	dovetail|dovetail|R|V ; -ed|ed|I||-ed (v2)
+dowdily	adv	dowdy|dowdi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+dowdiness	noun	dowdy|dowdi|R|Adj ; -ness|ness|S
+dowdyism	noun	dowdy|dowdy|R|Adj ; -ism|ism|S
+dowelling	verb	dowel|dowell|R|V ; -ing|ing|I||-ing (v)
+dowering	verb	dower|dower|R|V ; -ing|ing|I||-ing (v)
+dowerless	adj	dower|dower|R|N ; -less|less|S
+dowlas	noun	dowlas|dowlas|R|N
+downfield	adv	down|down|R|Adv ; field|field|R|N
+downflow	noun	down|down|R|Adv ; flow|flow|R|V
+downhaul	noun	down|down|R|Adv ; haul|haul|R|V
+downing	verb	down|down|R|V ; -ing|ing|I||-ing (v)
+downloader	noun	down|down|R|Adv ; load|load|R|V ; -er|er|S||-er (N)
+downmost	adj	down|down|R|Adv ; most|most|R|Adj
+downrightness	noun	downright|downright|R|Adj ; -ness|ness|S
+downstate	noun	down|down|R|Adv ; state|state|R|N
+downstater	noun	down|down|R|Adv ; state|stat|R|N ; -er|er|S||-er (N)
+downstep	noun	down|down|R|Adv ; step|step|R|V
+downthrow	noun	down|down|R|Adv ; throw|throw|R|V
+downtrend	noun	down|down|R|Adv ; trend|trend|R|N
+downvote	verb	down|down|R|Adv ; vote|vote|R|V
+dowsing	verb	dowse|dows|R|V ; -ing|ing|I||-ing (v)
+doxographer	noun	doxographer|doxographer|R|N
+doxx	verb	doxx|doxx|R|V
+doxy	noun	doxy|doxy|R|N
+dozenth	adj	dozen|dozen|R|N ; -th|th|S
+draadsitter	noun	draadsitter|draadsitter|R|N
+drably	adv	drab|drab|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+dracaena	noun	dracaena|dracaena|R|N
+drachm	noun	drachm|drachm|R|N
+draco	noun	draco|draco|R|N
+draconic	adj	draconic|draconic|R|Adj
+dracunculiasis	noun	dracunculiasis|dracunculiasis|R|N
+draggle	verb	draggle|draggle|R|V
+draghound	noun	drag|drag|R|V ; hound|hound|R|N
+dragline	noun	drag|drag|R|V ; line|line|R|N
+dragoman	noun	dragoman|dragoman|R|N
+dragoness	noun	dragon|dragon|R|N ; -ess|ess|S
+dragonet	noun	dragonet|dragonet|R|N
+dragonfish	noun	dragon|dragon|R|N ; fish|fish|R|N
+dragonish	adj	dragon|dragon|R|N ; -ish|ish|S
+dragonnade	noun	dragonnade|dragonnade|R|N
+dragonslayer	noun	dragon|dragon|R|N ; slay|slay|R|V ; -er|er|S||-er (N)
+dragsman	noun	drag|drags|R|V ; man|man|R|N
+drail	noun	drail|drail|R|N
+draisine	noun	draisine|draisine|R|N
+dramaturgic	adj	dramaturgy|dramaturg|R|N ; -ic|ic|S
+dramaturgist	noun	dramaturgy|dramaturg|R|N ; -ist|ist|S
+dramedy	noun	dramedy|dramedy|R|N
+drank	verb	drink|drank|R|V ; -ed||I||-ed (v2)
+draperied	adj	drapery|draperi|R|N ; -ed|ed|S||-ed (adj)
+drapes	noun	drape|drape|R|N ; -s|s|I||-s (plural)
+dratted	adj	dratted|dratted|R|Adj
+draughtboard	noun	draught|draught|R|N ; board|board|R|N
+draughtiness	noun	draughty|draughti|R|Adj ; -ness|ness|S
+draughtproof	adj	draught|draught|R|N ; proof|proof|R|N
+draughts	noun	draught|draught|R|N ; -s|s|I||-s (plural)
+draugr	noun	draugr|draugr|R|N
+drawable	adj	draw|draw|R|V ; -able|able|S
+drawbar	noun	draw|draw|R|V ; bar|bar|R|N
+drawee	noun	draw|draw|R|V ; -ee|ee|S
+drawerful	noun	draw|draw|R|V ; -er|er|S||-er (N) ; -ful|ful|S
+drawers	noun	draw|draw|R|V ; -er|er|S||-er (N) ; -s|s|I||-s (plural)
+drawgear	noun	draw|draw|R|V ; gear|gear|R|N
+drawhook	noun	draw|draw|R|V ; hook|hook|R|N
+drawler	noun	drawl|drawl|R|V ; -er|er|S||-er (N)
+drawling	verb	drawl|drawl|R|V ; -ing|ing|I||-ing (v)
+drawlingly	adv	drawl|drawl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+drawls	noun	drawl|drawl|R|N ; -s|s|I||-s (plural)
+drawn	verb	draw|drawn|R|V ; -en||I||-en (participle)
+drayage	noun	dray|dray|R|N ; -age|age|S
+drayman	noun	dray|dray|R|N ; man|man|R|N
+dreadfulness	noun	dread|dread|R|V ; -ful|ful|S ; -ness|ness|S
+dreadless	adj	dread|dread|R|V ; -less|less|S
+dreadlocks	noun	dread|dread|R|Adj ; lock|lock|R|N ; -s|s|I||-s (plural)
+dreads	noun	dread|dread|R|N ; -s|s|I||-s (plural)
+dreamt	verb	dream|dreamt|R|V ; -ed||I||-ed (v2)
+dreamwork	noun	dream|dream|R|N ; work|work|R|V
+dree	verb	dree|dree|R|V
+dreggy	adj	dreg|dregg|R|N ; -y|y|S
+drencher	noun	drench|drench|R|V ; -er|er|S||-er (N)
+dressiness	noun	dressy|dressi|R|Adj ; -ness|ness|S
+drever	noun	drever|drever|R|N
+drey	noun	drey|drey|R|N
+driblet	noun	driblet|driblet|R|N
+driftage	noun	drift|drift|R|V ; -age|age|S

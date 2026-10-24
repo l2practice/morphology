@@ -1,0 +1,150 @@
+clasper	noun	=
+inanity	noun	=
+cuneiform	adj	cune-|cunei|B|N|||Latin cuneus 'wedge' ; -form|form|B|N|||Latin forma 'shape'
+cerebellum	noun	=
+amyloid	noun	=
+rheme	noun	=
+perceptron	noun	=
+italicize	verb	=
+haptic	adj	hapt-|hapt|B|V|||Greek haptein 'to touch' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+multimodal	adj	=
+nomic	adj	nom-|nom|B|N|||Greek nomos 'law, custom' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+presser	noun	=
+cybernetics	noun	=
+sublimity	noun	=
+lapillus	noun	=
+bilious	adj	bili-|bili|B|N|||Latin bilis 'bile' ; -ous|ous|S||||Latin -osus 'full of'
+tracheostomy	noun	=
+terrarium	noun	terr-|terr|B|N|||Latin terra 'earth' ; -arium|arium|S||||Latin -arium 'place for'
+numinous	adj	=
+allusive	adj	allus-|allus|B|V|||Latin alludere 'to joke' ; -ive|ive|S||||Latin -ivus 'tending to'
+pterodactyl	noun	ptero-|ptero|B|N|||Greek pteron 'wing' ; -dactyl|dactyl|B|N|||Greek daktylos 'finger'
+cognizance	noun	=
+vaporous	adj	=
+flowmeter	noun	=
+laryngoscopy	noun	=
+sensationalist	noun	=
+embryology	noun	=
+psychodynamic	adj	=
+vivacity	noun	viv-|viv|B|V|||Latin vivere 'to live' ; -acity|acity|S||||Latin -acitas 'state, quality'
+bugler	noun	=
+substratum	noun	=
+honorarium	noun	=
+humerus	noun	=
+ebullience	noun	=
+metafictional	adj	=
+hypochondria	noun	=
+omnivore	noun	omni-|omni|P||||Latin omnis 'all' ; -vore|vore|B|V|||Latin vorare 'to devour'
+virologist	noun	=
+regolith	noun	rego-|rego|B|N|||Greek rhegos 'rug, blanket' ; -lith|lith|B|N|||Greek lithos 'stone'
+epiphyte	noun	epi-|epi|P||||Greek epi- 'upon' ; -phyte|phyte|B|N|||Greek phyton 'plant'
+biomarker	noun	=
+mordant	adj	=
+cornet	noun	corn-|corn|B|N|||Latin cornu 'horn' ; -et|et|S||||French -et 'small'
+polycarbonate	noun	=
+protuberance	noun	pro-|pro|P||||Latin pro- 'forward' ; -tuber-|tuber|B|N|||Latin tuber 'swelling' ; -ance|ance|S||||Latin -antia 'state, quality'
+doggerel	noun	=
+gingersnap	noun	=
+ratatouille	noun	=
+comfrey	noun	=
+multitudinous	adj	multitudin-|multitudin|B|N|||Latin multitudo 'great number' ; -ous|ous|S||||Latin -osus 'full of'
+patisserie	noun	=
+hedonist	noun	hedon-|hedon|B|N|||Greek hedone 'pleasure' ; -ist|ist|S||||Greek -istes 'one who'
+obstructionism	noun	=
+rumpus	noun	=
+remora	noun	=
+obstreperous	adj	=
+baluster	noun	=
+rhinoplasty	noun	=
+periodization	noun	=
+behaviorism	noun	=
+rejectionist	noun	=
+sociopathic	adj	=
+vaunt	verb	=
+metalsmith	noun	=
+exfoliation	noun	ex-|ex|P||||Latin ex- 'out' ; -foli-|foli|B|N|||Latin folium 'leaf' ; -ation|ation|S||||Latin -atio 'act, state'
+anodyne	noun	=
+joyride	noun	=
+sentimentalist	noun	=
+insupportable	adj	=
+scintilla	noun	=
+depersonalize	verb	=
+deprecate	verb	de-|de|P||||Latin de- 'down, off' ; -prec-|prec|B|V|||Latin precari 'to pray' ; -ate|ate|S||||Latin -atus 'made, having'
+librettist	noun	=
+tamarisk	noun	=
+penury	noun	=
+atonal	adj	=
+tapenade	noun	=
+anarchism	noun	=
+malarkey	noun	=
+hematite	noun	hemat-|hemat|B|N|||Greek haima 'blood' ; -ite|ite|S||||Greek -ites 'stone'
+crudity	noun	=
+salubrious	adj	=
+manacle	noun	=
+pickaxe	noun	=
+somnolent	adj	somn-|somn|B|N|||Latin somnus 'sleep' ; -olent|olent|S||||Latin -olentus 'full of'
+monism	noun	mon-|mon|B|Adj|||Greek monos 'alone' ; -ism|ism|S||||Greek -ismos 'doctrine'
+pharynx	noun	=
+fakery	noun	=
+dockworker	noun	=
+connivance	noun	=
+hyperventilation	noun	=
+photoreceptor	noun	=
+deadhead	noun	=
+telephonist	noun	=
+geosynchronous	adj	=
+psalmist	noun	=
+blinker	noun	=
+serialize	verb	=
+prevarication	noun	=
+sphenoid	noun	sphen-|sphen|B|N|||Greek sphen 'wedge' ; -oid|oid|S||||Greek -oeides 'like'
+retinitis	noun	=
+thermocouple	noun	=
+trapezoidal	adj	trapez-|trapez|B|N|||Greek trapeza 'table' ; -oid|oid|S||||Greek -oeides 'like' ; -al|al|S||||Latin -alis 'relating to'
+classism	noun	=
+packager	noun	=
+spurge	noun	=
+sextant	noun	=
+trapezius	noun	=
+dominatrix	noun	=
+impecunious	adj	im-|im|P||||Latin in- 'not' ; -pecuni-|pecuni|B|N|||Latin pecunia 'money' ; -ous|ous|S||||Latin -osus 'full of'
+ergo	conj	=
+fumigate	verb	=
+anode	noun	an-|an|P||||Greek ana- 'up' ; -ode|ode|B|N|||Greek hodos 'path'
+taciturn	adj	=
+succour	noun	=
+ignominiously	adv	=
+misanthrope	noun	mis-|mis|B|V|||Greek misein 'to hate' ; -anthrop-|anthrope|B|N|||Greek anthropos 'man, human'
+reanalysis	noun	=
+ethmoid	noun	ethm-|ethm|B|N|||Greek ethmos 'strainer, sieve' ; -oid|oid|S||||Greek -oeides 'like'
+vitrine	noun	=
+erogenous	adj	ero-|ero|B|N|||Greek eros 'love' ; -gen-|gen|B|V|||Greek -genes 'producing' ; -ous|ous|S||||Latin -osus 'full of'
+scape	noun	=
+impudence	noun	=
+parlous	adj	=
+gigahertz	noun	=
+constipate	verb	=
+espousal	noun	=
+recidivist	noun	recidiv-|recidiv|B|V|||Latin recidere 'to fall back' ; -ist|ist|S||||Greek -istes 'one who'
+decedent	noun	de-|de|P||||Latin de- 'down, off' ; -ced-|ced|B|V|||Latin cedere 'to go' ; -ent|ent|S||||Latin -ens 'agent'
+electroplate	verb	=
+teetotaler	noun	=
+probative	adj	prob-|prob|B|V|||Latin probare 'to prove' ; -ative|ative|S||||Latin -ativus 'relating to'
+marl	noun	=
+fluoresce	verb	=
+suppository	noun	=
+cadaverous	adj	=
+ducat	noun	=
+faun	noun	=
+inviolability	noun	=
+compressible	adj	=
+purulent	adj	=
+ovoid	adj	ov-|ov|B|N|||Latin ovum 'egg' ; -oid|oid|S||||Greek -oeides 'like'
+helipad	noun	=
+callus	noun	=
+inclement	adj	in-|in|P||||Latin in- 'not' ; -clement|clement|B|Adj|||Latin clemens 'mild'
+cline	noun	=
+ziti	noun	=
+soporific	adj	=
+crystallography	noun	=
+pantheistic	adj	=

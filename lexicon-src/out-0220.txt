@@ -1,0 +1,200 @@
+algebroid	adj	algebroid|algebroid|R|Adj
+algedonic	adj	algedonic|algedonic|R|Adj
+algerine	noun	algerine|algerine|R|N
+algesia	noun	algesia|algesia|R|N
+algid	adj	algid|algid|R|Adj
+algidity	noun	algid|algid|R|Adj ; -ity|ity|S
+algin	noun	algin|algin|R|N
+alginate	noun	algin|algin|R|N ; -ate|ate|S
+algivorous	adj	algivorous|algivorous|R|Adj
+algolagnia	noun	algolagnia|algolagnia|R|N
+algological	adj	algology|algolog|R|N ; -ical|ical|S
+algologically	adv	algology|algolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+algologist	noun	algology|algolog|R|N ; -ist|ist|S
+algology	noun	algology|algology|R|N
+algometer	noun	algometer|algometer|R|N
+algometry	noun	algometry|algometry|R|N
+algophagous	adj	algophagous|algophagous|R|Adj
+algophilia	noun	algophilia|algophilia|R|N
+algophobia	noun	algophobia|algophobia|R|N
+algor	noun	algor|algor|R|N
+algorism	noun	algorism|algorism|R|N
+algorithmics	noun	algorithm|algorithm|R|N ; -ic|ic|S ; -s|s|I||-s (plural)
+algorithmization	noun	algorithm|algorithm|R|N ; -ize|iz|S ; -ation|ation|S
+algorithmize	verb	algorithm|algorithm|R|N ; -ize|ize|S
+alhamdulillah	interj	alhamdulillah|alhamdulillah|R
+aliasing	verb	alias|alias|R|N ; -ing|ing|I||-ing (v)
+alicyclic	adj	alicyclic|alicyclic|R|Adj
+alidade	noun	alidade|alidade|R|N
+alienability	noun	alienable|alienabil|R|Adj ; -ity|ity|S
+alienator	noun	alienate|alienat|R|V ; -or|or|S
+alienee	noun	alien|alien|R|N ; -ee|ee|S
+alienism	noun	alien|alien|R|N ; -ism|ism|S
+alienor	noun	alien|alien|R|N ; -or|or|S
+alif	noun	alif|alif|R|N
+aliform	adj	aliform|aliform|R|Adj
+alighting	verb	alight|alight|R|V ; -ing|ing|I||-ing (v)
+aligner	noun	align|align|R|V ; -er|er|S||-er (N)
+aligning	verb	align|align|R|V ; -ing|ing|I||-ing (v)
+aligot	noun	aligot|aligot|R|N
+alikeness	noun	alike|alike|R|Adj ; -ness|ness|S
+alim	noun	alim|alim|R|N
+aliment	noun	aliment|aliment|R|N
+alimental	adj	aliment|aliment|R|N ; -al|al|S
+alimentation	noun	aliment|aliment|R|N ; -ation|ation|S
+alimentative	adj	aliment|aliment|R|N ; -ative|ative|S
+aliped	adj	aliped|aliped|R|Adj
+aliphatic	adj	aliphatic|aliphatic|R|Adj
+aliquant	adj	aliquant|aliquant|R|Adj
+alish	noun	alish|alish|R|N
+alisphenoid	adj	alisphenoid|alisphenoid|R|Adj
+alitrunk	noun	alitrunk|alitrunk|R|N
+alkalescence	noun	alkalescent|alkalesc|R|Adj ; -ence|ence|S
+alkalescent	adj	alkalescent|alkalescent|R|Adj
+alkalifiable	adj	alkalify|alkalifi|R|V ; -able|able|S
+alkalify	verb	alkali|alkali|R|N ; -fy|fy|S
+alkalimeter	noun	alkali|alkali|R|N ; meter|meter|R|N
+alkalimetric	adj	alkalimetry|alkalimetr|R|N ; -ic|ic|S
+alkalimetry	noun	alkalimetry|alkalimetry|R|N
+alkalinization	noun	alkaline|alkalin|R|Adj ; -ize|iz|S ; -ation|ation|S
+alkaliphilic	adj	alkaliphilic|alkaliphilic|R|Adj
+alkalization	noun	alkalize|alkaliz|R|V ; -ation|ation|S
+alkalize	verb	alkali|alkali|R|N ; -ize|ze|S
+alkaloidal	adj	alkaloid|alkaloid|R|N ; -al|al|S
+alkalosis	noun	alkalosis|alkalosis|R|N
+alkane	noun	alkane|alkane|R|N
+alkanet	noun	alkanet|alkanet|R|N
+alkene	noun	alkene|alkene|R|N
+alkoxide	noun	alkoxide|alkoxide|R|N
+alkylation	noun	alkyl|alkyl|R|N ; -ation|ation|S
+alkyne	noun	alkyne|alkyne|R|N
+allantoic	adj	allantois|allanto|R|N ; -ic|ic|S
+allantoid	adj	allantoid|allantoid|R|Adj
+allantoin	noun	allantoin|allantoin|R|N
+allantois	noun	allantois|allantois|R|N
+allargando	adv	allargando|allargando|R|Adv
+allative	adj	allative|allative|R|Adj
+allayer	noun	allay|allay|R|V ; -er|er|S||-er (N)
+allegeable	adj	allege|allege|R|V ; -able|able|S
+alleger	noun	allege|alleg|R|V ; -er|er|S||-er (N)
+allegiant	adj	allegiant|allegiant|R|Adj
+alleging	verb	allege|alleg|R|V ; -ing|ing|I||-ing (v)
+allegoric	adj	allegory|allegor|R|N ; -ic|ic|S
+allegorise	verb	allegory|allegor|R|N ; -ise|ise|S
+allegorist	noun	allegory|allegor|R|N ; -ist|ist|S
+allegorization	noun	allegorize|allegoriz|R|V ; -ation|ation|S
+allegorizer	noun	allegorize|allegoriz|R|V ; -er|er|S||-er (N)
+allegretto	noun	allegretto|allegretto|R|N
+allelic	adj	allele|allel|R|N ; -ic|ic|S
+allelism	noun	allele|allel|R|N ; -ism|ism|S
+allelocatalysis	noun	allelocatalysis|allelocatalysis|R|N
+allelomorphic	adj	allelomorphic|allelomorphic|R|Adj
+allelomorphism	noun	allelomorphism|allelomorphism|R|N
+allelopathic	adj	allelopathic|allelopathic|R|Adj
+allelotype	noun	allelotype|allelotype|R|N
+allemande	noun	allemande|allemande|R|N
+allene	noun	allene|allene|R|N
+allergenicity	noun	allergenic|allergenic|R|Adj ; -ity|ity|S
+allergically	adv	allergic|allergic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+allergologist	noun	allergology|allergolog|R|N ; -ist|ist|S
+allergology	noun	allergology|allergology|R|N
+allethrin	noun	allethrin|allethrin|R|N
+alleviated	adj	alleviate|alleviat|R|V ; -ed|ed|S||-ed (adj)
+alleviative	adj	alleviate|alleviat|R|V ; -ive|ive|S
+alleviator	noun	alleviate|alleviat|R|V ; -or|or|S
+alleviatory	adj	alleviate|alleviat|R|V ; -ory|ory|S
+allheal	noun	all|all|R|Adj ; heal|heal|R|V
+alliaceous	adj	alliaceous|alliaceous|R|Adj
+allicin	noun	allicin|allicin|R|N
+allistic	adj	allistic|allistic|R|Adj
+alliterate	verb	alliterate|alliterate|R|V
+alliteratively	adv	alliterative|alliterative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+alliterativeness	noun	alliterative|alliterative|R|Adj ; -ness|ness|S
+allobiosis	noun	allobiosis|allobiosis|R|N
+allocable	adj	allocate|alloc|R|V ; -able|able|S
+allochroic	adj	allochroic|allochroic|R|Adj
+allochthonous	adj	allochthonous|allochthonous|R|Adj
+allocution	noun	al-|al|P|||ad- ; locution|locution|R|N
+allodial	adj	allodial|allodial|R|Adj
+allodium	noun	allodium|allodium|R|N
+allodynia	noun	allodynia|allodynia|R|N
+allogamy	noun	allogamy|allogamy|R|N
+allogenetic	adj	allogenetic|allogenetic|R|Adj
+allogenic	adj	allogenic|allogenic|R|Adj
+allograph	noun	allograph|allograph|R|N
+allokurtic	adj	allokurtic|allokurtic|R|Adj
+allomeric	adj	allomeric|allomeric|R|Adj
+allomerous	adj	allomerous|allomerous|R|Adj
+allomorph	noun	allomorph|allomorph|R|N
+allomorphic	adj	allomorph|allomorph|R|N ; -ic|ic|S
+allomorphism	noun	allomorph|allomorph|R|N ; -ism|ism|S
+allonge	noun	allonge|allonge|R|N
+allonym	noun	allonym|allonym|R|N
+allopath	noun	allopath|allopath|R|N
+allopathically	adv	allopathic|allopathic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+allopathist	noun	allopathy|allopath|R|N ; -ist|ist|S
+allopathy	noun	allopathy|allopathy|R|N
+allopatric	adj	allopatric|allopatric|R|Adj
+allophane	noun	allophane|allophane|R|N
+allophone	noun	allophone|allophone|R|N
+allophonic	adj	allophone|allophon|R|N ; -ic|ic|S
+allopolyploid	noun	allopolyploid|allopolyploid|R|N
+allosexual	adj	allosexual|allosexual|R|Adj
+allosomal	adj	allosomal|allosomal|R|Adj
+allosteric	adj	allosteric|allosteric|R|Adj
+allostery	noun	allostery|allostery|R|N
+allotransplantation	noun	allotransplantation|allotransplantation|R|N
+allotrope	noun	allotrope|allotrope|R|N
+allotropic	adj	allotropy|allotrop|R|N ; -ic|ic|S
+allotropically	adv	allotropy|allotrop|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+allotropism	noun	allotropy|allotrop|R|N ; -ism|ism|S
+allotropy	noun	allotropy|allotropy|R|N
+allotter	noun	allot|allott|R|V ; -er|er|S||-er (N)
+allowably	adv	allow|allow|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+allowedly	adv	allow|allow|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+allseed	noun	all|all|R|Adj ; seed|seed|R|N
+allurer	noun	allure|allur|R|V ; -er|er|S||-er (N)
+alluringness	noun	allure|allur|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+allusively	adv	allusive|allusive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+allusiveness	noun	allusive|allusive|R|Adj ; -ness|ness|S
+alluviation	noun	alluvion|alluvi|R|N ; -ation|ation|S
+alluvion	noun	alluvion|alluvion|R|N
+allyl	noun	allyl|allyl|R|N
+almagest	noun	almagest|almagest|R|N
+almagra	noun	almagra|almagra|R|N
+almah	noun	almah|almah|R|N
+almandine	noun	almandine|almandine|R|N
+almightily	adv	almighty|almighti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+almightiness	noun	almighty|almighti|R|Adj ; -ness|ness|S
+almirah	noun	almirah|almirah|R|N
+almogavar	noun	almogavar|almogavar|R|N
+almondlike	adj	almond|almond|R|N ; -like|like|S
+almonry	noun	almonry|almonry|R|N
+almsgiver	noun	alms|alms|R|N ; give|giv|R|V ; -er|er|S||-er (N)
+almsgiving	noun	alms|alms|R|N ; give|giv|R|V ; -ing|ing|S||-ing (N)
+almsless	adj	alms|alms|R|N ; -less|less|S
+almuce	noun	almuce|almuce|R|N
+alnico	noun	alnico|alnico|R|N
+alocasia	noun	alocasia|alocasia|R|N
+aloetic	adj	aloetic|aloetic|R|Adj
+alogical	adj	a-|a|P ; logical|logical|R|Adj
+aloner	noun	alone|alon|R|Adj ; -er|er|S||-er (N)
+aloofly	adv	aloof|aloof|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+alopecic	adj	alopecia|alopec|R|N ; -ic|ic|S
+alow	adv	a-|a|P ; low|low|R|Adj
+alpargata	noun	alpargata|alpargata|R|N
+alpenstock	noun	alpenstock|alpenstock|R|N
+alphabetization	noun	alphabetize|alphabetiz|R|V ; -ation|ation|S
+alphabetizer	noun	alphabetize|alphabetiz|R|V ; -er|er|S||-er (N)
+alphanumerical	adj	alphanumeric|alphanumeric|R|Adj ; -al|al|S
+alphasyllabary	noun	alpha|alpha|R|N ; syllabary|syllabary|R|N
+alphorn	noun	alp|alp|R|N ; horn|horn|R|N
+alpinism	noun	alpine|alpin|R|Adj ; -ism|ism|S
+alprazolam	noun	alprazolam|alprazolam|R|N
+alrighty	interj	alright|alright|R|Adj ; -y|y|S
+alstroemeria	noun	alstroemeria|alstroemeria|R|N
+alterability	noun	alterable|alterabil|R|Adj ; -ity|ity|S
+alterableness	noun	alterable|alterable|R|Adj ; -ness|ness|S
+alterably	adv	alterable|alterabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+alterative	adj	alter|alter|R|V ; -ative|ative|S
+altercate	verb	altercate|altercate|R|V

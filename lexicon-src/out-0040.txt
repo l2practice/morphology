@@ -1,0 +1,200 @@
+scrutinize	verb	scrutiny|scrutini|R|N ; -ize|ze|S
+fortress	noun	fortress|fortress|R|N
+wretched	adj	wretched|wretched|R|Adj
+rethink	verb	re-|re|P ; think|think|R|V
+unofficial	adj	un-|un|P ; official|official|R|Adj
+psyche	noun	psyche|psyche|R|N
+imbalance	noun	im-|im|P|||in- ; balance|balance|R|N
+loft	noun	loft|loft|R|N
+crate	noun	crate|crate|R|N
+dynasty	noun	dynasty|dynasty|R|N
+uranium	noun	uranium|uranium|R|N
+detachment	noun	detach|detach|R|V ; -ment|ment|S
+penetration	noun	penetrate|penetrat|R|V ; -ion|ion|S
+layoff	noun	lay|lay|R|V ; off|off|R|Adv
+disciple	noun	disciple|disciple|R|N
+lizard	noun	lizard|lizard|R|N
+coke	noun	coke|coke|R|N
+buffet	noun	buffet|buffet|R|N
+penis	noun	penis|penis|R|N
+marvel	noun	marvel|marvel|R|N
+times	noun	time|time|R|N ; -s|s|I||-s (plural)
+tailor	noun	tailor|tailor|R|N
+ceramic	adj	ceramic|ceramic|R|Adj
+consciously	adv	con-|con|P ; sci-|sci|B|V ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+undesirable	adj	un-|un|P ; desire|desir|R|V ; -able|able|S
+compassionate	adj	compassion|compassion|R|N ; -ate|ate|S
+refreshment	noun	refresh|refresh|R|V ; -ment|ment|S
+prominence	noun	prominent|promin|R|Adj ; -ence|ence|S
+brighten	verb	bright|bright|R|Adj ; -en|en|S
+champ	noun	champ|champ|R|N
+industrialist	noun	industrial|industrial|R|Adj ; -ist|ist|S
+convene	verb	convene|convene|R|V
+temperament	noun	temperament|temperament|R|N
+parlour	noun	parlour|parlour|R|N
+roasted	adj	roast|roast|R|V ; -ed|ed|S||-ed (adj)
+guinea	noun	guinea|guinea|R|N
+wrinkle	noun	wrinkle|wrinkle|R|N
+psychic	adj	psyche|psych|R|N ; -ic|ic|S
+barley	noun	barley|barley|R|N
+fireworks	noun	fire|fire|R|N ; work|work|R|V ; -s|s|I||-s (plural)
+compute	verb	compute|compute|R|V
+handwriting	noun	hand|hand|R|N ; write|writ|R|V ; -ing|ing|S||-ing (N)
+comprehension	noun	comprehend|comprehens|R|V ; -ion|ion|S
+glamorous	adj	glamour|glamor|R|N ; -ous|ous|S
+aspire	verb	aspire|aspire|R|V
+theoretically	adv	theoretic|theoretic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+fiery	adj	fire|fier|R|N ; -y|y|S
+suspended	adj	suspend|suspend|R|V ; -ed|ed|S||-ed (adj)
+aspirin	noun	aspirin|aspirin|R|N
+deserted	adj	desert|desert|R|V ; -ed|ed|S||-ed (adj)
+walnut	noun	walnut|walnut|R|N
+bluff	noun	bluff|bluff|R|N
+tracking	noun	track|track|R|V ; -ing|ing|S||-ing (N)
+racing	noun	race|rac|R|V ; -ing|ing|S||-ing (N)
+flare	noun	flare|flare|R|N
+slick	adj	slick|slick|R|Adj
+dye	noun	dye|dye|R|N
+nickel	noun	nickel|nickel|R|N
+onstage	adv	on|on|R ; stage|stage|R|N
+enhancement	noun	enhance|enhance|R|V ; -ment|ment|S
+inscription	noun	in-|in|P ; -scribe|script|B|V ; -ion|ion|S
+fourteenth	adj	fourteen|fourteen|R|Adj ; -th|th|S
+geometry	noun	geometry|geometry|R|N
+hog	noun	hog|hog|R|N
+broccoli	noun	broccoli|broccoli|R|N
+resonate	verb	resonate|resonate|R|V
+universally	adv	universal|universal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pavilion	noun	pavilion|pavilion|R|N
+overt	adj	overt|overt|R|Adj
+chemotherapy	noun	chemotherapy|chemotherapy|R|N
+coronation	noun	coronation|coronation|R|N
+knob	noun	knob|knob|R|N
+confide	verb	confide|confide|R|V
+helping	noun	help|help|R|V ; -ing|ing|S||-ing (N)
+attribution	noun	attribute|attribut|R|V ; -ion|ion|S
+squat	verb	squat|squat|R|V
+hart	noun	hart|hart|R|N
+fumble	verb	fumble|fumble|R|V
+pointer	noun	point|point|R|V ; -er|er|S||-er (N)
+cardboard	noun	card|card|R|N ; board|board|R|N
+affected	adj	affect|affect|R|V ; -ed|ed|S||-ed (adj)
+erotic	adj	erotic|erotic|R|Adj
+glacier	noun	glacier|glacier|R|N
+simultaneous	adj	simultaneous|simultaneous|R|Adj
+polling	noun	poll|poll|R|V ; -ing|ing|S||-ing (N)
+prescribed	adj	prescribe|prescrib|R|V ; -ed|ed|S||-ed (adj)
+picturesque	adj	picturesque|picturesque|R|Adj
+yoga	noun	yoga|yoga|R|N
+extraction	noun	extract|extract|R|V ; -ion|ion|S
+abstraction	noun	abstract|abstract|R|V ; -ion|ion|S
+redemption	noun	redeem|redempt|R|V ; -ion|ion|S
+lobbying	noun	lobby|lobby|R|V ; -ing|ing|S||-ing (N)
+fallen	adj	fall|fall|R|V ; -en|en|I||-en (participle)
+akin	adj	akin|akin|R|Adj
+sparkling	adj	sparkle|sparkl|R|V ; -ing|ing|S||-ing (adj)
+estrogen	noun	estrogen|estrogen|R|N
+bartender	noun	bar|bar|R|N ; tend|tend|R|V ; -er|er|S||-er (N)
+evaporate	verb	evaporate|evaporate|R|V
+genesis	noun	genesis|genesis|R|N
+succumb	verb	succumb|succumb|R|V
+coating	noun	coat|coat|R|V ; -ing|ing|S||-ing (N)
+seasoned	adj	season|season|R|N ; -ed|ed|S||-ed (adj)
+simulate	verb	simulate|simulate|R|V
+stature	noun	stature|stature|R|N
+recruiting	noun	recruit|recruit|R|V ; -ing|ing|S||-ing (N)
+forearm	noun	fore-|fore|P ; arm|arm|R|N
+optimum	noun	optimum|optimum|R|N
+volleyball	noun	volley|volley|R|N ; ball|ball|R|N
+intrigue	verb	intrigue|intrigue|R|V
+alignment	noun	align|align|R|V ; -ment|ment|S
+cot	noun	cot|cot|R|N
+grenade	noun	grenade|grenade|R|N
+woods	noun	wood|wood|R|N ; -s|s|I||-s (plural)
+chestnut	noun	chest|chest|R|N ; nut|nut|R|N
+wink	verb	wink|wink|R|V
+anomaly	noun	anomaly|anomaly|R|N
+stellar	adj	stellar|stellar|R|Adj
+incumbent	adj	incumbent|incumbent|R|Adj
+intuition	noun	intuit|intuit|R|V ; -ion|ion|S
+outreach	noun	out-|out|P ; reach|reach|R|V
+boxer	noun	box|box|R|V ; -er|er|S||-er (N)
+baked	adj	bake|bak|R|V ; -ed|ed|S||-ed (adj)
+roundabout	noun	round|round|R|Adj ; about|about|R|Adv
+regimen	noun	regimen|regimen|R|N
+cancellation	noun	cancel|cancell|R|V ; -ation|ation|S
+goddamn	interj	god|god|R|N ; damn|damn|R|V
+proceeds	noun	proceed|proceed|R|V ; -s|s|I||-s (plural)
+perpetrator	noun	perpetrate|perpetrat|R|V ; -or|or|S
+whine	verb	whine|whine|R|V
+fetus	noun	fetus|fetus|R|N
+astonishment	noun	astonish|astonish|R|V ; -ment|ment|S
+catalyst	noun	catalyst|catalyst|R|N
+extremist	noun	extreme|extrem|R|Adj ; -ist|ist|S
+contour	noun	contour|contour|R|N
+hamlet	noun	hamlet|hamlet|R|N
+hairdresser	noun	hair|hair|R|N ; dress|dress|R|V ; -er|er|S||-er (N)
+gland	noun	gland|gland|R|N
+ordinance	noun	ordinance|ordinance|R|N
+chronicle	noun	chronicle|chronicle|R|N
+doctoral	adj	doctor|doctor|R|N ; -al|al|S
+grease	noun	grease|grease|R|N
+tonic	noun	tonic|tonic|R|N
+episcopal	adj	episcopal|episcopal|R|Adj
+honeymoon	noun	honey|honey|R|N ; moon|moon|R|N
+polo	noun	polo|polo|R|N
+hawk	noun	hawk|hawk|R|N
+inward	adj	in|in|R|Adv ; -ward|ward|S
+cutter	noun	cut|cutt|R|V ; -er|er|S||-er (N)
+commemorate	verb	commemorate|commemorate|R|V
+struggling	adj	struggle|struggl|R|V ; -ing|ing|S||-ing (adj)
+yourselves	pron	your|your|R ; self|selv|R|N ; -es|es|I||-s (plural)
+silhouette	noun	silhouette|silhouette|R|N
+revisit	verb	re-|re|P ; visit|visit|R|V
+resonance	noun	resonance|resonance|R|N
+paperback	noun	paper|paper|R|N ; back|back|R|Adv
+sherry	noun	sherry|sherry|R|N
+noodle	noun	noodle|noodle|R|N
+casting	noun	cast|cast|R|V ; -ing|ing|S||-ing (N)
+deduct	verb	de-|de|P ; -duct|duct|B|V
+moonlight	noun	moon|moon|R|N ; light|light|R|N
+portrayal	noun	portray|portray|R|V ; -al|al|S
+shaky	adj	shake|shak|R|V ; -y|y|S
+villain	noun	villain|villain|R|N
+durable	adj	durable|durable|R|Adj
+vapour	noun	vapour|vapour|R|N
+industrialized	adj	industry|industri|R|N ; -al|al|S ; -ize|iz|S ; -ed|ed|S||-ed (adj)
+mantle	noun	mantle|mantle|R|N
+capitalize	verb	capital|capital|R|N ; -ize|ize|S
+vault	noun	vault|vault|R|N
+sift	verb	sift|sift|R|V
+recommended	adj	recommend|recommend|R|V ; -ed|ed|S||-ed (adj)
+deliberation	noun	deliberate|deliberat|R|V ; -ion|ion|S
+wallpaper	noun	wall|wall|R|N ; paper|paper|R|N
+despise	verb	despise|despise|R|V
+podium	noun	podium|podium|R|N
+cock	noun	cock|cock|R|N
+hoop	noun	hoop|hoop|R|N
+ascribe	verb	a-|a|P ; -scribe|scribe|B|V
+brightness	noun	bright|bright|R|Adj ; -ness|ness|S
+cox	noun	cox|cox|R|N
+martial	adj	martial|martial|R|Adj
+stunned	adj	stun|stunn|R|V ; -ed|ed|S||-ed (adj)
+pastel	noun	pastel|pastel|R|N
+sponge	noun	sponge|sponge|R|N
+cardiovascular	adj	cardiovascular|cardiovascular|R|Adj
+dropout	noun	drop|drop|R|V ; out|out|R|Adv
+flooding	noun	flood|flood|R|V ; -ing|ing|S||-ing (N)
+vale	noun	vale|vale|R|N
+irresponsible	adj	ir-|ir|P|||in- ; responsible|responsible|R|Adj
+presenter	noun	present|present|R|V ; -er|er|S||-er (N)
+instinctively	adv	instinct|instinct|R|N ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+jeopardize	verb	jeopardize|jeopardize|R|V
+momentarily	adv	momentary|momentari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+neon	noun	neon|neon|R|N
+chili	noun	chili|chili|R|N
+gilt	noun	gilt|gilt|R|N
+sprout	verb	sprout|sprout|R|V
+spinal	adj	spine|spin|R|N ; -al|al|S
+coil	noun	coil|coil|R|N
+categorize	verb	category|categor|R|N ; -ize|ize|S

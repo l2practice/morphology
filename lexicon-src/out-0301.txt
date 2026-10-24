@@ -1,0 +1,200 @@
+husking	verb	husk|husk|R|V ; -ing|ing|I||-ing (v)
+huss	noun	huss|huss|R|N
+hustings	noun	hustings|hustings|R|N
+hutia	noun	hutia|hutia|R|N
+hutment	noun	hut|hut|R|N ; -ment|ment|S
+hutted	verb	hut|hutt|R|V ; -ed|ed|I||-ed (v2)
+hyaena	noun	hyaena|hyaena|R|N
+hyaline	adj	hyaline|hyaline|R|Adj
+hyalite	noun	hyalite|hyalite|R|N
+hyaloid	adj	hyaloid|hyaloid|R|Adj
+hyaloplasm	noun	hyaloplasm|hyaloplasm|R|N
+hyaluronic	adj	hyaluronic|hyaluronic|R|Adj
+hyaluronidase	noun	hyaluronidase|hyaluronidase|R|N
+hybridism	noun	hybrid|hybrid|R|N ; -ism|ism|S
+hybridist	noun	hybrid|hybrid|R|N ; -ist|ist|S
+hydathode	noun	hydathode|hydathode|R|N
+hydatid	noun	hydatid|hydatid|R|N
+hydracid	noun	hydracid|hydracid|R|N
+hydrargyrum	noun	hydrargyrum|hydrargyrum|R|N
+hydrastine	noun	hydrastine|hydrastine|R|N
+hydrastinine	noun	hydrastinine|hydrastinine|R|N
+hydrazide	noun	hydrazide|hydrazide|R|N
+hydrazone	noun	hydrazone|hydrazone|R|N
+hydroacoustics	noun	hydroacoustics|hydroacoustics|R|N
+hydrobiologist	noun	hydrobiology|hydrobiolog|R|N ; -ist|ist|S
+hydrobiology	noun	hydrobiology|hydrobiology|R|N
+hydrocarbonaceous	adj	hydrocarbonaceous|hydrocarbonaceous|R|Adj
+hydrocephalic	adj	hydrocephalic|hydrocephalic|R|Adj
+hydrocephalous	adj	hydrocephalous|hydrocephalous|R|Adj
+hydrochory	noun	hydrochory|hydrochory|R|N
+hydrocodone	noun	hydrocodone|hydrocodone|R|N
+hydrocolloid	noun	hydrocolloid|hydrocolloid|R|N
+hydrocyanic	adj	hydrocyanic|hydrocyanic|R|Adj
+hydrodynamical	adj	hydrodynamic|hydrodynamic|R|Adj ; -al|al|S
+hydroelectrically	adv	hydroelectric|hydroelectric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+hydrofluoric	adj	hydrofluoric|hydrofluoric|R|Adj
+hydrofluorocarbon	noun	hydrofluorocarbon|hydrofluorocarbon|R|N
+hydrogenase	noun	hydrogenase|hydrogenase|R|N
+hydrogenate	verb	hydrogen|hydrogen|R|N ; -ate|ate|S
+hydrogenize	verb	hydrogen|hydrogen|R|N ; -ize|ize|S
+hydrogenous	adj	hydrogen|hydrogen|R|N ; -ous|ous|S
+hydrogeochemistry	noun	hydrogeochemistry|hydrogeochemistry|R|N
+hydrogeology	noun	hydrogeology|hydrogeology|R|N
+hydrographer	noun	hydrography|hydrograph|R|N ; -er|er|S||-er (N)
+hydrographical	adj	hydrography|hydrograph|R|N ; -ical|ical|S
+hydrography	noun	hydrography|hydrography|R|N
+hydroid	noun	hydroid|hydroid|R|N
+hydrokinetic	adj	hydrokinetic|hydrokinetic|R|Adj
+hydrokinetics	noun	hydrokinetics|hydrokinetics|R|N
+hydrolase	noun	hydrolase|hydrolase|R|N
+hydrolyte	noun	hydrolyte|hydrolyte|R|N
+hydrolytic	adj	hydrolytic|hydrolytic|R|Adj
+hydrolyze	verb	hydrolyze|hydrolyze|R|V
+hydromagnetic	adj	hydromagnetic|hydromagnetic|R|Adj
+hydromancy	noun	hydromancy|hydromancy|R|N
+hydromania	noun	hydromania|hydromania|R|N
+hydromechanical	adj	hydromechanical|hydromechanical|R|Adj
+hydromechanics	noun	hydromechanics|hydromechanics|R|N
+hydromedusa	noun	hydromedusa|hydromedusa|R|N
+hydromedusan	noun	hydromedusan|hydromedusan|R|N
+hydromel	noun	hydromel|hydromel|R|N
+hydrometallurgy	noun	hydrometallurgy|hydrometallurgy|R|N
+hydrometeor	noun	hydrometeor|hydrometeor|R|N
+hydrometeorological	adj	hydrometeorological|hydrometeorological|R|Adj
+hydrometeorology	noun	hydrometeorology|hydrometeorology|R|N
+hydrometer	noun	hydrometer|hydrometer|R|N
+hydrometric	adj	hydrometric|hydrometric|R|Adj
+hydrometrical	adj	hydrometric|hydrometric|R|Adj ; -al|al|S
+hydrometry	noun	hydrometry|hydrometry|R|N
+hydromorphic	adj	hydromorphic|hydromorphic|R|Adj
+hydronephrosis	noun	hydronephrosis|hydronephrosis|R|N
+hydronium	noun	hydronium|hydronium|R|N
+hydronym	noun	hydronym|hydronym|R|N
+hydronymy	noun	hydronymy|hydronymy|R|N
+hydropathic	adj	hydropathic|hydropathic|R|Adj
+hydropathy	noun	hydropathy|hydropathy|R|N
+hydroperoxide	noun	hydroperoxide|hydroperoxide|R|N
+hydrophane	noun	hydrophane|hydrophane|R|N
+hydrophile	noun	hydrophile|hydrophile|R|N
+hydrophilicity	noun	hydrophilicity|hydrophilicity|R|N
+hydrophilous	adj	hydrophilous|hydrophilous|R|Adj
+hydrophobia	noun	hydrophobia|hydrophobia|R|N
+hydrophobicity	noun	hydrophobicity|hydrophobicity|R|N
+hydrophyte	noun	hydrophyte|hydrophyte|R|N
+hydropic	adj	hydropic|hydropic|R|Adj
+hydropsy	noun	hydropsy|hydropsy|R|N
+hydros	noun	hydros|hydros|R|N
+hydroscope	noun	hydroscope|hydroscope|R|N
+hydrosphere	noun	hydrosphere|hydrosphere|R|N
+hydrospheric	adj	hydrosphere|hydrospher|R|N ; -ic|ic|S
+hydrostatics	noun	hydrostatics|hydrostatics|R|N
+hydrotherapeutic	adj	hydrotherapeutic|hydrotherapeutic|R|Adj
+hydrothorax	noun	hydrothorax|hydrothorax|R|N
+hydrotropic	adj	hydrotropic|hydrotropic|R|Adj
+hydrotropism	noun	hydrotropism|hydrotropism|R|N
+hydrous	adj	hydrous|hydrous|R|Adj
+hydroxychloroquine	noun	hydroxychloroquine|hydroxychloroquine|R|N
+hydroxylamine	noun	hydroxylamine|hydroxylamine|R|N
+hydrozoan	noun	hydrozoan|hydrozoan|R|N
+hyenic	adj	hyena|hyen|R|N ; -ic|ic|S
+hyenoid	adj	hyenoid|hyenoid|R|Adj
+hyetograph	noun	hyetograph|hyetograph|R|N
+hyetographic	adj	hyetographic|hyetographic|R|Adj
+hyetological	adj	hyetology|hyetolog|R|N ; -ical|ical|S
+hygeian	adj	hygeian|hygeian|R|Adj
+hygge	noun	hygge|hygge|R|N
+hygienical	adj	hygienic|hygienic|R|Adj ; -al|al|S
+hygienics	noun	hygienic|hygienic|R|Adj ; -s|s|I||-s (plural)
+hygrograph	noun	hygrograph|hygrograph|R|N
+hygrometer	noun	hygrometer|hygrometer|R|N
+hygrometric	adj	hygrometric|hygrometric|R|Adj
+hygrometry	noun	hygrometry|hygrometry|R|N
+hygrophilous	adj	hygrophilous|hygrophilous|R|Adj
+hygroscope	noun	hygroscope|hygroscope|R|N
+hygroscopicity	noun	hygroscopicity|hygroscopicity|R|N
+hygroscopy	noun	hygroscopy|hygroscopy|R|N
+hying	verb	hie|hy|R|V ; -ing|ing|I||-ing (v)
+hyla	noun	hyla|hyla|R|N
+hylic	adj	hylic|hylic|R|Adj
+hylotheism	noun	hylotheism|hylotheism|R|N
+hylozoism	noun	hylozoism|hylozoism|R|N
+hylozoist	noun	hylozoism|hylozo|R|N ; -ist|ist|S
+hylozoistic	adj	hylozoism|hylozo|R|N ; -ist|ist|S ; -ic|ic|S
+hymeneal	adj	hymeneal|hymeneal|R|Adj
+hymenium	noun	hymenium|hymenium|R|N
+hymenopterous	adj	hymenopterous|hymenopterous|R|Adj
+hymnary	noun	hymn|hymn|R|N ; -ary|ary|S
+hymned	verb	hymn|hymn|R|V ; -ed|ed|I||-ed (v2)
+hymnic	adj	hymn|hymn|R|N ; -ic|ic|S
+hymning	verb	hymn|hymn|R|V ; -ing|ing|I||-ing (v)
+hymnist	noun	hymn|hymn|R|N ; -ist|ist|S
+hymnodist	noun	hymnody|hymnod|R|N ; -ist|ist|S
+hymnody	noun	hymnody|hymnody|R|N
+hymnographer	noun	hymnography|hymnograph|R|N ; -er|er|S||-er (N)
+hymnography	noun	hymnography|hymnography|R|N
+hymnology	noun	hymnology|hymnology|R|N
+hyp	noun	hyp|hyp|R|N
+hypaethral	adj	hypaethral|hypaethral|R|Adj
+hypallage	noun	hypallage|hypallage|R|N
+hyperacid	noun	hyper-|hyper|P ; acid|acid|R|N
+hyperacidity	noun	hyper-|hyper|P ; acid|acid|R|N ; -ity|ity|S
+hyperaldosteronism	noun	hyperaldosteronism|hyperaldosteronism|R|N
+hyperbaton	noun	hyperbaton|hyperbaton|R|N
+hyperbola	noun	hyperbola|hyperbola|R|N
+hyperbolism	noun	hyperbole|hyperbol|R|N ; -ism|ism|S
+hyperbolist	noun	hyperbole|hyperbol|R|N ; -ist|ist|S
+hyperboloid	noun	hyperboloid|hyperboloid|R|N
+hyperborean	noun	hyperborean|hyperborean|R|N
+hypercapnic	adj	hypercapnic|hypercapnic|R|Adj
+hypercholesteraemia	noun	hypercholesteraemia|hypercholesteraemia|R|N
+hypercohomology	noun	hypercohomology|hypercohomology|R|N
+hyperconscious	adj	hyper-|hyper|P ; con-|con|P ; sci-|sci|B|V ; -ous|ous|S
+hypercorrect	adj	hyper-|hyper|P ; correct|correct|R|Adj
+hypercorrection	noun	hyper-|hyper|P ; correct|correct|R|V ; -ion|ion|S
+hypercorrectness	noun	hyper-|hyper|P ; correct|correct|R|Adj ; -ness|ness|S
+hypercritically	adv	hyper-|hyper|P ; critical|critical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+hypercriticism	noun	hyper-|hyper|P ; critic|critic|R|N ; -ism|ism|S
+hypercriticize	verb	hyper-|hyper|P ; critic|critic|R|N ; -ize|ize|S
+hypercube	noun	hyper-|hyper|P ; cube|cube|R|N
+hyperelliptic	adj	hyper-|hyper|P ; elliptic|elliptic|R|Adj
+hyperemic	adj	hyperemia|hyperem|R|N ; -ic|ic|S
+hyperesthesia	noun	hyperesthesia|hyperesthesia|R|N
+hyperexcitability	noun	hyper-|hyper|P ; excite|excit|R|V ; -able|abil|S ; -ity|ity|S
+hyperexponential	adj	hyper-|hyper|P ; exponential|exponential|R|Adj
+hyperfixation	noun	hyper-|hyper|P ; fix|fix|R|V ; -ation|ation|S
+hypergamy	noun	hypergamy|hypergamy|R|N
+hypergeometric	adj	hypergeometric|hypergeometric|R|Adj
+hypergiant	noun	hyper-|hyper|P ; giant|giant|R|N
+hyperglycemia	noun	hyperglycemia|hyperglycemia|R|N
+hyperglycemic	adj	hyperglycemic|hyperglycemic|R|Adj
+hypergraph	noun	hypergraph|hypergraph|R|N
+hyperhidrosis	noun	hyperhidrosis|hyperhidrosis|R|N
+hyperhomology	noun	hyperhomology|hyperhomology|R|N
+hypericum	noun	hypericum|hypericum|R|N
+hyperintelligence	noun	hyper-|hyper|P ; intelligent|intellig|R|Adj ; -ence|ence|S
+hyperkalemia	noun	hyperkalemia|hyperkalemia|R|N
+hyperkeratosis	noun	hyperkeratosis|hyperkeratosis|R|N
+hyperkinesia	noun	hyperkinesia|hyperkinesia|R|N
+hyperkinesis	noun	hyperkinesis|hyperkinesis|R|N
+hyperlipaemia	noun	hyperlipaemia|hyperlipaemia|R|N
+hyperlipidemia	noun	hyperlipidemia|hyperlipidemia|R|N
+hypermasculinity	noun	hyper-|hyper|P ; masculine|masculin|R|Adj ; -ity|ity|S
+hypermetamorphosis	noun	hypermetamorphosis|hypermetamorphosis|R|N
+hypermetric	adj	hyper-|hyper|P ; metric|metric|R|Adj
+hypermetrical	adj	hyper-|hyper|P ; metric|metric|R|Adj ; -al|al|S
+hypermetropia	noun	hypermetropia|hypermetropia|R|N
+hypermobility	noun	hyper-|hyper|P ; mobile|mobil|R|Adj ; -ity|ity|S
+hypernatremia	noun	hypernatremia|hypernatremia|R|N
+hypernatremic	adj	hypernatremic|hypernatremic|R|Adj
+hypernormal	adj	hyper-|hyper|P ; normal|normal|R|Adj
+hypernova	noun	hyper-|hyper|P ; nova|nova|R|N
+hypernym	noun	hypernym|hypernym|R|N
+hypernymy	noun	hypernymy|hypernymy|R|N
+hyperon	noun	hyperon|hyperon|R|N
+hyperostosis	noun	hyperostosis|hyperostosis|R|N
+hyperostotic	adj	hyperostotic|hyperostotic|R|Adj
+hyperparameter	noun	hyper-|hyper|P ; parameter|parameter|R|N
+hyperparasite	noun	hyper-|hyper|P ; parasite|parasite|R|N
+hyperparasitic	adj	hyper-|hyper|P ; parasite|parasit|R|N ; -ic|ic|S
+hyperparasitism	noun	hyper-|hyper|P ; parasite|parasit|R|N ; -ism|ism|S

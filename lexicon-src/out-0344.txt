@@ -1,0 +1,200 @@
+pantagruelian	adj	pantagruelian|pantagruelian|R|Adj
+pantalettes	noun	pantalettes|pantalettes|R|N
+pantaloon	noun	pantaloon|pantaloon|R|N
+pantamorphic	adj	pantamorphic|pantamorphic|R|Adj
+panted	verb	pant|pant|R|V ; -ed|ed|I||-ed (v2)
+pantelegraphy	noun	pantelegraphy|pantelegraphy|R|N
+pantelephone	noun	pantelephone|pantelephone|R|N
+panter	noun	pant|pant|R|V ; -er|er|S||-er (N)
+panthalassic	adj	panthalassic|panthalassic|R|Adj
+pantheistical	adj	pantheist|pantheist|R|N ; -ical|ical|S
+pantheistically	adv	pantheist|pantheist|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+pantheress	noun	panther|panther|R|N ; -ess|ess|S
+pantingly	adv	pant|pant|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+pantisocracy	noun	pantisocracy|pantisocracy|R|N
+pantograph	noun	pantograph|pantograph|R|N
+pantographic	adj	pantograph|pantograph|R|N ; -ic|ic|S
+pantography	noun	pantography|pantography|R|N
+pantology	noun	pantology|pantology|R|N
+pantometer	noun	pantometer|pantometer|R|N
+pantomimic	adj	pantomime|pantomim|R|N ; -ic|ic|S
+pantomiming	verb	pantomime|pantomim|R|V ; -ing|ing|I||-ing (v)
+pantomimist	noun	pantomime|pantomim|R|N ; -ist|ist|S
+pantomorphic	adj	pantomorphic|pantomorphic|R|Adj
+pantophagist	noun	pantophagist|pantophagist|R|N
+pantophagous	adj	pantophagous|pantophagous|R|Adj
+pantophagy	noun	pantophagy|pantophagy|R|N
+pantopragmatic	adj	pantopragmatic|pantopragmatic|R|Adj
+pantoscope	noun	pantoscope|pantoscope|R|N
+pantoscopic	adj	pantoscope|pantoscop|R|N ; -ic|ic|S
+pantoum	noun	pantoum|pantoum|R|N
+pantropical	adj	pantropical|pantropical|R|Adj
+pantryman	noun	pantry|pantry|R|N ; man|man|R|N
+pantyliner	noun	panty|panty|R|N ; line|lin|R|V ; -er|er|S||-er (N)
+panvitalism	noun	panvitalism|panvitalism|R|N
+papabile	noun	papabile|papabile|R|N
+papain	noun	papain|papain|R|N
+papakha	noun	papakha|papakha|R|N
+papalism	noun	papal|papal|R|Adj ; -ism|ism|S
+papalist	noun	papal|papal|R|Adj ; -ist|ist|S
+papally	adv	papal|papal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+papaver	noun	papaver|papaver|R|N
+papaveraceous	adj	papaveraceous|papaveraceous|R|Adj
+papaverous	adj	papaver|papaver|R|N ; -ous|ous|S
+papeda	noun	papeda|papeda|R|N
+papercutting	noun	paper|paper|R|N ; cut|cutt|R|V ; -ing|ing|S||-ing (N)
+paperhanger	noun	paper|paper|R|N ; hang|hang|R|V ; -er|er|S||-er (N)
+paperiness	noun	paper|paper|R|N ; -y|i|S ; -ness|ness|S
+papering	verb	paper|paper|R|V ; -ing|ing|I||-ing (v)
+papermaking	noun	paper|paper|R|N ; make|mak|R|V ; -ing|ing|S||-ing (N)
+papers	noun	paper|paper|R|N ; -s|s|I||-s (plural)
+papilionaceous	adj	papilionaceous|papilionaceous|R|Adj
+papillar	adj	papilla|papill|R|N ; -ar|ar|S
+papillate	adj	papilla|papill|R|N ; -ate|ate|S
+papilliferous	adj	papilliferous|papilliferous|R|Adj
+papillose	adj	papillose|papillose|R|Adj
+papillote	noun	papillote|papillote|R|N
+papism	noun	papism|papism|R|N
+papistic	adj	papist|papist|R|N ; -ic|ic|S
+papistical	adj	papist|papist|R|N ; -ical|ical|S
+papistry	noun	papist|papist|R|N ; -ry|ry|S
+pappose	adj	pappose|pappose|R|Adj
+pappus	noun	pappus|pappus|R|N
+pappy	adj	pap|papp|R|N ; -y|y|S
+papula	noun	papula|papula|R|N
+papular	adj	papula|papul|R|N ; -ar|ar|S
+papule	noun	papule|papule|R|N
+papulose	adj	papulose|papulose|R|Adj
+papulous	adj	papule|papul|R|N ; -ous|ous|S
+papyraceous	adj	papyraceous|papyraceous|R|Adj
+papyrologist	noun	papyrology|papyrolog|R|N ; -ist|ist|S
+papyrology	noun	papyrology|papyrology|R|N
+parabasal	adj	para-|para|P ; basal|basal|R|Adj
+parabiosis	noun	parabiosis|parabiosis|R|N
+parabiotic	adj	parabiosis|parabiot|R|N ; -ic|ic|S
+parablast	noun	parablast|parablast|R|N
+parabolical	adj	parabola|parabol|R|N ; -ical|ical|S
+parabolically	adv	parabola|parabol|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+parabolize	verb	parabola|parabol|R|N ; -ize|ize|S
+paraboloidal	adj	paraboloid|paraboloid|R|N ; -al|al|S
+parabomb	noun	para-|para|P ; bomb|bomb|R|N
+parabranchia	noun	parabranchia|parabranchia|R|N
+paracasein	noun	para-|para|P ; casein|casein|R|N
+paracentesis	noun	paracentesis|paracentesis|R|N
+paracentral	adj	para-|para|P ; central|central|R|Adj
+paracentric	adj	para-|para|P ; centric|centric|R|Adj
+parachronism	noun	parachronism|parachronism|R|N
+parachuter	noun	parachute|parachut|R|N ; -er|er|S||-er (N)
+parachutic	adj	parachute|parachut|R|N ; -ic|ic|S
+parachuting	verb	parachute|parachut|R|V ; -ing|ing|I||-ing (v)
+paraclete	noun	paraclete|paraclete|R|N
+paracme	noun	paracme|paracme|R|N
+paraconsistent	adj	para-|para|P ; consistent|consistent|R|Adj
+paracosm	noun	paracosm|paracosm|R|N
+paracyst	noun	paracyst|paracyst|R|N
+paraderm	noun	paraderm|paraderm|R|N
+paradiddle	noun	paradiddle|paradiddle|R|N
+parading	verb	parade|parad|R|V ; -ing|ing|I||-ing (v)
+paradisaic	adj	paradisaic|paradisaic|R|Adj
+paradisaical	adj	paradisaical|paradisaical|R|Adj
+paradisaically	adv	paradisaical|paradisaical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+paradisiac	adj	paradisiac|paradisiac|R|Adj
+paradisiacally	adv	paradisiac|paradisiac|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+paradisial	adj	paradise|paradis|R|N ; -ial|ial|S
+parados	noun	parados|parados|R|N
+paradoxicality	noun	paradox|paradox|R|N ; -ical|ical|S ; -ity|ity|S
+paradoxicalness	noun	paradox|paradox|R|N ; -ical|ical|S ; -ness|ness|S
+paradoxure	noun	paradoxure|paradoxure|R|N
+paraffinic	adj	paraffin|paraffin|R|N ; -ic|ic|S
+parafunction	noun	para-|para|P ; function|function|R|N
+paraganglion	noun	paraganglion|paraganglion|R|N
+paragaster	noun	paragaster|paragaster|R|N
+paragastric	adj	para-|para|P ; gastric|gastric|R|Adj
+paragenesis	noun	paragenesis|paragenesis|R|N
+paragliding	noun	para-|para|P ; glide|glid|R|V ; -ing|ing|S||-ing (N)
+paraglossa	noun	paraglossa|paraglossa|R|N
+paraglossal	adj	paraglossa|paragloss|R|N ; -al|al|S
+paragoge	noun	paragoge|paragoge|R|N
+paragogic	adj	paragogic|paragogic|R|Adj
+paragraphed	verb	paragraph|paragraph|R|V ; -ed|ed|I||-ed (v2)
+paragrapher	noun	paragraph|paragraph|R|V ; -er|er|S||-er (N)
+paragraphia	noun	paragraphia|paragraphia|R|N
+paragraphic	adj	paragraph|paragraph|R|N ; -ic|ic|S
+paragraphing	verb	paragraph|paragraph|R|V ; -ing|ing|I||-ing (v)
+paragraphist	noun	paragraph|paragraph|R|N ; -ist|ist|S
+paraheliotropic	adj	para-|para|P ; heliotropic|heliotropic|R|Adj
+paraheliotropism	noun	para-|para|P ; heliotropism|heliotropism|R|N
+parahormone	noun	para-|para|P ; hormone|hormone|R|N
+parainfluenza	noun	para-|para|P ; influenza|influenza|R|N
+parakeratosis	noun	para-|para|P ; keratosis|keratosis|R|N
+parakite	noun	para-|para|P ; kite|kite|R|N
+paralanguage	noun	para-|para|P ; language|language|R|N
+paraldehyde	noun	paraldehyde|paraldehyde|R|N
+paralectotype	noun	para-|para|P ; lectotype|lectotype|R|N
+paralinguistic	adj	para-|para|P ; linguistic|linguistic|R|Adj
+paralipomena	noun	paralipomena|paralipomena|R|N
+paralipomenon	noun	paralipomenon|paralipomenon|R|N
+paralipsis	noun	paralipsis|paralipsis|R|N
+parallactic	adj	parallax|parallact|R|N ; -ic|ic|S
+parallelepiped	noun	parallelepiped|parallelepiped|R|N
+parallelizability	noun	parallelize|paralleliz|R|V ; -able|abil|S ; -ity|ity|S
+parallelize	verb	parallel|parallel|R|Adj ; -ize|ize|S
+parallelly	adv	parallel|parallel|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+paralogical	adj	para-|para|P ; logical|logical|R|Adj
+paralogism	noun	paralogism|paralogism|R|N
+paralogist	noun	paralogist|paralogist|R|N
+paralogistic	adj	paralogistic|paralogistic|R|Adj
+paralysation	noun	paralyse|paralys|R|V ; -ation|ation|S
+paralytically	adv	paralytic|paralytic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+paralyzer	noun	paralyze|paralyz|R|V ; -er|er|S||-er (N)
+paralyzingly	adv	paralyze|paralyz|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+paramagnet	noun	para-|para|P ; magnet|magnet|R|N
+paramagnetically	adv	paramagnet|paramagnet|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+paramagnetism	noun	paramagnet|paramagnet|R|N ; -ism|ism|S
+paramatta	noun	paramatta|paramatta|R|N
+parament	noun	parament|parament|R|N
+parameterization	noun	parameterize|parameteriz|R|V ; -ation|ation|S
+parameterize	verb	parameter|parameter|R|N ; -ize|ize|S
+parametrial	adj	parametrium|parametri|R|N ; -al|al|S
+parametrically	adv	parametric|parametric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+parametrise	verb	parameter|parametr|R|N ; -ise|ise|S
+parametrization	noun	parametrize|parametriz|R|V ; -ation|ation|S
+paramita	noun	paramita|paramita|R|N
+paramnesia	noun	paramnesia|paramnesia|R|N
+paramo	noun	paramo|paramo|R|N
+paramorph	noun	para-|para|P ; morph|morph|R|N
+paramorphism	noun	paramorph|paramorph|R|N ; -ism|ism|S
+paramountcy	noun	paramount|paramount|R|Adj ; -cy|cy|S
+paramountly	adv	paramount|paramount|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+paramylon	noun	paramylon|paramylon|R|N
+paramylum	noun	paramylum|paramylum|R|N
+paranasal	adj	para-|para|P ; nasal|nasal|R|Adj
+paranema	noun	paranema|paranema|R|N
+paranemic	adj	paranema|paranem|R|N ; -ic|ic|S
+paranephric	adj	para-|para|P ; nephric|nephric|R|Adj
+parang	noun	parang|parang|R|N
+paranormality	noun	paranormal|paranormal|R|Adj ; -ity|ity|S
+paranormally	adv	paranormal|paranormal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+paranuchal	adj	para-|para|P ; nuchal|nuchal|R|Adj
+paranucleus	noun	para-|para|P ; nucleus|nucleus|R|N
+parapeted	adj	parapet|parapet|R|N ; -ed|ed|S||-ed (adj)
+paraph	noun	paraph|paraph|R|N
+paraphernal	adj	paraphernalia|paraphern|R|N ; -al|al|S
+paraphimosis	noun	paraphimosis|paraphimosis|R|N
+paraphonia	noun	paraphonia|paraphonia|R|N
+paraphrasable	adj	paraphrase|paraphras|R|V ; -able|able|S
+paraphraser	noun	paraphrase|paraphras|R|V ; -er|er|S||-er (N)
+paraphrasing	verb	paraphrase|paraphras|R|V ; -ing|ing|I||-ing (v)
+paraphrastic	adj	paraphrase|paraphrast|R|V ; -ic|ic|S
+paraphrastically	adv	paraphrastic|paraphrastic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+paraphrenic	adj	paraphrenic|paraphrenic|R|Adj
+paraphyletic	adj	para-|para|P ; phyletic|phyletic|R|Adj
+paraphyllum	noun	paraphyllum|paraphyllum|R|N
+paraphysis	noun	paraphysis|paraphysis|R|N
+parapodium	noun	parapodium|parapodium|R|N
+paraproct	noun	paraproct|paraproct|R|N
+paraquat	noun	paraquat|paraquat|R|N
+pararenal	adj	para-|para|P ; renal|renal|R|Adj
+parasang	noun	parasang|parasang|R|N
+parascending	verb	parascending|parascending|R|V
+parascience	noun	para-|para|P ; sci-|sci|B|V ; -ence|ence|S

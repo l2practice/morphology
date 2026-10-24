@@ -1,0 +1,200 @@
+inflammableness	noun	in-|in|P ; flammable|flammable|R|Adj ; -ness|ness|S
+inflammably	adv	in-|in|P ; flammable|flammabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+inflammatorily	adv	inflammatory|inflammator|R|Adj ; -ly|ily|I|Adv|-ly (adv)
+inflater	noun	inflate|inflat|R|V ; -er|er|S||-er (N)
+inflationism	noun	inflation|inflation|R|N ; -ism|ism|S
+inflationist	noun	inflation|inflation|R|N ; -ist|ist|S
+inflectable	adj	inflect|inflect|R|V ; -able|able|S
+inflectionally	adv	inflection|inflection|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+inflectionless	adj	inflection|inflection|R|N ; -less|less|S
+inflective	adj	inflect|inflect|R|V ; -ive|ive|S
+inflector	noun	inflect|inflect|R|V ; -or|or|S
+inflexed	adj	in-|in|P ; flex|flex|R|V ; -ed|ed|S||-ed (adj)
+inflexibleness	noun	inflexible|inflexible|R|Adj ; -ness|ness|S
+inflexionless	adj	inflexion|inflexion|R|N ; -less|less|S
+inflictable	adj	inflict|inflict|R|V ; -able|able|S
+inflicter	noun	inflict|inflict|R|V ; -er|er|S||-er (N)
+inflictive	adj	inflict|inflict|R|V ; -ive|ive|S
+inflowing	verb	in-|in|P ; flow|flow|R|V ; -ing|ing|I||-ing (v)
+influenceable	adj	influence|influence|R|N ; -able|able|S
+influenced	verb	influence|influenc|R|V ; -ed|ed|I||-ed (v2)
+influencer	noun	influence|influenc|R|V ; -er|er|S||-er (N)
+influentially	adv	influential|influential|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+influenzal	adj	influenza|influenz|R|N ; -al|al|S
+infobox	noun	info|info|R|N ; box|box|R|N
+infodemic	noun	infodemic|infodemic|R|N
+infographic	noun	info|info|R|N ; graphic|graphic|R|N
+infold	verb	in-|in|P ; fold|fold|R|V
+informalness	noun	in-|in|P ; formal|formal|R|Adj ; -ness|ness|S
+informatic	adj	informatic|informatic|R|Adj
+informatisation	noun	informatisation|informatisation|R|N
+infortune	noun	in-|in|P ; fortune|fortune|R|N
+infracostal	adj	infracostal|infracostal|R|Adj
+infract	verb	infract|infract|R|V
+infractor	noun	infract|infract|R|V ; -or|or|S
+infrahuman	adj	infrahuman|infrahuman|R|Adj
+infrakingdom	noun	infrakingdom|infrakingdom|R|N
+inframarginal	adj	inframarginal|inframarginal|R|Adj
+infrangibility	noun	infrangible|infrangibil|R|Adj ; -ity|ity|S
+infrangible	adj	infrangible|infrangible|R|Adj
+infrangibly	adv	infrangible|infrangib|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+infraorder	noun	infraorder|infraorder|R|N
+infrarenal	adj	infrarenal|infrarenal|R|Adj
+infrasonic	adj	infrasonic|infrasonic|R|Adj
+infrasound	noun	infrasound|infrasound|R|N
+infraspecific	adj	infraspecific|infraspecific|R|Adj
+infringed	verb	infringe|infring|R|V ; -ed|ed|I||-ed (v2)
+infringer	noun	infringe|infring|R|V ; -er|er|S||-er (N)
+infringing	verb	infringe|infring|R|V ; -ing|ing|I||-ing (v)
+infructescence	noun	infructescence|infructescence|R|N
+infula	noun	infula|infula|R|N
+infundibular	adj	infundibulum|infundibul|R|N ; -ar|ar|S
+infundibulate	adj	infundibulum|infundibul|R|N ; -ate|ate|S
+infundibulum	noun	infundibulum|infundibulum|R|N
+infuriation	noun	infuriate|infuri|R|V ; -ation|ation|S
+infuscate	verb	infuscate|infuscate|R|V
+infuser	noun	infuse|infus|R|V ; -er|er|S||-er (N)
+infusibility	noun	infusible|infusibil|R|Adj ; -ity|ity|S
+infusible	adj	infuse|infus|R|V ; -ible|ible|S
+infusive	adj	infuse|infus|R|V ; -ive|ive|S
+infusorial	adj	infusoria|infusori|R|N ; -al|al|S
+infusorian	noun	infusoria|infusori|R|N ; -an|an|S
+infusorium	noun	infusorium|infusorium|R|N
+inga	noun	inga|inga|R|N
+ingate	noun	in-|in|P ; gate|gate|R|N
+ingather	verb	in-|in|P ; gather|gather|R|V
+ingatherer	noun	in-|in|P ; gather|gather|R|V ; -er|er|S||-er (N)
+ingathering	noun	in-|in|P ; gather|gather|R|V ; -ing|ing|I||-ing (v)
+ingeminate	verb	in-|in|P ; geminate|geminate|R|V
+ingemination	noun	in-|in|P ; geminate|geminat|R|V ; -ion|ion|S
+ingenerate	adj	in-|in|P ; generate|generate|R|V
+ingeniosity	noun	ingenious|ingenios|R|Adj ; -ity|ity|S
+ingeniousness	noun	ingenious|ingenious|R|Adj ; -ness|ness|S
+ingenuine	adj	in-|in|P ; genuine|genuine|R|Adj
+ingesta	noun	ingesta|ingesta|R|N
+ingestible	adj	ingest|ingest|R|V ; -ible|ible|S
+ingestive	adj	ingest|ingest|R|V ; -ive|ive|S
+ingle	noun	ingle|ingle|R|N
+ingloriousness	noun	in-|in|P ; glory|glori|R|N ; -ous|ous|S ; -ness|ness|S
+ingoing	adj	in-|in|P ; go|go|R|V ; -ing|ing|S||-ing (adj)
+ingratiation	noun	ingratiate|ingrati|R|V ; -ation|ation|S
+ingratiatory	adj	ingratiate|ingrati|R|V ; -ory|atory|S
+ingression	noun	ingress|ingress|R|V ; -ion|ion|S
+ingressive	adj	ingress|ingress|R|V ; -ive|ive|S
+ingroup	noun	in-|in|P ; group|group|R|N
+ingrowing	adj	in-|in|P ; grow|grow|R|V ; -ing|ing|S||-ing (adj)
+ingrownness	noun	ingrown|ingrown|R|Adj ; -ness|ness|S
+ingrowth	noun	in-|in|P ; grow|grow|R|V ; -th|th|S
+ingurgitate	verb	in-|in|P ; gurgitate|gurgitate|R|V
+ingurgitation	noun	in-|in|P ; gurgitate|gurgitat|R|V ; -ion|ion|S
+inhabitability	noun	inhabitable|inhabitabil|R|Adj ; -ity|ity|S
+inhabitancy	noun	inhabit|inhabit|R|V ; -ancy|ancy|S
+inhabitation	noun	inhabit|inhabit|R|V ; -ation|ation|S
+inhabiter	noun	inhabit|inhabit|R|V ; -er|er|S||-er (N)
+inhalator	noun	inhale|inhal|R|V ; -ator|ator|S
+inharmonic	adj	in-|in|P ; harmonic|harmonic|R|Adj
+inharmonious	adj	in-|in|P ; harmony|harmoni|R|N ; -ous|ous|S
+inharmoniously	adv	in-|in|P ; harmony|harmoni|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+inharmoniousness	noun	in-|in|P ; harmony|harmoni|R|N ; -ous|ous|S ; -ness|ness|S
+inherence	noun	inhere|inher|R|V ; -ence|ence|S
+inheritability	noun	inheritable|inheritabil|R|Adj ; -ity|ity|S
+inheritress	noun	inheritress|inheritress|R|N
+inheritrix	noun	inheritrix|inheritrix|R|N
+inhesion	noun	inhesion|inhesion|R|N
+inhibitable	adj	inhibit|inhibit|R|V ; -able|able|S
+inhibitedly	adv	inhibit|inhibit|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+inhibitive	adj	inhibit|inhibit|R|V ; -ive|ive|S
+inhospitableness	noun	inhospitable|inhospitable|R|Adj ; -ness|ness|S
+inhospitably	adv	inhospitable|inhospitabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+inhospitality	noun	in-|in|P ; hospital|hospital|R|N ; -ity|ity|S
+inhumanely	adv	in-|in|P ; humane|humane|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inhumanly	adv	in-|in|P ; human|human|R|N ; -ly|ly|I|Adv|-ly (adv)
+inhumanness	noun	in-|in|P ; human|human|R|N ; -ness|ness|S
+inhumation	noun	inhume|inhum|R|V ; -ation|ation|S
+inhume	verb	inhume|inhume|R|V
+inhumer	noun	inhume|inhum|R|V ; -er|er|S||-er (N)
+inimicality	noun	inimic|inimic|R|Adj ; -al|al|S ; -ity|ity|S
+inimically	adv	inimic|inimic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+inimitability	noun	inimitable|inimitabil|R|Adj ; -ity|ity|S
+inimitableness	noun	inimitable|inimitable|R|Adj ; -ness|ness|S
+inimitably	adv	inimitable|inimitabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+inion	noun	inion|inion|R|N
+iniquitously	adv	iniquitous|iniquitous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+iniquitousness	noun	iniquitous|iniquitous|R|Adj ; -ness|ness|S
+initialed	verb	initial|initial|R|V ; -ed|ed|I||-ed (v2)
+initialer	noun	initial|initial|R|V ; -er|er|S||-er (N)
+initialing	verb	initial|initial|R|V ; -ing|ing|I||-ing (v)
+initialism	noun	initial|initial|R|Adj ; -ism|ism|S
+initialness	noun	initial|initial|R|Adj ; -ness|ness|S
+initials	noun	initial|initial|R|N ; -s|s|I||-s (plural)
+initiatively	adv	initiative|initiative|R|N ; -ly|ly|I|Adv|-ly (adv)
+initiatrix	noun	initiatrix|initiatrix|R|N
+injectant	noun	inject|inject|R|V ; -ant|ant|S
+injective	adj	inject|inject|R|V ; -ive|ive|S
+injera	noun	injera|injera|R|N
+injudiciously	adv	in-|in|P ; judicious|judicious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+injudiciousness	noun	in-|in|P ; judicious|judicious|R|Adj ; -ness|ness|S
+injun	noun	injun|injun|R|N
+injunct	verb	injunct|injunct|R|V
+injunctive	adj	injunct|injunct|R|V ; -ive|ive|S
+injurer	noun	injure|injur|R|V ; -er|er|S||-er (N)
+injuriously	adv	injurious|injurious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+injuriousness	noun	injurious|injurious|R|Adj ; -ness|ness|S
+inkberry	noun	ink|ink|R|N ; berry|berry|R|N
+inkbrush	noun	ink|ink|R|N ; brush|brush|R|N
+inkcap	noun	ink|ink|R|N ; cap|cap|R|N
+inker	noun	ink|ink|R|V ; -er|er|S||-er (N)
+inkfish	noun	ink|ink|R|N ; fish|fish|R|N
+inkhorn	noun	ink|ink|R|N ; horn|horn|R|N
+inkiness	noun	inky|inki|R|Adj ; -ness|ness|S
+inking	verb	ink|ink|R|V ; -ing|ing|I||-ing (v)
+inkjet	noun	ink|ink|R|N ; jet|jet|R|N
+inkless	adj	ink|ink|R|N ; -less|less|S
+inkstand	noun	ink|ink|R|N ; stand|stand|R|N
+inkstick	noun	ink|ink|R|N ; stick|stick|R|N
+inkstone	noun	ink|ink|R|N ; stone|stone|R|N
+inlander	noun	in-|in|P ; land|land|R|N ; -er|er|S||-er (N)
+inlaut	noun	inlaut|inlaut|R|N
+inlaw	noun	in-|in|P ; law|law|R|N
+inlayer	noun	in-|in|P ; lay|lay|R|V ; -er|er|S||-er (N)
+inlier	noun	in-|in|P ; lie|li|R|V ; -er|er|S||-er (N)
+inlying	adj	in-|in|P ; lie|ly|R|V ; -ing|ing|S||-ing (adj)
+innage	noun	innage|innage|R|N
+innateness	noun	innate|innate|R|Adj ; -ness|ness|S
+innavigable	adj	in-|in|P ; navigable|navigable|R|Adj
+innerly	adv	inner|inner|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+innerness	noun	inner|inner|R|Adj ; -ness|ness|S
+innersole	noun	inner|inner|R|Adj ; sole|sole|R|N
+innervated	verb	innervate|innervat|R|V ; -ed|ed|I||-ed (v2)
+innervational	adj	innervation|innervation|R|N ; -al|al|S
+innocuity	noun	innocuous|innocu|R|Adj ; -ity|ity|S
+innocuousness	noun	innocuous|innocuous|R|Adj ; -ness|ness|S
+innominate	adj	in-|in|P ; nominate|nominate|R|V
+innovational	adj	innovation|innovation|R|N ; -al|al|S
+innumerability	noun	innumerable|innumerabil|R|Adj ; -ity|ity|S
+innumerableness	noun	innumerable|innumerable|R|Adj ; -ness|ness|S
+innumerably	adv	innumerable|innumerabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+innumeracy	noun	innumerate|innumer|R|Adj ; -cy|acy|S
+innumerate	adj	in-|in|P ; numerate|numerate|R|Adj
+innumerous	adj	in-|in|P ; numerous|numerous|R|Adj
+innutrition	noun	in-|in|P ; nutrition|nutrition|R|N
+innutritious	adj	in-|in|P ; nutritious|nutritious|R|Adj
+inobservance	noun	in-|in|P ; observe|observ|R|V ; -ance|ance|S
+inobservant	adj	in-|in|P ; observe|observ|R|V ; -ant|ant|S
+inoccupation	noun	in-|in|P ; occupation|occupation|R|N
+inoculability	noun	inoculable|inoculabil|R|Adj ; -ity|ity|S
+inoculable	adj	inoculate|inocul|R|V ; -able|able|S
+inoculant	noun	inoculate|inocul|R|V ; -ant|ant|S
+inoculative	adj	inoculate|inocul|R|V ; -ative|ative|S
+inoculator	noun	inoculate|inocul|R|V ; -ator|ator|S
+inocybe	noun	inocybe|inocybe|R|N
+inoffensively	adv	in-|in|P ; offensive|offensive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inoffensiveness	noun	in-|in|P ; offensive|offensive|R|Adj ; -ness|ness|S
+inofficiousness	noun	in-|in|P ; officious|officious|R|Adj ; -ness|ness|S
+inoperably	adv	inoperable|inoperabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+inoperancy	noun	inoperancy|inoperancy|R|N
+inoperativeness	noun	inoperative|inoperative|R|Adj ; -ness|ness|S
+inopportunely	adv	inopportune|inopportune|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inopportuneness	noun	inopportune|inopportune|R|Adj ; -ness|ness|S
+inoppugnable	adj	in-|in|P ; oppugn|oppugn|R|V ; -able|able|S
+inordinacy	noun	in-|in|P ; ordinate|ordin|R|V ; -cy|acy|S

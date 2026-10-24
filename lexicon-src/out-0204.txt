@@ -1,0 +1,200 @@
+misspend	verb	mis-|mis|P ; spend|spend|R|V
+unteachable	adj	un-|un|P ; teach|teach|R|V ; -able|able|S
+epigrammatic	adj	epigrammatic|epigrammatic|R|Adj
+sacristan	noun	sacristan|sacristan|R|N
+mildewy	adj	mildew|mildew|R|N ; -y|y|S
+misconstrued	adj	mis-|mis|P ; construe|constru|R|V ; -ed|ed|S||-ed (adj)
+inapt	adj	in-|in|P ; apt|apt|R|Adj
+bizarreness	noun	bizarre|bizarre|R|Adj ; -ness|ness|S
+waggish	adj	wag|wagg|R|V ; -ish|ish|S
+prepossessing	adj	pre-|pre|P ; possess|possess|R|V ; -ing|ing|S||-ing (adj)
+refurnish	verb	re-|re|P ; furnish|furnish|R|V
+uncorked	adj	un-|un|P ; cork|cork|R|V ; -ed|ed|S||-ed (adj)
+dissembler	noun	dissemble|dissembl|R|V ; -er|er|S||-er (N)
+underboss	noun	under-|under|P ; boss|boss|R|N
+mahonia	noun	mahonia|mahonia|R|N
+krater	noun	krater|krater|R|N
+sharecropping	noun	share|share|R|V ; crop|cropp|R|V ; -ing|ing|S||-ing (N)
+outflung	verb	out-|out|P ; fling|flung|R|V ; -ed||I||-ed (v2)
+breading	noun	bread|bread|R|N ; -ing|ing|S||-ing (N)
+neurofibroma	noun	neurofibroma|neurofibroma|R|N
+hairstreak	noun	hair|hair|R|N ; streak|streak|R|N
+solidness	noun	solid|solid|R|Adj ; -ness|ness|S
+shipworm	noun	ship|ship|R|N ; worm|worm|R|N
+agglutination	noun	agglutination|agglutination|R|N
+anteroposterior	adj	anteroposterior|anteroposterior|R|Adj
+tambour	noun	tambour|tambour|R|N
+hadronic	adj	hadronic|hadronic|R|Adj
+phonographic	adj	phonograph|phonograph|R|N ; -ic|ic|S
+ethnical	adj	ethnic|ethnic|R|Adj ; -al|al|S
+sloe	noun	sloe|sloe|R|N
+bluestocking	noun	blue|blue|R|Adj ; stock|stock|R|N ; -ing|ing|S||-ing (N)
+poofter	noun	poofter|poofter|R|N
+prognosticate	verb	prognosticate|prognosticate|R|V
+blat	verb	blat|blat|R|V
+kleptomaniac	noun	kleptomaniac|kleptomaniac|R|N
+outstation	noun	out-|out|P ; station|station|R|N
+outa	noun	outa|outa|R|N
+steeliness	noun	steely|steeli|R|Adj ; -ness|ness|S
+untraveled	adj	un-|un|P ; travel|travel|R|V ; -ed|ed|S||-ed (adj)
+tepidly	adv	tepid|tepid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+haloed	adj	halo|halo|R|N ; -ed|ed|S||-ed (adj)
+joule	noun	joule|joule|R|N
+pleating	verb	pleat|pleat|R|V ; -ing|ing|I||-ing (v)
+minstrelsy	noun	minstrelsy|minstrelsy|R|N
+semiaquatic	adj	semi-|semi|P ; aquatic|aquatic|R|Adj
+ephemerality	noun	ephemeral|ephemeral|R|Adj ; -ity|ity|S
+scuttling	verb	scuttle|scuttl|R|V ; -ing|ing|I||-ing (v)
+sapwood	noun	sap|sap|R|N ; wood|wood|R|N
+unsustainability	noun	un-|un|P ; sustain|sustain|R|V ; -able|abil|S ; -ity|ity|S
+spondylitis	noun	spondylitis|spondylitis|R|N
+biocentric	adj	biocentric|biocentric|R|Adj
+cloaca	noun	cloaca|cloaca|R|N
+counterbalancing	verb	counter-|counter|P ; balance|balanc|R|V ; -ing|ing|I||-ing (v)
+bemusedly	adv	be-|be|P ; muse|mus|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+remarried	adj	re-|re|P ; marry|marri|R|V ; -ed|ed|S||-ed (adj)
+heathenism	noun	heathen|heathen|R|N ; -ism|ism|S
+woodruff	noun	woodruff|woodruff|R|N
+bilayer	noun	bi-|bi|P ; layer|layer|R|N
+tiler	noun	tile|til|R|N ; -er|er|S||-er (N)
+economism	noun	economy|econom|R|N ; -ism|ism|S
+escorted	adj	escort|escort|R|V ; -ed|ed|S||-ed (adj)
+basilar	adj	basilar|basilar|R|Adj
+townsite	noun	town|town|R|N ; site|site|R|N
+nobby	adj	nobby|nobby|R|Adj
+spheric	adj	sphere|spher|R|N ; -ic|ic|S
+monological	adj	mono-|mono|P ; logic|logic|R|N ; -al|al|S
+crewed	adj	crew|crew|R|N ; -ed|ed|S||-ed (adj)
+foundress	noun	foundress|foundress|R|N
+mah	noun	mah|mah|R|N
+pondweed	noun	pond|pond|R|N ; weed|weed|R|N
+commensal	noun	commensal|commensal|R|N
+behavioristic	adj	behaviorist|behaviorist|R|N ; -ic|ic|S
+hypocalcemia	noun	hypocalcemia|hypocalcemia|R|N
+poliovirus	noun	polio|polio|R|N ; virus|virus|R|N
+fundamentals	noun	fundamental|fundamental|R|Adj ; -s|s|I||-s (plural)
+morphogenesis	noun	morphogenesis|morphogenesis|R|N
+nonrelativistic	adj	non-|non|P ; relativistic|relativistic|R|Adj
+ditz	noun	ditz|ditz|R|N
+oubliette	noun	oubliette|oubliette|R|N
+firebase	noun	fire|fire|R|N ; base|base|R|N
+unsealed	adj	un-|un|P ; seal|seal|R|V ; -ed|ed|S||-ed (adj)
+partaking	verb	partake|partak|R|V ; -ing|ing|I||-ing (v)
+unfelt	adj	un-|un|P ; feel|felt|R|V ; -ed||I||-ed (v2)
+wobbler	noun	wobble|wobbl|R|V ; -er|er|S||-er (N)
+unprofessionally	adv	un-|un|P ; professional|professional|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+contrarily	adv	contrary|contrari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+toyboy	noun	toy|toy|R|N ; boy|boy|R|N
+thinner	adj	thin|thinn|R|Adj ; -er|er|I||-er (comparative)
+mistranslation	noun	mis-|mis|P ; translate|translat|R|V ; -ion|ion|S
+mumbling	verb	mumble|mumbl|R|V ; -ing|ing|I||-ing (v)
+triggered	adj	trigger|trigger|R|V ; -ed|ed|S||-ed (adj)
+stook	noun	stook|stook|R|N
+unaccredited	adj	un-|un|P ; accredit|accredit|R|V ; -ed|ed|S||-ed (adj)
+quieting	verb	quiet|quiet|R|Adj ; -ing|ing|I||-ing (v)
+loftiness	noun	lofty|lofti|R|Adj ; -ness|ness|S
+sparsity	noun	sparse|spars|R|Adj ; -ity|ity|S
+orneriness	noun	ornery|orneri|R|Adj ; -ness|ness|S
+paternally	adv	paternal|paternal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+rooty	adj	root|root|R|N ; -y|y|S
+sequestrate	verb	sequestrate|sequestrate|R|V
+gossiping	verb	gossip|gossip|R|V ; -ing|ing|I||-ing (v)
+shoddiness	noun	shoddy|shoddi|R|Adj ; -ness|ness|S
+bummed	adj	bum|bumm|R|V ; -ed|ed|S||-ed (adj)
+recommitment	noun	re-|re|P ; commit|commit|R|V ; -ment|ment|S
+refound	verb	re-|re|P ; found|found|R|V
+dateless	adj	date|date|R|N ; -less|less|S
+rasta	noun	rasta|rasta|R|N
+unmodulated	adj	un-|un|P ; modulate|modulat|R|V ; -ed|ed|S||-ed (adj)
+parafoil	noun	para-|para|P ; foil|foil|R|N
+parenchyma	noun	parenchyma|parenchyma|R|N
+overbooked	adj	over-|over|P ; book|book|R|V ; -ed|ed|S||-ed (adj)
+jazzed	adj	jazz|jazz|R|V ; -ed|ed|S||-ed (adj)
+palmful	noun	palm|palm|R|N ; -ful|ful|S
+hatmaker	noun	hat|hat|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+dichotomization	noun	dichotomize|dichotomiz|R|V ; -ation|ation|S
+clocking	verb	clock|clock|R|V ; -ing|ing|I||-ing (v)
+fruiting	verb	fruit|fruit|R|N ; -ing|ing|I||-ing (v)
+singable	adj	sing|sing|R|V ; -able|able|S
+spicule	noun	spicule|spicule|R|N
+exasperatedly	adv	exasperate|exasperat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+inextinguishable	adj	in-|in|P ; extinguish|extinguish|R|V ; -able|able|S
+negligibly	adv	negligible|negligibl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+homeliness	noun	homely|homeli|R|Adj ; -ness|ness|S
+privatizer	noun	privatize|privatiz|R|V ; -er|er|S||-er (N)
+sleepwear	noun	sleep|sleep|R|V ; wear|wear|R|N
+bandeau	noun	bandeau|bandeau|R|N
+fleecing	verb	fleece|fleec|R|V ; -ing|ing|I||-ing (v)
+trimaran	noun	trimaran|trimaran|R|N
+lindane	noun	lindane|lindane|R|N
+biodynamics	noun	biodynamics|biodynamics|R|N
+spumoni	noun	spumoni|spumoni|R|N
+galactosemia	noun	galactosemia|galactosemia|R|N
+electrocautery	noun	electrocautery|electrocautery|R|N
+preconditioning	verb	pre-|pre|P ; condition|condition|R|V ; -ing|ing|I||-ing (v)
+blepharitis	noun	blepharitis|blepharitis|R|N
+undescended	adj	un-|un|P ; descend|descend|R|V ; -ed|ed|S||-ed (adj)
+maleficent	adj	maleficent|maleficent|R|Adj
+peroneal	adj	peroneal|peroneal|R|Adj
+epizootic	adj	epizootic|epizootic|R|Adj
+ancestress	noun	ancestor|ancestr|R|N ; -ess|ess|S
+intactness	noun	intact|intact|R|Adj ; -ness|ness|S
+histoplasmosis	noun	histoplasmosis|histoplasmosis|R|N
+microstructural	adj	micro-|micro|P ; structure|structur|R|N ; -al|al|S
+plena	noun	plena|plena|R|N
+locater	noun	locate|locat|R|V ; -er|er|S||-er (N)
+ret	verb	ret|ret|R|V
+canonic	adj	canon|canon|R|N ; -ic|ic|S
+cate	noun	cate|cate|R|N
+eff	verb	eff|eff|R|V
+taconite	noun	taconite|taconite|R|N
+lumper	noun	lump|lump|R|V ; -er|er|S||-er (N)
+cassia	noun	cassia|cassia|R|N
+hoyden	noun	hoyden|hoyden|R|N
+ejaculatory	adj	ejaculate|ejaculat|R|V ; -ory|ory|S
+hedged	adj	hedge|hedg|R|V ; -ed|ed|S||-ed (adj)
+enoki	noun	enoki|enoki|R|N
+unsympathetically	adv	un-|un|P ; sympathetic|sympathetic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+collectivize	verb	collective|collectiv|R|Adj ; -ize|ize|S
+brevet	noun	brevet|brevet|R|N
+unconcernedly	adv	un-|un|P ; concern|concern|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+seismological	adj	seismological|seismological|R|Adj
+septet	noun	septet|septet|R|N
+celeriac	noun	celeriac|celeriac|R|N
+periodontist	noun	periodontist|periodontist|R|N
+doeskin	noun	doe|doe|R|N ; skin|skin|R|N
+placeless	adj	place|place|R|N ; -less|less|S
+gassed	adj	gas|gass|R|N ; -ed|ed|S||-ed (adj)
+abusiveness	noun	abusive|abusive|R|Adj ; -ness|ness|S
+checkoff	noun	check|check|R|V ; off|off|R|Adv
+specifier	noun	specify|specifi|R|V ; -er|er|S||-er (N)
+checkable	adj	check|check|R|V ; -able|able|S
+sorbus	noun	sorbus|sorbus|R|N
+representable	adj	represent|represent|R|V ; -able|able|S
+shunting	verb	shunt|shunt|R|V ; -ing|ing|I||-ing (v)
+scientificity	noun	sci-|sci|B|V ; -ent|ent|S ; -ific|ific|S ; -ity|ity|S
+strophe	noun	strophe|strophe|R|N
+parricide	noun	parricide|parricide|R|N
+satsuma	noun	satsuma|satsuma|R|N
+sapien	noun	sapien|sapien|R|N
+impudently	adv	impudent|impudent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+hymnbook	noun	hymn|hymn|R|N ; book|book|R|N
+fakir	noun	fakir|fakir|R|N
+redo	verb	re-|re|P ; do|do|R|V
+swooning	verb	swoon|swoon|R|V ; -ing|ing|I||-ing (v)
+unexpurgated	adj	un-|un|P ; expurgate|expurgat|R|V ; -ed|ed|S||-ed (adj)
+unseeable	adj	un-|un|P ; see|see|R|V ; -able|able|S
+imperially	adv	imperial|imperial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+proctologist	noun	proctologist|proctologist|R|N
+pomander	noun	pomander|pomander|R|N
+backlighting	noun	back|back|R|N ; light|light|R|V ; -ing|ing|S||-ing (N)
+nymphaea	noun	nymphaea|nymphaea|R|N
+outfitting	verb	outfit|outfitt|R|N ; -ing|ing|I||-ing (v)
+compatibly	adv	compatible|compatibl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+blurriness	noun	blurry|blurri|R|Adj ; -ness|ness|S
+mutinously	adv	mutinous|mutinous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+dishevelment	noun	dishevel|dishevel|R|V ; -ment|ment|S
+mortadella	noun	mortadella|mortadella|R|N
+lasciviousness	noun	lascivious|lascivious|R|Adj ; -ness|ness|S
+enchantingly	adv	enchant|enchant|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+lugubriously	adv	lugubrious|lugubrious|R|Adj ; -ly|ly|I|Adv|-ly (adv)

@@ -1,0 +1,200 @@
+scanno	noun	scanno|scanno|R|N
+scansorial	adj	scansorial|scansorial|R|Adj
+scanties	noun	scanty|scanti|R|N ; -es|es|I||-s (plural)
+scantiness	noun	scanty|scanti|R|Adj ; -ness|ness|S
+scantling	noun	scant|scant|R|Adj ; -ling|ling|S
+scants	verb	scant|scant|R|V ; -s|s|I||-s (3sg)
+scapegrace	noun	scapegrace|scapegrace|R|N
+scapeless	adj	scape|scape|R|N ; -less|less|S
+scapha	noun	scapha|scapha|R|N
+scaphander	noun	scaphander|scaphander|R|N
+scaphism	noun	scaphism|scaphism|R|N
+scaphium	noun	scaphium|scaphium|R|N
+scaphognathite	noun	scaphognathite|scaphognathite|R|N
+scaphoid	noun	scaphoid|scaphoid|R|N
+scapose	adj	scapose|scapose|R|Adj
+scapulary	noun	scapula|scapul|R|N ; -ary|ary|S
+scarabaeid	noun	scarabaeid|scarabaeid|R|N
+scarabaeoid	adj	scarabaeoid|scarabaeoid|R|Adj
+scarcement	noun	scarce|scarce|R|Adj ; -ment|ment|S
+scarceness	noun	scarce|scarce|R|Adj ; -ness|ness|S
+scaremongering	verb	scare|scare|R|V ; monger|monger|R|V ; -ing|ing|I||-ing (v)
+scarfer	noun	scarf|scarf|R|V ; -er|er|S||-er (N)
+scarfing	verb	scarf|scarf|R|V ; -ing|ing|I||-ing (v)
+scarification	noun	scarify|scarifi|R|V ; -ation|cation|S
+scarified	verb	scarify|scarifi|R|V ; -ed|ed|I||-ed (v2)
+scarifier	noun	scarify|scarifi|R|V ; -er|er|S||-er (N)
+scarious	adj	scarious|scarious|R|Adj
+scarlatina	noun	scarlatina|scarlatina|R|N
+scarping	verb	scarp|scarp|R|V ; -ing|ing|I||-ing (v)
+scarry	adj	scar|scarr|R|N ; -y|y|S
+scarus	noun	scarus|scarus|R|N
+scatheless	adj	scathe|scathe|R|V ; -less|less|S
+scatology	noun	scatology|scatology|R|N
+scatophagous	adj	scatophagous|scatophagous|R|Adj
+scatophagy	noun	scatophagy|scatophagy|R|N
+scatterbrain	noun	scatter|scatter|R|V ; brain|brain|R|N
+scattergram	noun	scattergram|scattergram|R|N
+scattily	adv	scatty|scatti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+scattiness	noun	scatty|scatti|R|Adj ; -ness|ness|S
+scatting	verb	scat|scatt|R|V ; -ing|ing|I||-ing (v)
+scaur	noun	scaur|scaur|R|N
+scena	noun	scena|scena|R|N
+scenarist	noun	scenarist|scenarist|R|N
+scend	verb	scend|scend|R|V
+scenester	noun	scene|scene|R|N ; -ster|ster|S
+scenograph	noun	scenograph|scenograph|R|N
+scenographer	noun	scenograph|scenograph|R|N ; -er|er|S||-er (N)
+scenography	noun	scenography|scenography|R|N
+scenting	verb	scent|scent|R|V ; -ing|ing|I||-ing (v)
+scepsis	noun	scepsis|scepsis|R|N
+sceptreless	adj	sceptre|sceptre|R|N ; -less|less|S
+schappe	noun	schappe|schappe|R|N
+scheelite	noun	scheelite|scheelite|R|N
+schematism	noun	schematic|schemat|R|Adj ; -ism|ism|S
+schematization	noun	schematize|schematiz|R|V ; -ation|ation|S
+scherzando	adv	scherzando|scherzando|R|Adv
+schiedam	noun	schiedam|schiedam|R|N
+schipperke	noun	schipperke|schipperke|R|N
+schismatize	verb	schismatic|schismat|R|Adj ; -ize|ize|S
+schistic	adj	schist|schist|R|N ; -ic|ic|S
+schistose	adj	schistose|schistose|R|Adj
+schistosity	noun	schistose|schistos|R|Adj ; -ity|ity|S
+schistosome	noun	schistosome|schistosome|R|N
+schistous	adj	schist|schist|R|N ; -ous|ous|S
+schizo	noun	schizo|schizo|R|N
+schizocarp	noun	schizocarp|schizocarp|R|N
+schizogony	noun	schizogony|schizogony|R|N
+schizolysis	noun	schizolysis|schizolysis|R|N
+schizont	noun	schizont|schizont|R|N
+schizophasia	noun	schizophasia|schizophasia|R|N
+schizophrene	noun	schizophrene|schizophrene|R|N
+schizophrenically	adv	schizophrenic|schizophrenic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+schizophyte	noun	schizophyte|schizophyte|R|N
+schizothymia	noun	schizothymia|schizothymia|R|N
+schizothymic	adj	schizothymic|schizothymic|R|Adj
+schizotypal	adj	schizotypal|schizotypal|R|Adj
+schlager	noun	schlager|schlager|R|N
+schlimazel	noun	schlimazel|schlimazel|R|N
+schlong	noun	schlong|schlong|R|N
+schlub	noun	schlub|schlub|R|N
+schmutz	noun	schmutz|schmutz|R|N
+schnook	noun	schnook|schnook|R|N
+schnorrer	noun	schnorrer|schnorrer|R|N
+schnozzle	noun	schnozzle|schnozzle|R|N
+scholarliness	noun	scholarly|scholarli|R|Adj ; -ness|ness|S
+scholastically	adv	scholastic|scholastic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+scholiast	noun	scholiast|scholiast|R|N
+scholium	noun	scholium|scholium|R|N
+schoolable	adj	school|school|R|N ; -able|able|S
+schoolbag	noun	school|school|R|N ; bag|bag|R|N
+schoolfellow	noun	school|school|R|N ; fellow|fellow|R|N
+schoolie	noun	schoolie|schoolie|R|N
+schoolman	noun	school|school|R|N ; man|man|R|N
+schoolmasterly	adj	school|school|R|N ; master|master|R|N ; -ly|ly|S||-ly (adj)
+schoolteacherly	adj	school|school|R|N ; teach|teach|R|V ; -er|er|S||-er (N) ; -ly|ly|S||-ly (adj)
+schorl	noun	schorl|schorl|R|N
+schottische	noun	schottische|schottische|R|N
+schuss	noun	schuss|schuss|R|N
+schwa	noun	schwa|schwa|R|N
+schwannoma	noun	schwannoma|schwannoma|R|N
+sciagraph	noun	sciagraph|sciagraph|R|N
+sciagraphic	adj	sciagraphic|sciagraphic|R|Adj
+sciagraphy	noun	sciagraphy|sciagraphy|R|N
+sciamachy	noun	sciamachy|sciamachy|R|N
+sciaphilous	adj	sciaphilous|sciaphilous|R|Adj
+sciences	noun	sci-|sci|B|V ; -ence|ence|S ; -s|s|I||-s (plural)
+scient	adj	sci-|sci|B|V ; -ent|ent|S
+scienter	adv	scienter|scienter|R|Adv
+sciential	adj	sci-|sci|B|V ; -ent|ent|S ; -ial|ial|S
+scientocracy	noun	scientocracy|scientocracy|R|N
+scientometrics	noun	scientometrics|scientometrics|R|N
+scilicet	adv	scilicet|scilicet|R|Adv
+scintigraphy	noun	scintigraphy|scintigraphy|R|N
+scintillate	verb	scintillate|scintillate|R|V
+scintillator	noun	scintillate|scintillat|R|V ; -or|or|S||-er (N)
+scintillometer	noun	scintillometer|scintillometer|R|N
+scintiscanner	noun	scintiscanner|scintiscanner|R|N
+sciolism	noun	sciolism|sciolism|R|N
+sciolist	noun	sciolist|sciolist|R|N
+sciolistic	adj	sciolistic|sciolistic|R|Adj
+scirrhous	adj	scirrhous|scirrhous|R|Adj
+scissile	adj	scissile|scissile|R|Adj
+scission	noun	scission|scission|R|N
+scissored	verb	scissor|scissor|R|V ; -ed|ed|I||-ed (v2)
+scissoring	verb	scissor|scissor|R|V ; -ing|ing|I||-ing (v)
+scissura	noun	scissura|scissura|R|N
+sciurine	adj	sciurine|sciurine|R|Adj
+sciuroid	adj	sciuroid|sciuroid|R|Adj
+sclera	noun	sclera|sclera|R|N
+scleral	adj	sclera|scler|R|N ; -al|al|S
+sclereid	noun	sclereid|sclereid|R|N
+sclerenchyma	noun	sclerenchyma|sclerenchyma|R|N
+scleriasis	noun	scleriasis|scleriasis|R|N
+sclerification	noun	sclerification|sclerification|R|N
+scleritis	noun	scleritis|scleritis|R|N
+scleroblast	noun	scleroblast|scleroblast|R|N
+sclerodermatous	adj	sclerodermatous|sclerodermatous|R|Adj
+sclerogen	noun	sclerogen|sclerogen|R|N
+sclerogenic	adj	sclerogenic|sclerogenic|R|Adj
+scleroid	adj	scleroid|scleroid|R|Adj
+scleroma	noun	scleroma|scleroma|R|N
+sclerometer	noun	sclerometer|sclerometer|R|N
+scleronomous	adj	scleronomous|scleronomous|R|Adj
+scleroprotein	noun	scleroprotein|scleroprotein|R|N
+sclerosed	verb	sclerose|scleros|R|V ; -ed|ed|I||-ed (v2)
+sclerotin	noun	sclerotin|sclerotin|R|N
+sclerotium	noun	sclerotium|sclerotium|R|N
+scobicular	adj	scobicular|scobicular|R|Adj
+scobiform	adj	scobiform|scobiform|R|Adj
+scobs	noun	scobs|scobs|R|N
+scoffing	verb	scoff|scoff|R|V ; -ing|ing|I||-ing (v)
+scoffingly	adv	scoff|scoff|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+scolder	noun	scold|scold|R|V ; -er|er|S||-er (N)
+scolex	noun	scolex|scolex|R|N
+scolion	noun	scolion|scolion|R|N
+scoliotic	adj	scoliosis|scoliot|R|N ; -ic|ic|S
+scolopaceous	adj	scolopaceous|scolopaceous|R|Adj
+scolopacine	adj	scolopacine|scolopacine|R|Adj
+scolopendrid	noun	scolopendrid|scolopendrid|R|N
+scomber	noun	scomber|scomber|R|N
+scombroid	noun	scombroid|scombroid|R|N
+scoopful	noun	scoop|scoop|R|N ; -ful|ful|S
+scooping	verb	scoop|scoop|R|V ; -ing|ing|I||-ing (v)
+scoots	verb	scoot|scoot|R|V ; -s|s|I||-s (3sg)
+scopa	noun	scopa|scopa|R|N
+scopate	adj	scopa|scop|R|N ; -ate|ate|S
+scopolamine	noun	scopolamine|scopolamine|R|N
+scopula	noun	scopula|scopula|R|N
+scopulate	adj	scopula|scopul|R|N ; -ate|ate|S
+scorbutic	adj	scorbutic|scorbutic|R|Adj
+scorchy	adj	scorch|scorch|R|V ; -y|y|S
+scores	noun	score|score|R|N ; -s|s|I||-s (plural)
+scoria	noun	scoria|scoria|R|N
+scoriaceous	adj	scoriaceous|scoriaceous|R|Adj
+scorification	noun	scorify|scorifi|R|V ; -ation|cation|S
+scorify	verb	scorify|scorify|R|V
+scorning	verb	scorn|scorn|R|V ; -ing|ing|I||-ing (v)
+scorpaenid	noun	scorpaenid|scorpaenid|R|N
+scorpioid	adj	scorpioid|scorpioid|R|Adj
+scorpionfish	noun	scorpion|scorpion|R|N ; fish|fish|R|N
+scorpionfly	noun	scorpion|scorpion|R|N ; fly|fly|R|N
+scorzonera	noun	scorzonera|scorzonera|R|N
+scotch	verb	scotch|scotch|R|V
+scoter	noun	scoter|scoter|R|N
+scotobiology	noun	scotobiology|scotobiology|R|N
+scotodinia	noun	scotodinia|scotodinia|R|N
+scotopia	noun	scotopia|scotopia|R|N
+scotopic	adj	scotopic|scotopic|R|Adj
+scoubidou	noun	scoubidou|scoubidou|R|N
+scoundrelism	noun	scoundrel|scoundrel|R|N ; -ism|ism|S
+scoundrelly	adj	scoundrel|scoundrel|R|N ; -ly|ly|S||-ly (adj)
+scourging	verb	scourge|scourg|R|V ; -ing|ing|I||-ing (v)
+scours	noun	scour|scour|R|N ; -s|s|I||-s (plural)
+scoutcraft	noun	scout|scout|R|N ; craft|craft|R|N
+scouter	noun	scout|scout|R|V ; -er|er|S||-er (N)
+scowlingly	adv	scowl|scowl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+scragged	verb	scrag|scragg|R|V ; -ed|ed|I||-ed (v2)
+scragginess	noun	scraggy|scraggi|R|Adj ; -ness|ness|S
+scrambles	verb	scramble|scramble|R|V ; -s|s|I||-s (3sg)
+scran	noun	scran|scran|R|N

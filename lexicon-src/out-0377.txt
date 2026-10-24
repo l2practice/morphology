@@ -1,0 +1,200 @@
+scrappage	noun	scrap|scrapp|R|N ; -age|age|S
+scrappily	adv	scrap|scrapp|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+scrappiness	noun	scrap|scrapp|R|N ; -y|i|S ; -ness|ness|S
+scratches	noun	scratch|scratch|R|N ; -es|es|I||-s (plural)
+scratchily	adv	scratch|scratch|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+scratchiness	noun	scratch|scratch|R|N ; -y|i|S ; -ness|ness|S
+scratchpad	noun	scratch|scratch|R|V ; pad|pad|R|N
+scrawling	verb	scrawl|scrawl|R|V ; -ing|ing|I||-ing (v)
+scrawly	adj	scrawl|scrawl|R|V ; -y|y|S
+scrawniness	noun	scrawny|scrawni|R|Adj ; -ness|ness|S
+screak	verb	screak|screak|R|V
+screencast	noun	screen|screen|R|N ; cast|cast|R|V
+screenshot	noun	screen|screen|R|N ; shot|shot|R|N
+screeve	noun	screeve|screeve|R|N
+screwed	verb	screw|screw|R|V ; -ed|ed|I||-ed (v2)
+screwiness	noun	screwy|screwi|R|Adj ; -ness|ness|S
+screwup	noun	screw|screw|R|V ; up|up|R|Adv
+scribacious	adj	scribacious|scribacious|R|Adj
+scriber	noun	scribe|scrib|R|V ; -er|er|S||-er (N)
+scribing	verb	scribe|scrib|R|V ; -ing|ing|I||-ing (v)
+scrimmager	noun	scrimmage|scrimmag|R|N ; -er|er|S||-er (N)
+scrimmaging	verb	scrimmage|scrimmag|R|V ; -ing|ing|I||-ing (v)
+scrimped	verb	scrimp|scrimp|R|V ; -ed|ed|I||-ed (v2)
+scrimpiness	noun	scrimp|scrimp|R|V ; -y|i|S ; -ness|ness|S
+scrimping	verb	scrimp|scrimp|R|V ; -ing|ing|I||-ing (v)
+scrimpy	adj	scrimp|scrimp|R|V ; -y|y|S
+scrimshank	verb	scrimshank|scrimshank|R|V
+scripturalism	noun	scripture|scriptur|R|N ; -al|al|S ; -ism|ism|S
+scripturalist	noun	scripture|scriptur|R|N ; -al|al|S ; -ist|ist|S
+scrive	verb	scrive|scrive|R|V
+scrobicula	noun	scrobicula|scrobicula|R|N
+scrofulous	adj	scrofula|scroful|R|N ; -ous|ous|S
+scroop	verb	scroop|scroop|R|V
+scrotitis	noun	scrotitis|scrotitis|R|N
+scrounging	verb	scrounge|scroung|R|V ; -ing|ing|I||-ing (v)
+scrubbiness	noun	scrub|scrubb|R|V ; -y|i|S ; -ness|ness|S
+scrubs	noun	scrub|scrub|R|N ; -s|s|I||-s (plural)
+scrubwoman	noun	scrub|scrub|R|V ; woman|woman|R|N
+scruffily	adv	scruffy|scruffi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+scruffiness	noun	scruffy|scruffi|R|Adj ; -ness|ness|S
+scrupulosity	noun	scrupulous|scrupul|R|Adj ; -ity|osity|S
+scrupulousness	noun	scrupulous|scrupulous|R|Adj ; -ness|ness|S
+scrutator	noun	scrutator|scrutator|R|N
+scrutinising	verb	scrutinise|scrutinis|R|V ; -ing|ing|I||-ing (v)
+scrutinizingly	adv	scrutinize|scrutiniz|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+scry	verb	scry|scry|R|V
+scuffer	noun	scuff|scuff|R|V ; -er|er|S||-er (N)
+scuffing	verb	scuff|scuff|R|V ; -ing|ing|I||-ing (v)
+scug	noun	scug|scug|R|N
+sculler	noun	scull|scull|R|V ; -er|er|S||-er (N)
+scullion	noun	scullion|scullion|R|N
+sculp	verb	sculp|sculp|R|V
+sculpturesque	adj	sculpture|sculptur|R|N ; -esque|esque|S
+sculpturing	verb	sculpture|sculptur|R|V ; -ing|ing|I||-ing (v)
+scumble	verb	scumble|scumble|R|V
+scumming	verb	scum|scumm|R|N ; -ing|ing|I||-ing (v)
+scungy	adj	scungy|scungy|R|Adj
+scunner	noun	scunner|scunner|R|N
+scurf	noun	scurf|scurf|R|N
+scurfiness	noun	scurfy|scurfi|R|Adj ; -ness|ness|S
+scurfy	adj	scurf|scurf|R|N ; -y|y|S
+scurrility	noun	scurrilous|scurril|R|Adj ; -ity|ity|S
+scurrilously	adv	scurrilous|scurrilous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+scurrilousness	noun	scurrilous|scurrilous|R|Adj ; -ness|ness|S
+scurvied	adj	scurvy|scurvi|R|N ; -ed|ed|S||-ed (adj)
+scurvily	adv	scurvy|scurvi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+scurviness	noun	scurvy|scurvi|R|Adj ; -ness|ness|S
+scuta	noun	scutum|scuta|R|N ; -s||I||-s (plural)
+scutage	noun	scutage|scutage|R|N
+scutal	adj	scutal|scutal|R|Adj
+scutate	adj	scutate|scutate|R|Adj
+scutch	verb	scutch|scutch|R|V
+scutcheon	noun	scutcheon|scutcheon|R|N
+scutcher	noun	scutch|scutch|R|V ; -er|er|S||-er (N)
+scute	noun	scute|scute|R|N
+scutellate	adj	scutellate|scutellate|R|Adj
+scutellation	noun	scutellation|scutellation|R|N
+scutelliform	adj	scutelliform|scutelliform|R|Adj
+scutellum	noun	scutellum|scutellum|R|N
+scutiferous	adj	scutiferous|scutiferous|R|Adj
+scutiform	adj	scutiform|scutiform|R|Adj
+scutter	verb	scutter|scutter|R|V
+scyphiform	adj	scyphiform|scyphiform|R|Adj
+scyphistoma	noun	scyphistoma|scyphistoma|R|N
+scyphozoan	noun	scyphozoan|scyphozoan|R|N
+scyphus	noun	scyphus|scyphus|R|N
+scythed	verb	scythe|scyth|R|V ; -ed|ed|I||-ed (v2)
+scyther	noun	scythe|scyth|R|V ; -er|er|S||-er (N)
+scything	verb	scythe|scyth|R|V ; -ing|ing|I||-ing (v)
+se	noun	se|se|R|N
+seaborgium	noun	seaborgium|seaborgium|R|N
+seabream	noun	sea|sea|R|N ; bream|bream|R|N
+seadog	noun	sea|sea|R|N ; dog|dog|R|N
+seadrome	noun	seadrome|seadrome|R|N
+seafire	noun	sea|sea|R|N ; fire|fire|R|N
+seafoam	noun	sea|sea|R|N ; foam|foam|R|N
+sealery	noun	seal|seal|R|N ; -ery|ery|S
+seamanlike	adj	sea|sea|R|N ; man|man|R|N ; -like|like|S
+seamanly	adj	sea|sea|R|N ; man|man|R|N ; -ly|ly|S||-ly (adj)
+seamark	noun	sea|sea|R|N ; mark|mark|R|N
+seaming	verb	seam|seam|R|N ; -ing|ing|I||-ing (v)
+seamster	noun	seam|seam|R|N ; -ster|ster|S
+seapower	noun	sea|sea|R|N ; power|power|R|N
+seaquake	noun	sea|sea|R|N ; quake|quake|R|N
+searchless	adj	search|search|R|V ; -less|less|S
+searocket	noun	sea|sea|R|N ; rocket|rocket|R|N
+seasonableness	noun	season|season|R|N ; -able|able|S ; -ness|ness|S
+seasonably	adv	season|season|R|N ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+seasteading	noun	sea|sea|R|N ; stead|stead|R|N ; -ing|ing|S||-ing (N)
+seaweedy	adj	sea|sea|R|N ; weed|weed|R|N ; -y|y|S
+seawolf	noun	sea|sea|R|N ; wolf|wolf|R|N
+seax	noun	seax|seax|R|N
+sebific	adj	sebific|sebific|R|Adj
+seborrhea	noun	seborrhea|seborrhea|R|N
+seborrheic	adj	seborrhea|seborrhe|R|N ; -ic|ic|S
+sec	noun	sec|sec|R|N
+secant	noun	secant|secant|R|N
+secateurs	noun	secateur|secateur|R|N ; -s|s|I||-s (plural)
+seccotine	noun	seccotine|seccotine|R|N
+seceder	noun	secede|seced|R|V ; -er|er|S||-er (N)
+secern	verb	secern|secern|R|V
+secessionism	noun	secede|secess|R|V ; -ion|ion|S ; -ism|ism|S
+seclusionist	noun	seclude|seclus|R|V ; -ion|ion|S ; -ist|ist|S
+seclusive	adj	seclude|seclus|R|V ; -ive|ive|S
+seconde	noun	seconde|seconde|R|N
+seconding	verb	second|second|R|V ; -ing|ing|I||-ing (v)
+secondo	noun	secondo|secondo|R|N
+secreta	noun	secreta|secreta|R|N
+secretagogue	noun	secretagogue|secretagogue|R|N
+secretaire	noun	secretaire|secretaire|R|N
+secretin	noun	secretin|secretin|R|N
+sectarianize	verb	sectarian|sectarian|R|Adj ; -ize|ize|S
+sectary	noun	sectary|sectary|R|N
+sectile	adj	sectile|sectile|R|Adj
+sectility	noun	sectile|sectil|R|Adj ; -ity|ity|S
+sectionally	adv	section|section|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+sectioning	verb	section|section|R|V ; -ing|ing|I||-ing (v)
+sectorial	adj	sector|sector|R|N ; -ial|ial|S
+secularly	adv	secular|secular|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+secund	noun	secund|secund|R|N
+secundine	noun	secundine|secundine|R|N
+securable	adj	secure|secur|R|Adj ; -able|able|S
+securiform	adj	securiform|securiform|R|Adj
+sedateness	noun	sedate|sedate|R|Adj ; -ness|ness|S
+sedecuple	adj	sedecuple|sedecuple|R|Adj
+sedentarily	adv	sedentary|sedentari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sedentariness	noun	sedentary|sedentari|R|Adj ; -ness|ness|S
+sedentarization	noun	sedentary|sedentar|R|Adj ; -ize|iz|S ; -ation|ation|S
+sedentism	noun	sedentism|sedentism|R|N
+seder	noun	seder|seder|R|N
+sederunt	noun	sederunt|sederunt|R|N
+sedevacantism	noun	sedevacantism|sedevacantism|R|N
+sedgy	adj	sedge|sedg|R|N ; -y|y|S
+sedimentologic	adj	sedimentology|sedimentolog|R|N ; -ic|ic|S
+sedimentologist	noun	sedimentology|sedimentolog|R|N ; -ist|ist|S
+sedimentology	noun	sedimentology|sedimentology|R|N
+sedimentometer	noun	sedimentometer|sedimentometer|R|N
+seditionary	adj	sedition|sedition|R|N ; -ary|ary|S
+seditiously	adv	seditious|seditious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+seditiousness	noun	seditious|seditious|R|Adj ; -ness|ness|S
+seducible	adj	seduce|seduc|R|V ; -ible|ible|S
+seducing	verb	seduce|seduc|R|V ; -ing|ing|I||-ing (v)
+sedulity	noun	sedulous|sedul|R|Adj ; -ity|ity|S
+sedulous	adj	sedulous|sedulous|R|Adj
+sedulousness	noun	sedulous|sedulous|R|Adj ; -ness|ness|S
+seedage	noun	seed|seed|R|N ; -age|age|S
+seedeater	noun	seed|seed|R|N ; eat|eat|R|V ; -er|er|S||-er (N)
+seeder	noun	seed|seed|R|N ; -er|er|S||-er (N)
+seedful	adj	seed|seed|R|N ; -ful|ful|S
+seedily	adv	seedy|seedi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+seedstalk	noun	seed|seed|R|N ; stalk|stalk|R|N
+seedtime	noun	seed|seed|R|N ; time|time|R|N
+seel	verb	seel|seel|R|V
+seemliness	noun	seemly|seemli|R|Adj ; -ness|ness|S
+seen	verb	see|seen|R|V ; -en||I||-en (participle)
+seeping	verb	seep|seep|R|V ; -ing|ing|I||-ing (v)
+seeress	noun	seer|seer|R|N ; -ess|ess|S
+seesawing	verb	see|see|R|V ; saw|saw|R|V ; -ing|ing|I||-ing (v)
+segno	noun	segno|segno|R|N
+segregative	adj	segregate|segregat|R|V ; -ive|ive|S
+seiche	noun	seiche|seiche|R|N
+seignior	noun	seignior|seignior|R|N
+seigniorage	noun	seignior|seignior|R|N ; -age|age|S
+seigniorial	adj	seignior|seignior|R|N ; -ial|ial|S
+seigniory	noun	seignior|seignior|R|N ; -y|y|S
+seiner	noun	seine|sein|R|V ; -er|er|S||-er (N)
+seining	verb	seine|sein|R|V ; -ing|ing|I||-ing (v)
+seise	verb	seise|seise|R|V
+seisin	noun	seisin|seisin|R|N
+seism	noun	seism|seism|R|N
+seismal	adj	seism|seism|R|N ; -al|al|S
+seismism	noun	seism|seism|R|N ; -ism|ism|S
+seismogram	noun	seismogram|seismogram|R|N
+seismographic	adj	seismography|seismograph|R|N ; -ic|ic|S
+seismography	noun	seismography|seismography|R|N
+seismometric	adj	seismometry|seismometr|R|N ; -ic|ic|S
+seismometry	noun	seismometry|seismometry|R|N
+seismophobia	noun	seismophobia|seismophobia|R|N
+seismoscope	noun	seismoscope|seismoscope|R|N
+seismoscopic	adj	seismoscope|seismoscop|R|N ; -ic|ic|S

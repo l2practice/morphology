@@ -1,0 +1,150 @@
+submicroscopic	adj	=
+megadeal	noun	=
+landscapist	noun	=
+traduce	verb	tra-|tra|P||||Latin trans- 'across' ; -duce|duce|B|V|||Latin ducere 'to lead'
+manus	noun	=
+hyphenate	verb	=
+cosmogony	noun	cosmo-|cosmo|B|N|||Greek kosmos 'world' ; -gony|gony|B|N|||Greek gonos 'creation'
+radiographer	noun	=
+patristics	noun	=
+catafalque	noun	cata-|cata|P||||Greek kata- 'down' ; -falque|falque|B|N|||Latin fala 'scaffolding'
+diffusive	adj	=
+allegorize	verb	=
+chloral	noun	=
+zoetrope	noun	zo-|zo|B|N|||Greek zoe 'life' ; -trope|etrope|B|N|||Greek tropos 'turn'
+conserver	noun	=
+congruous	adj	=
+mincer	noun	=
+ballistically	adv	=
+nephrologist	noun	=
+insolation	noun	=
+eugenicist	noun	=
+tocopherol	noun	toco-|toco|B|N|||Greek tokos 'childbirth' ; -pher-|pher|B|V|||Greek pherein 'to bear' ; -ol|ol|S||||Latin oleum 'oil'
+microeconomics	noun	=
+matricide	noun	matri-|matri|B|N|||Latin mater 'mother' ; -cide|cide|B|V|||Latin caedere 'to kill'
+cynosure	noun	=
+filmography	noun	=
+desuetude	noun	=
+crenellate	verb	=
+funicular	noun	funicul-|funicul|B|N|||Latin funis 'rope, cord' ; -ar|ar|S||||Latin -aris 'relating to'
+polyamide	noun	=
+barefaced	adj	=
+assiduity	noun	=
+audibility	noun	=
+occlusive	adj	=
+ternary	adj	tern-|tern|B|Adj|||Latin terni 'three each' ; -ary|ary|S||||Latin -arius 'relating to'
+oculus	noun	=
+thermomechanical	adj	=
+conjuration	noun	=
+micromechanics	noun	=
+photodiode	noun	=
+confluent	adj	=
+vitalize	verb	=
+liber	noun	=
+gelid	adj	gel-|gel|B|N|||Latin gelu 'frost' ; -id|id|S||||Latin -idus 'having quality'
+chamfer	noun	=
+basher	noun	=
+expectorate	verb	ex-|ex|P||||Latin ex- 'out of' ; -pector-|pector|B|N|||Latin pectus 'breast' ; -ate|ate|S||||Latin -atus 'verb-forming'
+cholinergic	adj	=
+torero	noun	=
+meconium	noun	=
+telescopically	adv	=
+glycoside	noun	glycos-|glycos|B|Adj|||Greek glykys 'sweet' ; -ide|ide|S||||Greek -ides 'chemical compound'
+agnate	adj	=
+warmer	noun	=
+psychodynamics	noun	=
+numeration	noun	=
+epiphenomenal	adj	=
+abortifacient	noun	abort|abort|R|V ; -ifacient|ifacient|B|V|||Latin facere 'to make'
+simpliciter	adv	=
+cyberworld	noun	=
+flagellate	verb	=
+ablate	verb	=
+glamorization	noun	=
+professionalize	verb	=
+herpetology	noun	herpet-|herpet|B|N|||Greek herpeton 'reptile' ; -ology|ology|B|N|||Greek logos 'study'
+prosodic	adj	=
+polysemy	noun	poly-|poly|P||||Greek polu- 'many' ; -semy|semy|B|N|||Greek sema 'sign'
+hellebore	noun	=
+dysplastic	adj	dys-|dys|P||||Greek dus- 'bad' ; -plast-|plast|B|V|||Greek plassein 'to form' ; -ic|ic|S||||Greek -ikos 'relating to'
+decile	noun	dec-|dec|B|Adj|||Latin decem 'ten' ; -ile|ile|S||||Latin -ilis 'relating to'
+pathognomonic	adj	patho-|patho|B|N|||Greek pathos 'suffering' ; -gnomonic|gnomonic|B|Adj|||Greek gnomonikos 'fit to judge'
+gangsterism	noun	=
+imprudence	noun	=
+divertimento	noun	=
+panopticon	noun	pan-|pan|P||||Greek pan- 'all' ; -opticon|opticon|B|Adj|||Greek optikos 'visible'
+plumbago	noun	=
+pneumonic	adj	=
+convolvulus	noun	=
+coccus	noun	=
+homiletics	noun	=
+essentiality	noun	=
+alarmism	noun	=
+cochineal	noun	=
+ashlar	noun	=
+fricative	noun	=
+academical	adj	=
+subclavian	adj	sub-|sub|P||||Latin sub- 'under' ; -clavi-|clavi|B|N|||Latin clavicula 'collar bone' ; -an|an|S||||Latin -anus 'relating to'
+phlogiston	noun	=
+textualism	noun	=
+endarterectomy	noun	=
+sacralization	noun	=
+normed	adj	=
+volar	adj	=
+telekinetic	adj	=
+autoerotic	adj	=
+ischium	noun	=
+epigrammatic	adj	=
+sacristan	noun	=
+krater	noun	=
+agglutination	noun	=
+hadronic	adj	=
+ethnical	adj	=
+prognosticate	verb	=
+kleptomaniac	noun	klepto-|klepto|B|V|||Greek kleptein 'to steal' ; -maniac|maniac|B|N|||Greek mania 'madness'
+minstrelsy	noun	=
+spondylitis	noun	spondyl-|spondyl|B|N|||Latin spondylus 'vertebra' ; -itis|itis|S||||Greek -itis 'inflammation'
+cloaca	noun	=
+basilar	adj	basil-|basil|B|N|||Latin basis 'base' ; -ar|ar|S||||Latin -aris 'relating to'
+spheric	adj	=
+foundress	noun	=
+commensal	noun	com-|com|P||||Latin com- 'with' ; -mens-|mens|B|N|||Latin mensa 'table' ; -al|al|S||||Latin -alis 'relating to'
+behavioristic	adj	=
+parenchyma	noun	par-|par|P||||Greek para- 'beside' ; -enchyma|enchyma|B|N|||Greek enkhyma 'instillation'
+spicule	noun	=
+biodynamics	noun	=
+blepharitis	noun	blephar-|blephar|B|N|||Greek blepharon 'eyelid' ; -itis|itis|S||||Greek -itis 'inflammation'
+maleficent	adj	male-|male|P||||Latin malus 'bad' ; -ficent|ficent|B|V|||Latin facere 'to make'
+epizootic	adj	epi-|epi|P||||Greek epi- 'upon' ; -zootic|zootic|B|N|||Greek zoion 'animal'
+canonic	adj	=
+cassia	noun	=
+brevet	noun	=
+specifier	noun	=
+strophe	noun	=
+parricide	noun	=
+sapien	noun	=
+pomander	noun	=
+nymphaea	noun	=
+mortadella	noun	=
+euphony	noun	eu-|eu|P||||Greek eu- 'good' ; -phony|phony|B|N|||Greek phone 'sound'
+oneiric	adj	oneir-|oneir|B|N|||Greek oneiros 'dream' ; -ic|ic|S||||Greek -ikos 'relating to'
+emend	verb	e-|e|P||||Latin ex- 'out' ; -mend|mend|B|N|||Latin mendum 'fault'
+lanthanum	noun	lanthan-|lanthan|B|V|||Greek lanthanein 'to escape notice' ; -um|um|S||||Latin -ium 'element'
+taurine	adj	=
+coloristic	adj	=
+supernal	adj	=
+avulsion	noun	=
+turbocharge	verb	=
+neonatology	noun	=
+thermoluminescence	noun	=
+amigo	noun	=
+elliptic	adj	=
+inclinometer	noun	=
+cryptology	noun	crypto-|crypto|B|Adj|||Greek kryptos 'hidden' ; -logy|logy|B|N|||Greek logos 'word'
+tyrannous	adj	=
+quadrilateral	noun	=
+thyroiditis	noun	=
+embryogenesis	noun	=
+ligate	verb	=
+subsumption	noun	sub-|sub|P||||Latin sub- 'under' ; -sump-|sump|B|V|||Latin sumere 'to take' ; -tion|tion|S||||Latin -io 'act, state'
+anticlericalism	noun	=

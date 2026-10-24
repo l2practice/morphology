@@ -1,0 +1,200 @@
+asbestos	noun	asbestos|asbestos|R|N
+grit	noun	grit|grit|R|N
+puddle	noun	puddle|puddle|R|N
+windscreen	noun	wind|wind|R|N ; screen|screen|R|N
+fend	verb	fend|fend|R|V
+impatience	noun	im-|im|P|||in- ; patience|patience|R|N
+defined	adj	define|defin|R|V ; -ed|ed|S||-ed (adj)
+ivy	noun	ivy|ivy|R|N
+visionary	adj	vis|vis|B|V ; -ion|ion|S ; -ary|ary|S
+symbolism	noun	symbol|symbol|R|N ; -ism|ism|S
+punter	noun	punt|punt|R|V ; -er|er|S||-er (N)
+cider	noun	cider|cider|R|N
+duo	noun	duo|duo|R|N
+unpublished	adj	un-|un|P ; publish|publish|R|V ; -ed|ed|S||-ed (adj)
+ceremonial	adj	ceremony|ceremoni|R|N ; -al|al|S
+logging	noun	log|logg|R|V ; -ing|ing|S||-ing (N)
+lavish	adj	lavish|lavish|R|Adj
+ballroom	noun	ball|ball|R|N ; room|room|R|N
+weaving	noun	weave|weav|R|V ; -ing|ing|S||-ing (N)
+knuckle	noun	knuckle|knuckle|R|N
+flux	noun	flux|flux|R|N
+midwestern	adj	mid-|mid|P ; western|western|R|Adj
+checklist	noun	check|check|R|V ; list|list|R|N
+apostle	noun	apostle|apostle|R|N
+milestone	noun	mile|mile|R|N ; stone|stone|R|N
+notwithstanding	prep	notwithstanding|notwithstanding|R
+lineage	noun	line|line|R|N ; -age|age|S
+booming	adj	boom|boom|R|V ; -ing|ing|S||-ing (adj)
+motto	noun	motto|motto|R|N
+juan	noun	juan|juan|R|N
+herbal	adj	herb|herb|R|N ; -al|al|S
+sportsman	noun	sports|sports|R|N ; man|man|R|N
+vegetarian	noun	vegetarian|vegetarian|R|N
+fragrant	adj	fragrant|fragrant|R|Adj
+neutrality	noun	neutral|neutral|R|Adj ; -ity|ity|S
+banquet	noun	banquet|banquet|R|N
+vineyard	noun	vine|vine|R|N ; yard|yard|R|N
+phenomenal	adj	phenomenon|phenomen|R|N ; -al|al|S
+gravy	noun	gravy|gravy|R|N
+satin	noun	satin|satin|R|N
+peacefully	adv	peace|peace|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+moorland	noun	moor|moor|R|N ; land|land|R|N
+ballpark	noun	ball|ball|R|N ; park|park|R|N
+clinch	verb	clinch|clinch|R|V
+murky	adj	murk|murk|R|N ; -y|y|S
+potter	noun	pot|pott|R|N ; -er|er|S||-er (N)
+sighting	noun	sight|sight|R|N ; -ing|ing|S||-ing (N)
+conservatism	noun	conservative|conservat|R|Adj ; -ism|ism|S
+conglomerate	noun	conglomerate|conglomerate|R|N
+inadvertently	adv	in-|in|P ; advert|advert|R|V ; -ent|ent|S ; -ly|ly|I|Adv|-ly (adv)
+gull	noun	gull|gull|R|N
+seasoning	noun	season|season|R|N ; -ing|ing|S||-ing (N)
+assessor	noun	assess|assess|R|V ; -or|or|S
+psychologically	adv	psychology|psychologic|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+discrete	adj	discrete|discrete|R|Adj
+tuberculosis	noun	tuberculosis|tuberculosis|R|N
+cohesion	noun	cohesion|cohesion|R|N
+fluorescent	adj	fluoresce|fluoresc|R|V ; -ent|ent|S
+snooker	noun	snooker|snooker|R|N
+mouthful	noun	mouth|mouth|R|N ; -ful|ful|S
+pineapple	noun	pine|pine|R|N ; apple|apple|R|N
+mediator	noun	mediate|mediat|R|V ; -or|or|S
+bouquet	noun	bouquet|bouquet|R|N
+mann	noun	mann|mann|R|N
+anthrax	noun	anthrax|anthrax|R|N
+anyhow	adv	any|any|R ; how|how|R|Adv
+womb	noun	womb|womb|R|N
+gram	noun	gram|gram|R|N
+sustainability	noun	sustain|sustain|R|V ; -able|abil|S ; -ity|ity|S
+lass	noun	lass|lass|R|N
+sandstone	noun	sand|sand|R|N ; stone|stone|R|N
+enclave	noun	enclave|enclave|R|N
+amiss	adj	amiss|amiss|R|Adj
+trek	verb	trek|trek|R|V
+leftist	noun	left|left|R|Adj ; -ist|ist|S
+subsistence	noun	subsist|subsist|R|V ; -ence|ence|S
+furnace	noun	furnace|furnace|R|N
+pigment	noun	pigment|pigment|R|N
+preface	noun	preface|preface|R|N
+nuance	noun	nuance|nuance|R|N
+gadget	noun	gadget|gadget|R|N
+stunt	noun	stunt|stunt|R|N
+alcoholism	noun	alcohol|alcohol|R|N ; -ism|ism|S
+wisely	adv	wise|wise|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+underwater	adj	under-|under|P ; water|water|R|N
+stiffen	verb	stiff|stiff|R|Adj ; -en|en|S
+undercut	verb	under-|under|P ; cut|cut|R|V
+lowland	noun	low|low|R|Adj ; land|land|R|N
+shun	verb	shun|shun|R|V
+insertion	noun	insert|insert|R|V ; -ion|ion|S
+touching	adj	touch|touch|R|V ; -ing|ing|S||-ing (adj)
+caption	noun	caption|caption|R|N
+baroque	adj	baroque|baroque|R|Adj
+devastation	noun	devastate|devastat|R|V ; -ion|ion|S
+racer	noun	race|rac|R|V ; -er|er|S||-er (N)
+potency	noun	potent|poten|R|Adj ; -cy|cy|S
+saucer	noun	sauce|sauc|R|N ; -er|er|S||-er (N)
+centenary	noun	centenary|centenary|R|N
+rapper	noun	rap|rapp|R|V ; -er|er|S||-er (N)
+warner	noun	warn|warn|R|V ; -er|er|S||-er (N)
+interdisciplinary	adj	inter-|inter|P ; discipline|disciplin|R|N ; -ary|ary|S
+barber	noun	barber|barber|R|N
+compatibility	noun	compatible|compatibil|R|Adj ; -ity|ity|S
+fallout	noun	fall|fall|R|V ; out|out|R|Adv
+heed	verb	heed|heed|R|V
+pike	noun	pike|pike|R|N
+intestine	noun	intestine|intestine|R|N
+scam	noun	scam|scam|R|N
+malaria	noun	malaria|malaria|R|N
+twitch	verb	twitch|twitch|R|V
+unsafe	adj	un-|un|P ; safe|safe|R|Adj
+derivative	adj	derive|deriv|R|V ; -ative|ative|S
+liken	verb	like|lik|R|V ; -en|en|S
+scant	adj	scant|scant|R|Adj
+allergic	adj	allergy|allerg|R|N ; -ic|ic|S
+lurch	verb	lurch|lurch|R|V
+gamble	verb	gamble|gamble|R|V
+bounty	noun	bounty|bounty|R|N
+cramped	adj	cramp|cramp|R|V ; -ed|ed|S||-ed (adj)
+incorporation	noun	incorporate|incorporat|R|V ; -ion|ion|S
+analogous	adj	analog|analog|R|N ; -ous|ous|S
+rocker	noun	rock|rock|R|V ; -er|er|S||-er (N)
+ostensibly	adv	ostensible|ostensib|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+blindness	noun	blind|blind|R|Adj ; -ness|ness|S
+bach	noun	bach|bach|R|N
+flea	noun	flea|flea|R|N
+console	verb	console|console|R|V
+objectivity	noun	objective|objectiv|R|Adj ; -ity|ity|S
+fatty	adj	fat|fatt|R|Adj ; -y|y|S
+reaffirm	verb	re-|re|P ; affirm|affirm|R|V
+coma	noun	coma|coma|R|N
+skinner	noun	skin|skinn|R|N ; -er|er|S||-er (N)
+workhouse	noun	work|work|R|V ; house|house|R|N
+gala	noun	gala|gala|R|N
+tina	noun	tina|tina|R|N
+tolerant	adj	tolerate|toler|R|V ; -ant|ant|S
+rainfall	noun	rain|rain|R|N ; fall|fall|R|V
+remuneration	noun	remunerate|remunerat|R|V ; -ion|ion|S
+concur	verb	concur|concur|R|V
+plump	adj	plump|plump|R|Adj
+cranberry	noun	cranberry|cranberry|R|N
+convergence	noun	converge|converg|R|V ; -ence|ence|S
+raider	noun	raid|raid|R|V ; -er|er|S||-er (N)
+cricketer	noun	cricket|cricket|R|N ; -er|er|S||-er (N)
+glaze	verb	glaze|glaze|R|V
+weaver	noun	weave|weav|R|V ; -er|er|S||-er (N)
+proxy	noun	proxy|proxy|R|N
+coronary	adj	coronary|coronary|R|Adj
+crib	noun	crib|crib|R|N
+sly	adj	sly|sly|R|Adj
+camper	noun	camp|camp|R|V ; -er|er|S||-er (N)
+wheeler	noun	wheel|wheel|R|N ; -er|er|S||-er (N)
+colliery	noun	collier|collier|R|N ; -y|y|S
+livelihood	noun	livelihood|livelihood|R|N
+outnumber	verb	out-|out|P ; number|number|R|N
+payer	noun	pay|pay|R|V ; -er|er|S||-er (N)
+breeder	noun	breed|breed|R|V ; -er|er|S||-er (N)
+paddle	noun	paddle|paddle|R|N
+fauna	noun	fauna|fauna|R|N
+spaghetti	noun	spaghetti|spaghetti|R|N
+alphabet	noun	alphabet|alphabet|R|N
+pentagon	noun	pentagon|pentagon|R|N
+revealing	adj	reveal|reveal|R|V ; -ing|ing|S||-ing (adj)
+dee	noun	dee|dee|R|N
+inflammation	noun	inflame|inflamm|R|V ; -ation|ation|S
+sub	noun	sub|sub|R|N
+expansive	adj	expand|expans|R|V ; -ive|ive|S
+mon	noun	mon|mon|R|N
+homogeneous	adj	homogeneous|homogeneous|R|Adj
+punctuate	verb	punctuate|punctuate|R|V
+autism	noun	autism|autism|R|N
+motherhood	noun	mother|mother|R|N ; -hood|hood|S
+inscribe	verb	in-|in|P ; -scribe|scribe|B|V
+phoenix	noun	phoenix|phoenix|R|N
+sliding	adj	slide|slid|R|V ; -ing|ing|S||-ing (adj)
+township	noun	town|town|R|N ; -ship|ship|S
+federally	adv	federal|federal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+amplifier	noun	amplify|amplifi|R|V ; -er|er|S||-er (N)
+energize	verb	energy|energ|R|N ; -ize|ize|S
+prod	verb	prod|prod|R|V
+backer	noun	back|back|R|V ; -er|er|S||-er (N)
+friar	noun	friar|friar|R|N
+beck	noun	beck|beck|R|N
+judiciary	noun	judicial|judici|R|Adj ; -ary|ary|S
+deity	noun	deity|deity|R|N
+singular	adj	singular|singular|R|Adj
+depreciation	noun	depreciate|depreciat|R|V ; -ion|ion|S
+hypocrisy	noun	hypocrisy|hypocrisy|R|N
+outpost	noun	out-|out|P ; post|post|R|N
+covered	adj	cover|cover|R|V ; -ed|ed|S||-ed (adj)
+motivational	adj	motivate|motivat|R|V ; -ion|ion|S ; -al|al|S
+portal	noun	portal|portal|R|N
+mourning	noun	mourn|mourn|R|V ; -ing|ing|S||-ing (N)
+bedtime	noun	bed|bed|R|N ; time|time|R|N
+budgetary	adj	budget|budget|R|N ; -ary|ary|S
+captive	noun	captive|captive|R|N
+devolution	noun	devolution|devolution|R|N
+template	noun	template|template|R|N
+textual	adj	text|text|R|N ; -ual|ual|S
+acoustic	adj	acoustic|acoustic|R|Adj

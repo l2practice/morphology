@@ -1,0 +1,150 @@
+criteria	noun	criteri-|criteri|B|V|||Greek krinein 'to judge' ; -a|a|S||||Greek -a, 'plural'
+utility	noun	util-|util|B|V|||Latin uti 'to use' ; -ity|ity|S||||Latin -itas, 'state'
+confident	adj	con-|con|P||||Latin com- 'with' ; -fid-|fid|B|V|||Latin fidere 'to trust' ; -ent|ent|S||||Latin -ens, 'agent'
+clinical	adj	clin-|clin|B|N|||Greek kline 'bed' ; -ical|ical|S||||Greek -ikos, 'relating to'
+lecture	noun	lect-|lect|B|V|||Latin legere 'to read' ; -ure|ure|S||||Latin -ura, 'act, state'
+ingredient	noun	in-|in|P||||Latin in- 'into' ; -gredi-|gredi|B|V|||Latin gradi, 'to step' ; -ent|ent|S||||Latin -ens, 'agent'
+occupation	noun	occup-|occup|B|V|||Latin capere 'to take' ; -ation|ation|S||||Latin -atio, 'act, state'
+fiber	noun	=
+activist	noun	=
+refugee	noun	=
+formula	noun	form-|form|B|N|||Latin forma 'form' ; -ula|ula|S||||Latin -ula, 'diminutive'
+ultimate	adj	ultim-|ultim|B|Adj|||Latin ultimus 'last' ; -ate|ate|S||||Latin -atus, 'having'
+statistics	noun	statist-|statist|B|N|||Latin status 'state' ; -ics|ics|S||||Greek -ikos, 'relating to'
+found	verb	=
+distinct	adj	dis-|dis|P||||Latin dis- 'apart' ; -tinct|tinct|B|V|||Latin stinguere 'to prick'
+assign	verb	as-|as|P||||Latin ad- 'to' ; -sign|sign|B|V|||Latin signare 'to mark'
+compensation	noun	com-|com|P||||Latin com- 'together' ; -pens-|pens|B|V|||Latin pensare 'to weigh' ; -ation|ation|S||||Latin -atio, 'act, state'
+poet	noun	=
+supplier	noun	=
+classic	adj	=
+vacation	noun	vac-|vac|B|V|||Latin vacare 'to be empty' ; -ation|ation|S||||Latin -atio, 'act, state'
+advocate	noun	ad-|ad|P||||Latin ad- 'to' ; -voc-|voc|B|V|||Latin vocare 'to call' ; -ate|ate|S||||Latin -atus, 'having'
+extraordinary	adj	=
+sept	noun	=
+fortune	noun	=
+pregnant	adj	pre-|pre|P||||Latin prae 'before' ; -gn-|gn|B|V|||Latin gnasci 'to be born' ; -ant|ant|S||||Latin -ens, 'agent'
+anxious	adj	anx-|anx|B|V|||Latin angere 'to choke' ; -ious|ious|S||||Latin -iosus, 'full of'
+distant	adj	dis-|di|P||||Latin dis- 'apart' ; -stant|stant|B|V|||Latin stare 'to stand'
+satellite	noun	=
+conscious	adj	con-|con|P||||Latin com- 'with' ; -sci-|sci|B|V|||Latin scire 'to know' ; -ous|ous|S||||Latin -osus, 'full of'
+stable	adj	=
+preference	noun	=
+universal	adj	=
+super	noun	=
+portrait	noun	por-|por|P||||Latin pro- 'forth' ; -trait|trait|B|V|||Latin trahere 'to draw'
+indication	noun	in-|in|P||||Latin in- 'in' ; -dic-|dic|B|V|||Latin dicere 'to say' ; -ation|ation|S||||Latin -atio, 'act, state'
+cooperation	noun	=
+ceremony	noun	=
+communicate	verb	commun-|commun|B|Adj|||Latin communis 'common' ; -ic-|ic|S||||Latin -icus, 'relating to' ; -ate|ate|S||||Latin -atus, 'having'
+profile	noun	pro-|pro|P||||Latin pro- 'before' ; -file|file|B|N|||Latin filum 'thread'
+enthusiasm	noun	en-|en|P||||Greek en, 'in' ; -thus-|thus|B|N|||Greek theos 'god' ; -iasm|iasm|S||||Greek -iasmos, 'state'
+cease	verb	=
+satisfaction	noun	satis-|satis|P||||Latin satis, 'enough' ; -fact-|fact|B|V|||Latin facere 'to make' ; -ion|ion|S||||Latin -io, 'act, state'
+remote	adj	re-|re|P||||Latin re- 'back' ; -mote|mote|B|V|||Latin movere 'to move'
+destruction	noun	de-|de|P||||Latin de- 'down' ; -struct|struct|B|V|||Latin struere 'to heap' ; -ion|ion|S||||Latin -io, 'act, state'
+tissue	noun	=
+interval	noun	inter-|inter|P||||Latin inter, 'between' ; -val|val|B|N|||Latin vallum 'rampart'
+pant	verb	=
+stranger	noun	=
+confusion	noun	=
+operator	noun	=
+virus	noun	=
+strategic	adj	strateg-|strateg|B|N|||Greek strategos 'general' ; -ic|ic|S||||Greek -ikos, 'relating to'
+storage	noun	=
+summary	noun	summ-|summ|B|N|||Latin summa 'total' ; -ary|ary|S||||Latin -arius, 'relating to'
+catalogue	noun	cata-|cata|P||||Greek kata, 'down' ; -logue|logue|B|N|||Greek logos 'word, list'
+publisher	noun	=
+architecture	noun	archi-|archi|P||||Greek archi, 'chief' ; -tect-|tect|B|N|||Greek tekton 'builder' ; -ure|ure|S||||Latin -ura, 'act, state'
+encounter	verb	=
+minimum	noun	minim-|minim|B|Adj|||Latin minimus 'least' ; -um|um|S||||Latin -um, 'neuter ending'
+exceed	verb	ex-|ex|P||||Latin ex- 'out' ; -ceed|ceed|B|V|||Latin cedere 'to go'
+genetic	adj	gen-|gen|B|V|||Greek gignesthai 'to be born' ; -etic|etic|S||||Greek -etikos, 'relating to'
+incentive	noun	in-|in|P||||Latin in- 'in' ; -cent-|cent|B|V|||Latin canere 'to sing' ; -ive|ive|S||||Latin -ivus, 'tending to'
+slave	noun	=
+accurate	adj	ac-|ac|P||||Latin ad- 'to' ; -cur-|cur|B|V|||Latin curare 'to care for' ; -ate|ate|S||||Latin -atus, 'having'
+theoretical	adj	=
+translate	verb	trans-|trans|P||||Latin trans, 'across' ; -late|late|B|V|||Latin ferre 'to bear'
+terror	noun	terr-|terr|B|V|||Latin terrere 'to frighten' ; -or|or|S||||Latin -or, 'state'
+elite	noun	e-|e|P||||Latin ex- 'out' ; -lite|lite|B|V|||Latin legere 'to choose'
+rice	noun	=
+bible	noun	=
+chart	noun	=
+proof	noun	=
+practise	verb	=
+solar	adj	sol-|sol|B|N|||Latin sol 'sun' ; -ar|ar|S||||Latin -aris, 'relating to'
+leisure	noun	=
+import	verb	=
+reflection	noun	re-|re|P||||Latin re- 'back' ; -flect|flect|B|V|||Latin flectere 'to bend' ; -ion|ion|S||||Latin -io, 'act, state'
+telescope	noun	tele-|tele|B|Adv|||Greek tele, 'afar' ; -scope|scope|B|V|||Greek skopein 'to look'
+precise	adj	pre-|pre|P||||Latin prae, 'before' ; -cise|cise|B|V|||Latin caedere 'to cut'
+fiction	noun	fict-|fict|B|V|||Latin fingere 'to fashion' ; -ion|ion|S||||Latin -io, 'act, state'
+plain	adj	=
+admission	noun	ad-|ad|P||||Latin ad- 'to' ; -miss-|miss|B|V|||Latin mittere 'to send' ; -ion|ion|S||||Latin -io, 'act, state'
+tremendous	adj	tremend-|tremend|B|V|||Latin tremere 'to tremble' ; -ous|ous|S||||Latin -osus, 'full of'
+senator	noun	senat-|senat|B|Adj|||Latin senex 'old' ; -or|or|S||||Latin -or, 'agent'
+poetry	noun	=
+fabric	noun	fabr-|fabr|B|N|||Latin faber 'artisan' ; -ic|ic|S||||Latin -icus, 'relating to'
+sustain	verb	sus-|sus|P||||Latin sub-, 'from below' ; -tain|tain|B|V|||Latin tenere 'to hold'
+innocent	adj	in-|in|P||||Latin in- 'not' ; -noc-|noc|B|V|||Latin nocere 'to harm' ; -ent|ent|S||||Latin -ens, 'agent'
+satisfy	verb	satis-|satis|P||||Latin satis, 'enough' ; -fy|fy|S||||Latin -ficare, 'to make'
+gentle	adj	gent-|gent|B|N|||Latin gens 'clan' ; -le|le|S||||Latin -ilis, 'relating to'
+vessel	noun	vess-|vess|B|N|||Latin vas 'vessel' ; -el|el|S||||Latin -ellus, 'diminutive'
+determination	noun	=
+consultation	noun	=
+dialogue	noun	dia-|dia|P||||Greek dia, 'through' ; -logue|logue|B|N|||Greek logos 'word, discourse'
+unity	noun	un-|un|B|Adj|||Latin unus 'one' ; -ity|ity|S||||Latin -itas, 'state'
+mutual	adj	=
+founder	noun	=
+percent	noun	=
+sensible	adj	sens-|sens|B|V|||Latin sentire 'to feel' ; -ible|ible|S||||Latin -ibilis, 'able to'
+automatically	adv	=
+adapt	verb	ad-|ad|P||||Latin ad- 'to' ; -apt|apt|B|Adj|||Latin aptus 'fit'
+evolve	verb	e-|e|P||||Latin ex- 'out' ; -volve|volve|B|V|||Latin volvere 'to roll'
+consult	verb	consul-|consul|B|V|||Latin consulere 'to consult' ; -t|t|S||||Latin -tus, 'having'
+comfort	noun	=
+imagination	noun	=
+offense	noun	of-|of|P||||Latin ob-, 'against' ; -fense|fense|B|V|||Latin fendere 'to strike'
+counter	noun	=
+inevitable	adj	in-|in|P||||Latin in- 'not' ; -evit-|evit|B|V|||Latin vitare 'to shun' ; -able|able|S||||Latin -abilis, 'able to'
+conviction	noun	con-|con|P||||Latin com- 'with' ; -vict-|vict|B|V|||Latin vincere 'to conquer' ; -ion|ion|S||||Latin -io, 'act, state'
+magistrate	noun	magistr-|magistr|B|N|||Latin magister 'master' ; -ate|ate|S||||Latin -atus, 'having'
+episode	noun	epi-|epi|P||||Greek epi, 'upon' ; -sode|sode|B|N|||Greek hodos 'way'
+prior	adj	=
+intellectual	adj	=
+sergeant	noun	serg-|serg|B|V|||Latin servire 'to serve' ; -eant|eant|S||||Latin -ens, 'agent'
+characterize	verb	=
+assault	noun	as-|as|P||||Latin ad- 'at' ; -sault|sault|B|V|||Latin salire 'to leap'
+adventure	noun	ad-|ad|P||||Latin ad- 'to' ; -vent-|vent|B|V|||Latin venire 'to come' ; -ure|ure|S||||Latin -ura, 'act, state'
+monetary	adj	monet-|monet|B|N|||Latin moneta 'mint' ; -ary|ary|S||||Latin -arius, 'relating to'
+amendment	noun	=
+violation	noun	viol-|viol|B|V|||Latin violare 'to violate' ; -ation|ation|S||||Latin -atio, 'act, state'
+license	noun	lic-|lic|B|V|||Latin licere 'to be allowed' ; -ense|ense|S||||Latin -entia, 'state, quality'
+controversy	noun	contro-|contro|P||||Latin contra, 'against' ; -vers-|vers|B|V|||Latin vertere 'to turn' ; -y|y|S||||Latin -ia, 'state'
+absorb	verb	ab-|ab|P||||Latin ab-, 'from' ; -sorb|sorb|B|V|||Latin sorbere 'to swallow'
+fade	verb	=
+gesture	noun	gest-|gest|B|V|||Latin gerere 'to bear' ; -ure|ure|S||||Latin -ura, 'act, state'
+tragedy	noun	trag-|trag|B|N|||Greek tragos 'goat' ; -edy|edy|S||||Greek oide, 'song'
+funeral	noun	funer-|funer|B|N|||Latin funus 'funeral' ; -al|al|S||||Latin -alis, 'relating to'
+pretend	verb	pre-|pre|P||||Latin prae, 'before' ; -tend|tend|B|V|||Latin tendere 'to stretch'
+entitle	verb	=
+grateful	adj	=
+architect	noun	archi-|archi|P||||Greek archi, 'chief' ; -tect|tect|B|N|||Greek tekton 'builder'
+mask	noun	=
+cathedral	noun	cathedr-|cathedr|B|N|||Greek kathedra 'seat' ; -al|al|S||||Latin -alis, 'relating to'
+prominent	adj	pro-|pro|P||||Latin pro-, 'before' ; -min-|min|B|V|||Latin minere 'to jut' ; -ent|ent|S||||Latin -ens, 'agent'
+confine	verb	con-|con|P||||Latin com-, 'together' ; -fine|fine|B|N|||Latin finis 'boundary'
+treasury	noun	thesaur-|treasur|B|N|||Greek thesauros 'treasure' ; -y|y|S||||Latin -ia, 'state'
+limitation	noun	=
+detective	noun	=
+violate	verb	viol-|viol|B|V|||Latin violare 'to violate' ; -ate|ate|S||||Latin -atus, 'having'
+composition	noun	com-|com|P||||Latin com-, 'together' ; -posit-|posit|B|V|||Latin ponere 'to put' ; -ion|ion|S||||Latin -io, 'act, state'
+emission	noun	e-|e|P||||Latin ex-, 'from' ; -miss-|miss|B|V|||Latin mittere 'to send' ; -ion|ion|S||||Latin -io, 'act, state'
+discourse	noun	dis-|dis|P||||Latin dis-, 'apart' ; -course|course|B|V|||Latin currere 'to run'
+fate	noun	=
+segment	noun	seg-|seg|B|V|||Latin secare 'to cut' ; -ment|ment|S||||Latin -mentum, 'result'
+occasional	adj	=
+reception	noun	re-|re|P||||Latin re-, 'back' ; -cept-|cept|B|V|||Latin capere 'to take' ; -ion|ion|S||||Latin -io, 'act, state'
+objection	noun	ob-|ob|P||||Latin ob-, 'against' ; -ject-|ject|B|V|||Latin iacere 'to throw' ; -ion|ion|S||||Latin -io, 'act, state'
+correspondent	noun	cor-|cor|P||||Latin com-, 'together' ; -respond-|respond|B|V|||Latin respondere 'to answer' ; -ent|ent|S||||Latin -ens, 'agent'
+diary	noun	di-|di|B|N|||Latin dies 'day' ; -ary|ary|S||||Latin -arius, 'relating to'

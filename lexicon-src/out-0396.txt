@@ -1,0 +1,200 @@
+taleteller	noun	tale|tale|R|N ; tell|tell|R|V ; -er|er|S||-er (N)
+taletelling	noun	tale|tale|R|N ; tell|tell|R|V ; -ing|ing|S||-ing (N)
+tali	noun	talus|tali|R|N ; -s||I||-s (plural)
+talion	noun	talion|talion|R|N
+taliped	adj	taliped|taliped|R|Adj
+talipes	noun	talipes|talipes|R|N
+tallit	noun	tallit|tallit|R|N
+tallowy	adj	tallow|tallow|R|N ; -y|y|S
+tallyman	noun	tally|tally|R|N ; man|man|R|N
+tamada	noun	tamada|tamada|R|N
+tamandua	noun	tamandua|tamandua|R|N
+tamanu	noun	tamanu|tamanu|R|N
+tamaraw	noun	tamaraw|tamaraw|R|N
+tamarillo	noun	tamarillo|tamarillo|R|N
+tambaqui	noun	tambaqui|tambaqui|R|N
+tambura	noun	tambura|tambura|R|N
+tameable	adj	tame|tame|R|Adj ; -able|able|S
+tameless	adj	tame|tame|R|Adj ; -less|less|S
+tamis	noun	tamis|tamis|R|N
+tamped	verb	tamp|tamp|R|V ; -ed|ed|I||-ed (v2)
+tampered	verb	tamper|tamper|R|V ; -ed|ed|I||-ed (v2)
+tamperer	noun	tamper|tamper|R|V ; -er|er|S||-er (N)
+tamping	verb	tamp|tamp|R|V ; -ing|ing|I||-ing (v)
+tampion	noun	tampion|tampion|R|N
+tana	noun	tana|tana|R|N
+tanbark	noun	tan|tan|R|N ; bark|bark|R|N
+tanbur	noun	tanbur|tanbur|R|N
+tandoor	noun	tandoor|tandoor|R|N
+tangelo	noun	tangelo|tangelo|R|N
+tangency	noun	tangent|tang|R|N ; -ency|ency|S
+tangeretin	noun	tangeretin|tangeretin|R|N
+tanghulu	noun	tanghulu|tanghulu|R|N
+tangibility	noun	tangible|tangibil|R|Adj ; -ity|ity|S
+tanglefoot	noun	tangle|tangle|R|V ; foot|foot|R|N
+tangling	verb	tangle|tangl|R|V ; -ing|ing|I||-ing (v)
+tangly	adj	tangle|tangl|R|V ; -y|y|S
+tangram	noun	tangram|tangram|R|N
+tangyuan	noun	tangyuan|tangyuan|R|N
+tankage	noun	tank|tank|R|N ; -age|age|S
+tankette	noun	tank|tank|R|N ; -ette|ette|S
+tankie	noun	tankie|tankie|R|N
+tankman	noun	tank|tank|R|N ; man|man|R|N
+tankproof	adj	tank|tank|R|N ; proof|proof|R|N
+tannage	noun	tan|tann|R|V ; -age|age|S
+tantalite	noun	tantalite|tantalite|R|N
+tantalization	noun	tantalize|tantaliz|R|V ; -ation|ation|S
+tantalizer	noun	tantalize|tantaliz|R|V ; -er|er|S||-er (N)
+tantivy	adv	tantivy|tantivy|R|Adv
+tantony	noun	tantony|tantony|R|N
+tantra	noun	tantra|tantra|R|N
+tantrism	noun	tantra|tantr|R|N ; -ism|ism|S
+tanwin	noun	tanwin|tanwin|R|N
+tanzaku	noun	tanzaku|tanzaku|R|N
+tanzanite	noun	tanzanite|tanzanite|R|N
+tao	noun	tao|tao|R|N
+taotie	noun	taotie|taotie|R|N
+tapas	noun	tapas|tapas|R|N
+tapestried	adj	tapestry|tapestri|R|N ; -ed|ed|S||-ed (adj)
+taphonomic	adj	taphonomy|taphonom|R|N ; -ic|ic|S
+taphonomy	noun	taphonomy|taphonomy|R|N
+taphouse	noun	tap|tap|R|N ; house|house|R|N
+tapis	noun	tapis|tapis|R|N
+tappet	noun	tappet|tappet|R|N
+taps	noun	tap|tap|R|N ; -s|s|I||-s (plural)
+taqiyah	noun	taqiyah|taqiyah|R|N
+taqiyya	noun	taqiyya|taqiyya|R|N
+taramosalata	noun	taramosalata|taramosalata|R|N
+taran	noun	taran|taran|R|N
+tarantara	interj	tarantara|tarantara|R
+tarantass	noun	tarantass|tarantass|R|N
+tarantella	noun	tarantella|tarantella|R|N
+tarantism	noun	tarantula|tarant|R|N ; -ism|ism|S
+taratantara	interj	taratantara|taratantara|R
+tarawih	noun	tarawih|tarawih|R|N
+taraxacum	noun	taraxacum|taraxacum|R|N
+tarboosh	noun	tarboosh|tarboosh|R|N
+tardigrade	noun	tardigrade|tardigrade|R|N
+tared	verb	tare|tar|R|V ; -ed|ed|I||-ed (v2)
+targum	noun	targum|targum|R|N
+tarhana	noun	tarhana|tarhana|R|N
+taring	verb	tare|tar|R|V ; -ing|ing|I||-ing (v)
+tarka	noun	tarka|tarka|R|N
+tarkhan	noun	tarkhan|tarkhan|R|N
+tarnishable	adj	tarnish|tarnish|R|V ; -able|able|S
+tarnishing	verb	tarnish|tarnish|R|V ; -ing|ing|I||-ing (v)
+tarpan	noun	tarpan|tarpan|R|N
+tarradiddle	noun	tarradiddle|tarradiddle|R|N
+tarring	verb	tar|tarr|R|V ; -ing|ing|I||-ing (v)
+tarrying	verb	tarry|tarry|R|V ; -ing|ing|I||-ing (v)
+tarsier	noun	tarsier|tarsier|R|N
+tartare	noun	tartare|tartare|R|N
+tartaric	adj	tartar|tartar|R|N ; -ic|ic|S
+tartish	adj	tart|tart|R|Adj ; -ish|ish|S
+tartrate	noun	tartar|tartr|R|N ; -ate|ate|S
+tartrazine	noun	tartrazine|tartrazine|R|N
+tartuffe	noun	tartuffe|tartuffe|R
+tase	verb	tase|tase|R|V
+taser	noun	taser|taser|R|N
+tashdid	noun	tashdid|tashdid|R|N
+tasker	noun	task|task|R|N ; -er|er|S||-er (N)
+tasking	verb	task|task|R|V ; -ing|ing|I||-ing (v)
+taskmistress	noun	task|task|R|N ; mistress|mistress|R|N
+taskwork	noun	task|task|R|N ; work|work|R|N
+tass	noun	tass|tass|R|N
+tastable	adj	taste|tast|R|V ; -able|able|S
+tastebud	noun	taste|taste|R|N ; bud|bud|R|N
+tastefulness	noun	taste|taste|R|N ; -ful|ful|S ; -ness|ness|S
+tastelessly	adv	taste|taste|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+tastily	adv	tasty|tasti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+tastiness	noun	tasty|tasti|R|Adj ; -ness|ness|S
+tathagata	noun	tathagata|tathagata|R|N
+tatonnement	noun	tatonnement|tatonnement|R|N
+tatou	noun	tatou|tatou|R|N
+tatsama	noun	tatsama|tatsama|R|N
+tatted	verb	tat|tatt|R|V ; -ed|ed|I||-ed (v2)
+tatterdemalion	noun	tatterdemalion|tatterdemalion|R|N
+tattery	adj	tatter|tatter|R|N ; -y|y|S
+tattily	adv	tatty|tatti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+tattiness	noun	tatty|tatti|R|Adj ; -ness|ness|S
+tatting	noun	tat|tatt|R|V ; -ing|ing|S||-ing (N)
+tattler	noun	tattle|tattl|R|V ; -er|er|S||-er (N)
+tattling	verb	tattle|tattl|R|V ; -ing|ing|I||-ing (v)
+tattooer	noun	tattoo|tattoo|R|V ; -er|er|S||-er (N)
+tauon	noun	tauon|tauon|R|N
+taurokathapsia	noun	taurokathapsia|taurokathapsia|R|N
+tauromachy	noun	tauromachy|tauromachy|R|N
+tautening	verb	tauten|tauten|R|V ; -ing|ing|I||-ing (v)
+tautogram	noun	tautogram|tautogram|R|N
+tautologic	adj	tautology|tautolog|R|N ; -ic|ic|S
+tautologically	adv	tautologic|tautologic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+tautologist	noun	tautology|tautolog|R|N ; -ist|ist|S
+tautologize	verb	tautology|tautolog|R|N ; -ize|ize|S
+tautomerism	noun	tautomer|tautomer|R|N ; -ism|ism|S
+taw	verb	taw|taw|R|V
+tawdriness	noun	tawdry|tawdri|R|Adj ; -ness|ness|S
+tawer	noun	taw|taw|R|V ; -er|er|S||-er (N)
+tawery	noun	taw|taw|R|V ; -ery|ery|S
+tawniness	noun	tawny|tawni|R|Adj ; -ness|ness|S
+taxability	noun	taxable|taxabil|R|Adj ; -ity|ity|S
+taxidermal	adj	taxidermy|taxiderm|R|N ; -al|al|S
+taxidermic	adj	taxidermy|taxiderm|R|N ; -ic|ic|S
+taxiing	verb	taxi|taxi|R|V ; -ing|ing|I||-ing (v)
+taxiless	adj	taxi|taxi|R|N ; -less|less|S
+taximeter	noun	taxi|taxi|R|N ; meter|meter|R|N
+taxiplane	noun	taxi|taxi|R|N ; plane|plane|R|N
+taxis	noun	taxis|taxis|R|N
+taxology	noun	taxology|taxology|R|N
+taxonomical	adj	taxonomic|taxonomic|R|Adj ; -al|al|S
+tayammum	noun	tayammum|tayammum|R|N
+tayberry	noun	tayberry|tayberry|R|N
+tayra	noun	tayra|tayra|R|N
+tchoukball	noun	tchoukball|tchoukball|R|N
+teachability	noun	teachable|teachabil|R|Adj ; -ity|ity|S
+teachableness	noun	teachable|teachable|R|Adj ; -ness|ness|S
+teacheress	noun	teach|teach|R|V ; -er|er|S||-er (N) ; -ess|ess|S
+teacherless	adj	teach|teach|R|V ; -er|er|S||-er (N) ; -less|less|S
+teachership	noun	teach|teach|R|V ; -er|er|S||-er (N) ; -ship|ship|S
+tealight	noun	tea|tea|R|N ; light|light|R|N
+teambuilding	noun	team|team|R|N ; build|build|R|V ; -ing|ing|S||-ing (N)
+teamed	verb	team|team|R|V ; -ed|ed|I||-ed (v2)
+teamplay	noun	team|team|R|N ; play|play|R|V
+teamwise	adv	team|team|R|N ; -wise|wise|S
+teapoy	noun	teapoy|teapoy|R|N
+tearjerker	noun	tear|tear|R|V ; jerk|jerk|R|V ; -er|er|S||-er (N)
+tears	noun	tear|tear|R|N ; -s|s|I||-s (plural)
+teasel	noun	teasel|teasel|R|N
+teaware	noun	tea|tea|R|N ; ware|ware|R|N
+tebibit	noun	tebibit|tebibit|R|N
+tebibyte	noun	tebibyte|tebibyte|R|N
+techily	adv	techy|techi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+techiness	noun	techy|techi|R|Adj ; -ness|ness|S
+technetate	noun	technetium|technet|R|N ; -ate|ate|S
+technic	noun	technic|technic|R|N
+technicalness	noun	technical|technical|R|Adj ; -ness|ness|S
+technobabble	noun	techno|techno|R|N ; babble|babble|R|V
+technofeudalism	noun	technofeudal|technofeudal|R|Adj ; -ism|ism|S
+technography	noun	technography|technography|R|N
+technophobia	noun	techno|techno|R|N ; phobia|phobia|R|N
+technostructure	noun	techno|techno|R|N ; structure|structure|R|N
+tectology	noun	tectology|tectology|R|N
+tectrix	noun	tectrix|tectrix|R|N
+tedder	noun	ted|tedd|R|V ; -er|er|S||-er (N)
+tedding	verb	ted|tedd|R|V ; -ing|ing|I||-ing (v)
+tediousness	noun	tedious|tedious|R|Adj ; -ness|ness|S
+teener	noun	teen|teen|R|N ; -er|er|S||-er (N)
+teens	noun	teen|teen|R|N ; -s|s|I||-s (plural)
+teer	verb	teer|teer|R|V
+teeth	noun	tooth|teeth|R|N ; -s||I||-s (plural)
+teethe	verb	teethe|teethe|R|V
+teethed	verb	teethe|teeth|R|V ; -ed|ed|I||-ed (v2)
+teether	noun	teethe|teeth|R|V ; -er|er|S||-er (N)
+teethridge	noun	tooth|teeth|R|N ; ridge|ridge|R|N
+teetotalism	noun	teetotal|teetotal|R|Adj ; -ism|ism|S
+teetotally	adv	teetotal|teetotal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+teetotum	noun	teetotum|teetotum|R|N
+teevee	noun	teevee|teevee|R|N
+tefilla	noun	tefilla|tefilla|R|N
+teg	noun	teg|teg|R|N
+tegular	adj	tegula|tegul|R|N ; -ar|ar|S
+tegulated	adj	tegula|tegul|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)

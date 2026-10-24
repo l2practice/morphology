@@ -1,0 +1,150 @@
+rote	noun	=
+regress	verb	re-|re|P||||Latin re- 'back' ; -gress|gress|B|V|||Latin gradi 'to go'
+raze	verb	=
+distiller	noun	=
+sanguine	adj	=
+harmonica	noun	harmon-|harmon|B|N|||Greek harmonia 'harmony' ; -ica|ica|S||||Greek -ikos 'pertaining to'
+thesaurus	noun	=
+circumscribe	verb	circum-|circum|P||||Latin circum 'around' ; -scribe|scribe|B|V|||Latin scribere 'to write'
+hermit	noun	=
+convulsion	noun	con-|con|P||||Latin com- 'together' ; -vuls-|vuls|B|V|||Latin vellere 'to pull' ; -ion|ion|S||||Latin -io 'act, state'
+venison	noun	=
+mastectomy	noun	=
+institutionalization	noun	=
+hyperactivity	noun	=
+condiment	noun	=
+suffix	noun	sub-|suf|P||||Latin sub- 'under' ; -fix|fix|B|V|||Latin figere 'to fix'
+modulation	noun	=
+fastener	noun	=
+rapt	adj	=
+transverse	adj	trans-|trans|P||||Latin trans 'across' ; -verse|verse|B|V|||Latin vertere 'to turn'
+folio	noun	=
+impel	verb	im-|im|P||||Latin in- 'into' ; -pel|pel|B|V|||Latin pellere 'to drive'
+centralize	verb	=
+terra	noun	=
+amputate	verb	amput-|amput|B|V|||Latin amputare 'to cut off' ; -ate|ate|S||||Latin -atus 'verb ending'
+salami	noun	=
+hooliganism	noun	=
+officiate	verb	offici-|offici|B|N|||Latin officium 'duty' ; -ate|ate|S||||Latin -atus 'verb ending'
+programmatic	adj	=
+knocker	noun	=
+materialistic	adj	=
+sorcerer	noun	sorcer-|sorcer|B|N|||Latin sors 'fate' ; -er|er|S
+millet	noun	=
+psychedelic	adj	psych-|psych|B|N|||Greek psukhē 'mind' ; -edel-|edel|B|Adj|||Greek dēlos 'manifest' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+gnome	noun	=
+retrograde	adj	retro-|retro|P||||Latin retro 'back' ; -grade|grade|B|V|||Latin gradi 'to go'
+cannibalism	noun	=
+alchemy	noun	=
+apostolic	adj	=
+archivist	noun	=
+confiscation	noun	=
+preemption	noun	pre-|pre|P||||Latin prae 'before' ; -empt-|empt|B|V|||Latin emere 'to buy' ; -ion|ion|S||||Latin -io 'act, state'
+chameleon	noun	cham-|cham|B|Adv|||Greek khamai 'on ground' ; -eleon|eleon|B|N|||Greek leōn 'lion'
+rasp	verb	=
+nationalization	noun	=
+uterine	adj	uter-|uter|B|N|||Latin uterus 'womb' ; -ine|ine|S||||Latin -inus 'pertaining to'
+didactic	adj	=
+caddie	noun	=
+electrification	noun	=
+zodiac	noun	=
+ambit	noun	amb-|amb|P||||Latin ambi 'around' ; -it|it|B|V|||Latin ire 'to go'
+ionic	adj	=
+decorum	noun	=
+pied	adj	pie|pi|R|N ; -ed|ed|S
+dynamism	noun	=
+suffuse	verb	sub-|suf|P||||Latin sub- 'under' ; -fuse|fuse|B|V|||Latin fundere 'to pour'
+retard	verb	re-|re|P||||Latin re- 'back' ; -tard|tard|B|Adj|||Latin tardus 'slow'
+botanic	adj	botan-|botan|B|N|||Greek botanē 'herb' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+deodorant	noun	de-|de|P||||Latin de- 'away' ; odor|odor|R|N ; -ant|ant|S||||Latin -ans 'agent'
+amalgam	noun	=
+silica	noun	=
+hyperbole	noun	hyper-|hyper|P||||Greek huper 'above' ; -bole|bole|B|V|||Greek ballein 'to throw'
+checkered	adj	=
+stewardess	noun	=
+thermos	noun	=
+cognac	noun	=
+fermentation	noun	=
+tribulation	noun	=
+cystic	adj	cyst-|cyst|B|N|||Greek kustis 'bladder' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+maestro	noun	=
+mallard	noun	=
+scaffold	noun	=
+invisibility	noun	=
+supremacist	noun	=
+mutilation	noun	=
+chromium	noun	=
+constructivist	noun	=
+feudalism	noun	=
+cancerous	adj	=
+wader	noun	=
+reticent	adj	=
+gregarious	adj	greg-|greg|B|N|||Latin grex 'flock' ; -arious|arious|S||||Latin -arius 'pertaining to'
+druid	noun	=
+automate	verb	=
+enmity	noun	=
+preservative	noun	=
+viscous	adj	visc-|visc|B|N|||Latin viscum 'birdlime' ; -ous|ous|S||||Latin -osus 'full of'
+xerox	noun	=
+vilify	verb	=
+criminality	noun	=
+fortitude	noun	fort-|fort|B|Adj|||Latin fortis 'strong' ; -itude|itude|S||||Latin -itudo 'state'
+defamation	noun	=
+litigant	noun	litig-|litig|B|V|||Latin litigare 'to sue' ; -ant|ant|S||||Latin -ans 'agent'
+practicum	noun	=
+corona	noun	=
+incurable	adj	=
+subsist	verb	sub-|sub|P||||Latin sub- 'below' ; -sist|sist|B|V|||Latin sistere 'to stand'
+derogatory	adj	derog-|derog|B|V|||Latin derogare 'to repeal' ; -atory|atory|S||||Latin -atorius 'pertaining to'
+counterfeit	adj	counter-|counter|P||||Latin contra 'against' ; -feit|feit|B|V|||Latin facere 'to make'
+peroxide	noun	=
+platonic	adj	=
+promiscuous	adj	pro-|pro|P||||Latin pro 'forth' ; -misc-|misc|B|V|||Latin miscere 'to mix' ; -uous|uous|S||||Latin -uosus 'full of'
+serf	noun	=
+memorialize	verb	=
+exalt	verb	ex-|ex|P||||Latin ex- 'out' ; -alt|alt|B|Adj|||Latin altus 'high'
+snob	noun	=
+airstrike	noun	=
+confederate	noun	con-|con|P||||Latin com- 'together' ; -feder-|feder|B|N|||Latin foedus 'treaty' ; -ate|ate|S||||Latin -atus 'having'
+futurist	noun	=
+carousel	noun	=
+cicada	noun	=
+hyena	noun	=
+mollusc	noun	=
+peacemaker	noun	=
+historiography	noun	historio-|historio|B|N|||Greek historia 'history' ; -graphy|graphy|B|N|||Greek graphein 'to write'
+herpes	noun	=
+magnolia	noun	=
+unicorn	noun	uni-|uni|P||||Latin unus 'one' ; -corn|corn|B|N|||Latin cornu 'horn'
+oeuvre	noun	=
+chiropractor	noun	chiro-|chiro|B|N|||Greek kheir 'hand' ; -pract-|pract|B|V|||Greek prassein 'to practice' ; -or|or|S||||Latin -or 'agent'
+apothecary	noun	=
+afoot	adv	=
+dragoon	noun	=
+hemorrhage	noun	haem-|hem|B|N|||Greek haima 'blood' ; -orrhage|orrhage|B|N|||Greek rhagia 'bursting'
+sonata	noun	=
+incendiary	adj	=
+valuer	noun	=
+penitentiary	noun	=
+idiotic	adj	=
+luminary	noun	lumin-|lumin|B|N|||Latin lumen 'light' ; -ary|ary|S||||Latin -arium 'place for'
+indulgent	adj	indulg-|indulg|B|V|||Latin indulgere 'to be kind' ; -ent|ent|S||||Latin -ens 'agent'
+ricotta	noun	=
+silva	noun	=
+cusp	noun	=
+monopolize	verb	=
+inordinate	adj	in-|in|P||||Latin in- 'not' ; -ordin-|ordin|B|V|||Latin ordinare 'to arrange' ; -ate|ate|S||||Latin -atus 'having'
+pancreas	noun	pan-|pan|P||||Greek pan 'all' ; -creas|creas|B|N|||Greek kreas 'flesh'
+domicile	noun	=
+sorcery	noun	sorc-|sorc|B|N|||Latin sors 'fate' ; -ery|ery|S||||Latin -aria 'pertaining to'
+politicization	noun	=
+contort	verb	con-|con|P||||Latin com- 'together' ; -tort|tort|B|V|||Latin torquere 'to twist'
+acetate	noun	acet-|acet|B|N|||Latin acetum 'vinegar' ; -ate|ate|S||||Latin -atus 'having'
+vertebrate	noun	vertebr-|vertebr|B|N|||Latin vertebra 'joint' ; -ate|ate|S||||Latin -atus 'having'
+synapse	noun	=
+basilica	noun	=
+defensible	adj	=
+delude	verb	de-|de|P||||Latin de 'down' ; -lude|lude|B|V|||Latin ludere 'to play'
+enchant	verb	=
+psychosis	noun	psych-|psych|B|N|||Greek psukhē 'mind' ; -osis|osis|S||||Greek -ōsis 'condition'
+epoxy	noun	=

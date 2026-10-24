@@ -1,0 +1,200 @@
+statelessly	adv	state|state|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+statelessness	noun	state|state|R|N ; -less|less|S ; -ness|ness|S
+stateliness	noun	state|state|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+statesmanly	adj	state|states|R|N ; man|man|R|N ; -ly|ly|S||-ly (adj)
+stateswoman	noun	state|states|R|N ; woman|woman|R|N
+statics	noun	statics|statics|R|N
+stationariness	noun	station|station|R|N ; -ary|ari|S ; -ness|ness|S
+stationarity	noun	station|station|R|N ; -ary|ar|S ; -ity|ity|S
+stationed	verb	station|station|R|N ; -ed|ed|I||-ed (v2)
+stations	noun	station|station|R|N ; -s|s|I||-s (plural)
+statistology	noun	statistology|statistology|R|N
+statoblast	noun	statoblast|statoblast|R|N
+statocyst	noun	statocyst|statocyst|R|N
+statolatry	noun	statolatry|statolatry|R|N
+statolith	noun	statolith|statolith|R|N
+statoscope	noun	statoscope|statoscope|R|N
+stats	noun	stat|stat|R|N ; -s|s|I||-s (plural)
+statued	adj	statue|statu|R|N ; -ed|ed|S||-ed (adj)
+statues	noun	statue|statue|R|N ; -s|s|I||-s (plural)
+statuesqueness	noun	statue|statu|R|N ; -esque|esque|S ; -ness|ness|S
+statutable	adj	statute|statut|R|N ; -able|able|S
+staunching	verb	staunch|staunch|R|V ; -ing|ing|I||-ing (v)
+staunchness	noun	staunch|staunch|R|Adj ; -ness|ness|S
+staurolite	noun	staurolite|staurolite|R|N
+stauropegion	noun	stauropegion|stauropegion|R|N
+staurospore	noun	staurospore|staurospore|R|N
+staved	verb	stave|stav|R|V ; -ed|ed|I||-ed (v2)
+stavesacre	noun	stavesacre|stavesacre|R|N
+staving	verb	stave|stav|R|V ; -ing|ing|I||-ing (v)
+staycation	noun	staycation|staycation|R|N
+stayless	adj	stay|stay|R|N ; -less|less|S
+staysail	noun	stay|stay|R|N ; sail|sail|R|N
+std	noun	std|std|R|N
+stealthiness	noun	stealth|stealth|R|N ; -y|i|S ; -ness|ness|S
+steaminess	noun	steam|steam|R|N ; -y|i|S ; -ness|ness|S
+steampunk	noun	steam|steam|R|N ; punk|punk|R|N
+steapsin	noun	steapsin|steapsin|R|N
+stearate	noun	stearate|stearate|R|N
+stearin	noun	stearin|stearin|R|N
+steatite	noun	steatite|steatite|R|N
+steatitic	adj	steatite|steatit|R|N ; -ic|ic|S
+steatolysis	noun	steatolysis|steatolysis|R|N
+steatopygia	noun	steatopygia|steatopygia|R|N
+steatopygous	adj	steatopygous|steatopygous|R|Adj
+steatorrhea	noun	steatorrhea|steatorrhea|R|N
+steatorrhoea	noun	steatorrhoea|steatorrhoea|R|N
+steatosis	noun	steatosis|steatosis|R|N
+steedless	adj	steed|steed|R|N ; -less|less|S
+steek	verb	steek|steek|R|V
+steelify	verb	steel|steel|R|N ; -ify|ify|S
+steeling	verb	steel|steel|R|V ; -ing|ing|I||-ing (v)
+steelmaking	noun	steel|steel|R|N ; make|mak|R|V ; -ing|ing|S||-ing (N)
+steels	noun	steel|steel|R|N ; -s|s|I||-s (plural)
+steelworks	noun	steel|steel|R|N ; work|work|R|V ; -s|s|I||-s (plural)
+steelyard	noun	steel|steel|R|N ; yard|yard|R|N
+steenbok	noun	steenbok|steenbok|R|N
+steening	verb	steen|steen|R|V ; -ing|ing|I||-ing (v)
+steepening	verb	steep|steep|R|Adj ; -en|en|S ; -ing|ing|I||-ing (v)
+steeper	adj	steep|steep|R|Adj ; -er|er|I||-er (comparative)
+steeping	verb	steep|steep|R|V ; -ing|ing|I||-ing (v)
+steepish	adj	steep|steep|R|Adj ; -ish|ish|S
+steeplejack	noun	steeple|steeple|R|N ; jack|jack|R|N
+steersman	noun	steer|steers|R|V ; man|man|R|N
+steersmanship	noun	steer|steers|R|V ; man|man|R|N ; -ship|ship|S
+steeve	verb	steeve|steeve|R|V
+steganography	noun	steganography|steganography|R|N
+steinbock	noun	steinbock|steinbock|R|N
+steinkirk	noun	steinkirk|steinkirk|R|N
+stelar	adj	stele|stel|R|N ; -ar|ar|S
+stellate	adj	stellate|stellate|R|Adj
+stellated	adj	stellate|stellat|R|Adj ; -ed|ed|S||-ed (adj)
+stelliferous	adj	stelliferous|stelliferous|R|Adj
+stelliform	adj	stelliform|stelliform|R|Adj
+stellite	noun	stellite|stellite|R|N
+stellulate	adj	stellulate|stellulate|R|Adj
+stemless	adj	stem|stem|R|N ; -less|less|S
+stemlet	noun	stem|stem|R|N ; -let|let|S
+stemma	noun	stemma|stemma|R|N
+stemmer	noun	stem|stemm|R|V ; -er|er|S||-er (N)
+stemming	verb	stem|stemm|R|V ; -ing|ing|I||-ing (v)
+stemmy	adj	stem|stemm|R|N ; -y|y|S
+stempel	noun	stempel|stempel|R|N
+stempost	noun	stem|stem|R|N ; post|post|R|N
+stemson	noun	stemson|stemson|R|N
+stenocardia	noun	stenocardia|stenocardia|R|N
+stenochromy	noun	stenochromy|stenochromy|R|N
+stenograph	noun	stenograph|stenograph|R|N
+stenographic	adj	stenograph|stenograph|R|N ; -ic|ic|S
+stenographist	noun	stenograph|stenograph|R|N ; -ist|ist|S
+stenography	noun	stenography|stenography|R|N
+stenopetalous	adj	stenopetalous|stenopetalous|R|Adj
+stenophagous	adj	stenophagous|stenophagous|R|Adj
+stenophyllous	adj	stenophyllous|stenophyllous|R|Adj
+stenosed	verb	stenose|stenos|R|V ; -ed|ed|I||-ed (v2)
+stenotherm	noun	stenotherm|stenotherm|R|N
+stenothermal	adj	stenotherm|stenotherm|R|N ; -al|al|S
+stenothermic	adj	stenotherm|stenotherm|R|N ; -ic|ic|S
+stenotic	adj	stenosis|stenot|R|N ; -ic|ic|S
+stenotopic	adj	stenotope|stenotop|R|N ; -ic|ic|S
+stenotype	noun	stenotype|stenotype|R|N
+stenotypist	noun	stenotype|stenotyp|R|N ; -ist|ist|S
+stentor	noun	stentor|stentor|R|N
+stepchild	noun	step|step|R|N ; child|child|R|N
+stepcousin	noun	step|step|R|N ; cousin|cousin|R|N
+stepfamily	noun	step|step|R|N ; family|family|R|N
+stepgrandchild	noun	step|step|R|N ; grand|grand|R|Adj ; child|child|R|N
+stepgrandfather	noun	step|step|R|N ; grand|grand|R|Adj ; father|father|R|N
+stepgrandmother	noun	step|step|R|N ; grand|grand|R|Adj ; mother|mother|R|N
+stepgrandson	noun	step|step|R|N ; grand|grand|R|Adj ; son|son|R|N
+stephanite	noun	stephanite|stephanite|R|N
+stephanotis	noun	stephanotis|stephanotis|R|N
+stepless	adj	step|step|R|N ; -less|less|S
+stepmotherly	adj	step|step|R|N ; mother|mother|R|N ; -ly|ly|S||-ly (adj)
+stepnephew	noun	step|step|R|N ; nephew|nephew|R|N
+steppic	adj	steppe|stepp|R|N ; -ic|ic|S
+steps	noun	step|step|R|N ; -s|s|I||-s (plural)
+stepsibling	noun	step|step|R|N ; sibling|sibling|R|N
+stepuncle	noun	step|step|R|N ; uncle|uncle|R|N
+stepwell	noun	step|step|R|N ; well|well|R|N
+steradian	noun	steradian|steradian|R|N
+stercoraceous	adj	stercoraceous|stercoraceous|R|Adj
+stercoral	adj	stercoral|stercoral|R|Adj
+stereobate	noun	stereobate|stereobate|R|N
+stereocamera	noun	stereo|stereo|R|N ; camera|camera|R|N
+stereochemical	adj	stereo|stereo|R|N ; chemical|chemical|R|Adj
+stereochemically	adv	stereo|stereo|R|N ; chemical|chemical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+stereochemistry	noun	stereo|stereo|R|N ; chemistry|chemistry|R|N
+stereocomparator	noun	stereo|stereo|R|N ; comparator|comparator|R|N
+stereogram	noun	stereogram|stereogram|R|N
+stereographical	adj	stereography|stereograph|R|N ; -ical|ical|S
+stereographically	adv	stereography|stereograph|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+stereography	noun	stereography|stereography|R|N
+stereoisomer	noun	stereo|stereo|R|N ; isomer|isomer|R|N
+stereoisomeric	adj	stereo|stereo|R|N ; isomer|isomer|R|N ; -ic|ic|S
+stereoisomerism	noun	stereo|stereo|R|N ; isomer|isomer|R|N ; -ism|ism|S
+stereolithography	noun	stereo|stereo|R|N ; lithography|lithography|R|N
+stereometer	noun	stereometer|stereometer|R|N
+stereometric	adj	stereometry|stereometr|R|N ; -ic|ic|S
+stereometrical	adj	stereometry|stereometr|R|N ; -ical|ical|S
+stereomicroscopic	adj	stereo|stereo|R|N ; microscopic|microscopic|R|Adj
+stereophony	noun	stereophony|stereophony|R|N
+stereophotography	noun	stereo|stereo|R|N ; photography|photography|R|N
+stereoscopy	noun	stereoscopy|stereoscopy|R|N
+stereospecific	adj	stereo|stereo|R|N ; specific|specific|R|Adj
+stereotaxic	adj	stereotaxis|stereotax|R|N ; -ic|ic|S
+stereotomy	noun	stereotomy|stereotomy|R|N
+stereotropism	noun	stereo|stereo|R|N ; tropism|tropism|R|N
+stereotyper	noun	stereotype|stereotyp|R|N ; -er|er|S||-er (N)
+stereotypist	noun	stereotype|stereotyp|R|N ; -ist|ist|S
+stereotypography	noun	stereo|stereo|R|N ; typography|typography|R|N
+steric	adj	steric|steric|R|Adj
+sterically	adv	steric|steric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+sterigma	noun	sterigma|sterigma|R|N
+sterilant	noun	sterile|steril|R|Adj ; -ant|ant|S
+sterilely	adv	sterile|sterile|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sterilizable	adj	sterile|steril|R|Adj ; -ize|iz|S ; -able|able|S
+sterlet	noun	sterlet|sterlet|R|N
+sternite	noun	sternite|sternite|R|N
+sternmost	adj	stern|stern|R|N ; most|most|R|Adv
+sternoclavicular	adj	sternoclavicular|sternoclavicular|R|Adj
+sternotomy	noun	sternotomy|sternotomy|R|N
+sternpost	noun	stern|stern|R|N ; post|post|R|N
+sternutative	adj	sternute|sternut|R|V ; -ative|ative|S
+sternutator	noun	sternute|sternut|R|V ; -or|ator|S
+sternutatory	adj	sternute|sternut|R|V ; -ory|atory|S
+sternward	adv	stern|stern|R|N ; -ward|ward|S
+sternwards	adv	stern|stern|R|N ; -ward|wards|S
+sternway	noun	stern|stern|R|N ; way|way|R|N
+stertorous	adj	stertor|stertor|R|N ; -ous|ous|S
+stertorously	adv	stertor|stertor|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+stet	verb	stet|stet|R|V
+stethoscopic	adj	stethoscope|stethoscop|R|N ; -ic|ic|S
+stethoscopical	adj	stethoscope|stethoscop|R|N ; -ical|ical|S
+stethoscopist	noun	stethoscope|stethoscop|R|N ; -ist|ist|S
+stethoscopy	noun	stethoscopy|stethoscopy|R|N
+stewing	verb	stew|stew|R|V ; -ing|ing|I||-ing (v)
+stibial	adj	stibium|stibi|R|N ; -al|al|S
+stibialism	noun	stibium|stibi|R|N ; -al|al|S ; -ism|ism|S
+stibine	noun	stibine|stibine|R|N
+stibium	noun	stibium|stibium|R|N
+stibnite	noun	stibnite|stibnite|R|N
+stich	noun	stich|stich|R|N
+sticharion	noun	sticharion|sticharion|R|N
+stichic	adj	stich|stich|R|N ; -ic|ic|S
+stichometry	noun	stichometry|stichometry|R|N
+stichomythia	noun	stichomythia|stichomythia|R|N
+stickful	adj	stick|stick|R|N ; -ful|ful|S
+stickily	adv	sticky|sticki|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+stickjaw	noun	stick|stick|R|N ; jaw|jaw|R|N
+sticklac	noun	stick|stick|R|N ; lac|lac|R|N
+stickle	verb	stickle|stickle|R|V
+stickman	noun	stick|stick|R|N ; man|man|R|N
+stickup	noun	stick|stick|R|V ; up|up|R|Adv
+stickybeak	noun	sticky|sticky|R|Adj ; beak|beak|R|N
+stiffish	adj	stiff|stiff|R|Adj ; -ish|ish|S
+stiflingly	adv	stifle|stifl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+stigmatic	adj	stigma|stigmat|R|N ; -ic|ic|S
+stigmatically	adv	stigma|stigmat|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+stigmatiferous	adj	stigmatiferous|stigmatiferous|R|Adj
+stigmatism	noun	stigma|stigmat|R|N ; -ism|ism|S

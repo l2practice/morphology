@@ -1,0 +1,200 @@
+pietistically	adv	pietist|pietist|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+piezochemistry	noun	piezochemistry|piezochemistry|R|N
+piezoelectrical	adj	piezoelectric|piezoelectric|R|Adj ; -al|al|S
+piezoelectrically	adv	piezoelectric|piezoelectric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+piezoelectricity	noun	piezoelectric|piezoelectric|R|Adj ; -ity|ity|S
+piezometer	noun	piezometer|piezometer|R|N
+piezometric	adj	piezometer|piezometr|R|N ; -ic|ic|S
+piffle	verb	piffle|piffle|R|V
+piffler	noun	piffle|piffl|R|V ; -er|er|S||-er (N)
+piffling	noun	piffle|piffl|R|V ; -ing|ing|S||-ing (N)
+pigeongram	noun	pigeon|pigeon|R|N ; gram|gram|R|N
+pigeonry	noun	pigeon|pigeon|R|N ; -ry|ry|S
+pigeonwood	noun	pigeon|pigeon|R|N ; wood|wood|R|N
+pigging	noun	pig|pigg|R|V ; -ing|ing|S||-ing (N)
+piggishly	adv	piggish|piggish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+piggishness	noun	piggish|piggish|R|Adj ; -ness|ness|S
+pigheaded	adj	pig|pig|R|N ; head|head|R|N ; -ed|ed|S||-ed (adj)
+pigheadedly	adv	pig|pig|R|N ; head|head|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+pigheadedness	noun	pig|pig|R|N ; head|head|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+pigling	noun	pig|pig|R|N ; -ling|ling|S
+pigmental	adj	pigment|pigment|R|N ; -al|al|S
+pigmentary	adj	pigment|pigment|R|N ; -ary|ary|S
+pigsticker	noun	pig|pig|R|N ; stick|stick|R|V ; -er|er|S||-er (N)
+pigswill	noun	pig|pig|R|N ; swill|swill|R|N
+pigwash	noun	pig|pig|R|N ; wash|wash|R|N
+pikachurin	noun	pikachurin|pikachurin|R|N
+piked	adj	pike|pik|R|V ; -ed|ed|S||-ed (adj)
+pikelet	noun	pike|pike|R|N ; -let|let|S
+pikeman	noun	pike|pike|R|N ; man|man|R|N
+pikestaff	noun	pike|pike|R|N ; staff|staff|R|N
+pilau	noun	pilau|pilau|R|N
+pilcrow	noun	pilcrow|pilcrow|R|N
+piled	adj	pile|pil|R|V ; -ed|ed|S||-ed (adj)
+pileous	adj	pile|pile|R|N ; -ous|ous|S
+piles	noun	pile|pile|R|N ; -s|s|I||-s (plural)
+pileus	noun	pileus|pileus|R|N
+pilewort	noun	pile|pile|R|N ; wort|wort|R|N
+pilferage	noun	pilfer|pilfer|R|V ; -age|age|S
+pilferer	noun	pilfer|pilfer|R|V ; -er|er|S||-er (N)
+piliferous	adj	piliferous|piliferous|R|Adj
+pillager	noun	pillage|pillag|R|V ; -er|er|S||-er (N)
+pilliwinks	noun	pilliwinks|pilliwinks|R|N
+pillorying	noun	pillory|pillory|R|V ; -ing|ing|S||-ing (N)
+pillowed	adj	pillow|pillow|R|N ; -ed|ed|S||-ed (adj)
+pillowing	noun	pillow|pillow|R|V ; -ing|ing|S||-ing (N)
+pillowslip	noun	pillow|pillow|R|N ; slip|slip|R|N
+pilose	adj	pilose|pilose|R|Adj
+pilosity	noun	pilose|pilos|R|Adj ; -ity|ity|S
+pilotage	noun	pilot|pilot|R|N ; -age|age|S
+piloti	noun	piloti|piloti|R|N
+pilous	adj	pilous|pilous|R|Adj
+pilular	adj	pilule|pilul|R|N ; -ar|ar|S
+pilulous	adj	pilule|pilul|R|N ; -ous|ous|S
+pily	adj	pile|pil|R|N ; -y|y|S
+pimping	noun	pimp|pimp|R|V ; -ing|ing|S||-ing (N)
+pinacotheca	noun	pinacotheca|pinacotheca|R|N
+pinaster	noun	pinaster|pinaster|R|N
+pinchbeck	noun	pinchbeck|pinchbeck|R|N
+pineapplelike	adj	pineapple|pineapple|R|N ; -like|like|S
+pinene	noun	pinene|pinene|R|N
+pinery	noun	pine|pin|R|N ; -ery|ery|S
+pinesap	noun	pine|pine|R|N ; sap|sap|R|N
+pinfold	noun	pin|pin|R|N ; fold|fold|R|N
+pingo	noun	pingo|pingo|R|N
+pinguid	adj	pinguid|pinguid|R|Adj
+pinguin	noun	pinguin|pinguin|R|N
+pining	noun	pine|pin|R|V ; -ing|ing|S||-ing (N)
+pinken	verb	pink|pink|R|Adj ; -en|en|S
+pinkeye	noun	pink|pink|R|Adj ; eye|eye|R|N
+pinkishness	noun	pinkish|pinkish|R|Adj ; -ness|ness|S
+pinks	noun	pink|pink|R|N ; -s|s|I||-s (plural)
+pinnal	adj	pinna|pinn|R|N ; -al|al|S
+pinnate	adj	pinna|pinn|R|N ; -ate|ate|S
+pinnated	adj	pinnate|pinnat|R|V ; -ed|ed|S||-ed (adj)
+pinnately	adv	pinnate|pinnate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pinning	noun	pin|pinn|R|V ; -ing|ing|S||-ing (N)
+pinnule	noun	pinnule|pinnule|R|N
+pinocytosis	noun	pinocytosis|pinocytosis|R|N
+pinocytotic	adj	pinocytosis|pinocytot|R|N ; -ic|ic|S
+pinscher	noun	pinscher|pinscher|R|N
+pintado	noun	pintado|pintado|R|N
+pintle	noun	pintle|pintle|R|N
+pinworm	noun	pin|pin|R|N ; worm|worm|R|N
+piny	adj	pine|pin|R|N ; -y|y|S
+piousness	noun	pious|pious|R|Adj ; -ness|ness|S
+pipa	noun	pipa|pipa|R|N
+pipeclay	noun	pipe|pipe|R|N ; clay|clay|R|N
+pipefitter	noun	pipe|pipe|R|N ; fit|fitt|R|V ; -er|er|S||-er (N)
+pipeful	noun	pipe|pipe|R|N ; -ful|ful|S
+piperaceous	adj	piperaceous|piperaceous|R|Adj
+piperazine	noun	piperazine|piperazine|R|N
+piperidine	noun	piperidine|piperidine|R|N
+piperine	noun	piperine|piperine|R|N
+pipes	noun	pipe|pipe|R|N ; -s|s|I||-s (plural)
+pipesmoker	noun	pipe|pipe|R|N ; smoke|smok|R|V ; -er|er|S||-er (N)
+pipistrelle	noun	pipistrelle|pipistrelle|R|N
+pipy	adj	pipe|pip|R|N ; -y|y|S
+piquantly	adv	piquant|piquant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+piquantness	noun	piquant|piquant|R|Adj ; -ness|ness|S
+piquet	noun	piquet|piquet|R|N
+piragua	noun	piragua|piragua|R|N
+piratically	adv	piratical|piratical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pirating	noun	pirate|pirat|R|V ; -ing|ing|S||-ing (N)
+pirog	noun	pirog|pirog|R|N
+pirouetting	noun	pirouette|pirouett|R|V ; -ing|ing|S||-ing (N)
+pirozhki	noun	pirozhki|pirozhki|R|N
+piscary	noun	piscary|piscary|R|N
+piscatorial	adj	piscatory|piscatori|R|N ; -al|al|S
+piscatorially	adv	piscatory|piscatori|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+piscatory	adj	piscatory|piscatory|R|Adj
+piscicultural	adj	pisciculture|piscicultur|R|N ; -al|al|S
+pisciculture	noun	pisciculture|pisciculture|R|N
+pisciculturist	noun	pisciculture|piscicultur|R|N ; -ist|ist|S
+piscina	noun	piscina|piscina|R|N
+piscinal	adj	piscina|piscin|R|N ; -al|al|S
+piscine	adj	piscine|piscine|R|Adj
+piscivore	noun	piscivore|piscivore|R|N
+piscivorous	adj	piscivore|piscivor|R|N ; -ous|ous|S
+pish	interj	pish|pish|R
+pishogue	noun	pishogue|pishogue|R|N
+pisiform	adj	pisiform|pisiform|R|Adj
+pisolite	noun	pisolite|pisolite|R|N
+pisolitic	adj	pisolite|pisolit|R|N ; -ic|ic|S
+pissabed	noun	pissabed|pissabed|R|N
+pissass	noun	piss|piss|R|V ; ass|ass|R|N
+pissoir	noun	pissoir|pissoir|R|N
+pistillary	adj	pistil|pistill|R|N ; -ary|ary|S
+pistillate	adj	pistil|pistill|R|N ; -ate|ate|S
+pistilliferous	adj	pistilliferous|pistilliferous|R|Adj
+pistillody	noun	pistillody|pistillody|R|N
+pistole	noun	pistole|pistole|R|N
+pistoleer	noun	pistol|pistol|R|N ; -eer|eer|S
+pistolet	noun	pistolet|pistolet|R|N
+pistolgraph	noun	pistol|pistol|R|N ; graph|graph|R|N
+pitaka	noun	pitaka|pitaka|R|N
+pitaya	noun	pitaya|pitaya|R|N
+pitchblende	noun	pitch|pitch|R|N ; blende|blende|R|N
+pitchforking	noun	pitch|pitch|R|V ; fork|fork|R|N ; -ing|ing|S||-ing (N)
+pitchiness	noun	pitchy|pitchi|R|Adj ; -ness|ness|S
+pitchstone	noun	pitch|pitch|R|N ; stone|stone|R|N
+pitchy	adj	pitch|pitch|R|N ; -y|y|S
+piteousness	noun	piteous|piteous|R|Adj ; -ness|ness|S
+pithecan	noun	pithecan|pithecan|R|N
+pithecanthrope	noun	pithecanthrope|pithecanthrope|R|N
+pithiness	noun	pithy|pithi|R|Adj ; -ness|ness|S
+pithless	adj	pith|pith|R|N ; -less|less|S
+pithouse	noun	pit|pit|R|N ; house|house|R|N
+piti	noun	piti|piti|R|N
+pitiableness	noun	pitiable|pitiable|R|Adj ; -ness|ness|S
+pitiably	adv	pitiable|pitiabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+pitifulness	noun	pitiful|pitiful|R|Adj ; -ness|ness|S
+pitilessness	noun	pitiless|pitiless|R|Adj ; -ness|ness|S
+pitpan	noun	pit|pit|R|N ; pan|pan|R|N
+pittite	noun	pittite|pittite|R|N
+pituitrin	noun	pituitrin|pituitrin|R|N
+pityriasis	noun	pityriasis|pityriasis|R|N
+pivotable	adj	pivot|pivot|R|N ; -able|able|S
+pivotally	adv	pivotal|pivotal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pivoted	adj	pivot|pivot|R|V ; -ed|ed|S||-ed (adj)
+pixelate	verb	pixel|pixel|R|N ; -ate|ate|S
+pixilation	noun	pixelate|pixil|R|V ; -ation|ation|S
+pixiu	noun	pixiu|pixiu|R|N
+pixyish	adj	pixy|pixy|R|N ; -ish|ish|S
+pizzamaker	noun	pizza|pizza|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+pizzle	noun	pizzle|pizzle|R|N
+placability	noun	placable|placab|R|Adj ; -ity|ility|S
+placable	adj	placate|plac|R|V ; -able|able|S
+placably	adv	placable|placab|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+placarder	noun	placard|placard|R|N ; -er|er|S||-er (N)
+placater	noun	placate|placat|R|V ; -er|er|S||-er (N)
+placation	noun	placate|placat|R|V ; -ion|ion|S
+placeability	noun	placeable|placeab|R|Adj ; -ity|ility|S
+placeable	adj	place|place|R|V ; -able|able|S
+placename	noun	place|place|R|N ; name|name|R|N
+placentate	adj	placenta|placent|R|N ; -ate|ate|S
+placentation	noun	placenta|placent|R|N ; -ation|ation|S
+placentitis	noun	placentitis|placentitis|R|N
+placet	noun	placet|placet|R|N
+placket	noun	placket|placket|R|N
+placoid	adj	placoid|placoid|R|Adj
+plafond	noun	plafond|plafond|R|N
+plagal	adj	plagal|plagal|R|Adj
+plagiaristic	adj	plagiarist|plagiarist|R|N ; -ic|ic|S
+plagiarized	adj	plagiarize|plagiariz|R|V ; -ed|ed|S||-ed (adj)
+plagiarizer	noun	plagiarize|plagiariz|R|V ; -er|er|S||-er (N)
+plagiarizing	noun	plagiarize|plagiariz|R|V ; -ing|ing|S||-ing (N)
+plagiary	noun	plagiary|plagiary|R|N
+plagioclase	noun	plagioclase|plagioclase|R|N
+plagioclimax	noun	plagioclimax|plagioclimax|R|N
+plagiosere	noun	plagiosere|plagiosere|R|N
+plagiotropic	adj	plagiotropic|plagiotropic|R|Adj
+plagiotropism	noun	plagiotropism|plagiotropism|R|N
+plagiotropous	adj	plagiotropous|plagiotropous|R|Adj
+plagued	adj	plague|plagu|R|V ; -ed|ed|S||-ed (adj)
+plaguesome	adj	plague|plague|R|V ; -some|some|S
+plaguily	adv	plague|plagu|R|V ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+plaguing	noun	plague|plagu|R|V ; -ing|ing|S||-ing (N)
+plainsman	noun	plain|plains|R|Adj ; man|man|R|N
+plaintext	noun	plain|plain|R|Adj ; text|text|R|N
+plaintiveness	noun	plaintive|plaintive|R|Adj ; -ness|ness|S

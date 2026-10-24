@@ -1,0 +1,200 @@
+golfer	noun	golf|golf|R|N ; -er|er|S||-er (N)
+upright	adj	up|up|R|Adv ; right|right|R|Adj
+pearl	noun	pearl|pearl|R|N
+factual	adj	fact|fact|R|N ; -ual|ual|S
+brightly	adv	bright|bright|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+proliferation	noun	proliferate|proliferat|R|V ; -ion|ion|S
+submarine	noun	sub-|sub|P ; marine|marine|R|Adj
+sideways	adv	side|side|R|N ; way|way|R|N ; -s|s|I||-s (plural)
+bloom	noun	bloom|bloom|R|N
+calmly	adv	calm|calm|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+necklace	noun	neck|neck|R|N ; lace|lace|R|N
+perimeter	noun	perimeter|perimeter|R|N
+blouse	noun	blouse|blouse|R|N
+exchequer	noun	exchequer|exchequer|R|N
+firing	noun	fire|fir|R|V ; -ing|ing|S||-ing (N)
+proximity	noun	proximity|proximity|R|N
+bookshop	noun	book|book|R|N ; shop|shop|R|N
+lettuce	noun	lettuce|lettuce|R|N
+honorary	adj	honor|honor|R|N ; -ary|ary|S
+brace	noun	brace|brace|R|N
+perfume	noun	perfume|perfume|R|N
+differing	adj	differ|differ|R|V ; -ing|ing|S||-ing (adj)
+consequent	adj	consequent|consequent|R|Adj
+symbolize	verb	symbol|symbol|R|N ; -ize|ize|S
+progressively	adv	progressive|progressive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+manifesto	noun	manifesto|manifesto|R|N
+rivalry	noun	rival|rival|R|N ; -ry|ry|S
+firearm	noun	fire|fire|R|N ; arm|arm|R|N
+sermon	noun	sermon|sermon|R|N
+progression	noun	progress|progress|R|V ; -ion|ion|S
+refine	verb	re-|re|P ; fine|fine|R|Adj
+volatile	adj	volatile|volatile|R|Adj
+oval	noun	oval|oval|R|N
+mule	noun	mule|mule|R|N
+rigorous	adj	rigor|rigor|R|N ; -ous|ous|S
+linebacker	noun	line|line|R|N ; back|back|R|N ; -er|er|S||-er (N)
+synthetic	adj	synthetic|synthetic|R|Adj
+turf	noun	turf|turf|R|N
+hurdle	noun	hurdle|hurdle|R|N
+canoe	noun	canoe|canoe|R|N
+mason	noun	mason|mason|R|N
+cape	noun	cape|cape|R|N
+sturdy	adj	sturdy|sturdy|R|Adj
+broaden	verb	broad|broad|R|Adj ; -en|en|S
+listed	adj	list|list|R|V ; -ed|ed|S||-ed (adj)
+convoy	noun	convoy|convoy|R|N
+definitive	adj	define|definit|R|V ; -ive|ive|S
+amused	adj	amuse|amus|R|V ; -ed|ed|S||-ed (adj)
+glen	noun	glen|glen|R|N
+propel	verb	propel|propel|R|V
+chartered	adj	charter|charter|R|N ; -ed|ed|S||-ed (adj)
+barrister	noun	barrister|barrister|R|N
+parsley	noun	parsley|parsley|R|N
+enclosure	noun	enclose|enclos|R|V ; -ure|ure|S
+replicate	verb	replicate|replicate|R|V
+pest	noun	pest|pest|R|N
+scoop	noun	scoop|scoop|R|N
+splash	noun	splash|splash|R|N
+ale	noun	ale|ale|R|N
+overweight	adj	over-|over|P ; weight|weight|R|N
+advancement	noun	advance|advance|R|V ; -ment|ment|S
+spoken	adj	speak|spok|R|V ; -en|en|I||-en (participle)
+dame	noun	dame|dame|R|N
+nil	noun	nil|nil|R|N
+tab	noun	tab|tab|R|N
+stalk	noun	stalk|stalk|R|N
+intimidate	verb	intimidate|intimidate|R|V
+prohibition	noun	prohibit|prohibit|R|V ; -ion|ion|S
+goddess	noun	god|godd|R|N ; -ess|ess|S
+substitution	noun	substitute|substitut|R|V ; -ion|ion|S
+verge	noun	verge|verge|R|N
+plague	noun	plague|plague|R|N
+grandson	noun	grand|grand|R|Adj ; son|son|R|N
+airfield	noun	air|air|R|N ; field|field|R|N
+admiral	noun	admiral|admiral|R|N
+bipartisan	adj	bi-|bi|P ; partisan|partisan|R|N
+artefact	noun	artefact|artefact|R|N
+smoker	noun	smoke|smok|R|V ; -er|er|S||-er (N)
+expire	verb	expire|expire|R|V
+flora	noun	flora|flora|R|N
+catastrophe	noun	catastrophe|catastrophe|R|N
+mac	noun	mac|mac|R|N
+coupon	noun	coupon|coupon|R|N
+withhold	verb	with-|with|P ; hold|hold|R|V
+messy	adj	mess|mess|R|N ; -y|y|S
+analytical	adj	analytic|analytic|R|Adj ; -al|al|S
+unpredictable	adj	un-|un|P ; predict|predict|R|V ; -able|able|S
+diagnostic	adj	diagnostic|diagnostic|R|Adj
+stark	adj	stark|stark|R|Adj
+lucrative	adj	lucrative|lucrative|R|Adj
+modelling	noun	model|modell|R|V ; -ing|ing|S||-ing (N)
+transcend	verb	transcend|transcend|R|V
+fireman	noun	fire|fire|R|N ; man|man|R|N
+karl	noun	karl|karl|R|N
+resistant	adj	resist|resist|R|V ; -ant|ant|S
+climbing	noun	climb|climb|R|V ; -ing|ing|S||-ing (N)
+violin	noun	violin|violin|R|N
+swan	noun	swan|swan|R|N
+learned	adj	learn|learn|R|V ; -ed|ed|S||-ed (adj)
+utilise	verb	utilise|utilise|R|V
+conversely	adv	converse|converse|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+reopen	verb	re-|re|P ; open|open|R|Adj
+homosexuality	noun	homosexual|homosexual|R|Adj ; -ity|ity|S
+complementary	adj	complement|complement|R|N ; -ary|ary|S
+jealousy	noun	jealous|jealous|R|Adj ; -y|y|S
+liar	noun	liar|liar|R|N
+talking	noun	talk|talk|R|V ; -ing|ing|S||-ing (N)
+southeastern	adj	southeastern|southeastern|R|Adj
+elicit	verb	elicit|elicit|R|V
+duchess	noun	duchess|duchess|R|N
+fascination	noun	fascinate|fascinat|R|V ; -ion|ion|S
+madam	noun	madam|madam|R|N
+contender	noun	contend|contend|R|V ; -er|er|S||-er (N)
+dissolution	noun	dissolve|dissolut|R|V ; -ion|ion|S
+divisional	adj	division|division|R|N ; -al|al|S
+heater	noun	heat|heat|R|V ; -er|er|S||-er (N)
+vest	noun	vest|vest|R|N
+inquire	verb	inquire|inquire|R|V
+bust	noun	bust|bust|R|N
+cyclist	noun	cycle|cycl|R|N ; -ist|ist|S
+vibration	noun	vibrate|vibrat|R|V ; -ion|ion|S
+bolster	verb	bolster|bolster|R|V
+elevation	noun	elevate|elevat|R|V ; -ion|ion|S
+loved	adj	love|lov|R|V ; -ed|ed|S||-ed (adj)
+pragmatic	adj	pragmatic|pragmatic|R|Adj
+inference	noun	infer|infer|R|V ; -ence|ence|S
+casually	adv	casual|casual|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+vibrant	adj	vibrant|vibrant|R|Adj
+sensibility	noun	sense|sens|R|N ; -ible|ib|S ; -ity|ility|S
+parole	noun	parole|parole|R|N
+backdrop	noun	back|back|R|N ; drop|drop|R|N
+ecclesiastical	adj	ecclesiastic|ecclesiastic|R|N ; -al|al|S
+campaigner	noun	campaign|campaign|R|V ; -er|er|S||-er (N)
+reformer	noun	reform|reform|R|V ; -er|er|S||-er (N)
+poetic	adj	poet|poet|R|N ; -ic|ic|S
+modeling	noun	model|model|R|V ; -ing|ing|S||-ing (N)
+tram	noun	tram|tram|R|N
+eruption	noun	erupt|erupt|R|V ; -ion|ion|S
+interrogation	noun	interrogate|interrogat|R|V ; -ion|ion|S
+shooter	noun	shoot|shoot|R|V ; -er|er|S||-er (N)
+overlap	verb	over-|over|P ; lap|lap|R|V
+scoring	noun	score|scor|R|V ; -ing|ing|S||-ing (N)
+handkerchief	noun	hand|hand|R|N ; kerchief|kerchief|R|N
+sticker	noun	stick|stick|R|V ; -er|er|S||-er (N)
+libel	noun	libel|libel|R|N
+cultivation	noun	cultivate|cultivat|R|V ; -ion|ion|S
+foil	noun	foil|foil|R|N
+heave	verb	heave|heave|R|V
+flawed	adj	flaw|flaw|R|N ; -ed|ed|S||-ed (adj)
+jo	noun	jo|jo|R|N
+fisher	noun	fish|fish|R|V ; -er|er|S||-er (N)
+accountancy	noun	account|account|R|N ; -ancy|ancy|S
+staffing	noun	staff|staff|R|N ; -ing|ing|S||-ing (N)
+frustrated	adj	frustrate|frustrat|R|V ; -ed|ed|S||-ed (adj)
+clap	verb	clap|clap|R|V
+alec	noun	alec|alec|R|N
+uncommon	adj	un-|un|P ; common|common|R|Adj
+bunker	noun	bunker|bunker|R|N
+vet	noun	vet|vet|R|N
+animated	adj	animate|animat|R|V ; -ed|ed|S||-ed (adj)
+wendy	noun	wendy|wendy|R|N
+deepen	verb	deep|deep|R|Adj ; -en|en|S
+salon	noun	salon|salon|R|N
+enduring	adj	endure|endur|R|V ; -ing|ing|S||-ing (adj)
+jeff	noun	jeff|jeff|R|N
+radioactive	adj	radio|radio|R|N ; act|act|R|V ; -ive|ive|S
+curb	noun	curb|curb|R|N
+lending	noun	lend|lend|R|V ; -ing|ing|S||-ing (N)
+anthropology	noun	anthropology|anthropology|R|N
+bail	noun	bail|bail|R|N
+conquer	verb	conquer|conquer|R|V
+sociological	adj	sociology|sociolog|R|N ; -ical|ical|S
+interestingly	adv	interesting|interesting|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+mediate	verb	mediate|mediate|R|V
+demonstrator	noun	demonstrate|demonstrat|R|V ; -or|or|S
+dictator	noun	dictate|dictat|R|V ; -or|or|S
+composite	adj	composite|composite|R|Adj
+sociologist	noun	sociology|sociolog|R|N ; -ist|ist|S
+unlimited	adj	un-|un|P ; limit|limit|R|V ; -ed|ed|S||-ed (adj)
+symmetry	noun	symmetry|symmetry|R|N
+therapeutic	adj	therapeutic|therapeutic|R|Adj
+giggle	verb	giggle|giggle|R|V
+inhale	verb	inhale|inhale|R|V
+syllabus	noun	syllabus|syllabus|R|N
+genetically	adv	genetic|genetic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+hastings	noun	hastings|hastings|R|N
+siren	noun	siren|siren|R|N
+tenancy	noun	tenant|tenan|R|N ; -cy|cy|S
+pricing	noun	price|pric|R|N ; -ing|ing|S||-ing (N)
+greed	noun	greed|greed|R|N
+hiss	verb	hiss|hiss|R|V
+environmentally	adv	environmental|environmental|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+incoming	adj	in-|in|P ; come|com|R|V ; -ing|ing|S||-ing (adj)
+ta	interj	ta|ta|R
+gel	noun	gel|gel|R|N
+weary	adj	weary|weary|R|Adj
+shudder	verb	shudder|shudder|R|V
+lush	adj	lush|lush|R|Adj
+paddy	noun	paddy|paddy|R|N
+joanna	noun	joanna|joanna|R|N

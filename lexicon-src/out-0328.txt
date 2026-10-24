@@ -1,0 +1,200 @@
+microtomist	noun	microtome|microtom|R|N ; -ist|ist|S
+microtomy	noun	microtome|microtom|R|N ; -y|y|S
+microvillus	noun	micro-|micro|P ; villus|villus|R|N
+microvolt	noun	micro-|micro|P ; volt|volt|R|N
+microwatt	noun	micro-|micro|P ; watt|watt|R|N
+micrurgy	noun	micrurgy|micrurgy|R|N
+micturition	noun	micturition|micturition|R|N
+midafternoon	noun	mid-|mid|P ; afternoon|afternoon|R|N
+middlegame	noun	middle|middle|R|Adj ; game|game|R|N
+middlewoman	noun	middle|middle|R|Adj ; woman|woman|R|N
+middlings	noun	middling|middling|R|Adj ; -s|s|I||-s (plural)
+middy	noun	middy|middy|R|N
+midgety	adj	midget|midget|R|N ; -y|y|S
+midinette	noun	midinette|midinette|R|N
+midmonth	noun	mid-|mid|P ; month|month|R|N
+midmorning	noun	mid-|mid|P ; morning|morning|R|N
+midrib	noun	mid-|mid|P ; rib|rib|R|N
+midweekly	adj	mid-|mid|P ; week|week|R|N ; -ly|ly|S||-ly (adj)
+midyear	noun	mid-|mid|P ; year|year|R|N
+mightiness	noun	mighty|mighti|R|Adj ; -ness|ness|S
+migmatite	noun	migmatite|migmatite|R|N
+migrator	noun	migrate|migrat|R|V ; -or|or|S
+mihaffa	noun	mihaffa|mihaffa|R|N
+mijiu	noun	mijiu|mijiu|R|N
+mijl	noun	mijl|mijl|R|N
+miko	noun	miko|miko|R|N
+mikveh	noun	mikveh|mikveh|R|N
+milblogger	noun	mil|mil|R|N ; blog|blogg|R|N ; -er|er|S||-er (N)
+milch	adj	milch|milch|R|Adj
+milden	verb	mild|mild|R|Adj ; -en|en|S
+milecastle	noun	mile|mile|R|N ; castle|castle|R|N
+miliarense	noun	miliarense|miliarense|R|N
+miliaria	noun	miliaria|miliaria|R|N
+militsia	noun	militsia|militsia|R|N
+milium	noun	milium|milium|R|N
+milkfish	noun	milk|milk|R|N ; fish|fish|R|N
+milkiness	noun	milky|milki|R|Adj ; -ness|ness|S
+milkmaids	noun	milk|milk|R|N ; maid|maid|R|N ; -s|s|I||-s (plural)
+milkshed	noun	milk|milk|R|N ; shed|shed|R|N
+milksop	noun	milk|milk|R|N ; sop|sop|R|N
+milkvetch	noun	milk|milk|R|N ; vetch|vetch|R|N
+milkwoman	noun	milk|milk|R|N ; woman|woman|R|N
+milkwort	noun	milk|milk|R|N ; wort|wort|R|N
+millboard	noun	mill|mill|R|N ; board|board|R|N
+millcake	noun	mill|mill|R|N ; cake|cake|R|N
+millenary	adj	millenary|millenary|R|Adj
+millepede	noun	millepede|millepede|R|N
+millesimal	adj	millesimal|millesimal|R|Adj
+milliampere	noun	milliampere|milliampere|R|N
+millimetric	adj	millimetre|millimetr|R|N ; -ic|ic|S
+milliparsec	noun	milliparsec|milliparsec|R|N
+millrind	noun	mill|mill|R|N ; rind|rind|R|N
+millwheel	noun	mill|mill|R|N ; wheel|wheel|R|N
+milometer	noun	milometer|milometer|R|N
+milpa	noun	milpa|milpa|R|N
+milter	noun	milt|milt|R|N ; -er|er|S||-er (N)
+mimicker	noun	mimic|mimick|R|V ; -er|er|S||-er (N)
+miming	noun	mime|mim|R|V ; -ing|ing|S||-ing (N)
+minacity	noun	minacity|minacity|R|N
+minar	noun	minar|minar|R|N
+minarchism	noun	minarchism|minarchism|R|N
+minatory	adj	minatory|minatory|R|Adj
+mincing	noun	mince|minc|R|V ; -ing|ing|S||-ing (N)
+mindfuck	noun	mind|mind|R|N ; fuck|fuck|R|V
+minding	noun	mind|mind|R|V ; -ing|ing|S||-ing (N)
+minecart	noun	mine|mine|R|N ; cart|cart|R|N
+minelayer	noun	mine|mine|R|N ; lay|lay|R|V ; -er|er|S||-er (N)
+mineralization	noun	mineralize|mineraliz|R|V ; -ation|ation|S
+mineralize	verb	mineral|mineral|R|N ; -ize|ize|S
+mineralocorticoid	noun	mineralocorticoid|mineralocorticoid|R|N
+mineralogist	noun	mineralogy|mineralog|R|N ; -ist|ist|S
+mingy	adj	mingy|mingy|R|Adj
+miniate	verb	miniate|miniate|R|V
+minification	noun	minify|minifi|R|V ; -ation|cation|S
+minify	verb	mini|mini|R|Adj ; -fy|fy|S
+minigame	noun	mini|mini|R|Adj ; game|game|R|N
+minigun	noun	mini|mini|R|Adj ; gun|gun|R|N
+minikin	noun	minikin|minikin|R|N
+minimap	noun	mini|mini|R|Adj ; map|map|R|N
+minimarket	noun	mini|mini|R|Adj ; market|market|R|N
+minimizing	verb	minimize|minimiz|R|V ; -ing|ing|I||-ing (v)
+minipill	noun	mini|mini|R|Adj ; pill|pill|R|N
+ministerialist	noun	ministerial|ministerial|R|Adj ; -ist|ist|S
+ministering	verb	minister|minister|R|V ; -ing|ing|I||-ing (v)
+ministrant	noun	minister|ministr|R|V ; -ant|ant|S
+minium	noun	minium|minium|R|N
+miniver	noun	miniver|miniver|R|N
+minivet	noun	minivet|minivet|R|N
+minnie	noun	minnie|minnie|R|N
+minorant	noun	minor|minor|R|Adj ; -ant|ant|S
+minotaur	noun	minotaur|minotaur|R|N
+mintage	noun	mint|mint|R|N ; -age|age|S
+minted	adj	mint|mint|R|V ; -ed|ed|S||-ed (adj)
+minting	noun	mint|mint|R|V ; -ing|ing|S||-ing (N)
+minuend	noun	minuend|minuend|R|N
+minuteness	noun	minute|minute|R|Adj ; -ness|ness|S
+minutes	noun	minute|minute|R|N ; -s|s|I||-s (plural)
+mirabilite	noun	mirabilite|mirabilite|R|N
+miraculousness	noun	miraculous|miraculous|R|Adj ; -ness|ness|S
+mirative	adj	mirative|mirative|R|Adj
+mired	adj	mire|mir|R|V ; -ed|ed|S||-ed (adj)
+mirepoix	noun	mirepoix|mirepoix|R|N
+mirthfulness	noun	mirth|mirth|R|N ; -ful|ful|S ; -ness|ness|S
+mirthlessness	noun	mirth|mirth|R|N ; -less|less|S ; -ness|ness|S
+miry	adj	mire|mir|R|V ; -y|y|S
+mirza	noun	mirza|mirza|R|N
+misaddress	verb	mis-|mis|P ; address|address|R|V
+misadjustment	noun	mis-|mis|P ; adjust|adjust|R|V ; -ment|ment|S
+misadvise	verb	mis-|mis|P ; advise|advise|R|V
+misalliance	noun	mis-|mis|P ; alliance|alliance|R|N
+misandric	adj	misandry|misandr|R|N ; -ic|ic|S
+misandrist	noun	misandry|misandr|R|N ; -ist|ist|S
+misandry	noun	misandry|misandry|R|N
+misanthropical	adj	misanthropic|misanthropic|R|Adj ; -al|al|S
+misanthropist	noun	misanthropy|misanthrop|R|N ; -ist|ist|S
+misapprehend	verb	mis-|mis|P ; apprehend|apprehend|R|V
+misapprehended	verb	mis-|mis|P ; apprehend|apprehend|R|V ; -ed|ed|I||-ed (v2)
+misarrange	verb	mis-|mis|P ; arrange|arrange|R|V
+misarrangement	noun	mis-|mis|P ; arrange|arrange|R|V ; -ment|ment|S
+misbaha	noun	misbaha|misbaha|R|N
+misbecoming	adj	mis-|mis|P ; be-|be|P ; come|com|R|V ; -ing|ing|S||-ing (adj)
+misbelief	noun	mis-|mis|P ; belief|belief|R|N
+misbelieve	verb	mis-|mis|P ; believe|believe|R|V
+misbeliever	noun	mis-|mis|P ; believe|believ|R|V ; -er|er|S||-er (N)
+misbrand	verb	mis-|mis|P ; brand|brand|R|V
+miscall	verb	mis-|mis|P ; call|call|R|V
+miscarrying	verb	mis-|mis|P ; carry|carry|R|V ; -ing|ing|I||-ing (v)
+miscegenetic	adj	miscegenation|miscegenet|R|N ; -ic|ic|S
+miscellanea	noun	miscellanea|miscellanea|R|N
+miscellaneity	noun	miscellaneous|miscellane|R|Adj ; -ity|ity|S
+miscellaneousness	noun	miscellaneous|miscellaneous|R|Adj ; -ness|ness|S
+miscellanist	noun	miscellany|miscellan|R|N ; -ist|ist|S
+mischarge	verb	mis-|mis|P ; charge|charge|R|V
+miscibility	noun	miscible|miscibil|R|Adj ; -ity|ity|S
+miscible	adj	miscible|miscible|R|Adj
+misclassify	verb	mis-|mis|P ; classify|classify|R|V
+misconceiving	verb	mis-|mis|P ; con-|con|P ; -ceive|ceiv|B|V ; -ing|ing|I||-ing (v)
+misconstruction	noun	mis-|mis|P ; con-|con|P ; -struct|struct|B|V ; -ion|ion|S
+miscopy	verb	mis-|mis|P ; copy|copy|R|V
+miscounsel	verb	mis-|mis|P ; counsel|counsel|R|V
+miscount	verb	mis-|mis|P ; count|count|R|V
+miscreated	verb	mis-|mis|P ; create|creat|R|V ; -ed|ed|I||-ed (v2)
+miscreation	noun	mis-|mis|P ; create|creat|R|V ; -ion|ion|S
+misdate	verb	mis-|mis|P ; date|date|R|V
+misdeal	verb	mis-|mis|P ; deal|deal|R|V
+misdealer	noun	mis-|mis|P ; deal|deal|R|V ; -er|er|S||-er (N)
+misdealing	noun	mis-|mis|P ; deal|deal|R|V ; -ing|ing|S||-ing (N)
+misdemeanant	noun	mis-|mis|P ; demean|demean|R|V ; -ant|ant|S
+misdescription	noun	mis-|mis|P ; describe|descript|R|V ; -ion|ion|S
+misdial	verb	mis-|mis|P ; dial|dial|R|V
+misdo	verb	mis-|mis|P ; do|do|R|V
+misdoer	noun	mis-|mis|P ; do|do|R|V ; -er|er|S||-er (N)
+misdoing	noun	mis-|mis|P ; do|do|R|V ; -ing|ing|S||-ing (N)
+misemploy	verb	mis-|mis|P ; employ|employ|R|V
+miserableness	noun	miserable|miserable|R|Adj ; -ness|ness|S
+misestimate	verb	mis-|mis|P ; estimate|estimate|R|V
+misestimation	noun	mis-|mis|P ; estimate|estimat|R|V ; -ion|ion|S
+misfield	verb	mis-|mis|P ; field|field|R|V
+misfiring	noun	mis-|mis|P ; fire|fir|R|V ; -ing|ing|S||-ing (N)
+misgender	verb	mis-|mis|P ; gender|gender|R|V
+misgovern	verb	mis-|mis|P ; govern|govern|R|V
+misgrowth	noun	mis-|mis|P ; grow|grow|R|V ; -th|th|S
+misguidance	noun	mis-|mis|P ; guide|guid|R|V ; -ance|ance|S
+misguide	verb	mis-|mis|P ; guide|guide|R|V
+mishegoss	noun	mishegoss|mishegoss|R|N
+mishit	noun	mis-|mis|P ; hit|hit|R|V
+misinformative	adj	mis-|mis|P ; inform|inform|R|V ; -ative|ative|S
+misintelligence	noun	mis-|mis|P ; intelligence|intelligence|R|N
+misinterpreter	noun	mis-|mis|P ; interpret|interpret|R|V ; -er|er|S||-er (N)
+misknow	verb	mis-|mis|P ; know|know|R|V
+mislabel	verb	mis-|mis|P ; label|label|R|V
+mislaid	verb	mis-|mis|P ; lay|laid|R|V ; -ed||I||-ed (v2)
+mislike	verb	mis-|mis|P ; like|like|R|V
+mislocate	verb	mis-|mis|P ; locate|locate|R|V
+mislocation	noun	mis-|mis|P ; locate|locat|R|V ; -ion|ion|S
+mismanager	noun	mis-|mis|P ; manage|manag|R|V ; -er|er|S||-er (N)
+mismanaging	verb	mis-|mis|P ; manage|manag|R|V ; -ing|ing|I||-ing (v)
+mismarriage	noun	mis-|mis|P ; marriage|marriage|R|N
+mismatching	noun	mis-|mis|P ; match|match|R|V ; -ing|ing|S||-ing (N)
+mismeasure	verb	mis-|mis|P ; measure|measure|R|V
+misnaming	noun	mis-|mis|P ; name|nam|R|V ; -ing|ing|S||-ing (N)
+misogamic	adj	misogamy|misogam|R|N ; -ic|ic|S
+misogamist	noun	misogamy|misogam|R|N ; -ist|ist|S
+misogamy	noun	misogamy|misogamy|R|N
+misogynic	adj	misogyny|misogyn|R|N ; -ic|ic|S
+misogynism	noun	misogyny|misogyn|R|N ; -ism|ism|S
+misogynoir	noun	misogynoir|misogynoir|R|N
+misologist	noun	misology|misolog|R|N ; -ist|ist|S
+misology	noun	misology|misology|R|N
+misoneism	noun	misoneism|misoneism|R|N
+misoneist	noun	misoneism|misone|R|N ; -ist|ist|S
+misopedia	noun	misopedia|misopedia|R|N
+misoperation	noun	mis-|mis|P ; operation|operation|R|N
+misosophy	noun	misosophy|misosophy|R|N
+misplacing	noun	mis-|mis|P ; place|plac|R|V ; -ing|ing|S||-ing (N)
+misprints	noun	mis-|mis|P ; print|print|R|V ; -s|s|I||-s (plural)
+misprision	noun	misprision|misprision|R|N
+misprize	verb	mis-|mis|P ; prize|prize|R|V
+mispronounced	verb	mis-|mis|P ; pronounce|pronounc|R|V ; -ed|ed|I||-ed (v2)
+mispronouncing	verb	mis-|mis|P ; pronounce|pronounc|R|V ; -ing|ing|I||-ing (v)

@@ -1,0 +1,200 @@
+yat	noun	yat|yat|R|N
+yataghan	noun	yataghan|yataghan|R|N
+yatga	noun	yatga|yatga|R|N
+yatzy	noun	yatzy|yatzy|R|N
+yawner	noun	yawn|yawn|R|V ; -er|er|S||-er (N)
+yawningly	adv	yawn|yawn|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+yawny	adj	yawn|yawn|R|V ; -y|y|S
+yaws	noun	yaws|yaws|R|N
+yay	interj	yay|yay|R
+yeanling	noun	yean|yean|R|V ; -ling|ling|S
+yearlong	adj	year|year|R|N ; long|long|R|Adj
+yearningly	adv	yearn|yearn|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+yeartext	noun	year|year|R|N ; text|text|R|N
+yeasayer	noun	yea|yea|R|Adv ; say|say|R|V ; -er|er|S||-er (N)
+yeastiness	noun	yeast|yeast|R|N ; -y|i|S ; -ness|ness|S
+yeastless	adj	yeast|yeast|R|N ; -less|less|S
+yeehaw	interj	yeehaw|yeehaw|R
+yegg	noun	yegg|yegg|R|N
+yeggman	noun	yegg|yegg|R|N ; man|man|R|N
+yeld	adj	yeld|yeld|R|Adj
+yellowback	noun	yellow|yellow|R|Adj ; back|back|R|N
+yellowbelly	noun	yellow|yellow|R|Adj ; belly|belly|R|N
+yellowcress	noun	yellow|yellow|R|Adj ; cress|cress|R|N
+yellowness	noun	yellow|yellow|R|Adj ; -ness|ness|S
+yem	noun	yem|yem|R|N
+yery	adj	yery|yery|R|Adj
+yessir	interj	yessir|yessir|R
+yieldingly	adv	yield|yield|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+yiff	verb	yiff|yiff|R|V
+yikes	interj	yikes|yikes|R
+yinglong	noun	yinglong|yinglong|R|N
+yipping	verb	yip|yipp|R|V ; -ing|ing|I||-ing (v)
+yips	noun	yip|yip|R|N ; -s|s|I||-s (plural)
+yob	noun	yob|yob|R|N
+yobibyte	noun	yobibyte|yobibyte|R|N
+yoctometre	noun	yoctometre|yoctometre|R|N
+yodh	noun	yodh|yodh|R|N
+yoghourt	noun	yoghourt|yoghourt|R|N
+yogism	noun	yogism|yogism|R|N
+yoik	noun	yoik|yoik|R|N
+yokai	noun	yokai|yokai|R|N
+yokan	noun	yokan|yokan|R|N
+yoked	verb	yoke|yoke|R|V ; -ed|d|I||-ed (v2)
+yokefellow	noun	yoke|yoke|R|N ; fellow|fellow|R|N
+yokemate	noun	yoke|yoke|R|N ; mate|mate|R|N
+yoking	verb	yoke|yok|R|V ; -ing|ing|I||-ing (v)
+yolky	adj	yolk|yolk|R|N ; -y|y|S
+yomp	verb	yomp|yomp|R|V
+yoni	noun	yoni|yoni|R|N
+yoohoo	interj	yoohoo|yoohoo|R
+yottabit	noun	yottabit|yottabit|R|N
+yottabyte	noun	yottabyte|yottabyte|R|N
+youngest	adj	young|young|R|Adj ; -est|est|I||-est (superlative)
+youngling	noun	young|young|R|Adj ; -ling|ling|S
+younker	noun	younker|younker|R|N
+youtiao	noun	youtiao|youtiao|R|N
+yowling	verb	yowl|yowl|R|V ; -ing|ing|I||-ing (v)
+yperite	noun	yperite|yperite|R|N
+ytterbium	noun	ytterbium|ytterbium|R|N
+yuga	noun	yuga|yuga|R|N
+yukata	noun	yukata|yukata|R|N
+yus	noun	yus|yus|R|N
+yuzu	noun	yuzu|yuzu|R|N
+zaa	noun	zaa|zaa|R|N
+zaatar	noun	zaatar|zaatar|R|N
+zabaglione	noun	zabaglione|zabaglione|R|N
+zaffre	noun	zaffre|zaffre|R|N
+zaftig	adj	zaftig|zaftig|R|Adj
+zamindar	noun	zamindar|zamindar|R|N
+zander	noun	zander|zander|R|N
+zanily	adv	zany|zani|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+zapadnichestvo	noun	zapadnichestvo|zapadnichestvo|R|N
+zapping	verb	zap|zapp|R|V ; -ing|ing|I||-ing (v)
+zappy	adj	zap|zapp|R|V ; -y|y|S
+zaptieh	noun	zaptieh|zaptieh|R|N
+zayin	noun	zayin|zayin|R|N
+zazen	noun	zazen|zazen|R|N
+zealotic	adj	zealot|zealot|R|N ; -ic|ic|S
+zealotism	noun	zealot|zealot|R|N ; -ism|ism|S
+zebibyte	noun	zebibyte|zebibyte|R|N
+zebrafish	noun	zebra|zebra|R|N ; fish|fish|R|N
+zebroid	adj	zebroid|zebroid|R|Adj
+zed	noun	zed|zed|R|N
+zedoary	noun	zedoary|zedoary|R|N
+zein	noun	zein|zein|R|N
+zeitnot	noun	zeitnot|zeitnot|R|N
+zelkova	noun	zelkova|zelkova|R|N
+zelotic	adj	zelotic|zelotic|R|Adj
+zemlyanka	noun	zemlyanka|zemlyanka|R|N
+zemstvo	noun	zemstvo|zemstvo|R|N
+zen	noun	zen|zen|R|N
+zenana	noun	zenana|zenana|R|N
+zeppola	noun	zeppola|zeppola|R|N
+zeptometre	noun	zeptometre|zeptometre|R|N
+zeren	noun	zeren|zeren|R|N
+zerg	verb	zerg|zerg|R|V
+zeroth	adj	zero|zero|R|N ; -th|th|S
+zestfully	adv	zest|zest|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+zetetic	adj	zetetic|zetetic|R|Adj
+zettabit	noun	zettabit|zettabit|R|N
+zettabyte	noun	zettabyte|zettabyte|R|N
+zeugma	noun	zeugma|zeugma|R|N
+zhanmadao	noun	zhanmadao|zhanmadao|R|N
+zibeline	noun	zibeline|zibeline|R|N
+zigzagging	verb	zigzag|zigzagg|R|V ; -ing|ing|I||-ing (v)
+zigzaggy	adj	zigzag|zigzagg|R|V ; -y|y|S
+zincaluminite	noun	zincaluminite|zincaluminite|R|N
+zincate	noun	zinc|zinc|R|N ; -ate|ate|S
+zinciferous	adj	zinciferous|zinciferous|R|Adj
+zincify	verb	zinc|zinc|R|N ; -ify|ify|S
+zinco	noun	zinco|zinco|R|N
+zincograph	noun	zincograph|zincograph|R|N
+zincographer	noun	zincograph|zincograph|R|N ; -er|er|S||-er (N)
+zincographic	adj	zincograph|zincograph|R|N ; -ic|ic|S
+zincography	noun	zincography|zincography|R|N
+zindan	noun	zindan|zindan|R|N
+zingiberaceous	adj	zingiberaceous|zingiberaceous|R|Adj
+zipline	noun	zip|zip|R|V ; line|line|R|N
+zitherist	noun	zither|zither|R|N ; -ist|ist|S
+zithern	noun	zithern|zithern|R|N
+zivania	noun	zivania|zivania|R|N
+zoic	adj	zoic|zoic|R|Adj
+zoid	noun	zoid|zoid|R|N
+zoidiophilous	adj	zoidiophilous|zoidiophilous|R|Adj
+zoisite	noun	zoisite|zoisite|R|N
+zokor	noun	zokor|zokor|R|N
+zolotnik	noun	zolotnik|zolotnik|R|N
+zombify	verb	zombie|zomb|R|N ; -ify|ify|S
+zona	noun	zona|zona|R|N
+zonate	adj	zone|zon|R|N ; -ate|ate|S
+zoneless	adj	zone|zone|R|N ; -less|less|S
+zongzi	noun	zongzi|zongzi|R|N
+zonked	verb	zonk|zonk|R|V ; -ed|ed|I||-ed (v2)
+zonkey	noun	zonkey|zonkey|R|N
+zonohedron	noun	zonohedron|zonohedron|R|N
+zooarchaeology	noun	zooarchaeology|zooarchaeology|R|N
+zoobiology	noun	zoobiology|zoobiology|R|N
+zoochemical	adj	zoochemical|zoochemical|R|Adj
+zoochemistry	noun	zoochemistry|zoochemistry|R|N
+zoochory	noun	zoochory|zoochory|R|N
+zoogenic	adj	zoogenic|zoogenic|R|Adj
+zoogeographical	adj	zoogeographical|zoogeographical|R|Adj
+zoogeography	noun	zoogeography|zoogeography|R|N
+zoographer	noun	zoographer|zoographer|R|N
+zoography	noun	zoography|zoography|R|N
+zoolatry	noun	zoolatry|zoolatry|R|N
+zoolite	noun	zoolite|zoolite|R|N
+zoologically	adv	zoology|zoolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+zooming	verb	zoom|zoom|R|V ; -ing|ing|I||-ing (v)
+zoomorphism	noun	zoomorphism|zoomorphism|R|N
+zoonomy	noun	zoonomy|zoonomy|R|N
+zoonosis	noun	zoonosis|zoonosis|R|N
+zoonym	noun	zoonym|zoonym|R|N
+zoophaga	noun	zoophaga|zoophaga|R|N
+zoophagan	noun	zoophagan|zoophagan|R|N
+zoophagous	adj	zoophagous|zoophagous|R|Adj
+zoophile	noun	zoophile|zoophile|R|N
+zoophilia	noun	zoophilia|zoophilia|R|N
+zoophilous	adj	zoophilous|zoophilous|R|Adj
+zoophobia	noun	zoophobia|zoophobia|R|N
+zoophyte	noun	zoophyte|zoophyte|R|N
+zoopsychologist	noun	zoopsychology|zoopsycholog|R|N ; -ist|ist|S
+zoopsychology	noun	zoopsychology|zoopsychology|R|N
+zoosporangium	noun	zoosporangium|zoosporangium|R|N
+zoospore	noun	zoospore|zoospore|R|N
+zootechnic	adj	zootechnic|zootechnic|R|Adj
+zootechnician	noun	zootechnician|zootechnician|R|N
+zootechnics	noun	zootechnics|zootechnics|R|N
+zootherapy	noun	zootherapy|zootherapy|R|N
+zootomic	adj	zootomic|zootomic|R|Adj
+zootomist	noun	zootomist|zootomist|R|N
+zootomy	noun	zootomy|zootomy|R|N
+zope	noun	zope|zope|R|N
+zorbing	verb	zorb|zorb|R|V ; -ing|ing|I||-ing (v)
+zorille	noun	zorille|zorille|R|N
+zoropsid	noun	zoropsid|zoropsid|R|N
+zorse	noun	zorse|zorse|R|N
+zouave	noun	zouave|zouave|R|N
+zounds	interj	zounds|zounds|R
+zubron	noun	zubron|zubron|R|N
+zubrowka	noun	zubrowka|zubrowka|R|N
+zucchetto	noun	zucchetto|zucchetto|R|N
+zugzwang	noun	zugzwang|zugzwang|R|N
+zurna	noun	zurna|zurna|R|N
+zwieback	noun	zwieback|zwieback|R|N
+zwitterion	noun	zwitterion|zwitterion|R|N
+zygaenid	noun	zygaenid|zygaenid|R|N
+zygomaticus	noun	zygomaticus|zygomaticus|R|N
+zygomorphic	adj	zygomorphic|zygomorphic|R|Adj
+zygomorphous	adj	zygomorphous|zygomorphous|R|Adj
+zygopteran	noun	zygopteran|zygopteran|R|N
+zygospore	noun	zygospore|zygospore|R|N
+zygotic	adj	zygote|zygot|R|N ; -ic|ic|S
+zymase	noun	zymase|zymase|R|N
+zymological	adj	zymology|zymolog|R|N ; -ical|ical|S
+zymology	noun	zymology|zymology|R|N
+zymometer	noun	zymometer|zymometer|R|N
+zymosis	noun	zymosis|zymosis|R|N
+zymotechnics	noun	zymotechnics|zymotechnics|R|N
+zymotic	adj	zymotic|zymotic|R|Adj

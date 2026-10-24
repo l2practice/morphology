@@ -1,0 +1,200 @@
+bromate	noun	bromate|bromate|R|N
+bromatology	noun	bromatology|bromatology|R|N
+brome	noun	brome|brome|R|N
+bromeliaceous	adj	bromeliaceous|bromeliaceous|R|Adj
+bromic	adj	bromic|bromic|R|Adj
+bromidic	adj	bromidic|bromidic|R|Adj
+brominate	verb	brominate|brominate|R|V
+bromism	noun	bromism|bromism|R|N
+bromoform	noun	bromoform|bromoform|R|N
+bromomethane	noun	bromomethane|bromomethane|R|N
+bronchially	adv	bronchial|bronchial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bronchiole	noun	bronchiole|bronchiole|R|N
+bronchiolitis	noun	bronchiolitis|bronchiolitis|R|N
+bronchitic	adj	bronchitic|bronchitic|R|Adj
+bronchocele	noun	bronchocele|bronchocele|R|N
+bronchogenic	adj	bronchogenic|bronchogenic|R|Adj
+bronchopneumonia	noun	bronchopneumonia|bronchopneumonia|R|N
+bronchoscopic	adj	bronchoscopic|bronchoscopic|R|Adj
+bronchoscopist	noun	bronchoscopist|bronchoscopist|R|N
+bronchoscopy	noun	bronchoscopy|bronchoscopy|R|N
+bronchospasm	noun	bronchospasm|bronchospasm|R|N
+bronchus	noun	bronchus|bronchus|R|N
+brony	noun	brony|brony|R|N
+bronzeware	noun	bronze|bronze|R|N ; ware|ware|R|N
+brooded	verb	brood|brood|R|V ; -ed|ed|I||-ed (v2)
+broodily	adv	brood|brood|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+broodiness	noun	brood|brood|R|N ; -y|i|S ; -ness|ness|S
+brooklet	noun	brook|brook|R|N ; -let|let|S
+brookweed	noun	brook|brook|R|N ; weed|weed|R|N
+broomrape	noun	broom|broom|R|N ; rape|rape|R|N
+broscine	noun	broscine|broscine|R|N
+brothelkeeper	noun	brothel|brothel|R|N ; keep|keep|R|V ; -er|er|S||-er (N)
+brotherless	adj	brother|brother|R|N ; -less|less|S
+brotherlike	adj	brother|brother|R|N ; -like|like|S
+brotherliness	noun	brother|brother|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+browbeater	noun	brow|brow|R|N ; beat|beat|R|V ; -er|er|S||-er (N)
+browning	noun	brown|brown|R|Adj ; -ing|ing|S||-ing (N)
+brownnose	verb	brown|brown|R|Adj ; nose|nose|R|N
+brownware	noun	brown|brown|R|Adj ; ware|ware|R|N
+brr	interj	brr|brr|R
+brubru	noun	brubru|brubru|R|N
+brucine	noun	brucine|brucine|R|N
+brucite	noun	brucite|brucite|R|N
+bruh	interj	bruh|bruh|R
+bruin	noun	bruin|bruin|R|N
+bruiting	verb	bruit|bruit|R|V ; -ing|ing|I||-ing (v)
+brumal	adj	brumal|brumal|R|Adj
+brumby	noun	brumby|brumby|R|N
+brume	noun	brume|brume|R|N
+brummagem	noun	brummagem|brummagem|R|N
+brumous	adj	brumous|brumous|R|Adj
+brunost	noun	brunost|brunost|R|N
+brushcutter	noun	brush|brush|R|N ; cut|cutt|R|V ; -er|er|S||-er (N)
+brushland	noun	brush|brush|R|N ; land|land|R|N
+brushmaker	noun	brush|brush|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+brutalizing	verb	brutal|brutal|R|Adj ; -ize|iz|S ; -ing|ing|I||-ing (v)
+brutify	verb	brute|brut|R|N ; -ify|ify|S
+brutishly	adv	brute|brut|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+brutishness	noun	brute|brut|R|N ; -ish|ish|S ; -ness|ness|S
+brutism	noun	brute|brut|R|N ; -ism|ism|S
+bruxism	noun	bruxism|bruxism|R|N
+bryndza	noun	bryndza|bryndza|R|N
+bryological	adj	bryological|bryological|R|Adj
+bryologist	noun	bryologist|bryologist|R|N
+bryology	noun	bryology|bryology|R|N
+bryophyte	noun	bryophyte|bryophyte|R|N
+bryophytic	adj	bryophytic|bryophytic|R|Adj
+bubal	noun	bubal|bubal|R|N
+bubbles	noun	bubble|bubble|R|N ; -s|s|I||-s (plural)
+bubby	noun	bubby|bubby|R|N
+bubo	noun	bubo|bubo|R|N
+bubonocele	noun	bubonocele|bubonocele|R|N
+buccinator	noun	buccinator|buccinator|R|N
+buckbean	noun	buck|buck|R|N ; bean|bean|R|N
+bucketed	verb	bucket|bucket|R|N ; -ed|ed|I||-ed (v2)
+bucketing	verb	bucket|bucket|R|N ; -ing|ing|I||-ing (v)
+buckjumper	noun	buck|buck|R|V ; jump|jump|R|V ; -er|er|S||-er (N)
+buckra	noun	buckra|buckra|R|N
+bucksaw	noun	buck|buck|R|N ; saw|saw|R|N
+buckshee	noun	buckshee|buckshee|R|N
+bucktooth	noun	buck|buck|R|N ; tooth|tooth|R|N
+bucktoothed	adj	buck|buck|R|N ; tooth|tooth|R|N ; -ed|ed|S||-ed (adj)
+bucolically	adv	bucolic|bucolic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+bucranium	noun	bucranium|bucranium|R|N
+budded	verb	bud|budd|R|V ; -ed|ed|I||-ed (v2)
+buddha	noun	buddha|buddha|R|N
+buddhi	noun	buddhi|buddhi|R|N
+budgeter	noun	budget|budget|R|N ; -er|er|S||-er (N)
+budyonovka	noun	budyonovka|budyonovka|R|N
+buffaloberry	noun	buffalo|buffalo|R|N ; berry|berry|R|N
+bufferless	adj	buffer|buffer|R|N ; -less|less|S
+buffeted	verb	buffet|buffet|R|V ; -ed|ed|I||-ed (v2)
+buffeter	noun	buffet|buffet|R|V ; -er|er|S||-er (N)
+buffing	verb	buff|buff|R|V ; -ing|ing|I||-ing (v)
+bufflehead	noun	bufflehead|bufflehead|R|N
+buffo	noun	buffo|buffo|R|N
+bufotoxin	noun	bufotoxin|bufotoxin|R|N
+bugfix	noun	bug|bug|R|N ; fix|fix|R|V
+bugged	verb	bug|bugg|R|V ; -ed|ed|I||-ed (v2)
+buggered	verb	bugger|bugger|R|V ; -ed|ed|I||-ed (v2)
+buggering	verb	bugger|bugger|R|V ; -ing|ing|I||-ing (v)
+bugginess	noun	bug|bugg|R|N ; -y|i|S ; -ness|ness|S
+bughouse	noun	bug|bug|R|N ; house|house|R|N
+bugled	verb	bugle|bugl|R|V ; -ed|ed|I||-ed (v2)
+bugloss	noun	bugloss|bugloss|R|N
+built	verb	build|built|R|V ; -ed||I||-ed (v2)
+buisine	noun	buisine|buisine|R|N
+bukkake	noun	bukkake|bukkake|R|N
+bulbaceous	adj	bulbaceous|bulbaceous|R|Adj
+bulbar	adj	bulbar|bulbar|R|Adj
+bulbed	verb	bulb|bulb|R|N ; -ed|ed|I||-ed (v2)
+bulbiferous	adj	bulbiferous|bulbiferous|R|Adj
+bulbil	noun	bulbil|bulbil|R|N
+bulbophyllum	noun	bulbophyllum|bulbophyllum|R|N
+bulbously	adv	bulbous|bulbous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bulginess	noun	bulge|bulg|R|V ; -y|i|S ; -ness|ness|S
+bulgogi	noun	bulgogi|bulgogi|R|N
+bulgy	adj	bulge|bulg|R|V ; -y|y|S
+bulkily	adv	bulk|bulk|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+bulkiness	noun	bulk|bulk|R|N ; -y|i|S ; -ness|ness|S
+bullace	noun	bullace|bullace|R|N
+bullate	adj	bullate|bullate|R|Adj
+bulldogger	noun	bull|bull|R|N ; dog|dogg|R|N ; -er|er|S||-er (N)
+bulled	verb	bull|bull|R|V ; -ed|ed|I||-ed (v2)
+bullets	noun	bullet|bullet|R|N ; -s|s|I||-s (plural)
+bulletwood	noun	bullet|bullet|R|N ; wood|wood|R|N
+bullfighting	noun	bull|bull|R|N ; fight|fight|R|V ; -ing|ing|S||-ing (N)
+bullheaded	adj	bull|bull|R|N ; head|head|R|N ; -ed|ed|S||-ed (adj)
+bullied	verb	bully|bulli|R|V ; -ed|ed|I||-ed (v2)
+bulling	verb	bull|bull|R|V ; -ing|ing|I||-ing (v)
+bullionism	noun	bullion|bullion|R|N ; -ism|ism|S
+bullishly	adv	bull|bull|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+bullishness	noun	bull|bull|R|N ; -ish|ish|S ; -ness|ness|S
+bullnose	noun	bull|bull|R|N ; nose|nose|R|N
+bullous	adj	bullous|bullous|R|Adj
+bullroarer	noun	bull|bull|R|N ; roar|roar|R|V ; -er|er|S||-er (N)
+bullshitter	noun	bull|bull|R|N ; shit|shitt|R|V ; -er|er|S||-er (N)
+bullswool	noun	bullswool|bullswool|R|N
+bullyrag	verb	bully|bully|R|V ; rag|rag|R|N
+bumbershoot	noun	bumbershoot|bumbershoot|R|N
+bumbledom	noun	bumble|bumble|R|V ; -dom|dom|S
+bumbo	noun	bumbo|bumbo|R|N
+bumboat	noun	bum|bum|R|N ; boat|boat|R|N
+bumfreezer	noun	bum|bum|R|N ; freeze|freez|R|V ; -er|er|S||-er (N)
+bumfuck	noun	bum|bum|R|N ; fuck|fuck|R|V
+bummalo	noun	bummalo|bummalo|R|N
+bummaree	noun	bummaree|bummaree|R|N
+bumped	verb	bump|bump|R|V ; -ed|ed|I||-ed (v2)
+bumpily	adv	bump|bump|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+bumpiness	noun	bump|bump|R|N ; -y|i|S ; -ness|ness|S
+bumps	noun	bump|bump|R|N ; -s|s|I||-s (plural)
+bumptiously	adv	bumptious|bumptious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bumptiousness	noun	bumptious|bumptious|R|Adj ; -ness|ness|S
+bunchberry	noun	bunch|bunch|R|N ; berry|berry|R|N
+buncher	noun	bunch|bunch|R|V ; -er|er|S||-er (N)
+bunches	noun	bunch|bunch|R|N ; -es|es|I||-s (plural)
+bunchiness	noun	bunch|bunch|R|N ; -y|i|S ; -ness|ness|S
+bunder	noun	bunder|bunder|R|N
+bunglingly	adv	bungle|bungl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+bunter	noun	bunt|bunt|R|V ; -er|er|S||-er (N)
+bunts	noun	bunt|bunt|R|N ; -s|s|I||-s (plural)
+bunyip	noun	bunyip|bunyip|R|N
+buoyage	noun	buoy|buoy|R|N ; -age|age|S
+bupkis	noun	bupkis|bupkis|R|N
+bupleurum	noun	bupleurum|bupleurum|R|N
+buprestid	noun	buprestid|buprestid|R|N
+burbler	noun	burble|burbl|R|V ; -er|er|S||-er (N)
+burbly	adj	burble|burbl|R|V ; -y|y|S
+burbot	noun	burbot|burbot|R|N
+burdensomely	adv	burden|burden|R|N ; -some|some|S ; -ly|ly|I|Adv|-ly (adv)
+burdensomeness	noun	burden|burden|R|N ; -some|some|S ; -ness|ness|S
+burdon	noun	burdon|burdon|R|N
+bureaucratism	noun	bureaucrat|bureaucrat|R|N ; -ism|ism|S
+bureaucratist	noun	bureaucrat|bureaucrat|R|N ; -ist|ist|S
+bureaucratize	verb	bureaucrat|bureaucrat|R|N ; -ize|ize|S
+burek	noun	burek|burek|R|N
+burette	noun	burette|burette|R|N
+burgage	noun	burgage|burgage|R|N
+burgee	noun	burgee|burgee|R|N
+burglarious	adj	burglar|burglar|R|N ; -ious|ious|S
+burglariously	adv	burglar|burglar|R|N ; -ious|ious|S ; -ly|ly|I|Adv|-ly (adv)
+burgomaster	noun	burgomaster|burgomaster|R|N
+burgonet	noun	burgonet|burgonet|R|N
+burgoo	noun	burgoo|burgoo|R|N
+burgrave	noun	burgrave|burgrave|R|N
+burgundy	noun	burgundy|burgundy|R|N
+burk	noun	burk|burk|R|N
+burlak	noun	burlak|burlak|R|N
+burler	noun	burl|burl|R|V ; -er|er|S||-er (N)
+burlesquely	adv	burlesque|burlesque|R|N ; -ly|ly|I|Adv|-ly (adv)
+burlesquing	verb	burlesque|burlesqu|R|V ; -ing|ing|I||-ing (v)
+burlily	adv	burl|burl|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+burliness	noun	burl|burl|R|N ; -y|i|S ; -ness|ness|S
+burningly	adv	burn|burn|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+burnisher	noun	burnish|burnish|R|V ; -er|er|S||-er (N)
+burnoose	noun	burnoose|burnoose|R|N
+burpee	noun	burpee|burpee|R|N
+burping	verb	burp|burp|R|V ; -ing|ing|I||-ing (v)
+burqini	noun	burqini|burqini|R|N
+burrata	noun	burrata|burrata|R|N

@@ -1,0 +1,200 @@
+plaiter	noun	plait|plait|R|V ; -er|er|S||-er (N)
+plaiting	noun	plait|plait|R|V ; -ing|ing|S||-ing (N)
+planarian	noun	planaria|planari|R|N ; -an|an|S
+planation	noun	planate|plan|R|V ; -ation|ation|S
+planche	noun	planche|planche|R|N
+planchet	noun	planchet|planchet|R|N
+plandemic	noun	plandemic|plandemic|R|N
+planeness	noun	plane|plane|R|Adj ; -ness|ness|S
+planetocentric	adj	planetocentric|planetocentric|R|Adj
+planetoidal	adj	planetoid|planetoid|R|N ; -al|al|S
+planetology	noun	planetology|planetology|R|N
+plangency	noun	plangent|plang|R|Adj ; -ency|ency|S
+plangently	adv	plangent|plangent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+planiform	adj	planiform|planiform|R|Adj
+planimeter	noun	planimeter|planimeter|R|N
+planimetric	adj	planimetry|planimetr|R|N ; -ic|ic|S
+planimetrically	adv	planimetric|planimetric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+planimetry	noun	planimetry|planimetry|R|N
+planish	verb	planish|planish|R|V
+planisher	noun	planish|planish|R|V ; -er|er|S||-er (N)
+planispheric	adj	planisphere|planispher|R|N ; -ic|ic|S
+planispiral	adj	planispiral|planispiral|R|Adj
+planktology	noun	planktology|planktology|R|N
+planktont	noun	planktont|planktont|R|N
+planless	adj	plan|plan|R|N ; -less|less|S
+planoconcave	adj	planoconcave|planoconcave|R|Adj
+planoconvex	adj	planoconvex|planoconvex|R|Adj
+planographic	adj	planography|planograph|R|N ; -ic|ic|S
+planography	noun	planography|planography|R|N
+planta	noun	planta|planta|R|N
+plantable	adj	plant|plant|R|V ; -able|able|S
+plantar	adj	planta|plant|R|N ; -ar|ar|S
+plantaris	noun	plantaris|plantaris|R|N
+plantigrade	adj	plantigrade|plantigrade|R|Adj
+planula	noun	planula|planula|R|N
+planular	adj	planula|planul|R|N ; -ar|ar|S
+planuloid	adj	planuloid|planuloid|R|Adj
+planum	noun	planum|planum|R|N
+plaquette	noun	plaquette|plaquette|R|N
+plash	noun	plash|plash|R|N
+plashed	verb	plash|plash|R|V ; -ed|ed|I||-ed (v2)
+plashing	noun	plash|plash|R|V ; -ing|ing|S||-ing (N)
+plashy	adj	plash|plash|R|N ; -y|y|S
+plasmagene	noun	plasma|plasma|R|N ; gene|gene|R|N
+plasmalemma	noun	plasmalemma|plasmalemma|R|N
+plasmatic	adj	plasma|plasmat|R|N ; -ic|ic|S
+plasmatoparous	adj	plasmatoparous|plasmatoparous|R|Adj
+plasmocyte	noun	plasmocyte|plasmocyte|R|N
+plasmodial	adj	plasmodium|plasmodi|R|N ; -al|al|S
+plasmogamy	noun	plasmogamy|plasmogamy|R|N
+plasmogen	noun	plasmogen|plasmogen|R|N
+plasmolyse	verb	plasmolyse|plasmolyse|R|V
+plasmolysis	noun	plasmolysis|plasmolysis|R|N
+plasmolytic	adj	plasmolysis|plasmolyt|R|N ; -ic|ic|S
+plasmolytically	adv	plasmolytic|plasmolytic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+plasmon	noun	plasmon|plasmon|R|N
+plasmotomy	noun	plasmotomy|plasmotomy|R|N
+plastically	adv	plastic|plastic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+plastician	noun	plastic|plastic|R|N ; -ian|ian|S
+plasticization	noun	plasticize|plasticiz|R|V ; -ation|ation|S
+plasticize	verb	plastic|plastic|R|N ; -ize|ize|S
+plastid	noun	plastid|plastid|R|N
+plastidome	noun	plastidome|plastidome|R|N
+plastin	noun	plastin|plastin|R|N
+plastogamy	noun	plastogamy|plastogamy|R|N
+plastral	adj	plastron|plastr|R|N ; -al|al|S
+plastron	noun	plastron|plastron|R|N
+platelayer	noun	plate|plate|R|N ; lay|lay|R|V ; -er|er|S||-er (N)
+platelaying	noun	plate|plate|R|N ; lay|lay|R|V ; -ing|ing|S||-ing (N)
+platen	noun	platen|platen|R|N
+plater	noun	plate|plat|R|V ; -er|er|S||-er (N)
+plates	noun	plate|plate|R|N ; -s|s|I||-s (plural)
+platformed	adj	platform|platform|R|N ; -ed|ed|S||-ed (adj)
+platforming	noun	platform|platform|R|V ; -ing|ing|S||-ing (N)
+platformist	noun	platform|platform|R|N ; -ist|ist|S
+platinic	adj	platinum|platin|R|N ; -ic|ic|S
+platiniferous	adj	platiniferous|platiniferous|R|Adj
+platinization	noun	platinize|platiniz|R|V ; -ation|ation|S
+platinize	verb	platinum|platin|R|N ; -ize|ize|S
+platinoid	noun	platinoid|platinoid|R|N
+platinous	adj	platinum|platin|R|N ; -ous|ous|S
+platitudinarian	noun	platitudinarian|platitudinarian|R|N
+platitudinize	verb	platitude|platitudin|R|N ; -ize|ize|S
+platitudinously	adv	platitudinous|platitudinous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+platonize	verb	platonize|platonize|R|V
+platten	noun	platten|platten|R|N
+platy	noun	platy|platy|R|N
+platycephalic	adj	platycephaly|platycephal|R|N ; -ic|ic|S
+platyhelminth	noun	platyhelminth|platyhelminth|R|N
+platykurtic	adj	platykurtosis|platykurt|R|N ; -ic|ic|S
+platypusary	noun	platypus|platypus|R|N ; -ary|ary|S
+platyrrhine	adj	platyrrhine|platyrrhine|R|Adj
+plauditory	adj	plaudit|plaudit|R|N ; -ory|ory|S
+plausibleness	noun	plausible|plausibl|R|Adj ; -ness|eness|S
+playdough	noun	play|play|R|V ; dough|dough|R|N
+playfellow	noun	play|play|R|V ; fellow|fellow|R|N
+playgoing	noun	play|play|R|V ; go|go|R|V ; -ing|ing|S||-ing (N)
+playlet	noun	play|play|R|V ; -let|let|S
+playsuit	noun	play|play|R|V ; suit|suit|R|N
+playtester	noun	play|play|R|V ; test|test|R|V ; -er|er|S||-er (N)
+pleach	verb	pleach|pleach|R|V
+pleadable	adj	plead|plead|R|V ; -able|able|S
+pleasingness	noun	pleasing|pleasing|R|Adj ; -ness|ness|S
+pleasurability	noun	pleasurable|pleasurab|R|Adj ; -ity|ility|S
+pleasurableness	noun	pleasurable|pleasurabl|R|Adj ; -ness|eness|S
+pleasureless	adj	pleasure|pleasure|R|N ; -less|less|S
+pleasuring	noun	pleasure|pleasur|R|V ; -ing|ing|S||-ing (N)
+pleater	noun	pleat|pleat|R|V ; -er|er|S||-er (N)
+plebeianism	noun	plebeian|plebeian|R|N ; -ism|ism|S
+plebeianize	verb	plebeian|plebeian|R|N ; -ize|ize|S
+plebeianly	adv	plebeian|plebeian|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+plebiscitary	adj	plebiscite|plebiscit|R|N ; -ary|ary|S
+plebiscitum	noun	plebiscitum|plebiscitum|R|N
+plebs	noun	plebs|plebs|R|N
+plecopteran	noun	plecoptera|plecopter|R|N ; -an|an|S
+plectognath	noun	plectognath|plectognath|R|N
+pledgee	noun	pledge|pledg|R|V ; -ee|ee|S
+pledger	noun	pledge|pledg|R|V ; -er|er|S||-er (N)
+pledget	noun	pledget|pledget|R|N
+pleiad	noun	pleiad|pleiad|R|N
+pleinairist	noun	pleinairist|pleinairist|R|N
+pleiochasium	noun	pleiochasium|pleiochasium|R|N
+pleiocyclic	adj	pleiocyclic|pleiocyclic|R|Adj
+pleiomerous	adj	pleiomerous|pleiomerous|R|Adj
+pleiomery	noun	pleiomery|pleiomery|R|N
+pleiotaxy	noun	pleiotaxy|pleiotaxy|R|N
+pleiotropic	adj	pleiotropic|pleiotropic|R|Adj
+pleiotropism	noun	pleiotropic|pleiotrop|R|Adj ; -ism|ism|S
+pleiotropy	noun	pleiotropy|pleiotropy|R|N
+plenarily	adv	plenary|plenari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+plenariness	noun	plenary|plenari|R|Adj ; -ness|ness|S
+plenilunar	adj	plenilune|plenilun|R|N ; -ar|ar|S
+plenilune	noun	plenilune|plenilune|R|N
+plenish	verb	plenish|plenish|R|V
+plenism	noun	plenism|plenism|R|N
+plenitudinous	adj	plenitude|plenitudin|R|N ; -ous|ous|S
+plenteousness	noun	plenteous|plenteous|R|Adj ; -ness|ness|S
+plentifulness	noun	plentiful|plentiful|R|Adj ; -ness|ness|S
+pleochroic	adj	pleochroic|pleochroic|R|Adj
+pleochroism	noun	pleochroism|pleochroism|R|N
+pleochromatic	adj	pleochromatic|pleochromatic|R|Adj
+pleochromatism	noun	pleochromatic|pleochromat|R|Adj ; -ism|ism|S
+pleometrotic	adj	pleometrotic|pleometrotic|R|Adj
+pleon	noun	pleon|pleon|R|N
+pleonasm	noun	pleonasm|pleonasm|R|N
+pleonastic	adj	pleonasm|pleonast|R|N ; -ic|ic|S
+pleonastically	adv	pleonastic|pleonastic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+pleophagous	adj	pleophagous|pleophagous|R|Adj
+pleophony	noun	pleophony|pleophony|R|N
+pleophyletic	adj	pleophyletic|pleophyletic|R|Adj
+pleopod	noun	pleopod|pleopod|R|N
+plerocercoid	noun	plerocercoid|plerocercoid|R|N
+pleroma	noun	pleroma|pleroma|R|N
+plerome	noun	plerome|plerome|R|N
+plerotic	adj	pleroma|plerot|R|N ; -ic|ic|S
+plesiobiosis	noun	plesiobiosis|plesiobiosis|R|N
+plesiobiotic	adj	plesiobiosis|plesiobiot|R|N ; -ic|ic|S
+plesiomorphous	adj	plesiomorphous|plesiomorphous|R|Adj
+plesiosaurus	noun	plesiosaurus|plesiosaurus|R|N
+plesiotype	noun	plesiotype|plesiotype|R|N
+plethoric	adj	plethoric|plethoric|R|Adj
+plethorically	adv	plethoric|plethoric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+plethysmogram	noun	plethysmogram|plethysmogram|R|N
+plethysmograph	noun	plethysmograph|plethysmograph|R|N
+pleuric	adj	pleura|pleur|R|N ; -ic|ic|S
+pleurite	noun	pleurite|pleurite|R|N
+pleuritic	adj	pleuritis|pleurit|R|N ; -ic|ic|S
+pleurocarpic	adj	pleurocarpic|pleurocarpic|R|Adj
+pleurocarpous	adj	pleurocarpous|pleurocarpous|R|Adj
+pleurocentesis	noun	pleurocentesis|pleurocentesis|R|N
+pleurodont	noun	pleurodont|pleurodont|R|N
+pleurodynia	noun	pleurodynia|pleurodynia|R|N
+pleurolith	noun	pleurolith|pleurolith|R|N
+pleuston	noun	pleuston|pleuston|R|N
+plexiform	adj	plexiform|plexiform|R|Adj
+pleximeter	noun	pleximeter|pleximeter|R|N
+pleximetric	adj	pleximetry|pleximetr|R|N ; -ic|ic|S
+pliableness	noun	pliable|pliabl|R|Adj ; -ness|eness|S
+pliably	adv	ply|pli|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+pliancy	noun	pliant|plianc|R|Adj ; -y|y|S
+pliantly	adv	pliant|pliant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pliantness	noun	pliant|pliant|R|Adj ; -ness|ness|S
+plica	noun	plica|plica|R|N
+plical	adj	plica|plic|R|N ; -al|al|S
+plicate	adj	plica|plic|R|N ; -ate|ate|S
+plicately	adv	plicate|plicate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+plicateness	noun	plicate|plicate|R|Adj ; -ness|ness|S
+plication	noun	plicate|plicat|R|V ; -ion|ion|S
+plighter	noun	plight|plight|R|V ; -er|er|S||-er (N)
+plighting	noun	plight|plight|R|V ; -ing|ing|S||-ing (N)
+plim	verb	plim|plim|R|V
+plinthite	noun	plinthite|plinthite|R|N
+ploddingly	adv	plodding|plodding|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+ploidy	noun	ploidy|ploidy|R|N
+plonking	noun	plonk|plonk|R|V ; -ing|ing|S||-ing (N)
+plopping	noun	plop|plopp|R|V ; -ing|ing|S||-ing (N)
+plosive	noun	plosive|plosive|R|N
+plotlessness	noun	plot|plot|R|N ; -less|less|S ; -ness|ness|S
+ploughbeam	noun	plough|plough|R|V ; beam|beam|R|N
+ploughtail	noun	plough|plough|R|V ; tail|tail|R|N

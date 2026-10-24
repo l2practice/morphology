@@ -1,0 +1,200 @@
+purloiner	noun	purloin|purloin|R|V ; -er|er|S||-er (N)
+purloining	verb	purloin|purloin|R|V ; -ing|ing|I||-ing (v)
+purparty	noun	purparty|purparty|R|N
+purpleheart	noun	purple|purple|R|Adj ; heart|heart|R|N
+purply	adj	purple|purpl|R|Adj ; -y|y|S
+purposelessly	adv	purpose|purpose|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+purposively	adv	purpose|purpos|R|N ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+purpresture	noun	purpresture|purpresture|R|N
+purpuraceous	adj	purpuraceous|purpuraceous|R|Adj
+purpure	noun	purpure|purpure|R|N
+purpureal	adj	purpure|purpure|R|N ; -al|al|S
+purpuric	adj	purpura|purpur|R|N ; -ic|ic|S
+purpurite	noun	purpurite|purpurite|R|N
+purree	noun	purree|purree|R|N
+pursiness	noun	pursy|pursi|R|Adj ; -ness|ness|S
+pursing	verb	purse|purs|R|V ; -ing|ing|I||-ing (v)
+pursuable	adj	pursue|pursu|R|V ; -able|able|S
+pursuivant	noun	pursuivant|pursuivant|R|N
+pursy	adj	pursy|pursy|R|Adj
+purulence	noun	purulent|purul|R|Adj ; -ence|ence|S
+purulency	noun	purulent|purul|R|Adj ; -ency|ency|S
+purulently	adv	purulent|purulent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+purveyance	noun	purvey|purvey|R|V ; -ance|ance|S
+puschkinia	noun	puschkinia|puschkinia|R|N
+pushful	adj	push|push|R|V ; -ful|ful|S
+pushily	adv	pushy|pushi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pushiness	noun	pushy|pushi|R|Adj ; -ness|ness|S
+pushingly	adv	push|push|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+pushrim	noun	push|push|R|V ; rim|rim|R|N
+pusillanimity	noun	pusillanimous|pusillanim|R|Adj ; -ity|ity|S
+pusillanimously	adv	pusillanimous|pusillanimous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pussyfoot	verb	pussy|pussy|R|N ; foot|foot|R|N
+pussyfooted	adj	pussyfoot|pussyfoot|R|V ; -ed|ed|S||-ed (adj)
+pussyfooter	noun	pussyfoot|pussyfoot|R|V ; -er|er|S||-er (N)
+pussyfooting	verb	pussyfoot|pussyfoot|R|V ; -ing|ing|I||-ing (v)
+pussytoes	noun	pussy|pussy|R|N ; toe|toe|R|N ; -s|s|I||-s (plural)
+pussywhipped	adj	pussy|pussy|R|N ; whip|whipp|R|V ; -ed|ed|S||-ed (adj)
+pustulant	adj	pustule|pustul|R|N ; -ant|ant|S
+pustular	adj	pustule|pustul|R|N ; -ar|ar|S
+pustulate	adj	pustule|pustul|R|N ; -ate|ate|S
+pustulation	noun	pustulate|pustulat|R|V ; -ion|ion|S
+pustulous	adj	pustule|pustul|R|N ; -ous|ous|S
+putamen	noun	putamen|putamen|R|N
+putaminous	adj	putamen|putamin|R|N ; -ous|ous|S
+putlog	noun	putlog|putlog|R|N
+putrefacient	adj	putrefacient|putrefacient|R|Adj
+putrefactive	adj	putrefy|putrefact|R|V ; -ive|ive|S
+putrescence	noun	putrescent|putresc|R|Adj ; -ence|ence|S
+putrescent	adj	putrescent|putrescent|R|Adj
+putridity	noun	putrid|putrid|R|Adj ; -ity|ity|S
+putridly	adv	putrid|putrid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+putridness	noun	putrid|putrid|R|Adj ; -ness|ness|S
+putschist	noun	putsch|putsch|R|N ; -ist|ist|S
+puttee	noun	puttee|puttee|R|N
+putterer	noun	putter|putter|R|V ; -er|er|S||-er (N)
+puttering	verb	putter|putter|R|V ; -ing|ing|I||-ing (v)
+putto	noun	putto|putto|R|N
+putz	noun	putz|putz|R|N
+puukko	noun	puukko|puukko|R|N
+puy	noun	puy|puy|R|N
+puzzledom	noun	puzzle|puzzle|R|V ; -dom|dom|S
+pyaemia	noun	pyaemia|pyaemia|R|N
+pycnial	adj	pycnium|pycni|R|N ; -al|al|S
+pycnid	noun	pycnid|pycnid|R|N
+pycnidial	adj	pycnid|pycnid|R|N ; -ial|ial|S
+pycnidium	noun	pycnidium|pycnidium|R|N
+pycnostyle	noun	pycnostyle|pycnostyle|R|N
+pycnoxylic	adj	pycnoxylic|pycnoxylic|R|Adj
+pyelitis	noun	pyelitis|pyelitis|R|N
+pyelogram	noun	pyelogram|pyelogram|R|N
+pyelographic	adj	pyelography|pyelograph|R|N ; -ic|ic|S
+pyelography	noun	pyelography|pyelography|R|N
+pyemic	adj	pyemia|pyem|R|N ; -ic|ic|S
+pygal	adj	pyga|pyg|R|N ; -al|al|S
+pygidium	noun	pygidium|pygidium|R|N
+pygmean	adj	pygmean|pygmean|R|Adj
+pygmyism	noun	pygmy|pygmy|R|N ; -ism|ism|S
+pygophore	noun	pygophore|pygophore|R|N
+pygostyle	noun	pygostyle|pygostyle|R|N
+pyinkado	noun	pyinkado|pyinkado|R|N
+pyknic	adj	pyknic|pyknic|R|Adj
+pylorectomy	noun	pylorectomy|pylorectomy|R|N
+pyoderma	noun	pyoderma|pyoderma|R|N
+pyodermic	adj	pyoderma|pyoderm|R|N ; -ic|ic|S
+pyogenesis	noun	pyogenesis|pyogenesis|R|N
+pyogenic	adj	pyogenesis|pyogen|R|N ; -ic|ic|S
+pyoid	adj	pyoid|pyoid|R|Adj
+pyometra	noun	pyometra|pyometra|R|N
+pyorrhea	noun	pyorrhea|pyorrhea|R|N
+pyorrhoea	noun	pyorrhoea|pyorrhoea|R|N
+pyosis	noun	pyosis|pyosis|R|N
+pyramidalism	noun	pyramid|pyramid|R|N ; -al|al|S ; -ism|ism|S
+pyramidally	adv	pyramid|pyramid|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+pyramidic	adj	pyramid|pyramid|R|N ; -ic|ic|S
+pyramiding	noun	pyramid|pyramid|R|N ; -ing|ing|S||-ing (N)
+pyramidion	noun	pyramidion|pyramidion|R|N
+pyramidist	noun	pyramid|pyramid|R|N ; -ist|ist|S
+pyran	noun	pyran|pyran|R|N
+pyranometer	noun	pyranometer|pyranometer|R|N
+pyranose	noun	pyranose|pyranose|R|N
+pyrargyrite	noun	pyrargyrite|pyrargyrite|R|N
+pyrazine	noun	pyrazine|pyrazine|R|N
+pyrazole	noun	pyrazole|pyrazole|R|N
+pyrene	noun	pyrene|pyrene|R|N
+pyrenoid	adj	pyrenoid|pyrenoid|R|Adj
+pyrenophore	noun	pyrenophore|pyrenophore|R|N
+pyrethrin	noun	pyrethrin|pyrethrin|R|N
+pyrethrum	noun	pyrethrum|pyrethrum|R|N
+pyretic	adj	pyrexia|pyret|R|N ; -ic|ic|S
+pyrex	noun	pyrex|pyrex|R|N
+pyrexia	noun	pyrexia|pyrexia|R|N
+pyrexic	adj	pyrexia|pyrex|R|N ; -ic|ic|S
+pyrgeometer	noun	pyrgeometer|pyrgeometer|R|N
+pyrheliometer	noun	pyrheliometer|pyrheliometer|R|N
+pyridazine	noun	pyridazine|pyridazine|R|N
+pyridine	noun	pyridine|pyridine|R|N
+pyridoxine	noun	pyridoxine|pyridoxine|R|N
+pyriform	adj	pyriform|pyriform|R|Adj
+pyrimidine	noun	pyrimidine|pyrimidine|R|N
+pyritic	adj	pyrite|pyrit|R|N ; -ic|ic|S
+pyritiferous	adj	pyritiferous|pyritiferous|R|Adj
+pyrochemical	adj	pyrochemical|pyrochemical|R|Adj
+pyrochemically	adv	pyrochemical|pyrochemical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pyrochlore	noun	pyrochlore|pyrochlore|R|N
+pyroconductivity	noun	pyroconductive|pyroconductiv|R|Adj ; -ity|ity|S
+pyroelectric	adj	pyroelectric|pyroelectric|R|Adj
+pyroelectricity	noun	pyroelectric|pyroelectric|R|Adj ; -ity|ity|S
+pyrogen	noun	pyrogen|pyrogen|R|N
+pyrogenetic	adj	pyrogenesis|pyrogenet|R|N ; -ic|ic|S
+pyrogenic	adj	pyrogen|pyrogen|R|N ; -ic|ic|S
+pyrogenicity	noun	pyrogenic|pyrogenic|R|Adj ; -ity|ity|S
+pyrogenous	adj	pyrogen|pyrogen|R|N ; -ous|ous|S
+pyrographer	noun	pyrography|pyrograph|R|N ; -er|er|S||-er (N)
+pyrographic	adj	pyrography|pyrograph|R|N ; -ic|ic|S
+pyrography	noun	pyrography|pyrography|R|N
+pyrogravure	noun	pyrogravure|pyrogravure|R|N
+pyrokinesis	noun	pyrokinesis|pyrokinesis|R|N
+pyrolatry	noun	pyrolatry|pyrolatry|R|N
+pyroleter	noun	pyroleter|pyroleter|R|N
+pyroligneous	adj	pyroligneous|pyroligneous|R|Adj
+pyrology	noun	pyrology|pyrology|R|N
+pyrolusite	noun	pyrolusite|pyrolusite|R|N
+pyrolytic	adj	pyrolysis|pyrolyt|R|N ; -ic|ic|S
+pyrolytically	adv	pyrolysis|pyrolyt|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+pyromagnetism	noun	pyromagnetic|pyromagnet|R|Adj ; -ism|ism|S
+pyromancy	noun	pyromancy|pyromancy|R|N
+pyromania	noun	pyromania|pyromania|R|N
+pyromaniacal	adj	pyromaniac|pyromaniac|R|N ; -al|al|S
+pyrometallurgical	adj	pyrometallurgical|pyrometallurgical|R|Adj
+pyrometer	noun	pyrometer|pyrometer|R|N
+pyrometric	adj	pyrometry|pyrometr|R|N ; -ic|ic|S
+pyrometrical	adj	pyrometry|pyrometr|R|N ; -ical|ical|S
+pyrometrically	adv	pyrometry|pyrometr|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+pyrometry	noun	pyrometry|pyrometry|R|N
+pyrope	noun	pyrope|pyrope|R|N
+pyrophobia	noun	pyrophobia|pyrophobia|R|N
+pyrophoric	adj	pyrophorus|pyrophor|R|N ; -ic|ic|S
+pyrophorus	noun	pyrophorus|pyrophorus|R|N
+pyrophosphoric	adj	pyrophosphoric|pyrophosphoric|R|Adj
+pyroscope	noun	pyroscope|pyroscope|R|N
+pyrosis	noun	pyrosis|pyrosis|R|N
+pyrosphere	noun	pyrosphere|pyrosphere|R|N
+pyrotechnical	adj	pyrotechnic|pyrotechnic|R|Adj ; -al|al|S
+pyrotechnically	adv	pyrotechnic|pyrotechnic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+pyrotechnician	noun	pyrotechnic|pyrotechnic|R|Adj ; -ian|ian|S
+pyrotechnics	noun	pyrotechnics|pyrotechnics|R|N
+pyrotechnist	noun	pyrotechnic|pyrotechn|R|Adj ; -ist|ist|S
+pyrotechny	noun	pyrotechny|pyrotechny|R|N
+pyroxene	noun	pyroxene|pyroxene|R|N
+pyroxenic	adj	pyroxene|pyroxen|R|N ; -ic|ic|S
+pyroxenite	noun	pyroxenite|pyroxenite|R|N
+pyroxylin	noun	pyroxylin|pyroxylin|R|N
+pyrrhotite	noun	pyrrhotite|pyrrhotite|R|N
+pyrrole	noun	pyrrole|pyrrole|R|N
+pysanka	noun	pysanka|pysanka|R|N
+pythiad	noun	pythiad|pythiad|R|N
+pythoness	noun	pythoness|pythoness|R|N
+pythonic	adj	python|python|R|N ; -ic|ic|S
+pythonism	noun	python|python|R|N ; -ism|ism|S
+pyuria	noun	pyuria|pyuria|R|N
+pyx	noun	pyx|pyx|R|N
+pyxidate	adj	pyxis|pyxid|R|N ; -ate|ate|S
+pyxidium	noun	pyxidium|pyxidium|R|N
+pyxis	noun	pyxis|pyxis|R|N
+qadi	noun	qadi|qadi|R|N
+qafiz	noun	qafiz|qafiz|R|N
+qalandar	noun	qalandar|qalandar|R|N
+qanun	noun	qanun|qanun|R|N
+qari	noun	qari|qari|R|N
+qasida	noun	qasida|qasida|R|N
+qibla	noun	qibla|qibla|R|N
+qilin	noun	qilin|qilin|R|N
+qin	noun	qin|qin|R|N
+qipao	noun	qipao|qipao|R|N
+qishlaq	noun	qishlaq|qishlaq|R|N
+qoph	noun	qoph|qoph|R|N
+quacking	verb	quack|quack|R|V ; -ing|ing|I||-ing (v)
+quackish	adj	quack|quack|R|N ; -ish|ish|S
+quadcopter	noun	quad|quad|R|N ; copter|copter|R|N
+quadragenarian	noun	quadragenary|quadragenari|R|Adj ; -an|an|S

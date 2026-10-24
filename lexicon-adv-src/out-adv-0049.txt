@@ -1,0 +1,150 @@
+overpass	noun	=
+abhorrent	adj	=
+abbreviate	verb	=
+panoply	noun	=
+turgid	adj	=
+portent	noun	=
+humorist	noun	=
+instigator	noun	=
+insipid	adj	in-|in|P||||Latin in- 'not' ; -sapid-|sipid|B|Adj|||Latin sapidus 'savory'
+recidivism	noun	=
+fracas	noun	=
+erudite	adj	e-|e|P||||Latin ex- 'out of' ; -rud-|rud|B|Adj|||Latin rudis 'unskilled' ; -ite|ite|S||||Latin -itus 'past participle'
+coda	noun	=
+parsnip	noun	=
+turnstile	noun	=
+bodybuilder	noun	=
+digression	noun	=
+connive	verb	=
+subjection	noun	=
+colander	noun	=
+sans	prep	=
+insuperable	adj	=
+grail	noun	=
+girder	noun	=
+chronologically	adv	chrono-|chrono|B|N|||Greek khronos 'time' ; -log-|log|B|N|||Greek logos 'word, study' ; -ic|ic|S||||Latin -icus 'pertaining to' ; -al|al|S||||Latin -alis 'pertaining to' ; -ly|ly|I
+viper	noun	=
+boxwood	noun	=
+genitalia	noun	=
+symbiosis	noun	sym-|sym|P||||Greek syn- 'together' ; -biosis|biosis|B|N|||Greek biosis 'living'
+chard	noun	=
+nonchalant	adj	=
+gladiator	noun	=
+hemoglobin	noun	hemo-|hemo|B|N|||Greek haima 'blood' ; -glob-|glob|B|N|||Latin globus 'ball, sphere' ; -in|in|S||||Latin -ina 'substance'
+eczema	noun	=
+intro	noun	=
+sanctum	noun	=
+stylus	noun	=
+annul	verb	an-|an|P||||Latin ad- 'to' ; -nul|nul|B|Adj|||Latin nullus 'none'
+contrition	noun	=
+telecommuting	noun	tele-|tele|B|Adv|||Greek tele 'far' ; commute|commut|R|V ; -ing|ing|I
+tibia	noun	=
+plenary	adj	plen-|plen|B|Adj|||Latin plenus 'full' ; -ary|ary|S||||Latin -arius 'pertaining to'
+asthmatic	adj	=
+purgatory	noun	=
+circuitous	adj	=
+irrefutable	adj	=
+vivacious	adj	viv-|viv|B|V|||Latin vivere 'to live' ; -acious|acious|S||||Latin -ax 'tending to'
+vacuous	adj	vacu-|vacu|B|Adj|||Latin vacuus 'empty' ; -ous|ous|S||||Latin -osus 'full of'
+magnanimous	adj	magn-|magn|B|Adj|||Latin magnus 'great' ; -anim-|anim|B|N|||Latin animus 'soul, mind' ; -ous|ous|S||||Latin -osus 'full of'
+rejuvenation	noun	=
+valour	noun	=
+theocracy	noun	theo-|theo|B|N|||Greek theos 'god' ; -cracy|cracy|B|N|||Greek kratos 'rule'
+transmute	verb	trans-|trans|P||||Latin trans 'across' ; -mute|mute|B|V|||Latin mutare 'to change'
+propitious	adj	=
+baccalaureate	noun	=
+cityscape	noun	=
+hilarity	noun	hilar-|hilar|B|Adj|||Latin hilaris 'cheerful' ; -ity|ity|S||||Latin -itas 'state, quality'
+follicle	noun	=
+avuncular	adj	avuncul-|avuncul|B|N|||Latin avunculus 'maternal uncle' ; -ar|ar|S||||Latin -aris 'pertaining to'
+potable	adj	=
+jubilation	noun	=
+licorice	noun	=
+aqueduct	noun	aqua-|aque|B|N|||Latin aqua 'water' ; -duct|duct|B|V|||Latin ducere 'to lead'
+synchronous	adj	syn-|syn|P||||Greek syn- 'with, together' ; -chron-|chron|B|N|||Greek khronos 'time' ; -ous|ous|S||||Greek -os 'pertaining to'
+colloquial	adj	col-|col|P||||Latin com- 'together' ; -loqui-|loqui|B|V|||Latin loqui 'to speak' ; -al|al|S||||Latin -alis 'pertaining to'
+assiduous	adj	as-|as|P||||Latin ad- 'to' ; -sid-|sid|B|V|||Latin sedere 'to sit' ; -uous|uous|S||||Latin -osus 'full of'
+paternalism	noun	=
+progesterone	noun	pro-|pro|P||||Latin pro- 'before' ; -gester-|gester|B|V|||Latin gestare 'to carry' ; -one|one|S
+rivulet	noun	=
+petulant	adj	=
+segue	verb	=
+ellipse	noun	=
+impute	verb	=
+immaturity	noun	=
+dramatist	noun	=
+truncheon	noun	=
+subatomic	adj	=
+musk	noun	=
+valerian	noun	=
+javelin	noun	=
+snooze	verb	=
+metastatic	adj	=
+snowboarder	noun	=
+russet	noun	=
+obsolescence	noun	=
+infernal	adj	=
+hyacinth	noun	=
+chattel	noun	=
+serenade	noun	=
+encrypt	verb	en-|en|P||||Greek en- 'in' ; -crypt|crypt|B|Adj|||Greek kryptos 'hidden'
+rightist	noun	=
+metalwork	noun	=
+demography	noun	demo-|demo|B|N|||Greek demos 'people' ; -graphy|graphy|B|N|||Greek graphe 'writing'
+halcyon	adj	=
+ogre	noun	=
+virility	noun	=
+virginal	adj	=
+neurology	noun	neuro-|neuro|B|N|||Greek neuron 'nerve' ; -logy|logy|B|N|||Greek logos 'study, word'
+prow	noun	=
+sartorial	adj	=
+probity	noun	prob-|prob|B|Adj|||Latin probus 'good, honest' ; -ity|ity|S||||Latin -itas 'state, quality'
+nauseate	verb	=
+opulence	noun	=
+mollify	verb	moll-|moll|B|Adj|||Latin mollis 'soft' ; -ify|ify|S||||Latin -ficare 'to make'
+sequestration	noun	=
+invidious	adj	in-|in|P||||Latin in- 'upon' ; -vid-|vid|B|V|||Latin videre 'to see' ; -ious|ious|S||||Latin -osus 'full of'
+ritualistic	adj	=
+missive	noun	mit-|miss|B|V|||Latin mittere 'to send' ; -ive|ive|S||||Latin -ivus 'tending to'
+somersault	noun	=
+gesticulate	verb	=
+contemptible	adj	=
+tactically	adv	=
+fractal	noun	fract-|fract|B|V|||Latin frangere 'to break' ; -al|al|S||||Latin -alis 'pertaining to'
+academician	noun	=
+guttural	adj	guttur-|guttur|B|N|||Latin guttur 'throat' ; -al|al|S||||Latin -alis 'pertaining to'
+vehicular	adj	=
+despot	noun	=
+chrysanthemum	noun	=
+petit	adj	=
+enhancer	noun	=
+laryngeal	adj	laryng-|laryng|B|N|||Greek larynx 'larynx' ; -eal|eal|S||||Latin -alis 'pertaining to'
+omniscient	adj	omni-|omni|P||||Latin omnis 'all' ; sci-|sci|B|V|||Latin scire 'to know' ; -ent|ent|S||||Latin -ens 'agent'
+triglyceride	noun	=
+aberrant	adj	ab-|ab|P||||Latin ab 'from' ; -err-|err|B|V|||Latin errare 'to wander' ; -ant|ant|S||||Latin -ans 'agent'
+carcinogenic	adj	=
+miscalculate	verb	=
+ostensible	adj	ostens-|ostens|B|V|||Latin ostendere 'to show' ; -ible|ible|S||||Latin -ibilis 'able to'
+lyricist	noun	=
+veneration	noun	=
+belfry	noun	=
+lamppost	noun	=
+kudos	noun	=
+biotic	adj	bio-|bio|B|N|||Greek bios 'life' ; -tic|tic|S||||Greek -ikos 'pertaining to'
+alternation	noun	=
+levitate	verb	=
+shocker	noun	=
+edema	noun	=
+triumphal	adj	=
+quintet	noun	quint-|quint|B|Adj|||Latin quinque 'five' ; -et|et|S||||Italian -etto 'diminutive'
+carrion	noun	=
+fatalism	noun	=
+outlier	noun	=
+inquirer	noun	=
+benediction	noun	=
+venerate	verb	=
+constructivism	noun	=
+labyrinthine	adj	=
+constancy	noun	=
+academe	noun	=
+larceny	noun	=

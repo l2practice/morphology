@@ -1,0 +1,200 @@
+toise	noun	toise|toise|R|N
+tokamak	noun	tokamak|tokamak|R|N
+tokay	noun	tokay|tokay|R|N
+tokiponize	verb	tokiponize|tokiponize|R|V
+toko	noun	toko|toko|R|N
+tokophobia	noun	tokophobia|tokophobia|R|N
+tolar	noun	tolar|tolar|R|N
+tolbooth	noun	toll|tol|R|N ; booth|booth|R|N
+tolerated	verb	tolerate|tolerat|R|V ; -ed|ed|I||-ed (v2)
+tolerating	verb	tolerate|tolerat|R|V ; -ing|ing|I||-ing (v)
+tolite	noun	tolite|tolite|R|N
+tollable	adj	toll|toll|R|N ; -able|able|S
+tollbar	noun	toll|toll|R|N ; bar|bar|R|N
+toller	noun	toll|toll|R|N ; -er|er|S||-er (N)
+tollgate	noun	toll|toll|R|N ; gate|gate|R|N
+tollhouse	noun	toll|toll|R|N ; house|house|R|N
+tollman	noun	toll|toll|R|N ; man|man|R|N
+tomahawked	verb	tomahawk|tomahawk|R|N ; -ed|ed|I||-ed (v2)
+toman	noun	toman|toman|R|N
+tombak	noun	tombak|tombak|R|N
+tombless	adj	tomb|tomb|R|N ; -less|less|S
+tomcod	noun	tom|tom|R|N ; cod|cod|R|N
+tomentose	adj	tomentose|tomentose|R|Adj
+tomentum	noun	tomentum|tomentum|R|N
+tomfool	noun	tom|tom|R|N ; fool|fool|R|N
+tomgirl	noun	tom|tom|R|N ; girl|girl|R|N
+tomnoddy	noun	tom|tom|R|N ; noddy|noddy|R|N
+toneme	noun	toneme|toneme|R|N
+tonguelet	noun	tongue|tongue|R|N ; -let|let|S
+tonguetip	noun	tongue|tongue|R|N ; tip|tip|R|N
+tonguey	adj	tongue|tongue|R|N ; -y|y|S
+tonguing	verb	tongue|tongu|R|N ; -ing|ing|I||-ing (v)
+tonicity	noun	tonic|tonic|R|Adj ; -ity|ity|S
+tonk	noun	tonk|tonk|R|N
+tonkatsu	noun	tonkatsu|tonkatsu|R|N
+tonkotsu	noun	tonkotsu|tonkotsu|R|N
+tonometer	noun	tonometer|tonometer|R|N
+tonsillopharyngitis	noun	tonsillopharyngitis|tonsillopharyngitis|R|N
+tonsorial	adj	tonsorial|tonsorial|R|Adj
+tontine	noun	tontine|tontine|R|N
+tooler	noun	tool|tool|R|N ; -er|er|S||-er (N)
+toolset	noun	tool|tool|R|N ; set|set|R|N
+tooltip	noun	tool|tool|R|N ; tip|tip|R|N
+toothful	adj	tooth|tooth|R|N ; -ful|ful|S
+toothily	adv	toothy|toothi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+toothing	noun	tooth|tooth|R|N ; -ing|ing|S||-ing (N)
+toothlessness	noun	tooth|tooth|R|N ; -less|less|S ; -ness|ness|S
+toothpickweed	noun	tooth|tooth|R|N ; pick|pick|R|V ; weed|weed|R|N
+toothpuller	noun	tooth|tooth|R|N ; pull|pull|R|V ; -er|er|S||-er (N)
+toothwort	noun	tooth|tooth|R|N ; wort|wort|R|N
+tooting	verb	toot|toot|R|V ; -ing|ing|I||-ing (v)
+tootling	verb	tootle|tootl|R|V ; -ing|ing|I||-ing (v)
+toots	verb	toot|toot|R|V ; -s|s|I||-s (3sg)
+toparch	noun	toparch|toparch|R|N
+tope	noun	tope|tope|R|N
+topee	noun	topee|topee|R|N
+topfull	adj	top|top|R|N ; full|full|R|Adj
+topgallant	noun	top|top|R|N ; gallant|gallant|R|Adj
+tophaceous	adj	tophaceous|tophaceous|R|Adj
+tophus	noun	tophus|tophus|R|N
+topi	noun	topi|topi|R|N
+topicalization	noun	topicalize|topicaliz|R|V ; -ation|ation|S
+toploftiness	noun	toplofty|toplofti|R|Adj ; -ness|ness|S
+toplofty	adj	top|top|R|N ; lofty|lofty|R|Adj
+topmast	noun	top|top|R|N ; mast|mast|R|N
+topographist	noun	topography|topograph|R|N ; -ist|ist|S
+topographize	verb	topography|topograph|R|N ; -ize|ize|S
+topolect	noun	topolect|topolect|R|N
+topologically	adv	topology|topolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+topologist	noun	topology|topolog|R|N ; -ist|ist|S
+topologized	verb	topology|topolog|R|N ; -ize|ize|S ; -ed|d|I||-ed (v2)
+topometry	noun	topometry|topometry|R|N
+toponomastics	noun	toponomastics|toponomastics|R|N
+toponymic	adj	toponymy|toponym|R|N ; -ic|ic|S
+toponymical	adj	toponymy|toponym|R|N ; -ical|ical|S
+toponymy	noun	toponymy|toponymy|R|N
+topped	verb	top|topp|R|N ; -ed|ed|I||-ed (v2)
+toppingly	adv	topping|topping|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+tops	noun	top|top|R|N ; -s|s|I||-s (plural)
+topsyturvydom	noun	topsyturvy|topsyturvy|R|Adj ; -dom|dom|S
+toreutic	adj	toreutic|toreutic|R|Adj
+toreutics	noun	toreutics|toreutics|R|N
+tori	noun	torus|tori|R|N ; -s||I||-s (plural)
+toric	adj	torus|tor|R|N ; -ic|ic|S
+torii	noun	torii|torii|R|N
+tormentil	noun	tormentil|tormentil|R|N
+tormentress	noun	tormentress|tormentress|R|N
+tormina	noun	tormina|tormina|R|N
+toroid	noun	toroid|toroid|R|N
+torpedoing	verb	torpedo|torpedo|R|N ; -ing|ing|I||-ing (v)
+torpidity	noun	torpid|torpid|R|Adj ; -ity|ity|S
+torpidly	adv	torpid|torpid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+torpidness	noun	torpid|torpid|R|Adj ; -ness|ness|S
+torpids	noun	torpid|torpid|R|Adj ; -s|s|I||-s (plural)
+torpify	verb	torpify|torpify|R|V
+torporific	adj	torpor|torpor|R|N ; -ific|ific|S
+torquated	adj	torquate|torquate|R|Adj ; -ed|d|S||-ed (adj)
+torr	noun	torr|torr|R|N
+torrefaction	noun	torrefy|torrefact|R|V ; -ion|ion|S
+torrefy	verb	torrefy|torrefy|R|V
+torrentially	adv	torrent|torrent|R|N ; -ial|ial|S ; -ly|ly|I|Adv|-ly (adv)
+torridity	noun	torrid|torrid|R|Adj ; -ity|ity|S
+torridness	noun	torrid|torrid|R|Adj ; -ness|ness|S
+torse	noun	torse|torse|R|N
+torsel	noun	torsel|torsel|R|N
+torsive	adj	torsive|torsive|R|Adj
+tortfeasor	noun	tortfeasor|tortfeasor|R|N
+torticollis	noun	torticollis|torticollis|R|N
+tortile	adj	tortile|tortile|R|Adj
+tortricid	noun	tortricid|tortricid|R|N
+tortuosity	noun	tortuous|tortu|R|Adj ; -ity|osity|S
+tortuousness	noun	tortuous|tortuous|R|Adj ; -ness|ness|S
+tosa	noun	tosa|tosa|R|N
+tosspot	noun	toss|toss|R|V ; pot|pot|R|N
+tossy	adj	toss|toss|R|V ; -y|y|S
+totalisator	noun	totalise|totalis|R|V ; -ator|ator|S
+totalizator	noun	totalize|totaliz|R|V ; -ator|ator|S
+totalizer	noun	totalize|totaliz|R|V ; -er|er|S||-er (N)
+totalled	verb	total|totall|R|V ; -ed|ed|I||-ed (v2)
+totemism	noun	totem|totem|R|N ; -ism|ism|S
+totemist	noun	totem|totem|R|N ; -ist|ist|S
+totemistic	adj	totemist|totemist|R|N ; -ic|ic|S
+totes	noun	tote|tote|R|N ; -s|s|I||-s (plural)
+totipotent	adj	totipotent|totipotent|R|Adj
+totoaba	noun	totoaba|totoaba|R|N
+tottery	adj	totter|totter|R|V ; -y|y|S
+totting	verb	tot|tott|R|V ; -ing|ing|I||-ing (v)
+touchableness	noun	touch|touch|R|V ; -able|able|S ; -ness|ness|S
+toucher	noun	touch|touch|R|V ; -er|er|S||-er (N)
+touchily	adv	touchy|touchi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+touchiness	noun	touchy|touchi|R|Adj ; -ness|ness|S
+touchpoint	noun	touch|touch|R|V ; point|point|R|N
+touchwood	noun	touch|touch|R|V ; wood|wood|R|N
+toughening	verb	toughen|toughen|R|V ; -ing|ing|I||-ing (v)
+toughish	adj	tough|tough|R|Adj ; -ish|ish|S
+touloulou	noun	touloulou|touloulou|R|N
+tourbillon	noun	tourbillon|tourbillon|R|N
+touristically	adv	tourist|tourist|R|N ; -ic|ic|S ; -ly|ally|I|Adv|-ly (adv)
+touristification	noun	touristify|touristifi|R|V ; -ation|cation|S
+touristify	verb	tourist|tourist|R|N ; -ify|ify|S
+tourneyer	noun	tourney|tourney|R|N ; -er|er|S||-er (N)
+tournure	noun	tournure|tournure|R|N
+tousling	verb	tousle|tousl|R|V ; -ing|ing|I||-ing (v)
+tousy	adj	touse|tous|R|V ; -y|y|S
+touter	noun	tout|tout|R|V ; -er|er|S||-er (N)
+touting	verb	tout|tout|R|V ; -ing|ing|I||-ing (v)
+tovarish	noun	tovarish|tovarish|R|N
+towage	noun	tow|tow|R|V ; -age|age|S
+towardness	noun	toward|toward|R|Adv ; -ness|ness|S
+towelled	verb	towel|towell|R|N ; -ed|ed|I||-ed (v2)
+towered	adj	tower|tower|R|N ; -ed|ed|S||-ed (adj)
+towery	adj	tower|tower|R|N ; -y|y|S
+towheaded	adj	tow|tow|R|N ; head|head|R|N ; -ed|ed|S||-ed (adj)
+towhee	noun	towhee|towhee|R|N
+towkay	noun	towkay|towkay|R|N
+townlet	noun	town|town|R|N ; -let|let|S
+townsperson	noun	town|towns|R|N ; person|person|R|N
+townswoman	noun	town|towns|R|N ; woman|woman|R|N
+towrope	noun	tow|tow|R|V ; rope|rope|R|N
+towy	adj	tow|tow|R|V ; -y|y|S
+toxication	noun	toxic|toxic|R|Adj ; -ation|ation|S
+toxicomania	noun	toxicomania|toxicomania|R|N
+toxicosis	noun	toxicosis|toxicosis|R|N
+toxiferous	adj	toxiferous|toxiferous|R|Adj
+toxocariasis	noun	toxocariasis|toxocariasis|R|N
+toxophilite	noun	toxophilite|toxophilite|R|N
+toxophilitic	adj	toxophilite|toxophilit|R|N ; -ic|ic|S
+toxophily	noun	toxophily|toxophily|R|N
+toyer	noun	toy|toy|R|N ; -er|er|S||-er (N)
+toying	verb	toy|toy|R|N ; -ing|ing|I||-ing (v)
+toyish	adj	toy|toy|R|N ; -ish|ish|S
+toyman	noun	toy|toy|R|N ; man|man|R|N
+trabeate	adj	trabeate|trabeate|R|Adj
+trabeated	adj	trabeate|trabeate|R|Adj ; -ed|d|S||-ed (adj)
+trabeation	noun	trabeate|trabeat|R|Adj ; -ion|ion|S
+traceability	noun	trace|trace|R|V ; -able|abil|S ; -ity|ity|S
+traceless	adj	trace|trace|R|V ; -less|less|S
+traces	noun	trace|trace|R|N ; -s|s|I||-s (plural)
+tracheary	adj	trachea|trache|R|N ; -ary|ary|S
+tracheate	adj	trachea|trache|R|N ; -ate|ate|S
+tracheid	noun	tracheid|tracheid|R|N
+tracheidal	adj	tracheid|tracheid|R|N ; -al|al|S
+tracheitis	noun	tracheitis|tracheitis|R|N
+tracheobronchial	adj	tracheobronchial|tracheobronchial|R|Adj
+tracheolar	adj	tracheole|tracheol|R|N ; -ar|ar|S
+tracheophyte	noun	tracheophyte|tracheophyte|R|N
+trachomatous	adj	trachoma|trachomat|R|N ; -ous|ous|S
+trachyte	noun	trachyte|trachyte|R|N
+trachytic	adj	trachyte|trachyt|R|N ; -ic|ic|S
+trackage	noun	track|track|R|V ; -age|age|S
+trackbed	noun	track|track|R|V ; bed|bed|R|N
+tracklayer	noun	track|track|R|V ; lay|lay|R|V ; -er|er|S||-er (N)
+tracklaying	noun	track|track|R|V ; lay|lay|R|V ; -ing|ing|S||-ing (N)
+trackman	noun	track|track|R|V ; man|man|R|N
+trackpad	noun	track|track|R|V ; pad|pad|R|N
+trackpoint	noun	track|track|R|V ; point|point|R|N
+tractability	noun	tract|tract|R|V ; -able|abil|S ; -ity|ity|S
+tractile	adj	tractile|tractile|R|Adj
+tractional	adj	traction|traction|R|N ; -al|al|S
+tractive	adj	tract|tract|R|V ; -ive|ive|S

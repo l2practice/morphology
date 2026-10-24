@@ -1,0 +1,200 @@
+feculent	adj	feculent|feculent|R|Adj
+fecundate	verb	fecund|fecund|R|Adj ; -ate|ate|S
+fecundation	noun	fecundate|fecundat|R|V ; -ion|ion|S
+federated	adj	federate|federat|R|V ; -ed|ed|S||-ed (adj)
+federationist	noun	federation|federation|R|N ; -ist|ist|S
+feeblish	adj	feeble|feebl|R|Adj ; -ish|ish|S
+feedbag	noun	feed|feed|R|V ; bag|bag|R|N
+feedforward	noun	feed|feed|R|V ; forward|forward|R|Adv
+feedhorn	noun	feed|feed|R|V ; horn|horn|R|N
+feetless	adj	feet|feet|R|N ; -less|less|S
+feijoa	noun	feijoa|feijoa|R|N
+feints	noun	feint|feint|R|N ; -s|s|I||-s (plural)
+feist	noun	feist|feist|R|N
+feldspathic	adj	feldspathic|feldspathic|R|Adj
+feldspathoid	noun	feldspathoid|feldspathoid|R|N
+felicific	adj	felicific|felicific|R|Adj
+felicitate	verb	felicitate|felicitate|R|V
+felicitation	noun	felicitate|felicitat|R|V ; -ion|ion|S
+felid	noun	felid|felid|R|N
+felinity	noun	feline|felin|R|Adj ; -ity|ity|S
+fellator	noun	fellate|fellat|R|V ; -or|or|S
+fellatrix	noun	fellatrix|fellatrix|R|N
+fellmonger	noun	fell|fell|R|N ; monger|monger|R|N
+fellness	noun	fell|fell|R|Adj ; -ness|ness|S
+felloe	noun	felloe|felloe|R|N
+felly	noun	felly|felly|R|N
+felonry	noun	felon|felon|R|N ; -ry|ry|S
+felsite	noun	felsite|felsite|R|N
+felsitic	adj	felsite|felsit|R|N ; -ic|ic|S
+felting	noun	felt|felt|R|N ; -ing|ing|S||-ing (N)
+felty	adj	felt|felt|R|N ; -y|y|S
+felucca	noun	felucca|felucca|R|N
+felwort	noun	felwort|felwort|R|N
+fembot	noun	fem|fem|R|N ; bot|bot|R|N
+femboy	noun	fem|fem|R|N ; boy|boy|R|N
+femdom	noun	fem|fem|R|N ; dom|dom|R|N
+feme	noun	feme|feme|R|N
+femicide	noun	femicide|femicide|R|N
+feminality	noun	feminality|feminality|R|N
+feminationalism	noun	feminationalism|feminationalism|R|N
+feminazism	noun	feminazi|feminaz|R|N ; -ism|ism|S
+femineity	noun	femineity|femineity|R|N
+femininely	adv	feminine|feminine|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+feminineness	noun	feminine|feminine|R|Adj ; -ness|ness|S
+feministic	adj	feminist|feminist|R|N ; -ic|ic|S
+feminizing	noun	feminine|femin|R|Adj ; -ize|iz|S ; -ing|ing|S||-ing (N)
+feminology	noun	feminology|feminology|R|N
+femonationalism	noun	femonationalism|femonationalism|R|N
+femtometre	noun	femtometre|femtometre|R|N
+fenceless	adj	fence|fence|R|N ; -less|less|S
+fencepost	noun	fence|fence|R|N ; post|post|R|N
+fencible	adj	fence|fenc|R|N ; -ible|ible|S
+fenderless	adj	fender|fender|R|N ; -less|less|S
+fenestella	noun	fenestella|fenestella|R|N
+fenestra	noun	fenestra|fenestra|R|N
+fenestrate	verb	fenestrate|fenestrate|R|V
+fenestrated	adj	fenestrate|fenestrat|R|V ; -ed|ed|S||-ed (adj)
+fenghuang	noun	fenghuang|fenghuang|R|N
+fenks	noun	fenks|fenks|R|N
+fennec	noun	fennec|fennec|R|N
+fennish	adj	fen|fenn|R|N ; -ish|ish|S
+feodary	noun	feodary|feodary|R|N
+feoff	verb	feoff|feoff|R|V
+feoffee	noun	feoff|feoff|R|V ; -ee|ee|S
+feoffer	noun	feoff|feoff|R|V ; -er|er|S||-er (N)
+feoffment	noun	feoff|feoff|R|V ; -ment|ment|S
+feracious	adj	feracious|feracious|R|Adj
+feretory	noun	feretory|feretory|R|N
+feria	noun	feria|feria|R|N
+ferial	adj	feria|feri|R|N ; -al|al|S
+ferity	noun	ferity|ferity|R|N
+fermentability	noun	ferment|ferment|R|V ; -able|abil|S ; -ity|ity|S
+fermentable	adj	ferment|ferment|R|V ; -able|able|S
+fermentative	adj	ferment|ferment|R|V ; -ative|ative|S
+fermentive	adj	ferment|ferment|R|V ; -ive|ive|S
+fermentology	noun	fermentology|fermentology|R|N
+fermi	noun	fermi|fermi|R|N
+fermionic	adj	fermion|fermion|R|N ; -ic|ic|S
+fermium	noun	fermium|fermium|R|N
+fernery	noun	fern|fern|R|N ; -ery|ery|S
+fernless	adj	fern|fern|R|N ; -less|less|S
+fernshaw	noun	fern|fern|R|N ; shaw|shaw|R|N
+ferociousness	noun	ferocious|ferocious|R|Adj ; -ness|ness|S
+ferraiolo	noun	ferraiolo|ferraiolo|R|N
+ferrate	noun	ferrate|ferrate|R|N
+ferreting	noun	ferret|ferret|R|V ; -ing|ing|S||-ing (N)
+ferrety	adj	ferret|ferret|R|N ; -y|y|S
+ferriage	noun	ferry|ferri|R|N ; -age|age|S
+ferricyanide	noun	ferricyanide|ferricyanide|R|N
+ferriferous	adj	ferriferous|ferriferous|R|Adj
+ferrimagnet	noun	ferrimagnet|ferrimagnet|R|N
+ferrimagnetic	adj	ferrimagnet|ferrimagnet|R|N ; -ic|ic|S
+ferrimagnetism	noun	ferrimagnet|ferrimagnet|R|N ; -ism|ism|S
+ferrite	noun	ferrite|ferrite|R|N
+ferritic	adj	ferrite|ferrit|R|N ; -ic|ic|S
+ferrocerium	noun	ferrocerium|ferrocerium|R|N
+ferrochrome	noun	ferrochrome|ferrochrome|R|N
+ferrochromium	noun	ferrochromium|ferrochromium|R|N
+ferroconcrete	noun	ferroconcrete|ferroconcrete|R|N
+ferrocyanide	noun	ferrocyanide|ferrocyanide|R|N
+ferroelectric	adj	ferroelectric|ferroelectric|R|Adj
+ferroelectricity	noun	ferroelectric|ferroelectric|R|Adj ; -ity|ity|S
+ferroglass	noun	ferroglass|ferroglass|R|N
+ferromagnetism	noun	ferromagnetic|ferromagnet|R|Adj ; -ism|ism|S
+ferromanganese	noun	ferromanganese|ferromanganese|R|N
+ferromolybdenum	noun	ferromolybdenum|ferromolybdenum|R|N
+ferrotungsten	noun	ferrotungsten|ferrotungsten|R|N
+ferrotype	noun	ferrotype|ferrotype|R|N
+ferrovanadium	noun	ferrovanadium|ferrovanadium|R|N
+ferruginous	adj	ferruginous|ferruginous|R|Adj
+ferruled	adj	ferrule|ferrul|R|N ; -ed|ed|S||-ed (adj)
+ferrying	noun	ferry|ferry|R|V ; -ing|ing|S||-ing (N)
+fertilizable	adj	fertilize|fertiliz|R|V ; -able|able|S
+fertilizin	noun	fertilizin|fertilizin|R|N
+ferule	noun	ferule|ferule|R|N
+fervency	noun	fervency|fervency|R|N
+fervidly	adv	fervid|fervid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+fervidness	noun	fervid|fervid|R|Adj ; -ness|ness|S
+fescennine	adj	fescennine|fescennine|R|Adj
+festal	adj	festal|festal|R|Adj
+festinate	verb	festinate|festinate|R|V
+festination	noun	festinate|festinat|R|V ; -ion|ion|S
+festivalgoer	noun	festival|festival|R|N ; go|go|R|V ; -er|er|S||-er (N)
+festooned	adj	festoon|festoon|R|V ; -ed|ed|S||-ed (adj)
+festoonery	noun	festoon|festoon|R|N ; -ery|ery|S
+festooning	noun	festoon|festoon|R|V ; -ing|ing|S||-ing (N)
+fetcher	noun	fetch|fetch|R|V ; -er|er|S||-er (N)
+fetial	adj	fetial|fetial|R|Adj
+fetialis	noun	fetialis|fetialis|R|N
+feticide	noun	feticide|feticide|R|N
+fetidness	noun	fetid|fetid|R|Adj ; -ness|ness|S
+fetor	noun	fetor|fetor|R|N
+fettering	noun	fetter|fetter|R|V ; -ing|ing|S||-ing (N)
+fetterless	adj	fetter|fetter|R|N ; -less|less|S
+fetterlock	noun	fetter|fetter|R|N ; lock|lock|R|N
+fettling	noun	fettle|fettl|R|N ; -ing|ing|S||-ing (N)
+feuar	noun	feuar|feuar|R|N
+feudalist	noun	feudal|feudal|R|Adj ; -ist|ist|S
+feudalistic	adj	feudal|feudal|R|Adj ; -ist|ist|S ; -ic|ic|S
+feudality	noun	feudal|feudal|R|Adj ; -ity|ity|S
+feudalization	noun	feudalize|feudaliz|R|V ; -ation|ation|S
+feudalize	verb	feudal|feudal|R|Adj ; -ize|ize|S
+feudally	adv	feudal|feudal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+feudary	noun	feud|feud|R|N ; -ary|ary|S
+feudatory	noun	feudatory|feudatory|R|N
+feudist	noun	feud|feud|R|N ; -ist|ist|S
+feuilleton	noun	feuilleton|feuilleton|R|N
+feuilletonist	noun	feuilleton|feuilleton|R|N ; -ist|ist|S
+feuilletonistic	adj	feuilletonist|feuilletonist|R|N ; -ic|ic|S
+feverishness	noun	feverish|feverish|R|Adj ; -ness|ness|S
+feverless	adj	fever|fever|R|N ; -less|less|S
+feverous	adj	fever|fever|R|N ; -ous|ous|S
+fewness	noun	few|few|R|Adj ; -ness|ness|S
+feyness	noun	fey|fey|R|Adj ; -ness|ness|S
+fiacre	noun	fiacre|fiacre|R|N
+fianchetto	noun	fianchetto|fianchetto|R|N
+fiar	noun	fiar|fiar|R|N
+fibber	noun	fib|fibb|R|V ; -er|er|S||-er (N)
+fibbing	noun	fib|fibb|R|V ; -ing|ing|S||-ing (N)
+fibering	noun	fiber|fiber|R|N ; -ing|ing|S||-ing (N)
+fiberless	adj	fiber|fiber|R|N ; -less|less|S
+fibration	noun	fiber|fibr|R|N ; -ation|ation|S
+fibred	adj	fiber|fibr|R|N ; -ed|ed|S||-ed (adj)
+fibreless	adj	fibre|fibre|R|N ; -less|less|S
+fibriform	adj	fibriform|fibriform|R|Adj
+fibrillar	adj	fibril|fibrill|R|N ; -ar|ar|S
+fibrillary	adj	fibril|fibrill|R|N ; -ary|ary|S
+fibrillate	verb	fibril|fibrill|R|N ; -ate|ate|S
+fibrillated	adj	fibril|fibrill|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+fibrilliform	adj	fibrilliform|fibrilliform|R|Adj
+fibrillose	adj	fibrillose|fibrillose|R|Adj
+fibrinogenic	adj	fibrinogen|fibrinogen|R|N ; -ic|ic|S
+fibrinogenous	adj	fibrinogen|fibrinogen|R|N ; -ous|ous|S
+fibrinolysis	noun	fibrinolysis|fibrinolysis|R|N
+fibrinous	adj	fibrin|fibrin|R|N ; -ous|ous|S
+fibrocartilage	noun	fibrocartilage|fibrocartilage|R|N
+fibrocartilaginous	adj	fibrocartilaginous|fibrocartilaginous|R|Adj
+fibrocyte	noun	fibrocyte|fibrocyte|R|N
+fibrocytic	adj	fibrocyte|fibrocyt|R|N ; -ic|ic|S
+fibroin	noun	fibroin|fibroin|R|N
+fibroma	noun	fibroma|fibroma|R|N
+fibromatous	adj	fibroma|fibromat|R|N ; -ous|ous|S
+fibrositis	noun	fibrositis|fibrositis|R|N
+fibrousness	noun	fibrous|fibrous|R|Adj ; -ness|ness|S
+fibrovascular	adj	fibrovascular|fibrovascular|R|Adj
+fibster	noun	fib|fib|R|V ; -ster|ster|S
+ficelle	noun	ficelle|ficelle|R|N
+fiche	noun	fiche|fiche|R|N
+fichu	noun	fichu|fichu|R|N
+fictile	adj	fictile|fictile|R|Adj
+fictionality	noun	fictional|fictional|R|Adj ; -ity|ity|S
+fictioneer	noun	fiction|fiction|R|N ; -eer|eer|S
+fictioneering	noun	fictioneer|fictioneer|R|N ; -ing|ing|S||-ing (N)
+fictionist	noun	fiction|fiction|R|N ; -ist|ist|S
+fictionize	verb	fiction|fiction|R|N ; -ize|ize|S
+fictitiousness	noun	fictitious|fictitious|R|Adj ; -ness|ness|S
+ficus	noun	ficus|ficus|R|N
+fid	noun	fid|fid|R|N
+fiddlestick	noun	fiddle|fiddle|R|N ; stick|stick|R|N
+fiddlesticks	noun	fiddle|fiddle|R|N ; stick|stick|R|N ; -s|s|I||-s (plural)

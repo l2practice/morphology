@@ -1,0 +1,200 @@
+striature	noun	stria|striat|R|N ; -ure|ure|S
+strickle	noun	strickle|strickle|R|N
+striction	noun	strict|strict|R|Adj ; -ion|ion|S
+strictured	adj	stricture|strictur|R|N ; -ed|ed|S||-ed (adj)
+stridence	noun	strident|strid|R|Adj ; -ence|ence|S
+stridulant	adj	stridulate|stridul|R|V ; -ant|ant|S
+stridulate	verb	stridulate|stridulate|R|V
+stridulation	noun	stridulate|stridul|R|V ; -ation|ation|S
+stridulatory	adj	stridulate|stridul|R|V ; -ory|atory|S
+stridulous	adj	stridulate|stridul|R|V ; -ous|ous|S
+strigil	noun	strigil|strigil|R|N
+strigose	adj	strigose|strigose|R|Adj
+strigous	adj	strigous|strigous|R|Adj
+strikebound	adj	strike|strike|R|V ; bound|bound|R|Adj
+strikethrough	noun	strike|strike|R|V ; through|through|R
+strikingness	noun	strike|strik|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+stringendo	noun	stringendo|stringendo|R|N
+stringentness	noun	stringent|stringent|R|Adj ; -ness|ness|S
+stringhalted	adj	stringhalt|stringhalt|R|N ; -ed|ed|S||-ed (adj)
+stringiness	noun	string|string|R|N ; -y|i|S ; -ness|ness|S
+stringing	verb	string|string|R|V ; -ing|ing|I||-ing (v)
+stringless	adj	string|string|R|N ; -less|less|S
+strings	noun	string|string|R|N ; -s|s|I||-s (plural)
+stripiness	noun	strip|strip|R|N ; -y|i|S ; -ness|ness|S
+stripteaser	noun	strip|strip|R|V ; tease|teas|R|V ; -er|er|S||-er (N)
+strobila	noun	strobila|strobila|R|N
+strobilaceous	adj	strobilaceous|strobilaceous|R|Adj
+strobilation	noun	strobile|strobil|R|N ; -ation|ation|S
+strobile	noun	strobile|strobile|R|N
+strobiliform	adj	strobiliform|strobiliform|R|Adj
+strobilus	noun	strobilus|strobilus|R|N
+stroboscope	noun	stroboscope|stroboscope|R|N
+stroboscopically	adv	stroboscopic|stroboscopic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+stroked	verb	stroke|strok|R|V ; -ed|ed|I||-ed (v2)
+strokingly	adv	stroke|strok|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+stromatic	adj	stroma|stromat|R|N ; -ic|ic|S
+stronger	adj	strong|strong|R|Adj ; -er|er|I||-er (comparative)
+strongish	adj	strong|strong|R|Adj ; -ish|ish|S
+strongyle	noun	strongyle|strongyle|R|N
+strongylosis	noun	strongylosis|strongylosis|R|N
+strontia	noun	strontia|strontia|R|N
+strontianite	noun	strontianite|strontianite|R|N
+stroopwafel	noun	stroopwafel|stroopwafel|R|N
+strophanthin	noun	strophanthin|strophanthin|R|N
+strophic	adj	strophe|stroph|R|N ; -ic|ic|S
+strophiole	noun	strophiole|strophiole|R|N
+strophoid	noun	strophoid|strophoid|R|N
+stropping	verb	strop|stropp|R|V ; -ing|ing|I||-ing (v)
+struct	noun	struct|struct|R|N
+structuralization	noun	structure|structur|R|N ; -al|al|S ; -ize|iz|S ; -ation|ation|S
+structuralize	verb	structure|structur|R|N ; -al|al|S ; -ize|ize|S
+struma	noun	struma|struma|R|N
+strumiferous	adj	strumiferous|strumiferous|R|Adj
+strumiform	adj	strumiform|strumiform|R|Adj
+struthiform	adj	struthiform|struthiform|R|Adj
+struthious	adj	struthious|struthious|R|Adj
+strutter	noun	strut|strutt|R|V ; -er|er|S||-er (N)
+struttingly	adv	strut|strutt|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+strychninism	noun	strychnine|strychnin|R|N ; -ism|ism|S
+stubbing	noun	stub|stubb|R|V ; -ing|ing|S||-ing (N)
+studding	noun	stud|studd|R|V ; -ing|ing|S||-ing (N)
+studdingsail	noun	stud|studd|R|V ; -ing|ing|S||-ing (N) ; sail|sail|R|N
+studiedly	adv	study|studi|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+studiedness	noun	study|studi|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+studies	noun	study|studi|R|N ; -s|es|I||-s (plural)
+studiousness	noun	studious|studious|R|Adj ; -ness|ness|S
+studs	noun	stud|stud|R|N ; -s|s|I||-s (plural)
+stull	noun	stull|stull|R|N
+stultification	noun	stultify|stultifi|R|V ; -ation|cation|S
+stultified	verb	stultify|stultifi|R|V ; -ed|ed|I||-ed (v2)
+stultiloquence	noun	stultiloquence|stultiloquence|R|N
+stultiloquent	adj	stultiloquent|stultiloquent|R|Adj
+stumbler	noun	stumble|stumbl|R|V ; -er|er|S||-er (N)
+stumblingly	adv	stumble|stumbl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+stumer	noun	stumer|stumer|R|N
+stumpiness	noun	stump|stump|R|N ; -y|i|S ; -ness|ness|S
+stumps	noun	stump|stump|R|N ; -s|s|I||-s (plural)
+stunsail	noun	stunsail|stunsail|R|N
+stuntedness	noun	stunt|stunt|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+stunting	noun	stunt|stunt|R|V ; -ing|ing|S||-ing (N)
+stuntperson	noun	stunt|stunt|R|N ; person|person|R|N
+stuntwoman	noun	stunt|stunt|R|N ; woman|woman|R|N
+stupe	verb	stupe|stupe|R|V
+stupefacient	adj	stupefacient|stupefacient|R|Adj
+stupefactive	adj	stupefact|stupefact|R|Adj ; -ive|ive|S
+stupefier	noun	stupefy|stupefi|R|V ; -er|er|S||-er (N)
+stupendousness	noun	stupendous|stupendous|R|Adj ; -ness|ness|S
+stupidness	noun	stupid|stupid|R|Adj ; -ness|ness|S
+stupose	adj	stupose|stupose|R|Adj
+stutteringly	adv	stutter|stutter|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+stye	noun	stye|stye|R|N
+stygian	adj	stygian|stygian|R|Adj
+stylar	adj	style|styl|R|N ; -ar|ar|S
+stylesheet	noun	style|style|R|N ; sheet|sheet|R|N
+stylet	noun	stylet|stylet|R|N
+styliform	adj	styliform|styliform|R|Adj
+stylite	noun	stylite|stylite|R|N
+stylo	noun	stylo|stylo|R|N
+stylobate	noun	stylobate|stylobate|R|N
+stylograph	noun	stylograph|stylograph|R|N
+stylographic	adj	stylographic|stylographic|R|Adj
+stylolite	noun	stylolite|stylolite|R|N
+stylophone	noun	stylophone|stylophone|R|N
+stylopodium	noun	stylopodium|stylopodium|R|N
+styptic	adj	styptic|styptic|R|Adj
+styracaceous	adj	styracaceous|styracaceous|R|Adj
+suability	noun	sue|su|R|V ; -able|abil|S ; -ity|ity|S
+suasively	adv	suasive|suasive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+suasiveness	noun	suasive|suasive|R|Adj ; -ness|ness|S
+suaveness	noun	suave|suave|R|Adj ; -ness|ness|S
+suavity	noun	suave|suav|R|Adj ; -ity|ity|S
+subacid	adj	sub-|sub|P ; acid|acid|R|Adj
+subacidity	noun	sub-|sub|P ; acid|acid|R|Adj ; -ity|ity|S
+subacidly	adv	sub-|sub|P ; acid|acid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+subacute	adj	sub-|sub|P ; acute|acute|R|Adj
+subacutely	adv	sub-|sub|P ; acute|acute|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+subadditive	adj	sub-|sub|P ; add|add|R|V ; -itive|itive|S
+subadult	noun	sub-|sub|P ; adult|adult|R|N
+subaerial	adj	sub-|sub|P ; aerial|aerial|R|Adj
+subaerially	adv	sub-|sub|P ; aerial|aerial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+subagency	noun	sub-|sub|P ; agency|agency|R|N
+subagent	noun	sub-|sub|P ; agent|agent|R|N
+subaggregate	noun	sub-|sub|P ; aggregate|aggregate|R|N
+subah	noun	subah|subah|R|N
+subalpine	adj	sub-|sub|P ; alpine|alpine|R|Adj
+subalternate	adj	sub-|sub|P ; alternate|alternate|R|Adj
+subalternation	noun	sub-|sub|P ; alternate|alternat|R|V ; -ion|ion|S
+subanal	adj	sub-|sub|P ; anal|anal|R|Adj
+subangular	adj	sub-|sub|P ; angular|angular|R|Adj
+subapical	adj	sub-|sub|P ; apical|apical|R|Adj
+subaquatic	adj	sub-|sub|P ; aquatic|aquatic|R|Adj
+subaqueous	adj	sub-|sub|P ; aqueous|aqueous|R|Adj
+subarid	adj	sub-|sub|P ; arid|arid|R|Adj
+subashi	noun	subashi|subashi|R|N
+subastral	adj	sub-|sub|P ; astral|astral|R|Adj
+subatom	noun	sub-|sub|P ; atom|atom|R|N
+subaudible	adj	sub-|sub|P ; audible|audible|R|Adj
+subaudition	noun	sub-|sub|P ; audition|audition|R|N
+subaural	adj	sub-|sub|P ; aural|aural|R|Adj
+subaverage	adj	sub-|sub|P ; average|average|R|Adj
+subaxial	adj	sub-|sub|P ; axial|axial|R|Adj
+subaxillary	adj	sub-|sub|P ; axillary|axillary|R|Adj
+subbase	noun	sub-|sub|P ; base|base|R|N
+subbasis	noun	sub-|sub|P ; basis|basis|R|N
+subbing	noun	sub|subb|R|V ; -ing|ing|S||-ing (N)
+subbranch	noun	sub-|sub|P ; branch|branch|R|N
+subbreed	noun	sub-|sub|P ; breed|breed|R|N
+subbronchial	adj	sub-|sub|P ; bronchial|bronchial|R|Adj
+subcaudal	adj	sub-|sub|P ; caudal|caudal|R|Adj
+subcelestial	adj	sub-|sub|P ; celestial|celestial|R|Adj
+subcellular	adj	sub-|sub|P ; cellular|cellular|R|Adj
+subcentral	adj	sub-|sub|P ; central|central|R|Adj
+subcerebral	adj	sub-|sub|P ; cerebral|cerebral|R|Adj
+subcharter	noun	sub-|sub|P ; charter|charter|R|N
+subclavicular	adj	sub-|sub|P ; clavicular|clavicular|R|Adj
+subclimax	noun	sub-|sub|P ; climax|climax|R|N
+subcommission	noun	sub-|sub|P ; commission|commission|R|N
+subcommissioner	noun	sub-|sub|P ; commission|commission|R|N ; -er|er|S||-er (N)
+subconcave	adj	sub-|sub|P ; concave|concave|R|Adj
+subconical	adj	sub-|sub|P ; conical|conical|R|Adj
+subconsciousness	noun	sub-|sub|P ; con-|con|P ; sci-|sci|B|V ; -ous|ous|S ; -ness|ness|S
+subcontinuous	adj	sub-|sub|P ; continuous|continuous|R|Adj
+subcontrariety	noun	sub-|sub|P ; contrary|contrari|R|Adj ; -ity|ety|S
+subcontrary	noun	sub-|sub|P ; contrary|contrary|R|Adj
+subconvex	adj	sub-|sub|P ; convex|convex|R|Adj
+subcooled	adj	sub-|sub|P ; cool|cool|R|V ; -ed|ed|S||-ed (adj)
+subcorneous	adj	sub-|sub|P ; corneous|corneous|R|Adj
+subcortex	noun	sub-|sub|P ; cortex|cortex|R|N
+subcosta	noun	sub-|sub|P ; costa|costa|R|N
+subcostal	adj	sub-|sub|P ; costal|costal|R|Adj
+subcranial	adj	sub-|sub|P ; cranial|cranial|R|Adj
+subcrust	noun	sub-|sub|P ; crust|crust|R|N
+subcrustal	adj	sub-|sub|P ; crustal|crustal|R|Adj
+subcutaneously	adv	sub-|sub|P ; cutaneous|cutaneous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+subcylindrical	adj	sub-|sub|P ; cylindrical|cylindrical|R|Adj
+subdeacon	noun	sub-|sub|P ; deacon|deacon|R|N
+subdeaconship	noun	sub-|sub|P ; deacon|deacon|R|N ; -ship|ship|S
+subdean	noun	sub-|sub|P ; dean|dean|R|N
+subdebutante	noun	sub-|sub|P ; debutante|debutante|R|N
+subdelegate	verb	sub-|sub|P ; delegate|delegate|R|V
+subdelirium	noun	sub-|sub|P ; delirium|delirium|R|N
+subdermal	adj	sub-|sub|P ; dermal|dermal|R|Adj
+subdeterminant	noun	sub-|sub|P ; determinant|determinant|R|N
+subdiaconate	noun	sub-|sub|P ; diaconate|diaconate|R|N
+subdialect	noun	sub-|sub|P ; dialect|dialect|R|N
+subdirector	noun	sub-|sub|P ; direct|direct|R|V ; -or|or|S
+subdirectory	noun	sub-|sub|P ; directory|directory|R|N
+subdiscipline	noun	sub-|sub|P ; discipline|discipline|R|N
+subdividable	adj	sub-|sub|P ; divide|divid|R|V ; -able|able|S
+subdividing	verb	sub-|sub|P ; divide|divid|R|V ; -ing|ing|I||-ing (v)
+subdomain	noun	sub-|sub|P ; domain|domain|R|N
+subdominant	noun	sub-|sub|P ; dominant|dominant|R|Adj
+subdorsal	adj	sub-|sub|P ; dorsal|dorsal|R|Adj
+subdrain	noun	sub-|sub|P ; drain|drain|R|N
+subdrainage	noun	sub-|sub|P ; drain|drain|R|V ; -age|age|S
+subduable	adj	subdue|subdu|R|V ; -able|able|S
+subdual	noun	subdue|subdu|R|V ; -al|al|S
+subduct	verb	sub-|sub|P ; -duct|duct|B|V
+subduedly	adv	subdue|subdu|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+subduedness	noun	subdue|subdu|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S

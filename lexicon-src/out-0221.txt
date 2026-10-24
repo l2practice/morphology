@@ -1,0 +1,200 @@
+alternant	noun	alternate|altern|R|V ; -ant|ant|S
+alternanthera	noun	alternanthera|alternanthera|R|N
+alternateness	noun	alternate|alternate|R|Adj ; -ness|ness|S
+alternatingly	adv	alternate|alternat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+alternativity	noun	alternate|alternat|R|V ; -ive|iv|S ; -ity|ity|S
+alternipetalous	adj	alternipetalous|alternipetalous|R|Adj
+althaea	noun	althaea|althaea|R|N
+altigraph	noun	altigraph|altigraph|R|N
+altiloquence	noun	altiloquence|altiloquence|R|N
+altimetric	adj	altimetry|altimetr|R|N ; -ic|ic|S
+altimetry	noun	altimetry|altimetry|R|N
+altocumulus	noun	altocumulus|altocumulus|R|N
+altogetherness	noun	altogether|altogether|R|Adv ; -ness|ness|S
+altostratus	noun	altostratus|altostratus|R|N
+altricial	adj	altricial|altricial|R|Adj
+altricially	adv	altricial|altricial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+alubukhara	noun	alubukhara|alubukhara|R|N
+alula	noun	alula|alula|R|N
+aluminate	noun	aluminate|aluminate|R|N
+aluminic	adj	aluminic|aluminic|R|Adj
+aluminiferous	adj	aluminiferous|aluminiferous|R|Adj
+aluminite	noun	aluminite|aluminite|R|N
+aluminothermy	noun	aluminothermy|aluminothermy|R|N
+aluminous	adj	aluminous|aluminous|R|Adj
+alumroot	noun	alum|alum|R|N ; root|root|R|N
+alunite	noun	alunite|alunite|R|N
+alveated	adj	alveate|alveat|R|Adj ; -ed|ed|S||-ed (adj)
+alveolate	adj	alveolate|alveolate|R|Adj
+alveolation	noun	alveolate|alveolat|R|Adj ; -ion|ion|S
+alveolectomy	noun	alveolectomy|alveolectomy|R|N
+alveolitis	noun	alveolitis|alveolitis|R|N
+alveolization	noun	alveolize|alveoliz|R|V ; -ation|ation|S
+amadou	noun	amadou|amadou|R|N
+amah	noun	amah|amah|R|N
+amalgamated	adj	amalgamate|amalgamat|R|V ; -ed|ed|S||-ed (adj)
+amalgamative	adj	amalgamate|amalgamat|R|V ; -ive|ive|S
+amalgamator	noun	amalgamate|amalgamat|R|V ; -or|or|S
+amanita	noun	amanita|amanita|R|N
+amanitin	noun	amanitin|amanitin|R|N
+amantadine	noun	amantadine|amantadine|R|N
+amaranthine	adj	amaranthine|amaranthine|R|Adj
+amaryllidaceous	adj	amaryllidaceous|amaryllidaceous|R|Adj
+amassable	adj	amass|amass|R|V ; -able|able|S
+amassed	adj	amass|amass|R|V ; -ed|ed|S||-ed (adj)
+amasser	noun	amass|amass|R|V ; -er|er|S||-er (N)
+amassment	noun	amass|amass|R|V ; -ment|ment|S
+amateurishly	adv	amateur|amateur|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+amateurly	adv	amateur|amateur|R|N ; -ly|ly|I|Adv|-ly (adv)
+amative	adj	amative|amative|R|Adj
+amatively	adv	amative|amative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+amativeness	noun	amative|amative|R|Adj ; -ness|ness|S
+amatol	noun	amatol|amatol|R|N
+amatonormativity	noun	amatonormativity|amatonormativity|R|N
+amaurobiid	noun	amaurobiid|amaurobiid|R|N
+amaurobioid	adj	amaurobioid|amaurobioid|R|Adj
+amaurosis	noun	amaurosis|amaurosis|R|N
+amaurotic	adj	amaurotic|amaurotic|R|Adj
+amaxophobia	noun	amaxophobia|amaxophobia|R|N
+amazedly	adv	amaze|amaz|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+amazedness	noun	amaze|amaz|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+amazonite	noun	amazonite|amazonite|R|N
+amban	noun	amban|amban|R|N
+ambarella	noun	ambarella|ambarella|R|N
+ambassadress	noun	ambassadress|ambassadress|R|N
+amberjack	noun	amber|amber|R|N ; jack|jack|R|N
+ambidexter	noun	ambidexter|ambidexter|R|N
+ambidexterity	noun	ambidextrous|ambidexter|R|Adj ; -ity|ity|S
+ambidextrously	adv	ambidextrous|ambidextrous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+ambidextrousness	noun	ambidextrous|ambidextrous|R|Adj ; -ness|ness|S
+ambigram	noun	ambigram|ambigram|R|N
+ambiguate	verb	ambiguous|ambigu|R|Adj ; -ate|ate|S
+ambiguation	noun	ambiguous|ambigu|R|Adj ; -ation|ation|S
+ambiguousness	noun	ambiguous|ambiguous|R|Adj ; -ness|ness|S
+ambilateral	adj	ambilateral|ambilateral|R|Adj
+ambiparous	adj	ambiparous|ambiparous|R|Adj
+ambisexual	adj	ambisexual|ambisexual|R|Adj
+ambitiousness	noun	ambitious|ambitious|R|Adj ; -ness|ness|S
+ambitransitive	adj	ambitransitive|ambitransitive|R|Adj
+ambivert	noun	ambivert|ambivert|R|N
+ambler	noun	amble|ambl|R|V ; -er|er|S||-er (N)
+ambling	noun	amble|ambl|R|V ; -ing|ing|S||-ing (N)
+amblyopia	noun	amblyopia|amblyopia|R|N
+amblyopic	adj	amblyopic|amblyopic|R|Adj
+ambrosially	adv	ambrosia|ambrosi|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+ambrosin	noun	ambrosin|ambrosin|R|N
+ambulacrum	noun	ambulacrum|ambulacrum|R|N
+ambulant	adj	ambulant|ambulant|R|Adj
+ambulatorily	adv	ambulatory|ambulatori|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+ambuscade	noun	ambuscade|ambuscade|R|N
+ambuscader	noun	ambuscade|ambuscad|R|N ; -er|er|S||-er (N)
+ambushed	adj	ambush|ambush|R|V ; -ed|ed|S||-ed (adj)
+ambusher	noun	ambush|ambush|R|V ; -er|er|S||-er (N)
+ambushing	noun	ambush|ambush|R|V ; -ing|ing|S||-ing (N)
+amchur	noun	amchur|amchur|R|N
+ameiosis	noun	ameiosis|ameiosis|R|N
+ameiotic	adj	ameiotic|ameiotic|R|Adj
+ameliorated	adj	ameliorate|ameliorat|R|V ; -ed|ed|S||-ed (adj)
+ameliorator	noun	ameliorate|ameliorat|R|V ; -or|or|S
+ameloblast	noun	ameloblast|ameloblast|R|N
+amenability	noun	amenable|amenabil|R|Adj ; -ity|ity|S
+amenableness	noun	amenable|amenable|R|Adj ; -ness|ness|S
+amenably	adv	amenable|amenabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+amenorrhoea	noun	amenorrhoea|amenorrhoea|R|N
+amensalism	noun	amensalism|amensalism|R|N
+ament	noun	ament|ament|R|N
+amentaceous	adj	amentaceous|amentaceous|R|Adj
+amentia	noun	amentia|amentia|R|N
+amentiferous	adj	amentiferous|amentiferous|R|Adj
+amentiform	adj	amentiform|amentiform|R|Adj
+amentum	noun	amentum|amentum|R|N
+amerce	verb	amerce|amerce|R|V
+amercement	noun	amerce|amerce|R|V ; -ment|ment|S
+americano	noun	americano|americano|R|N
+ameristic	adj	ameristic|ameristic|R|Adj
+amerospore	noun	amerospore|amerospore|R|N
+ametabolic	adj	a-|a|P ; metabolic|metabolic|R|Adj
+amethopterin	noun	amethopterin|amethopterin|R|N
+amethystine	adj	amethystine|amethystine|R|Adj
+ametrine	noun	ametrine|ametrine|R|N
+ametropia	noun	ametropia|ametropia|R|N
+amiableness	noun	amiable|amiable|R|Adj ; -ness|ness|S
+amianthus	noun	amianthus|amianthus|R|N
+amicability	noun	amicable|amicabil|R|Adj ; -ity|ity|S
+amicableness	noun	amicable|amicable|R|Adj ; -ness|ness|S
+amice	noun	amice|amice|R|N
+amicronucleate	adj	amicronucleate|amicronucleate|R|Adj
+amide	noun	amide|amide|R|N
+amidic	adj	amide|amid|R|N ; -ic|ic|S
+amidine	noun	amidine|amidine|R|N
+amidol	noun	amidol|amidol|R|N
+amigurumi	noun	amigurumi|amigurumi|R|N
+amination	noun	aminate|aminat|R|V ; -ion|ion|S
+aminoaciduria	noun	aminoaciduria|aminoaciduria|R|N
+aminogram	noun	aminogram|aminogram|R|N
+aminophylline	noun	aminophylline|aminophylline|R|N
+amiodarone	noun	amiodarone|amiodarone|R|N
+amitotic	adj	a-|a|P ; mitotic|mitotic|R|Adj
+amla	noun	amla|amla|R|N
+amlodipine	noun	amlodipine|amlodipine|R|N
+ammeter	noun	ammeter|ammeter|R|N
+ammine	noun	ammine|ammine|R|N
+ammino	noun	ammino|ammino|R|N
+ammocoete	noun	ammocoete|ammocoete|R|N
+ammolite	noun	ammolite|ammolite|R|N
+ammonal	noun	ammonal|ammonal|R|N
+ammoniac	adj	ammoniac|ammoniac|R|Adj
+ammoniacal	adj	ammoniac|ammoniac|R|Adj ; -al|al|S
+ammoniacum	noun	ammoniacum|ammoniacum|R|N
+ammonification	noun	ammonify|ammonifi|R|V ; -ation|cation|S
+ammonify	verb	ammonia|ammoni|R|N ; -fy|fy|S
+ammonitic	adj	ammonitic|ammonitic|R|Adj
+ammonoid	noun	ammonoid|ammonoid|R|N
+ammoxenid	noun	ammoxenid|ammoxenid|R|N
+amnesic	adj	amnesia|amnes|R|N ; -ic|ic|S
+amnestic	adj	amnestic|amnestic|R|Adj
+amnestied	adj	amnesty|amnest|R|N ; -ed|ied|S||-ed (adj)
+amnion	noun	amnion|amnion|R|N
+amniorrhexis	noun	amniorrhexis|amniorrhexis|R|N
+amniote	noun	amniote|amniote|R|N
+amoebiasis	noun	amoebiasis|amoebiasis|R|N
+amoeboid	adj	amoeboid|amoeboid|R|Adj
+amokura	noun	amokura|amokura|R|N
+amomum	noun	amomum|amomum|R|N
+amoralism	noun	a-|a|P ; moral|moral|R|Adj ; -ism|ism|S
+amorally	adv	a-|a|P ; moral|moral|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+amoretto	noun	amoretto|amoretto|R|N
+amorist	noun	amorist|amorist|R|N
+amorously	adv	amorous|amorous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+amorousness	noun	amorous|amorous|R|Adj ; -ness|ness|S
+amorph	noun	amorph|amorph|R|N
+amorpha	noun	amorpha|amorpha|R|N
+amorphic	adj	amorphic|amorphic|R|Adj
+amorphism	noun	a-|a|P ; morph|morph|R|N ; -ism|ism|S
+amorphously	adv	amorphous|amorphous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+amorphousness	noun	amorphous|amorphous|R|Adj ; -ness|ness|S
+amortizable	adj	amortize|amortiz|R|V ; -able|able|S
+amortized	adj	amortize|amortiz|R|V ; -ed|ed|S||-ed (adj)
+amourette	noun	amourette|amourette|R|N
+ampelographic	adj	ampelographic|ampelographic|R|Adj
+ampelography	noun	ampelography|ampelography|R|N
+amperemeter	noun	ampere|ampere|R|N ; meter|meter|R|N
+amphiarthrosis	noun	amphiarthrosis|amphiarthrosis|R|N
+amphiaster	noun	amphiaster|amphiaster|R|N
+amphiastral	adj	amphiastral|amphiastral|R|Adj
+amphibia	noun	amphibia|amphibia|R|N
+amphibiology	noun	amphibiology|amphibiology|R|N
+amphibiously	adv	amphibious|amphibious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+amphibiousness	noun	amphibious|amphibious|R|Adj ; -ness|ness|S
+amphiblastic	adj	amphiblastic|amphiblastic|R|Adj
+amphiblastula	noun	amphiblastula|amphiblastula|R|N
+amphibole	noun	amphibole|amphibole|R|N
+amphibolite	noun	amphibolite|amphibolite|R|N
+amphibological	adj	amphibological|amphibological|R|Adj
+amphiboly	noun	amphiboly|amphiboly|R|N
+amphibrach	noun	amphibrach|amphibrach|R|N
+amphicarpic	adj	amphicarpic|amphicarpic|R|Adj
+amphicoelous	adj	amphicoelous|amphicoelous|R|Adj
+amphictyon	noun	amphictyon|amphictyon|R|N
+amphictyonic	adj	amphictyonic|amphictyonic|R|Adj
+amphictyony	noun	amphictyony|amphictyony|R|N

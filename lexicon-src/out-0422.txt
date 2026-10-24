@@ -1,0 +1,200 @@
+viscously	adv	vis|visc|B|V ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+viscousness	noun	vis|visc|B|V ; -ous|ous|S ; -ness|ness|S
+viscus	noun	viscus|viscus|R|N
+vishap	noun	vishap|vishap|R|N
+vishing	noun	vish|vish|R|V ; -ing|ing|S||-ing (N)
+visibleness	noun	vis|vis|B|V ; -ible|ible|S ; -ness|ness|S
+visional	adj	vis|vis|B|V ; -ion|ion|S ; -al|al|S
+visionally	adv	vis|vis|B|V ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+visionariness	noun	vis|vis|B|V ; -ion|ion|S ; -ary|ari|S ; -ness|ness|S
+visioned	verb	vis|vis|B|V ; -ion|ion|S ; -ed|ed|I||-ed (v2)
+visioning	verb	vis|vis|B|V ; -ion|ion|S ; -ing|ing|I||-ing (v)
+visionist	noun	vis|vis|B|V ; -ion|ion|S ; -ist|ist|S
+visionless	adj	vis|vis|B|V ; -ion|ion|S ; -less|less|S
+visitant	noun	visit|visit|R|V ; -ant|ant|S
+visitational	adj	visit|visit|R|V ; -ation|ation|S ; -al|al|S
+visitatorial	adj	visit|visit|R|V ; -or|ator|S ; -ial|ial|S
+visite	noun	visite|visite|R|N
+visited	verb	visit|visit|R|V ; -ed|ed|I||-ed (v2)
+visitorial	adj	visit|visit|R|V ; -or|or|S ; -ial|ial|S
+vison	noun	vison|vison|R|N
+visualizer	noun	vis|vis|B|V ; -ual|ual|S ; -ize|iz|S ; -er|er|S||-er (N)
+visualness	noun	vis|vis|B|V ; -ual|ual|S ; -ness|ness|S
+vitalise	verb	vital|vital|R|Adj ; -ise|ise|S
+vitalist	noun	vital|vital|R|Adj ; -ist|ist|S
+vitalistic	adj	vital|vital|R|Adj ; -ist|ist|S ; -ic|ic|S
+vitalization	noun	vital|vital|R|Adj ; -ize|iz|S ; -ation|ation|S
+vitalizer	noun	vital|vital|R|Adj ; -ize|iz|S ; -er|er|S||-er (N)
+vitalness	noun	vital|vital|R|Adj ; -ness|ness|S
+vitals	noun	vital|vital|R|Adj ; -s|s|I||-s (plural)
+vitaminic	adj	vitamin|vitamin|R|N ; -ic|ic|S
+vitaminize	verb	vitamin|vitamin|R|N ; -ize|ize|S
+vitellin	noun	vitellin|vitellin|R|N
+vitiation	noun	vitiate|vitiat|R|V ; -ion|ion|S
+vitiator	noun	vitiate|vitiat|R|V ; -or|or|S
+viticultural	adj	viticulture|viticultur|R|N ; -al|al|S
+viticulturer	noun	viticulture|viticultur|R|N ; -er|er|S||-er (N)
+viticulturist	noun	viticulture|viticultur|R|N ; -ist|ist|S
+vitreosity	noun	vitreous|vitre|R|Adj ; -osity|osity|S
+vitreousness	noun	vitreous|vitreous|R|Adj ; -ness|ness|S
+vitrescence	noun	vitrescent|vitresc|R|Adj ; -ence|ence|S
+vitrescent	adj	vitrescent|vitrescent|R|Adj
+vitrescible	adj	vitrescent|vitresc|R|Adj ; -ible|ible|S
+vitrics	noun	vitrics|vitrics|R|N
+vitrifiability	noun	vitrify|vitrifi|R|V ; -able|abil|S ; -ity|ity|S
+vitrifiable	adj	vitrify|vitrifi|R|V ; -able|able|S
+vitrification	noun	vitrify|vitrifi|R|V ; -ation|cation|S
+vitrified	verb	vitrify|vitrifi|R|V ; -ed|ed|I||-ed (v2)
+vitrify	verb	vitrify|vitrify|R|V
+vitriolize	verb	vitriol|vitriol|R|N ; -ize|ize|S
+vituline	adj	vituline|vituline|R|Adj
+vituperable	adj	vituperate|vituper|R|V ; -able|able|S
+vituperate	verb	vituperate|vituperate|R|V
+vituperatively	adv	vituperate|vituperat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+vituperativeness	noun	vituperate|vituperat|R|V ; -ive|ive|S ; -ness|ness|S
+vituperator	noun	vituperate|vituperat|R|V ; -or|or|S
+vituperatory	adj	vituperate|vituperat|R|V ; -ory|ory|S
+vivace	adj	vivace|vivace|R|Adj
+vivaciously	adv	vivacious|vivacious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+vivaciousness	noun	vivacious|vivacious|R|Adj ; -ness|ness|S
+vivarium	noun	vivarium|vivarium|R|N
+vivianite	noun	vivianite|vivianite|R|N
+vividity	noun	vivid|vivid|R|Adj ; -ity|ity|S
+vivification	noun	vivify|vivifi|R|V ; -ation|cation|S
+vivifier	noun	vivify|vivifi|R|V ; -er|er|S||-er (N)
+viviparity	noun	viviparous|vivipar|R|Adj ; -ity|ity|S
+viviparously	adv	viviparous|vivipar|R|Adj ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+viviparousness	noun	viviparous|viviparous|R|Adj ; -ness|ness|S
+vivipary	noun	vivipary|vivipary|R|N
+vivisect	verb	vivisect|vivisect|R|V
+vivisectional	adj	vivisect|vivisect|R|V ; -ion|ion|S ; -al|al|S
+vivisectionally	adv	vivisect|vivisect|R|V ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+vivisectionist	noun	vivisect|vivisect|R|V ; -ion|ion|S ; -ist|ist|S
+vivisector	noun	vivisect|vivisect|R|V ; -or|or|S
+vixenish	adj	vixen|vixen|R|N ; -ish|ish|S
+vixenishly	adv	vixen|vixen|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+vixenishness	noun	vixen|vixen|R|N ; -ish|ish|S ; -ness|ness|S
+vixenly	adj	vixen|vixen|R|N ; -ly|ly|S||-ly (adj)
+vizarded	adj	vizard|vizard|R|N ; -ed|ed|S||-ed (adj)
+vizierate	noun	vizier|vizier|R|N ; -ate|ate|S
+vizierial	adj	vizier|vizier|R|N ; -ial|ial|S
+vlog	noun	vlog|vlog|R|N
+vlogger	noun	vlog|vlogg|R|N ; -er|er|S||-er (N)
+vobla	noun	vobla|vobla|R|N
+vocable	noun	vocable|vocable|R|N
+vocabularium	noun	vocabularium|vocabularium|R|N
+vocalic	adj	vocal|vocal|R|Adj ; -ic|ic|S
+vocalically	adv	vocal|vocal|R|Adj ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+vocalism	noun	vocal|vocal|R|Adj ; -ism|ism|S
+vocalistic	adj	vocal|vocal|R|Adj ; -ist|ist|S ; -ic|ic|S
+vocality	noun	vocal|vocal|R|Adj ; -ity|ity|S
+vocalizer	noun	vocal|vocal|R|Adj ; -ize|iz|S ; -er|er|S||-er (N)
+vocalizing	verb	vocal|vocal|R|Adj ; -ize|iz|S ; -ing|ing|I||-ing (v)
+vocalness	noun	vocal|vocal|R|Adj ; -ness|ness|S
+vocative	noun	vocative|vocative|R|N
+vocatively	adv	vocative|vocative|R|N ; -ly|ly|I|Adv|-ly (adv)
+vociferance	noun	vociferate|vocifer|R|V ; -ance|ance|S
+vociferant	noun	vociferate|vocifer|R|V ; -ant|ant|S
+vociferate	verb	vociferate|vociferate|R|V
+vociferation	noun	vociferate|vociferat|R|V ; -ion|ion|S
+vociferator	noun	vociferate|vociferat|R|V ; -or|or|S
+vociferousness	noun	vociferous|vociferous|R|Adj ; -ness|ness|S
+vocoder	noun	vocoder|vocoder|R|N
+vocoid	noun	vocoid|vocoid|R|N
+vodyanoy	noun	vodyanoy|vodyanoy|R|N
+voicebank	noun	voice|voice|R|N ; bank|bank|R|N
+voicedness	noun	voice|voice|R|N ; -ed|d|S||-ed (adj) ; -ness|ness|S
+voicelessly	adv	voice|voice|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+voicelessness	noun	voice|voice|R|N ; -less|less|S ; -ness|ness|S
+voicemailbox	noun	voice|voice|R|N ; mail|mail|R|N ; box|box|R|N
+voicer	noun	voice|voic|R|N ; -er|er|S||-er (N)
+voidability	noun	void|void|R|V ; -able|abil|S ; -ity|ity|S
+voidableness	noun	void|void|R|V ; -able|able|S ; -ness|ness|S
+voidance	noun	void|void|R|V ; -ance|ance|S
+voider	noun	void|void|R|V ; -er|er|S||-er (N)
+voiding	verb	void|void|R|V ; -ing|ing|I||-ing (v)
+voidness	noun	void|void|R|Adj ; -ness|ness|S
+voivode	noun	voivode|voivode|R|N
+voivodeship	noun	voivode|voivode|R|N ; -ship|ship|S
+volant	adj	volant|volant|R|Adj
+volatilizable	adj	volatile|volatil|R|Adj ; -ize|iz|S ; -able|able|S
+volatilization	noun	volatile|volatil|R|Adj ; -ize|iz|S ; -ation|ation|S
+volatilize	verb	volatile|volatil|R|Adj ; -ize|ize|S
+volatilizer	noun	volatile|volatil|R|Adj ; -ize|iz|S ; -er|er|S||-er (N)
+volcanist	noun	volcano|volcan|R|N ; -ist|ist|S
+volcanological	adj	volcanology|volcanolog|R|N ; -ical|ical|S
+volcanology	noun	volcanology|volcanology|R|N
+volery	noun	volery|volery|R|N
+volitionally	adv	volition|volition|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+volitive	adj	volitive|volitive|R|Adj
+volkhv	noun	volkhv|volkhv|R|N
+volleyballer	noun	volleyball|volleyball|R|N ; -er|er|S||-er (N)
+volleyer	noun	volley|volley|R|V ; -er|er|S||-er (N)
+volost	noun	volost|volost|R|N
+volplane	verb	volplane|volplane|R|V
+voltameter	noun	voltameter|voltameter|R|N
+volubility	noun	voluble|volub|R|Adj ; -ity|ility|S
+volubleness	noun	voluble|voluble|R|Adj ; -ness|ness|S
+volumetrically	adv	volumetric|volumetric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+voluminosity	noun	voluminous|volumin|R|Adj ; -osity|osity|S
+voluminously	adv	voluminous|voluminous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+voluntarist	noun	voluntary|voluntar|R|Adj ; -ist|ist|S
+voluntative	adj	voluntative|voluntative|R|Adj
+volunteering	verb	volunteer|volunteer|R|V ; -ing|ing|I||-ing (v)
+voluntell	verb	voluntell|voluntell|R|V
+voluptuary	noun	voluptuary|voluptuary|R|N
+voluted	adj	volute|volute|R|N ; -ed|d|S||-ed (adj)
+volution	noun	volution|volution|R|N
+volvox	noun	volvox|volvox|R|N
+volvulus	noun	volvulus|volvulus|R|N
+vomer	noun	vomer|vomer|R|N
+vomica	noun	vomica|vomica|R|N
+vomiter	noun	vomit|vomit|R|V ; -er|er|S||-er (N)
+vomitive	adj	vomit|vomit|R|V ; -ive|ive|S
+vomitory	adj	vomit|vomit|R|V ; -ory|ory|S
+vomitrocious	adj	vomitrocious|vomitrocious|R|Adj
+vomiturition	noun	vomiturition|vomiturition|R|N
+voodooism	noun	voodoo|voodoo|R|N ; -ism|ism|S
+voodooist	noun	voodoo|voodoo|R|N ; -ist|ist|S
+voodooistic	adj	voodoo|voodoo|R|N ; -ist|ist|S ; -ic|ic|S
+voraciousness	noun	voracious|voracious|R|Adj ; -ness|ness|S
+vorarephilia	noun	vorarephilia|vorarephilia|R|N
+vortical	adj	vortex|vortic|R|N ; -al|al|S
+vortically	adv	vortex|vortic|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+vorticist	noun	vortex|vortic|R|N ; -ist|ist|S
+vorticity	noun	vortex|vortic|R|N ; -ity|ity|S
+vorticular	adj	vorticular|vorticular|R|Adj
+vortiginous	adj	vortiginous|vortiginous|R|Adj
+votable	adj	vote|vot|R|V ; -able|able|S
+votaress	noun	votary|votar|R|N ; -ess|ess|S
+votation	noun	vote|vot|R|V ; -ation|ation|S
+voted	verb	vote|vot|R|V ; -ed|ed|I||-ed (v2)
+voteless	adj	vote|vote|R|V ; -less|less|S
+votively	adv	votive|votive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+vouchsafing	verb	vouchsafe|vouchsaf|R|V ; -ing|ing|I||-ing (v)
+voussoir	noun	voussoir|voussoir|R|N
+vovinam	noun	vovinam|vovinam|R|N
+vowed	verb	vow|vow|R|V ; -ed|ed|I||-ed (v2)
+vowelization	noun	vowel|vowel|R|N ; -ize|iz|S ; -ation|ation|S
+vowelize	verb	vowel|vowel|R|N ; -ize|ize|S
+vower	noun	vow|vow|R|V ; -er|er|S||-er (N)
+voxel	noun	voxel|voxel|R|N
+voyaging	verb	voyage|voyag|R|V ; -ing|ing|I||-ing (v)
+voyeuristically	adv	voyeur|voyeur|R|N ; -ist|ist|S ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+vraisemblance	noun	vraisemblance|vraisemblance|R|N
+vrille	noun	vrille|vrille|R|N
+vrou	noun	vrou|vrou|R|N
+vrykolakas	noun	vrykolakas|vrykolakas|R|N
+vulcanic	adj	vulcan|vulcan|R|N ; -ic|ic|S
+vulcanite	noun	vulcanite|vulcanite|R|N
+vulcanizable	adj	vulcan|vulcan|R|N ; -ize|iz|S ; -able|able|S
+vulcanization	noun	vulcan|vulcan|R|N ; -ize|iz|S ; -ation|ation|S
+vulcanize	verb	vulcan|vulcan|R|N ; -ize|ize|S
+vulcanizer	noun	vulcan|vulcan|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+vulcanological	adj	vulcanology|vulcanolog|R|N ; -ical|ical|S
+vulcanologist	noun	vulcanology|vulcanolog|R|N ; -ist|ist|S
+vulcanology	noun	vulcanology|vulcanology|R|N
+vulgarian	noun	vulgar|vulgar|R|Adj ; -ian|ian|S
+vulgarising	verb	vulgar|vulgar|R|Adj ; -ise|is|S ; -ing|ing|I||-ing (v)
+vulgarism	noun	vulgar|vulgar|R|Adj ; -ism|ism|S
+vulgarize	verb	vulgar|vulgar|R|Adj ; -ize|ize|S

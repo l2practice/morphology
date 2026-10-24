@@ -1,0 +1,200 @@
+coup	noun	coup|coup|R|N
+purple	adj	purple|purple|R|Adj
+sunlight	noun	sun|sun|R|N ; light|light|R|N
+laser	noun	laser|laser|R|N
+bold	adj	bold|bold|R|Adj
+starting	noun	start|start|R|V ; -ing|ing|S||-ing (N)
+practically	adv	practice|practic|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+subsidiary	noun	subsidiary|subsidiary|R|N
+eating	noun	eat|eat|R|V ; -ing|ing|S||-ing (N)
+incidence	noun	incident|incid|R|N ; -ence|ence|S
+parade	noun	parade|parade|R|N
+subsidy	noun	subsidy|subsidy|R|N
+autonomy	noun	autonomy|autonomy|R|N
+organism	noun	organ|organ|R|N ; -ism|ism|S
+realm	noun	realm|realm|R|N
+auditor	noun	audit|audit|R|V ; -or|or|S
+blend	verb	blend|blend|R|V
+fucking	verb	fuck|fuck|R|V ; -ing|ing|I||-ing (v)
+safely	adv	safe|safe|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+therapist	noun	therapy|therap|R|N ; -ist|ist|S
+faster	adv	fast|fast|R|Adj ; -er|er|I||-er (comparative)
+pizza	noun	pizza|pizza|R|N
+recipient	noun	recipient|recipient|R|N
+peel	verb	peel|peel|R|V
+lighting	noun	light|light|R|V ; -ing|ing|S||-ing (N)
+flip	verb	flip|flip|R|V
+stamp	noun	stamp|stamp|R|N
+bias	noun	bias|bias|R|N
+huh	interj	huh|huh|R
+obliged	adj	oblige|oblig|R|V ; -ed|ed|S||-ed (adj)
+disappointment	noun	dis-|dis|P ; appoint|appoint|R|V ; -ment|ment|S
+metaphor	noun	metaphor|metaphor|R|N
+candle	noun	candle|candle|R|N
+striking	adj	strike|strik|R|V ; -ing|ing|S||-ing (adj)
+fierce	adj	fierce|fierce|R|Adj
+fascinating	adj	fascinate|fascinat|R|V ; -ing|ing|S||-ing (adj)
+suffering	noun	suffer|suffer|R|V ; -ing|ing|S||-ing (N)
+garbage	noun	garbage|garbage|R|N
+ton	noun	ton|ton|R|N
+regulatory	adj	regulate|regulat|R|V ; -ory|ory|S
+tribute	noun	tribute|tribute|R|N
+diamond	noun	diamond|diamond|R|N
+minimize	verb	minimize|minimize|R|V
+neighbourhood	noun	neighbour|neighbour|R|N ; -hood|hood|S
+edit	verb	edit|edit|R|V
+casualty	noun	casualty|casualty|R|N
+tightly	adv	tight|tight|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+chin	noun	chin|chin|R|N
+ours	pron	ours|ours|R
+racism	noun	race|rac|R|N ; -ism|ism|S
+vanish	verb	vanish|vanish|R|V
+confess	verb	confess|confess|R|V
+contemplate	verb	contemplate|contemplate|R|V
+excessive	adj	excess|excess|R|N ; -ive|ive|S
+starter	noun	start|start|R|V ; -er|er|S||-er (N)
+splendid	adj	splendid|splendid|R|Adj
+remainder	noun	remainder|remainder|R|N
+gravity	noun	gravity|gravity|R|N
+intervene	verb	intervene|intervene|R|V
+decorate	verb	decor|decor|R|N ; -ate|ate|S
+accuracy	noun	accurate|accura|R|Adj ; -cy|cy|S
+diminish	verb	diminish|diminish|R|V
+prevention	noun	prevent|prevent|R|V ; -ion|ion|S
+clay	noun	clay|clay|R|N
+intent	noun	intent|intent|R|N
+metropolitan	adj	metropolitan|metropolitan|R|Adj
+performer	noun	perform|perform|R|V ; -er|er|S||-er (N)
+sensitivity	noun	sense|sens|R|N ; -itive|itiv|S ; -ity|ity|S
+chop	verb	chop|chop|R|V
+thief	noun	thief|thief|R|N
+flavour	noun	flavour|flavour|R|N
+productive	adj	product|product|R|N ; -ive|ive|S
+geography	noun	geography|geography|R|N
+inventory	noun	inventory|inventory|R|N
+surrounding	adj	surround|surround|R|V ; -ing|ing|S||-ing (adj)
+civic	adj	civic|civic|R|Adj
+exceptional	adj	except|except|R|V ; -ion|ion|S ; -al|al|S
+descend	verb	descend|descend|R|V
+magnitude	noun	magnitude|magnitude|R|N
+combined	adj	combine|combin|R|V ; -ed|ed|S||-ed (adj)
+hostage	noun	hostage|hostage|R|N
+grasp	verb	grasp|grasp|R|V
+firstly	adv	first|first|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+popularity	noun	popular|popular|R|Adj ; -ity|ity|S
+supervision	noun	supervise|supervis|R|V ; -ion|ion|S
+alien	noun	alien|alien|R|N
+pint	noun	pint|pint|R|N
+dynamic	adj	dynamic|dynamic|R|Adj
+scary	adj	scare|scar|R|V ; -y|y|S
+forecast	noun	fore-|fore|P ; cast|cast|R|V
+translation	noun	translate|translat|R|V ; -ion|ion|S
+cling	verb	cling|cling|R|V
+rage	noun	rage|rage|R|N
+memorial	noun	memory|memor|R|N ; -ial|ial|S
+photography	noun	photograph|photograph|R|N ; -y|y|S
+execution	noun	execute|execut|R|V ; -ion|ion|S
+offering	noun	offer|offer|R|V ; -ing|ing|S||-ing (N)
+precious	adj	precious|precious|R|Adj
+dismissal	noun	dis-|dis|P ; miss|miss|R|V ; -al|al|S
+prohibit	verb	prohibit|prohibit|R|V
+steadily	adv	steady|steadi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+solely	adv	sole|sole|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+exclusively	adv	ex-|ex|P ; -clude|clus|B|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+conceal	verb	conceal|conceal|R|V
+enroll	verb	en-|en|P ; roll|roll|R|V
+hidden	adj	hide|hidden|R|V ; -en||I||-en (participle)
+hostility	noun	hostile|hostil|R|Adj ; -ity|ity|S
+compulsory	adj	compulsory|compulsory|R|Adj
+similarity	noun	similar|similar|R|Adj ; -ity|ity|S
+gathering	noun	gather|gather|R|V ; -ing|ing|S||-ing (N)
+jaw	noun	jaw|jaw|R|N
+stumble	verb	stumble|stumble|R|V
+ridge	noun	ridge|ridge|R|N
+dawn	noun	dawn|dawn|R|N
+automobile	noun	auto-|auto|P ; mobile|mobile|R|Adj
+liver	noun	liver|liver|R|N
+progressive	adj	progress|progress|R|N ; -ive|ive|S
+venue	noun	venue|venue|R|N
+shared	adj	share|shar|R|V ; -ed|ed|S||-ed (adj)
+terminal	noun	terminate|termin|R|V ; -al|al|S
+incur	verb	incur|incur|R|V
+continental	adj	continent|continent|R|N ; -al|al|S
+cab	noun	cab|cab|R|N
+cooperate	verb	co-|co|P ; operate|operate|R|V
+romance	noun	romance|romance|R|N
+pillow	noun	pillow|pillow|R|N
+relevance	noun	relevant|relev|R|Adj ; -ance|ance|S
+primitive	adj	primitive|primitive|R|Adj
+seal	noun	seal|seal|R|N
+bronze	noun	bronze|bronze|R|N
+annually	adv	annual|annual|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+orchestra	noun	orchestra|orchestra|R|N
+lately	adv	late|late|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+scarcely	adv	scarce|scarce|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+alternatively	adv	alternate|alternat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+scan	verb	scan|scan|R|V
+deadline	noun	dead|dead|R|Adj ; line|line|R|N
+operational	adj	operate|operat|R|V ; -ion|ion|S ; -al|al|S
+rear	noun	rear|rear|R|N
+occupational	adj	occupy|occup|R|V ; -ation|ation|S ; -al|al|S
+ranch	noun	ranch|ranch|R|N
+archbishop	noun	archbishop|archbishop|R|N
+verbal	adj	verb|verb|R|N ; -al|al|S
+coastal	adj	coast|coast|R|N ; -al|al|S
+socialism	noun	social|social|R|Adj ; -ism|ism|S
+burning	noun	burn|burn|R|V ; -ing|ing|S||-ing (N)
+exclusion	noun	ex-|ex|P ; -clude|clus|B|V ; -ion|ion|S
+substantially	adv	substantial|substantial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+tribal	adj	tribe|trib|R|N ; -al|al|S
+systematic	adj	systematic|systematic|R|Adj
+downstairs	adv	down|down|R|Adv ; stair|stair|R|N ; -s|s|I||-s (plural)
+sexually	adv	sex|sex|R|N ; -ual|ual|S ; -ly|ly|I|Adv|-ly (adv)
+credibility	noun	credible|credibil|R|Adj ; -ity|ity|S
+constituent	noun	constitute|constitu|R|V ; -ent|ent|S
+payable	adj	pay|pay|R|V ; -able|able|S
+sentiment	noun	sentiment|sentiment|R|N
+divine	adj	divine|divine|R|Adj
+pardon	verb	pardon|pardon|R|V
+cart	noun	cart|cart|R|N
+monitoring	noun	monitor|monitor|R|V ; -ing|ing|S||-ing (N)
+interim	noun	interim|interim|R|N
+oversee	verb	over-|over|P ; see|see|R|V
+elder	adj	elder|elder|R|Adj
+inspiration	noun	inspire|inspir|R|V ; -ation|ation|S
+integrated	adj	integrate|integrat|R|V ; -ed|ed|S||-ed (adj)
+ideological	adj	ideology|ideolog|R|N ; -ical|ical|S
+pro	noun	pro|pro|R|N
+benjamin	noun	benjamin|benjamin|R|N
+trailer	noun	trail|trail|R|V ; -er|er|S||-er (N)
+parameter	noun	para-|para|P ; meter|meter|R|N
+equilibrium	noun	equilibrium|equilibrium|R|N
+genius	noun	genius|genius|R|N
+matrix	noun	matrix|matrix|R|N
+monument	noun	monument|monument|R|N
+premier	adj	premier|premier|R|Adj
+quest	noun	quest|quest|R|N
+striker	noun	strike|strik|R|V ; -er|er|S||-er (N)
+sacrifice	noun	sacrifice|sacrifice|R|N
+juror	noun	jury|jur|R|N ; -or|or|S
+carer	noun	care|car|R|V ; -er|er|S||-er (N)
+dynamics	noun	dynamic|dynamic|R|Adj ; -s|s|I||-s (plural)
+bye	interj	bye|bye|R
+broker	noun	broker|broker|R|N
+lea	noun	lea|lea|R|N
+treasure	noun	treasure|treasure|R|N
+unfortunate	adj	un-|un|P ; fortune|fortun|R|N ; -ate|ate|S
+impressed	adj	im-|im|P|||in- ; press|press|R|V ; -ed|ed|S||-ed (adj)
+tempt	verb	tempt|tempt|R|V
+freely	adv	free|free|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+talented	adj	talent|talent|R|N ; -ed|ed|S||-ed (adj)
+fortunately	adv	fortune|fortun|R|N ; -ate|ate|S ; -ly|ly|I|Adv|-ly (adv)
+nominee	noun	nominee|nominee|R|N
+definite	adj	definite|definite|R|Adj
+gasoline	noun	gasoline|gasoline|R|N
+extended	adj	extend|extend|R|V ; -ed|ed|S||-ed (adj)
+stiff	adj	stiff|stiff|R|Adj
+advertise	verb	advertise|advertise|R|V
+slap	verb	slap|slap|R|V
+upwards	adv	upwards|upwards|R|Adv
+supermarket	noun	super-|super|P ; market|market|R|N

@@ -1,0 +1,200 @@
+bivalence	noun	bi-|bi|P ; valence|valence|R|N
+bivalent	adj	bi-|bi|P ; valent|valent|R|Adj
+bivector	noun	bi-|bi|P ; vector|vector|R|N
+bivoltine	adj	bi-|bi|P ; voltine|voltine|R|Adj
+bivvy	noun	bivvy|bivvy|R|N
+biwa	noun	biwa|biwa|R|N
+bixie	noun	bixie|bixie|R|N
+biyearly	adj	bi-|bi|P ; year|year|R|N ; -ly|ly|S||-ly (adj)
+bizonal	adj	bi-|bi|P ; zonal|zonal|R|Adj
+blabber	verb	blab|blabb|R|V ; -er|er|S||-er (onomatopoeia)
+blabbering	noun	blab|blabb|R|V ; -er|er|S||-er (onomatopoeia) ; -ing|ing|S||-ing (N)
+blabbing	verb	blab|blabb|R|V ; -ing|ing|I||-ing (v)
+blackamoor	noun	blackamoor|blackamoor|R|N
+blackballing	noun	black|black|R|Adj ; ball|ball|R|N ; -ing|ing|S||-ing (N)
+blackbirding	noun	black|black|R|Adj ; bird|bird|R|N ; -ing|ing|S||-ing (N)
+blackbuck	noun	black|black|R|Adj ; buck|buck|R|N
+blackcoat	noun	black|black|R|Adj ; coat|coat|R|N
+blackcock	noun	black|black|R|Adj ; cock|cock|R|N
+blackdamp	noun	black|black|R|Adj ; damp|damp|R|N
+blacked	adj	black|black|R|Adj ; -ed|ed|S||-ed (adj)
+blackener	noun	black|black|R|Adj ; -en|en|S ; -er|er|S||-er (N)
+blackfellow	noun	black|black|R|Adj ; fellow|fellow|R|N
+blackguardism	noun	black|black|R|Adj ; guard|guard|R|N ; -ism|ism|S
+blackguardly	adj	black|black|R|Adj ; guard|guard|R|N ; -ly|ly|S||-ly (adj)
+blackheart	noun	black|black|R|Adj ; heart|heart|R|N
+blacking	noun	black|black|R|Adj ; -ing|ing|S||-ing (N)
+blacklister	noun	black|black|R|Adj ; list|list|R|N ; -er|er|S||-er (N)
+blacklisting	noun	black|black|R|Adj ; list|list|R|N ; -ing|ing|S||-ing (N)
+blackmailing	noun	black|black|R|Adj ; mail|mail|R|N ; -ing|ing|S||-ing (N)
+blacks	noun	black|black|R|N ; -s|s|I||-s (plural)
+blacksmithing	noun	black|black|R|Adj ; smith|smith|R|N ; -ing|ing|S||-ing (N)
+blacksnake	noun	black|black|R|Adj ; snake|snake|R|N
+blacky	noun	black|black|R|Adj ; -y|y|S
+bladdernut	noun	bladder|bladder|R|N ; nut|nut|R|N
+bladderpod	noun	bladder|bladder|R|N ; pod|pod|R|N
+bladderwort	noun	bladder|bladder|R|N ; wort|wort|R|N
+bladdery	adj	bladder|bladder|R|N ; -y|y|S
+blag	verb	blag|blag|R|V
+blagger	noun	blag|blagg|R|V ; -er|er|S||-er (N)
+blain	noun	blain|blain|R|N
+blamable	adj	blame|blam|R|V ; -able|able|S
+blamableness	noun	blame|blam|R|V ; -able|able|S ; -ness|ness|S
+blamably	adv	blame|blam|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+blameful	adj	blame|blame|R|V ; -ful|ful|S
+blamefully	adv	blame|blame|R|V ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+blamefulness	noun	blame|blame|R|V ; -ful|ful|S ; -ness|ness|S
+blamelessly	adv	blame|blame|R|V ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+blamelessness	noun	blame|blame|R|V ; -less|less|S ; -ness|ness|S
+blamer	noun	blame|blam|R|V ; -er|er|S||-er (N)
+blamestorm	noun	blame|blame|R|V ; storm|storm|R|N
+blameworthiness	noun	blame|blame|R|V ; worth|worth|R|Adj ; -y|i|S ; -ness|ness|S
+blancher	noun	blanch|blanch|R|V ; -er|er|S||-er (N)
+blanching	noun	blanch|blanch|R|V ; -ing|ing|S||-ing (N)
+blandish	verb	bland|bland|R|Adj ; -ish|ish|S
+blandisher	noun	bland|bland|R|Adj ; -ish|ish|S ; -er|er|S||-er (N)
+blandishing	noun	bland|bland|R|Adj ; -ish|ish|S ; -ing|ing|S||-ing (N)
+blanet	noun	blanet|blanet|R|N
+blanker	noun	blank|blank|R|Adj ; -er|er|S||-er (N)
+blanketing	noun	blanket|blanket|R|N ; -ing|ing|S||-ing (N)
+blanking	noun	blank|blank|R|Adj ; -ing|ing|S||-ing (N)
+blanquette	noun	blanquette|blanquette|R|N
+blaspheming	verb	blaspheme|blasphem|R|V ; -ing|ing|I||-ing (v)
+blasphemously	adv	blasphemous|blasphemous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+blasphemousness	noun	blasphemous|blasphemous|R|Adj ; -ness|ness|S
+blastema	noun	blastema|blastema|R|N
+blastemal	adj	blastema|blastem|R|N ; -al|al|S
+blastematic	adj	blastema|blastemat|R|N ; -ic|ic|S
+blastocoel	noun	blastocoel|blastocoel|R|N
+blastoderm	noun	blastoderm|blastoderm|R|N
+blastodermatic	adj	blastodermatic|blastodermatic|R|Adj
+blastodermic	adj	blastoderm|blastoderm|R|N ; -ic|ic|S
+blastogenesis	noun	blastogenesis|blastogenesis|R|N
+blastoid	noun	blastoid|blastoid|R|N
+blastoma	noun	blastoma|blastoma|R|N
+blastomycete	noun	blastomycete|blastomycete|R|N
+blastomycosis	noun	blastomycosis|blastomycosis|R|N
+blastoporal	adj	blastopore|blastopor|R|N ; -al|al|S
+blastopore	noun	blastopore|blastopore|R|N
+blastosphere	noun	blastosphere|blastosphere|R|N
+blastospheric	adj	blastosphere|blastospher|R|N ; -ic|ic|S
+blastpipe	noun	blast|blast|R|N ; pipe|pipe|R|N
+blastula	noun	blastula|blastula|R|N
+blastular	adj	blastular|blastular|R|Adj
+blastulation	noun	blastula|blastul|R|N ; -ation|ation|S
+blatancy	noun	blatant|blatan|R|Adj ; -cy|cy|S
+blate	verb	blate|blate|R|V
+blatherer	noun	blather|blather|R|V ; -er|er|S||-er (N)
+blathering	noun	blather|blather|R|V ; -ing|ing|S||-ing (N)
+blatherskite	noun	blather|blather|R|V ; skite|skite|R|N
+blazar	noun	blazar|blazar|R|N
+blazingstar	noun	blaze|blaz|R|V ; -ing|ing|S||-ing (adj) ; star|star|R|N
+blazoned	adj	blazon|blazon|R|V ; -ed|ed|S||-ed (adj)
+blazoner	noun	blazon|blazon|R|V ; -er|er|S||-er (N)
+blazoning	noun	blazon|blazon|R|V ; -ing|ing|S||-ing (N)
+blazonry	noun	blazon|blazon|R|V ; -ry|ry|S
+bleachery	noun	bleach|bleach|R|V ; -ery|ery|S
+blear	verb	blear|blear|R|V
+bleariness	noun	bleary|bleari|R|Adj ; -ness|ness|S
+blech	interj	blech|blech|R
+blemisher	noun	blemish|blemish|R|V ; -er|er|S||-er (N)
+blenching	noun	blench|blench|R|V ; -ing|ing|S||-ing (N)
+blende	noun	blende|blende|R|N
+blenny	noun	blenny|blenny|R|N
+blepharoplast	noun	blepharoplast|blepharoplast|R|N
+blepharoplasty	noun	blepharoplasty|blepharoplasty|R|N
+blepharoptosis	noun	blepharoptosis|blepharoptosis|R|N
+blepharospasm	noun	blepharospasm|blepharospasm|R|N
+blesser	noun	bless|bless|R|V ; -er|er|S||-er (N)
+blet	noun	blet|blet|R|N
+blewits	noun	blewit|blewit|R|N ; -s|s|I||-s (plural)
+blighting	noun	blight|blight|R|V ; -ing|ing|S||-ing (N)
+blimpish	adj	blimp|blimp|R|N ; -ish|ish|S
+blimpishness	noun	blimp|blimp|R|N ; -ish|ish|S ; -ness|ness|S
+blin	noun	blin|blin|R|N
+blindage	noun	blind|blind|R|Adj ; -age|age|S
+blinder	noun	blind|blind|R|Adj ; -er|er|S||-er (N)
+blindfish	noun	blind|blind|R|Adj ; fish|fish|R|N
+blindfolding	noun	blind|blind|R|Adj ; fold|fold|R|V ; -ing|ing|S||-ing (N)
+blindsight	noun	blind|blind|R|Adj ; sight|sight|R|N
+blinks	noun	blink|blink|R|N ; -s|s|I||-s (plural)
+blissfulness	noun	bliss|bliss|R|N ; -ful|ful|S ; -ness|ness|S
+blistery	adj	blister|blister|R|N ; -y|y|S
+blitheness	noun	blithe|blithe|R|Adj ; -ness|ness|S
+blither	verb	blither|blither|R|V
+blithesome	adj	blithe|blithe|R|Adj ; -some|some|S
+blithesomely	adv	blithe|blithe|R|Adj ; -some|some|S ; -ly|ly|I|Adv|-ly (adv)
+bloater	noun	bloat|bloat|R|V ; -er|er|S||-er (N)
+bloatware	noun	bloat|bloat|R|V ; ware|ware|R|N
+blobfish	noun	blob|blob|R|N ; fish|fish|R|N
+blockader	noun	blockade|blockad|R|N ; -er|er|S||-er (N)
+blockboard	noun	block|block|R|N ; board|board|R|N
+blockchain	noun	block|block|R|N ; chain|chain|R|N
+blockfield	noun	block|block|R|N ; field|field|R|N
+blockish	adj	block|block|R|N ; -ish|ish|S
+blockishness	noun	block|block|R|N ; -ish|ish|S ; -ness|ness|S
+blocklaying	noun	block|block|R|N ; lay|lay|R|V ; -ing|ing|S||-ing (N)
+blocklist	noun	block|block|R|N ; list|list|R|N
+blockquote	noun	block|block|R|N ; quote|quote|R|V
+blocksize	noun	block|block|R|N ; size|size|R|N
+blogpost	noun	blog|blog|R|N ; post|post|R|N
+bloodborne	adj	blood|blood|R|N ; borne|borne|R|Adj
+bloodiness	noun	bloody|bloodi|R|Adj ; -ness|ness|S
+blooding	noun	blood|blood|R|N ; -ing|ing|S||-ing (N)
+bloodlessly	adv	blood|blood|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+bloodlessness	noun	blood|blood|R|N ; -less|less|S ; -ness|ness|S
+bloodletter	noun	blood|blood|R|N ; let|lett|R|V ; -er|er|S||-er (N)
+bloodstone	noun	blood|blood|R|N ; stone|stone|R|N
+bloodsucking	adj	blood|blood|R|N ; suck|suck|R|V ; -ing|ing|S||-ing (adj)
+bloodthirst	noun	blood|blood|R|N ; thirst|thirst|R|N
+bloodthirstily	adv	blood|blood|R|N ; thirst|thirst|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+bloodthirstiness	noun	blood|blood|R|N ; thirst|thirst|R|N ; -y|i|S ; -ness|ness|S
+bloodwood	noun	blood|blood|R|N ; wood|wood|R|N
+bloomery	noun	bloom|bloom|R|V ; -ery|ery|S
+blotchily	adv	blotchy|blotchi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+blotchiness	noun	blotchy|blotchi|R|Adj ; -ness|ness|S
+blotching	noun	blotch|blotch|R|V ; -ing|ing|S||-ing (N)
+blotted	adj	blot|blott|R|V ; -ed|ed|S||-ed (adj)
+blotto	adj	blotto|blotto|R|Adj
+bloviate	verb	bloviate|bloviate|R|V
+blowfly	noun	blow|blow|R|V ; fly|fly|R|N
+blowlamp	noun	blow|blow|R|V ; lamp|lamp|R|N
+blowtube	noun	blow|blow|R|V ; tube|tube|R|N
+blowy	adj	blow|blow|R|V ; -y|y|S
+blowzed	adj	blowzed|blowzed|R|Adj
+blubberingly	adv	blubber|blubber|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+blucher	noun	blucher|blucher|R|N
+bludge	verb	bludge|bludge|R|V
+bludgeoner	noun	bludgeon|bludgeon|R|V ; -er|er|S||-er (N)
+bludgeoning	noun	bludgeon|bludgeon|R|V ; -ing|ing|S||-ing (N)
+bluebeard	noun	blue|blue|R|Adj ; beard|beard|R|N
+bluejacket	noun	blue|blue|R|Adj ; jacket|jacket|R|N
+bluely	adv	blue|blue|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+blues	noun	blue|blue|R|Adj ; -s|s|I||-s (plural)
+blueshift	noun	blue|blue|R|Adj ; shift|shift|R|N
+bluet	noun	bluet|bluet|R|N
+bluetail	noun	blue|blue|R|Adj ; tail|tail|R|N
+bluethroat	noun	blue|blue|R|Adj ; throat|throat|R|N
+bluetongue	noun	blue|blue|R|Adj ; tongue|tongue|R|N
+bluffable	adj	bluff|bluff|R|V ; -able|able|S
+bluffing	noun	bluff|bluff|R|V ; -ing|ing|S||-ing (N)
+bluffly	adv	bluff|bluff|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bluffness	noun	bluff|bluff|R|Adj ; -ness|ness|S
+bluishly	adv	bluish|bluish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bluishness	noun	bluish|bluish|R|Adj ; -ness|ness|S
+blunderer	noun	blunder|blunder|R|V ; -er|er|S||-er (N)
+blunderhead	noun	blunder|blunder|R|V ; head|head|R|N
+blunderingly	adv	blunder|blunder|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+blunting	noun	blunt|blunt|R|Adj ; -ing|ing|S||-ing (N)
+blurter	noun	blurt|blurt|R|V ; -er|er|S||-er (N)
+blurting	noun	blurt|blurt|R|V ; -ing|ing|S||-ing (N)
+blushes	noun	blush|blush|R|N ; -es|es|I||-s (plural)
+blushful	adj	blush|blush|R|N ; -ful|ful|S
+blushingly	adv	blush|blush|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+blusterer	noun	bluster|bluster|R|V ; -er|er|S||-er (N)
+blusterous	adj	bluster|bluster|R|V ; -ous|ous|S
+boards	noun	board|board|R|N ; -s|s|I||-s (plural)
+boarhound	noun	boar|boar|R|N ; hound|hound|R|N
+boarish	adj	boar|boar|R|N ; -ish|ish|S
+boaster	noun	boast|boast|R|V ; -er|er|S||-er (N)
+boastfulness	noun	boast|boast|R|V ; -ful|ful|S ; -ness|ness|S

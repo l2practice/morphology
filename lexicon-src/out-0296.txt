@@ -1,0 +1,200 @@
+hamartia	noun	hamartia|hamartia|R|N
+hamartoma	noun	hamartoma|hamartoma|R|N
+hamate	adj	hamate|hamate|R|Adj
+hame	noun	hame|hame|R|N
+hames	noun	hame|hame|R|N ; -s|s|I||-s (plural)
+hamiform	adj	hamiform|hamiform|R|Adj
+hamite	noun	hamite|hamite|R|N
+hammam	noun	hammam|hammam|R|N
+hammerer	noun	hammer|hammer|R|V ; -er|er|S||-er (N)
+hammerkop	noun	hammerkop|hammerkop|R|N
+hammerless	adj	hammer|hammer|R|N ; -less|less|S
+hammerman	noun	hammer|hammer|R|N ; man|man|R|N
+hampering	verb	hamper|hamper|R|V ; -ing|ing|I||-ing (v)
+hamsa	noun	hamsa|hamsa|R|N
+hamshackle	verb	hamshackle|hamshackle|R|V
+hamulus	noun	hamulus|hamulus|R|N
+hamza	noun	hamza|hamza|R|N
+hamzated	adj	hamza|hamz|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+hanafuda	noun	hanafuda|hanafuda|R|N
+hanami	noun	hanami|hanami|R|N
+hanbok	noun	hanbok|hanbok|R|N
+handakuten	noun	handakuten|handakuten|R|N
+handbarrow	noun	hand|hand|R|N ; barrow|barrow|R|N
+handbasin	noun	hand|hand|R|N ; basin|basin|R|N
+handbreadth	noun	hand|hand|R|N ; breadth|breadth|R|N
+handcar	noun	hand|hand|R|N ; car|car|R|N
+handclap	noun	hand|hand|R|N ; clap|clap|R|V
+handclapping	noun	hand|hand|R|N ; clap|clapp|R|V ; -ing|ing|S||-ing (N)
+handcuffing	verb	hand|hand|R|N ; cuff|cuff|R|N ; -ing|ing|I||-ing (v)
+handcuffs	noun	hand|hand|R|N ; cuff|cuff|R|N ; -s|s|I||-s (plural)
+handed	adj	hand|hand|R|N ; -ed|ed|S||-ed (adj)
+handfast	verb	hand|hand|R|N ; fast|fast|R|V
+handfasting	noun	hand|hand|R|N ; fast|fast|R|V ; -ing|ing|S||-ing (N)
+handguard	noun	hand|hand|R|N ; guard|guard|R|N
+handicraftsman	noun	handicraftsman|handicraftsman|R|N
+handiness	noun	handy|handi|R|Adj ; -ness|ness|S
+handled	verb	handle|handl|R|V ; -ed|ed|I||-ed (v2)
+handleless	adj	handle|handle|R|V ; -less|less|S
+handless	adj	hand|hand|R|N ; -less|less|S
+handline	noun	hand|hand|R|N ; line|line|R|N
+handmill	noun	hand|hand|R|N ; mill|mill|R|N
+handmirror	noun	hand|hand|R|N ; mirror|mirror|R|N
+handpicked	adj	hand|hand|R|N ; pick|pick|R|V ; -ed|ed|S||-ed (adj)
+handpress	noun	hand|hand|R|N ; press|press|R|N
+handsel	noun	handsel|handsel|R|N
+handsoap	noun	hand|hand|R|N ; soap|soap|R|N
+handspan	noun	hand|hand|R|N ; span|span|R|N
+handspike	noun	hand|hand|R|N ; spike|spike|R|N
+handsy	adj	handsy|handsy|R|Adj
+handwashing	noun	hand|hand|R|N ; wash|wash|R|V ; -ing|ing|S||-ing (N)
+handwoven	adj	hand|hand|R|N ; weave|woven|R|V ; -en||I||-en (participle)
+handwrite	verb	hand|hand|R|N ; write|write|R|V
+handwrought	adj	hand|hand|R|N ; work|wrought|R|V ; -en||I||-en (participle)
+hanfu	noun	hanfu|hanfu|R|N
+hangi	noun	hangi|hangi|R|N
+hangry	adj	hangry|hangry|R|Adj
+hangul	noun	hangul|hangul|R|N
+hanja	noun	hanja|hanja|R|N
+hanukkiah	noun	hanukkiah|hanukkiah|R|N
+hanuman	noun	hanuman|hanuman|R|N
+haoma	noun	haoma|haoma|R|N
+haphazardry	noun	haphazard|haphazard|R|Adj ; -ry|ry|S
+hapkido	noun	hapkido|hapkido|R|N
+haplobiont	noun	haplobiont|haplobiont|R|N
+haplobiontic	adj	haplobiont|haplobiont|R|N ; -ic|ic|S
+haplography	noun	haplography|haplography|R|N
+haplogroup	noun	haplogroup|haplogroup|R|N
+haploidy	noun	haploidy|haploidy|R|N
+haplology	noun	haplology|haplology|R|N
+haplont	noun	haplont|haplont|R|N
+hapticity	noun	haptic|haptic|R|Adj ; -ity|ity|S
+haptoglobin	noun	haptoglobin|haptoglobin|R|N
+haptonomy	noun	haptonomy|haptonomy|R|N
+haptophyte	noun	haptophyte|haptophyte|R|N
+harakat	noun	harakat|harakat|R|N
+haram	noun	haram|haram|R|N
+haranguer	noun	harangue|harangu|R|V ; -er|er|S||-er (N)
+haranguing	verb	harangue|harangu|R|V ; -ing|ing|I||-ing (v)
+harassing	verb	harass|harass|R|V ; -ing|ing|I||-ing (v)
+harbormaster	noun	harbor|harbor|R|N ; master|master|R|N
+harboured	verb	harbour|harbour|R|V ; -ed|ed|I||-ed (v2)
+hardbake	noun	hard|hard|R|Adj ; bake|bake|R|V
+hardboot	noun	hard|hard|R|Adj ; boot|boot|R|N
+hardhead	noun	hard|hard|R|Adj ; head|head|R|N
+hardheaded	adj	hard|hard|R|Adj ; head|head|R|N ; -ed|ed|S||-ed (adj)
+hardhearted	adj	hard|hard|R|Adj ; heart|heart|R|N ; -ed|ed|S||-ed (adj)
+hardihood	noun	hardy|hardi|R|Adj ; -hood|hood|S
+hardily	adv	hardy|hardi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+hardpoint	noun	hard|hard|R|Adj ; point|point|R|N
+hardscrabble	noun	hard|hard|R|Adj ; scrabble|scrabble|R|V
+hardshell	noun	hard|hard|R|Adj ; shell|shell|R|N
+hardstyle	noun	hard|hard|R|Adj ; style|style|R|N
+harefoot	noun	hare|hare|R|N ; foot|foot|R|N
+harehound	noun	hare|hare|R|N ; hound|hound|R|N
+harelike	adj	hare|hare|R|N ; -like|like|S
+harelipped	adj	hare|hare|R|N ; lip|lipp|R|N ; -ed|ed|S||-ed (adj)
+harira	noun	harira|harira|R|N
+harking	verb	hark|hark|R|V ; -ing|ing|I||-ing (v)
+harl	noun	harl|harl|R|N
+harlequinade	noun	harlequinade|harlequinade|R|N
+harlotry	noun	harlot|harlot|R|N ; -ry|ry|S
+harmal	noun	harmal|harmal|R|N
+harmattan	noun	harmattan|harmattan|R|N
+harmfully	adv	harm|harm|R|V ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+harmonicist	noun	harmonic|harmonic|R|Adj ; -ist|ist|S
+harmonics	noun	harmonics|harmonics|R|N
+harmonist	noun	harmony|harmon|R|N ; -ist|ist|S
+harmotome	noun	harmotome|harmotome|R|N
+harpaline	adj	harpaline|harpaline|R|Adj
+harper	noun	harp|harp|R|V ; -er|er|S||-er (N)
+harpooner	noun	harpoon|harpoon|R|V ; -er|er|S||-er (N)
+harpooning	verb	harpoon|harpoon|R|V ; -ing|ing|I||-ing (v)
+harps	noun	harp|harp|R|N ; -s|s|I||-s (plural)
+harpy	noun	harpy|harpy|R|N
+harquebus	noun	harquebus|harquebus|R|N
+harrying	verb	harry|harry|R|V ; -ing|ing|I||-ing (v)
+hartal	noun	hartal|hartal|R|N
+hartebeest	noun	hartebeest|hartebeest|R|N
+hartshorn	noun	hart|harts|R|N ; horn|horn|R|N
+hartwort	noun	hart|hart|R|N ; wort|wort|R|N
+haruspex	noun	haruspex|haruspex|R|N
+haruspication	noun	haruspication|haruspication|R|N
+harvestman	noun	harvest|harvest|R|N ; man|man|R|N
+hasher	noun	hash|hash|R|V ; -er|er|S||-er (N)
+hashing	verb	hash|hash|R|V ; -ing|ing|I||-ing (v)
+hashtag	noun	hash|hash|R|N ; tag|tag|R|N
+haslet	noun	haslet|haslet|R|N
+hassium	noun	hassium|hassium|R|N
+hastate	adj	hastate|hastate|R|Adj
+hastening	verb	hasten|hasten|R|V ; -ing|ing|I||-ing (v)
+hastiness	noun	hasty|hasti|R|Adj ; -ness|ness|S
+hatable	adj	hate|hat|R|V ; -able|able|S
+hatbrim	noun	hat|hat|R|N ; brim|brim|R|N
+hatcher	noun	hatch|hatch|R|V ; -er|er|S||-er (N)
+hatefulness	noun	hate|hate|R|V ; -ful|ful|S ; -ness|ness|S
+hatemonger	noun	hate|hate|R|V ; monger|monger|R|N
+hating	verb	hate|hat|R|V ; -ing|ing|I||-ing (v)
+hatpin	noun	hat|hat|R|N ; pin|pin|R|N
+hatted	adj	hat|hatt|R|N ; -ed|ed|S||-ed (adj)
+hatting	noun	hat|hatt|R|V ; -ing|ing|S||-ing (N)
+hauberk	noun	hauberk|hauberk|R|N
+haugh	noun	haugh|haugh|R|N
+haulageway	noun	haul|haul|R|V ; -age|age|S ; way|way|R|N
+haulm	noun	haulm|haulm|R|N
+haunter	noun	haunt|haunt|R|V ; -er|er|S||-er (N)
+haustorium	noun	haustorium|haustorium|R|N
+hautboy	noun	hautboy|hautboy|R|N
+haveli	noun	haveli|haveli|R|N
+haver	verb	haver|haver|R|V
+haversine	noun	haversine|haversine|R|N
+haves	noun	have|have|R|V ; -s|s|I||-s (plural)
+hawala	noun	hawala|hawala|R|N
+hawfinch	noun	haw|haw|R|N ; finch|finch|R|N
+hawing	verb	haw|haw|R|V ; -ing|ing|I||-ing (v)
+hawkbit	noun	hawk|hawk|R|N ; bit|bit|R|N
+hawked	verb	hawk|hawk|R|V ; -ed|ed|I||-ed (v2)
+hawking	verb	hawk|hawk|R|V ; -ing|ing|I||-ing (v)
+hawksbeard	noun	hawk|hawks|R|N ; beard|beard|R|N
+hawksbill	noun	hawk|hawks|R|N ; bill|bill|R|N
+hawkweed	noun	hawk|hawk|R|N ; weed|weed|R|N
+hawse	noun	hawse|hawse|R|N
+hawsehole	noun	hawse|hawse|R|N ; hole|hole|R|N
+haybale	noun	hay|hay|R|N ; bale|bale|R|N
+haybox	noun	hay|hay|R|N ; box|box|R|N
+haycock	noun	hay|hay|R|N ; cock|cock|R|N
+hayfork	noun	hay|hay|R|N ; fork|fork|R|N
+haylage	noun	haylage|haylage|R|N
+haymow	noun	hay|hay|R|N ; mow|mow|R|N
+hayrack	noun	hay|hay|R|N ; rack|rack|R|N
+hayrick	noun	hay|hay|R|N ; rick|rick|R|N
+hazarded	verb	hazard|hazard|R|V ; -ed|ed|I||-ed (v2)
+hazarding	verb	hazard|hazard|R|V ; -ing|ing|I||-ing (v)
+hazardously	adv	hazard|hazard|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+hazed	verb	haze|haz|R|V ; -ed|ed|I||-ed (v2)
+hazzan	noun	hazzan|hazzan|R|N
+headachy	adj	head|head|R|N ; ache|ach|R|V ; -y|y|S
+headbutt	noun	head|head|R|N ; butt|butt|R|V
+headforemost	adv	head|head|R|N ; foremost|foremost|R|Adv
+headgate	noun	head|head|R|N ; gate|gate|R|N
+headhouse	noun	head|head|R|N ; house|house|R|N
+headiness	noun	heady|headi|R|Adj ; -ness|ness|S
+headmastership	noun	head|head|R|N ; master|master|R|N ; -ship|ship|S
+headmost	adj	head|head|R|N ; most|most|R|Adv
+headphones	noun	head|head|R|N ; phone|phone|R|N ; -s|s|I||-s (plural)
+headrace	noun	head|head|R|N ; race|race|R|N
+heads	noun	head|head|R|N ; -s|s|I||-s (plural)
+headsail	noun	head|head|R|N ; sail|sail|R|N
+headsman	noun	head|heads|R|N ; man|man|R|N
+headspring	noun	head|head|R|N ; spring|spring|R|N
+headstall	noun	head|head|R|N ; stall|stall|R|N
+headstand	noun	head|head|R|N ; stand|stand|R|V
+headstream	noun	head|head|R|N ; stream|stream|R|N
+headwork	noun	head|head|R|N ; work|work|R|V
+heald	noun	heald|heald|R|N
+healthiness	noun	health|health|R|N ; -y|i|S ; -ness|ness|S
+healthspan	noun	health|health|R|N ; span|span|R|N
+heaping	verb	heap|heap|R|V ; -ing|ing|I||-ing (v)
+heaps	noun	heap|heap|R|N ; -s|s|I||-s (plural)
+heard	verb	hear|heard|R|V ; -ed||I||-ed (v2)
+hearkening	verb	hearken|hearken|R|V ; -ing|ing|I||-ing (v)

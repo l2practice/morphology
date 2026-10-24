@@ -1,0 +1,200 @@
+pastrama	noun	pastrama|pastrama|R|N
+pasturable	adj	pasture|pastur|R|N ; -able|able|S
+pasturer	noun	pasture|pastur|R|N ; -er|er|S||-er (N)
+pasturing	verb	pasture|pastur|R|V ; -ing|ing|I||-ing (v)
+pataca	noun	pataca|pataca|R|N
+patagial	adj	patagium|patagi|R|N ; -al|al|S
+patagium	noun	patagium|patagium|R|N
+patamar	noun	patamar|patamar|R|N
+patchable	adj	patch|patch|R|V ; -able|able|S
+patchery	noun	patch|patch|R|N ; -ery|ery|S
+patching	verb	patch|patch|R|V ; -ing|ing|I||-ing (v)
+patdown	noun	pat|pat|R|V ; down|down|R|Adv
+patellate	adj	patella|patell|R|N ; -ate|ate|S
+patelliform	adj	patelliform|patelliform|R|Adj
+patentability	noun	patentable|patentabil|R|Adj ; -ity|ity|S
+patentor	noun	patent|patent|R|N ; -or|or|S
+patera	noun	patera|patera|R|N
+paternalistically	adv	paternalistic|paternalistic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+paternality	noun	paternal|paternal|R|Adj ; -ity|ity|S
+paternoster	noun	paternoster|paternoster|R|N
+pathetics	noun	pathetics|pathetics|R|N
+pathfinding	noun	path|path|R|N ; find|find|R|V ; -ing|ing|S||-ing (N)
+pathic	adj	pathic|pathic|R|Adj
+pathogenous	adj	pathogenous|pathogenous|R|Adj
+pathologize	verb	pathology|patholog|R|N ; -ize|ize|S
+patinate	verb	patina|patin|R|N ; -ate|ate|S
+patinated	verb	patinate|patinat|R|V ; -ed|ed|I||-ed (v2)
+patination	noun	patinate|patinat|R|V ; -ion|ion|S
+patine	noun	patine|patine|R|N
+patly	adv	pat|pat|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+patness	noun	pat|pat|R|Adj ; -ness|ness|S
+patrial	adj	patria|patri|R|N ; -al|al|S
+patriarchalism	noun	patriarchal|patriarchal|R|Adj ; -ism|ism|S
+patriarchally	adv	patriarchal|patriarchal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+patriarchic	adj	patriarch|patriarch|R|N ; -ic|ic|S
+patricianly	adv	patrician|patrician|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+patricianship	noun	patrician|patrician|R|N ; -ship|ship|S
+patriciate	noun	patrician|patrici|R|N ; -ate|ate|S
+patricidal	adj	patricide|patricid|R|N ; -al|al|S
+patricide	noun	patricide|patricide|R|N
+patrimonially	adv	patrimonial|patrimonial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+patrioteer	noun	patriot|patriot|R|N ; -eer|eer|S
+patristically	adv	patristic|patristic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+patroclinous	adj	patroclinous|patroclinous|R|Adj
+patrocliny	noun	patrocliny|patrocliny|R|N
+patrolled	verb	patrol|patroll|R|V ; -ed|ed|I||-ed (v2)
+patrology	noun	patrology|patrology|R|N
+patronal	adj	patron|patron|R|N ; -al|al|S
+patronization	noun	patronize|patroniz|R|V ; -ation|ation|S
+patronym	noun	patronym|patronym|R|N
+patronymically	adv	patronymic|patronymic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+pattering	verb	patter|patter|R|V ; -ing|ing|I||-ing (v)
+patternable	adj	pattern|pattern|R|N ; -able|able|S
+pattycake	noun	patty|patty|R|N ; cake|cake|R|N
+pattypan	noun	patty|patty|R|N ; pan|pan|R|N
+patulent	adj	patulent|patulent|R|Adj
+patulous	adj	patulous|patulous|R|Adj
+patulously	adv	patulous|patulous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+patulousness	noun	patulous|patulous|R|Adj ; -ness|ness|S
+paucal	adj	paucal|paucal|R|Adj
+pauciflorous	adj	pauciflorous|pauciflorous|R|Adj
+paucifoliate	adj	paucifoliate|paucifoliate|R|Adj
+paucilocular	adj	paucilocular|paucilocular|R|Adj
+paucinervate	adj	paucinervate|paucinervate|R|Adj
+pauldron	noun	pauldron|pauldron|R|N
+paunched	adj	paunch|paunch|R|N ; -ed|ed|S||-ed (adj)
+paunchiness	noun	paunchy|paunchi|R|Adj ; -ness|ness|S
+pauperism	noun	pauper|pauper|R|N ; -ism|ism|S
+pauperize	verb	pauper|pauper|R|N ; -ize|ize|S
+pausing	verb	pause|paus|R|V ; -ing|ing|I||-ing (v)
+pavane	noun	pavane|pavane|R|N
+pavis	noun	pavis|pavis|R|N
+pavlova	noun	pavlova|pavlova|R|N
+pavonine	adj	pavonine|pavonine|R|Adj
+pawa	noun	pawa|pawa|R|N
+pawed	verb	paw|paw|R|V ; -ed|ed|I||-ed (v2)
+pawer	noun	paw|paw|R|V ; -er|er|S||-er (N)
+pawing	verb	paw|paw|R|V ; -ing|ing|I||-ing (v)
+pawkily	adv	pawky|pawki|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pawkiness	noun	pawky|pawki|R|Adj ; -ness|ness|S
+pawky	adj	pawk|pawk|R|N ; -y|y|S
+pawl	noun	pawl|pawl|R|N
+pawnable	adj	pawn|pawn|R|V ; -able|able|S
+pawnage	noun	pawn|pawn|R|V ; -age|age|S
+pawnbroking	noun	pawnbroker|pawnbrok|R|N ; -ing|ing|S||-ing (N)
+pawnee	noun	pawn|pawn|R|V ; -ee|ee|S
+pawner	noun	pawn|pawn|R|V ; -er|er|S||-er (N)
+pawning	verb	pawn|pawn|R|V ; -ing|ing|I||-ing (v)
+paws	noun	paw|paw|R|N ; -s|s|I||-s (plural)
+pax	noun	pax|pax|R|N
+paysage	noun	paysage|paysage|R|N
+paywall	noun	pay|pay|R|V ; wall|wall|R|N
+pe	noun	pe|pe|R|N
+peaceableness	noun	peaceable|peaceable|R|Adj ; -ness|ness|S
+peachfuzz	noun	peach|peach|R|N ; fuzz|fuzz|R|N
+peachick	noun	pea|pea|R|N ; chick|chick|R|N
+peachiness	noun	peachy|peachi|R|Adj ; -ness|ness|S
+peacockery	noun	peacock|peacock|R|N ; -ery|ery|S
+peafowl	noun	pea|pea|R|N ; fowl|fowl|R|N
+peaker	noun	peak|peak|R|V ; -er|er|S||-er (N)
+peaking	verb	peak|peak|R|V ; -ing|ing|I||-ing (v)
+pealing	verb	peal|peal|R|V ; -ing|ing|I||-ing (v)
+pean	noun	pean|pean|R|N
+peanuts	noun	pea|pea|R|N ; nut|nut|R|N ; -s|s|I||-s (plural)
+pearlaceous	adj	pearlaceous|pearlaceous|R|Adj
+pearled	adj	pearl|pearl|R|N ; -ed|ed|S||-ed (adj)
+pearler	noun	pearl|pearl|R|V ; -er|er|S||-er (N)
+pearliness	noun	pearly|pearli|R|Adj ; -ness|ness|S
+pearling	verb	pearl|pearl|R|V ; -ing|ing|I||-ing (v)
+pearlite	noun	pearlite|pearlite|R|N
+pearlwort	noun	pearl|pearl|R|N ; wort|wort|R|N
+pearmain	noun	pearmain|pearmain|R|N
+peasantess	noun	peasant|peasant|R|N ; -ess|ess|S
+peashooter	noun	pea|pea|R|N ; shoot|shoot|R|V ; -er|er|S||-er (N)
+peatery	noun	peat|peat|R|N ; -ery|ery|S
+peatland	noun	peat|peat|R|N ; land|land|R|N
+peatman	noun	peat|peat|R|N ; man|man|R|N
+pebblestone	noun	pebble|pebble|R|N ; stone|stone|R|N
+pebibit	noun	pebibit|pebibit|R|N
+pebibyte	noun	pebibyte|pebibyte|R|N
+peccability	noun	peccable|peccabil|R|Adj ; -ity|ity|S
+peccable	adj	peccable|peccable|R|Adj
+peccaminous	adj	peccaminous|peccaminous|R|Adj
+peccancy	noun	peccancy|peccancy|R|N
+peccantly	adv	peccant|peccant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pectase	noun	pectase|pectase|R|N
+pecten	noun	pecten|pecten|R|N
+pectic	adj	pectin|pect|R|N ; -ic|ic|S
+pectinal	adj	pecten|pectin|R|N ; -al|al|S
+pectinate	adj	pecten|pectin|R|N ; -ate|ate|S
+pectinated	adj	pectinate|pectinat|R|V ; -ed|ed|S||-ed (adj)
+pectination	noun	pectinate|pectinat|R|V ; -ion|ion|S
+pectineal	adj	pectineus|pectine|R|N ; -al|al|S
+pectineus	noun	pectineus|pectineus|R|N
+pectinous	adj	pectin|pectin|R|N ; -ous|ous|S
+pectization	noun	pectize|pectiz|R|V ; -ation|ation|S
+pectoriloquism	noun	pectoriloquy|pectoriloqu|R|N ; -ism|ism|S
+pectose	noun	pectose|pectose|R|N
+pectus	noun	pectus|pectus|R|N
+peculate	verb	peculate|peculate|R|V
+peculation	noun	peculate|peculat|R|V ; -ion|ion|S
+peculator	noun	peculate|peculat|R|V ; -or|or|S
+peculium	noun	peculium|peculium|R|N
+ped	noun	ped|ped|R|N
+pedagogics	noun	pedagogics|pedagogics|R|N
+pedagogism	noun	pedagogy|pedagog|R|N ; -ism|ism|S
+pedalled	verb	pedal|pedall|R|V ; -ed|ed|I||-ed (v2)
+pedalo	noun	pedalo|pedalo|R|N
+pedantically	adv	pedantic|pedantic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+pedantize	verb	pedant|pedant|R|N ; -ize|ize|S
+pedate	adj	pedate|pedate|R|Adj
+pedatifid	adj	pedatifid|pedatifid|R|Adj
+pedelec	noun	pedelec|pedelec|R|N
+pederastic	adj	pederastic|pederastic|R|Adj
+pedes	noun	pedes|pedes|R|N
+pedestrial	adj	pedestrian|pedestri|R|N ; -al|al|S
+pedestrianism	noun	pedestrian|pedestrian|R|N ; -ism|ism|S
+pedestrianization	noun	pedestrianize|pedestrianiz|R|V ; -ation|ation|S
+pedestrianize	verb	pedestrian|pedestrian|R|N ; -ize|ize|S
+pedicel	noun	pedicel|pedicel|R|N
+pedicellaria	noun	pedicellaria|pedicellaria|R|N
+pedicellate	adj	pedicel|pedicell|R|N ; -ate|ate|S
+pedicular	adj	pedicle|pedicul|R|N ; -ar|ar|S
+pediculate	adj	pedicle|pedicul|R|N ; -ate|ate|S
+pediculicide	noun	pediculicide|pediculicide|R|N
+pediculosis	noun	pediculosis|pediculosis|R|N
+pedicurist	noun	pedicure|pedicur|R|N ; -ist|ist|S
+pediluvium	noun	pediluvium|pediluvium|R|N
+pedimental	adj	pediment|pediment|R|N ; -al|al|S
+pedogenesis	noun	pedogenesis|pedogenesis|R|N
+pedogenic	adj	pedogenesis|pedogen|R|N ; -ic|ic|S
+pedologic	adj	pedology|pedolog|R|N ; -ic|ic|S
+pedological	adj	pedology|pedolog|R|N ; -ical|ical|S
+pedologically	adv	pedological|pedological|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pedologist	noun	pedology|pedolog|R|N ; -ist|ist|S
+pedology	noun	pedology|pedology|R|N
+pedophilic	adj	pedophile|pedophil|R|N ; -ic|ic|S
+pedosexual	adj	pedosexual|pedosexual|R|Adj
+peds	noun	ped|ped|R|N ; -s|s|I||-s (plural)
+peduncle	noun	peduncle|peduncle|R|N
+peduncular	adj	peduncle|peduncul|R|N ; -ar|ar|S
+pedunculate	adj	peduncle|peduncul|R|N ; -ate|ate|S
+peed	verb	pee|pee|R|V ; -ed|d|I||-ed (v2)
+peeking	verb	peek|peek|R|V ; -ing|ing|I||-ing (v)
+peen	noun	peen|peen|R|N
+peening	verb	peen|peen|R|V ; -ing|ing|I||-ing (v)
+peepbo	noun	peepbo|peepbo|R|N
+peepul	noun	peepul|peepul|R|N
+peeress	noun	peer|peer|R|N ; -ess|ess|S
+peering	verb	peer|peer|R|V ; -ing|ing|I||-ing (v)
+peerlessly	adv	peer|peer|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+peerlessness	noun	peer|peer|R|N ; -less|less|S ; -ness|ness|S
+peevishness	noun	peevish|peevish|R|Adj ; -ness|ness|S
+pegamoid	noun	pegamoid|pegamoid|R|N
+pegbox	noun	peg|peg|R|N ; box|box|R|N
+pegging	verb	peg|pegg|R|V ; -ing|ing|I||-ing (v)
+pegmatite	noun	pegmatite|pegmatite|R|N
+pegmatitic	adj	pegmatite|pegmatit|R|N ; -ic|ic|S
+pegs	noun	peg|peg|R|N ; -s|s|I||-s (plural)
+pejoration	noun	pejorate|pejorat|R|V ; -ion|ion|S

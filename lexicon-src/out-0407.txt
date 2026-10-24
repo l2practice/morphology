@@ -1,0 +1,200 @@
+unbridle	verb	un-|un|P ; bridle|bridle|R|V
+unbridledly	adv	un-|un|P ; bridle|bridl|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+unbroached	adj	un-|un|P ; broach|broach|R|V ; -ed|ed|S||-ed (adj)
+unbrokenly	adv	un-|un|P ; broken|broken|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+unbrokenness	noun	un-|un|P ; broken|broken|R|Adj ; -ness|ness|S
+unbrotherly	adj	un-|un|P ; brother|brother|R|N ; -ly|ly|S||-ly (adj)
+unbruised	adj	un-|un|P ; bruise|bruis|R|V ; -ed|ed|S||-ed (adj)
+unbrushed	adj	un-|un|P ; brush|brush|R|V ; -ed|ed|S||-ed (adj)
+unbuckling	noun	un-|un|P ; buckle|buckl|R|V ; -ing|ing|S||-ing (N)
+unbudded	adj	un-|un|P ; bud|budd|R|N ; -ed|ed|S||-ed (adj)
+unbudgeable	adj	un-|un|P ; budge|budge|R|V ; -able|able|S
+unbudgeted	adj	un-|un|P ; budget|budget|R|N ; -ed|ed|S||-ed (adj)
+unbudging	adj	un-|un|P ; budge|budg|R|V ; -ing|ing|S||-ing (adj)
+unbuild	verb	un-|un|P ; build|build|R|V
+unbuilt	adj	un-|un|P ; build|built|R|V ; -ed||I||-ed (v2)
+unbung	verb	un-|un|P ; bung|bung|R|N
+unburdened	adj	un-|un|P ; burden|burden|R|N ; -ed|ed|S||-ed (adj)
+unburdening	noun	un-|un|P ; burden|burden|R|N ; -ing|ing|S||-ing (N)
+unbureaucratic	adj	un-|un|P ; bureaucrat|bureaucrat|R|N ; -ic|ic|S
+unburnable	adj	un-|un|P ; burn|burn|R|V ; -able|able|S
+unburnished	adj	un-|un|P ; burnish|burnish|R|V ; -ed|ed|S||-ed (adj)
+unbury	verb	un-|un|P ; bury|bury|R|V
+unbusinesslike	adj	un-|un|P ; business|business|R|N ; -like|like|S
+unbusy	adj	un-|un|P ; busy|busy|R|Adj
+unbuttoning	noun	un-|un|P ; button|button|R|N ; -ing|ing|S||-ing (N)
+unbuttressed	adj	un-|un|P ; buttress|buttress|R|N ; -ed|ed|S||-ed (adj)
+unbuying	noun	un-|un|P ; buy|buy|R|V ; -ing|ing|S||-ing (N)
+uncage	verb	un-|un|P ; cage|cage|R|N
+uncalcined	adj	un-|un|P ; calcine|calcin|R|V ; -ed|ed|S||-ed (adj)
+uncalibrated	adj	un-|un|P ; calibrate|calibrat|R|V ; -ed|ed|S||-ed (adj)
+uncalloused	adj	un-|un|P ; callous|callous|R|Adj ; -ed|ed|S||-ed (adj)
+uncamouflaged	adj	un-|un|P ; camouflage|camouflag|R|V ; -ed|ed|S||-ed (adj)
+uncancelled	adj	un-|un|P ; cancel|cancell|R|V ; -ed|ed|S||-ed (adj)
+uncandid	adj	un-|un|P ; candid|candid|R|Adj
+uncandidness	noun	un-|un|P ; candid|candid|R|Adj ; -ness|ness|S
+uncanniness	noun	un-|un|P ; canny|canni|R|Adj ; -ness|ness|S
+uncanonized	adj	un-|un|P ; canonize|canoniz|R|V ; -ed|ed|S||-ed (adj)
+uncapitalized	adj	un-|un|P ; capitalize|capitaliz|R|V ; -ed|ed|S||-ed (adj)
+uncapping	noun	un-|un|P ; cap|capp|R|N ; -ing|ing|S||-ing (N)
+uncapturable	adj	un-|un|P ; capture|captur|R|V ; -able|able|S
+uncaptured	adj	un-|un|P ; capture|captur|R|V ; -ed|ed|S||-ed (adj)
+uncareful	adj	un-|un|P ; care|care|R|N ; -ful|ful|S
+uncart	verb	un-|un|P ; cart|cart|R|N
+uncase	verb	un-|un|P ; case|case|R|N
+uncashed	adj	un-|un|P ; cash|cash|R|N ; -ed|ed|S||-ed (adj)
+uncastrated	adj	un-|un|P ; castrate|castrat|R|V ; -ed|ed|S||-ed (adj)
+uncatalogued	adj	un-|un|P ; catalogue|catalogu|R|N ; -ed|ed|S||-ed (adj)
+uncate	adj	uncate|uncate|R|Adj
+uncategorical	adj	un-|un|P ; category|categor|R|N ; -ical|ical|S
+uncaught	adj	un-|un|P ; catch|caught|R|V ; -ed||I||-ed (v2)
+uncauterized	adj	un-|un|P ; cauterize|cauteriz|R|V ; -ed|ed|S||-ed (adj)
+unceasingness	noun	un-|un|P ; cease|ceas|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+uncemented	adj	un-|un|P ; cement|cement|R|N ; -ed|ed|S||-ed (adj)
+uncensorious	adj	un-|un|P ; censor|censor|R|N ; -ious|ious|S
+uncensurable	adj	un-|un|P ; censure|censur|R|V ; -able|able|S
+uncensured	adj	un-|un|P ; censure|censur|R|V ; -ed|ed|S||-ed (adj)
+unceremoniousness	noun	un-|un|P ; ceremony|ceremoni|R|N ; -ous|ous|S ; -ness|ness|S
+uncertainness	noun	un-|un|P ; certain|certain|R|Adj ; -ness|ness|S
+uncertificated	adj	un-|un|P ; certificate|certificat|R|N ; -ed|ed|S||-ed (adj)
+unchain	verb	un-|un|P ; chain|chain|R|N
+unchainable	adj	un-|un|P ; chain|chain|R|N ; -able|able|S
+unchallengeably	adv	un-|un|P ; challenge|challenge|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+unchancy	adj	un-|un|P ; chancy|chancy|R|Adj
+unchangeability	noun	un-|un|P ; change|change|R|V ; -able|abil|S ; -ity|ity|S
+unchangeableness	noun	un-|un|P ; change|change|R|V ; -able|able|S ; -ness|ness|S
+unchangeably	adv	un-|un|P ; change|change|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+unchangingly	adv	un-|un|P ; change|chang|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+unchangingness	noun	un-|un|P ; change|chang|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+uncharge	verb	un-|un|P ; charge|charge|R|V
+uncharitableness	noun	un-|un|P ; charity|charit|R|N ; -able|able|S ; -ness|ness|S
+uncharm	verb	un-|un|P ; charm|charm|R|N
+uncharming	adj	un-|un|P ; charm|charm|R|N ; -ing|ing|S||-ing (adj)
+uncharred	adj	un-|un|P ; char|charr|R|V ; -ed|ed|S||-ed (adj)
+unchary	adj	un-|un|P ; chary|chary|R|Adj
+unchaste	adj	un-|un|P ; chaste|chaste|R|Adj
+unchastely	adv	un-|un|P ; chaste|chaste|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+unchastened	adj	un-|un|P ; chasten|chasten|R|V ; -ed|ed|S||-ed (adj)
+unchasteness	noun	un-|un|P ; chaste|chaste|R|Adj ; -ness|ness|S
+unchastised	adj	un-|un|P ; chastise|chastis|R|V ; -ed|ed|S||-ed (adj)
+unchastity	noun	un-|un|P ; chaste|chast|R|Adj ; -ity|ity|S
+unchauvinistic	adj	un-|un|P ; chauvinist|chauvinist|R|N ; -ic|ic|S
+uncheated	adj	un-|un|P ; cheat|cheat|R|V ; -ed|ed|S||-ed (adj)
+uncheckable	adj	un-|un|P ; check|check|R|V ; -able|able|S
+uncheerful	adj	un-|un|P ; cheer|cheer|R|N ; -ful|ful|S
+unchewable	adj	un-|un|P ; chew|chew|R|V ; -able|able|S
+unchewed	adj	un-|un|P ; chew|chew|R|V ; -ed|ed|S||-ed (adj)
+unchic	adj	un-|un|P ; chic|chic|R|Adj
+unchiselled	adj	un-|un|P ; chisel|chisell|R|N ; -ed|ed|S||-ed (adj)
+unchivalrous	adj	un-|un|P ; chivalry|chivalr|R|N ; -ous|ous|S
+unchlorinated	adj	un-|un|P ; chlorinate|chlorinat|R|V ; -ed|ed|S||-ed (adj)
+unchoke	verb	un-|un|P ; choke|choke|R|V
+unchristened	adj	un-|un|P ; christen|christen|R|V ; -ed|ed|S||-ed (adj)
+unchristian	adj	un-|un|P ; christian|christian|R|Adj
+unchristianize	verb	un-|un|P ; christian|christian|R|Adj ; -ize|ize|S
+unchronicled	adj	un-|un|P ; chronicle|chronicl|R|N ; -ed|ed|S||-ed (adj)
+unchronological	adj	un-|un|P ; chronology|chronolog|R|N ; -ical|ical|S
+unchurch	verb	un-|un|P ; church|church|R|N
+unchurched	adj	un-|un|P ; church|church|R|N ; -ed|ed|S||-ed (adj)
+uncial	adj	uncial|uncial|R|Adj
+unciform	adj	unciform|unciform|R|Adj
+unciliated	adj	un-|un|P ; ciliate|ciliat|R|N ; -ed|ed|S||-ed (adj)
+uncinate	adj	uncinate|uncinate|R|Adj
+uncinematic	adj	un-|un|P ; cinema|cinemat|R|N ; -ic|ic|S
+uncirculated	adj	un-|un|P ; circulate|circulat|R|V ; -ed|ed|S||-ed (adj)
+uncircumcision	noun	un-|un|P ; circumcision|circumcision|R|N
+uncircumscribed	adj	un-|un|P ; circumscribe|circumscrib|R|V ; -ed|ed|S||-ed (adj)
+uncircumstantial	adj	un-|un|P ; circumstance|circumstanti|R|N ; -ial|al|S
+uncivilizedly	adv	un-|un|P ; civilize|civiliz|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+uncivilizedness	noun	un-|un|P ; civilize|civiliz|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+uncivilly	adv	un-|un|P ; civil|civil|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+uncivilness	noun	un-|un|P ; civil|civil|R|Adj ; -ness|ness|S
+unclad	adj	un-|un|P ; clad|clad|R|Adj
+unclamp	verb	un-|un|P ; clamp|clamp|R|N
+unclamped	adj	un-|un|P ; clamp|clamp|R|N ; -ed|ed|S||-ed (adj)
+unclarified	adj	un-|un|P ; clarify|clarifi|R|V ; -ed|ed|S||-ed (adj)
+unclarity	noun	un-|un|P ; clarity|clarity|R|N
+unclasping	noun	un-|un|P ; clasp|clasp|R|N ; -ing|ing|S||-ing (N)
+unclassed	adj	un-|un|P ; class|class|R|N ; -ed|ed|S||-ed (adj)
+unclassical	adj	un-|un|P ; classic|classic|R|Adj ; -al|al|S
+uncleanable	adj	un-|un|P ; clean|clean|R|Adj ; -able|able|S
+uncleanly	adj	un-|un|P ; clean|clean|R|Adj ; -ly|ly|S||-ly (adj)
+uncleanness	noun	un-|un|P ; clean|clean|R|Adj ; -ness|ness|S
+uncleansed	adj	un-|un|P ; cleanse|cleans|R|V ; -ed|ed|S||-ed (adj)
+unclearness	noun	un-|un|P ; clear|clear|R|Adj ; -ness|ness|S
+unclefucker	noun	uncle|uncle|R|N ; fuck|fuck|R|V ; -er|er|S||-er (N)
+uncleless	adj	uncle|uncle|R|N ; -less|less|S
+unclerical	adj	un-|un|P ; cleric|cleric|R|N ; -al|al|S
+unclick	verb	un-|un|P ; click|click|R|V
+unclimbable	adj	un-|un|P ; climb|climb|R|V ; -able|able|S
+unclimbed	adj	un-|un|P ; climb|climb|R|V ; -ed|ed|S||-ed (adj)
+uncloak	verb	un-|un|P ; cloak|cloak|R|N
+uncloaked	adj	un-|un|P ; cloak|cloak|R|N ; -ed|ed|S||-ed (adj)
+uncloister	verb	un-|un|P ; cloister|cloister|R|N
+unclose	verb	un-|un|P ; close|close|R|V
+unclosed	adj	un-|un|P ; close|clos|R|V ; -ed|ed|S||-ed (adj)
+unclothe	verb	un-|un|P ; clothe|clothe|R|V
+uncloying	adj	un-|un|P ; cloy|cloy|R|V ; -ing|ing|S||-ing (adj)
+unclubbable	adj	un-|un|P ; club|clubb|R|N ; -able|able|S
+unclue	verb	un-|un|P ; clue|clue|R|N
+unclutch	verb	un-|un|P ; clutch|clutch|R|N
+unclutter	verb	un-|un|P ; clutter|clutter|R|N
+unco	adj	unco|unco|R|Adj
+uncoagulated	adj	un-|un|P ; coagulate|coagulat|R|V ; -ed|ed|S||-ed (adj)
+uncock	verb	un-|un|P ; cock|cock|R|N
+uncocked	adj	un-|un|P ; cock|cock|R|N ; -ed|ed|S||-ed (adj)
+uncoded	adj	un-|un|P ; code|cod|R|N ; -ed|ed|S||-ed (adj)
+uncodified	adj	un-|un|P ; codify|codifi|R|V ; -ed|ed|S||-ed (adj)
+uncoerced	adj	un-|un|P ; coerce|coerc|R|V ; -ed|ed|S||-ed (adj)
+uncoercive	adj	un-|un|P ; coerce|coerc|R|V ; -ive|ive|S
+uncoffined	adj	un-|un|P ; coffin|coffin|R|N ; -ed|ed|S||-ed (adj)
+uncoiling	noun	un-|un|P ; coil|coil|R|N ; -ing|ing|S||-ing (N)
+uncoined	adj	un-|un|P ; coin|coin|R|N ; -ed|ed|S||-ed (adj)
+uncolloquial	adj	un-|un|P ; colloquy|colloqui|R|N ; -al|al|S
+uncombative	adj	un-|un|P ; combat|combat|R|V ; -ive|ive|S
+uncombinable	adj	un-|un|P ; combine|combin|R|V ; -able|able|S
+uncombined	adj	un-|un|P ; combine|combin|R|V ; -ed|ed|S||-ed (adj)
+uncomeliness	noun	un-|un|P ; comely|comeli|R|Adj ; -ness|ness|S
+uncomely	adj	un-|un|P ; comely|comely|R|Adj
+uncomfortableness	noun	un-|un|P ; comfort|comfort|R|N ; -able|able|S ; -ness|ness|S
+uncomforted	adj	un-|un|P ; comfort|comfort|R|N ; -ed|ed|S||-ed (adj)
+uncomic	adj	un-|un|P ; comic|comic|R|Adj
+uncommanding	adj	un-|un|P ; command|command|R|V ; -ing|ing|S||-ing (adj)
+uncommendable	adj	un-|un|P ; commend|commend|R|V ; -able|able|S
+uncomment	verb	un-|un|P ; comment|comment|R|N
+uncommented	adj	un-|un|P ; comment|comment|R|N ; -ed|ed|S||-ed (adj)
+uncommercialized	adj	un-|un|P ; commercialize|commercializ|R|V ; -ed|ed|S||-ed (adj)
+uncommissioned	adj	un-|un|P ; commission|commission|R|N ; -ed|ed|S||-ed (adj)
+uncommonness	noun	un-|un|P ; common|common|R|Adj ; -ness|ness|S
+uncommunicable	adj	un-|un|P ; communicate|communic|R|V ; -able|able|S
+uncompacted	adj	un-|un|P ; compact|compact|R|Adj ; -ed|ed|S||-ed (adj)
+uncompassionate	adj	un-|un|P ; compassion|compassion|R|N ; -ate|ate|S
+uncompelling	adj	un-|un|P ; compel|compell|R|V ; -ing|ing|S||-ing (adj)
+uncomplacent	adj	un-|un|P ; complacent|complacent|R|Adj
+uncomplaining	adj	un-|un|P ; complain|complain|R|V ; -ing|ing|S||-ing (adj)
+uncomplainingly	adv	un-|un|P ; complain|complain|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+uncomplainingness	noun	un-|un|P ; complain|complain|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+uncomplaisant	adj	un-|un|P ; complaisant|complaisant|R|Adj
+uncomplying	adj	un-|un|P ; comply|comply|R|V ; -ing|ing|S||-ing (adj)
+uncompounded	adj	un-|un|P ; compound|compound|R|N ; -ed|ed|S||-ed (adj)
+uncomprehended	adj	un-|un|P ; comprehend|comprehend|R|V ; -ed|ed|S||-ed (adj)
+uncomprehensible	adj	un-|un|P ; comprehend|comprehens|R|V ; -ible|ible|S
+uncomputerized	adj	un-|un|P ; computerize|computeriz|R|V ; -ed|ed|S||-ed (adj)
+uncomradely	adj	un-|un|P ; comrade|comrade|R|N ; -ly|ly|S||-ly (adj)
+unconceivable	adj	un-|un|P ; con-|con|P ; -ceive|ceiv|B|V ; -able|able|S
+unconcernedness	noun	un-|un|P ; concern|concern|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unconcerted	adj	un-|un|P ; concert|concert|R|N ; -ed|ed|S||-ed (adj)
+unconcluded	adj	un-|un|P ; conclude|conclud|R|V ; -ed|ed|S||-ed (adj)
+unconclusive	adj	un-|un|P ; con-|con|P ; -clude|clus|B|V ; -ive|ive|S
+uncondemned	adj	un-|un|P ; condemn|condemn|R|V ; -ed|ed|S||-ed (adj)
+uncondensed	adj	un-|un|P ; condense|condens|R|V ; -ed|ed|S||-ed (adj)
+unconditionality	noun	un-|un|P ; condition|condition|R|N ; -al|al|S ; -ity|ity|S
+unconditionalness	noun	un-|un|P ; condition|condition|R|N ; -al|al|S ; -ness|ness|S
+unconditionedness	noun	un-|un|P ; condition|condition|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unconducive	adj	un-|un|P ; con-|con|P ; -duce|duc|B|V ; -ive|ive|S
+unconfessed	adj	un-|un|P ; confess|confess|R|V ; -ed|ed|S||-ed (adj)
+unconfident	adj	un-|un|P ; confide|confid|R|V ; -ent|ent|S
+unconformability	noun	un-|un|P ; con-|con|P ; form|form|R|V ; -able|abil|S ; -ity|ity|S
+unconformable	adj	un-|un|P ; con-|con|P ; form|form|R|V ; -able|able|S
+unconformableness	noun	un-|un|P ; con-|con|P ; form|form|R|V ; -able|able|S ; -ness|ness|S
+unconformably	adv	un-|un|P ; con-|con|P ; form|form|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)

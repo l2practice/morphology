@@ -1,0 +1,200 @@
+photomask	noun	photo|photo|R|N ; mask|mask|R|N
+photomechanical	adj	photo|photo|R|N ; mechanical|mechanical|R|Adj
+photometrically	adv	photo|photo|R|N ; metric|metric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+photometrist	noun	photo|photo|R|N ; meter|metr|R|N ; -ist|ist|S
+photomicrographer	noun	photomicrography|photomicrograph|R|N ; -er|er|S||-er (N)
+photomicrographic	adj	photomicrography|photomicrograph|R|N ; -ic|ic|S
+photomicrography	noun	photomicrography|photomicrography|R|N
+photomicroscope	noun	photo|photo|R|N ; microscope|microscope|R|N
+photonastic	adj	photonastic|photonastic|R|Adj
+photonegative	noun	photo|photo|R|N ; negative|negative|R|Adj
+photoneutron	noun	photo|photo|R|N ; neutron|neutron|R|N
+photonuclear	adj	photo|photo|R|N ; nuclear|nuclear|R|Adj
+photopaper	noun	photo|photo|R|N ; paper|paper|R|N
+photopeak	noun	photo|photo|R|N ; peak|peak|R|N
+photoperiod	noun	photo|photo|R|N ; period|period|R|N
+photophase	noun	photo|photo|R|N ; phase|phase|R|N
+photophilic	adj	photophilic|photophilic|R|Adj
+photophobia	noun	photophobia|photophobia|R|N
+photophobic	adj	photophobic|photophobic|R|Adj
+photophone	noun	photophone|photophone|R|N
+photophore	noun	photophore|photophore|R|N
+photophoresis	noun	photophoresis|photophoresis|R|N
+photopia	noun	photopia|photopia|R|N
+photoplay	noun	photo|photo|R|N ; play|play|R|N
+photopositive	noun	photo|photo|R|N ; positive|positive|R|Adj
+photoprint	noun	photo|photo|R|N ; print|print|R|N
+photoproduct	noun	photo|photo|R|N ; product|product|R|N
+photoreaction	noun	photo|photo|R|N ; reaction|reaction|R|N
+photoreactivation	noun	photo|photo|R|N ; reactivate|reactivat|R|V ; -ion|ion|S
+photorealism	noun	photo|photo|R|N ; realism|realism|R|N
+photorealistic	adj	photo|photo|R|N ; realistic|realistic|R|Adj
+photoreception	noun	photoreception|photoreception|R|N
+photoreconnaissance	noun	photo|photo|R|N ; reconnaissance|reconnaissance|R|N
+photoreduction	noun	photo|photo|R|N ; reduction|reduction|R|N
+photoresist	noun	photo|photo|R|N ; resist|resist|R|V
+photoresistance	noun	photo|photo|R|N ; resistance|resistance|R|N
+photoresistor	noun	photo|photo|R|N ; resist|resist|R|V ; -or|or|S
+photorespiration	noun	photo|photo|R|N ; respiration|respiration|R|N
+photosensitivity	noun	photo|photo|R|N ; sensitivity|sensitivity|R|N
+photosensitize	verb	photo|photo|R|N ; sensitize|sensitize|R|V
+photoshop	verb	photo|photo|R|N ; shop|shop|R|V
+photoshopped	adj	photo|photo|R|N ; shop|shopp|R|V ; -ed|ed|S||-ed (adj)
+photospheric	adj	photosphere|photospher|R|N ; -ic|ic|S
+photostage	noun	photo|photo|R|N ; stage|stage|R|N
+photosynthesizing	verb	photosynthesizing|photosynthesizing|R|V
+photosynthetically	adv	photosynthetic|photosynthetic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+phototactic	adj	phototactic|phototactic|R|Adj
+phototaxis	noun	phototaxis|phototaxis|R|N
+phototelegraphy	noun	phototelegraphy|phototelegraphy|R|N
+phototherapeutic	adj	photo|photo|R|N ; therapeutic|therapeutic|R|Adj
+phototherapy	noun	photo|photo|R|N ; therapy|therapy|R|N
+phototonus	noun	phototonus|phototonus|R|N
+phototopography	noun	phototopography|phototopography|R|N
+phototoxic	adj	photo|photo|R|N ; toxic|toxic|R|Adj
+phototransistor	noun	photo|photo|R|N ; transistor|transistor|R|N
+phototrophic	adj	phototrophic|phototrophic|R|Adj
+phototrophy	noun	phototrophy|phototrophy|R|N
+phototropic	adj	phototropic|phototropic|R|Adj
+phototropism	noun	phototropism|phototropism|R|N
+phototube	noun	photo|photo|R|N ; tube|tube|R|N
+phototype	noun	photo|photo|R|N ; type|type|R|N
+phototypesetting	noun	photo|photo|R|N ; typeset|typesett|R|V ; -ing|ing|S||-ing (N)
+photovaristor	noun	photo|photo|R|N ; varistor|varistor|R|N
+photovoltaics	noun	photovoltaic|photovoltaic|R|Adj ; -s|s|I||-s (plural)
+photozincography	noun	photozincography|photozincography|R|N
+phragma	noun	phragma|phragma|R|N
+phragmoplast	noun	phragmoplast|phragmoplast|R|N
+phragmosome	noun	phragmosome|phragmosome|R|N
+phrasal	adj	phrase|phras|R|N ; -al|al|S
+phrasally	adv	phrase|phras|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+phraseogram	noun	phraseogram|phraseogram|R|N
+phraseograph	noun	phraseograph|phraseograph|R|N
+phraseographic	adj	phraseography|phraseograph|R|N ; -ic|ic|S
+phraseological	adj	phraseology|phraseolog|R|N ; -ical|ical|S
+phraseologist	noun	phraseology|phraseolog|R|N ; -ist|ist|S
+phreaking	noun	phreak|phreak|R|V ; -ing|ing|S||-ing (N)
+phreatic	adj	phreatic|phreatic|R|Adj
+phrenalgia	noun	phrenalgia|phrenalgia|R|N
+phrenic	adj	phrenic|phrenic|R|Adj
+phrenitis	noun	phrenitis|phrenitis|R|N
+phrenologic	adj	phrenology|phrenolog|R|N ; -ic|ic|S
+phrontistery	noun	phrontistery|phrontistery|R|N
+phthalazine	noun	phthalazine|phthalazine|R|N
+phthalein	noun	phthalein|phthalein|R|N
+phthiriasis	noun	phthiriasis|phthiriasis|R|N
+phthisic	adj	phthisic|phthisic|R|Adj
+phthisical	adj	phthisic|phthisic|R|Adj ; -al|al|S
+phugoid	adj	phugoid|phugoid|R|Adj
+phut	interj	phut|phut|R
+phycological	adj	phycology|phycolog|R|N ; -ical|ical|S
+phycology	noun	phycology|phycology|R|N
+phycomycete	noun	phycomycete|phycomycete|R|N
+phylactic	adj	phylactic|phylactic|R|Adj
+phylaxis	noun	phylaxis|phylaxis|R|N
+phyle	noun	phyle|phyle|R|N
+phyletic	adj	phyletic|phyletic|R|Adj
+phyletically	adv	phyletic|phyletic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+phyllite	noun	phyllite|phyllite|R|N
+phylloclade	noun	phylloclade|phylloclade|R|N
+phyllode	noun	phyllode|phyllode|R|N
+phyllome	noun	phyllome|phyllome|R|N
+phyllophagous	adj	phyllophagous|phyllophagous|R|Adj
+phyllopod	noun	phyllopod|phyllopod|R|N
+phyllostome	noun	phyllostome|phyllostome|R|N
+phyllotaxis	noun	phyllotaxis|phyllotaxis|R|N
+phylogenesis	noun	phylogenesis|phylogenesis|R|N
+phylogenetics	noun	phylogenetic|phylogenetic|R|Adj ; -s|s|I||-s (plural)
+phylogenic	adj	phylogeny|phylogen|R|N ; -ic|ic|S
+physalis	noun	physalis|physalis|R|N
+physicalism	noun	physical|physical|R|Adj ; -ism|ism|S
+physicalist	noun	physical|physical|R|Adj ; -ist|ist|S
+physicism	noun	physic|physic|R|N ; -ism|ism|S
+physicochemical	adj	physicochemical|physicochemical|R|Adj
+physiocrat	noun	physiocrat|physiocrat|R|N
+physiogeny	noun	physiogeny|physiogeny|R|N
+physiognomical	adj	physiognomy|physiognom|R|N ; -ical|ical|S
+physiognomically	adv	physiognomy|physiognom|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+physiognomist	noun	physiognomy|physiognom|R|N ; -ist|ist|S
+physiographer	noun	physiography|physiograph|R|N ; -er|er|S||-er (N)
+physiographical	adj	physiography|physiograph|R|N ; -ical|ical|S
+physiographically	adv	physiography|physiograph|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+physiography	noun	physiography|physiography|R|N
+physiotherapeutic	adj	physiotherapy|physiotherapeut|R|N ; -ic|ic|S
+phytochemistry	noun	phytochemistry|phytochemistry|R|N
+phytocoenosis	noun	phytocoenosis|phytocoenosis|R|N
+phytogenesis	noun	phytogenesis|phytogenesis|R|N
+phytogenetic	adj	phytogenetic|phytogenetic|R|Adj
+phytogenetically	adv	phytogenetic|phytogenetic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+phytogeny	noun	phytogeny|phytogeny|R|N
+phytogeographical	adj	phytogeography|phytogeograph|R|N ; -ical|ical|S
+phytogeography	noun	phytogeography|phytogeography|R|N
+phytography	noun	phytography|phytography|R|N
+phytomining	noun	phytomining|phytomining|R|N
+phytonym	noun	phytonym|phytonym|R|N
+phytopathological	adj	phytopathology|phytopatholog|R|N ; -ical|ical|S
+phytopathologist	noun	phytopathology|phytopatholog|R|N ; -ist|ist|S
+phytopathology	noun	phytopathology|phytopathology|R|N
+phytophagous	adj	phytophagous|phytophagous|R|Adj
+phytosanitary	adj	phytosanitary|phytosanitary|R|Adj
+phytosterol	noun	phytosterol|phytosterol|R|N
+phytotherapy	noun	phytotherapy|phytotherapy|R|N
+phytotoxic	adj	phytotoxic|phytotoxic|R|Adj
+phytotoxin	noun	phytotoxin|phytotoxin|R|N
+phytozoon	noun	phytozoon|phytozoon|R|N
+piacular	adj	piacular|piacular|R|Adj
+piaffe	verb	piaffe|piaffe|R|V
+piaffer	noun	piaffe|piaff|R|V ; -er|er|S||-er (N)
+pianette	noun	piano|pian|R|N ; -ette|ette|S
+pianino	noun	pianino|pianino|R|N
+pianistic	adj	pianist|pianist|R|N ; -ic|ic|S
+pianola	noun	pianola|pianola|R|N
+piaster	noun	piaster|piaster|R|N
+piastre	noun	piastre|piastre|R|N
+pibroch	noun	pibroch|pibroch|R|N
+picamar	noun	picamar|picamar|R|N
+picanha	noun	picanha|picanha|R|N
+picaroon	noun	picaroon|picaroon|R|N
+picayunish	adj	picayune|picayun|R|N ; -ish|ish|S
+piccalilli	noun	piccalilli|piccalilli|R|N
+piccoloist	noun	piccolo|piccolo|R|N ; -ist|ist|S
+picene	noun	picene|picene|R|N
+piciform	adj	piciform|piciform|R|Adj
+pickelhaube	noun	pickelhaube|pickelhaube|R|N
+pickleball	noun	pickle|pickle|R|N ; ball|ball|R|N
+pickler	noun	pickle|pickl|R|V ; -er|er|S||-er (N)
+pickles	noun	pickle|pickle|R|N ; -s|s|I||-s (plural)
+picklock	noun	pick|pick|R|V ; lock|lock|R|N
+pickthank	noun	pick|pick|R|V ; thank|thank|R|V
+picot	noun	picot|picot|R|N
+picotee	noun	picotee|picotee|R|N
+picric	adj	picric|picric|R|Adj
+pictographically	adv	pictography|pictograph|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+pictography	noun	pictography|pictography|R|N
+pictoriality	noun	pictorial|pictorial|R|Adj ; -ity|ity|S
+pictures	noun	picture|picture|R|N ; -s|s|I||-s (plural)
+picturesqueness	noun	picturesque|picturesque|R|Adj ; -ness|ness|S
+picturing	noun	picture|pictur|R|V ; -ing|ing|S||-ing (N)
+picul	noun	picul|picul|R|N
+piculet	noun	piculet|piculet|R|N
+piddly	adj	piddle|piddl|R|V ; -y|y|S
+piddock	noun	piddock|piddock|R|N
+pide	noun	pide|pide|R|N
+pidginization	noun	pidginize|pidginiz|R|V ; -ation|ation|S
+pidginize	verb	pidgin|pidgin|R|N ; -ize|ize|S
+pieced	adj	piece|piec|R|V ; -ed|ed|S||-ed (adj)
+piecer	noun	piece|piec|R|V ; -er|er|S||-er (N)
+piecewise	adv	piece|piece|R|N ; -wise|wise|S
+pieceworker	noun	piece|piece|R|N ; work|work|R|V ; -er|er|S||-er (N)
+piecing	noun	piece|piec|R|V ; -ing|ing|S||-ing (N)
+piedfort	noun	piedfort|piedfort|R|N
+piehole	noun	pie|pie|R|N ; hole|hole|R|N
+pieing	noun	pie|pie|R|V ; -ing|ing|S||-ing (N)
+pieman	noun	pie|pie|R|N ; man|man|R|N
+piemontite	noun	piemontite|piemontite|R|N
+pierage	noun	pier|pier|R|N ; -age|age|S
+piercer	noun	pierce|pierc|R|V ; -er|er|S||-er (N)
+pierogi	noun	pierogi|pierogi|R|N
+pierrot	noun	pierrot|pierrot|R|N
+pietist	noun	piety|piet|R|N ; -ist|ist|S
+pietistical	adj	pietist|pietist|R|N ; -ical|ical|S

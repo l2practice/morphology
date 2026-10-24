@@ -1,0 +1,200 @@
+enfeeblement	noun	en-|en|P ; feeble|feeble|R|Adj ; -ment|ment|S
+enfeebler	noun	en-|en|P ; feeble|feebl|R|Adj ; -er|er|S||-er (N)
+enfeebling	adj	en-|en|P ; feeble|feebl|R|Adj ; -ing|ing|S||-ing (adj)
+enfeoff	verb	enfeoff|enfeoff|R|V
+enfeoffment	noun	enfeoff|enfeoff|R|V ; -ment|ment|S
+enfetter	verb	en-|en|P ; fetter|fetter|R|V
+enfilade	noun	enfilade|enfilade|R|N
+enfleurage	noun	enfleurage|enfleurage|R|N
+enfolder	noun	en-|en|P ; fold|fold|R|V ; -er|er|S||-er (N)
+enforcedly	adv	en-|en|P ; force|forc|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+enframe	verb	en-|en|P ; frame|frame|R|V
+eng	noun	eng|eng|R|N
+engager	noun	engage|engag|R|V ; -er|er|S||-er (N)
+engarland	verb	en-|en|P ; garland|garland|R|N
+engendered	adj	en-|en|P ; gender|gender|R|N ; -ed|ed|S||-ed (adj)
+engenderer	noun	en-|en|P ; gender|gender|R|N ; -er|er|S||-er (N)
+engendering	adj	en-|en|P ; gender|gender|R|N ; -ing|ing|S||-ing (adj)
+engild	verb	en-|en|P ; gild|gild|R|V
+engineership	noun	engine|engin|R|N ; -eer|eer|S ; -ship|ship|S
+engird	verb	en-|en|P ; gird|gird|R|V
+engirdle	verb	en-|en|P ; girdle|girdle|R|N
+engirt	adj	engirt|engirt|R|Adj
+englacial	adj	en-|en|P ; glacial|glacial|R|Adj
+english	noun	english|english|R|N
+engobe	noun	engobe|engobe|R|N
+engraft	verb	en-|en|P ; graft|graft|R|V
+engraftment	noun	en-|en|P ; graft|graft|R|V ; -ment|ment|S
+engrail	verb	engrail|engrail|R|V
+engrossingly	adv	en-|en|P ; gross|gross|R|Adj ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+engrossment	noun	en-|en|P ; gross|gross|R|Adj ; -ment|ment|S
+engulfment	noun	en-|en|P ; gulf|gulf|R|N ; -ment|ment|S
+enhalo	verb	en-|en|P ; halo|halo|R|N
+enhancive	adj	enhance|enhanc|R|V ; -ive|ive|S
+enharmonic	adj	en-|en|P ; harmonic|harmonic|R|Adj
+enharmonically	adv	en-|en|P ; harmonic|harmonic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+enhydrous	adj	en-|en|P ; hydrous|hydrous|R|Adj
+enigmatical	adj	enigma|enigmat|R|N ; -ical|ical|S
+enigmatist	noun	enigma|enigmat|R|N ; -ist|ist|S
+enigmatize	verb	enigma|enigmat|R|N ; -ize|ize|S
+enisle	verb	en-|en|P ; isle|isle|R|N
+enjoined	adj	en-|en|P ; join|join|R|V ; -ed|ed|S||-ed (adj)
+enjoiner	noun	en-|en|P ; join|join|R|V ; -er|er|S||-er (N)
+enjoyableness	noun	enjoy|enjoy|R|V ; -able|able|S ; -ness|ness|S
+enjoyer	noun	enjoy|enjoy|R|V ; -er|er|S||-er (N)
+enkindler	noun	en-|en|P ; kindle|kindl|R|V ; -er|er|S||-er (N)
+enlace	verb	en-|en|P ; lace|lace|R|V
+enlacement	noun	en-|en|P ; lace|lace|R|V ; -ment|ment|S
+enlightener	noun	en-|en|P ; light|light|R|N ; -en|en|S ; -er|er|S||-er (N)
+enlink	verb	en-|en|P ; link|link|R|V
+enlisted	adj	en-|en|P ; list|list|R|V ; -ed|ed|S||-ed (adj)
+enlivener	noun	en-|en|P ; live|liv|R|V ; -en|en|S ; -er|er|S||-er (N)
+enlivening	adj	en-|en|P ; live|liv|R|V ; -en|en|S ; -ing|ing|S||-ing (adj)
+enlivenment	noun	en-|en|P ; live|liv|R|V ; -en|en|S ; -ment|ment|S
+enmeshing	adj	en-|en|P ; mesh|mesh|R|N ; -ing|ing|S||-ing (adj)
+enneacontagon	noun	enneacontagon|enneacontagon|R|N
+enneacontahexagon	noun	enneacontahexagon|enneacontahexagon|R|N
+ennead	noun	ennead|ennead|R|N
+enneadecagon	noun	enneadecagon|enneadecagon|R|N
+enneadecahedron	noun	enneadecahedron|enneadecahedron|R|N
+enneagon	noun	enneagon|enneagon|R|N
+enneagonal	adj	enneagon|enneagon|R|N ; -al|al|S
+enneagram	noun	enneagram|enneagram|R|N
+enneahedral	adj	enneahedron|enneahedr|R|N ; -al|al|S
+enneahedron	noun	enneahedron|enneahedron|R|N
+ennealogy	noun	ennealogy|ennealogy|R|N
+enneandrous	adj	enneandrous|enneandrous|R|Adj
+enneapetalous	adj	enneapetalous|enneapetalous|R|Adj
+enneastyle	noun	enneastyle|enneastyle|R|N
+enneasyllabic	adj	enneasyllabic|enneasyllabic|R|Adj
+ennobled	adj	en-|en|P ; noble|nobl|R|Adj ; -ed|ed|S||-ed (adj)
+ennoblement	noun	en-|en|P ; noble|noble|R|Adj ; -ment|ment|S
+ennobler	noun	en-|en|P ; noble|nobl|R|Adj ; -er|er|S||-er (N)
+enol	noun	enol|enol|R|N
+enolase	noun	enolase|enolase|R|N
+enomotarch	noun	enomotarch|enomotarch|R|N
+enomoty	noun	enomoty|enomoty|R|N
+enormousness	noun	enormous|enormous|R|Adj ; -ness|ness|S
+enounce	verb	enounce|enounce|R|V
+enouncement	noun	enounce|enounce|R|V ; -ment|ment|S
+enphytotic	adj	enphytotic|enphytotic|R|Adj
+enplane	verb	en-|en|P ; plane|plane|R|V
+enqueue	verb	en-|en|P ; queue|queue|R|N
+enragement	noun	en-|en|P ; rage|rage|R|N ; -ment|ment|S
+enraging	adj	en-|en|P ; rage|rag|R|N ; -ing|ing|S||-ing (adj)
+enrapturement	noun	en-|en|P ; rapture|rapture|R|N ; -ment|ment|S
+enravish	verb	en-|en|P ; ravish|ravish|R|V
+enravishment	noun	en-|en|P ; ravish|ravish|R|V ; -ment|ment|S
+enregiment	verb	en-|en|P ; regiment|regiment|R|N
+enregister	verb	en-|en|P ; register|register|R|V
+enricher	noun	en-|en|P ; rich|rich|R|Adj ; -er|er|S||-er (N)
+enring	verb	en-|en|P ; ring|ring|R|V
+enrobe	verb	en-|en|P ; robe|robe|R|N
+enrolling	verb	enrol|enroll|R|V ; -ing|ing|I||-ing (v)
+enroot	verb	en-|en|P ; root|root|R|N
+ens	noun	ens|ens|R|N
+ensanguine	verb	en-|en|P ; sanguine|sanguine|R|Adj
+ensanguined	adj	en-|en|P ; sanguine|sanguin|R|Adj ; -ed|ed|S||-ed (adj)
+enschedule	verb	en-|en|P ; schedule|schedule|R|V
+enseal	verb	en-|en|P ; seal|seal|R|V
+ensepulcher	verb	en-|en|P ; sepulcher|sepulcher|R|N
+ensete	noun	ensete|ensete|R|N
+enshittification	noun	enshittification|enshittification|R|N
+enshrining	adj	en-|en|P ; shrine|shrin|R|N ; -ing|ing|S||-ing (adj)
+enshrouding	adj	en-|en|P ; shroud|shroud|R|V ; -ing|ing|S||-ing (adj)
+ensiform	adj	ensiform|ensiform|R|Adj
+ensigncy	noun	ensign|ensign|R|N ; -cy|cy|S
+ensilage	noun	ensilage|ensilage|R|N
+ensile	verb	ensile|ensile|R|V
+ensisternum	noun	ensisternum|ensisternum|R|N
+enslaver	noun	en-|en|P ; slave|slav|R|N ; -er|er|S||-er (N)
+enslaving	adj	en-|en|P ; slave|slav|R|N ; -ing|ing|S||-ing (adj)
+ensmallen	verb	en-|en|P ; small|small|R|Adj ; -en|en|S
+ensnarement	noun	en-|en|P ; snare|snare|R|N ; -ment|ment|S
+ensnarer	noun	en-|en|P ; snare|snar|R|N ; -er|er|S||-er (N)
+ensnaring	adj	en-|en|P ; snare|snar|R|N ; -ing|ing|S||-ing (adj)
+ensnarl	verb	en-|en|P ; snarl|snarl|R|V
+ensorcell	verb	ensorcell|ensorcell|R|V
+ensoul	verb	en-|en|P ; soul|soul|R|N
+ensphere	verb	en-|en|P ; sphere|sphere|R|N
+enstatite	noun	enstatite|enstatite|R|N
+ensuant	adj	en-|en|P ; sue|su|R|V ; -ant|ant|S
+enswathe	verb	en-|en|P ; swathe|swathe|R|V
+enswathement	noun	en-|en|P ; swathe|swathe|R|V ; -ment|ment|S
+entailed	adj	en-|en|P ; tail|tail|R|V ; -ed|ed|S||-ed (adj)
+entangler	noun	en-|en|P ; tangle|tangl|R|V ; -er|er|S||-er (N)
+entasis	noun	entasis|entasis|R|N
+entelechy	noun	entelechy|entelechy|R|N
+entellus	noun	entellus|entellus|R|N
+enterable	adj	enter|enter|R|V ; -able|able|S
+enteralgia	noun	enteralgia|enteralgia|R|N
+enterectomy	noun	enterectomy|enterectomy|R|N
+entering	verb	enter|enter|R|V ; -ing|ing|I||-ing (v)
+enteritidis	noun	enteritidis|enteritidis|R|N
+enterobacterial	adj	enterobacterial|enterobacterial|R|Adj
+enterobacterium	noun	enterobacterium|enterobacterium|R|N
+enterocoele	noun	enterocoele|enterocoele|R|N
+enterocolitis	noun	enterocolitis|enterocolitis|R|N
+enterogastrone	noun	enterogastrone|enterogastrone|R|N
+enterohepatic	adj	enterohepatic|enterohepatic|R|Adj
+enterokinase	noun	enterokinase|enterokinase|R|N
+enterolite	noun	enterolite|enterolite|R|N
+enterolith	noun	enterolith|enterolith|R|N
+enterology	noun	enterology|enterology|R|N
+enteron	noun	enteron|enteron|R|N
+enteropathogenic	adj	enteropathogenic|enteropathogenic|R|Adj
+enteroptosis	noun	enteroptosis|enteroptosis|R|N
+enterorrhagia	noun	enterorrhagia|enterorrhagia|R|N
+enterostomy	noun	enterostomy|enterostomy|R|N
+enterotomy	noun	enterotomy|enterotomy|R|N
+enterpriser	noun	enterprise|enterpris|R|N ; -er|er|S||-er (N)
+enterprisingly	adv	enterprise|enterpris|R|N ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+entertained	adj	entertain|entertain|R|V ; -ed|ed|S||-ed (adj)
+enthesis	noun	enthesis|enthesis|R|N
+enthesopathy	noun	enthesopathy|enthesopathy|R|N
+enthralled	adj	en-|en|P ; thrall|thrall|R|N ; -ed|ed|S||-ed (adj)
+enthrallingly	adv	en-|en|P ; thrall|thrall|R|N ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+enthrallment	noun	en-|en|P ; thrall|thrall|R|N ; -ment|ment|S
+enthrone	verb	en-|en|P ; throne|throne|R|N
+enthroning	adj	en-|en|P ; throne|thron|R|N ; -ing|ing|S||-ing (adj)
+enthused	adj	enthuse|enthus|R|V ; -ed|ed|S||-ed (adj)
+enthymeme	noun	enthymeme|enthymeme|R|N
+enticed	adj	entice|entic|R|V ; -ed|ed|S||-ed (adj)
+enticer	noun	entice|entic|R|V ; -er|er|S||-er (N)
+entireness	noun	entire|entire|R|Adj ; -ness|ness|S
+entitative	adj	entity|entit|R|N ; -ative|ative|S
+entoblast	noun	entoblast|entoblast|R|N
+entodermal	adj	entodermal|entodermal|R|Adj
+entoil	verb	en-|en|P ; toil|toil|R|V
+entomic	adj	entomic|entomic|R|Adj
+entomochory	noun	entomochory|entomochory|R|N
+entomofauna	noun	entomofauna|entomofauna|R|N
+entomogamous	adj	entomogamous|entomogamous|R|Adj
+entomogamy	noun	entomogamy|entomogamy|R|N
+entomologic	adj	entomology|entomolog|R|N ; -ic|ic|S
+entomologically	adv	entomology|entomolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+entomologize	verb	entomology|entomolog|R|N ; -ize|ize|S
+entomophagous	adj	entomophagous|entomophagous|R|Adj
+entomophilic	adj	entomophilic|entomophilic|R|Adj
+entomophilous	adj	entomophilous|entomophilous|R|Adj
+entomophily	noun	entomophily|entomophily|R|N
+entomophobia	noun	entomophobia|entomophobia|R|N
+entomostracan	noun	entomostracan|entomostracan|R|N
+entomotomy	noun	entomotomy|entomotomy|R|N
+entophyte	noun	entophyte|entophyte|R|N
+entophytic	adj	entophyte|entophyt|R|N ; -ic|ic|S
+entopic	adj	entopic|entopic|R|Adj
+entoptic	adj	entoptic|entoptic|R|Adj
+entotic	adj	entotic|entotic|R|Adj
+entotympanic	adj	entotympanic|entotympanic|R|Adj
+entrainment	noun	en-|en|P ; train|train|R|V ; -ment|ment|S
+entrammel	verb	en-|en|P ; trammel|trammel|R|N
+entrancement	noun	en-|en|P ; trance|trance|R|N ; -ment|ment|S
+entrancingly	adv	en-|en|P ; trance|tranc|R|N ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+entreasure	verb	en-|en|P ; treasure|treasure|R|N
+entreating	adj	entreat|entreat|R|V ; -ing|ing|S||-ing (adj)
+entreatingly	adv	entreat|entreat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+entrechat	noun	entrechat|entrechat|R|N
+entremets	noun	entremets|entremets|R|N
+entrepreneurialism	noun	entrepreneurial|entrepreneurial|R|Adj ; -ism|ism|S
+entrepreneurism	noun	entrepreneur|entrepreneur|R|N ; -ism|ism|S

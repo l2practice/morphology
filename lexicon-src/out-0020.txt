@@ -1,0 +1,200 @@
+eric	noun	eric|eric|R|N
+ballot	noun	ballot|ballot|R|N
+web	noun	web|web|R|N
+justification	noun	just|just|R|Adj ; -ify|ifi|S ; -ation|cation|S
+southeast	noun	south|south|R|N ; east|east|R|N
+dean	noun	dean|dean|R|N
+driving	noun	drive|driv|R|V ; -ing|ing|S||-ing (N)
+rhetoric	noun	rhetoric|rhetoric|R|N
+harris	noun	harris|harris|R|N
+stance	noun	stance|stance|R|N
+vitamin	noun	vitamin|vitamin|R|N
+probability	noun	probable|probabil|R|Adj ; -ity|ity|S
+wilderness	noun	wilderness|wilderness|R|N
+oxygen	noun	oxygen|oxygen|R|N
+praise	verb	praise|praise|R|V
+breed	verb	breed|breed|R|V
+endless	adj	end|end|R|N ; -less|less|S
+explicit	adj	explicit|explicit|R|Adj
+mandate	noun	mandate|mandate|R|N
+seminar	noun	seminar|seminar|R|N
+chaos	noun	chaos|chaos|R|N
+doorway	noun	door|door|R|N ; way|way|R|N
+abstract	adj	abstract|abstract|R|Adj
+delegate	verb	delegate|delegate|R|V
+ross	noun	ross|ross|R|N
+canvas	noun	canvas|canvas|R|N
+defender	noun	defend|defend|R|V ; -er|er|S||-er (N)
+portfolio	noun	portfolio|portfolio|R|N
+profound	adj	profound|profound|R|Adj
+successive	adj	success|success|R|N ; -ive|ive|S
+abolish	verb	abolish|abolish|R|V
+lobby	noun	lobby|lobby|R|N
+sensation	noun	sense|sens|R|N ; -ation|ation|S
+trait	noun	trait|trait|R|N
+allege	verb	allege|allege|R|V
+apologize	verb	apology|apolog|R|N ; -ize|ize|S
+beam	noun	beam|beam|R|N
+comparable	adj	compare|compar|R|V ; -able|able|S
+corruption	noun	corrupt|corrupt|R|V ; -ion|ion|S
+astronomer	noun	astronomy|astronom|R|N ; -er|er|S||-er (N)
+premium	noun	premium|premium|R|N
+contractor	noun	contract|contract|R|V ; -or|or|S
+density	noun	dense|dens|R|Adj ; -ity|ity|S
+availability	noun	avail|avail|R|V ; -able|abil|S ; -ity|ity|S
+installation	noun	install|install|R|V ; -ation|ation|S
+appendix	noun	appendix|appendix|R|N
+thumb	noun	thumb|thumb|R|N
+bastard	noun	bastard|bastard|R|N
+horrible	adj	horrible|horrible|R|Adj
+modification	noun	modify|modifi|R|V ; -ation|cation|S
+behavioral	adj	behavior|behavior|R|N ; -al|al|S
+classification	noun	classify|classifi|R|V ; -ation|cation|S
+offender	noun	offend|offend|R|V ; -er|er|S||-er (N)
+scatter	verb	scatter|scatter|R|V
+associated	adj	associate|associat|R|V ; -ed|ed|S||-ed (adj)
+forum	noun	forum|forum|R|N
+capitalism	noun	capital|capital|R|N ; -ism|ism|S
+fork	noun	fork|fork|R|N
+frown	verb	frown|frown|R|V
+caroline	noun	caroline|caroline|R|N
+polytechnic	noun	polytechnic|polytechnic|R|N
+computing	noun	compute|comput|R|V ; -ing|ing|S||-ing (N)
+relieve	verb	relieve|relieve|R|V
+timing	noun	time|tim|R|N ; -ing|ing|S||-ing (N)
+interfere	verb	interfere|interfere|R|V
+meaningful	adj	mean|mean|R|V ; -ing|ing|S||-ing (N) ; -ful|ful|S
+sidewalk	noun	side|side|R|N ; walk|walk|R|N
+sooner	adv	soon|soon|R|Adv ; -er|er|I||-er (comparative)
+technological	adj	technology|technolog|R|N ; -ical|ical|S
+separately	adv	separate|separate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+regret	verb	regret|regret|R|V
+signature	noun	signature|signature|R|N
+mild	adj	mild|mild|R|Adj
+wow	interj	wow|wow|R
+delicate	adj	delicate|delicate|R|Adj
+panic	noun	panic|panic|R|N
+spouse	noun	spouse|spouse|R|N
+frozen	adj	freeze|frozen|R|V ; -en||I||-en (participle)
+officially	adv	official|official|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bonus	noun	bonus|bonus|R|N
+resume	verb	resume|resume|R|V
+casual	adj	casual|casual|R|Adj
+seventeen	det	seventeen|seventeen|R
+sodium	noun	sodium|sodium|R|N
+riot	noun	riot|riot|R|N
+persist	verb	persist|persist|R|V
+inherit	verb	inherit|inherit|R|V
+extract	verb	extract|extract|R|V
+forehead	noun	fore-|fore|P ; head|head|R|N
+lesser	adj	less|less|R|Adj ; -er|er|I||-er (comparative)
+rebuild	verb	re-|re|P ; build|build|R|V
+hook	noun	hook|hook|R|N
+wool	noun	wool|wool|R|N
+bounce	verb	bounce|bounce|R|V
+steep	adj	steep|steep|R|Adj
+click	verb	click|click|R|V
+locally	adv	local|local|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+insert	verb	insert|insert|R|V
+glory	noun	glory|glory|R|N
+exit	noun	exit|exit|R|N
+dedicate	verb	dedicate|dedicate|R|V
+dull	adj	dull|dull|R|Adj
+brave	adj	brave|brave|R|Adj
+backwards	adv	backwards|backwards|R|Adv
+pickup	noun	pick|pick|R|V ; up|up|R|Adv
+twentieth	adj	twentieth|twentieth|R|Adj
+carve	verb	carve|carve|R|V
+pity	noun	pity|pity|R|N
+partial	adj	part|part|R|N ; -ial|ial|S
+belly	noun	belly|belly|R|N
+packet	noun	packet|packet|R|N
+conceive	verb	con-|con|P ; -ceive|ceive|B|V
+scare	verb	scare|scare|R|V
+skilled	adj	skill|skill|R|N ; -ed|ed|S||-ed (adj)
+cater	verb	cater|cater|R|V
+morris	noun	morris|morris|R|N
+shuttle	noun	shuttle|shuttle|R|N
+invisible	adj	in-|in|P ; vis|vis|B|V ; -ible|ible|S
+engagement	noun	engage|engage|R|V ; -ment|ment|S
+ankle	noun	ankle|ankle|R|N
+swimming	noun	swim|swimm|R|V ; -ing|ing|S||-ing (N)
+rescue	verb	rescue|rescue|R|V
+counterpart	noun	counter-|counter|P ; part|part|R|N
+historically	adv	history|histor|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+severely	adv	severe|severe|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+marvellous	adj	marvel|marvell|R|N ; -ous|ous|S
+instruct	verb	in-|in|P ; -struct|struct|B|V
+noon	noun	noon|noon|R|N
+happily	adv	happy|happi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+doll	noun	doll|doll|R|N
+neat	adj	neat|neat|R|Adj
+rider	noun	ride|rid|R|V ; -er|er|S||-er (N)
+amid	prep	amid|amid|R
+opt	verb	opt|opt|R|V
+intensive	adj	intense|intens|R|Adj ; -ive|ive|S
+trader	noun	trade|trad|R|V ; -er|er|S||-er (N)
+isolate	verb	isolate|isolate|R|V
+carbohydrate	noun	carbohydrate|carbohydrate|R|N
+diagnose	verb	diagnose|diagnose|R|V
+envisage	verb	envisage|envisage|R|V
+elegant	adj	elegant|elegant|R|Adj
+theology	noun	theology|theology|R|N
+poster	noun	post|post|R|V ; -er|er|S||-er (N)
+concession	noun	con-|con|P ; cede|cess|R|V ; -ion|ion|S
+crawl	verb	crawl|crawl|R|V
+nonprofit	noun	non-|non|P ; profit|profit|R|N
+handsome	adj	handsome|handsome|R|Adj
+tutor	noun	tutor|tutor|R|N
+lonely	adj	lone|lone|R|Adj ; -ly|ly|S||-ly (adj)
+instinct	noun	instinct|instinct|R|N
+promising	adj	promise|promis|R|V ; -ing|ing|S||-ing (adj)
+damp	adj	damp|damp|R|Adj
+donor	noun	donor|donor|R|N
+jazz	noun	jazz|jazz|R|N
+eagle	noun	eagle|eagle|R|N
+pastor	noun	pastor|pastor|R|N
+preliminary	adj	preliminary|preliminary|R|Adj
+inn	noun	inn|inn|R|N
+trainer	noun	train|train|R|V ; -er|er|S||-er (N)
+diagram	noun	diagram|diagram|R|N
+vertical	adj	vertical|vertical|R|Adj
+hug	verb	hug|hug|R|V
+fancy	adj	fancy|fancy|R|Adj
+ambulance	noun	ambulance|ambulance|R|N
+pavement	noun	pave|pave|R|V ; -ment|ment|S
+concede	verb	con-|con|P ; cede|cede|R|V
+punish	verb	punish|punish|R|V
+sphere	noun	sphere|sphere|R|N
+holding	noun	hold|hold|R|V ; -ing|ing|S||-ing (N)
+ray	noun	ray|ray|R|N
+nest	noun	nest|nest|R|N
+reign	noun	reign|reign|R|N
+teenage	adj	teen|teen|R|N ; -age|age|S
+parallel	adj	parallel|parallel|R|Adj
+happiness	noun	happy|happi|R|Adj ; -ness|ness|S
+elevator	noun	elevate|elevat|R|V ; -or|or|S
+influential	adj	influence|influent|R|N ; -ial|ial|S
+statue	noun	statue|statue|R|N
+clash	verb	clash|clash|R|V
+pursuit	noun	pursuit|pursuit|R|N
+tropical	adj	tropic|tropic|R|N ; -al|al|S
+entity	noun	entity|entity|R|N
+gym	noun	gym|gym|R|N
+redundancy	noun	redundant|redundan|R|Adj ; -cy|cy|S
+alleged	adj	allege|alleg|R|V ; -ed|ed|S||-ed (adj)
+disclose	verb	dis-|dis|P ; close|close|R|V
+liberation	noun	liberate|liberat|R|V ; -ion|ion|S
+fist	noun	fist|fist|R|N
+pat	verb	pat|pat|R|V
+jenny	noun	jenny|jenny|R|N
+reporting	noun	report|report|R|V ; -ing|ing|S||-ing (N)
+destination	noun	destine|destin|R|V ; -ation|ation|S
+endorse	verb	endorse|endorse|R|V
+update	verb	up-|up|P ; date|date|R|N
+exploration	noun	explore|explor|R|V ; -ation|ation|S
+tray	noun	tray|tray|R|N
+thesis	noun	thesis|thesis|R|N
+feedback	noun	feed|feed|R|V ; back|back|R|Adv
+commonwealth	noun	common|common|R|Adj ; wealth|wealth|R|N
+delegation	noun	delegate|delegat|R|V ; -ion|ion|S

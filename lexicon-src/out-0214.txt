@@ -1,0 +1,200 @@
+demerge	verb	de-|de|P ; merge|merge|R|V
+crabwise	adv	crab|crab|R|N ; -wise|wise|S
+chough	noun	chough|chough|R|N
+cashpoint	noun	cash|cash|R|N ; point|point|R|N
+bootmaker	noun	boot|boot|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+blobby	adj	blob|blobb|R|N ; -y|y|S
+besetting	verb	be-|be|P ; set|sett|R|V ; -ing|ing|I||-ing (v)
+absurdist	noun	absurd|absurd|R|Adj ; -ist|ist|S
+mutch	noun	mutch|mutch|R|N
+maru	noun	maru|maru|R|N
+mandrake	noun	mandrake|mandrake|R|N
+gib	noun	gib|gib|R|N
+daw	noun	daw|daw|R|N
+spyhole	noun	spy|spy|R|N ; hole|hole|R|N
+sinusoidally	adv	sinusoidal|sinusoidal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+shortcrust	noun	short|short|R|Adj ; crust|crust|R|N
+replicable	adj	replicate|replic|R|V ; -able|able|S
+purlin	noun	purlin|purlin|R|N
+oversubscribed	adj	over-|over|P ; subscribe|subscrib|R|V ; -ed|ed|S||-ed (adj)
+lieutenancy	noun	lieutenant|lieuten|R|N ; -ancy|ancy|S
+intercalate	verb	intercalate|intercalate|R|V
+herby	adj	herb|herb|R|N ; -y|y|S
+disentitle	verb	dis-|dis|P ; entitle|entitle|R|V
+cycleway	noun	cycle|cycle|R|N ; way|way|R|N
+contextualize	verb	contextual|contextual|R|Adj ; -ize|ize|S
+arcading	noun	arcade|arcad|R|N ; -ing|ing|S||-ing (N)
+antiphonal	adj	antiphon|antiphon|R|N ; -al|al|S
+maunder	verb	maunder|maunder|R|V
+matin	noun	matin|matin|R|N
+foreland	noun	fore-|fore|P ; land|land|R|N
+zippo	noun	zippo|zippo|R|N
+unserviceable	adj	un-|un|P ; service|service|R|N ; -able|able|S
+unfrequented	adj	un-|un|P ; frequent|frequent|R|V ; -ed|ed|S||-ed (adj)
+sedimentological	adj	sedimentological|sedimentological|R|Adj
+rozzer	noun	rozzer|rozzer|R|N
+prizegiving	noun	prize|prize|R|N ; give|giv|R|V ; -ing|ing|S||-ing (N)
+milt	noun	milt|milt|R|N
+groyne	noun	groyne|groyne|R|N
+flexitime	noun	flexi|flexi|R|Adj ; time|time|R|N
+estop	verb	estop|estop|R|V
+emplace	verb	em-|em|P|||en- ; place|place|R|V
+electrochemistry	noun	electro|electro|R|N ; chemistry|chemistry|R|N
+canalize	verb	canal|canal|R|N ; -ize|ize|S
+zhou	noun	zhou|zhou|R|N
+pao	noun	pao|pao|R|N
+meer	noun	meer|meer|R|N
+har	noun	har|har|R|N
+tabard	noun	tabard|tabard|R|N
+seigneurial	adj	seigneur|seigneur|R|N ; -ial|ial|S
+reelection	noun	re-|re|P ; elect|elect|R|V ; -ion|ion|S
+pube	noun	pube|pube|R|N
+paten	noun	paten|paten|R|N
+passerine	adj	passerine|passerine|R|Adj
+pairwise	adv	pair|pair|R|N ; -wise|wise|S
+looseleaf	adj	loose|loose|R|Adj ; leaf|leaf|R|N
+landlordism	noun	landlord|landlord|R|N ; -ism|ism|S
+greenkeeper	noun	green|green|R|Adj ; keep|keep|R|V ; -er|er|S||-er (N)
+eldritch	adj	eldritch|eldritch|R|Adj
+dimethyl	noun	dimethyl|dimethyl|R|N
+confirming	verb	confirm|confirm|R|V ; -ing|ing|I||-ing (v)
+chancer	noun	chance|chanc|R|N ; -er|er|S||-er (N)
+bullrush	noun	bull|bull|R|N ; rush|rush|R|N
+strathspey	noun	strathspey|strathspey|R|N
+hui	noun	hui|hui|R|N
+douce	adj	douce|douce|R|Adj
+unctuously	adv	unctuous|unctuous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+tra	interj	tra|tra|R|N
+tenderer	noun	tender|tender|R|V ; -er|er|S||-er (N)
+splosh	verb	splosh|splosh|R|V
+slattern	noun	slattern|slattern|R|N
+reduplicate	verb	re-|re|P ; duplicate|duplicate|R|V
+prebend	noun	prebend|prebend|R|N
+oast	noun	oast|oast|R|N
+moaner	noun	moan|moan|R|V ; -er|er|S||-er (N)
+leaved	adj	leaf|leav|R|N ; -ed|ed|S||-ed (adj)
+ingratiatingly	adv	ingratiate|ingratiat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+foxhound	noun	fox|fox|R|N ; hound|hound|R|N
+equestrianism	noun	equestrian|equestrian|R|Adj ; -ism|ism|S
+denitrification	noun	de-|de|P ; nitrify|nitrifi|R|V ; -ation|cation|S
+commis	noun	commis|commis|R|N
+clerkly	adj	clerk|clerk|R|N ; -ly|ly|S||-ly (adj)
+chee	noun	chee|chee|R|N
+batholith	noun	batholith|batholith|R|N
+domine	noun	domine|domine|R|N
+petrological	adj	petrological|petrological|R|Adj
+bodyshell	noun	body|body|R|N ; shell|shell|R|N
+kama	noun	kama|kama|R|N
+centrale	noun	centrale|centrale|R|N
+brogan	noun	brogan|brogan|R|N
+aa	noun	aa|aa|R|N
+aak	noun	aak|aak|R|N
+aalii	noun	aalii|aalii|R|N
+aardwolf	noun	aard|aard|R|N ; wolf|wolf|R|N
+aarti	noun	aarti|aarti|R|N
+aasvogel	noun	aasvogel|aasvogel|R|N
+abac	noun	abac|abac|R|N
+abaca	noun	abaca|abaca|R|N
+abacist	noun	abacist|abacist|R|N
+abacterial	adj	a-|a|P ; bacterial|bacterial|R|Adj
+abaction	noun	abaction|abaction|R|N
+abaft	prep	abaft|abaft|R|Adv
+abalienate	verb	abalienate|abalienate|R|V
+abampere	noun	abampere|abampere|R|N
+abandonable	adj	abandon|abandon|R|V ; -able|able|S
+abandoner	noun	abandon|abandon|R|V ; -er|er|S||-er (N)
+abandonware	noun	abandon|abandon|R|V ; ware|ware|R|N
+abarognosis	noun	abarognosis|abarognosis|R|N
+abarticular	adj	abarticular|abarticular|R|Adj
+abased	adj	abase|abas|R|V ; -ed|ed|S||-ed (adj)
+abashing	verb	abash|abash|R|V ; -ing|ing|I||-ing (v)
+abashment	noun	abash|abash|R|V ; -ment|ment|S
+abasia	noun	abasia|abasia|R|N
+abasic	adj	abasic|abasic|R|Adj
+abask	verb	abask|abask|R|V
+abatable	adj	abate|abat|R|V ; -able|able|S
+abated	verb	abate|abat|R|V ; -ed|ed|I||-ed (v2)
+abater	noun	abate|abat|R|V ; -er|er|S||-er (N)
+abating	verb	abate|abat|R|V ; -ing|ing|I||-ing (v)
+abatis	noun	abatis|abatis|R|N
+abatised	adj	abatis|abatis|R|N ; -ed|ed|S||-ed (adj)
+abaton	noun	abaton|abaton|R|N
+abaxial	adj	abaxial|abaxial|R|Adj
+abaxially	adv	abaxial|abaxial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+abbacy	noun	abbot|abba|R|N ; -cy|cy|S
+abbatial	adj	abbot|abbat|R|N ; -ial|ial|S
+abbotship	noun	abbot|abbot|R|N ; -ship|ship|S
+abbreviator	noun	abbreviate|abbreviat|R|V ; -or|or|S
+abbreviature	noun	abbreviate|abbreviat|R|V ; -ure|ure|S
+abcauline	adj	abcauline|abcauline|R|Adj
+abciximab	noun	abciximab|abciximab|R|N
+abderian	adj	abderian|abderian|R|Adj
+abdicable	adj	abdicate|abdic|R|V ; -able|able|S
+abdicant	noun	abdicate|abdic|R|V ; -ant|ant|S
+abdicator	noun	abdicate|abdic|R|V ; -or|ator|S
+abdominally	adv	abdominal|abdominal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+abdominocentesis	noun	abdominocentesis|abdominocentesis|R|N
+abdominoplasty	noun	abdominoplasty|abdominoplasty|R|N
+abdominoscopy	noun	abdominoscopy|abdominoscopy|R|N
+abdominous	adj	abdomen|abdomin|R|N ; -ous|ous|S
+abduce	verb	abduce|abduce|R|V
+abductive	adj	abduce|abduct|R|V ; -ive|ive|S
+abeam	adv	abeam|abeam|R|Adv
+abearance	noun	abear|abear|R|V ; -ance|ance|S
+abecedarian	noun	abecedary|abecedari|R|N ; -an|an|S
+abecedary	noun	abecedary|abecedary|R|N
+abele	noun	abele|abele|R|N
+abelian	adj	abelian|abelian|R|Adj
+abelmosk	noun	abelmosk|abelmosk|R|N
+abend	verb	abend|abend|R|V
+abenteric	adj	abenteric|abenteric|R|Adj
+aberrance	noun	aberrant|aberr|R|Adj ; -ance|ance|S
+aberrancy	noun	aberrant|aberr|R|Adj ; -ancy|ancy|S
+aberrantly	adv	aberrant|aberrant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+aberrate	verb	aberrate|aberrate|R|V
+abessive	adj	abessive|abessive|R|Adj
+abetalipoproteinemia	noun	abetalipoproteinemia|abetalipoproteinemia|R|N
+abetment	noun	abet|abet|R|V ; -ment|ment|S
+abettal	noun	abet|abett|R|V ; -al|al|S
+abetting	verb	abet|abett|R|V ; -ing|ing|I||-ing (v)
+abettor	noun	abet|abett|R|V ; -or|or|S
+abeyant	adj	abeyant|abeyant|R|Adj
+abhisheka	noun	abhisheka|abhisheka|R|N
+abhorred	verb	abhor|abhorr|R|V ; -ed|ed|I||-ed (v2)
+abhorrently	adv	abhorrent|abhorrent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+abhorrer	noun	abhor|abhorr|R|V ; -er|er|S||-er (N)
+abhorring	verb	abhor|abhorr|R|V ; -ing|ing|I||-ing (v)
+abibliophobia	noun	abibliophobia|abibliophobia|R|N
+abidance	noun	abide|abid|R|V ; -ance|ance|S
+abider	noun	abide|abid|R|V ; -er|er|S||-er (N)
+abidingly	adv	abide|abid|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+abience	noun	abience|abience|R|N
+abient	adj	abient|abient|R|Adj
+abies	noun	abies|abies|R|N
+abietene	noun	abietene|abietene|R|N
+abiogenesis	noun	abiogenesis|abiogenesis|R|N
+abiogenetic	adj	abiogenetic|abiogenetic|R|Adj
+abiogenetically	adv	abiogenetic|abiogenetic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+abiogenist	noun	abiogenist|abiogenist|R|N
+abiogenous	adj	abiogenous|abiogenous|R|Adj
+abiogeny	noun	abiogeny|abiogeny|R|N
+abiological	adj	a-|a|P ; biological|biological|R|Adj
+abiologically	adv	a-|a|P ; biological|biological|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+abioseston	noun	abioseston|abioseston|R|N
+abiosis	noun	abiosis|abiosis|R|N
+abiotically	adv	a-|a|P ; biotic|biotic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+abiotrophic	adj	abiotrophic|abiotrophic|R|Adj
+abiotrophy	noun	abiotrophy|abiotrophy|R|N
+abirritant	adj	abirritant|abirritant|R|Adj
+abirritate	verb	abirritate|abirritate|R|V
+abirritation	noun	abirritation|abirritation|R|N
+abiu	noun	abiu|abiu|R|N
+abjad	noun	abjad|abjad|R|N
+abjectness	noun	abject|abject|R|Adj ; -ness|ness|S
+abjudicate	verb	abjudicate|abjudicate|R|V
+abjudication	noun	abjudication|abjudication|R|N
+abjuration	noun	abjure|abjur|R|V ; -ation|ation|S
+abjured	verb	abjure|abjur|R|V ; -ed|ed|I||-ed (v2)
+abjurer	noun	abjure|abjur|R|V ; -er|er|S||-er (N)
+ablactation	noun	ablactation|ablactation|R|N
+ablastous	adj	ablastous|ablastous|R|Adj

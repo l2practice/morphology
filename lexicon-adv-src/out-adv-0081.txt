@@ -1,0 +1,150 @@
+sentential	adj	=
+phosphide	noun	=
+engram	noun	=
+catenary	noun	=
+phlebotomy	noun	=
+antinomian	adj	anti-|anti|P||||Greek anti- 'against' ; -nom-|nom|B|N|||Greek nomos 'law' ; -ian|ian|S||||Latin -ianus 'believer'
+dialectal	adj	=
+doula	noun	=
+murine	adj	=
+hypostatic	adj	=
+formic	adj	form-|form|B|N|||Latin formica 'ant' ; -ic|ic|S||||Latin -icus 'relating to'
+coeval	adj	co-|co|P||||Latin con- 'equal' ; -eval|eval|B|N|||Latin aevum 'age'
+participial	adj	=
+recrudescence	noun	=
+endoskeleton	noun	=
+echolalia	noun	echo-|echo|B|N|||Greek ekho 'echo' ; -lalia|lalia|B|N|||Greek lalia 'talk'
+mannerist	noun	=
+demander	noun	=
+extruder	noun	=
+aconite	noun	=
+chalcedony	noun	=
+adit	noun	ad-|ad|P||||Latin ad- 'to' ; -it|it|B|V|||Latin ire 'to go'
+psychoneuroimmunology	noun	=
+salivation	noun	=
+blader	noun	=
+gutta	noun	=
+coquina	noun	=
+baleen	noun	=
+reprobation	noun	=
+fest	noun	=
+rectifier	noun	=
+diagnostically	adv	=
+imbricate	verb	=
+biosynthesis	noun	=
+macroscopically	adv	=
+hypoglossal	adj	=
+threnody	noun	=
+consoler	noun	=
+vulpine	adj	=
+corporative	adj	=
+fellate	verb	=
+bradycardia	noun	brady-|brady|B|Adj|||Greek bradys 'slow' ; -cardia|cardia|B|N|||Greek kardia 'heart'
+calorimeter	noun	calori-|calori|B|N|||Latin calor 'heat' ; -meter|meter|B|N|||Greek metron 'measure'
+numismatist	noun	=
+guar	noun	=
+costal	adj	=
+judicature	noun	=
+mycology	noun	myco-|myco|B|N|||Greek mykes 'fungus' ; -logy|logy|B|N|||Greek logos 'study'
+pachysandra	noun	=
+potentilla	noun	potent-|potent|B|Adj|||Latin potens 'strong' ; -illa|illa|S||||Latin -illa 'diminutive'
+tisane	noun	=
+hafnium	noun	hafni-|hafni|B|N|||Latin Hafnia 'Copenhagen' ; -um|um|S||||Latin -ium 'element'
+odynophagia	noun	odyno-|odyno|B|N|||Greek odyne 'pain' ; -phagia|phagia|B|V|||Greek phagein 'to swallow'
+epicycle	noun	epi-|epi|P||||Greek epi- 'upon' ; -cycle|cycle|B|N|||Greek kyklos 'circle'
+semiology	noun	semio-|semio|B|N|||Greek semeion 'sign' ; -logy|logy|B|N|||Greek logos 'word'
+ordo	noun	=
+impost	noun	=
+insectile	adj	insect-|insect|B|N|||Latin insectum 'insect' ; -ile|ile|S||||Latin -ilis 'relating to'
+auteurist	noun	=
+demagogy	noun	=
+columbarium	noun	columb-|columb|B|N|||Latin columba 'pigeon' ; -arium|arium|S||||Latin -arium 'place for'
+detent	noun	=
+watercolourist	noun	=
+ipsative	adj	=
+palp	noun	=
+pinna	noun	=
+levator	noun	=
+thalassemia	noun	thalass-|thalass|B|N|||Greek thalassa 'sea' ; -emia|emia|B|N|||Greek haima 'blood'
+epistemologist	noun	=
+orographic	adj	=
+characterological	adj	=
+telegrapher	noun	=
+parturition	noun	=
+demineralization	noun	=
+electromagnetics	noun	=
+lordosis	noun	lord-|lord|B|Adj|||Greek lordos 'bent backward' ; -osis|osis|S||||Greek -osis 'condition'
+valvular	adj	=
+episteme	noun	=
+parasitology	noun	=
+ilium	noun	=
+vindicator	noun	=
+monologist	noun	=
+insectivore	noun	=
+strabismus	noun	=
+lividity	noun	livid-|livid|B|Adj|||Latin lividus 'livid' ; -ity|ity|S||||Latin -itas 'state'
+fluorite	noun	=
+baiter	noun	=
+polymerization	noun	=
+auscultation	noun	=
+isotonic	adj	iso-|iso|P||||Greek isos 'equal' ; -tonic|tonic|B|N|||Greek tonos 'tone'
+vitiligo	noun	=
+hypothyroid	adj	=
+elephantiasis	noun	=
+circumflex	adj	=
+chorea	noun	=
+mastication	noun	=
+fustian	noun	=
+eutrophic	adj	eu-|eu|P||||Greek eu- 'well' ; -trophic|trophic|B|Adj|||Greek trophikos 'nourishing'
+dipolar	adj	=
+hypostasis	noun	=
+debugger	noun	=
+virilocal	adj	viri-|viri|B|Adj|||Latin vir 'man' ; -local|local|R|Adj
+hexameter	noun	hexa-|hexa|P||||Greek hex- 'six' ; -meter|meter|B|N|||Greek metron 'measure'
+compline	noun	=
+susurration	noun	=
+dizygotic	adj	=
+chitinous	adj	=
+cambium	noun	=
+ratifier	noun	=
+countervail	verb	counter-|counter|P||||Latin contra- 'against' ; -vail|vail|B|V|||Latin valere 'to be strong'
+diplopia	noun	=
+degustation	noun	=
+recordist	noun	=
+denationalization	noun	=
+decease	noun	=
+hypomanic	adj	=
+induration	noun	=
+apologetics	noun	=
+vervain	noun	=
+medlar	noun	=
+bioprospecting	noun	=
+ciliate	adj	=
+interpellation	noun	=
+effulgence	noun	ef-|ef|P||||Latin ex- 'out of' ; -fulg-|fulg|B|V|||Latin fulgere 'to shine' ; -ence|ence|S||||Latin -entia 'state'
+priapism	noun	=
+fovea	noun	=
+microsphere	noun	=
+endoplasmic	adj	=
+homophony	noun	=
+otalgia	noun	=
+chiffonier	noun	=
+nunciature	noun	=
+nomothetic	adj	=
+propranolol	noun	=
+tondo	noun	=
+enteral	adj	enter-|enter|B|N|||Greek enteron 'intestine' ; -al|al|S||||Latin -alis 'relating to'
+sparker	noun	=
+biopharmaceutical	adj	=
+etheric	adj	=
+irascibility	noun	=
+minimalistic	adj	=
+patronymic	adj	patr-|patr|B|N|||Greek pater 'father' ; -onym-|onym|B|N|||Greek onoma 'name' ; -ic|ic|S||||Greek -ikos 'relating to'
+clave	noun	=
+hirsute	adj	=
+periodontitis	noun	perio-|perio|P||||Greek peri- 'around' ; -dont-|dont|B|N|||Greek odous 'tooth' ; -itis|itis|S||||Greek -itis 'inflammation'
+meninges	noun	=
+hypotensive	adj	=
+antiquark	noun	=
+electrodynamic	adj	=
+biblically	adv	=

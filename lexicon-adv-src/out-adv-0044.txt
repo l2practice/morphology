@@ -1,0 +1,150 @@
+pliers	noun	=
+repugnant	adj	re-|re|P||||Latin re- 'back' ; -pugn-|pugn|B|V|||Latin pugnare 'to fight' ; -ant|ant|S||||Latin -ans 'acting'
+cinch	noun	=
+rheumatoid	adj	rheumat-|rheumat|B|N|||Greek rheuma 'flux' ; -oid|oid|S||||Greek -oeides 'like'
+madrigal	noun	=
+inhibitory	adj	=
+coli	noun	=
+idealist	noun	=
+libido	noun	=
+lexicographer	noun	lexico-|lexico|B|N|||Greek lexikos 'of words' ; -graph-|graph|B|V|||Greek graphein 'to write' ; -er|er|S||||Latin -arius 'agent'
+inoculate	verb	in-|in|P||||Latin in- 'into' ; -ocul-|ocul|B|N|||Latin oculus 'eye' ; -ate|ate|S||||Latin -atus 'having'
+photovoltaic	adj	=
+vouch	verb	=
+anachronism	noun	=
+magma	noun	=
+android	noun	andr-|andr|B|N|||Greek aner 'man' ; -oid|oid|S||||Greek -oeides 'like'
+dinar	noun	=
+boarder	noun	=
+vita	noun	=
+mandible	noun	mand-|mand|B|V|||Latin mandere 'to chew' ; -ible|ible|S||||Latin -bula 'instrument'
+seamstress	noun	=
+venous	adj	=
+travesty	noun	tra-|tra|P||||Italian tra- 'across' ; -vest-|vest|B|V|||Latin vestire 'to dress' ; -y|y|S||||French -i 'past participle'
+cretaceous	adj	=
+prescient	adj	pre-|pre|P||||Latin prae- 'before' ; sci-|sci|B|V|||Latin scire 'to know' ; -ent|ent|S||||Latin -ens 'acting'
+albumin	noun	album-|album|B|Adj|||Latin albus 'white' ; -in|in|S||||Latin -ina 'substance'
+heparin	noun	hepar-|hepar|B|N|||Greek hepar 'liver' ; -in|in|S||||Latin -ina 'substance'
+receptacle	noun	re-|re|P||||Latin re- 'back' ; -cept-|cept|B|V|||Latin capere 'to take' ; -acle|acle|S||||Latin -culum 'container'
+mausoleum	noun	=
+compositor	noun	composit-|composit|B|V|||Latin componere 'to put together' ; -or|or|S||||Latin -or 'agent'
+homologous	adj	homo-|homo|B|N|||Greek homos 'same' ; -log-|log|B|N|||Greek logos 'reason' ; -ous|ous|S||||Latin -osus 'full of'
+polypeptide	noun	poly-|poly|P||||Greek polys 'many' ; -pept-|pept|B|V|||Greek peptein 'to digest' ; -ide|ide|S||||Greek -ides 'descendant'
+plenum	noun	=
+gluten	noun	=
+peptic	adj	pept-|pept|B|V|||Greek peptein 'to digest' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+appraiser	noun	=
+ascetic	adj	ascet-|ascet|B|V|||Greek askein 'to exercise' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+monoclonal	adj	=
+lumen	noun	=
+orator	noun	orat-|orat|B|V|||Latin orare 'to speak' ; -or|or|S||||Latin -or 'agent'
+litigate	verb	litig-|litig|B|N|||Latin lis 'lawsuit' ; -ate|ate|S||||Latin -atus 'having'
+cubism	noun	=
+collocation	noun	col-|col|P||||Latin com- 'together' ; -loc-|loc|B|V|||Latin locare 'to place' ; -ation|ation|S||||Latin -atio 'act, state'
+allele	noun	=
+aurora	noun	=
+ligand	noun	lig-|lig|B|V|||Latin ligare 'to bind' ; -and|and|S||||Latin -andus 'to be done'
+mortify	verb	mort-|mort|B|N|||Latin mors 'death' ; -ify|ify|S||||Latin -ficare 'to make'
+delirious	adj	=
+ventricular	adj	ventricul-|ventricul|B|N|||Latin ventriculus 'ventricle' ; -ar|ar|S||||Latin -aris 'pertaining to'
+parietal	adj	=
+repulse	verb	=
+medial	adj	med-|med|B|Adj|||Latin medius 'middle' ; -ial|ial|S||||Latin -ialis 'pertaining to'
+reticence	noun	=
+capitulate	verb	capitul-|capitul|B|N|||Latin capitulum 'chapter' ; -ate|ate|S||||Latin -atus 'having'
+humanize	verb	=
+lard	noun	=
+histamine	noun	hist-|hist|B|N|||Greek histos 'tissue' ; -amine|amine|S||||Latin -amina 'substance'
+magnum	noun	=
+geomorphology	noun	=
+monogamous	adj	=
+phosphorylation	noun	=
+artifice	noun	=
+compendium	noun	com-|com|P||||Latin com- 'with' ; -pend-|pend|B|V|||Latin pendere 'to weigh' ; -ium|ium|S||||Latin -ium 'noun ending'
+pons	noun	=
+gaseous	adj	=
+preservationist	noun	=
+plantain	noun	=
+clang	noun	=
+rancid	adj	=
+aegis	noun	=
+vindictive	adj	vindict-|vindict|B|N|||Latin vindicta 'vengeance' ; -ive|ive|S||||Latin -ivus 'tending to'
+jubilant	adj	jubil-|jubil|B|V|||Latin iubilare 'to shout' ; -ant|ant|S||||Latin -ans 'acting'
+abut	verb	=
+pessimist	noun	pessim-|pessim|B|Adj|||Latin pessimus 'worst' ; -ist|ist|S||||Greek -istes 'one who'
+lamina	noun	=
+perfusion	noun	per-|per|P||||Latin per 'through' ; -fus-|fus|B|V|||Latin fundere 'to pour' ; -ion|ion|S||||Latin -io 'act, state'
+mala	noun	=
+abrasion	noun	ab-|ab|P||||Latin ab- 'off' ; -ras-|ras|B|V|||Latin radere 'to scrape' ; -ion|ion|S||||Latin -io 'act, state'
+deictic	adj	deict-|deict|B|V|||Greek deiknynai 'to show' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+tutelage	noun	tutel-|tutel|B|V|||Latin tueri 'to watch' ; -age|age|S||||Latin -aticum 'state'
+presidium	noun	=
+resection	noun	re-|re|P||||Latin re- 'back' ; -sect-|sect|B|V|||Latin secare 'to cut' ; -ion|ion|S||||Latin -io 'act, state'
+deixis	noun	=
+verdant	adj	verd-|verd|B|Adj|||Latin viridis 'green' ; -ant|ant|S||||Latin -ans 'acting'
+pneumatic	adj	pneumat-|pneumat|B|N|||Greek pneuma 'wind, air' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+gazebo	noun	=
+operand	noun	oper-|oper|B|V|||Latin operari 'to work' ; -and|and|S||||Latin -andus 'to be done'
+astride	adv	=
+derision	noun	de-|de|P||||Latin de- 'down' ; -ris-|ris|B|V|||Latin ridere 'to laugh' ; -ion|ion|S||||Latin -io 'act, state'
+timbre	noun	=
+subcategory	noun	=
+commandeer	verb	=
+adenoma	noun	=
+femur	noun	=
+circumcision	noun	circum-|circum|P||||Latin circum 'around' ; -cis-|cis|B|V|||Latin caedere 'to cut' ; -ion|ion|S||||Latin -io 'act, state'
+parlay	verb	=
+senatorial	adj	=
+tabulate	verb	tabul-|tabul|B|N|||Latin tabula 'board' ; -ate|ate|S||||Latin -atus 'having'
+dilate	verb	=
+plagiarism	noun	=
+lupus	noun	=
+restorative	adj	=
+delectable	adj	delect-|delect|B|V|||Latin delectare 'to delight' ; -able|able|S||||Latin -abilis 'able to'
+idolize	verb	=
+civics	noun	=
+ostracize	verb	=
+stagnate	verb	=
+inscrutable	adj	=
+asterisk	noun	aster-|aster|B|N|||Greek aster 'star' ; -isk|isk|S||||Greek -iskos 'diminutive'
+postmodernist	noun	=
+malleable	adj	malle-|malle|B|N|||Latin malleus 'hammer' ; -able|able|S||||Latin -abilis 'able to'
+apocalypse	noun	=
+portend	verb	por-|por|P||||Latin por- 'forward' ; -tend|tend|B|V|||Latin tendere 'to stretch'
+tortuous	adj	tort-|tort|B|V|||Latin torquere 'to twist' ; -uous|uous|S||||Latin -uosus 'full of'
+machinist	noun	=
+evince	verb	=
+industrious	adj	industri-|industri|B|N|||Latin industria 'diligence' ; -ous|ous|S||||Latin -osus 'full of'
+brevity	noun	brev-|brev|B|Adj|||Latin brevis 'short' ; -ity|ity|S||||Latin -itas 'state, quality'
+microbiologist	noun	=
+rabies	noun	=
+docile	adj	doc-|doc|B|V|||Latin docere 'to teach' ; -ile|ile|S||||Latin -ilis 'pertaining to'
+turpentine	noun	=
+rhythmically	adv	=
+habitable	adj	habit-|habit|B|V|||Latin habitare 'to dwell' ; -able|able|S||||Latin -abilis 'able to'
+proclivity	noun	pro-|pro|P||||Latin pro- 'forward' ; -cliv-|cliv|B|N|||Latin clivus 'slope' ; -ity|ity|S||||Latin -itas 'state, quality'
+narcissism	noun	=
+nontoxic	adj	=
+anachronistic	adj	=
+protestation	noun	=
+prosaic	adj	=
+divination	noun	divin-|divin|B|Adj|||Latin divinus 'divine' ; -ation|ation|S||||Latin -atio 'act, state'
+ostrich	noun	=
+castigate	verb	castig-|castig|B|V|||Latin castigare 'to reprove' ; -ate|ate|S||||Latin -atus 'having'
+percolate	verb	per-|per|P||||Latin per 'through' ; -col-|col|B|V|||Latin colare 'to strain' ; -ate|ate|S||||Latin -atus 'having'
+predilection	noun	=
+rejuvenate	verb	re-|re|P||||Latin re- 'again' ; -juven-|juven|B|Adj|||Latin iuvenis 'young' ; -ate|ate|S||||Latin -atus 'having'
+superhuman	adj	=
+hologram	noun	holo-|holo|B|Adj|||Greek holos 'whole' ; -gram|gram|B|N|||Greek gramma 'written thing'
+creationism	noun	=
+solidity	noun	=
+scrupulously	adv	=
+scrupulous	adj	=
+detritus	noun	=
+rapidity	noun	=
+inadvertent	adj	in-|in|P||||Latin in- 'not' ; -advert-|advert|B|V|||Latin advertere 'to turn to' ; -ent|ent|S||||Latin -ens 'acting'
+clemency	noun	clement-|clemenc|B|Adj|||Latin clemens 'merciful' ; -y|y|S||||Latin -ia 'state, quality'
+cranny	noun	=
+effigy	noun	=
+tamale	noun	=
+averse	adj	=

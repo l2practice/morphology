@@ -1,0 +1,200 @@
+cholericly	adv	choleric|choleric|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cholerine	noun	cholerine|cholerine|R|N
+choleroid	adj	choleroid|choleroid|R|Adj
+cholestasis	noun	cholestasis|cholestasis|R|N
+cholic	adj	cholic|cholic|R|Adj
+cholinesterase	noun	cholinesterase|cholinesterase|R|N
+chomping	verb	chomp|chomp|R|V ; -ing|ing|I||-ing (v)
+chondriosome	noun	chondriosome|chondriosome|R|N
+chondritis	noun	chondritis|chondritis|R|N
+chondrocranium	noun	chondrocranium|chondrocranium|R|N
+chondrocyte	noun	chondrocyte|chondrocyte|R|N
+chondroma	noun	chondroma|chondroma|R|N
+choosiness	noun	choosy|choosi|R|Adj ; -ness|ness|S
+chopfallen	adj	chop|chop|R|N ; fallen|fallen|R|Adj
+choppily	adv	choppy|choppi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+choppiness	noun	choppy|choppi|R|Adj ; -ness|ness|S
+chops	noun	chop|chop|R|N ; -s|s|I||-s (plural)
+choragus	noun	choragus|choragus|R|N
+choralist	noun	choral|choral|R|Adj ; -ist|ist|S
+chorally	adv	choral|choral|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+chordophone	noun	chordophone|chordophone|R|N
+choregus	noun	choregus|choregus|R|N
+choreic	adj	choreic|choreic|R|Adj
+choreographing	verb	choreograph|choreograph|R|V ; -ing|ing|I||-ing (v)
+chorial	adj	chorial|chorial|R|Adj
+choriamb	noun	choriamb|choriamb|R|N
+choriambic	adj	choriamb|choriamb|R|N ; -ic|ic|S
+choric	adj	chorus|chor|R|N ; -ic|ic|S
+chorioallantois	noun	chorioallantois|chorioallantois|R|N
+chorioamnionitis	noun	chorioamnionitis|chorioamnionitis|R|N
+choriocarcinoma	noun	choriocarcinoma|choriocarcinoma|R|N
+chorion	noun	chorion|chorion|R|N
+chorographic	adj	chorography|chorograph|R|N ; -ic|ic|S
+chorographically	adv	chorographic|chorographic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+chorography	noun	chorography|chorography|R|N
+choroid	noun	choroid|choroid|R|N
+chorology	noun	chorology|chorology|R|N
+choronym	noun	choronym|choronym|R|N
+chorotype	noun	chorotype|chorotype|R|N
+chorten	noun	chorten|chorten|R|N
+chortler	noun	chortle|chortl|R|V ; -er|er|S||-er (N)
+chose	verb	choose|chose|R|V ; -ed||I||-ed (v2)
+chosenness	noun	chosen|chosen|R|Adj ; -ness|ness|S
+chouse	verb	chouse|chouse|R|V
+chowpaul	noun	chowpaul|chowpaul|R|N
+chrematonym	noun	chrematonym|chrematonym|R|N
+chrestomathic	adj	chrestomathic|chrestomathic|R|Adj
+chrestomathy	noun	chrestomathy|chrestomathy|R|N
+chrismal	adj	chrism|chrism|R|N ; -al|al|S
+chrismation	noun	chrism|chrism|R|N ; -ation|ation|S
+chrisom	noun	chrisom|chrisom|R|N
+chromaffin	adj	chromaffin|chromaffin|R|Adj
+chromakey	noun	chroma|chroma|R|N ; key|key|R|N
+chromate	noun	chromate|chromate|R|N
+chromatically	adv	chromatic|chromatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+chromaticism	noun	chromatic|chromatic|R|Adj ; -ism|ism|S
+chromaticity	noun	chromatic|chromatic|R|Adj ; -ity|ity|S
+chromatics	noun	chromatic|chromatic|R|Adj ; -s|s|I||-s (plural)
+chromatid	noun	chromatid|chromatid|R|N
+chromatinic	adj	chromatin|chromatin|R|N ; -ic|ic|S
+chromatist	noun	chromatist|chromatist|R|N
+chromatoblast	noun	chromatoblast|chromatoblast|R|N
+chromatogram	noun	chromatogram|chromatogram|R|N
+chromatograph	noun	chromatograph|chromatograph|R|N
+chromatographer	noun	chromatograph|chromatograph|R|N ; -er|er|S||-er (N)
+chromatographic	adj	chromatograph|chromatograph|R|N ; -ic|ic|S
+chromatographically	adv	chromatographic|chromatographic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+chromatolysis	noun	chromatolysis|chromatolysis|R|N
+chromatophil	noun	chromatophil|chromatophil|R|N
+chromatophore	noun	chromatophore|chromatophore|R|N
+chromic	adj	chromic|chromic|R|Adj
+chrominance	noun	chrominance|chrominance|R|N
+chroming	verb	chrome|chrom|R|V ; -ing|ing|I||-ing (v)
+chromist	noun	chromist|chromist|R|N
+chromite	noun	chromite|chromite|R|N
+chromo	noun	chromo|chromo|R|N
+chromogen	noun	chromogen|chromogen|R|N
+chromolithographer	noun	chromolithograph|chromolithograph|R|N ; -er|er|S||-er (N)
+chromolithographic	adj	chromolithograph|chromolithograph|R|N ; -ic|ic|S
+chromolithography	noun	chromolithograph|chromolithograph|R|N ; -y|y|S
+chromomere	noun	chromomere|chromomere|R|N
+chromomeric	adj	chromomere|chromomer|R|N ; -ic|ic|S
+chromoplast	noun	chromoplast|chromoplast|R|N
+chromoprotein	noun	chromoprotein|chromoprotein|R|N
+chromosomally	adv	chromosomal|chromosomal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+chromospheric	adj	chromosphere|chromospher|R|N ; -ic|ic|S
+chroneme	noun	chroneme|chroneme|R|N
+chronicling	verb	chronicle|chronicl|R|V ; -ing|ing|I||-ing (v)
+chronobiology	noun	chronobiology|chronobiology|R|N
+chronoception	noun	chronoception|chronoception|R|N
+chronogram	noun	chronogram|chronogram|R|N
+chronographic	adj	chronograph|chronograph|R|N ; -ic|ic|S
+chronographically	adv	chronographic|chronographic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+chronography	noun	chronograph|chronograph|R|N ; -y|y|S
+chronologic	adj	chronology|chronolog|R|N ; -ic|ic|S
+chronologist	noun	chronology|chronolog|R|N ; -ist|ist|S
+chronologize	verb	chronology|chronolog|R|N ; -ize|ize|S
+chronometrical	adj	chronometric|chronometric|R|Adj ; -al|al|S
+chronometrically	adv	chronometrical|chronometrical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+chronometry	noun	chronometer|chronometr|R|N ; -y|y|S
+chrononormativity	noun	chrononormativity|chrononormativity|R|N
+chrononym	noun	chrononym|chrononym|R|N
+chronophobia	noun	chronophobia|chronophobia|R|N
+chronoscope	noun	chronoscope|chronoscope|R|N
+chronoscopic	adj	chronoscope|chronoscop|R|N ; -ic|ic|S
+chronostasis	noun	chronostasis|chronostasis|R|N
+chronostratigraphy	noun	chronostratigraphy|chronostratigraphy|R|N
+chronotype	noun	chronotype|chronotype|R|N
+chronourbanism	noun	chronourbanism|chronourbanism|R|N
+chryselephantine	adj	chryselephantine|chryselephantine|R|Adj
+chrysoberyl	noun	chrysoberyl|chrysoberyl|R|N
+chrysolite	noun	chrysolite|chrysolite|R|N
+chrysopoeia	noun	chrysopoeia|chrysopoeia|R|N
+chrysoprase	noun	chrysoprase|chrysoprase|R|N
+chrysotherapy	noun	chrysotherapy|chrysotherapy|R|N
+chrysotile	noun	chrysotile|chrysotile|R|N
+chubbily	adv	chubby|chubbi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+chubbiness	noun	chubby|chubbi|R|Adj ; -ness|ness|S
+chuchotage	noun	chuchotage|chuchotage|R|N
+chuckhole	noun	chuck|chuck|R|N ; hole|hole|R|N
+chucking	verb	chuck|chuck|R|V ; -ing|ing|I||-ing (v)
+chuckler	noun	chuckle|chuckl|R|V ; -er|er|S||-er (N)
+chucklingly	adv	chuckle|chuckl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+chucks	noun	chuck|chuck|R|N ; -s|s|I||-s (plural)
+chuckwalla	noun	chuckwalla|chuckwalla|R|N
+chufa	noun	chufa|chufa|R|N
+chugalug	verb	chugalug|chugalug|R|V
+chugger	noun	chug|chugg|R|V ; -er|er|S||-er (N)
+chukka	noun	chukka|chukka|R|N
+chummery	noun	chum|chumm|R|N ; -ery|ery|S
+chummily	adv	chummy|chummi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+chumminess	noun	chummy|chummi|R|Adj ; -ness|ness|S
+chumming	verb	chum|chumm|R|V ; -ing|ing|I||-ing (v)
+chunder	verb	chunder|chunder|R|V
+chundering	verb	chunder|chunder|R|V ; -ing|ing|I||-ing (v)
+chunkiness	noun	chunky|chunki|R|Adj ; -ness|ness|S
+chunking	verb	chunk|chunk|R|V ; -ing|ing|I||-ing (v)
+chupacabras	noun	chupacabras|chupacabras|R|N
+churchgoing	adj	church|church|R|N ; go|go|R|V ; -ing|ing|S||-ing (adj)
+churchiness	noun	churchy|churchi|R|Adj ; -ness|ness|S
+churchkhela	noun	churchkhela|churchkhela|R|N
+churchmanly	adj	churchman|churchman|R|N ; -ly|ly|S||-ly (adj)
+churchmanship	noun	churchman|churchman|R|N ; -ship|ship|S
+churl	noun	churl|churl|R|N
+churlishly	adv	churlish|churlish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+churlishness	noun	churlish|churlish|R|Adj ; -ness|ness|S
+churner	noun	churn|churn|R|V ; -er|er|S||-er (N)
+churr	verb	churr|churr|R|V
+chushkopek	noun	chushkopek|chushkopek|R|N
+chyle	noun	chyle|chyle|R|N
+chyliferous	adj	chyliferous|chyliferous|R|Adj
+chylification	noun	chylification|chylification|R|N
+chyme	noun	chyme|chyme|R|N
+chymification	noun	chymification|chymification|R|N
+chymous	adj	chyme|chym|R|N ; -ous|ous|S
+chypre	noun	chypre|chypre|R|N
+chytridiomycosis	noun	chytridiomycosis|chytridiomycosis|R|N
+ciborium	noun	ciborium|ciborium|R|N
+cicatricial	adj	cicatrix|cicatric|R|N ; -ial|ial|S
+cicatrise	verb	cicatrise|cicatrise|R|V
+cicatrix	noun	cicatrix|cicatrix|R|N
+cicatrization	noun	cicatrize|cicatriz|R|V ; -ation|ation|S
+cicatrize	verb	cicatrize|cicatrize|R|V
+cicerone	noun	cicerone|cicerone|R|N
+cicisbeo	noun	cicisbeo|cicisbeo|R|N
+ciggie	noun	ciggie|ciggie|R|N
+ciliated	adj	ciliate|ciliate|R|Adj ; -ed|d|S||-ed (adj)
+cilice	noun	cilice|cilice|R|N
+cilium	noun	cilium|cilium|R|N
+cimex	noun	cimex|cimex|R|N
+cimmerian	adj	cimmerian|cimmerian|R|Adj
+cinchona	noun	cinchona|cinchona|R|N
+cinchonic	adj	cinchona|cinchon|R|N ; -ic|ic|S
+cincture	noun	cincture|cincture|R|N
+cinders	noun	cinder|cinder|R|N ; -s|s|I||-s (plural)
+cindery	adj	cinder|cinder|R|N ; -y|y|S
+cineast	noun	cineast|cineast|R|N
+cinefilm	noun	cine|cine|R|N ; film|film|R|N
+cinemaddict	noun	cinema|cinem|R|N ; addict|addict|R|N
+cinemagoer	noun	cinema|cinema|R|N ; go|go|R|V ; -er|er|S||-er (N)
+cinemascope	noun	cinemascope|cinemascope|R|N
+cinematheque	noun	cinematheque|cinematheque|R|N
+cinematics	noun	cinematic|cinematic|R|Adj ; -s|s|I||-s (plural)
+cinematograph	noun	cinematograph|cinematograph|R|N
+cinematographically	adv	cinematographic|cinematographic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+cinephile	noun	cinephile|cinephile|R|N
+cinephilia	noun	cinephilia|cinephilia|R|N
+cineraria	noun	cineraria|cineraria|R|N
+cinerarium	noun	cinerarium|cinerarium|R|N
+cinerary	adj	cinerary|cinerary|R|Adj
+cinereous	adj	cinereous|cinereous|R|Adj
+cinerescent	adj	cinerescent|cinerescent|R|Adj
+cineritious	adj	cineritious|cineritious|R|Adj
+cingulum	noun	cingulum|cingulum|R|N
+cinnamic	adj	cinnamon|cinnam|R|N ; -ic|ic|S
+cinquecento	noun	cinquecento|cinquecento|R|N
+cinquedea	noun	cinquedea|cinquedea|R|N
+ciphering	verb	cipher|cipher|R|V ; -ing|ing|I||-ing (v)
+ciphertext	noun	cipher|cipher|R|N ; text|text|R|N
+circinate	adj	circinate|circinate|R|Adj

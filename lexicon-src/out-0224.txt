@@ -1,0 +1,200 @@
+anomocarpous	adj	anomocarpous|anomocarpous|R|Adj
+anonym	noun	anonym|anonym|R|N
+anonymization	noun	anonym|anonym|R|N ; -ize|iz|S ; -ation|ation|S
+anonymize	verb	anonym|anonym|R|N ; -ize|ize|S
+anonymousness	noun	anonym|anonym|R|N ; -ous|ous|S ; -ness|ness|S
+anopheles	noun	anopheles|anopheles|R|N
+anopheline	adj	anopheline|anopheline|R|Adj
+anophthalmia	noun	anophthalmia|anophthalmia|R|N
+anopia	noun	anopia|anopia|R|N
+anopubic	adj	anopubic|anopubic|R|Adj
+anorchia	noun	anorchia|anorchia|R|N
+anorectic	adj	anorectic|anorectic|R|Adj
+anorgasmia	noun	anorgasmia|anorgasmia|R|N
+anorthite	noun	anorthite|anorthite|R|N
+anorthoclase	noun	anorthoclase|anorthoclase|R|N
+anorthosite	noun	anorthosite|anorthosite|R|N
+anosmia	noun	anosmia|anosmia|R|N
+anosmic	adj	anosmic|anosmic|R|Adj
+anosognosia	noun	anosognosia|anosognosia|R|N
+anospinal	adj	anospinal|anospinal|R|Adj
+anovulation	noun	an-|an|P ; ovulate|ovul|R|V ; -ation|ation|S
+anoxaemia	noun	anoxaemia|anoxaemia|R|N
+anoxygenic	adj	an-|an|P ; oxygen|oxygen|R|N ; -ic|ic|S
+ansate	adj	ansate|ansate|R|Adj
+anseriform	adj	anseriform|anseriform|R|Adj
+anserine	adj	anserine|anserine|R|Adj
+ansible	adj	ansible|ansible|R|Adj
+ansiform	adj	ansiform|ansiform|R|Adj
+answerability	noun	answer|answer|R|V ; -able|abil|S ; -ity|ity|S
+answerableness	noun	answer|answer|R|V ; -able|able|S ; -ness|ness|S
+answerably	adv	answer|answer|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+answerer	noun	answer|answer|R|V ; -er|er|S||-er (N)
+anta	noun	anta|anta|R|N
+antagonistically	adv	antagonist|antagonist|R|N ; -ic|ic|S ; -ly|ally|I|Adv|-ly (adv)
+antagonized	verb	antagonize|antagoniz|R|V ; -ed|ed|I||-ed (v2)
+antagonizing	verb	antagonize|antagoniz|R|V ; -ing|ing|I||-ing (v)
+antalgic	adj	antalgic|antalgic|R|Adj
+antalkali	noun	ant-|ant|P|||anti- ; alkali|alkali|R|N
+antapex	noun	antapex|antapex|R|N
+antaphrodisiac	noun	ant-|ant|P|||anti- ; aphrodisiac|aphrodisiac|R|N
+antarakalpa	noun	antarakalpa|antarakalpa|R|N
+antarthritic	adj	ant-|ant|P|||anti- ; arthritic|arthritic|R|Adj
+antasthmatic	adj	ant-|ant|P|||anti- ; asthmatic|asthmatic|R|Adj
+antbird	noun	ant|ant|R|N ; bird|bird|R|N
+anteapical	adj	anteapical|anteapical|R|Adj
+antebrachial	adj	antebrachial|antebrachial|R|Adj
+antebrachium	noun	antebrachium|antebrachium|R|N
+antecede	verb	antecede|antecede|R|V
+antecedence	noun	antecedence|antecedence|R|N
+antecedently	adv	antecedent|antecedent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+antechinus	noun	antechinus|antechinus|R|N
+antechoir	noun	antechoir|antechoir|R|N
+anteclypeus	noun	anteclypeus|anteclypeus|R|N
+antecubital	adj	antecubital|antecubital|R|Adj
+antefix	noun	antefix|antefix|R|N
+anteflexion	noun	anteflexion|anteflexion|R|N
+antelabrum	noun	antelabrum|antelabrum|R|N
+antemarginal	adj	antemarginal|antemarginal|R|Adj
+antemeridian	adj	antemeridian|antemeridian|R|Adj
+antemundane	adj	antemundane|antemundane|R|Adj
+antenatally	adv	antenatal|antenatal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+antennal	adj	antenna|antenn|R|N ; -al|al|S
+antennary	adj	antenna|antenn|R|N ; -ary|ary|S
+antenniform	adj	antenniform|antenniform|R|Adj
+antennule	noun	antennule|antennule|R|N
+antenuptial	adj	antenuptial|antenuptial|R|Adj
+antependium	noun	antependium|antependium|R|N
+antepenult	noun	antepenult|antepenult|R|N
+antepenultimate	adj	antepenultimate|antepenultimate|R|Adj
+anteposition	noun	anteposition|anteposition|R|N
+anteprandial	adj	anteprandial|anteprandial|R|Adj
+anteriority	noun	anterior|anterior|R|Adj ; -ity|ity|S
+anterodorsal	adj	anterodorsal|anterodorsal|R|Adj
+anterograde	adj	anterograde|anterograde|R|Adj
+anterolateral	adj	anterolateral|anterolateral|R|Adj
+antheap	noun	ant|ant|R|N ; heap|heap|R|N
+anthela	noun	anthela|anthela|R|N
+anthelion	noun	anthelion|anthelion|R|N
+anthelmintic	adj	ant-|ant|P|||anti- ; helminth|helmint|R|N ; -ic|ic|S
+antheral	adj	anther|anther|R|N ; -al|al|S
+antheridium	noun	antheridium|antheridium|R|N
+antheriferous	adj	antheriferous|antheriferous|R|Adj
+antherless	adj	anther|anther|R|N ; -less|less|S
+antherozoid	noun	antherozoid|antherozoid|R|N
+anthesis	noun	anthesis|anthesis|R|N
+anthocarpous	adj	anthocarpous|anthocarpous|R|Adj
+anthodium	noun	anthodium|anthodium|R|N
+anthological	adj	anthology|antholog|R|N ; -ical|ical|S
+anthophagy	noun	anthophagy|anthophagy|R|N
+anthophilous	adj	anthophilous|anthophilous|R|Adj
+anthophily	noun	anthophily|anthophily|R|N
+anthophore	noun	anthophore|anthophore|R|N
+anthophyte	noun	anthophyte|anthophyte|R|N
+anthracene	noun	anthracene|anthracene|R|N
+anthracic	adj	anthracic|anthracic|R|Adj
+anthraciferous	adj	anthraciferous|anthraciferous|R|Adj
+anthracitic	adj	anthracite|anthracit|R|N ; -ic|ic|S
+anthracitous	adj	anthracite|anthracit|R|N ; -ous|ous|S
+anthracnose	noun	anthracnose|anthracnose|R|N
+anthracoid	adj	anthracoid|anthracoid|R|Adj
+anthracosis	noun	anthracosis|anthracosis|R|N
+anthraquinone	noun	anthraquinone|anthraquinone|R|N
+anthropause	noun	anthropause|anthropause|R|N
+anthropocentricity	noun	anthropocentric|anthropocentric|R|Adj ; -ity|ity|S
+anthropochorous	adj	anthropochorous|anthropochorous|R|Adj
+anthropogenesis	noun	anthropogenesis|anthropogenesis|R|N
+anthropogenetic	adj	anthropogenetic|anthropogenetic|R|Adj
+anthropogeny	noun	anthropogeny|anthropogeny|R|N
+anthropogeography	noun	anthropogeography|anthropogeography|R|N
+anthropography	noun	anthropography|anthropography|R|N
+anthropoidal	adj	anthropoid|anthropoid|R|N ; -al|al|S
+anthropolatry	noun	anthropolatry|anthropolatry|R|N
+anthropometrical	adj	anthropometric|anthropometric|R|Adj ; -al|al|S
+anthropometrically	adv	anthropometric|anthropometric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+anthropometrist	noun	anthropometry|anthropometr|R|N ; -ist|ist|S
+anthropomorphically	adv	anthropomorphic|anthropomorphic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+anthropomorphist	noun	anthropomorph|anthropomorph|R|N ; -ist|ist|S
+anthropomorphization	noun	anthropomorphize|anthropomorphiz|R|V ; -ation|ation|S
+anthropomorphous	adj	anthropomorphous|anthropomorphous|R|Adj
+anthroponym	noun	anthroponym|anthroponym|R|N
+anthroponymy	noun	anthroponymy|anthroponymy|R|N
+anthropophagous	adj	anthropophagous|anthropophagous|R|Adj
+anthropophagy	noun	anthropophagy|anthropophagy|R|N
+anthropophilous	adj	anthropophilous|anthropophilous|R|Adj
+anthropophobia	noun	anthropophobia|anthropophobia|R|N
+anthropophyte	noun	anthropophyte|anthropophyte|R|N
+anthroposophic	adj	anthroposophy|anthroposoph|R|N ; -ic|ic|S
+anthroposophist	noun	anthroposophy|anthroposoph|R|N ; -ist|ist|S
+anthroposophy	noun	anthroposophy|anthroposophy|R|N
+antiabortion	noun	anti-|anti|P ; abort|abort|R|V ; -ion|ion|S
+antiabortionist	noun	anti-|anti|P ; abort|abort|R|V ; -ion|ion|S ; -ist|ist|S
+antiacademic	adj	anti-|anti|P ; academy|academ|R|N ; -ic|ic|S
+antiaircrafter	noun	anti-|anti|P ; air|air|R|N ; craft|craft|R|N ; -er|er|S||-er (N)
+antialias	noun	anti-|anti|P ; alias|alias|R|N
+antialiasing	noun	anti-|anti|P ; alias|alias|R|N ; -ing|ing|I||-ing (v)
+antialien	adj	anti-|anti|P ; alien|alien|R|Adj
+antiallergenic	adj	anti-|anti|P ; allergen|allergen|R|N ; -ic|ic|S
+antiallergic	adj	anti-|anti|P ; allergy|allerg|R|N ; -ic|ic|S
+antiandrogen	noun	anti-|anti|P ; androgen|androgen|R|N
+antianemic	adj	anti-|anti|P ; anemia|anem|R|N ; -ic|ic|S
+antiangiogenesis	noun	anti-|anti|P ; angiogenesis|angiogenesis|R|N
+antianxiety	noun	anti-|anti|P ; anxiety|anxiety|R|N
+antiapartheid	noun	anti-|anti|P ; apartheid|apartheid|R|N
+antiar	noun	antiar|antiar|R|N
+antiarmor	adj	anti-|anti|P ; armor|armor|R|N
+antiarrhythmic	adj	anti-|anti|P ; arrhythmia|arrhythm|R|N ; -ic|ic|S
+antiatom	noun	anti-|anti|P ; atom|atom|R|N
+antiatomic	adj	anti-|anti|P ; atom|atom|R|N ; -ic|ic|S
+antiauthoritarian	adj	anti-|anti|P ; authoritarian|authoritarian|R|Adj
+antiauxin	noun	anti-|anti|P ; auxin|auxin|R|N
+antibacchius	noun	antibacchius|antibacchius|R|N
+antibiblical	adj	anti-|anti|P ; bible|bibl|R|N ; -ical|ical|S
+antibilious	adj	anti-|anti|P ; bilious|bilious|R|Adj
+antibiogram	noun	antibiogram|antibiogram|R|N
+antibiosis	noun	antibiosis|antibiosis|R|N
+antibiotically	adv	antibiotic|antibiotic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+antiblack	adj	anti-|anti|P ; black|black|R|Adj
+antibullfighting	noun	anti-|anti|P ; bull|bull|R|N ; fight|fight|R|V ; -ing|ing|I||-ing (v)
+antiburglar	adj	anti-|anti|P ; burglar|burglar|R|N
+anticaking	noun	anti-|anti|P ; cake|cak|R|V ; -ing|ing|I||-ing (v)
+anticaliph	noun	anti-|anti|P ; caliph|caliph|R|N
+anticaliphate	noun	anti-|anti|P ; caliphate|caliphate|R|N
+antically	adv	antic|antic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+anticancer	adj	anti-|anti|P ; cancer|cancer|R|N
+anticancerous	adj	anti-|anti|P ; cancer|cancer|R|N ; -ous|ous|S
+anticapitalism	noun	anti-|anti|P ; capital|capital|R|N ; -ism|ism|S
+anticapitalist	noun	anti-|anti|P ; capital|capital|R|N ; -ist|ist|S
+anticapitalistic	adj	anti-|anti|P ; capital|capital|R|N ; -ist|ist|S ; -ic|ic|S
+anticarcinogenic	adj	anti-|anti|P ; carcinogen|carcinogen|R|N ; -ic|ic|S
+anticatalyst	noun	anti-|anti|P ; catalyst|catalyst|R|N
+anticathode	noun	anti-|anti|P ; cathode|cathode|R|N
+anticatholic	adj	anti-|anti|P ; catholic|catholic|R|Adj
+anticensorship	noun	anti-|anti|P ; censor|censor|R|V ; -ship|ship|S
+antichain	noun	anti-|anti|P ; chain|chain|R|N
+anticholeraic	adj	anti-|anti|P ; cholera|cholera|R|N ; -ic|ic|S
+anticholinergic	adj	anti-|anti|P ; cholinergic|cholinergic|R|Adj
+anticholinesterase	noun	anti-|anti|P ; cholinesterase|cholinesterase|R|N
+antichresis	noun	antichresis|antichresis|R|N
+antichristian	adj	anti-|anti|P ; christian|christian|R|Adj
+antichurch	adj	anti-|anti|P ; church|church|R|N
+anticigarette	adj	anti-|anti|P ; cigarette|cigarette|R|N
+anticipant	noun	anticipate|anticip|R|V ; -ant|ant|S
+anticipatable	adj	anticipate|anticipat|R|V ; -able|able|S
+anticipative	adj	anticipate|anticipat|R|V ; -ive|ive|S
+anticipatively	adv	anticipate|anticipat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+anticipator	noun	anticipate|anticipat|R|V ; -or|or|S
+anticlimactically	adv	anticlimactic|anticlimactic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+anticlinal	adj	anti-|anti|P ; clinal|clinal|R|Adj
+anticodon	noun	anti-|anti|P ; codon|codon|R|N
+anticoincidence	noun	anti-|anti|P ; coincide|coincid|R|V ; -ence|ence|S
+anticollision	noun	anti-|anti|P ; collide|collis|R|V ; -ion|ion|S
+anticolonial	adj	anti-|anti|P ; colony|coloni|R|N ; -al|al|S
+anticolonialism	noun	anti-|anti|P ; colony|coloni|R|N ; -al|al|S ; -ism|ism|S
+anticommercialism	noun	anti-|anti|P ; commercial|commercial|R|Adj ; -ism|ism|S
+anticommunism	noun	anti-|anti|P ; commune|commun|R|N ; -ism|ism|S
+anticommunist	noun	anti-|anti|P ; commune|commun|R|N ; -ist|ist|S
+anticommutative	adj	anti-|anti|P ; commute|commut|R|V ; -ative|ative|S
+anticommutativity	noun	anti-|anti|P ; commute|commut|R|V ; -ative|ativ|S ; -ity|ity|S
+anticommutator	noun	anti-|anti|P ; commutator|commutator|R|N
+anticompetitive	adj	anti-|anti|P ; compete|compet|R|V ; -itive|itive|S

@@ -1,0 +1,150 @@
+innuendo	noun	=
+sensuous	adj	=
+spontaneity	noun	=
+comical	adj	=
+intone	verb	=
+valiant	adj	=
+senile	adj	sen-|sen|B|N|||Latin senex 'old man' ; -ile|ile|S||||Latin -ilis 'pertaining to'
+sympathizer	noun	=
+epithet	noun	=
+dour	adj	=
+escalator	noun	e-|e|P||||Latin ex- 'out' ; -scal-|scal|B|N|||Latin scala 'ladder' ; -ator|ator|S||||Latin -tor 'agent'
+stagnation	noun	=
+discord	noun	dis-|dis|P||||Latin dis- 'apart' ; -cord|cord|B|N|||Latin cor 'heart'
+induct	verb	in-|in|P||||Latin in- 'into' ; -duct|duct|B|V|||Latin ducere 'to lead'
+methodical	adj	=
+mage	noun	=
+exasperate	verb	=
+greenery	noun	=
+compressor	noun	=
+insoluble	adj	=
+molasses	noun	=
+botanist	noun	=
+categorical	adj	=
+censure	verb	cens-|cens|B|V|||Latin censere 'to assess' ; -ure|ure|S||||Latin -ura 'act, result'
+nova	noun	=
+dogmatic	adj	dogm-|dogm|B|N|||Greek dogma 'belief' ; -atic|atic|S||||Greek -atikos 'pertaining to'
+stipulation	noun	=
+phantom	noun	=
+habitation	noun	=
+infraction	noun	in-|in|P||||Latin in- 'in' ; -fract-|fract|B|V|||Latin frangere 'to break' ; -ion|ion|S||||Latin -io 'act, result'
+concomitant	adj	con-|con|P||||Latin com- 'together' ; -comit-|comit|B|V|||Latin comitari 'to accompany' ; -ant|ant|S||||Latin -ans 'present participle'
+jurisprudence	noun	=
+misinformation	noun	=
+impunity	noun	=
+permanence	noun	=
+carcinogen	noun	=
+gist	noun	=
+conceptually	adv	=
+mercenary	noun	=
+mannerism	noun	=
+insatiable	adj	=
+expedient	adj	=
+evasive	adj	=
+eureka	interj	=
+catheter	noun	=
+synergy	noun	syn-|syn|P||||Greek syn 'with, together' ; -ergy|ergy|B|N|||Greek ergon 'work'
+contemplative	adj	=
+intelligible	adj	=
+incipient	adj	=
+hypnotic	adj	hypn-|hypn|B|N|||Greek hypnos 'sleep' ; -otic|otic|S||||Greek -otikos 'pertaining to'
+sterilize	verb	=
+regenerate	verb	re-|re|P||||Latin re- 'again' ; -gener-|gener|B|N|||Latin genus 'origin, birth' ; -ate|ate|S||||Latin -atus 'verb-forming'
+maniac	noun	mani-|mani|B|N|||Greek mania 'madness' ; -ac|ac|S||||Greek -akos 'pertaining to'
+acquiesce	verb	=
+cylindrical	adj	=
+encyclopaedia	noun	=
+collagen	noun	colla-|colla|B|N|||Greek kolla 'glue' ; -gen|gen|B|N|||Greek -genes 'producing'
+diagonally	adv	=
+propane	noun	=
+crystallize	verb	=
+geriatric	adj	ger-|ger|B|N|||Greek geras 'old age' ; -iatric|iatric|S||||Greek -iatrikos 'medical'
+eatery	noun	=
+metaphysics	noun	=
+dialysis	noun	dia-|dia|P||||Greek dia 'through, apart' ; -lysis|lysis|B|N|||Greek lysis 'loosening'
+tempest	noun	=
+reprisal	noun	=
+semen	noun	=
+hiatus	noun	=
+epidemiology	noun	epi-|epi|P||||Greek epi 'upon' ; -dem-|demi|B|N|||Greek demos 'people' ; -ology|ology|B|N|||Greek logos 'study, word'
+invincible	adj	in-|in|P||||Latin in- 'not' ; -vinc-|vinc|B|V|||Latin vincere 'to conquer' ; -ible|ible|S||||Latin -ibilis 'able to be'
+zealot	noun	=
+exonerate	verb	=
+patriarchy	noun	patri-|patri|B|N|||Greek pater 'father' ; -archy|archy|B|N|||Greek arkhein 'to rule'
+beret	noun	=
+poplar	noun	=
+typist	noun	=
+amnesia	noun	a-|a|P||||Greek a- 'not' ; -mnesia|mnesia|B|N|||Greek mnesis 'memory'
+transpose	verb	=
+ovary	noun	=
+physiotherapy	noun	=
+horrid	adj	=
+scamper	verb	=
+cameo	noun	=
+anarchist	noun	an-|an|P||||Greek an- 'without' ; -arch-|arch|B|N|||Greek arkhe 'rule' ; -ist|ist|S||||Greek -istes 'one who does'
+tint	noun	=
+gaudy	adj	=
+genial	adj	geni-|geni|B|N|||Latin genius 'guardian spirit' ; -al|al|S||||Latin -alis 'pertaining to'
+gauntlet	noun	=
+banal	adj	=
+ablaze	adj	=
+carnivore	noun	=
+beau	noun	=
+nectar	noun	=
+fixate	verb	=
+celibacy	noun	=
+commemorative	adj	=
+hustler	noun	=
+denigrate	verb	de-|de|P||||Latin de- 'from' ; -nigr-|nigr|B|Adj|||Latin niger 'black' ; -ate|ate|S||||Latin -atus 'verb-forming'
+pedophile	noun	pedo-|pedo|B|N|||Greek pais 'child' ; -phile|phile|B|N|||Greek philein 'to love'
+enumerate	verb	=
+photocopier	noun	=
+restitution	noun	=
+paprika	noun	=
+truffle	noun	=
+antithesis	noun	anti-|anti|P||||Greek anti 'against' ; -thesis|thesis|B|N|||Greek thesis 'placing'
+dissociate	verb	dis-|dis|P||||Latin dis- 'apart' ; -soci-|soci|B|V|||Latin sociare 'to join' ; -ate|ate|S||||Latin -atus 'verb-forming'
+musket	noun	=
+recitation	noun	=
+stipend	noun	=
+euphemism	noun	=
+romanticism	noun	=
+possessive	adj	=
+pueblo	noun	=
+paleontologist	noun	=
+urinate	verb	=
+elated	adj	=
+repent	verb	=
+errant	adj	=
+partridge	noun	=
+scalpel	noun	scalp-|scalp|B|V|||Latin scalpere 'to cut' ; -el|el|S||||Latin -ellus 'diminutive'
+mortuary	noun	mort-|mort|B|N|||Latin mors 'death' ; -uary|uary|S||||Latin -arius 'pertaining to'
+fissure	noun	fiss-|fiss|B|V|||Latin findere 'to cleave' ; -ure|ure|S||||Latin -tura 'act, result'
+circumference	noun	circum-|circum|P||||Latin circum 'around' ; -fer-|fer|B|V|||Latin ferre 'to carry' ; -ence|ence|S||||Latin -entia 'state, quality'
+spanner	noun	=
+preconception	noun	=
+savory	adj	=
+paraphernalia	noun	=
+extricate	verb	=
+tuft	noun	=
+palsy	noun	=
+ebony	noun	=
+sacramental	adj	=
+obsess	verb	ob-|ob|P||||Latin ob- 'before' ; -sess|sess|B|V|||Latin sedere 'to sit'
+wiper	noun	=
+fiesta	noun	=
+invocation	noun	=
+kinetic	adj	kinet-|kinet|B|V|||Greek kinein 'to move' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+demented	adj	=
+assail	verb	as-|as|P||||Latin ad- 'to' ; -sail|sail|B|V|||Latin salire 'to jump'
+pelt	noun	=
+laureate	noun	laur-|laur|B|N|||Latin laurea 'laurel' ; -eate|eate|S||||Latin -atus 'having, provided with'
+trope	noun	=
+poacher	noun	=
+claret	noun	=
+tome	noun	=
+annexation	noun	=
+crucify	verb	=
+entomologist	noun	=
+meteorologist	noun	=
+holocaust	noun	=

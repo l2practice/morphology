@@ -1,0 +1,200 @@
+paktong	noun	paktong|paktong|R
+palabra	noun	palabra|palabra|R
+palaceous	adj	palaceous|palaceous|R
+palaeobiology	noun	palaeobiology|palaeobiology|R
+palaeoclimatology	noun	palaeoclimatology|palaeoclimatology|R
+palaeoecology	noun	palaeoecology|palaeoecology|R
+palaeogeography	noun	palaeogeography|palaeogeography|R
+palaeovirus	noun	palaeovirus|palaeovirus|R
+palaestra	noun	palaestra|palaestra|R
+palatableness	noun	palatable|palatable|R|Adj ; -ness|ness|S
+palatably	adv	palatable|palatabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+palatalization	noun	palatalize|palataliz|R|V ; -ation|ation|S
+palatalize	verb	palatal|palatal|R|Adj ; -ize|ize|S
+palatalized	adj	palatalize|palataliz|R|V ; -ed|ed|S||-ed (adj)
+palatally	adv	palatal|palatal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+palatially	adv	palatial|palatial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+palatialness	noun	palatial|palatial|R|Adj ; -ness|ness|S
+palatinate	noun	palatinate|palatinate|R
+palatogram	noun	palatogram|palatogram|R
+palatopharyngeal	adj	palatopharyngeal|palatopharyngeal|R
+palatoplasty	noun	palatoplasty|palatoplasty|R
+palatopterygoid	noun	palatopterygoid|palatopterygoid|R
+palatoquadrate	adj	palatoquadrate|palatoquadrate|R
+palea	noun	palea|palea|R
+palearctic	adj	palearctic|palearctic|R
+paleface	noun	pale|pale|R|Adj ; face|face|R|N
+paleoanthropology	noun	paleoanthropology|paleoanthropology|R
+paleobiology	noun	paleobiology|paleobiology|R
+paleobotany	noun	paleobotany|paleobotany|R
+paleochristian	adj	paleochristian|paleochristian|R
+paleoclimate	noun	paleoclimate|paleoclimate|R
+paleoclimatologist	noun	paleoclimatology|paleoclimatolog|R|N ; -ist|ist|S
+paleoecology	noun	paleoecology|paleoecology|R
+paleoenvironment	noun	paleoenvironment|paleoenvironment|R
+paleoethnobotany	noun	paleoethnobotany|paleoethnobotany|R
+paleogeology	noun	paleogeology|paleogeology|R
+paleographer	noun	paleography|paleograph|R|N ; -er|er|S||-er (N)
+paleographic	adj	paleography|paleograph|R|N ; -ic|ic|S
+paleography	noun	paleography|paleography|R
+paleoichnology	noun	paleoichnology|paleoichnology|R
+paleologism	noun	paleologism|paleologism|R
+paleomagnetism	noun	paleomagnetism|paleomagnetism|R
+paleopathological	adj	paleopathology|paleopatholog|R|N ; -ical|ical|S
+paleophytology	noun	paleophytology|paleophytology|R
+paleornithology	noun	paleornithology|paleornithology|R
+paleozoology	noun	paleozoology|paleozoology|R
+palestral	adj	palestra|palestr|R|N ; -al|al|S
+palestrian	noun	palestra|palestr|R|N ; -ian|ian|S
+palestric	adj	palestra|palestr|R|N ; -ic|ic|S
+palestrical	adj	palestra|palestr|R|N ; -ical|ical|S
+paletot	noun	paletot|paletot|R
+palification	noun	palification|palification|R
+paliform	adj	paliform|paliform|R
+palilalia	noun	palilalia|palilalia|R
+palilalic	adj	palilalia|palilal|R|N ; -ic|ic|S
+palilogy	noun	palilogy|palilogy|R
+palimbacchius	noun	palimbacchius|palimbacchius|R
+palindromic	adj	palindrome|palindrom|R|N ; -ic|ic|S
+palingenesis	noun	palingenesis|palingenesis|R
+palingenetic	adj	palingenesis|palingenet|R|N ; -ic|ic|S
+palingenetically	adv	palingenesis|palingenet|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+palinode	noun	palinode|palinode|R
+palish	adj	pale|pal|R|Adj ; -ish|ish|S
+palla	noun	palla|palla|R
+palladic	adj	palladium|pallad|R|N ; -ic|ic|S
+palladious	adj	palladium|palladi|R|N ; -ous|ous|S
+pallah	noun	pallah|pallah|R
+pallial	adj	pallium|palli|R|N ; -al|al|S
+palliasse	noun	palliasse|palliasse|R
+palliation	noun	palliate|palli|R|V ; -ation|ation|S
+palliatively	adv	palliative|palliative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+palliator	noun	palliate|palliat|R|V ; -or|or|S
+pallidly	adv	pallid|pallid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pallidness	noun	pallid|pallid|R|Adj ; -ness|ness|S
+pallium	noun	pallium|pallium|R
+palmaceous	adj	palmaceous|palmaceous|R
+palmar	adj	palm|palm|R|N ; -ar|ar|S
+palmary	adj	palm|palm|R|N ; -ary|ary|S
+palmate	adj	palm|palm|R|N ; -ate|ate|S
+palmated	adj	palmate|palmat|R|Adj ; -ed|ed|S||-ed (adj)
+palmately	adv	palmate|palmate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+palmatifid	adj	palmatifid|palmatifid|R
+palmatiform	adj	palmatiform|palmatiform|R
+palmatilobate	adj	palmatilobate|palmatilobate|R
+palmatipartite	adj	palmatipartite|palmatipartite|R
+palmatisect	adj	palmatisect|palmatisect|R
+palmatisected	adj	palmatisect|palmatisect|R|Adj ; -ed|ed|S||-ed (adj)
+palmed	verb	palm|palm|R|V ; -ed|ed|I||-ed (v2)
+palmier	adj	palmy|palmi|R|Adj ; -er|er|I||-er (comparative)
+palmigrade	adj	palmigrade|palmigrade|R
+palminerved	adj	palminerved|palminerved|R
+palmitate	noun	palmitic|palmit|R|Adj ; -ate|ate|S
+palmitic	adj	palmitic|palmitic|R
+palmolein	noun	palmolein|palmolein|R
+palmyra	noun	palmyra|palmyra|R
+palpability	noun	palpable|palpabil|R|Adj ; -ity|ity|S
+palpal	adj	palp|palp|R|N ; -al|al|S
+palpator	noun	palpate|palpat|R|V ; -or|or|S
+palpatory	adj	palpate|palpat|R|V ; -ory|ory|S
+palpebra	noun	palpebra|palpebra|R
+palpebral	adj	palpebra|palpebr|R|N ; -al|al|S
+palpitating	adj	palpitate|palpitat|R|V ; -ing|ing|S||-ing (adj)
+palpitatingly	adv	palpitate|palpitat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+palpocil	noun	palpocil|palpocil|R
+palpon	noun	palpon|palpon|R
+palpus	noun	palpus|palpus|R
+palsa	noun	palsa|palsa|R
+palsgrave	noun	palsgrave|palsgrave|R
+palstave	noun	palstave|palstave|R
+palter	verb	palter|palter|R
+palterer	noun	palter|palter|R|V ; -er|er|S||-er (N)
+paltrily	adv	paltry|paltri|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+paltriness	noun	paltry|paltri|R|Adj ; -ness|ness|S
+paludal	adj	paludal|paludal|R
+paludicolous	adj	paludicolous|paludicolous|R
+paludification	noun	paludification|paludification|R
+paludinous	adj	paludinous|paludinous|R
+palus	noun	palus|palus|R
+palustral	adj	palustral|palustral|R
+palustrian	adj	palustrian|palustrian|R
+palustrine	adj	palustrine|palustrine|R
+paly	adj	pale|pal|R|Adj ; -y|y|S
+palynology	noun	palynology|palynology|R
+pam	noun	pam|pam|R
+pampean	adj	pampean|pampean|R
+pampero	noun	pampero|pampero|R
+pamphletary	adj	pamphlet|pamphlet|R|N ; -ary|ary|S
+pampiniform	adj	pampiniform|pampiniform|R
+panada	noun	panada|panada|R
+panarchism	noun	panarchism|panarchism|R
+panatrophy	noun	panatrophy|panatrophy|R
+panchayat	noun	panchayat|panchayat|R
+panchromatic	adj	panchromatic|panchromatic|R
+panchromatism	noun	panchromatism|panchromatism|R
+pancosmism	noun	pancosmism|pancosmism|R
+pancratic	adj	pancratic|pancratic|R
+pancratist	noun	pancratist|pancratist|R
+pancratium	noun	pancratium|pancratium|R
+pancytopenia	noun	pancytopenia|pancytopenia|R
+pandal	noun	pandal|pandal|R
+pandanus	noun	pandanus|pandanus|R
+pandect	noun	pandect|pandect|R
+pandeism	noun	pandeism|pandeism|R
+pandeist	noun	pandeist|pandeist|R
+pandemia	noun	pandemia|pandemia|R
+pandiculate	adj	pandiculate|pandiculate|R
+pandiculation	noun	pandiculate|pandiculat|R|V ; -ion|ion|S
+pandit	noun	pandit|pandit|R
+pandora	noun	pandora|pandora|R
+pandore	noun	pandore|pandore|R
+pandoro	noun	pandoro|pandoro|R
+pandowdy	noun	pandowdy|pandowdy|R
+pandurate	adj	pandurate|pandurate|R
+panegyrical	adj	panegyric|panegyr|R|N ; -ical|ical|S
+panegyrically	adv	panegyric|panegyr|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+panegyrist	noun	panegyric|panegyr|R|N ; -ist|ist|S
+panegyrize	verb	panegyric|panegyr|R|N ; -ize|ize|S
+panela	noun	panela|panela|R
+panentheism	noun	panentheism|panentheism|R
+panentheist	noun	panentheist|panentheist|R
+panettone	noun	panettone|panettone|R
+panforte	noun	panforte|panforte|R
+panful	noun	pan|pan|R|N ; -ful|ful|S
+pangamic	adj	pangamic|pangamic|R
+pangasius	noun	pangasius|pangasius|R
+pangenesis	noun	pangenesis|pangenesis|R
+pangenetic	adj	pangenesis|pangenet|R|N ; -ic|ic|S
+pangram	noun	pangram|pangram|R
+panhellenism	noun	panhellenism|panhellenism|R
+panhuman	adj	panhuman|panhuman|R
+panicgrass	noun	panic|panic|R|N ; grass|grass|R|N
+panicle	noun	panicle|panicle|R
+paniculate	adj	panicle|panicul|R|N ; -ate|ate|S
+paniculately	adv	paniculate|paniculate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+panicum	noun	panicum|panicum|R
+panification	noun	panification|panification|R
+panimmunity	noun	panimmunity|panimmunity|R
+panipuri	noun	panipuri|panipuri|R
+panivorous	adj	panivorous|panivorous|R
+pankration	noun	pankration|pankration|R
+panlogism	noun	panlogism|panlogism|R
+panlogistic	adj	panlogistic|panlogistic|R
+panmictic	adj	panmictic|panmictic|R
+panmixia	noun	panmixia|panmixia|R
+pannage	noun	pannage|pannage|R
+panne	noun	panne|panne|R
+pannikin	noun	pannikin|pannikin|R
+panning	noun	pan|pann|R|V ; -ing|ing|S||-ing (N)
+panoplied	adj	panoply|panopli|R|N ; -ed|ed|S||-ed (adj)
+panoramically	adv	panorama|panoram|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+panphotometric	adj	panphotometric|panphotometric|R
+panpipes	noun	pan|pan|R|N ; pipe|pipe|R|N ; -s|s|I||-s (plural)
+panpsychism	noun	panpsychism|panpsychism|R
+pansexual	adj	pansexual|pansexual|R
+pansexuality	noun	pansexual|pansexual|R|Adj ; -ity|ity|S
+pansophic	adj	pansophic|pansophic|R
+pansophical	adj	pansophic|pansophic|R|Adj ; -al|al|S
+pansophism	noun	pansophism|pansophism|R
+panspermatism	noun	panspermatism|panspermatism|R
+panspermy	noun	panspermy|panspermy|R

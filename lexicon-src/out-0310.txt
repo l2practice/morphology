@@ -1,0 +1,200 @@
+intellectualist	noun	intellectual|intellectual|R|Adj ; -ist|ist|S
+intellectualistic	adj	intellectual|intellectual|R|Adj ; -ic|istic|S
+intellectuality	noun	intellectual|intellectual|R|Adj ; -ity|ity|S
+intellectualizer	noun	intellectualize|intellectualiz|R|V ; -er|er|S||-er (N)
+intellectualness	noun	intellectual|intellectual|R|Adj ; -ness|ness|S
+intelligencer	noun	intelligence|intelligenc|R|N ; -er|er|S||-er (N)
+intelligential	adj	intelligence|intelligenti|R|N ; -al|al|S
+intelligibleness	noun	intelligible|intelligible|R|Adj ; -ness|ness|S
+intemperately	adv	intemperate|intemperate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+intemperateness	noun	intemperate|intemperate|R|Adj ; -ness|ness|S
+intempestivity	noun	intempestive|intempestiv|R|Adj ; -ity|ity|S
+intendancy	noun	intend|intend|R|V ; -ancy|ancy|S
+intendedly	adv	intend|intend|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+intending	verb	intend|intend|R|V ; -ing|ing|I||-ing (v)
+intendment	noun	intend|intend|R|V ; -ment|ment|S
+intenerate	verb	intenerate|intenerate|R|V
+inteneration	noun	intenerate|intener|R|V ; -ation|ation|S
+intenseness	noun	intense|intense|R|Adj ; -ness|ness|S
+intension	noun	intense|intens|R|Adj ; -ion|ion|S
+intensiveness	noun	intensive|intensive|R|Adj ; -ness|ness|S
+intentness	noun	intent|intent|R|N ; -ness|ness|S
+interactant	noun	interact|interact|R|V ; -ant|ant|S
+interactivity	noun	interactive|interactiv|R|Adj ; -ity|ity|S
+interactome	noun	interactome|interactome|R|N
+interbed	verb	inter-|inter|P ; bed|bed|R|N
+interblend	verb	inter-|inter|P ; blend|blend|R|V
+interborough	adj	inter-|inter|P ; borough|borough|R|N
+interbrain	adj	inter-|inter|P ; brain|brain|R|N
+intercalary	adj	intercalary|intercalary|R|Adj
+intercalation	noun	intercalate|intercalat|R|V ; -ion|ion|S
+intercalative	adj	intercalate|intercalat|R|V ; -ive|ive|S
+interceder	noun	intercede|interced|R|V ; -er|er|S||-er (N)
+interceding	verb	intercede|interced|R|V ; -ing|ing|I||-ing (v)
+intercensal	adj	inter-|inter|P ; censal|censal|R|Adj
+interceptive	adj	intercept|intercept|R|V ; -ive|ive|S
+intercessional	adj	intercession|intercession|R|N ; -al|al|S
+interchangeableness	noun	interchangeable|interchangeable|R|Adj ; -ness|ness|S
+interchanger	noun	inter-|inter|P ; change|chang|R|V ; -er|er|S||-er (N)
+interchanging	verb	inter-|inter|P ; change|chang|R|V ; -ing|ing|I||-ing (v)
+interchurch	adj	inter-|inter|P ; church|church|R|N
+interclass	adj	inter-|inter|P ; class|class|R|N
+interclavicle	noun	inter-|inter|P ; clavicle|clavicle|R|N
+interclavicular	adj	interclavicle|interclavicul|R|N ; -ar|ar|S
+intercollege	adj	inter-|inter|P ; college|college|R|N
+intercolonial	adj	inter-|inter|P ; colonial|colonial|R|Adj
+intercolumniation	noun	intercolumniation|intercolumniation|R|N
+intercommunicability	noun	intercommunicable|intercommunicabil|R|Adj ; -ity|ity|S
+intercommunicable	adj	inter-|inter|P ; communicable|communicable|R|Adj
+intercommunicate	verb	inter-|inter|P ; communicate|communicate|R|V
+intercommunicating	verb	inter-|inter|P ; communicate|communicat|R|V ; -ing|ing|I||-ing (v)
+intercommunication	noun	inter-|inter|P ; communicate|communicat|R|V ; -ion|ion|S
+intercommunicative	adj	inter-|inter|P ; communicate|communicat|R|V ; -ive|ive|S
+intercommunion	noun	inter-|inter|P ; communion|communion|R|N
+intercommunity	noun	inter-|inter|P ; community|community|R|N
+interconfessional	adj	inter-|inter|P ; confessional|confessional|R|Adj
+interconnectable	adj	inter-|inter|P ; connect|connect|R|V ; -able|able|S
+interconnectible	adj	inter-|inter|P ; connect|connect|R|V ; -ible|ible|S
+interconversion	noun	inter-|inter|P ; conversion|conversion|R|N
+interconvert	verb	inter-|inter|P ; convert|convert|R|V
+interconvertibility	noun	interconvertible|interconvertibil|R|Adj ; -ity|ity|S
+interconvertible	adj	inter-|inter|P ; convert|convert|R|V ; -ible|ible|S
+intercrop	verb	inter-|inter|P ; crop|crop|R|N
+intercross	verb	inter-|inter|P ; cross|cross|R|V
+intercrystalline	adj	inter-|inter|P ; crystalline|crystalline|R|Adj
+intercurrence	noun	intercurrent|intercurr|R|Adj ; -ence|ence|S
+intercurrent	adj	inter-|inter|P ; current|current|R|Adj
+interdental	adj	inter-|inter|P ; dental|dental|R|Adj
+interdepartmentally	adv	interdepartmental|interdepartmental|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+interdependently	adv	interdependent|interdependent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+interdicted	verb	interdict|interdict|R|V ; -ed|ed|I||-ed (v2)
+interdictive	adj	interdict|interdict|R|V ; -ive|ive|S
+interdictively	adv	interdict|interdict|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+interdictor	noun	interdict|interdict|R|V ; -or|or|S
+interdictory	adj	interdict|interdict|R|V ; -ory|ory|S
+interdiffuse	verb	inter-|inter|P ; diffuse|diffuse|R|V
+interdiffusion	noun	inter-|inter|P ; diffuse|diffus|R|V ; -ion|ion|S
+interdigital	adj	inter-|inter|P ; digital|digital|R|Adj
+interdigitate	verb	inter-|inter|P ; digitate|digitate|R|V
+interdigitation	noun	inter-|inter|P ; digitate|digitat|R|V ; -ion|ion|S
+interdimensional	adj	inter-|inter|P ; dimensional|dimensional|R|Adj
+interestedness	noun	interest|interest|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+interestingness	noun	interest|interest|R|N ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+interests	noun	interest|interest|R|N ; -s|s|I||-s (plural)
+interethnic	adj	inter-|inter|P ; ethnic|ethnic|R|Adj
+interferential	adj	interference|interferenti|R|N ; -al|al|S
+interferer	noun	interfere|interfer|R|V ; -er|er|S||-er (N)
+interferingly	adv	interfere|interfer|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+interferogram	noun	interferogram|interferogram|R|N
+interferometrically	adv	interferometric|interferometric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+interferometry	noun	interferometry|interferometry|R|N
+interfertile	adj	inter-|inter|P ; fertile|fertile|R|Adj
+interfile	verb	inter-|inter|P ; file|file|R|V
+interfix	noun	inter-|inter|P ; fix|fix|R|V
+interflow	verb	inter-|inter|P ; flow|flow|R|V
+interfluent	adj	inter-|inter|P ; fluent|fluent|R|Adj
+interfluve	noun	interfluve|interfluve|R|N
+interfold	verb	inter-|inter|P ; fold|fold|R|V
+interfoliaceous	adj	interfoliaceous|interfoliaceous|R|Adj
+interfoliar	adj	inter-|inter|P ; foliar|foliar|R|Adj
+interfuse	verb	inter-|inter|P ; fuse|fuse|R|V
+interfusion	noun	inter-|inter|P ; fuse|fus|R|V ; -ion|ion|S
+intergenic	adj	inter-|inter|P ; genic|genic|R|Adj
+intergradation	noun	intergrade|intergrad|R|V ; -ation|ation|S
+intergrade	noun	inter-|inter|P ; grade|grade|R|N
+intergranular	adj	inter-|inter|P ; granular|granular|R|Adj
+intergrowth	noun	inter-|inter|P ; growth|growth|R|N
+interhemispheric	adj	inter-|inter|P ; hemispheric|hemispheric|R|Adj
+interionic	adj	inter-|inter|P ; ionic|ionic|R|Adj
+interiority	noun	interior|interior|R|Adj ; -ity|ity|S
+interisland	adj	inter-|inter|P ; island|island|R|N
+interjacent	adj	interjacent|interjacent|R|Adj
+interjaculatory	adj	inter-|inter|P ; jaculatory|jaculatory|R|Adj
+interjectional	adj	interjection|interjection|R|N ; -al|al|S
+interjectionalize	verb	interjectional|interjectional|R|Adj ; -ize|ize|S
+interjectionally	adv	interjectional|interjectional|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+interjector	noun	interject|interject|R|V ; -or|or|S
+interjectory	adj	interject|interject|R|V ; -ory|ory|S
+interjoin	verb	inter-|inter|P ; join|join|R|V
+interknit	verb	inter-|inter|P ; knit|knit|R|V
+interknot	verb	inter-|inter|P ; knot|knot|R|N
+interlacement	noun	interlace|interlac|R|V ; -ment|ement|S
+interlacing	verb	interlace|interlac|R|V ; -ing|ing|I||-ing (v)
+interlaminate	verb	inter-|inter|P ; laminate|laminate|R|V
+interlamination	noun	inter-|inter|P ; laminate|laminat|R|V ; -ion|ion|S
+interlanguage	noun	inter-|inter|P ; language|language|R|N
+interlap	verb	inter-|inter|P ; lap|lap|R|V
+interlard	verb	inter-|inter|P ; lard|lard|R|V
+interlarding	verb	inter-|inter|P ; lard|lard|R|V ; -ing|ing|I||-ing (v)
+interlardment	noun	inter-|inter|P ; lard|lard|R|V ; -ment|ment|S
+interlay	verb	inter-|inter|P ; lay|lay|R|V
+interleading	verb	inter-|inter|P ; lead|lead|R|V ; -ing|ing|I||-ing (v)
+interleaf	noun	inter-|inter|P ; leaf|leaf|R|N
+interleaving	verb	interleave|interleav|R|V ; -ing|ing|I||-ing (v)
+interline	verb	inter-|inter|P ; line|line|R|V
+interlineate	verb	inter-|inter|P ; lineate|lineate|R|V
+interlineation	noun	inter-|inter|P ; lineate|lineat|R|V ; -ion|ion|S
+interlingua	noun	interlingua|interlingua|R|N
+interlingual	adj	inter-|inter|P ; lingual|lingual|R|Adj
+interlining	noun	inter-|inter|P ; line|lin|R|V ; -ing|ing|S||-ing (N)
+interlinking	verb	inter-|inter|P ; link|link|R|V ; -ing|ing|I||-ing (v)
+interlocution	noun	interlocute|interlocut|R|V ; -ion|ion|S
+interlocutress	noun	interlocutress|interlocutress|R|N
+interlocutrice	noun	interlocutrice|interlocutrice|R|N
+interlocutrix	noun	interlocutrix|interlocutrix|R|N
+interlope	verb	inter-|inter|P ; lope|lope|R|V
+interloping	verb	interlope|interlop|R|V ; -ing|ing|I||-ing (v)
+interlunar	adj	inter-|inter|P ; lunar|lunar|R|Adj
+interlunation	noun	inter-|inter|P ; lunation|lunation|R|N
+intermarrying	verb	inter-|inter|P ; marry|marry|R|V ; -ing|ing|I||-ing (v)
+intermaxillary	adj	inter-|inter|P ; maxillary|maxillary|R|Adj
+intermeddle	verb	inter-|inter|P ; meddle|meddle|R|V
+intermeddler	noun	inter-|inter|P ; meddle|meddl|R|V ; -er|er|S||-er (N)
+intermedia	noun	inter-|inter|P ; media|media|R|N
+intermediacy	noun	intermediate|intermedi|R|Adj ; -cy|acy|S
+intermediately	adv	intermediate|intermediate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+intermediateness	noun	intermediate|intermediate|R|Adj ; -ness|ness|S
+intermediator	noun	intermediate|intermediat|R|Adj ; -or|or|S
+intermediatory	adj	intermediate|intermediat|R|Adj ; -ory|ory|S
+intermedium	noun	inter-|inter|P ; medium|medium|R|N
+intermigration	noun	inter-|inter|P ; migration|migration|R|N
+interminability	noun	interminable|interminabil|R|Adj ; -ity|ity|S
+interminableness	noun	interminable|interminable|R|Adj ; -ness|ness|S
+interminglement	noun	intermingle|intermingl|R|V ; -ment|ement|S
+interministerial	adj	inter-|inter|P ; ministerial|ministerial|R|Adj
+intermissive	adj	intermit|intermiss|R|V ; -ive|ive|S
+intermittence	noun	intermittent|intermitt|R|Adj ; -ence|ence|S
+intermitter	noun	intermit|intermitt|R|V ; -er|er|S||-er (N)
+intermittingly	adv	intermit|intermitt|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+intermixable	adj	intermix|intermix|R|V ; -able|able|S
+intermixed	verb	intermix|intermix|R|V ; -ed|ed|I||-ed (v2)
+intermixing	verb	intermix|intermix|R|V ; -ing|ing|I||-ing (v)
+intermixture	noun	intermix|intermix|R|V ; -ure|ture|S
+intermodulation	noun	inter-|inter|P ; modulation|modulation|R|N
+intermontane	adj	inter-|inter|P ; montane|montane|R|Adj
+intermundane	adj	inter-|inter|P ; mundane|mundane|R|Adj
+intermural	adj	inter-|inter|P ; mural|mural|R|Adj
+internality	noun	internal|internal|R|Adj ; -ity|ity|S
+internalness	noun	internal|internal|R|Adj ; -ness|ness|S
+internals	noun	internal|internal|R|Adj ; -s|s|I||-s (plural)
+internationality	noun	international|international|R|Adj ; -ity|ity|S
+internationalness	noun	international|international|R|Adj ; -ness|ness|S
+internaut	noun	internaut|internaut|R|N
+internets	noun	internet|internet|R|N ; -s|s|I||-s (plural)
+interning	verb	intern|intern|R|V ; -ing|ing|I||-ing (v)
+internodal	adj	inter-|inter|P ; nodal|nodal|R|Adj
+internuclear	adj	inter-|inter|P ; nuclear|nuclear|R|Adj
+internuncial	adj	internuncio|internunci|R|N ; -al|al|S
+internuncio	noun	internuncio|internuncio|R|N
+interoceanic	adj	inter-|inter|P ; oceanic|oceanic|R|Adj
+interoceptive	adj	interoceptive|interoceptive|R|Adj
+interoceptor	noun	interoceptor|interoceptor|R|N
+interocular	adj	inter-|inter|P ; ocular|ocular|R|Adj
+interoffice	adj	inter-|inter|P ; office|office|R|N
+interosculate	verb	inter-|inter|P ; osculate|osculate|R|V
+interosculation	noun	inter-|inter|P ; osculate|osculat|R|V ; -ion|ion|S
+interosseous	adj	inter-|inter|P ; osseous|osseous|R|Adj
+interpage	noun	inter-|inter|P ; page|page|R|N
+interparliamentary	adj	inter-|inter|P ; parliamentary|parliamentary|R|Adj
+interparticle	adj	inter-|inter|P ; particle|particle|R|N
+interpenetrable	adj	inter-|inter|P ; penetrable|penetrable|R|Adj

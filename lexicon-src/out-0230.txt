@@ -1,0 +1,200 @@
+aspirer	noun	aspire|aspir|R|V ; -er|er|S||-er (N)
+aspiringly	adv	aspire|aspir|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+asplanchnic	adj	asplanchnic|asplanchnic|R|Adj
+asplenia	noun	asplenia|asplenia|R|N
+asporogenic	adj	asporogenic|asporogenic|R|Adj
+asporous	adj	asporous|asporous|R|Adj
+asquint	adj	a-|a|P ; squint|squint|R|V
+asr	noun	asr|asr|R|N
+assailable	adj	assail|assail|R|V ; -able|able|S
+assailableness	noun	assail|assail|R|V ; -able|able|S ; -ness|ness|S
+assailer	noun	assail|assail|R|V ; -er|er|S||-er (N)
+assassinative	adj	assassin|assassin|R|N ; -ative|ative|S
+assassinator	noun	assassinator|assassinator|R|N
+assassinatrix	noun	assassinatrix|assassinatrix|R|N
+assassinee	noun	assassin|assassin|R|N ; -ee|ee|S
+assaulter	noun	assault|assault|R|V ; -er|er|S||-er (N)
+assayable	adj	assay|assay|R|V ; -able|able|S
+asscheek	noun	ass|ass|R|N ; cheek|cheek|R|N
+assegai	noun	assegai|assegai|R|N
+assemblagist	noun	assemble|assembl|R|V ; -age|ag|S ; -ist|ist|S
+assentation	noun	assent|assent|R|V ; -ation|ation|S
+assented	verb	assent|assent|R|V ; -ed|ed|I||-ed (v2)
+assenter	noun	assent|assent|R|V ; -er|er|S||-er (N)
+assentingly	adv	assent|assent|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+assentive	adj	assent|assent|R|V ; -ive|ive|S
+assentiveness	noun	assent|assent|R|V ; -ive|ive|S ; -ness|ness|S
+assertable	adj	assert|assert|R|V ; -able|able|S
+asserting	verb	assert|assert|R|V ; -ing|ing|I||-ing (v)
+assertional	adj	assert|assert|R|V ; -ion|ion|S ; -al|al|S
+assertor	noun	assert|assert|R|V ; -or|or|S
+assertoric	adj	assert|assert|R|V ; -or|or|S ; -ic|ic|S
+assessorial	adj	assess|assess|R|V ; -or|or|S ; -ial|ial|S
+assets	noun	asset|asset|R|N ; -s|s|I||-s (plural)
+asseverate	verb	asseverate|asseverate|R|V
+asseveration	noun	asseverate|asseverat|R|V ; -ion|ion|S
+assfuck	noun	ass|ass|R|N ; fuck|fuck|R|V
+assholery	noun	asshole|asshol|R|N ; -ery|ery|S
+assibilate	verb	assibilate|assibilate|R|V
+assibilation	noun	assibilate|assibilat|R|V ; -ion|ion|S
+assiduousness	noun	assiduous|assiduous|R|Adj ; -ness|ness|S
+assignability	noun	assign|assign|R|V ; -able|abil|S ; -ity|ity|S
+assigner	noun	assign|assign|R|V ; -er|er|S||-er (N)
+assignor	noun	assign|assign|R|V ; -or|or|S
+assimilability	noun	assimilate|assimil|R|V ; -able|abil|S ; -ity|ity|S
+assimilator	noun	assimilate|assimilat|R|V ; -or|or|S
+assimilatory	adj	assimilate|assimilat|R|V ; -ory|ory|S
+assister	noun	assist|assist|R|V ; -er|er|S||-er (N)
+assload	noun	ass|ass|R|N ; load|load|R|N
+associable	adj	associate|associ|R|V ; -able|able|S
+associationism	noun	associate|associ|R|V ; -ation|ation|S ; -ism|ism|S
+associationist	noun	associate|associ|R|V ; -ation|ation|S ; -ist|ist|S
+associationistic	adj	associate|associ|R|V ; -ation|ation|S ; -ist|ist|S ; -ic|ic|S
+associatively	adv	associate|associ|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+associativity	noun	associate|associ|R|V ; -ative|ativ|S ; -ity|ity|S
+associator	noun	associate|associat|R|V ; -or|or|S
+assonant	adj	assonant|assonant|R|Adj
+assonantal	adj	assonant|assonant|R|Adj ; -al|al|S
+assort	verb	assort|assort|R|V
+assortative	adj	assort|assort|R|V ; -ative|ative|S
+assorter	noun	assort|assort|R|V ; -er|er|S||-er (N)
+assuagement	noun	assuage|assuage|R|V ; -ment|ment|S
+assuaging	verb	assuage|assuag|R|V ; -ing|ing|I||-ing (v)
+assumable	adj	assume|assum|R|V ; -able|able|S
+assumably	adv	assume|assum|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+assumedly	adv	assume|assum|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+assumer	noun	assume|assum|R|V ; -er|er|S||-er (N)
+assuming	verb	assume|assum|R|V ; -ing|ing|I||-ing (v)
+assumingly	adv	assume|assum|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+assumptive	adj	assume|assumpt|R|V ; -ive|ive|S
+assumptively	adv	assume|assumpt|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+assuredness	noun	assure|assur|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+assurer	noun	assure|assur|R|V ; -er|er|S||-er (N)
+assurgency	noun	assurgency|assurgency|R|N
+assurgent	adj	assurgent|assurgent|R|Adj
+assuring	verb	assure|assur|R|V ; -ing|ing|I||-ing (v)
+asswipe	noun	ass|ass|R|N ; wipe|wipe|R|V
+astable	adj	a-|a|P ; stable|stable|R|Adj
+astaghfirullah	interj	astaghfirullah|astaghfirullah|R|N
+astasia	noun	astasia|astasia|R|N
+astatic	adj	a-|a|P ; static|static|R|Adj
+astatically	adv	a-|a|P ; static|static|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+astaticism	noun	a-|a|P ; static|static|R|Adj ; -ism|ism|S
+astatine	noun	astatine|astatine|R|N
+astaxanthin	noun	astaxanthin|astaxanthin|R|N
+astelic	adj	astelic|astelic|R|Adj
+asterismal	adj	asterism|asterism|R|N ; -al|al|S
+asternal	adj	a-|a|P ; sternal|sternal|R|Adj
+asteronym	noun	asteronym|asteronym|R|N
+asteroseismology	noun	asteroseismology|asteroseismology|R|N
+asthenia	noun	asthenia|asthenia|R|N
+asthenic	adj	asthenic|asthenic|R|Adj
+asthenopia	noun	asthenopia|asthenopia|R|N
+asthenosphere	noun	asthenosphere|asthenosphere|R|N
+asthmatically	adv	asthmatic|asthmatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+astigmatic	adj	astigmatic|astigmatic|R|Adj
+astigmatically	adv	astigmatic|astigmatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+astomatous	adj	astomatous|astomatous|R|Adj
+astraddle	adv	a-|a|P ; straddle|straddle|R|V
+astragal	noun	astragal|astragal|R|N
+astrally	adv	astral|astral|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+astrantia	noun	astrantia|astrantia|R|N
+astrict	verb	astrict|astrict|R|V
+astriction	noun	astrict|astrict|R|V ; -ion|ion|S
+astrictive	adj	astrict|astrict|R|V ; -ive|ive|S
+astringe	verb	astringe|astringe|R|V
+astringency	noun	astringent|astring|R|Adj ; -ency|ency|S
+astringently	adv	astringent|astring|R|Adj ; -ent|ent|S ; -ly|ly|I|Adv|-ly (adv)
+astrobiological	adj	astrobiological|astrobiological|R|Adj
+astroblast	noun	astroblast|astroblast|R|N
+astrobleme	noun	astrobleme|astrobleme|R|N
+astrobotany	noun	astrobotany|astrobotany|R|N
+astrocentric	adj	astrocentric|astrocentric|R|Adj
+astrochemical	adj	astrochemical|astrochemical|R|Adj
+astrochemist	noun	astrochemist|astrochemist|R|N
+astrochemistry	noun	astrochemistry|astrochemistry|R|N
+astrocytoma	noun	astrocytoma|astrocytoma|R|N
+astrodome	noun	astrodome|astrodome|R|N
+astrodynamics	noun	astrodynamics|astrodynamics|R|N
+astrogeologist	noun	astrogeologist|astrogeologist|R|N
+astrogeology	noun	astrogeology|astrogeology|R|N
+astrogliogenic	adj	astrogliogenic|astrogliogenic|R|Adj
+astrogliosis	noun	astrogliosis|astrogliosis|R|N
+astroid	noun	astroid|astroid|R|N
+astrolatry	noun	astrolatry|astrolatry|R|N
+astrologically	adv	astrological|astrological|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+astromathematics	noun	astromathematics|astromathematics|R|N
+astrometeorology	noun	astrometeorology|astrometeorology|R|N
+astrometer	noun	astrometer|astrometer|R|N
+astronautic	adj	astronautic|astronautic|R|Adj
+astronautically	adv	astronautic|astronautic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+astrophotographer	noun	astrophotographer|astrophotographer|R|N
+astrophotographic	adj	astrophotographic|astrophotographic|R|Adj
+astrosphere	noun	astrosphere|astrosphere|R|N
+astrotourism	noun	astrotourism|astrotourism|R|N
+astroturfing	verb	astroturf|astroturf|R|V ; -ing|ing|I||-ing (v)
+astucious	adj	astucious|astucious|R|Adj
+aswarm	adv	a-|a|P ; swarm|swarm|R|V
+aswoon	adv	a-|a|P ; swoon|swoon|R|V
+asylee	noun	asylum|asyl|R|N ; -ee|ee|S
+asyllabic	adj	a-|a|P ; syllabic|syllabic|R|Adj
+asymptote	noun	asymptote|asymptote|R|N
+asynapsis	noun	asynapsis|asynapsis|R|N
+asynchronicity	noun	asynchronous|asynchron|R|Adj ; -icity|icity|S
+asynchronism	noun	a-|a|P ; synchronism|synchronism|R|N
+asyndesis	noun	asyndesis|asyndesis|R|N
+asyndetic	adj	asyndetic|asyndetic|R|Adj
+asyndetically	adv	asyndetic|asyndetic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+asyndeton	noun	asyndeton|asyndeton|R|N
+asynergia	noun	asynergia|asynergia|R|N
+asyngamic	adj	asyngamic|asyngamic|R|Adj
+asyngamy	noun	asyngamy|asyngamy|R|N
+asystole	noun	asystole|asystole|R|N
+asystolic	adj	asystole|asystol|R|N ; -ic|ic|S
+atabeg	noun	atabeg|atabeg|R|N
+atabrine	noun	atabrine|atabrine|R|N
+ataman	noun	ataman|ataman|R|N
+ataractic	adj	ataractic|ataractic|R|Adj
+ataraxia	noun	ataraxia|ataraxia|R|N
+ataraxy	noun	ataraxy|ataraxy|R|N
+atavist	noun	atavist|atavist|R|N
+atavistically	adv	atavistic|atavistic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+ataxic	adj	ataxic|ataxic|R|Adj
+ataxy	noun	ataxy|ataxy|R|N
+ate	verb	eat|ate|R|V ; -ed||I||-ed (v2)
+ateji	noun	ateji|ateji|R|N
+atelectasis	noun	atelectasis|atelectasis|R|N
+atelia	noun	atelia|atelia|R|N
+atelophobia	noun	atelophobia|atelophobia|R|N
+atemoya	noun	atemoya|atemoya|R|N
+athanor	noun	athanor|athanor|R|N
+atheistical	adj	a-|a|P ; theist|theist|R|N ; -ical|ical|S
+atheistically	adv	a-|a|P ; theist|theist|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+athematic	adj	a-|a|P ; thematic|thematic|R|Adj
+athenaeum	noun	athenaeum|athenaeum|R|N
+atheophobia	noun	atheophobia|atheophobia|R|N
+athermic	adj	a-|a|P ; thermic|thermic|R|Adj
+atherogenic	adj	atherogenic|atherogenic|R|Adj
+atheroma	noun	atheroma|atheroma|R|N
+athetosis	noun	athetosis|athetosis|R|N
+athirst	adj	a-|a|P ; thirst|thirst|R|N
+athrepsia	noun	athrepsia|athrepsia|R|N
+athrocytosis	noun	athrocytosis|athrocytosis|R|N
+athwartships	adv	athwartships|athwartships|R|Adv
+atilt	adv	a-|a|P ; tilt|tilt|R|V
+atingle	adj	a-|a|P ; tingle|tingle|R|V
+atishoo	interj	atishoo|atishoo|R|N
+atlantic	adj	atlantic|atlantic|R|Adj
+atmometer	noun	atmometer|atmometer|R|N
+atmometric	adj	atmometer|atmometr|R|N ; -ic|ic|S
+atmospherical	adj	atmospheric|atmospheric|R|Adj ; -al|al|S
+atmospherically	adv	atmospheric|atmospheric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+atole	noun	atole|atole|R|N
+atomaniac	noun	atomaniac|atomaniac|R|N
+atomicity	noun	atomic|atomic|R|Adj ; -ity|ity|S
+atomics	noun	atomic|atomic|R|Adj ; -s|s|I||-s (plural)
+atomist	noun	atom|atom|R|N ; -ist|ist|S
+atomistically	adv	atomist|atomist|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+atomy	noun	atomy|atomy|R|N
+atonable	adj	atone|aton|R|V ; -able|able|S
+atonally	adv	a-|a|P ; tonal|tonal|R|Adj ; -ly|ly|I|Adv|-ly (adv)

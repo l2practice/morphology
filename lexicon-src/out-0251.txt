@@ -1,0 +1,200 @@
+comatosely	adv	comatose|comatose|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+comaximal	adj	co-|co|P ; maximal|maximal|R|Adj
+combatively	adv	combat|combat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+combe	noun	combe|combe|R|N
+combinable	adj	combine|combin|R|V ; -able|able|S
+combinate	verb	combine|combin|R|V ; -ate|ate|S
+combinational	adj	combine|combin|R|V ; -ation|ation|S ; -al|al|S
+combinations	noun	combine|combin|R|V ; -ation|ation|S ; -s|s|I||-s (plural)
+combinative	adj	combine|combin|R|V ; -ative|ative|S
+combinator	noun	combine|combin|R|V ; -or|ator|S
+combinatorics	noun	combinatorics|combinatorics|R|N
+combinatory	adj	combine|combin|R|V ; -ory|atory|S
+combiner	noun	combine|combin|R|V ; -er|er|S||-er (N)
+combings	noun	comb|comb|R|V ; -ing|ing|S||-ing (N) ; -s|s|I||-s (plural)
+combover	noun	comb|comb|R|N ; over|over|R|Adv
+combs	noun	comb|comb|R|N ; -s|s|I||-s (plural)
+combustibility	noun	combust|combust|R|V ; -ible|ibil|S ; -ity|ity|S
+combustibleness	noun	combust|combust|R|V ; -ible|ible|S ; -ness|ness|S
+combustibly	adv	combust|combust|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+combustive	adj	combust|combust|R|V ; -ive|ive|S
+comedietta	noun	comedietta|comedietta|R|N
+comedo	noun	comedo|comedo|R|N
+comeliness	noun	comely|comeli|R|Adj ; -ness|ness|S
+comes	verb	come|come|R|V ; -s|s|I||-s (3sg)
+comestible	adj	comestible|comestible|R|Adj
+comfit	noun	comfit|comfit|R|N
+comfortability	noun	comfort|comfort|R|V ; -able|abil|S ; -ity|ity|S
+comfortableness	noun	comfort|comfort|R|V ; -able|able|S ; -ness|ness|S
+comforted	verb	comfort|comfort|R|V ; -ed|ed|I||-ed (v2)
+comfortful	adj	comfort|comfort|R|V ; -ful|ful|S
+comicality	noun	comic|comic|R|Adj ; -al|al|S ; -ity|ity|S
+comics	noun	comic|comic|R|N ; -s|s|I||-s (plural)
+comital	adj	comital|comital|R|Adj
+comitant	noun	comitant|comitant|R|N
+comitative	adj	comitative|comitative|R|Adj
+comitia	noun	comitia|comitia|R|N
+comitology	noun	comitology|comitology|R|N
+commandery	noun	command|command|R|V ; -ery|ery|S
+commandingness	noun	command|command|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+commemorator	noun	commemorate|commemorat|R|V ; -or|or|S
+commencer	noun	commence|commenc|R|V ; -er|er|S||-er (N)
+commendableness	noun	commend|commend|R|V ; -able|able|S ; -ness|ness|S
+commendatory	adj	commend|commend|R|V ; -ory|atory|S
+commensalism	noun	commensal|commensal|R|N ; -ism|ism|S
+commensally	adv	commensal|commensal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+commensurableness	noun	commensurate|commensur|R|V ; -able|able|S ; -ness|ness|S
+commensurably	adv	commensurate|commensur|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+commensurateness	noun	commensurate|commensurate|R|V ; -ness|ness|S
+commensuration	noun	commensurate|commensur|R|V ; -ation|ation|S
+commentarial	adj	commentary|commentari|R|N ; -al|al|S
+commentation	noun	comment|comment|R|V ; -ation|ation|S
+commenter	noun	comment|comment|R|V ; -er|er|S||-er (N)
+commenting	verb	comment|comment|R|V ; -ing|ing|I||-ing (v)
+commercialese	noun	commercialese|commercialese|R|N
+commercialist	noun	commercial|commercial|R|Adj ; -ist|ist|S
+commercialistic	adj	commercial|commercial|R|Adj ; -ist|ist|S ; -ic|ic|S
+commination	noun	commination|commination|R|N
+comminatory	adj	comminatory|comminatory|R|Adj
+comminute	verb	comminute|comminute|R|V
+comminuted	verb	comminute|comminut|R|V ; -ed|ed|I||-ed (v2)
+comminution	noun	comminute|comminut|R|V ; -ion|ion|S
+commiserative	adj	commiserate|commiserat|R|V ; -ive|ive|S
+commiseratively	adv	commiserate|commiserat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+commiserator	noun	commiserate|commiserat|R|V ; -or|or|S
+commissarial	adj	commissary|commissari|R|N ; -al|al|S
+commissional	adj	commission|commission|R|N ; -al|al|S
+commissionership	noun	commission|commission|R|N ; -er|er|S||-er (N) ; -ship|ship|S
+commissural	adj	commissure|commissur|R|N ; -al|al|S
+commissure	noun	commissure|commissure|R|N
+committable	adj	commit|committ|R|V ; -able|able|S
+committer	noun	commit|committ|R|V ; -er|er|S||-er (N)
+commix	verb	com-|com|P ; mix|mix|R|V
+commixture	noun	com-|com|P ; mix|mix|R|V ; -ture|ture|S
+commodate	verb	commodate|commodate|R|V
+commodify	verb	commodity|commodi|R|N ; -ify|fy|S
+commodiously	adv	commodious|commodious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+commodiousness	noun	commodious|commodious|R|Adj ; -ness|ness|S
+commonable	adj	common|common|R|Adj ; -able|able|S
+commonage	noun	common|common|R|Adj ; -age|age|S
+commonish	adj	common|common|R|Adj ; -ish|ish|S
+commonize	verb	common|common|R|Adj ; -ize|ize|S
+commonplaceness	noun	commonplace|commonplace|R|Adj ; -ness|ness|S
+commonweal	noun	common|common|R|Adj ; weal|weal|R|N
+communard	noun	communard|communard|R|N
+communicableness	noun	communicate|communic|R|V ; -able|able|S ; -ness|ness|S
+communicably	adv	communicate|communic|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+communicatively	adv	communicate|communic|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+communicativeness	noun	communicate|communic|R|V ; -ative|ative|S ; -ness|ness|S
+communing	verb	commune|commun|R|V ; -ing|ing|I||-ing (v)
+communion	noun	commune|commun|R|V ; -ion|ion|S
+communistically	adv	communist|communist|R|N ; -ic|ic|S ; -ly|ally|I|Adv|-ly (adv)
+communitarianism	noun	communitarian|communitarian|R|N ; -ism|ism|S
+communization	noun	commune|commun|R|V ; -ize|iz|S ; -ation|ation|S
+communize	verb	commune|commun|R|V ; -ize|ize|S
+commutability	noun	commute|commut|R|V ; -able|abil|S ; -ity|ity|S
+commutable	adj	commute|commut|R|V ; -able|able|S
+commutant	noun	commute|commut|R|V ; -ant|ant|S
+commutate	verb	commute|commut|R|V ; -ate|ate|S
+commutative	adj	commute|commut|R|V ; -ative|ative|S
+commutativity	noun	commute|commut|R|V ; -ative|ativ|S ; -ity|ity|S
+commutator	noun	commute|commut|R|V ; -or|ator|S
+comorbid	adj	co-|co|P ; morbid|morbid|R|Adj
+comose	adj	comose|comose|R|Adj
+compactification	noun	compact|compact|R|Adj ; -ify|ifi|S ; -ation|cation|S
+compander	noun	compander|compander|R|N
+companding	verb	compand|compand|R|V ; -ing|ing|I||-ing (v)
+compandor	noun	compandor|compandor|R|N
+companionability	noun	companion|companion|R|N ; -able|abil|S ; -ity|ity|S
+companionableness	noun	companion|companion|R|N ; -able|able|S ; -ness|ness|S
+comparableness	noun	compare|compar|R|V ; -able|able|S ; -ness|ness|S
+comparatist	noun	compare|comparat|R|V ; -ist|ist|S
+compartmental	adj	compartment|compartment|R|N ; -al|al|S
+compassable	adj	compass|compass|R|V ; -able|able|S
+compassing	verb	compass|compass|R|V ; -ing|ing|I||-ing (v)
+compassionateness	noun	compassion|compassion|R|N ; -ate|ate|S ; -ness|ness|S
+compassionless	adj	compassion|compassion|R|N ; -less|less|S
+compatibilize	verb	compatible|compatibil|R|Adj ; -ize|ize|S
+compatibleness	noun	compatible|compatible|R|Adj ; -ness|ness|S
+compatriotic	adj	compatriot|compatriot|R|N ; -ic|ic|S
+compatriotism	noun	compatriot|compatriot|R|N ; -ism|ism|S
+compeer	noun	com-|com|P ; peer|peer|R|N
+compellable	adj	compel|compell|R|V ; -able|able|S
+compellably	adv	compel|compell|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+compelled	verb	compel|compell|R|V ; -ed|ed|I||-ed (v2)
+compendious	adj	compendious|compendious|R|Adj
+compendiously	adv	compendious|compendious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+compendiousness	noun	compendious|compendious|R|Adj ; -ness|ness|S
+compensational	adj	compensate|compensat|R|V ; -ion|ion|S ; -al|al|S
+compensative	adj	compensate|compensat|R|V ; -ive|ive|S
+compersion	noun	compersion|compersion|R|N
+competitory	adj	competitory|competitory|R|Adj
+compilate	verb	compile|compil|R|V ; -ate|ate|S
+compiling	verb	compile|compil|R|V ; -ing|ing|I||-ing (v)
+complainingly	adv	complain|complain|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+complaisance	noun	complaisance|complaisance|R|N
+complaisantly	adv	complaisant|complaisant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+complementariness	noun	complement|complement|R|V ; -ary|ari|S ; -ness|ness|S
+complemented	verb	complement|complement|R|V ; -ed|ed|I||-ed (v2)
+complementer	noun	complement|complement|R|V ; -er|er|S||-er (N)
+complementizer	noun	complement|complement|R|V ; -ize|iz|S ; -er|er|S||-er (N)
+completive	adj	complete|complet|R|V ; -ive|ive|S
+complexification	noun	complex|complex|R|Adj ; -ify|ifi|S ; -ation|cation|S
+complexify	verb	complex|complex|R|Adj ; -ify|ify|S
+complexional	adj	complexion|complexion|R|N ; -al|al|S
+complexioned	adj	complexion|complexion|R|N ; -ed|ed|S||-ed (adj)
+complexness	noun	complex|complex|R|Adj ; -ness|ness|S
+complexus	noun	complexus|complexus|R|N
+compliantly	adv	compliant|compliant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+complicacy	noun	complicacy|complicacy|R|N
+complicatedly	adv	complicate|complicat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+complicatedness	noun	complicate|complicat|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+complier	noun	comply|compli|R|V ; -er|er|S||-er (N)
+complimentarily	adv	compliment|compliment|R|V ; -ary|ari|S ; -ly|ly|I|Adv|-ly (adv)
+complimenting	verb	compliment|compliment|R|V ; -ing|ing|I||-ing (v)
+compliments	noun	compliment|compliment|R|V ; -s|s|I||-s (plural)
+compluvium	noun	compluvium|compluvium|R|N
+complying	verb	comply|comply|R|V ; -ing|ing|I||-ing (v)
+compo	noun	compo|compo|R|N
+componential	adj	component|component|R|N ; -ial|ial|S
+comportable	adj	comport|comport|R|V ; -able|able|S
+composedly	adv	compose|compos|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+composedness	noun	compose|compos|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+compositely	adv	composite|composite|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+compositeness	noun	composite|composite|R|Adj ; -ness|ness|S
+compositionally	adv	compose|compos|R|V ; -ition|ition|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+compositorial	adj	compositor|compositor|R|N ; -ial|ial|S
+compotator	noun	compotator|compotator|R|N
+compoundable	adj	compound|compound|R|V ; -able|able|S
+comprador	noun	comprador|comprador|R|N
+comprehendible	adj	comprehend|comprehend|R|V ; -ible|ible|S
+comprehendingly	adv	comprehend|comprehend|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+comprehensibleness	noun	comprehend|comprehens|R|V ; -ible|ible|S ; -ness|ness|S
+comprehensibly	adv	comprehend|comprehens|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+compressibleness	noun	compress|compress|R|V ; -ible|ible|S ; -ness|ness|S
+compressional	adj	compress|compress|R|V ; -ion|ion|S ; -al|al|S
+comprisable	adj	comprise|compris|R|V ; -able|able|S
+compromission	noun	compromission|compromission|R|N
+comptometer	noun	comptometer|comptometer|R|N
+compulsivity	noun	compel|compuls|R|V ; -ive|iv|S ; -ity|ity|S
+compulsoriness	noun	compel|compuls|R|V ; -ory|ori|S ; -ness|ness|S
+compunctious	adj	compunction|compunct|R|N ; -ious|ious|S
+compunctiously	adv	compunction|compunct|R|N ; -ious|ious|S ; -ly|ly|I|Adv|-ly (adv)
+compurgation	noun	compurgate|compurgat|R|V ; -ion|ion|S
+compurgator	noun	compurgate|compurgat|R|V ; -or|or|S
+computability	noun	compute|comput|R|V ; -able|abil|S ; -ity|ity|S
+computable	adj	compute|comput|R|V ; -able|able|S
+computative	adj	compute|comput|R|V ; -ative|ative|S
+computator	noun	compute|comput|R|V ; -or|ator|S
+computerdom	noun	computer|computer|R|N ; -dom|dom|S
+computerese	noun	computerese|computerese|R|N
+computerism	noun	computer|computer|R|N ; -ism|ism|S
+computerist	noun	computer|computer|R|N ; -ist|ist|S
+computerizable	adj	computer|computer|R|N ; -ize|iz|S ; -able|able|S
+computernik	noun	computernik|computernik|R|N
+computerphobia	noun	computer|computer|R|N ; phobia|phobia|R|N
+computist	noun	compute|comput|R|V ; -ist|ist|S
+computus	noun	computus|computus|R|N
+comradeliness	noun	comrade|comrade|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+comradery	noun	comrade|comrade|R|N ; -ry|ry|S
+comsat	noun	comsat|comsat|R|N

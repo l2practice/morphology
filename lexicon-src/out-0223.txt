@@ -1,0 +1,200 @@
+androecial	adj	androecial|androecial|R|Adj
+androecium	noun	androecium|androecium|R|N
+androgenic	adj	androgen|androgen|R|N ; -ic|ic|S
+androgyne	noun	androgyne|androgyne|R|N
+androgynously	adv	androgynous|androgynous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+andrological	adj	andrology|androlog|R|N ; -ical|ical|S
+andrologist	noun	andrology|androlog|R|N ; -ist|ist|S
+andrology	noun	andrology|andrology|R|N
+andromeda	noun	andromeda|andromeda|R|N
+andropause	noun	andropause|andropause|R|N
+androphilia	noun	androphilia|androphilia|R|N
+androphobe	noun	androphobe|androphobe|R|N
+androphobia	noun	androphobia|androphobia|R|N
+androphore	noun	androphore|androphore|R|N
+androspore	noun	androspore|androspore|R|N
+anecdotage	noun	anecdote|anecdot|R|N ; -age|age|S
+anecdotalist	noun	anecdotal|anecdotal|R|Adj ; -ist|ist|S
+anecdotally	adv	anecdotal|anecdotal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+anecdotic	adj	anecdote|anecdot|R|N ; -ic|ic|S
+anecdotically	adv	anecdotic|anecdotic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+anecdotist	noun	anecdote|anecdot|R|N ; -ist|ist|S
+anechoic	adj	an-|an|P|||a- ; echoic|echoic|R|Adj
+anemically	adv	anemic|anemic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+anemochorous	adj	anemochorous|anemochorous|R|Adj
+anemochory	noun	anemochory|anemochory|R|N
+anemogamy	noun	anemogamy|anemogamy|R|N
+anemogram	noun	anemogram|anemogram|R|N
+anemometric	adj	anemometry|anemometr|R|N ; -ic|ic|S
+anemometry	noun	anemometry|anemometry|R|N
+anemophilous	adj	anemophilous|anemophilous|R|Adj
+anemophily	noun	anemophily|anemophily|R|N
+anemoscope	noun	anemoscope|anemoscope|R|N
+anemotaxis	noun	anemotaxis|anemotaxis|R|N
+anemotropic	adj	anemotropic|anemotropic|R|Adj
+anemotropism	noun	anemotropic|anemotrop|R|Adj ; -ism|ism|S
+anenterous	adj	anenterous|anenterous|R|Adj
+anepigraphic	adj	anepigraphic|anepigraphic|R|Adj
+anergy	noun	anergy|anergy|R|N
+aneroid	noun	aneroid|aneroid|R|N
+anesthetically	adv	anesthetic|anesthetic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+anesthetization	noun	anesthetize|anesthetiz|R|V ; -ation|ation|S
+anestrum	noun	anestrum|anestrum|R|N
+anestrus	noun	anestrus|anestrus|R|N
+aneuploid	adj	aneuploid|aneuploid|R|Adj
+aneuploidy	noun	aneuploid|aneuploid|R|Adj ; -y|y|S
+aneurine	noun	aneurine|aneurine|R|N
+aneurysmal	adj	aneurysm|aneurysm|R|N ; -al|al|S
+aneurysmatic	adj	aneurysmatic|aneurysmatic|R|Adj
+aneurysmography	noun	aneurysmography|aneurysmography|R|N
+anfractuosity	noun	anfractuous|anfractu|R|Adj ; -ity|osity|S
+anfractuous	adj	anfractuous|anfractuous|R|Adj
+angarkha	noun	angarkha|angarkha|R|N
+angary	noun	angary|angary|R|N
+angelical	adj	angel|angel|R|N ; -ical|ical|S
+angelically	adv	angelical|angelical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+angelicity	noun	angelic|angelic|R|Adj ; -ity|ity|S
+angelology	noun	angelology|angelology|R|N
+angiitis	noun	angiitis|angiitis|R|N
+anginal	adj	angina|angin|R|N ; -al|al|S
+anginose	adj	anginose|anginose|R|Adj
+anginous	adj	angina|angin|R|N ; -ous|ous|S
+angioblast	noun	angioblast|angioblast|R|N
+angiocarp	noun	angiocarp|angiocarp|R|N
+angioedema	noun	angioedema|angioedema|R|N
+angiogenic	adj	angiogenic|angiogenic|R|Adj
+angiographic	adj	angiography|angiograph|R|N ; -ic|ic|S
+angiologist	noun	angiology|angiolog|R|N ; -ist|ist|S
+angiology	noun	angiology|angiology|R|N
+angioma	noun	angioma|angioma|R|N
+angiomatous	adj	angiomatous|angiomatous|R|Adj
+angiopathy	noun	angiopathy|angiopathy|R|N
+angiospermous	adj	angiospermous|angiospermous|R|Adj
+angklung	noun	angklung|angklung|R|N
+anglerfish	noun	angler|angler|R|N ; fish|fish|R|N
+anglesite	noun	anglesite|anglesite|R|N
+angleworm	noun	angle|angle|R|N ; worm|worm|R|N
+anglicisation	noun	anglicise|anglicis|R|V ; -ation|ation|S
+anglicise	verb	anglicise|anglicise|R|V
+anglicization	noun	anglicize|angliciz|R|V ; -ation|ation|S
+anglicize	verb	anglicize|anglicize|R|V
+angora	noun	angora|angora|R|N
+angostura	noun	angostura|angostura|R|N
+anguine	adj	anguine|anguine|R|Adj
+angularly	adv	angular|angular|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+angularness	noun	angular|angular|R|Adj ; -ness|ness|S
+angulate	adj	angulate|angulate|R|Adj
+angulately	adv	angulate|angulate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+angulosplenial	adj	angulosplenial|angulosplenial|R|Adj
+angustifoliate	adj	angustifoliate|angustifoliate|R|Adj
+anharmonic	adj	an-|an|P|||a- ; harmonic|harmonic|R|Adj
+anhedonia	noun	anhedonia|anhedonia|R|N
+anhinga	noun	anhinga|anhinga|R|N
+anholonomic	adj	anholonomic|anholonomic|R|Adj
+anhydrase	noun	anhydrase|anhydrase|R|N
+anhydrite	noun	anhydrite|anhydrite|R|N
+anhydrobiosis	noun	anhydrobiosis|anhydrobiosis|R|N
+ani	noun	ani|ani|R|N
+anicca	noun	anicca|anicca|R|N
+aniconic	adj	an-|an|P|||a- ; iconic|iconic|R|Adj
+aniconism	noun	aniconic|anicon|R|Adj ; -ism|ism|S
+anicut	noun	anicut|anicut|R|N
+anile	adj	anile|anile|R|Adj
+anilingus	noun	anilingus|anilingus|R|N
+anility	noun	anile|anil|R|Adj ; -ity|ity|S
+animacy	noun	animacy|animacy|R|N
+animadversion	noun	animadvert|animadver|R|V ; -sion|sion|S
+animadvert	verb	animadvert|animadvert|R|V
+animalcular	adj	animalcular|animalcular|R|Adj
+animalcule	noun	animalcule|animalcule|R|N
+animalism	noun	animal|animal|R|N ; -ism|ism|S
+animalist	noun	animal|animal|R|N ; -ist|ist|S
+animalization	noun	animalize|animaliz|R|V ; -ation|ation|S
+animalize	verb	animal|animal|R|N ; -ize|ize|S
+animalness	noun	animal|animal|R|N ; -ness|ness|S
+animato	adj	animato|animato|R|Adj
+animose	adj	animose|animose|R|Adj
+anionic	adj	anion|anion|R|N ; -ic|ic|S
+anionically	adv	anionic|anionic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+anionicity	noun	anionic|anionic|R|Adj ; -ity|ity|S
+aniseikonia	noun	aniseikonia|aniseikonia|R|N
+anisochronous	adj	anisochronous|anisochronous|R|Adj
+anisocoria	noun	anisocoria|anisocoria|R|N
+anisogamete	noun	anisogamete|anisogamete|R|N
+anisogamic	adj	anisogamy|anisogam|R|N ; -ic|ic|S
+anisogamy	noun	anisogamy|anisogamy|R|N
+anisogenous	adj	anisogenous|anisogenous|R|Adj
+anisole	noun	anisole|anisole|R|N
+anisomeric	adj	anisomer|anisomer|R|N ; -ic|ic|S
+anisomerous	adj	anisomerous|anisomerous|R|Adj
+anisometric	adj	anisometry|anisometr|R|N ; -ic|ic|S
+anisometropia	noun	anisometropia|anisometropia|R|N
+anisometropic	adj	anisometropic|anisometropic|R|Adj
+anisomorphic	adj	anisomorphism|anisomorph|R|N ; -ic|ic|S
+anisomorphism	noun	anisomorphism|anisomorphism|R|N
+anisopetalous	adj	anisopetalous|anisopetalous|R|Adj
+anisophyllous	adj	anisophyllous|anisophyllous|R|Adj
+anisospore	noun	anisospore|anisospore|R|N
+anisotropically	adv	anisotropic|anisotropic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+ankerite	noun	ankerite|ankerite|R|N
+anklebone	noun	ankle|ankle|R|N ; bone|bone|R|N
+anko	noun	anko|anko|R|N
+ankyloglossia	noun	ankyloglossia|ankyloglossia|R|N
+ankylosaurus	noun	ankylosaurus|ankylosaurus|R|N
+ankylose	verb	ankylose|ankylose|R|V
+ankylosis	noun	ankylosis|ankylosis|R|N
+ankyroid	adj	ankyroid|ankyroid|R|Adj
+anlace	noun	anlace|anlace|R|N
+anlage	noun	anlage|anlage|R|N
+anlaut	noun	anlaut|anlaut|R|N
+annabergite	noun	annabergite|annabergite|R|N
+annalist	noun	annal|annal|R|N ; -ist|ist|S
+annalistic	adj	annalist|annalist|R|N ; -ic|ic|S
+annals	noun	annal|annal|R|N ; -s|s|I||-s (plural)
+annatto	noun	annatto|annatto|R|N
+annectent	adj	annectent|annectent|R|Adj
+annelid	noun	annelid|annelid|R|N
+annelidan	adj	annelid|annelid|R|N ; -an|an|S
+annellation	noun	annellation|annellation|R|N
+annexable	adj	annex|annex|R|V ; -able|able|S
+annexational	adj	annexation|annexation|R|N ; -al|al|S
+annexationism	noun	annexation|annexation|R|N ; -ism|ism|S
+annexationist	noun	annexation|annexation|R|N ; -ist|ist|S
+annihilability	noun	annihilable|annihilabil|R|Adj ; -ity|ity|S
+annihilable	adj	annihilate|annihil|R|V ; -able|able|S
+annihilated	adj	annihilate|annihilat|R|V ; -ed|ed|S||-ed (adj)
+annihilating	adj	annihilate|annihilat|R|V ; -ing|ing|S||-ing (adj)
+annihilationism	noun	annihilation|annihilation|R|N ; -ism|ism|S
+annihilationist	noun	annihilation|annihilation|R|N ; -ist|ist|S
+annihilative	adj	annihilate|annihilat|R|V ; -ive|ive|S
+annihilator	noun	annihilate|annihilat|R|V ; -or|or|S
+annihilatory	adj	annihilate|annihil|R|V ; -ory|atory|S
+annotative	adj	annotate|annotat|R|V ; -ive|ive|S
+annotator	noun	annotate|annotat|R|V ; -or|or|S
+annuitant	noun	annuity|annuit|R|N ; -ant|ant|S
+annulate	adj	annulate|annulate|R|Adj
+annulated	adj	annulate|annulat|R|Adj ; -ed|ed|S||-ed (adj)
+annulation	noun	annulate|annulat|R|Adj ; -ion|ion|S
+annulet	noun	annulet|annulet|R|N
+annullable	adj	annul|annull|R|V ; -able|able|S
+annulled	adj	annul|annull|R|V ; -ed|ed|S||-ed (adj)
+annulling	noun	annul|annull|R|V ; -ing|ing|S||-ing (N)
+annulose	adj	annulose|annulose|R|Adj
+annunciate	verb	annunciate|annunciate|R|V
+annunciator	noun	annunciate|annunciat|R|V ; -or|or|S
+anoa	noun	anoa|anoa|R|N
+anococcygeal	adj	anococcygeal|anococcygeal|R|Adj
+anocracy	noun	anocracy|anocracy|R|N
+anodal	adj	anode|anod|R|N ; -al|al|S
+anodic	adj	anode|anod|R|N ; -ic|ic|S
+anodization	noun	anodize|anodiz|R|V ; -ation|ation|S
+anodize	verb	anode|anod|R|N ; -ize|ize|S
+anodontia	noun	anodontia|anodontia|R|N
+anoesis	noun	anoesis|anoesis|R|N
+anoetic	adj	anoetic|anoetic|R|Adj
+anointed	adj	anoint|anoint|R|V ; -ed|ed|S||-ed (adj)
+anomalistic	adj	anomalistic|anomalistic|R|Adj
+anomalistically	adv	anomalistic|anomalistic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+anomalousness	noun	anomalous|anomalous|R|Adj ; -ness|ness|S
+anomer	noun	anomer|anomer|R|N
+anomia	noun	anomia|anomia|R|N

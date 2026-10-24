@@ -1,0 +1,200 @@
+ramsons	noun	ramson|ramson|R|N ; -s|s|I||-s (plural)
+ramule	noun	ramule|ramule|R|N
+ramune	noun	ramune|ramune|R|N
+ramus	noun	ramus|ramus|R|N
+ranchman	noun	ranch|ranch|R|N ; man|man|R|N
+rancidity	noun	rancid|rancid|R|Adj ; -ity|ity|S
+rancidness	noun	rancid|rancid|R|Adj ; -ness|ness|S
+rancorously	adv	rancor|rancor|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+randan	noun	randan|randan|R|N
+randem	noun	randem|randem|R|N
+randily	adv	randy|randi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+randiness	noun	randy|randi|R|Adj ; -ness|ness|S
+rando	noun	rando|rando|R|N
+ranged	verb	range|rang|R|V ; -ed|ed|I||-ed (v2)
+rani	noun	rani|rani|R|N
+ranidaphobia	noun	ranidaphobia|ranidaphobia|R|N
+raniform	adj	raniform|raniform|R|Adj
+ranine	adj	ranine|ranine|R|Adj
+ranivorous	adj	ranivorous|ranivorous|R|Adj
+rankling	verb	rankle|rankl|R|V ; -ing|ing|I||-ing (v)
+rankly	adv	rank|rank|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+rankness	noun	rank|rank|R|Adj ; -ness|ness|S
+ransomer	noun	ransom|ransom|R|V ; -er|er|S||-er (N)
+ransomless	adj	ransom|ransom|R|N ; -less|less|S
+ransomware	noun	ransom|ransom|R|N ; ware|ware|R|N
+ranunculus	noun	ranunculus|ranunculus|R|N
+rapaciously	adv	rapacious|rapacious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+rapaciousness	noun	rapacious|rapacious|R|Adj ; -ness|ness|S
+rapakivi	noun	rapakivi|rapakivi|R|N
+rapee	noun	rapee|rapee|R|N
+raphide	noun	raphide|raphide|R|N
+rapine	noun	rapine|rapine|R|N
+rappelling	verb	rappel|rappell|R|V ; -ing|ing|I||-ing (v)
+rapscallion	noun	rapscallion|rapscallion|R|N
+raptatory	adj	raptor|rapt|R|N ; -ory|atory|S
+raptorial	adj	raptor|raptor|R|N ; -ial|ial|S
+rarefact	verb	rarefact|rarefact|R|V
+rareness	noun	rare|rare|R|Adj ; -ness|ness|S
+rareripe	noun	rare|rare|R|Adj ; ripe|ripe|R|Adj
+raring	adj	raring|raring|R|Adj
+rascality	noun	rascal|rascal|R|N ; -ity|ity|S
+rase	verb	rase|rase|R|V
+rasgulla	noun	rasgulla|rasgulla|R|N
+rasorial	adj	rasorial|rasorial|R|Adj
+raspatory	noun	raspatory|raspatory|R|N
+rasper	noun	rasp|rasp|R|V ; -er|er|S||-er (N)
+rassolnik	noun	rassolnik|rassolnik|R|N
+ratability	noun	rate|rat|R|V ; -able|abil|S ; -ity|ity|S
+ratafia	noun	ratafia|ratafia|R|N
+ratal	noun	rate|rat|R|N ; -al|al|S
+rataplan	noun	rataplan|rataplan|R|N
+ratatat	noun	ratatat|ratatat|R|N
+ratbag	noun	rat|rat|R|N ; bag|bag|R|N
+ratcatcher	noun	rat|rat|R|N ; catch|catch|R|V ; -er|er|S||-er (N)
+ratch	noun	ratch|ratch|R|N
+ratemeter	noun	rate|rate|R|N ; meter|meter|R|N
+rates	noun	rate|rate|R|N ; -s|s|I||-s (plural)
+ratfink	noun	rat|rat|R|N ; fink|fink|R|N
+rath	noun	rath|rath|R|N
+rathe	adj	rathe|rathe|R|Adj
+ratherish	adj	rather|rather|R|Adv ; -ish|ish|S
+rathskeller	noun	rathskeller|rathskeller|R|N
+raticide	noun	raticide|raticide|R|N
+ratiocinate	verb	ratiocinate|ratiocinate|R|V
+ratiocinative	adj	ratiocinate|ratiocinat|R|V ; -ive|ive|S
+ratite	noun	ratite|ratite|R|N
+ratline	noun	rat|rat|R|N ; line|line|R|N
+ratling	noun	rat|rat|R|N ; -ling|ling|S
+ratoon	noun	ratoon|ratoon|R|N
+rats	noun	rat|rat|R|N ; -s|s|I||-s (plural)
+ratsbane	noun	rat|rats|R|N ; bane|bane|R|N
+rattachism	noun	rattachism|rattachism|R|N
+rattail	noun	rat|rat|R|N ; tail|tail|R|N
+ratted	verb	rat|ratt|R|V ; -ed|ed|I||-ed (v2)
+ratter	noun	rat|ratt|R|V ; -er|er|S||-er (N)
+ratting	verb	rat|ratt|R|V ; -ing|ing|I||-ing (v)
+rattrap	noun	rat|rat|R|N ; trap|trap|R|N
+ravanahatha	noun	ravanahatha|ravanahatha|R|N
+ravelin	noun	ravelin|ravelin|R|N
+ravelled	verb	ravel|ravell|R|V ; -ed|ed|I||-ed (v2)
+ravelling	verb	ravel|ravell|R|V ; -ing|ing|I||-ing (v)
+ravenousness	noun	ravenous|ravenous|R|Adj ; -ness|ness|S
+ravished	verb	ravish|ravish|R|V ; -ed|ed|I||-ed (v2)
+ravisher	noun	ravish|ravish|R|V ; -er|er|S||-er (N)
+ravishment	noun	ravish|ravish|R|V ; -ment|ment|S
+rawish	adj	raw|raw|R|Adj ; -ish|ish|S
+rawist	noun	raw|raw|R|Adj ; -ist|ist|S
+rawly	adv	raw|raw|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+rayah	noun	rayah|rayah|R|N
+rayonnant	adj	rayonnant|rayonnant|R|Adj
+razoo	noun	razoo|razoo|R|N
+razzed	verb	razz|razz|R|V ; -ed|ed|I||-ed (v2)
+razzia	noun	razzia|razzia|R|N
+razzing	verb	razz|razz|R|V ; -ing|ing|I||-ing (v)
+reaccept	verb	re-|re|P ; accept|accept|R|V
+reaccustom	verb	re-|re|P ; accustom|accustom|R|V
+reaches	verb	reach|reach|R|V ; -es|es|I||-s (3sg)
+reachless	adj	reach|reach|R|V ; -less|less|S
+reachtruck	noun	reach|reach|R|V ; truck|truck|R|N
+reactionist	noun	react|react|R|V ; -ion|ion|S ; -ist|ist|S
+reactionless	adj	react|react|R|V ; -ion|ion|S ; -less|less|S
+reactivator	noun	re-|re|P ; activate|activat|R|V ; -or|or|S
+readdressing	verb	re-|re|P ; address|address|R|V ; -ing|ing|I||-ing (v)
+readies	verb	ready|readi|R|V ; -es|es|I||-s (3sg)
+readjourn	verb	re-|re|P ; adjourn|adjourn|R|V
+readme	noun	readme|readme|R|N
+readmittance	noun	re-|re|P ; admit|admitt|R|V ; -ance|ance|S
+readopt	verb	re-|re|P ; adopt|adopt|R|V
+readorn	verb	re-|re|P ; adorn|adorn|R|V
+reafforest	verb	re-|re|P ; af-|af|P|||ad- ; forest|forest|R|N
+reafforestation	noun	re-|re|P ; af-|af|P|||ad- ; forest|forest|R|N ; -ation|ation|S
+reagency	noun	re-|re|P ; agency|agency|R|N
+realgar	noun	realgar|realgar|R|N
+realia	noun	realia|realia|R|N
+realigning	verb	re-|re|P ; align|align|R|V ; -ing|ing|I||-ing (v)
+realizability	noun	realize|realiz|R|V ; -able|abil|S ; -ity|ity|S
+reannex	verb	re-|re|P ; annex|annex|R|V
+reaping	verb	reap|reap|R|V ; -ing|ing|I||-ing (v)
+reappearing	verb	re-|re|P ; appear|appear|R|V ; -ing|ing|I||-ing (v)
+rearer	noun	rear|rear|R|V ; -er|er|S||-er (N)
+rearming	verb	re-|re|P ; arm|arm|R|V ; -ing|ing|I||-ing (v)
+rearwards	adv	rearwards|rearwards|R|Adv
+reascend	verb	re-|re|P ; ascend|ascend|R|V
+reasonless	adj	reason|reason|R|N ; -less|less|S
+reasons	noun	reason|reason|R|N ; -s|s|I||-s (plural)
+reattempt	verb	re-|re|P ; attempt|attempt|R|V
+reawakened	verb	re-|re|P ; awaken|awaken|R|V ; -ed|ed|I||-ed (v2)
+rebab	noun	rebab|rebab|R|N
+rebake	verb	re-|re|P ; bake|bake|R|V
+reballasting	verb	re-|re|P ; ballast|ballast|R|V ; -ing|ing|I||-ing (v)
+rebaptism	noun	re-|re|P ; baptism|baptism|R|N
+rebaptize	verb	re-|re|P ; baptize|baptize|R|V
+rebar	noun	rebar|rebar|R|N
+rebarbarize	verb	re-|re|P ; barbarize|barbarize|R|V
+rebarbative	adj	rebarbative|rebarbative|R|Adj
+rebated	verb	rebate|rebat|R|V ; -ed|ed|I||-ed (v2)
+rebec	noun	rebec|rebec|R|N
+rebelling	verb	rebel|rebell|R|V ; -ing|ing|I||-ing (v)
+rebind	verb	re-|re|P ; bind|bind|R|V
+rebinding	verb	re-|re|P ; bind|bind|R|V ; -ing|ing|I||-ing (v)
+reblossom	verb	re-|re|P ; blossom|blossom|R|V
+reboant	adj	reboant|reboant|R|Adj
+rebore	verb	re-|re|P ; bore|bore|R|V
+reborrowing	verb	re-|re|P ; borrow|borrow|R|V ; -ing|ing|I||-ing (v)
+rebracketing	verb	re-|re|P ; bracket|bracket|R|V ; -ing|ing|I||-ing (v)
+rebranding	verb	re-|re|P ; brand|brand|R|V ; -ing|ing|I||-ing (v)
+rebreather	noun	re-|re|P ; breathe|breath|R|V ; -er|er|S||-er (N)
+rebuffing	verb	rebuff|rebuff|R|V ; -ing|ing|I||-ing (v)
+rebuker	noun	rebuke|rebuk|R|V ; -er|er|S||-er (N)
+rebuking	verb	rebuke|rebuk|R|V ; -ing|ing|I||-ing (v)
+rebukingly	adv	rebuke|rebuk|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+rebutment	noun	rebut|rebut|R|V ; -ment|ment|S
+rebutter	noun	rebut|rebutt|R|V ; -er|er|S||-er (N)
+rebuy	verb	re-|re|P ; buy|buy|R|V
+rec	noun	rec|rec|R|N
+recalcitrancy	noun	recalcitrant|recalcitranc|R|Adj ; -cy|y|S
+recalcitrate	verb	recalcitrate|recalcitrate|R|V
+recalcitration	noun	recalcitrate|recalcitrat|R|V ; -ion|ion|S
+recalesce	verb	recalesce|recalesce|R|V
+recalescence	noun	recalesce|recalesc|R|V ; -ence|ence|S
+recalescent	adj	recalesce|recalesc|R|V ; -ent|ent|S
+recalibrate	verb	re-|re|P ; calibrate|calibrate|R|V
+recallable	adj	re-|re|P ; call|call|R|V ; -able|able|S
+recapitulative	adj	re-|re|P ; capitulate|capitul|R|V ; -ative|ative|S
+recapping	verb	re-|re|P ; cap|capp|R|V ; -ing|ing|I||-ing (v)
+recension	noun	recension|recension|R|N
+recentralization	noun	re-|re|P ; central|central|R|Adj ; -ize|iz|S ; -ation|ation|S
+recentralize	verb	re-|re|P ; central|central|R|Adj ; -ize|ize|S
+rechange	verb	re-|re|P ; change|change|R|V
+rechew	verb	re-|re|P ; chew|chew|R|V
+rechristening	verb	re-|re|P ; christen|christen|R|V ; -ing|ing|I||-ing (v)
+recidivistic	adj	recidivist|recidivist|R|N ; -ic|ic|S
+recidivous	adj	recidivous|recidivous|R|Adj
+reciter	noun	recite|recit|R|V ; -er|er|S||-er (N)
+reciting	verb	recite|recit|R|V ; -ing|ing|I||-ing (v)
+reckonable	adj	reckon|reckon|R|V ; -able|able|S
+reckoner	noun	reckon|reckon|R|V ; -er|er|S||-er (N)
+reclaimable	adj	re-|re|P ; claim|claim|R|V ; -able|able|S
+reclinate	adj	reclinate|reclinate|R|Adj
+reclothe	verb	re-|re|P ; clothe|clothe|R|V
+reclusion	noun	re-|re|P ; -clude|clus|B|V ; -ion|ion|S
+reclusory	adj	re-|re|P ; -clude|clus|B|V ; -ory|ory|S
+recoal	verb	re-|re|P ; coal|coal|R|N
+recoat	verb	re-|re|P ; coat|coat|R|V
+recognisability	noun	recognise|recognis|R|V ; -able|abil|S ; -ity|ity|S
+recognisably	adv	recognise|recognis|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+recognizability	noun	recognize|recogniz|R|V ; -able|abil|S ; -ity|ity|S
+recognizer	noun	recognize|recogniz|R|V ; -er|er|S||-er (N)
+recoin	verb	re-|re|P ; coin|coin|R|V
+recoinage	noun	re-|re|P ; coin|coin|R|V ; -age|age|S
+recollective	adj	re-|re|P ; collect|collect|R|V ; -ive|ive|S
+recombined	verb	re-|re|P ; combine|combin|R|V ; -ed|ed|I||-ed (v2)
+recombining	verb	re-|re|P ; combine|combin|R|V ; -ing|ing|I||-ing (v)
+recommendable	adj	recommend|recommend|R|V ; -able|able|S
+recommendatory	adj	recommend|recommend|R|V ; -atory|atory|S
+recommender	noun	recommend|recommend|R|V ; -er|er|S||-er (N)
+recommittal	noun	re-|re|P ; commit|committ|R|V ; -al|al|S
+recompensing	verb	recompense|recompens|R|V ; -ing|ing|I||-ing (v)
+recompilation	noun	re-|re|P ; compile|compil|R|V ; -ation|ation|S
+recompile	verb	re-|re|P ; compile|compile|R|V

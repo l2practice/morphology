@@ -1,0 +1,200 @@
+wiredrawn	adj	wire|wire|R|N ; draw|drawn|R|V ; -en||I||-en (participle)
+wireframe	noun	wire|wire|R|N ; frame|frame|R|N
+wireman	noun	wire|wire|R|N ; man|man|R|N
+wirephoto	noun	wire|wire|R|N ; photo|photo|R|N
+wirepuller	noun	wire|wire|R|N ; pull|pull|R|V ; -er|er|S||-er (N)
+wirework	noun	wire|wire|R|N ; work|work|R|N
+wiriness	noun	wire|wir|R|N ; -y|i|S ; -ness|ness|S
+wisent	noun	wisent|wisent|R|N
+witcher	noun	witch|witch|R|N ; -er|er|S||-er (N)
+withdrawn	adj	with-|with|P ; draw|drawn|R|V ; -en||I||-en (participle)
+witherite	noun	witherite|witherite|R|N
+withy	noun	withy|withy|R|N
+wits	noun	wit|wit|R|N ; -s|s|I||-s (plural)
+witted	adj	wit|witt|R|N ; -ed|ed|S||-ed (adj)
+wittering	verb	witter|witter|R|V ; -ing|ing|I||-ing (v)
+wittiness	noun	wit|witt|R|N ; -y|i|S ; -ness|ness|S
+witting	adj	wit|witt|R|V ; -ing|ing|S||-ing (adj)
+wive	verb	wive|wive|R|V
+wobbles	verb	wobble|wobble|R|V ; -s|s|I||-s (3sg)
+woesome	adj	woe|woe|R|N ; -some|some|S
+woggle	noun	woggle|woggle|R|N
+woke	verb	wake|woke|R|V ; -ed||I||-ed (v2)
+wokeism	noun	woke|woke|R|Adj ; -ism|ism|S
+woken	verb	wake|wok|R|V ; -en|en|I||-en (participle)
+wokeness	noun	woke|woke|R|Adj ; -ness|ness|S
+wolfberry	noun	wolf|wolf|R|N ; berry|berry|R|N
+wolffish	noun	wolf|wolf|R|N ; fish|fish|R|N
+wolfing	verb	wolf|wolf|R|V ; -ing|ing|I||-ing (v)
+wolfpack	noun	wolf|wolf|R|N ; pack|pack|R|N
+wolfram	noun	wolfram|wolfram|R|N
+wolframite	noun	wolframite|wolframite|R|N
+wolfskin	noun	wolf|wolf|R|N ; skin|skin|R|N
+wolfwoman	noun	wolf|wolf|R|N ; woman|woman|R|N
+wollastonite	noun	wollastonite|wollastonite|R|N
+wolverine	noun	wolverine|wolverine|R|N
+womanishness	noun	woman|woman|R|N ; -ish|ish|S ; -ness|ness|S
+womanize	verb	woman|woman|R|N ; -ize|ize|S
+womanlike	adj	woman|woman|R|N ; -like|like|S
+wombly	adj	womb|womb|R|N ; -ly|ly|S||-ly (adj)
+womenswear	noun	women|womens|R|N ; wear|wear|R|N
+won	verb	win|won|R|V ; -ed||I||-ed (v2)
+wondergoal	noun	wonder|wonder|R|N ; goal|goal|R|N
+wonderstruck	adj	wonder|wonder|R|N ; strike|struck|R|V ; -en||I||-en (participle)
+wonderweapon	noun	wonder|wonder|R|N ; weapon|weapon|R|N
+wondrousness	noun	wonder|wondr|R|N ; -ous|ous|S ; -ness|ness|S
+woodbine	noun	woodbine|woodbine|R|N
+woodchip	noun	wood|wood|R|N ; chip|chip|R|N
+woodchipper	noun	wood|wood|R|N ; chip|chipp|R|V ; -er|er|S||-er (N)
+woodcutting	noun	wood|wood|R|N ; cut|cutt|R|V ; -ing|ing|S||-ing (N)
+woodenware	noun	wood|wood|R|N ; -en|en|S ; ware|ware|R|N
+woodlander	noun	wood|wood|R|N ; land|land|R|N ; -er|er|S||-er (N)
+woodlark	noun	wood|wood|R|N ; lark|lark|R|N
+woodless	adj	wood|wood|R|N ; -less|less|S
+woodlouse	noun	wood|wood|R|N ; louse|louse|R|N
+woodprint	noun	wood|wood|R|N ; print|print|R|N
+woodrush	noun	wood|wood|R|N ; rush|rush|R|N
+woodside	noun	wood|wood|R|N ; side|side|R|N
+woodwardia	noun	woodwardia|woodwardia|R|N
+wooer	noun	woo|woo|R|V ; -er|er|S||-er (N)
+woolgathering	noun	wool|wool|R|N ; gather|gather|R|V ; -ing|ing|S||-ing (N)
+woollens	noun	wool|wool|R|N ; -en|len|S ; -s|s|I||-s (plural)
+woolsack	noun	wool|wool|R|N ; sack|sack|R|N
+woorali	noun	woorali|woorali|R|N
+woos	verb	woo|woo|R|V ; -s|s|I||-s (3sg)
+wordform	noun	word|word|R|N ; form|form|R|N
+wordily	adv	word|word|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+wordiness	noun	word|word|R|N ; -y|i|S ; -ness|ness|S
+wordlist	noun	word|word|R|N ; list|list|R|N
+wordmark	noun	word|word|R|N ; mark|mark|R|N
+words	noun	word|word|R|N ; -s|s|I||-s (plural)
+wordster	noun	word|word|R|N ; -ster|ster|S
+workaround	noun	work|work|R|N ; around|around|R|Adv
+workcation	noun	workcation|workcation|R|N
+workless	adj	work|work|R|N ; -less|less|S
+workloom	noun	work|work|R|N ; loom|loom|R|N
+workshy	adj	work|work|R|N ; shy|shy|R|Adj
+workstead	noun	work|work|R|N ; stead|stead|R|N
+workup	noun	work|work|R|V ; up|up|R
+workwear	noun	work|work|R|N ; wear|wear|R|N
+workwoman	noun	work|work|R|N ; woman|woman|R|N
+worldbuilding	noun	world|world|R|N ; build|build|R|V ; -ing|ing|S||-ing (N)
+worldling	noun	world|world|R|N ; -ling|ling|S
+wormed	verb	worm|worm|R|V ; -ed|ed|I||-ed (v2)
+worming	verb	worm|worm|R|V ; -ing|ing|I||-ing (v)
+worriment	noun	worry|worri|R|V ; -ment|ment|S
+worthful	adj	worth|worth|R|N ; -ful|ful|S
+worthwhileness	noun	worth|worth|R|N ; while|while|R|N ; -ness|ness|S
+wotagei	noun	wotagei|wotagei|R|N
+wotcher	interj	wotcher|wotcher|R
+woundable	adj	wound|wound|R|V ; -able|able|S
+woundwort	noun	wound|wound|R|N ; wort|wort|R|N
+wove	verb	weave|wove|R|V ; -ed||I||-ed (v2)
+wowser	noun	wowser|wowser|R|N
+wowsers	interj	wowsers|wowsers|R
+wramp	verb	wramp|wramp|R|V
+wrappage	noun	wrap|wrapp|R|V ; -age|age|S
+wraps	verb	wrap|wrap|R|V ; -s|s|I||-s (3sg)
+wreaking	verb	wreak|wreak|R|V ; -ing|ing|I||-ing (v)
+wreathing	verb	wreath|wreath|R|V ; -ing|ing|I||-ing (v)
+wreckfish	noun	wreck|wreck|R|N ; fish|fish|R|N
+wrick	verb	wrick|wrick|R|V
+wriggler	noun	wriggle|wriggl|R|V ; -er|er|S||-er (N)
+wristlet	noun	wrist|wrist|R|N ; -let|let|S
+wriststrap	noun	wrist|wrist|R|N ; strap|strap|R|N
+wronging	verb	wrong|wrong|R|V ; -ing|ing|I||-ing (v)
+wrungness	noun	wring|wrung|R|V ; -ness|ness|S
+wryneck	noun	wry|wry|R|Adj ; neck|neck|R|N
+wudu	noun	wudu|wudu|R|N
+wulfenite	noun	wulfenite|wulfenite|R|N
+wushu	noun	wushu|wushu|R|N
+wuxia	noun	wuxia|wuxia|R|N
+wuxing	noun	wuxing|wuxing|R|N
+wynd	noun	wynd|wynd|R|N
+wyvern	noun	wyvern|wyvern|R|N
+xanthate	noun	xanthate|xanthate|R|N
+xanthene	noun	xanthene|xanthene|R|N
+xanthic	adj	xanthic|xanthic|R|Adj
+xanthine	noun	xanthine|xanthine|R|N
+xanthoma	noun	xanthoma|xanthoma|R|N
+xanthophyll	noun	xanthophyll|xanthophyll|R|N
+xanthous	adj	xanthous|xanthous|R|Adj
+xebec	noun	xebec|xebec|R|N
+xeet	noun	xeet|xeet|R|N
+xenelasy	noun	xenelasy|xenelasy|R|N
+xenial	adj	xenial|xenial|R|Adj
+xenoanthropology	noun	xenoanthropology|xenoanthropology|R|N
+xenobiology	noun	xenobiology|xenobiology|R|N
+xenocide	noun	xenocide|xenocide|R|N
+xenodochium	noun	xenodochium|xenodochium|R|N
+xenogamy	noun	xenogamy|xenogamy|R|N
+xenogender	noun	xenogender|xenogender|R|N
+xenoglossy	noun	xenoglossy|xenoglossy|R|N
+xenolith	noun	xenolith|xenolith|R|N
+xenomorph	noun	xenomorph|xenomorph|R|N
+xenomorphic	adj	xenomorphic|xenomorphic|R|Adj
+xenophilia	noun	xenophilia|xenophilia|R|N
+xenophilous	adj	xenophilous|xenophilous|R|Adj
+xenophobe	noun	xenophobe|xenophobe|R|N
+xenotransplantation	noun	xenotransplantation|xenotransplantation|R|N
+xenozoology	noun	xenozoology|xenozoology|R|N
+xerocopy	noun	xerocopy|xerocopy|R|N
+xerography	noun	xerography|xerography|R|N
+xerophagy	noun	xerophagy|xerophagy|R|N
+xerophilous	adj	xerophilous|xerophilous|R|Adj
+xerophthalmia	noun	xerophthalmia|xerophthalmia|R|N
+xerophyte	noun	xerophyte|xerophyte|R|N
+xian	noun	xian|xian|R|N
+xiangqi	noun	xiangqi|xiangqi|R|N
+xiao	noun	xiao|xiao|R|N
+xiaolongbao	noun	xiaolongbao|xiaolongbao|R|N
+xiehouyu	noun	xiehouyu|xiehouyu|R|N
+xiezhi	noun	xiezhi|xiezhi|R|N
+xingshu	noun	xingshu|xingshu|R|N
+xiphoid	adj	xiphoid|xiphoid|R|Adj
+xoanon	noun	xoanon|xoanon|R|N
+xor	noun	xor|xor|R|N
+xylan	noun	xylan|xylan|R|N
+xylitol	noun	xylitol|xylitol|R|N
+xylocarp	noun	xylocarp|xylocarp|R|N
+xylocarpous	adj	xylocarpous|xylocarpous|R|Adj
+xylograph	noun	xylograph|xylograph|R|N
+xylographer	noun	xylography|xylograph|R|N ; -er|er|S||-er (N)
+xylographic	adj	xylography|xylograph|R|N ; -ic|ic|S
+xylography	noun	xylography|xylography|R|N
+xyloid	adj	xyloid|xyloid|R|Adj
+xylophagous	adj	xylophagous|xylophagous|R|Adj
+xylophonist	noun	xylophone|xylophon|R|N ; -ist|ist|S
+xylose	noun	xylose|xylose|R|N
+xylospongium	noun	xylospongium|xylospongium|R|N
+xystarch	noun	xystarch|xystarch|R|N
+xyster	noun	xyster|xyster|R|N
+yaar	noun	yaar|yaar|R|N
+yabghu	noun	yabghu|yabghu|R|N
+yachtsmanship	noun	yacht|yachts|R|N ; man|man|R|N ; -ship|ship|S
+yachtswoman	noun	yacht|yachts|R|N ; woman|woman|R|N
+yaffle	noun	yaffle|yaffle|R|N
+yajna	noun	yajna|yajna|R|N
+yakhni	noun	yakhni|yakhni|R|N
+yakisoba	noun	yakisoba|yakisoba|R|N
+yakow	noun	yakow|yakow|R|N
+yaksha	noun	yaksha|yaksha|R|N
+yaku	noun	yaku|yaku|R|N
+yale	noun	yale|yale|R|N
+yamen	noun	yamen|yamen|R|N
+yammering	verb	yammer|yammer|R|V ; -ing|ing|I||-ing (v)
+yana	noun	yana|yana|R|N
+yandere	noun	yandere|yandere|R|N
+yangmei	noun	yangmei|yangmei|R|N
+yangqin	noun	yangqin|yangqin|R|N
+yankee	noun	yankee|yankee|R|N
+yaodong	noun	yaodong|yaodong|R|N
+yaoi	noun	yaoi|yaoi|R|N
+yapok	noun	yapok|yapok|R|N
+yapped	verb	yap|yapp|R|V ; -ed|ed|I||-ed (v2)
+yapper	noun	yap|yapp|R|V ; -er|er|S||-er (N)
+yaranga	noun	yaranga|yaranga|R|N
+yardbird	noun	yard|yard|R|N ; bird|bird|R|N
+yarligh	noun	yarligh|yarligh|R|N
+yasak	noun	yasak|yasak|R|N
+yashmak	noun	yashmak|yashmak|R|N

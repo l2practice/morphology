@@ -1,0 +1,200 @@
+unpurposed	adj	un-|un|P ; purpose|purpos|R|N ; -ed|ed|S||-ed (adj)
+unpurse	verb	un-|un|P ; purse|purse|R|V
+unpursued	adj	un-|un|P ; pursue|pursu|R|V ; -ed|ed|S||-ed (adj)
+unputdownable	adj	un-|un|P ; put|put|R|V ; down|down|R|Adv ; -able|able|S
+unpuzzle	verb	un-|un|P ; puzzle|puzzle|R|V
+unquailing	adj	un-|un|P ; quail|quail|R|V ; -ing|ing|S||-ing (adj)
+unqualifiable	adj	un-|un|P ; qualify|qualifi|R|V ; -able|able|S
+unqualifiedly	adv	un-|un|P ; qualify|qualifi|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unqualify	verb	un-|un|P ; qualify|qualify|R|V
+unquarried	adj	un-|un|P ; quarry|quarri|R|V ; -ed|ed|S||-ed (adj)
+unqueen	verb	un-|un|P ; queen|queen|R|N
+unqueenly	adj	un-|un|P ; queen|queen|R|N ; -ly|ly|S||-ly (adj)
+unquelled	adj	un-|un|P ; quell|quell|R|V ; -ed|ed|S||-ed (adj)
+unquenchably	adv	un-|un|P ; quench|quench|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+unquenched	adj	un-|un|P ; quench|quench|R|V ; -ed|ed|S||-ed (adj)
+unquestionability	noun	un-|un|P ; question|question|R|V ; -able|abil|S ; -ity|ity|S
+unquestionableness	noun	un-|un|P ; question|question|R|V ; -able|able|S ; -ness|ness|S
+unquietly	adv	un-|un|P ; quiet|quiet|R|Adj ; -ly|ly|I||-ly (adv)
+unquotable	adj	un-|un|P ; quote|quot|R|V ; -able|able|S
+unraised	adj	un-|un|P ; raise|rais|R|V ; -ed|ed|S||-ed (adj)
+unranked	adj	un-|un|P ; rank|rank|R|V ; -ed|ed|S||-ed (adj)
+unransomed	adj	un-|un|P ; ransom|ransom|R|N ; -ed|ed|S||-ed (adj)
+unratified	adj	un-|un|P ; ratify|ratifi|R|V ; -ed|ed|S||-ed (adj)
+unrationed	adj	un-|un|P ; ration|ration|R|N ; -ed|ed|S||-ed (adj)
+unravished	adj	un-|un|P ; ravish|ravish|R|V ; -ed|ed|S||-ed (adj)
+unrazored	adj	un-|un|P ; razor|razor|R|N ; -ed|ed|S||-ed (adj)
+unreachability	noun	un-|un|P ; reach|reach|R|V ; -able|abil|S ; -ity|ity|S
+unreachably	adv	un-|un|P ; reach|reach|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+unreadability	noun	un-|un|P ; read|read|R|V ; -able|abil|S ; -ity|ity|S
+unreadily	adv	un-|un|P ; ready|readi|R|Adj ; -ly|ly|I||-ly (adv)
+unreadiness	noun	un-|un|P ; ready|readi|R|Adj ; -ness|ness|S
+unreaped	adj	un-|un|P ; reap|reap|R|V ; -ed|ed|S||-ed (adj)
+unreasoned	adj	un-|un|P ; reason|reason|R|V ; -ed|ed|S||-ed (adj)
+unreasoningly	adv	un-|un|P ; reason|reason|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unrebukable	adj	un-|un|P ; rebuke|rebuk|R|V ; -able|able|S
+unrebuked	adj	un-|un|P ; rebuke|rebuk|R|V ; -ed|ed|S||-ed (adj)
+unrecallable	adj	un-|un|P ; recall|recall|R|V ; -able|able|S
+unrecalled	adj	un-|un|P ; recall|recall|R|V ; -ed|ed|S||-ed (adj)
+unreceipted	adj	un-|un|P ; receipt|receipt|R|N ; -ed|ed|S||-ed (adj)
+unreceivable	adj	un-|un|P ; re-|re|P ; -ceive|ceiv|B|V ; -able|able|S
+unreceived	adj	un-|un|P ; re-|re|P ; -ceive|ceiv|B|V ; -ed|ed|S||-ed (adj)
+unreciprocated	adj	un-|un|P ; reciprocate|reciprocat|R|V ; -ed|ed|S||-ed (adj)
+unreckoned	adj	un-|un|P ; reckon|reckon|R|V ; -ed|ed|S||-ed (adj)
+unreclaimed	adj	un-|un|P ; reclaim|reclaim|R|V ; -ed|ed|S||-ed (adj)
+unrecognizableness	noun	un-|un|P ; recognize|recogniz|R|V ; -able|able|S ; -ness|ness|S
+unrecommended	adj	un-|un|P ; recommend|recommend|R|V ; -ed|ed|S||-ed (adj)
+unrecompensed	adj	un-|un|P ; recompense|recompens|R|V ; -ed|ed|S||-ed (adj)
+unreconcilable	adj	un-|un|P ; reconcile|reconcil|R|V ; -able|able|S
+unrecounted	adj	un-|un|P ; recount|recount|R|V ; -ed|ed|S||-ed (adj)
+unrectified	adj	un-|un|P ; rectify|rectifi|R|V ; -ed|ed|S||-ed (adj)
+unredressed	adj	un-|un|P ; redress|redress|R|V ; -ed|ed|S||-ed (adj)
+unreduced	adj	un-|un|P ; re-|re|P ; -duce|duc|B|V ; -ed|ed|S||-ed (adj)
+unreeve	verb	un-|un|P ; reeve|reeve|R|V
+unreflecting	adj	un-|un|P ; reflect|reflect|R|V ; -ing|ing|S||-ing (adj)
+unreflectingly	adv	un-|un|P ; reflect|reflect|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unreformable	adj	un-|un|P ; re-|re|P ; form|form|R|V ; -able|able|S
+unrefracted	adj	un-|un|P ; refract|refract|R|V ; -ed|ed|S||-ed (adj)
+unrefreshed	adj	un-|un|P ; refresh|refresh|R|V ; -ed|ed|S||-ed (adj)
+unrefuted	adj	un-|un|P ; refute|refut|R|V ; -ed|ed|S||-ed (adj)
+unregal	adj	un-|un|P ; regal|regal|R|Adj
+unregardful	adj	un-|un|P ; regard|regard|R|V ; -ful|ful|S
+unregenerable	adj	un-|un|P ; regenerate|regener|R|V ; -able|able|S
+unregenerately	adv	un-|un|P ; regenerate|regenerate|R|Adj ; -ly|ly|I||-ly (adv)
+unregister	verb	un-|un|P ; register|register|R|V
+unregretted	adj	un-|un|P ; regret|regrett|R|V ; -ed|ed|S||-ed (adj)
+unregular	adj	un-|un|P ; regular|regular|R|Adj
+unrein	verb	un-|un|P ; rein|rein|R|N
+unreined	adj	un-|un|P ; rein|rein|R|N ; -ed|ed|S||-ed (adj)
+unrelaxed	adj	un-|un|P ; relax|relax|R|V ; -ed|ed|S||-ed (adj)
+unreliableness	noun	un-|un|P ; rely|reli|R|V ; -able|able|S ; -ness|ness|S
+unreliably	adv	un-|un|P ; rely|reli|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+unrelievedly	adv	un-|un|P ; relieve|reliev|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unreligious	adj	un-|un|P ; religious|religious|R|Adj
+unreluctant	adj	un-|un|P ; reluctant|reluctant|R|Adj
+unremedied	adj	un-|un|P ; remedy|remedi|R|V ; -ed|ed|S||-ed (adj)
+unreminiscent	adj	un-|un|P ; reminiscent|reminiscent|R|Adj
+unremitted	adj	un-|un|P ; remit|remitt|R|V ; -ed|ed|S||-ed (adj)
+unremittingness	noun	un-|un|P ; remit|remitt|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unremorseful	adj	un-|un|P ; remorse|remorse|R|N ; -ful|ful|S
+unremovable	adj	un-|un|P ; remove|remov|R|V ; -able|able|S
+unremunerated	adj	un-|un|P ; remunerate|remunerat|R|V ; -ed|ed|S||-ed (adj)
+unremunerative	adj	un-|un|P ; remunerate|remunerat|R|V ; -ive|ive|S
+unrenderable	adj	un-|un|P ; render|render|R|V ; -able|able|S
+unrendered	adj	un-|un|P ; render|render|R|V ; -ed|ed|S||-ed (adj)
+unrenewed	adj	un-|un|P ; renew|renew|R|V ; -ed|ed|S||-ed (adj)
+unrenounced	adj	un-|un|P ; renounce|renounc|R|V ; -ed|ed|S||-ed (adj)
+unrenowned	adj	un-|un|P ; renown|renown|R|N ; -ed|ed|S||-ed (adj)
+unrentable	adj	un-|un|P ; rent|rent|R|V ; -able|able|S
+unrented	adj	un-|un|P ; rent|rent|R|V ; -ed|ed|S||-ed (adj)
+unrepaid	adj	un-|un|P ; repay|repaid|R|V ; -ed||I||-ed (v2)
+unrepair	verb	un-|un|P ; repair|repair|R|V
+unrepairable	adj	un-|un|P ; repair|repair|R|V ; -able|able|S
+unrepealed	adj	un-|un|P ; repeal|repeal|R|V ; -ed|ed|S||-ed (adj)
+unrepentance	noun	un-|un|P ; repent|repent|R|V ; -ance|ance|S
+unrepentantly	adv	un-|un|P ; repent|repent|R|V ; -ant|ant|S ; -ly|ly|I||-ly (adv)
+unrepented	adj	un-|un|P ; repent|repent|R|V ; -ed|ed|S||-ed (adj)
+unrepining	adj	un-|un|P ; repine|repin|R|V ; -ing|ing|S||-ing (adj)
+unreplaceable	adj	un-|un|P ; replace|replace|R|V ; -able|able|S
+unreplaced	adj	un-|un|P ; replace|replac|R|V ; -ed|ed|S||-ed (adj)
+unreplenished	adj	un-|un|P ; replenish|replenish|R|V ; -ed|ed|S||-ed (adj)
+unrepresentativeness	noun	un-|un|P ; represent|represent|R|V ; -ative|ative|S ; -ness|ness|S
+unrepressed	adj	un-|un|P ; repress|repress|R|V ; -ed|ed|S||-ed (adj)
+unreprieved	adj	un-|un|P ; reprieve|repriev|R|V ; -ed|ed|S||-ed (adj)
+unreprimanded	adj	un-|un|P ; reprimand|reprimand|R|V ; -ed|ed|S||-ed (adj)
+unreprinted	adj	un-|un|P ; re-|re|P ; print|print|R|V ; -ed|ed|S||-ed (adj)
+unreproachable	adj	un-|un|P ; reproach|reproach|R|V ; -able|able|S
+unreproachful	adj	un-|un|P ; reproach|reproach|R|V ; -ful|ful|S
+unreproduced	adj	un-|un|P ; reproduce|reproduc|R|V ; -ed|ed|S||-ed (adj)
+unreproducible	adj	un-|un|P ; reproduce|reproduc|R|V ; -ible|ible|S
+unreproved	adj	un-|un|P ; reprove|reprov|R|V ; -ed|ed|S||-ed (adj)
+unrepugnant	adj	un-|un|P ; repugnant|repugnant|R|Adj
+unrequested	adj	un-|un|P ; request|request|R|V ; -ed|ed|S||-ed (adj)
+unrequired	adj	un-|un|P ; require|requir|R|V ; -ed|ed|S||-ed (adj)
+unrequitedly	adv	un-|un|P ; requite|requit|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unrescinded	adj	un-|un|P ; rescind|rescind|R|V ; -ed|ed|S||-ed (adj)
+unresented	adj	un-|un|P ; resent|resent|R|V ; -ed|ed|S||-ed (adj)
+unresentful	adj	un-|un|P ; resent|resent|R|V ; -ful|ful|S
+unresenting	adj	un-|un|P ; resent|resent|R|V ; -ing|ing|S||-ing (adj)
+unreservedness	noun	un-|un|P ; reserve|reserv|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unresistant	adj	un-|un|P ; resist|resist|R|V ; -ant|ant|S
+unresisted	adj	un-|un|P ; resist|resist|R|V ; -ed|ed|S||-ed (adj)
+unresisting	adj	un-|un|P ; resist|resist|R|V ; -ing|ing|S||-ing (adj)
+unresonant	adj	un-|un|P ; resonant|resonant|R|Adj
+unrespectable	adj	un-|un|P ; respect|respect|R|V ; -able|able|S
+unrespected	adj	un-|un|P ; respect|respect|R|V ; -ed|ed|S||-ed (adj)
+unrespectful	adj	un-|un|P ; respect|respect|R|V ; -ful|ful|S
+unresponsively	adv	un-|un|P ; respond|respons|R|V ; -ive|ive|S ; -ly|ly|I||-ly (adv)
+unrested	adj	un-|un|P ; rest|rest|R|V ; -ed|ed|S||-ed (adj)
+unrestful	adj	un-|un|P ; rest|rest|R|V ; -ful|ful|S
+unrestfulness	noun	un-|un|P ; rest|rest|R|V ; -ful|ful|S ; -ness|ness|S
+unresting	adj	un-|un|P ; rest|rest|R|V ; -ing|ing|S||-ing (adj)
+unrestored	adj	un-|un|P ; restore|restor|R|V ; -ed|ed|S||-ed (adj)
+unrestrainable	adj	un-|un|P ; restrain|restrain|R|V ; -able|able|S
+unrestrainedly	adv	un-|un|P ; restrain|restrain|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unrestrainedness	noun	un-|un|P ; restrain|restrain|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unretarded	adj	un-|un|P ; retard|retard|R|V ; -ed|ed|S||-ed (adj)
+unretentive	adj	un-|un|P ; retain|retent|R|V ; -ive|ive|S
+unretracted	adj	un-|un|P ; retract|retract|R|V ; -ed|ed|S||-ed (adj)
+unreturnable	adj	un-|un|P ; return|return|R|V ; -able|able|S
+unreturned	adj	un-|un|P ; return|return|R|V ; -ed|ed|S||-ed (adj)
+unrevenged	adj	un-|un|P ; revenge|reveng|R|V ; -ed|ed|S||-ed (adj)
+unreversed	adj	un-|un|P ; reverse|revers|R|V ; -ed|ed|S||-ed (adj)
+unreviewed	adj	un-|un|P ; review|review|R|V ; -ed|ed|S||-ed (adj)
+unrevised	adj	un-|un|P ; revise|revis|R|V ; -ed|ed|S||-ed (adj)
+unrevoked	adj	un-|un|P ; revoke|revok|R|V ; -ed|ed|S||-ed (adj)
+unrevolutionary	adj	un-|un|P ; revolution|revolution|R|N ; -ary|ary|S
+unrhetorical	adj	un-|un|P ; rhetoric|rhetoric|R|N ; -al|al|S
+unrhymed	adj	un-|un|P ; rhyme|rhym|R|V ; -ed|ed|S||-ed (adj)
+unrhythmical	adj	un-|un|P ; rhythm|rhythm|R|N ; -ical|ical|S
+unridden	adj	un-|un|P ; ride|ridden|R|V ; -en||I||-en (participle)
+unriddle	verb	un-|un|P ; riddle|riddle|R|V
+unriddler	noun	un-|un|P ; riddle|riddl|R|V ; -er|er|S||-er (N)
+unrig	verb	un-|un|P ; rig|rig|R|V
+unrighted	adj	un-|un|P ; right|right|R|V ; -ed|ed|S||-ed (adj)
+unrighteously	adv	un-|un|P ; righteous|righteous|R|Adj ; -ly|ly|I||-ly (adv)
+unrighteousness	noun	un-|un|P ; righteous|righteous|R|Adj ; -ness|ness|S
+unrightful	adj	un-|un|P ; right|right|R|V ; -ful|ful|S
+unring	verb	un-|un|P ; ring|ring|R|V
+unrinsed	adj	un-|un|P ; rinse|rins|R|V ; -ed|ed|S||-ed (adj)
+unrip	verb	un-|un|P ; rip|rip|R|V
+unripened	adj	un-|un|P ; ripe|rip|R|Adj ; -en|en|S ; -ed|ed|S||-ed (adj)
+unripeness	noun	un-|un|P ; ripe|ripe|R|Adj ; -ness|ness|S
+unrippled	adj	un-|un|P ; ripple|rippl|R|V ; -ed|ed|S||-ed (adj)
+unrisen	adj	un-|un|P ; rise|risen|R|V ; -en||I||-en (participle)
+unrivet	verb	un-|un|P ; rivet|rivet|R|V
+unrobe	verb	un-|un|P ; robe|robe|R|V
+unrolling	verb	un-|un|P ; roll|roll|R|V ; -ing|ing|I||-ing (v)
+unromantical	adj	un-|un|P ; romance|romant|R|N ; -ical|ical|S
+unromantically	adv	un-|un|P ; romance|romant|R|N ; -ical|ical|S ; -ly|ly|I||-ly (adv)
+unroof	verb	un-|un|P ; roof|roof|R|V
+unroofed	adj	un-|un|P ; roof|roof|R|V ; -ed|ed|S||-ed (adj)
+unroost	verb	un-|un|P ; roost|roost|R|V
+unroot	verb	un-|un|P ; root|root|R|V
+unrotten	adj	un-|un|P ; rotten|rotten|R|Adj
+unround	verb	un-|un|P ; round|round|R|V
+unrounded	adj	un-|un|P ; round|round|R|V ; -ed|ed|S||-ed (adj)
+unroyal	adj	un-|un|P ; royal|royal|R|Adj
+unruled	adj	un-|un|P ; rule|rul|R|V ; -ed|ed|S||-ed (adj)
+unrumple	verb	un-|un|P ; rumple|rumple|R|V
+unrumpled	adj	un-|un|P ; rumple|rumpl|R|V ; -ed|ed|S||-ed (adj)
+unrushed	adj	un-|un|P ; rush|rush|R|V ; -ed|ed|S||-ed (adj)
+unrusted	adj	un-|un|P ; rust|rust|R|V ; -ed|ed|S||-ed (adj)
+unsaddle	verb	un-|un|P ; saddle|saddle|R|V
+unsaddling	verb	un-|un|P ; saddle|saddl|R|V ; -ing|ing|I||-ing (v)
+unsafely	adv	un-|un|P ; safe|safe|R|Adj ; -ly|ly|I||-ly (adv)
+unsafeness	noun	un-|un|P ; safe|safe|R|Adj ; -ness|ness|S
+unsafety	noun	un-|un|P ; safe|safe|R|Adj ; -ty|ty|S
+unsainted	adj	un-|un|P ; saint|saint|R|N ; -ed|ed|S||-ed (adj)
+unsaintly	adj	un-|un|P ; saint|saint|R|N ; -ly|ly|S||-ly (adj)
+unsalaried	adj	un-|un|P ; salary|salari|R|N ; -ed|ed|S||-ed (adj)
+unsaleability	noun	un-|un|P ; sale|sale|R|N ; -able|abil|S ; -ity|ity|S
+unsalutary	adj	un-|un|P ; salutary|salutary|R|Adj
+unsanctified	adj	un-|un|P ; sanctify|sanctifi|R|V ; -ed|ed|S||-ed (adj)
+unsane	adj	un-|un|P ; sane|sane|R|Adj
+unsaponified	adj	un-|un|P ; saponify|saponifi|R|V ; -ed|ed|S||-ed (adj)
+unsated	adj	un-|un|P ; sate|sat|R|V ; -ed|ed|S||-ed (adj)
+unsatisfactoriness	noun	un-|un|P ; satisfy|satisfact|R|V ; -ory|ori|S ; -ness|ness|S
+unsatisfiable	adj	un-|un|P ; satisfy|satisfi|R|V ; -able|able|S
+unsaturable	adj	un-|un|P ; saturate|satur|R|V ; -able|able|S
+unscalable	adj	un-|un|P ; scale|scal|R|V ; -able|able|S

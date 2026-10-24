@@ -1,0 +1,200 @@
+aplanatism	noun	aplanatism|aplanatism|R|N
+aplanogamete	noun	aplanogamete|aplanogamete|R|N
+aplanospore	noun	aplanospore|aplanospore|R|N
+aplasia	noun	aplasia|aplasia|R|N
+aplerotic	adj	aplerotic|aplerotic|R|Adj
+apoapsis	noun	apoapsis|apoapsis|R|N
+apocalyptical	adj	apocalyptic|apocalyptic|R|Adj ; -al|al|S
+apocalyptically	adv	apocalyptic|apocalyptic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+apocarpous	adj	apocarpous|apocarpous|R|Adj
+apocarpy	noun	apocarpy|apocarpy|R|N
+apocatastasis	noun	apocatastasis|apocatastasis|R|N
+apocentric	adj	apocentric|apocentric|R|Adj
+apochromat	noun	apochromat|apochromat|R|N
+apochromatism	noun	apochromat|apochromat|R|N ; -ism|ism|S
+apocopate	verb	apocope|apocop|R|N ; -ate|ate|S
+apocope	noun	apocope|apocope|R|N
+apocopic	adj	apocope|apocop|R|N ; -ic|ic|S
+apocrine	adj	apocrine|apocrine|R|Adj
+apocritan	noun	apocritan|apocritan|R|N
+apocrypha	noun	apocrypha|apocrypha|R|N
+apocryphally	adv	apocryphal|apocryphal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+apocynaceous	adj	apocynaceous|apocynaceous|R|Adj
+apocyte	noun	apocyte|apocyte|R|N
+apod	noun	apod|apod|R|N
+apodal	adj	apod|apod|R|N ; -al|al|S
+apodeictic	adj	apodeictic|apodeictic|R|Adj
+apodictic	adj	apodictic|apodictic|R|Adj
+apodictically	adv	apodictic|apodictic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+apodicticity	noun	apodictic|apodictic|R|Adj ; -ity|ity|S
+apodosis	noun	apodosis|apodosis|R|N
+apodous	adj	apod|apod|R|N ; -ous|ous|S
+apodyterium	noun	apodyterium|apodyterium|R|N
+apoenzyme	noun	apoenzyme|apoenzyme|R|N
+apogalacticon	noun	apogalacticon|apogalacticon|R|N
+apogamic	adj	apogamic|apogamic|R|Adj
+apogamy	noun	apogamy|apogamy|R|N
+apogean	adj	apogean|apogean|R|Adj
+apogeny	noun	apogeny|apogeny|R|N
+apogeotropic	adj	apogeotropic|apogeotropic|R|Adj
+apograph	noun	apograph|apograph|R|N
+apolar	adj	a-|a|P ; polar|polar|R|Adj
+apolarity	noun	a-|a|P ; polar|polar|R|Adj ; -ity|ity|S
+apolaustic	adj	apolaustic|apolaustic|R|Adj
+apolipoprotein	noun	apolipoprotein|apolipoprotein|R|N
+apolitically	adv	a-|a|P ; politic|politic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+apoliticism	noun	a-|a|P ; politic|politic|R|Adj ; -ism|ism|S
+apollonian	adj	apollonian|apollonian|R|Adj
+apologetical	adj	apologetic|apologetic|R|Adj ; -al|al|S
+apologizing	verb	apologize|apologiz|R|V ; -ing|ing|I||-ing (v)
+apologue	noun	apologue|apologue|R|N
+apolune	noun	apolune|apolune|R|N
+apolysis	noun	apolysis|apolysis|R|N
+apomict	noun	apomict|apomict|R|N
+apomictic	adj	apomict|apomict|R|N ; -ic|ic|S
+apomixis	noun	apomixis|apomixis|R|N
+aponeurosis	noun	aponeurosis|aponeurosis|R|N
+apopetalous	adj	apopetalous|apopetalous|R|Adj
+apophasis	noun	apophasis|apophasis|R|N
+apophenia	noun	apophenia|apophenia|R|N
+apophonic	adj	apophonic|apophonic|R|Adj
+apophysate	adj	apophysis|apophys|R|N ; -ate|ate|S
+apophysis	noun	apophysis|apophysis|R|N
+apoplectically	adv	apoplectic|apoplectic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+aporetic	adj	aporetic|aporetic|R|Adj
+aporophobia	noun	aporophobia|aporophobia|R|N
+aposelene	noun	aposelene|aposelene|R|N
+aposematic	adj	aposematic|aposematic|R|Adj
+aposematism	noun	aposematic|aposemat|R|Adj ; -ism|ism|S
+aposiopesis	noun	aposiopesis|aposiopesis|R|N
+aposiopetic	adj	aposiopesis|aposiopet|R|N ; -ic|ic|S
+apospory	noun	apospory|apospory|R|N
+apostatize	verb	apostate|apostat|R|N ; -ize|ize|S
+apostaxis	noun	apostaxis|apostaxis|R|N
+apostil	noun	apostil|apostil|R|N
+apostille	noun	apostille|apostille|R|N
+apostlebird	noun	apostle|apostle|R|N ; bird|bird|R|N
+apostlehood	noun	apostle|apostle|R|N ; -hood|hood|S
+apostleship	noun	apostle|apostle|R|N ; -ship|ship|S
+apostolical	adj	apostolic|apostolic|R|Adj ; -al|al|S
+apostolically	adv	apostolic|apostolic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+apostolicity	noun	apostolic|apostolic|R|Adj ; -ity|ity|S
+apostropheless	adj	apostrophe|apostrophe|R|N ; -less|less|S
+apostrophic	adj	apostrophe|apostroph|R|N ; -ic|ic|S
+apostrophize	verb	apostrophe|apostroph|R|N ; -ize|ize|S
+apotemnophilia	noun	apotemnophilia|apotemnophilia|R|N
+apothecial	adj	apothecium|apotheci|R|N ; -al|al|S
+apothecium	noun	apothecium|apothecium|R|N
+apothegm	noun	apothegm|apothegm|R|N
+apothegmatic	adj	apothegmatic|apothegmatic|R|Adj
+apothegmatically	adv	apothegmatic|apothegmatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+apothem	noun	apothem|apothem|R|N
+apotheosize	verb	apotheosis|apotheos|R|N ; -ize|ize|S
+apotype	noun	apotype|apotype|R|N
+apotypic	adj	apotype|apotyp|R|N ; -ic|ic|S
+app	noun	app|app|R|N
+apparate	verb	apparate|apparate|R|V
+appareling	verb	apparel|apparel|R|N ; -ing|ing|I||-ing (v)
+apparelling	verb	apparel|apparell|R|N ; -ing|ing|I||-ing (v)
+apparentness	noun	apparent|apparent|R|Adj ; -ness|ness|S
+apparitional	adj	apparition|apparition|R|N ; -al|al|S
+apparitor	noun	apparitor|apparitor|R|N
+appealability	noun	appeal|appeal|R|V ; -able|abil|S ; -ity|ity|S
+appealable	adj	appeal|appeal|R|V ; -able|able|S
+appealer	noun	appeal|appeal|R|V ; -er|er|S||-er (N)
+appearing	verb	appear|appear|R|V ; -ing|ing|I||-ing (v)
+appeasable	adj	appease|appeas|R|V ; -able|able|S
+appeasably	adv	appease|appeas|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+appeasing	verb	appease|appeas|R|V ; -ing|ing|I||-ing (v)
+appellative	adj	appellative|appellative|R|Adj
+appellatively	adv	appellative|appellative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+appellativization	noun	appellative|appellativ|R|Adj ; -ize|iz|S ; -ation|ation|S
+appellee	noun	appellee|appellee|R|N
+appendant	adj	append|append|R|V ; -ant|ant|S
+appendical	adj	appendix|appendic|R|N ; -al|al|S
+appendiceal	adj	appendiceal|appendiceal|R|Adj
+appendicectomy	noun	appendicectomy|appendicectomy|R|N
+appendiculate	adj	appendix|appendicul|R|N ; -ate|ate|S
+appending	verb	append|append|R|V ; -ing|ing|I||-ing (v)
+apperceive	verb	apperceive|apperceive|R|V
+apperceptive	adj	apperceptive|apperceptive|R|Adj
+appetence	noun	appetence|appetence|R|N
+appetency	noun	appetency|appetency|R|N
+appetiteless	adj	appetite|appetite|R|N ; -less|less|S
+appetizingly	adv	appetize|appetiz|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+appetizingness	noun	appetize|appetiz|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+applanate	verb	applanate|applanate|R|V
+applanation	noun	applanate|applanat|R|V ; -ion|ion|S
+applaudable	adj	applaud|applaud|R|V ; -able|able|S
+applaudably	adv	applaud|applaud|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+applauder	noun	applaud|applaud|R|V ; -er|er|S||-er (N)
+applauding	verb	applaud|applaud|R|V ; -ing|ing|I||-ing (v)
+apples	noun	apple|apple|R|N ; -s|s|I||-s (plural)
+applicably	adv	apply|applic|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+applicate	adj	apply|applic|R|V ; -ate|ate|S
+applicative	adj	apply|applic|R|V ; -ative|ative|S
+applying	verb	apply|apply|R|V ; -ing|ing|I||-ing (v)
+appoggiatura	noun	appoggiatura|appoggiatura|R|N
+apportioned	verb	apportion|apportion|R|V ; -ed|ed|I||-ed (v2)
+apportioning	verb	apportion|apportion|R|V ; -ing|ing|I||-ing (v)
+appose	verb	appose|appose|R|V
+appositely	adv	apposite|apposite|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+appositeness	noun	apposite|apposite|R|Adj ; -ness|ness|S
+appositional	adj	apposition|apposition|R|N ; -al|al|S
+appositionally	adv	apposition|apposition|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+appositive	adj	appositive|appositive|R|Adj
+appraisable	adj	appraise|apprais|R|V ; -able|able|S
+appraisement	noun	appraise|appraise|R|V ; -ment|ment|S
+appreciatory	adj	appreciate|appreciat|R|V ; -ory|ory|S
+apprehended	verb	apprehend|apprehend|R|V ; -ed|ed|I||-ed (v2)
+apprehending	verb	apprehend|apprehend|R|V ; -ing|ing|I||-ing (v)
+apprehensibility	noun	apprehend|apprehens|R|V ; -ible|ibil|S ; -ity|ity|S
+apprehensible	adj	apprehend|apprehens|R|V ; -ible|ible|S
+apprehensibly	adv	apprehend|apprehens|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+apprehensiveness	noun	apprehend|apprehens|R|V ; -ive|ive|S ; -ness|ness|S
+appressed	adj	appress|appress|R|V ; -ed|ed|S||-ed (adj)
+apprised	verb	apprise|appris|R|V ; -ed|ed|I||-ed (v2)
+apprising	verb	apprise|appris|R|V ; -ing|ing|I||-ing (v)
+appro	noun	appro|appro|R|N
+approaches	verb	approach|approach|R|V ; -s|es|I||-s (3sg)
+approbate	verb	approbate|approbate|R|V
+approbative	adj	approbative|approbative|R|Adj
+approbatory	adj	approbatory|approbatory|R|Adj
+appropriative	adj	appropriate|appropriat|R|V ; -ive|ive|S
+approvable	adj	approve|approv|R|V ; -able|able|S
+approximability	noun	approximate|approxim|R|V ; -able|abil|S ; -ity|ity|S
+approximant	noun	approximate|approxim|R|V ; -ant|ant|S
+approximated	verb	approximate|approximat|R|V ; -ed|ed|I||-ed (v2)
+approximative	adj	approximate|approximat|R|V ; -ive|ive|S
+approximatively	adv	approximate|approximat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+appui	noun	appui|appui|R|N
+appurtenant	adj	appurtenant|appurtenant|R|Adj
+apraxia	noun	apraxia|apraxia|R|N
+apricate	verb	apricate|apricate|R|V
+apriorism	noun	apriorism|apriorism|R|N
+apronful	noun	apron|apron|R|N ; -ful|ful|S
+aprosexia	noun	aprosexia|aprosexia|R|N
+apsar	noun	apsar|apsar|R|N
+apsara	noun	apsara|apsara|R|N
+apsidal	adj	apsis|apsid|R|N ; -al|al|S
+apsis	noun	apsis|apsis|R|N
+apterium	noun	apterium|apterium|R|N
+apterous	adj	apterous|apterous|R|Adj
+apterygial	adj	apteryx|apterygi|R|N ; -al|al|S
+apterygote	noun	apterygote|apterygote|R|N
+apteryx	noun	apteryx|apteryx|R|N
+apyrexia	noun	apyrexia|apyrexia|R|N
+aqiqah	noun	aqiqah|aqiqah|R|N
+aqsaqal	noun	aqsaqal|aqsaqal|R|N
+aquaculturist	noun	aquaculture|aquacultur|R|N ; -ist|ist|S
+aquadag	noun	aquadag|aquadag|R|N
+aquafaba	noun	aquafaba|aquafaba|R|N
+aquafortist	noun	aquafortis|aquafort|R|N ; -ist|ist|S
+aqualung	noun	aqua|aqua|R|N ; lung|lung|R|N
+aquamanile	noun	aquamanile|aquamanile|R|N
+aquapark	noun	aqua|aqua|R|N ; park|park|R|N
+aquaphobia	noun	aqua|aqua|R|N ; phobia|phobia|R|N
+aquaplane	verb	aqua|aqua|R|N ; plane|plane|R|N
+aquaplaning	verb	aqua|aqua|R|N ; plane|plan|R|N ; -ing|ing|I||-ing (v)
+aquaponics	noun	aquaponics|aquaponics|R|N
+aquaporin	noun	aquaporin|aquaporin|R|N

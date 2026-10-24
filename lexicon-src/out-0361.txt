@@ -1,0 +1,200 @@
+promycelium	noun	pro-|pro|P ; mycelium|mycelium|R|N
+pronaos	noun	pronaos|pronaos|R|N
+pronate	verb	pronate|pronate|R|V
+pronator	noun	pronate|pronat|R|V ; -or|or|S
+pronely	adv	prone|prone|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pronephric	adj	pronephros|pronephr|R|N ; -ic|ic|S
+pronephros	noun	pronephros|pronephros|R|N
+prongbuck	noun	prong|prong|R|N ; buck|buck|R|N
+pronic	adj	pronic|pronic|R|Adj
+pronoia	noun	pronoia|pronoia|R|N
+pronominally	adv	pronominal|pronominal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pronotum	noun	pro-|pro|P ; notum|notum|R|N
+pronounceable	adj	pronounce|pronounce|R|V ; -able|able|S
+pronouncedly	adv	pronounce|pronounc|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+pronouncedness	noun	pronounce|pronounc|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+pronouncer	noun	pronounce|pronounc|R|V ; -er|er|S||-er (N)
+pronouncing	verb	pronounce|pronounc|R|V ; -ing|ing|I||-ing (v)
+pronucleus	noun	pro-|pro|P ; nucleus|nucleus|R|N
+pronunciamento	noun	pronunciamento|pronunciamento|R|N
+pronunciational	adj	pronounce|pronunci|R|V ; -ation|ation|S ; -al|al|S
+pronunciative	adj	pronounce|pronunci|R|V ; -ative|ative|S
+pronunciatory	adj	pronounce|pronunciat|R|V ; -ory|ory|S
+proofless	adj	proof|proof|R|N ; -less|less|S
+proofreading	noun	proof|proof|R|N ; read|read|R|V ; -ing|ing|S||-ing (N)
+proofs	noun	proof|proof|R|N ; -s|s|I||-s (plural)
+propadiene	noun	propadiene|propadiene|R|N
+propaedeutic	adj	propaedeutic|propaedeutic|R|Adj
+propagable	adj	propagate|propag|R|V ; -able|able|S
+propagandic	adj	propaganda|propagand|R|N ; -ic|ic|S
+propagandism	noun	propaganda|propagand|R|N ; -ism|ism|S
+propagandistically	adv	propagandistic|propagandistic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+propagandizer	noun	propaganda|propagand|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+propagational	adj	propagate|propagat|R|V ; -ion|ion|S ; -al|al|S
+propagative	adj	propagate|propagat|R|V ; -ive|ive|S
+propagule	noun	propagule|propagule|R|N
+propagulum	noun	propagulum|propagulum|R|N
+propanol	noun	propanol|propanol|R|N
+proparoxytone	noun	pro-|pro|P ; paroxytone|paroxytone|R|N
+propellent	noun	propel|propell|R|V ; -ent|ent|S
+propelling	verb	propel|propell|R|V ; -ing|ing|I||-ing (v)
+propene	noun	propene|propene|R|N
+properness	noun	proper|proper|R|Adj ; -ness|ness|S
+propertyless	adj	property|property|R|N ; -less|less|S
+propfan	noun	prop|prop|R|N ; fan|fan|R|N
+prophage	noun	pro-|pro|P ; phage|phage|R|N
+prophase	noun	pro-|pro|P ; phase|phase|R|N
+prophasic	adj	prophase|prophas|R|N ; -ic|ic|S
+prophesied	adj	prophesy|prophesi|R|V ; -ed|ed|S||-ed (adj)
+prophesier	noun	prophesy|prophesi|R|V ; -er|er|S||-er (N)
+prophesying	verb	prophesy|prophesy|R|V ; -ing|ing|I||-ing (v)
+prophethood	noun	prophet|prophet|R|N ; -hood|hood|S
+prophetical	adj	prophet|prophet|R|N ; -ical|ical|S
+propheticalness	noun	prophet|prophet|R|N ; -ical|ical|S ; -ness|ness|S
+propiska	noun	propiska|propiska|R|N
+propitiable	adj	propitiate|propiti|R|V ; -able|able|S
+propitiatingly	adv	propitiate|propitiat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+propitiative	adj	propitiate|propitiat|R|V ; -ive|ive|S
+propitiator	noun	propitiate|propitiat|R|V ; -or|or|S
+propitiatorily	adv	propitiate|propitiat|R|V ; -ory|ori|S ; -ly|ly|I|Adv|-ly (adv)
+propitiatory	adj	propitiate|propitiat|R|V ; -ory|ory|S
+propitiously	adv	propitious|propitious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+propitiousness	noun	propitious|propitious|R|Adj ; -ness|ness|S
+propjet	noun	prop|prop|R|N ; jet|jet|R|N
+proplastid	noun	pro-|pro|P ; plastid|plastid|R|N
+propleuron	noun	pro-|pro|P ; pleuron|pleuron|R|N
+propodial	adj	propodium|propodi|R|N ; -al|al|S
+propone	verb	propone|propone|R|V
+proportionable	adj	proportion|proportion|R|N ; -able|able|S
+proportionalist	noun	proportion|proportion|R|N ; -al|al|S ; -ist|ist|S
+proportionateness	noun	proportion|proportion|R|N ; -ate|ate|S ; -ness|ness|S
+proportioned	adj	proportion|proportion|R|N ; -ed|ed|S||-ed (adj)
+proportioner	noun	proportion|proportion|R|V ; -er|er|S||-er (N)
+proportionless	adj	proportion|proportion|R|N ; -less|less|S
+proportionment	noun	proportion|proportion|R|V ; -ment|ment|S
+proportions	noun	proportion|proportion|R|N ; -s|s|I||-s (plural)
+propositionally	adv	propose|propos|R|V ; -ition|ition|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+propounder	noun	propound|propound|R|V ; -er|er|S||-er (N)
+propping	noun	prop|propp|R|V ; -ing|ing|S||-ing (N)
+propraetor	noun	pro-|pro|P ; praetor|praetor|R|N
+propreantepenultimate	adj	propreantepenultimate|propreantepenultimate|R|Adj
+proprialization	noun	proprial|proprial|R|Adj ; -ize|iz|S ; -ation|ation|S
+proprietarily	adv	proprietor|propriet|R|N ; -ary|ari|S ; -ly|ly|I|Adv|-ly (adv)
+proprietorially	adv	proprietor|proprietor|R|N ; -ial|ial|S ; -ly|ly|I|Adv|-ly (adv)
+proprioceptor	noun	proprioceptor|proprioceptor|R|N
+props	noun	prop|prop|R|N ; -s|s|I||-s (plural)
+propterygium	noun	pro-|pro|P ; pterygium|pterygium|R|N
+propulsatory	adj	propel|propuls|R|V ; -ory|atory|S
+propulsor	noun	propel|propuls|R|V ; -or|or|S
+propulsory	adj	propel|propuls|R|V ; -ory|ory|S
+propyl	noun	propyl|propyl|R|N
+propylaeum	noun	propylaeum|propylaeum|R|N
+propylite	noun	propylite|propylite|R|N
+propyne	noun	propyne|propyne|R|N
+prorate	verb	pro-|pro|P ; rate|rate|R|V
+proration	noun	prorate|prorat|R|V ; -ion|ion|S
+prorogation	noun	prorogue|prorog|R|V ; -ation|ation|S
+prorogue	verb	prorogue|prorogue|R|V
+proroguing	verb	prorogue|prorogu|R|V ; -ing|ing|I||-ing (v)
+prosaicness	noun	prosaic|prosaic|R|Adj ; -ness|ness|S
+prosaism	noun	prosaic|prosa|R|Adj ; -ism|ism|S
+prosaist	noun	prosaic|prosa|R|Adj ; -ist|ist|S
+proscolex	noun	proscolex|proscolex|R|N
+proscriber	noun	pro-|pro|P ; -scribe|scrib|B|V ; -er|er|S||-er (N)
+proscriptively	adv	pro-|pro|P ; -scribe|script|B|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+prosect	verb	pro-|pro|P ; sect|sect|R|V
+prosector	noun	pro-|pro|P ; sect|sect|R|V ; -or|or|S
+prosecutrix	noun	prosecutrix|prosecutrix|R|N
+proselyte	noun	proselyte|proselyte|R|N
+proselyter	noun	proselyte|proselyt|R|N ; -er|er|S||-er (N)
+prosencephalic	adj	prosencephalon|prosencephal|R|N ; -ic|ic|S
+prosencephalon	noun	prosencephalon|prosencephalon|R|N
+prosenchyma	noun	prosenchyma|prosenchyma|R|N
+prosenchymatous	adj	prosenchyma|prosenchymat|R|N ; -ous|ous|S
+proser	noun	prose|pros|R|N ; -er|er|S||-er (N)
+prosify	verb	prose|pros|R|N ; -ify|ify|S
+prosily	adv	prose|pros|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+prosimian	noun	pro-|pro|P ; simian|simian|R|N
+prosiness	noun	prose|pros|R|N ; -y|i|S ; -ness|ness|S
+prosing	noun	prose|pros|R|V ; -ing|ing|S||-ing (N)
+prosiphon	noun	pro-|pro|P ; siphon|siphon|R|N
+prosit	interj	prosit|prosit|R
+proslavery	adj	pro-|pro|P ; slavery|slavery|R|N
+prosobranch	noun	prosobranch|prosobranch|R|N
+prosodiacal	adj	prosodiacal|prosodiacal|R|Adj
+prosodial	adj	prosody|prosodi|R|N ; -al|al|S
+prosodian	noun	prosody|prosodi|R|N ; -an|an|S
+prosodically	adv	prosodic|prosodic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+prosodist	noun	prosody|prosod|R|N ; -ist|ist|S
+prosopagnosia	noun	prosopagnosia|prosopagnosia|R|N
+prosopography	noun	prosopography|prosopography|R|N
+prosperously	adv	prosperous|prosperous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+prosperousness	noun	prosperous|prosperous|R|Adj ; -ness|ness|S
+prostatism	noun	prostate|prostat|R|N ; -ism|ism|S
+prosternal	adj	pro-|pro|P ; sternum|stern|R|N ; -al|al|S
+prosternum	noun	pro-|pro|P ; sternum|sternum|R|N
+prostheca	noun	prostheca|prostheca|R|N
+prosthetically	adv	prosthetic|prosthetic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+prosthodontics	noun	prosthodontics|prosthodontics|R|N
+prostitutor	noun	prostitute|prostitut|R|V ; -or|or|S
+prostomial	adj	prostomium|prostomi|R|N ; -al|al|S
+prostomium	noun	prostomium|prostomium|R|N
+prostrator	noun	prostrate|prostrat|R|V ; -or|or|S
+prostyle	noun	pro-|pro|P ; style|style|R|N
+prosy	adj	prose|pros|R|N ; -y|y|S
+protactinium	noun	protactinium|protactinium|R|N
+protagonistic	adj	protagonist|protagonist|R|N ; -ic|ic|S
+protamine	noun	protamine|protamine|R|N
+protandric	adj	protandry|protandr|R|N ; -ic|ic|S
+protandrism	noun	protandry|protandr|R|N ; -ism|ism|S
+protandrous	adj	protandry|protandr|R|N ; -ous|ous|S
+protandry	noun	protandry|protandry|R|N
+protanopia	noun	protanopia|protanopia|R|N
+protasis	noun	protasis|protasis|R|N
+protatic	adj	protasis|protat|R|N ; -ic|ic|S
+proteasome	noun	proteasome|proteasome|R|N
+protectingly	adv	protect|protect|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+protectional	adj	protect|protect|R|V ; -ion|ion|S ; -al|al|S
+protectoral	adj	protect|protect|R|V ; -or|or|S ; -al|al|S
+protectorship	noun	protect|protect|R|V ; -or|or|S ; -ship|ship|S
+protectory	adj	protect|protect|R|V ; -ory|ory|S
+proteid	noun	proteid|proteid|R|N
+proteiform	adj	proteiform|proteiform|R|Adj
+proteinaceous	adj	proteinaceous|proteinaceous|R|Adj
+proteinic	adj	protein|protein|R|N ; -ic|ic|S
+proteinous	adj	protein|protein|R|N ; -ous|ous|S
+protend	verb	pro-|pro|P ; tend|tend|R|V
+protensive	adj	pro-|pro|P ; tend|tens|R|V ; -ive|ive|S
+proteoclastic	adj	proteoclastic|proteoclastic|R|Adj
+proteolysis	noun	proteolysis|proteolysis|R|N
+proteome	noun	proteome|proteome|R|N
+proteomic	adj	proteome|proteom|R|N ; -ic|ic|S
+proteose	noun	proteose|proteose|R|N
+proterandrous	adj	proterandrous|proterandrous|R|Adj
+proterandry	noun	proterandry|proterandry|R|N
+proteranthous	adj	proteranthous|proteranthous|R|Adj
+proteranthy	noun	proteranthy|proteranthy|R|N
+proterogynous	adj	proterogynous|proterogynous|R|Adj
+proterogyny	noun	proterogyny|proterogyny|R|N
+protestant	noun	protest|protest|R|V ; -ant|ant|S
+protestantize	verb	protest|protest|R|V ; -ant|ant|S ; -ize|ize|S
+protestingly	adv	protest|protest|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+prothallial	adj	prothallium|prothalli|R|N ; -al|al|S
+prothallium	noun	prothallium|prothallium|R|N
+prothesis	noun	prothesis|prothesis|R|N
+prothetic	adj	prothesis|prothet|R|N ; -ic|ic|S
+prothetically	adv	prothesis|prothet|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+prothonotary	noun	prothonotary|prothonotary|R|N
+prothoracic	adj	pro-|pro|P ; thorax|thorac|R|N ; -ic|ic|S
+prothorax	noun	pro-|pro|P ; thorax|thorax|R|N
+prothrombin	noun	pro-|pro|P ; thrombin|thrombin|R|N
+protistan	noun	protist|protist|R|N ; -an|an|S
+protium	noun	protium|protium|R|N
+protocerebral	adj	protocerebral|protocerebral|R|Adj
+protocerebrum	noun	protocerebrum|protocerebrum|R|N
+protochlorophyll	noun	protochlorophyll|protochlorophyll|R|N
+protocollary	adj	protocol|protocoll|R|N ; -ary|ary|S
+protoconch	noun	protoconch|protoconch|R|N
+protocone	noun	protocone|protocone|R|N
+protoconid	noun	protoconid|protoconid|R|N
+protocorm	noun	protocorm|protocorm|R|N

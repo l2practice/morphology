@@ -1,0 +1,200 @@
+vacational	adj	vacation|vacation|R|N ; -al|al|S
+vacationist	noun	vacation|vacation|R|N ; -ist|ist|S
+vacationless	adj	vacation|vacation|R|N ; -less|less|S
+vaccinal	adj	vaccine|vaccin|R|N ; -al|al|S
+vaccinationist	noun	vaccinate|vaccinat|R|V ; -ion|ion|S ; -ist|ist|S
+vaccinator	noun	vaccinate|vaccin|R|V ; -or|ator|S
+vaccinial	adj	vaccinia|vaccini|R|N ; -al|al|S
+vacillatingly	adv	vacillate|vacillat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+vacillator	noun	vacillate|vacill|R|V ; -or|ator|S
+vacillatory	adj	vacillate|vacillat|R|V ; -ory|ory|S
+vacuolar	adj	vacuole|vacuol|R|N ; -ar|ar|S
+vacuolate	adj	vacuole|vacuol|R|N ; -ate|ate|S
+vacuolated	adj	vacuole|vacuol|R|N ; -ate|ate|S ; -ed|d|S||-ed (adj)
+vacuometer	noun	vacuometer|vacuometer|R|N
+vacuously	adv	vacuous|vacuous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+vacuousness	noun	vacuous|vacuous|R|Adj ; -ness|ness|S
+vada	noun	vada|vada|R|N
+vag	noun	vag|vag|R|N
+vagabondage	noun	vagabond|vagabond|R|N ; -age|age|S
+vagabonding	noun	vagabond|vagabond|R|V ; -ing|ing|S||-ing (N)
+vagabondish	adj	vagabond|vagabond|R|N ; -ish|ish|S
+vagabondism	noun	vagabond|vagabond|R|N ; -ism|ism|S
+vagabondry	noun	vagabond|vagabond|R|N ; -ry|ry|S
+vagarious	adj	vagary|vagari|R|N ; -ous|ous|S
+vaginally	adv	vagina|vagin|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+vaginate	verb	vagina|vagin|R|N ; -ate|ate|S
+vaginismus	noun	vaginismus|vaginismus|R|N
+vaginitis	noun	vaginitis|vaginitis|R|N
+vaginoplasty	noun	vaginoplasty|vaginoplasty|R|N
+vaginosis	noun	vaginosis|vaginosis|R|N
+vaginula	noun	vaginula|vaginula|R|N
+vagrantly	adv	vagrant|vagrant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+vaingloriously	adv	vain|vain|R|Adj ; glory|glori|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+vaingloriousness	noun	vain|vain|R|Adj ; glory|glori|R|N ; -ous|ous|S ; -ness|ness|S
+vainglory	noun	vain|vain|R|Adj ; glory|glory|R|N
+vainness	noun	vain|vain|R|Adj ; -ness|ness|S
+vair	noun	vair|vair|R|N
+vajra	noun	vajra|vajra|R|N
+valanced	adj	valance|valance|R|N ; -ed|d|S||-ed (adj)
+valenki	noun	valenki|valenki|R|N
+valerianic	adj	valerian|valerian|R|N ; -ic|ic|S
+valeric	adj	valeric|valeric|R|Adj
+valetry	noun	valetry|valetry|R|N
+valetudinarian	noun	valetudinary|valetudinari|R|Adj ; -an|an|S
+valetudinarianism	noun	valetudinary|valetudinari|R|Adj ; -an|an|S ; -ism|ism|S
+valetudinary	adj	valetudinary|valetudinary|R|Adj
+valiance	noun	valiant|vali|R|Adj ; -ance|ance|S
+valiantness	noun	valiant|valiant|R|Adj ; -ness|ness|S
+validator	noun	validate|valid|R|V ; -or|ator|S
+validness	noun	valid|valid|R|Adj ; -ness|ness|S
+valine	noun	valine|valine|R|N
+vallate	adj	vallate|vallate|R|Adj
+vallecula	noun	vallecula|vallecula|R|N
+vallecular	adj	vallecula|vallecul|R|N ; -ar|ar|S
+valleculate	adj	vallecula|vallecul|R|N ; -ate|ate|S
+valleyed	adj	valley|valley|R|N ; -ed|ed|S||-ed (adj)
+vallum	noun	vallum|vallum|R|N
+valorize	verb	valor|valor|R|N ; -ize|ize|S
+valorously	adv	valor|valor|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+valorousness	noun	valor|valor|R|N ; -ous|ous|S ; -ness|ness|S
+valuableness	noun	value|valu|R|N ; -able|able|S ; -ness|ness|S
+valuably	adv	value|valu|R|N ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+valuational	adj	value|valu|R|N ; -ation|ation|S ; -al|al|S
+valuator	noun	value|valu|R|N ; -ator|ator|S
+valuelessness	noun	value|value|R|N ; -less|less|S ; -ness|ness|S
+valuta	noun	valuta|valuta|R|N
+valvar	adj	valve|valv|R|N ; -ar|ar|S
+valvate	adj	valve|valv|R|N ; -ate|ate|S
+valved	adj	valve|valve|R|N ; -ed|d|S||-ed (adj)
+valveless	adj	valve|valve|R|N ; -less|less|S
+valvelet	noun	valve|valve|R|N ; -let|let|S
+valviform	adj	valviform|valviform|R|Adj
+valvula	noun	valvula|valvula|R|N
+valvule	noun	valvule|valvule|R|N
+valvulitis	noun	valvulitis|valvulitis|R|N
+vambrace	noun	vambrace|vambrace|R|N
+vamoose	verb	vamoose|vamoose|R|V
+vamper	noun	vamp|vamp|R|V ; -er|er|S||-er (N)
+vamping	noun	vamp|vamp|R|V ; -ing|ing|S||-ing (N)
+vampiress	noun	vampire|vampir|R|N ; -ess|ess|S
+vampish	adj	vamp|vamp|R|N ; -ish|ish|S
+vampishly	adv	vamp|vamp|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+vamps	noun	vamp|vamp|R|N ; -s|s|I||-s (plural)
+vanadate	noun	vanadate|vanadate|R|N
+vanadinite	noun	vanadinite|vanadinite|R|N
+vanadous	adj	vanadous|vanadous|R|Adj
+vandalic	adj	vandal|vandal|R|N ; -ic|ic|S
+vandalistic	adj	vandal|vandal|R|N ; -ist|ist|S ; -ic|ic|S
+vandalization	noun	vandal|vandal|R|N ; -ize|iz|S ; -ation|ation|S
+vandyke	noun	vandyke|vandyke|R
+vanguardism	noun	vanguard|vanguard|R|N ; -ism|ism|S
+vanguardist	noun	vanguard|vanguard|R|N ; -ist|ist|S
+vanillin	noun	vanillin|vanillin|R|N
+vanisher	noun	vanish|vanish|R|V ; -er|er|S||-er (N)
+vanishment	noun	vanish|vanish|R|V ; -ment|ment|S
+vanitory	noun	vanitory|vanitory|R|N
+vanning	noun	van|vann|R|N ; -ing|ing|S||-ing (N)
+vanquishable	adj	vanquish|vanquish|R|V ; -able|able|S
+vanquisher	noun	vanquish|vanquish|R|V ; -er|er|S||-er (N)
+vanquishment	noun	vanquish|vanquish|R|V ; -ment|ment|S
+vanward	adv	van|van|R|N ; -ward|ward|S
+vape	verb	vape|vape|R|V
+vaper	noun	vape|vap|R|V ; -er|er|S||-er (N)
+vapidity	noun	vapid|vapid|R|Adj ; -ity|ity|S
+vapidly	adv	vapid|vapid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+vapidness	noun	vapid|vapid|R|Adj ; -ness|ness|S
+vaping	noun	vape|vap|R|V ; -ing|ing|S||-ing (N)
+vaporable	adj	vapor|vapor|R|N ; -able|able|S
+vaporescence	noun	vaporescence|vaporescence|R|N
+vaporescent	adj	vaporescent|vaporescent|R|Adj
+vaporific	adj	vapor|vapor|R|N ; -ific|ific|S
+vaporimeter	noun	vaporimeter|vaporimeter|R|N
+vaporizable	adj	vapor|vapor|R|N ; -ize|iz|S ; -able|able|S
+vaporosity	noun	vapor|vapor|R|N ; -osity|osity|S
+vaporously	adv	vapor|vapor|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+vaporware	noun	vapor|vapor|R|N ; ware|ware|R|N
+vapourer	noun	vapour|vapour|R|V ; -er|er|S||-er (N)
+vapouring	noun	vapour|vapour|R|V ; -ing|ing|S||-ing (N)
+vapourish	adj	vapour|vapour|R|N ; -ish|ish|S
+vapoury	adj	vapour|vapour|R|N ; -y|y|S
+vaquita	noun	vaquita|vaquita|R|N
+varactor	noun	varactor|varactor|R|N
+varan	noun	varan|varan|R|N
+vardapet	noun	vardapet|vardapet|R|N
+varenye	noun	varenye|varenye|R|N
+varenyky	noun	varenyky|varenyky|R|N
+variableness	noun	vary|vari|R|V ; -able|able|S ; -ness|ness|S
+variadic	adj	variadic|variadic|R|Adj
+variational	adj	vary|vari|R|V ; -ation|ation|S ; -al|al|S
+variator	noun	vary|vari|R|V ; -ator|ator|S
+varicelloid	adj	varicelloid|varicelloid|R|Adj
+varicellous	adj	varicella|varicell|R|N ; -ous|ous|S
+varicocele	noun	varicocele|varicocele|R|N
+varicolored	adj	varicolored|varicolored|R|Adj
+varicosity	noun	varicose|varicos|R|Adj ; -ity|ity|S
+variedly	adv	vary|vari|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+variegate	verb	variegate|variegate|R|V
+variegator	noun	variegate|varieg|R|V ; -or|ator|S
+variform	adj	variform|variform|R|Adj
+variola	noun	variola|variola|R|N
+variolar	adj	variola|variol|R|N ; -ar|ar|S
+variolate	verb	variola|variol|R|N ; -ate|ate|S
+variolation	noun	variola|variol|R|N ; -ation|ation|S
+variole	noun	variole|variole|R|N
+varioloid	adj	varioloid|varioloid|R|Adj
+variometer	noun	variometer|variometer|R|N
+variorum	noun	variorum|variorum|R|N
+variousness	noun	various|various|R|Adj ; -ness|ness|S
+varistor	noun	varistor|varistor|R|N
+varix	noun	varix|varix|R|N
+varlet	noun	varlet|varlet|R|N
+varna	noun	varna|varna|R|N
+varnishing	noun	varnish|varnish|R|V ; -ing|ing|S||-ing (N)
+varyingly	adv	vary|vary|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+vasa	noun	vasa|vasa|R|N
+vasal	adj	vas|vas|R|N ; -al|al|S
+vascularization	noun	vasculum|vascul|R|N ; -ar|ar|S ; -ize|iz|S ; -ation|ation|S
+vasculum	noun	vasculum|vasculum|R|N
+vasectomized	adj	vasectomy|vasectom|R|N ; -ize|ize|S ; -ed|d|S||-ed (adj)
+vasiform	adj	vasiform|vasiform|R|Adj
+vasodepression	noun	vasodepression|vasodepression|R|N
+vasodilatory	adj	vasodilatory|vasodilatory|R|Adj
+vasomotor	adj	vasomotor|vasomotor|R|Adj
+vasopressive	adj	vasopressive|vasopressive|R|Adj
+vasospasm	noun	vasospasm|vasospasm|R|N
+vassalage	noun	vassal|vassal|R|N ; -age|age|S
+vastitude	noun	vastitude|vastitude|R|N
+vastity	noun	vast|vast|R|Adj ; -ity|ity|S
+vat	noun	vat|vat|R|N
+vates	noun	vates|vates|R|N
+vatful	noun	vat|vat|R|N ; -ful|ful|S
+vatic	adj	vatic|vatic|R|Adj
+vatical	adj	vatic|vatic|R|Adj ; -al|al|S
+vaticide	noun	vaticide|vaticide|R|N
+vaticinal	adj	vaticinate|vaticin|R|V ; -al|al|S
+vaticinate	verb	vaticinate|vaticinate|R|V
+vaticination	noun	vaticinate|vaticinat|R|V ; -ion|ion|S
+vaticinator	noun	vaticinate|vaticin|R|V ; -or|ator|S
+vatnik	noun	vatnik|vatnik|R|N
+vatrushka	noun	vatrushka|vatrushka|R|N
+vaudevillist	noun	vaudeville|vaudevill|R|N ; -ist|ist|S
+vaunter	noun	vaunt|vaunt|R|V ; -er|er|S||-er (N)
+vaunting	adj	vaunt|vaunt|R|V ; -ing|ing|S||-ing (adj)
+vauntingly	adv	vaunt|vaunt|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+vav	noun	vav|vav|R|N
+vealer	noun	veal|veal|R|N ; -er|er|S||-er (N)
+vealy	adj	veal|veal|R|N ; -y|y|S
+veche	noun	veche|veche|R|N
+vection	noun	vection|vection|R|N
+vectorial	adj	vector|vector|R|N ; -ial|ial|S
+vectorization	noun	vector|vector|R|N ; -ize|iz|S ; -ation|ation|S
+vectorize	verb	vector|vector|R|N ; -ize|ize|S
+vedette	noun	vedette|vedette|R|N
+vedutista	noun	vedutista|vedutista|R|N
+veering	noun	veer|veer|R|V ; -ing|ing|S||-ing (N)
+veery	noun	veery|veery|R|N
+veganarchism	noun	veganarchism|veganarchism|R|N
+veganism	noun	vegan|vegan|R|N ; -ism|ism|S
+vegetant	adj	vegetant|vegetant|R|Adj
+vegetational	adj	vegetate|vegetat|R|V ; -ion|ion|S ; -al|al|S

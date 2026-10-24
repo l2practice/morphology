@@ -1,0 +1,200 @@
+unlimitedly	adv	un-|un|P ; limit|limit|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unlimitedness	noun	un-|un|P ; limit|limit|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unline	verb	un-|un|P ; line|line|R|V
+unlink	verb	un-|un|P ; link|link|R|V
+unlinked	adj	un-|un|P ; link|link|R|V ; -ed|ed|S||-ed (adj)
+unliquid	adj	un-|un|P ; liquid|liquid|R|Adj
+unliquidated	adj	un-|un|P ; liquidate|liquidat|R|V ; -ed|ed|S||-ed (adj)
+unlistenable	adj	un-|un|P ; listen|listen|R|V ; -able|able|S
+unlistening	adj	un-|un|P ; listen|listen|R|V ; -ing|ing|S||-ing (adj)
+unlive	verb	un-|un|P ; live|live|R|V
+unloader	noun	un-|un|P ; load|load|R|V ; -er|er|S||-er (N)
+unlocalized	adj	un-|un|P ; local|local|R|Adj ; -ize|iz|S ; -ed|ed|S||-ed (adj)
+unlocated	adj	un-|un|P ; locate|locat|R|V ; -ed|ed|S||-ed (adj)
+unlogical	adj	un-|un|P ; logic|logic|R|N ; -al|al|S
+unloose	verb	un-|un|P ; loose|loose|R|V
+unloosen	verb	un-|un|P ; loose|loos|R|Adj ; -en|en|S
+unlopped	adj	un-|un|P ; lop|lopp|R|V ; -ed|ed|S||-ed (adj)
+unlord	verb	un-|un|P ; lord|lord|R|N
+unlosability	noun	un-|un|P ; lose|los|R|V ; -able|abil|S ; -ity|ity|S
+unlosable	adj	un-|un|P ; lose|los|R|V ; -able|able|S
+unlost	adj	un-|un|P ; lost|lost|R|Adj
+unloveliness	noun	un-|un|P ; love|love|R|V ; -ly|li|S||-ly (adj) ; -ness|ness|S
+unloving	adj	un-|un|P ; love|lov|R|V ; -ing|ing|S||-ing (adj)
+unlubricated	adj	un-|un|P ; lubricate|lubricat|R|V ; -ed|ed|S||-ed (adj)
+unluck	noun	un-|un|P ; luck|luck|R|N
+unluckiness	noun	un-|un|P ; luck|luck|R|N ; -y|i|S ; -ness|ness|S
+unlucrative	adj	un-|un|P ; lucrative|lucrative|R|Adj
+unlustrous	adj	un-|un|P ; lustre|lustr|R|N ; -ous|ous|S
+unmachinable	adj	un-|un|P ; machine|machin|R|N ; -able|able|S
+unmagnanimous	adj	un-|un|P ; magnanimous|magnanimous|R|Adj
+unmagnified	adj	un-|un|P ; magnify|magnifi|R|V ; -ed|ed|S||-ed (adj)
+unmaidenly	adj	un-|un|P ; maiden|maiden|R|N ; -ly|ly|S||-ly (adj)
+unmailable	adj	un-|un|P ; mail|mail|R|V ; -able|able|S
+unmailed	adj	un-|un|P ; mail|mail|R|V ; -ed|ed|S||-ed (adj)
+unmaimed	adj	un-|un|P ; maim|maim|R|V ; -ed|ed|S||-ed (adj)
+unmaintainable	adj	un-|un|P ; maintain|maintain|R|V ; -able|able|S
+unmalicious	adj	un-|un|P ; malice|malic|R|N ; -ious|ious|S
+unmalleability	noun	un-|un|P ; malleable|malleabil|R|Adj ; -ity|ity|S
+unmalleable	adj	un-|un|P ; malleable|malleable|R|Adj
+unman	verb	un-|un|P ; man|man|R|N
+unmanageability	noun	un-|un|P ; manage|manage|R|V ; -able|abil|S ; -ity|ity|S
+unmanageableness	noun	un-|un|P ; manage|manage|R|V ; -able|able|S ; -ness|ness|S
+unmanageably	adv	un-|un|P ; manage|manage|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+unmanful	adj	un-|un|P ; man|man|R|N ; -ful|ful|S
+unmanifest	adj	un-|un|P ; manifest|manifest|R|Adj
+unmanipulated	adj	un-|un|P ; manipulate|manipulat|R|V ; -ed|ed|S||-ed (adj)
+unmanlike	adj	un-|un|P ; man|man|R|N ; -like|like|S
+unmanliness	noun	un-|un|P ; man|man|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+unmannered	adj	un-|un|P ; manner|manner|R|N ; -ed|ed|S||-ed (adj)
+unmanneredly	adv	un-|un|P ; manner|manner|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unmannerliness	noun	un-|un|P ; manner|manner|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+unmanning	verb	un-|un|P ; man|mann|R|N ; -ing|ing|I||-ing (v)
+unmantle	verb	un-|un|P ; mantle|mantle|R|N
+unmanufactured	adj	un-|un|P ; manufacture|manufactur|R|V ; -ed|ed|S||-ed (adj)
+unmanured	adj	un-|un|P ; manure|manur|R|N ; -ed|ed|S||-ed (adj)
+unmarriageable	adj	un-|un|P ; marry|marri|R|V ; -age|age|S ; -able|able|S
+unmarriageableness	noun	un-|un|P ; marry|marri|R|V ; -age|age|S ; -able|able|S ; -ness|ness|S
+unmarry	verb	un-|un|P ; marry|marry|R|V
+unmartial	adj	un-|un|P ; martial|martial|R|Adj
+unmasculine	adj	un-|un|P ; masculine|masculine|R|Adj
+unmasked	adj	un-|un|P ; mask|mask|R|V ; -ed|ed|S||-ed (adj)
+unmastered	adj	un-|un|P ; master|master|R|V ; -ed|ed|S||-ed (adj)
+unmasticable	adj	un-|un|P ; masticate|mastic|R|V ; -able|able|S
+unmaterial	adj	un-|un|P ; material|material|R|Adj
+unmaterialistic	adj	un-|un|P ; material|material|R|N ; -ist|ist|S ; -ic|ic|S
+unmathematical	adj	un-|un|P ; mathematical|mathematical|R|Adj
+unmatured	adj	un-|un|P ; mature|matur|R|Adj ; -ed|ed|S||-ed (adj)
+unmeaning	adj	un-|un|P ; mean|mean|R|V ; -ing|ing|S||-ing (adj)
+unmeaningly	adv	un-|un|P ; mean|mean|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unmeant	adj	un-|un|P ; mean|meant|R|V ; -ed||I||-ed (v2)
+unmechanical	adj	un-|un|P ; mechanic|mechanic|R|N ; -al|al|S
+unmechanically	adv	un-|un|P ; mechanic|mechanic|R|N ; -al|al|S ; -ly|ly|I||-ly (adv)
+unmeditated	adj	un-|un|P ; meditate|meditat|R|V ; -ed|ed|S||-ed (adj)
+unmeet	adj	un-|un|P ; meet|meet|R|Adj
+unmellow	adj	un-|un|P ; mellow|mellow|R|Adj
+unmelodious	adj	un-|un|P ; melody|melodi|R|N ; -ous|ous|S
+unmelodiousness	noun	un-|un|P ; melody|melodi|R|N ; -ous|ous|S ; -ness|ness|S
+unmelted	adj	un-|un|P ; melt|melt|R|V ; -ed|ed|S||-ed (adj)
+unmemorably	adv	un-|un|P ; memory|memor|R|N ; -able|abl|S ; -ly|y|I||-ly (adv)
+unmemorized	adj	un-|un|P ; memorize|memoriz|R|V ; -ed|ed|S||-ed (adj)
+unmendable	adj	un-|un|P ; mend|mend|R|V ; -able|able|S
+unmentionableness	noun	un-|un|P ; mention|mention|R|V ; -able|able|S ; -ness|ness|S
+unmentionably	adv	un-|un|P ; mention|mention|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+unmercenary	adj	un-|un|P ; mercenary|mercenary|R|Adj
+unmerchantable	adj	un-|un|P ; merchant|merchant|R|N ; -able|able|S
+unmercifulness	noun	un-|un|P ; mercy|merci|R|N ; -ful|ful|S ; -ness|ness|S
+unmergeable	adj	un-|un|P ; merge|merge|R|V ; -able|able|S
+unmeritorious	adj	un-|un|P ; meritorious|meritorious|R|Adj
+unmetalled	adj	un-|un|P ; metal|metall|R|N ; -ed|ed|S||-ed (adj)
+unmetamorphosed	adj	un-|un|P ; metamorphose|metamorphos|R|V ; -ed|ed|S||-ed (adj)
+unmethodical	adj	un-|un|P ; method|method|R|N ; -ical|ical|S
+unmetrical	adj	un-|un|P ; metric|metric|R|Adj ; -al|al|S
+unmilitary	adj	un-|un|P ; military|military|R|Adj
+unmilled	adj	un-|un|P ; mill|mill|R|V ; -ed|ed|S||-ed (adj)
+unmindfully	adv	un-|un|P ; mind|mind|R|N ; -ful|ful|S ; -ly|ly|I||-ly (adv)
+unmindfulness	noun	un-|un|P ; mind|mind|R|N ; -ful|ful|S ; -ness|ness|S
+unmined	adj	un-|un|P ; mine|min|R|V ; -ed|ed|S||-ed (adj)
+unmingled	adj	un-|un|P ; mingle|mingl|R|V ; -ed|ed|S||-ed (adj)
+unminted	adj	un-|un|P ; mint|mint|R|V ; -ed|ed|S||-ed (adj)
+unmirthful	adj	un-|un|P ; mirth|mirth|R|N ; -ful|ful|S
+unmisgiving	noun	un-|un|P ; mis-|mis|P ; give|giv|R|V ; -ing|ing|S||-ing (N)
+unmissed	adj	un-|un|P ; miss|miss|R|V ; -ed|ed|S||-ed (adj)
+unmistakableness	noun	un-|un|P ; mistake|mistak|R|V ; -able|able|S ; -ness|ness|S
+unmistrusting	adj	un-|un|P ; mis-|mis|P ; trust|trust|R|V ; -ing|ing|S||-ing (adj)
+unmitigatedly	adv	un-|un|P ; mitigate|mitigat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unmitigatedness	noun	un-|un|P ; mitigate|mitigat|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unmixedly	adv	un-|un|P ; mix|mix|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unmixing	verb	un-|un|P ; mix|mix|R|V ; -ing|ing|I||-ing (v)
+unmodern	adj	un-|un|P ; modern|modern|R|Adj
+unmodernized	adj	un-|un|P ; modern|modern|R|Adj ; -ize|iz|S ; -ed|ed|S||-ed (adj)
+unmodifiable	adj	un-|un|P ; modify|modifi|R|V ; -able|able|S
+unmodish	adj	un-|un|P ; mode|mod|R|N ; -ish|ish|S
+unmoistened	adj	un-|un|P ; moist|moist|R|Adj ; -en|en|S ; -ed|ed|S||-ed (adj)
+unmoneyed	adj	un-|un|P ; money|money|R|N ; -ed|ed|S||-ed (adj)
+unmoor	verb	un-|un|P ; moor|moor|R|V
+unmoral	adj	un-|un|P ; moral|moral|R|Adj
+unmorality	noun	un-|un|P ; moral|moral|R|Adj ; -ity|ity|S
+unmorally	adv	un-|un|P ; moral|moral|R|Adj ; -ly|ly|I||-ly (adv)
+unmortared	adj	un-|un|P ; mortar|mortar|R|N ; -ed|ed|S||-ed (adj)
+unmortgaged	adj	un-|un|P ; mortgage|mortgag|R|V ; -ed|ed|S||-ed (adj)
+unmortified	adj	un-|un|P ; mortify|mortifi|R|V ; -ed|ed|S||-ed (adj)
+unmotherly	adj	un-|un|P ; mother|mother|R|N ; -ly|ly|S||-ly (adj)
+unmould	verb	un-|un|P ; mould|mould|R|V
+unmount	verb	un-|un|P ; mount|mount|R|V
+unmoveable	adj	un-|un|P ; move|move|R|V ; -able|able|S
+unmown	adj	un-|un|P ; mow|mown|R|V ; -en||I||-en (participle)
+unmuffle	verb	un-|un|P ; muffle|muffle|R|V
+unmultipliable	adj	un-|un|P ; multiply|multipli|R|V ; -able|able|S
+unmurmuring	adj	un-|un|P ; murmur|murmur|R|V ; -ing|ing|S||-ing (adj)
+unmurmuringly	adv	un-|un|P ; murmur|murmur|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unmusicality	noun	un-|un|P ; music|music|R|N ; -al|al|S ; -ity|ity|S
+unmusically	adv	un-|un|P ; music|music|R|N ; -al|al|S ; -ly|ly|I||-ly (adv)
+unmusicalness	noun	un-|un|P ; music|music|R|N ; -al|al|S ; -ness|ness|S
+unmute	verb	un-|un|P ; mute|mute|R|V
+unmutilated	adj	un-|un|P ; mutilate|mutilat|R|V ; -ed|ed|S||-ed (adj)
+unmuzzle	verb	un-|un|P ; muzzle|muzzle|R|N
+unmysterious	adj	un-|un|P ; mystery|mysteri|R|N ; -ious|ous|S
+unnail	verb	un-|un|P ; nail|nail|R|V
+unnational	adj	un-|un|P ; nation|nation|R|N ; -al|al|S
+unnaturalize	verb	un-|un|P ; nature|natur|R|N ; -al|al|S ; -ize|ize|S
+unnaturalized	adj	un-|un|P ; nature|natur|R|N ; -al|al|S ; -ize|iz|S ; -ed|ed|S||-ed (adj)
+unnaturalness	noun	un-|un|P ; nature|natur|R|N ; -al|al|S ; -ness|ness|S
+unnavigable	adj	un-|un|P ; navigate|navig|R|V ; -able|able|S
+unnecessaries	noun	un-|un|P ; necessary|necessari|R|Adj ; -s|es|I||-s (plural)
+unnecessariness	noun	un-|un|P ; necessary|necessari|R|Adj ; -ness|ness|S
+unneedful	adj	un-|un|P ; need|need|R|V ; -ful|ful|S
+unnegotiable	adj	un-|un|P ; negotiate|negoti|R|V ; -able|able|S
+unneighbourliness	noun	un-|un|P ; neighbour|neighbour|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+unneighbourly	adj	un-|un|P ; neighbour|neighbour|R|N ; -ly|ly|S||-ly (adj)
+unnerved	adj	un-|un|P ; nerve|nerv|R|N ; -ed|ed|S||-ed (adj)
+unnest	verb	un-|un|P ; nest|nest|R|V
+unnie	noun	unnie|unnie|R|N
+unnoisy	adj	un-|un|P ; noise|nois|R|N ; -y|y|S
+unnoted	adj	un-|un|P ; note|not|R|V ; -ed|ed|S||-ed (adj)
+unnoteworthy	adj	un-|un|P ; note|note|R|V ; worthy|worthy|R|Adj
+unnoticeably	adv	un-|un|P ; notice|notice|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+unnotified	adj	un-|un|P ; notify|notifi|R|V ; -ed|ed|S||-ed (adj)
+unnourished	adj	un-|un|P ; nourish|nourish|R|V ; -ed|ed|S||-ed (adj)
+unnourishing	adj	un-|un|P ; nourish|nourish|R|V ; -ing|ing|S||-ing (adj)
+unnurtured	adj	un-|un|P ; nurture|nurtur|R|V ; -ed|ed|S||-ed (adj)
+unobeyed	adj	un-|un|P ; obey|obey|R|V ; -ed|ed|S||-ed (adj)
+unobjected	adj	un-|un|P ; object|object|R|V ; -ed|ed|S||-ed (adj)
+unobjective	adj	un-|un|P ; object|object|R|N ; -ive|ive|S
+unobliging	adj	un-|un|P ; oblige|oblig|R|V ; -ing|ing|S||-ing (adj)
+unobliterated	adj	un-|un|P ; obliterate|obliterat|R|V ; -ed|ed|S||-ed (adj)
+unobnoxious	adj	un-|un|P ; obnoxious|obnoxious|R|Adj
+unobscured	adj	un-|un|P ; obscure|obscur|R|V ; -ed|ed|S||-ed (adj)
+unobservance	noun	un-|un|P ; observe|observ|R|V ; -ance|ance|S
+unobserving	adj	un-|un|P ; observe|observ|R|V ; -ing|ing|S||-ing (adj)
+unobtained	adj	un-|un|P ; obtain|obtain|R|V ; -ed|ed|S||-ed (adj)
+unobtainium	noun	unobtainium|unobtainium|R|N
+unobtruding	adj	un-|un|P ; obtrude|obtrud|R|V ; -ing|ing|S||-ing (adj)
+unobtrusiveness	noun	un-|un|P ; obtrude|obtrus|R|V ; -ive|ive|S ; -ness|ness|S
+unobvious	adj	un-|un|P ; obvious|obvious|R|Adj
+unoffended	adj	un-|un|P ; offend|offend|R|V ; -ed|ed|S||-ed (adj)
+unoffending	adj	un-|un|P ; offend|offend|R|V ; -ing|ing|S||-ing (adj)
+unoffensive	adj	un-|un|P ; offensive|offensive|R|Adj
+unoffered	adj	un-|un|P ; offer|offer|R|V ; -ed|ed|S||-ed (adj)
+unofficered	adj	un-|un|P ; officer|officer|R|N ; -ed|ed|S||-ed (adj)
+unofficinal	adj	un-|un|P ; officinal|officinal|R|Adj
+unofficious	adj	un-|un|P ; officious|officious|R|Adj
+unoften	adv	un-|un|P ; often|often|R|Adv
+unoptional	adj	un-|un|P ; option|option|R|N ; -al|al|S
+unordained	adj	un-|un|P ; ordain|ordain|R|V ; -ed|ed|S||-ed (adj)
+unordinary	adj	un-|un|P ; ordinary|ordinary|R|Adj
+unorganised	adj	un-|un|P ; organise|organis|R|V ; -ed|ed|S||-ed (adj)
+unorganizable	adj	un-|un|P ; organize|organiz|R|V ; -able|able|S
+unorganizedness	noun	un-|un|P ; organize|organiz|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unoriginate	adj	un-|un|P ; origin|origin|R|N ; -ate|ate|S
+unornamental	adj	un-|un|P ; ornament|ornament|R|N ; -al|al|S
+unornamented	adj	un-|un|P ; ornament|ornament|R|N ; -ed|ed|S||-ed (adj)
+unorthodoxly	adv	un-|un|P ; orthodox|orthodox|R|Adj ; -ly|ly|I||-ly (adv)
+unostentatious	adj	un-|un|P ; ostentatious|ostentatious|R|Adj
+unostentatiously	adv	un-|un|P ; ostentatious|ostentatious|R|Adj ; -ly|ly|I||-ly (adv)
+unostentatiousness	noun	un-|un|P ; ostentatious|ostentatious|R|Adj ; -ness|ness|S
+unoverthrown	adj	un-|un|P ; over-|over|P ; throw|thrown|R|V ; -en||I||-en (participle)
+unowned	adj	un-|un|P ; own|own|R|V ; -ed|ed|S||-ed (adj)
+unoxygenated	adj	un-|un|P ; oxygen|oxygen|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+unpacific	adj	un-|un|P ; pacific|pacific|R|Adj
+unpacified	adj	un-|un|P ; pacify|pacifi|R|V ; -ed|ed|S||-ed (adj)

@@ -1,0 +1,200 @@
+chauvinistically	adv	chauvinistic|chauvinistic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+chav	noun	chav|chav|R|N
+chavette	noun	chav|chav|R|N ; -ette|ette|S
+cheapener	noun	cheapen|cheapen|R|V ; -er|er|S||-er (N)
+cheapish	adj	cheap|cheap|R|Adj ; -ish|ish|S
+cheapjack	noun	cheap|cheap|R|Adj ; jack|jack|R|N
+cheatable	adj	cheat|cheat|R|V ; -able|able|S
+cheatgrass	noun	cheat|cheat|R|V ; grass|grass|R|N
+cheatingly	adv	cheat|cheat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+chebureki	noun	chebureki|chebureki|R|N
+checkbox	noun	check|check|R|V ; box|box|R|N
+checkers	noun	check|check|R|V ; -er|er|S||-er (N) ; -s|s|I||-s (plural)
+checkmated	verb	checkmate|checkmat|R|V ; -ed|ed|I||-ed (v2)
+checkroom	noun	check|check|R|V ; room|room|R|N
+checkrow	noun	check|check|R|V ; row|row|R|N
+checksum	noun	check|check|R|V ; sum|sum|R|N
+cheder	noun	cheder|cheder|R|N
+chedi	noun	chedi|chedi|R|N
+cheechako	noun	cheechako|cheechako|R|N
+cheeked	adj	cheek|cheek|R|N ; -ed|ed|S||-ed (adj)
+cheekiness	noun	cheeky|cheeki|R|Adj ; -ness|ness|S
+cheeks	noun	cheek|cheek|R|N ; -s|s|I||-s (plural)
+cheeper	noun	cheep|cheep|R|V ; -er|er|S||-er (N)
+cheeping	verb	cheep|cheep|R|V ; -ing|ing|I||-ing (v)
+cheeringly	adv	cheer|cheer|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+cheerlessly	adv	cheer|cheer|R|V ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+cheerlessness	noun	cheer|cheer|R|V ; -less|less|S ; -ness|ness|S
+cheesed	verb	cheese|chees|R|V ; -ed|ed|I||-ed (v2)
+cheeselet	noun	cheese|cheese|R|N ; -let|let|S
+cheesemaking	noun	cheese|cheese|R|N ; make|mak|R|V ; -ing|ing|S||-ing (N)
+cheesemonger	noun	cheese|cheese|R|N ; monger|monger|R|N
+cheeseparing	noun	cheese|cheese|R|N ; pare|par|R|V ; -ing|ing|S||-ing (N)
+cheeser	noun	cheese|chees|R|N ; -er|er|S||-er (N)
+cheeses	noun	cheese|cheese|R|N ; -s|s|I||-s (plural)
+cheesiness	noun	cheesy|cheesi|R|Adj ; -ness|ness|S
+chela	noun	chela|chela|R|N
+chelate	verb	chelate|chelate|R|V
+chelicera	noun	chelicera|chelicera|R|N
+chelicerate	adj	chelicerate|chelicerate|R|Adj
+chelonian	noun	chelonian|chelonian|R|N
+chemicals	noun	chemical|chemical|R|Adj ; -s|s|I||-s (plural)
+chemisette	noun	chemisette|chemisette|R|N
+chemoautotrophy	noun	chemoautotrophy|chemoautotrophy|R|N
+chemokine	noun	chemokine|chemokine|R|N
+chemoprophylactic	adj	chemoprophylactic|chemoprophylactic|R|Adj
+chemoprophylaxis	noun	chemoprophylaxis|chemoprophylaxis|R|N
+chemoreceptor	noun	chemoreceptor|chemoreceptor|R|N
+chemosphere	noun	chemosphere|chemosphere|R|N
+chemosynthesis	noun	chemosynthesis|chemosynthesis|R|N
+chemosynthetic	adj	chemosynthetic|chemosynthetic|R|Adj
+chemotactic	adj	chemotactic|chemotactic|R|Adj
+chemotaxis	noun	chemotaxis|chemotaxis|R|N
+chemotherapeutically	adv	chemotherapeutic|chemotherapeutic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+chemotherapist	noun	chemotherapy|chemotherap|R|N ; -ist|ist|S
+chemotropic	adj	chemotropic|chemotropic|R|Adj
+chemotropism	noun	chemotropism|chemotropism|R|N
+chempedak	noun	chempedak|chempedak|R|N
+chemsex	noun	chem|chem|R|N ; sex|sex|R|N
+chemtrail	noun	chem|chem|R|N ; trail|trail|R|N
+chengyu	noun	chengyu|chengyu|R|N
+chenopodiaceous	adj	chenopodiaceous|chenopodiaceous|R|Adj
+cheongsam	noun	cheongsam|cheongsam|R|N
+chequering	verb	chequer|chequer|R|V ; -ing|ing|I||-ing (v)
+chequy	adj	chequy|chequy|R|Adj
+chereme	noun	chereme|chereme|R|N
+cherishable	adj	cherish|cherish|R|V ; -able|able|S
+cherisher	noun	cherish|cherish|R|V ; -er|er|S||-er (N)
+cherishing	verb	cherish|cherish|R|V ; -ing|ing|I||-ing (v)
+cherishingly	adv	cherish|cherish|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+chernozem	noun	chernozem|chernozem|R|N
+cherries	noun	cherry|cherri|R|N ; -es|es|I||-s (plural)
+chersonese	noun	chersonese|chersonese|R|N
+cherubically	adv	cherubic|cherubic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+cherubim	noun	cherubim|cherubim|R|N
+cherublike	adj	cherub|cherub|R|N ; -like|like|S
+chervonets	noun	chervonets|chervonets|R|N
+chessel	noun	chessel|chessel|R|N
+chessman	noun	chess|chess|R|N ; man|man|R|N
+chestily	adv	chesty|chesti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+chestiness	noun	chesty|chesti|R|Adj ; -ness|ness|S
+chevda	noun	chevda|chevda|R|N
+cheviot	noun	cheviot|cheviot|R|N
+chevrotain	noun	chevrotain|chevrotain|R|N
+chewiness	noun	chewy|chewi|R|Adj ; -ness|ness|S
+chia	noun	chia|chia|R|N
+chiaroscurist	noun	chiaroscuro|chiaroscur|R|N ; -ist|ist|S
+chiasma	noun	chiasma|chiasma|R|N
+chiasmal	adj	chiasma|chiasm|R|N ; -al|al|S
+chiasmatic	adj	chiasmatic|chiasmatic|R|Adj
+chiasmic	adj	chiasm|chiasm|R|N ; -ic|ic|S
+chibi	noun	chibi|chibi|R|N
+chibouk	noun	chibouk|chibouk|R|N
+chickabiddy	noun	chickabiddy|chickabiddy|R|N
+chickenhawk	noun	chicken|chicken|R|N ; hawk|hawk|R|N
+chickenyard	noun	chicken|chicken|R|N ; yard|yard|R|N
+chickling	noun	chick|chick|R|N ; -ling|ling|S
+chicly	adv	chic|chic|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+chicness	noun	chic|chic|R|Adj ; -ness|ness|S
+chidden	verb	chide|chid|R|V ; -en|den|I||-en (participle)
+chider	noun	chide|chid|R|V ; -er|er|S||-er (N)
+chiding	verb	chide|chid|R|V ; -ing|ing|I||-ing (v)
+chidingly	adv	chide|chid|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+chiefless	adj	chief|chief|R|N ; -less|less|S
+chiefship	noun	chief|chief|R|N ; -ship|ship|S
+chiffchaff	noun	chiffchaff|chiffchaff|R|N
+chigoe	noun	chigoe|chigoe|R|N
+chii	noun	chii|chii|R|N
+chikungunya	noun	chikungunya|chikungunya|R|N
+childly	adj	child|child|R|N ; -ly|ly|S||-ly (adj)
+childminding	noun	child|child|R|N ; mind|mind|R|V ; -ing|ing|S||-ing (N)
+childrenswear	noun	childrenswear|childrenswear|R|N
+chiliad	noun	chiliad|chiliad|R|N
+chiliagon	noun	chiliagon|chiliagon|R|N
+chiliahedron	noun	chiliahedron|chiliahedron|R|N
+chiliarch	noun	chiliarch|chiliarch|R|N
+chiliasm	noun	chiliasm|chiliasm|R|N
+chillax	verb	chillax|chillax|R|V
+chillily	adv	chilly|chilli|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+chilliness	noun	chilly|chilli|R|Adj ; -ness|ness|S
+chillness	noun	chill|chill|R|Adj ; -ness|ness|S
+chills	noun	chill|chill|R|N ; -s|s|I||-s (plural)
+chilver	noun	chilver|chilver|R|N
+chimaera	noun	chimaera|chimaera|R|N
+chimere	noun	chimere|chimere|R|N
+chimerically	adv	chimerical|chimerical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+chimichanga	noun	chimichanga|chimichanga|R|N
+china	noun	china|china|R|N
+chinaman	noun	china|china|R|N ; man|man|R|N
+chinch	noun	chinch|chinch|R|N
+chinking	verb	chink|chink|R|V ; -ing|ing|I||-ing (v)
+chinks	noun	chink|chink|R|N ; -s|s|I||-s (plural)
+chinois	noun	chinois|chinois|R|N
+chinook	noun	chinook|chinook|R|N
+chinrest	noun	chin|chin|R|N ; rest|rest|R|N
+chipolata	noun	chipolata|chipolata|R|N
+chippiness	noun	chippy|chippi|R|Adj ; -ness|ness|S
+chips	noun	chip|chip|R|N ; -s|s|I||-s (plural)
+chiptune	noun	chip|chip|R|N ; tune|tune|R|N
+chirograph	noun	chirograph|chirograph|R|N
+chirographic	adj	chirograph|chirograph|R|N ; -ic|ic|S
+chirographist	noun	chirograph|chirograph|R|N ; -ist|ist|S
+chirography	noun	chirograph|chirograph|R|N ; -y|y|S
+chiromancer	noun	chiromancy|chiromanc|R|N ; -er|er|S||-er (N)
+chiromancy	noun	chiromancy|chiromancy|R|N
+chiropter	noun	chiropter|chiropter|R|N
+chiropterologist	noun	chiropterologist|chiropterologist|R|N
+chirpiness	noun	chirpy|chirpi|R|Adj ; -ness|ness|S
+chirr	verb	chirr|chirr|R|V
+chirrup	verb	chirrup|chirrup|R|V
+chirruper	noun	chirrup|chirrup|R|V ; -er|er|S||-er (N)
+chirruping	verb	chirrup|chirrup|R|V ; -ing|ing|I||-ing (v)
+chiseler	noun	chisel|chisel|R|V ; -er|er|S||-er (N)
+chital	noun	chital|chital|R|N
+chitinized	verb	chitin|chitin|R|N ; -ize|iz|S ; -ed|ed|I||-ed (v2)
+chitinozoan	noun	chitinozoan|chitinozoan|R|N
+chiton	noun	chiton|chiton|R|N
+chitosan	noun	chitosan|chitosan|R|N
+chitterling	noun	chitterling|chitterling|R|N
+chitterlings	noun	chitterling|chitterling|R|N ; -s|s|I||-s (plural)
+chivalrously	adv	chivalrous|chivalrous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+chivalrousness	noun	chivalrous|chivalrous|R|Adj ; -ness|ness|S
+chivvying	verb	chivvy|chivvy|R|V ; -ing|ing|I||-ing (v)
+chlamys	noun	chlamys|chlamys|R|N
+chloralose	noun	chloralose|chloralose|R|N
+chlorargyrite	noun	chlorargyrite|chlorargyrite|R|N
+chlorate	noun	chlorate|chlorate|R|N
+chlorella	noun	chlorella|chlorella|R|N
+chloremia	noun	chloremia|chloremia|R|N
+chlorenchyma	noun	chlorenchyma|chlorenchyma|R|N
+chlorhexidine	noun	chlorhexidine|chlorhexidine|R|N
+chloric	adj	chloric|chloric|R|Adj
+chloridic	adj	chloridic|chloridic|R|Adj
+chlorinator	noun	chlorinate|chlorinat|R|V ; -or|or|S
+chloroforming	verb	chloroform|chloroform|R|V ; -ing|ing|I||-ing (v)
+chloromethane	noun	chloromethane|chloromethane|R|N
+chloromycetin	noun	chloromycetin|chloromycetin|R|N
+chlorophyllic	adj	chlorophyll|chlorophyll|R|N ; -ic|ic|S
+chloropicrin	noun	chloropicrin|chloropicrin|R|N
+chloroprene	noun	chloroprene|chloroprene|R|N
+chlorosis	noun	chlorosis|chlorosis|R|N
+chlorotic	adj	chlorotic|chlorotic|R|Adj
+chlorotically	adv	chlorotic|chlorotic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+chlorous	adj	chlorous|chlorous|R|Adj
+chlorpromazine	noun	chlorpromazine|chlorpromazine|R|N
+choana	noun	choana|choana|R|N
+choanocyte	noun	choanocyte|choanocyte|R|N
+choanoflagellate	noun	choanoflagellate|choanoflagellate|R|N
+chogyal	noun	chogyal|chogyal|R|N
+choiceness	noun	choice|choice|R|N ; -ness|ness|S
+chokeberry	noun	choke|choke|R|V ; berry|berry|R|N
+chokra	noun	chokra|chokra|R|N
+cholangiocarcinoma	noun	cholangiocarcinoma|cholangiocarcinoma|R|N
+cholangiography	noun	cholangiography|cholangiography|R|N
+cholecalciferol	noun	cholecalciferol|cholecalciferol|R|N
+cholecystitis	noun	cholecystitis|cholecystitis|R|N
+cholelithiasis	noun	cholelithiasis|cholelithiasis|R|N
+cholent	noun	cholent|cholent|R|N
+choler	noun	choler|choler|R|N
+choleraic	adj	cholera|cholera|R|N ; -ic|ic|S
+cholerically	adv	choleric|choleric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)

@@ -1,0 +1,200 @@
+subtilization	noun	subtilize|subtiliz|R|V ; -ation|ation|S
+subtilize	verb	subtilize|subtilize|R|V
+subtitler	noun	sub-|sub|P ; title|titl|R|N ; -er|er|S||-er (N)
+subtitling	noun	sub-|sub|P ; title|titl|R|N ; -ing|ing|S||-ing (N)
+subtleness	noun	subtle|subtle|R|Adj ; -ness|ness|S
+subtopia	noun	subtopia|subtopia|R|N
+subtopian	adj	subtopia|subtopi|R|N ; -an|an|S
+subtorrid	adj	sub-|sub|P ; torrid|torrid|R|Adj
+subtotally	adv	sub-|sub|P ; total|total|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+subtracter	noun	subtract|subtract|R|V ; -er|er|S||-er (N)
+subtracting	verb	subtract|subtract|R|V ; -ing|ing|I||-ing (v)
+subtrahend	noun	subtrahend|subtrahend|R|N
+subtranslucent	adj	sub-|sub|P ; translucent|translucent|R|Adj
+subtransparent	adj	sub-|sub|P ; transparent|transparent|R|Adj
+subtreasury	noun	sub-|sub|P ; treasury|treasury|R|N
+subtree	noun	sub-|sub|P ; tree|tree|R|N
+subtriangle	noun	sub-|sub|P ; triangle|triangle|R|N
+subtriangular	adj	sub-|sub|P ; triangular|triangular|R|Adj
+subtribe	noun	sub-|sub|P ; tribe|tribe|R|N
+subtypical	adj	sub-|sub|P ; typical|typical|R|Adj
+subulate	adj	subulate|subulate|R|Adj
+subuliform	adj	subuliform|subuliform|R|Adj
+subumbrella	noun	sub-|sub|P ; umbrella|umbrella|R|N
+subungual	adj	sub-|sub|P ; ungual|ungual|R|Adj
+suburbanism	noun	suburb|suburb|R|N ; -an|an|S ; -ism|ism|S
+suburbanize	verb	suburb|suburb|R|N ; -an|an|S ; -ize|ize|S
+subvalue	noun	sub-|sub|P ; value|value|R|N
+subvariety	noun	sub-|sub|P ; variety|variety|R|N
+subvene	verb	subvene|subvene|R|V
+subventionary	adj	subvene|subven|R|V ; -tion|tion|S ; -ary|ary|S
+subventral	adj	sub-|sub|P ; ventral|ventral|R|Adj
+subventricular	adj	sub-|sub|P ; ventricular|ventricular|R|Adj
+subversionary	adj	subvert|subvers|R|V ; -ion|ion|S ; -ary|ary|S
+subversiveness	noun	subvert|subvers|R|V ; -ive|ive|S ; -ness|ness|S
+subvertebral	adj	sub-|sub|P ; vertebral|vertebral|R|Adj
+subvertical	adj	sub-|sub|P ; vertical|vertical|R|Adj
+subvital	adj	sub-|sub|P ; vital|vital|R|Adj
+subzero	adj	sub-|sub|P ; zero|zero|R|N
+succade	noun	succade|succade|R|N
+succedaneous	adj	succedaneous|succedaneous|R|Adj
+succedaneum	noun	succedaneum|succedaneum|R|N
+succentor	noun	succentor|succentor|R|N
+successfulness	noun	success|success|R|N ; -ful|ful|S ; -ness|ness|S
+successionally	adv	success|success|R|N ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+successiveness	noun	success|success|R|N ; -ive|ive|S ; -ness|ness|S
+succinate	noun	succinate|succinate|R|N
+succinctness	noun	succinct|succinct|R|Adj ; -ness|ness|S
+succinic	adj	succinic|succinic|R|Adj
+succinite	noun	succinite|succinite|R|N
+succory	noun	succory|succory|R|N
+succose	noun	succose|succose|R|N
+succuba	noun	succuba|succuba|R|N
+succursal	adj	succursal|succursal|R|Adj
+suchness	noun	such|such|R ; -ness|ness|S
+suckered	verb	suck|suck|R|V ; -er|er|S||-er (N) ; -ed|ed|I||-ed (v2)
+suckfish	noun	suck|suck|R|V ; fish|fish|R|N
+sucrase	noun	sucrase|sucrase|R|N
+suctorial	adj	suctorial|suctorial|R|Adj
+sudatorium	noun	sudatorium|sudatorium|R|N
+sudatory	adj	sudatory|sudatory|R|Adj
+sudd	noun	sudd|sudd|R|N
+sudoku	noun	sudoku|sudoku|R|N
+sudoriferous	adj	sudoriferous|sudoriferous|R|Adj
+sudorific	adj	sudorific|sudorific|R|Adj
+sudra	noun	sudra|sudra|R|N
+suds	noun	suds|suds|R|N
+suety	adj	suet|suet|R|N ; -y|y|S
+suffete	noun	suffete|suffete|R|N
+suffixal	adj	suffix|suffix|R|N ; -al|al|S
+suffixation	noun	suffix|suffix|R|V ; -ation|ation|S
+suffixed	verb	suffix|suffix|R|V ; -ed|ed|I||-ed (v2)
+suffixing	verb	suffix|suffix|R|V ; -ing|ing|I||-ing (v)
+suffixoid	adj	suffixoid|suffixoid|R|Adj
+suffocated	verb	suffocate|suffocate|R|V ; -ed|d|I||-ed (v2)
+suffocatingly	adv	suffocate|suffocat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+suffocative	adj	suffocate|suffocat|R|V ; -ive|ive|S
+suffraganship	noun	suffragan|suffragan|R|N ; -ship|ship|S
+suffrutescent	adj	suffrutescent|suffrutescent|R|Adj
+suffruticose	adj	suffruticose|suffruticose|R|Adj
+suffumigation	noun	suf-|suf|P|||sub- ; fumigation|fumigation|R|N
+suffusion	noun	suf-|suf|P|||sub- ; fusion|fusion|R|N
+suffusive	adj	suffusive|suffusive|R|Adj
+sufganiyah	noun	sufganiyah|sufganiyah|R|N
+sugarcoat	verb	sugar|sugar|R|N ; coat|coat|R|V
+sugarer	noun	sugar|sugar|R|N ; -er|er|S||-er (N)
+sugariness	noun	sugar|sugar|R|N ; -y|i|S ; -ness|ness|S
+sugaring	noun	sugar|sugar|R|N ; -ing|ing|S||-ing (N)
+suggester	noun	suggest|suggest|R|V ; -er|er|S||-er (N)
+suggesting	verb	suggest|suggest|R|V ; -ing|ing|I||-ing (v)
+suggillation	noun	suggillation|suggillation|R|N
+suhur	noun	suhur|suhur|R|N
+sui	noun	sui|sui|R|N
+suicidality	noun	suicide|suicid|R|N ; -al|al|S ; -ity|ity|S
+suilline	adj	suilline|suilline|R|Adj
+suing	verb	sue|su|R|V ; -ing|ing|I||-ing (v)
+suint	noun	suint|suint|R|N
+suitableness	noun	suit|suit|R|V ; -able|able|S ; -ness|ness|S
+suitress	noun	suitress|suitress|R|N
+sujuk	noun	sujuk|sujuk|R|N
+sukiyaki	noun	sukiyaki|sukiyaki|R|N
+sukun	noun	sukun|sukun|R|N
+sulcate	adj	sulcate|sulcate|R|Adj
+sulcated	adj	sulcate|sulcate|R|Adj ; -ed|d|S||-ed (adj)
+sulcation	noun	sulcate|sulcat|R|V ; -ion|ion|S
+sulfasalazine	noun	sulfasalazine|sulfasalazine|R|N
+sulfhydryl	noun	sulfhydryl|sulfhydryl|R|N
+sulfonamide	noun	sulfonamide|sulfonamide|R|N
+sulfone	noun	sulfone|sulfone|R|N
+sulfonyl	noun	sulfonyl|sulfonyl|R|N
+sulfurate	verb	sulfur|sulfur|R|N ; -ate|ate|S
+sulfured	verb	sulfur|sulfur|R|V ; -ed|ed|I||-ed (v2)
+sulfuring	verb	sulfur|sulfur|R|V ; -ing|ing|I||-ing (v)
+sulfurize	verb	sulfur|sulfur|R|N ; -ize|ize|S
+sulguni	noun	sulguni|sulguni|R|N
+sulkiness	noun	sulk|sulk|R|V ; -y|i|S ; -ness|ness|S
+sullage	noun	sullage|sullage|R|N
+sullying	verb	sully|sully|R|V ; -ing|ing|I||-ing (v)
+sulpha	noun	sulpha|sulpha|R|N
+sulphadiazine	noun	sulphadiazine|sulphadiazine|R|N
+sulphurator	noun	sulphur|sulphur|R|N ; -or|ator|S
+sultaness	noun	sultan|sultan|R|N ; -ess|ess|S
+sultanic	adj	sultan|sultan|R|N ; -ic|ic|S
+sultrily	adv	sultry|sultr|R|Adj ; -ly|ily|I|Adv|-ly (adv)
+sultriness	noun	sultry|sultr|R|Adj ; -ness|iness|S
+sulu	noun	sulu|sulu|R|N
+sumbala	noun	sumbala|sumbala|R|N
+summability	noun	sum|summ|R|V ; -able|abil|S ; -ity|ity|S
+summable	adj	sum|summ|R|V ; -able|able|S
+summand	noun	summand|summand|R|N
+summarist	noun	summary|summari|R|N ; -ist|st|S
+summate	verb	sum|summ|R|V ; -ate|ate|S
+summator	noun	sum|summ|R|V ; -ate|at|S ; -or|or|S
+summering	verb	summer|summer|R|V ; -ing|ing|I||-ing (v)
+summerless	adj	summer|summer|R|N ; -less|less|S
+summerlike	adj	summer|summer|R|N ; -like|like|S
+summerly	adj	summer|summer|R|N ; -ly|ly|S||-ly (adj)
+summers	noun	summer|summer|R|N ; -s|s|I||-s (plural)
+summitless	adj	summit|summit|R|N ; -less|less|S
+summoner	noun	summon|summon|R|V ; -er|er|S||-er (N)
+sumph	noun	sumph|sumph|R|N
+sumption	noun	sumption|sumption|R|N
+sumptuousness	noun	sumptuous|sumptuous|R|Adj ; -ness|ness|S
+sunbath	noun	sun|sun|R|N ; bath|bath|R|N
+sunbittern	noun	sun|sun|R|N ; bittern|bittern|R|N
+suncatcher	noun	sun|sun|R|N ; catch|catch|R|V ; -er|er|S||-er (N)
+sunderance	noun	sunder|sunder|R|V ; -ance|ance|S
+sundering	verb	sunder|sunder|R|V ; -ing|ing|I||-ing (v)
+sundowner	noun	sun|sun|R|N ; down|down|R|Adv ; -er|er|S||-er (N)
+sundowning	noun	sun|sun|R|N ; down|down|R|Adv ; -ing|ing|S||-ing (N)
+sundries	noun	sundry|sundr|R|Adj ; -s|ies|I||-s (plural)
+sunfast	adj	sun|sun|R|N ; fast|fast|R|Adj
+sungrebe	noun	sun|sun|R|N ; grebe|grebe|R|N
+suni	noun	suni|suni|R|N
+sunlamp	noun	sun|sun|R|N ; lamp|lamp|R|N
+sunlike	adj	sun|sun|R|N ; -like|like|S
+sunlounger	noun	sun|sun|R|N ; lounge|loung|R|V ; -er|er|S||-er (N)
+sunn	noun	sunn|sunn|R|N
+sunnah	noun	sunnah|sunnah|R|N
+sunnily	adv	sunny|sunn|R|Adj ; -ly|ily|I|Adv|-ly (adv)
+sunniness	noun	sunny|sunn|R|Adj ; -ness|iness|S
+sunproof	adj	sun|sun|R|N ; proof|proof|R|N
+sunray	noun	sun|sun|R|N ; ray|ray|R|N
+sunstone	noun	sun|sun|R|N ; stone|stone|R|N
+sunstruck	adj	sun|sun|R|N ; strike|struck|R|V ; -ed||I||-ed (v2)
+sunsuit	noun	sun|sun|R|N ; suit|suit|R|N
+suntrap	noun	sun|sun|R|N ; trap|trap|R|N
+sunwards	adv	sun|sun|R|N ; -ward|wards|S
+sunwise	adv	sun|sun|R|N ; -wise|wise|S
+suona	noun	suona|suona|R|N
+superable	adj	superable|superable|R|Adj
+superableness	noun	superable|superable|R|Adj ; -ness|ness|S
+superabound	verb	super-|super|P ; abound|abound|R|V
+superabundant	adj	super-|super|P ; abundant|abundant|R|Adj
+superabundantly	adv	super-|super|P ; abundant|abundant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+superacid	noun	super-|super|P ; acid|acid|R|N
+superacidity	noun	super-|super|P ; acid|acid|R|N ; -ity|ity|S
+superactivity	noun	super-|super|P ; activity|activity|R|N
+superadd	verb	super-|super|P ; add|add|R|V
+superaddition	noun	super-|super|P ; add|add|R|V ; -ition|ition|S
+superalkalinity	noun	super-|super|P ; alkaline|alkalin|R|Adj ; -ity|ity|S
+superangelic	adj	super-|super|P ; angelic|angelic|R|Adj
+superannuable	adj	superannuate|superannu|R|V ; -able|able|S
+superannuate	verb	superannuate|superannuate|R|V
+superatom	noun	super-|super|P ; atom|atom|R|N
+superblock	noun	super-|super|P ; block|block|R|N
+superbomb	noun	super-|super|P ; bomb|bomb|R|N
+superbus	noun	super-|super|P ; bus|bus|R|N
+supercalender	verb	super-|super|P ; calender|calender|R|V
+supercalifragilisticexpialidocious	adj	supercalifragilisticexpialidocious|supercalifragilisticexpialidocious|R|Adj
+supercargo	noun	supercargo|supercargo|R|N
+supercelestial	adj	super-|super|P ; celestial|celestial|R|Adj
+supercell	noun	super-|super|P ; cell|cell|R|N
+supercentenarian	noun	super-|super|P ; centenarian|centenarian|R|N
+supercentrifuge	noun	super-|super|P ; centrifuge|centrifuge|R|N
+superciliary	adj	super-|super|P ; ciliary|ciliary|R|Adj
+superciliously	adv	supercilious|supercilious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+superciliousness	noun	supercilious|supercilious|R|Adj ; -ness|ness|S
+supercivilized	adj	super-|super|P ; civilize|civiliz|R|V ; -ed|ed|S||-ed (adj)
+superclass	noun	super-|super|P ; class|class|R|N
+supercolumnar	adj	super-|super|P ; columnar|columnar|R|Adj

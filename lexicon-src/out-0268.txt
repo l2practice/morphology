@@ -1,0 +1,200 @@
+disquieted	verb	dis-|dis|P ; quiet|quiet|R|Adj ; -ed|ed|I||-ed (v2)
+disquietingly	adv	dis-|dis|P ; quiet|quiet|R|Adj ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+disquietness	noun	dis-|dis|P ; quiet|quiet|R|Adj ; -ness|ness|S
+disquietude	noun	disquietude|disquietude|R|N
+disrate	verb	dis-|dis|P ; rate|rate|R|V
+disrecommend	verb	dis-|dis|P ; recommend|recommend|R|V
+disregarded	verb	dis-|dis|P ; regard|regard|R|V ; -ed|ed|I||-ed (v2)
+disregardful	adj	dis-|dis|P ; regard|regard|R|V ; -ful|ful|S
+disrelish	noun	dis-|dis|P ; relish|relish|R|N
+disreputableness	noun	dis-|dis|P ; reputable|reputable|R|Adj ; -ness|ness|S
+disreputably	adv	dis-|dis|P ; reputable|reputabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+disrespectable	adj	dis-|dis|P ; respect|respect|R|V ; -able|able|S
+disrupting	verb	disrupt|disrupt|R|V ; -ing|ing|I||-ing (v)
+diss	verb	diss|diss|R|V
+dissatisfactory	adj	dis-|dis|P ; satisfy|satisfact|R|V ; -ory|ory|S
+dissatisfy	verb	dis-|dis|P ; satisfy|satisfy|R|V
+dissave	verb	dis-|dis|P ; save|save|R|V
+dissector	noun	dissect|dissect|R|V ; -or|or|S
+disseisin	noun	disseisin|disseisin|R|N
+disseizin	noun	disseizin|disseizin|R|N
+dissemblance	noun	dissemble|dissembl|R|V ; -ance|ance|S
+disseminule	noun	disseminule|disseminule|R|N
+dissentient	adj	dissentient|dissentient|R|Adj
+dissentingly	adv	dissent|dissent|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+dissepiment	noun	dissepiment|dissepiment|R|N
+dissertate	verb	dissert|dissert|R|V ; -ate|ate|S
+disserve	verb	dis-|dis|P ; serve|serve|R|V
+dissever	verb	dis-|dis|P ; sever|sever|R|V
+disseverance	noun	dis-|dis|P ; sever|sever|R|V ; -ance|ance|S
+dissimilate	verb	dissimilate|dissimilate|R|V
+dissimilation	noun	dissimilate|dissimilat|R|V ; -ion|ion|S
+dissimilatory	adj	dissimilate|dissimilat|R|V ; -ory|ory|S
+dissimilitude	noun	dis-|dis|P ; similitude|similitude|R|N
+dissimulator	noun	dis-|dis|P ; simulate|simulat|R|V ; -or|or|S
+dissociable	adj	dissociate|dissoci|R|V ; -able|able|S
+dissocial	adj	dis-|dis|P ; social|social|R|Adj
+dissociality	noun	dis-|dis|P ; social|social|R|Adj ; -ity|ity|S
+dissocialize	verb	dis-|dis|P ; social|social|R|Adj ; -ize|ize|S
+dissolubility	noun	dissoluble|dissolub|R|Adj ; -ity|ility|S
+dissoluble	adj	dissoluble|dissoluble|R|Adj
+dissolutely	adv	dissolute|dissolute|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+dissoluteness	noun	dissolute|dissolute|R|Adj ; -ness|ness|S
+dissolvable	adj	dissolve|dissolv|R|V ; -able|able|S
+dissolvent	noun	dissolve|dissolv|R|V ; -ent|ent|S
+dissonantly	adv	dis-|dis|P ; sonant|sonant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+dissonate	verb	dissonate|dissonate|R|V
+dissuading	verb	dissuade|dissuad|R|V ; -ing|ing|I||-ing (v)
+dissuasion	noun	dissuade|dissuas|R|V ; -ion|ion|S
+dissuasive	adj	dissuade|dissuas|R|V ; -ive|ive|S
+dissymmetrical	adj	dis-|dis|P ; symmetry|symmetr|R|N ; -ical|ical|S
+dissymmetry	noun	dis-|dis|P ; symmetry|symmetry|R|N
+distad	adv	distad|distad|R|Adv
+distain	verb	distain|distain|R|V
+distastefulness	noun	dis-|dis|P ; taste|taste|R|N ; -ful|ful|S ; -ness|ness|S
+distensibility	noun	distensible|distensib|R|Adj ; -ity|ility|S
+distensible	adj	distensible|distensible|R|Adj
+distich	noun	distich|distich|R|N
+distichous	adj	distichous|distichous|R|Adj
+distillatory	adj	distill|distill|R|V ; -ory|atory|S
+distilling	verb	distill|distill|R|V ; -ing|ing|I||-ing (v)
+distingue	adj	distingue|distingue|R|Adj
+distortedly	adv	distort|distort|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+distortional	adj	distort|distort|R|V ; -ion|ion|S ; -al|al|S
+distortionist	noun	distort|distort|R|V ; -ion|ion|S ; -ist|ist|S
+distortionless	adj	distort|distort|R|V ; -ion|ion|S ; -less|less|S
+distrainee	noun	distrain|distrain|R|V ; -ee|ee|S
+distrainment	noun	distrain|distrain|R|V ; -ment|ment|S
+distrait	adj	distrait|distrait|R|Adj
+distressfully	adv	distress|distress|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+distributary	noun	distribute|distribut|R|V ; -ary|ary|S
+distributivity	noun	distribute|distribut|R|V ; -ive|iv|S ; -ity|ity|S
+distringas	noun	distringas|distringas|R|N
+distro	noun	distro|distro|R|N
+distrusted	verb	dis-|dis|P ; trust|trust|R|V ; -ed|ed|I||-ed (v2)
+distrustfully	adv	dis-|dis|P ; trust|trust|R|V ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+distrusting	verb	dis-|dis|P ; trust|trust|R|V ; -ing|ing|I||-ing (v)
+disulfide	noun	disulfide|disulfide|R|N
+disunite	verb	dis-|dis|P ; unite|unite|R|V
+disunited	verb	dis-|dis|P ; unite|unit|R|V ; -ed|ed|I||-ed (v2)
+disutility	noun	dis-|dis|P ; utility|utility|R|N
+disvalue	verb	dis-|dis|P ; value|value|R|V
+disyllable	noun	disyllable|disyllable|R|N
+ditcher	noun	ditch|ditch|R|N ; -er|er|S||-er (N)
+ditheism	noun	ditheism|ditheism|R|N
+dithered	verb	dither|dither|R|V ; -ed|ed|I||-ed (v2)
+dithers	noun	dither|dither|R|V ; -s|s|I||-s (plural)
+dithery	adj	dither|dither|R|V ; -y|y|S
+dithyramb	noun	dithyramb|dithyramb|R|N
+dithyrambic	adj	dithyramb|dithyramb|R|N ; -ic|ic|S
+ditransitive	adj	ditransitive|ditransitive|R|Adj
+dittander	noun	dittander|dittander|R|N
+dittany	noun	dittany|dittany|R|N
+dittography	noun	dittography|dittography|R|N
+dittology	noun	dittology|dittology|R|N
+diuresis	noun	diuresis|diuresis|R|N
+diuretically	adv	diuretic|diuret|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+diurnally	adv	diurnal|diurnal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+divagate	verb	divagate|divagate|R|V
+divagation	noun	divagate|divagat|R|V ; -ion|ion|S
+divalence	noun	divalence|divalence|R|N
+divalent	adj	divalent|divalent|R|Adj
+divaricate	verb	divaricate|divaricate|R|V
+divarication	noun	divaricate|divaricat|R|V ; -ion|ion|S
+divergency	noun	diverge|diverg|R|V ; -ency|ency|S
+diversifier	noun	diversify|diversifi|R|V ; -er|er|S||-er (N)
+diversiform	adj	diversiform|diversiform|R|Adj
+diversionist	noun	divert|diver|R|V ; -ion|sion|S ; -ist|ist|S
+diverter	noun	divert|divert|R|V ; -er|er|S||-er (N)
+diverticular	adj	diverticulum|diverticul|R|N ; -ar|ar|S
+diverticulosis	noun	diverticulosis|diverticulosis|R|N
+divertingly	adv	divert|divert|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+divertingness	noun	divert|divert|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+dividual	adj	dividual|dividual|R|Adj
+divined	verb	divine|divin|R|V ; -ed|ed|I||-ed (v2)
+divinize	verb	divine|divin|R|V ; -ize|ize|S
+divisibility	noun	divide|divis|R|V ; -ible|ibil|S ; -ity|ity|S
+divisively	adv	divide|divis|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+divo	noun	divo|divo|R|N
+divorceable	adj	divorce|divorce|R|V ; -able|able|S
+divorcement	noun	divorce|divorce|R|V ; -ment|ment|S
+divulgation	noun	divulge|divulg|R|V ; -ation|ation|S
+divulgement	noun	divulge|divulge|R|V ; -ment|ment|S
+divulgence	noun	divulge|divulg|R|V ; -ence|ence|S
+divulger	noun	divulge|divulg|R|V ; -er|er|S||-er (N)
+divulging	verb	divulge|divulg|R|V ; -ing|ing|I||-ing (v)
+divulsion	noun	divulsion|divulsion|R|N
+dizain	noun	dizain|dizain|R|N
+dizen	verb	dizen|dizen|R|V
+dizi	noun	dizi|dizi|R|N
+dizzied	verb	dizzy|dizzi|R|Adj ; -ed|ed|I||-ed (v2)
+dizzies	verb	dizzy|dizzi|R|Adj ; -es|es|I||-s (3sg)
+djembe	noun	djembe|djembe|R|N
+djent	noun	djent|djent|R|N
+dobra	noun	dobra|dobra|R|N
+doc	noun	doc|doc|R|N
+dockage	noun	dock|dock|R|N ; -age|age|S
+docketing	verb	docket|docket|R|V ; -ing|ing|I||-ing (v)
+dockization	noun	dockize|dockiz|R|V ; -ation|ation|S
+dockize	verb	dock|dock|R|N ; -ize|ize|S
+docks	noun	dock|dock|R|N ; -s|s|I||-s (plural)
+docosane	noun	docosane|docosane|R|N
+doctorand	noun	doctorand|doctorand|R|N
+doctorship	noun	doctor|doctor|R|N ; -ship|ship|S
+doctrinairism	noun	doctrinaire|doctrinair|R|Adj ; -ism|ism|S
+doctrinarian	noun	doctrine|doctrin|R|N ; -ian|arian|S
+doctrinarianism	noun	doctrine|doctrin|R|N ; -ian|arian|S ; -ism|ism|S
+doctrinism	noun	doctrine|doctrin|R|N ; -ism|ism|S
+doctrinize	verb	doctrine|doctrin|R|N ; -ize|ize|S
+documentalist	noun	document|document|R|N ; -al|al|S ; -ist|ist|S
+documentarian	noun	document|document|R|N ; -ary|ari|S ; -an|an|S
+docuseries	noun	docuseries|docuseries|R|N
+doddered	verb	dodder|dodder|R|V ; -ed|ed|I||-ed (v2)
+dodderer	noun	dodder|dodder|R|V ; -er|er|S||-er (N)
+doddery	adj	dodder|dodder|R|V ; -y|y|S
+dodecagon	noun	dodecagon|dodecagon|R|N
+dodecagonal	adj	dodecagon|dodecagon|R|N ; -al|al|S
+dodecagram	noun	dodecagram|dodecagram|R|N
+dodecagynous	adj	dodecagynous|dodecagynous|R|Adj
+dodecahedral	adj	dodecahedron|dodecahedr|R|N ; -al|al|S
+dodecahedron	noun	dodecahedron|dodecahedron|R|N
+dodecameter	noun	dodecameter|dodecameter|R|N
+dodecandrous	adj	dodecandrous|dodecandrous|R|Adj
+dodecane	noun	dodecane|dodecane|R|N
+dodecaphonic	adj	dodecaphonic|dodecaphonic|R|Adj
+dodecaphonist	noun	dodecaphony|dodecaphon|R|N ; -ist|ist|S
+dodecaphony	noun	dodecaphony|dodecaphony|R|N
+dodecastyle	noun	dodecastyle|dodecastyle|R|N
+dodecasyllabic	adj	dodecasyllable|dodecasyllab|R|N ; -ic|ic|S
+dodecasyllable	noun	dodecasyllable|dodecasyllable|R|N
+dodgeball	noun	dodge|dodge|R|V ; ball|ball|R|N
+dodol	noun	dodol|dodol|R|N
+doek	noun	doek|doek|R|N
+doenjang	noun	doenjang|doenjang|R|N
+doffing	verb	doff|doff|R|V ; -ing|ing|I||-ing (v)
+dogal	adj	dog|dog|R|N ; -al|al|S
+dogate	noun	doge|dog|R|N ; -ate|ate|S
+dogbane	noun	dog|dog|R|N ; bane|bane|R|N
+dogberry	noun	dog|dog|R|N ; berry|berry|R|N
+dogface	noun	dog|dog|R|N ; face|face|R|N
+dogger	noun	dog|dogg|R|N ; -er|er|S||-er (N)
+doggery	noun	dog|dogg|R|N ; -ery|ery|S
+doggish	adj	dog|dogg|R|N ; -ish|ish|S
+doggo	noun	doggo|doggo|R|N
+dogie	noun	dogie|dogie|R|N
+dogless	adj	dog|dog|R|N ; -less|less|S
+dogmatize	verb	dogmatic|dogmat|R|Adj ; -ize|ize|S
+dogsitter	noun	dog|dog|R|N ; sitter|sitter|R|N
+dogskin	noun	dog|dog|R|N ; skin|skin|R|N
+dogtrot	noun	dog|dog|R|N ; trot|trot|R|V
+doh	interj	doh|doh|R
+doily	noun	doily|doily|R|N
+doited	adj	doited|doited|R|Adj
+dokkaebi	noun	dokkaebi|dokkaebi|R|N
+dolce	adv	dolce|dolce|R|Adv
+doldrums	noun	doldrum|doldrum|R|N ; -s|s|I||-s (plural)
+dolefulness	noun	dole|dole|R|N ; -ful|ful|S ; -ness|ness|S
+dolerite	noun	dolerite|dolerite|R|N
+dolichocephalic	adj	dolichocephalic|dolichocephalic|R|Adj
+dolichocephalism	noun	dolichocephalism|dolichocephalism|R|N
+dolichocephaly	noun	dolichocephaly|dolichocephaly|R|N

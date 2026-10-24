@@ -1,0 +1,200 @@
+boustrophedonic	adj	boustrophedonic|boustrophedonic|R|Adj
+bouton	noun	bouton|bouton|R|N
+bouzouki	noun	bouzouki|bouzouki|R|N
+bovarysm	noun	bovarysm|bovarysm|R|N
+bovid	noun	bovid|bovid|R|N
+bowdlerisation	noun	bowdlerisation|bowdlerisation|R|N
+bowdlerism	noun	bowdlerism|bowdlerism|R|N
+bowdlerization	noun	bowdlerization|bowdlerization|R|N
+bowdlerize	verb	bowdlerize|bowdlerize|R|V
+bowdlerized	verb	bowdlerize|bowdleriz|R|V ; -ed|ed|I||-ed (v2)
+bowdlerizer	noun	bowdlerize|bowdleriz|R|V ; -er|er|S||-er (N)
+bowels	noun	bowel|bowel|R|N ; -s|s|I||-s (plural)
+bowery	noun	bowery|bowery|R|N
+bowfin	noun	bow|bow|R|N ; fin|fin|R|N
+bowfront	noun	bow|bow|R|N ; front|front|R|N
+bowhead	noun	bow|bow|R|N ; head|head|R|N
+bowled	verb	bowl|bowl|R|V ; -ed|ed|I||-ed (v2)
+bowleg	noun	bow|bow|R|N ; leg|leg|R|N
+bowls	noun	bowl|bowl|R|N ; -s|s|I||-s (plural)
+bowser	noun	bowser|bowser|R|N
+bowshot	noun	bow|bow|R|N ; shot|shot|R|N
+bowtie	noun	bow|bow|R|N ; tie|tie|R|N
+boxfish	noun	box|box|R|N ; fish|fish|R|N
+boxthorn	noun	box|box|R|N ; thorn|thorn|R|N
+boycotter	noun	boycott|boycott|R|V ; -er|er|S||-er (N)
+boycotting	verb	boycott|boycott|R|V ; -ing|ing|I||-ing (v)
+boys	noun	boy|boy|R|N ; -s|s|I||-s (plural)
+boysenberry	noun	boysenberry|boysenberry|R|N
+boyshorts	noun	boy|boy|R|N ; short|short|R|N ; -s|s|I||-s (plural)
+boza	noun	boza|boza|R|N
+bozbash	noun	bozbash|bozbash|R|N
+braai	noun	braai|braai|R|N
+braaivleis	noun	braaivleis|braaivleis|R|N
+braced	verb	brace|brac|R|V ; -ed|ed|I||-ed (v2)
+bracelets	noun	bracelet|bracelet|R|N ; -s|s|I||-s (plural)
+bracer	noun	brace|brac|R|V ; -er|er|S||-er (N)
+braces	noun	brace|brace|R|N ; -s|s|I||-s (plural)
+brachiate	adj	brachiate|brachiate|R|Adj
+brachiation	noun	brachiation|brachiation|R|N
+brachiole	noun	brachiole|brachiole|R|N
+brachioradialis	noun	brachioradialis|brachioradialis|R|N
+brachiosaur	noun	brachiosaur|brachiosaur|R|N
+brachiosaurus	noun	brachiosaurus|brachiosaurus|R|N
+brachistochrone	noun	brachistochrone|brachistochrone|R|N
+brachium	noun	brachium|brachium|R|N
+brachycephalic	adj	brachycephalic|brachycephalic|R|Adj
+brachycephaly	noun	brachycephaly|brachycephaly|R|N
+brachydactylous	adj	brachydactylous|brachydactylous|R|Adj
+brachydactyly	noun	brachydactyly|brachydactyly|R|N
+brachylogy	noun	brachylogy|brachylogy|R|N
+brachypterous	adj	brachypterous|brachypterous|R|Adj
+brachytherapy	noun	brachytherapy|brachytherapy|R|N
+brachyuran	noun	brachyuran|brachyuran|R|N
+brachyuric	adj	brachyuric|brachyuric|R|Adj
+brachyurous	adj	brachyurous|brachyurous|R|Adj
+brackishness	noun	brackish|brackish|R|Adj ; -ness|ness|S
+braconid	noun	braconid|braconid|R|N
+bracteal	adj	bracteal|bracteal|R|Adj
+bracteate	adj	bracteate|bracteate|R|Adj
+bracteole	noun	bracteole|bracteole|R|N
+bractlet	noun	bract|bract|R|N ; -let|let|S
+bradawl	noun	brad|brad|R|N ; awl|awl|R|N
+bragger	noun	brag|bragg|R|V ; -er|er|S||-er (N)
+brahmin	noun	brahmin|brahmin|R|N
+brahminical	adj	brahmin|brahmin|R|N ; -ical|ical|S
+braider	noun	braid|braid|R|V ; -er|er|S||-er (N)
+brail	noun	brail|brail|R|N
+brained	verb	brain|brain|R|V ; -ed|ed|I||-ed (v2)
+brainily	adv	brain|brain|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+braininess	noun	brain|brain|R|N ; -y|i|S ; -ness|ness|S
+brainish	adj	brain|brain|R|N ; -ish|ish|S
+brainlessly	adv	brain|brain|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+brainlessness	noun	brain|brain|R|N ; -less|less|S ; -ness|ness|S
+brains	noun	brain|brain|R|N ; -s|s|I||-s (plural)
+brainstormer	noun	brain|brain|R|N ; storm|storm|R|N ; -er|er|S||-er (N)
+brainteaser	noun	brain|brain|R|N ; tease|teas|R|V ; -er|er|S||-er (N)
+brainwork	noun	brain|brain|R|N ; work|work|R|N
+braird	noun	braird|braird|R|N
+braked	verb	brake|brak|R|V ; -ed|ed|I||-ed (v2)
+brakesman	noun	brakesman|brakesman|R|N
+bralessness	noun	bra|bra|R|N ; -less|less|S ; -ness|ness|S
+brambling	noun	brambling|brambling|R|N
+brambly	adj	bramble|brambl|R|N ; -y|y|S
+branchia	noun	branchia|branchia|R|N
+branchiate	adj	branchiate|branchiate|R|Adj
+branchiopod	noun	branchiopod|branchiopod|R|N
+branchless	adj	branch|branch|R|N ; -less|less|S
+branchlet	noun	branch|branch|R|N ; -let|let|S
+branchy	adj	branch|branch|R|N ; -y|y|S
+brandisher	noun	brandish|brandish|R|V ; -er|er|S||-er (N)
+brandishing	verb	brandish|brandish|R|V ; -ing|ing|I||-ing (v)
+brassage	noun	brassage|brassage|R|N
+brassard	noun	brassard|brassard|R|N
+brassica	noun	brassica|brassica|R|N
+brassie	noun	brassie|brassie|R|N
+brassily	adv	brass|brass|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+brassiness	noun	brass|brass|R|N ; -y|i|S ; -ness|ness|S
+brassworker	noun	brass|brass|R|N ; work|work|R|N ; -er|er|S||-er (N)
+brattice	noun	brattice|brattice|R|N
+brattishness	noun	brat|bratt|R|N ; -ish|ish|S ; -ness|ness|S
+bratva	noun	bratva|bratva|R|N
+braveness	noun	brave|brave|R|Adj ; -ness|ness|S
+braving	verb	brave|brav|R|V ; -ing|ing|I||-ing (v)
+brawlingly	adv	brawl|brawl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+brawnily	adv	brawn|brawn|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+brawniness	noun	brawn|brawn|R|N ; -y|i|S ; -ness|ness|S
+brazilwood	noun	brazilwood|brazilwood|R|N
+brazing	verb	braze|braz|R|V ; -ing|ing|I||-ing (v)
+breadcrust	noun	bread|bread|R|N ; crust|crust|R|N
+breadless	adj	bread|bread|R|N ; -less|less|S
+breadmaking	noun	bread|bread|R|N ; make|mak|R|V ; -ing|ing|S||-ing (N)
+breadthways	adv	breadthways|breadthways|R|Adv
+breadthwise	adv	breadth|breadth|R|N ; -wise|wise|S
+breakableness	noun	break|break|R|V ; -able|able|S ; -ness|ness|S
+breakdance	noun	break|break|R|V ; dance|dance|R|V
+breakdancer	noun	break|break|R|V ; dance|danc|R|V ; -er|er|S||-er (N)
+breakdancing	noun	break|break|R|V ; dance|danc|R|V ; -ing|ing|S||-ing (N)
+breakers	noun	break|break|R|V ; -er|er|S||-er (N) ; -s|s|I||-s (plural)
+breakfall	noun	break|break|R|V ; fall|fall|R|V
+breakfasted	verb	breakfast|breakfast|R|V ; -ed|ed|I||-ed (v2)
+breakfaster	noun	breakfast|breakfast|R|V ; -er|er|S||-er (N)
+breakfasting	verb	breakfast|breakfast|R|V ; -ing|ing|I||-ing (v)
+breaktime	noun	break|break|R|N ; time|time|R|N
+breastaurant	noun	breastaurant|breastaurant|R|N
+breasting	verb	breast|breast|R|V ; -ing|ing|I||-ing (v)
+breathability	noun	breath|breath|R|N ; -able|abil|S ; -ity|ity|S
+breathed	verb	breathe|breath|R|V ; -ed|ed|I||-ed (v2)
+breathily	adv	breath|breath|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+breathiness	noun	breath|breath|R|N ; -y|i|S ; -ness|ness|S
+brecciate	verb	brecciate|brecciate|R|V
+brecciation	noun	brecciate|brecci|R|V ; -ation|ation|S
+bree	noun	bree|bree|R|N
+breechblock	noun	breech|breech|R|N ; block|block|R|N
+breeches	noun	breech|breech|R|N ; -es|es|I||-s (plural)
+breeching	noun	breech|breech|R|N ; -ing|ing|S||-ing (N)
+breechloader	noun	breech|breech|R|N ; load|load|R|V ; -er|er|S||-er (N)
+breeziness	noun	breeze|breez|R|N ; -y|i|S ; -ness|ness|S
+breezing	verb	breeze|breez|R|V ; -ing|ing|I||-ing (v)
+bregma	noun	bregma|bregma|R|N
+bregmatic	adj	bregmatic|bregmatic|R|Adj
+brekker	noun	brekker|brekker|R|N
+bremsstrahlung	noun	bremsstrahlung|bremsstrahlung|R|N
+brethren	noun	brother|brethren|R|N ; -s||I||-s (plural)
+breve	noun	breve|breve|R|N
+brevetted	verb	brevet|brevett|R|V ; -ed|ed|I||-ed (v2)
+brevier	noun	brevier|brevier|R|N
+brewage	noun	brew|brew|R|V ; -age|age|S
+brewski	noun	brewski|brewski|R|N
+bribable	adj	bribe|brib|R|V ; -able|able|S
+bribee	noun	bribe|brib|R|V ; -ee|ee|S
+briber	noun	bribe|brib|R|V ; -er|er|S||-er (N)
+bribetaker	noun	bribe|bribe|R|V ; take|tak|R|V ; -er|er|S||-er (N)
+bribing	verb	bribe|brib|R|V ; -ing|ing|I||-ing (v)
+bricked	verb	brick|brick|R|V ; -ed|ed|I||-ed (v2)
+bricking	noun	brick|brick|R|V ; -ing|ing|S||-ing (N)
+brickmaker	noun	brick|brick|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+bricky	adj	brick|brick|R|N ; -y|y|S
+bridechamber	noun	bride|bride|R|N ; chamber|chamber|R|N
+bridesman	noun	bridesman|bridesman|R|N
+bridgeable	adj	bridge|bridge|R|V ; -able|able|S
+bridged	verb	bridge|bridg|R|V ; -ed|ed|I||-ed (v2)
+bridgeless	adj	bridge|bridge|R|N ; -less|less|S
+bridled	verb	bridle|bridl|R|V ; -ed|ed|I||-ed (v2)
+bridling	verb	bridle|bridl|R|V ; -ing|ing|I||-ing (v)
+bridoon	noun	bridoon|bridoon|R|N
+briefed	verb	brief|brief|R|V ; -ed|ed|I||-ed (v2)
+briefless	adj	brief|brief|R|Adj ; -less|less|S
+briefness	noun	brief|brief|R|Adj ; -ness|ness|S
+briefs	noun	brief|brief|R|N ; -s|s|I||-s (plural)
+brigandage	noun	brigand|brigand|R|N ; -age|age|S
+brigandine	noun	brigandine|brigandine|R|N
+brigandism	noun	brigand|brigand|R|N ; -ism|ism|S
+brightener	noun	bright|bright|R|Adj ; -en|en|S ; -er|er|S||-er (N)
+brightwork	noun	bright|bright|R|Adj ; work|work|R|N
+brilliantine	noun	brilliantine|brilliantine|R|N
+brilliantness	noun	brilliant|brilliant|R|Adj ; -ness|ness|S
+brimless	adj	brim|brim|R|N ; -less|less|S
+brininess	noun	brine|brin|R|N ; -y|i|S ; -ness|ness|S
+bristled	verb	bristle|bristl|R|V ; -ed|ed|I||-ed (v2)
+bristlegrass	noun	bristle|bristle|R|N ; grass|grass|R|N
+bristletail	noun	bristle|bristle|R|N ; tail|tail|R|N
+britchka	noun	britchka|britchka|R|N
+brittlely	adv	brittle|brittle|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+broached	verb	broach|broach|R|V ; -ed|ed|I||-ed (v2)
+broacher	noun	broach|broach|R|V ; -er|er|S||-er (N)
+broaching	verb	broach|broach|R|V ; -ing|ing|I||-ing (v)
+broadbrim	noun	broad|broad|R|Adj ; brim|brim|R|N
+broadener	noun	broad|broad|R|Adj ; -en|en|S ; -er|er|S||-er (N)
+broadish	adj	broad|broad|R|Adj ; -ish|ish|S
+broadloom	noun	broad|broad|R|Adj ; loom|loom|R|N
+brocading	noun	brocade|brocad|R|V ; -ing|ing|S||-ing (N)
+brocatelle	noun	brocatelle|brocatelle|R|N
+broch	noun	broch|broch|R|N
+brochette	noun	brochette|brochette|R|N
+brocket	noun	brocket|brocket|R|N
+brokeness	noun	brokeness|brokeness|R|N
+brokenhearted	adj	broken|broken|R|Adj ; heart|heart|R|N ; -ed|ed|S||-ed (adj)
+brokie	noun	brokie|brokie|R|N
+brolga	noun	brolga|brolga|R|N
+bromance	noun	bromance|bromance|R|N

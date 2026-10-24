@@ -1,0 +1,200 @@
+erythroblast	noun	erythroblast|erythroblast|R|N
+erythroblastic	adj	erythroblast|erythroblast|R|N ; -ic|ic|S
+erythroblastosis	noun	erythroblastosis|erythroblastosis|R|N
+erythrocytometer	noun	erythrocytometer|erythrocytometer|R|N
+erythroleukemia	noun	erythroleukemia|erythroleukemia|R|N
+erythrolysis	noun	erythrolysis|erythrolysis|R|N
+erythron	noun	erythron|erythron|R|N
+erythropenic	adj	erythropenic|erythropenic|R|Adj
+erythropoiesis	noun	erythropoiesis|erythropoiesis|R|N
+erythropoietic	adj	erythropoietic|erythropoietic|R|Adj
+erythropsia	noun	erythropsia|erythropsia|R|N
+erythrose	noun	erythrose|erythrose|R|N
+es	noun	es|es|R|N
+esaul	noun	esaul|esaul|R|N
+escabeche	noun	escabeche|escabeche|R|N
+escadrille	noun	escadrille|escadrille|R|N
+escalade	noun	escalade|escalade|R|N
+escalatory	adj	escalate|escalat|R|V ; -ory|ory|S
+escallonia	noun	escallonia|escallonia|R|N
+escallop	noun	escallop|escallop|R|N
+escalope	noun	escalope|escalope|R|N
+escapable	adj	escape|escap|R|V ; -able|able|S
+escapeway	noun	escape|escape|R|V ; way|way|R|N
+escapology	noun	escapology|escapology|R|N
+eschatocol	noun	eschatocol|eschatocol|R|N
+eschatologically	adv	eschatology|eschatolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+eschatologist	noun	eschatology|eschatolog|R|N ; -ist|ist|S
+escheat	noun	escheat|escheat|R|N
+escheatable	adj	escheat|escheat|R|V ; -able|able|S
+eschewal	noun	eschew|eschew|R|V ; -al|al|S
+esclandre	noun	esclandre|esclandre|R|N
+escolar	noun	escolar|escolar|R|N
+escorting	verb	escort|escort|R|V ; -ing|ing|I||-ing (v)
+escritoire	noun	escritoire|escritoire|R|N
+esculent	adj	esculent|esculent|R|Adj
+esker	noun	esker|esker|R|N
+esophagectomy	noun	esophagectomy|esophagectomy|R|N
+esophagotomy	noun	esophagotomy|esophagotomy|R|N
+esoterically	adv	esoteric|esoteric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+esotericism	noun	esoteric|esoteric|R|Adj ; -ism|ism|S
+esoterism	noun	esoteric|esoter|R|Adj ; -ism|ism|S
+espagnole	noun	espagnole|espagnole|R|N
+espagnolette	noun	espagnolette|espagnolette|R|N
+esparto	noun	esparto|esparto|R|N
+esper	noun	esper|esper|R|N
+espial	noun	espy|espi|R|V ; -al|al|S
+espier	noun	espy|espi|R|V ; -er|er|S||-er (N)
+espoused	adj	espouse|espous|R|V ; -ed|ed|S||-ed (adj)
+espouser	noun	espouse|espous|R|V ; -er|er|S||-er (N)
+espressivo	adv	espressivo|espressivo|R|Adv
+esquisse	noun	esquisse|esquisse|R|N
+essayette	noun	essay|essay|R|N ; -ette|ette|S
+esse	noun	esse|esse|R|N
+essenced	adj	essence|essenc|R|N ; -ed|ed|S||-ed (adj)
+essive	noun	essive|essive|R|N
+establisher	noun	establish|establish|R|V ; -er|er|S||-er (N)
+establishmentarian	noun	establishmentarian|establishmentarian|R|N
+establishmentarianism	noun	establishmentarianism|establishmentarianism|R|N
+estado	noun	estado|estado|R|N
+estaminet	noun	estaminet|estaminet|R|N
+esterase	noun	esterase|esterase|R|N
+esterification	noun	ester|ester|R|N ; -ify|ifi|S ; -ation|cation|S
+esterify	verb	ester|ester|R|N ; -ify|ify|S
+esthesiometer	noun	esthesiometer|esthesiometer|R|N
+esthesis	noun	esthesis|esthesis|R|N
+estimableness	noun	estimate|estim|R|V ; -able|able|S ; -ness|ness|S
+estimably	adv	estimate|estim|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+estimative	adj	estimate|estimat|R|V ; -ive|ive|S
+estival	adj	estival|estival|R|Adj
+estivate	verb	estivate|estivate|R|V
+estoppage	noun	estop|estopp|R|V ; -age|age|S
+estovers	noun	estovers|estovers|R|N
+estrade	noun	estrade|estrade|R|N
+estranger	noun	estrange|estrang|R|V ; -er|er|S||-er (N)
+estranging	verb	estrange|estrang|R|V ; -ing|ing|I||-ing (v)
+estray	noun	estray|estray|R|N
+estreat	noun	estreat|estreat|R|N
+estriate	adj	estriate|estriate|R|Adj
+estuarial	adj	estuary|estuari|R|N ; -al|al|S
+esurience	noun	esurience|esurience|R|N
+esuriency	noun	esuriency|esuriency|R|N
+esurient	adj	esurient|esurient|R|Adj
+esuriently	adv	esurient|esurient|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+eszett	noun	eszett|eszett|R|N
+eta	noun	eta|eta|R|N
+etacism	noun	etacism|etacism|R|N
+etalon	noun	etalon|etalon|R|N
+etamine	noun	etamine|etamine|R|N
+etchant	noun	etch|etch|R|V ; -ant|ant|S
+etched	adj	etch|etch|R|V ; -ed|ed|S||-ed (adj)
+etendue	noun	etendue|etendue|R|N
+eternality	noun	eternal|eternal|R|Adj ; -ity|ity|S
+eternalize	verb	eternal|eternal|R|Adj ; -ize|ize|S
+eternization	noun	eternal|etern|R|Adj ; -ize|iz|S ; -ation|ation|S
+eternize	verb	eternal|etern|R|Adj ; -ize|ize|S
+etesian	adj	etesian|etesian|R|Adj
+eth	noun	eth|eth|R|N
+ethanolamine	noun	ethanol|ethanol|R|N ; amine|amine|R|N
+ethene	noun	ethene|ethene|R|N
+ethereality	noun	ethereal|ethereal|R|Adj ; -ity|ity|S
+etherealization	noun	ethereal|ethereal|R|Adj ; -ize|iz|S ; -ation|ation|S
+etherealize	verb	ethereal|ethereal|R|Adj ; -ize|ize|S
+etherification	noun	ether|ether|R|N ; -ify|ifi|S ; -ation|cation|S
+etherify	verb	ether|ether|R|N ; -ify|ify|S
+etherization	noun	ether|ether|R|N ; -ize|iz|S ; -ation|ation|S
+etherize	verb	ether|ether|R|N ; -ize|ize|S
+etherizer	noun	ether|ether|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+etheromania	noun	etheromania|etheromania|R|N
+ethicality	noun	ethical|ethical|R|Adj ; -ity|ity|S
+ethicalness	noun	ethical|ethical|R|Adj ; -ness|ness|S
+ethicize	verb	ethic|ethic|R|N ; -ize|ize|S
+ethionine	noun	ethionine|ethionine|R|N
+ethmoiditis	noun	ethmoiditis|ethmoiditis|R|N
+ethnarch	noun	ethnarch|ethnarch|R|N
+ethnicism	noun	ethnic|ethnic|R|Adj ; -ism|ism|S
+ethnocentrically	adv	ethnocentric|ethnocentric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+ethnocentricity	noun	ethnocentric|ethnocentric|R|Adj ; -ity|ity|S
+ethnocide	noun	ethnocide|ethnocide|R|N
+ethnocracy	noun	ethnocracy|ethnocracy|R|N
+ethnocultural	adj	ethnocultural|ethnocultural|R|Adj
+ethnogenic	adj	ethnogenic|ethnogenic|R|Adj
+ethnogeny	noun	ethnogeny|ethnogeny|R|N
+ethnographically	adv	ethnography|ethnograph|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+ethnolect	noun	ethnolect|ethnolect|R|N
+ethnolinguistics	noun	ethnolinguistics|ethnolinguistics|R|N
+ethnologic	adj	ethnology|ethnolog|R|N ; -ic|ic|S
+ethnologically	adv	ethnology|ethnolog|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+ethnomusicological	adj	ethnomusicology|ethnomusicolog|R|N ; -ical|ical|S
+ethnonationalism	noun	ethnonationalism|ethnonationalism|R|N
+ethnonym	noun	ethnonym|ethnonym|R|N
+ethnophaulism	noun	ethnophaulism|ethnophaulism|R|N
+ethnopolitical	adj	ethnopolitical|ethnopolitical|R|Adj
+ethnopolitics	noun	ethnopolitics|ethnopolitics|R|N
+ethnopsychology	noun	ethnopsychology|ethnopsychology|R|N
+ethnorelativism	noun	ethnorelativism|ethnorelativism|R|N
+ethnoreligious	adj	ethnoreligious|ethnoreligious|R|Adj
+ethnos	noun	ethnos|ethnos|R|N
+ethnosocial	adj	ethnosocial|ethnosocial|R|Adj
+ethnostate	noun	ethnostate|ethnostate|R|N
+ethnozoology	noun	ethnozoology|ethnozoology|R|N
+ethography	noun	ethography|ethography|R|N
+ethologically	adv	ethology|etholog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+ethopoeia	noun	ethopoeia|ethopoeia|R|N
+ethoxy	noun	ethoxy|ethoxy|R|N
+ethoxyl	noun	ethoxyl|ethoxyl|R|N
+ethylamine	noun	ethyl|ethyl|R|N ; amine|amine|R|N
+ethylation	noun	ethyl|ethyl|R|N ; -ate|at|S ; -ion|ion|S
+ethylenic	adj	ethylene|ethylen|R|N ; -ic|ic|S
+ethylic	adj	ethyl|ethyl|R|N ; -ic|ic|S
+ethyne	noun	ethyne|ethyne|R|N
+etiolate	verb	etiolate|etiolate|R|V
+etiolation	noun	etiolate|etiolat|R|V ; -ion|ion|S
+etiologically	adv	etiology|etiolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+etiologist	noun	etiology|etiolog|R|N ; -ist|ist|S
+etomidate	noun	etomidate|etomidate|R|N
+ettle	verb	ettle|ettle|R|V
+etymologer	noun	etymology|etymolog|R|N ; -er|er|S||-er (N)
+etymologic	adj	etymology|etymolog|R|N ; -ic|ic|S
+etymologist	noun	etymology|etymolog|R|N ; -ist|ist|S
+etymologize	verb	etymology|etymolog|R|N ; -ize|ize|S
+etymon	noun	etymon|etymon|R|N
+eucalypt	noun	eucalypt|eucalypt|R|N
+eucalyptol	noun	eucalyptol|eucalyptol|R|N
+eucarpic	adj	eucarpic|eucarpic|R|Adj
+eucatastrophe	noun	eucatastrophe|eucatastrophe|R|N
+eucentric	adj	eucentric|eucentric|R|Adj
+eucephalous	adj	eucephalous|eucephalous|R|Adj
+eucharis	noun	eucharis|eucharis|R|N
+euchologion	noun	euchologion|euchologion|R|N
+euchred	adj	euchre|euchr|R|V ; -ed|ed|S||-ed (adj)
+euchroic	adj	euchroic|euchroic|R|Adj
+euchromatic	adj	euchromatic|euchromatic|R|Adj
+euchromatin	noun	euchromatin|euchromatin|R|N
+euchromosome	noun	euchromosome|euchromosome|R|N
+eudaemon	noun	eudaemon|eudaemon|R|N
+eudaemonic	adj	eudaemonic|eudaemonic|R|Adj
+eudaemonism	noun	eudaemonism|eudaemonism|R|N
+eudaemonist	noun	eudaemonist|eudaemonist|R|N
+eudiometer	noun	eudiometer|eudiometer|R|N
+eudiometric	adj	eudiometric|eudiometric|R|Adj
+eudiometrical	adj	eudiometric|eudiometric|R|Adj ; -al|al|S
+eudiometry	noun	eudiometry|eudiometry|R|N
+eudominant	adj	eudominant|eudominant|R|Adj
+euergete	noun	euergete|euergete|R|N
+euergetism	noun	euergetism|euergetism|R|N
+euergetist	noun	euergetist|euergetist|R|N
+eugenia	noun	eugenia|eugenia|R|N
+eugenically	adv	eugenic|eugenic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+eugenism	noun	eugenic|eugen|R|Adj ; -ism|ism|S
+eugenist	noun	eugenic|eugen|R|Adj ; -ist|ist|S
+eugenol	noun	eugenol|eugenol|R|N
+euglena	noun	euglena|euglena|R|N
+eugonic	adj	eugonic|eugonic|R|Adj
+euhemerism	noun	euhemerism|euhemerism|R|N
+euhemerist	noun	euhemerist|euhemerist|R|N
+euhemeristic	adj	euhemeristic|euhemeristic|R|Adj
+euhemeristically	adv	euhemeristic|euhemeristic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+euhemerize	verb	euhemerize|euhemerize|R|V
+eulogia	noun	eulogia|eulogia|R|N
+eulogist	noun	eulogy|eulog|R|N ; -ist|ist|S

@@ -1,0 +1,200 @@
+treenail	noun	tree|tree|R|N ; nail|nail|R|N
+trehalose	noun	trehalose|trehalose|R|N
+trematode	noun	trematode|trematode|R|N
+trembler	noun	tremble|trembl|R|V ; -er|er|S||-er (N)
+trembles	noun	tremble|trembl|R|V ; -es|es|I||-s (plural)
+tremblingly	adv	tremble|trembl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+tremellose	adj	tremellose|tremellose|R|Adj
+tremulant	noun	tremulant|tremulant|R|N
+trenchancy	noun	trenchant|trench|R|Adj ; -ancy|ancy|S
+trenches	noun	trench|trench|R|N ; -es|es|I||-s (plural)
+trenching	verb	trench|trench|R|V ; -ing|ing|I||-ing (v)
+trendily	adv	trendy|trendi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+trending	verb	trend|trend|R|V ; -ing|ing|I||-ing (v)
+trendsetting	adj	trend|trend|R|N ; set|sett|R|V ; -ing|ing|S||-ing (adj)
+trendyism	noun	trendy|trendy|R|Adj ; -ism|ism|S
+trental	noun	trental|trental|R|N
+trepak	noun	trepak|trepak|R|N
+trepan	verb	trepan|trepan|R|V
+trepanation	noun	trepan|trepan|R|V ; -ation|ation|S
+trepang	noun	trepang|trepang|R|N
+trephination	noun	trephine|trephin|R|V ; -ation|ation|S
+trephine	noun	trephine|trephine|R|N
+treponema	noun	treponema|treponema|R|N
+treponemal	adj	treponema|treponem|R|N ; -al|al|S
+treponematosis	noun	treponematosis|treponematosis|R|N
+treponeme	noun	treponeme|treponeme|R|N
+treshchotka	noun	treshchotka|treshchotka|R|N
+tressed	adj	tress|tress|R|N ; -ed|ed|S||-ed (adj)
+tressure	noun	tressure|tressure|R|N
+trevally	noun	trevally|trevally|R|N
+trevigintillion	noun	trevigintillion|trevigintillion|R|N
+trews	noun	trews|trews|R|N
+treyf	adj	treyf|treyf|R|Adj
+triable	adj	try|tri|R|V ; -able|able|S
+triacetate	noun	tri-|tri|P ; acetate|acetate|R|N
+triacontadigon	noun	triacontadigon|triacontadigon|R|N
+triacontagon	noun	triacontagon|triacontagon|R|N
+triacontahedral	adj	triacontahedron|triacontahedr|R|N ; -al|al|S
+triacontahedron	noun	triacontahedron|triacontahedron|R|N
+triacontane	noun	triacontane|triacontane|R|N
+triacontatetragon	noun	triacontatetragon|triacontatetragon|R|N
+triadelphous	adj	triadelphous|triadelphous|R|Adj
+trialism	noun	trial|trial|R|N ; -ism|ism|S
+trialogue	noun	tri-|tri|P ; dialogue|alogue|R|N
+triandrous	adj	triandrous|triandrous|R|Adj
+triangulable	adj	triangulate|triangul|R|V ; -able|able|S
+triangularity	noun	triangle|triangul|R|N ; -ar|ar|S ; -ity|ity|S
+triangulator	noun	triangulate|triangul|R|V ; -or|ator|S
+triapsidal	adj	tri-|tri|P ; apsidal|apsidal|R|Adj
+triarchy	noun	triarchy|triarchy|R|N
+triathlete	noun	tri-|tri|P ; athlete|athlete|R|N
+triatomic	adj	tri-|tri|P ; atomic|atomic|R|Adj
+triaxial	adj	tri-|tri|P ; axial|axial|R|Adj
+triaxiality	noun	tri-|tri|P ; axial|axial|R|Adj ; -ity|ity|S
+tribade	noun	tribade|tribade|R|N
+tribadic	adj	tribade|tribad|R|N ; -ic|ic|S
+tribadism	noun	tribade|tribad|R|N ; -ism|ism|S
+tribalistic	adj	tribal|tribal|R|Adj ; -ist|ist|S ; -ic|ic|S
+tribble	noun	tribble|tribble|R|N
+tribemate	noun	tribe|tribe|R|N ; mate|mate|R|N
+triblet	noun	tribe|trib|R|N ; -let|let|S
+triboelectric	adj	triboelectric|triboelectric|R|Adj
+triboelectricity	noun	triboelectricity|triboelectricity|R|N
+tribological	adj	tribology|tribolog|R|N ; -ical|ical|S
+tribologist	noun	tribology|tribolog|R|N ; -ist|ist|S
+triboluminescence	noun	triboluminescence|triboluminescence|R|N
+triboluminescent	adj	triboluminescent|triboluminescent|R|Adj
+tribometer	noun	tribometer|tribometer|R|N
+tribophysics	noun	tribophysics|tribophysics|R|N
+tribrach	noun	tribrach|tribrach|R|N
+tribrachic	adj	tribrach|tribrach|R|N ; -ic|ic|S
+tribunary	adj	tribune|tribun|R|N ; -ary|ary|S
+tribunate	noun	tribune|tribun|R|N ; -ate|ate|S
+tribuneship	noun	tribune|tribune|R|N ; -ship|ship|S
+tribunitial	adj	tribunitial|tribunitial|R|Adj
+tricameralism	noun	tri-|tri|P ; cameral|cameral|R|Adj ; -ism|ism|S
+tricar	noun	tri-|tri|P ; car|car|R|N
+tricarpellary	adj	tri-|tri|P ; carpel|carpell|R|N ; -ary|ary|S
+tricarpellate	adj	tri-|tri|P ; carpel|carpell|R|N ; -ate|ate|S
+tricenarian	noun	tricenarian|tricenarian|R|N
+tricennial	adj	tricennial|tricennial|R|Adj
+tricentenary	noun	tri-|tri|P ; centenary|centenary|R|N
+trichiasis	noun	trichiasis|trichiasis|R|N
+trichina	noun	trichina|trichina|R|N
+trichinal	adj	trichina|trichin|R|N ; -al|al|S
+trichinosis	noun	trichinosis|trichinosis|R|N
+trichinous	adj	trichina|trichin|R|N ; -ous|ous|S
+trichite	noun	trichite|trichite|R|N
+trichloroethane	noun	trichloroethane|trichloroethane|R|N
+trichloromethane	noun	trichloromethane|trichloromethane|R|N
+trichocyst	noun	trichocyst|trichocyst|R|N
+trichoid	adj	trichoid|trichoid|R|Adj
+trichology	noun	trichology|trichology|R|N
+trichoma	noun	trichoma|trichoma|R|N
+trichome	noun	trichome|trichome|R|N
+trichomic	adj	trichome|trichom|R|N ; -ic|ic|S
+trichomonad	noun	trichomonad|trichomonad|R|N
+trichomoniasis	noun	trichomoniasis|trichomoniasis|R|N
+trichopteran	noun	trichopteran|trichopteran|R|N
+trichord	noun	tri-|tri|P ; chord|chord|R|N
+trichosis	noun	trichosis|trichosis|R|N
+trichotomous	adj	trichotomy|trichotom|R|N ; -ous|ous|S
+trichotomy	noun	trichotomy|trichotomy|R|N
+trichromatic	adj	tri-|tri|P ; chromatic|chromatic|R|Adj
+trichromatism	noun	tri-|tri|P ; chromatic|chromat|R|Adj ; -ism|ism|S
+trichromic	adj	tri-|tri|P ; chromic|chromic|R|Adj
+tricker	noun	trick|trick|R|V ; -er|er|S||-er (N)
+trickily	adv	tricky|tricki|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+trickiness	noun	tricky|tricki|R|Adj ; -ness|ness|S
+tricking	verb	trick|trick|R|V ; -ing|ing|I||-ing (v)
+trickish	adj	trick|trick|R|N ; -ish|ish|S
+tricklet	noun	trick|trick|R|N ; -let|let|S
+tricksy	adj	tricksy|tricksy|R|Adj
+triclad	noun	triclad|triclad|R|N
+triclinic	adj	triclinic|triclinic|R|Adj
+triclinium	noun	triclinium|triclinium|R|N
+tricolette	noun	tricolette|tricolette|R|N
+tricorn	noun	tricorn|tricorn|R|N
+tricornered	adj	tri-|tri|P ; corner|corner|R|N ; -ed|ed|S||-ed (adj)
+tricosane	noun	tricosane|tricosane|R|N
+tricot	noun	tricot|tricot|R|N
+tricotyledonous	adj	tri-|tri|P ; cotyledonous|cotyledonous|R|Adj
+tricrotic	adj	tricrotic|tricrotic|R|Adj
+tricyclist	noun	tri-|tri|P ; cycle|cycl|R|N ; -ist|ist|S
+tridactyl	adj	tri-|tri|P ; dactyl|dactyl|R|N
+tridactylous	adj	tri-|tri|P ; dactyl|dactyl|R|N ; -ous|ous|S
+tridecagon	noun	tridecagon|tridecagon|R|N
+tridecagonal	adj	tridecagon|tridecagon|R|N ; -al|al|S
+tridecahedron	noun	tridecahedron|tridecahedron|R|N
+tridecane	noun	tridecane|tridecane|R|N
+trident	noun	tri-|tri|P ; dent|dent|R|N
+tridimensional	adj	tri-|tri|P ; dimensional|dimensional|R|Adj
+tridimensionality	noun	tri-|tri|P ; dimensional|dimensional|R|Adj ; -ity|ity|S
+triduan	noun	triduan|triduan|R|N
+triduum	noun	triduum|triduum|R|N
+tridymite	noun	tridymite|tridymite|R|N
+triennially	adv	triennial|triennial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+triennium	noun	triennium|triennium|R|N
+trieteric	adj	trieteric|trieteric|R|Adj
+trieterical	adj	trieteric|trieteric|R|Adj ; -al|al|S
+trifacial	adj	tri-|tri|P ; facial|facial|R|Adj
+trifarious	adj	trifarious|trifarious|R|Adj
+triffid	noun	triffid|triffid|R|N
+trifid	adj	trifid|trifid|R|Adj
+trifler	noun	trifle|trifl|R|V ; -er|er|S||-er (N)
+trifocal	adj	tri-|tri|P ; focal|focal|R|Adj
+trifoliate	adj	tri-|tri|P ; foliate|foliate|R|Adj
+trifolium	noun	trifolium|trifolium|R|N
+triforce	noun	tri-|tri|P ; force|force|R|N
+triform	adj	tri-|tri|P ; form|form|R|N
+trifunctional	adj	tri-|tri|P ; functional|functional|R|Adj
+trifurcate	verb	tri-|tri|P ; furcate|furcate|R|V
+trifurcation	noun	tri-|tri|P ; furcate|furcat|R|V ; -ion|ion|S
+trigamist	noun	trigamy|trigam|R|N ; -ist|ist|S
+trigamous	adj	trigamy|trigam|R|N ; -ous|ous|S
+trigamy	noun	trigamy|trigamy|R|N
+triggerfish	noun	trigger|trigger|R|N ; fish|fish|R|N
+triggering	verb	trigger|trigger|R|V ; -ing|ing|I||-ing (v)
+triglot	noun	triglot|triglot|R|N
+triglyph	noun	triglyph|triglyph|R|N
+triglyphic	adj	triglyph|triglyph|R|N ; -ic|ic|S
+triglyphical	adj	triglyph|triglyph|R|N ; -ical|ical|S
+trigon	noun	trigon|trigon|R|N
+trigonal	adj	trigon|trigon|R|N ; -al|al|S
+trigonometric	adj	trigonometry|trigonometr|R|N ; -ic|ic|S
+trigonometrical	adj	trigonometry|trigonometr|R|N ; -ical|ical|S
+trigonous	adj	trigon|trigon|R|N ; -ous|ous|S
+trigraph	noun	tri-|tri|P ; graph|graph|R|N
+trigynous	adj	trigynous|trigynous|R|Adj
+trihedral	adj	trihedral|trihedral|R|Adj
+trihedron	noun	trihedron|trihedron|R|N
+trihybrid	noun	tri-|tri|P ; hybrid|hybrid|R|N
+trijet	noun	tri-|tri|P ; jet|jet|R|N
+trilaterally	adv	tri-|tri|P ; lateral|lateral|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+trilateration	noun	tri-|tri|P ; lateral|later|R|Adj ; -ation|ation|S
+trilemma	noun	tri-|tri|P ; lemma|lemma|R|N
+trilinear	adj	tri-|tri|P ; linear|linear|R|Adj
+trilingualism	noun	tri-|tri|P ; lingual|lingual|R|Adj ; -ism|ism|S
+triliteral	adj	tri-|tri|P ; literal|literal|R|Adj
+trilithon	noun	trilithon|trilithon|R|N
+triller	noun	trill|trill|R|V ; -er|er|S||-er (N)
+trillionaire	noun	trillionaire|trillionaire|R|N
+trilobate	adj	tri-|tri|P ; lobate|lobate|R|Adj
+trilocular	adj	tri-|tri|P ; locular|locular|R|Adj
+trimensual	adj	trimensual|trimensual|R|Adj
+trimer	noun	trimer|trimer|R|N
+trimerous	adj	trimer|trimer|R|N ; -ous|ous|S
+trimestrial	adj	trimester|trimestr|R|N ; -ial|ial|S
+trimeter	noun	tri-|tri|P ; meter|meter|R|N
+trimethoprim	noun	trimethoprim|trimethoprim|R|N
+trimethylamine	noun	tri-|tri|P ; methyl|methyl|R|N ; amine|amine|R|N
+trimethylarsine	noun	tri-|tri|P ; methyl|methyl|R|N ; arsine|arsine|R|N
+trimly	adv	trim|trim|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+trimness	noun	trim|trim|R|Adj ; -ness|ness|S
+trimolecular	adj	tri-|tri|P ; molecular|molecular|R|Adj
+trimonthly	adj	tri-|tri|P ; monthly|monthly|R|Adj
+trimorph	noun	tri-|tri|P ; morph|morph|R|N
+trimorphic	adj	tri-|tri|P ; morph|morph|R|N ; -ic|ic|S
+trimorphism	noun	tri-|tri|P ; morph|morph|R|N ; -ism|ism|S
+trimorphous	adj	tri-|tri|P ; morph|morph|R|N ; -ous|ous|S

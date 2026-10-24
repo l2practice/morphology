@@ -1,0 +1,200 @@
+mysteriousness	noun	mystery|mysteri|R|N ; -ous|ous|S ; -ness|ness|S
+mysticize	verb	mystic|mystic|R|Adj ; -ize|ize|S
+mystificator	noun	mystify|mystifi|R|V ; -or|cator|S
+mystifier	noun	mystify|mystifi|R|V ; -er|er|S||-er (N)
+mythicalness	noun	myth|myth|R|N ; -ic|ic|S ; -al|al|S ; -ness|ness|S
+mythicize	verb	mythic|mythic|R|Adj ; -ize|ize|S
+mythify	verb	myth|myth|R|N ; -ify|ify|S
+mythmaker	noun	myth|myth|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+mythmaking	noun	myth|myth|R|N ; make|mak|R|V ; -ing|ing|S||-ing (N)
+mythographer	noun	mythography|mythograph|R|N ; -er|er|S||-er (N)
+mythography	noun	mythography|mythography|R|N
+mythologic	adj	mythology|mytholog|R|N ; -ic|ic|S
+mythologically	adv	mythology|mytholog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+mythomania	noun	mythomania|mythomania|R|N
+mythomaniac	noun	mythomaniac|mythomaniac|R|N
+mythomaniacal	adj	mythomaniac|mythomaniac|R|N ; -al|al|S
+mythopoet	noun	mythopoet|mythopoet|R|N
+mythopoetry	noun	mythopoetry|mythopoetry|R|N
+myxedema	noun	myxedema|myxedema|R|N
+myxoma	noun	myxoma|myxoma|R|N
+myxomatosis	noun	myxomatosis|myxomatosis|R|N
+mzungu	noun	mzungu|mzungu|R|N
+na	adv	na|na|R|Adv
+nabla	noun	nabla|nabla|R|N
+nabobship	noun	nabob|nabob|R|N ; -ship|ship|S
+nabs	verb	nab|nab|R|V ; -s|s|I||-s (3sg)
+nacarat	noun	nacarat|nacarat|R|N
+nachos	noun	nacho|nacho|R|N ; -s|s|I||-s (plural)
+nacre	noun	nacre|nacre|R|N
+nacred	adj	nacre|nacr|R|N ; -ed|ed|S||-ed (adj)
+nacrous	adj	nacre|nacr|R|N ; -ous|ous|S
+nadiral	adj	nadir|nadir|R|N ; -al|al|S
+naengmyeon	noun	naengmyeon|naengmyeon|R|N
+naevoid	adj	naevoid|naevoid|R|Adj
+naga	noun	naga|naga|R|N
+nagger	noun	nag|nagg|R|V ; -er|er|S||-er (N)
+naggish	adj	nag|nagg|R|V ; -ish|ish|S
+naggy	adj	nag|nagg|R|V ; -y|y|S
+nahiyah	noun	nahiyah|nahiyah|R|N
+naiad	noun	naiad|naiad|R|N
+nailbed	noun	nail|nail|R|N ; bed|bed|R|N
+nailbrush	noun	nail|nail|R|N ; brush|brush|R|N
+nailing	verb	nail|nail|R|V ; -ing|ing|I||-ing (v)
+nails	noun	nail|nail|R|N ; -s|s|I||-s (plural)
+nailset	noun	nail|nail|R|N ; set|set|R|N
+nainsook	noun	nainsook|nainsook|R|N
+naira	noun	naira|naira|R|N
+naissant	adj	naissant|naissant|R|Adj
+naja	noun	naja|naja|R|N
+nake	verb	nake|nake|R|V
+naker	noun	naker|naker|R|N
+naled	noun	naled|naled|R|N
+nalivka	noun	nalivka|nalivka|R|N
+namaste	interj	namaste|namaste|R
+namazi	noun	namazi|namazi|R|N
+nameable	adj	name|name|R|N ; -able|able|S
+namespace	noun	name|name|R|N ; space|space|R|N
+nance	noun	nance|nance|R|N
+nandina	noun	nandina|nandina|R|N
+nandu	noun	nandu|nandu|R|N
+naniq	noun	naniq|naniq|R|N
+nanism	noun	nanism|nanism|R|N
+nankeen	noun	nankeen|nankeen|R|N
+nankhatai	noun	nankhatai|nankhatai|R|N
+nano	noun	nano|nano|R|N
+nanocandela	noun	nanocandela|nanocandela|R|N
+nanocrystal	noun	nanocrystal|nanocrystal|R|N
+nanoid	adj	nanoid|nanoid|R|Adj
+nanoindentation	noun	nanoindentation|nanoindentation|R|N
+nanometre	noun	nanometre|nanometre|R|N
+nanometric	adj	nanometre|nanometr|R|N ; -ic|ic|S
+nanoprocessor	noun	nanoprocessor|nanoprocessor|R|N
+nanori	noun	nanori|nanori|R|N
+nanoscale	noun	nanoscale|nanoscale|R|N
+napery	noun	nap|nap|R|N ; -ery|ery|S
+naphthene	noun	naphthene|naphthene|R|N
+napiform	adj	napiform|napiform|R|Adj
+napless	adj	nap|nap|R|N ; -less|less|S
+napoleon	noun	napoleon|napoleon|R|N
+napoo	noun	napoo|napoo|R|N
+nappe	noun	nappe|nappe|R|N
+napper	noun	nap|napp|R|V ; -er|er|S||-er (N)
+naps	noun	nap|nap|R|N ; -s|s|I||-s (plural)
+narced	adj	narc|narc|R|N ; -ed|ed|S||-ed (adj)
+narcissist	noun	narcissist|narcissist|R|N
+narcist	noun	narcist|narcist|R|N
+narcoanalysis	noun	narcoanalysis|narcoanalysis|R|N
+narcology	noun	narcology|narcology|R|N
+narcomania	noun	narcomania|narcomania|R|N
+narcomaniac	noun	narcomaniac|narcomaniac|R|N
+narcoterrorism	noun	narcoterrorism|narcoterrorism|R|N
+narcotised	verb	narcotise|narcotis|R|V ; -ed|ed|I||-ed (v2)
+narcotism	noun	narcotic|narcot|R|N ; -ism|ism|S
+narcotization	noun	narcotize|narcotiz|R|V ; -ation|ation|S
+narcotize	verb	narcotic|narcot|R|N ; -ize|ize|S
+narcotized	verb	narcotize|narcotiz|R|V ; -ed|ed|I||-ed (v2)
+nard	noun	nard|nard|R|N
+narghile	noun	narghile|narghile|R|N
+narratology	noun	narratology|narratology|R|N
+narrower	adj	narrow|narrow|R|Adj ; -er|er|I||-er (comparative)
+narrows	noun	narrow|narrow|R|N ; -s|s|I||-s (plural)
+nart	noun	nart|nart|R|N
+narutomaki	noun	narutomaki|narutomaki|R|N
+nasality	noun	nasal|nasal|R|Adj ; -ity|ity|S
+nasalization	noun	nasalize|nasaliz|R|V ; -ation|ation|S
+nasalize	verb	nasal|nasal|R|Adj ; -ize|ize|S
+nasalized	verb	nasalize|nasaliz|R|V ; -ed|ed|I||-ed (v2)
+nascency	noun	nascent|nasc|R|Adj ; -ency|ency|S
+nase	noun	nase|nase|R|N
+nasheed	noun	nasheed|nasheed|R|N
+nasion	noun	nasion|nasion|R|N
+nasologist	noun	nasology|nasolog|R|N ; -ist|ist|S
+nasology	noun	nasology|nasology|R|N
+nasopharyngitis	noun	nasopharyngitis|nasopharyngitis|R|N
+nastoyka	noun	nastoyka|nastoyka|R|N
+naswar	noun	naswar|naswar|R|N
+natality	noun	natal|natal|R|Adj ; -ity|ity|S
+natation	noun	natation|natation|R|N
+natatorial	adj	natatory|natatori|R|Adj ; -al|al|S
+natatory	adj	natatory|natatory|R|Adj
+natch	interj	natch|natch|R
+nates	noun	nates|nates|R|N
+nationalitarian	noun	nationalitarian|nationalitarian|R|N
+nato	noun	nato|nato|R|N
+nattering	verb	natter|natter|R|V ; -ing|ing|I||-ing (v)
+natterjack	noun	natter|natter|R|V ; jack|jack|R|N
+nattery	adj	natter|natter|R|V ; -y|y|S
+nattiness	noun	natty|natti|R|Adj ; -ness|ness|S
+natto	noun	natto|natto|R|N
+naturism	noun	nature|natur|R|N ; -ism|ism|S
+naturopathically	adv	naturopathy|naturopath|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+naturopathy	noun	naturopathy|naturopathy|R|N
+naughtily	adv	naughty|naughti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+naumachia	noun	naumachia|naumachia|R|N
+naunt	noun	naunt|naunt|R|N
+naupathia	noun	naupathia|naupathia|R|N
+nauplius	noun	nauplius|nauplius|R|N
+nautically	adv	nautical|nautical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+nautics	noun	nautics|nautics|R|N
+navalism	noun	naval|naval|R|Adj ; -ism|ism|S
+navarch	noun	navarch|navarch|R|N
+navelwort	noun	navel|navel|R|N ; wort|wort|R|N
+navicert	noun	navicert|navicert|R|N
+navicular	adj	navicular|navicular|R|Adj
+navigability	noun	navigable|navigabil|R|Adj ; -ity|ity|S
+nawab	noun	nawab|nawab|R|N
+nazar	noun	nazar|nazar|R|N
+naze	noun	naze|naze|R|N
+neaped	adj	neap|neap|R|N ; -ed|ed|S||-ed (adj)
+nebulizer	noun	nebulize|nebuliz|R|V ; -er|er|S||-er (N)
+nebulose	adj	nebulose|nebulose|R|Adj
+nebulously	adv	nebula|nebul|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+necessarianism	noun	necessarian|necessarian|R|N ; -ism|ism|S
+necessitarian	noun	necessitarian|necessitarian|R|N
+necessitarianism	noun	necessitarian|necessitarian|R|N ; -ism|ism|S
+necessitous	adj	necessity|necessit|R|N ; -ous|ous|S
+neckbeard	noun	neck|neck|R|N ; beard|beard|R|N
+neckbrace	noun	neck|neck|R|N ; brace|brace|R|N
+neckcloth	noun	neck|neck|R|N ; cloth|cloth|R|N
+necking	verb	neck|neck|R|V ; -ing|ing|I||-ing (v)
+necklet	noun	neck|neck|R|N ; -let|let|S
+neckwarmer	noun	neck|neck|R|N ; warm|warm|R|V ; -er|er|S||-er (N)
+necrocracy	noun	necrocracy|necrocracy|R|N
+necrologist	noun	necrology|necrolog|R|N ; -ist|ist|S
+necrology	noun	necrology|necrology|R|N
+necrophage	noun	necrophage|necrophage|R|N
+necrophagous	adj	necrophage|necrophag|R|N ; -ous|ous|S
+necrophagy	noun	necrophagy|necrophagy|R|N
+necrophile	noun	necrophile|necrophile|R|N
+necrophiliac	noun	necrophiliac|necrophiliac|R|N
+necrophobia	noun	necrophobia|necrophobia|R|N
+necrophore	noun	necrophore|necrophore|R|N
+necroscopy	noun	necroscopy|necroscopy|R|N
+necrotize	verb	necrotize|necrotize|R|V
+nectarean	adj	nectarean|nectarean|R|Adj
+nectared	adj	nectar|nectar|R|N ; -ed|ed|S||-ed (adj)
+nectareous	adj	nectar|nectar|R|N ; -eous|eous|S
+nectariferous	adj	nectariferous|nectariferous|R|Adj
+nectarous	adj	nectar|nectar|R|N ; -ous|ous|S
+nectary	noun	nectar|nectar|R|N ; -y|y|S
+neddicky	noun	neddicky|neddicky|R|N
+needfully	adv	need|need|R|V ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+needfulness	noun	need|need|R|V ; -ful|ful|S ; -ness|ness|S
+needing	verb	need|need|R|V ; -ing|ing|I||-ing (v)
+needlecase	noun	needle|needle|R|N ; case|case|R|N
+needlecord	noun	needle|needle|R|N ; cord|cord|R|N
+needled	verb	needle|needl|R|V ; -ed|ed|I||-ed (v2)
+needlefish	noun	needle|needle|R|N ; fish|fish|R|N
+needleful	noun	needle|needle|R|N ; -ful|ful|S
+neener	interj	neener|neener|R
+nefariously	adv	nefarious|nefarious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+nefariousness	noun	nefarious|nefarious|R|Adj ; -ness|ness|S
+negationist	noun	negation|negation|R|N ; -ist|ist|S
+negativeness	noun	negative|negative|R|Adj ; -ness|ness|S
+negativist	noun	negative|negativ|R|Adj ; -ist|ist|S
+negatory	adj	negate|negat|R|V ; -ory|ory|S
+neglectfully	adv	neglect|neglect|R|V ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+neglectfulness	noun	neglect|neglect|R|V ; -ful|ful|S ; -ness|ness|S
+negligibility	noun	negligible|negligibil|R|Adj ; -ity|ity|S
+negotiability	noun	negotiable|negotiabil|R|Adj ; -ity|ity|S

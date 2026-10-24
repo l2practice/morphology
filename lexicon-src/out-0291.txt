@@ -1,0 +1,200 @@
+geolocation	noun	geolocation|geolocation|R|N
+geologize	verb	geology|geolog|R|N ; -ize|ize|S
+geomagnetism	noun	geomagnetic|geomagnet|R|Adj ; -ism|ism|S
+geomancer	noun	geomancy|geomanc|R|N ; -er|er|S||-er (N)
+geomancy	noun	geomancy|geomancy|R|N
+geomantic	adj	geomancy|geomant|R|N ; -ic|ic|S
+geomathematics	noun	geomathematics|geomathematics|R|N
+geomatics	noun	geomatic|geomatic|R|Adj ; -s|s|I||-s (plural)
+geometer	noun	geometry|geomet|R|N ; -er|er|S||-er (N)
+geometrician	noun	geometric|geometric|R|Adj ; -ian|ian|S
+geometrid	noun	geometrid|geometrid|R|N
+geometrization	noun	geometrize|geometriz|R|V ; -ation|ation|S
+geometrize	verb	geometry|geometr|R|N ; -ize|ize|S
+geomorphogeny	noun	geomorphogeny|geomorphogeny|R|N
+geonastic	adj	geonastic|geonastic|R|Adj
+geonym	noun	geonym|geonym|R|N
+geophagism	noun	geophagy|geophag|R|N ; -ism|ism|S
+geophagous	adj	geophagous|geophagous|R|Adj
+geophagy	noun	geophagy|geophagy|R|N
+geophilous	adj	geophilous|geophilous|R|Adj
+geophone	noun	geophone|geophone|R|N
+geophyte	noun	geophyte|geophyte|R|N
+geopolitically	adv	geopolitical|geopolitical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+geopotential	noun	geopotential|geopotential|R|N
+georadar	noun	georadar|georadar|R|N
+georgic	noun	georgic|georgic|R|N
+geoscientist	noun	geoscience|geoscient|R|N ; -ist|ist|S
+geospatial	adj	geospatial|geospatial|R|Adj
+geosphere	noun	geosphere|geosphere|R|N
+geostrategy	noun	geostrategy|geostrategy|R|N
+geosynclinal	adj	geosyncline|geosynclin|R|N ; -al|al|S
+geosyncline	noun	geosyncline|geosyncline|R|N
+geotectonic	adj	geotectonic|geotectonic|R|Adj
+geotectonics	noun	geotectonic|geotectonic|R|Adj ; -s|s|I||-s (plural)
+geothermic	adj	geothermic|geothermic|R|Adj
+geothermy	noun	geothermy|geothermy|R|N
+geotropic	adj	geotropic|geotropic|R|Adj
+geotropism	noun	geotropic|geotrop|R|Adj ; -ism|ism|S
+gephyrophobia	noun	gephyrophobia|gephyrophobia|R|N
+geraniol	noun	geraniol|geraniol|R|N
+geratology	noun	geratology|geratology|R|N
+gerbera	noun	gerbera|gerbera|R|N
+gerenuk	noun	gerenuk|gerenuk|R|N
+geriatrics	noun	geriatric|geriatric|R|Adj ; -s|s|I||-s (plural)
+geriatrist	noun	geriatric|geriatr|R|Adj ; -ist|ist|S
+geriatry	noun	geriatry|geriatry|R|N
+german	noun	german|german|R|N
+germander	noun	germander|germander|R|N
+germanic	adj	german|german|R|N ; -ic|ic|S
+germanophilia	noun	germanophilia|germanophilia|R|N
+germen	noun	germen|germen|R|N
+germicidal	adj	germicide|germicid|R|N ; -al|al|S
+germicide	noun	germicide|germicide|R|N
+germinability	noun	germinable|germinabil|R|Adj ; -ity|ity|S
+germinable	adj	germinate|germin|R|V ; -able|able|S
+germinant	noun	germinate|germin|R|V ; -ant|ant|S
+germinative	adj	germinate|germin|R|V ; -ative|ative|S
+germinator	noun	germinate|germin|R|V ; -or|ator|S
+germule	noun	germule|germule|R|N
+gerontic	adj	gerontic|gerontic|R|Adj
+gerontocrat	noun	gerontocrat|gerontocrat|R|N
+gerontocratic	adj	gerontocrat|gerontocrat|R|N ; -ic|ic|S
+gerontologic	adj	gerontology|gerontolog|R|N ; -ic|ic|S
+gerontophilia	noun	gerontophilia|gerontophilia|R|N
+gerontophobia	noun	gerontophobia|gerontophobia|R|N
+geropsychiatry	noun	geropsychiatry|geropsychiatry|R|N
+gerund	noun	gerund|gerund|R|N
+gerundial	adj	gerund|gerund|R|N ; -ial|ial|S
+gerundival	adj	gerundive|gerundiv|R|Adj ; -al|al|S
+gerundive	adj	gerund|gerund|R|N ; -ive|ive|S
+gestative	adj	gestate|gestat|R|V ; -ive|ive|S
+gestic	adj	gestic|gestic|R|Adj
+gesticulative	adj	gesticulate|gesticulat|R|V ; -ive|ive|S
+gesticulator	noun	gesticulate|gesticul|R|V ; -or|ator|S
+gesticulatory	adj	gesticulate|gesticulat|R|V ; -ory|ory|S
+gesturer	noun	gesture|gestur|R|V ; -er|er|S||-er (N)
+geta	noun	geta|geta|R|N
+gettable	adj	get|gett|R|V ; -able|able|S
+getting	verb	get|gett|R|V ; -ing|ing|I||-ing (v)
+getup	noun	get|get|R|V ; up|up|R|Adv
+geum	noun	geum|geum|R|N
+gewgaw	noun	gewgaw|gewgaw|R|N
+gey	adj	gey|gey|R|Adj
+geyserite	noun	geyserite|geyserite|R|N
+gharial	noun	gharial|gharial|R|N
+gharry	noun	gharry|gharry|R|N
+ghastliness	noun	ghastly|ghastli|R|Adj ; -ness|ness|S
+ghazal	noun	ghazal|ghazal|R|N
+ghazi	noun	ghazi|ghazi|R|N
+ghazwa	noun	ghazwa|ghazwa|R|N
+ghosted	verb	ghost|ghost|R|V ; -ed|ed|I||-ed (v2)
+ghosthunter	noun	ghost|ghost|R|N ; hunt|hunt|R|V ; -er|er|S||-er (N)
+ghosting	verb	ghost|ghost|R|V ; -ing|ing|I||-ing (v)
+ghostliness	noun	ghostly|ghostli|R|Adj ; -ness|ness|S
+ghostwrite	verb	ghost|ghost|R|N ; write|write|R|V
+ghoulishness	noun	ghoulish|ghoulish|R|Adj ; -ness|ness|S
+ghrelin	noun	ghrelin|ghrelin|R|N
+ghusl	noun	ghusl|ghusl|R|N
+gianduja	noun	gianduja|gianduja|R|N
+giantism	noun	giant|giant|R|N ; -ism|ism|S
+giantlike	adj	giant|giant|R|N ; -like|like|S
+giaour	noun	giaour|giaour|R|N
+giardia	noun	giardia|giardia|R|N
+gibberellin	noun	gibberellin|gibberellin|R|N
+gibbosity	noun	gibbous|gibbos|R|Adj ; -ity|ity|S
+gibbsite	noun	gibbsite|gibbsite|R|N
+giber	noun	gibe|gib|R|V ; -er|er|S||-er (N)
+gibibit	noun	gibibit|gibibit|R|N
+gibibyte	noun	gibibyte|gibibyte|R|N
+gibing	verb	gibe|gib|R|V ; -ing|ing|I||-ing (v)
+gibingly	adv	gibe|gib|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+giblets	noun	giblet|giblet|R|N ; -s|s|I||-s (plural)
+gibus	noun	gibus|gibus|R|N
+giddyup	interj	giddyup|giddyup|R|N
+giftbox	noun	gift|gift|R|N ; box|box|R|N
+gifting	verb	gift|gift|R|N ; -ing|ing|I||-ing (v)
+gigaflop	noun	gigaflop|gigaflop|R|N
+gigalitre	noun	gigalitre|gigalitre|R|N
+gigametre	noun	gigametre|gigametre|R|N
+gigantesque	adj	gigantesque|gigantesque|R|Adj
+gigantically	adv	gigantic|gigantic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+gigantocyte	noun	gigantocyte|gigantocyte|R|N
+gigantomachy	noun	gigantomachy|gigantomachy|R|N
+gigaparsec	noun	gigaparsec|gigaparsec|R|N
+gigapixel	noun	gigapixel|gigapixel|R|N
+gigaton	noun	gigaton|gigaton|R|N
+gigging	verb	gig|gigg|R|V ; -ing|ing|I||-ing (v)
+giggler	noun	giggle|giggl|R|V ; -er|er|S||-er (N)
+giggles	noun	giggle|giggle|R|V ; -s|s|I||-s (plural)
+gigot	noun	gigot|gigot|R|N
+gilbert	noun	gilbert|gilbert|R|N
+gilet	noun	gilet|gilet|R|N
+gillie	noun	gillie|gillie|R|N
+gillion	noun	gillion|gillion|R|N
+gillnet	noun	gill|gill|R|N ; net|net|R|N
+gillyflower	noun	gillyflower|gillyflower|R|N
+gilo	noun	gilo|gilo|R|N
+gimel	noun	gimel|gimel|R|N
+gingerade	noun	gingerade|gingerade|R|N
+gingival	adj	gingiva|gingiv|R|N ; -al|al|S
+gingivolabial	adj	gingivolabial|gingivolabial|R|Adj
+gink	noun	gink|gink|R|N
+ginkgo	noun	ginkgo|ginkgo|R|N
+ginned	verb	gin|ginn|R|V ; -ed|ed|I||-ed (v2)
+ginnel	noun	ginnel|ginnel|R|N
+ginning	verb	gin|ginn|R|V ; -ing|ing|I||-ing (v)
+ginny	adj	gin|ginn|R|N ; -y|y|S
+ginormous	adj	ginormous|ginormous|R|Adj
+gip	noun	gip|gip|R|N
+gippo	noun	gippo|gippo|R|N
+gipsyish	adj	gipsy|gipsy|R|N ; -ish|ish|S
+girandole	noun	girandole|girandole|R|N
+girasol	noun	girasol|girasol|R|N
+girasole	noun	girasole|girasole|R|N
+girding	verb	gird|gird|R|V ; -ing|ing|I||-ing (v)
+girdled	verb	girdle|girdl|R|V ; -ed|ed|I||-ed (v2)
+girlcock	noun	girl|girl|R|N ; cock|cock|R|N
+girlishness	noun	girlish|girlish|R|Adj ; -ness|ness|S
+girls	noun	girl|girl|R|N ; -s|s|I||-s (plural)
+girlyman	noun	girly|girly|R|Adj ; man|man|R|N
+girn	verb	girn|girn|R|V
+girt	verb	gird|girt|R|V ; -ed||I||-ed (v2)
+gisarme	noun	gisarme|gisarme|R|N
+gittern	noun	gittern|gittern|R|N
+glabella	noun	glabella|glabella|R|N
+glabellar	adj	glabella|glabell|R|N ; -ar|ar|S
+glabrous	adj	glabrous|glabrous|R|Adj
+glacialism	noun	glacial|glacial|R|Adj ; -ism|ism|S
+glacialist	noun	glacial|glacial|R|Adj ; -ist|ist|S
+glacialize	verb	glacial|glacial|R|Adj ; -ize|ize|S
+glaciate	verb	glacier|glaci|R|N ; -ate|ate|S
+glaciology	noun	glaciology|glaciology|R|N
+glacis	noun	glacis|glacis|R|N
+gladdening	adj	gladden|gladden|R|V ; -ing|ing|S||-ing (adj)
+gladiate	adj	gladius|gladi|R|N ; -ate|ate|S
+gladiatrix	noun	gladiatrix|gladiatrix|R|N
+gladius	noun	gladius|gladius|R|N
+gladsome	adj	glad|glad|R|Adj ; -some|some|S
+glaikit	adj	glaikit|glaikit|R|Adj
+glair	noun	glair|glair|R|N
+glaireous	adj	glair|glair|R|N ; -eous|eous|S
+glairiness	noun	glairy|glairi|R|Adj ; -ness|ness|S
+glaive	noun	glaive|glaive|R|N
+glamourless	adj	glamour|glamour|R|N ; -less|less|S
+glandered	adj	glanders|glander|R|N ; -ed|ed|S||-ed (adj)
+glanderous	adj	glanders|glander|R|N ; -ous|ous|S
+glanders	noun	glanders|glanders|R|N
+glandiferous	adj	glandiferous|glandiferous|R|Adj
+glandiform	adj	glandiform|glandiform|R|Adj
+glandule	noun	glandule|glandule|R|N
+glanduliferous	adj	glanduliferous|glanduliferous|R|Adj
+glandulous	adj	glandule|glandul|R|N ; -ous|ous|S
+glans	noun	glans|glans|R|N
+glary	adj	glare|glar|R|V ; -y|y|S
+glassblowing	noun	glass|glass|R|N ; blow|blow|R|V ; -ing|ing|S||-ing (N)
+glasses	noun	glass|glass|R|N ; -es|es|I||-s (plural)
+glassily	adv	glassy|glassi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+glassiness	noun	glassy|glassi|R|Adj ; -ness|ness|S
+glassing	noun	glass|glass|R|N ; -ing|ing|S||-ing (N)
+glassman	noun	glass|glass|R|N ; man|man|R|N

@@ -1,0 +1,200 @@
+intumesce	verb	intumesce|intumesce|R|V
+intumescence	noun	intumesce|intumesc|R|V ; -ence|ence|S
+intumescent	adj	intumesce|intumesc|R|V ; -ent|ent|S
+intussuscept	verb	intussuscept|intussuscept|R|V
+intussusception	noun	intussuscept|intussuscept|R|V ; -ion|ion|S
+intussusceptive	adj	intussuscept|intussuscept|R|V ; -ive|ive|S
+inula	noun	inula|inula|R|N
+inunction	noun	in-|in|P ; unction|unction|R|N
+inundator	noun	inundate|inundat|R|V ; -or|or|S
+inundatory	adj	inundate|inundat|R|V ; -ory|ory|S
+inurbane	adj	in-|in|P ; urbane|urbane|R|Adj
+inurbanity	noun	in-|in|P ; urban|urban|R|Adj ; -ity|ity|S
+inured	verb	inure|inur|R|V ; -ed|ed|I||-ed (v2)
+inurement	noun	inure|inure|R|V ; -ment|ment|S
+inurn	verb	in-|in|P ; urn|urn|R|N
+inurnment	noun	in-|in|P ; urn|urn|R|N ; -ment|ment|S
+inutile	adj	in-|in|P ; utile|utile|R|Adj
+inutility	noun	in-|in|P ; utile|util|R|Adj ; -ity|ity|S
+invadable	adj	invade|invad|R|V ; -able|able|S
+invaginate	verb	in-|in|P ; vagina|vagin|R|N ; -ate|ate|S
+invagination	noun	in-|in|P ; vagina|vagin|R|N ; -ation|ation|S
+invalidated	verb	invalid|invalid|R|Adj ; -ate|at|S ; -ed|ed|I||-ed (v2)
+invalidator	noun	invalid|invalid|R|Adj ; -ate|at|S ; -or|or|S
+invalidhood	noun	invalid|invalid|R|Adj ; -hood|hood|S
+invaliding	verb	invalid|invalid|R|Adj ; -ing|ing|I||-ing (v)
+invalidism	noun	invalid|invalid|R|Adj ; -ism|ism|S
+invalidly	adv	invalid|invalid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+invaluableness	noun	in-|in|P ; value|valu|R|N ; -able|able|S ; -ness|ness|S
+invaluably	adv	in-|in|P ; value|valu|R|N ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+invar	noun	invar|invar|R|N
+invariability	noun	in-|in|P ; vary|vari|R|V ; -able|abil|S ; -ity|ity|S
+invariableness	noun	in-|in|P ; vary|vari|R|V ; -able|able|S ; -ness|ness|S
+invasively	adv	invade|invas|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+invectively	adv	invective|invective|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+invectiveness	noun	invective|invective|R|Adj ; -ness|ness|S
+inveigher	noun	inveigh|inveigh|R|V ; -er|er|S||-er (N)
+inveighing	verb	inveigh|inveigh|R|V ; -ing|ing|I||-ing (v)
+inveiglement	noun	inveigle|inveigle|R|V ; -ment|ment|S
+inveigler	noun	inveigle|inveigl|R|V ; -er|er|S||-er (N)
+inventable	adj	invent|invent|R|V ; -able|able|S
+inventional	adj	invent|invent|R|V ; -ion|ion|S ; -al|al|S
+inventorial	adj	inventory|inventori|R|N ; -al|al|S
+inventorially	adv	inventory|inventori|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+inveracity	noun	in-|in|P ; veracity|veracity|R|N
+inversive	adj	inverse|invers|R|Adj ; -ive|ive|S
+invertase	noun	invertase|invertase|R|N
+invertibility	noun	invert|invert|R|V ; -ible|ibil|S ; -ity|ity|S
+invertible	adj	invert|invert|R|V ; -ible|ible|S
+investable	adj	invest|invest|R|V ; -able|able|S
+investible	adj	invest|invest|R|V ; -ible|ible|S
+investigable	adj	investigate|investig|R|V ; -able|able|S
+investigatorial	adj	investigate|investigat|R|V ; -or|or|S ; -ial|ial|S
+investitive	adj	invest|invest|R|V ; -itive|itive|S
+inveteracy	noun	inveterate|inveter|R|Adj ; -cy|acy|S
+inveterately	adv	inveterate|inveterate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inveterateness	noun	inveterate|inveterate|R|Adj ; -ness|ness|S
+inviability	noun	in-|in|P ; viable|viabil|R|Adj ; -ity|ity|S
+inviable	adj	in-|in|P ; viable|viable|R|Adj
+invidiousness	noun	invidious|invidious|R|Adj ; -ness|ness|S
+invigilate	verb	in-|in|P ; vigil|vigil|R|N ; -ate|ate|S
+invigilation	noun	in-|in|P ; vigil|vigil|R|N ; -ation|ation|S
+invigilator	noun	in-|in|P ; vigil|vigil|R|N ; -ate|at|S ; -or|or|S
+invigorant	noun	in-|in|P ; vigor|vigor|R|N ; -ant|ant|S
+invigoratingly	adv	in-|in|P ; vigor|vigor|R|N ; -ate|at|S ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+invigoration	noun	in-|in|P ; vigor|vigor|R|N ; -ation|ation|S
+invigorative	adj	in-|in|P ; vigor|vigor|R|N ; -ate|at|S ; -ive|ive|S
+invincibleness	noun	in-|in|P ; vincible|vincible|R|Adj ; -ness|ness|S
+invincibly	adv	in-|in|P ; vincible|vincibl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+inviolableness	noun	in-|in|P ; violable|violable|R|Adj ; -ness|ness|S
+inviolably	adv	in-|in|P ; violable|violabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+inviolacy	noun	in-|in|P ; violate|viol|R|V ; -cy|acy|S
+inviolately	adv	in-|in|P ; violate|violate|R|V ; -ly|ly|I|Adv|-ly (adv)
+inviolateness	noun	in-|in|P ; violate|violate|R|V ; -ness|ness|S
+invisibleness	noun	in-|in|P ; vis|vis|B|V ; -ible|ible|S ; -ness|ness|S
+invitatory	adj	invite|invit|R|V ; -ory|atory|S
+inviter	noun	invite|invit|R|V ; -er|er|S||-er (N)
+invitingness	noun	invite|invit|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+invocate	verb	invocate|invocate|R|V
+invocational	adj	invocate|invocat|R|V ; -ion|ion|S ; -al|al|S
+invocative	adj	invocate|invocat|R|V ; -ive|ive|S
+invocatory	adj	invocate|invocat|R|V ; -ory|ory|S
+invoker	noun	invoke|invok|R|V ; -er|er|S||-er (N)
+involucral	adj	involucre|involucr|R|N ; -al|al|S
+involucrate	adj	involucre|involucr|R|N ; -ate|ate|S
+involucre	noun	involucre|involucre|R|N
+involucrum	noun	involucrum|involucrum|R|N
+involuntariness	noun	in-|in|P ; voluntary|voluntari|R|Adj ; -ness|ness|S
+involute	adj	in-|in|P ; volute|volute|R|N
+involutely	adv	in-|in|P ; volute|volute|R|N ; -ly|ly|I|Adv|-ly (adv)
+involutional	adj	involution|involution|R|N ; -al|al|S
+involutory	adj	involution|involut|R|N ; -ory|ory|S
+involvedly	adv	involve|involv|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+involver	noun	involve|involv|R|V ; -er|er|S||-er (N)
+invulnerably	adv	in-|in|P ; vulnerable|vulnerabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+inwrought	adj	in-|in|P ; work|wrought|R|V ; -en||I||-en (participle)
+iodate	noun	iodine|iod|R|N ; -ate|ate|S
+iodic	adj	iodine|iod|R|N ; -ic|ic|S
+iodism	noun	iodine|iod|R|N ; -ism|ism|S
+iodization	noun	iodize|iodiz|R|V ; -ation|ation|S
+iodize	verb	iodine|iod|R|N ; -ize|ize|S
+iodoform	noun	iodoform|iodoform|R|N
+iodomethane	noun	iodomethane|iodomethane|R|N
+iolite	noun	iolite|iolite|R|N
+ionizer	noun	ion|ion|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+ionophore	noun	ionophore|ionophore|R|N
+ionospheric	adj	ionosphere|ionospher|R|N ; -ic|ic|S
+iotate	noun	iotate|iotate|R|N
+iotation	noun	iotation|iotation|R|N
+ipecacuanha	noun	ipecacuanha|ipecacuanha|R|N
+ipseity	noun	ipseity|ipseity|R|N
+iqama	noun	iqama|iqama|R|N
+irade	noun	irade|irade|R|N
+irascibleness	noun	irascible|irascible|R|Adj ; -ness|ness|S
+irascibly	adv	irascible|irascibl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+iraser	noun	iraser|iraser|R|N
+irately	adv	irate|irate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+irateness	noun	irate|irate|R|Adj ; -ness|ness|S
+ireful	adj	ire|ire|R|N ; -ful|ful|S
+irefully	adv	ire|ire|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+irefulness	noun	ire|ire|R|N ; -ful|ful|S ; -ness|ness|S
+irenic	adj	irenic|irenic|R|Adj
+irenical	adj	irenic|irenic|R|Adj ; -al|al|S
+irenically	adv	irenic|irenic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+iresine	noun	iresine|iresine|R|N
+iridaceous	adj	iridaceous|iridaceous|R|Adj
+iridesce	verb	iridesce|iridesce|R|V
+iridescently	adv	iridescent|iridescent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+iridic	adj	iris|irid|R|N ; -ic|ic|S
+iridosmine	noun	iridosmine|iridosmine|R|N
+irisation	noun	iris|iris|R|N ; -ation|ation|S
+iritic	adj	iris|irit|R|N ; -ic|ic|S
+iritis	noun	iritis|iritis|R|N
+irksomely	adv	irksome|irksome|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+irksomeness	noun	irksome|irksome|R|Adj ; -ness|ness|S
+iroko	noun	iroko|iroko|R|N
+ironer	noun	iron|iron|R|N ; -er|er|S||-er (N)
+ironicalness	noun	ironic|ironic|R|Adj ; -al|al|S ; -ness|ness|S
+ironize	verb	iron|iron|R|N ; -ize|ize|S
+ironlike	adj	iron|iron|R|N ; -like|like|S
+irons	noun	iron|iron|R|N ; -s|s|I||-s (plural)
+ironsmith	noun	iron|iron|R|N ; smith|smith|R|N
+ironware	noun	iron|iron|R|N ; ware|ware|R|N
+ironworks	noun	iron|iron|R|N ; work|work|R|N ; -s|s|I||-s (plural)
+ironwort	noun	iron|iron|R|N ; wort|wort|R|N
+irradiance	noun	irradiate|irradi|R|V ; -ance|ance|S
+irradiancy	noun	irradiate|irradi|R|V ; -ancy|ancy|S
+irradiant	adj	irradiate|irradi|R|V ; -ant|ant|S
+irradiative	adj	irradiate|irradiat|R|V ; -ive|ive|S
+irradiator	noun	irradiate|irradiat|R|V ; -or|or|S
+irrationalism	noun	irrational|irrational|R|Adj ; -ism|ism|S
+irrationalize	verb	irrational|irrational|R|Adj ; -ize|ize|S
+irrationalness	noun	irrational|irrational|R|Adj ; -ness|ness|S
+irrebuttable	adj	ir-|ir|P|||in- ; rebut|rebutt|R|V ; -able|able|S
+irreclaimability	noun	ir-|ir|P|||in- ; reclaim|reclaim|R|V ; -able|abil|S ; -ity|ity|S
+irreclaimable	adj	ir-|ir|P|||in- ; reclaim|reclaim|R|V ; -able|able|S
+irreclaimableness	noun	ir-|ir|P|||in- ; reclaim|reclaim|R|V ; -able|able|S ; -ness|ness|S
+irreclaimably	adv	ir-|ir|P|||in- ; reclaim|reclaim|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+irreconcilability	noun	ir-|ir|P|||in- ; reconcile|reconcil|R|V ; -able|abil|S ; -ity|ity|S
+irreconcilableness	noun	ir-|ir|P|||in- ; reconcile|reconcil|R|V ; -able|able|S ; -ness|ness|S
+irreconcilably	adv	ir-|ir|P|||in- ; reconcile|reconcil|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+irrecoverableness	noun	ir-|ir|P|||in- ; recover|recover|R|V ; -able|able|S ; -ness|ness|S
+irrecoverably	adv	ir-|ir|P|||in- ; recover|recover|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+irrecusable	adj	ir-|ir|P|||in- ; recuse|recus|R|V ; -able|able|S
+irrecusably	adv	ir-|ir|P|||in- ; recuse|recus|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+irredeemableness	noun	ir-|ir|P|||in- ; redeem|redeem|R|V ; -able|able|S ; -ness|ness|S
+irredeemably	adv	ir-|ir|P|||in- ; redeem|redeem|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+irredentism	noun	irredentism|irredentism|R|N
+irredentist	noun	irredentist|irredentist|R|N
+irreducibility	noun	ir-|ir|P|||in- ; re-|re|P ; -duce|duc|B|V ; -ible|ibil|S ; -ity|ity|S
+irreducibleness	noun	ir-|ir|P|||in- ; re-|re|P ; -duce|duc|B|V ; -ible|ible|S ; -ness|ness|S
+irreformable	adj	ir-|ir|P|||in- ; reform|reform|R|V ; -able|able|S
+irrefragability	noun	ir-|ir|P|||in- ; refragable|refragabil|R|Adj ; -ity|ity|S
+irrefragable	adj	ir-|ir|P|||in- ; refragable|refragable|R|Adj
+irrefragableness	noun	ir-|ir|P|||in- ; refragable|refragable|R|Adj ; -ness|ness|S
+irrefragably	adv	ir-|ir|P|||in- ; refragable|refragabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+irrefrangible	adj	ir-|ir|P|||in- ; refrangible|refrangible|R|Adj
+irrefutability	noun	ir-|ir|P|||in- ; refute|refut|R|V ; -able|abil|S ; -ity|ity|S
+irrefutableness	noun	ir-|ir|P|||in- ; refute|refut|R|V ; -able|able|S ; -ness|ness|S
+irrelative	adj	ir-|ir|P|||in- ; relative|relative|R|Adj
+irrelatively	adv	ir-|ir|P|||in- ; relative|relative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+irrelativeness	noun	ir-|ir|P|||in- ; relative|relative|R|Adj ; -ness|ness|S
+irreligionist	noun	irreligion|irreligion|R|N ; -ist|ist|S
+irreligiosity	noun	irreligious|irreligios|R|Adj ; -ity|ity|S
+irreligiously	adv	irreligious|irreligious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+irreligiousness	noun	irreligious|irreligious|R|Adj ; -ness|ness|S
+irremediableness	noun	ir-|ir|P|||in- ; remedy|remedi|R|V ; -able|able|S ; -ness|ness|S
+irremissibility	noun	ir-|ir|P|||in- ; remit|remiss|R|V ; -ible|ibil|S ; -ity|ity|S
+irremissible	adj	ir-|ir|P|||in- ; remit|remiss|R|V ; -ible|ible|S
+irremissibleness	noun	ir-|ir|P|||in- ; remit|remiss|R|V ; -ible|ible|S ; -ness|ness|S
+irremissibly	adv	ir-|ir|P|||in- ; remit|remiss|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+irremovability	noun	ir-|ir|P|||in- ; remove|remov|R|V ; -able|abil|S ; -ity|ity|S
+irremovable	adj	ir-|ir|P|||in- ; remove|remov|R|V ; -able|able|S
+irremovableness	noun	ir-|ir|P|||in- ; remove|remov|R|V ; -able|able|S ; -ness|ness|S
+irremovably	adv	ir-|ir|P|||in- ; remove|remov|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+irrepairable	adj	ir-|ir|P|||in- ; repair|repair|R|V ; -able|able|S
+irreparability	noun	ir-|ir|P|||in- ; repair|repar|R|V ; -able|abil|S ; -ity|ity|S
+irreparableness	noun	ir-|ir|P|||in- ; repair|repar|R|V ; -able|able|S ; -ness|ness|S
+irrepatriable	adj	ir-|ir|P|||in- ; repatriate|repatri|R|V ; -able|able|S
+irrepealability	noun	ir-|ir|P|||in- ; repeal|repeal|R|V ; -able|abil|S ; -ity|ity|S
+irrepealable	adj	ir-|ir|P|||in- ; repeal|repeal|R|V ; -able|able|S

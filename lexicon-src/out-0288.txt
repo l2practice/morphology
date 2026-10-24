@@ -1,0 +1,200 @@
+froe	noun	froe|froe|R|N
+frogbit	noun	frog|frog|R|N ; bit|bit|R|N
+frogged	verb	frog|frogg|R|V ; -ed|ed|I||-ed (v2)
+froggery	noun	frog|frogg|R|N ; -ery|ery|S
+frogging	verb	frog|frogg|R|V ; -ing|ing|I||-ing (v)
+froghopper	noun	frog|frog|R|N ; hop|hopp|R|V ; -er|er|S||-er (N)
+froglike	adj	frog|frog|R|N ; -like|like|S
+frogling	noun	frog|frog|R|N ; -ling|ling|S
+frogmouth	noun	frog|frog|R|N ; mouth|mouth|R|N
+frogskin	noun	frog|frog|R|N ; skin|skin|R|N
+frogspawn	noun	frog|frog|R|N ; spawn|spawn|R|N
+frolicky	adj	frolic|frolick|R|V ; -y|y|S
+frolicsomeness	noun	frolic|frolic|R|V ; -some|some|S ; -ness|ness|S
+frondage	noun	frond|frond|R|N ; -age|age|S
+frondescence	noun	frondescence|frondescence|R|N
+frondiferous	adj	frondiferous|frondiferous|R|Adj
+frondose	adj	frondose|frondose|R|Adj
+frons	noun	frons|frons|R|N
+frontager	noun	front|front|R|N ; -age|ag|S ; -er|er|S||-er (N)
+frontalis	noun	frontalis|frontalis|R|N
+fronted	verb	front|front|R|V ; -ed|ed|I||-ed (v2)
+frontflip	noun	front|front|R|N ; flip|flip|R|V
+fronting	verb	front|front|R|V ; -ing|ing|I||-ing (v)
+frontless	adj	front|front|R|N ; -less|less|S
+frontlet	noun	front|front|R|N ; -let|let|S
+frontogenesis	noun	frontogenesis|frontogenesis|R|N
+frontolysis	noun	frontolysis|frontolysis|R|N
+fronton	noun	fronton|fronton|R|N
+frontonasal	adj	frontonasal|frontonasal|R|Adj
+frontward	adv	front|front|R|N ; -ward|ward|S
+frontwards	adv	front|front|R|N ; -ward|wards|S
+frostbound	adj	frost|frost|R|N ; bound|bound|R|V
+frostiness	noun	frost|frost|R|N ; -y|i|S ; -ness|ness|S
+frostless	adj	frost|frost|R|N ; -less|less|S
+frostproof	adj	frost|frost|R|N ; proof|proof|R|N
+frot	noun	frot|frot|R|N
+frothiness	noun	froth|froth|R|N ; -y|i|S ; -ness|ness|S
+frottage	noun	frottage|frottage|R|N
+frotteurism	noun	frotteurism|frotteurism|R|N
+frounce	verb	frounce|frounce|R|V
+frow	noun	frow|frow|R|N
+frowardness	noun	froward|froward|R|Adj ; -ness|ness|S
+frowningly	adv	frown|frown|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+frowst	noun	frowst|frowst|R|N
+frowziness	noun	frowzy|frowzi|R|Adj ; -ness|ness|S
+fructan	noun	fructan|fructan|R|N
+fructiferous	adj	fructiferous|fructiferous|R|Adj
+fructification	noun	fructify|fructifi|R|V ; -ation|cation|S
+fructify	verb	fructify|fructify|R|V
+fructivorous	adj	fructivorous|fructivorous|R|Adj
+fructuous	adj	fructuous|fructuous|R|Adj
+frugivore	noun	frugivore|frugivore|R|N
+frugivorous	adj	frugivorous|frugivorous|R|Adj
+fruitage	noun	fruit|fruit|R|N ; -age|age|S
+fruitarian	noun	fruitarian|fruitarian|R|N
+fruiter	noun	fruit|fruit|R|N ; -er|er|S||-er (N)
+fruitgrowing	noun	fruit|fruit|R|N ; grow|grow|R|V ; -ing|ing|S||-ing (N)
+fruitlessness	noun	fruit|fruit|R|N ; -less|less|S ; -ness|ness|S
+fruitlet	noun	fruit|fruit|R|N ; -let|let|S
+frumenty	noun	frumenty|frumenty|R|N
+frumpish	adj	frump|frump|R|N ; -ish|ish|S
+frustule	noun	frustule|frustule|R|N
+frustum	noun	frustum|frustum|R|N
+frutescent	adj	frutescent|frutescent|R|Adj
+fruticose	adj	fruticose|fruticose|R|Adj
+fruticulose	adj	fruticulose|fruticulose|R|Adj
+frybread	noun	fry|fry|R|V ; bread|bread|R|N
+fubsy	adj	fubsy|fubsy|R|Adj
+fuchsine	noun	fuchsine|fuchsine|R|N
+fucivorous	adj	fucivorous|fucivorous|R|Adj
+fuckability	noun	fuck|fuck|R|V ; -able|abil|S ; -ity|ity|S
+fuckable	adj	fuck|fuck|R|V ; -able|able|S
+fuckhead	noun	fuck|fuck|R|V ; head|head|R|N
+fuckshit	noun	fuck|fuck|R|V ; shit|shit|R|N
+fucktard	noun	fucktard|fucktard|R|N
+fuckup	noun	fuck|fuck|R|V ; up|up|R|Adv
+fuckwit	noun	fuck|fuck|R|V ; wit|wit|R|N
+fucoid	adj	fucoid|fucoid|R|Adj
+fucose	noun	fucose|fucose|R|N
+fucoxanthin	noun	fucoxanthin|fucoxanthin|R|N
+fucus	noun	fucus|fucus|R|N
+fuddle	verb	fuddle|fuddle|R|V
+fuddling	verb	fuddle|fuddl|R|V ; -ing|ing|I||-ing (v)
+fuet	noun	fuet|fuet|R|N
+fugacious	adj	fugacious|fugacious|R|Adj
+fugacity	noun	fugacity|fugacity|R|N
+fugally	adv	fugal|fugal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+fuggy	adj	fug|fugg|R|N ; -y|y|S
+fugleman	noun	fugleman|fugleman|R|N
+fugly	adj	fugly|fugly|R|Adj
+fujoshi	noun	fujoshi|fujoshi|R|N
+fulgent	adj	fulgent|fulgent|R|Adj
+fulgurant	adj	fulgurant|fulgurant|R|Adj
+fulgurate	verb	fulgurate|fulgurate|R|V
+fulguration	noun	fulgurate|fulgurat|R|V ; -ion|ion|S
+fulgurite	noun	fulgurite|fulgurite|R|N
+fuliginous	adj	fuliginous|fuliginous|R|Adj
+fullwidth	noun	full|full|R|Adj ; width|width|R|N
+fulminating	verb	fulminate|fulminat|R|V ; -ing|ing|I||-ing (v)
+fulminatory	adj	fulminate|fulminat|R|V ; -ory|ory|S
+fulminic	adj	fulminic|fulminic|R|Adj
+fulsomeness	noun	fulsome|fulsome|R|Adj ; -ness|ness|S
+fulvescent	adj	fulvescent|fulvescent|R|Adj
+fulvous	adj	fulvous|fulvous|R|Adj
+fumed	verb	fume|fum|R|V ; -ed|ed|I||-ed (v2)
+fumigator	noun	fumigate|fumigat|R|V ; -or|or|S
+fumingly	adv	fume|fum|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+fumitory	noun	fumitory|fumitory|R|N
+fumy	adj	fume|fum|R|V ; -y|y|S
+funambulism	noun	funambulism|funambulism|R|N
+funambulist	noun	funambulist|funambulist|R|N
+functionate	verb	function|function|R|N ; -ate|ate|S
+functor	noun	functor|functor|R|N
+fundamentality	noun	fundamental|fundamental|R|Adj ; -ity|ity|S
+fundiform	adj	fundiform|fundiform|R|Adj
+fundoshi	noun	fundoshi|fundoshi|R|N
+funds	noun	fund|fund|R|N ; -s|s|I||-s (plural)
+fungi	noun	fungus|fungi|R|N ; -s||I||-s (plural)
+fungibility	noun	fungible|fungibil|R|Adj ; -ity|ity|S
+fungicidal	adj	fungicide|fungicid|R|N ; -al|al|S
+fungicolous	adj	fungicolous|fungicolous|R|Adj
+fungiform	adj	fungiform|fungiform|R|Adj
+fungistat	noun	fungistat|fungistat|R|N
+fungistatic	adj	fungistatic|fungistatic|R|Adj
+fungivorous	adj	fungivorous|fungivorous|R|Adj
+fungoid	adj	fungoid|fungoid|R|Adj
+fungous	adj	fungous|fungous|R|Adj
+fungusy	adj	fungus|fungus|R|N ; -y|y|S
+funicle	noun	funicle|funicle|R|N
+funiculus	noun	funiculus|funiculus|R|N
+funiform	adj	funiform|funiform|R|Adj
+funis	noun	funis|funis|R|N
+funking	verb	funk|funk|R|V ; -ing|ing|I||-ing (v)
+funnelled	verb	funnel|funnell|R|V ; -ed|ed|I||-ed (v2)
+funnelless	adj	funnel|funnel|R|N ; -less|less|S
+funniment	noun	funniment|funniment|R|N
+funniness	noun	funny|funni|R|Adj ; -ness|ness|S
+furan	noun	furan|furan|R|N
+furanose	noun	furanose|furanose|R|N
+furbearer	noun	fur|fur|R|N ; bear|bear|R|V ; -er|er|S||-er (N)
+furbelow	noun	furbelow|furbelow|R|N
+furbish	verb	furbish|furbish|R|V
+furbished	verb	furbish|furbish|R|V ; -ed|ed|I||-ed (v2)
+furbishing	verb	furbish|furbish|R|V ; -ing|ing|I||-ing (v)
+furca	noun	furca|furca|R|N
+furcal	adj	furca|furc|R|N ; -al|al|S
+furcate	verb	furca|furc|R|N ; -ate|ate|S
+furcation	noun	furca|furc|R|N ; -ate|at|S ; -ion|ion|S
+furcula	noun	furcula|furcula|R|N
+furculum	noun	furculum|furculum|R|N
+furfuraceous	adj	furfuraceous|furfuraceous|R|Adj
+furfural	noun	furfural|furfural|R|N
+furibund	adj	furibund|furibund|R|Adj
+furigana	noun	furigana|furigana|R|N
+furling	verb	furl|furl|R|V ; -ing|ing|I||-ing (v)
+furoshiki	noun	furoshiki|furoshiki|R|N
+furriery	noun	furrier|furrier|R|N ; -y|y|S
+furring	noun	fur|furr|R|N ; -ing|ing|S||-ing (N)
+furrowing	verb	furrow|furrow|R|V ; -ing|ing|I||-ing (v)
+fursona	noun	fursona|fursona|R|N
+fursuit	noun	fur|fur|R|N ; suit|suit|R|N
+furthering	verb	further|further|R|V ; -ing|ing|I||-ing (v)
+furuncle	noun	furuncle|furuncle|R|N
+furuncular	adj	furuncular|furuncular|R|Adj
+furunculous	adj	furunculous|furunculous|R|Adj
+furze	noun	furze|furze|R|N
+furzy	adj	furze|furz|R|N ; -y|y|S
+fusain	noun	fusain|fusain|R|N
+fuscous	adj	fuscous|fuscous|R|Adj
+fusebox	noun	fuse|fuse|R|N ; box|box|R|N
+fusee	noun	fusee|fusee|R|N
+fusibility	noun	fusible|fusibil|R|Adj ; -ity|ity|S
+fusible	adj	fuse|fus|R|V ; -ible|ible|S
+fusiform	adj	fusiform|fusiform|R|Adj
+fusil	noun	fusil|fusil|R|N
+fusilier	noun	fusilier|fusilier|R|N
+fusilli	noun	fusilli|fusilli|R|N
+fusionism	noun	fusion|fusion|R|N ; -ism|ism|S
+fusionist	noun	fusion|fusion|R|N ; -ist|ist|S
+fusor	noun	fusor|fusor|R|N
+fusser	noun	fuss|fuss|R|V ; -er|er|S||-er (N)
+fussing	verb	fuss|fuss|R|V ; -ing|ing|I||-ing (v)
+fust	noun	fust|fust|R|N
+fustanella	noun	fustanella|fustanella|R|N
+fustic	noun	fustic|fustic|R|N
+fustigate	verb	fustigate|fustigate|R|V
+fustigation	noun	fustigate|fustigat|R|V ; -ion|ion|S
+fustiness	noun	fusty|fusti|R|Adj ; -ness|ness|S
+fut	noun	fut|fut|R|N
+futanari	noun	futanari|futanari|R|N
+futhark	noun	futhark|futhark|R|N
+futhorc	noun	futhorc|futhorc|R|N
+futsal	noun	futsal|futsal|R|N
+futtock	noun	futtock|futtock|R|N
+futurable	adj	future|futur|R|N ; -able|able|S
+futurama	noun	futurama|futurama|R|N
+futureless	adj	future|future|R|N ; -less|less|S
+futurology	noun	futurology|futurology|R|N
+fuze	noun	fuze|fuze|R|N
+fyke	noun	fyke|fyke|R|N

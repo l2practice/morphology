@@ -1,0 +1,200 @@
+empyema	noun	empyema|empyema|R|N
+empyemic	adj	empyema|empyem|R|N ; -ic|ic|S
+empyreal	adj	empyreal|empyreal|R|Adj
+empyrean	noun	empyrean|empyrean|R|N
+emu	noun	emu|emu|R|N
+emulative	adj	emulate|emulat|R|V ; -ive|ive|S
+emulatively	adv	emulate|emulat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+emulous	adj	emulate|emul|R|V ; -ous|ous|S
+emulously	adv	emulous|emulous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+emulousness	noun	emulous|emulous|R|Adj ; -ness|ness|S
+emulsification	noun	emulsify|emulsifi|R|V ; -ation|cation|S
+emulsifier	noun	emulsify|emulsifi|R|V ; -er|er|S||-er (N)
+emulsifying	verb	emulsify|emulsify|R|V ; -ing|ing|I||-ing (v)
+emulsin	noun	emulsin|emulsin|R|N
+emulsionize	verb	emulsion|emulsion|R|N ; -ize|ize|S
+emulsive	adj	emulsion|emuls|R|N ; -ive|ive|S
+emulsoid	noun	emulsoid|emulsoid|R|N
+emulsoidal	adj	emulsoid|emulsoid|R|N ; -al|al|S
+emunctory	noun	emunctory|emunctory|R|N
+enabled	verb	en-|en|P ; able|abl|R|Adj ; -ed|ed|I||-ed (v2)
+enactable	adj	en-|en|P ; act|act|R|V ; -able|able|S
+enacting	verb	en-|en|P ; act|act|R|V ; -ing|ing|I||-ing (v)
+enaction	noun	en-|en|P ; act|act|R|V ; -ion|ion|S
+enactive	adj	en-|en|P ; act|act|R|V ; -ive|ive|S
+enactor	noun	en-|en|P ; act|act|R|V ; -or|or|S
+enactory	adj	en-|en|P ; act|act|R|V ; -ory|ory|S
+enameler	noun	enamel|enamel|R|N ; -er|er|S||-er (N)
+enamelist	noun	enamel|enamel|R|N ; -ist|ist|S
+enamelling	verb	enamel|enamell|R|N ; -ing|ing|I||-ing (v)
+enamour	verb	en-|en|P ; amour|amour|R|N
+enantioblastic	adj	enantioblastic|enantioblastic|R|Adj
+enantiomeric	adj	enantiomer|enantiomer|R|N ; -ic|ic|S
+enantiomorph	noun	enantiomorph|enantiomorph|R|N
+enantiomorphic	adj	enantiomorph|enantiomorph|R|N ; -ic|ic|S
+enantiomorphism	noun	enantiomorph|enantiomorph|R|N ; -ism|ism|S
+enantiomorphous	adj	enantiomorph|enantiomorph|R|N ; -ous|ous|S
+enantiopathy	noun	enantiopathy|enantiopathy|R|N
+enantiosis	noun	enantiosis|enantiosis|R|N
+enantiotropic	adj	enantiotropy|enantiotrop|R|N ; -ic|ic|S
+enantiotropy	noun	enantiotropy|enantiotropy|R|N
+enargite	noun	enargite|enargite|R|N
+enarthrosis	noun	enarthrosis|enarthrosis|R|N
+enation	noun	enate|enat|R|N ; -ion|ion|S
+encaenia	noun	encaenia|encaenia|R|N
+encage	verb	en-|en|P ; cage|cage|R|N
+encalm	verb	en-|en|P ; calm|calm|R|Adj
+encapsulator	noun	en-|en|P ; capsule|capsul|R|N ; -ate|at|S ; -or|or|S
+encashment	noun	en-|en|P ; cash|cash|R|N ; -ment|ment|S
+encave	verb	en-|en|P ; cave|cave|R|N
+enceinte	noun	enceinte|enceinte|R|N
+encephalic	adj	encephalon|encephal|R|N ; -ic|ic|S
+encephalogram	noun	encephalogram|encephalogram|R|N
+encephalographic	adj	encephalographic|encephalographic|R|Adj
+encephalographically	adv	encephalographic|encephalographic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+encephalography	noun	encephalography|encephalography|R|N
+encephalomyelitis	noun	encephalomyelitis|encephalomyelitis|R|N
+encephalon	noun	encephalon|encephalon|R|N
+encephalospinal	adj	encephalospinal|encephalospinal|R|Adj
+encephalotomy	noun	encephalotomy|encephalotomy|R|N
+enchain	verb	en-|en|P ; chain|chain|R|N
+enchained	verb	en-|en|P ; chain|chain|R|N ; -ed|ed|I||-ed (v2)
+enchainment	noun	en-|en|P ; chain|chain|R|N ; -ment|ment|S
+enchase	verb	en-|en|P ; chase|chase|R|V
+enchondroma	noun	enchondroma|enchondroma|R|N
+enchondromatous	adj	enchondroma|enchondromat|R|N ; -ous|ous|S
+enchorial	adj	enchorial|enchorial|R|Adj
+enchylema	noun	enchylema|enchylema|R|N
+encipher	verb	en-|en|P ; cipher|cipher|R|N
+encipherer	noun	en-|en|P ; cipher|cipher|R|N ; -er|er|S||-er (N)
+enclasp	verb	en-|en|P ; clasp|clasp|R|N
+enclitic	adj	en-|en|P ; clitic|clitic|R|N
+encloister	verb	en-|en|P ; cloister|cloister|R|N
+enclothe	verb	en-|en|P ; clothe|clothe|R|V
+encloud	verb	en-|en|P ; cloud|cloud|R|N
+encoffin	verb	en-|en|P ; coffin|coffin|R|N
+encolour	verb	en-|en|P ; colour|colour|R|N
+encomiast	noun	encomiast|encomiast|R|N
+encomiastic	adj	encomiast|encomiast|R|N ; -ic|ic|S
+encompassment	noun	encompass|encompass|R|V ; -ment|ment|S
+encountering	verb	en-|en|P ; counter|counter|R|N ; -ing|ing|I||-ing (v)
+encouraged	verb	en-|en|P ; courage|courag|R|N ; -ed|ed|I||-ed (v2)
+encradle	verb	en-|en|P ; cradle|cradle|R|N
+encratic	adj	encratic|encratic|R|Adj
+encraty	noun	encraty|encraty|R|N
+encrimson	verb	en-|en|P ; crimson|crimson|R|Adj
+encroacher	noun	encroach|encroach|R|V ; -er|er|S||-er (N)
+encrusted	verb	en-|en|P ; crust|crust|R|N ; -ed|ed|I||-ed (v2)
+encrustment	noun	en-|en|P ; crust|crust|R|N ; -ment|ment|S
+encumbering	verb	en-|en|P ; cumber|cumber|R|V ; -ing|ing|I||-ing (v)
+encumberment	noun	en-|en|P ; cumber|cumber|R|V ; -ment|ment|S
+encyclic	noun	en-|en|P ; cyclic|cyclic|R|Adj
+encyclopaedical	adj	encyclopaedia|encyclopaed|R|N ; -ical|ical|S
+encyclopedically	adv	encyclopedic|encyclopedic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+encyclopedism	noun	encyclopedia|encycloped|R|N ; -ism|ism|S
+encyclopedist	noun	encyclopedia|encycloped|R|N ; -ist|ist|S
+encyclopedize	verb	encyclopedia|encycloped|R|N ; -ize|ize|S
+encyst	verb	en-|en|P ; cyst|cyst|R|N
+encystation	noun	en-|en|P ; cyst|cyst|R|N ; -ation|ation|S
+encysted	verb	en-|en|P ; cyst|cyst|R|N ; -ed|ed|I||-ed (v2)
+encystment	noun	en-|en|P ; cyst|cyst|R|N ; -ment|ment|S
+endangering	verb	en-|en|P ; danger|danger|R|N ; -ing|ing|I||-ing (v)
+endangium	noun	endangium|endangium|R|N
+endarch	adj	endarch|endarch|R|Adj
+endarken	verb	en-|en|P ; dark|dark|R|Adj ; -en|en|S
+endarkenment	noun	en-|en|P ; dark|dark|R|Adj ; -en|en|S ; -ment|ment|S
+endeared	verb	en-|en|P ; dear|dear|R|Adj ; -ed|ed|I||-ed (v2)
+endeavorer	noun	endeavor|endeavor|R|V ; -er|er|S||-er (N)
+endeavoured	verb	endeavour|endeavour|R|V ; -ed|ed|I||-ed (v2)
+endemial	adj	endemic|endem|R|Adj ; -ial|ial|S
+endemically	adv	endemic|endemic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+endemicity	noun	endemic|endemic|R|Adj ; -ity|ity|S
+endemiology	noun	endemiology|endemiology|R|N
+endergonic	adj	endergonic|endergonic|R|Adj
+endianness	noun	endian|endian|R|N ; -ness|ness|S
+endimanched	adj	endimanched|endimanched|R|Adj
+endlong	adv	end|end|R|N ; long|long|R|Adj
+endmost	adj	end|end|R|N ; most|most|R|Adv
+endo	noun	endo|endo|R|N
+endobiotic	adj	endobiotic|endobiotic|R|Adj
+endoblast	noun	endoblast|endoblast|R|N
+endobronchial	adj	endobronchial|endobronchial|R|Adj
+endocardial	adj	endocardium|endocardi|R|N ; -al|al|S
+endocarditic	adj	endocarditis|endocardit|R|N ; -ic|ic|S
+endocardium	noun	endocardium|endocardium|R|N
+endocarp	noun	endocarp|endocarp|R|N
+endocarpal	adj	endocarp|endocarp|R|N ; -al|al|S
+endocarpoid	adj	endocarpoid|endocarpoid|R|Adj
+endocellular	adj	endocellular|endocellular|R|Adj
+endocentric	adj	endocentric|endocentric|R|Adj
+endochrome	noun	endochrome|endochrome|R|N
+endocranial	adj	endocranial|endocranial|R|Adj
+endocrinologic	adj	endocrinology|endocrinolog|R|N ; -ic|ic|S
+endocrinological	adj	endocrinology|endocrinolog|R|N ; -ical|ical|S
+endocyst	noun	endocyst|endocyst|R|N
+endocytosis	noun	endocytosis|endocytosis|R|N
+endoderm	noun	endoderm|endoderm|R|N
+endodermal	adj	endoderm|endoderm|R|N ; -al|al|S
+endodermic	adj	endoderm|endoderm|R|N ; -ic|ic|S
+endodermis	noun	endodermis|endodermis|R|N
+endodontics	noun	endodontic|endodontic|R|Adj ; -s|s|I||-s (plural)
+endodyne	noun	endodyne|endodyne|R|N
+endoenzyme	noun	endoenzyme|endoenzyme|R|N
+endogamic	adj	endogamic|endogamic|R|Adj
+endogen	noun	endogen|endogen|R|N
+endogeneity	noun	endogeneity|endogeneity|R|N
+endohedral	adj	endohedral|endohedral|R|Adj
+endolymph	noun	endolymph|endolymph|R|N
+endolysin	noun	endolysin|endolysin|R|N
+endolysis	noun	endolysis|endolysis|R|N
+endometritis	noun	endometritis|endometritis|R|N
+endomixis	noun	endomixis|endomixis|R|N
+endomorphic	adj	endomorphic|endomorphic|R|Adj
+endomorphism	noun	endomorphism|endomorphism|R|N
+endonuclear	adj	endonuclear|endonuclear|R|Adj
+endonym	noun	endonym|endonym|R|N
+endoparasite	noun	endoparasite|endoparasite|R|N
+endoparasitic	adj	endoparasite|endoparasit|R|N ; -ic|ic|S
+endoparasitism	noun	endoparasite|endoparasit|R|N ; -ism|ism|S
+endophthalmitis	noun	endophthalmitis|endophthalmitis|R|N
+endophyte	noun	endophyte|endophyte|R|N
+endoplasm	noun	endoplasm|endoplasm|R|N
+endopodite	noun	endopodite|endopodite|R|N
+endopolyploid	noun	endopolyploid|endopolyploid|R|N
+endorheic	adj	endorheic|endorheic|R|Adj
+endorsable	adj	endorse|endors|R|V ; -able|able|S
+endorsee	noun	endorse|endors|R|V ; -ee|ee|S
+endoskeletal	adj	endoskeleton|endoskelet|R|N ; -al|al|S
+endosmosis	noun	endosmosis|endosmosis|R|N
+endosmotic	adj	endosmosis|endosmot|R|N ; -ic|ic|S
+endosmotically	adv	endosmotic|endosmotic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+endosome	noun	endosome|endosome|R|N
+endospermous	adj	endosperm|endosperm|R|N ; -ous|ous|S
+endospore	noun	endospore|endospore|R|N
+endosporium	noun	endosporium|endosporium|R|N
+endosteum	noun	endosteum|endosteum|R|N
+endostosis	noun	endostosis|endostosis|R|N
+endostyle	noun	endostyle|endostyle|R|N
+endosymbiosis	noun	endosymbiosis|endosymbiosis|R|N
+endothecium	noun	endothecium|endothecium|R|N
+endothelioid	adj	endothelioid|endothelioid|R|Adj
+endothelioma	noun	endothelioma|endothelioma|R|N
+endothermal	adj	endothermal|endothermal|R|Adj
+endothermic	adj	endothermic|endothermic|R|Adj
+endotoxic	adj	endotoxin|endotox|R|N ; -ic|ic|S
+endovascular	adj	endovascular|endovascular|R|Adj
+endozoic	adj	endozoic|endozoic|R|Adj
+endue	verb	en-|en|P ; due|due|R|Adj
+endurability	noun	endure|endur|R|V ; -able|abil|S ; -ity|ity|S
+endurably	adv	endure|endur|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+enduringness	noun	endure|endur|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+endways	adv	end|end|R|N ; ways|ways|R|N
+endwise	adv	end|end|R|N ; -wise|wise|S
+energic	adj	energy|energ|R|N ; -ic|ic|S
+energid	noun	energid|energid|R|N
+energumen	noun	energumen|energumen|R|N
+enervation	noun	enervate|enervat|R|V ; -ion|ion|S
+enervative	adj	enervate|enervat|R|V ; -ive|ive|S
+enervator	noun	enervate|enervat|R|V ; -or|or|S
+enface	verb	en-|en|P ; face|face|R|N
+enfacement	noun	en-|en|P ; face|face|R|N ; -ment|ment|S

@@ -1,0 +1,150 @@
+ureter	noun	=
+terpene	noun	=
+stoma	noun	=
+mitochondrion	noun	mito-|mito|B|N|||Greek mitos 'thread' ; -chondrion|chondrion|B|N|||Greek khondrion 'grain'
+scut	noun	=
+pluperfect	adj	=
+septicemia	noun	septic|septic|R|Adj ; -emia|emia|B|N|||Greek haima 'blood'
+scrotal	adj	=
+nanostructured	adj	=
+efflux	noun	ef-|ef|P||||Latin ex- 'out' ; -flux|flux|B|V|||Latin fluere 'to flow'
+theodolite	noun	=
+inspirer	noun	=
+desideratum	noun	=
+profanation	noun	=
+cathexis	noun	=
+descender	noun	=
+simony	noun	=
+reverberant	adj	=
+fermenter	noun	=
+malediction	noun	=
+nanoscience	noun	=
+vertu	noun	=
+cotoneaster	noun	cotone-|cotone|B|N|||Latin cotoneum 'quince' ; -aster|aster|S||||Latin -aster 'resembling'
+trochanter	noun	=
+sessile	adj	sess-|sess|B|V|||Latin sedere 'to sit' ; -ile|ile|S||||Latin -ilis 'relating to'
+ichor	noun	=
+corpulence	noun	=
+polyhedron	noun	poly-|poly|P||||Greek polu- 'many' ; -hedron|hedron|B|N|||Greek hedra 'seat'
+conjunctiva	noun	=
+magister	noun	magis-|magis|B|Adj|||Latin magis 'more' ; -ter|ter|S||||Latin -ter 'agent'
+cribriform	adj	cribri-|cribri|B|N|||Latin cribrum 'sieve' ; -form|form|S||||Latin -formis 'shaped'
+romanticist	noun	=
+aquavit	noun	aqua-|aqua|B|N|||Latin aqua 'water' ; -vit|vit|B|N|||Latin vita 'life'
+pell	verb	=
+dactyl	noun	=
+protist	noun	=
+electrostatically	adv	=
+passionflower	noun	=
+quire	noun	=
+cotyledon	noun	=
+dasher	noun	=
+subserve	verb	=
+complaisant	adj	com-|com|P||||Latin com- 'with' ; -plais-|plais|B|V|||Latin placere 'to please' ; -ant|ant|S||||Latin -ans 'present participle'
+exhibitionistic	adj	=
+adulatory	adj	=
+euphonious	adj	=
+atomism	noun	=
+mucilage	noun	=
+urticaria	noun	urtic-|urtic|B|N|||Latin urtica 'nettle' ; -aria|aria|S||||Latin -aria 'relating to'
+ephemeris	noun	=
+adduction	noun	ad-|ad|P||||Latin ad- 'to' ; -duct-|duct|B|V|||Latin ducere 'to lead' ; -ion|ion|S||||Latin -io 'act, state'
+depositary	noun	=
+fado	noun	=
+supra	adv	=
+exculpation	noun	=
+hypercritical	adj	=
+adamantine	adj	=
+vulgarization	noun	=
+ambrosial	adj	=
+catechize	verb	kata-|cate|P||||Greek kata- 'down' ; -chize|chize|B|V|||Greek ekhein 'to teach'
+rheostat	noun	rheo-|rheo|B|N|||Greek rheos 'flow' ; -stat|stat|B|N|||Greek statos 'standing'
+capelin	noun	=
+propolis	noun	=
+epidermoid	adj	epi-|epi|P||||Greek epi- 'upon' ; -derm-|derm|B|N|||Greek derma 'skin' ; -oid|oid|S||||Greek -oeides 'resembling'
+quadrille	noun	=
+caesium	noun	caesi-|caesi|B|Adj|||Latin caesius 'sky-blue' ; -um|um|S||||Latin -ium 'element'
+villainess	noun	=
+clavier	noun	=
+polyrhythmic	adj	=
+servitor	noun	servi-|servi|B|V|||Latin servire 'to serve' ; -tor|tor|S||||Latin -tor 'agent'
+plyometrics	noun	plyo-|plyo|B|Adj|||Greek pleion 'more' ; -metric|metric|B|N|||Greek metron 'measure' ; -s|s|I
+steroidal	adj	=
+supercenter	noun	=
+bacteriologist	noun	bacterio-|bacterio|B|N|||Greek bakterion 'rod' ; -log-|log|B|N|||Greek logos 'study' ; -ist|ist|S
+xylem	noun	=
+anticlerical	adj	=
+chasuble	noun	=
+crenellation	noun	=
+materia	noun	=
+clathrate	noun	clathr-|clathr|B|N|||Latin clathrus 'lattice' ; -ate|ate|S||||Latin -atus 'having'
+alewife	noun	=
+carina	noun	=
+prosopopoeia	noun	=
+parapsychological	adj	=
+peristyle	noun	peri-|peri|P||||Greek peri- 'around' ; -style|style|B|N|||Greek stylos 'pillar'
+grazer	noun	=
+graphology	noun	grapho-|grapho|B|N|||Greek graphe 'writing' ; -logy|logy|B|N|||Greek logos 'study'
+officiant	noun	offici-|offici|B|V|||Latin officiare 'to perform duty' ; -ant|ant|S||||Latin -ans 'present participle'
+interpellate	verb	=
+possessory	adj	=
+gamboge	noun	=
+hewer	noun	=
+hierarch	noun	hier-|hier|B|Adj|||Greek hieros 'holy' ; -arch|arch|B|N|||Greek arkhes 'ruler'
+acoustician	noun	=
+bathos	noun	=
+stitchery	noun	=
+cryonic	adj	cryo-|cryo|B|N|||Greek kryos 'cold' ; -nic|nic|S||||Greek -ikos 'relating to'
+tumescent	adj	=
+epigone	noun	=
+fluorescein	noun	=
+rhodium	noun	rhod-|rhod|B|N|||Greek rhodon 'rose' ; -ium|ium|S||||Latin -ium 'element'
+curation	noun	=
+baler	noun	=
+turbojet	noun	=
+sophism	noun	=
+provender	noun	=
+castrato	noun	=
+psychopharmacological	adj	=
+quietism	noun	=
+histopathological	adj	=
+ascites	noun	=
+meningeal	adj	=
+perjurious	adj	=
+astragalus	noun	=
+medicament	noun	=
+sabayon	noun	=
+reductionistic	adj	=
+panoptic	adj	=
+bioactive	adj	=
+polychlorinated	adj	=
+disjoint	verb	dis-|dis|P||||Latin dis- 'apart' ; -joint|joint|B|V|||Latin iungere 'to join'
+diffract	verb	=
+ratiocination	noun	ratiocin-|ratiocin|B|V|||Latin ratiocinari 'to reckon' ; -ation|ation|S||||Latin -atio 'act, state'
+brant	noun	=
+cricoid	adj	=
+atresia	noun	=
+lacrimal	adj	lacrim-|lacrim|B|N|||Latin lacrima 'tear' ; -al|al|S||||Latin -alis 'relating to'
+pelargonium	noun	=
+sacerdotal	adj	=
+phylactery	noun	=
+pharmacokinetic	adj	=
+thermoregulation	noun	=
+consubstantial	adj	=
+airworthiness	noun	=
+epigraphic	adj	=
+implacability	noun	=
+antigenic	adj	=
+noradrenaline	noun	=
+breccia	noun	=
+vastus	noun	=
+alluvium	noun	=
+florescence	noun	flor-|flor|B|N|||Latin flos 'flower' ; -escence|escence|S||||Latin -escentia 'becoming'
+oppositionist	noun	=
+apatosaurus	noun	apato-|apato|B|N|||Greek apate 'deception' ; -saurus|saurus|B|N|||Greek sauros 'lizard'
+clavichord	noun	clavi-|clavi|B|N|||Latin clavis 'key' ; -chord|chord|B|N|||Latin chorda 'string'
+biogeochemistry	noun	=
+ovipositor	noun	ovi-|ovi|B|N|||Latin ovum 'egg' ; -positor|positor|B|V|||Latin ponere 'to place'
+leal	adj	=
+acerbity	noun	acerb-|acerb|B|Adj|||Latin acerbus 'bitter' ; -ity|ity|S||||Latin -itas 'state'
+leguminous	adj	legumin-|legumin|B|N|||Latin legumen 'bean' ; -ous|ous|S||||Latin -osus 'full of'

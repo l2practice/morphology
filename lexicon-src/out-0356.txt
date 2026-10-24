@@ -1,0 +1,200 @@
+polytonal	adj	poly-|poly|P ; tone|ton|R|N ; -al|al|S
+polytonality	noun	poly-|poly|P ; tone|ton|R|N ; -al|al|S ; -ity|ity|S
+polytonic	adj	poly-|poly|P ; tone|ton|R|N ; -ic|ic|S
+polytope	noun	polytope|polytope|R|N
+polytopic	adj	polytopic|polytopic|R|Adj
+polytrichous	adj	polytrichous|polytrichous|R|Adj
+polytrophic	adj	poly-|poly|P ; trophic|trophic|R|Adj
+polytropic	adj	poly-|poly|P ; tropic|tropic|R|Adj
+polytunnel	noun	poly-|poly|P ; tunnel|tunnel|R|N
+polytype	noun	poly-|poly|P ; type|type|R|N
+polytypic	adj	poly-|poly|P ; type|typ|R|N ; -ic|ic|S
+polyuria	noun	polyuria|polyuria|R|N
+polyuric	adj	poly-|poly|P ; uric|uric|R|Adj
+polyvalence	noun	poly-|poly|P ; valence|valence|R|N
+polyvalency	noun	poly-|poly|P ; valence|valenc|R|N ; -y|y|S
+polyvoltine	adj	polyvoltine|polyvoltine|R|Adj
+polyzoarium	noun	polyzoarium|polyzoarium|R|N
+polyzoic	adj	poly-|poly|P ; zoic|zoic|R|Adj
+pomace	noun	pomace|pomace|R|N
+pomatum	noun	pomatum|pomatum|R|N
+pome	noun	pome|pome|R|N
+pomelo	noun	pomelo|pomelo|R|N
+pomfret	noun	pomfret|pomfret|R|N
+pomiculture	noun	pomiculture|pomiculture|R|N
+pomiferous	adj	pomiferous|pomiferous|R|Adj
+pomiform	adj	pomiform|pomiform|R|Adj
+pommelled	verb	pommel|pommell|R|V ; -ed|ed|I||-ed (v2)
+pommy	noun	pommy|pommy|R|N
+pomodoro	noun	pomodoro|pomodoro|R|N
+pomological	adj	pomology|pomolog|R|N ; -ical|ical|S
+pomologically	adv	pomology|pomolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+pomologist	noun	pomology|pomolog|R|N ; -ist|ist|S
+pomology	noun	pomology|pomology|R|N
+pompier	noun	pompier|pompier|R|N
+pompom	noun	pompom|pompom|R|N
+pomposo	adj	pomposo|pomposo|R|Adj
+pompousness	noun	pompous|pompous|R|Adj ; -ness|ness|S
+pon	noun	pon|pon|R|N
+ponceau	noun	ponceau|ponceau|R|N
+pondage	noun	pond|pond|R|N ; -age|age|S
+ponderability	noun	ponder|ponder|R|V ; -able|abil|S ; -ity|ity|S
+ponderable	adj	ponder|ponder|R|V ; -able|able|S
+ponderation	noun	ponder|ponder|R|V ; -ation|ation|S
+ponderer	noun	ponder|ponder|R|V ; -er|er|S||-er (N)
+pondering	noun	ponder|ponder|R|V ; -ing|ing|S||-ing (N)
+ponderingly	adv	ponder|ponder|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+ponderosity	noun	ponderous|ponderos|R|Adj ; -ity|ity|S
+ponderousness	noun	ponderous|ponderous|R|Adj ; -ness|ness|S
+pondfish	noun	pond|pond|R|N ; fish|fish|R|N
+ponding	noun	pond|pond|R|N ; -ing|ing|S||-ing (N)
+pondlet	noun	pond|pond|R|N ; -let|let|S
+pongee	noun	pongee|pongee|R|N
+pongo	noun	pongo|pongo|R|N
+pongy	adj	pong|pong|R|N ; -y|y|S
+poniard	noun	poniard|poniard|R|N
+ponies	noun	pony|poni|R|N ; -s|es|I||-s (plural)
+pontal	adj	pontal|pontal|R|Adj
+pontic	adj	pontic|pontic|R|Adj
+pontifex	noun	pontifex|pontifex|R|N
+pontificalia	noun	pontificalia|pontificalia|R|N
+pontifically	adv	pontiff|pontif|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+pontificating	verb	pontificate|pontificat|R|V ; -ing|ing|I||-ing (v)
+pontification	noun	pontificate|pontific|R|V ; -ation|ation|S
+pontificator	noun	pontificate|pontificat|R|V ; -or|or|S
+pontify	verb	pontiff|pontif|R|N ; -ify|y|S
+ponto	noun	ponto|ponto|R|N
+pontooned	verb	pontoon|pontoon|R|V ; -ed|ed|I||-ed (v2)
+pontooning	noun	pontoon|pontoon|R|V ; -ing|ing|S||-ing (N)
+pood	noun	pood|pood|R|N
+pooka	noun	pooka|pooka|R|N
+pooler	noun	pool|pool|R|V ; -er|er|S||-er (N)
+poolish	adj	pool|pool|R|N ; -ish|ish|S
+poon	noun	poon|poon|R|N
+pooping	verb	poop|poop|R|V ; -ing|ing|I||-ing (v)
+poorness	noun	poor|poor|R|Adj ; -ness|ness|S
+poot	verb	poot|poot|R|V
+popedom	noun	pope|pope|R|N ; -dom|dom|S
+popiah	noun	popiah|popiah|R|N
+popishly	adv	pope|pop|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+popishness	noun	pope|pop|R|N ; -ish|ish|S ; -ness|ness|S
+poplit	adj	poplit|poplit|R|Adj
+popliteus	noun	popliteus|popliteus|R|N
+poppadom	noun	poppadom|poppadom|R|N
+poppied	adj	poppy|poppi|R|N ; -ed|ed|S||-ed (adj)
+popple	verb	popple|popple|R|V
+popply	adj	popple|poppl|R|V ; -y|y|S
+popsy	noun	popsy|popsy|R|N
+populational	adj	populate|populat|R|V ; -ion|ion|S ; -al|al|S
+populism	noun	populism|populism|R|N
+populist	noun	populist|populist|R|N
+populously	adv	populous|populous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+populousness	noun	populous|populous|R|Adj ; -ness|ness|S
+porbeagle	noun	porbeagle|porbeagle|R|N
+porcelainize	verb	porcelain|porcelain|R|N ; -ize|ize|S
+porcelainous	adj	porcelain|porcelain|R|N ; -ous|ous|S
+porcellaneous	adj	porcellaneous|porcellaneous|R|Adj
+porciculture	noun	porciculture|porciculture|R|N
+porcini	noun	porcini|porcini|R|N
+porcupette	noun	porcupine|porcup|R|N ; -ette|ette|S
+porcupinish	adj	porcupine|porcupin|R|N ; -ish|ish|S
+pored	verb	pore|por|R|V ; -ed|ed|I||-ed (v2)
+porgy	noun	porgy|porgy|R|N
+poriferan	noun	poriferan|poriferan|R|N
+poriferous	adj	poriferous|poriferous|R|Adj
+poring	verb	pore|por|R|V ; -ing|ing|I||-ing (v)
+pornlike	adj	porn|porn|R|N ; -like|like|S
+pornocracy	noun	pornocracy|pornocracy|R|N
+pornographically	adv	pornography|pornograph|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+pornstache	noun	pornstache|pornstache|R|N
+porously	adv	porous|porous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+porphin	noun	porphin|porphin|R|N
+porphyria	noun	porphyria|porphyria|R|N
+porphyrin	noun	porphyrin|porphyrin|R|N
+porphyrite	noun	porphyrite|porphyrite|R|N
+porphyrogenite	noun	porphyrogenite|porphyrogenite|R|N
+porphyry	noun	porphyry|porphyry|R|N
+porraceous	adj	porraceous|porraceous|R|Adj
+porriginous	adj	porriginous|porriginous|R|Adj
+porringer	noun	porringer|porringer|R|N
+portableness	noun	port|port|R|V ; -able|abl|S ; -ness|eness|S
+portably	adv	port|port|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+portamento	noun	portamento|portamento|R|N
+portative	adj	port|port|R|V ; -ative|ative|S
+portentousness	noun	portentous|portentous|R|Adj ; -ness|ness|S
+porterage	noun	porter|porter|R|N ; -age|age|S
+portfire	noun	port|port|R|N ; fire|fire|R|N
+porting	verb	port|port|R|V ; -ing|ing|I||-ing (v)
+portionable	adj	portion|portion|R|N ; -able|able|S
+portioner	noun	portion|portion|R|N ; -er|er|S||-er (N)
+portionless	adj	portion|portion|R|N ; -less|less|S
+portland	noun	portland|portland|R|N
+portliness	noun	port|port|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+portolan	noun	portolan|portolan|R|N
+portrayable	adj	portray|portray|R|V ; -able|able|S
+portreeve	noun	port|port|R|N ; reeve|reeve|R|N
+portress	noun	porter|portr|R|N ; -ess|ess|S
+posable	adj	pose|pos|R|V ; -able|able|S
+poshly	adv	posh|posh|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+poshness	noun	posh|posh|R|Adj ; -ness|ness|S
+positing	verb	posit|posit|R|V ; -ing|ing|I||-ing (v)
+positionally	adv	position|position|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+positiveness	noun	posit|posit|R|V ; -ive|ive|S ; -ness|ness|S
+positronic	adj	positron|positron|R|N ; -ic|ic|S
+positronium	noun	positronium|positronium|R|N
+posology	noun	posology|posology|R|N
+possessee	noun	possess|possess|R|V ; -ee|ee|S
+possessional	adj	possess|possess|R|V ; -ion|ion|S ; -al|al|S
+posset	noun	posset|posset|R|N
+postally	adv	post|post|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+postalveolar	adj	post-|post|P ; alveolar|alveolar|R|Adj
+postbellum	adj	postbellum|postbellum|R|Adj
+postclassical	adj	post-|post|P ; classical|classical|R|Adj
+postcoital	adj	post-|post|P ; coital|coital|R|Adj
+postcolonialism	noun	post-|post|P ; colony|coloni|R|N ; -al|al|S ; -ism|ism|S
+postcommunism	noun	post-|post|P ; communism|communism|R|N
+postcommunist	noun	post-|post|P ; communist|communist|R|N
+postdated	verb	post-|post|P ; date|dat|R|V ; -ed|ed|I||-ed (v2)
+postdating	verb	post-|post|P ; date|dat|R|V ; -ing|ing|I||-ing (v)
+posteriority	noun	posterior|posterior|R|Adj ; -ity|ity|S
+posterization	noun	poster|poster|R|N ; -ize|iz|S ; -ation|ation|S
+postfix	noun	post-|post|P ; fix|fix|R|V
+postfixal	adj	post-|post|P ; fix|fix|R|V ; -al|al|S
+postgasm	noun	postgasm|postgasm|R|N
+posthistory	noun	post-|post|P ; history|history|R|N
+posthitis	noun	posthitis|posthitis|R|N
+posthumousness	noun	posthumous|posthumous|R|Adj ; -ness|ness|S
+postiche	noun	postiche|postiche|R|N
+postil	noun	postil|postil|R|N
+postilion	noun	postilion|postilion|R|N
+postimpressionism	noun	post-|post|P ; impressionism|impressionism|R|N
+postindustrial	adj	post-|post|P ; industrial|industrial|R|Adj
+postlude	noun	postlude|postlude|R|N
+postmastership	noun	post|post|R|N ; master|master|R|N ; -ship|ship|S
+postmentum	noun	postmentum|postmentum|R|N
+postmidnight	adj	post-|post|P ; midnight|midnight|R|N
+postmodernity	noun	post-|post|P ; modern|modern|R|Adj ; -ity|ity|S
+postnatally	adv	post-|post|P ; natal|natal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+postpaid	adj	post-|post|P ; pay|paid|R|V ; -ed||I||-ed (v2)
+postpandemic	adj	post-|post|P ; pandemic|pandemic|R|Adj
+postponable	adj	postpone|postpon|R|V ; -able|able|S
+postponer	noun	postpone|postpon|R|V ; -er|er|S||-er (N)
+postposition	noun	post-|post|P ; position|position|R|N
+postpositional	adj	post-|post|P ; position|position|R|N ; -al|al|S
+postpositionally	adv	post-|post|P ; position|position|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+postpositive	adj	post-|post|P ; posit|posit|R|V ; -ive|ive|S
+postpositively	adv	post-|post|P ; posit|posit|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+postprandially	adv	post-|post|P ; prandial|prandial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+postprocess	verb	post-|post|P ; process|process|R|V
+postrevolutionary	adj	post-|post|P ; revolution|revolution|R|N ; -ary|ary|S
+postscriptum	noun	postscriptum|postscriptum|R|N
+posttonic	adj	post-|post|P ; tonic|tonic|R|Adj
+posttraumatic	adj	post-|post|P ; traumatic|traumatic|R|Adj
+postulancy	noun	postulant|postul|R|N ; -ancy|ancy|S
+postulating	verb	postulate|postulat|R|V ; -ing|ing|I||-ing (v)
+postulational	adj	postulate|postulat|R|V ; -ion|ion|S ; -al|al|S
+posturer	noun	posture|postur|R|V ; -er|er|S||-er (N)
+postvention	noun	postvention|postvention|R|N
+postwoman	noun	post|post|R|N ; woman|woman|R|N
+potability	noun	potable|potab|R|Adj ; -ity|ility|S
+potableness	noun	potable|potabl|R|Adj ; -ness|eness|S

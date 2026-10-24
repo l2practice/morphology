@@ -1,0 +1,200 @@
+carabinieri	noun	carabinieri|carabinieri|R|N
+revelational	adj	reveal|revel|R|V ; -ation|ation|S ; -al|al|S
+bodyweight	noun	body|body|R|N ; weight|weight|R|N
+mycology	noun	mycology|mycology|R|N
+gentlemanliness	noun	gentleman|gentleman|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+pakora	noun	pakora|pakora|R|N
+pipefish	noun	pipe|pipe|R|N ; fish|fish|R|N
+epistemically	adv	epistemic|epistemic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+skywalk	noun	sky|sky|R|N ; walk|walk|R|N
+pothunter	noun	pot|pot|R|N ; hunt|hunt|R|V ; -er|er|S||-er (N)
+ageratum	noun	ageratum|ageratum|R|N
+pachysandra	noun	pachysandra|pachysandra|R|N
+demyelination	noun	de-|de|P ; myelin|myelin|R|N ; -ation|ation|S
+perfective	adj	perfect|perfect|R|Adj ; -ive|ive|S
+potentilla	noun	potentilla|potentilla|R|N
+humph	interj	humph|humph|R
+gyp	verb	gyp|gyp|R|V
+emmet	noun	emmet|emmet|R|N
+tisane	noun	tisane|tisane|R|N
+satinwood	noun	satin|satin|R|N ; wood|wood|R|N
+lytic	adj	lytic|lytic|R|Adj
+commensurability	noun	commensurate|commensur|R|Adj ; -able|abil|S ; -ity|ity|S
+topographer	noun	topography|topograph|R|N ; -er|er|S||-er (N)
+hafnium	noun	hafnium|hafnium|R|N
+odynophagia	noun	odynophagia|odynophagia|R|N
+pleomorphism	noun	pleomorphism|pleomorphism|R|N
+bose	noun	bose|bose|R|N
+epicycle	noun	epicycle|epicycle|R|N
+semiology	noun	semiology|semiology|R|N
+tanka	noun	tanka|tanka|R|N
+ordo	noun	ordo|ordo|R|N
+neuropsychiatry	noun	neuropsychiatry|neuropsychiatry|R|N
+metrically	adv	metric|metric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+remilitarization	noun	re-|re|P ; military|militar|R|N ; -ize|iz|S ; -ation|ation|S
+conclusory	adj	con-|con|P ; -clude|clus|B|V ; -ory|ory|S
+immateriality	noun	im-|im|P|||in- ; matter|mater|R|N ; -ial|ial|S ; -ity|ity|S
+hyperinflationary	adj	hyper-|hyper|P ; inflationary|inflationary|R|Adj
+impost	noun	impost|impost|R|N
+pathogenicity	noun	pathogen|pathogen|R|N ; -ic|ic|S ; -ity|ity|S
+ungraspable	adj	un-|un|P ; grasp|grasp|R|V ; -able|able|S
+got	verb	get|got|R|V ; -ed||I||-ed (v2)
+serotonergic	adj	serotonergic|serotonergic|R|Adj
+bipod	noun	bi-|bi|P ; pod|pod|R|N
+ethnomethodology	noun	ethnomethodology|ethnomethodology|R|N
+mannitol	noun	mannitol|mannitol|R|N
+lurker	noun	lurk|lurk|R|V ; -er|er|S||-er (N)
+insectile	adj	insectile|insectile|R|Adj
+dishabille	noun	dishabille|dishabille|R|N
+leathered	adj	leather|leather|R|N ; -ed|ed|S||-ed (adj)
+auteurist	noun	auteur|auteur|R|N ; -ist|ist|S
+lagniappe	noun	lagniappe|lagniappe|R|N
+heinie	noun	heinie|heinie|R|N
+negress	noun	negro|negr|R|N ; -ess|ess|S
+demagogy	noun	demagogue|demagog|R|N ; -y|y|S
+columbarium	noun	columbarium|columbarium|R|N
+biographic	adj	biographic|biographic|R|Adj
+detent	noun	detent|detent|R|N
+nutritiously	adv	nutritious|nutritious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+tapped	verb	tap|tapp|R|V ; -ed|ed|I||-ed (v2)
+condemnable	adj	condemn|condemn|R|V ; -able|able|S
+unzipped	verb	un-|un|P ; zip|zipp|R|V ; -ed|ed|I||-ed (v2)
+mishear	verb	mis-|mis|P ; hear|hear|R|V
+crated	verb	crate|crat|R|N ; -ed|ed|I||-ed (v2)
+watercolourist	noun	water|water|R|N ; colour|colour|R|N ; -ist|ist|S
+preventively	adv	prevent|prevent|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+nicknamed	verb	nick|nick|R|N ; name|nam|R|N ; -ed|ed|I||-ed (v2)
+outgunned	verb	out-|out|P ; gun|gunn|R|N ; -ed|ed|I||-ed (v2)
+indiscreetly	adv	in-|in|P ; discreet|discreet|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+overfish	verb	over-|over|P ; fish|fish|R|V
+pixilated	adj	pixilated|pixilated|R|Adj
+instate	verb	in-|in|P ; state|state|R|V
+correcting	verb	correct|correct|R|V ; -ing|ing|I||-ing (v)
+demerger	noun	de-|de|P ; merge|merg|R|V ; -er|er|S||-er (N)
+unearthed	verb	un-|un|P ; earth|earth|R|N ; -ed|ed|I||-ed (v2)
+flocked	verb	flock|flock|R|V ; -ed|ed|I||-ed (v2)
+catastrophism	noun	catastrophe|catastroph|R|N ; -ism|ism|S
+museology	noun	museology|museology|R|N
+queerness	noun	queer|queer|R|Adj ; -ness|ness|S
+ipsative	adj	ipsative|ipsative|R|Adj
+palp	noun	palp|palp|R|N
+pricking	verb	prick|prick|R|V ; -ing|ing|I||-ing (v)
+pinna	noun	pinna|pinna|R|N
+bootable	adj	boot|boot|R|V ; -able|able|S
+luciferase	noun	luciferase|luciferase|R|N
+spoonerism	noun	spooner|spooner|R|N ; -ism|ism|S
+levator	noun	levator|levator|R|N
+brandade	noun	brandade|brandade|R|N
+dipshit	noun	dip|dip|R|V ; shit|shit|R|N
+heterozygote	noun	heterozygote|heterozygote|R|N
+maintainable	adj	maintain|maintain|R|V ; -able|able|S
+fluence	noun	fluence|fluence|R|N
+fibreboard	noun	fibre|fibre|R|N ; board|board|R|N
+thalassemia	noun	thalassemia|thalassemia|R|N
+lebensraum	noun	lebensraum|lebensraum|R|N
+epistemologist	noun	epistemology|epistemolog|R|N ; -ist|ist|S
+raggy	adj	rag|ragg|R|N ; -y|y|S
+detectability	noun	detect|detect|R|V ; -able|abil|S ; -ity|ity|S
+podiatry	noun	podiatry|podiatry|R|N
+verifiability	noun	verify|verifi|R|V ; -able|abil|S ; -ity|ity|S
+ketosis	noun	ketosis|ketosis|R|N
+mendoza	noun	mendoza|mendoza|R|N
+titmouse	noun	tit|tit|R|N ; mouse|mouse|R|N
+orographic	adj	orographic|orographic|R|Adj
+characterological	adj	characterological|characterological|R|Adj
+humidify	verb	humid|humid|R|Adj ; -ify|ify|S
+jody	noun	jody|jody|R|N
+airburst	noun	air|air|R|N ; burst|burst|R|N
+hella	adv	hella|hella|R|Adv
+laparoscope	noun	laparoscope|laparoscope|R|N
+telegrapher	noun	tele-|tele|P ; graph|graph|R|N ; -er|er|S||-er (N)
+respirable	adj	respire|respir|R|V ; -able|able|S
+noncontributory	adj	non-|non|P ; contribute|contribut|R|V ; -ory|ory|S
+parturition	noun	parturition|parturition|R|N
+demineralization	noun	de-|de|P ; mineral|mineral|R|N ; -ize|iz|S ; -ation|ation|S
+electromagnetics	noun	electro|electro|R|N ; magnet|magnet|R|N ; -ic|ic|S ; -s|s|I||-s (plural)
+stuporous	adj	stupor|stupor|R|N ; -ous|ous|S
+circumciser	noun	circumciser|circumciser|R|N
+lordosis	noun	lordosis|lordosis|R|N
+oleo	noun	oleo|oleo|R|N
+valvular	adj	valvular|valvular|R|Adj
+episteme	noun	episteme|episteme|R|N
+parasitology	noun	parasitology|parasitology|R|N
+ilium	noun	ilium|ilium|R|N
+eejit	noun	eejit|eejit|R|N
+operability	noun	operate|oper|R|V ; -able|abil|S ; -ity|ity|S
+auk	noun	auk|auk|R|N
+lummox	noun	lummox|lummox|R|N
+furball	noun	fur|fur|R|N ; ball|ball|R|N
+supercomputing	noun	super-|super|P ; compute|comput|R|V ; -ing|ing|S||-ing (N)
+hardscape	noun	hardscape|hardscape|R|N
+vindicator	noun	vindicate|vindicat|R|V ; -or|or|S
+owlishly	adv	owl|owl|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+monologist	noun	monologue|monolog|R|N ; -ist|ist|S
+fictionally	adv	fiction|fiction|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+glowworm	noun	glow|glow|R|V ; worm|worm|R|N
+insectivore	noun	insectivore|insectivore|R|N
+moonglow	noun	moon|moon|R|N ; glow|glow|R|N
+tieback	noun	tie|tie|R|V ; back|back|R|N
+danged	adj	dang|dang|R|V ; -ed|ed|I||-ed (v2)
+dankness	noun	dank|dank|R|Adj ; -ness|ness|S
+strabismus	noun	strabismus|strabismus|R|N
+bac	noun	bac|bac|R|N
+conspecific	adj	con-|con|P ; specific|specific|R|Adj
+bamboozled	verb	bamboozle|bamboozl|R|V ; -ed|ed|I||-ed (v2)
+motivic	adj	motive|motiv|R|N ; -ic|ic|S
+lividity	noun	livid|livid|R|Adj ; -ity|ity|S
+fluorite	noun	fluorite|fluorite|R|N
+baiter	noun	bait|bait|R|V ; -er|er|S||-er (N)
+motoric	adj	motor|motor|R|N ; -ic|ic|S
+polymerization	noun	polymer|polymer|R|N ; -ize|iz|S ; -ation|ation|S
+scripturally	adv	scripture|scriptur|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+auscultation	noun	auscultate|auscultat|R|V ; -ion|ion|S
+gneiss	noun	gneiss|gneiss|R|N
+isotonic	adj	isotonic|isotonic|R|Adj
+vitiligo	noun	vitiligo|vitiligo|R|N
+obeah	noun	obeah|obeah|R|N
+hypothyroid	adj	hypo-|hypo|P ; thyroid|thyroid|R|N
+copulatory	adj	copulate|copulat|R|V ; -ory|ory|S
+scratchboard	noun	scratch|scratch|R|V ; board|board|R|N
+elephantiasis	noun	elephantiasis|elephantiasis|R|N
+circumflex	noun	circumflex|circumflex|R|N
+firehose	noun	fire|fire|R|N ; hose|hose|R|N
+redly	adv	red|red|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+linebacking	noun	line|line|R|N ; back|back|R|N ; -ing|ing|S||-ing (N)
+chorea	noun	chorea|chorea|R|N
+mastication	noun	masticate|masticat|R|V ; -ion|ion|S
+fustian	noun	fustian|fustian|R|N
+blowgun	noun	blow|blow|R|V ; gun|gun|R|N
+eutrophic	adj	eutrophic|eutrophic|R|Adj
+thrombin	noun	thrombin|thrombin|R|N
+polyandry	noun	polyandry|polyandry|R|N
+ngoma	noun	ngoma|ngoma|R|N
+dipolar	adj	dipolar|dipolar|R|Adj
+uke	noun	uke|uke|R|N
+hypostasis	noun	hypostasis|hypostasis|R|N
+bugling	verb	bugle|bugl|R|N ; -ing|ing|I||-ing (v)
+aneurism	noun	aneurism|aneurism|R|N
+debugger	noun	de-|de|P ; bug|bugg|R|N ; -er|er|S||-er (N)
+chocoholic	noun	chocoholic|chocoholic|R|N
+scrod	noun	scrod|scrod|R|N
+queuing	verb	queue|queu|R|V ; -ing|ing|I||-ing (v)
+angiosarcoma	noun	angiosarcoma|angiosarcoma|R|N
+virilocal	adj	virilocal|virilocal|R|Adj
+kefir	noun	kefir|kefir|R|N
+reservationist	noun	reservation|reservation|R|N ; -ist|ist|S
+glial	adj	glia|gli|R|N ; -al|al|S
+adaptational	adj	adapt|adapt|R|V ; -ation|ation|S ; -al|al|S
+hexameter	noun	hexameter|hexameter|R|N
+minim	noun	minim|minim|R|N
+brainpan	noun	brain|brain|R|N ; pan|pan|R|N
+homogenise	verb	homogeneous|homogen|R|Adj ; -ise|ise|S
+freefall	noun	free|free|R|Adj ; fall|fall|R|N
+beltless	adj	belt|belt|R|N ; -less|less|S
+dehydroepiandrosterone	noun	dehydroepiandrosterone|dehydroepiandrosterone|R|N
+journaling	verb	journal|journal|R|N ; -ing|ing|I||-ing (v)
+isometrics	noun	isometric|isometric|R|Adj ; -s|s|I||-s (plural)
+heuristically	adv	heuristic|heuristic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+curtainless	adj	curtain|curtain|R|N ; -less|less|S
+flashiness	noun	flash|flash|R|V ; -y|i|S ; -ness|ness|S
+compline	noun	compline|compline|R|N

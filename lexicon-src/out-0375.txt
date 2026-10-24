@@ -1,0 +1,200 @@
+sanify	verb	sanify|sanify|R|V
+sanious	adj	sanious|sanious|R|Adj
+sanitariness	noun	sanitary|sanitari|R|Adj ; -ness|ness|S
+sanitate	verb	sanitate|sanitate|R|V
+sanitizable	adj	sanitize|sanitiz|R|V ; -able|able|S
+sanjak	noun	sanjak|sanjak|R|N
+sannyasi	noun	sannyasi|sannyasi|R|N
+sansevieria	noun	sansevieria|sansevieria|R|N
+santal	noun	santal|santal|R|N
+santalaceous	adj	santalaceous|santalaceous|R|Adj
+santol	noun	santol|santol|R|N
+santonica	noun	santonica|santonica|R|N
+santonin	noun	santonin|santonin|R|N
+santur	noun	santur|santur|R|N
+saola	noun	saola|saola|R|N
+sapajou	noun	sapajou|sapajou|R|N
+sapan	noun	sapan|sapan|R|N
+sapful	adj	sap|sap|R|N ; -ful|ful|S
+saphead	noun	sap|sap|R|N ; head|head|R|N
+saphena	noun	saphena|saphena|R|N
+saphenous	adj	saphena|saphen|R|N ; -ous|ous|S
+sapid	adj	sapid|sapid|R|Adj
+sapidity	noun	sapid|sapid|R|Adj ; -ity|ity|S
+sapience	noun	sapience|sapience|R|N
+sapiently	adv	sapient|sapient|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sapindaceous	adj	sapindaceous|sapindaceous|R|Adj
+sapiosexual	adj	sapiosexual|sapiosexual|R|Adj
+sapiosexuality	noun	sapiosexual|sapiosexual|R|Adj ; -ity|ity|S
+sapless	adj	sap|sap|R|N ; -less|less|S
+sapodilla	noun	sapodilla|sapodilla|R|N
+saponaceous	adj	saponaceous|saponaceous|R|Adj
+saponifiable	adj	saponify|saponifi|R|V ; -able|able|S
+saponification	noun	saponify|saponifi|R|V ; -ation|cation|S
+saponified	verb	saponify|saponifi|R|V ; -ed|ed|I||-ed (v2)
+saponifier	noun	saponify|saponifi|R|V ; -er|er|S||-er (N)
+saponify	verb	saponify|saponify|R|V
+saporific	adj	saporific|saporific|R|Adj
+saporous	adj	saporous|saporous|R|Adj
+sapota	noun	sapota|sapota|R|N
+sapote	noun	sapote|sapote|R|N
+sappanwood	noun	sappan|sappan|R|N ; wood|wood|R|N
+sapphic	adj	sapphic|sapphic|R|Adj
+sapphirine	adj	sapphirine|sapphirine|R|Adj
+sapphism	noun	sapphism|sapphism|R|N
+sappiness	noun	sappy|sappi|R|Adj ; -ness|ness|S
+sapping	verb	sap|sapp|R|V ; -ing|ing|I||-ing (v)
+sapraemia	noun	sapraemia|sapraemia|R|N
+saprobe	noun	saprobe|saprobe|R|N
+saprobic	adj	saprobic|saprobic|R|Adj
+saprogenic	adj	saprogenic|saprogenic|R|Adj
+saprogenous	adj	saprogenous|saprogenous|R|Adj
+saprolite	noun	saprolite|saprolite|R|N
+sapropel	noun	sapropel|sapropel|R|N
+sapropelic	adj	sapropelic|sapropelic|R|Adj
+saprophagous	adj	saprophagous|saprophagous|R|Adj
+saprophile	noun	saprophile|saprophile|R|N
+saprophyte	noun	saprophyte|saprophyte|R|N
+saprophytic	adj	saprophytic|saprophytic|R|Adj
+saprophytism	noun	saprophyte|saprophyt|R|N ; -ism|ism|S
+saprotroph	noun	saprotroph|saprotroph|R|N
+saprotrophic	adj	saprotrophic|saprotrophic|R|Adj
+saprozoic	adj	saprozoic|saprozoic|R|Adj
+sarabande	noun	sarabande|sarabande|R|N
+sarafan	noun	sarafan|sarafan|R|N
+saran	noun	saran|saran|R|N
+sarangi	noun	sarangi|sarangi|R|N
+saratoga	noun	saratoga|saratoga|R|N
+sarcocarp	noun	sarcocarp|sarcocarp|R|N
+sarcococca	noun	sarcococca|sarcococca|R|N
+sarcocolla	noun	sarcocolla|sarcocolla|R|N
+sarcode	noun	sarcode|sarcode|R|N
+sarcoderm	noun	sarcoderm|sarcoderm|R|N
+sarcodic	adj	sarcodic|sarcodic|R|Adj
+sarcoid	noun	sarcoid|sarcoid|R|N
+sarcolemma	noun	sarcolemma|sarcolemma|R|N
+sarcolemmal	adj	sarcolemma|sarcolemm|R|N ; -al|al|S
+sarcoline	noun	sarcoline|sarcoline|R|N
+sarcological	adj	sarcological|sarcological|R|Adj
+sarcomatoid	adj	sarcomatoid|sarcomatoid|R|Adj
+sarcomatosis	noun	sarcomatosis|sarcomatosis|R|N
+sarcomatous	adj	sarcomatous|sarcomatous|R|Adj
+sarcomere	noun	sarcomere|sarcomere|R|N
+sarcopenia	noun	sarcopenia|sarcopenia|R|N
+sarcophagous	adj	sarcophagous|sarcophagous|R|Adj
+sarcophagy	noun	sarcophagy|sarcophagy|R|N
+sarcoplasm	noun	sarcoplasm|sarcoplasm|R|N
+sarcoplast	noun	sarcoplast|sarcoplast|R|N
+sarcotesta	noun	sarcotesta|sarcotesta|R|N
+sard	noun	sard|sard|R|N
+sardius	noun	sardius|sardius|R|N
+sardonyx	noun	sardonyx|sardonyx|R|N
+sarissa	noun	sarissa|sarissa|R|N
+sarma	noun	sarma|sarma|R|N
+sarmentaceous	adj	sarmentaceous|sarmentaceous|R|Adj
+sarmentose	adj	sarmentose|sarmentose|R|Adj
+sarmentum	noun	sarmentum|sarmentum|R|N
+sarnie	noun	sarnie|sarnie|R|N
+sarpanch	noun	sarpanch|sarpanch|R|N
+sarracenia	noun	sarracenia|sarracenia|R|N
+sarsen	noun	sarsen|sarsen|R|N
+sarsenet	noun	sarsenet|sarsenet|R|N
+sartorius	noun	sartorius|sartorius|R|N
+saskatoon	noun	saskatoon|saskatoon|R|N
+sasquatch	noun	sasquatch|sasquatch|R|N
+sassenach	noun	sassenach|sassenach|R|N
+satanic	adj	satanic|satanic|R|Adj
+satanically	adv	satanic|satanic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+satanology	noun	satanology|satanology|R|N
+satellitary	adj	satellite|satellit|R|N ; -ary|ary|S
+satiability	noun	satiate|sati|R|V ; -able|abil|S ; -ity|ity|S
+satiable	adj	satiate|sati|R|V ; -able|able|S
+satiating	verb	satiate|satiat|R|V ; -ing|ing|I||-ing (v)
+satinet	noun	satinet|satinet|R|N
+satinette	noun	satin|satin|R|N ; -ette|ette|S
+satisfactoriness	noun	satisfactory|satisfactori|R|Adj ; -ness|ness|S
+satisfiability	noun	satisfy|satisfi|R|V ; -able|abil|S ; -ity|ity|S
+satisfiable	adj	satisfy|satisfi|R|V ; -able|able|S
+satisfier	noun	satisfy|satisfi|R|V ; -er|er|S||-er (N)
+satrapy	noun	satrap|satrap|R|N ; -y|y|S
+saturability	noun	saturate|satur|R|V ; -able|abil|S ; -ity|ity|S
+saturable	adj	saturate|satur|R|V ; -able|able|S
+saturant	noun	saturate|satur|R|V ; -ant|ant|S
+saturator	noun	saturate|saturat|R|V ; -or|or|S||-er (N)
+saturn	noun	saturn|saturn|R|N
+saturnalia	noun	saturnalia|saturnalia|R|N
+saturnic	adj	saturnic|saturnic|R|Adj
+saturnism	noun	saturnism|saturnism|R|N
+satyagraha	noun	satyagraha|satyagraha|R|N
+satyriasis	noun	satyriasis|satyriasis|R|N
+satyric	adj	satyr|satyr|R|N ; -ic|ic|S
+satyrical	adj	satyr|satyr|R|N ; -ical|ical|S
+saucebox	noun	sauce|sauce|R|N ; box|box|R|N
+sauced	verb	sauce|sauc|R|V ; -ed|ed|I||-ed (v2)
+saucily	adv	saucy|sauci|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sauciness	noun	saucy|sauci|R|Adj ; -ness|ness|S
+saucisse	noun	saucisse|saucisse|R|N
+sauerbraten	noun	sauerbraten|sauerbraten|R|N
+saung	noun	saung|saung|R|N
+saunterer	noun	saunter|saunter|R|V ; -er|er|S||-er (N)
+sauntering	verb	saunter|saunter|R|V ; -ing|ing|I||-ing (v)
+saurel	noun	saurel|saurel|R|N
+sauroid	adj	sauroid|sauroid|R|Adj
+saury	noun	saury|saury|R|N
+sausagemaker	noun	sausage|sausage|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+saussurea	noun	saussurea|saussurea|R|N
+sauterne	noun	sauterne|sauterne|R|N
+savageness	noun	savage|savage|R|Adj ; -ness|ness|S
+savaging	verb	savage|savag|R|V ; -ing|ing|I||-ing (v)
+savate	noun	savate|savate|R|N
+saveloy	noun	saveloy|saveloy|R|N
+savoyard	noun	savoyard|savoyard|R|N
+sawder	noun	sawder|sawder|R|N
+sawer	noun	saw|saw|R|V ; -er|er|S||-er (N)
+sawfish	noun	saw|saw|R|N ; fish|fish|R|N
+sawfly	noun	saw|saw|R|N ; fly|fly|R|N
+sawm	noun	sawm|sawm|R|N
+sawney	noun	sawney|sawney|R|N
+sawpit	noun	saw|saw|R|N ; pit|pit|R|N
+sawshark	noun	saw|saw|R|N ; shark|shark|R|N
+saxaul	noun	saxaul|saxaul|R|N
+saxhorn	noun	saxhorn|saxhorn|R|N
+saxicavous	adj	saxicavous|saxicavous|R|Adj
+saxicoline	adj	saxicoline|saxicoline|R|Adj
+saxicolous	adj	saxicolous|saxicolous|R|Adj
+saxtuba	noun	saxtuba|saxtuba|R|N
+saz	noun	saz|saz|R|N
+sazhen	noun	sazhen|sazhen|R|N
+scabbed	verb	scab|scabb|R|V ; -ed|ed|I||-ed (v2)
+scabbily	adv	scabby|scabbi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+scabbiness	noun	scabby|scabbi|R|Adj ; -ness|ness|S
+scabietic	adj	scabietic|scabietic|R|Adj
+scabrousness	noun	scabrous|scabrous|R|Adj ; -ness|ness|S
+scaffolder	noun	scaffold|scaffold|R|V ; -er|er|S||-er (N)
+scag	noun	scag|scag|R|N
+scaglia	noun	scaglia|scaglia|R|N
+scagliola	noun	scagliola|scagliola|R|N
+scalariform	adj	scalariform|scalariform|R|Adj
+scalawag	noun	scalawag|scalawag|R|N
+scaleless	adj	scale|scale|R|N ; -less|less|S
+scalene	adj	scalene|scalene|R|Adj
+scaler	noun	scale|scal|R|V ; -er|er|S||-er (N)
+scales	noun	scale|scale|R|N ; -s|s|I||-s (plural)
+scaliness	noun	scaly|scali|R|Adj ; -ness|ness|S
+scall	noun	scall|scall|R|N
+scallion	noun	scallion|scallion|R|N
+scalloping	verb	scallop|scallop|R|V ; -ing|ing|I||-ing (v)
+scalped	verb	scalp|scalp|R|V ; -ed|ed|I||-ed (v2)
+scalping	verb	scalp|scalp|R|V ; -ing|ing|I||-ing (v)
+scammony	noun	scammony|scammony|R|N
+scamorza	noun	scamorza|scamorza|R|N
+scampered	verb	scamper|scamper|R|V ; -ed|ed|I||-ed (v2)
+scampering	verb	scamper|scamper|R|V ; -ing|ing|I||-ing (v)
+scampish	adj	scamp|scamp|R|N ; -ish|ish|S
+scandalizable	adj	scandalize|scandaliz|R|V ; -able|able|S
+scandalizing	verb	scandalize|scandaliz|R|V ; -ing|ing|I||-ing (v)
+scandalmonger	noun	scandal|scandal|R|N ; monger|monger|R|N
+scandalmongering	verb	scandal|scandal|R|N ; monger|monger|R|V ; -ing|ing|I||-ing (v)
+scandalousness	noun	scandalous|scandalous|R|Adj ; -ness|ness|S
+scandent	adj	scandent|scandent|R|Adj
+scanlation	noun	scanlation|scanlation|R|N

@@ -1,0 +1,200 @@
+clerisy	noun	clerisy|clerisy|R|N
+clerkdom	noun	clerk|clerk|R|N ; -dom|dom|S
+clerkliness	noun	clerk|clerk|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+clethra	noun	clethra|clethra|R|N
+clew	noun	clew|clew|R|N
+clickable	adj	click|click|R|V ; -able|able|S
+clickbait	noun	click|click|R|V ; bait|bait|R|N
+cliency	noun	client|clien|R|N ; -cy|cy|S
+clientage	noun	client|client|R|N ; -age|age|S
+cliental	adj	client|client|R|N ; -al|al|S
+clientelism	noun	clientele|clientel|R|N ; -ism|ism|S
+cliffy	adj	cliff|cliff|R|N ; -y|y|S
+climacteric	adj	climacteric|climacteric|R|Adj
+climacterium	noun	climacterium|climacterium|R|N
+climactically	adv	climactic|climactic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+climatize	verb	climate|climat|R|N ; -ize|ize|S
+climatologic	adj	climatology|climatolog|R|N ; -ic|ic|S
+climatologically	adv	climatology|climatolog|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+climatotherapy	noun	climatotherapy|climatotherapy|R|N
+climaxed	verb	climax|climax|R|V ; -ed|ed|I||-ed (v2)
+climbable	adj	climb|climb|R|V ; -able|able|S
+clinal	adj	cline|clin|R|N ; -al|al|S
+clinching	verb	clinch|clinch|R|V ; -ing|ing|I||-ing (v)
+clingstone	noun	cling|cling|R|V ; stone|stone|R|N
+clinoid	adj	clinoid|clinoid|R|Adj
+clinometer	noun	clinometer|clinometer|R|N
+clinometric	adj	clinometric|clinometric|R|Adj
+clinopyroxene	noun	clinopyroxene|clinopyroxene|R|N
+clinquant	adj	clinquant|clinquant|R|Adj
+cliometrics	noun	cliometrics|cliometrics|R|N
+clippers	noun	clip|clipp|R|V ; -er|er|S||-er (N) ; -s|s|I||-s (plural)
+clippie	noun	clippie|clippie|R|N
+cliquey	adj	clique|clique|R|N ; -y|y|S
+cliquish	adj	clique|cliqu|R|N ; -ish|ish|S
+cliquishly	adv	cliquish|cliquish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cliquishness	noun	cliquish|cliquish|R|Adj ; -ness|ness|S
+clishmaclaver	noun	clishmaclaver|clishmaclaver|R|N
+clitellum	noun	clitellum|clitellum|R|N
+clitic	noun	clitic|clitic|R|N
+cloacal	adj	cloaca|cloac|R|N ; -al|al|S
+clobbered	verb	clobber|clobber|R|V ; -ed|ed|I||-ed (v2)
+clobbering	verb	clobber|clobber|R|V ; -ing|ing|I||-ing (v)
+clocked	verb	clock|clock|R|V ; -ed|ed|I||-ed (v2)
+clodded	verb	clod|clodd|R|N ; -ed|ed|I||-ed (v2)
+cloddiness	noun	cloddy|cloddi|R|Adj ; -ness|ness|S
+clodding	verb	clod|clodd|R|N ; -ing|ing|I||-ing (v)
+cloddish	adj	clod|clodd|R|N ; -ish|ish|S
+cloddishly	adv	cloddish|cloddish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cloddishness	noun	cloddish|cloddish|R|Adj ; -ness|ness|S
+cloddy	adj	clod|clodd|R|N ; -y|y|S
+clodhopper	noun	clod|clod|R|N ; hop|hopp|R|V ; -er|er|S||-er (N)
+cloggy	adj	clog|clogg|R|V ; -y|y|S
+cloisterer	noun	cloister|cloister|R|N ; -er|er|S||-er (N)
+cloistral	adj	cloister|cloistr|R|N ; -al|al|S
+clonally	adv	clone|clon|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+clonazepam	noun	clonazepam|clonazepam|R|N
+cloner	noun	clone|clon|R|V ; -er|er|S||-er (N)
+clonic	adj	clone|clon|R|N ; -ic|ic|S
+clonicity	noun	clonic|clonic|R|Adj ; -ity|ity|S
+clonk	noun	clonk|clonk|R|N
+clonus	noun	clonus|clonus|R|N
+cloop	noun	cloop|cloop|R|N
+closemouthed	adj	close|close|R|Adj ; mouth|mouth|R|N ; -ed|ed|S||-ed (adj)
+closeting	verb	closet|closet|R|N ; -ing|ing|I||-ing (v)
+clothesbrush	noun	clothes|clothes|R|N ; brush|brush|R|N
+clothoid	noun	clothoid|clothoid|R|N
+clou	noun	clou|clou|R|N
+cloudberry	noun	cloud|cloud|R|N ; berry|berry|R|N
+cloudily	adv	cloudy|cloudi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cloudland	noun	cloud|cloud|R|N ; land|land|R|N
+cloudlessness	noun	cloud|cloud|R|N ; -less|less|S ; -ness|ness|S
+cloudlet	noun	cloud|cloud|R|N ; -let|let|S
+clouted	verb	clout|clout|R|V ; -ed|ed|I||-ed (v2)
+clouting	verb	clout|clout|R|V ; -ing|ing|I||-ing (v)
+clownery	noun	clown|clown|R|N ; -ery|ery|S
+clownfish	noun	clown|clown|R|N ; fish|fish|R|N
+clownishly	adv	clownish|clownish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+clownishness	noun	clownish|clownish|R|Adj ; -ness|ness|S
+clownlike	adj	clown|clown|R|N ; -like|like|S
+cloy	verb	cloy|cloy|R|V
+cloyingness	noun	cloy|cloy|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+clubbing	verb	club|clubb|R|N ; -ing|ing|I||-ing (v)
+clubbist	noun	club|clubb|R|N ; -ist|ist|S
+clubman	noun	club|club|R|N ; man|man|R|N
+clubs	noun	club|club|R|N ; -s|s|I||-s (plural)
+clubwoman	noun	club|club|R|N ; woman|woman|R|N
+clumpish	adj	clump|clump|R|V ; -ish|ish|S
+clumps	noun	clump|clump|R|N ; -s|s|I||-s (plural)
+clupeid	noun	clupeid|clupeid|R|N
+clusterfuck	noun	cluster|cluster|R|N ; fuck|fuck|R|V
+clutches	noun	clutch|clutch|R|N ; -es|es|I||-s (plural)
+clutching	verb	clutch|clutch|R|V ; -ing|ing|I||-ing (v)
+cluttering	verb	clutter|clutter|R|V ; -ing|ing|I||-ing (v)
+clypeal	adj	clypeus|clype|R|N ; -al|al|S
+clypeate	adj	clypeus|clype|R|N ; -ate|ate|S
+clypeiform	adj	clypeiform|clypeiform|R|Adj
+clypeus	noun	clypeus|clypeus|R|N
+cnidarian	noun	cnidarian|cnidarian|R|N
+cnidocyte	noun	cnidocyte|cnidocyte|R|N
+coacervate	verb	coacervate|coacervate|R|V
+coacervation	noun	coacervate|coacervat|R|V ; -ion|ion|S
+coachable	adj	coach|coach|R|V ; -able|able|S
+coachbuilder	noun	coach|coach|R|N ; build|build|R|V ; -er|er|S||-er (N)
+coacher	noun	coach|coach|R|V ; -er|er|S||-er (N)
+coachmanship	noun	coach|coach|R|N ; man|man|R|N ; -ship|ship|S
+coaction	noun	co-|co|P ; act|act|R|V ; -ion|ion|S
+coadapted	verb	co-|co|P ; adapt|adapt|R|V ; -ed|ed|I||-ed (v2)
+coadjacence	noun	co-|co|P ; adjacent|adjac|R|Adj ; -ence|ence|S
+coadjacent	adj	co-|co|P ; adjacent|adjacent|R|Adj
+coadjutant	noun	co-|co|P ; adjutant|adjutant|R|N
+coadjutor	noun	coadjutor|coadjutor|R|N
+coadunate	adj	coadunate|coadunate|R|Adj
+coagulability	noun	coagulate|coagul|R|V ; -able|abil|S ; -ity|ity|S
+coagulable	adj	coagulate|coagul|R|V ; -able|able|S
+coagulator	noun	coagulate|coagul|R|V ; -or|ator|S
+coagulin	noun	coagulin|coagulin|R|N
+coagulum	noun	coagulum|coagulum|R|N
+coalbin	noun	coal|coal|R|N ; bin|bin|R|N
+coaled	verb	coal|coal|R|N ; -ed|ed|I||-ed (v2)
+coaler	noun	coal|coal|R|N ; -er|er|S||-er (N)
+coalescer	noun	coalesce|coalesc|R|V ; -er|er|S||-er (N)
+coalfish	noun	coal|coal|R|N ; fish|fish|R|N
+coalitionist	noun	coalition|coalition|R|N ; -ist|ist|S
+coalsack	noun	coal|coal|R|N ; sack|sack|R|N
+coaly	adj	coal|coal|R|N ; -y|y|S
+coaming	noun	coaming|coaming|R|N
+coarctate	verb	coarctate|coarctate|R|V
+coarctation	noun	coarctate|coarctat|R|V ; -ion|ion|S
+coastguardsman	noun	coast|coast|R|N ; guardsman|guardsman|R|N
+coastwaiter	noun	coast|coast|R|N ; wait|wait|R|V ; -er|er|S||-er (N)
+coastwise	adv	coast|coast|R|N ; -wise|wise|S
+coatee	noun	coatee|coatee|R|N
+coati	noun	coati|coati|R|N
+coauthor	noun	co-|co|P ; author|author|R|N
+coaxer	noun	coax|coax|R|V ; -er|er|S||-er (N)
+coaxiality	noun	co-|co|P ; axis|axi|R|N ; -al|al|S ; -ity|ity|S
+cobaea	noun	cobaea|cobaea|R|N
+cobaltate	noun	cobalt|cobalt|R|N ; -ate|ate|S
+cobaltic	adj	cobalt|cobalt|R|N ; -ic|ic|S
+cobaltite	noun	cobaltite|cobaltite|R|N
+cobaltous	adj	cobalt|cobalt|R|N ; -ous|ous|S
+cobber	noun	cobber|cobber|R|N
+cobby	adj	cob|cobb|R|N ; -y|y|S
+cobelligerent	noun	co-|co|P ; belligerent|belligerent|R|Adj
+coble	noun	coble|coble|R|N
+coboundary	noun	co-|co|P ; boundary|boundary|R|N
+cocainism	noun	cocaine|cocain|R|N ; -ism|ism|S
+cocainist	noun	cocaine|cocain|R|N ; -ist|ist|S
+cocainization	noun	cocainize|cocainiz|R|V ; -ation|ation|S
+cocainize	verb	cocaine|cocain|R|N ; -ize|ize|S
+cocategory	noun	co-|co|P ; category|category|R|N
+cocci	noun	coccus|cocci|R|N ; -s||I||-s (plural)
+coccidiosis	noun	coccidiosis|coccidiosis|R|N
+coccidium	noun	coccidium|coccidium|R|N
+coccolith	noun	coccolith|coccolith|R|N
+coccygeal	adj	coccygeal|coccygeal|R|Adj
+cochain	noun	co-|co|P ; chain|chain|R|N
+cochleate	adj	cochlea|cochle|R|N ; -ate|ate|S
+cockade	noun	cockade|cockade|R|N
+cockalorum	noun	cockalorum|cockalorum|R|N
+cockamamie	adj	cockamamie|cockamamie|R|Adj
+cockatrice	noun	cockatrice|cockatrice|R|N
+cockblock	verb	cock|cock|R|N ; block|block|R|V
+cockboat	noun	cock|cock|R|N ; boat|boat|R|N
+cockchafer	noun	cock|cock|R|N ; chafer|chafer|R|N
+cockcrow	noun	cock|cock|R|N ; crow|crow|R|N
+cockfighting	noun	cock|cock|R|N ; fight|fight|R|V ; -ing|ing|S||-ing (N)
+cockfish	noun	cock|cock|R|N ; fish|fish|R|N
+cockily	adv	cocky|cocki|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cocklebur	noun	cockle|cockle|R|N ; bur|bur|R|N
+cockloft	noun	cock|cock|R|N ; loft|loft|R|N
+cockney	noun	cockney|cockney|R|N
+cockneyfy	verb	cockney|cockney|R|N ; -fy|fy|S
+cockneyism	noun	cockney|cockney|R|N ; -ism|ism|S
+cockscomb	noun	cock|cocks|R|N ; comb|comb|R|N
+cocksfoot	noun	cock|cocks|R|N ; foot|foot|R|N
+cockshot	noun	cockshot|cockshot|R|N
+cockshut	noun	cockshut|cockshut|R|N
+cockspur	noun	cock|cock|R|N ; spur|spur|R|N
+cocksurely	adv	cock|cock|R|N ; sure|sure|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cocksureness	noun	cock|cock|R|N ; sure|sure|R|Adj ; -ness|ness|S
+coconscious	adj	co-|co|P ; con-|con|P ; sci-|sci|B|V ; -ous|ous|S
+coconsciousness	noun	co-|co|P ; con-|con|P ; sci-|sci|B|V ; -ous|ous|S ; -ness|ness|S
+cocooned	verb	cocoon|cocoon|R|N ; -ed|ed|I||-ed (v2)
+cocoonery	noun	cocoon|cocoon|R|N ; -ery|ery|S
+cocooning	verb	cocoon|cocoon|R|N ; -ing|ing|I||-ing (v)
+cocoonlike	adj	cocoon|cocoon|R|N ; -like|like|S
+cocotte	noun	cocotte|cocotte|R|N
+cocoyam	noun	coco|coco|R|N ; yam|yam|R|N
+cocultivate	verb	co-|co|P ; cultivate|cultivate|R|V
+cocycle	noun	co-|co|P ; cycle|cycle|R|N
+codable	adj	code|cod|R|V ; -able|able|S
+codding	verb	cod|codd|R|N ; -ing|ing|I||-ing (v)
+codebase	noun	code|code|R|N ; base|base|R|N
+codeclination	noun	codeclination|codeclination|R|N
+codefendant	noun	co-|co|P ; defendant|defendant|R|N
+codepage	noun	code|code|R|N ; page|page|R|N
+codetermination	noun	co-|co|P ; determine|determin|R|V ; -ation|ation|S
+codeword	noun	code|code|R|N ; word|word|R|N
+codicillary	adj	codicil|codicill|R|N ; -ary|ary|S

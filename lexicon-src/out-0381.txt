@@ -1,0 +1,200 @@
+sibilance	noun	sibilant|sibil|R|Adj ; -ance|ance|S
+sibilancy	noun	sibilant|sibil|R|Adj ; -ancy|ancy|S
+sibilate	verb	sibilate|sibilate|R|V
+sibilation	noun	sibilate|sibilat|R|V ; -ion|ion|S
+siblicide	noun	siblicide|siblicide|R|N
+sibship	noun	sib|sib|R|N ; -ship|ship|S
+sibyl	noun	sibyl|sibyl|R|N
+sibylline	adj	sibylline|sibylline|R|Adj
+siccative	adj	siccative|siccative|R|Adj
+sice	noun	sice|sice|R|N
+sich	pron	sich|sich|R
+sickener	noun	sicken|sicken|R|V ; -er|er|S||-er (N)
+sicker	adj	sick|sick|R|Adj ; -er|er|I||-er (comparative)
+sickish	adj	sick|sick|R|Adj ; -ish|ish|S
+sickliness	noun	sick|sick|R|Adj ; -ly|li|S||-ly (adj) ; -ness|ness|S
+sidebone	noun	side|side|R|N ; bone|bone|R|N
+sidebox	noun	side|side|R|N ; box|box|R|N
+sideburns	noun	side|side|R|N ; burn|burn|R|V ; -s|s|I||-s (plural)
+sided	adj	side|sid|R|N ; -ed|ed|S||-ed (adj)
+sideling	adj	side|side|R|N ; -ling|ling|S
+sidelining	verb	sideline|sidelin|R|V ; -ing|ing|I||-ing (v)
+sidepiece	noun	side|side|R|N ; piece|piece|R|N
+sidequest	noun	side|side|R|N ; quest|quest|R|N
+siderite	noun	siderite|siderite|R|N
+sideroad	noun	side|side|R|N ; road|road|R|N
+siderography	noun	siderography|siderography|R|N
+siderosis	noun	siderosis|siderosis|R|N
+sidesman	noun	side|sides|R|N ; man|man|R|N
+sidespin	noun	side|side|R|N ; spin|spin|R|V
+sidesplitting	adj	side|side|R|N ; split|splitt|R|V ; -ing|ing|S||-ing (adj)
+sidestroke	noun	side|side|R|N ; stroke|stroke|R|N
+sideward	adv	side|side|R|N ; -ward|ward|S
+sidewards	adv	side|side|R|N ; -ward|wards|S
+sidewheeler	noun	side|side|R|N ; wheel|wheel|R|N ; -er|er|S||-er (N)
+sidling	verb	sidle|sidl|R|V ; -ing|ing|I||-ing (v)
+sids	noun	sid|sid|R|N ; -s|s|I||-s (plural)
+sieved	verb	sieve|siev|R|V ; -ed|ed|I||-ed (v2)
+sievert	noun	sievert|sievert|R|N
+sieving	verb	sieve|siev|R|V ; -ing|ing|I||-ing (v)
+sifaka	noun	sifaka|sifaka|R|N
+siftings	noun	sift|sift|R|V ; -ing|ing|S||-ing (N) ; -s|s|I||-s (plural)
+sifu	noun	sifu|sifu|R|N
+sighthole	noun	sight|sight|R|N ; hole|hole|R|N
+sighthound	noun	sight|sight|R|N ; hound|hound|R|N
+sightliness	noun	sight|sight|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+sightworthy	adj	sight|sight|R|N ; worthy|worthy|R|Adj
+sigillate	adj	sigillate|sigillate|R|Adj
+sigillography	noun	sigillography|sigillography|R|N
+siglum	noun	siglum|siglum|R|N
+sigmate	adj	sigmate|sigmate|R|Adj
+sigmatic	adj	sigmatic|sigmatic|R|Adj
+sigmation	noun	sigmation|sigmation|R|N
+signable	adj	sign|sign|R|V ; -able|able|S
+signalize	verb	signal|signal|R|V ; -ize|ize|S
+signalment	noun	signal|signal|R|V ; -ment|ment|S
+significative	adj	significative|significative|R|Adj
+signifying	verb	signify|signify|R|V ; -ing|ing|I||-ing (v)
+signless	adj	sign|sign|R|N ; -less|less|S
+signore	noun	signore|signore|R|N
+signum	noun	signum|signum|R|N
+signwriting	noun	sign|sign|R|N ; write|writ|R|V ; -ing|ing|S||-ing (N)
+siheyuan	noun	siheyuan|siheyuan|R|N
+sikbaj	noun	sikbaj|sikbaj|R|N
+silane	noun	silane|silane|R|N
+silene	noun	silene|silene|R|N
+silesia	noun	silesia|silesia|R|N
+silex	noun	silex|silex|R|N
+silicated	adj	silicate|silicat|R|N ; -ed|ed|S||-ed (adj)
+silicic	adj	silica|silic|R|N ; -ic|ic|S
+siliciferous	adj	siliciferous|siliciferous|R|Adj
+silicification	noun	silicify|silicifi|R|V ; -ation|cation|S
+silicify	verb	silica|silic|R|N ; -ify|ify|S
+silicle	noun	silicle|silicle|R|N
+silicotic	adj	silicosis|silicot|R|N ; -ic|ic|S
+silique	noun	silique|silique|R|N
+siliquose	adj	siliquose|siliquose|R|Adj
+siliquous	adj	siliquous|siliquous|R|Adj
+silkaline	noun	silkaline|silkaline|R|N
+silkie	noun	silkie|silkie|R|N
+silkiness	noun	silk|silk|R|N ; -y|i|S ; -ness|ness|S
+silkmoth	noun	silk|silk|R|N ; moth|moth|R|N
+sillily	adv	silly|silli|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sillimanite	noun	sillimanite|sillimanite|R|N
+silovik	noun	silovik|silovik|R|N
+silrada	noun	silrada|silrada|R|N
+silumin	noun	silumin|silumin|R|N
+silveriness	noun	silver|silver|R|N ; -y|i|S ; -ness|ness|S
+silvering	verb	silver|silver|R|V ; -ing|ing|I||-ing (v)
+silverless	adj	silver|silver|R|N ; -less|less|S
+silverly	adj	silver|silver|R|N ; -ly|ly|S||-ly (adj)
+silvern	adj	silvern|silvern|R|Adj
+silverside	noun	silver|silver|R|N ; side|side|R|N
+silverweed	noun	silver|silver|R|N ; weed|weed|R|N
+silvics	noun	silvics|silvics|R|N
+silviculture	noun	silviculture|silviculture|R|N
+silviculturist	noun	silviculture|silvicultur|R|N ; -ist|ist|S
+silvopasture	noun	silvopasture|silvopasture|R|N
+sima	noun	sima|sima|R|N
+similize	verb	similize|similize|R|V
+simit	noun	simit|simit|R|N
+simoleon	noun	simoleon|simoleon|R|N
+simoniac	noun	simoniac|simoniac|R|N
+simoniacal	adj	simoniac|simoniac|R|N ; -al|al|S
+simoom	noun	simoom|simoom|R|N
+simp	noun	simp|simp|R|N
+simperer	noun	simper|simper|R|V ; -er|er|S||-er (N)
+simpleness	noun	simple|simple|R|Adj ; -ness|ness|S
+simplicial	adj	simplicial|simplicial|R|Adj
+simplifier	noun	simplify|simplifi|R|V ; -er|er|S||-er (N)
+simplism	noun	simple|simpl|R|Adj ; -ism|ism|S
+simplist	noun	simple|simpl|R|Adj ; -ist|ist|S
+simulant	noun	simulate|simul|R|V ; -ant|ant|S
+simulative	adj	simulate|simul|R|V ; -ative|ative|S
+simultaneousness	noun	simultaneous|simultaneous|R|Adj ; -ness|ness|S
+simurgh	noun	simurgh|simurgh|R|N
+sinapism	noun	sinapism|sinapism|R|N
+sincipital	adj	sincipital|sincipital|R|Adj
+sinciput	noun	sinciput|sinciput|R|N
+sindonology	noun	sindonology|sindonology|R|N
+sinecurism	noun	sinecure|sinecur|R|N ; -ism|ism|S
+sinecurist	noun	sinecure|sinecur|R|N ; -ist|ist|S
+sinewiness	noun	sinew|sinew|R|N ; -y|i|S ; -ness|ness|S
+sinewless	adj	sinew|sinew|R|N ; -less|less|S
+sinfonietta	noun	sinfonietta|sinfonietta|R|N
+singlehood	noun	single|single|R|Adj ; -hood|hood|S
+singlemindedness	noun	single|single|R|Adj ; mind|mind|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+singleplayer	noun	single|single|R|Adj ; play|play|R|V ; -er|er|S||-er (N)
+singles	noun	single|single|R|N ; -s|s|I||-s (plural)
+singlestick	noun	single|single|R|Adj ; stick|stick|R|N
+singlesticker	noun	single|single|R|Adj ; stick|stick|R|N ; -er|er|S||-er (N)
+singularism	noun	singular|singular|R|Adj ; -ism|ism|S
+singularize	verb	singular|singular|R|Adj ; -ize|ize|S
+singulative	noun	singulative|singulative|R|N
+sinh	noun	sinh|sinh|R|N
+sinicization	noun	sinicize|siniciz|R|V ; -ation|ation|S
+sinicize	verb	sinic|sinic|R|Adj ; -ize|ize|S
+sinistral	adj	sinister|sinistr|R|Adj ; -al|al|S
+sinistrorsal	adj	sinistrorse|sinistrors|R|Adj ; -al|al|S
+sinistrorse	adj	sinistrorse|sinistrorse|R|Adj
+sinkable	adj	sink|sink|R|V ; -able|able|S
+sinlessness	noun	sin|sin|R|N ; -less|less|S ; -ness|ness|S
+sinning	verb	sin|sinn|R|V ; -ing|ing|I||-ing (v)
+sinoatrial	adj	sinoatrial|sinoatrial|R|Adj
+sinologist	noun	sinology|sinolog|R|N ; -ist|ist|S
+sinologue	noun	sinologue|sinologue|R|N
+sinology	noun	sinology|sinology|R|N
+sinter	verb	sinter|sinter|R|V
+sintering	verb	sinter|sinter|R|V ; -ing|ing|I||-ing (v)
+sinuate	adj	sinuate|sinuate|R|Adj
+sinuation	noun	sinuate|sinuat|R|V ; -ion|ion|S
+sinuosity	noun	sinuous|sinu|R|Adj ; -ity|osity|S
+sipahsalar	noun	sipahsalar|sipahsalar|R|N
+siphonage	noun	siphon|siphon|R|N ; -age|age|S
+siphonal	adj	siphon|siphon|R|N ; -al|al|S
+siphonic	adj	siphon|siphon|R|N ; -ic|ic|S
+siphoning	verb	siphon|siphon|R|V ; -ing|ing|I||-ing (v)
+siphovirus	noun	siphovirus|siphovirus|R|N
+siphuncle	noun	siphuncle|siphuncle|R|N
+sipping	verb	sip|sipp|R|V ; -ing|ing|I||-ing (v)
+sirdar	noun	sirdar|sirdar|R|N
+siree	interj	siree|siree|R
+sirenian	noun	siren|siren|R|N ; -ian|ian|S
+siring	verb	sire|sir|R|V ; -ing|ing|I||-ing (v)
+sirocco	noun	sirocco|sirocco|R|N
+sirtaki	noun	sirtaki|sirtaki|R|N
+sirupy	adj	sirup|sirup|R|N ; -y|y|S
+sissify	verb	sissy|siss|R|N ; -ify|ify|S
+sissoo	noun	sissoo|sissoo|R|N
+sissyish	adj	sissy|sissy|R|N ; -ish|ish|S
+sissyphobia	noun	sissy|sissy|R|N ; phobia|phobia|R|N
+sisterless	adj	sister|sister|R|N ; -less|less|S
+sisterliness	noun	sister|sister|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+sistrum	noun	sistrum|sistrum|R|N
+sitfast	noun	sit|sit|R|V ; fast|fast|R|Adj
+sitology	noun	sitology|sitology|R|N
+situs	noun	situs|situs|R|N
+sixsome	noun	six|six|R ; -some|some|S
+sixte	noun	sixte|sixte|R|N
+sixteenmo	noun	sixteenmo|sixteenmo|R|N
+sixties	noun	sixty|sixt|R ; -es|ies|I||-s (plural)
+sixtysomething	noun	sixty|sixty|R ; something|something|R
+sizar	noun	sizar|sizar|R|N
+sizarship	noun	sizar|sizar|R|N ; -ship|ship|S
+sizer	noun	size|siz|R|N ; -er|er|S||-er (N)
+sizy	adj	size|siz|R|N ; -y|y|S
+sizzler	noun	sizzle|sizzl|R|V ; -er|er|S||-er (N)
+sjambok	noun	sjambok|sjambok|R|N
+skandha	noun	skandha|skandha|R|N
+skat	noun	skat|skat|R|N
+skatepark	noun	skate|skate|R|V ; park|park|R|N
+skean	noun	skean|skean|R|N
+skeg	noun	skeg|skeg|R|N
+skeletonize	verb	skeleton|skeleton|R|N ; -ize|ize|S
+skellum	noun	skellum|skellum|R|N
+skelp	verb	skelp|skelp|R|V
+skep	noun	skep|skep|R|N
+skepticize	verb	skeptic|skeptic|R|N ; -ize|ize|S
+sketcher	noun	sketch|sketch|R|V ; -er|er|S||-er (N)
+sketchiness	noun	sketch|sketch|R|N ; -y|i|S ; -ness|ness|S
+skewbald	adj	skew|skew|R|V ; bald|bald|R|Adj

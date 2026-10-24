@@ -1,0 +1,200 @@
+meshy	adj	mesh|mesh|R|N ; -y|y|S
+mesial	adj	mesial|mesial|R|Adj
+mesite	noun	mesite|mesite|R|N
+mesitylene	noun	mesitylene|mesitylene|R|N
+mesmerism	noun	mesmerism|mesmerism|R|N
+mesmerist	noun	mesmerist|mesmerist|R|N
+mesne	adj	mesne|mesne|R|Adj
+meso	noun	meso|meso|R|N
+mesoblast	noun	mesoblast|mesoblast|R|N
+mesocarp	noun	mesocarp|mesocarp|R|N
+mesocarpic	adj	mesocarp|mesocarp|R|N ; -ic|ic|S
+mesocephalic	adj	mesocephaly|mesocephal|R|N ; -ic|ic|S
+mesoderm	noun	mesoderm|mesoderm|R|N
+mesogastrium	noun	mesogastrium|mesogastrium|R|N
+mesokurtic	adj	mesokurtic|mesokurtic|R|Adj
+mesolect	noun	mesolect|mesolect|R|N
+mesology	noun	mesology|mesology|R|N
+mesomere	noun	mesomere|mesomere|R|N
+mesomerism	noun	mesomerism|mesomerism|R|N
+mesomorphic	adj	mesomorphic|mesomorphic|R|Adj
+mesonephros	noun	mesonephros|mesonephros|R|N
+mesonic	adj	mesonic|mesonic|R|Adj
+mesonoxian	adj	mesonoxian|mesonoxian|R|Adj
+mesopause	noun	mesopause|mesopause|R|N
+mesophyll	noun	mesophyll|mesophyll|R|N
+mesophyte	noun	mesophyte|mesophyte|R|N
+mesophytic	adj	mesophyte|mesophyt|R|N ; -ic|ic|S
+mesosphere	noun	mesosphere|mesosphere|R|N
+mesospheric	adj	mesosphere|mesospher|R|N ; -ic|ic|S
+mesothoracic	adj	mesothorax|mesothorac|R|N ; -ic|ic|S
+mesothorax	noun	mesothorax|mesothorax|R|N
+mesothorium	noun	mesothorium|mesothorium|R|N
+mesotron	noun	mesotron|mesotron|R|N
+mesovortex	noun	mesovortex|mesovortex|R|N
+messages	noun	message|message|R|N ; -s|s|I||-s (plural)
+messaline	noun	messaline|messaline|R|N
+messianic	adj	messiah|messi|R|N ; -ic|anic|S
+messmate	noun	mess|mess|R|N ; mate|mate|R|N
+messroom	noun	mess|mess|R|N ; room|room|R|N
+messuage	noun	messuage|messuage|R|N
+metabelian	adj	metabelian|metabelian|R|Adj
+metabolizing	verb	metabolize|metaboliz|R|V ; -ing|ing|I||-ing (v)
+metacarpus	noun	metacarpus|metacarpus|R|N
+metacentre	noun	metacentre|metacentre|R|N
+metacentric	adj	metacentre|metacentr|R|N ; -ic|ic|S
+metacharacter	noun	metacharacter|metacharacter|R|N
+metachromatic	adj	metachromatic|metachromatic|R|Adj
+metachurl	noun	metachurl|metachurl|R|N
+metacriticism	noun	metacriticism|metacriticism|R|N
+metaculture	noun	metaculture|metaculture|R|N
+metacyclic	adj	metacyclic|metacyclic|R|Adj
+metafictionist	noun	metafiction|metafiction|R|N ; -ist|ist|S
+metagalaxy	noun	metagalaxy|metagalaxy|R|N
+metagame	noun	metagame|metagame|R|N
+metagenesis	noun	metagenesis|metagenesis|R|N
+metagenetic	adj	metagenesis|metagenet|R|N ; -ic|ic|S
+metalepsis	noun	metalepsis|metalepsis|R|N
+metalinguistics	noun	metalinguistics|metalinguistics|R|N
+metalliferous	adj	metalliferous|metalliferous|R|Adj
+metallisation	noun	metallize|metallis|R|V ; -ation|ation|S
+metallist	noun	metal|metall|R|N ; -ist|ist|S
+metallization	noun	metallize|metalliz|R|V ; -ation|ation|S
+metallize	verb	metal|metall|R|N ; -ize|ize|S
+metallocene	noun	metallocene|metallocene|R|N
+metallography	noun	metallography|metallography|R|N
+metalloid	noun	metalloid|metalloid|R|N
+metalloprotein	noun	metalloprotein|metalloprotein|R|N
+metallurgic	adj	metallurgy|metallurg|R|N ; -ic|ic|S
+metallurgically	adv	metallurgy|metallurg|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+metalogic	noun	metalogic|metalogic|R|N
+metalworks	noun	metal|metal|R|N ; work|work|R|V ; -s|s|I||-s (plural)
+metamathematical	adj	metamathematics|metamathematic|R|N ; -al|al|S
+metamathematics	noun	metamathematics|metamathematics|R|N
+metamer	noun	metamer|metamer|R|N
+metamere	noun	metamere|metamere|R|N
+metamerism	noun	metamer|metamer|R|N ; -ism|ism|S
+metamour	noun	metamour|metamour|R|N
+metaphase	noun	metaphase|metaphase|R|N
+metaphony	noun	metaphony|metaphony|R|N
+metaphorize	verb	metaphor|metaphor|R|N ; -ize|ize|S
+metaphrase	noun	metaphrase|metaphrase|R|N
+metaphrast	noun	metaphrast|metaphrast|R|N
+metaphysicize	verb	metaphysic|metaphysic|R|N ; -ize|ize|S
+metaphysis	noun	metaphysis|metaphysis|R|N
+metaplasm	noun	metaplasm|metaplasm|R|N
+metaprogramming	noun	metaprogramming|metaprogramming|R|N
+metasedimentary	adj	metasedimentary|metasedimentary|R|Adj
+metasomatism	noun	metasomatism|metasomatism|R|N
+metastability	noun	metastable|metastabil|R|Adj ; -ity|ity|S
+metatarsalgia	noun	metatarsalgia|metatarsalgia|R|N
+metatarsus	noun	metatarsus|metatarsus|R|N
+metate	noun	metate|metate|R|N
+metatheory	noun	metatheory|metatheory|R|N
+metathesis	noun	metathesis|metathesis|R|N
+metaverse	noun	metaverse|metaverse|R|N
+metempsychosis	noun	metempsychosis|metempsychosis|R|N
+meteorograph	noun	meteorograph|meteorograph|R|N
+meteorologic	adj	meteorology|meteorolog|R|N ; -ic|ic|S
+meteotsunami	noun	meteotsunami|meteotsunami|R|N
+metformin	noun	metformin|metformin|R|N
+methodic	adj	method|method|R|N ; -ic|ic|S
+methodicalness	noun	method|method|R|N ; -ical|ical|S ; -ness|ness|S
+methodize	verb	method|method|R|N ; -ize|ize|S
+methodologist	noun	methodology|methodolog|R|N ; -ist|ist|S
+methoxy	noun	methoxy|methoxy|R|N
+methylate	verb	methyl|methyl|R|N ; -ate|ate|S
+methylic	adj	methyl|methyl|R|N ; -ic|ic|S
+metic	noun	metic|metic|R|N
+meticulosity	noun	meticulous|meticulos|R|Adj ; -ity|ity|S
+meting	noun	mete|met|R|V ; -ing|ing|S||-ing (N)
+metis	noun	metis|metis|R|N
+metochion	noun	metochion|metochion|R|N
+metricate	verb	metric|metric|R|Adj ; -ate|ate|S
+metrication	noun	metricate|metricat|R|V ; -ion|ion|S
+metritis	noun	metritis|metritis|R|N
+metrizability	noun	metrizable|metrizabil|R|Adj ; -ity|ity|S
+metrizable	adj	metrize|metriz|R|V ; -able|able|S
+metrization	noun	metrize|metriz|R|V ; -ation|ation|S
+metrize	verb	metre|metr|R|N ; -ize|ize|S
+metrological	adj	metrology|metrolog|R|N ; -ical|ical|S
+metrologist	noun	metrology|metrolog|R|N ; -ist|ist|S
+metromania	noun	metromania|metromania|R|N
+metromaniac	noun	metromaniac|metromaniac|R|N
+metropolitanism	noun	metropolitan|metropolitan|R|Adj ; -ism|ism|S
+metrorrhagia	noun	metrorrhagia|metrorrhagia|R|N
+metrosexuality	noun	metrosexual|metrosexual|R|Adj ; -ity|ity|S
+mettlesome	adj	mettle|mettle|R|N ; -some|some|S
+mewling	verb	mewl|mewl|R|V ; -ing|ing|I||-ing (v)
+meze	noun	meze|meze|R|N
+mezereon	noun	mezereon|mezereon|R|N
+mezzaluna	noun	mezzaluna|mezzaluna|R|N
+mho	noun	mho|mho|R|N
+mi	noun	mi|mi|R|N
+miai	noun	miai|miai|R|N
+miasmal	adj	miasma|miasm|R|N ; -al|al|S
+miasmatic	adj	miasma|miasmat|R|N ; -ic|ic|S
+miaul	verb	miaul|miaul|R|V
+micaceous	adj	mica|mic|R|N ; -eous|aceous|S
+mice	noun	mouse|mice|R|N ; -s||I||-s (plural)
+micellar	adj	micelle|micell|R|N ; -ar|ar|S
+micelle	noun	micelle|micelle|R|N
+mick	noun	mick|mick|R|N
+microaggression	noun	micro-|micro|P ; aggression|aggression|R|N
+microalga	noun	micro-|micro|P ; alga|alga|R|N
+microarchitecture	noun	micro-|micro|P ; architecture|architecture|R|N
+microbead	noun	micro-|micro|P ; bead|bead|R|N
+microbian	adj	microbe|microb|R|N ; -ian|ian|S
+microbic	adj	microbe|microb|R|N ; -ic|ic|S
+microbicide	noun	microbicide|microbicide|R|N
+microbiologic	adj	microbiology|microbiolog|R|N ; -ic|ic|S
+microbiome	noun	micro-|micro|P ; biome|biome|R|N
+microbism	noun	microbe|microb|R|N ; -ism|ism|S
+microblog	noun	micro-|micro|P ; blog|blog|R|N
+microblogging	noun	micro-|micro|P ; blog|blogg|R|N ; -ing|ing|S||-ing (N)
+microcannula	noun	micro-|micro|P ; cannula|cannula|R|N
+microcephalic	adj	microcephaly|microcephal|R|N ; -ic|ic|S
+microcephalous	adj	microcephaly|microcephal|R|N ; -ous|ous|S
+microcircuit	noun	micro-|micro|P ; circuit|circuit|R|N
+microcomputing	noun	micro-|micro|P ; compute|comput|R|V ; -ing|ing|S||-ing (N)
+microcopy	noun	micro-|micro|P ; copy|copy|R|N
+microcredit	noun	micro-|micro|P ; credit|credit|R|N
+microdata	noun	micro-|micro|P ; data|data|R|N
+microdose	noun	micro-|micro|P ; dose|dose|R|N
+microdot	noun	micro-|micro|P ; dot|dot|R|N
+microelectrode	noun	micro-|micro|P ; electrode|electrode|R|N
+microelectrophoresis	noun	micro-|micro|P ; electrophoresis|electrophoresis|R|N
+microelement	noun	micro-|micro|P ; element|element|R|N
+microfarad	noun	micro-|micro|P ; farad|farad|R|N
+microfauna	noun	micro-|micro|P ; fauna|fauna|R|N
+microfossil	noun	micro-|micro|P ; fossil|fossil|R|N
+microfoundations	noun	micro-|micro|P ; foundation|foundation|R|N ; -s|s|I||-s (plural)
+micrography	noun	micrography|micrography|R|N
+microhistory	noun	micro-|micro|P ; history|history|R|N
+microkernel	noun	micro-|micro|P ; kernel|kernel|R|N
+microlinguistics	noun	microlinguistics|microlinguistics|R|N
+microloan	noun	micro-|micro|P ; loan|loan|R|N
+micrology	noun	micrology|micrology|R|N
+micromanagement	noun	micro-|micro|P ; manage|manage|R|V ; -ment|ment|S
+micrometry	noun	micrometry|micrometry|R|N
+micromobility	noun	micro-|micro|P ; mobility|mobility|R|N
+micronarrative	noun	micro-|micro|P ; narrative|narrative|R|N
+micronation	noun	micro-|micro|P ; nation|nation|R|N
+micronova	noun	micro-|micro|P ; nova|nova|R|N
+microorganic	adj	micro-|micro|P ; organic|organic|R|Adj
+micropaleontology	noun	micropaleontology|micropaleontology|R|N
+micropenis	noun	micro-|micro|P ; penis|penis|R|N
+microphotograph	noun	micro-|micro|P ; photograph|photograph|R|N
+microphotography	noun	microphotography|microphotography|R|N
+microplastic	noun	micro-|micro|P ; plastic|plastic|R|N
+micropolitan	adj	micropolitan|micropolitan|R|Adj
+micropterigid	noun	micropterigid|micropterigid|R|N
+microraion	noun	microraion|microraion|R|N
+microseism	noun	micro-|micro|P ; seism|seism|R|N
+microskirt	noun	micro-|micro|P ; skirt|skirt|R|N
+microsome	noun	microsome|microsome|R|N
+microspore	noun	micro-|micro|P ; spore|spore|R|N
+microstate	noun	micro-|micro|P ; state|state|R|N
+microstatistics	noun	micro-|micro|P ; statistics|statistics|R|N
+microtome	noun	micro-|micro|P ; tome|tome|R|N
+microtomic	adj	microtome|microtom|R|N ; -ic|ic|S

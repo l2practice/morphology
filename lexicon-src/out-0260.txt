@@ -1,0 +1,200 @@
+dandyishly	adv	dandy|dandy|R|Adj ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+dandyism	noun	dandy|dandy|R|N ; -ism|ism|S
+dangdut	noun	dangdut|dangdut|R|N
+dangerless	adj	danger|danger|R|N ; -less|less|S
+dangler	noun	dangle|dangl|R|V ; -er|er|S||-er (N)
+danio	noun	danio|danio|R|N
+danish	noun	danish|danish|R|N
+dankly	adv	dank|dank|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+danseuse	noun	danseuse|danseuse|R|N
+danso	noun	danso|danso|R|N
+danta	noun	danta|danta|R|N
+dap	verb	dap|dap|R|V
+daphnia	noun	daphnia|daphnia|R|N
+dapperly	adv	dapper|dapper|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+dapperness	noun	dapper|dapper|R|Adj ; -ness|ness|S
+dappling	verb	dapple|dappl|R|V ; -ing|ing|I||-ing (v)
+darb	noun	darb|darb|R|N
+darbies	noun	darbies|darbies|R|N
+dargah	noun	dargah|dargah|R|N
+daric	noun	daric|daric|R|N
+daringness	noun	dare|dar|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+dariole	noun	dariole|dariole|R|N
+darkey	noun	darkey|darkey|R|N
+darkle	verb	darkle|darkle|R|V
+darknet	noun	dark|dark|R|Adj ; net|net|R|N
+darkside	noun	dark|dark|R|Adj ; side|side|R|N
+darksome	adj	dark|dark|R|Adj ; -some|some|S
+darmstadtium	noun	darmstadtium|darmstadtium|R|N
+darnel	noun	darnel|darnel|R|N
+darner	noun	darn|darn|R|V ; -er|er|S||-er (N)
+darning	noun	darn|darn|R|V ; -ing|ing|S||-ing (N)
+dartle	verb	dartle|dartle|R|V
+darts	noun	darts|darts|R|N
+daruma	noun	daruma|daruma|R|N
+dasein	noun	dasein|dasein|R|N
+dashcam	noun	dash|dash|R|N ; cam|cam|R|N
+dasheen	noun	dasheen|dasheen|R|N
+dashpot	noun	dash|dash|R|V ; pot|pot|R|N
+dassie	noun	dassie|dassie|R|N
+dastard	noun	dastard|dastard|R|N
+dastardliness	noun	dastard|dastard|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+dataler	noun	dataler|dataler|R|N
+datary	noun	datary|datary|R|N
+dateable	adj	date|date|R|V ; -able|able|S
+datedly	adv	date|dat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+datedness	noun	date|dat|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+dater	noun	date|dat|R|V ; -er|er|S||-er (N)
+datestamp	noun	date|date|R|N ; stamp|stamp|R|N
+dative	adj	dative|dative|R|Adj
+datively	adv	dative|dative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+datolite	noun	datolite|datolite|R|N
+datura	noun	datura|datura|R|N
+daube	noun	daube|daube|R|N
+daubing	verb	daub|daub|R|V ; -ing|ing|I||-ing (v)
+daubster	noun	daub|daub|R|V ; -ster|ster|S
+dauby	adj	daub|daub|R|V ; -y|y|S
+daughterless	adj	daughter|daughter|R|N ; -less|less|S
+daughterling	noun	daughter|daughter|R|N ; -ling|ling|S
+daughterly	adj	daughter|daughter|R|N ; -ly|ly|S||-ly (adj)
+daunted	verb	daunt|daunt|R|V ; -ed|ed|I||-ed (v2)
+daunter	noun	daunt|daunt|R|V ; -er|er|S||-er (N)
+dauntlessly	adv	daunt|daunt|R|V ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+dauntlessness	noun	daunt|daunt|R|V ; -less|less|S ; -ness|ness|S
+dauphinate	noun	dauphin|dauphin|R|N ; -ate|ate|S
+dauphine	noun	dauphine|dauphine|R|N
+daven	verb	daven|daven|R|V
+dawdler	noun	dawdle|dawdl|R|V ; -er|er|S||-er (N)
+dawdlingly	adv	dawdle|dawdl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+dawnlight	noun	dawn|dawn|R|N ; light|light|R|N
+daydreamer	noun	day|day|R|N ; dream|dream|R|V ; -er|er|S||-er (N)
+daydreamlike	adj	day|day|R|N ; dream|dream|R|V ; -like|like|S
+dayflower	noun	day|day|R|N ; flower|flower|R|N
+daylily	noun	day|day|R|N ; lily|lily|R|N
+daymark	noun	day|day|R|N ; mark|mark|R|N
+days	noun	day|day|R|N ; -s|s|I||-s (plural)
+daysman	noun	daysman|daysman|R|N
+dayworker	noun	day|day|R|N ; work|work|R|V ; -er|er|S||-er (N)
+dazibao	noun	dazibao|dazibao|R|N
+deacidification	noun	de-|de|P ; acid|acid|R|N ; -ify|ific|S ; -ation|ation|S
+deacidify	verb	de-|de|P ; acid|acid|R|N ; -ify|ify|S
+deaconship	noun	deacon|deacon|R|N ; -ship|ship|S
+deadener	noun	dead|dead|R|Adj ; -en|en|S ; -er|er|S||-er (N)
+deadeye	noun	dead|dead|R|Adj ; eye|eye|R|N
+deadlift	noun	dead|dead|R|Adj ; lift|lift|R|V
+deadlight	noun	dead|dead|R|Adj ; light|light|R|N
+deadlocking	verb	dead|dead|R|Adj ; lock|lock|R|V ; -ing|ing|I||-ing (v)
+deadname	verb	dead|dead|R|Adj ; name|name|R|N
+deadnettle	noun	dead|dead|R|Adj ; nettle|nettle|R|N
+deaerate	verb	de-|de|P ; aerate|aerate|R|V
+deaeration	noun	de-|de|P ; aerate|aerat|R|V ; -ion|ion|S
+deafblind	adj	deaf|deaf|R|Adj ; blind|blind|R|Adj
+deafblindness	noun	deaf|deaf|R|Adj ; blind|blind|R|Adj ; -ness|ness|S
+deafener	noun	deaf|deaf|R|Adj ; -en|en|S ; -er|er|S||-er (N)
+deafly	adv	deaf|deaf|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+deallocation	noun	de-|de|P ; allocate|allocat|R|V ; -ion|ion|S
+deambulation	noun	de-|de|P ; ambulate|ambulat|R|V ; -ion|ion|S
+deambulatory	adj	de-|de|P ; ambulate|ambulat|R|V ; -ory|ory|S
+deanship	noun	dean|dean|R|N ; -ship|ship|S
+dearborn	noun	dearborn|dearborn|R|N
+dearness	noun	dear|dear|R|Adj ; -ness|ness|S
+deasil	noun	deasil|deasil|R|N
+deathday	noun	death|death|R|N ; day|day|R|N
+deathlessly	adv	death|death|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+deathlessness	noun	death|death|R|N ; -less|less|S ; -ness|ness|S
+deathlike	adj	death|death|R|N ; -like|like|S
+deathmatch	noun	death|death|R|N ; match|match|R|N
+debag	verb	de-|de|P ; bag|bag|R|N
+debaptism	noun	de-|de|P ; baptism|baptism|R|N
+debarkation	noun	de-|de|P ; bark|bark|R|V ; -ation|ation|S
+debarment	noun	de-|de|P ; bar|bar|R|V ; -ment|ment|S
+debaser	noun	de-|de|P ; base|bas|R|V ; -er|er|S||-er (N)
+debasing	verb	de-|de|P ; base|bas|R|V ; -ing|ing|I||-ing (v)
+debatably	adv	debate|debat|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+debated	verb	debate|debat|R|V ; -ed|ed|I||-ed (v2)
+debatement	noun	debate|debate|R|V ; -ment|ment|S
+debauchedly	adv	debauch|debauch|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+debauchee	noun	debauch|debauch|R|V ; -ee|ee|S
+debaucher	noun	debauch|debauch|R|V ; -er|er|S||-er (N)
+debaucherous	adj	debauch|debauch|R|V ; -er|er|S||-er (N) ; -ous|ous|S
+debauching	verb	debauch|debauch|R|V ; -ing|ing|I||-ing (v)
+debiting	verb	debit|debit|R|V ; -ing|ing|I||-ing (v)
+debitter	verb	de-|de|P ; bitter|bitter|R|Adj
+debonairly	adv	debonair|debonair|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+debonairness	noun	debonair|debonair|R|Adj ; -ness|ness|S
+debouchment	noun	debouch|debouch|R|V ; -ment|ment|S
+debounce	verb	de-|de|P ; bounce|bounce|R|V
+debtee	noun	debt|debt|R|N ; -ee|ee|S
+debtless	adj	debt|debt|R|N ; -less|less|S
+debuff	verb	de-|de|P ; buff|buff|R|N
+debugging	verb	de-|de|P ; bug|bugg|R|N ; -ing|ing|I||-ing (v)
+deburr	verb	de-|de|P ; burr|burr|R|N
+debus	verb	de-|de|P ; bus|bus|R|N
+dec	noun	dec|dec|R|N
+deca	?	?
+decadency	noun	decadent|decad|R|Adj ; -ency|ency|S
+decadentism	noun	decadent|decadent|R|Adj ; -ism|ism|S
+decadic	adj	decadic|decadic|R|Adj
+decaffeinate	verb	de-|de|P ; caffeine|caffein|R|N ; -ate|ate|S
+decaffeination	noun	de-|de|P ; caffeine|caffein|R|N ; -ate|at|S ; -ion|ion|S
+decagon	noun	decagon|decagon|R|N
+decagonal	adj	decagon|decagon|R|N ; -al|al|S
+decagonally	adv	decagon|decagon|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+decagram	noun	decagram|decagram|R|N
+decahedral	adj	decahedron|decahedr|R|N ; -al|al|S
+decahedron	noun	decahedron|decahedron|R|N
+decalcification	noun	de-|de|P ; calcify|calcific|R|V ; -ation|ation|S
+decalcifier	noun	de-|de|P ; calcify|calcifi|R|V ; -er|er|S||-er (N)
+decalcify	verb	de-|de|P ; calcify|calcify|R|V
+decalcomania	noun	decalcomania|decalcomania|R|N
+decalescence	noun	decalescence|decalescence|R|N
+decalin	noun	decalin|decalin|R|N
+decalingual	adj	decalingual|decalingual|R|Adj
+decalitre	noun	decalitre|decalitre|R|N
+decalogy	noun	decalogy|decalogy|R|N
+decametre	noun	decametre|decametre|R|N
+decampment	noun	de-|de|P ; camp|camp|R|V ; -ment|ment|S
+decanal	adj	decanal|decanal|R|Adj
+decandrous	adj	decandrous|decandrous|R|Adj
+decane	noun	decane|decane|R|N
+decangular	adj	decangular|decangular|R|Adj
+decanol	noun	decanol|decanol|R|N
+decantation	noun	decant|decant|R|V ; -ation|ation|S
+decanting	verb	decant|decant|R|V ; -ing|ing|I||-ing (v)
+decaphyllous	adj	decaphyllous|decaphyllous|R|Adj
+decapitator	noun	decapitate|decapit|R|V ; -or|ator|S
+decapod	noun	decapod|decapod|R|N
+decapodal	adj	decapod|decapod|R|N ; -al|al|S
+decarbonate	verb	de-|de|P ; carbon|carbon|R|N ; -ate|ate|S
+decarbonation	noun	de-|de|P ; carbon|carbon|R|N ; -ate|at|S ; -ion|ion|S
+decarbonization	noun	de-|de|P ; carbon|carbon|R|N ; -ize|iz|S ; -ation|ation|S
+decarbonize	verb	de-|de|P ; carbon|carbon|R|N ; -ize|ize|S
+decarbonizer	noun	de-|de|P ; carbon|carbon|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+decarboxylate	verb	de-|de|P ; carboxyl|carboxyl|R|N ; -ate|ate|S
+decare	noun	decare|decare|R|N
+decasyllabic	adj	decasyllabic|decasyllabic|R|Adj
+decasyllable	noun	decasyllable|decasyllable|R|N
+deceitfully	adv	deceit|deceit|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+deceitfulness	noun	deceit|deceit|R|N ; -ful|ful|S ; -ness|ness|S
+deceivable	adj	de-|de|P ; -ceive|ceiv|B|V ; -able|able|S
+deceivingly	adv	de-|de|P ; -ceive|ceiv|B|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+decelerator	noun	decelerate|deceler|R|V ; -or|ator|S
+decemvir	noun	decemvir|decemvir|R|N
+decennalia	noun	decennalia|decennalia|R|N
+decennary	noun	decennary|decennary|R|N
+decenniad	noun	decenniad|decenniad|R|N
+decennially	adv	decennial|decennial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+decentness	noun	decent|decent|R|Adj ; -ness|ness|S
+decentralizationist	noun	de-|de|P ; central|central|R|Adj ; -ize|iz|S ; -ation|ation|S ; -ist|ist|S
+decentre	verb	de-|de|P ; centre|centre|R|N
+deceptiveness	noun	de-|de|P ; -cept|cept|B|V ; -ive|ive|S ; -ness|ness|S
+decerebrate	verb	de-|de|P ; cerebrate|cerebrate|R|V
+decidability	noun	decide|decid|R|V ; -able|abil|S ; -ity|ity|S
+decidable	adj	decide|decid|R|V ; -able|able|S
+decidedness	noun	decide|decid|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+decidua	noun	decidua|decidua|R|N
+deciduate	adj	deciduate|deciduate|R|Adj
+deciduously	adv	deciduous|deciduous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+deciduousness	noun	deciduous|deciduous|R|Adj ; -ness|ness|S
+decigram	noun	decigram|decigram|R|N
+decigramme	noun	decigramme|decigramme|R|N

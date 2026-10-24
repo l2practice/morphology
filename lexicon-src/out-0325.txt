@@ -1,0 +1,200 @@
+martyrological	adj	martyrology|martyrolog|R|N ; -ical|ical|S
+martyrologist	noun	martyrology|martyrolog|R|N ; -ist|ist|S
+martyrology	noun	martyrology|martyrology|R|N
+martyry	noun	martyr|martyr|R|N ; -y|y|S
+marula	noun	marula|marula|R|N
+marvelling	noun	marvel|marvell|R|V ; -ing|ing|S||-ing (N)
+marvellousness	noun	marvel|marvell|R|Adj ; -ous|ous|S ; -ness|ness|S
+mas	noun	mas|mas|R|N
+mascaron	noun	mascaron|mascaron|R|N
+masculinely	adv	masculine|masculine|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+masculineness	noun	masculine|masculine|R|Adj ; -ness|ness|S
+masculism	noun	masculine|mascul|R|Adj ; -ism|ism|S
+masculist	noun	masculine|mascul|R|Adj ; -ist|ist|S
+masdar	noun	masdar|masdar|R|N
+masdevallia	noun	masdevallia|masdevallia|R|N
+mashallah	interj	mashallah|mashallah|R|Adv
+mashing	noun	mash|mash|R|V ; -ing|ing|S||-ing (N)
+mashrabiyya	noun	mashrabiyya|mashrabiyya|R|N
+mashup	noun	mash|mash|R|V ; up|up|R|Adv
+maskable	adj	mask|mask|R|V ; -able|able|S
+maskne	noun	maskne|maskne|R|N
+masonite	noun	masonite|masonite|R|N
+masquer	noun	masque|masqu|R|N ; -er|er|S||-er (N)
+masquerading	noun	masquerade|masquerad|R|V ; -ing|ing|S||-ing (N)
+massacrer	noun	massacre|massacr|R|V ; -er|er|S||-er (N)
+massacring	noun	massacre|massacr|R|V ; -ing|ing|S||-ing (N)
+massagist	noun	massage|massag|R|N ; -ist|ist|S
+masses	noun	mass|mass|R|N ; -s|es|I||-s (plural)
+masseter	noun	masseter|masseter|R|N
+massic	adj	mass|mass|R|N ; -ic|ic|S
+massicot	noun	massicot|massicot|R|N
+massy	adj	mass|mass|R|N ; -y|y|S
+mastaba	noun	mastaba|mastaba|R|N
+mastalgia	noun	mastalgia|mastalgia|R|N
+masted	adj	mast|mast|R|N ; -ed|ed|S||-ed (adj)
+masterfulness	noun	master|master|R|N ; -ful|ful|S ; -ness|ness|S
+mastering	noun	master|master|R|V ; -ing|ing|S||-ing (N)
+masterless	adj	master|master|R|N ; -less|less|S
+masterliness	noun	master|master|R|Adj ; -ly|li|S||-ly (adj) ; -ness|ness|S
+masterminding	noun	master|master|R|N ; mind|mind|R|N ; -ing|ing|S||-ing (N)
+masters	noun	master|master|R|N ; -s|s|I||-s (plural)
+masterwort	noun	master|master|R|N ; wort|wort|R|N
+masticator	noun	masticate|masticat|R|V ; -or|or|S
+masticatory	adj	masticate|masticat|R|V ; -ory|ory|S
+mastigophoran	noun	mastigophora|mastigophor|R|N ; -an|an|S
+masting	noun	mast|mast|R|N ; -ing|ing|S||-ing (N)
+mastless	adj	mast|mast|R|N ; -less|less|S
+masu	noun	masu|masu|R|N
+matadora	noun	matadora|matadora|R|N
+matamata	noun	matamata|matamata|R|N
+matatabi	noun	matatabi|matatabi|R|N
+matatu	noun	matatu|matatu|R|N
+matcha	noun	matcha|matcha|R|N
+matchet	noun	matchet|matchet|R|N
+matchlessly	adv	match|match|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+matchlessness	noun	match|match|R|N ; -less|less|S ; -ness|ness|S
+matchlock	noun	match|match|R|N ; lock|lock|R|N
+matchmake	verb	match|match|R|V ; make|make|R|V
+matchwood	noun	match|match|R|N ; wood|wood|R|N
+mateine	noun	mateine|mateine|R|N
+mateless	adj	mate|mate|R|N ; -less|less|S
+matelot	noun	matelot|matelot|R|N
+matelote	noun	matelote|matelote|R|N
+materfamilias	noun	materfamilias|materfamilias|R|N
+materialistically	adv	material|material|R|N ; -ist|ist|S ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+materialized	adj	material|material|R|N ; -ize|iz|S ; -ed|ed|S||-ed (adj)
+materializer	noun	material|material|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+maternalism	noun	maternal|maternal|R|Adj ; -ism|ism|S
+maternalize	verb	maternal|maternal|R|Adj ; -ize|ize|S
+mateship	noun	mate|mate|R|N ; -ship|ship|S
+matgrass	noun	mat|mat|R|N ; grass|grass|R|N
+mathematicism	noun	mathematic|mathematic|R|Adj ; -ism|ism|S
+mathematization	noun	mathematize|mathematiz|R|V ; -ation|ation|S
+mathematize	verb	mathematic|mathemat|R|Adj ; -ize|ize|S
+matinal	adj	matin|matin|R|N ; -al|al|S
+matra	noun	matra|matra|R|N
+matriarchate	noun	matriarch|matriarch|R|N ; -ate|ate|S
+matricidal	adj	matricide|matricid|R|N ; -al|al|S
+matriculant	noun	matriculate|matricul|R|V ; -ant|ant|S
+matrilineally	adv	matrilineal|matrilineal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+matrilocally	adv	matrilocal|matrilocal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+matronage	noun	matron|matron|R|N ; -age|age|S
+matronal	adj	matron|matron|R|N ; -al|al|S
+matronhood	noun	matron|matron|R|N ; -hood|hood|S
+matronlike	adj	matron|matron|R|N ; -like|like|S
+matronship	noun	matron|matron|R|N ; -ship|ship|S
+matronym	noun	matronym|matronym|R|N
+matronymic	adj	matronym|matronym|R|N ; -ic|ic|S
+matsutake	noun	matsutake|matsutake|R|N
+mattering	verb	matter|matter|R|V ; -ing|ing|I||-ing (v)
+mattins	noun	matin|mattin|R|N ; -s|s|I||-s (plural)
+matura	noun	matura|matura|R|N
+maturate	verb	mature|matur|R|Adj ; -ate|ate|S
+matureness	noun	mature|mature|R|Adj ; -ness|ness|S
+matutinal	adj	matutinal|matutinal|R|Adj
+matutinally	adv	matutinal|matutinal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+maudlinism	noun	maudlin|maudlin|R|Adj ; -ism|ism|S
+maudlinness	noun	maudlin|maudlin|R|Adj ; -ness|ness|S
+maulstick	noun	maul|maul|R|N ; stick|stick|R|N
+maunch	noun	maunch|maunch|R|N
+maund	noun	maund|maund|R|N
+maunderer	noun	maunder|maunder|R|V ; -er|er|S||-er (N)
+maundering	noun	maunder|maunder|R|V ; -ing|ing|S||-ing (N)
+maundy	noun	maundy|maundy|R|N
+mavourneen	noun	mavourneen|mavourneen|R|N
+mawkishly	adv	mawkish|mawkish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+mawkishness	noun	mawkish|mawkish|R|Adj ; -ness|ness|S
+mawlid	noun	mawlid|mawlid|R|N
+mawseed	noun	maw|maw|R|N ; seed|seed|R|N
+max	noun	max|max|R|N
+maxilliped	noun	maxilliped|maxilliped|R|N
+maxim	noun	maxim|maxim|R|N
+maxima	noun	maximum|maxima|R|N ; -s||I||-s (plural)
+maximalism	noun	maximal|maximal|R|Adj ; -ism|ism|S
+maximax	noun	maximax|maximax|R|N
+maximin	noun	maximin|maximin|R|N
+maya	noun	maya|maya|R|N
+mayapple	noun	may|may|R|N ; apple|apple|R|N
+maying	noun	may|may|R|N ; -ing|ing|S||-ing (N)
+mayweed	noun	may|may|R|N ; weed|weed|R|N
+mazarine	noun	mazarine|mazarine|R|N
+maziness	noun	maze|maz|R|N ; -y|i|S ; -ness|ness|S
+mazut	noun	mazut|mazut|R|N
+meadowrue	noun	meadow|meadow|R|N ; rue|rue|R|N
+meadowy	adj	meadow|meadow|R|N ; -y|y|S
+meagrely	adv	meagre|meagre|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+meagreness	noun	meagre|meagre|R|Adj ; -ness|ness|S
+mealiness	noun	meal|meal|R|N ; -y|i|S ; -ness|ness|S
+meanderer	noun	meander|meander|R|V ; -er|er|S||-er (N)
+meanderingly	adv	meander|meander|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+meandrine	adj	meandrine|meandrine|R|Adj
+meaningly	adv	mean|mean|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+measurability	noun	measure|measur|R|V ; -able|abil|S ; -ity|ity|S
+measurableness	noun	measure|measur|R|V ; -able|able|S ; -ness|ness|S
+measuredly	adv	measure|measur|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+measuredness	noun	measure|measur|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+measurelessly	adv	measure|measure|R|V ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+measurelessness	noun	measure|measure|R|V ; -less|less|S ; -ness|ness|S
+meatarian	noun	meatarian|meatarian|R|N
+meateater	noun	meat|meat|R|N ; eat|eat|R|V ; -er|er|S||-er (N)
+meatgrinder	noun	meat|meat|R|N ; grind|grind|R|V ; -er|er|S||-er (N)
+meatlike	adj	meat|meat|R|N ; -like|like|S
+mebibit	noun	mebibit|mebibit|R|N
+mebibyte	noun	mebibyte|mebibyte|R|N
+mecca	noun	mecca|mecca|R|N
+mecha	noun	mecha|mecha|R|N
+mechanician	noun	mechanic|mechanic|R|N ; -ian|ian|S
+mechanics	noun	mechanics|mechanics|R|N
+mechanist	noun	mechanic|mechan|R|Adj ; -ist|ist|S
+mechanizable	adj	mechanize|mechaniz|R|V ; -able|able|S
+mechanochemical	adj	mechanochemical|mechanochemical|R|Adj
+mechanochemistry	noun	mechanochemistry|mechanochemistry|R|N
+mechanoreception	noun	mechanoreception|mechanoreception|R|N
+mechanoreceptive	adj	mechanoreceptive|mechanoreceptive|R|Adj
+mechanotherapy	noun	mechanotherapy|mechanotherapy|R|N
+mechatronics	noun	mechatronics|mechatronics|R|N
+medalled	adj	medal|medall|R|N ; -ed|ed|S||-ed (adj)
+medallic	adj	medal|medall|R|N ; -ic|ic|S
+meddlesomeness	noun	meddle|meddle|R|V ; -some|some|S ; -ness|ness|S
+mediaevalism	noun	mediaeval|mediaeval|R|Adj ; -ism|ism|S
+mediant	noun	mediant|mediant|R|N
+mediative	adj	mediate|mediat|R|V ; -ive|ive|S
+mediatization	noun	mediatize|mediatiz|R|V ; -ation|ation|S
+mediatize	verb	mediate|mediat|R|V ; -ize|ize|S
+mediatory	adj	mediate|mediat|R|V ; -ory|ory|S
+medicable	adj	medic|medic|R|N ; -able|able|S
+medicaster	noun	medicaster|medicaster|R|N
+medicative	adj	medic|medic|R|N ; -ative|ative|S
+medick	noun	medick|medick|R|N
+medicolegal	adj	medicolegal|medicolegal|R|Adj
+medicosocial	adj	medicosocial|medicosocial|R|Adj
+mediocracy	noun	mediocracy|mediocracy|R|N
+mediopassive	adj	mediopassive|mediopassive|R|Adj
+meditated	adj	meditate|meditat|R|V ; -ed|ed|S||-ed (adj)
+meditatingly	adv	meditate|meditat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+meditativeness	noun	meditate|meditat|R|V ; -ive|ive|S ; -ness|ness|S
+mediumwave	noun	medium|medium|R|N ; wave|wave|R|N
+medius	noun	medius|medius|R|N
+medjidie	noun	medjidie|medjidie|R|N
+medullated	adj	medulla|medull|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+medusa	noun	medusa|medusa|R|N
+medusan	adj	medusa|medus|R|N ; -an|an|S
+medusoid	adj	medusoid|medusoid|R|Adj
+meed	noun	meed|meed|R|N
+meem	noun	meem|meem|R|N
+meeple	noun	meeple|meeple|R|N
+megabat	noun	megabat|megabat|R|N
+megabit	noun	megabit|megabit|R|N
+megacephalic	adj	megacephaly|megacephal|R|N ; -ic|ic|S
+megacephaly	noun	megacephaly|megacephaly|R|N
+megacycle	noun	megacycle|megacycle|R|N
+megadeath	noun	megadeath|megadeath|R|N
+megadiverse	adj	megadiverse|megadiverse|R|Adj
+megadrought	noun	megadrought|megadrought|R|N
+megafarm	noun	megafarm|megafarm|R|N
+megaflop	noun	megaflop|megaflop|R|N
+megaflops	noun	megaflop|megaflop|R|N ; -s|s|I||-s (plural)
+megagon	noun	megagon|megagon|R|N
+megagram	noun	megagram|megagram|R|N
+megahertz	noun	megahertz|megahertz|R|N

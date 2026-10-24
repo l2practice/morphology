@@ -1,0 +1,200 @@
+unifactorial	adj	uni-|uni|P ; factor|factor|R|N ; -ial|ial|S
+unifiable	adj	unify|unifi|R|V ; -able|able|S
+unific	adj	unific|unific|R|Adj
+uniflorous	adj	uniflorous|uniflorous|R|Adj
+uniflow	noun	uni-|uni|P ; flow|flow|R|N
+unifoliate	adj	uni-|uni|P ; foliate|foliate|R|Adj
+uniformitarianism	noun	uniformitarian|uniformitarian|R|N ; -ism|ism|S
+uniformization	noun	uniform|uniform|R|Adj ; -ize|iz|S ; -ation|ation|S
+uniformize	verb	uniform|uniform|R|Adj ; -ize|ize|S
+uniformness	noun	uniform|uniform|R|Adj ; -ness|ness|S
+unigeniture	noun	uni-|uni|P ; geniture|geniture|R|N
+unilingual	adj	uni-|uni|P ; lingual|lingual|R|Adj
+uniliteral	adj	uni-|uni|P ; literal|literal|R|Adj
+unilluminated	adj	un-|un|P ; illuminate|illuminat|R|V ; -ed|ed|S||-ed (adj)
+unilluminating	adj	un-|un|P ; illuminate|illuminat|R|V ; -ing|ing|S||-ing (adj)
+unillumined	adj	un-|un|P ; illumine|illumin|R|V ; -ed|ed|S||-ed (adj)
+unillusioned	adj	un-|un|P ; illusion|illusion|R|N ; -ed|ed|S||-ed (adj)
+unillustrated	adj	un-|un|P ; illustrate|illustrat|R|V ; -ed|ed|S||-ed (adj)
+unillustrative	adj	un-|un|P ; illustrate|illustrat|R|V ; -ive|ive|S
+unilocular	adj	uni-|uni|P ; locular|locular|R|Adj
+unimaginability	noun	un-|un|P ; imagine|imagin|R|V ; -able|abil|S ; -ity|ity|S
+unimaginativeness	noun	un-|un|P ; imagine|imagin|R|V ; -ative|ative|S ; -ness|ness|S
+unimbued	adj	un-|un|P ; imbue|imbu|R|V ; -ed|ed|S||-ed (adj)
+unimitated	adj	un-|un|P ; imitate|imitat|R|V ; -ed|ed|S||-ed (adj)
+unimodal	adj	uni-|uni|P ; modal|modal|R|Adj
+unimodular	adj	uni-|uni|P ; modular|modular|R|Adj
+unimpassioned	adj	un-|un|P ; impassion|impassion|R|V ; -ed|ed|S||-ed (adj)
+unimpeachableness	noun	un-|un|P ; impeach|impeach|R|V ; -able|able|S ; -ness|ness|S
+unimpeachably	adv	un-|un|P ; impeach|impeach|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+unimpeached	adj	un-|un|P ; impeach|impeach|R|V ; -ed|ed|S||-ed (adj)
+unimpoverished	adj	un-|un|P ; impoverish|impoverish|R|V ; -ed|ed|S||-ed (adj)
+unimpregnated	adj	un-|un|P ; impregnate|impregnat|R|V ; -ed|ed|S||-ed (adj)
+unimpressible	adj	un-|un|P ; impress|impress|R|V ; -ible|ible|S
+unimpressionable	adj	un-|un|P ; impression|impression|R|N ; -able|able|S
+unimpressiveness	noun	un-|un|P ; impress|impress|R|V ; -ive|ive|S ; -ness|ness|S
+unimprisoned	adj	un-|un|P ; imprison|imprison|R|V ; -ed|ed|S||-ed (adj)
+unimprovable	adj	un-|un|P ; improve|improv|R|V ; -able|able|S
+unimpugnable	adj	un-|un|P ; impugn|impugn|R|V ; -able|able|S
+unimpugned	adj	un-|un|P ; impugn|impugn|R|V ; -ed|ed|S||-ed (adj)
+unimpulsive	adj	un-|un|P ; impulsive|impulsive|R|Adj
+uninclined	adj	un-|un|P ; incline|inclin|R|V ; -ed|ed|S||-ed (adj)
+unincluded	adj	un-|un|P ; include|includ|R|V ; -ed|ed|S||-ed (adj)
+unincreasable	adj	un-|un|P ; increase|increas|R|V ; -able|able|S
+unincreased	adj	un-|un|P ; increase|increas|R|V ; -ed|ed|S||-ed (adj)
+unincubated	adj	un-|un|P ; incubate|incubat|R|V ; -ed|ed|S||-ed (adj)
+unindebted	adj	un-|un|P ; indebted|indebted|R|Adj
+unindemnified	adj	un-|un|P ; indemnify|indemnifi|R|V ; -ed|ed|S||-ed (adj)
+unindexed	adj	un-|un|P ; index|index|R|V ; -ed|ed|S||-ed (adj)
+unindicated	adj	un-|un|P ; indicate|indicat|R|V ; -ed|ed|S||-ed (adj)
+unindifferent	adj	un-|un|P ; in-|in|P ; different|different|R|Adj
+unindustrialized	adj	un-|un|P ; industrialize|industrializ|R|V ; -ed|ed|S||-ed (adj)
+unindustrious	adj	un-|un|P ; industrious|industrious|R|Adj
+uninfected	adj	un-|un|P ; infect|infect|R|V ; -ed|ed|S||-ed (adj)
+uninfectious	adj	un-|un|P ; infect|infect|R|V ; -ious|ious|S
+uninflamed	adj	un-|un|P ; inflame|inflam|R|V ; -ed|ed|S||-ed (adj)
+uninflammability	noun	un-|un|P ; inflame|inflamm|R|V ; -able|abil|S ; -ity|ity|S
+uninflammable	adj	un-|un|P ; inflame|inflamm|R|V ; -able|able|S
+uninflated	adj	un-|un|P ; inflate|inflat|R|V ; -ed|ed|S||-ed (adj)
+uninflectable	adj	un-|un|P ; inflect|inflect|R|V ; -able|able|S
+uninfluential	adj	un-|un|P ; influential|influential|R|Adj
+uninfringed	adj	un-|un|P ; infringe|infring|R|V ; -ed|ed|S||-ed (adj)
+uningenious	adj	un-|un|P ; ingenious|ingenious|R|Adj
+uninhabitability	noun	un-|un|P ; inhabit|inhabit|R|V ; -able|abil|S ; -ity|ity|S
+uninhibitedly	adv	un-|un|P ; inhibit|inhibit|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+uninhibitedness	noun	un-|un|P ; inhibit|inhibit|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+uninjurious	adj	un-|un|P ; injurious|injurious|R|Adj
+uninoculated	adj	un-|un|P ; inoculate|inoculat|R|V ; -ed|ed|S||-ed (adj)
+uninominal	adj	uni-|uni|P ; nominal|nominal|R|Adj
+uninquiring	adj	un-|un|P ; inquire|inquir|R|V ; -ing|ing|S||-ing (adj)
+uninquisitive	adj	un-|un|P ; inquisitive|inquisitive|R|Adj
+uninspected	adj	un-|un|P ; inspect|inspect|R|V ; -ed|ed|S||-ed (adj)
+uninstall	verb	un-|un|P ; install|install|R|V
+uninstallation	noun	un-|un|P ; install|install|R|V ; -ation|ation|S
+uninstaller	noun	un-|un|P ; install|install|R|V ; -er|er|S||-er (N)
+uninstigated	adj	un-|un|P ; instigate|instigat|R|V ; -ed|ed|S||-ed (adj)
+uninstructed	adj	un-|un|P ; instruct|instruct|R|V ; -ed|ed|S||-ed (adj)
+uninstructive	adj	un-|un|P ; instruct|instruct|R|V ; -ive|ive|S
+uninsurability	noun	un-|un|P ; insure|insur|R|V ; -able|abil|S ; -ity|ity|S
+unintellectual	adj	un-|un|P ; intellectual|intellectual|R|Adj
+unintelligence	noun	un-|un|P ; intelligence|intelligence|R|N
+unintelligently	adv	un-|un|P ; intelligent|intelligent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+unintelligibleness	noun	un-|un|P ; intelligible|intelligible|R|Adj ; -ness|ness|S
+uninterestedly	adv	un-|un|P ; interest|interest|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+uninterestedness	noun	un-|un|P ; interest|interest|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+uninterestingly	adv	un-|un|P ; interest|interest|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+uninterestingness	noun	un-|un|P ; interest|interest|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unintermitted	adj	un-|un|P ; intermit|intermitt|R|V ; -ed|ed|S||-ed (adj)
+unintermittent	adj	un-|un|P ; intermittent|intermittent|R|Adj
+uninterpretable	adj	un-|un|P ; interpret|interpret|R|V ; -able|able|S
+uninterpreted	adj	un-|un|P ; interpret|interpret|R|V ; -ed|ed|S||-ed (adj)
+uninterred	adj	un-|un|P ; inter|interr|R|V ; -ed|ed|S||-ed (adj)
+uninterruptible	adj	un-|un|P ; interrupt|interrupt|R|V ; -ible|ible|S
+unintimidated	adj	un-|un|P ; intimidate|intimidat|R|V ; -ed|ed|S||-ed (adj)
+unintoxicating	adj	un-|un|P ; intoxicate|intoxicat|R|V ; -ing|ing|S||-ing (adj)
+unintuitive	adj	un-|un|P ; intuitive|intuitive|R|Adj
+uninuclear	adj	uni-|uni|P ; nuclear|nuclear|R|Adj
+uninucleate	adj	uni-|uni|P ; nucleate|nucleate|R|Adj
+uninvaded	adj	un-|un|P ; invade|invad|R|V ; -ed|ed|S||-ed (adj)
+uninventive	adj	un-|un|P ; inventive|inventive|R|Adj
+uninvested	adj	un-|un|P ; invest|invest|R|V ; -ed|ed|S||-ed (adj)
+uninvestigated	adj	un-|un|P ; investigate|investigat|R|V ; -ed|ed|S||-ed (adj)
+uninvite	verb	un-|un|P ; invite|invite|R|V
+uninvitingly	adv	un-|un|P ; invite|invit|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+uninvoked	adj	un-|un|P ; invoke|invok|R|V ; -ed|ed|S||-ed (adj)
+unionistic	adj	union|union|R|N ; -ist|ist|S ; -ic|ic|S
+unionizer	noun	union|union|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+uniparental	adj	uni-|uni|P ; parental|parental|R|Adj
+uniparous	adj	uni-|uni|P ; parous|parous|R|Adj
+uniplanar	adj	uni-|uni|P ; planar|planar|R|Adj
+unipolarity	noun	uni-|uni|P ; polar|polar|R|Adj ; -ity|ity|S
+unipotent	adj	uni-|uni|P ; potent|potent|R|Adj
+unirational	adj	uni-|uni|P ; rational|rational|R|Adj
+unironed	adj	un-|un|P ; iron|iron|R|V ; -ed|ed|S||-ed (adj)
+unironic	adj	un-|un|P ; ironic|ironic|R|Adj
+unironically	adv	un-|un|P ; ironic|ironic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+unirradiated	adj	un-|un|P ; irradiate|irradiat|R|V ; -ed|ed|S||-ed (adj)
+unirrigated	adj	un-|un|P ; irrigate|irrigat|R|V ; -ed|ed|S||-ed (adj)
+unirritating	adj	un-|un|P ; irritate|irritat|R|V ; -ing|ing|S||-ing (adj)
+uniselector	noun	uni-|uni|P ; selector|selector|R|N
+uniserial	adj	uni-|uni|P ; serial|serial|R|Adj
+uniseriate	adj	uni-|uni|P ; seriate|seriate|R|Adj
+unisexed	adj	uni-|uni|P ; sex|sex|R|N ; -ed|ed|S||-ed (adj)
+unisexual	adj	uni-|uni|P ; sexual|sexual|R|Adj
+unisexuality	noun	uni-|uni|P ; sexual|sexual|R|Adj ; -ity|ity|S
+unisexually	adv	uni-|uni|P ; sexual|sexual|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+unisolated	adj	un-|un|P ; isolate|isolat|R|V ; -ed|ed|S||-ed (adj)
+unisonal	adj	unison|unison|R|N ; -al|al|S
+unisonant	adj	unison|unison|R|N ; -ant|ant|S
+unitable	adj	unite|unit|R|V ; -able|able|S
+unitarian	noun	unit|unit|R|N ; -ian|arian|S
+unitedly	adv	unite|unit|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+unitedness	noun	unite|unit|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+univalence	noun	uni-|uni|P ; valence|valence|R|N
+univalent	adj	uni-|uni|P ; valent|valent|R|Adj
+univalve	noun	uni-|uni|P ; valve|valve|R|N
+univerbation	noun	uni-|uni|P ; verb|verb|R|N ; -ation|ation|S
+universalness	noun	universal|universal|R|Adj ; -ness|ness|S
+universitarian	noun	university|universit|R|N ; -ian|arian|S
+univocally	adv	uni-|uni|P ; vocal|vocal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+univoltine	adj	univoltine|univoltine|R|Adj
+unjaded	adj	un-|un|P ; jade|jad|R|V ; -ed|ed|S||-ed (adj)
+unjaundiced	adj	un-|un|P ; jaundice|jaundic|R|N ; -ed|ed|S||-ed (adj)
+unjealous	adj	un-|un|P ; jealous|jealous|R|Adj
+unjoin	verb	un-|un|P ; join|join|R|V
+unjoint	verb	un-|un|P ; joint|joint|R|V
+unjoyful	adj	un-|un|P ; joy|joy|R|N ; -ful|ful|S
+unjoyous	adj	un-|un|P ; joy|joy|R|N ; -ous|ous|S
+unjudged	adj	un-|un|P ; judge|judg|R|V ; -ed|ed|S||-ed (adj)
+unjustifiableness	noun	un-|un|P ; justify|justifi|R|V ; -able|able|S ; -ness|ness|S
+unjustifiedly	adv	un-|un|P ; justify|justifi|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+unjustness	noun	un-|un|P ; just|just|R|Adj ; -ness|ness|S
+unkennel	verb	un-|un|P ; kennel|kennel|R|N
+unkept	adj	un-|un|P ; keep|kept|R|V ; -ed||I||-ed (v2)
+unkey	verb	un-|un|P ; key|key|R|N
+unkillable	adj	un-|un|P ; kill|kill|R|V ; -able|able|S
+unkindled	adj	un-|un|P ; kindle|kindl|R|V ; -ed|ed|S||-ed (adj)
+unkindliness	noun	un-|un|P ; kind|kind|R|Adj ; -ly|li|S||-ly (adj) ; -ness|ness|S
+unkingly	adj	un-|un|P ; king|king|R|N ; -ly|ly|S||-ly (adj)
+unkink	verb	un-|un|P ; kink|kink|R|V
+unkneaded	adj	un-|un|P ; knead|knead|R|V ; -ed|ed|S||-ed (adj)
+unknight	verb	un-|un|P ; knight|knight|R|N
+unknightliness	noun	un-|un|P ; knight|knight|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+unknightly	adj	un-|un|P ; knight|knight|R|N ; -ly|ly|S||-ly (adj)
+unknit	verb	un-|un|P ; knit|knit|R|V
+unknotted	adj	un-|un|P ; knot|knott|R|N ; -ed|ed|S||-ed (adj)
+unknowability	noun	un-|un|P ; know|know|R|V ; -able|abil|S ; -ity|ity|S
+unknowableness	noun	un-|un|P ; know|know|R|V ; -able|able|S ; -ness|ness|S
+unknowably	adv	un-|un|P ; know|know|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+unlaboured	adj	un-|un|P ; labour|labour|R|V ; -ed|ed|S||-ed (adj)
+unlade	verb	un-|un|P ; lade|lade|R|V
+unlaid	adj	un-|un|P ; lay|laid|R|V ; -ed||I||-ed (v2)
+unlanded	adj	un-|un|P ; land|land|R|V ; -ed|ed|S||-ed (adj)
+unlanguaged	adj	un-|un|P ; language|languag|R|N ; -ed|ed|S||-ed (adj)
+unlash	verb	un-|un|P ; lash|lash|R|V
+unlatched	adj	un-|un|P ; latch|latch|R|V ; -ed|ed|S||-ed (adj)
+unlatching	adj	un-|un|P ; latch|latch|R|V ; -ing|ing|S||-ing (adj)
+unlaw	verb	un-|un|P ; law|law|R|N
+unlawfulness	noun	un-|un|P ; law|law|R|N ; -ful|ful|S ; -ness|ness|S
+unlay	verb	un-|un|P ; lay|lay|R|V
+unlead	verb	un-|un|P ; lead|lead|R|V
+unlearnedly	adv	un-|un|P ; learn|learn|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+unlearning	noun	un-|un|P ; learn|learn|R|V ; -ing|ing|S||-ing (N)
+unlearnt	adj	un-|un|P ; learn|learnt|R|V ; -ed||I||-ed (v2)
+unleased	adj	un-|un|P ; lease|leas|R|V ; -ed|ed|S||-ed (adj)
+unled	adj	un-|un|P ; lead|led|R|V ; -ed||I||-ed (v2)
+unlegalized	adj	un-|un|P ; legalize|legaliz|R|V ; -ed|ed|S||-ed (adj)
+unleisured	adj	un-|un|P ; leisure|leisur|R|N ; -ed|ed|S||-ed (adj)
+unlent	adj	un-|un|P ; lend|lent|R|V ; -ed||I||-ed (v2)
+unlet	adj	un-|un|P ; let|let|R|V
+unlethal	adj	un-|un|P ; lethal|lethal|R|Adj
+unlettable	adj	un-|un|P ; let|lett|R|V ; -able|able|S
+unliable	adj	un-|un|P ; liable|liable|R|Adj
+unliberal	adj	un-|un|P ; liberal|liberal|R|Adj
+unliberated	adj	un-|un|P ; liberate|liberat|R|V ; -ed|ed|S||-ed (adj)
+unlicked	adj	un-|un|P ; lick|lick|R|V ; -ed|ed|S||-ed (adj)
+unlightened	adj	un-|un|P ; lighten|lighten|R|V ; -ed|ed|S||-ed (adj)
+unlikeliness	noun	un-|un|P ; like|like|R|Adj ; -ly|li|S||-ly (adj) ; -ness|ness|S
+unlimber	verb	un-|un|P ; limber|limber|R|V
+unlimbered	adj	un-|un|P ; limber|limber|R|V ; -ed|ed|S||-ed (adj)
+unlimed	adj	un-|un|P ; lime|lim|R|V ; -ed|ed|S||-ed (adj)

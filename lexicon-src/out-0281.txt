@@ -1,0 +1,200 @@
+expulsive	adj	expulsive|expulsive|R|Adj
+expunction	noun	expunction|expunction|R|N
+expunger	noun	expunge|expung|R|V ; -er|er|S||-er (N)
+expunging	noun	expunge|expung|R|V ; -ing|ing|S||-ing (N)
+expurgate	verb	ex-|ex|P ; purgate|purgate|R|V
+expurgated	adj	ex-|ex|P ; purgate|purgat|R|V ; -ed|ed|S||-ed (adj)
+expurgation	noun	ex-|ex|P ; purgate|purgat|R|V ; -ion|ion|S
+expurgator	noun	ex-|ex|P ; purgate|purgat|R|V ; -or|or|S
+expurgatorial	adj	expurgatory|expurgatori|R|Adj ; -al|al|S
+expurgatory	adj	ex-|ex|P ; purgate|purgat|R|V ; -ory|ory|S
+exquisiteness	noun	exquisite|exquisite|R|Adj ; -ness|ness|S
+exsanguinate	verb	exsanguinate|exsanguinate|R|V
+exsanguination	noun	exsanguinate|exsanguinat|R|V ; -ion|ion|S
+exsanguine	adj	exsanguine|exsanguine|R|Adj
+exscind	verb	exscind|exscind|R|V
+exsect	verb	exsect|exsect|R|V
+exsection	noun	exsect|exsect|R|V ; -ion|ion|S
+exsert	verb	exsert|exsert|R|V
+exserted	adj	exsert|exsert|R|V ; -ed|ed|S||-ed (adj)
+exsertile	adj	exsertile|exsertile|R|Adj
+exsertion	noun	exsert|exsert|R|V ; -ion|ion|S
+exsiccata	noun	exsiccata|exsiccata|R|N
+exsiccate	verb	exsiccate|exsiccate|R|V
+exsiccative	adj	exsiccate|exsiccat|R|V ; -ive|ive|S
+exsiccator	noun	exsiccate|exsiccat|R|V ; -or|or|S
+exstipulate	adj	exstipulate|exstipulate|R|Adj
+extemporaneity	noun	extemporaneous|extemporane|R|Adj ; -ity|ity|S
+extemporaneousness	noun	extemporaneous|extemporaneous|R|Adj ; -ness|ness|S
+extemporarily	adv	extemporary|extemporari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+extemporary	adj	extempore|extempor|R|Adv ; -ary|ary|S
+extemporization	noun	extemporize|extemporiz|R|V ; -ation|ation|S
+extemporize	verb	extempore|extempor|R|Adv ; -ize|ize|S
+extemporizer	noun	extemporize|extemporiz|R|V ; -er|er|S||-er (N)
+extendibility	noun	extend|extend|R|V ; -ible|ibil|S ; -ity|ity|S
+extendible	adj	extend|extend|R|V ; -ible|ible|S
+extensibility	noun	extend|extens|R|V ; -ible|ibil|S ; -ity|ity|S
+extensile	adj	extensile|extensile|R|Adj
+extensity	noun	extensity|extensity|R|N
+extensometer	noun	extensometer|extensometer|R|N
+extenuated	adj	extenuate|extenuat|R|V ; -ed|ed|S||-ed (adj)
+extenuation	noun	extenuate|extenuat|R|V ; -ion|ion|S
+extenuative	adj	extenuate|extenuat|R|V ; -ive|ive|S
+extenuator	noun	extenuate|extenuat|R|V ; -or|or|S
+extenuatory	adj	extenuate|extenuat|R|V ; -ory|ory|S
+exteriorization	noun	exterior|exterior|R|Adj ; -ize|iz|S ; -ation|ation|S
+exteriorize	verb	exterior|exterior|R|Adj ; -ize|ize|S
+exteriorly	adv	exterior|exterior|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+exterminative	adj	ex-|ex|P ; terminate|terminat|R|V ; -ive|ive|S
+exterminatory	adj	ex-|ex|P ; terminate|terminat|R|V ; -ory|ory|S
+extern	noun	extern|extern|R|N
+externalism	noun	external|external|R|Adj ; -ism|ism|S
+exteroceptive	adj	exteroceptive|exteroceptive|R|Adj
+exteroceptor	noun	exteroceptor|exteroceptor|R|N
+exteroreceptor	noun	exteroreceptor|exteroreceptor|R|N
+exterritorial	adj	ex-|ex|P ; territorial|territorial|R|Adj
+exterritoriality	noun	ex-|ex|P ; territorial|territorial|R|Adj ; -ity|ity|S
+exterritorially	adv	ex-|ex|P ; territorial|territorial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+extinctive	adj	extinct|extinct|R|Adj ; -ive|ive|S
+extinguishable	adj	extinguish|extinguish|R|V ; -able|able|S
+extinguishment	noun	extinguish|extinguish|R|V ; -ment|ment|S
+extirpated	adj	extirpate|extirpat|R|V ; -ed|ed|S||-ed (adj)
+extirpative	adj	extirpate|extirpat|R|V ; -ive|ive|S
+extirpator	noun	extirpate|extirpat|R|V ; -or|or|S
+extirpatory	adj	extirpate|extirpat|R|V ; -ory|ory|S
+extoller	noun	extol|extoll|R|V ; -er|er|S||-er (N)
+extolment	noun	extol|extol|R|V ; -ment|ment|S
+extorsive	adj	extort|extors|R|V ; -ive|ive|S
+extortionary	adj	extortion|extortion|R|N ; -ary|ary|S
+extortionately	adv	extortion|extortion|R|N ; -ate|ate|S ; -ly|ly|I|Adv|-ly (adv)
+extortioner	noun	extortion|extortion|R|N ; -er|er|S||-er (N)
+extortive	adj	extort|extort|R|V ; -ive|ive|S
+extraatmospheric	adj	extra-|extra|P ; atmospheric|atmospheric|R|Adj
+extracorporeal	adj	extra-|extra|P ; corporeal|corporeal|R|Adj
+extracranial	adj	extra-|extra|P ; cranial|cranial|R|Adj
+extractively	adv	extract|extract|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+extractivism	noun	extract|extract|R|V ; -ive|iv|S ; -ism|ism|S
+extractors	noun	extract|extract|R|V ; -or|or|S ; -s|s|I||-s (plural)
+extradiegetic	adj	extra-|extra|P ; diegetic|diegetic|R|Adj
+extraditable	adj	extradite|extradit|R|V ; -able|able|S
+extrados	noun	extrados|extrados|R|N
+extradural	adj	extra-|extra|P ; dural|dural|R|Adj
+extraembryonic	adj	extra-|extra|P ; embryonic|embryonic|R|Adj
+extraenteric	adj	extra-|extra|P ; enteric|enteric|R|Adj
+extrafloral	adj	extra-|extra|P ; floral|floral|R|Adj
+extrahepatic	adj	extra-|extra|P ; hepatic|hepatic|R|Adj
+extrajudicially	adv	extra-|extra|P ; judicial|judicial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+extralegal	adj	extra-|extra|P ; legal|legal|R|Adj
+extralingual	adj	extra-|extra|P ; lingual|lingual|R|Adj
+extrality	noun	extrality|extrality|R|N
+extramatrical	adj	extra-|extra|P ; matrical|matrical|R|Adj
+extramundane	adj	extra-|extra|P ; mundane|mundane|R|Adj
+extraneously	adv	extraneous|extraneous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+extraneousness	noun	extraneous|extraneous|R|Adj ; -ness|ness|S
+extranuclear	adj	extra-|extra|P ; nuclear|nuclear|R|Adj
+extraocular	adj	extra-|extra|P ; ocular|ocular|R|Adj
+extraofficial	adj	extra-|extra|P ; official|official|R|Adj
+extraordinariness	noun	extra-|extra|P ; ordinary|ordinari|R|Adj ; -ness|ness|S
+extraparliamentary	adj	extra-|extra|P ; parliamentary|parliamentary|R|Adj
+extraplanetary	adj	extra-|extra|P ; planetary|planetary|R|Adj
+extrapolative	adj	extrapolate|extrapolat|R|V ; -ive|ive|S
+extrapolator	noun	extrapolate|extrapolat|R|V ; -or|or|S
+extraprofessional	adj	extra-|extra|P ; professional|professional|R|Adj
+extrarenal	adj	extra-|extra|P ; renal|renal|R|Adj
+extrastelar	adj	extra-|extra|P ; stelar|stelar|R|Adj
+extrasystole	noun	extra-|extra|P ; systole|systole|R|N
+extraterritorially	adv	extra-|extra|P ; territorial|territorial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+extrauterine	adj	extra-|extra|P ; uterine|uterine|R|Adj
+extravagantness	noun	extravagant|extravagant|R|Adj ; -ness|ness|S
+extravagate	verb	extravagate|extravagate|R|V
+extravasate	verb	extravasate|extravasate|R|V
+extravasation	noun	extravasate|extravasat|R|V ; -ion|ion|S
+extravascular	adj	extra-|extra|P ; vascular|vascular|R|Adj
+extravehicular	adj	extra-|extra|P ; vehicular|vehicular|R|Adj
+extraventricular	adj	extra-|extra|P ; ventricular|ventricular|R|Adj
+extremal	adj	extreme|extrem|R|Adj ; -al|al|S
+extremeness	noun	extreme|extreme|R|Adj ; -ness|ness|S
+extremum	noun	extremum|extremum|R|N
+extricable	adj	extricate|extric|R|V ; -able|able|S
+extrinsical	adj	extrinsic|extrinsic|R|Adj ; -al|al|S
+extrorse	adj	extrorse|extrorse|R|Adj
+extroversive	adj	extroversive|extroversive|R|Adj
+extroversively	adv	extroversive|extroversive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+extrusive	adj	extrude|extrus|R|V ; -ive|ive|S
+exuberate	verb	exuberate|exuberate|R|V
+exudation	noun	exudate|exudat|R|V ; -ion|ion|S
+exudative	adj	exudate|exudat|R|V ; -ive|ive|S
+exuding	noun	exude|exud|R|V ; -ing|ing|S||-ing (N)
+exultance	noun	exult|exult|R|V ; -ance|ance|S
+exultancy	noun	exult|exult|R|V ; -ancy|ancy|S
+exulting	adj	exult|exult|R|V ; -ing|ing|S||-ing (adj)
+exultingly	adv	exult|exult|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+exurban	adj	ex-|ex|P ; urban|urban|R|Adj
+exuviae	noun	exuviae|exuviae|R|N
+exuvial	adj	exuviae|exuvi|R|N ; -al|al|S
+exuviate	verb	exuviae|exuvi|R|N ; -ate|ate|S
+exuviation	noun	exuviate|exuviat|R|V ; -ion|ion|S
+eyalet	noun	eyalet|eyalet|R|N
+eyas	noun	eyas|eyas|R|N
+eyebag	noun	eye|eye|R|N ; bag|bag|R|N
+eyebath	noun	eye|eye|R|N ; bath|bath|R|N
+eyeblink	noun	eye|eye|R|N ; blink|blink|R|V
+eyebolt	noun	eye|eye|R|N ; bolt|bolt|R|N
+eyebright	noun	eye|eye|R|N ; bright|bright|R|Adj
+eyeglance	noun	eye|eye|R|N ; glance|glance|R|N
+eyeground	noun	eye|eye|R|N ; ground|ground|R|N
+eyelift	noun	eye|eye|R|N ; lift|lift|R|V
+eyelike	adj	eye|eye|R|N ; -like|like|S
+eyespot	noun	eye|eye|R|N ; spot|spot|R|N
+eyestripe	noun	eye|eye|R|N ; stripe|stripe|R|N
+eyetooth	noun	eye|eye|R|N ; tooth|tooth|R|N
+eyewater	noun	eye|eye|R|N ; water|water|R|N
+eyot	noun	eyot|eyot|R|N
+ezafe	noun	ezafe|ezafe|R|N
+ezetimibe	noun	ezetimibe|ezetimibe|R|N
+fa	noun	fa|fa|R|N
+fabaceous	adj	fabaceous|fabaceous|R|Adj
+fabiform	adj	fabiform|fabiform|R|Adj
+fabler	noun	fable|fabl|R|N ; -er|er|S||-er (N)
+fabricant	noun	fabric|fabric|R|N ; -ant|ant|S
+fabulize	verb	fabulize|fabulize|R|V
+fabulosity	noun	fabulous|fabulos|R|Adj ; -ity|ity|S
+fabulousness	noun	fabulous|fabulous|R|Adj ; -ness|ness|S
+facebook	noun	facebook|facebook|R|N
+facecloth	noun	face|face|R|N ; cloth|cloth|R|N
+facekini	noun	facekini|facekini|R|N
+facepalm	noun	face|face|R|N ; palm|palm|R|N
+faceplant	noun	face|face|R|N ; plant|plant|R|N
+facer	noun	face|fac|R|N ; -er|er|S||-er (N)
+faceshield	noun	face|face|R|N ; shield|shield|R|N
+facesit	verb	face|face|R|N ; sit|sit|R|V
+facesitting	noun	face|face|R|N ; sit|sitt|R|V ; -ing|ing|S||-ing (N)
+facetiae	noun	facetiae|facetiae|R|N
+facetiousness	noun	facetious|facetious|R|Adj ; -ness|ness|S
+fachidiot	noun	fachidiot|fachidiot|R|N
+facies	noun	facies|facies|R|N
+facticity	noun	facticity|facticity|R|N
+factiousness	noun	factious|factious|R|Adj ; -ness|ness|S
+factitiousness	noun	factitious|factitious|R|Adj ; -ness|ness|S
+factitive	adj	fact|fact|R|N ; -itive|itive|S
+factlet	noun	fact|fact|R|N ; -let|let|S
+factorability	noun	factor|factor|R|N ; -able|abil|S ; -ity|ity|S
+factorable	adj	factor|factor|R|N ; -able|able|S
+factorage	noun	factor|factor|R|N ; -age|age|S
+factorizable	adj	factor|factor|R|N ; -ize|iz|S ; -able|able|S
+factorize	verb	factor|factor|R|N ; -ize|ize|S
+factorship	noun	factor|factor|R|N ; -ship|ship|S
+factoryworker	noun	factory|factory|R|N ; work|work|R|V ; -er|er|S||-er (N)
+factum	noun	factum|factum|R|N
+facture	noun	facture|facture|R|N
+facula	noun	facula|facula|R|N
+facular	adj	facula|facul|R|N ; -ar|ar|S
+faculous	adj	facula|facul|R|N ; -ous|ous|S
+fadaise	noun	fadaise|fadaise|R|N
+faddiness	noun	faddy|faddi|R|Adj ; -ness|ness|S
+faddishness	noun	faddish|faddish|R|Adj ; -ness|ness|S
+faddism	noun	fad|fadd|R|N ; -ism|ism|S
+faddist	noun	fad|fadd|R|N ; -ist|ist|S
+fadeless	adj	fade|fade|R|V ; -less|less|S
+fader	noun	fade|fad|R|V ; -er|er|S||-er (N)
+faena	noun	faena|faena|R|N

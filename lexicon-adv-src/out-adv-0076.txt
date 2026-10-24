@@ -1,0 +1,150 @@
+viol	noun	=
+actinic	adj	=
+sensorium	noun	=
+hadrosaur	noun	hadro-|hadro|B|Adj|||Greek hadros 'strong' ; -saur|saur|B|N|||Greek sauros 'lizard'
+extremophile	noun	=
+mensa	noun	=
+channelization	noun	=
+elate	verb	=
+hagiographic	adj	=
+propitiation	noun	=
+meteoritic	adj	=
+adiabatic	adj	=
+anaphora	noun	ana-|ana|P||||Greek ana 'up' ; -phora|phora|B|V|||Greek pherein 'to carry'
+palindrome	noun	palin-|palin|P||||Greek palin 'back, again' ; -drome|drome|B|N|||Greek dromos 'running, race'
+conjunctive	adj	con-|con|P||||Latin com- 'together' ; -junct-|junct|B|V|||Latin iungere 'to join' ; -ive|ive|S||||Latin -ivus 'tending to'
+oxidizer	noun	=
+cabochon	noun	=
+dominus	noun	=
+rocketeer	noun	=
+ambo	noun	=
+oenophile	noun	oeno-|oeno|B|N|||Greek oinos 'wine' ; -phile|phile|B|N|||Greek philos 'loving, friend'
+glycine	noun	=
+ouzo	noun	=
+pethidine	noun	=
+tunica	noun	=
+masticate	verb	=
+prophetess	noun	=
+dentition	noun	=
+adventitious	adj	=
+premonitory	adj	=
+amanuensis	noun	a-|a|P||||Latin ab- 'from, off' ; manu-|manu|B|N|||Latin manus 'hand' ; -ensis|ensis|S||||Latin -ensis 'of, from place'
+nougat	noun	=
+cubit	noun	=
+microsurgical	adj	=
+cupidity	noun	=
+pestilential	adj	=
+vasodilation	noun	=
+amoebic	adj	=
+heterodoxy	noun	=
+congener	noun	con-|con|P||||Latin com- 'same, together' ; -gener|gener|B|N|||Latin genus 'kind, birth'
+metalinguistic	adj	=
+mucormycosis	noun	=
+abash	verb	=
+sterilizer	noun	=
+instar	noun	=
+cadenza	noun	=
+physis	noun	=
+motile	adj	=
+eclogue	noun	=
+cogitation	noun	=
+axonal	adj	=
+witchery	noun	=
+sanguinary	adj	=
+labial	adj	=
+elastomeric	adj	=
+centrum	noun	=
+encaustic	adj	en-|en|P||||Greek en 'in' ; -caust-|caust|B|V|||Greek kaiein 'to burn' ; -ic|ic|S
+lithographer	noun	=
+espy	verb	=
+gyroscopic	adj	=
+dromedary	noun	=
+votary	noun	=
+phylloxera	noun	phyllo-|phyllo|B|N|||Greek phyllon 'leaf' ; -xera|xera|B|Adj|||Greek xeros 'dry'
+sensorial	adj	=
+polysyllabic	adj	=
+hyperfine	adj	=
+obliquity	noun	=
+drachma	noun	=
+polychromatic	adj	=
+seraglio	noun	=
+conn	verb	=
+glottis	noun	glott-|glott|B|N|||Greek glotta 'tongue' ; -is|is|S||||Greek -is 'feminine noun'
+proprioception	noun	proprio-|proprio|P||||Latin proprius "one's own" ; -cept-|cep|B|V|||Latin capere 'to take' ; -ion|tion|S
+presbyter	noun	=
+bioaccumulation	noun	=
+syntagmatic	adj	=
+harpsichordist	noun	=
+anthologize	verb	=
+deuteron	noun	deutero-|deuter|B|Adj|||Greek deuteros 'second' ; -on|on|S||||Greek -on 'particle, thing'
+postern	noun	=
+tenderizer	noun	=
+rapeseed	noun	=
+multivocal	adj	multi-|multi|P||||Latin multus 'many' ; voc-|voc|B|V|||Latin vocare 'to call' ; -al|al|S
+narcosis	noun	narco-|narco|B|N|||Greek narke 'numbness' ; -osis|sis|S||||Greek -osis 'condition'
+cumulate	verb	=
+hydrops	noun	=
+chewer	noun	=
+aphoristic	adj	=
+spectrophotometer	noun	=
+neocortex	noun	=
+tomboyish	adj	=
+convoke	verb	con-|con|P||||Latin com- 'together' ; -voke|voke|B|V|||Latin vocare 'to call'
+rhinorrhea	noun	rhino-|rhino|B|N|||Greek rhis 'nose' ; -rrhea|rrhea|B|N|||Greek rhoia 'flow'
+isomorphic	adj	iso-|iso|B|Adj|||Greek isos 'equal' ; -morph-|morph|B|N|||Greek morphe 'form' ; -ic|ic|S
+scarify	verb	=
+serialization	noun	=
+naphthalene	noun	=
+metalanguage	noun	=
+verger	noun	=
+rooter	noun	=
+literalize	verb	=
+salina	noun	=
+descant	noun	=
+vena	noun	=
+infinitude	noun	in-|in|P||||Latin in- 'not' ; -fin-|fini|B|N|||Latin finis 'end' ; -tude|tude|S||||Latin -tudo 'state, quality'
+imbrication	noun	=
+bulla	noun	=
+guayabera	noun	=
+prostatitis	noun	=
+disturber	noun	=
+keloid	noun	kel-|kel|B|N|||Greek chele 'claw, hoof' ; -oid|oid|S||||Greek -oeides 'like, form'
+magnetron	noun	=
+mycelium	noun	=
+metalhead	noun	=
+controvert	verb	contro-|contro|P||||Latin contra 'against' ; -vert|vert|B|V|||Latin vertere 'to turn'
+glioma	noun	=
+mesoscopic	adj	=
+regicide	noun	regi-|regi|B|N|||Latin rex 'king' ; -cide|cide|B|N|||Latin -cidium 'killing'
+anarchistic	adj	=
+prefiguration	noun	=
+mesic	adj	=
+hyperparathyroidism	noun	=
+magnetics	noun	=
+limiter	noun	=
+archaism	noun	=
+pika	noun	=
+allosaurus	noun	allo-|allo|B|Adj|||Greek allos 'other, different' ; -saurus|saurus|B|N|||Greek sauros 'lizard'
+ichthyologist	noun	=
+verbosity	noun	=
+gigantism	noun	=
+sporran	noun	=
+myosin	noun	myos-|myos|B|N|||Greek mys 'muscle' ; -in|in|S
+campanula	noun	campan-|campan|B|N|||Latin campana 'bell' ; -ula|ula|S||||Latin -ula 'diminutive'
+tumescence	noun	=
+recency	noun	=
+pomme	noun	=
+aphelion	noun	=
+pronation	noun	=
+adulteration	noun	=
+nosocomial	adj	=
+analyte	noun	=
+dollarization	noun	=
+biostatistics	noun	=
+atemporal	adj	=
+genuflection	noun	=
+extempore	adv	=
+emetic	adj	=
+portcullis	noun	=
+mastoiditis	noun	=
+chromatin	noun	=

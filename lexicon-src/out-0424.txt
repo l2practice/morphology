@@ -1,0 +1,200 @@
+weighable	adj	weigh|weigh|R|V ; -able|able|S
+weighage	noun	weigh|weigh|R|V ; -age|age|S
+weigher	noun	weigh|weigh|R|V ; -er|er|S||-er (N)
+weightfulness	noun	weight|weight|R|N ; -ful|ful|S ; -ness|ness|S
+weightlift	noun	weight|weight|R|N ; lift|lift|R|V
+weightlifting	noun	weight|weight|R|N ; lift|lift|R|V ; -ing|ing|S||-ing (N)
+weights	noun	weight|weight|R|N ; -s|s|I||-s (plural)
+weirdie	noun	weirdie|weirdie|R|N
+weirdy	adj	weird|weird|R|Adj ; -y|y|S
+welcher	noun	welch|welch|R|V ; -er|er|S||-er (N)
+welcomer	noun	welcome|welcom|R|V ; -er|er|S||-er (N)
+weldability	noun	weld|weld|R|V ; -able|abil|S ; -ity|ity|S
+weldable	adj	weld|weld|R|V ; -able|able|S
+weldless	adj	weld|weld|R|V ; -less|less|S
+welkin	noun	welkin|welkin|R|N
+welladay	interj	welladay|welladay|R
+welldigger	noun	well|well|R|N ; dig|digg|R|V ; -er|er|S||-er (N)
+wellies	noun	wellies|wellies|R|N
+wellingtonia	noun	wellingtonia|wellingtonia|R|N
+wellwater	noun	well|well|R|N ; water|water|R|N
+welsh	verb	welsh|welsh|R|V
+weltering	verb	welter|welter|R|V ; -ing|ing|I||-ing (v)
+welting	noun	welt|welt|R|V ; -ing|ing|S||-ing (N)
+welwitschia	noun	welwitschia|welwitschia|R|N
+wendigo	noun	wendigo|wendigo|R|N
+wending	verb	wend|wend|R|V ; -ing|ing|I||-ing (v)
+were	verb	be|were|R|V ; -ed||I||-ed (v2)
+werebear	noun	were|were|R|N ; bear|bear|R|N
+werecat	noun	were|were|R|N ; cat|cat|R|N
+werefox	noun	were|were|R|N ; fox|fox|R|N
+wererat	noun	were|were|R|N ; rat|rat|R|N
+weretiger	noun	were|were|R|N ; tiger|tiger|R|N
+wergeld	noun	wergeld|wergeld|R|N
+werwolf	noun	were|wer|R|N ; wolf|wolf|R|N
+westernization	noun	western|western|R|Adj ; -ize|iz|S ; -ation|ation|S
+westing	noun	west|west|R|N ; -ing|ing|S||-ing (N)
+westland	noun	west|west|R|N ; land|land|R|N
+westwork	noun	west|west|R|N ; work|work|R|N
+wetter	noun	wet|wett|R|Adj ; -er|er|S||-er (N)
+wettish	adj	wet|wett|R|Adj ; -ish|ish|S
+whacker	noun	whack|whack|R|V ; -er|er|S||-er (N)
+whaleman	noun	whale|whale|R|N ; man|man|R|N
+whang	verb	whang|whang|R|V
+whangdoodle	noun	whangdoodle|whangdoodle|R|N
+wharfage	noun	wharf|wharf|R|N ; -age|age|S
+wharfinger	noun	wharfinger|wharfinger|R|N
+whataboutism	noun	what|what|R ; about|about|R ; -ism|ism|S
+whatchamacallit	noun	whatchamacallit|whatchamacallit|R|N
+wheatmeal	noun	wheat|wheat|R|N ; meal|meal|R|N
+wheedler	noun	wheedle|wheedl|R|V ; -er|er|S||-er (N)
+wheek	verb	wheek|wheek|R|V
+wheelman	noun	wheel|wheel|R|N ; man|man|R|N
+wheelrim	noun	wheel|wheel|R|N ; rim|rim|R|N
+wheels	noun	wheel|wheel|R|N ; -s|s|I||-s (plural)
+wheelsman	noun	wheel|wheels|R|N ; man|man|R|N
+wheelspin	noun	wheel|wheel|R|N ; spin|spin|R|V
+whelm	verb	whelm|whelm|R|V
+whelming	verb	whelm|whelm|R|V ; -ing|ing|I||-ing (v)
+whelping	verb	whelp|whelp|R|V ; -ing|ing|I||-ing (v)
+whensoever	adv	when|when|R ; so|so|R ; ever|ever|R
+whereafter	adv	where|where|R ; after|after|R
+wherefrom	adv	where|where|R ; from|from|R
+whereinto	adv	where|where|R ; into|into|R
+wherenot	adv	where|where|R ; not|not|R
+wherry	noun	wherry|wherry|R|N
+wherryman	noun	wherry|wherry|R|N ; man|man|R|N
+whetted	verb	whet|whett|R|V ; -ed|ed|I||-ed (v2)
+whetting	verb	whet|whett|R|V ; -ing|ing|I||-ing (v)
+whiffet	noun	whiffet|whiffet|R|N
+whiffing	verb	whiff|whiff|R|V ; -ing|ing|I||-ing (v)
+whiffle	verb	whiffle|whiffle|R|V
+whig	noun	whig|whig|R|N
+whiggish	adj	whig|whigg|R|N ; -ish|ish|S
+whiggism	noun	whig|whigg|R|N ; -ism|ism|S
+whilom	adj	whilom|whilom|R|Adj
+whimbrel	noun	whimbrel|whimbrel|R|N
+whimperer	noun	whimper|whimper|R|V ; -er|er|S||-er (N)
+whimsicality	noun	whimsical|whimsical|R|Adj ; -ity|ity|S
+whimsicalness	noun	whimsical|whimsical|R|Adj ; -ness|ness|S
+whinchat	noun	whin|whin|R|N ; chat|chat|R|N
+whinnying	verb	whinny|whinny|R|V ; -ing|ing|I||-ing (v)
+whippiness	noun	whippy|whippi|R|Adj ; -ness|ness|S
+whipray	noun	whip|whip|R|N ; ray|ray|R|N
+whipstaff	noun	whip|whip|R|N ; staff|staff|R|N
+whipster	noun	whip|whip|R|V ; -ster|ster|S
+whipstitch	noun	whip|whip|R|V ; stitch|stitch|R|V
+whirlybird	noun	whirl|whirl|R|V ; -y|y|S ; bird|bird|R|N
+whish	verb	whish|whish|R|V
+whisht	interj	whisht|whisht|R
+whiskers	noun	whisker|whisker|R|N ; -s|s|I||-s (plural)
+whiskified	verb	whisky|whiski|R|N ; -ify|fi|S ; -ed|ed|I||-ed (v2)
+whisking	verb	whisk|whisk|R|V ; -ing|ing|I||-ing (v)
+whistleblowing	noun	whistle|whistle|R|V ; blow|blow|R|V ; -ing|ing|S||-ing (N)
+whitebait	noun	white|white|R|Adj ; bait|bait|R|N
+whitebeam	noun	white|white|R|Adj ; beam|beam|R|N
+whitehead	noun	white|white|R|Adj ; head|head|R|N
+whitelist	noun	white|white|R|Adj ; list|list|R|N
+whiteout	noun	white|white|R|Adj ; out|out|R|Adv
+whitesmith	noun	white|white|R|Adj ; smith|smith|R|N
+whitethorn	noun	white|white|R|Adj ; thorn|thorn|R|N
+whitethroat	noun	white|white|R|Adj ; throat|throat|R|N
+whitetop	noun	white|white|R|Adj ; top|top|R|N
+whitewasher	noun	white|white|R|Adj ; wash|wash|R|V ; -er|er|S||-er (N)
+whitleather	noun	whitleather|whitleather|R|N
+whitlow	noun	whitlow|whitlow|R|N
+whittling	verb	whittle|whittl|R|V ; -ing|ing|I||-ing (v)
+whity	adj	white|whit|R|Adj ; -y|y|S
+whizzer	noun	whiz|whizz|R|V ; -er|er|S||-er (N)
+whizzing	verb	whiz|whizz|R|V ; -ing|ing|I||-ing (v)
+wholeheartedness	noun	whole|whole|R|Adj ; heart|heart|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+whoo	interj	whoo|whoo|R
+whooped	verb	whoop|whoop|R|V ; -ed|ed|I||-ed (v2)
+whoredom	noun	whore|whore|R|N ; -dom|dom|S
+whoremaster	noun	whore|whore|R|N ; master|master|R|N
+whoremonger	noun	whore|whore|R|N ; monger|monger|R|N
+whoreson	noun	whore|whore|R|N ; son|son|R|N
+whorey	adj	whore|whore|R|N ; -y|y|S
+whorish	adj	whore|whor|R|N ; -ish|ish|S
+whorishness	noun	whore|whor|R|N ; -ish|ish|S ; -ness|ness|S
+whortleberry	noun	whortle|whortle|R|N ; berry|berry|R|N
+whuff	noun	whuff|whuff|R|N
+wickered	adj	wicker|wicker|R|N ; -ed|ed|S||-ed (adj)
+wickerworker	noun	wicker|wicker|R|N ; work|work|R|V ; -er|er|S||-er (N)
+wicky	adj	wick|wick|R|N ; -y|y|S
+widdershins	adv	widdershins|widdershins|R|Adv
+widescale	adj	wide|wide|R|Adj ; scale|scale|R|N
+widescreen	noun	wide|wide|R|Adj ; screen|screen|R|N
+widish	adj	wide|wid|R|Adj ; -ish|ish|S
+widowerhood	noun	widower|widower|R|N ; -hood|hood|S
+wieldy	adj	wield|wield|R|V ; -y|y|S
+wienie	noun	wienie|wienie|R|N
+wifehood	noun	wife|wife|R|N ; -hood|hood|S
+wifeless	adj	wife|wife|R|N ; -less|less|S
+wifelet	noun	wife|wife|R|N ; -let|let|S
+wifelike	adj	wife|wife|R|N ; -like|like|S
+wigged	verb	wig|wigg|R|N ; -ed|ed|I||-ed (v2)
+wigging	noun	wig|wigg|R|N ; -ing|ing|S||-ing (N)
+wiggles	noun	wiggle|wiggle|R|V ; -s|s|I||-s (plural)
+wight	noun	wight|wight|R|N
+wigmaker	noun	wig|wig|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+wigman	noun	wig|wig|R|N ; man|man|R|N
+wignat	noun	wignat|wignat|R|N
+wigwag	verb	wigwag|wigwag|R|V
+wikification	noun	wiki|wiki|R|N ; -ify|fi|S ; -ation|cation|S
+wikify	verb	wiki|wiki|R|N ; -ify|fy|S
+wikitext	noun	wiki|wiki|R|N ; text|text|R|N
+wilaya	noun	wilaya|wilaya|R|N
+wilco	interj	wilco|wilco|R
+wildcard	noun	wild|wild|R|Adj ; card|card|R|N
+wilden	verb	wild|wild|R|Adj ; -en|en|S
+wildling	noun	wild|wild|R|Adj ; -ling|ling|S
+wiliness	noun	wily|wili|R|Adj ; -ness|ness|S
+willer	noun	will|will|R|V ; -er|er|S||-er (N)
+willet	noun	willet|willet|R|N
+willies	noun	willy|willi|R|N ; -es|es|I||-s (plural)
+willowed	adj	willow|willow|R|N ; -ed|ed|S||-ed (adj)
+willowherb	noun	willow|willow|R|N ; herb|herb|R|N
+wimble	noun	wimble|wimble|R|N
+wimpled	adj	wimple|wimpl|R|N ; -ed|ed|S||-ed (adj)
+wimpling	verb	wimple|wimpl|R|N ; -ing|ing|I||-ing (v)
+wincey	noun	wincey|wincey|R|N
+winceyette	noun	wincey|wincey|R|N ; -ette|ette|S
+wincing	verb	wince|winc|R|V ; -ing|ing|I||-ing (v)
+windgrass	noun	wind|wind|R|N ; grass|grass|R|N
+windhover	noun	wind|wind|R|N ; hover|hover|R|V
+windily	adv	windy|windi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+windiness	noun	windy|windi|R|Adj ; -ness|ness|S
+windlessness	noun	wind|wind|R|N ; -less|less|S ; -ness|ness|S
+windmills	noun	wind|wind|R|N ; mill|mill|R|N ; -s|s|I||-s (plural)
+windowlight	noun	window|window|R|N ; light|light|R|N
+windthrow	noun	wind|wind|R|N ; throw|throw|R|V
+windway	noun	wind|wind|R|N ; way|way|R|N
+winebag	noun	wine|wine|R|N ; bag|bag|R|N
+wineberry	noun	wine|wine|R|N ; berry|berry|R|N
+winecup	noun	wine|wine|R|N ; cup|cup|R|N
+wineglassful	noun	wine|wine|R|N ; glass|glass|R|N ; -ful|ful|S
+winegrower	noun	wine|wine|R|N ; grow|grow|R|V ; -er|er|S||-er (N)
+winemaking	noun	wine|wine|R|N ; make|mak|R|V ; -ing|ing|S||-ing (N)
+winepress	noun	wine|wine|R|N ; press|press|R|V
+winetaster	noun	wine|wine|R|N ; taste|tast|R|V ; -er|er|S||-er (N)
+winetasting	noun	wine|wine|R|N ; taste|tast|R|V ; -ing|ing|S||-ing (N)
+wingding	noun	wingding|wingding|R|N
+winging	verb	wing|wing|R|V ; -ing|ing|I||-ing (v)
+winglet	noun	wing|wing|R|N ; -let|let|S
+wings	noun	wing|wing|R|N ; -s|s|I||-s (plural)
+wingy	adj	wing|wing|R|N ; -y|y|S
+wining	verb	wine|win|R|V ; -ing|ing|I||-ing (v)
+winker	noun	wink|wink|R|V ; -er|er|S||-er (N)
+winnower	noun	winnow|winnow|R|V ; -er|er|S||-er (N)
+winterbourne	noun	winter|winter|R|N ; bourne|bourne|R|N
+winterfat	noun	winter|winter|R|N ; fat|fat|R|N
+winterized	verb	winter|winter|R|N ; -ize|iz|S ; -ed|ed|I||-ed (v2)
+winterkill	noun	winter|winter|R|N ; kill|kill|R|V
+winterly	adj	winter|winter|R|N ; -ly|ly|S||-ly (adj)
+winters	noun	winter|winter|R|N ; -s|s|I||-s (plural)
+wintrily	adv	wintry|wintri|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+winy	adj	wine|win|R|V ; -y|y|S
+wiped	verb	wipe|wip|R|V ; -ed|ed|I||-ed (v2)
+wiping	verb	wipe|wip|R|V ; -ing|ing|I||-ing (v)
+wiredrawer	noun	wire|wire|R|N ; draw|draw|R|V ; -er|er|S||-er (N)

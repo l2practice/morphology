@@ -1,0 +1,150 @@
+queue	noun	=
+skeptical	adj	=
+scrutiny	noun	=
+redundant	adj	=
+confirmation	noun	con-|con|P||||Latin com- 'together' ; firm|firm|R|V ; -ation|ation|S||||Latin -atio 'action, process'
+recorder	noun	=
+polite	adj	=
+interactive	adj	=
+static	adj	=
+complication	noun	com-|com|P||||Latin com- 'together' ; plic|plic|B|V|||Latin plicare 'to fold' ; -ation|ation|S||||Latin -atio 'action, process'
+critique	noun	=
+delicious	adj	=
+compassion	noun	com-|com|P||||Latin com- 'together' ; pass|pass|B|V|||Latin pati 'to suffer' ; -ion|ion|S||||Latin -io 'action, state'
+congregation	noun	con-|con|P||||Latin com- 'together' ; greg|greg|B|N|||Latin grex 'flock' ; -ation|ation|S||||Latin -atio 'action, process'
+mercy	noun	=
+competent	adj	=
+accumulate	verb	ac-|ac|P||||Latin ad- 'to' ; cumul|cumul|B|V|||Latin cumulus 'heap' ; -ate|ate|S||||Latin -atus 'made, having'
+legendary	adj	=
+militia	noun	=
+authentic	adj	=
+tenure	noun	=
+dome	noun	=
+spectacle	noun	spect|spect|B|V|||Latin specere 'to see' ; -acle|acle|S||||Latin -aculum 'instrument, place'
+respective	adj	=
+probable	adj	prob|prob|B|V|||Latin probare 'to test' ; -able|able|S||||Latin -abilis 'able to be'
+miserable	adj	=
+evoke	verb	e-|e|P||||Latin ex- 'out' ; -voke|voke|B|V|||Latin vocare 'to call'
+affirmative	adj	af-|af|P||||Latin ad- 'to' ; firm|firm|R|V ; -ative|ative|S||||Latin -ativus 'tending to'
+scar	noun	=
+variance	noun	=
+multiply	verb	=
+surge	verb	=
+amateur	noun	=
+commentary	noun	=
+chemist	noun	=
+penetrate	verb	=
+spectator	noun	spect|spect|B|V|||Latin specere 'to see' ; -ator|ator|S||||Latin -ator 'agent'
+attain	verb	=
+orthodox	adj	ortho-|ortho|B|Adj|||Greek orthos 'straight, correct' ; -dox|dox|B|N|||Greek doxa 'opinion, belief'
+viable	adj	=
+exert	verb	=
+propaganda	noun	=
+advocacy	noun	=
+biologist	noun	bio-|bio|B|N|||Greek bios 'life' ; -log-|log|B|N|||Greek logos 'study, word' ; -ist|ist|S||||Greek -istes 'one who'
+territorial	adj	=
+baron	noun	=
+prosperity	noun	=
+exile	noun	=
+implicit	adj	=
+architectural	adj	=
+prosecute	verb	=
+choir	noun	=
+precedent	noun	pre-|pre|P||||Latin prae 'before' ; -ced-|ced|B|V|||Latin cedere 'to go' ; -ent|ent|S||||Latin -ens 'present participle'
+integral	adj	=
+horizontal	adj	=
+cooper	noun	=
+hydrogen	noun	hydro-|hydro|B|N|||Greek hydor 'water' ; -gen|gen|B|N|||Greek -genes 'born, producing'
+controller	noun	=
+vinegar	noun	=
+organizer	noun	=
+inhibit	verb	in-|in|P||||Latin in- 'in' ; -hibit|hibit|B|V|||Latin habere 'to hold'
+inability	noun	in-|in|P||||Latin in- 'not' ; -abil|abil|B|Adj|||Latin habilis 'able' ; -ity|ity|S||||Latin -itas 'state, quality'
+mandatory	adj	=
+adverse	adj	=
+valve	noun	=
+junk	noun	=
+stun	verb	=
+fury	noun	=
+differentiate	verb	=
+compatible	adj	=
+corpse	noun	=
+pact	noun	=
+torch	noun	=
+documentation	noun	=
+inclusion	noun	=
+abolition	noun	=
+destiny	noun	=
+solo	noun	=
+fusion	noun	fus|fus|B|V|||Latin fundere 'to pour' ; -ion|ion|S||||Latin -io 'action, state'
+corps	noun	=
+fertility	noun	=
+homicide	noun	homi-|homi|B|N|||Latin homo 'man' ; -cide|cide|B|N|||Latin -cida 'killer'
+passionate	adj	=
+biblical	adj	=
+addiction	noun	=
+subjective	adj	=
+census	noun	=
+synthesis	noun	syn-|syn|P||||Greek syn- 'together' ; -thes-|thes|B|V|||Greek tithenai 'to put' ; -is|is|S||||Greek -sis 'action, state'
+adaptation	noun	=
+pledge	noun	=
+infect	verb	=
+paradigm	noun	para-|para|P||||Greek para 'beside' ; -digm|digm|B|V|||Greek deiknunai 'to show'
+locomotive	noun	loco-|loco|B|N|||Latin locus 'place' ; -mot-|mot|B|V|||Latin movere 'to move' ; -ive|ive|S||||Latin -ivus 'tending to'
+appetite	noun	ap-|ap|P||||Latin ad- 'to' ; -pet-|pet|B|V|||Latin petere 'to seek' ; -ite|ite|S||||Latin -itus 'having been'
+offend	verb	=
+debtor	noun	=
+mosaic	noun	=
+mammal	noun	=
+litigation	noun	=
+spatial	adj	=
+causal	adj	=
+enzyme	noun	en-|en|P||||Greek en 'in' ; -zyme|zyme|B|N|||Greek zyme 'leaven'
+bile	noun	=
+polymer	noun	poly-|poly|P||||Greek polys 'many' ; -mer|mer|B|N|||Greek meros 'part'
+preservation	noun	=
+rotation	noun	=
+cautious	adj	=
+luxury	noun	=
+designate	verb	=
+cult	noun	=
+confidential	adj	=
+ignorance	noun	=
+disastrous	adj	=
+juvenile	adj	=
+gown	noun	=
+lodge	noun	=
+repay	verb	=
+torture	noun	tort|tort|B|V|||Latin torquere 'to twist' ; -ure|ure|S||||Latin -ura 'action, result'
+chorus	noun	=
+glorious	adj	=
+comic	adj	com|com|B|N|||Greek komos 'carousal' ; -ic|ic|S||||Greek -ikos 'relating to'
+fountain	noun	=
+revenge	noun	=
+reside	verb	=
+query	noun	=
+coherent	adj	co-|co|P||||Latin co- 'together' ; -her-|her|B|V|||Latin haerere 'to stick' ; -ent|ent|S||||Latin -ens 'present participle'
+erupt	verb	e-|e|P||||Latin ex- 'out' ; -rupt|rupt|B|V|||Latin rumpere 'to break'
+terminate	verb	termin|termin|B|N|||Latin terminus 'end, boundary' ; -ate|ate|S||||Latin -atus 'made, having'
+repetition	noun	=
+majesty	noun	maj|maj|B|Adj|||Latin maior 'greater' ; -esty|esty|S||||Latin -estas 'state'
+salvation	noun	=
+cane	noun	=
+nuisance	noun	=
+inflict	verb	in-|in|P||||Latin in- 'against' ; -flict|flict|B|V|||Latin fligere 'to strike'
+forge	verb	=
+surgical	adj	=
+disrupt	verb	dis-|dis|P||||Latin dis- 'apart' ; -rupt|rupt|B|V|||Latin rumpere 'to break'
+liaison	noun	=
+odor	noun	=
+apparatus	noun	=
+postpone	verb	post-|post|P||||Latin post 'after' ; -pone|pone|B|V|||Latin ponere 'to put'
+resentment	noun	=
+dinosaur	noun	dino-|dino|B|Adj|||Greek deinos 'terrible' ; -saur|saur|B|N|||Greek sauros 'lizard'
+gradual	adj	grad|grad|B|N|||Latin gradus 'step' ; -ual|ual|S||||Latin -alis 'relating to'
+excite	verb	=
+quotation	noun	quot|quot|B|V|||Latin quot 'how many' ; -ation|ation|S||||Latin -atio 'action, process'
+insider	noun	=
+assertion	noun	=
+pier	noun	=
+sincerely	adv	=

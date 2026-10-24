@@ -1,0 +1,200 @@
+impulsion	noun	impulse|impuls|R|N ; -ion|ion|S
+impulsivity	noun	impulse|impuls|R|N ; -ive|iv|S ; -ity|ity|S
+impurely	adv	im-|im|P|||in- ; pure|pure|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+impureness	noun	im-|im|P|||in- ; pure|pure|R|Adj ; -ness|ness|S
+imputability	noun	impute|imput|R|V ; -able|abil|S ; -ity|ity|S
+imputable	adj	impute|imput|R|V ; -able|able|S
+imputableness	noun	impute|imput|R|V ; -able|able|S ; -ness|ness|S
+imputably	adv	impute|imput|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+imputative	adj	impute|imput|R|V ; -ative|ative|S
+imputatively	adv	impute|imput|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+imputativeness	noun	impute|imput|R|V ; -ative|ative|S ; -ness|ness|S
+imputrescible	adj	imputrescible|imputrescible|R|Adj
+inaccessibleness	noun	in-|in|P ; access|access|R|N ; -ible|ible|S ; -ness|ness|S
+inaccessibly	adv	in-|in|P ; access|access|R|N ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+inaccurateness	noun	in-|in|P ; accurate|accurate|R|Adj ; -ness|ness|S
+inactively	adv	in-|in|P ; act|act|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+inactiveness	noun	in-|in|P ; act|act|R|V ; -ive|ive|S ; -ness|ness|S
+inadaptability	noun	in-|in|P ; adapt|adapt|R|V ; -able|abil|S ; -ity|ity|S
+inadaptable	adj	in-|in|P ; adapt|adapt|R|V ; -able|able|S
+inadequateness	noun	in-|in|P ; adequate|adequate|R|Adj ; -ness|ness|S
+inadmissibility	noun	in-|in|P ; admit|admiss|R|V ; -ible|ibil|S ; -ity|ity|S
+inadmissibly	adv	in-|in|P ; admit|admiss|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+inadvertency	noun	in-|in|P ; advert|advert|R|V ; -ency|ency|S
+inadvisability	noun	in-|in|P ; advise|advis|R|V ; -able|abil|S ; -ity|ity|S
+inadvisableness	noun	in-|in|P ; advise|advis|R|V ; -able|able|S ; -ness|ness|S
+inaesthetic	adj	in-|in|P ; aesthetic|aesthetic|R|Adj
+inalienability	noun	in-|in|P ; alien|alien|R|N ; -able|abil|S ; -ity|ity|S
+inalienableness	noun	in-|in|P ; alien|alien|R|N ; -able|able|S ; -ness|ness|S
+inalienably	adv	in-|in|P ; alien|alien|R|N ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+inalterability	noun	in-|in|P ; alter|alter|R|V ; -able|abil|S ; -ity|ity|S
+inalterable	adj	in-|in|P ; alter|alter|R|V ; -able|able|S
+inalterableness	noun	in-|in|P ; alter|alter|R|V ; -able|able|S ; -ness|ness|S
+inalterably	adv	in-|in|P ; alter|alter|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+inamorata	noun	inamorata|inamorata|R|N
+inamorato	noun	inamorato|inamorato|R|N
+inanimacy	noun	in-|in|P ; animacy|animacy|R|N
+inanimately	adv	in-|in|P ; animate|animate|R|V ; -ly|ly|I|Adv|-ly (adv)
+inanimateness	noun	in-|in|P ; animate|animate|R|V ; -ness|ness|S
+inanimation	noun	in-|in|P ; animate|animat|R|V ; -ion|ion|S
+inanition	noun	inanition|inanition|R|N
+inappeasable	adj	in-|in|P ; appease|appeas|R|V ; -able|able|S
+inappetence	noun	in-|in|P ; appetence|appetence|R|N
+inapplicability	noun	in-|in|P ; apply|applic|R|V ; -able|abil|S ; -ity|ity|S
+inapplicableness	noun	in-|in|P ; apply|applic|R|V ; -able|able|S ; -ness|ness|S
+inapplicably	adv	in-|in|P ; apply|applic|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+inapposite	adj	in-|in|P ; apposite|apposite|R|Adj
+inappositely	adv	in-|in|P ; apposite|apposite|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inappositeness	noun	in-|in|P ; apposite|apposite|R|Adj ; -ness|ness|S
+inappreciable	adj	in-|in|P ; appreciate|appreci|R|V ; -able|able|S
+inappreciably	adv	in-|in|P ; appreciate|appreci|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+inappreciation	noun	in-|in|P ; appreciate|appreciat|R|V ; -ion|ion|S
+inappreciative	adj	in-|in|P ; appreciate|appreciat|R|V ; -ive|ive|S
+inappreciatively	adv	in-|in|P ; appreciate|appreciat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+inappreciativeness	noun	in-|in|P ; appreciate|appreciat|R|V ; -ive|ive|S ; -ness|ness|S
+inapprehensible	adj	in-|in|P ; apprehend|apprehens|R|V ; -ible|ible|S
+inapprehension	noun	in-|in|P ; apprehend|apprehens|R|V ; -ion|ion|S
+inapprehensive	adj	in-|in|P ; apprehend|apprehens|R|V ; -ive|ive|S
+inapprehensiveness	noun	in-|in|P ; apprehend|apprehens|R|V ; -ive|ive|S ; -ness|ness|S
+inapproachability	noun	in-|in|P ; approach|approach|R|V ; -able|abil|S ; -ity|ity|S
+inapproachable	adj	in-|in|P ; approach|approach|R|V ; -able|able|S
+inapproachably	adv	in-|in|P ; approach|approach|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+inaptitude	noun	in-|in|P ; aptitude|aptitude|R|N
+inaptly	adv	in-|in|P ; apt|apt|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inaptness	noun	in-|in|P ; apt|apt|R|Adj ; -ness|ness|S
+inarch	verb	in-|in|P ; arch|arch|R|N
+inarm	verb	in-|in|P ; arm|arm|R|N
+inartful	adj	in-|in|P ; art|art|R|N ; -ful|ful|S
+inarticulacy	noun	in-|in|P ; articulacy|articulacy|R|N
+inarticulately	adv	in-|in|P ; articulate|articulate|R|V ; -ly|ly|I|Adv|-ly (adv)
+inartificial	adj	in-|in|P ; artificial|artificial|R|Adj
+inartificiality	noun	in-|in|P ; artificial|artificial|R|Adj ; -ity|ity|S
+inartificially	adv	in-|in|P ; artificial|artificial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inartificialness	noun	in-|in|P ; artificial|artificial|R|Adj ; -ness|ness|S
+inartistic	adj	in-|in|P ; art|art|R|N ; -ist|ist|S ; -ic|ic|S
+inartistically	adv	in-|in|P ; art|art|R|N ; -ist|ist|S ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+inattentively	adv	in-|in|P ; attend|attent|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+inaudibility	noun	in-|in|P ; audible|audibil|R|Adj ; -ity|ity|S
+inaudibleness	noun	in-|in|P ; audible|audible|R|Adj ; -ness|ness|S
+inauguratory	adj	in-|in|P ; augur|augur|R|V ; -ate|at|S ; -ory|ory|S
+inauspiciously	adv	in-|in|P ; auspice|auspic|R|N ; -ious|ious|S ; -ly|ly|I|Adv|-ly (adv)
+inauspiciousness	noun	in-|in|P ; auspice|auspic|R|N ; -ious|ious|S ; -ness|ness|S
+inbeing	noun	in-|in|P ; being|being|R|N
+inbox	noun	in-|in|P ; box|box|R|N
+inbreathe	verb	in-|in|P ; breathe|breathe|R|V
+inbreed	verb	in-|in|P ; breed|breed|R|V
+inbye	adv	in-|in|P ; bye|bye|R|N
+incalculability	noun	in-|in|P ; calculate|calcul|R|V ; -able|abil|S ; -ity|ity|S
+incalculableness	noun	in-|in|P ; calculate|calcul|R|V ; -able|able|S ; -ness|ness|S
+incalescent	adj	incalescent|incalescent|R|Adj
+incandesce	verb	incandesce|incandesce|R|V
+incandescently	adv	incandescent|incandescent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+incantational	adj	incantation|incantation|R|N ; -al|al|S
+incapability	noun	in-|in|P ; capable|capabil|R|Adj ; -ity|ity|S
+incapableness	noun	in-|in|P ; capable|capable|R|Adj ; -ness|ness|S
+incapably	adv	in-|in|P ; capable|capab|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+incapacious	adj	in-|in|P ; capacious|capacious|R|Adj
+incapaciousness	noun	in-|in|P ; capacious|capacious|R|Adj ; -ness|ness|S
+incarcerator	noun	incarcerate|incarcerat|R|V ; -or|or|S
+incarnadined	adj	incarnadine|incarnadin|R|V ; -ed|ed|S||-ed (adj)
+incaution	noun	in-|in|P ; caution|caution|R|N
+incautiousness	noun	in-|in|P ; caution|cauti|R|N ; -ous|ous|S ; -ness|ness|S
+incel	noun	incel|incel|R|N
+incendiarism	noun	incendiary|incendiar|R|N ; -ism|ism|S
+incensation	noun	incense|incens|R|N ; -ation|ation|S
+incent	verb	incent|incent|R|V
+incenter	noun	in-|in|P ; center|center|R|N
+incentivize	verb	incentive|incentiv|R|N ; -ize|ize|S
+incept	verb	in-|in|P ; -cept|cept|B|V
+inceptive	adj	in-|in|P ; -cept|cept|B|V ; -ive|ive|S
+inceptor	noun	in-|in|P ; -cept|cept|B|V ; -or|or|S
+incertitude	noun	in-|in|P ; certitude|certitude|R|N
+incessancy	noun	incessant|incess|R|Adj ; -ancy|ancy|S
+incessantness	noun	incessant|incessant|R|Adj ; -ness|ness|S
+incestuously	adv	incest|incest|R|N ; -uous|uous|S ; -ly|ly|I|Adv|-ly (adv)
+incestuousness	noun	incest|incest|R|N ; -uous|uous|S ; -ness|ness|S
+inched	verb	inch|inch|R|N ; -ed|ed|I||-ed (v2)
+inching	verb	inch|inch|R|N ; -ing|ing|I||-ing (v)
+inchmeal	adv	inch|inch|R|N ; meal|meal|R|N
+inchoately	adv	inchoate|inchoate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inchoateness	noun	inchoate|inchoate|R|Adj ; -ness|ness|S
+inchoation	noun	inchoate|inchoat|R|V ; -ion|ion|S
+inchoative	adj	inchoate|inchoat|R|V ; -ive|ive|S
+inchoatively	adv	inchoate|inchoat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+incidentalness	noun	incident|incident|R|N ; -al|al|S ; -ness|ness|S
+incidentless	adj	incident|incident|R|N ; -less|less|S
+incipience	noun	incipient|incipi|R|Adj ; -ence|ence|S
+incipiency	noun	incipient|incipi|R|Adj ; -ency|ency|S
+incipiently	adv	incipient|incipient|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+incipit	noun	incipit|incipit|R|N
+incircle	verb	in-|in|P ; circle|circle|R|N
+incitant	noun	incite|incit|R|V ; -ant|ant|S
+incitation	noun	incite|incit|R|V ; -ation|ation|S
+inciter	noun	incite|incit|R|V ; -er|er|S||-er (N)
+incitingly	adv	incite|incit|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+incivil	adj	in-|in|P ; civil|civil|R|Adj
+incivism	noun	in-|in|P ; civil|civ|R|Adj ; -ism|ism|S
+inclemency	noun	in-|in|P ; clemency|clemency|R|N
+inclemently	adv	in-|in|P ; clement|clement|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inclementness	noun	in-|in|P ; clement|clement|R|Adj ; -ness|ness|S
+inclinable	adj	incline|inclin|R|V ; -able|able|S
+incliner	noun	incline|inclin|R|V ; -er|er|S||-er (N)
+inclining	verb	incline|inclin|R|V ; -ing|ing|I||-ing (v)
+includable	adj	in-|in|P ; -clude|clud|B|V ; -able|able|S
+includible	adj	in-|in|P ; -clude|clud|B|V ; -ible|ible|S
+incoagulability	noun	in-|in|P ; coagulate|coagul|R|V ; -able|abil|S ; -ity|ity|S
+incoagulable	adj	in-|in|P ; coagulate|coagul|R|V ; -able|able|S
+incoercible	adj	in-|in|P ; coerce|coerc|R|V ; -ible|ible|S
+incog	adj	incog|incog|R|Adj
+incogitability	noun	in-|in|P ; cogitate|cogit|R|V ; -able|abil|S ; -ity|ity|S
+incogitable	adj	in-|in|P ; cogitate|cogit|R|V ; -able|able|S
+incogitant	adj	in-|in|P ; cogitate|cogit|R|V ; -ant|ant|S
+incognita	noun	incognita|incognita|R|N
+incognizable	adj	in-|in|P ; cognize|cogniz|R|V ; -able|able|S
+incognizance	noun	in-|in|P ; cognize|cogniz|R|V ; -ance|ance|S
+incognizant	adj	in-|in|P ; cognize|cogniz|R|V ; -ant|ant|S
+incoherency	noun	in-|in|P ; coherent|coher|R|Adj ; -ency|ency|S
+incoherentness	noun	in-|in|P ; coherent|coherent|R|Adj ; -ness|ness|S
+incohesion	noun	in-|in|P ; cohesion|cohesion|R|N
+incohesive	adj	in-|in|P ; cohesive|cohesive|R|Adj
+incombustibility	noun	in-|in|P ; combust|combust|R|V ; -ible|ibil|S ; -ity|ity|S
+incombustible	adj	in-|in|P ; combust|combust|R|V ; -ible|ible|S
+incombustibleness	noun	in-|in|P ; combust|combust|R|V ; -ible|ible|S ; -ness|ness|S
+incombustibly	adv	in-|in|P ; combust|combust|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+incomeless	adj	income|income|R|N ; -less|less|S
+incommensurableness	noun	in-|in|P ; commensurable|commensurable|R|Adj ; -ness|ness|S
+incommensurably	adv	in-|in|P ; commensurable|commensurab|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+incommensurately	adv	in-|in|P ; commensurate|commensurate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+incommensurateness	noun	in-|in|P ; commensurate|commensurate|R|Adj ; -ness|ness|S
+incommode	verb	in-|in|P ; commode|commode|R|N
+incommodious	adj	in-|in|P ; commode|commodi|R|N ; -ous|ous|S
+incommodiously	adv	in-|in|P ; commode|commodi|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+incommodiousness	noun	in-|in|P ; commode|commodi|R|N ; -ous|ous|S ; -ness|ness|S
+incommunicability	noun	in-|in|P ; communicate|communic|R|V ; -able|abil|S ; -ity|ity|S
+incommunicable	adj	in-|in|P ; communicate|communic|R|V ; -able|able|S
+incommunicableness	noun	in-|in|P ; communicate|communic|R|V ; -able|able|S ; -ness|ness|S
+incommunicably	adv	in-|in|P ; communicate|communic|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+incommunicative	adj	in-|in|P ; communicate|communicat|R|V ; -ive|ive|S
+incommunicatively	adv	in-|in|P ; communicate|communicat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+incommunicativeness	noun	in-|in|P ; communicate|communicat|R|V ; -ive|ive|S ; -ness|ness|S
+incommutability	noun	in-|in|P ; commute|commut|R|V ; -able|abil|S ; -ity|ity|S
+incommutable	adj	in-|in|P ; commute|commut|R|V ; -able|able|S
+incommutably	adv	in-|in|P ; commute|commut|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+incompact	adj	in-|in|P ; compact|compact|R|Adj
+incompactness	noun	in-|in|P ; compact|compact|R|Adj ; -ness|ness|S
+incomparability	noun	in-|in|P ; compare|compar|R|V ; -able|abil|S ; -ity|ity|S
+incomparableness	noun	in-|in|P ; compare|compar|R|V ; -able|able|S ; -ness|ness|S
+incompatibleness	noun	in-|in|P ; compatible|compatible|R|Adj ; -ness|ness|S
+incompatibly	adv	in-|in|P ; compatible|compatib|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+incompliable	adj	in-|in|P ; comply|compli|R|V ; -able|able|S
+incompliance	noun	in-|in|P ; comply|compli|R|V ; -ance|ance|S
+incompliant	adj	in-|in|P ; comply|compli|R|V ; -ant|ant|S
+incompliantly	adv	in-|in|P ; comply|compli|R|V ; -ant|ant|S ; -ly|ly|I|Adv|-ly (adv)
+incomprehensibleness	noun	in-|in|P ; comprehend|comprehens|R|V ; -ible|ible|S ; -ness|ness|S
+incomprehensive	adj	in-|in|P ; comprehend|comprehens|R|V ; -ive|ive|S
+incomprehensively	adv	in-|in|P ; comprehend|comprehens|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+incomprehensiveness	noun	in-|in|P ; comprehend|comprehens|R|V ; -ive|ive|S ; -ness|ness|S
+incompressibility	noun	in-|in|P ; com-|com|P|||con- ; press|press|R|V ; -ible|ibil|S ; -ity|ity|S
+incomputability	noun	in-|in|P ; compute|comput|R|V ; -able|abil|S ; -ity|ity|S
+incomputable	adj	in-|in|P ; compute|comput|R|V ; -able|able|S
+inconceivability	noun	in-|in|P ; con-|con|P ; -ceive|ceiv|B|V ; -able|abil|S ; -ity|ity|S

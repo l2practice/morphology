@@ -1,0 +1,150 @@
+torsion	noun	tors-|tors|B|V||tort-|Latin torquere 'to twist' ; -ion|ion|S||||Latin -io, 'act, state'
+metrical	adj	=
+extrusion	noun	ex-|ex|P||||Latin ex- 'out' ; -trus-|trus|B|V||-trud|Latin trudere 'to thrust' ; -ion|ion|S||||Latin -io, 'act, state'
+entreat	verb	=
+humidifier	noun	=
+luna	noun	=
+pyramidal	adj	=
+carotenoid	noun	=
+ciao	interj	=
+flume	noun	=
+lutein	noun	lute-|lute|B|Adj|||Latin luteus 'yellow' ; -in|in|S
+essentialism	noun	=
+laxity	noun	=
+etymological	adj	=
+prophylaxis	noun	pro-|pro|P||||Greek pro 'before' ; -phylaxis|phylaxis|B|N|||Greek phylaxis 'guarding'
+acetic	adj	acet-|acet|B|N|||Latin acetum 'vinegar' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+metropole	noun	=
+triumvirate	noun	=
+clapper	noun	=
+trilateral	adj	=
+paraprofessional	noun	=
+radicalization	noun	=
+stapes	noun	=
+literati	noun	=
+axon	noun	=
+curmudgeon	noun	=
+constructionist	noun	=
+ovum	noun	=
+polyunsaturated	adj	=
+speeder	noun	=
+climatologist	noun	=
+creatinine	noun	=
+bruiser	noun	=
+utilitarianism	noun	=
+stanch	verb	=
+epinephrine	noun	epi-|epi|P||||Greek epi- 'upon' ; -nephr-|nephr|B|N|||Greek nephros 'kidney' ; -ine|ine|S||||Greek -ine 'chemical substance'
+gibbous	adj	=
+simian	adj	=
+foreskin	noun	=
+manicurist	noun	=
+officious	adj	=
+triplicate	adj	tri-|tri|P||||Latin tri- 'three' ; -plic-|plic|B|V|||Latin plicare 'to fold' ; -ate|ate|S||||Latin -atus 'verb-forming'
+mastic	noun	=
+camomile	noun	=
+iridium	noun	irid-|irid|B|N|||Greek iris 'rainbow' ; -ium|ium|S||||Latin -ium 'chemical element'
+hypnotist	noun	=
+systematize	verb	=
+triangulate	verb	=
+diuretic	noun	diuret-|diuret|B|N|||Greek diuresis 'urination' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+mantis	noun	=
+omnipotence	noun	=
+multipolar	adj	=
+cybernetic	adj	=
+androgen	noun	andro-|andro|B|N|||Greek aner 'man' ; -gen|gen|B|N|||Greek genos 'birth, kind'
+docudrama	noun	=
+funereal	adj	funer-|funer|B|N|||Latin funus 'funeral' ; -eal|eal|S||||Latin -alis 'relating to'
+perforate	verb	=
+joyless	adj	=
+sepsis	noun	=
+dilettante	noun	=
+metonymic	adj	met-|met|P||||Greek meta 'other' ; -onym-|onym|B|N|||Greek onoma 'name' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+capitation	noun	capit-|capit|B|N||caput-|Latin caput 'head' ; -ation|ation|S||||Latin -atio, 'act, state'
+consumptive	adj	con-|con|P||||Latin com- 'together' ; -sumpt-|sumpt|B|V||-sum|Latin sumere 'to take' ; -ive|ive|S||||Latin -ivus 'tending to'
+ejido	noun	=
+paramour	noun	=
+focaccia	noun	=
+galilee	noun	=
+reticle	noun	=
+hydrologist	noun	=
+reducer	noun	=
+coupler	noun	=
+coven	noun	=
+ethyl	noun	=
+prude	noun	=
+countermand	verb	counter-|counter|P||||Latin contra 'against' ; -mand|mand|B|V|||Latin mandare 'to order'
+secularize	verb	=
+comity	noun	=
+crocus	noun	=
+logarithm	noun	log-|log|B|N|||Greek logos 'ratio' ; -arithm|arithm|B|N|||Greek arithmos 'number'
+intestate	adj	in-|in|P||||Latin in- 'not' ; -test-|test|B|V|||Latin testari 'to witness' ; -ate|ate|S||||Latin -atus 'having'
+circumnavigate	verb	circum-|circum|P||||Latin circum 'around' ; -navig-|navig|B|V|||Latin navigare 'to sail' ; -ate|ate|S||||Latin -atus 'verb-forming'
+sulfurous	adj	=
+abbess	noun	abb-|abb|B|N|||Latin abbas 'abbot' ; -ess|ess|S||||French -esse 'female'
+stanchion	noun	=
+catarrh	noun	=
+voluble	adj	=
+tracheotomy	noun	=
+improviser	noun	=
+crystallization	noun	=
+estimator	noun	=
+eschatology	noun	eschat-|eschat|B|Adj|||Greek eskhatos 'last' ; -ology|ology|B|N|||Greek logos 'study, word'
+farrier	noun	farr-|farr|B|N||ferr-|Latin ferrum 'iron' ; -ier|ier|S||||Latin -arius 'agent'
+venal	adj	ven-|ven|B|V|||Latin vendere 'to sell' ; -al|al|S||||Latin -alis 'relating to'
+gullet	noun	=
+nullification	noun	=
+apostasy	noun	apo-|apo|P||||Greek apo 'from' ; -stas-|stas|B|V|||Greek histemi 'to stand' ; -y|y|S||||Greek -ia 'state'
+chlorofluorocarbon	noun	=
+transfiguration	noun	=
+behaviourism	noun	=
+sophisticate	verb	=
+ignoble	adj	=
+habituate	verb	=
+atavistic	adj	=
+extender	noun	=
+lyceum	noun	=
+canna	noun	=
+myelin	noun	=
+acme	noun	=
+chlorination	noun	=
+acanthus	noun	=
+urethra	noun	=
+homoerotic	adj	=
+delphinium	noun	=
+nuptial	adj	nupt-|nupt|B|N|||Latin nuptiae 'wedding' ; -ial|ial|S||||Latin -alis 'relating to'
+centralism	noun	=
+centenarian	noun	=
+paroxysm	noun	=
+bioscience	noun	=
+continence	noun	=
+incognito	adj	in-|in|P||||Latin in- 'not' ; -cognit-|cognit|B|V|||Latin cognoscere 'to know' ; -o|o|S||||Italian -o 'masculine'
+astrophotography	noun	=
+admixture	noun	=
+burg	noun	=
+persecutor	noun	=
+chicory	noun	=
+propulsive	adj	propuls-|propuls|B|V|||Latin propellere 'to drive' ; -ive|ive|S||||Latin -ivus 'tending to'
+inundation	noun	=
+monoculture	noun	=
+zodiacal	adj	=
+egoism	noun	=
+acer	noun	=
+chronometer	noun	chrono-|chrono|B|N|||Greek khronos 'time' ; -meter|meter|B|N|||Greek metron 'measure'
+lionize	verb	=
+recitative	noun	=
+calcareous	adj	calc-|calc|B|N||calx-|Latin calx 'lime' ; -areous|areous|S||||Latin -arius 'relating to'
+epistolary	adj	epistol-|epistol|B|N|||Greek epistole 'letter' ; -ary|ary|S||||Latin -arius 'relating to'
+canoeist	noun	=
+loquacious	adj	loqu-|loqu|B|V|||Latin loqui 'to speak' ; -acious|acious|S||||Latin -ax 'inclined to'
+branchial	adj	branchi-|branchi|B|N|||Greek brankhia 'gills' ; -al|al|S||||Latin -alis 'relating to'
+mortification	noun	=
+physic	noun	phys-|phys|B|N|||Greek physis 'nature' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+untrammeled	adj	=
+reverential	adj	=
+counterpane	noun	=
+preternatural	adj	=
+impactor	noun	=
+impudent	adj	im-|im|P||||Latin in- 'not' ; -pud-|pud|B|V|||Latin pudere 'to feel shame' ; -ent|ent|S||||Latin -ens 'being'
+teste	noun	=
+recessive	adj	=
+phenol	noun	=

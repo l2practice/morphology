@@ -1,0 +1,200 @@
+knitwork	noun	knit|knit|R|V ; work|work|R|N
+knobble	verb	knobble|knobble|R|V
+knobhead	noun	knob|knob|R|N ; head|head|R|N
+knobstick	noun	knob|knob|R|N ; stick|stick|R|N
+knop	noun	knop|knop|R|N
+knork	noun	knork|knork|R|N
+knotgrass	noun	knot|knot|R|N ; grass|grass|R|N
+knottiness	noun	knot|knott|R|N ; -y|i|S ; -ness|ness|S
+knotting	noun	knot|knott|R|N ; -ing|ing|S||-ing (N)
+knotweed	noun	knot|knot|R|N ; weed|weed|R|N
+knotwork	noun	knot|knot|R|N ; work|work|R|N
+knout	noun	knout|knout|R|N
+knowbot	noun	know|know|R|V ; bot|bot|R|N
+knowledgeability	noun	knowledge|knowledge|R|N ; -able|abil|S ; -ity|ity|S
+knowledgeableness	noun	knowledge|knowledge|R|N ; -able|able|S ; -ness|ness|S
+knucklebone	noun	knuckle|knuckle|R|N ; bone|bone|R|N
+knucklebones	noun	knuckle|knuckle|R|N ; bone|bone|R|N ; -s|s|I||-s (plural)
+knuckled	adj	knuckle|knuckl|R|N ; -ed|ed|S||-ed (adj)
+knur	noun	knur|knur|R|N
+knurl	noun	knurl|knurl|R|N
+knurly	adj	knur|knur|R|N ; -ly|ly|S||-ly (adj)
+ko	noun	ko|ko|R|N
+koa	noun	koa|koa|R|N
+kob	noun	kob|kob|R|N
+kobo	noun	kobo|kobo|R|N
+kobold	noun	kobold|kobold|R|N
+kobza	noun	kobza|kobza|R|N
+kochari	noun	kochari|kochari|R|N
+kodkod	noun	kodkod|kodkod|R|N
+koel	noun	koel|koel|R|N
+kofta	noun	kofta|kofta|R|N
+koine	noun	koine|koine|R|N
+kokoretsi	noun	kokoretsi|kokoretsi|R|N
+kokoshnik	noun	kokoshnik|kokoshnik|R|N
+kokuji	noun	kokuji|kokuji|R|N
+kokutai	noun	kokutai|kokutai|R|N
+kolinsky	noun	kolinsky|kolinsky|R|N
+koliva	noun	koliva|koliva|R|N
+kolkhoznik	noun	kolkhoznik|kolkhoznik|R|N
+kolo	noun	kolo|kolo|R|N
+kolovrat	noun	kolovrat|kolovrat|R|N
+komatsuna	noun	komatsuna|komatsuna|R|N
+komboskini	noun	komboskini|komboskini|R|N
+kombu	noun	kombu|kombu|R|N
+kombucha	noun	kombucha|kombucha|R|N
+komi	noun	komi|komi|R|N
+kompromat	noun	kompromat|kompromat|R|N
+konjac	noun	konjac|konjac|R|N
+kookaburra	noun	kookaburra|kookaburra|R|N
+kookie	noun	kookie|kookie|R|N
+kopek	noun	kopek|kopek|R|N
+koppa	noun	koppa|koppa|R|N
+kore	noun	kore|kore|R|N
+korfball	noun	korfball|korfball|R|N
+korovai	noun	korovai|korovai|R|N
+koruna	noun	koruna|koruna|R|N
+kosovorotka	noun	kosovorotka|kosovorotka|R|N
+kotatsu	noun	kotatsu|kotatsu|R|N
+koto	noun	koto|koto|R|N
+koumiss	noun	koumiss|koumiss|R|N
+kovil	noun	kovil|kovil|R|N
+kowari	noun	kowari|kowari|R|N
+kowhai	noun	kowhai|kowhai|R|N
+kowtowing	verb	kowtow|kowtow|R|V ; -ing|ing|I||-ing (v)
+kozachok	noun	kozachok|kozachok|R|N
+kraal	noun	kraal|kraal|R|N
+krai	noun	krai|krai|R|N
+kratom	noun	kratom|kratom|R|N
+kraut	noun	kraut|kraut|R|N
+krautrock	noun	kraut|kraut|R|N ; rock|rock|R|N
+kremlin	noun	kremlin|kremlin|R|N
+kreplach	noun	kreplach|kreplach|R|N
+kreuzer	noun	kreuzer|kreuzer|R|N
+kringle	noun	kringle|kringle|R|N
+kroepoek	noun	kroepoek|kroepoek|R|N
+kromesky	noun	kromesky|kromesky|R|N
+krona	noun	krona|krona|R|N
+kroo	noun	kroo|kroo|R|N
+kroon	noun	kroon|kroon|R|N
+krummholz	noun	krummholz|krummholz|R|N
+krummhorn	noun	krummhorn|krummhorn|R|N
+krupuk	noun	krupuk|krupuk|R|N
+kryptonite	noun	kryptonite|kryptonite|R|N
+kshatriya	noun	kshatriya|kshatriya|R|N
+kuai	noun	kuai|kuai|R|N
+kuduro	noun	kuduro|kuduro|R|N
+kukri	noun	kukri|kukri|R|N
+kulfi	noun	kulfi|kulfi|R|N
+kulich	noun	kulich|kulich|R|N
+kultur	noun	kultur|kultur|R|N
+kumara	noun	kumara|kumara|R|N
+kumari	noun	kumari|kumari|R|N
+kummel	noun	kummel|kummel|R|N
+kuna	noun	kuna|kuna|R|N
+kunai	noun	kunai|kunai|R|N
+kurash	noun	kurash|kurash|R|N
+kurchatovium	noun	kurchatovium|kurchatovium|R|N
+kurdyuk	noun	kurdyuk|kurdyuk|R|N
+kurgan	noun	kurgan|kurgan|R|N
+kuri	noun	kuri|kuri|R|N
+kuru	noun	kuru|kuru|R|N
+kurultai	noun	kurultai|kurultai|R|N
+kuspuk	noun	kuspuk|kuspuk|R|N
+kutum	noun	kutum|kutum|R|N
+kvass	noun	kvass|kvass|R|N
+kvetch	verb	kvetch|kvetch|R|V
+kvetching	verb	kvetch|kvetch|R|V ; -ing|ing|I||-ing (v)
+kwashiorkor	noun	kwashiorkor|kwashiorkor|R|N
+kwela	noun	kwela|kwela|R|N
+kyanite	noun	kyanite|kyanite|R|N
+kyanization	noun	kyanize|kyaniz|R|V ; -ation|ation|S
+kyanize	verb	kyanize|kyanize|R|V
+kyat	noun	kyat|kyat|R|N
+kye	noun	kye|kye|R|N
+kylix	noun	kylix|kylix|R|N
+kyloe	noun	kyloe|kyloe|R|N
+kymogram	noun	kymogram|kymogram|R|N
+kymograph	noun	kymograph|kymograph|R|N
+kymographic	adj	kymograph|kymograph|R|N ; -ic|ic|S
+kyphos	noun	kyphos|kyphos|R|N
+kyphosis	noun	kyphosis|kyphosis|R|N
+kyphotic	adj	kyphosis|kyphot|R|N ; -ic|ic|S
+kyriarchy	noun	kyriarchy|kyriarchy|R|N
+kyrie	noun	kyrie|kyrie|R|N
+kyudo	noun	kyudo|kyudo|R|N
+la	noun	la|la|R|N
+labarum	noun	labarum|labarum|R|N
+labdanum	noun	labdanum|labdanum|R|N
+labefaction	noun	labefaction|labefaction|R|N
+labellum	noun	labellum|labellum|R|N
+labeo	noun	labeo|labeo|R|N
+labialization	noun	labialize|labializ|R|V ; -ation|ation|S
+labialize	verb	labial|labial|R|Adj ; -ize|ize|S
+labiaplasty	noun	labiaplasty|labiaplasty|R|N
+labiate	adj	labia|labi|R|N ; -ate|ate|S
+lability	noun	labile|labil|R|Adj ; -ity|ity|S
+labiodental	adj	labiodental|labiodental|R|Adj
+labionasal	adj	labionasal|labionasal|R|Adj
+labiovelar	adj	labiovelar|labiovelar|R|Adj
+labium	noun	labium|labium|R|N
+labneh	noun	labneh|labneh|R|N
+laboratorial	adj	laboratory|laboratori|R|N ; -al|al|S
+laboratorian	noun	laboratory|laboratori|R|N ; -an|an|S
+laboriousness	noun	laborious|laborious|R|Adj ; -ness|ness|S
+labourite	noun	labourite|labourite|R|N
+labret	noun	labret|labret|R|N
+labrid	noun	labrid|labrid|R|N
+labroid	adj	labroid|labroid|R|Adj
+labrys	noun	labrys|labrys|R|N
+labyrinthian	adj	labyrinth|labyrinth|R|N ; -ian|ian|S
+labyrinthic	adj	labyrinth|labyrinth|R|N ; -ic|ic|S
+labyrinthitis	noun	labyrinthitis|labyrinthitis|R|N
+laccolith	noun	laccolith|laccolith|R|N
+laceless	adj	lace|lace|R|N ; -less|less|S
+lacelike	adj	lace|lace|R|N ; -like|like|S
+lacemaker	noun	lace|lace|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+lacerable	adj	lacerate|lacer|R|V ; -able|able|S
+lacertian	adj	lacertian|lacertian|R|Adj
+lacertilian	adj	lacertilian|lacertilian|R|Adj
+lachanophobia	noun	lachanophobia|lachanophobia|R|N
+laches	noun	laches|laches|R|N
+lachrymal	adj	lachrymal|lachrymal|R|Adj
+lachrymator	noun	lachrymator|lachrymator|R|N
+lachrymatory	adj	lachrymatory|lachrymatory|R|Adj
+lachrymose	adj	lachrymose|lachrymose|R|Adj
+laciniate	adj	laciniate|laciniate|R|Adj
+laciniation	noun	laciniation|laciniation|R|N
+lackadaisically	adv	lackadaisical|lackadaisical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+lackadaisicalness	noun	lackadaisical|lackadaisical|R|Adj ; -ness|ness|S
+lacker	noun	lacker|lacker|R|N
+lackland	noun	lack|lack|R|V ; land|land|R|N
+laconicum	noun	laconicum|laconicum|R|N
+laconism	noun	laconism|laconism|R|N
+laconize	verb	laconize|laconize|R|V
+lacquerer	noun	lacquer|lacquer|R|N ; -er|er|S||-er (N)
+lacquering	verb	lacquer|lacquer|R|V ; -ing|ing|I||-ing (v)
+lacquerware	noun	lacquer|lacquer|R|N ; ware|ware|R|N
+lacrimation	noun	lacrimate|lacrimat|R|V ; -ion|ion|S
+lactational	adj	lactation|lactation|R|N ; -al|al|S
+lacteal	adj	lacteal|lacteal|R|Adj
+lactescence	noun	lactescence|lactescence|R|N
+lactescent	adj	lactescent|lactescent|R|Adj
+lactiferous	adj	lactiferous|lactiferous|R|Adj
+lactiferousness	noun	lactiferous|lactiferous|R|Adj ; -ness|ness|S
+lactobacillus	noun	lactobacillus|lactobacillus|R|N
+lactoderm	noun	lactoderm|lactoderm|R|N
+lactogenic	adj	lactogenic|lactogenic|R|Adj
+lactoglobulin	noun	lactoglobulin|lactoglobulin|R|N
+lactometer	noun	lactometer|lactometer|R|N
+lactone	noun	lactone|lactone|R|N
+lacunal	adj	lacuna|lacun|R|N ; -al|al|S
+lacunar	adj	lacuna|lacun|R|N ; -ar|ar|S
+lacunarity	noun	lacunar|lacunar|R|Adj ; -ity|ity|S
+lacunose	adj	lacunose|lacunose|R|Adj
+lacunosity	noun	lacunose|lacunos|R|Adj ; -ity|ity|S
+laddish	adj	lad|ladd|R|N ; -ish|ish|S
+laddu	noun	laddu|laddu|R|N
+lade	verb	lade|lade|R|V
+ladies	noun	lady|lad|R|N ; -s|ies|I||-s (plural)
+ladino	noun	ladino|ladino|R|N

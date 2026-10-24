@@ -1,0 +1,150 @@
+causative	adj	caus-|caus|B|N|||Latin causa 'cause' ; -ative|ative|S||||Latin -ativus 'relating to'
+malcontent	noun	=
+suet	noun	=
+taupe	noun	=
+actionable	adj	=
+plier	noun	=
+stalactite	noun	stalact-|stalact|B|V|||Greek stalaktos 'dripping' ; -ite|ite|S||||Latin -ites 'belonging to'
+wrecker	noun	=
+modifier	noun	=
+flexor	noun	flex-|flex|B|V|||Latin flectere 'to bend' ; -or|or|S||||Latin -or 'agent'
+psoriasis	noun	psor-|psor|B|N|||Greek psora 'itch' ; -iasis|iasis|S||||Greek -iasis 'disease, condition'
+eros	noun	=
+notary	noun	=
+bedlam	noun	=
+albino	noun	alb-|alb|B|Adj|||Latin albus 'white' ; -ino|ino|S||||Latin -inus 'relating to'
+hexagon	noun	hexa-|hexa|P||||Greek hex 'six' ; -gon|gon|B|N|||Greek gonia 'angle'
+courtesan	noun	=
+stenosis	noun	sten-|sten|B|Adj|||Greek stenos 'narrow' ; -osis|osis|S||||Greek -osis 'condition, process'
+chanterelle	noun	=
+fissile	adj	=
+neuter	adj	=
+bandleader	noun	=
+bursar	noun	burs-|burs|B|N|||Latin bursa 'purse' ; -ar|ar|S||||Latin -arius 'relating to'
+primus	noun	=
+vellum	noun	=
+argumentation	noun	=
+leprechaun	noun	=
+toga	noun	=
+avocation	noun	=
+luxuriate	verb	luxuri-|luxuri|B|N|||Latin luxuria 'luxury, excess' ; -ate|ate|S||||Latin -atus 'verb-forming'
+chamois	noun	=
+satiric	adj	=
+hedonism	noun	hedon-|hedon|B|N|||Greek hedone 'pleasure' ; -ism|ism|S||||Greek -ismos 'belief, practice'
+acropolis	noun	acro-|acro|B|Adj|||Greek akros 'topmost, highest' ; -polis|polis|B|N|||Greek polis 'city'
+ostracism	noun	ostrac-|ostrac|B|N|||Greek ostrakon 'potsherd, shell' ; -ism|ism|S||||Greek -ismos 'act, practice'
+bennet	noun	=
+misogynist	noun	miso-|miso|B|V|||Greek misein 'to hate' ; -gyn-|gyn|B|N|||Greek gune 'woman' ; -ist|ist|S||||Greek -istes 'agent, believer'
+watchtower	noun	=
+simulacrum	noun	simul-|simul|B|Adj|||Latin similis 'like, similar' ; -crum|acrum|S||||Latin -culum 'instrument noun'
+historicity	noun	=
+flaccid	adj	=
+irreverence	noun	=
+existent	adj	=
+perinatal	adj	=
+esplanade	noun	=
+canonization	noun	=
+inchoate	adj	=
+ravish	verb	=
+tectonics	noun	=
+aorta	noun	=
+semiotics	noun	=
+littoral	adj	=
+talus	noun	=
+phial	noun	=
+agronomist	noun	=
+nonplussed	adj	=
+trachea	noun	=
+argon	noun	arg-|arg|B|Adj|||Greek argos 'idle, lazy' ; -on|on|S||||Greek -on 'noble gas suffix'
+pathologic	adj	=
+sublimate	verb	sublim-|sublim|B|V|||Latin sublimare 'to raise, elevate' ; -ate|ate|S||||Latin -atus 'verb-forming'
+nimbus	noun	=
+evangelize	verb	=
+gunnery	noun	=
+ingenue	noun	=
+lumpectomy	noun	=
+uneconomical	adj	=
+refractory	adj	refract-|refract|B|V|||Latin refringere 'to break up' ; -ory|ory|S||||Latin -orius 'relating to'
+hygienist	noun	=
+promissory	adj	=
+paganism	noun	pagan-|pagan|B|N|||Latin paganus 'peasant, rustic' ; -ism|ism|S||||Latin -ismus 'belief, practice'
+podiatrist	noun	=
+septum	noun	=
+sashay	verb	=
+erotica	noun	=
+pastrami	noun	=
+undulate	verb	undul-|undul|B|N|||Latin undula 'small wave' ; -ate|ate|S||||Latin -atus 'verb-forming'
+gluttony	noun	=
+addendum	noun	add|add|R|V ; -endum|endum|S||||Latin -endum 'gerundive suffix'
+unionization	noun	=
+tribalism	noun	=
+carpal	adj	=
+liminal	adj	limin-|limin|B|N|||Latin limen 'threshold, doorway' ; -al|al|S||||Latin -alis 'relating to'
+chipmaker	noun	=
+impatiens	noun	=
+ventriloquist	noun	=
+mien	noun	=
+alluvial	adj	=
+levant	noun	=
+equivocation	noun	=
+decider	noun	=
+amortization	noun	=
+aviary	noun	avi-|avi|B|N|||Latin avis 'bird' ; -ary|ary|S||||Latin -arium 'place for'
+epigraph	noun	epi-|epi|P||||Greek epi 'on, upon' ; -graph|graph|B|V|||Greek graphein 'to write, draw'
+allergist	noun	=
+gerbil	noun	=
+parabolic	adj	=
+alumni	noun	=
+cantor	noun	cant-|cant|B|V|||Latin canere 'to sing' ; -or|or|S||||Latin -tor 'agent'
+satyr	noun	=
+ionization	noun	=
+crofter	noun	=
+chlamydia	noun	=
+transmutation	noun	=
+blaster	noun	=
+pedagogic	adj	=
+aflame	adv	=
+sarcoma	noun	sarc-|sarc|B|N|||Greek sarx 'flesh' ; -oma|oma|S||||Greek -oma 'process, tumor'
+titular	adj	titul-|titul|B|N|||Latin titulus 'title' ; -ar|ar|S||||Latin -aris 'relating to'
+oligarch	noun	olig-|olig|B|Adj|||Greek oligos 'few' ; -arch|arch|B|N|||Greek arkhos 'ruler, leader'
+dignify	verb	dign-|dign|B|Adj|||Latin dignus 'worthy' ; -ify|ify|S||||Latin -ficare 'to make'
+gruel	noun	=
+marketeer	noun	=
+portraitist	noun	=
+fornication	noun	fornic-|fornic|B|N|||Latin fornix 'brothel, vault' ; -ation|ation|S||||Latin -atio 'act, process'
+etude	noun	=
+exploiter	noun	=
+metabolite	noun	=
+pestle	noun	=
+circumcise	verb	circum-|circum|P||||Latin circum 'around' ; -cise|cise|B|V|||Latin caedere 'to cut'
+bertram	noun	=
+procurator	noun	=
+perquisite	noun	=
+psychotropic	adj	=
+humus	noun	=
+asceticism	noun	=
+cardamom	noun	=
+varmint	noun	=
+dualistic	adj	=
+lingua	noun	=
+imputation	noun	=
+sublimation	noun	=
+luminescent	adj	lumin-|lumin|B|N|||Latin lumen 'light' ; -escent|escent|S||||Latin -escens 'becoming'
+ecumenism	noun	=
+humanoid	noun	=
+monogram	noun	=
+primitivism	noun	=
+stamen	noun	=
+virulence	noun	=
+jugular	adj	jugul-|jugul|B|N|||Latin jugulum 'throat, collarbone' ; -ar|ar|S||||Latin -aris 'relating to'
+evidential	adj	=
+mica	noun	=
+phallus	noun	=
+suture	noun	sut-|sut|B|V|||Latin suere 'to sew, join' ; -ure|ure|S||||Latin -tura 'act, process'
+exoskeleton	noun	=
+hermetic	adj	=
+garrulous	adj	=
+sanatorium	noun	san-|san|B|V|||Latin sanare 'to cure, heal' ; -atorium|atorium|S||||Latin -torium 'place for'
+psalter	noun	=
+stupefy	verb	=
+creosote	noun	creo-|creo|B|N|||Greek kreas 'flesh' ; -sote|sote|B|N|||Greek soter 'savior, preserver'

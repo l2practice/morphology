@@ -1,0 +1,150 @@
+desperate	adj	=
+continuous	adj	=
+horror	noun	=
+repair	verb	=
+evolution	noun	e-|e|P||||Latin ex- 'out' ; -vol-|vol|B|V|||Latin volvere 'to roll' ; -ution|ution|S||||Latin -tio 'act, process'
+infant	noun	=
+vulnerable	adj	vulner-|vulner|B|V|||Latin vulnerare 'to wound' ; -able|able|S||||Latin -abilis 'able to be'
+celebrity	noun	celebr-|celebr|B|V|||Latin celebrare 'to celebrate' ; -ity|ity|S||||Latin -itas 'state, quality'
+virtue	noun	=
+margin	noun	=
+stability	noun	stabil-|stabil|B|Adj|||Latin stabilis 'firm' ; -ity|ity|S||||Latin -itas 'state, quality'
+canal	noun	can-|can|B|N|||Latin canna 'reed' ; -al|al|S||||Latin -alis 'pertaining to'
+coin	noun	=
+fantasy	noun	phant-|fant|B|V|||Greek phainesthai 'to appear' ; -asy|asy|S||||Greek -asia 'state, quality'
+trousers	noun	=
+psychology	noun	psycho-|psycho|B|N|||Greek psukhe 'soul' ; -logy|logy|B|N|||Greek logos 'study, word'
+cattle	noun	=
+counselor	noun	=
+seize	noun	=
+evident	adj	e-|e|P||||Latin ex- 'out' ; -vid-|vid|B|V|||Latin videre 'to see' ; -ent|ent|S||||Latin -ens 'agent'
+divorce	noun	di-|di|P||||Latin dis- 'apart' ; -vorce|vorce|B|V||vert|Latin vertere 'to turn'
+grammar	noun	=
+athletic	adj	athlet-|athlet|B|N|||Greek athletes 'athlete' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+constraint	noun	con-|con|P||||Latin com- 'together' ; -straint|straint|B|V||string|Latin stringere 'to bind'
+prosecution	noun	pro-|pro|P||||Latin pro- 'onward' ; -secut-|secut|B|V|||Latin sequi 'to follow' ; -ion|ion|S||||Latin -tio 'act, process'
+mummy	noun	=
+celebration	noun	=
+soup	noun	=
+pile	noun	=
+publicity	noun	=
+alarm	noun	=
+carbon	noun	=
+nerve	noun	=
+consume	verb	con-|con|P||||Latin com- 'together' ; -sume|sume|B|V|||Latin sumere 'to take'
+galaxy	noun	=
+privilege	noun	=
+sophisticated	adj	=
+explosion	noun	ex-|ex|P||||Latin ex- 'out' ; -plos-|plos|B|V|||Latin plodere 'to clap' ; -ion|ion|S||||Latin -tio 'act, process'
+companion	noun	=
+incredible	adj	in-|in|P||||Latin in- 'not' ; -cred-|cred|B|V|||Latin credere 'to believe' ; -ible|ible|S||||Latin -ibilis 'able to be'
+injure	verb	=
+educate	verb	educ-|educ|B|V|||Latin educare 'to educate' ; -ate|ate|S||||Latin -atus 'past participle'
+allocate	verb	al-|al|P||||Latin ad- 'to' ; -loc-|loc|B|V|||Latin locare 'to place' ; -ate|ate|S||||Latin -atus 'past participle'
+rabbit	noun	=
+medieval	adj	=
+porch	noun	=
+uniform	adj	=
+scholarship	noun	=
+completion	noun	=
+lease	noun	=
+govern	verb	=
+equivalent	adj	equi-|equi|P||||Latin aequus 'equal' ; -val-|val|B|V|||Latin valere 'to be strong' ; -ent|ent|S||||Latin -ens 'agent'
+scandal	noun	=
+impress	verb	=
+dividend	noun	=
+rival	noun	riv-|riv|B|N|||Latin rivus 'stream' ; -al|al|S||||Latin -alis 'pertaining to'
+charter	noun	=
+trick	noun	=
+organic	adj	=
+tent	noun	=
+specimen	noun	speci-|speci|B|V|||Latin specere 'to look' ; -men|men|S||||Latin -men 'result, means'
+closure	noun	=
+taxation	noun	=
+myth	noun	=
+format	noun	=
+laura	noun	=
+barrel	noun	=
+linguistic	adj	=
+sympathy	noun	sym-|sym|P||||Greek syn- 'together' ; -path-|path|B|N|||Greek pathos 'feeling' ; -y|y|S||||Greek -eia 'state'
+controversial	adj	=
+strict	adj	=
+ease	noun	=
+collapse	verb	col-|col|P||||Latin com- 'together' ; -lapse|lapse|B|V|||Latin labi 'to fall'
+narrative	noun	narr-|narr|B|V|||Latin narrare 'to tell' ; -ative|ative|S||||Latin -ativus 'tending to'
+photographer	noun	photo-|photo|B|N|||Greek phos 'light' ; -graph-|graph|B|V|||Greek graphein 'to write' ; -er|er|S
+helicopter	noun	helico-|helico|B|N|||Greek helix 'spiral' ; -pter|pter|B|N|||Greek pteron 'wing'
+petrol	noun	petr-|petr|B|N|||Greek petra 'rock' ; -ol|ol|B|N|||Greek elaion 'oil'
+modest	adj	=
+anticipate	verb	ante-|anti|P||||Latin ante- 'before' ; -cip-|cip|B|V|||Latin capere 'to take' ; -ate|ate|S||||Latin -atus 'past participle'
+explode	verb	ex-|ex|P||||Latin ex- 'out' ; -plode|plode|B|V|||Latin plodere 'to clap'
+attraction	noun	=
+frequent	adj	=
+curious	adj	curi-|curi|B|N|||Latin cura 'care' ; -ous|ous|S||||Latin -osus 'full of'
+horizon	noun	=
+prompt	adj	=
+suspend	verb	sus-|sus|P||||Latin sub- 'under' ; -pend|pend|B|V|||Latin pendere 'to hang'
+flavor	noun	=
+cholesterol	noun	=
+eager	adj	=
+commissioner	noun	=
+junction	noun	junc-|junc|B|V|||Latin iungere 'to join' ; -tion|tion|S||||Latin -tio 'act, process'
+flexible	adj	=
+compose	verb	=
+conversion	noun	=
+imperial	adj	imper-|imper|B|N|||Latin imperium 'empire' ; -ial|ial|S||||Latin -alis 'pertaining to'
+collective	adj	col-|col|P||||Latin com- 'together' ; -lect-|lect|B|V|||Latin legere 'to gather' ; -ive|ive|S||||Latin -ivus 'tending to'
+auto	noun	=
+romantic	adj	=
+disc	noun	=
+terrace	noun	=
+discount	noun	=
+resignation	noun	=
+assert	verb	as-|as|P||||Latin ad- 'to' ; -sert|sert|B|V|||Latin serere 'to join'
+medication	noun	medic-|medic|B|V|||Latin medicari 'to heal' ; -ation|ation|S||||Latin -atio 'act, process'
+innovation	noun	=
+cabin	noun	=
+particle	noun	part|part|R|N ; -icle|icle|S||||Latin -cula 'small'
+remedy	noun	re-|re|P||||Latin re- 'again' ; -med-|med|B|V|||Latin mederi 'to heal' ; -y|y|S||||Latin -ium 'result, state'
+applicant	noun	applic-|applic|B|V|||Latin applicare 'to apply' ; -ant|ant|S||||Latin -ans 'agent'
+versus	prep	=
+emperor	noun	emper-|emper|B|V|||Latin imperare 'to command' ; -or|or|S||||Latin -or 'agent'
+gulf	noun	=
+chef	noun	=
+discrimination	noun	=
+offensive	adj	=
+integration	noun	=
+vendor	noun	vend-|vend|B|V|||Latin vendere 'to sell' ; -or|or|S||||Latin -or 'agent'
+audit	noun	aud-|aud|B|V|||Latin audire 'to hear' ; -it|it|S||||Latin -itus 'past participle'
+heritage	noun	=
+reverse	verb	re-|re|P||||Latin re- 'back' ; -verse|verse|B|V|||Latin vertere 'to turn'
+invitation	noun	=
+generous	adj	gener-|gener|B|N|||Latin genus 'race, stock' ; -ous|ous|S||||Latin -osus 'full of'
+excuse	verb	ex-|ex|P||||Latin ex- 'out' ; -cuse|cuse|B|N|||Latin causa 'cause'
+cancel	verb	=
+automatic	adj	=
+ambition	noun	ambi-|amb|P||||Latin ambi- 'around' ; -ition|ition|S||||Latin -itio 'act, going'
+legacy	noun	leg-|leg|B|V|||Latin legare 'to bequeath' ; -acy|acy|S||||Latin -acia 'state'
+electrical	adj	=
+battery	noun	=
+logic	noun	log-|log|B|N|||Greek logos 'word, reason' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+inspection	noun	in-|in|P||||Latin in- 'into' ; -spect-|spect|B|V|||Latin specere 'to look' ; -ion|ion|S||||Latin -tio 'act, process'
+flame	noun	=
+legitimate	adj	legitim-|legitim|B|Adj|||Latin legitimus 'lawful' ; -ate|ate|S||||Latin -atus 'past participle'
+gross	adj	=
+depict	verb	de-|de|P||||Latin de- 'down, from' ; -pict|pict|B|V|||Latin pingere 'to paint'
+rubbish	noun	=
+calculation	noun	=
+instructor	noun	=
+valid	adj	val-|val|B|V|||Latin valere 'to be strong' ; -id|id|S||||Latin -idus 'having quality'
+mineral	noun	miner-|miner|B|N|||Latin minera 'ore' ; -al|al|S||||Latin -alis 'pertaining to'
+fibre	noun	=
+comedy	noun	=
+suspicion	noun	sus-|su|P||||Latin sub- 'up to' ; -spic-|spic|B|V||spec|Latin specere 'to look' ; -ion|ion|S||||Latin -tio 'act, process'
+sanction	noun	sanct-|sanct|B|V|||Latin sancire 'to make sacred' ; -ion|ion|S||||Latin -tio 'act, process'
+humour	noun	hum-|hum|B|V|||Latin humere 'to be moist' ; -our|our|S||||Latin -or 'state, quality'
+habitat	noun	=
+grain	noun	=
+brush	noun	=
+condemn	verb	con-|con|P||||Latin com- 'together' ; -demn|demn|B|V|||Latin damnare 'to condemn'
+devote	verb	de-|de|P||||Latin de- 'down, from' ; -vote|vote|B|V|||Latin vovere 'to vow'

@@ -1,0 +1,200 @@
+soldo	noun	soldo|soldo|R|N
+solecistic	adj	solecist|solecist|R|N ; -ic|ic|S
+soled	adj	sole|sol|R|N ; -ed|ed|S||-ed (adj)
+solemnization	noun	solemnize|solemniz|R|V ; -ation|ation|S
+solemnizer	noun	solemnize|solemniz|R|V ; -er|er|S||-er (N)
+solemnness	noun	solemn|solemn|R|Adj ; -ness|ness|S
+solenette	noun	solenette|solenette|R|N
+solenodon	noun	solenodon|solenodon|R|N
+solenoidal	adj	solenoid|solenoid|R|N ; -al|al|S
+solfatara	noun	solfatara|solfatara|R|N
+solfeggio	noun	solfeggio|solfeggio|R|N
+solferino	noun	solferino|solferino|R|N
+solicitant	noun	solicit|solicit|R|V ; -ant|ant|S
+soliciting	verb	solicit|solicit|R|V ; -ing|ing|I||-ing (v)
+solicitorship	noun	solicitor|solicitor|R|N ; -ship|ship|S
+solicitousness	noun	solicitous|solicitous|R|Adj ; -ness|ness|S
+solidarism	noun	solidarism|solidarism|R|N
+solidarist	noun	solidarist|solidarist|R|N
+solidarize	verb	solidary|solidari|R|Adj ; -ize|ze|S
+solidary	adj	solidary|solidary|R|Adj
+solidifiable	adj	solidify|solidifi|R|V ; -able|able|S
+solidifying	verb	solidify|solidify|R|V ; -ing|ing|I||-ing (v)
+solidungulate	noun	solid|solid|R|Adj ; ungulate|ungulate|R|N
+solifidian	noun	solifidian|solifidian|R|N
+solifluction	noun	solifluction|solifluction|R|N
+soliloquise	verb	soliloquy|soliloqui|R|N ; -ise|se|S
+soliloquist	noun	soliloquy|soliloqui|R|N ; -ist|st|S
+soliloquize	verb	soliloquy|soliloqui|R|N ; -ize|ze|S
+soliloquizing	verb	soliloquize|soliloquiz|R|V ; -ing|ing|I||-ing (v)
+solipsist	noun	solipsist|solipsist|R|N
+solitarily	adv	solitary|solitari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+solitariness	noun	solitary|solitari|R|Adj ; -ness|ness|S
+soliton	noun	soliton|soliton|R|N
+solonchak	noun	solonchak|solonchak|R|N
+solstitial	adj	solstitial|solstitial|R|Adj
+solubilization	noun	solubilize|solubiliz|R|V ; -ation|ation|S
+solubilize	verb	soluble|solubil|R|Adj ; -ize|ize|S
+solus	adj	solus|solus|R|Adj
+solutionist	noun	solution|solution|R|N ; -ist|ist|S
+solvability	noun	solvable|solvabil|R|Adj ; -ity|ity|S
+solvate	verb	solvate|solvate|R|V
+solvation	noun	solvate|solvat|R|V ; -ion|ion|S
+solventless	adj	solvent|solvent|R|Adj ; -less|less|S
+solvolysis	noun	solvolysis|solvolysis|R|N
+solvus	noun	solvus|solvus|R|N
+solyanka	noun	solyanka|solyanka|R|N
+som	noun	som|som|R|N
+somatically	adv	somatic|somatic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+somatoform	adj	somatoform|somatoform|R|Adj
+somatologic	adj	somatology|somatolog|R|N ; -ic|ic|S
+somatology	noun	somatology|somatology|R|N
+somatome	noun	somatome|somatome|R|N
+somatoplasm	noun	somatoplasm|somatoplasm|R|N
+somatopleure	noun	somatopleure|somatopleure|R|N
+somatotropic	adj	somatotropic|somatotropic|R|Adj
+somatotype	noun	somatotype|somatotype|R|N
+sombrous	adj	sombre|sombr|R|Adj ; -ous|ous|S
+somersaulting	verb	somersault|somersault|R|V ; -ing|ing|I||-ing (v)
+somethingth	noun	something|something|R|N ; -th|th|S
+someway	adv	some|some|R|Adj ; way|way|R|N
+somewhen	adv	some|some|R|Adj ; when|when|R|Adv
+somital	adj	somite|somit|R|N ; -al|al|S
+somite	noun	somite|somite|R|N
+somitic	adj	somite|somit|R|N ; -ic|ic|S
+somnambulant	adj	somnambulant|somnambulant|R|Adj
+somnambulate	verb	somnambulate|somnambulate|R|V
+somnambulism	noun	somnambulism|somnambulism|R|N
+somnambulist	noun	somnambulist|somnambulist|R|N
+somnambulistic	adj	somnambulist|somnambulist|R|N ; -ic|ic|S
+somniferous	adj	somniferous|somniferous|R|Adj
+somnific	adj	somnific|somnific|R|Adj
+somniloquence	noun	somniloquence|somniloquence|R|N
+somniloquism	noun	somniloquism|somniloquism|R|N
+somniloquist	noun	somniloquist|somniloquist|R|N
+somniloquous	adj	somniloquous|somniloquous|R|Adj
+somniloquy	noun	somniloquy|somniloquy|R|N
+somnolency	noun	somnolent|somnol|R|Adj ; -ency|ency|S
+somnolently	adv	somnolent|somnolent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+somnolism	noun	somnolism|somnolism|R|N
+somnophilia	noun	somnophilia|somnophilia|R|N
+somoni	noun	somoni|somoni|R|N
+sonance	noun	sonance|sonance|R|N
+sonancy	noun	sonancy|sonancy|R|N
+sonant	noun	sonant|sonant|R|N
+sonatina	noun	sonatina|sonatina|R|N
+sonde	noun	sonde|sonde|R|N
+songbun	noun	songbun|songbun|R|N
+songful	adj	song|song|R|N ; -ful|ful|S
+songless	adj	song|song|R|N ; -less|less|S
+songsmith	noun	song|song|R|N ; smith|smith|R|N
+songthaew	noun	songthaew|songthaew|R|N
+soniferous	adj	soniferous|soniferous|R|Adj
+sonless	adj	son|son|R|N ; -less|less|S
+sonly	adj	son|son|R|N ; -ly|ly|S||-ly (adj)
+sonneteer	noun	sonnet|sonnet|R|N ; -eer|eer|S
+sonobuoy	noun	sonobuoy|sonobuoy|R|N
+sonoluminescence	noun	sonoluminescence|sonoluminescence|R|N
+sonometer	noun	sonometer|sonometer|R|N
+sonomicrometry	noun	sonomicrometry|sonomicrometry|R|N
+sonorant	noun	sonorant|sonorant|R|N
+sonorific	adj	sonorific|sonorific|R|Adj
+sonorousness	noun	sonorous|sonorous|R|Adj ; -ness|ness|S
+sonship	noun	son|son|R|N ; -ship|ship|S
+sook	noun	sook|sook|R|N
+sool	verb	sool|sool|R|V
+soondae	noun	soondae|soondae|R|N
+sooted	adj	soot|soot|R|N ; -ed|ed|S||-ed (adj)
+sooterkin	noun	sooterkin|sooterkin|R|N
+soothsay	verb	sooth|sooth|R|N ; say|say|R|V
+soothsaying	verb	sooth|sooth|R|N ; say|say|R|V ; -ing|ing|I||-ing (v)
+sootily	adv	sooty|sooti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sootiness	noun	sooty|sooti|R|Adj ; -ness|ness|S
+sootless	adj	soot|soot|R|N ; -less|less|S
+sophistic	adj	sophist|sophist|R|N ; -ic|ic|S
+sophistical	adj	sophistic|sophistic|R|Adj ; -al|al|S
+sophistically	adv	sophistical|sophistical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sophisticatedly	adv	sophisticated|sophisticated|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sophocracy	noun	sophocracy|sophocracy|R|N
+sophora	noun	sophora|sophora|R|N
+sophrology	noun	sophrology|sophrology|R|N
+sopor	noun	sopor|sopor|R|N
+soporifically	adv	soporific|soporific|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+soppily	adv	soppy|soppi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+soppiness	noun	soppy|soppi|R|Adj ; -ness|ness|S
+sopranist	noun	soprano|sopran|R|N ; -ist|ist|S
+sora	noun	sora|sora|R|N
+sorb	verb	sorb|sorb|R|V
+sorbate	noun	sorb|sorb|R|V ; -ate|ate|S
+sorbefacient	adj	sorbefacient|sorbefacient|R|Adj
+sorbent	noun	sorb|sorb|R|V ; -ent|ent|S
+sorbic	adj	sorb|sorb|R|V ; -ic|ic|S
+sordidly	adv	sordid|sordid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sordidness	noun	sordid|sordid|R|Adj ; -ness|ness|S
+sordine	noun	sordine|sordine|R|N
+sordino	noun	sordino|sordino|R|N
+soredial	adj	soredium|soredi|R|N ; -al|al|S
+soredium	noun	soredium|soredium|R|N
+sorehead	noun	sore|sore|R|Adj ; head|head|R|N
+sorel	noun	sorel|sorel|R|N
+sorgo	noun	sorgo|sorgo|R|N
+soricine	adj	soricine|soricine|R|Adj
+sorites	noun	sorites|sorites|R|N
+soritical	adj	sorites|sorit|R|N ; -ical|ical|S
+sorn	verb	sorn|sorn|R|V
+sorner	noun	sorn|sorn|R|V ; -er|er|S||-er (N)
+sororal	adj	sororal|sororal|R|Adj
+sororate	noun	sororate|sororate|R|N
+sororicide	noun	sororicide|sororicide|R|N
+sorosis	noun	sorosis|sorosis|R|N
+sorption	noun	sorb|sorp|R|V ; -tion|tion|S
+sorrily	adv	sorry|sorri|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sorriness	noun	sorry|sorri|R|Adj ; -ness|ness|S
+sorrowed	verb	sorrow|sorrow|R|V ; -ed|ed|I||-ed (v2)
+sorrower	noun	sorrow|sorrow|R|V ; -er|er|S||-er (N)
+sorrowfulness	noun	sorrowful|sorrowful|R|Adj ; -ness|ness|S
+sortable	adj	sort|sort|R|V ; -able|able|S
+sortilege	noun	sortilege|sortilege|R|N
+sortition	noun	sort|sort|R|V ; -ition|ition|S
+sortkey	noun	sort|sort|R|V ; key|key|R|N
+sorus	noun	sorus|sorus|R|N
+sos	noun	sos|sos|R|N
+soteriologic	adj	soteriology|soteriolog|R|N ; -ic|ic|S
+soteriologically	adv	soteriological|soteriological|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sottish	adj	sot|sott|R|N ; -ish|ish|S
+sottishness	noun	sottish|sottish|R|Adj ; -ness|ness|S
+soubrette	noun	soubrette|soubrette|R|N
+souchong	noun	souchong|souchong|R|N
+soughing	verb	sough|sough|R|V ; -ing|ing|I||-ing (v)
+soullessly	adv	soulless|soulless|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+soullessness	noun	soulless|soulless|R|Adj ; -ness|ness|S
+soundfont	noun	sound|sound|R|N ; font|font|R|N
+soundlessness	noun	soundless|soundless|R|Adj ; -ness|ness|S
+souped	verb	soup|soup|R|V ; -ed|ed|I||-ed (v2)
+souping	verb	soup|soup|R|V ; -ing|ing|I||-ing (v)
+soupspoon	noun	soup|soup|R|N ; spoon|spoon|R|N
+souq	noun	souq|souq|R|N
+sourdine	noun	sourdine|sourdine|R|N
+sourish	adj	sour|sour|R|Adj ; -ish|ish|S
+soursop	noun	sour|sour|R|Adj ; sop|sop|R|N
+soused	verb	souse|sous|R|V ; -ed|ed|I||-ed (v2)
+sousing	verb	souse|sous|R|V ; -ing|ing|I||-ing (v)
+soutache	noun	soutache|soutache|R|N
+soutane	noun	soutane|soutane|R|N
+souteneur	noun	souteneur|souteneur|R|N
+souter	noun	souter|souter|R|N
+souterrain	noun	souterrain|souterrain|R|N
+southeastwards	adv	southeast|southeast|R|Adv ; -ward|wards|S
+souther	noun	souther|souther|R|N
+southernize	verb	southern|southern|R|Adj ; -ize|ize|S
+southernwood	noun	southern|southern|R|Adj ; wood|wood|R|N
+southing	noun	south|south|R|N ; -ing|ing|S||-ing (N)
+southron	noun	southron|southron|R|N
+southwardly	adv	southward|southward|R|Adv ; -ly|ly|I|Adv|-ly (adv)
+southwester	noun	southwest|southwest|R|N ; -er|er|S||-er (N)
+southwestward	adv	southwest|southwest|R|N ; -ward|ward|S
+souvlaki	noun	souvlaki|souvlaki|R|N
+sovereignism	noun	sovereign|sovereign|R|N ; -ism|ism|S
+sovereigntist	noun	sovereignty|sovereignt|R|N ; -ist|ist|S
+soviet	noun	soviet|soviet|R|N
+sovkhoz	noun	sovkhoz|sovkhoz|R|N

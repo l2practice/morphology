@@ -1,0 +1,200 @@
+flameless	adj	flame|flame|R|N ; -less|less|S
+flamen	noun	flamen|flamen|R|N
+flamethrower	noun	flame|flame|R|N ; throw|throw|R|V ; -er|er|S||-er (N)
+flammulated	adj	flammule|flammul|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+flamy	adj	flame|flam|R|N ; -y|y|S
+flaneur	noun	flaneur|flaneur|R|N
+flangeless	adj	flange|flange|R|N ; -less|less|S
+flanger	noun	flange|flang|R|N ; -er|er|S||-er (N)
+flanked	verb	flank|flank|R|V ; -ed|ed|I||-ed (v2)
+flannelled	verb	flannel|flannell|R|N ; -ed|ed|I||-ed (v2)
+flannels	noun	flannel|flannel|R|N ; -s|s|I||-s (plural)
+flapdoodle	noun	flapdoodle|flapdoodle|R|N
+flapped	verb	flap|flapp|R|V ; -ed|ed|I||-ed (v2)
+flapperdom	noun	flap|flapp|R|V ; -er|er|S||-er (N) ; -dom|dom|S
+flares	noun	flare|flare|R|N ; -s|s|I||-s (plural)
+flashgun	noun	flash|flash|R|V ; gun|gun|R|N
+flashily	adv	flash|flash|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+flashlamp	noun	flash|flash|R|V ; lamp|lamp|R|N
+flashman	noun	flash|flash|R|V ; man|man|R|N
+flashover	noun	flash|flash|R|V ; over|over|R|Adv
+flasket	noun	flasket|flasket|R|N
+flatback	noun	flat|flat|R|Adj ; back|back|R|N
+flatcar	noun	flat|flat|R|Adj ; car|car|R|N
+flatfoot	noun	flat|flat|R|Adj ; foot|foot|R|N
+flatling	adv	flat|flat|R|Adj ; -ling|ling|S
+flattener	noun	flat|flatt|R|Adj ; -en|en|S ; -er|er|S||-er (N)
+flattie	noun	flattie|flattie|R|N
+flatting	verb	flat|flatt|R|V ; -ing|ing|I||-ing (v)
+flatulate	verb	flatulate|flatulate|R|V
+flatulency	noun	flatulent|flatulen|R|Adj ; -cy|cy|S
+flatulist	noun	flatulist|flatulist|R|N
+flatus	noun	flatus|flatus|R|N
+flatwise	adv	flat|flat|R|Adj ; -wise|wise|S
+flaunch	noun	flaunch|flaunch|R|N
+flauntingly	adv	flaunt|flaunt|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+flaunty	adj	flaunt|flaunt|R|V ; -y|y|S
+flavin	noun	flavin|flavin|R|N
+flavon	noun	flavon|flavon|R|N
+flavorous	adj	flavor|flavor|R|N ; -ous|ous|S
+flavorsome	adj	flavor|flavor|R|N ; -some|some|S
+flavourless	adj	flavour|flavour|R|N ; -less|less|S
+flawlessness	noun	flaw|flaw|R|N ; -less|less|S ; -ness|ness|S
+flawy	adj	flaw|flaw|R|N ; -y|y|S
+flaxy	adj	flax|flax|R|N ; -y|y|S
+flayer	noun	flay|flay|R|V ; -er|er|S||-er (N)
+fleabane	noun	flea|flea|R|N ; bane|bane|R|N
+fleam	noun	fleam|fleam|R|N
+flechette	noun	flechette|flechette|R|N
+flecked	verb	fleck|fleck|R|V ; -ed|ed|I||-ed (v2)
+flecker	noun	fleck|fleck|R|V ; -er|er|S||-er (N)
+flecking	verb	fleck|fleck|R|V ; -ing|ing|I||-ing (v)
+fleckless	adj	fleck|fleck|R|N ; -less|less|S
+flecky	adj	fleck|fleck|R|N ; -y|y|S
+fledgeless	adj	fledge|fledge|R|V ; -less|less|S
+fledgy	adj	fledge|fledg|R|V ; -y|y|S
+fleeceable	adj	fleece|fleece|R|V ; -able|able|S
+fleeced	verb	fleece|fleec|R|V ; -ed|ed|I||-ed (v2)
+fleecer	noun	fleece|fleec|R|V ; -er|er|S||-er (N)
+fleecily	adv	fleece|fleec|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+fleer	verb	fleer|fleer|R|V
+fleetfooted	adj	fleet|fleet|R|Adj ; foot|foot|R|N ; -ed|ed|S||-ed (adj)
+fleetingness	noun	fleet|fleet|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+fleetness	noun	fleet|fleet|R|Adj ; -ness|ness|S
+flense	verb	flense|flense|R|V
+flerovium	noun	flerovium|flerovium|R|N
+fleshed	verb	flesh|flesh|R|V ; -ed|ed|I||-ed (v2)
+flesher	noun	flesh|flesh|R|V ; -er|er|S||-er (N)
+fleshings	noun	flesh|flesh|R|V ; -ing|ing|S||-ing (N) ; -s|s|I||-s (plural)
+fleshlight	noun	flesh|flesh|R|N ; light|light|R|N
+fleshmonger	noun	flesh|flesh|R|N ; monger|monger|R|N
+fletch	verb	fletch|fletch|R|V
+fletching	verb	fletch|fletch|R|V ; -ing|ing|I||-ing (v)
+fletton	noun	fletton|fletton|R|N
+fleuret	noun	fleuret|fleuret|R|N
+fleuron	noun	fleuron|fleuron|R|N
+flew	verb	fly|flew|R|V ; -ed||I||-ed (v2)
+flexed	verb	flex|flex|R|V ; -ed|ed|I||-ed (v2)
+flexibilization	noun	flex|flex|R|V ; -ible|ibil|S ; -ize|iz|S ; -ation|ation|S
+flexile	adj	flexile|flexile|R|Adj
+flexility	noun	flexile|flexil|R|Adj ; -ity|ity|S
+flexional	adj	flex|flex|R|V ; -ion|ion|S ; -al|al|S
+flexionless	adj	flex|flex|R|V ; -ion|ion|S ; -less|less|S
+flexitarian	noun	flexitarian|flexitarian|R|N
+flexographic	adj	flexography|flexograph|R|N ; -ic|ic|S
+flexography	noun	flexography|flexography|R|N
+flexuosity	noun	flexuous|flexuos|R|Adj ; -ity|ity|S
+flexuous	adj	flexuous|flexuous|R|Adj
+flibbertigibbet	noun	flibbertigibbet|flibbertigibbet|R|N
+flic	noun	flic|flic|R|N
+flicflac	noun	flicflac|flicflac|R|N
+flicking	verb	flick|flick|R|V ; -ing|ing|I||-ing (v)
+flies	noun	fly|fli|R|N ; -es|es|I||-s (plural)
+flightiness	noun	flight|flight|R|N ; -y|i|S ; -ness|ness|S
+flimflammer	noun	flimflam|flimflamm|R|V ; -er|er|S||-er (N)
+flimsily	adv	flimsy|flimsi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+flimsiness	noun	flimsy|flimsi|R|Adj ; -ness|ness|S
+flinching	verb	flinch|flinch|R|V ; -ing|ing|I||-ing (v)
+flinger	noun	fling|fling|R|V ; -er|er|S||-er (N)
+flintiness	noun	flint|flint|R|N ; -y|i|S ; -ness|ness|S
+flirtatiousness	noun	flirtatious|flirtatious|R|Adj ; -ness|ness|S
+flirtish	adj	flirt|flirt|R|V ; -ish|ish|S
+flitch	noun	flitch|flitch|R|N
+flitting	verb	flit|flitt|R|V ; -ing|ing|I||-ing (v)
+flivver	noun	flivver|flivver|R|N
+flix	noun	flix|flix|R|N
+flixweed	noun	flix|flix|R|N ; weed|weed|R|N
+floatability	noun	float|float|R|V ; -able|abil|S ; -ity|ity|S
+floatable	adj	float|float|R|V ; -able|able|S
+floccinaucinihilipilification	noun	floccinaucinihilipilification|floccinaucinihilipilification|R|N
+floccose	adj	floccose|floccose|R|Adj
+flocculate	verb	floccule|floccul|R|N ; -ate|ate|S
+flocculation	noun	floccule|floccul|R|N ; -ate|at|S ; -ion|ion|S
+flocculator	noun	flocculate|flocculat|R|V ; -or|or|S
+floccule	noun	floccule|floccule|R|N
+flocculence	noun	flocculence|flocculence|R|N
+flocculent	adj	floccule|floccul|R|N ; -ent|ent|S
+flocculose	adj	flocculose|flocculose|R|Adj
+flocculus	noun	flocculus|flocculus|R|N
+floccus	noun	floccus|floccus|R|N
+flocking	verb	flock|flock|R|V ; -ing|ing|I||-ing (v)
+floeberg	noun	floe|floe|R|N ; berg|berg|R|N
+flogger	noun	flog|flogg|R|V ; -er|er|S||-er (N)
+floodbank	noun	flood|flood|R|N ; bank|bank|R|N
+floodlighted	verb	flood|flood|R|N ; light|light|R|V ; -ed|ed|I||-ed (v2)
+floodometer	noun	floodometer|floodometer|R|N
+floodway	noun	flood|flood|R|N ; way|way|R|N
+floorage	noun	floor|floor|R|N ; -age|age|S
+floorball	noun	floor|floor|R|N ; ball|ball|R|N
+floorcloth	noun	floor|floor|R|N ; cloth|cloth|R|N
+floorer	noun	floor|floor|R|V ; -er|er|S||-er (N)
+floormat	noun	floor|floor|R|N ; mat|mat|R|N
+floorway	noun	floor|floor|R|N ; way|way|R|N
+floozie	noun	floozie|floozie|R|N
+flopover	noun	flop|flop|R|V ; over|over|R|Adv
+flopping	verb	flop|flopp|R|V ; -ing|ing|I||-ing (v)
+flops	noun	flop|flop|R|N ; -s|s|I||-s (plural)
+floptical	adj	floptical|floptical|R|Adj
+floreal	noun	floreal|floreal|R|N
+floreated	adj	floreate|floreat|R|Adj ; -ed|ed|S||-ed (adj)
+florentine	noun	florentine|florentine|R|N
+floriate	adj	floriate|floriate|R|Adj
+floriation	noun	floriation|floriation|R|N
+floricolous	adj	floricolous|floricolous|R|Adj
+floricultural	adj	floriculture|floricultur|R|N ; -al|al|S
+floriculture	noun	floriculture|floriculture|R|N
+floriculturist	noun	floriculture|floricultur|R|N ; -ist|ist|S
+floridity	noun	florid|florid|R|Adj ; -ity|ity|S
+floridness	noun	florid|florid|R|Adj ; -ness|ness|S
+floriferous	adj	floriferous|floriferous|R|Adj
+floriform	adj	floriform|floriform|R|Adj
+florigen	noun	florigen|florigen|R|N
+florigenic	adj	florigen|florigen|R|N ; -ic|ic|S
+florilegium	noun	florilegium|florilegium|R|N
+floriography	noun	floriography|floriography|R|N
+floristry	noun	florist|florist|R|N ; -ry|ry|S
+floruit	noun	floruit|floruit|R|N
+florula	noun	florula|florula|R|N
+flory	adj	flory|flory|R|Adj
+flossy	adj	floss|floss|R|N ; -y|y|S
+flotage	noun	flotage|flotage|R|N
+flouncing	verb	flounce|flounc|R|V ; -ing|ing|I||-ing (v)
+flourished	verb	flourish|flourish|R|V ; -ed|ed|I||-ed (v2)
+flowability	noun	flow|flow|R|V ; -able|abil|S ; -ity|ity|S
+flowage	noun	flow|flow|R|V ; -age|age|S
+flowcharting	verb	flow|flow|R|N ; chart|chart|R|N ; -ing|ing|I||-ing (v)
+flowerage	noun	flower|flower|R|N ; -age|age|S
+flowerer	noun	flower|flower|R|V ; -er|er|S||-er (N)
+floweret	noun	floweret|floweret|R|N
+floweriness	noun	flower|flower|R|N ; -y|i|S ; -ness|ness|S
+flowerlessness	noun	flower|flower|R|N ; -less|less|S ; -ness|ness|S
+flowerpecker	noun	flower|flower|R|N ; peck|peck|R|V ; -er|er|S||-er (N)
+flowingly	adv	flow|flow|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+flowsheet	noun	flow|flow|R|N ; sheet|sheet|R|N
+flox	noun	flox|flox|R|N
+flubber	noun	flubber|flubber|R|N
+flubdub	noun	flubdub|flubdub|R|N
+fluctuant	adj	fluctuant|fluctuant|R|Adj
+flueric	adj	flueric|flueric|R|Adj
+fluey	adj	flue|flue|R|N ; -y|y|S
+fluffer	noun	fluff|fluff|R|V ; -er|er|S||-er (N)
+fluffiness	noun	fluff|fluff|R|N ; -y|i|S ; -ness|ness|S
+fluffing	verb	fluff|fluff|R|V ; -ing|ing|I||-ing (v)
+flugelhorn	noun	flugelhorn|flugelhorn|R|N
+fluidal	adj	fluid|fluid|R|N ; -al|al|S
+fluidic	adj	fluid|fluid|R|N ; -ic|ic|S
+fluidification	noun	fluid|fluid|R|N ; -ify|ifi|S ; -ation|cation|S
+fluidify	verb	fluid|fluid|R|N ; -ify|ify|S
+fluidization	noun	fluid|fluid|R|N ; -ize|iz|S ; -ation|ation|S
+fluidize	verb	fluid|fluid|R|N ; -ize|ize|S
+fluidness	noun	fluid|fluid|R|Adj ; -ness|ness|S
+fluked	verb	fluke|fluk|R|V ; -ed|ed|I||-ed (v2)
+flukeworm	noun	fluke|fluke|R|N ; worm|worm|R|N
+flukily	adv	fluke|fluk|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+flukiness	noun	fluke|fluk|R|N ; -y|i|S ; -ness|ness|S
+flulike	adj	flu|flu|R|N ; like|like|R|Adj
+fluminous	adj	fluminous|fluminous|R|Adj
+flummery	noun	flummery|flummery|R|N
+flump	verb	flump|flump|R|V
+flunkeydom	noun	flunkey|flunkey|R|N ; -dom|dom|S
+flunky	noun	flunky|flunky|R|N

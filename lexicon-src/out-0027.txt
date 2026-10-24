@@ -1,0 +1,200 @@
+tilt	verb	tilt|tilt|R|V
+propaganda	noun	propaganda|propaganda|R|N
+rob	verb	rob|rob|R|V
+herbert	noun	herbert|herbert|R|N
+advocacy	noun	advocate|advoca|R|V ; -cy|cy|S
+biologist	noun	biology|biolog|R|N ; -ist|ist|S
+territorial	adj	territory|territori|R|N ; -al|al|S
+baron	noun	baron|baron|R|N
+antibiotic	noun	anti-|anti|P ; biotic|biotic|R|Adj
+prosperity	noun	prosper|prosper|R|V ; -ity|ity|S
+turner	noun	turn|turn|R|V ; -er|er|S||-er (N)
+inland	adj	in|in|R|Adv ; land|land|R|N
+exile	noun	exile|exile|R|N
+weep	verb	weep|weep|R|V
+implicit	adj	implicit|implicit|R|Adj
+architectural	adj	architecture|architectur|R|N ; -al|al|S
+prosecute	verb	prosecute|prosecute|R|V
+choir	noun	choir|choir|R|N
+glow	verb	glow|glow|R|V
+embody	verb	em-|em|P|||en- ; body|body|R|N
+precedent	noun	precedent|precedent|R|N
+unacceptable	adj	un-|un|P ; accept|accept|R|V ; -able|able|S
+integral	adj	integral|integral|R|Adj
+horizontal	adj	horizontal|horizontal|R|Adj
+cooper	noun	cooper|cooper|R|N
+fake	adj	fake|fake|R|Adj
+crab	noun	crab|crab|R|N
+viewpoint	noun	view|view|R|V ; point|point|R|N
+hydrogen	noun	hydrogen|hydrogen|R|N
+seventeenth	adj	seventeen|seventeen|R ; -th|th|S
+controller	noun	control|controll|R|V ; -er|er|S||-er (N)
+vinegar	noun	vinegar|vinegar|R|N
+boxing	noun	box|box|R|V ; -ing|ing|S||-ing (N)
+organizer	noun	organize|organiz|R|V ; -er|er|S||-er (N)
+inhibit	verb	inhibit|inhibit|R|V
+inability	noun	in-|in|P ; able|abil|R|Adj ; -ity|ity|S
+murderer	noun	murder|murder|R|V ; -er|er|S||-er (N)
+hopeful	adj	hope|hope|R|N ; -ful|ful|S
+mandatory	adj	mandate|mandat|R|V ; -ory|ory|S
+surveyor	noun	survey|survey|R|V ; -or|or|S
+adverse	adj	adverse|adverse|R|Adj
+dive	verb	dive|dive|R|V
+el	noun	el|el|R|N
+soda	noun	soda|soda|R|N
+bass	noun	bass|bass|R|N
+valve	noun	valve|valve|R|N
+shiny	adj	shine|shin|R|V ; -y|y|S
+memo	noun	memo|memo|R|N
+junk	noun	junk|junk|R|N
+revival	noun	revive|reviv|R|V ; -al|al|S
+stun	verb	stun|stun|R|V
+sponsorship	noun	sponsor|sponsor|R|V ; -ship|ship|S
+reconstruction	noun	re-|re|P ; con-|con|P ; -struct|struct|B|V ; -ion|ion|S
+poorly	adv	poor|poor|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+fury	noun	fury|fury|R|N
+differentiate	verb	differentiate|differentiate|R|V
+warming	noun	warm|warm|R|Adj ; -ing|ing|S||-ing (N)
+curl	verb	curl|curl|R|V
+colored	adj	color|color|R|N ; -ed|ed|S||-ed (adj)
+compatible	adj	compatible|compatible|R|Adj
+corpse	noun	corpse|corpse|R|N
+abruptly	adv	abrupt|abrupt|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+tommy	noun	tommy|tommy|R|N
+pact	noun	pact|pact|R|N
+silently	adv	silent|silent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+canterbury	noun	canterbury|canterbury|R|N
+predominantly	adv	pre-|pre|P ; dominate|domin|R|V ; -ant|ant|S ; -ly|ly|I|Adv|-ly (adv)
+torch	noun	torch|torch|R|N
+kidney	noun	kidney|kidney|R|N
+knight	noun	knight|knight|R|N
+documentation	noun	document|document|R|V ; -ation|ation|S
+inclusion	noun	in-|in|P ; -clude|clus|B|V ; -ion|ion|S
+booklet	noun	book|book|R|N ; -let|let|S
+healing	noun	heal|heal|R|V ; -ing|ing|S||-ing (N)
+abolition	noun	abolish|abolit|R|V ; -ion|ion|S
+literacy	noun	literate|literac|R|Adj ; -y|y|S
+destiny	noun	destiny|destiny|R|N
+disclosure	noun	dis-|dis|P ; close|clos|R|V ; -ure|ure|S
+binding	noun	bind|bind|R|V ; -ing|ing|S||-ing (N)
+bargaining	noun	bargain|bargain|R|V ; -ing|ing|S||-ing (N)
+solo	noun	solo|solo|R|N
+fusion	noun	fuse|fus|R|V ; -ion|ion|S
+leak	verb	leak|leak|R|V
+greenhouse	noun	green|green|R|Adj ; house|house|R|N
+maid	noun	maid|maid|R|N
+trillion	noun	trillion|trillion|R|N
+corps	noun	corps|corps|R|N
+loving	adj	love|lov|R|V ; -ing|ing|S||-ing (adj)
+fertility	noun	fertile|fertil|R|Adj ; -ity|ity|S
+emergence	noun	emerge|emerg|R|V ; -ence|ence|S
+grouping	noun	group|group|R|V ; -ing|ing|S||-ing (N)
+homicide	noun	homicide|homicide|R|N
+christie	noun	christie|christie|R|N
+herd	noun	herd|herd|R|N
+passionate	adj	passion|passion|R|N ; -ate|ate|S
+biblical	adj	bible|bibl|R|N ; -ical|ical|S
+brow	noun	brow|brow|R|N
+addiction	noun	addict|addict|R|V ; -ion|ion|S
+wee	adj	wee|wee|R|Adj
+psychiatrist	noun	psychiatry|psychiatr|R|N ; -ist|ist|S
+pipeline	noun	pipe|pipe|R|N ; line|line|R|N
+hood	noun	hood|hood|R|N
+specified	adj	specify|specifi|R|V ; -ed|ed|S||-ed (adj)
+steven	noun	steven|steven|R|N
+baking	noun	bake|bak|R|V ; -ing|ing|S||-ing (N)
+tariff	noun	tariff|tariff|R|N
+subjective	adj	subject|subject|R|N ; -ive|ive|S
+census	noun	census|census|R|N
+snack	noun	snack|snack|R|N
+ending	noun	end|end|R|V ; -ing|ing|S||-ing (N)
+migrant	noun	migrate|migr|R|V ; -ant|ant|S
+stride	verb	stride|stride|R|V
+synthesis	noun	synthesis|synthesis|R|N
+ink	noun	ink|ink|R|N
+homeowner	noun	home|home|R|N ; own|own|R|V ; -er|er|S||-er (N)
+adaptation	noun	adapt|adapt|R|V ; -ation|ation|S
+gasp	verb	gasp|gasp|R|V
+imagery	noun	image|imag|R|N ; -ery|ery|S
+pledge	noun	pledge|pledge|R|N
+min	noun	min|min|R|N
+infect	verb	infect|infect|R|V
+paradigm	noun	paradigm|paradigm|R|N
+locomotive	noun	locomotive|locomotive|R|N
+backward	adv	back|back|R|Adv ; -ward|ward|S
+yarn	noun	yarn|yarn|R|N
+appetite	noun	appetite|appetite|R|N
+shiver	verb	shiver|shiver|R|V
+offend	verb	offend|offend|R|V
+debtor	noun	debt|debt|R|N ; -or|or|S
+referral	noun	refer|referr|R|V ; -al|al|S
+condom	noun	condom|condom|R|N
+mosaic	noun	mosaic|mosaic|R|N
+mammal	noun	mammal|mammal|R|N
+litigation	noun	litigate|litigat|R|V ; -ion|ion|S
+spatial	adj	spatial|spatial|R|Adj
+comet	noun	comet|comet|R|N
+bleed	verb	bleed|bleed|R|V
+causal	adj	cause|caus|R|V ; -al|al|S
+cocktail	noun	cock|cock|R|N ; tail|tail|R|N
+enzyme	noun	enzyme|enzyme|R|N
+choke	verb	choke|choke|R|V
+bile	noun	bile|bile|R|N
+ensemble	noun	ensemble|ensemble|R|N
+pesticide	noun	pesticide|pesticide|R|N
+arsenal	noun	arsenal|arsenal|R|N
+pea	noun	pea|pea|R|N
+polymer	noun	polymer|polymer|R|N
+preservation	noun	preserve|preserv|R|V ; -ation|ation|S
+rotation	noun	rotate|rotat|R|V ; -ion|ion|S
+cautious	adj	caution|cauti|R|N ; -ous|ous|S
+intel	noun	intel|intel|R|N
+affordable	adj	afford|afford|R|V ; -able|able|S
+rising	adj	rise|ris|R|V ; -ing|ing|S||-ing (adj)
+luxury	noun	luxury|luxury|R|N
+tenth	adj	ten|ten|R ; -th|th|S
+designate	verb	design|design|R|V ; -ate|ate|S
+visiting	adj	visit|visit|R|V ; -ing|ing|S||-ing (adj)
+embarrassing	adj	embarrass|embarrass|R|V ; -ing|ing|S||-ing (adj)
+robe	noun	robe|robe|R|N
+noisy	adj	noise|nois|R|N ; -y|y|S
+cult	noun	cult|cult|R|N
+incidentally	adv	incident|incident|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+classmate	noun	class|class|R|N ; mate|mate|R|N
+appalling	adj	appall|appall|R|V ; -ing|ing|S||-ing (adj)
+cassette	noun	cassette|cassette|R|N
+motel	noun	motel|motel|R|N
+hatred	noun	hatred|hatred|R|N
+furnish	verb	furnish|furnish|R|V
+confidential	adj	confide|confid|R|V ; -ent|ent|S ; -ial|ial|S
+enlist	verb	en-|en|P ; list|list|R|V
+bearing	noun	bear|bear|R|V ; -ing|ing|S||-ing (N)
+worrying	adj	worry|worry|R|V ; -ing|ing|S||-ing (adj)
+thorough	adj	thorough|thorough|R|Adj
+ignorance	noun	ignore|ignor|R|V ; -ance|ance|S
+rookie	noun	rookie|rookie|R|N
+disastrous	adj	disaster|disastr|R|N ; -ous|ous|S
+juvenile	adj	juvenile|juvenile|R|Adj
+gown	noun	gown|gown|R|N
+individually	adv	individual|individual|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+courtesy	noun	courtesy|courtesy|R|N
+chosen	adj	choose|chosen|R|V ; -en||I||-en (participle)
+correlate	verb	cor-|cor|P|||con- ; relate|relate|R|V
+lodge	verb	lodge|lodge|R|V
+daylight	noun	day|day|R|N ; light|light|R|N
+humanitarian	noun	humanitarian|humanitarian|R|N
+repay	verb	re-|re|P ; pay|pay|R|V
+torture	noun	torture|torture|R|N
+chorus	noun	chorus|chorus|R|N
+roar	verb	roar|roar|R|V
+glorious	adj	glory|glori|R|N ; -ous|ous|S
+adequately	adv	adequate|adequate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+comic	adj	comic|comic|R|Adj
+supporting	adj	support|support|R|V ; -ing|ing|S||-ing (adj)
+fountain	noun	fountain|fountain|R|N
+revenge	noun	revenge|revenge|R|N
+sour	adj	sour|sour|R|Adj
+underground	adj	under-|under|P ; ground|ground|R|N
+unclear	adj	un-|un|P ; clear|clear|R|Adj
+endangered	adj	endanger|endanger|R|V ; -ed|ed|S||-ed (adj)
+passport	noun	pass|pass|R|V ; port|port|R|N

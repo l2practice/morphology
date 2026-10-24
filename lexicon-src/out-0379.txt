@@ -1,0 +1,200 @@
+sequentiality	noun	sequential|sequential|R|Adj ; -ity|ity|S
+sequestrable	adj	sequester|sequestr|R|V ; -able|able|S
+sequestral	adj	sequester|sequestr|R|V ; -al|al|S
+sequestrator	noun	sequestrate|sequestrat|R|V ; -or|or|S
+sequestrectomy	noun	sequestrectomy|sequestrectomy|R|N
+sequestrum	noun	sequestrum|sequestrum|R|N
+ser	noun	ser|ser|R|N
+serac	noun	serac|serac|R|N
+serai	noun	serai|serai|R|N
+seral	adj	seral|seral|R|Adj
+serang	noun	serang|serang|R|N
+seraphim	noun	seraphim|seraphim|R|N
+seraphine	noun	seraphine|seraphine|R|N
+seraskier	noun	seraskier|seraskier|R|N
+serenader	noun	serenade|serenad|R|N ; -er|er|S||-er (N)
+serenading	verb	serenade|serenad|R|V ; -ing|ing|I||-ing (v)
+serenata	noun	serenata|serenata|R|N
+serenify	verb	serene|seren|R|Adj ; -ify|ify|S
+serfage	noun	serf|serf|R|N ; -age|age|S
+serfhood	noun	serf|serf|R|N ; -hood|hood|S
+sergeantship	noun	sergeant|sergeant|R|N ; -ship|ship|S
+sergette	noun	serge|serg|R|N ; -ette|ette|S
+serialist	noun	serial|serial|R|Adj ; -ist|ist|S
+seriate	verb	series|seri|R|N ; -ate|ate|S
+seriatim	adv	seriatim|seriatim|R|Adv
+seriation	noun	seriate|seriat|R|V ; -ion|ion|S
+seric	adj	seric|seric|R|Adj
+sericicultural	adj	sericiculture|sericicultur|R|N ; -al|al|S
+sericiculture	noun	sericiculture|sericiculture|R|N
+sericiculturist	noun	sericiculture|sericicultur|R|N ; -ist|ist|S
+sericultural	adj	sericulture|sericultur|R|N ; -al|al|S
+sericulture	noun	sericulture|sericulture|R|N
+sericulturist	noun	sericulture|sericultur|R|N ; -ist|ist|S
+seriema	noun	seriema|seriema|R|N
+serigraph	noun	serigraph|serigraph|R|N
+serigraphy	noun	serigraphy|serigraphy|R|N
+serin	noun	serin|serin|R|N
+seringa	noun	seringa|seringa|R|N
+seriocomic	adj	seriocomic|seriocomic|R|Adj
+sermonette	noun	sermon|sermon|R|N ; -ette|ette|S
+sermoning	verb	sermon|sermon|R|V ; -ing|ing|I||-ing (v)
+sermonizer	noun	sermonize|sermoniz|R|V ; -er|er|S||-er (N)
+sermonizing	verb	sermonize|sermoniz|R|V ; -ing|ing|I||-ing (v)
+seroconcordant	adj	seroconcordant|seroconcordant|R|Adj
+serodiscordant	adj	serodiscordant|serodiscordant|R|Adj
+serologist	noun	serology|serolog|R|N ; -ist|ist|S
+serophobia	noun	serophobia|serophobia|R|N
+seropurulent	adj	seropurulent|seropurulent|R|Adj
+seroreaction	noun	seroreaction|seroreaction|R|N
+serosa	noun	serosa|serosa|R|N
+serosal	adj	serosa|seros|R|N ; -al|al|S
+serosity	noun	serous|seros|R|Adj ; -ity|ity|S
+serotherapy	noun	serotherapy|serotherapy|R|N
+serotinal	adj	serotinal|serotinal|R|Adj
+serotine	noun	serotine|serotine|R|N
+serotinous	adj	serotinous|serotinous|R|Adj
+serovaccination	noun	serovaccination|serovaccination|R|N
+serow	noun	serow|serow|R|N
+serozem	noun	serozem|serozem|R|N
+serpentiform	adj	serpentiform|serpentiform|R|Adj
+serpentinite	noun	serpentinite|serpentinite|R|N
+serpentlike	adj	serpent|serpent|R|N ; -like|like|S
+serpentwood	noun	serpent|serpent|R|N ; wood|wood|R|N
+serpiginous	adj	serpiginous|serpiginous|R|Adj
+serpopard	noun	serpopard|serpopard|R|N
+serrate	verb	serrate|serrate|R|V
+serratiform	adj	serratiform|serratiform|R|Adj
+serration	noun	serrate|serrat|R|V ; -ion|ion|S
+serratulate	adj	serratulate|serratulate|R|Adj
+serratus	noun	serratus|serratus|R|N
+serrefile	noun	serrefile|serrefile|R|N
+serricorn	adj	serricorn|serricorn|R|Adj
+serrula	noun	serrula|serrula|R|N
+serrulate	adj	serrulate|serrulate|R|Adj
+serrulated	adj	serrulate|serrulat|R|Adj ; -ed|ed|S||-ed (adj)
+serrulation	noun	serrulate|serrulat|R|Adj ; -ion|ion|S
+serval	noun	serval|serval|R|N
+servery	noun	serve|serv|R|V ; -ery|ery|S
+serviceableness	noun	service|service|R|N ; -able|able|S ; -ness|ness|S
+serviceberry	noun	service|service|R|N ; berry|berry|R|N
+services	noun	service|service|R|N ; -s|s|I||-s (plural)
+servocontrol	noun	servo|servo|R|N ; control|control|R|N
+servomechanism	noun	servo|servo|R|N ; mechanism|mechanism|R|N
+servosystem	noun	servo|servo|R|N ; system|system|R|N
+sesamoid	noun	sesamoid|sesamoid|R|N
+sesamoidal	adj	sesamoid|sesamoid|R|N ; -al|al|S
+sesquialteral	adj	sesquialteral|sesquialteral|R|Adj
+sesquicentenary	noun	sesquicentenary|sesquicentenary|R|N
+sesquioxide	noun	sesquioxide|sesquioxide|R|N
+sesquipedalian	adj	sesquipedalian|sesquipedalian|R|Adj
+sesquiterpene	noun	sesquiterpene|sesquiterpene|R|N
+sesquitertial	adj	sesquitertial|sesquitertial|R|Adj
+sess	noun	sess|sess|R|N
+sesterce	noun	sesterce|sesterce|R|N
+sestertius	noun	sestertius|sestertius|R|N
+sestet	noun	sestet|sestet|R|N
+seta	noun	seta|seta|R|N
+setaceous	adj	setaceous|setaceous|R|Adj
+setiferous	adj	setiferous|setiferous|R|Adj
+setigerous	adj	setigerous|setigerous|R|Adj
+setline	noun	set|set|R|V ; line|line|R|N
+setlist	noun	set|set|R|N ; list|list|R|N
+setose	adj	setose|setose|R|Adj
+sets	noun	set|set|R|N ; -s|s|I||-s (plural)
+setterwort	noun	set|sett|R|V ; -er|er|S||-er (N) ; wort|wort|R|N
+setula	noun	setula|setula|R|N
+setuliform	adj	setuliform|setuliform|R|Adj
+sevdalinka	noun	sevdalinka|sevdalinka|R|N
+sevensome	noun	seven|seven|R|N ; -some|some|S
+seventhly	adv	seventh|seventh|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+seventies	noun	seventy|seventi|R|N ; -es|es|I||-s (plural)
+seventyfold	adj	seventyfold|seventyfold|R|Adj
+seventysomething	noun	seventysomething|seventysomething|R|N
+severable	adj	sever|sever|R|V ; -able|able|S
+severalty	noun	several|several|R|Adj ; -ty|ty|S
+severy	noun	severy|severy|R|N
+sevruga	noun	sevruga|sevruga|R|N
+sewadar	noun	sewadar|sewadar|R|N
+sewed	verb	sew|sew|R|V ; -ed|ed|I||-ed (v2)
+sewellel	noun	sewellel|sewellel|R|N
+sexagenarian	noun	sexagenary|sexagenari|R|Adj ; -an|an|S
+sexagenary	adj	sexagenary|sexagenary|R|Adj
+sexagesimal	adj	sexagesimal|sexagesimal|R|Adj
+sexangular	adj	sexangular|sexangular|R|Adj
+sexcentenary	noun	sexcentenary|sexcentenary|R|N
+sexdecillion	noun	sexdecillion|sexdecillion|R|N
+sexdigitate	adj	sexdigitate|sexdigitate|R|Adj
+sexed	adj	sex|sex|R|N ; -ed|ed|S||-ed (adj)
+sexennial	adj	sexennial|sexennial|R|Adj
+sexillion	noun	sexillion|sexillion|R|N
+sexily	adv	sexy|sexi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sexing	verb	sex|sex|R|V ; -ing|ing|I||-ing (v)
+sexisyllable	noun	sexisyllable|sexisyllable|R|N
+sexivalent	adj	sexivalent|sexivalent|R|Adj
+sexlessness	noun	sex|sex|R|N ; -less|less|S ; -ness|ness|S
+sexlinked	adj	sex|sex|R|N ; link|link|R|V ; -ed|ed|S||-ed (adj)
+sexological	adj	sexology|sexolog|R|N ; -ical|ical|S
+sexpartite	adj	sexpartite|sexpartite|R|Adj
+sexploitation	noun	sexploitation|sexploitation|R|N
+sexsomnia	noun	sexsomnia|sexsomnia|R|N
+sexsomniac	noun	sexsomniac|sexsomniac|R|N
+sext	noun	sext|sext|R|N
+sextain	noun	sextain|sextain|R|N
+sextic	adj	sextic|sextic|R|Adj
+sextile	adj	sextile|sextile|R|Adj
+sextillion	noun	sextillion|sextillion|R|N
+sextillionaire	noun	sextillionaire|sextillionaire|R|N
+sexto	noun	sexto|sexto|R|N
+sextodecimo	noun	sextodecimo|sextodecimo|R|N
+sextuple	noun	sextuple|sextuple|R|N
+sexualist	noun	sexual|sexual|R|Adj ; -ist|ist|S
+sforzando	noun	sforzando|sforzando|R|N
+sfumato	noun	sfumato|sfumato|R|N
+shabash	interj	shabash|shabash|R
+shabbyish	adj	shabby|shabby|R|Adj ; -ish|ish|S
+shabrack	noun	shabrack|shabrack|R|N
+shadda	noun	shadda|shadda|R|N
+shaddock	noun	shaddock|shaddock|R|N
+shader	noun	shade|shad|R|V ; -er|er|S||-er (N)
+shades	noun	shade|shade|R|N ; -s|s|I||-s (plural)
+shadily	adv	shady|shadi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+shadiness	noun	shady|shadi|R|Adj ; -ness|ness|S
+shadoof	noun	shadoof|shadoof|R|N
+shadowban	noun	shadow|shadow|R|N ; ban|ban|R|V
+shadowboxing	noun	shadow|shadow|R|N ; box|box|R|V ; -ing|ing|S||-ing (N)
+shadowgraph	noun	shadow|shadow|R|N ; graph|graph|R|N
+shadowing	verb	shadow|shadow|R|V ; -ing|ing|I||-ing (v)
+shafting	verb	shaft|shaft|R|N ; -ing|ing|I||-ing (v)
+shagbark	noun	shag|shag|R|N ; bark|bark|R|N
+shagged	verb	shag|shagg|R|V ; -ed|ed|I||-ed (v2)
+shaggily	adv	shaggy|shaggi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+shagginess	noun	shaggy|shaggi|R|Adj ; -ness|ness|S
+shagreen	noun	shagreen|shagreen|R|N
+shahada	noun	shahada|shahada|R|N
+shahanshah	noun	shahanshah|shahanshah|R|N
+shahbanu	noun	shahbanu|shahbanu|R|N
+shahdom	noun	shah|shah|R|N ; -dom|dom|S
+shaheed	noun	shaheed|shaheed|R|N
+shahzada	noun	shahzada|shahzada|R|N
+shakable	adj	shake|shak|R|V ; -able|able|S
+shakeup	noun	shake|shake|R|V ; up|up|R|Adv
+shako	noun	shako|shako|R|N
+shakshuka	noun	shakshuka|shakshuka|R|N
+shalloon	noun	shalloon|shalloon|R|N
+shallows	noun	shallow|shallow|R|N ; -s|s|I||-s (plural)
+shalom	interj	shalom|shalom|R
+shalwar	noun	shalwar|shalwar|R|N
+shaly	adj	shale|shal|R|N ; -y|y|S
+shamanist	noun	shaman|shaman|R|N ; -ist|ist|S
+shamateur	noun	shamateur|shamateur|R|N
+shamateurism	noun	shamateur|shamateur|R|N ; -ism|ism|S
+shamefacedness	noun	shame|shame|R|N ; face|fac|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+shamefulness	noun	shame|shame|R|N ; -ful|ful|S ; -ness|ness|S
+shamisen	noun	shamisen|shamisen|R|N
+shammer	noun	sham|shamm|R|V ; -er|er|S||-er (N)
+shammy	noun	shammy|shammy|R|N
+shampooer	noun	shampoo|shampoo|R|V ; -er|er|S||-er (N)
+shandrydan	noun	shandrydan|shandrydan|R|N
+shandygaff	noun	shandy|shandy|R|N ; gaff|gaff|R|N
+shanghai	verb	shanghai|shanghai|R|V

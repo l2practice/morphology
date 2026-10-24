@@ -1,0 +1,200 @@
+deviser	noun	devise|devis|R|V ; -er|er|S||-er (N)
+devisor	noun	devise|devis|R|V ; -or|or|S
+devitalization	noun	de-|de|P ; vital|vital|R|Adj ; -ize|iz|S ; -ation|ation|S
+devitalize	verb	de-|de|P ; vital|vital|R|Adj ; -ize|ize|S
+devitrifiable	adj	devitrify|devitrifi|R|V ; -able|able|S
+devitrification	noun	devitrify|devitrifi|R|V ; -ation|cation|S
+devitrify	verb	de-|de|P ; vitrify|vitrify|R|V
+devocalization	noun	de-|de|P ; vocal|vocal|R|Adj ; -ize|iz|S ; -ation|ation|S
+devocalize	verb	de-|de|P ; vocal|vocal|R|Adj ; -ize|ize|S
+devoice	verb	de-|de|P ; voice|voice|R|N
+devoicing	verb	de-|de|P ; voice|voic|R|N ; -ing|ing|I||-ing (v)
+devotement	noun	devote|devote|R|V ; -ment|ment|S
+devotionalism	noun	devotion|devotion|R|N ; -al|al|S ; -ism|ism|S
+devotionalist	noun	devotion|devotion|R|N ; -al|al|S ; -ist|ist|S
+devotionally	adv	devotion|devotion|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+devouringly	adv	devour|devour|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+devoutness	noun	devout|devout|R|Adj ; -ness|ness|S
+devshirme	noun	devshirme|devshirme|R|N
+dewclaw	noun	dew|dew|R|N ; claw|claw|R|N
+dewey	noun	dewey|dewey|R|N
+dewiness	noun	dewy|dewi|R|Adj ; -ness|ness|S
+dewlapped	adj	dewlap|dewlapp|R|N ; -ed|ed|S||-ed (adj)
+dewless	adj	dew|dew|R|N ; -less|less|S
+deworm	verb	de-|de|P ; worm|worm|R|N
+dexiotropic	adj	dexiotropic|dexiotropic|R|Adj
+dextral	adj	dextral|dextral|R|Adj
+dextrality	noun	dextral|dextral|R|Adj ; -ity|ity|S
+dextran	noun	dextran|dextran|R|N
+dextrin	noun	dextrin|dextrin|R|N
+dextro	noun	dextro|dextro|R|N
+dextrocardia	noun	dextrocardia|dextrocardia|R|N
+dextrogyrate	verb	dextro|dextro|R|N ; gyrate|gyrate|R|V
+dextrorotatory	adj	dextro|dextro|R|N ; rotatory|rotatory|R|Adj
+dextrorse	adj	dextrorse|dextrorse|R|Adj
+dey	noun	dey|dey|R|N
+dhampir	noun	dhampir|dhampir|R|N
+dharmachakra	noun	dharmachakra|dharmachakra|R|N
+dharmapala	noun	dharmapala|dharmapala|R|N
+dhikr	noun	dhikr|dhikr|R|N
+dhobi	noun	dhobi|dhobi|R|N
+dhokla	noun	dhokla|dhokla|R|N
+dhole	noun	dhole|dhole|R|N
+dhuhr	noun	dhuhr|dhuhr|R|N
+dhurrie	noun	dhurrie|dhurrie|R|N
+dhyana	noun	dhyana|dhyana|R|N
+diabase	noun	diabase|diabase|R|N
+diabetology	noun	diabetology|diabetology|R|N
+diablerie	noun	diablerie|diablerie|R|N
+diabolism	noun	diabolism|diabolism|R|N
+diabolo	noun	diabolo|diabolo|R|N
+diachronical	adj	diachronic|diachronic|R|Adj ; -al|al|S
+diachrony	noun	diachrony|diachrony|R|N
+diachylon	noun	diachylon|diachylon|R|N
+diaconal	adj	diaconal|diaconal|R|Adj
+diaconate	noun	diaconate|diaconate|R|N
+diacritic	noun	diacritic|diacritic|R|N
+diactinal	adj	diactinal|diactinal|R|Adj
+diactinic	adj	diactinic|diactinic|R|Adj
+diad	noun	diad|diad|R|N
+diadelphous	adj	diadelphous|diadelphous|R|Adj
+diademed	adj	diadem|diadem|R|N ; -ed|ed|S||-ed (adj)
+diadochus	noun	diadochus|diadochus|R|N
+diadromous	adj	diadromous|diadromous|R|Adj
+diaeresis	noun	diaeresis|diaeresis|R|N
+diagenesis	noun	diagenesis|diagenesis|R|N
+diageotropic	adj	diageotropic|diageotropic|R|Adj
+diageotropism	noun	diageotropism|diageotropism|R|N
+diagonalizable	adj	diagonal|diagonal|R|Adj ; -ize|iz|S ; -able|able|S
+diagrammatical	adj	diagrammatic|diagrammatic|R|Adj ; -al|al|S
+diagrammatise	verb	diagrammatic|diagrammat|R|Adj ; -ise|ise|S
+diakinesis	noun	diakinesis|diakinesis|R|N
+diakinetic	adj	diakinetic|diakinetic|R|Adj
+dialectician	noun	dialectic|dialectic|R|N ; -ian|ian|S
+dialecticism	noun	dialectic|dialectic|R|N ; -ism|ism|S
+dialectics	noun	dialectic|dialectic|R|N ; -s|s|I||-s (plural)
+dialectological	adj	dialectology|dialectolog|R|N ; -ical|ical|S
+dialectologist	noun	dialectology|dialectolog|R|N ; -ist|ist|S
+dialectology	noun	dialectology|dialectology|R|N
+dialer	noun	dial|dial|R|V ; -er|er|S||-er (N)
+dialogist	noun	dialog|dialog|R|N ; -ist|ist|S
+dialysability	noun	dialyse|dialys|R|V ; -able|abil|S ; -ity|ity|S
+dialysate	noun	dialyse|dialys|R|V ; -ate|ate|S
+dialytic	adj	dialysis|dialyt|R|N ; -ic|ic|S
+dialyze	verb	dialyze|dialyze|R|V
+dialyzer	noun	dialyze|dialyz|R|V ; -er|er|S||-er (N)
+diamagnetism	noun	diamagnetic|diamagnet|R|Adj ; -ism|ism|S
+diamantiferous	adj	diamantiferous|diamantiferous|R|Adj
+diamantine	adj	diamantine|diamantine|R|Adj
+diametral	adj	diameter|diametr|R|N ; -al|al|S
+diametrical	adj	diameter|diametr|R|N ; -ical|ical|S
+diamine	noun	diamine|diamine|R|N
+diamondback	noun	diamond|diamond|R|N ; back|back|R|N
+diamondiferous	adj	diamondiferous|diamondiferous|R|Adj
+diamonds	noun	diamond|diamond|R|N ; -s|s|I||-s (plural)
+diamorphine	noun	diamorphine|diamorphine|R|N
+diandric	adj	diandric|diandric|R|Adj
+diapason	noun	diapason|diapason|R|N
+diapausing	verb	diapause|diapaus|R|V ; -ing|ing|I||-ing (v)
+diapedesis	noun	diapedesis|diapedesis|R|N
+diapedetic	adj	diapedetic|diapedetic|R|Adj
+diapered	adj	diaper|diaper|R|N ; -ed|ed|S||-ed (adj)
+diaperhood	noun	diaper|diaper|R|N ; -hood|hood|S
+diapering	verb	diaper|diaper|R|V ; -ing|ing|I||-ing (v)
+diaphaneity	noun	diaphanous|diaphan|R|Adj ; -ity|eity|S
+diaphanoscopy	noun	diaphanoscopy|diaphanoscopy|R|N
+diaphone	noun	diaphone|diaphone|R|N
+diaphoresis	noun	diaphoresis|diaphoresis|R|N
+diaphoretic	adj	diaphoretic|diaphoretic|R|Adj
+diaphyseal	adj	diaphyseal|diaphyseal|R|Adj
+diaphysis	noun	diaphysis|diaphysis|R|N
+diapir	noun	diapir|diapir|R|N
+diapophysis	noun	diapophysis|diapophysis|R|N
+diapositive	noun	diapositive|diapositive|R|N
+diapsid	noun	diapsid|diapsid|R|N
+diarchy	noun	diarchy|diarchy|R|N
+diarize	verb	diary|diar|R|N ; -ize|ize|S
+diarrheic	adj	diarrhea|diarrhe|R|N ; -ic|ic|S
+diarrhoeic	adj	diarrhoea|diarrhoe|R|N ; -ic|ic|S
+diarthrosis	noun	diarthrosis|diarthrosis|R|N
+diaspora	noun	diaspora|diaspora|R|N
+diaspore	noun	diaspore|diaspore|R|N
+diasporic	adj	diaspora|diaspor|R|N ; -ic|ic|S
+diastase	noun	diastase|diastase|R|N
+diastasis	noun	diastasis|diastasis|R|N
+diastatic	adj	diastatic|diastatic|R|Adj
+diastema	noun	diastema|diastema|R|N
+diastematic	adj	diastematic|diastematic|R|Adj
+diaster	noun	diaster|diaster|R|N
+diastole	noun	diastole|diastole|R|N
+diathermancy	noun	diathermancy|diathermancy|R|N
+diathermanous	adj	diathermanous|diathermanous|R|Adj
+diathermic	adj	diathermic|diathermic|R|Adj
+diathermy	noun	diathermy|diathermy|R|N
+diathesis	noun	diathesis|diathesis|R|N
+diatomaceous	adj	diatomaceous|diatomaceous|R|Adj
+diatomic	adj	diatomic|diatomic|R|Adj
+diatomite	noun	diatomite|diatomite|R|N
+diatopic	adj	diatopic|diatopic|R|Adj
+diatopy	noun	diatopy|diatopy|R|N
+diatropic	adj	diatropic|diatropic|R|Adj
+diatropism	noun	diatropism|diatropism|R|N
+diazo	noun	diazo|diazo|R|N
+diazonium	noun	diazonium|diazonium|R|N
+diazotization	noun	diazotize|diazotiz|R|V ; -ation|ation|S
+diazotize	verb	diazotize|diazotize|R|V
+dib	verb	dib|dib|R|V
+dibasic	adj	dibasic|dibasic|R|Adj
+dibber	noun	dib|dibb|R|V ; -er|er|S||-er (N)
+dibbler	noun	dibble|dibbl|R|V ; -er|er|S||-er (N)
+dibenzodioxin	noun	dibenzodioxin|dibenzodioxin|R|N
+dibs	noun	dib|dib|R|N ; -s|s|I||-s (plural)
+dicast	noun	dicast|dicast|R|N
+dicastery	noun	dicastery|dicastery|R|N
+dicephalous	adj	dicephalous|dicephalous|R|Adj
+dicer	noun	dice|dic|R|N ; -er|er|S||-er (N)
+dichasium	noun	dichasium|dichasium|R|N
+dichloride	noun	dichloride|dichloride|R|N
+dichlorobenzene	noun	dichlorobenzene|dichlorobenzene|R|N
+dichlorodiphenyltrichloroethane	noun	dichlorodiphenyltrichloroethane|dichlorodiphenyltrichloroethane|R|N
+dichloromethane	noun	dichloromethane|dichloromethane|R|N
+dichogamous	adj	dichogamous|dichogamous|R|Adj
+dichogamy	noun	dichogamy|dichogamy|R|N
+dichotomic	adj	dichotomy|dichotom|R|N ; -ic|ic|S
+dichroic	adj	dichroic|dichroic|R|Adj
+dichroism	noun	dichroism|dichroism|R|N
+dichromate	noun	dichromate|dichromate|R|N
+dichromatic	adj	dichromatic|dichromatic|R|Adj
+dichromatism	noun	dichromatism|dichromatism|R|N
+dichromatopsia	noun	dichromatopsia|dichromatopsia|R|N
+dichromic	adj	dichromic|dichromic|R|Adj
+dicing	verb	dice|dic|R|N ; -ing|ing|I||-ing (v)
+dickcheese	noun	dick|dick|R|N ; cheese|cheese|R|N
+dickering	verb	dicker|dicker|R|V ; -ing|ing|I||-ing (v)
+dickpic	noun	dick|dick|R|N ; pic|pic|R|N
+dickslap	verb	dick|dick|R|N ; slap|slap|R|V
+dickwad	noun	dick|dick|R|N ; wad|wad|R|N
+diclinous	adj	diclinous|diclinous|R|Adj
+dicot	noun	dicot|dicot|R|N
+dicotyl	noun	dicotyl|dicotyl|R|N
+dicotyledon	noun	dicotyledon|dicotyledon|R|N
+dicotyledonous	adj	dicotyledonous|dicotyledonous|R|Adj
+dicrotic	adj	dicrotic|dicrotic|R|Adj
+dicrotism	noun	dicrotism|dicrotism|R|N
+dictatorially	adv	dictatorial|dictatorial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+dictatorialness	noun	dictatorial|dictatorial|R|Adj ; -ness|ness|S
+dictatress	noun	dictator|dictatr|R|N ; -ess|ess|S
+dictional	adj	diction|diction|R|N ; -al|al|S
+dictionally	adv	diction|diction|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+dictionaric	adj	dictionary|dictionar|R|N ; -ic|ic|S
+dictograph	noun	dictograph|dictograph|R|N
+dictyogen	noun	dictyogen|dictyogen|R|N
+dictyosome	noun	dictyosome|dictyosome|R|N
+dictyostele	noun	dictyostele|dictyostele|R|N
+dicyclic	adj	dicyclic|dicyclic|R|Adj
+dicycly	noun	dicycly|dicycly|R|N
+didactically	adv	didactic|didactic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+didactician	noun	didactic|didactic|R|N ; -ian|ian|S
+didactics	noun	didactic|didactic|R|N ; -s|s|I||-s (plural)
+didactyl	adj	didactyl|didactyl|R|Adj
+didapper	noun	didapper|didapper|R|N

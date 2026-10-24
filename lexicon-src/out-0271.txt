@@ -1,0 +1,200 @@
+dysphagic	adj	dysphagia|dysphag|R|N ; -ic|ic|S
+dysphania	noun	dysphania|dysphania|R|N
+dysphasia	noun	dysphasia|dysphasia|R|N
+dysphasic	adj	dysphasia|dysphas|R|N ; -ic|ic|S
+dysphemism	noun	dysphemism|dysphemism|R|N
+dysphonic	adj	dysphonia|dysphon|R|N ; -ic|ic|S
+dyspneic	adj	dyspnea|dyspne|R|N ; -ic|ic|S
+dyspraxia	noun	dyspraxia|dyspraxia|R|N
+dysprosium	noun	dysprosium|dysprosium|R|N
+dysrhythmia	noun	dysrhythmia|dysrhythmia|R|N
+dyssynchrony	noun	dyssynchrony|dyssynchrony|R|N
+dystocia	noun	dystocia|dystocia|R|N
+dystonia	noun	dystonia|dystonia|R|N
+dystrophic	adj	dystrophy|dystroph|R|N ; -ic|ic|S
+dysuria	noun	dysuria|dysuria|R|N
+dzhigit	noun	dzhigit|dzhigit|R|N
+dzo	noun	dzo|dzo|R|N
+dzud	noun	dzud|dzud|R|N
+eaglehawk	noun	eagle|eagle|R|N ; hawk|hawk|R|N
+eagre	noun	eagre|eagre|R|N
+ealdorman	noun	ealdorman|ealdorman|R|N
+earbone	noun	ear|ear|R|N ; bone|bone|R|N
+earbud	noun	ear|ear|R|N ; bud|bud|R|N
+eardrop	noun	ear|ear|R|N ; drop|drop|R|N
+earing	verb	ear|ear|R|V ; -ing|ing|I||-ing (v)
+earliness	noun	early|earli|R|Adj ; -ness|ness|S
+earlock	noun	ear|ear|R|N ; lock|lock|R|N
+earmarking	verb	ear|ear|R|N ; mark|mark|R|V ; -ing|ing|I||-ing (v)
+earmuff	noun	ear|ear|R|N ; muff|muff|R|N
+earmuffs	noun	ear|ear|R|N ; muff|muff|R|N ; -s|s|I||-s (plural)
+earphones	noun	ear|ear|R|N ; phone|phone|R|N ; -s|s|I||-s (plural)
+earpick	noun	ear|ear|R|N ; pick|pick|R|N
+earsplitting	adj	ear|ear|R|N ; split|splitt|R|V ; -ing|ing|S||-ing (adj)
+earthily	adv	earthy|earthi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+earthliness	noun	earth|earth|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+earthshaking	adj	earth|earth|R|N ; shake|shak|R|V ; -ing|ing|S||-ing (adj)
+earthshine	noun	earth|earth|R|N ; shine|shine|R|V
+earthwards	adv	earth|earth|R|N ; -ward|wards|S
+earwitness	noun	ear|ear|R|N ; witness|witness|R|N
+eased	verb	ease|eas|R|V ; -ed|ed|I||-ed (v2)
+easeful	adj	ease|ease|R|N ; -ful|ful|S
+easefully	adv	ease|ease|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+easefulness	noun	ease|ease|R|N ; -ful|ful|S ; -ness|ness|S
+easeless	adj	ease|ease|R|N ; -less|less|S
+easter	noun	easter|easter|R|N
+easternize	verb	eastern|eastern|R|Adj ; -ize|ize|S
+easternness	noun	eastern|eastern|R|Adj ; -ness|ness|S
+easting	noun	east|east|R|N ; -ing|ing|S||-ing (N)
+eastmost	adj	east|east|R|N ; most|most|R|Adj
+eastwardly	adv	east|east|R|N ; -ward|ward|S ; -ly|ly|I|Adv|-ly (adv)
+eaten	verb	eat|eaten|R|V ; -en||I||-en (participle)
+eaves	noun	eave|eave|R|N ; -s|s|I||-s (plural)
+eavesdrip	noun	eavesdrip|eavesdrip|R|N
+eavestrough	noun	eavestrough|eavestrough|R|N
+ebbed	verb	ebb|ebb|R|V ; -ed|ed|I||-ed (v2)
+ebonite	noun	ebonite|ebonite|R|N
+ebonize	verb	ebony|ebon|R|N ; -ize|ize|S
+ebracteate	adj	ebracteate|ebracteate|R|Adj
+ebriety	noun	ebriety|ebriety|R|N
+ebriosity	noun	ebriosity|ebriosity|R|N
+ebulliency	noun	ebullient|ebulli|R|Adj ; -ency|ency|S
+ebulliently	adv	ebullient|ebullient|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+ebullioscope	noun	ebullioscope|ebullioscope|R|N
+ebullioscopy	noun	ebullioscopy|ebullioscopy|R|N
+ebullition	noun	ebullition|ebullition|R|N
+eburnation	noun	eburnation|eburnation|R|N
+ecaudate	adj	ecaudate|ecaudate|R|Adj
+ecchi	adj	ecchi|ecchi|R|Adj
+ecchondroma	noun	ecchondroma|ecchondroma|R|N
+ecchymosis	noun	ecchymosis|ecchymosis|R|N
+ecchymotic	adj	ecchymosis|ecchymot|R|N ; -ic|ic|S
+ecclesia	noun	ecclesia|ecclesia|R|N
+ecclesiast	noun	ecclesiast|ecclesiast|R|N
+ecclesiastically	adv	ecclesiastic|ecclesiastic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+ecclesiasticism	noun	ecclesiastic|ecclesiastic|R|Adj ; -ism|ism|S
+ecclesiologist	noun	ecclesiology|ecclesiolog|R|N ; -ist|ist|S
+eccoprotic	adj	eccoprotic|eccoprotic|R|Adj
+eccrine	adj	eccrine|eccrine|R|Adj
+eccrinology	noun	eccrinology|eccrinology|R|N
+ecdyse	verb	ecdyse|ecdyse|R|V
+ecdysiast	noun	ecdysiast|ecdysiast|R|N
+ecdysis	noun	ecdysis|ecdysis|R|N
+echidna	noun	echidna|echidna|R|N
+echinacea	noun	echinacea|echinacea|R|N
+echinochrome	noun	echinochrome|echinochrome|R|N
+echinococcosis	noun	echinococcosis|echinococcosis|R|N
+echinodermal	adj	echinoderm|echinoderm|R|N ; -al|al|S
+echinodermatous	adj	echinodermatous|echinodermatous|R|Adj
+echinoid	noun	echinoid|echinoid|R|N
+echinulate	adj	echinulate|echinulate|R|Adj
+echinus	noun	echinus|echinus|R|N
+echocardiography	noun	echocardiography|echocardiography|R|N
+echoer	noun	echo|echo|R|V ; -er|er|S||-er (N)
+echogram	noun	echo|echo|R|N ; gram|gram|R|N
+echograph	noun	echo|echo|R|N ; graph|graph|R|N
+echography	noun	echography|echography|R|N
+echoic	adj	echo|echo|R|N ; -ic|ic|S
+echoism	noun	echo|echo|R|N ; -ism|ism|S
+echolalic	adj	echolalia|echolal|R|N ; -ic|ic|S
+echoless	adj	echo|echo|R|N ; -less|less|S
+echometer	noun	echo|echo|R|N ; meter|meter|R|N
+echt	adj	echt|echt|R|Adj
+eclaircissement	noun	eclaircissement|eclaircissement|R|N
+eclampsia	noun	eclampsia|eclampsia|R|N
+eclamptic	adj	eclampsia|eclampt|R|N ; -ic|ic|S
+eclatant	adj	eclatant|eclatant|R|Adj
+eclectically	adv	eclectic|eclectic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+eclipsed	verb	eclipse|eclips|R|V ; -ed|ed|I||-ed (v2)
+eclipsis	noun	eclipsis|eclipsis|R|N
+eclipta	noun	eclipta|eclipta|R|N
+eclogite	noun	eclogite|eclogite|R|N
+eclose	verb	eclose|eclose|R|V
+eclosion	noun	eclosion|eclosion|R|N
+ecocide	noun	ecocide|ecocide|R|N
+ecoclimate	noun	ecoclimate|ecoclimate|R|N
+ecoclimatic	adj	ecoclimatic|ecoclimatic|R|Adj
+ecoduct	noun	ecoduct|ecoduct|R|N
+ecofascism	noun	ecofascism|ecofascism|R|N
+ecofeminism	noun	ecofeminism|ecofeminism|R|N
+ecofeminist	noun	ecofeminism|ecofemin|R|N ; -ist|ist|S
+ecolabel	noun	ecolabel|ecolabel|R|N
+ecologism	noun	ecology|ecolog|R|N ; -ism|ism|S
+ecomusicology	noun	ecomusicology|ecomusicology|R|N
+econometrician	noun	econometrics|econometric|R|N ; -ian|ian|S
+econometrist	noun	econometrics|econometr|R|N ; -ist|ist|S
+economization	noun	economize|economiz|R|V ; -ation|ation|S
+economizer	noun	economize|economiz|R|V ; -er|er|S||-er (N)
+ecophysiology	noun	ecophysiology|ecophysiology|R|N
+ecosocialism	noun	ecosocialism|ecosocialism|R|N
+ecospecies	noun	ecospecies|ecospecies|R|N
+ecospecific	adj	ecospecific|ecospecific|R|Adj
+ecosystemic	adj	ecosystem|ecosystem|R|N ; -ic|ic|S
+ecotax	noun	ecotax|ecotax|R|N
+ecoterrorism	noun	ecoterrorism|ecoterrorism|R|N
+ecoterrorist	noun	ecoterrorism|ecoterror|R|N ; -ist|ist|S
+ecotone	noun	ecotone|ecotone|R|N
+ecotype	noun	ecotype|ecotype|R|N
+ecozone	noun	ecozone|ecozone|R|N
+ecstasize	verb	ecstasy|ecstas|R|N ; -ize|ize|S
+ectal	adj	ectal|ectal|R|Adj
+ectasis	noun	ectasis|ectasis|R|N
+ectoblast	noun	ectoblast|ectoblast|R|N
+ectoblastic	adj	ectoblast|ectoblast|R|N ; -ic|ic|S
+ectobronchium	noun	ectobronchium|ectobronchium|R|N
+ectocondyle	noun	ectocondyle|ectocondyle|R|N
+ectocranial	adj	ectocranial|ectocranial|R|Adj
+ectoderm	noun	ectoderm|ectoderm|R|N
+ectodermal	adj	ectoderm|ectoderm|R|N ; -al|al|S
+ectodermic	adj	ectoderm|ectoderm|R|N ; -ic|ic|S
+ectoenzyme	noun	ectoenzyme|ectoenzyme|R|N
+ectogenesis	noun	ectogenesis|ectogenesis|R|N
+ectogenetic	adj	ectogenesis|ectogenet|R|N ; -ic|ic|S
+ectogenic	adj	ectogenesis|ectogen|R|N ; -ic|ic|S
+ectomere	noun	ectomere|ectomere|R|N
+ectomeric	adj	ectomere|ectomer|R|N ; -ic|ic|S
+ectoneural	adj	ectoneural|ectoneural|R|Adj
+ectoparasite	noun	ectoparasite|ectoparasite|R|N
+ectoparasitic	adj	ectoparasite|ectoparasit|R|N ; -ic|ic|S
+ectopia	noun	ectopia|ectopia|R|N
+ectotherm	noun	ectotherm|ectotherm|R|N
+ectothermic	adj	ectotherm|ectotherm|R|N ; -ic|ic|S
+ectotrophic	adj	ectotrophic|ectotrophic|R|Adj
+ectype	noun	ectype|ectype|R|N
+ecumene	noun	ecumene|ecumene|R|N
+ecumenicalism	noun	ecumenical|ecumenical|R|Adj ; -ism|ism|S
+ecumenics	noun	ecumenics|ecumenics|R|N
+ecumenopolis	noun	ecumenopolis|ecumenopolis|R|N
+eczematous	adj	eczema|eczemat|R|N ; -ous|ous|S
+ed	noun	ed|ed|R|N
+edacious	adj	edacious|edacious|R|Adj
+edamame	noun	edamame|edamame|R|N
+edaphic	adj	edaphic|edaphic|R|Adj
+edaphology	noun	edaphology|edaphology|R|N
+edaphon	noun	edaphon|edaphon|R|N
+eddish	noun	eddish|eddish|R|N
+eddying	verb	eddy|eddy|R|V ; -ing|ing|I||-ing (v)
+edentate	adj	edentate|edentate|R|Adj
+edentation	noun	edentation|edentation|R|N
+edentulate	adj	edentulate|edentulate|R|Adj
+edentulous	adj	edentulous|edentulous|R|Adj
+edgeless	adj	edge|edge|R|N ; -less|less|S
+edger	noun	edge|edg|R|V ; -er|er|S||-er (N)
+edgeways	adv	edge|edge|R|N ; ways|ways|R|N
+edibleness	noun	edible|edible|R|Adj ; -ness|ness|S
+edictal	adj	edict|edict|R|N ; -al|al|S
+edificatory	adj	edifice|edific|R|N ; -ory|atory|S
+edified	verb	edify|edifi|R|V ; -ed|ed|I||-ed (v2)
+edifier	noun	edify|edifi|R|V ; -er|er|S||-er (N)
+editability	noun	editable|editabil|R|Adj ; -ity|ity|S
+editable	adj	edit|edit|R|V ; -able|able|S
+editorialization	noun	editorialize|editorializ|R|V ; -ation|ation|S
+editorializer	noun	editorialize|editorializ|R|V ; -er|er|S||-er (N)
+editorializing	verb	editorialize|editorializ|R|V ; -ing|ing|I||-ing (v)
+editress	noun	editress|editress|R|N
+educability	noun	educable|educabil|R|Adj ; -ity|ity|S
+educable	adj	educate|educ|R|V ; -able|able|S
+educatee	noun	educate|educat|R|V ; -ee|ee|S
+educe	verb	educe|educe|R|V
+educed	verb	educe|educ|R|V ; -ed|ed|I||-ed (v2)
+educible	adj	educe|educ|R|V ; -ible|ible|S

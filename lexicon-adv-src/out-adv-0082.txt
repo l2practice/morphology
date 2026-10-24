@@ -1,0 +1,150 @@
+ayah	noun	=
+assimilable	adj	=
+tilde	noun	=
+vincristine	noun	=
+arytenoid	noun	=
+versify	verb	vers-|vers|B|V|||Latin versus 'turned' ; -ify|ify|S||||Latin -ficare 'to make'
+pubescence	noun	=
+volute	noun	=
+paver	noun	=
+telluric	adj	tellur-|tellur|B|N|||Latin tellus 'earth' ; -ic|ic|S||||Latin -icus 'relating to'
+cyberterrorism	noun	=
+misogynous	adj	=
+testa	noun	=
+cytosine	noun	cyto-|cytos|B|N|||Greek kytos 'cell' ; -ine|ine|S||||Greek -ine 'chemical substance'
+stolidity	noun	=
+missiology	noun	=
+trismus	noun	=
+rhodopsin	noun	rhod-|rhod|B|N|||Greek rhodon 'rose' ; -opsin|opsin|B|N|||Greek opsis 'sight'
+sgraffito	noun	=
+enucleation	noun	=
+enuresis	noun	en-|en|P||||Greek en 'in' ; -uresis|uresis|B|N|||Greek ouresis 'urination'
+sonography	noun	=
+anthropometry	noun	anthropo-|anthropo|B|N|||Greek anthropos 'human' ; -metry|metry|B|N|||Greek metron 'measure'
+pericardial	adj	peri-|peri|P||||Greek peri 'around' ; -card-|card|B|N|||Greek kardia 'heart' ; -ial|ial|S||||Latin -ialis 'relating to'
+azithromycin	noun	=
+malleolus	noun	malle-|malle|B|N|||Latin malleus 'hammer' ; -olus|olus|S||||Latin -olus 'diminutive'
+dysthymia	noun	dys-|dys|P||||Greek dys- 'bad' ; -thym-|thym|B|N|||Greek thymos 'soul, spirit' ; -ia|ia|S||||Greek -ia 'state, condition'
+frontbencher	noun	=
+essayistic	adj	=
+phalarope	noun	phalar-|phalar|B|N|||Greek phalaris 'coot' ; -pod-|ope|B|N||pod|Greek pous 'foot'
+coelacanth	noun	coel-|coel|B|Adj|||Greek koilos 'hollow' ; -acanth|acanth|B|N|||Greek akantha 'spine'
+bolide	noun	=
+electroactive	adj	=
+provenience	noun	=
+breviary	noun	=
+synchronizer	noun	=
+diplodocus	noun	=
+aerostat	noun	aero-|aero|B|N|||Greek aer 'air' ; -stat|stat|B|N|||Greek statos 'stable'
+lycanthrope	noun	lyc-|lyc|B|N|||Greek lykos 'wolf' ; -anthrope|anthrope|B|N|||Greek anthropos 'human'
+histiocytosis	noun	histio-|histio|B|N|||Greek histos 'tissue' ; -cyt-|cyt|B|N|||Greek kytos 'cell' ; -osis|osis|S||||Greek -osis 'condition'
+saccule	noun	sacc-|sacc|B|N|||Latin saccus 'bag' ; -ule|ule|S||||Latin -ulus 'diminutive'
+trichotillomania	noun	tricho-|tricho|B|N|||Greek thrix 'hair' ; -tillo-|tillo|B|V|||Greek tillo 'to pluck' ; -mania|mania|B|N|||Greek mania 'madness'
+gimbal	noun	=
+vide	verb	=
+morpho	noun	=
+claudication	noun	claudic-|claudic|B|V|||Latin claudicare 'to limp' ; -ation|ation|S||||Latin -atio 'action'
+toper	noun	=
+disyllabic	adj	di-|di|P||||Greek di- 'two' ; -syllab-|syllab|B|N|||Greek syllabe 'syllable' ; -ic|ic|S||||Greek -ikos 'relating to'
+tantalus	noun	=
+albinism	noun	=
+geoengineering	noun	=
+ordinator	noun	ordin-|ordin|B|V|||Latin ordinare 'to order' ; -ator|ator|S||||Latin -ator 'agent'
+ampulla	noun	=
+tegmen	noun	=
+hyperemia	noun	hyper-|hyper|P||||Greek hyper 'over' ; -emia|emia|B|N|||Greek haima 'blood'
+putrescible	adj	putresc-|putresc|B|V|||Latin putrescere 'to rot' ; -ible|ible|S||||Latin -ibilis 'able to be'
+carbamazepine	noun	=
+proteinase	noun	=
+mythopoeic	adj	=
+biotype	noun	=
+thoracotomy	noun	thoraco-|thoraco|B|N|||Greek thorax 'chest' ; -tomy|tomy|B|N|||Greek tome 'cutting'
+hyphenation	noun	=
+morphologist	noun	=
+teratogenic	adj	=
+subcritical	adj	=
+libre	adj	=
+bibliographer	noun	=
+pneumothorax	noun	=
+paramecium	noun	=
+fluoroscopy	noun	=
+hoopoe	noun	=
+toxoid	noun	=
+stromatolite	noun	stromato-|stromato|B|N|||Greek stroma 'layer' ; -lite|lite|B|N|||Greek lithos 'stone'
+pericardium	noun	=
+icosahedron	noun	icosa-|icosa|B|Adj|||Greek eikosi 'twenty' ; -hedron|hedron|B|N|||Greek hedra 'face'
+polyptych	noun	poly-|poly|P||||Greek polys 'many' ; -ptych|ptych|B|N|||Greek ptyche 'fold'
+hemiplegia	noun	hemi-|hemi|P||||Greek hemi- 'half' ; -pleg-|pleg|B|V|||Greek plessein 'to strike' ; -ia|ia|S||||Greek -ia 'state, condition'
+anagnorisis	noun	=
+ostium	noun	=
+cerumen	noun	cer-|cer|B|N|||Latin cera 'wax' ; -umen|umen|S||||Latin -men 'substance'
+eschar	noun	=
+monophyletic	adj	=
+pederasty	noun	=
+autostrada	noun	=
+crus	noun	=
+pyrolysis	noun	=
+diacritical	adj	=
+glyceryl	noun	=
+nephrotoxic	adj	=
+relator	noun	=
+macromolecular	adj	=
+osmium	noun	osm-|osm|B|N|||Greek osme 'smell' ; -ium|ium|S||||Latin -ium 'element'
+enjambment	noun	=
+erbium	noun	=
+meristem	noun	=
+autocephalous	adj	auto-|auto|P||||Greek autos 'self' ; -cephal-|cephal|B|N|||Greek kephale 'head' ; -ous|ous|S||||Latin -osus 'having'
+jural	adj	=
+mutagenesis	noun	muta-|muta|B|V|||Latin mutare 'to change' ; -genesis|genesis|B|N|||Greek genesis 'origin'
+pedicle	noun	ped-|ped|B|N|||Latin pes 'foot' ; -icle|icle|S||||Latin -iculus 'diminutive'
+serine	noun	=
+suzerain	noun	=
+preclusion	noun	=
+spinous	adj	=
+oviparous	adj	ovi-|ovi|B|N|||Latin ovum 'egg' ; -par-|par|B|V|||Latin parere 'to bear' ; -ous|ous|S||||Latin -osus 'having'
+dehiscence	noun	=
+rejecter	noun	=
+idolization	noun	=
+ascender	noun	=
+chronometric	adj	chrono-|chrono|B|N|||Greek khronos 'time' ; -metric|metric|B|N|||Greek metron 'measure'
+hypertonic	adj	=
+crosier	noun	=
+disjoin	verb	=
+plage	noun	=
+biopolymer	noun	=
+corneum	noun	=
+epigastric	adj	epi-|epi|P||||Greek epi 'upon' ; -gastr-|gastr|B|N|||Greek gaster 'stomach' ; -ic|ic|S||||Greek -ikos 'relating to'
+orthomolecular	adj	=
+sectionalism	noun	=
+psoas	noun	=
+agrarianism	noun	=
+hemoptysis	noun	hemo-|hemo|B|N|||Greek haima 'blood' ; -ptysis|ptysis|B|N|||Greek ptysis 'spitting'
+supersession	noun	=
+stative	adj	=
+adelgid	noun	=
+mensuration	noun	=
+ontic	adj	ont-|ont|B|V|||Greek on 'being' ; -ic|ic|S||||Greek -ikos 'relating to'
+stapedectomy	noun	=
+recision	noun	=
+coronavirus	noun	=
+electrocardiographic	adj	=
+ogee	noun	=
+allelopathy	noun	=
+uxorilocal	adj	uxori-|uxori|B|N|||Latin uxor 'wife' ; -local|local|R|Adj
+pathogenetic	adj	=
+aminotransferase	noun	=
+benthos	noun	=
+dreamcatcher	noun	=
+lovage	noun	=
+varicella	noun	=
+socle	noun	=
+emotivism	noun	=
+splenectomy	noun	splen-|splen|B|N|||Greek splen 'spleen' ; -ectomy|ectomy|B|N|||Greek ektome 'cutting out'
+anthropoid	adj	anthrop-|anthrop|B|N|||Greek anthropos 'human' ; -oid|oid|S||||Greek -oeides 'like'
+pedipalp	noun	pedi-|pedi|B|N|||Latin pes 'foot' ; -palp|palp|B|N|||Latin palpus 'feeler'
+auricle	noun	aur-|aur|B|N|||Latin auris 'ear' ; -icle|icle|S||||Latin -iculus 'diminutive'
+eightpence	noun	=
+lacustrine	adj	=
+diverticulum	noun	=
+antitype	noun	=
+perianth	noun	=

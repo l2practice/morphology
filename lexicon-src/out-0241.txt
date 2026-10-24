@@ -1,0 +1,200 @@
+burrower	noun	burrow|burrow|R|V ; -er|er|S||-er (N)
+burrstone	noun	burr|burr|R|N ; stone|stone|R|N
+burry	adj	burr|burr|R|N ; -y|y|S
+bursal	adj	bursal|bursal|R|Adj
+bursarial	adj	bursarial|bursarial|R|Adj
+burseraceous	adj	burseraceous|burseraceous|R|Adj
+burthen	noun	burthen|burthen|R|N
+burweed	noun	bur|bur|R|N ; weed|weed|R|N
+burying	verb	bury|bury|R|V ; -ing|ing|I||-ing (v)
+busbar	noun	bus|bus|R|N ; bar|bar|R|N
+bushbuck	noun	bush|bush|R|N ; buck|buck|R|N
+bushcraft	noun	bush|bush|R|N ; craft|craft|R|N
+bushed	verb	bush|bush|R|V ; -ed|ed|I||-ed (v2)
+busheller	noun	bushel|bushell|R|N ; -er|er|S||-er (N)
+bushido	noun	bushido|bushido|R|N
+bushily	adv	bush|bush|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+bushiness	noun	bush|bush|R|N ; -y|i|S ; -ness|ness|S
+bushland	noun	bush|bush|R|N ; land|land|R|N
+bushwhacking	noun	bush|bush|R|N ; whack|whack|R|V ; -ing|ing|S||-ing (N)
+busification	noun	bus|bus|R|N ; -ify|ific|S ; -ation|ation|S
+buskin	noun	buskin|buskin|R|N
+bussed	verb	bus|buss|R|V ; -ed|ed|I||-ed (v2)
+bussy	noun	bussy|bussy|R|N
+bustier	noun	bustier|bustier|R|N
+busting	verb	bust|bust|R|V ; -ing|ing|I||-ing (v)
+bustled	verb	bustle|bustl|R|V ; -ed|ed|I||-ed (v2)
+busying	verb	busy|busy|R|Adj ; -ing|ing|I||-ing (v)
+butanol	noun	butanol|butanol|R|N
+butanone	noun	butanone|butanone|R|N
+butcherbird	noun	butcher|butcher|R|N ; bird|bird|R|N
+butcherly	adj	butcher|butcher|R|N ; -ly|ly|S||-ly (adj)
+butchershop	noun	butcher|butcher|R|N ; shop|shop|R|N
+butene	noun	butene|butene|R|N
+buteo	noun	buteo|buteo|R|N
+butted	verb	butt|butt|R|V ; -ed|ed|I||-ed (v2)
+butterbrot	noun	butterbrot|butterbrot|R|N
+butterbur	noun	butter|butter|R|N ; bur|bur|R|N
+buttercream	noun	butter|butter|R|N ; cream|cream|R|N
+butterface	noun	butter|butter|R|N ; face|face|R|N
+butterfingered	adj	butter|butter|R|N ; finger|finger|R|N ; -ed|ed|S||-ed (adj)
+butterfingers	noun	butter|butter|R|N ; finger|finger|R|N ; -s|s|I||-s (plural)
+butterflyfish	noun	butter|butter|R|N ; fly|fly|R|N ; fish|fish|R|N
+butterhead	noun	butter|butter|R|N ; head|head|R|N
+butterine	noun	butterine|butterine|R|N
+butteriness	noun	butter|butter|R|N ; -y|i|S ; -ness|ness|S
+buttering	verb	butter|butter|R|V ; -ing|ing|I||-ing (v)
+butters	noun	butter|butter|R|N ; -s|s|I||-s (plural)
+butterwort	noun	butter|butter|R|N ; wort|wort|R|N
+buttfuckable	adj	butt|butt|R|N ; fuck|fuck|R|V ; -able|able|S
+buttfucker	noun	butt|butt|R|N ; fuck|fuck|R|V ; -er|er|S||-er (N)
+butthurt	noun	butt|butt|R|N ; hurt|hurt|R|V
+butting	verb	butt|butt|R|V ; -ing|ing|I||-ing (v)
+buttocked	adj	buttock|buttock|R|N ; -ed|ed|S||-ed (adj)
+buttonholer	noun	button|button|R|N ; hole|hol|R|N ; -er|er|S||-er (N)
+buttonholing	noun	button|button|R|N ; hole|hol|R|N ; -ing|ing|S||-ing (N)
+buttonhook	noun	button|button|R|N ; hook|hook|R|N
+buttoning	verb	button|button|R|V ; -ing|ing|I||-ing (v)
+buttonquail	noun	button|button|R|N ; quail|quail|R|N
+buttons	noun	button|button|R|N ; -s|s|I||-s (plural)
+buttony	adj	button|button|R|N ; -y|y|S
+buttressed	verb	buttress|buttress|R|V ; -ed|ed|I||-ed (v2)
+buttslut	noun	butt|butt|R|N ; slut|slut|R|N
+buttstock	noun	butt|butt|R|N ; stock|stock|R|N
+butyraceous	adj	butyraceous|butyraceous|R|Adj
+butyric	adj	butyric|butyric|R|Adj
+buxomly	adv	buxom|buxom|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+buxomness	noun	buxom|buxom|R|Adj ; -ness|ness|S
+buyable	adj	buy|buy|R|V ; -able|able|S
+buzkashi	noun	buzkashi|buzkashi|R|N
+buzzcut	noun	buzz|buzz|R|N ; cut|cut|R|V
+buzzed	verb	buzz|buzz|R|V ; -ed|ed|I||-ed (v2)
+bycatch	noun	by-|by|P ; catch|catch|R|V
+byform	noun	by-|by|P ; form|form|R|N
+byheart	adv	by-|by|P ; heart|heart|R|N
+byhove	noun	byhove|byhove|R|N
+bylina	noun	bylina|bylina|R|N
+bypast	noun	by-|by|P ; past|past|R|N
+bypath	noun	by-|by|P ; path|path|R|N
+byplay	noun	by-|by|P ; play|play|R|N
+byrnie	noun	byrnie|byrnie|R|N
+byroad	noun	by-|by|P ; road|road|R|N
+byssinosis	noun	byssinosis|byssinosis|R|N
+byssus	noun	byssus|byssus|R|N
+bystreet	noun	by-|by|P ; street|street|R|N
+bytecode	noun	byte|byte|R|N ; code|code|R|N
+bywoner	noun	bywoner|bywoner|R|N
+byzantine	adj	byzantine|byzantine|R|Adj
+bzz	interj	bzz|bzz|R
+cabalism	noun	cabal|cabal|R|N ; -ism|ism|S
+cabalist	noun	cabal|cabal|R|N ; -ist|ist|S
+cabalistically	adv	cabal|cabal|R|N ; -ist|ist|S ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+caballer	noun	caballer|caballer|R|N
+cabbing	verb	cab|cabb|R|V ; -ing|ing|I||-ing (v)
+cabled	verb	cable|cabl|R|V ; -ed|ed|I||-ed (v2)
+cableway	noun	cable|cable|R|N ; way|way|R|N
+cabman	noun	cab|cab|R|N ; man|man|R|N
+cabotage	noun	cabotage|cabotage|R|N
+cabriole	noun	cabriole|cabriole|R|N
+cachalot	noun	cachalot|cachalot|R|N
+cachepot	noun	cache|cache|R|N ; pot|pot|R|N
+cachexia	noun	cachexia|cachexia|R|N
+caching	verb	cache|cach|R|V ; -ing|ing|I||-ing (v)
+cachinnate	verb	cachinnate|cachinnate|R|V
+cachinnation	noun	cachinnation|cachinnation|R|N
+cachinnator	noun	cachinnator|cachinnator|R|N
+cachou	noun	cachou|cachou|R|N
+cachucha	noun	cachucha|cachucha|R|N
+caciocavallo	noun	caciocavallo|caciocavallo|R|N
+cack	noun	cack|cack|R|N
+cacodaemon	noun	cacodaemon|cacodaemon|R|N
+cacodemon	noun	cacodemon|cacodemon|R|N
+cacodemonic	adj	cacodemonic|cacodemonic|R|Adj
+cacodylate	noun	cacodylate|cacodylate|R|N
+cacodylic	adj	cacodylic|cacodylic|R|Adj
+cacoethes	noun	cacoethes|cacoethes|R|N
+cacogenesis	noun	cacogenesis|cacogenesis|R|N
+cacogenic	adj	cacogenic|cacogenic|R|Adj
+cacogenics	noun	cacogenics|cacogenics|R|N
+cacography	noun	cacography|cacography|R|N
+cacology	noun	cacology|cacology|R|N
+cacomistle	noun	cacomistle|cacomistle|R|N
+cacophemism	noun	cacophemism|cacophemism|R|N
+cacophonously	adv	cacophonous|cacophonous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cactaceous	adj	cactaceous|cactaceous|R|Adj
+cactoid	adj	cactoid|cactoid|R|Adj
+cacuminal	adj	cacuminal|cacuminal|R|Adj
+cadastral	adj	cadastral|cadastral|R|Adj
+cadastre	noun	cadastre|cadastre|R|N
+cadaverine	noun	cadaverine|cadaverine|R|N
+cadaverously	adv	cadaver|cadaver|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+cadaverousness	noun	cadaver|cadaver|R|N ; -ous|ous|S ; -ness|ness|S
+caddish	adj	cad|cadd|R|N ; -ish|ish|S
+caddishly	adv	cad|cadd|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+caddishness	noun	cad|cadd|R|N ; -ish|ish|S ; -ness|ness|S
+cadency	noun	cadence|cadenc|R|N ; -y|y|S
+cadetship	noun	cadet|cadet|R|N ; -ship|ship|S
+cadette	noun	cadette|cadette|R|N
+cadger	noun	cadge|cadg|R|V ; -er|er|S||-er (N)
+caducean	adj	caducean|caducean|R|Adj
+caduceus	noun	caduceus|caduceus|R|N
+caducity	noun	caducity|caducity|R|N
+caducous	adj	caducous|caducous|R|Adj
+caecal	adj	caecal|caecal|R|Adj
+caecilian	noun	caecilian|caecilian|R|N
+caenogastropod	noun	caenogastropod|caenogastropod|R|N
+caenogenesis	noun	caenogenesis|caenogenesis|R|N
+caesalpiniaceous	adj	caesalpiniaceous|caesalpiniaceous|R|Adj
+caesar	noun	caesar|caesar|R|N
+caesaropapism	noun	caesaropapism|caesaropapism|R|N
+caesious	adj	caesious|caesious|R|Adj
+caesural	adj	caesura|caesur|R|N ; -al|al|S
+caesuric	adj	caesura|caesur|R|N ; -ic|ic|S
+cafard	noun	cafard|cafard|R|N
+caffein	noun	caffein|caffein|R|N
+caginess	noun	cage|cag|R|N ; -y|i|S ; -ness|ness|S
+caging	verb	cage|cag|R|V ; -ing|ing|I||-ing (v)
+cahoots	noun	cahoots|cahoots|R|N
+caipirinha	noun	caipirinha|caipirinha|R|N
+caitiff	noun	caitiff|caitiff|R|N
+cajolement	noun	cajole|cajole|R|V ; -ment|ment|S
+cajoler	noun	cajole|cajol|R|V ; -er|er|S||-er (N)
+cajolingly	adv	cajole|cajol|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+caked	verb	cake|cak|R|V ; -ed|ed|I||-ed (v2)
+cakewalker	noun	cake|cake|R|N ; walk|walk|R|V ; -er|er|S||-er (N)
+caking	verb	cake|cak|R|V ; -ing|ing|I||-ing (v)
+cal	noun	cal|cal|R|N
+caladrius	noun	caladrius|caladrius|R|N
+calamander	noun	calamander|calamander|R|N
+calamary	noun	calamary|calamary|R|N
+calamint	noun	calamint|calamint|R|N
+calamite	noun	calamite|calamite|R|N
+calamitously	adv	calamitous|calamitous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+calamitousness	noun	calamitous|calamitous|R|Adj ; -ness|ness|S
+calamondin	noun	calamondin|calamondin|R|N
+calamus	noun	calamus|calamus|R|N
+calash	noun	calash|calash|R|N
+calcaneum	noun	calcaneum|calcaneum|R|N
+calcaneus	noun	calcaneus|calcaneus|R|N
+calcar	noun	calcar|calcar|R|N
+calcarate	adj	calcarate|calcarate|R|Adj
+calcareously	adv	calcareous|calcareous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+calcarious	adj	calcarious|calcarious|R|Adj
+calceolaria	noun	calceolaria|calceolaria|R|N
+calcic	adj	calcic|calcic|R|Adj
+calcicole	noun	calcicole|calcicole|R|N
+calciferol	noun	calciferol|calciferol|R|N
+calcific	adj	calcific|calcific|R|Adj
+calcigerous	adj	calcigerous|calcigerous|R|Adj
+calcimine	noun	calcimine|calcimine|R|N
+calcinate	verb	calcine|calcin|R|V ; -ate|ate|S
+calcination	noun	calcine|calcin|R|V ; -ation|ation|S
+calcine	verb	calcine|calcine|R|V
+calcined	verb	calcine|calcin|R|V ; -ed|ed|I||-ed (v2)
+calciphile	noun	calciphile|calciphile|R|N
+calciphobe	noun	calciphobe|calciphobe|R|N
+calciphyte	noun	calciphyte|calciphyte|R|N
+calcitic	adj	calcitic|calcitic|R|Adj
+calcivorous	adj	calcivorous|calcivorous|R|Adj
+calculability	noun	calculate|calcul|R|V ; -able|abil|S ; -ity|ity|S
+calculous	adj	calculous|calculous|R|Adj

@@ -1,0 +1,200 @@
+entresol	noun	entresol|entresol|R|N
+entrochite	noun	entrochite|entrochite|R|N
+entropically	adv	entropy|entrop|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+entropion	noun	entropion|entropion|R|N
+entruck	verb	en-|en|P ; truck|truck|R|V
+entrustment	noun	en-|en|P ; trust|trust|R|V ; -ment|ment|S
+entryism	noun	entry|entry|R|N ; -ism|ism|S
+entryphone	noun	entry|entry|R|N ; phone|phone|R|N
+entwinement	noun	en-|en|P ; twine|twine|R|V ; -ment|ment|S
+entwining	adj	en-|en|P ; twine|twin|R|V ; -ing|ing|S||-ing (adj)
+entwist	verb	en-|en|P ; twist|twist|R|V
+enucleate	verb	enucleate|enucleate|R|V
+enucleator	noun	enucleate|enucleat|R|V ; -or|or|S
+enumerated	adj	enumerate|enumerat|R|V ; -ed|ed|S||-ed (adj)
+enumerative	adj	enumerate|enumerat|R|V ; -ive|ive|S
+enunciable	adj	enunciate|enunci|R|V ; -able|able|S
+enunciative	adj	enunciate|enunciat|R|V ; -ive|ive|S
+enunciatively	adv	enunciate|enunciat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+enunciator	noun	enunciate|enunciat|R|V ; -or|or|S
+enure	verb	enure|enure|R|V
+enuretic	adj	enuretic|enuretic|R|Adj
+enveloped	adj	envelop|envelop|R|V ; -ed|ed|S||-ed (adj)
+enveloper	noun	envelop|envelop|R|V ; -er|er|S||-er (N)
+envenom	verb	en-|en|P ; venom|venom|R|N
+envenomed	adj	en-|en|P ; venom|venom|R|N ; -ed|ed|S||-ed (adj)
+envenoming	adj	en-|en|P ; venom|venom|R|N ; -ing|ing|S||-ing (adj)
+envenomization	noun	en-|en|P ; venom|venom|R|N ; -ize|iz|S ; -ation|ation|S
+envier	noun	envy|envi|R|V ; -er|er|S||-er (N)
+enviousness	noun	envious|envious|R|Adj ; -ness|ness|S
+envisagement	noun	en-|en|P ; vis|vis|B|V ; -age|age|S ; -ment|ment|S
+envisioning	verb	en-|en|P ; vis|vis|B|V ; -ion|ion|S ; -ing|ing|I||-ing (v)
+envoyship	noun	envoy|envoy|R|N ; -ship|ship|S
+envying	adj	envy|envy|R|V ; -ing|ing|S||-ing (adj)
+envyingly	adv	envy|envy|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+enwind	verb	en-|en|P ; wind|wind|R|V
+enyay	verb	enyay|enyay|R|V
+enzygotic	adj	enzygotic|enzygotic|R|Adj
+enzymatically	adv	enzyme|enzymat|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+enzymically	adv	enzyme|enzym|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+enzymology	noun	enzymology|enzymology|R|N
+eolation	noun	eolation|eolation|R|N
+eolith	noun	eolith|eolith|R|N
+eolithic	adj	eolith|eolith|R|N ; -ic|ic|S
+eonian	adj	eon|eon|R|N ; -ian|ian|S
+epact	noun	epact|epact|R|N
+epactal	adj	epact|epact|R|N ; -al|al|S
+eparch	noun	eparch|eparch|R|N
+eparchy	noun	eparch|eparch|R|N ; -y|y|S
+epaulement	noun	epaulement|epaulement|R|N
+epaxial	adj	epaxial|epaxial|R|Adj
+epazote	noun	epazote|epazote|R|N
+epeirogenesis	noun	epeirogenesis|epeirogenesis|R|N
+epeirogeny	noun	epeirogeny|epeirogeny|R|N
+epencephalic	adj	epencephalic|epencephalic|R|Adj
+ependyma	noun	ependyma|ependyma|R|N
+ependymal	adj	ependyma|ependym|R|N ; -al|al|S
+ependymoma	noun	ependymoma|ependymoma|R|N
+epenthesis	noun	epenthesis|epenthesis|R|N
+epenthetic	adj	epenthesis|epenthet|R|N ; -ic|ic|S
+epenthetically	adv	epenthesis|epenthet|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+epergne	noun	epergne|epergne|R|N
+eperlan	noun	eperlan|eperlan|R|N
+epexegetic	adj	epexegesis|epexeget|R|N ; -ic|ic|S
+epexegetical	adj	epexegesis|epexeget|R|N ; -ic|ic|S ; -al|al|S
+ephah	noun	ephah|ephah|R|N
+ephebe	noun	ephebe|ephebe|R|N
+ephebic	adj	ephebe|epheb|R|N ; -ic|ic|S
+ephelis	noun	ephelis|ephelis|R|N
+ephemerally	adv	ephemeral|ephemeral|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+ephemeralness	noun	ephemeral|ephemeral|R|Adj ; -ness|ness|S
+ephemerides	noun	ephemerides|ephemerides|R|N
+ephemeron	noun	ephemeron|ephemeron|R|N
+ephidrosis	noun	ephidrosis|ephidrosis|R|N
+ephod	noun	ephod|ephod|R|N
+ephor	noun	ephor|ephor|R|N
+ephorate	noun	ephor|ephor|R|N ; -ate|ate|S
+epibiosis	noun	epibiosis|epibiosis|R|N
+epibiotic	adj	epibiotic|epibiotic|R|Adj
+epiblast	noun	epiblast|epiblast|R|N
+epiblastic	adj	epiblast|epiblast|R|N ; -ic|ic|S
+epiblem	noun	epiblem|epiblem|R|N
+epibole	noun	epibole|epibole|R|N
+epibolic	adj	epibole|epibol|R|N ; -ic|ic|S
+epiboly	noun	epibole|epibol|R|N ; -y|y|S
+epical	adj	epic|epic|R|Adj ; -al|al|S
+epicalyx	noun	epicalyx|epicalyx|R|N
+epicanthus	noun	epicanthus|epicanthus|R|N
+epicardium	noun	epicardium|epicardium|R|N
+epicarp	noun	epicarp|epicarp|R|N
+epicede	noun	epicede|epicede|R|N
+epicedium	noun	epicedium|epicedium|R|N
+epicene	adj	epicene|epicene|R|Adj
+epicenism	noun	epicene|epicen|R|Adj ; -ism|ism|S
+epichordal	adj	epichordal|epichordal|R|Adj
+epicist	noun	epic|epic|R|Adj ; -ist|ist|S
+epiclesis	noun	epiclesis|epiclesis|R|N
+epiclinal	adj	epiclinal|epiclinal|R|Adj
+epicness	noun	epic|epic|R|Adj ; -ness|ness|S
+epicondyle	noun	epicondyle|epicondyle|R|N
+epicontinental	adj	epicontinental|epicontinental|R|Adj
+epicotyl	noun	epicotyl|epicotyl|R|N
+epicranial	adj	epicranial|epicranial|R|Adj
+epicranium	noun	epicranium|epicranium|R|N
+epicrisis	noun	epicrisis|epicrisis|R|N
+epicurism	noun	epicure|epicur|R|N ; -ism|ism|S
+epicuticle	noun	epicuticle|epicuticle|R|N
+epicyclic	adj	epicyclic|epicyclic|R|Adj
+epicycloid	noun	epicycloid|epicycloid|R|N
+epicycloidal	adj	epicycloid|epicycloid|R|N ; -al|al|S
+epideictic	adj	epideictic|epideictic|R|Adj
+epidemically	adv	epidemic|epidemic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+epidemicity	noun	epidemic|epidemic|R|Adj ; -ity|ity|S
+epidendrum	noun	epidendrum|epidendrum|R|N
+epiderma	noun	epiderma|epiderma|R|N
+epidermic	adj	epidermis|epiderm|R|N ; -ic|ic|S
+epidiascope	noun	epidiascope|epidiascope|R|N
+epididymal	adj	epididymis|epididym|R|N ; -al|al|S
+epididymis	noun	epididymis|epididymis|R|N
+epididymitis	noun	epididymitis|epididymitis|R|N
+epidote	noun	epidote|epidote|R|N
+epifauna	noun	epifauna|epifauna|R|N
+epifaunal	adj	epifauna|epifaun|R|N ; -al|al|S
+epifocal	adj	epifocal|epifocal|R|Adj
+epigastrium	noun	epigastrium|epigastrium|R|N
+epigeal	adj	epigeal|epigeal|R|Adj
+epigean	adj	epigean|epigean|R|Adj
+epigeic	adj	epigeic|epigeic|R|Adj
+epigene	noun	epigene|epigene|R|N
+epigenesis	noun	epigenesis|epigenesis|R|N
+epigenetics	noun	epigenetics|epigenetics|R|N
+epigenous	adj	epigenous|epigenous|R|Adj
+epiglottal	adj	epiglottis|epiglott|R|N ; -al|al|S
+epiglottic	adj	epiglottis|epiglott|R|N ; -ic|ic|S
+epiglottitis	noun	epiglottitis|epiglottitis|R|N
+epignathus	noun	epignathus|epignathus|R|N
+epigonism	noun	epigone|epigon|R|N ; -ism|ism|S
+epigrammatically	adv	epigram|epigrammat|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+epigrammatism	noun	epigram|epigrammat|R|N ; -ism|ism|S
+epigrammatist	noun	epigram|epigrammat|R|N ; -ist|ist|S
+epigrammatize	verb	epigram|epigrammat|R|N ; -ize|ize|S
+epigrapher	noun	epigraph|epigraph|R|N ; -er|er|S||-er (N)
+epigraphical	adj	epigraph|epigraph|R|N ; -ic|ic|S ; -al|al|S
+epigraphically	adv	epigraph|epigraph|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+epigraphist	noun	epigraph|epigraph|R|N ; -ist|ist|S
+epigyne	noun	epigyne|epigyne|R|N
+epigyny	noun	epigyne|epigyn|R|N ; -y|y|S
+epilate	verb	epilate|epilate|R|V
+epilation	noun	epilate|epilat|R|V ; -ion|ion|S
+epilator	noun	epilate|epilat|R|V ; -or|or|S
+epileptiform	adj	epileptiform|epileptiform|R|Adj
+epileptogenic	adj	epileptogenic|epileptogenic|R|Adj
+epileptoid	adj	epileptoid|epileptoid|R|Adj
+epilobium	noun	epilobium|epilobium|R|N
+epilogic	adj	epilogue|epilog|R|N ; -ic|ic|S
+epilogist	noun	epilogue|epilog|R|N ; -ist|ist|S
+epimer	noun	epimer|epimer|R|N
+epimere	noun	epimere|epimere|R|N
+epimeric	adj	epimer|epimer|R|N ; -ic|ic|S
+epimerization	noun	epimerize|epimeriz|R|V ; -ation|ation|S
+epimerize	verb	epimer|epimer|R|N ; -ize|ize|S
+epimeron	noun	epimeron|epimeron|R|N
+epimorphic	adj	epimorphic|epimorphic|R|Adj
+epimorphism	noun	epimorphism|epimorphism|R|N
+epimorphosis	noun	epimorphosis|epimorphosis|R|N
+epimysium	noun	epimysium|epimysium|R|N
+epinasty	noun	epinasty|epinasty|R|N
+epineurium	noun	epineurium|epineurium|R|N
+epiotic	adj	epiotic|epiotic|R|Adj
+epiparasite	noun	epiparasite|epiparasite|R|N
+epiparasitic	adj	epiparasite|epiparasit|R|N ; -ic|ic|S
+epiparasitism	noun	epiparasite|epiparasit|R|N ; -ism|ism|S
+epipelagic	adj	epipelagic|epipelagic|R|Adj
+epipetalous	adj	epipetalous|epipetalous|R|Adj
+epiphany	noun	epiphany|epiphany|R|N
+epiphenomenalism	noun	epiphenomenal|epiphenomenal|R|Adj ; -ism|ism|S
+epiphenomenally	adv	epiphenomenal|epiphenomenal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+epiphragm	noun	epiphragm|epiphragm|R|N
+epiphyll	noun	epiphyll|epiphyll|R|N
+epiphyllous	adj	epiphyllous|epiphyllous|R|Adj
+epiphyllum	noun	epiphyllum|epiphyllum|R|N
+epiphysis	noun	epiphysis|epiphysis|R|N
+epiphytically	adv	epiphytic|epiphytic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+epiphytotic	adj	epiphytotic|epiphytotic|R|Adj
+epiplankton	noun	epiplankton|epiplankton|R|N
+epiplastron	noun	epiplastron|epiplastron|R|N
+epiploon	noun	epiploon|epiploon|R|N
+epipodite	noun	epipodite|epipodite|R|N
+episcopally	adv	episcopal|episcopal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+episcope	noun	episcope|episcope|R|N
+episepalous	adj	episepalous|episepalous|R|Adj
+episodical	adj	episode|episod|R|N ; -ical|ical|S
+episomal	adj	episome|episom|R|N ; -al|al|S
+episome	noun	episome|episome|R|N
+epispastic	adj	epispastic|epispastic|R|Adj
+epispore	noun	epispore|epispore|R|N
+epistasis	noun	epistasis|epistasis|R|N
+epistasy	noun	epistasy|epistasy|R|N
+epistatic	adj	epistasis|epistat|R|N ; -ic|ic|S
+epistemologically	adv	epistemology|epistemolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+episternum	noun	episternum|episternum|R|N

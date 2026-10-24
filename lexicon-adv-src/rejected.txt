@@ -1,0 +1,10 @@
+satisfy	verb	satis-|satis|P||||Latin satis, 'enough' ; -fy|fy|S||||Latin -ficare, 'to make'	# no root
+ambition	noun	ambi-|amb|P||||Latin ambi- 'around' ; -ition|ition|S||||Latin -itio 'act, going'	# no root
+exotic	adj	exo-|exo|P||||Greek exo 'outside' ; -tic|tic|S||||Greek -tikos 'pertaining to'	# no root
+contrary	adj	contra-|contra|P||||Latin contra 'against' ; -ry|ry|S||||Latin -arius 'pertaining to'	# no root
+penultimate	adj	pene-|pen|P||||Latin paene 'almost' ; -ultimate|ultimate|R|Adj	# m1: free root has hyphen
+acupuncture	noun	acu-|acu|B|N|||Latin acus 'needle' ; -puncture|puncture|R|N	# m1: free root has hyphen
+primrose	noun	prim-|prim|B|Adj|||Latin primus 'first' ; -rose|rose|R|N	# m1: free root has hyphen
+supine	adj	sup-|sup|P||||Latin sub- 'under' ; -ine|ine|S||||Latin -inus 'pertaining to'	# no root
+virilocal	adj	viri-|viri|B|Adj|||Latin vir 'man' ; -local|local|R|Adj	# m1: free root has hyphen
+uxorilocal	adj	uxori-|uxori|B|N|||Latin uxor 'wife' ; -local|local|R|Adj	# m1: free root has hyphen

@@ -1,0 +1,200 @@
+bedroomless	adj	bed|bed|R|N ; room|room|R|N ; -less|less|S
+bedstraw	noun	bed|bed|R|N ; straw|straw|R|N
+bedtick	noun	bed|bed|R|N ; tick|tick|R|N
+bedwetter	noun	bed|bed|R|N ; wet|wett|R|V ; -er|er|S||-er (N)
+bedwetting	noun	bed|bed|R|N ; wet|wett|R|V ; -ing|ing|S||-ing (N)
+beebread	noun	bee|bee|R|N ; bread|bread|R|N
+beebrush	noun	bee|bee|R|N ; brush|brush|R|N
+beechen	adj	beech|beech|R|N ; -en|en|S
+beechmast	noun	beech|beech|R|N ; mast|mast|R|N
+beefed	verb	beef|beef|R|V ; -ed|ed|I||-ed (v2)
+beefiness	noun	beef|beef|R|N ; -y|i|S ; -ness|ness|S
+beemer	noun	beemer|beemer|R|N
+been	verb	be|been|R|V ; -en||I||-en (participle)
+beerhouse	noun	beer|beer|R|N ; house|house|R|N
+beestings	noun	bee|bee|R|N ; sting|sting|R|N ; -s|s|I||-s (plural)
+beeswarm	noun	bee|bee|R|N ; swarm|swarm|R|N
+beeswing	noun	beeswing|beeswing|R|N
+beetled	verb	beetle|beetl|R|V ; -ed|ed|I||-ed (v2)
+beetling	verb	beetle|beetl|R|V ; -ing|ing|I||-ing (v)
+beezer	noun	beezer|beezer|R|N
+befitting	adj	be-|be|P ; fit|fitt|R|V ; -ing|ing|S||-ing (adj)
+befittingly	adv	be-|be|P ; fit|fitt|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+befog	verb	be-|be|P ; fog|fog|R|V
+befogged	verb	be-|be|P ; fog|fogg|R|V ; -ed|ed|I||-ed (v2)
+befuddling	verb	be-|be|P ; fuddle|fuddl|R|V ; -ing|ing|I||-ing (v)
+beggardom	noun	beggar|beggar|R|N ; -dom|dom|S
+beggared	verb	beggar|beggar|R|V ; -ed|ed|I||-ed (v2)
+beggarliness	noun	beggar|beggar|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+beggary	noun	beggar|beggar|R|N ; -y|y|S
+begrime	verb	be-|be|P ; grime|grime|R|V
+begrimed	verb	be-|be|P ; grime|grim|R|V ; -ed|ed|I||-ed (v2)
+begrudged	verb	be-|be|P ; grudge|grudg|R|V ; -ed|ed|I||-ed (v2)
+begrudging	verb	be-|be|P ; grudge|grudg|R|V ; -ing|ing|I||-ing (v)
+beguilement	noun	beguile|beguile|R|V ; -ment|ment|S
+beguilingly	adv	beguile|beguil|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+beguinage	noun	beguinage|beguinage|R|N
+beguine	noun	beguine|beguine|R|N
+begun	verb	begin|begun|R|V ; -en||I||-en (participle)
+behaved	verb	behave|behav|R|V ; -ed|ed|I||-ed (v2)
+behaving	verb	behave|behav|R|V ; -ing|ing|I||-ing (v)
+behindhand	adj	behind|behind|R|Adv ; hand|hand|R|N
+behoof	noun	behoof|behoof|R|N
+bejel	noun	bejel|bejel|R|N
+bejewel	verb	be-|be|P ; jewel|jewel|R|N
+bel	noun	bel|bel|R|N
+belaud	verb	be-|be|P ; laud|laud|R|V
+beleaguer	verb	be-|be|P ; leaguer|leaguer|R|V
+belike	adv	be-|be|P ; like|like|R|Adv
+belittlement	noun	be-|be|P ; little|little|R|Adj ; -ment|ment|S
+belletrist	noun	belletrist|belletrist|R|N
+belletristic	adj	belletristic|belletristic|R|Adj
+bellgirl	noun	bell|bell|R|N ; girl|girl|R|N
+bellicism	noun	bellicism|bellicism|R|N
+bellicist	noun	bellicist|bellicist|R|N
+bellied	adj	belly|belli|R|N ; -ed|ed|S||-ed (adj)
+belling	verb	bell|bell|R|V ; -ing|ing|I||-ing (v)
+bellmaker	noun	bell|bell|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+bells	noun	bell|bell|R|N ; -s|s|I||-s (plural)
+bellwether	noun	bell|bell|R|N ; wether|wether|R|N
+bellyacher	noun	belly|belly|R|N ; ache|ach|R|V ; -er|er|S||-er (N)
+bellyaching	verb	belly|belly|R|N ; ache|ach|R|V ; -ing|ing|I||-ing (v)
+bellying	verb	belly|belly|R|V ; -ing|ing|I||-ing (v)
+belonging	noun	belong|belong|R|V ; -ing|ing|S||-ing (N)
+belting	noun	belt|belt|R|V ; -ing|ing|S||-ing (N)
+bemire	verb	be-|be|P ; mire|mire|R|V
+bemoaning	verb	be-|be|P ; moan|moan|R|V ; -ing|ing|I||-ing (v)
+bemusing	verb	be-|be|P ; muse|mus|R|V ; -ing|ing|I||-ing (v)
+bename	verb	be-|be|P ; name|name|R|V
+bendlet	noun	bend|bend|R|V ; -let|let|S
+bends	noun	bend|bend|R|N ; -s|s|I||-s (plural)
+benedick	noun	benedick|benedick|R|N
+benedictional	adj	benediction|benediction|R|N ; -al|al|S
+benedictory	adj	benediction|benedict|R|N ; -ory|ory|S
+beneficently	adv	beneficent|beneficent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+benefits	noun	benefit|benefit|R|N ; -s|s|I||-s (plural)
+benignancy	noun	benign|benign|R|Adj ; -ancy|ancy|S
+benignity	noun	benign|benign|R|Adj ; -ity|ity|S
+benison	noun	benison|benison|R|N
+bentonite	noun	bentonite|bentonite|R|N
+benumbed	verb	be-|be|P ; numb|numb|R|Adj ; -ed|ed|I||-ed (v2)
+benzaldehyde	noun	benzaldehyde|benzaldehyde|R|N
+benzedrine	noun	benzedrine|benzedrine|R|N
+benzoate	noun	benzoate|benzoate|R|N
+benzofuran	noun	benzofuran|benzofuran|R|N
+benzoic	adj	benzoic|benzoic|R|Adj
+benzoin	noun	benzoin|benzoin|R|N
+benzol	noun	benzol|benzol|R|N
+benzoline	noun	benzoline|benzoline|R|N
+benzopyrene	noun	benzopyrene|benzopyrene|R|N
+benzoyl	noun	benzoyl|benzoyl|R|N
+benzyl	noun	benzyl|benzyl|R|N
+benzylic	adj	benzylic|benzylic|R|Adj
+berating	verb	be-|be|P ; rate|rat|R|V ; -ing|ing|I||-ing (v)
+berberine	noun	berberine|berberine|R|N
+berberis	noun	berberis|berberis|R|N
+berceuse	noun	berceuse|berceuse|R|N
+berdache	noun	berdache|berdache|R|N
+bere	noun	bere|bere|R|N
+bergylt	noun	bergylt|bergylt|R|N
+berhyme	verb	be-|be|P ; rhyme|rhyme|R|V
+berkelium	noun	berkelium|berkelium|R|N
+berrying	verb	berry|berry|R|V ; -ing|ing|I||-ing (v)
+bersagliere	noun	bersagliere|bersagliere|R|N
+berthing	verb	berth|berth|R|V ; -ing|ing|I||-ing (v)
+besan	noun	besan|besan|R|N
+beseeming	adj	be-|be|P ; seem|seem|R|V ; -ing|ing|S||-ing (adj)
+beshbarmak	noun	beshbarmak|beshbarmak|R|N
+beslaver	verb	be-|be|P ; slaver|slaver|R|V
+beslobber	verb	be-|be|P ; slobber|slobber|R|V
+besmear	verb	be-|be|P ; smear|smear|R|V
+besmeared	verb	be-|be|P ; smear|smear|R|V ; -ed|ed|I||-ed (v2)
+besom	noun	besom|besom|R|N
+bespangle	verb	be-|be|P ; spangle|spangle|R|V
+bespangled	verb	be-|be|P ; spangle|spangl|R|V ; -ed|ed|I||-ed (v2)
+bespatter	verb	be-|be|P ; spatter|spatter|R|V
+bespattered	verb	be-|be|P ; spatter|spatter|R|V ; -ed|ed|I||-ed (v2)
+bespattering	verb	be-|be|P ; spatter|spatter|R|V ; -ing|ing|I||-ing (v)
+bestead	verb	be-|be|P ; stead|stead|R|V
+bestialize	verb	bestial|bestial|R|Adj ; -ize|ize|S
+bestially	adv	bestial|bestial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bestrew	verb	be-|be|P ; strew|strew|R|V
+betaine	noun	betaine|betaine|R|N
+betake	verb	be-|be|P ; take|take|R|V
+betalain	noun	betalain|betalain|R|N
+betamethasone	noun	betamethasone|betamethasone|R|N
+betanin	noun	betanin|betanin|R|N
+betatron	noun	betatron|betatron|R|N
+betelchewing	noun	betel|betel|R|N ; chew|chew|R|V ; -ing|ing|S||-ing (N)
+betelseller	noun	betel|betel|R|N ; sell|sell|R|V ; -er|er|S||-er (N)
+beth	noun	beth|beth|R|N
+bethink	verb	be-|be|P ; think|think|R|V
+bethought	verb	be-|be|P ; think|thought|R|V ; -ed||I||-ed (v2)
+bethylid	noun	bethylid|bethylid|R|N
+betides	verb	be-|be|P ; tide|tide|R|V ; -s|s|I||-s (3sg)
+betimes	adv	betimes|betimes|R|Adv
+betony	noun	betony|betony|R|N
+betta	noun	betta|betta|R|N
+betterer	noun	better|better|R|V ; -er|er|S||-er (N)
+bettering	verb	better|better|R|V ; -ing|ing|I||-ing (v)
+bevatron	noun	bevatron|bevatron|R|N
+bevelling	verb	bevel|bevell|R|V ; -ing|ing|I||-ing (v)
+bevor	noun	bevor|bevor|R|N
+bewailing	verb	be-|be|P ; wail|wail|R|V ; -ing|ing|I||-ing (v)
+bewray	verb	be-|be|P ; wray|wray|R|V
+bezant	noun	bezant|bezant|R|N
+bezique	noun	bezique|bezique|R|N
+bezoar	noun	bezoar|bezoar|R|N
+bhaji	noun	bhaji|bhaji|R|N
+bhang	noun	bhang|bhang|R|N
+bhavacakra	noun	bhavacakra|bhavacakra|R|N
+bhikkhu	noun	bhikkhu|bhikkhu|R|N
+bhikkhuni	noun	bhikkhuni|bhikkhuni|R|N
+biangular	adj	bi-|bi|P ; angle|angul|R|N ; -ar|ar|S
+biannually	adv	bi-|bi|P ; annual|annual|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+biathlete	noun	bi-|bi|P ; athlete|athlete|R|N
+bibber	noun	bib|bibb|R|V ; -er|er|S||-er (N)
+bibbers	noun	bib|bibb|R|V ; -er|er|S||-er (N) ; -s|s|I||-s (plural)
+bibimbap	noun	bibimbap|bibimbap|R|N
+biblicist	noun	biblicist|biblicist|R|N
+bibliofilm	noun	bibliofilm|bibliofilm|R|N
+bibliograph	noun	bibliograph|bibliograph|R|N
+bibliolater	noun	bibliolater|bibliolater|R|N
+bibliolatry	noun	bibliolatry|bibliolatry|R|N
+bibliology	noun	bibliology|bibliology|R|N
+bibliomancy	noun	bibliomancy|bibliomancy|R|N
+bibliomania	noun	bibliomania|bibliomania|R|N
+bibliomaniac	noun	bibliomaniac|bibliomaniac|R|N
+bibliometric	adj	bibliometric|bibliometric|R|Adj
+bibliometrics	noun	bibliometrics|bibliometrics|R|N
+bibliopegy	noun	bibliopegy|bibliopegy|R|N
+bibliophilia	noun	bibliophilia|bibliophilia|R|N
+bibliophilism	noun	bibliophilism|bibliophilism|R|N
+bibliophilist	noun	bibliophilist|bibliophilist|R|N
+bibliophobia	noun	bibliophobia|bibliophobia|R|N
+bibliopole	noun	bibliopole|bibliopole|R|N
+bibliopoly	noun	bibliopoly|bibliopoly|R|N
+bibliotherapy	noun	bibliotherapy|bibliotherapy|R|N
+biblist	noun	biblist|biblist|R|N
+bibulous	adj	bibulous|bibulous|R|Adj
+bicameralism	noun	bi-|bi|P ; camera|camer|R|N ; -al|al|S ; -ism|ism|S
+bicategory	noun	bi-|bi|P ; category|category|R|N
+bicephalous	adj	bicephalous|bicephalous|R|Adj
+bicharacteristic	adj	bi-|bi|P ; characteristic|characteristic|R|Adj
+bichloride	noun	bi-|bi|P ; chloride|chloride|R|N
+bichon	noun	bichon|bichon|R|N
+bichromate	noun	bi-|bi|P ; chromate|chromate|R|N
+biclique	noun	bi-|bi|P ; clique|clique|R|N
+bicolour	adj	bi-|bi|P ; colour|colour|R|N
+biconcave	adj	bi-|bi|P ; concave|concave|R|Adj
+bicone	noun	bi-|bi|P ; cone|cone|R|N
+biconvex	adj	bi-|bi|P ; convex|convex|R|Adj
+bicorn	adj	bi-|bi|P ; corn|corn|R|N
+biculturalism	noun	bi-|bi|P ; culture|cultur|R|N ; -al|al|S ; -ism|ism|S
+bicuspid	adj	bi-|bi|P ; cuspid|cuspid|R|N
+bicycler	noun	bicycle|bicycl|R|N ; -er|er|S||-er (N)
+bident	noun	bi-|bi|P ; dent|dent|R|N
+bidialectal	adj	bi-|bi|P ; dialect|dialect|R|N ; -al|al|S
+bidon	noun	bidon|bidon|R|N
+bidual	adj	bi-|bi|P ; dual|dual|R|Adj
+biennale	noun	biennale|biennale|R|N

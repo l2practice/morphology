@@ -1,0 +1,200 @@
+tractrix	noun	tractrix|tractrix|R|N
+tradesfolk	noun	trade|trades|R|N ; folk|folk|R|N
+traditionalistic	adj	traditional|traditional|R|Adj ; -ist|ist|S ; -ic|ic|S
+traditionalize	verb	traditional|traditional|R|Adj ; -ize|ize|S
+traditionary	adj	tradition|tradition|R|N ; -ary|ary|S
+traducement	noun	traduce|traduce|R|V ; -ment|ment|S
+traducer	noun	traduce|traduc|R|V ; -er|er|S||-er (N)
+traducian	noun	traducian|traducian|R|N
+traducianism	noun	traducian|traducian|R|N ; -ism|ism|S
+traducing	verb	traduce|traduc|R|V ; -ing|ing|I||-ing (v)
+trafficator	noun	trafficator|trafficator|R|N
+tragacanth	noun	tragacanth|tragacanth|R|N
+tragedienne	noun	tragedienne|tragedienne|R|N
+tragicomedic	adj	tragic|tragic|R|Adj ; comedic|omedic|R|Adj
+tragicomical	adj	tragic|tragic|R|Adj ; comical|omical|R|Adj
+tragus	noun	tragus|tragus|R|N
+trahira	noun	trahira|trahira|R|N
+trailblaze	verb	trail|trail|R|N ; blaze|blaze|R|V
+trainable	adj	train|train|R|V ; -able|able|S
+trainband	noun	train|train|R|N ; band|band|R|N
+traineeship	noun	train|train|R|V ; -ee|ee|S ; -ship|ship|S
+trainless	adj	train|train|R|N ; -less|less|S
+trainman	noun	train|train|R|N ; man|man|R|N
+trainmaster	noun	train|train|R|N ; master|master|R|N
+traipsing	verb	traipse|traips|R|V ; -ing|ing|I||-ing (v)
+traitorously	adv	traitor|traitor|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+traitorousness	noun	traitor|traitor|R|N ; -ous|ous|S ; -ness|ness|S
+tramadol	noun	tramadol|tramadol|R|N
+trammelling	verb	trammel|trammell|R|V ; -ing|ing|I||-ing (v)
+trammer	noun	tram|tramm|R|N ; -er|er|S||-er (N)
+tramming	verb	tram|tramm|R|V ; -ing|ing|I||-ing (v)
+tramontane	noun	tramontane|tramontane|R|N
+tramper	noun	tramp|tramp|R|V ; -er|er|S||-er (N)
+tramping	verb	tramp|tramp|R|V ; -ing|ing|I||-ing (v)
+trampler	noun	trample|trampl|R|V ; -er|er|S||-er (N)
+trampoliner	noun	trampoline|trampolin|R|N ; -er|er|S||-er (N)
+trampolining	noun	trampoline|trampolin|R|N ; -ing|ing|S||-ing (N)
+trampolinist	noun	trampoline|trampolin|R|N ; -ist|ist|S
+tramroad	noun	tram|tram|R|N ; road|road|R|N
+tranny	noun	tranny|tranny|R|N
+tranquillization	noun	tranquillize|tranquilliz|R|V ; -ation|ation|S
+trans	adj	trans|trans|R|Adj
+transactor	noun	transact|transact|R|V ; -or|or|S
+transalpine	adj	trans-|trans|P ; alpine|alpine|R|Adj
+transaminase	noun	transaminase|transaminase|R|N
+transamination	noun	trans-|trans|P ; amine|amin|R|N ; -ation|ation|S
+transavantgarde	adj	trans-|trans|P ; avantgarde|avantgarde|R|N
+transbian	noun	transbian|transbian|R|N
+transcalent	adj	transcalent|transcalent|R|Adj
+transceive	verb	trans-|trans|P ; -ceive|ceive|B|V
+transcendency	noun	transcendent|transcend|R|Adj ; -ency|ency|S
+transclude	verb	trans-|trans|P ; -clude|clude|B|V
+transclusion	noun	trans-|trans|P ; -clude|clus|B|V ; -ion|ion|S
+transcode	verb	trans-|trans|P ; code|code|R|V
+transconductance	noun	trans-|trans|P ; conduct|conduct|R|V ; -ance|ance|S
+transcreation	noun	trans-|trans|P ; create|creat|R|V ; -ion|ion|S
+transcriptome	noun	transcriptome|transcriptome|R|N
+transduce	verb	trans-|trans|P ; -duce|duce|B|V
+transeptal	adj	trans-|tran|P ; septal|septal|R|Adj
+transfem	adj	transfem|transfem|R|Adj
+transfemicide	noun	trans-|trans|P ; femicide|femicide|R|N
+transfeminism	noun	trans-|trans|P ; feminism|feminism|R|N
+transfeminist	noun	trans-|trans|P ; feminist|feminist|R|N
+transferal	noun	transfer|transfer|R|V ; -al|al|S
+transferase	noun	transferase|transferase|R|N
+transferrer	noun	transfer|transferr|R|V ; -er|er|S||-er (N)
+transferring	verb	transfer|transferr|R|V ; -ing|ing|I||-ing (v)
+transfinite	adj	trans-|trans|P ; finite|finite|R|Adj
+transfixed	adj	trans-|trans|P ; fix|fix|R|V ; -ed|ed|S||-ed (adj)
+transfixion	noun	trans-|trans|P ; fix|fix|R|V ; -ion|ion|S
+transfluent	adj	trans-|trans|P ; fluent|fluent|R|Adj
+transformable	adj	trans-|trans|P ; form|form|R|N ; -able|able|S
+transformationalist	noun	trans-|trans|P ; form|form|R|N ; -ation|ation|S ; -al|al|S ; -ist|ist|S
+transformism	noun	trans-|trans|P ; form|form|R|N ; -ism|ism|S
+transformist	noun	trans-|trans|P ; form|form|R|N ; -ist|ist|S
+transfusionist	noun	trans-|trans|P ; fuse|fus|R|V ; -ion|ion|S ; -ist|ist|S
+transfusive	adj	trans-|trans|P ; fuse|fus|R|V ; -ive|ive|S
+transgender	adj	trans-|trans|P ; gender|gender|R|N
+transgendercide	noun	trans-|trans|P ; gendercide|gendercide|R|N
+transgenderism	noun	trans-|trans|P ; gender|gender|R|N ; -ism|ism|S
+transgenerational	adj	trans-|trans|P ; generational|generational|R|Adj
+transgenesis	noun	trans-|trans|P ; genesis|genesis|R|N
+tranship	verb	trans-|trans|P ; ship|hip|R|V
+transhumance	noun	transhumance|transhumance|R|N
+transhumanism	noun	trans-|trans|P ; humanism|humanism|R|N
+transhumant	adj	transhumant|transhumant|R|Adj
+transidentity	noun	trans-|trans|P ; identity|identity|R|N
+transiency	noun	transient|transi|R|Adj ; -ency|ency|S
+transilient	adj	transilient|transilient|R|Adj
+transilluminate	verb	trans-|trans|P ; illuminate|illuminate|R|V
+transillumination	noun	trans-|trans|P ; illuminate|illuminat|R|V ; -ion|ion|S
+transinformation	noun	trans-|trans|P ; information|information|R|N
+transistorization	noun	transistor|transistor|R|N ; -ize|iz|S ; -ation|ation|S
+transistorize	verb	transistor|transistor|R|N ; -ize|ize|S
+transistorized	adj	transistor|transistor|R|N ; -ize|iz|S ; -ed|ed|S||-ed (adj)
+transiting	verb	transit|transit|R|V ; -ing|ing|I||-ing (v)
+transitionally	adv	transit|transit|R|V ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+transitionary	adj	transit|transit|R|V ; -ion|ion|S ; -ary|ary|S
+transitively	adv	transit|transit|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+transitiveness	noun	transit|transit|R|V ; -ive|ive|S ; -ness|ness|S
+transitology	noun	transitology|transitology|R|N
+transitorily	adv	transit|transit|R|V ; -ory|ori|S ; -ly|ly|I|Adv|-ly (adv)
+transitoriness	noun	transit|transit|R|V ; -ory|ori|S ; -ness|ness|S
+translatability	noun	translate|translat|R|V ; -able|abil|S ; -ity|ity|S
+translationary	adj	translate|translat|R|V ; -ion|ion|S ; -ary|ary|S
+translationese	noun	translationese|translationese|R|N
+translative	adj	translate|translat|R|V ; -ive|ive|S
+translatologist	noun	translatology|translatolog|R|N ; -ist|ist|S
+translatress	noun	translatress|translatress|R|N
+translingual	adj	trans-|trans|P ; lingual|lingual|R|Adj
+transliterate	verb	transliterate|transliterate|R|V
+transliterated	verb	transliterate|transliterate|R|V ; -ed|d|I||-ed (v2)
+transmarine	adj	trans-|trans|P ; marine|marine|R|Adj
+transmembrane	adj	trans-|trans|P ; membrane|membrane|R|N
+transmigrant	noun	trans-|trans|P ; migrant|migrant|R|N
+transmigrate	verb	trans-|trans|P ; migrate|migrate|R|V
+transmigrator	noun	trans-|trans|P ; migrate|migrat|R|V ; -or|or|S
+transmigratory	adj	trans-|trans|P ; migrate|migrat|R|V ; -ory|ory|S
+transmisogyny	noun	trans-|trans|P ; misogyny|misogyny|R|N
+transmissive	adj	transmit|transmiss|R|V ; -ive|ive|S
+transmogrification	noun	transmogrify|transmogrifi|R|V ; -ation|cation|S
+transmogrified	verb	transmogrify|transmogrifi|R|V ; -ed|ed|I||-ed (v2)
+transmontane	adj	trans-|trans|P ; montane|montane|R|Adj
+transmutability	noun	transmute|transmut|R|V ; -able|abil|S ; -ity|ity|S
+transmutable	adj	transmute|transmut|R|V ; -able|able|S
+transmutative	adj	transmute|transmut|R|V ; -ative|ative|S
+transness	noun	trans|trans|R|Adj ; -ness|ness|S
+transonic	adj	trans-|tran|P ; sonic|sonic|R|Adj
+transonics	noun	transonics|transonics|R|N
+transpacific	adj	trans-|trans|P ; pacific|pacific|R|Adj
+transparence	noun	transparent|transpar|R|Adj ; -ence|ence|S
+transphile	noun	transphile|transphile|R|N
+transphobe	noun	transphobe|transphobe|R|N
+transphobia	noun	transphobia|transphobia|R|N
+transphobic	adj	transphobic|transphobic|R|Adj
+transpicuous	adj	transpicuous|transpicuous|R|Adj
+transpierce	verb	trans-|trans|P ; pierce|pierce|R|V
+transpirometer	noun	transpirometer|transpirometer|R|N
+transplantable	adj	trans-|trans|P ; plant|plant|R|V ; -able|able|S
+transplanter	noun	trans-|trans|P ; plant|plant|R|V ; -er|er|S||-er (N)
+transpolar	adj	trans-|trans|P ; polar|polar|R|Adj
+transportability	noun	transport|transport|R|V ; -able|abil|S ; -ity|ity|S
+transporting	verb	transport|transport|R|V ; -ing|ing|I||-ing (v)
+transposing	verb	trans-|trans|P ; pose|pos|R|V ; -ing|ing|I||-ing (v)
+transpositive	adj	trans-|trans|P ; positive|positive|R|Adj
+transrealism	noun	trans-|trans|P ; realism|realism|R|N
+transseptal	adj	trans-|trans|P ; septal|septal|R|Adj
+transsexuality	noun	trans-|trans|P ; sexual|sexual|R|Adj ; -ity|ity|S
+transship	verb	trans-|trans|P ; ship|ship|R|V
+transshipping	verb	trans-|trans|P ; ship|shipp|R|V ; -ing|ing|I||-ing (v)
+transubstantiate	verb	trans-|tran|P ; substantiate|substantiate|R|V
+transudate	noun	transudate|transudate|R|N
+transudation	noun	transudate|transudat|R|V ; -ion|ion|S
+transudatory	adj	transudate|transudat|R|V ; -ory|ory|S
+transude	verb	transude|transude|R|V
+transuranic	adj	trans-|trans|P ; uranic|uranic|R|Adj
+transuranium	noun	trans-|trans|P ; uranium|uranium|R|N
+transvalue	verb	trans-|trans|P ; value|value|R|N
+transvection	noun	transvection|transvection|R|N
+transversal	adj	transverse|transvers|R|Adj ; -al|al|S
+transversality	noun	transversal|transversal|R|Adj ; -ity|ity|S
+transversion	noun	transverse|transvers|R|Adj ; -ion|ion|S
+transverter	noun	transverter|transverter|R|N
+trapes	verb	trapes|trapes|R|V
+trapeziform	adj	trapeziform|trapeziform|R|Adj
+trapezist	noun	trapeze|trapez|R|N ; -ist|ist|S
+trapezite	noun	trapezite|trapezite|R|N
+trapezium	noun	trapezium|trapezium|R|N
+trapezohedron	noun	trapezohedron|trapezohedron|R|N
+trappy	adj	trap|trapp|R|N ; -y|y|S
+traps	noun	trap|trap|R|N ; -s|s|I||-s (plural)
+trapshooter	noun	trap|trap|R|N ; shoot|shoot|R|V ; -er|er|S||-er (N)
+trashfire	noun	trash|trash|R|N ; fire|fire|R|N
+trashiness	noun	trash|trash|R|N ; -y|i|S ; -ness|ness|S
+trashman	noun	trash|trash|R|N ; man|man|R|N
+trass	noun	trass|trass|R|N
+traumatism	noun	traumatism|traumatism|R|N
+traumatization	noun	traumatize|traumatiz|R|V ; -ation|ation|S
+traumatologist	noun	traumatology|traumatolog|R|N ; -ist|ist|S
+traumatology	noun	traumatology|traumatology|R|N
+travailing	verb	travail|travail|R|V ; -ing|ing|I||-ing (v)
+travelled	verb	travel|travell|R|V ; -ed|ed|I||-ed (v2)
+traversable	adj	traverse|travers|R|V ; -able|able|S
+traversing	verb	traverse|travers|R|V ; -ing|ing|I||-ing (v)
+trayful	noun	tray|tray|R|N ; -ful|ful|S
+treacherousness	noun	treachery|treacher|R|N ; -ous|ous|S ; -ness|ness|S
+treadler	noun	treadle|treadl|R|V ; -er|er|S||-er (N)
+treadless	adj	tread|tread|R|N ; -less|less|S
+treadling	verb	treadle|treadl|R|V ; -ing|ing|I||-ing (v)
+treasonably	adv	treason|treason|R|N ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+treasurership	noun	treasure|treasur|R|V ; -er|er|S||-er (N) ; -ship|ship|S
+treating	verb	treat|treat|R|V ; -ing|ing|I||-ing (v)
+trebly	adv	treble|trebl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+trecentist	noun	trecento|trecent|R|N ; -ist|ist|S
+tredecillion	noun	tredecillion|tredecillion|R|N
+treebank	noun	tree|tree|R|N ; bank|bank|R|N
+treecreeper	noun	tree|tree|R|N ; creep|creep|R|V ; -er|er|S||-er (N)
+treed	verb	tree|tre|R|V ; -ed|ed|I||-ed (v2)
+treeing	verb	tree|tree|R|V ; -ing|ing|I||-ing (v)
+treelet	noun	tree|tree|R|N ; -let|let|S

@@ -1,0 +1,200 @@
+hearteningly	adv	heart|heart|R|N ; -en|en|S ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+heartrending	adj	heart|heart|R|N ; rend|rend|R|V ; -ing|ing|S||-ing (adj)
+heartsease	noun	heart|hearts|R|N ; ease|ease|R|N
+heartsore	adj	heart|heart|R|N ; sore|sore|R|Adj
+heartstrings	noun	heart|heart|R|N ; string|string|R|N ; -s|s|I||-s (plural)
+heartwrenching	adj	heart|heart|R|N ; wrench|wrench|R|V ; -ing|ing|S||-ing (adj)
+heartwrenchingly	adv	heart|heart|R|N ; wrench|wrench|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+heathendom	noun	heathen|heathen|R|N ; -dom|dom|S
+heathenish	adj	heathen|heathen|R|N ; -ish|ish|S
+heathenize	verb	heathen|heathen|R|N ; -ize|ize|S
+heathenry	noun	heathen|heathen|R|N ; -ry|ry|S
+heathy	adj	heath|heath|R|N ; -y|y|S
+heats	noun	heat|heat|R|N ; -s|s|I||-s (plural)
+heavenliness	noun	heaven|heaven|R|N ; -ly|li|S ; -ness|ness|S
+heavens	noun	heaven|heaven|R|N ; -s|s|I||-s (plural)
+heaver	noun	heave|heav|R|V ; -er|er|S||-er (N)
+heaves	verb	heave|heave|R|V ; -s|s|I||-s (3sg)
+heavyset	adj	heavy|heavy|R|Adj ; set|set|R|V
+hebdomad	noun	hebdomad|hebdomad|R|N
+hebdomadal	adj	hebdomad|hebdomad|R|N ; -al|al|S
+hebdomadary	adj	hebdomad|hebdomad|R|N ; -ary|ary|S
+hebephrenia	noun	hebephrenia|hebephrenia|R|N
+hebephrenic	adj	hebephrenia|hebephren|R|N ; -ic|ic|S
+hebetate	verb	hebetate|hebetate|R|V
+hebetude	noun	hebetude|hebetude|R|N
+heboid	adj	heboid|heboid|R|Adj
+hectogon	noun	hectogon|hectogon|R|N
+hectogram	noun	hectogram|hectogram|R|N
+hectograph	noun	hectograph|hectograph|R|N
+hectohedron	noun	hectohedron|hectohedron|R|N
+hectometre	noun	hectometre|hectometre|R|N
+hectopascal	noun	hectopascal|hectopascal|R|N
+hectowatt	noun	hectowatt|hectowatt|R|N
+heddle	noun	heddle|heddle|R|N
+heedful	adj	heed|heed|R|V ; -ful|ful|S
+heedfulness	noun	heed|heed|R|V ; -ful|ful|S ; -ness|ness|S
+heeling	verb	heel|heel|R|V ; -ing|ing|I||-ing (v)
+heels	noun	heel|heel|R|N ; -s|s|I||-s (plural)
+heeltap	noun	heel|heel|R|N ; tap|tap|R|N
+heffalump	noun	heffalump|heffalump|R|N
+hegemon	noun	hegemon|hegemon|R|N
+hegira	noun	hegira|hegira|R|N
+hegumen	noun	hegumen|hegumen|R|N
+hehe	interj	hehe|hehe|R|N
+heights	noun	height|height|R|N ; -s|s|I||-s (plural)
+heil	interj	heil|heil|R|N
+heinously	adv	heinous|heinous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+heinousness	noun	heinous|heinous|R|Adj ; -ness|ness|S
+heirdom	noun	heir|heir|R|N ; -dom|dom|S
+heirless	adj	heir|heir|R|N ; -less|less|S
+heirship	noun	heir|heir|R|N ; -ship|ship|S
+heldentenor	noun	heldentenor|heldentenor|R|N
+heliacal	adj	heliacal|heliacal|R|Adj
+helianthemum	noun	helianthemum|helianthemum|R|N
+helianthus	noun	helianthus|helianthus|R|N
+heliborne	adj	heliborne|heliborne|R|Adj
+heliciculture	noun	heliciculture|heliciculture|R|N
+helicity	noun	helicity|helicity|R|N
+helicoid	noun	helicoid|helicoid|R|N
+helicoidal	adj	helicoidal|helicoidal|R|Adj
+helicon	noun	helicon|helicon|R|N
+helilift	noun	helilift|helilift|R|N
+heliocentrism	noun	heliocentrism|heliocentrism|R|N
+heliochromy	noun	heliochromy|heliochromy|R|N
+heliogram	noun	heliogram|heliogram|R|N
+heliograph	noun	heliograph|heliograph|R|N
+heliographic	adj	heliography|heliograph|R|N ; -ic|ic|S
+heliography	noun	heliography|heliography|R|N
+heliogravure	noun	heliogravure|heliogravure|R|N
+heliolatrous	adj	heliolatrous|heliolatrous|R|Adj
+heliolatry	noun	heliolatry|heliolatry|R|N
+heliolithic	adj	heliolithic|heliolithic|R|Adj
+heliometer	noun	heliometer|heliometer|R|N
+heliometric	adj	heliometer|heliometr|R|N ; -ic|ic|S
+helion	noun	helion|helion|R|N
+heliopause	noun	heliopause|heliopause|R|N
+heliophilous	adj	heliophilous|heliophilous|R|Adj
+heliophobic	adj	heliophobic|heliophobic|R|Adj
+heliophyte	noun	heliophyte|heliophyte|R|N
+helioscope	noun	helioscope|helioscope|R|N
+heliosphere	noun	heliosphere|heliosphere|R|N
+heliostat	noun	heliostat|heliostat|R|N
+heliosynchronous	adj	heliosynchronous|heliosynchronous|R|Adj
+heliotaxis	noun	heliotaxis|heliotaxis|R|N
+heliotheism	noun	heliotheism|heliotheism|R|N
+heliotherapy	noun	heliotherapy|heliotherapy|R|N
+heliotropic	adj	heliotropic|heliotropic|R|Adj
+heliotropism	noun	heliotropism|heliotropism|R|N
+heliozoan	noun	heliozoan|heliozoan|R|N
+heliozoic	adj	heliozoic|heliozoic|R|Adj
+helistop	noun	helistop|helistop|R|N
+hellbender	noun	hell|hell|R|N ; bend|bend|R|V ; -er|er|S||-er (N)
+hellbox	noun	hell|hell|R|N ; box|box|R|N
+helleborine	noun	helleborine|helleborine|R|N
+hellgrammite	noun	hellgrammite|hellgrammite|R|N
+hellishness	noun	hell|hell|R|N ; -ish|ish|S ; -ness|ness|S
+hellkite	noun	hell|hell|R|N ; kite|kite|R|N
+helminthiasis	noun	helminthiasis|helminthiasis|R|N
+helminthic	adj	helminth|helminth|R|N ; -ic|ic|S
+helminthology	noun	helminthology|helminthology|R|N
+helot	noun	helot|helot|R|N
+helotry	noun	helot|helot|R|N ; -ry|ry|S
+helve	noun	helve|helve|R|N
+hemal	adj	hemal|hemal|R|Adj
+hematemesis	noun	hematemesis|hematemesis|R|N
+hematic	adj	hematic|hematic|R|Adj
+hematin	noun	hematin|hematin|R|N
+hematoencephalic	adj	hematoencephalic|hematoencephalic|R|Adj
+hematopoiesis	noun	hematopoiesis|hematopoiesis|R|N
+hematospermia	noun	hematospermia|hematospermia|R|N
+hematuria	noun	hematuria|hematuria|R|N
+hemelytron	noun	hemelytron|hemelytron|R|N
+hemeralopia	noun	hemeralopia|hemeralopia|R|N
+hemeralopic	adj	hemeralopia|hemeralop|R|N ; -ic|ic|S
+hemerology	noun	hemerology|hemerology|R|N
+hemiacetal	noun	hemiacetal|hemiacetal|R|N
+hemianopsia	noun	hemianopsia|hemianopsia|R|N
+hemicellulose	noun	hemicellulose|hemicellulose|R|N
+hemicorporectomy	noun	hemicorporectomy|hemicorporectomy|R|N
+hemicryptophyte	noun	hemicryptophyte|hemicryptophyte|R|N
+hemicycle	noun	hemicycle|hemicycle|R|N
+hemidemisemiquaver	noun	hemidemisemiquaver|hemidemisemiquaver|R|N
+hemimorphite	noun	hemimorphite|hemimorphite|R|N
+hemiola	noun	hemiola|hemiola|R|N
+hemiparasite	noun	hemiparasite|hemiparasite|R|N
+hemiparesis	noun	hemiparesis|hemiparesis|R|N
+hemipter	noun	hemipter|hemipter|R|N
+hemipteran	noun	hemipter|hemipter|R|N ; -an|an|S
+hemipterous	adj	hemipter|hemipter|R|N ; -ous|ous|S
+hemispherectomy	noun	hemispherectomy|hemispherectomy|R|N
+hemistich	noun	hemistich|hemistich|R|N
+hemochromatosis	noun	hemochromatosis|hemochromatosis|R|N
+hemocyanin	noun	hemocyanin|hemocyanin|R|N
+hemoderivative	noun	hemoderivative|hemoderivative|R|N
+hemodynamics	noun	hemodynamics|hemodynamics|R|N
+hemoglobinuria	noun	hemoglobinuria|hemoglobinuria|R|N
+hemolymph	noun	hemolymph|hemolymph|R|N
+hemolysin	noun	hemolysin|hemolysin|R|N
+hemolysis	noun	hemolysis|hemolysis|R|N
+hemopathy	noun	hemopathy|hemopathy|R|N
+hemorrhoidal	adj	hemorrhoid|hemorrhoid|R|N ; -al|al|S
+hemorrhoidectomy	noun	hemorrhoidectomy|hemorrhoidectomy|R|N
+hemostat	noun	hemostat|hemostat|R|N
+hemotherapy	noun	hemotherapy|hemotherapy|R|N
+hemothorax	noun	hemothorax|hemothorax|R|N
+hemovore	noun	hemovore|hemovore|R|N
+hempen	adj	hemp|hemp|R|N ; -en|en|S
+hempseed	noun	hemp|hemp|R|N ; seed|seed|R|N
+hemstitch	verb	hem|hem|R|V ; stitch|stitch|R|V
+henbane	noun	hen|hen|R|N ; bane|bane|R|N
+henbit	noun	hen|hen|R|N ; bit|bit|R|N
+hendecagon	noun	hendecagon|hendecagon|R|N
+hendecagonal	adj	hendecagon|hendecagon|R|N ; -al|al|S
+hendecahedral	adj	hendecahedron|hendecahedr|R|N ; -al|al|S
+hendecahedron	noun	hendecahedron|hendecahedron|R|N
+hendecasyllabic	adj	hendecasyllabic|hendecasyllabic|R|Adj
+hendecasyllable	noun	hendecasyllable|hendecasyllable|R|N
+hendiadys	noun	hendiadys|hendiadys|R|N
+heneicosane	noun	heneicosane|heneicosane|R|N
+henequen	noun	henequen|henequen|R|N
+henfish	noun	hen|hen|R|N ; fish|fish|R|N
+hennaed	adj	henna|henna|R|N ; -ed|ed|S||-ed (adj)
+hennery	noun	hen|henn|R|N ; -ery|ery|S
+hennin	noun	hennin|hennin|R|N
+henny	noun	hen|henn|R|N ; -y|y|S
+henotheism	noun	henotheism|henotheism|R|N
+henotheist	noun	henotheism|henothe|R|N ; -ist|ist|S
+henotheistic	adj	henotheist|henotheist|R|N ; -ic|ic|S
+henpeck	verb	hen|hen|R|N ; peck|peck|R|V
+henpecked	adj	hen|hen|R|N ; peck|peck|R|V ; -ed|ed|S||-ed (adj)
+henpecking	verb	hen|hen|R|N ; peck|peck|R|V ; -ing|ing|I||-ing (v)
+hentai	noun	hentai|hentai|R|N
+hentaigana	noun	hentaigana|hentaigana|R|N
+hep	adj	hep|hep|R|Adj
+hepatectomy	noun	hepatectomy|hepatectomy|R|N
+hepatica	noun	hepatica|hepatica|R|N
+hepatite	noun	hepatite|hepatite|R|N
+hepatization	noun	hepatize|hepatiz|R|V ; -ation|ation|S
+hepatize	verb	hepatize|hepatize|R|V
+hepatologist	noun	hepatology|hepatolog|R|N ; -ist|ist|S
+hepatology	noun	hepatology|hepatology|R|N
+hepatoma	noun	hepatoma|hepatoma|R|N
+hepatomegaly	noun	hepatomegaly|hepatomegaly|R|N
+hepatopancreas	noun	hepatopancreas|hepatopancreas|R|N
+hepatopathy	noun	hepatopathy|hepatopathy|R|N
+hepatotoxic	adj	hepatotoxic|hepatotoxic|R|Adj
+hepatotoxin	noun	hepatotoxin|hepatotoxin|R|N
+hepcat	noun	hep|hep|R|Adj ; cat|cat|R|N
+heptachord	noun	heptachord|heptachord|R|N
+heptacontagon	noun	heptacontagon|heptacontagon|R|N
+heptacosane	noun	heptacosane|heptacosane|R|N
+heptad	noun	heptad|heptad|R|N
+heptadecagon	noun	heptadecagon|heptadecagon|R|N
+heptadecahedron	noun	heptadecahedron|heptadecahedron|R|N
+heptadecane	noun	heptadecane|heptadecane|R|N
+heptagon	noun	heptagon|heptagon|R|N
+heptagonal	adj	heptagon|heptagon|R|N ; -al|al|S
+heptagram	noun	heptagram|heptagram|R|N
+heptahedral	adj	heptahedron|heptahedr|R|N ; -al|al|S
+heptahedron	noun	heptahedron|heptahedron|R|N

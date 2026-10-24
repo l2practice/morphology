@@ -1,0 +1,200 @@
+jugglery	noun	juggle|juggl|R|V ; -ery|ery|S
+jughandle	noun	jug|jug|R|N ; handle|handle|R|N
+jugulate	verb	jugulate|jugulate|R|V
+jugulum	noun	jugulum|jugulum|R|N
+jugum	noun	jugum|jugum|R|N
+juiceless	adj	juice|juice|R|N ; -less|less|S
+juicily	adv	juicy|juici|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+juicing	verb	juice|juic|R|V ; -ing|ing|I||-ing (v)
+jujube	noun	jujube|jujube|R|N
+jumbling	verb	jumble|jumbl|R|V ; -ing|ing|I||-ing (v)
+jumbly	adj	jumble|jumbl|R|V ; -y|y|S
+jumbuck	noun	jumbuck|jumbuck|R|N
+jumpiness	noun	jumpy|jumpi|R|Adj ; -ness|ness|S
+jumps	noun	jump|jump|R|N ; -s|s|I||-s (plural)
+jun	noun	jun|jun|R|N
+junco	noun	junco|junco|R|N
+junctional	adj	junction|junction|R|N ; -al|al|S
+junctural	adj	juncture|junctur|R|N ; -al|al|S
+june	noun	june|june|R|N
+junglefowl	noun	jungle|jungle|R|N ; fowl|fowl|R|N
+juniority	noun	junior|junior|R|N ; -ity|ity|S
+juniors	noun	junior|junior|R|N ; -s|s|I||-s (plural)
+junkerism	noun	junker|junker|R|N ; -ism|ism|S
+junketer	noun	junket|junket|R|V ; -er|er|S||-er (N)
+junketing	verb	junket|junket|R|V ; -ing|ing|I||-ing (v)
+jupiter	noun	jupiter|jupiter|R|N
+jurally	adv	jural|jural|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+jurat	noun	jurat|jurat|R|N
+juratory	adj	jurat|jurat|R|N ; -ory|ory|S
+jurisconsult	noun	jurisconsult|jurisconsult|R|N
+jurisprudent	noun	jurisprudent|jurisprudent|R|N
+juristic	adj	jurist|jurist|R|N ; -ic|ic|S
+juristically	adv	jurist|jurist|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+juryman	noun	jury|jury|R|N ; man|man|R|N
+jurywoman	noun	jury|jury|R|N ; woman|woman|R|N
+jussive	adj	jussive|jussive|R|Adj
+justiceship	noun	justice|justice|R|N ; -ship|ship|S
+justiciability	noun	justiciable|justiciab|R|Adj ; -ity|ility|S
+justiciar	noun	justiciar|justiciar|R|N
+justiciary	noun	justiciary|justiciary|R|N
+justifiability	noun	justifiable|justifiab|R|Adj ; -ity|ility|S
+justifiableness	noun	justifiable|justifiabl|R|Adj ; -ness|eness|S
+justificative	adj	justify|justifi|R|V ; -ative|cative|S
+jutty	adj	jut|jutt|R|V ; -y|y|S
+juvenescence	noun	juvenescence|juvenescence|R|N
+juvenescent	adj	juvenescent|juvenescent|R|Adj
+juvenilely	adv	juvenile|juvenile|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+juvenileness	noun	juvenile|juvenile|R|Adj ; -ness|ness|S
+juvenility	noun	juvenile|juvenil|R|Adj ; -ity|ity|S
+juvie	noun	juvie|juvie|R|N
+juxtaposing	verb	juxtapose|juxtapos|R|V ; -ing|ing|I||-ing (v)
+juxtapositional	adj	juxtapose|juxtapos|R|V ; -ition|ition|S ; -al|al|S
+juz	noun	juz|juz|R|N
+kaalgat	noun	kaalgat|kaalgat|R|N
+kaama	noun	kaama|kaama|R|N
+kabaddi	noun	kabaddi|kabaddi|R|N
+kaboom	interj	kaboom|kaboom|R
+kabuto	noun	kabuto|kabuto|R|N
+kachumber	noun	kachumber|kachumber|R|N
+kadam	noun	kadam|kadam|R|N
+kaddish	noun	kaddish|kaddish|R|N
+kaffeeklatsch	noun	kaffeeklatsch|kaffeeklatsch|R|N
+kago	noun	kago|kago|R|N
+kahawai	noun	kahawai|kahawai|R|N
+kaiju	noun	kaiju|kaiju|R|N
+kail	noun	kail|kail|R|N
+kailan	noun	kailan|kailan|R|N
+kailyard	noun	kail|kail|R|N ; yard|yard|R|N
+kainite	noun	kainite|kainite|R|N
+kairomone	noun	kairomone|kairomone|R|N
+kaiserdom	noun	kaiser|kaiser|R|N ; -dom|dom|S
+kaiserschmarrn	noun	kaiserschmarrn|kaiserschmarrn|R|N
+kaizen	noun	kaizen|kaizen|R|N
+kajawah	noun	kajawah|kajawah|R|N
+kaka	noun	kaka|kaka|R|N
+kakapo	noun	kakapo|kakapo|R|N
+kakemono	noun	kakemono|kakemono|R|N
+kaki	noun	kaki|kaki|R|N
+kakistocracy	noun	kakistocracy|kakistocracy|R|N
+kalach	noun	kalach|kalach|R|N
+kalanchoe	noun	kalanchoe|kalanchoe|R|N
+kalbi	noun	kalbi|kalbi|R|N
+kaleidoscopically	adv	kaleidoscope|kaleidoscop|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+kalemia	noun	kalemia|kalemia|R|N
+kalima	noun	kalima|kalima|R|N
+kalinite	noun	kalinite|kalinite|R|N
+kalmuck	noun	kalmuck|kalmuck|R|N
+kalokagathia	noun	kalokagathia|kalokagathia|R|N
+kalpa	noun	kalpa|kalpa|R|N
+kamacite	noun	kamacite|kamacite|R|N
+kamancheh	noun	kamancheh|kamancheh|R|N
+kamichi	noun	kamichi|kamichi|R|N
+kampong	noun	kampong|kampong|R|N
+kampung	noun	kampung|kampung|R|N
+kana	noun	kana|kana|R|N
+kanafeh	noun	kanafeh|kanafeh|R|N
+kanaka	noun	kanaka|kanaka|R|N
+kancho	noun	kancho|kancho|R|N
+kango	noun	kango|kango|R|N
+kantar	noun	kantar|kantar|R|N
+kantele	noun	kantele|kantele|R|N
+kaoliang	noun	kaoliang|kaoliang|R|N
+kaolinite	noun	kaolinite|kaolinite|R|N
+kaolinization	noun	kaolinize|kaoliniz|R|V ; -ation|ation|S
+kaolinize	verb	kaolin|kaolin|R|N ; -ize|ize|S
+kaon	noun	kaon|kaon|R|N
+kapellasite	noun	kapellasite|kapellasite|R|N
+kapellmeister	noun	kapellmeister|kapellmeister|R|N
+kaph	noun	kaph|kaph|R|N
+kapo	noun	kapo|kapo|R|N
+karakul	noun	karakul|karakul|R|N
+karateist	noun	karate|karate|R|N ; -ist|ist|S
+karateka	noun	karateka|karateka|R|N
+karnay	noun	karnay|karnay|R|N
+karoo	noun	karoo|karoo|R|N
+karoshi	noun	karoshi|karoshi|R|N
+kaross	noun	kaross|kaross|R|N
+karri	noun	karri|karri|R|N
+karstic	adj	karst|karst|R|N ; -ic|ic|S
+kartel	noun	kartel|kartel|R|N
+karting	noun	kart|kart|R|N ; -ing|ing|S||-ing (N)
+karve	verb	karve|karve|R|V
+karyokinesis	noun	karyokinesis|karyokinesis|R|N
+karyokinetic	adj	karyokinetic|karyokinetic|R|Adj
+karyology	noun	karyology|karyology|R|N
+karyolymph	noun	karyolymph|karyolymph|R|N
+karyolysis	noun	karyolysis|karyolysis|R|N
+karyoplasm	noun	karyoplasm|karyoplasm|R|N
+karyotype	noun	karyotype|karyotype|R|N
+kasaya	noun	kasaya|kasaya|R|N
+kasher	verb	kasher|kasher|R|V
+kashida	noun	kashida|kashida|R|N
+kashkaval	noun	kashkaval|kashkaval|R|N
+kashrut	noun	kashrut|kashrut|R|N
+kasra	noun	kasra|kasra|R|N
+kasseri	noun	kasseri|kasseri|R|N
+kastom	noun	kastom|kastom|R|N
+kat	noun	kat|kat|R|N
+katabasis	noun	katabasis|katabasis|R|N
+katabatic	adj	katabatic|katabatic|R|Adj
+kataifi	noun	kataifi|kataifi|R|N
+katakana	noun	katakana|katakana|R|N
+katal	noun	katal|katal|R|N
+katamorphism	noun	katamorphism|katamorphism|R|N
+katana	noun	katana|katana|R|N
+katara	noun	katara|katara|R|N
+kathisma	noun	kathisma|kathisma|R|N
+kathoey	noun	kathoey|kathoey|R|N
+katorga	noun	katorga|katorga|R|N
+katsuobushi	noun	katsuobushi|katsuobushi|R|N
+kauri	noun	kauri|kauri|R|N
+kavass	noun	kavass|kavass|R|N
+kawaii	adj	kawaii|kawaii|R|Adj
+kawaiily	adv	kawaii|kawaii|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+kawaiiness	noun	kawaii|kawaii|R|Adj ; -ness|ness|S
+kaymak	noun	kaymak|kaymak|R|N
+kaymakam	noun	kaymakam|kaymakam|R|N
+kayo	noun	kayo|kayo|R|N
+kaza	noun	kaza|kaza|R|N
+kazan	noun	kazan|kazan|R|N
+kea	noun	kea|kea|R|N
+keck	verb	keck|keck|R|V
+keckle	verb	keckle|keckle|R|V
+ked	noun	ked|ked|R|N
+keddah	noun	keddah|keddah|R|N
+kedge	verb	kedge|kedge|R|V
+keek	verb	keek|keek|R|V
+keeled	adj	keel|keel|R|N ; -ed|ed|S||-ed (adj)
+keelhaul	verb	keel|keel|R|N ; haul|haul|R|V
+keelhauling	verb	keel|keel|R|N ; haul|haul|R|V ; -ing|ing|I||-ing (v)
+keelson	noun	keelson|keelson|R|N
+keepnet	noun	keep|keep|R|V ; net|net|R|N
+keffiyeh	noun	keffiyeh|keffiyeh|R|N
+keiki	noun	keiki|keiki|R|N
+keirin	noun	keirin|keirin|R|N
+keloidal	adj	keloid|keloid|R|N ; -al|al|S
+kelpie	noun	kelpie|kelpie|R|N
+kelt	noun	kelt|kelt|R|N
+kelvin	noun	kelvin|kelvin|R|N
+kempt	adj	kempt|kempt|R|Adj
+kenaf	noun	kenaf|kenaf|R|N
+kendama	noun	kendama|kendama|R|N
+kendhang	noun	kendhang|kendhang|R|N
+kendo	noun	kendo|kendo|R|N
+kenesa	noun	kenesa|kenesa|R|N
+kenning	noun	ken|kenn|R|V ; -ing|ing|S||-ing (N)
+keno	noun	keno|keno|R|N
+kenspeckle	adj	kenspeckle|kenspeckle|R|Adj
+kent	verb	kent|kent|R|V
+kentledge	noun	kentledge|kentledge|R|N
+kepi	noun	kepi|kepi|R|N
+keratinization	noun	keratinize|keratiniz|R|V ; -ation|ation|S
+keratinize	verb	keratin|keratin|R|N ; -ize|ize|S
+keratinous	adj	keratin|keratin|R|N ; -ous|ous|S
+keratitis	noun	keratitis|keratitis|R|N
+keratoconjunctivitis	noun	keratoconjunctivitis|keratoconjunctivitis|R|N
+keratoconus	noun	keratoconus|keratoconus|R|N
+keratose	adj	keratose|keratose|R|Adj
+keratotic	adj	keratosis|keratot|R|N ; -ic|ic|S
+keraunophobia	noun	keraunophobia|keraunophobia|R|N

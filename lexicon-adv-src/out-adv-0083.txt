@@ -1,0 +1,102 @@
+antihydrogen	noun	=
+enterotoxin	noun	=
+calorimetry	noun	calor-|calor|B|N|||Latin calor 'heat' ; -metry|imetry|B|N|||Greek metron 'measure'
+metamaterial	noun	=
+stoichiometry	noun	stoichio-|stoichio|B|N|||Greek stoikheion 'element' ; -metry|metry|B|N|||Greek metron 'measure'
+histone	noun	=
+scotoma	noun	scot-|scot|B|N|||Greek skotos 'darkness' ; -oma|oma|S||||Greek -oma 'tumour'
+gyrus	noun	=
+solidus	noun	=
+pleura	noun	=
+myasthenia	noun	my-|my|B|N|||Greek mys 'muscle' ; -a-|a|P||||Greek a- 'not' ; -sthen-|sthen|B|N|||Greek sthenos 'strength' ; -ia|ia|S||||Greek -ia 'state, condition'
+lobectomy	noun	=
+carpel	noun	carp-|carp|B|N|||Greek karpos 'fruit' ; -el|el|S||||Latin -ellus 'diminutive'
+proteinuria	noun	=
+tractate	noun	=
+popliteal	adj	poplite-|poplite|B|N|||Latin poples 'ham, knee' ; -al|al|S||||Latin -alis 'relating to'
+ballista	noun	=
+ovule	noun	=
+goniometric	adj	=
+gnomon	noun	=
+timpanist	noun	=
+tyrosinase	noun	=
+scansion	noun	=
+synodic	adj	=
+formant	noun	=
+accentual	adj	=
+remineralization	noun	=
+plainchant	noun	=
+estrone	noun	=
+plasmapheresis	noun	plasma|plasma|R|N ; -pheresis|pheresis|B|N|||Greek aphairesis 'removal'
+bronchoscope	noun	=
+spondaic	adj	=
+tinea	noun	=
+monoecious	adj	mono-|mono|P||||Greek monos 'alone' ; -oec-|ec|B|N|||Greek oikos 'house' ; -ious|ious|S||||Latin -iosus 'having'
+ranula	noun	=
+jadeite	noun	=
+globin	noun	=
+anaclitic	adj	=
+proline	noun	=
+hecatomb	noun	=
+tonus	noun	=
+villein	noun	=
+liposome	noun	lipo-|lipo|B|N|||Greek lipos 'fat' ; -some|some|B|N|||Greek soma 'body'
+margo	noun	=
+prebendary	noun	=
+plectrum	noun	=
+licentiate	noun	=
+chartism	noun	=
+tarsus	noun	=
+precentor	noun	pre-|pre|P||||Latin prae- 'before' ; -cent-|cent|B|V|||Latin canere 'to sing' ; -or|or|S||||Latin -or 'agent'
+oestrus	noun	=
+deconstructionist	noun	=
+vacuole	noun	vacu-|vacu|B|Adj|||Latin vacuus 'empty' ; -ole|ole|S||||Latin -ola 'diminutive'
+recusant	noun	=
+abyssal	adj	=
+plainsong	noun	=
+pastern	noun	=
+antiphon	noun	=
+ranker	noun	=
+arsenical	adj	=
+buffy	adj	=
+regality	noun	=
+quadripartite	adj	=
+liberationist	noun	=
+unmannerly	adj	=
+plenteous	adj	=
+misericord	noun	=
+importunity	noun	=
+fissiparous	adj	fissi-|fissi|B|V|||Latin fissus 'split' ; -par-|par|B|V|||Latin parere 'to bear' ; -ous|ous|S||||Latin -osus 'having'
+amyl	noun	a-|a|P||||Greek a- 'not' ; -myl|myl|B|N|||Greek myle 'mill'
+seasonable	adj	=
+sativa	noun	=
+buckler	noun	=
+palliate	verb	=
+lavatorial	adj	=
+juvenilia	noun	=
+familia	noun	=
+escapologist	noun	=
+cruciate	adj	=
+tumulus	noun	=
+squaddie	noun	=
+graticule	noun	=
+futurologist	noun	=
+absurdist	noun	=
+mutch	noun	=
+intercalate	verb	=
+contextualize	verb	=
+matin	noun	=
+groyne	noun	=
+estop	verb	=
+electrochemistry	noun	=
+canalize	verb	=
+paten	noun	=
+passerine	adj	=
+dimethyl	adj	=
+douce	adj	=
+reduplicate	verb	re-|re|P||||Latin re- 'again' ; -duplic-|duplic|B|V|||Latin duplicare 'to double' ; -ate|ate|S||||Latin -atus 'having'
+prebend	noun	=
+moaner	noun	=
+equestrianism	noun	=
+domine	noun	=
+centrale	noun	=

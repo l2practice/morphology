@@ -1,0 +1,200 @@
+unfound	adj	un-|un|P ; find|found|R|V ; -ed||I||-ed (v2)
+unfoundedly	adv	un-|un|P ; found|found|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unfoundedness	noun	un-|un|P ; found|found|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unframe	verb	un-|un|P ; frame|frame|R|V
+unfranchised	adj	un-|un|P ; franchise|franchise|R|V ; -ed|d|S||-ed (adj)
+unfraternal	adj	un-|un|P ; fraternal|fraternal|R|Adj
+unfreezable	adj	un-|un|P ; freeze|freez|R|V ; -able|able|S
+unfrequent	adj	un-|un|P ; frequent|frequent|R|Adj
+unfriend	verb	un-|un|P ; friend|friend|R|N
+unfriended	adj	un-|un|P ; friend|friend|R|N ; -ed|ed|S||-ed (adj)
+unfriendliness	noun	un-|un|P ; friend|friend|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+unfrightened	adj	un-|un|P ; frighten|frighten|R|V ; -ed|ed|S||-ed (adj)
+unfrock	verb	un-|un|P ; frock|frock|R|N
+unfrocked	adj	un-|un|P ; frock|frock|R|N ; -ed|ed|S||-ed (adj)
+unfrocking	noun	un-|un|P ; frock|frock|R|N ; -ing|ing|S||-ing (N)
+unfrugal	adj	un-|un|P ; frugal|frugal|R|Adj
+unfruitfully	adv	un-|un|P ; fruit|fruit|R|N ; -ful|ful|S ; -ly|ly|I||-ly (adv)
+unfruitfulness	noun	un-|un|P ; fruit|fruit|R|N ; -ful|ful|S ; -ness|ness|S
+unfulfillable	adj	un-|un|P ; fulfill|fulfill|R|V ; -able|able|S
+unfunctional	adj	un-|un|P ; function|function|R|N ; -al|al|S
+unfurnish	verb	un-|un|P ; furnish|furnish|R|V
+unfurrowed	adj	un-|un|P ; furrow|furrow|R|N ; -ed|ed|S||-ed (adj)
+unfuse	verb	un-|un|P ; fuse|fuse|R|V
+unfused	adj	un-|un|P ; fuse|fuse|R|V ; -ed|d|S||-ed (adj)
+ungag	verb	un-|un|P ; gag|gag|R|V
+ungainliness	noun	un-|un|P ; gain|gain|R|V ; -ly|li|S||-ly (adj) ; -ness|ness|S
+ungainsayable	adj	un-|un|P ; gainsay|gainsay|R|V ; -able|able|S
+ungallant	adj	un-|un|P ; gallant|gallant|R|Adj
+ungalled	adj	un-|un|P ; gall|gall|R|N ; -ed|ed|S||-ed (adj)
+ungalvanized	adj	un-|un|P ; galvanize|galvaniz|R|V ; -ed|ed|S||-ed (adj)
+ungarbled	adj	un-|un|P ; garble|garble|R|V ; -ed|d|S||-ed (adj)
+ungarmented	adj	un-|un|P ; garment|garment|R|N ; -ed|ed|S||-ed (adj)
+ungarnered	adj	un-|un|P ; garner|garner|R|V ; -ed|ed|S||-ed (adj)
+ungarnished	adj	un-|un|P ; garnish|garnish|R|V ; -ed|ed|S||-ed (adj)
+ungated	adj	un-|un|P ; gate|gate|R|N ; -ed|d|S||-ed (adj)
+ungathered	adj	un-|un|P ; gather|gather|R|V ; -ed|ed|S||-ed (adj)
+ungauged	adj	un-|un|P ; gauge|gauge|R|V ; -ed|d|S||-ed (adj)
+ungear	verb	un-|un|P ; gear|gear|R|N
+ungelded	adj	un-|un|P ; geld|geld|R|V ; -ed|ed|S||-ed (adj)
+ungenerosity	noun	un-|un|P ; generous|generos|R|Adj ; -ity|ity|S
+ungenerously	adv	un-|un|P ; generous|generous|R|Adj ; -ly|ly|I||-ly (adv)
+ungenial	adj	un-|un|P ; genial|genial|R|Adj
+ungenteel	adj	un-|un|P ; genteel|genteel|R|Adj
+ungentle	adj	un-|un|P ; gentle|gentle|R|Adj
+ungentlemanlike	adj	un-|un|P ; gentleman|gentleman|R|N ; -like|like|S
+ungentleness	noun	un-|un|P ; gentle|gentle|R|Adj ; -ness|ness|S
+ungerminated	adj	un-|un|P ; germinate|germinate|R|V ; -ed|d|S||-ed (adj)
+unget	verb	un-|un|P ; get|get|R|V
+unghostly	adj	un-|un|P ; ghost|ghost|R|N ; -ly|ly|S||-ly (adj)
+ungifted	adj	un-|un|P ; gift|gift|R|N ; -ed|ed|S||-ed (adj)
+ungild	verb	un-|un|P ; gild|gild|R|V
+ungilt	adj	un-|un|P ; gild|gilt|R|V ; -ed||I||-ed (v2)
+ungird	verb	un-|un|P ; gird|gird|R|V
+ungirdle	verb	un-|un|P ; girdle|girdle|R|N
+ungiven	adj	un-|un|P ; give|given|R|V ; -en||I||-en (participle)
+unglad	adj	un-|un|P ; glad|glad|R|Adj
+unglamorized	adj	un-|un|P ; glamorize|glamoriz|R|V ; -ed|ed|S||-ed (adj)
+unglorified	adj	un-|un|P ; glory|glor|R|N ; -ify|ifi|S ; -ed|ed|S||-ed (adj)
+unglossy	adj	un-|un|P ; gloss|gloss|R|N ; -y|y|S
+unglue	verb	un-|un|P ; glue|glue|R|V
+ungodlike	adj	un-|un|P ; god|god|R|N ; -like|like|S
+ungodliness	noun	un-|un|P ; god|god|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+ungoogleable	adj	un-|un|P ; google|google|R|V ; -able|able|S
+ungotten	adj	un-|un|P ; get|gotten|R|V ; -en||I||-en (participle)
+ungovernableness	noun	un-|un|P ; govern|govern|R|V ; -able|able|S ; -ness|ness|S
+ungovernably	adv	un-|un|P ; govern|govern|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+ungowned	adj	un-|un|P ; gown|gown|R|N ; -ed|ed|S||-ed (adj)
+ungracefulness	noun	un-|un|P ; grace|grace|R|N ; -ful|ful|S ; -ness|ness|S
+ungraciousness	noun	un-|un|P ; gracious|gracious|R|Adj ; -ness|ness|S
+ungraduated	adj	un-|un|P ; graduate|graduate|R|V ; -ed|d|S||-ed (adj)
+ungrafted	adj	un-|un|P ; graft|graft|R|V ; -ed|ed|S||-ed (adj)
+ungrammaticality	noun	un-|un|P ; grammatical|grammatical|R|Adj ; -ity|ity|S
+ungrammatically	adv	un-|un|P ; grammatical|grammatical|R|Adj ; -ly|ly|I||-ly (adv)
+ungratefully	adv	un-|un|P ; grateful|grateful|R|Adj ; -ly|ly|I||-ly (adv)
+ungratefulness	noun	un-|un|P ; grateful|grateful|R|Adj ; -ness|ness|S
+ungratified	adj	un-|un|P ; gratify|gratifi|R|V ; -ed|ed|S||-ed (adj)
+ungratifying	adj	un-|un|P ; gratify|gratify|R|V ; -ing|ing|S||-ing (adj)
+ungreased	adj	un-|un|P ; grease|grease|R|N ; -ed|d|S||-ed (adj)
+ungreedy	adj	un-|un|P ; greedy|greedy|R|Adj
+ungreen	adj	un-|un|P ; green|green|R|Adj
+ungreeted	adj	un-|un|P ; greet|greet|R|V ; -ed|ed|S||-ed (adj)
+unground	adj	un-|un|P ; ground|ground|R|N
+ungrown	adj	un-|un|P ; grow|grown|R|V ; -en||I||-en (participle)
+ungrudging	adj	un-|un|P ; grudge|grudg|R|V ; -ing|ing|S||-ing (adj)
+ungual	adj	ungual|ungual|R|Adj
+unguardedly	adv	un-|un|P ; guard|guard|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unguardedness	noun	un-|un|P ; guard|guard|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unguent	noun	unguent|unguent|R|N
+unguerdoned	adj	un-|un|P ; guerdon|guerdon|R|N ; -ed|ed|S||-ed (adj)
+unguessable	adj	un-|un|P ; guess|guess|R|V ; -able|able|S
+unguessed	adj	un-|un|P ; guess|guess|R|V ; -ed|ed|S||-ed (adj)
+unguiculate	adj	unguiculate|unguiculate|R|Adj
+unguiferous	adj	unguiferous|unguiferous|R|Adj
+unguiform	adj	unguiform|unguiform|R|Adj
+unguilty	adj	un-|un|P ; guilty|guilty|R|Adj
+unguinal	adj	unguinal|unguinal|R|Adj
+ungula	noun	ungula|ungula|R|N
+unguligrade	adj	unguligrade|unguligrade|R|Adj
+ungum	noun	ungum|ungum|R|N
+unhabituated	adj	un-|un|P ; habituate|habituate|R|V ; -ed|d|S||-ed (adj)
+unhacked	adj	un-|un|P ; hack|hack|R|V ; -ed|ed|S||-ed (adj)
+unhackneyed	adj	un-|un|P ; hackney|hackney|R|N ; -ed|ed|S||-ed (adj)
+unhailed	adj	un-|un|P ; hail|hail|R|V ; -ed|ed|S||-ed (adj)
+unhair	verb	un-|un|P ; hair|hair|R|N
+unhallow	verb	un-|un|P ; hallow|hallow|R|V
+unhallowed	adj	un-|un|P ; hallow|hallow|R|V ; -ed|ed|S||-ed (adj)
+unhand	verb	un-|un|P ; hand|hand|R|N
+unhandily	adv	un-|un|P ; handy|handi|R|Adj ; -ly|ly|I||-ly (adv)
+unhandiness	noun	un-|un|P ; handy|handi|R|Adj ; -ness|ness|S
+unhandsome	adj	un-|un|P ; handsome|handsome|R|Adj
+unhandsomely	adv	un-|un|P ; handsome|handsome|R|Adj ; -ly|ly|I||-ly (adv)
+unhandsomeness	noun	un-|un|P ; handsome|handsome|R|Adj ; -ness|ness|S
+unhandy	adj	un-|un|P ; handy|handy|R|Adj
+unhang	verb	un-|un|P ; hang|hang|R|V
+unhanged	adj	un-|un|P ; hang|hang|R|V ; -ed|ed|S||-ed (adj)
+unharbour	verb	un-|un|P ; harbour|harbour|R|N
+unhardened	adj	un-|un|P ; hard|hard|R|Adj ; -en|en|S ; -ed|ed|S||-ed (adj)
+unharmful	adj	un-|un|P ; harm|harm|R|N ; -ful|ful|S
+unharmonious	adj	un-|un|P ; harmonious|harmonious|R|Adj
+unharmoniously	adv	un-|un|P ; harmonious|harmonious|R|Adj ; -ly|ly|I||-ly (adv)
+unharness	verb	un-|un|P ; harness|harness|R|N
+unharnessed	adj	un-|un|P ; harness|harness|R|N ; -ed|ed|S||-ed (adj)
+unharrowed	adj	un-|un|P ; harrow|harrow|R|V ; -ed|ed|S||-ed (adj)
+unharvested	adj	un-|un|P ; harvest|harvest|R|N ; -ed|ed|S||-ed (adj)
+unhasting	adj	un-|un|P ; haste|hast|R|V ; -ing|ing|S||-ing (adj)
+unhasty	adj	un-|un|P ; hasty|hasty|R|Adj
+unhat	verb	un-|un|P ; hat|hat|R|N
+unhatched	adj	un-|un|P ; hatch|hatch|R|V ; -ed|ed|S||-ed (adj)
+unhaunted	adj	un-|un|P ; haunt|haunt|R|V ; -ed|ed|S||-ed (adj)
+unhazardous	adj	un-|un|P ; hazard|hazard|R|N ; -ous|ous|S
+unhead	verb	un-|un|P ; head|head|R|N
+unhealable	adj	un-|un|P ; heal|heal|R|V ; -able|able|S
+unhealthfulness	noun	un-|un|P ; health|health|R|N ; -ful|ful|S ; -ness|ness|S
+unhealthiness	noun	un-|un|P ; health|health|R|N ; -y|i|S ; -ness|ness|S
+unhedged	adj	un-|un|P ; hedge|hedge|R|V ; -ed|d|S||-ed (adj)
+unheedful	adj	un-|un|P ; heed|heed|R|V ; -ful|ful|S
+unheeding	adj	un-|un|P ; heed|heed|R|V ; -ing|ing|S||-ing (adj)
+unheired	adj	un-|un|P ; heir|heir|R|N ; -ed|ed|S||-ed (adj)
+unhelm	verb	un-|un|P ; helm|helm|R|N
+unhelped	adj	un-|un|P ; help|help|R|V ; -ed|ed|S||-ed (adj)
+unhemmed	adj	un-|un|P ; hem|hemm|R|V ; -ed|ed|S||-ed (adj)
+unheritable	adj	un-|un|P ; heritable|heritable|R|Adj
+unheroical	adj	un-|un|P ; heroic|heroic|R|Adj ; -al|al|S
+unhewn	adj	un-|un|P ; hew|hewn|R|V ; -en||I||-en (participle)
+unhidden	adj	un-|un|P ; hide|hidden|R|V ; -en||I||-en (participle)
+unhired	adj	un-|un|P ; hire|hire|R|V ; -ed|d|S||-ed (adj)
+unhistoric	adj	un-|un|P ; historic|historic|R|Adj
+unhitched	adj	un-|un|P ; hitch|hitch|R|V ; -ed|ed|S||-ed (adj)
+unhive	verb	un-|un|P ; hive|hive|R|N
+unhoard	verb	un-|un|P ; hoard|hoard|R|V
+unholily	adv	un-|un|P ; holy|holi|R|Adj ; -ly|ly|I||-ly (adv)
+unholiness	noun	un-|un|P ; holy|holi|R|Adj ; -ness|ness|S
+unhomely	adj	un-|un|P ; home|home|R|N ; -ly|ly|S||-ly (adj)
+unhomogeneous	adj	un-|un|P ; homogeneous|homogeneous|R|Adj
+unhomogenized	adj	un-|un|P ; homogenize|homogeniz|R|V ; -ed|ed|S||-ed (adj)
+unhonest	adj	un-|un|P ; honest|honest|R|Adj
+unhood	verb	un-|un|P ; hood|hood|R|N
+unhooking	noun	un-|un|P ; hook|hook|R|V ; -ing|ing|S||-ing (N)
+unhoop	verb	un-|un|P ; hoop|hoop|R|N
+unhoped	adj	un-|un|P ; hope|hope|R|V ; -ed|d|S||-ed (adj)
+unhopeful	adj	un-|un|P ; hope|hope|R|V ; -ful|ful|S
+unhorse	verb	un-|un|P ; horse|horse|R|N
+unhorsing	noun	un-|un|P ; horse|hors|R|V ; -ing|ing|S||-ing (N)
+unhospitable	adj	un-|un|P ; hospitable|hospitable|R|Adj
+unhostile	adj	un-|un|P ; hostile|hostile|R|Adj
+unhouse	verb	un-|un|P ; house|house|R|N
+unhoused	adj	un-|un|P ; house|house|R|N ; -ed|d|S||-ed (adj)
+unhulled	adj	un-|un|P ; hull|hull|R|N ; -ed|ed|S||-ed (adj)
+unhuman	adj	un-|un|P ; human|human|R|Adj
+unhumanize	verb	un-|un|P ; human|human|R|Adj ; -ize|ize|S
+unhumbled	adj	un-|un|P ; humble|humble|R|Adj ; -ed|d|S||-ed (adj)
+unhumorous	adj	un-|un|P ; humorous|humorous|R|Adj
+unhung	adj	un-|un|P ; hang|hung|R|V ; -ed||I||-ed (v2)
+unhunted	adj	un-|un|P ; hunt|hunt|R|V ; -ed|ed|S||-ed (adj)
+unhurtful	adj	un-|un|P ; hurt|hurt|R|V ; -ful|ful|S
+unhusbanded	adj	un-|un|P ; husband|husband|R|N ; -ed|ed|S||-ed (adj)
+unhusk	verb	un-|un|P ; husk|husk|R|N
+unhydrated	adj	un-|un|P ; hydrate|hydrate|R|V ; -ed|d|S||-ed (adj)
+unhydrolyzed	adj	un-|un|P ; hydrolyze|hydrolyz|R|V ; -ed|ed|S||-ed (adj)
+unhyphenated	adj	un-|un|P ; hyphen|hyphen|R|N ; -ate|ate|S ; -ed|d|S||-ed (adj)
+unhypocritical	adj	un-|un|P ; hypocritical|hypocritical|R|Adj
+unhypothecated	adj	un-|un|P ; hypothecate|hypothecate|R|V ; -ed|d|S||-ed (adj)
+unhysterical	adj	un-|un|P ; hysterical|hysterical|R|Adj
+unibrow	noun	uni-|uni|P ; brow|brow|R|N
+unicameralism	noun	uni-|uni|P ; camera|camer|R|N ; -al|al|S ; -ism|ism|S
+unicamerate	adj	uni-|uni|P ; camera|camer|R|N ; -ate|ate|S
+unicell	noun	uni-|uni|P ; cell|cell|R|N
+unicellate	adj	uni-|uni|P ; cell|cell|R|N ; -ate|ate|S
+unicellularity	noun	uni-|uni|P ; cell|cell|R|N ; -ular|ular|S ; -ity|ity|S
+unicity	noun	unic|unic|R|Adj ; -ity|ity|S
+unicoherent	adj	uni-|uni|P ; coherent|coherent|R|Adj
+unicum	noun	unicum|unicum|R|N
+unicursal	adj	unicursal|unicursal|R|Adj
+unicyclist	noun	uni-|uni|P ; cycle|cycl|R|N ; -ist|ist|S
+unideal	adj	un-|un|P ; ideal|ideal|R|Adj
+unidealized	adj	un-|un|P ; ideal|ideal|R|Adj ; -ize|ize|S ; -ed|d|S||-ed (adj)
+unideological	adj	un-|un|P ; ideological|ideological|R|Adj
+unidiomatic	adj	un-|un|P ; idiomatic|idiomatic|R|Adj
+uniface	noun	uni-|uni|P ; face|face|R|N
+unifacial	adj	uni-|uni|P ; facial|facial|R|Adj

@@ -1,0 +1,200 @@
+aquarelle	noun	aquarelle|aquarelle|R|N
+aquarellist	noun	aquarelle|aquarell|R|N ; -ist|ist|S
+aquariology	noun	aquariology|aquariology|R|N
+aquarist	noun	aquarium|aquar|R|N ; -ist|ist|S
+aquatically	adv	aquatic|aquatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+aquatics	noun	aquatic|aquatic|R|Adj ; -s|s|I||-s (plural)
+aquatinter	noun	aquatint|aquatint|R|N ; -er|er|S||-er (N)
+aquatintist	noun	aquatint|aquatint|R|N ; -ist|ist|S
+aquation	noun	aqua|aqua|R|N ; -tion|tion|S
+aquicolous	adj	aquicolous|aquicolous|R|Adj
+aquiferous	adj	aquifer|aquifer|R|N ; -ous|ous|S
+aquilegia	noun	aquilegia|aquilegia|R|N
+aquilinity	noun	aquiline|aquilin|R|Adj ; -ity|ity|S
+aquiver	adj	a-|a|P ; quiver|quiver|R|V
+aquosity	noun	aquosity|aquosity|R|N
+ar	noun	ar|ar|R|N
+araba	noun	araba|araba|R|N
+arabic	noun	arab|arab|R|N ; -ic|ic|S
+arability	noun	arable|arabil|R|Adj ; -ity|ity|S
+arabinose	noun	arabinose|arabinose|R|N
+araceous	adj	araceous|araceous|R|Adj
+arachnicide	noun	arachnicide|arachnicide|R|N
+arachnidism	noun	arachnidism|arachnidism|R|N
+arachnoid	adj	arachnoid|arachnoid|R|Adj
+arachnologist	noun	arachnology|arachnolog|R|N ; -ist|ist|S
+arachnology	noun	arachnology|arachnology|R|N
+arachnophobia	noun	arachnophobia|arachnophobia|R|N
+aracial	adj	a-|a|P ; racial|racial|R|Adj
+aragonite	noun	aragonite|aragonite|R|N
+arak	noun	arak|arak|R|N
+araliaceous	adj	araliaceous|araliaceous|R|Adj
+aramid	noun	aramid|aramid|R|N
+arancino	noun	arancino|arancino|R|N
+arapaima	noun	arapaima|arapaima|R|N
+arara	noun	arara|arara|R|N
+araucaria	noun	araucaria|araucaria|R|N
+arbalest	noun	arbalest|arbalest|R|N
+arbitrable	adj	arbitrate|arbitr|R|V ; -able|able|S
+arbitrager	noun	arbitrage|arbitrag|R|N ; -er|er|S||-er (N)
+arbitrament	noun	arbitrate|arbitra|R|V ; -ment|ment|S
+arbitress	noun	arbiter|arbitr|R|N ; -ess|ess|S
+arboraceous	adj	arboraceous|arboraceous|R|Adj
+arboreally	adv	arboreal|arboreal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+arboreous	adj	arbor|arbor|R|N ; -eous|eous|S
+arboresce	verb	arboresce|arboresce|R|V
+arborescence	noun	arboresce|arboresc|R|V ; -ence|ence|S
+arborescent	adj	arboresce|arboresc|R|V ; -ent|ent|S
+arboricide	noun	arboricide|arboricide|R|N
+arboricolous	adj	arboricolous|arboricolous|R|Adj
+arboricultural	adj	arboriculture|arboricultur|R|N ; -al|al|S
+arboriculture	noun	arbor|arbori|R|N ; culture|culture|R|N
+arboriculturist	noun	arboriculture|arboricultur|R|N ; -ist|ist|S
+arborization	noun	arborize|arboriz|R|V ; -ation|ation|S
+arborway	noun	arbor|arbor|R|N ; way|way|R|N
+arbovirus	noun	arbovirus|arbovirus|R|N
+arbuscle	noun	arbuscle|arbuscle|R|N
+arbuscular	adj	arbuscular|arbuscular|R|Adj
+arbutin	noun	arbutin|arbutin|R|N
+arbutus	noun	arbutus|arbutus|R|N
+arcanum	noun	arcanum|arcanum|R|N
+arccosecant	noun	arc|arc|R|N ; cosecant|cosecant|R|N
+arccosine	noun	arc|arc|R|N ; cosine|cosine|R|N
+arccotangent	noun	arc|arc|R|N ; cotangent|cotangent|R|N
+archabbey	noun	arch|arch|R|N ; abbey|abbey|R|N
+archaean	noun	archaean|archaean|R|N
+archaeastronomy	noun	archaeastronomy|archaeastronomy|R|N
+archaeoastronomical	adj	archaeoastronomical|archaeoastronomical|R|Adj
+archaeogenetics	noun	archaeogenetics|archaeogenetics|R|N
+archaeomagnetism	noun	archaeomagnetism|archaeomagnetism|R|N
+archaeometry	noun	archaeometry|archaeometry|R|N
+archaeon	noun	archaeon|archaeon|R|N
+archaeopathology	noun	archaeopathology|archaeopathology|R|N
+archaeophyte	noun	archaeophyte|archaeophyte|R|N
+archaeozoology	noun	archaeozoology|archaeozoology|R|N
+archaically	adv	archaic|archaic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+archaist	noun	archaist|archaist|R|N
+archaistic	adj	archaist|archaist|R|N ; -ic|ic|S
+archaization	noun	archaize|archaiz|R|V ; -ation|ation|S
+archaize	verb	archaize|archaize|R|V
+archaizer	noun	archaize|archaiz|R|V ; -er|er|S||-er (N)
+archangelic	adj	archangel|archangel|R|N ; -ic|ic|S
+archbasilica	noun	arch|arch|R|N ; basilica|basilica|R|N
+archbishopess	noun	archbishop|archbishop|R|N ; -ess|ess|S
+archchancellor	noun	arch|arch|R|N ; chancellor|chancellor|R|N
+archconfraternity	noun	arch|arch|R|N ; confraternity|confraternity|R|N
+archconservative	adj	arch|arch|R|N ; conservative|conservative|R|Adj
+archdeaconate	noun	archdeacon|archdeacon|R|N ; -ate|ate|S
+archdeaconship	noun	archdeacon|archdeacon|R|N ; -ship|ship|S
+archdemon	noun	arch|arch|R|N ; demon|demon|R|N
+archdruid	noun	arch|arch|R|N ; druid|druid|R|N
+archducal	adj	archducal|archducal|R|Adj
+archduchess	noun	archduchess|archduchess|R|N
+archduchy	noun	arch|arch|R|N ; duchy|duchy|R|N
+archebiosis	noun	archebiosis|archebiosis|R|N
+archegone	noun	archegone|archegone|R|N
+archegonium	noun	archegonium|archegonium|R|N
+archenteron	noun	archenteron|archenteron|R|N
+archeopteryx	noun	archeopteryx|archeopteryx|R|N
+archeress	noun	archer|archer|R|N ; -ess|ess|S
+archerfish	noun	archer|archer|R|N ; fish|fish|R|N
+archespore	noun	archespore|archespore|R|N
+archesporium	noun	archesporium|archesporium|R|N
+archetypically	adv	archetype|archetyp|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+archiater	noun	archiater|archiater|R|N
+archicarp	noun	archicarp|archicarp|R|N
+archidiaconal	adj	archidiaconal|archidiaconal|R|Adj
+archiepiscopal	adj	archiepiscopal|archiepiscopal|R|Adj
+archiepiscopate	noun	archiepiscopate|archiepiscopate|R|N
+archimandrite	noun	archimandrite|archimandrite|R|N
+archinephric	adj	archinephric|archinephric|R|Adj
+archipelagic	adj	archipelagic|archipelagic|R|Adj
+archiphoneme	noun	archiphoneme|archiphoneme|R|N
+archisynagogue	noun	archisynagogue|archisynagogue|R|N
+architectonically	adv	architectonic|architectonic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+architectonics	noun	architectonic|architectonic|R|Adj ; -s|s|I||-s (plural)
+archivolt	noun	archivolt|archivolt|R|N
+archlute	noun	arch|arch|R|N ; lute|lute|R|N
+archmage	noun	arch|arch|R|N ; mage|mage|R|N
+archness	noun	arch|arch|R|Adj ; -ness|ness|S
+archon	noun	archon|archon|R|N
+archontology	noun	archontology|archontology|R|N
+archoplasm	noun	archoplasm|archoplasm|R|N
+archosaur	noun	archosaur|archosaur|R|N
+archpriest	noun	arch|arch|R|N ; priest|priest|R|N
+archwise	adv	arch|arch|R|N ; -wise|wise|S
+arciform	adj	arciform|arciform|R|Adj
+arcology	noun	arcology|arcology|R|N
+arcosolium	noun	arcosolium|arcosolium|R|N
+arcsecant	noun	arc|arc|R|N ; secant|secant|R|N
+arcsine	noun	arc|arc|R|N ; sine|sine|R|N
+arctangent	noun	arc|arc|R|N ; tangent|tangent|R|N
+arcticize	verb	arctic|arctic|R|Adj ; -ize|ize|S
+arctophile	noun	arctophile|arctophile|R|N
+arcuate	adj	arcuate|arcuate|R|Adj
+arcuately	adv	arcuate|arcuate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+arculus	noun	arculus|arculus|R|N
+ard	noun	ard|ard|R|N
+ardeh	noun	ardeh|ardeh|R|N
+ardency	noun	ardency|ardency|R|N
+arduity	noun	arduity|arduity|R|N
+arduousness	noun	arduous|arduous|R|Adj ; -ness|ness|S
+are	verb	are|are|R|V
+arealization	noun	areal|areal|R|Adj ; -ize|iz|S ; -ation|ation|S
+areca	noun	areca|areca|R|N
+areflexia	noun	areflexia|areflexia|R|N
+aregenerative	adj	a-|a|P ; regenerative|regenerative|R|Adj
+areligious	adj	a-|a|P ; religious|religious|R|Adj
+arenaceous	adj	arenaceous|arenaceous|R|Adj
+arene	noun	arene|arene|R|N
+arenicolous	adj	arenicolous|arenicolous|R|Adj
+areocentric	adj	areocentric|areocentric|R|Adj
+areography	noun	areography|areography|R|N
+areolar	adj	areolar|areolar|R|Adj
+areolate	adj	areolate|areolate|R|Adj
+areolation	noun	areolate|areolat|R|Adj ; -ion|ion|S
+areolet	noun	areolet|areolet|R|N
+areology	noun	areology|areology|R|N
+areometer	noun	areometer|areometer|R|N
+aretalogy	noun	aretalogy|aretalogy|R|N
+arete	noun	arete|arete|R|N
+aretological	adj	aretological|aretological|R|Adj
+aretology	noun	aretology|aretology|R|N
+argala	noun	argala|argala|R|N
+argali	noun	argali|argali|R|N
+argan	noun	argan|argan|R|N
+argent	noun	argent|argent|R|N
+argentaffin	adj	argentaffin|argentaffin|R|Adj
+argenteous	adj	argenteous|argenteous|R|Adj
+argentic	adj	argent|argent|R|N ; -ic|ic|S
+argentiferous	adj	argentiferous|argentiferous|R|Adj
+argentite	noun	argentite|argentite|R|N
+argentophil	noun	argentophil|argentophil|R|N
+argh	interj	argh|argh|R
+argil	noun	argil|argil|R|N
+argillaceous	adj	argillaceous|argillaceous|R|Adj
+argillic	adj	argil|argill|R|N ; -ic|ic|S
+argilliferous	adj	argilliferous|argilliferous|R|Adj
+argillite	noun	argillite|argillite|R|N
+arginase	noun	arginase|arginase|R|N
+argol	noun	argol|argol|R|N
+argosy	noun	argosy|argosy|R|N
+arguer	noun	argue|argu|R|V ; -er|er|S||-er (N)
+argufier	noun	argufy|argufi|R|V ; -er|er|S||-er (N)
+argufy	verb	argue|argu|R|V ; -fy|fy|S
+argumentatively	adv	argumentative|argumentative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+argumentativeness	noun	argumentative|argumentative|R|Adj ; -ness|ness|S
+argumentum	noun	argumentum|argumentum|R|N
+argus	noun	argus|argus|R|N
+argute	adj	argute|argute|R|Adj
+argyria	noun	argyria|argyria|R|N
+arhat	noun	arhat|arhat|R|N
+aridly	adv	arid|arid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+aridness	noun	arid|arid|R|Adj ; -ness|ness|S
+arietta	noun	arietta|arietta|R|N
+arigato	noun	arigato|arigato|R|N
+aril	noun	aril|aril|R|N
+arioso	noun	arioso|arioso|R|N
+arista	noun	arista|arista|R|N
+aristate	adj	aristate|aristate|R|Adj
+aristocide	noun	aristocide|aristocide|R|N

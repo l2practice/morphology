@@ -1,0 +1,200 @@
+autopodium	noun	autopodium|autopodium|R|N
+autopoiesis	noun	autopoiesis|autopoiesis|R|N
+autopolyploid	adj	auto-|auto|P ; polyploid|polyploid|R|Adj
+autoprotolysis	noun	autoprotolysis|autoprotolysis|R|N
+autopsic	adj	autopsy|autops|R|N ; -ic|ic|S
+autopsist	noun	autopsy|autops|R|N ; -ist|ist|S
+autoptic	adj	autoptic|autoptic|R|Adj
+autoradiogram	noun	auto-|auto|P ; radiogram|radiogram|R|N
+autoregression	noun	auto-|auto|P ; regression|regression|R|N
+autoregulation	noun	auto-|auto|P ; regulation|regulation|R|N
+autoreverse	verb	auto-|auto|P ; reverse|reverse|R|V
+autorickshaw	noun	auto-|auto|P ; rickshaw|rickshaw|R|N
+autorifle	noun	auto-|auto|P ; rifle|rifle|R|N
+autosave	verb	auto-|auto|P ; save|save|R|V
+autosexual	adj	auto-|auto|P ; sexual|sexual|R|Adj
+autosexuality	noun	auto-|auto|P ; sexual|sexual|R|Adj ; -ity|ity|S
+autosome	noun	autosome|autosome|R|N
+autospore	noun	autospore|autospore|R|N
+autostimulation	noun	auto-|auto|P ; stimulation|stimulation|R|N
+autosuggestion	noun	auto-|auto|P ; suggestion|suggestion|R|N
+autotelic	adj	autotelic|autotelic|R|Adj
+autotest	noun	auto-|auto|P ; test|test|R|N
+autotomy	noun	autotomy|autotomy|R|N
+autotoxic	adj	auto-|auto|P ; toxic|toxic|R|Adj
+autotoxication	noun	autotoxication|autotoxication|R|N
+autotoxin	noun	auto-|auto|P ; toxin|toxin|R|N
+autotransformer	noun	auto-|auto|P ; transformer|transformer|R|N
+autotransfusion	noun	auto-|auto|P ; transfusion|transfusion|R|N
+autotroph	noun	autotroph|autotroph|R|N
+autotrophic	adj	autotrophic|autotrophic|R|Adj
+autotrophy	noun	autotrophy|autotrophy|R|N
+autotype	noun	autotype|autotype|R|N
+autumnally	adv	autumnal|autumnal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+autunite	noun	autunite|autunite|R|N
+auxanometer	noun	auxanometer|auxanometer|R|N
+auxesis	noun	auxesis|auxesis|R|N
+auxetic	adj	auxetic|auxetic|R|Adj
+auxin	noun	auxin|auxin|R|N
+auxinic	adj	auxin|auxin|R|N ; -ic|ic|S
+auxinically	adv	auxin|auxin|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+auxology	noun	auxology|auxology|R|N
+auxospore	noun	auxospore|auxospore|R|N
+auxotroph	noun	auxotroph|auxotroph|R|N
+auxotrophic	adj	auxotrophic|auxotrophic|R|Adj
+auxotrophy	noun	auxotrophy|auxotrophy|R|N
+avagraha	noun	avagraha|avagraha|R|N
+availableness	noun	available|available|R|Adj ; -ness|ness|S
+availably	adv	available|availab|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+availing	verb	avail|avail|R|V ; -ing|ing|I||-ing (v)
+availingly	adv	avail|avail|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+aval	noun	aval|aval|R|N
+avania	noun	avania|avania|R|N
+avariciously	adv	avaricious|avaricious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+avariciousness	noun	avaricious|avaricious|R|Adj ; -ness|ness|S
+avast	interj	avast|avast|R|N
+avel	noun	avel|avel|R|N
+avengingly	adv	avenge|aveng|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+avens	noun	avens|avens|R|N
+aventail	noun	aventail|aventail|R|N
+aventurine	noun	aventurine|aventurine|R|N
+averment	noun	aver|aver|R|V ; -ment|ment|S
+averrable	adj	aver|averr|R|V ; -able|able|S
+averruncator	noun	averruncator|averruncator|R|N
+aversely	adv	averse|averse|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+averseness	noun	averse|averse|R|Adj ; -ness|ness|S
+avertable	adj	avert|avert|R|V ; -able|able|S
+avertible	adj	avert|avert|R|V ; -ible|ible|S
+avgolemono	noun	avgolemono|avgolemono|R|N
+aviarist	noun	aviary|aviar|R|N ; -ist|ist|S
+aviate	verb	aviate|aviate|R|V
+aviatress	noun	aviator|aviatr|R|N ; -ess|ess|S
+aviatrix	noun	aviatrix|aviatrix|R|N
+aviculture	noun	aviculture|aviculture|R|N
+aviculturist	noun	aviculturist|aviculturist|R|N
+aviette	noun	aviette|aviette|R|N
+avifauna	noun	avifauna|avifauna|R|N
+avifaunal	adj	avifaunal|avifaunal|R|Adj
+avionic	adj	avionic|avionic|R|Adj
+aviso	noun	aviso|aviso|R|N
+avitaminosis	noun	avitaminosis|avitaminosis|R|N
+avitaminotic	adj	avitaminotic|avitaminotic|R|Adj
+avocationally	adv	avocational|avocational|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+avocet	noun	avocet|avocet|R|N
+avoidably	adv	avoid|avoid|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+avoidant	adj	avoid|avoid|R|V ; -ant|ant|S
+avoirdupois	noun	avoirdupois|avoirdupois|R|N
+avouch	verb	avouch|avouch|R|V
+avouchment	noun	avouch|avouch|R|V ; -ment|ment|S
+avowable	adj	avow|avow|R|V ; -able|able|S
+avowably	adv	avow|avow|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+avower	noun	avow|avow|R|V ; -er|er|S||-er (N)
+avunculate	adj	avunculate|avunculate|R|Adj
+awakener	noun	awaken|awaken|R|V ; -er|er|S||-er (N)
+awara	noun	awara|awara|R|N
+awardable	adj	award|award|R|V ; -able|able|S
+awardee	noun	award|award|R|V ; -ee|ee|S
+awarder	noun	award|award|R|V ; -er|er|S||-er (N)
+awayday	noun	away|away|R|Adv ; day|day|R|N
+aweary	adj	a-|a|P ; weary|weary|R|Adj
+aweather	adv	a-|a|P ; weather|weather|R|N
+awesomeness	noun	awesome|awesome|R|Adj ; -ness|ness|S
+awestricken	adj	awe|awe|R|N ; stricken|stricken|R|Adj
+awing	verb	awe|aw|R|N ; -ing|ing|I||-ing (v)
+awlwort	noun	awl|awl|R|N ; wort|wort|R|N
+awn	noun	awn|awn|R|N
+awned	adj	awn|awn|R|N ; -ed|ed|S||-ed (adj)
+awnless	adj	awn|awn|R|N ; -less|less|S
+awnlet	noun	awn|awn|R|N ; -let|let|S
+axed	verb	axe|ax|R|V ; -ed|ed|I||-ed (v2)
+axenic	adj	axenic|axenic|R|Adj
+axhandle	noun	ax|ax|R|N ; handle|handle|R|N
+axiality	noun	axial|axial|R|Adj ; -ity|ity|S
+axil	noun	axil|axil|R|N
+axile	adj	axile|axile|R|Adj
+axinite	noun	axinite|axinite|R|N
+axinomancy	noun	axinomancy|axinomancy|R|N
+axiology	noun	axiology|axiology|R|N
+axiomatical	adj	axiomatic|axiomatic|R|Adj ; -al|al|S
+axiomatically	adv	axiomatic|axiomatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+axiomatics	noun	axiomatic|axiomatic|R|Adj ; -s|s|I||-s (plural)
+axiomatizability	noun	axiomatize|axiomatiz|R|V ; -able|abil|S ; -ity|ity|S
+axiomatizable	adj	axiomatize|axiomatiz|R|V ; -able|able|S
+axiomatization	noun	axiomatize|axiomatiz|R|V ; -ation|ation|S
+axiomatize	verb	axiomatize|axiomatize|R|V
+axipetal	adj	axipetal|axipetal|R|Adj
+axletree	noun	axle|axle|R|N ; tree|tree|R|N
+axoid	adj	axoid|axoid|R|Adj
+axolotl	noun	axolotl|axolotl|R|N
+axonometry	noun	axonometry|axonometry|R|N
+axopetal	adj	axopetal|axopetal|R|Adj
+axoplasm	noun	axoplasm|axoplasm|R|N
+axoplast	noun	axoplast|axoplast|R|N
+axopodium	noun	axopodium|axopodium|R|N
+axosomatic	adj	axosomatic|axosomatic|R|Adj
+axostyle	noun	axostyle|axostyle|R|N
+ayahuasca	noun	ayahuasca|ayahuasca|R|N
+ayin	noun	ayin|ayin|R|N
+ayu	noun	ayu|ayu|R|N
+azarole	noun	azarole|azarole|R|N
+azeotrope	noun	azeotrope|azeotrope|R|N
+azeotropic	adj	azeotrope|azeotrop|R|N ; -ic|ic|S
+azide	noun	azide|azide|R|N
+azimuthally	adv	azimuthal|azimuthal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+azin	noun	azin|azin|R|N
+aziridine	noun	aziridine|aziridine|R|N
+azobenzene	noun	azobenzene|azobenzene|R|N
+azoic	adj	a-|a|P ; zoic|zoic|R|Adj
+azole	noun	azole|azole|R|N
+azolla	noun	azolla|azolla|R|N
+azonal	adj	a-|a|P ; zonal|zonal|R|Adj
+azoospermia	noun	azoospermia|azoospermia|R|N
+azorella	noun	azorella|azorella|R|N
+azote	noun	azote|azote|R|N
+azotemia	noun	azotemia|azotemia|R|N
+azoth	noun	azoth|azoth|R|N
+azotobacter	noun	azotobacter|azotobacter|R|N
+azoturia	noun	azoturia|azoturia|R|N
+azulejo	noun	azulejo|azulejo|R|N
+azulene	noun	azulene|azulene|R|N
+azurite	noun	azurite|azurite|R|N
+azygous	adj	azygous|azygous|R|Adj
+azymic	adj	azymic|azymic|R|Adj
+azymous	adj	azymous|azymous|R|Adj
+baaing	verb	baa|baa|R|V ; -ing|ing|I||-ing (v)
+baal	noun	baal|baal|R|N
+baas	noun	baas|baas|R|N
+baasskap	noun	baasskap|baasskap|R|N
+bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk	noun	bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk|bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk|R|N
+babalaas	noun	babalaas|babalaas|R|N
+babassu	noun	babassu|babassu|R|N
+babel	noun	babel|babel|R|N
+babesia	noun	babesia|babesia|R|N
+babier	adj	baby|babi|R|N ; -er|er|I||-er (comparative)
+babirusa	noun	babirusa|babirusa|R|N
+babka	noun	babka|babka|R|N
+baboonery	noun	baboon|baboon|R|N ; -ery|ery|S
+baboonish	adj	baboon|baboon|R|N ; -ish|ish|S
+babouche	noun	babouche|babouche|R|N
+babu	noun	babu|babu|R|N
+babying	verb	baby|baby|R|V ; -ing|ing|I||-ing (v)
+babyishness	noun	baby|baby|R|N ; -ish|ish|S ; -ness|ness|S
+babyism	noun	baby|baby|R|N ; -ism|ism|S
+babylike	adj	baby|baby|R|N ; -like|like|S
+baccate	adj	baccate|baccate|R|Adj
+bacchant	noun	bacchant|bacchant|R|N
+bacchantic	adj	bacchant|bacchant|R|N ; -ic|ic|S
+bacchic	adj	bacchic|bacchic|R|Adj
+bacciferous	adj	bacciferous|bacciferous|R|Adj
+bacciform	adj	bacciform|bacciform|R|Adj
+baccivorous	adj	baccivorous|baccivorous|R|Adj
+bachata	noun	bachata|bachata|R|N
+bachelorship	noun	bachelor|bachelor|R|N ; -ship|ship|S
+bacillar	adj	bacillus|bacill|R|N ; -ar|ar|S
+bacillary	adj	bacillus|bacill|R|N ; -ary|ary|S
+bacilliform	adj	bacilliform|bacilliform|R|Adj
+bacillophobia	noun	bacillophobia|bacillophobia|R|N
+bacitracin	noun	bacitracin|bacitracin|R|N
+backbend	noun	back|back|R|N ; bend|bend|R|V
+backbite	verb	back|back|R|N ; bite|bite|R|V
+backbiter	noun	back|back|R|N ; bite|bit|R|V ; -er|er|S||-er (N)

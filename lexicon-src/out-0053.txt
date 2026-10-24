@@ -1,0 +1,200 @@
+melting	noun	melt|melt|R|V ; -ing|ing|S||-ing (N)
+ledger	noun	ledger|ledger|R|N
+takeoff	noun	take|take|R|V ; off|off|R|Adv
+gracefully	adv	grace|grace|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+encyclopedia	noun	encyclopedia|encyclopedia|R|N
+undertaker	noun	under-|under|P ; take|tak|R|V ; -er|er|S||-er (N)
+remorse	noun	remorse|remorse|R|N
+cubicle	noun	cubicle|cubicle|R|N
+malignant	adj	malign|malign|R|Adj ; -ant|ant|S
+presuppose	verb	pre-|pre|P ; suppose|suppose|R|V
+signatory	noun	signatory|signatory|R|N
+outstretched	adj	out-|out|P ; stretch|stretch|R|V ; -ed|ed|S||-ed (adj)
+undecided	adj	un-|un|P ; decide|decid|R|V ; -ed|ed|S||-ed (adj)
+margarine	noun	margarine|margarine|R|N
+lookout	noun	look|look|R|V ; out|out|R|Adv
+scroll	verb	scroll|scroll|R|V
+affidavit	noun	affidavit|affidavit|R|N
+folded	adj	fold|fold|R|V ; -ed|ed|S||-ed (adj)
+secretariat	noun	secretariat|secretariat|R|N
+boar	noun	boar|boar|R|N
+malt	noun	malt|malt|R|N
+satire	noun	satire|satire|R|N
+blockade	noun	blockade|blockade|R|N
+dues	noun	due|due|R|N ; -s|s|I||-s (plural)
+alloy	noun	alloy|alloy|R|N
+makeover	noun	make|make|R|V ; over|over|R|Adv
+batting	noun	bat|batt|R|V ; -ing|ing|S||-ing (N)
+touring	noun	tour|tour|R|V ; -ing|ing|S||-ing (N)
+behold	verb	be-|be|P ; hold|hold|R|V
+pew	noun	pew|pew|R|N
+wring	verb	wring|wring|R|V
+imperialism	noun	imperial|imperial|R|Adj ; -ism|ism|S
+nostalgic	adj	nostalgia|nostalg|R|N ; -ic|ic|S
+xi	noun	xi|xi|R|N
+prawn	noun	prawn|prawn|R|N
+parody	noun	parody|parody|R|N
+caste	noun	caste|caste|R|N
+yawn	verb	yawn|yawn|R|V
+reactive	adj	re-|re|P ; act|act|R|V ; -ive|ive|S
+relentlessly	adv	relent|relent|R|V ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+flatly	adv	flat|flat|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+neutralize	verb	neutral|neutral|R|Adj ; -ize|ize|S
+rebate	noun	rebate|rebate|R|N
+feeder	noun	feed|feed|R|V ; -er|er|S||-er (N)
+pedestal	noun	pedestal|pedestal|R|N
+biographer	noun	biographer|biographer|R|N
+cornish	adj	cornish|cornish|R|Adj
+concurrent	adj	con-|con|P ; current|current|R|Adj
+diarrhea	noun	diarrhea|diarrhea|R|N
+delineate	verb	de-|de|P ; line|line|R|N ; -ate|ate|S
+caterpillar	noun	caterpillar|caterpillar|R|N
+spew	verb	spew|spew|R|V
+monastic	adj	monastic|monastic|R|Adj
+paranoia	noun	paranoia|paranoia|R|N
+emeritus	adj	emeritus|emeritus|R|Adj
+reptile	noun	reptile|reptile|R|N
+expatriate	noun	expatriate|expatriate|R|N
+foreclosure	noun	fore-|fore|P ; close|clos|R|V ; -ure|ure|S
+parable	noun	parable|parable|R|N
+insecure	adj	in-|in|P ; secure|secure|R|Adj
+majestic	adj	majesty|majest|R|N ; -ic|ic|S
+postulate	verb	postulate|postulate|R|V
+confound	verb	con-|con|P ; found|found|R|V
+hippy	noun	hippy|hippy|R|N
+mathematician	noun	mathematic|mathematic|R|N ; -ian|ian|S
+surreal	adj	surreal|surreal|R|Adj
+verification	noun	verify|verifi|R|V ; -ation|cation|S
+cleanse	verb	cleanse|cleanse|R|V
+cannabis	noun	cannabis|cannabis|R|N
+biographical	adj	biographical|biographical|R|Adj
+adopted	adj	adopt|adopt|R|V ; -ed|ed|S||-ed (adj)
+viscount	noun	viscount|viscount|R|N
+lotion	noun	lotion|lotion|R|N
+picket	noun	picket|picket|R|N
+cadre	noun	cadre|cadre|R|N
+encircle	verb	en-|en|P ; circle|circle|R|N
+tummy	noun	tummy|tummy|R|N
+confiscate	verb	confiscate|confiscate|R|V
+burgess	noun	burgess|burgess|R|N
+knickers	noun	knicker|knicker|R|N ; -s|s|I||-s (plural)
+sod	noun	sod|sod|R|N
+arable	adj	arable|arable|R|Adj
+hydraulic	adj	hydraulic|hydraulic|R|Adj
+rediscover	verb	re-|re|P ; dis-|dis|P ; cover|cover|R|V
+disgusted	adj	disgust|disgust|R|V ; -ed|ed|S||-ed (adj)
+priory	noun	prior|prior|R|N ; -y|y|S
+thee	pron	thee|thee|R
+hooker	noun	hook|hook|R|V ; -er|er|S||-er (N)
+deferred	adj	defer|deferr|R|V ; -ed|ed|S||-ed (adj)
+forcefully	adv	force|force|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+rink	noun	rink|rink|R|N
+rafter	noun	rafter|rafter|R|N
+resurrect	verb	resurrect|resurrect|R|V
+deli	noun	deli|deli|R|N
+backfire	verb	back|back|R|Adv ; fire|fire|R|V
+resilience	noun	resilience|resilience|R|N
+downright	adv	down|down|R|Adv ; right|right|R|Adj
+fife	noun	fife|fife|R|N
+measured	adj	measure|measur|R|V ; -ed|ed|S||-ed (adj)
+messiah	noun	messiah|messiah|R|N
+menopause	noun	menopause|menopause|R|N
+thrush	noun	thrush|thrush|R|N
+stillness	noun	still|still|R|Adj ; -ness|ness|S
+halftime	noun	half|half|R|N ; time|time|R|N
+derail	verb	de-|de|P ; rail|rail|R|N
+shareholding	noun	share|share|R|V ; hold|hold|R|V ; -ing|ing|S||-ing (N)
+revitalize	verb	re-|re|P ; vital|vital|R|Adj ; -ize|ize|S
+downsize	verb	down|down|R|Adv ; size|size|R|N
+impediment	noun	impediment|impediment|R|N
+reformation	noun	re-|re|P ; form|form|R|V ; -ation|ation|S
+overcoat	noun	over|over|R|Adv ; coat|coat|R|N
+watery	adj	water|water|R|N ; -y|y|S
+electromagnetic	adj	electromagnetic|electromagnetic|R|Adj
+kayak	noun	kayak|kayak|R|N
+storefront	noun	store|store|R|N ; front|front|R|N
+grange	noun	grange|grange|R|N
+defeated	adj	defeat|defeat|R|V ; -ed|ed|S||-ed (adj)
+bipolar	adj	bi-|bi|P ; polar|polar|R|Adj
+stricture	noun	strict|strict|R|Adj ; -ure|ure|S
+electrode	noun	electrode|electrode|R|N
+remission	noun	remit|remiss|R|V ; -ion|ion|S
+remake	verb	re-|re|P ; make|make|R|V
+ornate	adj	ornate|ornate|R|Adj
+edible	adj	edible|edible|R|Adj
+taxable	adj	tax|tax|R|N ; -able|able|S
+consolidated	adj	con-|con|P ; solid|solid|R|Adj ; -ate|at|S ; -ed|ed|S||-ed (adj)
+caress	verb	caress|caress|R|V
+colonization	noun	colon|colon|R|N ; -ize|iz|S ; -ation|ation|S
+funky	adj	funk|funk|R|N ; -y|y|S
+viral	adj	viral|viral|R|Adj
+naturalist	noun	nature|natur|R|N ; -al|al|S ; -ist|ist|S
+disciplined	adj	discipline|disciplin|R|N ; -ed|ed|S||-ed (adj)
+eggplant	noun	egg|egg|R|N ; plant|plant|R|N
+toad	noun	toad|toad|R|N
+puritan	noun	puritan|puritan|R|N
+thunderstorm	noun	thunder|thunder|R|N ; storm|storm|R|N
+barman	noun	bar|bar|R|N ; man|man|R|N
+bumper	noun	bump|bump|R|V ; -er|er|S||-er (N)
+patriot	noun	patriot|patriot|R|N
+grassland	noun	grass|grass|R|N ; land|land|R|N
+stronghold	noun	strong|strong|R|Adj ; hold|hold|R|V
+schoolteacher	noun	school|school|R|N ; teach|teach|R|V ; -er|er|S||-er (N)
+focused	adj	focus|focus|R|V ; -ed|ed|S||-ed (adj)
+goldfish	noun	gold|gold|R|N ; fish|fish|R|N
+skyscraper	noun	sky|sky|R|N ; scrape|scrap|R|V ; -er|er|S||-er (N)
+pronouncement	noun	pronounce|pronounce|R|V ; -ment|ment|S
+reasonableness	noun	reason|reason|R|V ; -able|able|S ; -ness|ness|S
+expend	verb	expend|expend|R|V
+fragmentation	noun	fragment|fragment|R|V ; -ation|ation|S
+airy	adj	air|air|R|N ; -y|y|S
+settee	noun	settee|settee|R|N
+outpatient	noun	out|out|R|Adv ; patient|patient|R|N
+eel	noun	eel|eel|R|N
+resilient	adj	resilient|resilient|R|Adj
+redesign	verb	re-|re|P ; design|design|R|V
+chute	noun	chute|chute|R|N
+neurological	adj	neurological|neurological|R|Adj
+primacy	noun	primacy|primacy|R|N
+hilarious	adj	hilarious|hilarious|R|Adj
+chloride	noun	chloride|chloride|R|N
+syringe	noun	syringe|syringe|R|N
+taunt	verb	taunt|taunt|R|V
+lattice	noun	lattice|lattice|R|N
+envelop	verb	envelop|envelop|R|V
+handshake	noun	hand|hand|R|N ; shake|shake|R|V
+theorize	verb	theory|theor|R|N ; -ize|ize|S
+revere	verb	revere|revere|R|V
+intonation	noun	intone|inton|R|V ; -ation|ation|S
+diego	noun	diego|diego|R|N
+distrust	verb	dis-|dis|P ; trust|trust|R|V
+tertiary	adj	tertiary|tertiary|R|Adj
+potassium	noun	potassium|potassium|R|N
+swath	noun	swath|swath|R|N
+bribe	verb	bribe|bribe|R|V
+wiggle	verb	wiggle|wiggle|R|V
+overstate	verb	over-|over|P ; state|state|R|V
+cringe	verb	cringe|cringe|R|V
+transfusion	noun	transfuse|transfus|R|V ; -ion|ion|S
+lore	noun	lore|lore|R|N
+choral	adj	choral|choral|R|Adj
+memorabilia	noun	memorabilia|memorabilia|R|N
+gag	noun	gag|gag|R|N
+czar	noun	czar|czar|R|N
+brigadier	noun	brigadier|brigadier|R|N
+emphatically	adv	emphatic|emphatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+investing	noun	invest|invest|R|V ; -ing|ing|S||-ing (N)
+proclamation	noun	pro-|pro|P ; claim|clam|R|V ; -ation|ation|S
+roadway	noun	road|road|R|N ; way|way|R|N
+wrapper	noun	wrap|wrapp|R|V ; -er|er|S||-er (N)
+closeness	noun	close|close|R|Adj ; -ness|ness|S
+countess	noun	count|count|R|N ; -ess|ess|S
+victimize	verb	victim|victim|R|N ; -ize|ize|S
+bellow	verb	bellow|bellow|R|V
+unearth	verb	un-|un|P ; earth|earth|R|N
+inflationary	adj	inflate|inflat|R|V ; -ion|ion|S ; -ary|ary|S
+ambivalent	adj	ambivalent|ambivalent|R|Adj
+caliber	noun	caliber|caliber|R|N
+disarmament	noun	disarmament|disarmament|R|N
+subgroup	noun	sub-|sub|P ; group|group|R|N
+confinement	noun	confine|confine|R|V ; -ment|ment|S

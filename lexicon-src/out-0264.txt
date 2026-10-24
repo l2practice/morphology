@@ -1,0 +1,200 @@
+dermatoglyphic	adj	dermatoglyphic|dermatoglyphic|R|Adj
+dermatoglyphics	noun	dermatoglyphic|dermatoglyphic|R|Adj ; -s|s|I||-s (plural)
+dermatographia	noun	dermatographia|dermatographia|R|N
+dermatoid	adj	dermatoid|dermatoid|R|Adj
+dermatome	noun	dermatome|dermatome|R|N
+dermatomic	adj	dermatome|dermatom|R|N ; -ic|ic|S
+dermatophyte	noun	dermatophyte|dermatophyte|R|N
+dermatophytosis	noun	dermatophytosis|dermatophytosis|R|N
+dermatoplasty	noun	dermatoplasty|dermatoplasty|R|N
+dermatosis	noun	dermatosis|dermatosis|R|N
+dermic	adj	derm|derm|R|N ; -ic|ic|S
+dern	adj	dern|dern|R|Adj
+dernier	adj	dernier|dernier|R|Adj
+derogatorily	adv	derogate|derogat|R|V ; -ory|ori|S ; -ly|ly|I|Adv|-ly (adv)
+derogatoriness	noun	derogate|derogat|R|V ; -ory|ori|S ; -ness|ness|S
+derris	noun	derris|derris|R|N
+derry	noun	derry|derry|R|N
+derussification	noun	de-|de|P ; russify|russifi|R|V ; -ation|cation|S
+derust	verb	de-|de|P ; rust|rust|R|N
+derv	noun	derv|derv|R|N
+desalinate	verb	de-|de|P ; saline|salin|R|N ; -ate|ate|S
+desalinator	noun	de-|de|P ; saline|salin|R|N ; -or|ator|S
+desalinize	verb	de-|de|P ; saline|salin|R|N ; -ize|ize|S
+desalt	verb	de-|de|P ; salt|salt|R|N
+desalting	noun	de-|de|P ; salt|salt|R|N ; -ing|ing|S||-ing (N)
+desaturate	verb	de-|de|P ; saturate|saturate|R|V
+descale	verb	de-|de|P ; scale|scale|R|N
+descaling	noun	de-|de|P ; scale|scal|R|N ; -ing|ing|S||-ing (N)
+descanter	noun	descant|descant|R|N ; -er|er|S||-er (N)
+descendible	adj	descend|descend|R|V ; -ible|ible|S
+descrambler	noun	de-|de|P ; scramble|scrambl|R|V ; -er|er|S||-er (N)
+descrier	noun	descry|descri|R|V ; -er|er|S||-er (N)
+descriptiveness	noun	describe|descript|R|V ; -ive|ive|S ; -ness|ness|S
+descriptivism	noun	describe|descript|R|V ; -ive|iv|S ; -ism|ism|S
+descry	verb	descry|descry|R|V
+deseasonalization	noun	de-|de|P ; seasonal|seasonal|R|Adj ; -ize|iz|S ; -ation|ation|S
+desecrator	noun	desecrate|desecrat|R|V ; -or|or|S
+desegmentation	noun	de-|de|P ; segment|segment|R|N ; -ation|ation|S
+desegregationist	noun	de-|de|P ; segregate|segregat|R|V ; -ion|ion|S ; -ist|ist|S
+deselection	noun	de-|de|P ; selection|selection|R|N
+desensitisation	noun	de-|de|P ; sensitize|sensitis|R|V ; -ation|ation|S
+desensitizer	noun	de-|de|P ; sensitize|sensitiz|R|V ; -er|er|S||-er (N)
+deserialize	verb	de-|de|P ; serialize|serialize|R|V
+desertify	verb	desert|desert|R|N ; -ify|ify|S
+desertology	noun	desertology|desertology|R|N
+deservedness	noun	deserve|deserv|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+deservingly	adv	deserve|deserv|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+desex	verb	de-|de|P ; sex|sex|R|N
+desexualization	noun	de-|de|P ; sexual|sexual|R|Adj ; -ize|iz|S ; -ation|ation|S
+desexualize	verb	de-|de|P ; sexual|sexual|R|Adj ; -ize|ize|S
+desiccant	noun	desiccate|desicc|R|V ; -ant|ant|S
+desiccate	verb	desiccate|desiccate|R|V
+desiccative	adj	desiccate|desicc|R|V ; -ative|ative|S
+desiccator	noun	desiccate|desicc|R|V ; -or|ator|S
+desiderate	verb	desiderate|desiderate|R|V
+desideration	noun	desiderate|desiderat|R|V ; -ion|ion|S
+desiderative	adj	desiderate|desiderat|R|V ; -ive|ive|S
+designable	adj	design|design|R|V ; -able|able|S
+designative	adj	designate|designat|R|V ; -ive|ive|S
+designator	noun	designate|designat|R|V ; -or|or|S
+designatory	adj	designate|designat|R|V ; -ory|ory|S
+designedly	adv	design|design|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+designingly	adv	design|design|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+desilver	verb	de-|de|P ; silver|silver|R|N
+desilverize	verb	de-|de|P ; silver|silver|R|N ; -ize|ize|S
+desinence	noun	desinence|desinence|R|N
+desinential	adj	desinential|desinential|R|Adj
+desipience	noun	desipience|desipience|R|N
+desirableness	noun	desire|desir|R|V ; -able|able|S ; -ness|ness|S
+desirably	adv	desire|desir|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+desirer	noun	desire|desir|R|V ; -er|er|S||-er (N)
+desirously	adv	desire|desir|R|V ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+desirousness	noun	desire|desir|R|V ; -ous|ous|S ; -ness|ness|S
+desistance	noun	desist|desist|R|V ; -ance|ance|S
+deskbound	adj	desk|desk|R|N ; bound|bound|R|Adj
+desklamp	noun	desk|desk|R|N ; lamp|lamp|R|N
+desma	noun	desma|desma|R|N
+desman	noun	desman|desman|R|N
+desmosome	noun	desmosome|desmosome|R|N
+desolately	adv	desolate|desolate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+desolateness	noun	desolate|desolate|R|Adj ; -ness|ness|S
+desolater	noun	desolate|desolat|R|V ; -er|er|S||-er (N)
+desolating	verb	desolate|desolat|R|V ; -ing|ing|I||-ing (v)
+desperateness	noun	desperate|desperate|R|Adj ; -ness|ness|S
+despicableness	noun	despise|despic|R|V ; -able|able|S ; -ness|ness|S
+despicably	adv	despise|despic|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+despisal	noun	despise|despis|R|V ; -al|al|S
+despiser	noun	despise|despis|R|V ; -er|er|S||-er (N)
+despising	verb	despise|despis|R|V ; -ing|ing|I||-ing (v)
+despisingly	adv	despise|despis|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+despitefulness	noun	despite|despite|R|N ; -ful|ful|S ; -ness|ness|S
+despoiling	verb	despoil|despoil|R|V ; -ing|ing|I||-ing (v)
+despoilment	noun	despoil|despoil|R|V ; -ment|ment|S
+despond	verb	despond|despond|R|V
+despondingly	adv	despond|despond|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+despotically	adv	despotic|despotic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+desquamate	verb	de-|de|P ; squamate|squamate|R|Adj
+desquamation	noun	de-|de|P ; squamate|squamat|R|Adj ; -ion|ion|S
+dessertspoon	noun	dessert|dessert|R|N ; spoon|spoon|R|N
+dessertspoonful	noun	dessert|dessert|R|N ; spoon|spoon|R|N ; -ful|ful|S
+dessiatina	noun	dessiatina|dessiatina|R|N
+destain	verb	de-|de|P ; stain|stain|R|N
+destalinization	noun	de-|de|P ; Stalin|stalin|R|N ; -ize|iz|S ; -ation|ation|S
+destigmatize	verb	de-|de|P ; stigma|stigmat|R|N ; -ize|ize|S
+destituteness	noun	destitute|destitute|R|Adj ; -ness|ness|S
+destress	verb	de-|de|P ; stress|stress|R|N
+destrier	noun	destrier|destrier|R|N
+destroyable	adj	destroy|destroy|R|V ; -able|able|S
+destructibility	noun	de-|de|P ; -struct|struct|B|V ; -ible|ibil|S ; -ity|ity|S
+destructible	adj	de-|de|P ; -struct|struct|B|V ; -ible|ible|S
+destructibleness	noun	de-|de|P ; -struct|struct|B|V ; -ible|ible|S ; -ness|ness|S
+destructivity	noun	de-|de|P ; -struct|struct|B|V ; -ive|iv|S ; -ity|ity|S
+desultoriness	noun	desultory|desultori|R|Adj ; -ness|ness|S
+detachability	noun	detach|detach|R|V ; -able|abil|S ; -ity|ity|S
+detachably	adv	detach|detach|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+detachedly	adv	detach|detach|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+detachedness	noun	detach|detach|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+detailer	noun	detail|detail|R|V ; -er|er|S||-er (N)
+detainer	noun	detain|detain|R|V ; -er|er|S||-er (N)
+detaining	verb	detain|detain|R|V ; -ing|ing|I||-ing (v)
+detectible	adj	detect|detect|R|V ; -ible|ible|S
+deterge	verb	deterge|deterge|R|V
+deteriorative	adj	deteriorate|deteriorat|R|V ; -ive|ive|S
+determent	noun	deter|deter|R|V ; -ment|ment|S
+determinableness	noun	determine|determin|R|V ; -able|able|S ; -ness|ness|S
+determinably	adv	determine|determin|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+determinantal	adj	determinant|determinant|R|N ; -al|al|S
+determinately	adv	determinate|determinate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+determinateness	noun	determinate|determinate|R|Adj ; -ness|ness|S
+determinatively	adv	determine|determin|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+determinativeness	noun	determine|determin|R|V ; -ative|ative|S ; -ness|ness|S
+determinedness	noun	determine|determin|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+deterministically	adv	deterministic|deterministic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+deterrable	adj	deter|deterr|R|V ; -able|able|S
+deterrer	noun	deter|deterr|R|V ; -er|er|S||-er (N)
+deterritorialization	noun	de-|de|P ; territory|territori|R|N ; -al|al|S ; -ize|iz|S ; -ation|ation|S
+detersion	noun	deterge|deters|R|V ; -ion|ion|S
+detersive	adj	deterge|deters|R|V ; -ive|ive|S
+detestability	noun	detest|detest|R|V ; -able|abil|S ; -ity|ity|S
+detestableness	noun	detest|detest|R|V ; -able|able|S ; -ness|ness|S
+detestably	adv	detest|detest|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+detester	noun	detest|detest|R|V ; -er|er|S||-er (N)
+dethronement	noun	de-|de|P ; throne|throne|R|N ; -ment|ment|S
+dethroner	noun	de-|de|P ; throne|thron|R|N ; -er|er|S||-er (N)
+dethroning	verb	de-|de|P ; throne|thron|R|N ; -ing|ing|I||-ing (v)
+detin	verb	de-|de|P ; tin|tin|R|N
+detinue	noun	detinue|detinue|R|N
+detonatable	adj	detonate|detonat|R|V ; -able|able|S
+detorsion	noun	de-|de|P ; torsion|torsion|R|N
+detoxicant	noun	de-|de|P ; toxic|toxic|R|Adj ; -ant|ant|S
+detoxicate	verb	de-|de|P ; toxic|toxic|R|Adj ; -ate|ate|S
+detoxication	noun	de-|de|P ; toxic|toxic|R|Adj ; -ation|ation|S
+detracting	verb	detract|detract|R|V ; -ing|ing|I||-ing (v)
+detraction	noun	detract|detract|R|V ; -ion|ion|S
+detractive	adj	detract|detract|R|V ; -ive|ive|S
+detractively	adv	detract|detract|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+detrain	verb	de-|de|P ; train|train|R|N
+detrainment	noun	de-|de|P ; train|train|R|N ; -ment|ment|S
+detransition	noun	de-|de|P ; transition|transition|R|N
+detransitioner	noun	de-|de|P ; transition|transition|R|N ; -er|er|S||-er (N)
+detrending	noun	de-|de|P ; trend|trend|R|N ; -ing|ing|S||-ing (N)
+detribalization	noun	de-|de|P ; tribal|tribal|R|Adj ; -ize|iz|S ; -ation|ation|S
+detribalize	verb	de-|de|P ; tribal|tribal|R|Adj ; -ize|ize|S
+detrition	noun	detrition|detrition|R|N
+detritivore	noun	detritivore|detritivore|R|N
+detruck	verb	de-|de|P ; truck|truck|R|N
+detumescence	noun	de-|de|P ; tumescence|tumescence|R|N
+detune	verb	de-|de|P ; tune|tune|R|N
+deuced	adj	deuce|deuc|R|N ; -ed|ed|S||-ed (adj)
+deuteragonist	noun	deuteragonist|deuteragonist|R|N
+deuteranope	noun	deuteranope|deuteranope|R|N
+deuteranopia	noun	deuteranopia|deuteranopia|R|N
+deuterate	verb	deuterium|deuter|R|N ; -ate|ate|S
+deuteration	noun	deuterium|deuter|R|N ; -ation|ation|S
+deuterocanonical	adj	deuterocanonical|deuterocanonical|R|Adj
+deuterogamy	noun	deuterogamy|deuterogamy|R|N
+deuterostome	noun	deuterostome|deuterostome|R|N
+deutoplasm	noun	deutoplasm|deutoplasm|R|N
+devadasi	noun	devadasi|devadasi|R|N
+devalorization	noun	de-|de|P ; valor|valor|R|N ; -ize|iz|S ; -ation|ation|S
+devalorize	verb	de-|de|P ; valor|valor|R|N ; -ize|ize|S
+devaluate	verb	de-|de|P ; value|valu|R|N ; -ate|ate|S
+devastative	adj	devastate|devastat|R|V ; -ive|ive|S
+devastator	noun	devastate|devastat|R|V ; -or|or|S
+developmentalism	noun	develop|develop|R|V ; -ment|ment|S ; -al|al|S ; -ism|ism|S
+developments	noun	develop|develop|R|V ; -ment|ment|S ; -s|s|I||-s (plural)
+deverbal	adj	de-|de|P ; verbal|verbal|R|Adj
+deviationism	noun	deviate|deviat|R|V ; -ion|ion|S ; -ism|ism|S
+deviationist	noun	deviate|deviat|R|V ; -ion|ion|S ; -ist|ist|S
+deviator	noun	deviate|deviat|R|V ; -or|or|S
+deviatory	adj	deviate|deviat|R|V ; -ory|ory|S
+devildom	noun	devil|devil|R|N ; -dom|dom|S
+devilishness	noun	devil|devil|R|N ; -ish|ish|S ; -ness|ness|S
+devilled	adj	devil|devill|R|V ; -ed|ed|S||-ed (adj)
+devilling	verb	devil|devill|R|V ; -ing|ing|I||-ing (v)
+devilry	noun	devil|devil|R|N ; -ry|ry|S
+deviltry	noun	devil|devil|R|N ; -try|try|S
+devirilize	verb	de-|de|P ; virile|viril|R|Adj ; -ize|ize|S
+devisable	adj	devise|devis|R|V ; -able|able|S
+devisee	noun	devise|devis|R|V ; -ee|ee|S

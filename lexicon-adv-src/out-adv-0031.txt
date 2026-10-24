@@ -1,0 +1,150 @@
+farce	noun	=
+infinity	noun	in-|in|P||||Latin in- 'not' ; -fin-|fin|B|N|||Latin finis 'end' ; -ity|ity|S||||Latin -itas 'state, quality'
+titanium	noun	=
+contemplation	noun	con-|con|P||||Latin com- 'together' ; -templ-|templ|B|N|||Latin templum 'temple' ; -ation|ation|S||||Latin -atio 'act, state'
+frigid	adj	=
+marina	noun	=
+itinerary	noun	itiner-|itiner|B|N|||Latin iter 'journey' ; -ary|ary|S||||Latin -arius 'relating to'
+cypress	noun	=
+afloat	adv	=
+indulgence	noun	=
+impeccable	adj	im-|im|P||||Latin in- 'not' ; -pecc-|pecc|B|V|||Latin peccare 'to err' ; -able|able|S||||Latin -abilis 'able to'
+graphite	noun	graph-|graph|B|V|||Greek graphein 'to write' ; -ite|ite|S||||Greek -ites 'mineral, stone'
+horrendous	adj	horr-|horr|B|V|||Latin horrere 'to dread' ; -end-|end|S||||Latin -endus 'to be done' ; -ous|ous|S||||Latin -osus 'full of'
+habitual	adj	=
+emphatic	adj	em-|em|P||||Greek en 'in' ; -pha-|pha|B|V|||Greek phainein 'to show' ; -tic|tic|S||||Greek -tikos 'relating to'
+imaginable	adj	=
+detract	verb	de-|de|P||||Latin de- 'down, away' ; -tract|tract|B|V|||Latin trahere 'to draw'
+galley	noun	=
+apprehensive	adj	ap-|ap|P||||Latin ad- 'to' ; -prehens-|prehens|B|V|||Latin prehendere 'to grasp' ; -ive|ive|S||||Latin -ivus 'tending to'
+dichotomy	noun	dicho-|dicho|B|Adj|||Greek dicha 'in two' ; -tomy|tomy|B|N|||Greek tome 'cutting'
+dormant	adj	dorm-|dorm|B|V|||Latin dormire 'to sleep' ; -ant|ant|S||||Latin -ans 'agent, -ing'
+academia	noun	=
+sporadic	adj	sporad-|sporad|B|Adj|||Greek sporas 'scattered' ; -ic|ic|S||||Greek -ikos 'relating to'
+secretarial	adj	=
+intermittent	adj	inter-|inter|P||||Latin inter 'between' ; -mitt-|mitt|B|V|||Latin mittere 'to send' ; -ent|ent|S||||Latin -ens 'agent, -ing'
+taint	verb	=
+substantiate	verb	sub-|sub|P||||Latin sub- 'under' ; -stanti-|stanti|B|V|||Latin stare 'to stand' ; -ate|ate|S||||Latin -atus 'verb-forming'
+timid	adj	tim-|tim|B|V|||Latin timere 'to fear' ; -id|id|S||||Latin -idus 'having quality'
+destabilize	verb	=
+perceptive	adj	per-|per|P||||Latin per 'through' ; -cept-|cept|B|V|||Latin capere 'to take' ; -ive|ive|S||||Latin -ivus 'tending to'
+ambush	noun	=
+penalize	verb	=
+degenerate	adj	de-|de|P||||Latin de- 'away, from' ; -gener-|gener|B|N|||Latin genus 'kind, birth' ; -ate|ate|S||||Latin -atus 'verb-forming'
+concise	adj	con-|con|P||||Latin com- 'together' ; -cise|cise|B|V|||Latin caedere 'to cut'
+complacent	adj	com-|com|P||||Latin com- 'together' ; -plac-|plac|B|V|||Latin placere 'to please' ; -ent|ent|S||||Latin -ens 'agent, -ing'
+symposium	noun	sym-|sym|P||||Greek syn 'together' ; -pos-|pos|B|V|||Greek pinein 'to drink' ; -ium|ium|S||||Greek -ion 'thing, place'
+felon	noun	=
+forerunner	noun	=
+tranquillity	noun	=
+malicious	adj	mal-|mal|B|Adj|||Latin malus 'bad' ; -icious|icious|S||||Latin -iosus 'full of'
+obligate	verb	ob-|ob|P||||Latin ob- 'against, to' ; -lig-|lig|B|V|||Latin ligare 'to bind' ; -ate|ate|S||||Latin -atus 'verb-forming'
+drab	adj	=
+cascade	noun	=
+janitor	noun	=
+inseparable	adj	in-|in|P||||Latin in- 'not' ; -separ-|separ|B|V|||Latin separare 'to separate' ; -able|able|S||||Latin -abilis 'able to'
+adjoin	verb	=
+inertia	noun	=
+corroborate	verb	cor-|cor|P||||Latin com- 'together' ; -robor-|robor|B|N|||Latin robur 'strength, oak' ; -ate|ate|S||||Latin -atus 'verb-forming'
+adversity	noun	ad-|ad|P||||Latin ad- 'to, toward' ; -vers-|vers|B|V|||Latin vertere 'to turn' ; -ity|ity|S||||Latin -itas 'state, quality'
+discernible	adj	=
+torrent	noun	torr-|torr|B|V|||Latin torrere 'to parch' ; -ent|ent|S||||Latin -ens 'agent, -ing'
+incite	verb	=
+parchment	noun	=
+anarchy	noun	an-|an|P||||Greek an- 'without' ; -archy|archy|B|N|||Greek arkhein 'to rule'
+forfeit	noun	=
+coerce	verb	co-|co|P||||Latin com- 'together' ; -erce|erce|B|V|||Latin arcere 'to enclose'
+immortal	adj	im-|im|P||||Latin in- 'not' ; -mort-|mort|B|N|||Latin mors 'death' ; -al|al|S||||Latin -alis 'relating to'
+assertive	adj	=
+spore	noun	=
+antagonism	noun	ant-|ant|P||||Greek anti 'against' ; -agon-|agon|B|N|||Greek agon 'contest' ; -ism|ism|S||||Greek -ismos 'doctrine, state'
+terrorize	verb	=
+palate	noun	=
+seminal	adj	=
+depressive	adj	=
+detriment	noun	=
+subvert	verb	sub-|sub|P||||Latin sub- 'under' ; -vert|vert|B|V|||Latin vertere 'to turn'
+victorious	adj	=
+geopolitical	adj	=
+caveat	noun	=
+repute	verb	re-|re|P||||Latin re- 'again' ; -pute|pute|B|V|||Latin putare 'to think'
+ravine	noun	=
+pervade	verb	per-|per|P||||Latin per 'through' ; -vade|vade|B|V|||Latin vadere 'to go'
+modesty	noun	=
+impinge	verb	im-|im|P||||Latin in- 'against, on' ; -pinge|pinge|B|V|||Latin pangere 'to drive in'
+evasion	noun	e-|e|P||||Latin ex- 'out' ; -vas-|vas|B|V|||Latin vadere 'to go' ; -ion|ion|S||||Latin -io 'act, state'
+affectionate	adj	=
+penchant	noun	=
+abduct	verb	ab-|ab|P||||Latin ab 'away' ; -duct|duct|B|V|||Latin ducere 'to lead'
+fitter	noun	=
+amenable	adj	=
+pretense	noun	pre-|pre|P||||Latin prae- 'before' ; -tense|tense|B|V|||Latin tendere 'to stretch'
+liturgy	noun	leit-|lit|B|N|||Greek laos 'people' ; -urgy|urgy|B|N|||Greek ergon 'work'
+converse	verb	con-|con|P||||Latin com- 'together' ; -verse|verse|B|V|||Latin vertere 'to turn'
+coward	noun	=
+obscurity	noun	=
+fabrication	noun	=
+microorganism	noun	=
+spurious	adj	=
+deceptive	adj	de-|de|P||||Latin de- 'down, away' ; -cept-|cept|B|V|||Latin capere 'to take' ; -ive|ive|S||||Latin -ivus 'tending to'
+jostle	verb	=
+exhaustive	adj	=
+carnage	noun	carn-|carn|B|N|||Latin caro 'flesh' ; -age|age|S||||French -age 'collection, state'
+juncture	noun	junct-|junct|B|V|||Latin iungere 'to join' ; -ure|ure|S||||Latin -ura 'act, result'
+staunch	adj	=
+antidote	noun	anti-|anti|P||||Greek anti 'against' ; -dote|dote|B|V|||Greek didonai 'to give'
+purge	verb	=
+lance	noun	=
+legitimize	verb	=
+lobe	noun	=
+labyrinth	noun	=
+malice	noun	mal-|mal|B|Adj|||Latin malus 'bad' ; -ice|ice|S||||Latin -itia 'state, quality'
+vigilant	adj	=
+antelope	noun	=
+contagious	adj	contag-|contag|B|N|||Latin contagio 'touching, contact' ; -ious|ious|S||||Latin -iosus 'full of'
+saliva	noun	=
+headphone	noun	=
+parochial	adj	paroch-|paroch|B|N|||Greek paroikia 'district, parish' ; -ial|ial|S||||Latin -ialis 'relating to'
+veterinarian	noun	veterin-|veterin|B|N|||Latin veterinae 'beasts of burden' ; -arian|arian|S||||Latin -arius 'relating to, agent'
+euphoria	noun	eu-|eu|P||||Greek eu 'well' ; -phor-|phor|B|V|||Greek pherein 'to bear' ; -ia|ia|S||||Greek -ia 'state, quality'
+enigmatic	adj	=
+appraise	verb	=
+oregano	noun	=
+prosthesis	noun	pros-|pros|P||||Greek pros 'towards' ; -thes-|thes|B|V|||Greek tithenai 'to place' ; -is|is|S||||Greek -sis 'act, state'
+repudiate	verb	=
+pretension	noun	pre-|pre|P||||Latin prae- 'before' ; -tens-|tens|B|V|||Latin tendere 'to stretch' ; -ion|ion|S||||Latin -io 'act, state'
+omen	noun	=
+ligament	noun	lig-|lig|B|V|||Latin ligare 'to bind' ; -ament|ament|S||||Latin -amentum 'means, result'
+austere	adj	=
+superstition	noun	super-|super|P||||Latin super 'above' ; -stit-|stit|B|V|||Latin stare 'to stand' ; -ion|ion|S||||Latin -io 'act, state'
+brute	adj	=
+evict	verb	e-|e|P||||Latin ex- 'out' ; -vict|vict|B|V|||Latin vincere 'to conquer'
+tranquil	adj	tran-|tran|P||||Latin trans- 'across' ; -quil|quil|B|N|||Latin quies 'rest, quiet'
+proviso	noun	=
+subdue	verb	sub-|sub|P||||Latin sub- 'under' ; -due|due|B|V|||Latin ducere 'to lead'
+redress	verb	=
+apathy	noun	a-|a|P||||Greek a- 'without' ; -path-|path|B|N|||Greek pathos 'feeling, suffering' ; -y|y|S||||Greek -ia 'state, quality'
+tally	noun	=
+pompous	adj	=
+instigate	verb	=
+charisma	noun	=
+benefactor	noun	bene-|bene|P||||Latin bene 'well, good' ; -fact-|fact|B|V|||Latin facere 'to make, do' ; -or|or|S||||Latin -tor 'agent'
+apprehend	verb	ap-|ap|P||||Latin ad- 'to' ; -prehend|prehend|B|V|||Latin prehendere 'to grasp'
+fluctuate	verb	fluctu-|fluctu|B|V|||Latin fluctuare 'to surge, swell' ; -ate|ate|S||||Latin -atus 'verb-forming'
+devious	adj	de-|de|P||||Latin de 'off, from' ; -vi-|vi|B|N|||Latin via 'way, road' ; -ous|ous|S||||Latin -osus 'full of'
+tyrant	noun	=
+transcendent	adj	trans-|tran|P||||Latin trans- 'across' ; -scend-|scend|B|V|||Latin scandere 'to climb' ; -ent|ent|S||||Latin -ens 'agent, -ing'
+tremor	noun	=
+aristocrat	noun	arist-|arist|B|Adj|||Greek aristos 'best' ; -ocrat|ocrat|B|N|||Greek kratos 'rule, power'
+languish	verb	langu-|langu|B|V|||Latin languere 'to be faint' ; -ish|ish|S||||Latin -iscere 'to become'
+serpent	noun	serp-|serp|B|V|||Latin serpere 'to creep' ; -ent|ent|S||||Latin -ens 'agent, -ing'
+commotion	noun	com-|com|P||||Latin com- 'together' ; -mot-|mot|B|V|||Latin movere 'to move' ; -ion|ion|S||||Latin -io 'act, state'
+digestive	adj	=
+animosity	noun	anim-|anim|B|N|||Latin animus 'spirit, mind' ; -osity|osity|S||||Latin -ositas 'state, quality'
+plumber	noun	=
+easel	noun	=
+spasm	noun	=
+medic	noun	=
+scorn	verb	=
+oblivion	noun	ob-|ob|P||||Latin ob- 'against, over' ; -liv-|liv|B|V|||Latin oblivisci 'to forget' ; -ion|ion|S||||Latin -io 'act, state'
+inexplicable	adj	in-|in|P||||Latin in- 'not' ; -explic-|explic|B|V|||Latin explicare 'to unfold' ; -able|able|S||||Latin -abilis 'able to'

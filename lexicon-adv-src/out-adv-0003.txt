@@ -1,0 +1,150 @@
+modern	adj	mod-|mod|B|N|||Latin modus 'measure' ; -ern|ern|S||||Latin -ernus, 'relating to'
+degree	noun	de-|de|P||||Latin de- 'from' ; -gree|gree|B|N||-grad|Latin gradus 'step'
+legal	adj	leg-|leg|B|N|||Latin lex 'law' ; -al|al|S||||Latin -alis, 'relating to'
+resource	noun	=
+compare	verb	com-|com|P||||Latin com- 'together' ; -pare|pare|B|Adj|||Latin par 'equal'
+determine	verb	de-|de|P||||Latin de- 'from' ; -termine|termine|B|V|||Latin terminare 'to bound'
+prepare	verb	pre-|pre|P||||Latin prae- 'before' ; -pare|pare|B|V|||Latin parare 'to make ready'
+final	adj	fin-|fin|B|N|||Latin finis 'end' ; -al|al|S||||Latin -alis, 'relating to'
+recognize	verb	re-|re|P||||Latin re- 'again' ; -cogn-|cogn|B|V|||Latin cognoscere 'to know' ; -ize|ize|S||||Greek -izein, 'verb-forming'
+task	noun	=
+function	noun	funct-|funct|B|V|||Latin fungi 'to perform' ; -ion|ion|S||||Latin -io, 'act, state'
+ability	noun	=
+provision	noun	pro-|pro|P||||Latin pro- 'forth' ; -vis-|vis|B|V|||Latin videre 'to see' ; -ion|ion|S||||Latin -io, 'act, state'
+county	noun	=
+indicate	verb	in-|in|P||||Latin in- 'to' ; -dic-|dic|B|V|||Latin dicere 'to say' ; -ate|ate|S||||Latin -atus, 'made, having'
+character	noun	charact-|charact|B|N|||Greek charassein 'to engrave' ; -er|er|S||||Greek -ter, 'agent'
+defence	noun	=
+style	noun	=
+obtain	verb	ob-|ob|P||||Latin ob- 'against' ; -tain|tain|B|V|||Latin tenere 'to hold'
+science	noun	sci-|sci|B|V|||Latin scire 'to know' ; -ence|ence|S||||Latin -entia, 'state, quality'
+announce	verb	an-|an|P||||Latin ad- 'to' ; -nounce|nounce|B|V|||Latin nuntiare 'to report'
+physical	adj	physic-|physic|B|N|||Greek physike 'study of nature' ; -al|al|S||||Latin -alis, 'relating to'
+message	noun	mess-|mess|B|V||-mit|Latin mittere 'to send' ; -age|age|S||||Latin -aticus, 'relating to'
+normal	adj	=
+army	noun	=
+suffer	verb	suf-|suf|P||||Latin sub- 'under' ; -fer|fer|B|V|||Latin ferre 'to carry'
+previous	adj	pre-|pre|P||||Latin prae- 'before' ; -vious|vious|B|N|||Latin via 'road, way'
+maintain	verb	main-|main|B|N|||Latin manus 'hand' ; -tain|tain|B|V|||Latin tenere 'to hold'
+professor	noun	profess-|profess|B|V|||Latin fateri 'to declare' ; -or|or|S||||Latin -or, 'agent'
+crime	noun	=
+publish	verb	publ-|publ|B|N|||Latin populus 'people' ; -ish|ish|S||||Latin -icare, 'verb-forming'
+total	adj	tot-|tot|B||||Latin totus 'whole' ; -al|al|S||||Latin -alis, 'relating to'
+argument	noun	=
+avoid	verb	=
+bill	noun	=
+prime	adj	=
+express	verb	ex-|ex|P||||Latin ex- 'out' ; -press|press|B|V|||Latin premere 'to press'
+suppose	verb	sup-|sup|P||||Latin sub- 'under' ; -pose|pose|B|V|||Latin ponere 'to place'
+blue	adj	=
+finish	verb	fin-|fin|B|N|||Latin finis 'end' ; -ish|ish|S||||Latin -iss, 'inchoative'
+element	noun	=
+strategy	noun	=
+tend	verb	=
+democratic	adj	demo-|demo|B|N|||Greek demos 'people' ; -crat-|crat|B|N|||Greek kratos 'rule' ; -ic|ic|S||||Greek -ikos, 'relating to'
+park	noun	=
+check	verb	=
+treat	verb	=
+discussion	noun	=
+aspect	noun	as-|as|P||||Latin ad- 'to' ; -pect|pect|B|V|||Latin specere 'to see'
+executive	adj	ex-|ex|P||||Latin ex- 'out' ; -ecut-|ecut|B|V||-sequ|Latin sequi 'to follow' ; -ive|ive|S||||Latin -ivus, 'tending to'
+remove	verb	=
+visit	verb	vis-|vis|B|V|||Latin videre 'to see' ; -it|it|S||||Latin -itare, 'frequentative'
+entire	adj	=
+exist	verb	ex-|ex|P||||Latin ex- 'out' ; -sist|ist|B|V|||Latin sistere 'to set, place'
+river	noun	riv-|riv|B|N|||Latin ripa 'bank' ; -er|er|S||||Latin -arius, 'relating to'
+customer	noun	=
+institution	noun	in-|in|P||||Latin in- 'on' ; -stitut-|stitut|B|V||-stat|Latin statuere 'to set up' ; -ion|ion|S||||Latin -io, 'act, state'
+specific	adj	speci-|speci|B|N|||Latin species 'kind' ; -fic|fic|S||||Latin -ficus, 'making'
+appropriate	adj	ap-|ap|P||||Latin ad- 'to' ; -propri-|propri|B|Adj|||Latin proprius 'own' ; -ate|ate|S||||Latin -atus, 'made, having'
+profit	noun	pro-|pro|P||||Latin pro- 'forth' ; -fit|fit|B|V||-fact|Latin facere 'to do, make'
+religious	adj	relig-|relig|B|N|||Latin religio 'reverence' ; -ious|ious|S||||Latin -osus, 'full of'
+reflect	verb	re-|re|P||||Latin re- 'again' ; -flect|flect|B|V|||Latin flectere 'to bend'
+assume	verb	as-|as|P||||Latin ad- 'to' ; -sume|sume|B|V|||Latin sumere 'to take up'
+admit	verb	ad-|ad|P||||Latin ad- 'to' ; -mit|mit|B|V|||Latin mittere 'to send'
+measure	noun	meas-|meas|B|V||-mens|Latin metiri 'to measure' ; -ure|ure|S||||Latin -ura, 'act, result'
+conference	noun	con-|con|P||||Latin com- 'together' ; -fer-|fer|B|V|||Latin ferre 'to carry' ; -ence|ence|S||||Latin -entia, 'state, quality'
+memory	noun	memor-|memor|B|N|||Latin memor 'mindful' ; -y|y|S||||Latin -ia, 'state'
+card	noun	=
+procedure	noun	=
+commission	noun	com-|com|P||||Latin com- 'together' ; -miss-|miss|B|V||-mit|Latin mittere 'to send' ; -ion|ion|S||||Latin -io, 'act, state'
+expert	adj	ex-|ex|P||||Latin ex- 'out' ; -pert|pert|B|V|||Latin experiri 'to try'
+mention	verb	=
+improve	verb	=
+circumstance	noun	circum-|circum|P||||Latin circum 'around' ; -stance|stance|B|V|||Latin stare 'to stand'
+client	noun	=
+imagine	verb	=
+sector	noun	=
+direction	noun	=
+basic	adj	=
+intend	verb	in-|in|P||||Latin in- 'to' ; -tend|tend|B|V|||Latin tendere 'to stretch'
+original	adj	=
+impact	noun	im-|im|P||||Latin in- 'in' ; -pact|pact|B|V|||Latin pangere 'to fasten'
+attitude	noun	=
+respond	verb	re-|re|P||||Latin re- 'again' ; -spond|spond|B|V|||Latin spondere 'to pledge'
+discover	verb	=
+popular	adj	popul-|popul|B|N|||Latin populus 'people' ; -ar|ar|S||||Latin -aris, 'relating to'
+reveal	verb	re-|re|P||||Latin re- 'again' ; -veal|veal|B|V|||Latin velare 'to cover'
+employment	noun	=
+peace	noun	=
+pain	noun	=
+prevent	verb	pre-|pre|P||||Latin prae- 'before' ; -vent|vent|B|V|||Latin venire 'to come'
+affair	noun	=
+appeal	noun	ap-|ap|P||||Latin ad- 'to' ; -peal|peal|B|V|||Latin appellare 'to call'
+chair	noun	=
+camera	noun	=
+technique	noun	techn-|techn|B|N|||Greek techne 'art, skill' ; -ique|ique|S||||Greek -ikos, 'relating to'
+item	noun	=
+medium	noun	medi-|medi|B|Adj|||Latin medius 'middle' ; -um|um|S||||Latin -um, 'neuter singular'
+pupil	noun	=
+version	noun	vers-|vers|B|V|||Latin vertere 'to turn' ; -ion|ion|S||||Latin -io, 'act, state'
+candidate	noun	candid-|candid|B|Adj|||Latin candidus 'white' ; -ate|ate|S||||Latin -atus, 'having'
+direct	adj	di-|di|P||||Latin dis- 'apart' ; -rect|rect|B|V|||Latin regere 'to rule'
+advice	noun	ad-|ad|P||||Latin ad- 'to' ; -vice|vice|B|V||-vid|Latin videre 'to see'
+library	noun	=
+adult	noun	=
+advantage	noun	avant-|advant|B||||Latin ab ante 'from before' ; -age|age|S||||Latin -aticus, 'relating to'
+operate	verb	oper-|oper|B|V|||Latin operari 'to work' ; -ate|ate|S||||Latin -atus, 'made, having'
+variety	noun	vari-|vari|B|Adj|||Latin varius 'diverse' ; -ety|ety|S||||Latin -etas, 'state'
+trouble	noun	=
+challenge	noun	=
+depend	verb	de-|de|P||||Latin de- 'down from' ; -pend|pend|B|V|||Latin pendere 'to hang'
+majority	noun	=
+extent	noun	ex-|ex|P||||Latin ex- 'out' ; -tent|tent|B|V|||Latin tendere 'to stretch'
+competition	noun	com-|com|P||||Latin com- 'together' ; -pet-|pet|B|V|||Latin petere 'to seek' ; -ition|ition|S||||Latin -io, 'act, state'
+parliament	noun	=
+stuff	noun	=
+complete	adj	com-|com|P||||Latin com- 'together' ; -plete|plete|B|V|||Latin plere 'to fill'
+access	noun	ac-|ac|P||||Latin ad- 'to' ; -cess|cess|B|V|||Latin cedere 'to go'
+text	noun	=
+soldier	noun	=
+sexual	adj	=
+effective	adj	=
+marriage	noun	=
+facility	noun	=
+survey	verb	sur-|sur|P||||Latin super- 'over' ; -vey|vey|B|V||-vid|Latin videre 'to see'
+reference	noun	=
+context	noun	con-|con|P||||Latin com- 'together' ; -text|text|B|V|||Latin texere 'to weave'
+agent	noun	ag-|ag|B|V|||Latin agere 'to act' ; -ent|ent|S||||Latin -ens, 'agent'
+extend	verb	ex-|ex|P||||Latin ex- 'out' ; -tend|tend|B|V|||Latin tendere 'to stretch'
+importance	noun	=
+generation	noun	=
+commercial	adj	=
+address	noun	=
+object	noun	ob-|ob|P||||Latin ob- 'against' ; -ject|ject|B|V|||Latin iacere 'to throw'
+cancer	noun	=
+possibility	noun	=
+reality	noun	=
+notice	noun	not-|not|B|Adj|||Latin notus 'known' ; -ice|ice|S||||Latin -itia, 'state'
+violence	noun	viol-|viol|B|Adj|||Latin violentus 'violent' ; -ence|ence|S||||Latin -entia, 'state, quality'
+collection	noun	col-|col|P||||Latin com- 'together' ; -lect-|lect|B|V|||Latin legere 'to gather' ; -ion|ion|S||||Latin -io, 'act, state'
+communication	noun	=
+species	noun	speci-|speci|B|V|||Latin specere 'to see' ; -es|es|S||||Latin -ies, 'abstract noun'
+partner	noun	=
+supply	verb	sup-|sup|P||||Latin sub- 'under' ; -ply|ply|B|V|||Latin plere 'to fill'
+positive	adj	pos-|pos|B|V||-pon|Latin ponere 'to place' ; -itive|itive|S||||Latin -ivus, 'tending to'
+civil	adj	=
+examine	verb	=
+consumer	noun	=
+document	noun	doc-|doc|B|V|||Latin docere 'to teach' ; -ument|ument|S||||Latin -mentum, 'means, result'
+define	verb	de-|de|P||||Latin de- 'from' ; -fine|fine|B|V|||Latin finire 'to bound'

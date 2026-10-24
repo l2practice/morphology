@@ -1,0 +1,200 @@
+imbue	verb	imbue|imbue|R|V
+meander	verb	meander|meander|R|V
+chronically	adv	chronic|chronic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+garland	noun	garland|garland|R|N
+wondrous	adj	wonder|wondr|R|N ; -ous|ous|S
+pitiful	adj	pity|piti|R|N ; -ful|ful|S
+slither	verb	slither|slither|R|V
+knead	verb	knead|knead|R|V
+hale	adj	hale|hale|R|Adj
+sullen	adj	sullen|sullen|R|Adj
+playgroup	noun	play|play|R|V ; group|group|R|N
+bleach	verb	bleach|bleach|R|V
+egregious	adj	egregious|egregious|R|Adj
+grizzly	adj	grizzly|grizzly|R|Adj
+booty	noun	booty|booty|R|N
+comp	noun	comp|comp|R|N
+lander	noun	land|land|R|V ; -er|er|S||-er (N)
+dilution	noun	dilute|dilut|R|V ; -ion|ion|S
+macaroni	noun	macaroni|macaroni|R|N
+signalling	noun	signal|signall|R|V ; -ing|ing|S||-ing (N)
+weathered	adj	weather|weather|R|N ; -ed|ed|S||-ed (adj)
+baptize	verb	baptize|baptize|R|V
+rocking	adj	rock|rock|R|V ; -ing|ing|S||-ing (adj)
+hooded	adj	hood|hood|R|N ; -ed|ed|S||-ed (adj)
+reflector	noun	reflect|reflect|R|V ; -or|or|S
+pollock	noun	pollock|pollock|R|N
+scoot	verb	scoot|scoot|R|V
+cherished	adj	cherish|cherish|R|V ; -ed|ed|S||-ed (adj)
+biologically	adv	biological|biological|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+paddock	noun	paddock|paddock|R|N
+jumping	noun	jump|jump|R|V ; -ing|ing|S||-ing (N)
+promulgate	verb	promulgate|promulgate|R|V
+paraphrase	verb	para-|para|P ; phrase|phrase|R|N
+cayenne	noun	cayenne|cayenne|R|N
+beryl	noun	beryl|beryl|R|N
+annuity	noun	annuity|annuity|R|N
+haulage	noun	haul|haul|R|V ; -age|age|S
+bridle	noun	bridle|bridle|R|N
+localized	adj	local|local|R|Adj ; -ize|iz|S ; -ed|ed|S||-ed (adj)
+troy	noun	troy|troy|R|N
+preparedness	noun	prepare|prepar|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+shroud	noun	shroud|shroud|R|N
+eagerness	noun	eager|eager|R|Adj ; -ness|ness|S
+warily	adv	wary|wari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+immortality	noun	im-|im|P|||in- ; mortal|mortal|R|Adj ; -ity|ity|S
+elegantly	adv	elegant|elegant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sentry	noun	sentry|sentry|R|N
+apocalyptic	adj	apocalyptic|apocalyptic|R|Adj
+ordination	noun	ordain|ordin|R|V ; -ation|ation|S
+microbial	adj	microbe|microb|R|N ; -ial|ial|S
+flail	verb	flail|flail|R|V
+magnification	noun	magnify|magnifi|R|V ; -ation|cation|S
+highness	noun	high|high|R|Adj ; -ness|ness|S
+spook	noun	spook|spook|R|N
+dependable	adj	depend|depend|R|V ; -able|able|S
+childlike	adj	child|child|R|N ; -like|like|S
+loudspeaker	noun	loud|loud|R|Adj ; speak|speak|R|V ; -er|er|S||-er (N)
+turbo	noun	turbo|turbo|R|N
+inescapable	adj	in-|in|P ; escape|escap|R|V ; -able|able|S
+fodder	noun	fodder|fodder|R|N
+caterer	noun	cater|cater|R|V ; -er|er|S||-er (N)
+standardised	adj	standard|standard|R|N ; -ise|is|S ; -ed|ed|S||-ed (adj)
+glacial	adj	glacial|glacial|R|Adj
+cornmeal	noun	corn|corn|R|N ; meal|meal|R|N
+plumage	noun	plumage|plumage|R|N
+amplification	noun	amplify|amplifi|R|V ; -ation|cation|S
+layered	adj	layer|layer|R|N ; -ed|ed|S||-ed (adj)
+fielding	noun	field|field|R|N ; -ing|ing|S||-ing (N)
+pun	noun	pun|pun|R|N
+blazer	noun	blazer|blazer|R|N
+congenital	adj	congenital|congenital|R|Adj
+wellness	noun	well|well|R|Adv ; -ness|ness|S
+midlife	noun	mid-|mid|P ; life|life|R|N
+pacifist	noun	pacifist|pacifist|R|N
+wholesome	adj	whole|whole|R|Adj ; -some|some|S
+camcorder	noun	camcorder|camcorder|R|N
+chesterfield	noun	chesterfield|chesterfield|R|N
+entirety	noun	entire|entire|R|Adj ; -ty|ty|S
+coloring	noun	color|color|R|N ; -ing|ing|S||-ing (N)
+replication	noun	replicate|replicat|R|V ; -ion|ion|S
+persecute	verb	persecute|persecute|R|V
+mussel	noun	mussel|mussel|R|N
+steamed	adj	steam|steam|R|N ; -ed|ed|S||-ed (adj)
+deluxe	adj	deluxe|deluxe|R|Adj
+monograph	noun	monograph|monograph|R|N
+salted	adj	salt|salt|R|N ; -ed|ed|S||-ed (adj)
+refill	verb	re-|re|P ; fill|fill|R|V
+chandler	noun	chandler|chandler|R|N
+empirically	adv	empirical|empirical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+soloist	noun	solo|solo|R|N ; -ist|ist|S
+borderline	noun	border|border|R|N ; line|line|R|N
+domestically	adv	domestic|domestic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+drench	verb	drench|drench|R|V
+nightgown	noun	night|night|R|N ; gown|gown|R|N
+retina	noun	retina|retina|R|N
+raucous	adj	raucous|raucous|R|Adj
+postsecondary	adj	post-|post|P ; secondary|secondary|R|Adj
+slew	verb	slew|slew|R|V
+brooch	noun	brooch|brooch|R|N
+bandwidth	noun	band|band|R|N ; width|width|R|N
+creatively	adv	create|creat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+organist	noun	organ|organ|R|N ; -ist|ist|S
+simulator	noun	simulate|simulat|R|V ; -or|or|S
+chime	noun	chime|chime|R|N
+drake	noun	drake|drake|R|N
+cobra	noun	cobra|cobra|R|N
+consonant	noun	consonant|consonant|R|N
+cartoonist	noun	cartoon|cartoon|R|N ; -ist|ist|S
+matrimonial	adj	matrimony|matrimon|R|N ; -ial|ial|S
+elemental	adj	element|element|R|N ; -al|al|S
+recognized	adj	recognize|recogniz|R|V ; -ed|ed|S||-ed (adj)
+mystique	noun	mystique|mystique|R|N
+outflow	noun	out-|out|P ; flow|flow|R|N
+marching	noun	march|march|R|V ; -ing|ing|S||-ing (N)
+coalfield	noun	coal|coal|R|N ; field|field|R|N
+droplet	noun	drop|drop|R|N ; -let|let|S
+proverb	noun	proverb|proverb|R|N
+adhesive	adj	adhere|adhes|R|V ; -ive|ive|S
+kicker	noun	kick|kick|R|V ; -er|er|S||-er (N)
+imperfection	noun	im-|im|P|||in- ; perfect|perfect|R|Adj ; -ion|ion|S
+jobless	adj	job|job|R|N ; -less|less|S
+overestimate	verb	over-|over|P ; estimate|estimate|R|V
+brett	noun	brett|brett|R|N
+reuse	verb	re-|re|P ; use|use|R|V
+smog	noun	smog|smog|R|N
+participatory	adj	participate|participat|R|V ; -ory|ory|S
+quell	verb	quell|quell|R|V
+enrage	verb	en-|en|P ; rage|rage|R|N
+lodging	noun	lodge|lodg|R|V ; -ing|ing|S||-ing (N)
+stein	noun	stein|stein|R|N
+herein	adv	here|here|R|Adv ; in|in|R|Adv
+pruning	noun	prune|prun|R|V ; -ing|ing|S||-ing (N)
+granule	noun	granule|granule|R|N
+notoriety	noun	notorious|notori|R|Adj ; -ity|ety|S
+reindeer	noun	rein|rein|R|N ; deer|deer|R|N
+sultan	noun	sultan|sultan|R|N
+underworld	noun	under-|under|P ; world|world|R|N
+cad	noun	cad|cad|R|N
+cello	noun	cello|cello|R|N
+karate	noun	karate|karate|R|N
+holster	noun	holster|holster|R|N
+tableau	noun	tableau|tableau|R|N
+agitated	adj	agitate|agitat|R|V ; -ed|ed|S||-ed (adj)
+bicker	verb	bicker|bicker|R|V
+mantelpiece	noun	mantel|mantel|R|N ; piece|piece|R|N
+assigned	adj	assign|assign|R|V ; -ed|ed|S||-ed (adj)
+centrality	noun	central|central|R|Adj ; -ity|ity|S
+childcare	noun	child|child|R|N ; care|care|R|N
+understate	verb	under-|under|P ; state|state|R|V
+ascot	noun	ascot|ascot|R|N
+polyester	noun	poly-|poly|P ; ester|ester|R|N
+torpedo	noun	torpedo|torpedo|R|N
+contraceptive	noun	contra-|contra|P ; -cept|cept|B|V ; -ive|ive|S
+postcolonial	adj	post-|post|P ; colonial|colonial|R|Adj
+mane	noun	mane|mane|R|N
+dun	adj	dun|dun|R|Adj
+stockholder	noun	stock|stock|R|N ; hold|hold|R|V ; -er|er|S||-er (N)
+dutifully	adv	duty|duti|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+vanessa	noun	vanessa|vanessa|R|N
+bigotry	noun	bigot|bigot|R|N ; -ry|ry|S
+digging	noun	dig|digg|R|V ; -ing|ing|S||-ing (N)
+nagging	adj	nag|nagg|R|V ; -ing|ing|S||-ing (adj)
+shale	noun	shale|shale|R|N
+fractured	adj	fracture|fractur|R|N ; -ed|ed|S||-ed (adj)
+gearbox	noun	gear|gear|R|N ; box|box|R|N
+auspice	noun	auspice|auspice|R|N
+hurst	noun	hurst|hurst|R|N
+speechless	adj	speech|speech|R|N ; -less|less|S
+furry	adj	fur|furr|R|N ; -y|y|S
+painkiller	noun	pain|pain|R|N ; kill|kill|R|V ; -er|er|S||-er (N)
+predispose	verb	pre-|pre|P ; dispose|dispose|R|V
+subordination	noun	subordinate|subordinat|R|V ; -ion|ion|S
+warring	adj	war|warr|R|N ; -ing|ing|S||-ing (adj)
+kiwi	noun	kiwi|kiwi|R|N
+lax	adj	lax|lax|R|Adj
+toil	verb	toil|toil|R|V
+midweek	noun	mid-|mid|P ; week|week|R|N
+sync	noun	sync|sync|R|N
+caribou	noun	caribou|caribou|R|N
+catalytic	adj	catalytic|catalytic|R|Adj
+oppress	verb	oppress|oppress|R|V
+airman	noun	air|air|R|N ; man|man|R|N
+pulmonary	adj	pulmonary|pulmonary|R|Adj
+inundate	verb	inundate|inundate|R|V
+cobalt	noun	cobalt|cobalt|R|N
+absentee	noun	absent|absent|R|Adj ; -ee|ee|S
+hereby	adv	here|here|R|Adv ; by|by|R|Adv
+plurality	noun	plural|plural|R|Adj ; -ity|ity|S
+repress	verb	re-|re|P ; press|press|R|V
+violet	noun	violet|violet|R|N
+reparation	noun	repair|repar|R|V ; -ation|ation|S
+bloodstream	noun	blood|blood|R|N ; stream|stream|R|N
+communicator	noun	communicate|communicat|R|V ; -or|or|S
+cam	noun	cam|cam|R|N
+pungent	adj	pungent|pungent|R|Adj
+sarcastic	adj	sarcastic|sarcastic|R|Adj
+bonanza	noun	bonanza|bonanza|R|N
+created	verb	create|creat|R|V ; -ed|ed|I||-ed (v2)
+trilogy	noun	trilogy|trilogy|R|N
+analogue	noun	analogue|analogue|R|N

@@ -1,0 +1,200 @@
+antipsychiatry	noun	anti-|anti|P ; psychiatry|psychiatry|R|N
+antipsychotic	adj	anti-|anti|P ; psychotic|psychotic|R|Adj
+antiputrescent	adj	anti-|anti|P ; putrescent|putrescent|R|Adj
+antipyresis	noun	anti-|anti|P ; pyresis|pyresis|R|N
+antipyretic	adj	anti-|anti|P ; pyretic|pyretic|R|Adj
+antipyrine	noun	antipyrine|antipyrine|R|N
+antiquarianism	noun	antiquarian|antiquarian|R|N ; -ism|ism|S
+antiquarianize	verb	antiquarian|antiquarian|R|N ; -ize|ize|S
+antiquate	verb	antique|antiqu|R|Adj ; -ate|ate|S
+antiquatedness	noun	antique|antiqu|R|Adj ; -ate|ate|S ; -ed|d|S||-ed (adj) ; -ness|ness|S
+antiquation	noun	antique|antiqu|R|Adj ; -ation|ation|S
+antiquely	adv	antique|antique|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+antiqueness	noun	antique|antique|R|Adj ; -ness|ness|S
+antirabic	adj	anti-|anti|P ; rabies|rab|R|N ; -ic|ic|S
+antirachitic	adj	anti-|anti|P ; rachitic|rachitic|R|Adj
+antiradar	adj	anti-|anti|P ; radar|radar|R|N
+antiradical	adj	anti-|anti|P ; radical|radical|R|Adj
+antirealism	noun	anti-|anti|P ; real|real|R|Adj ; -ism|ism|S
+antiregime	adj	anti-|anti|P ; regime|regime|R|N
+antireligious	adj	anti-|anti|P ; religious|religious|R|Adj
+antirepressive	adj	anti-|anti|P ; repress|repress|R|V ; -ive|ive|S
+antirepublican	noun	anti-|anti|P ; republican|republican|R|N
+antiresonance	noun	anti-|anti|P ; resonate|reson|R|V ; -ance|ance|S
+antiretroviral	adj	anti-|anti|P ; retroviral|retroviral|R|Adj
+antirevisionist	noun	anti-|anti|P ; revision|revision|R|N ; -ist|ist|S
+antirevolutionary	adj	anti-|anti|P ; revolution|revolution|R|N ; -ary|ary|S
+antirheumatic	adj	anti-|anti|P ; rheumatic|rheumatic|R|Adj
+antirights	adj	anti-|anti|P ; right|right|R|N ; -s|s|I||-s (plural)
+antiriot	adj	anti-|anti|P ; riot|riot|R|N
+antiritualism	noun	anti-|anti|P ; ritual|ritual|R|N ; -ism|ism|S
+antiromantic	adj	anti-|anti|P ; romantic|romantic|R|Adj
+antiroyalist	noun	anti-|anti|P ; royal|royal|R|Adj ; -ist|ist|S
+antirrhinum	noun	antirrhinum|antirrhinum|R|N
+antiscientific	adj	anti-|anti|P ; sci-|sci|B|V ; -ent|ent|S ; -ific|ific|S
+antiscorbutic	adj	anti-|anti|P ; scorbutic|scorbutic|R|Adj
+antiscriptural	adj	anti-|anti|P ; scripture|scriptur|R|N ; -al|al|S
+antisegregation	noun	anti-|anti|P ; segregate|segregat|R|V ; -ion|ion|S
+antiseismic	adj	anti-|anti|P ; seismic|seismic|R|Adj
+antisense	noun	anti-|anti|P ; sense|sense|R|N
+antisepsis	noun	anti-|anti|P ; sepsis|sepsis|R|N
+antiseptically	adv	antiseptic|antiseptic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+antisidetone	noun	anti-|anti|P ; sidetone|sidetone|R|N
+antiskid	adj	anti-|anti|P ; skid|skid|R|V
+antislavism	noun	anti-|anti|P ; slav|slav|R|N ; -ism|ism|S
+antislip	adj	anti-|anti|P ; slip|slip|R|V
+antismoking	adj	anti-|anti|P ; smoke|smok|R|V ; -ing|ing|I||-ing (v)
+antisocialist	noun	anti-|anti|P ; social|social|R|Adj ; -ist|ist|S
+antisocially	adv	anti-|anti|P ; social|social|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+antispasmodic	adj	anti-|anti|P ; spasmodic|spasmodic|R|Adj
+antispast	noun	antispast|antispast|R|N
+antispoofing	noun	anti-|anti|P ; spoof|spoof|R|V ; -ing|ing|I||-ing (v)
+antistatic	adj	anti-|anti|P ; static|static|R|Adj
+antistatism	noun	anti-|anti|P ; statism|statism|R|N
+antistatist	noun	anti-|anti|P ; statist|statist|R|N
+antisterility	noun	anti-|anti|P ; sterile|steril|R|Adj ; -ity|ity|S
+antistress	adj	anti-|anti|P ; stress|stress|R|N
+antistrophe	noun	antistrophe|antistrophe|R|N
+antistrophic	adj	antistrophe|antistroph|R|N ; -ic|ic|S
+antistrophically	adv	antistrophe|antistroph|R|N ; -ic|ic|S ; -ly|ally|I|Adv|-ly (adv)
+antistructure	noun	anti-|anti|P ; structure|structure|R|N
+antistyle	noun	anti-|anti|P ; style|style|R|N
+antisubmarine	adj	anti-|anti|P ; submarine|submarine|R|N
+antisubstance	noun	anti-|anti|P ; substance|substance|R|N
+antisubversive	adj	anti-|anti|P ; subversive|subversive|R|Adj
+antisudorific	adj	anti-|anti|P ; sudorific|sudorific|R|Adj
+antisymmetric	adj	anti-|anti|P ; symmetric|symmetric|R|Adj
+antisymmetrization	noun	anti-|anti|P ; symmetrize|symmetriz|R|V ; -ation|ation|S
+antisymmetry	noun	anti-|anti|P ; symmetry|symmetry|R|N
+antitank	adj	anti-|anti|P ; tank|tank|R|N
+antitax	adj	anti-|anti|P ; tax|tax|R|N
+antiterrorist	noun	anti-|anti|P ; terrorist|terrorist|R|N
+antitetanic	adj	anti-|anti|P ; tetanic|tetanic|R|Adj
+antitetanus	noun	anti-|anti|P ; tetanus|tetanus|R|N
+antitheft	adj	anti-|anti|P ; theft|theft|R|N
+antitheism	noun	anti-|anti|P ; theism|theism|R|N
+antitheist	noun	anti-|anti|P ; theist|theist|R|N
+antithetic	adj	antithesis|antithet|R|N ; -ic|ic|S
+antithetically	adv	antithesis|antithet|R|N ; -ic|ic|S ; -ly|ally|I|Adv|-ly (adv)
+antithrombin	noun	anti-|anti|P ; thrombin|thrombin|R|N
+antithyroid	adj	anti-|anti|P ; thyroid|thyroid|R|N
+antitobacco	adj	anti-|anti|P ; tobacco|tobacco|R|N
+antitone	noun	anti-|anti|P ; tone|tone|R|N
+antitorpedo	noun	anti-|anti|P ; torpedo|torpedo|R|N
+antitotalitarian	adj	anti-|anti|P ; totalitarian|totalitarian|R|Adj
+antitoxic	adj	anti-|anti|P ; toxic|toxic|R|Adj
+antitrade	adj	anti-|anti|P ; trade|trade|R|N
+antitrans	adj	anti-|anti|P ; trans|trans|R|Adj
+antitrinitarian	noun	anti-|anti|P ; trinitarian|trinitarian|R|N
+antitrinitarianism	noun	anti-|anti|P ; trinitarian|trinitarian|R|N ; -ism|ism|S
+antitubercular	adj	anti-|anti|P ; tubercular|tubercular|R|Adj
+antitussive	adj	anti-|anti|P ; tussive|tussive|R|Adj
+antityphoid	adj	anti-|anti|P ; typhoid|typhoid|R|N
+antitypical	adj	anti-|anti|P ; type|typ|R|N ; -ical|ical|S
+antiunemployment	noun	anti-|anti|P ; un-|un|P ; employ|employ|R|V ; -ment|ment|S
+antiunion	adj	anti-|anti|P ; union|union|R|N
+antivaccinationist	noun	anti-|anti|P ; vaccinate|vaccinat|R|V ; -ion|ion|S ; -ist|ist|S
+antivenene	noun	antivenene|antivenene|R|N
+antivenom	noun	anti-|anti|P ; venom|venom|R|N
+antivibration	noun	anti-|anti|P ; vibrate|vibrat|R|V ; -ion|ion|S
+antiviolence	noun	anti-|anti|P ; violence|violence|R|N
+antivirus	noun	anti-|anti|P ; virus|virus|R|N
+antivivisection	noun	anti-|anti|P ; vivisection|vivisection|R|N
+antiwhite	adj	anti-|anti|P ; white|white|R|Adj
+antiwrinkle	adj	anti-|anti|P ; wrinkle|wrinkle|R|N
+antlion	noun	ant|ant|R|N ; lion|lion|R|N
+antly	adj	ant|ant|R|N ; -ly|ly|S||-ly (adj)
+antonomasia	noun	antonomasia|antonomasia|R|N
+antonymic	adj	antonym|antonym|R|N ; -ic|ic|S
+antonymous	adj	antonym|antonym|R|N ; -ous|ous|S
+antonymy	noun	antonym|antonym|R|N ; -y|y|S
+antshrike	noun	ant|ant|R|N ; shrike|shrike|R|N
+antthrush	noun	ant|ant|R|N ; thrush|thrush|R|N
+anucleate	adj	an-|a|P|||an- ; nucleate|nucleate|R|Adj
+anuran	noun	anuran|anuran|R|N
+anuria	noun	anuria|anuria|R|N
+anurous	adj	anurous|anurous|R|Adj
+anusvara	noun	anusvara|anusvara|R|N
+anxiogenic	adj	anxiogenic|anxiogenic|R|Adj
+anxiolytic	adj	anxiolytic|anxiolytic|R|Adj
+anyphaenid	noun	anyphaenid|anyphaenid|R|N
+anywise	adv	any|any|R ; -wise|wise|S
+aorist	noun	aorist|aorist|R|N
+aoristic	adj	aorist|aorist|R|N ; -ic|ic|S
+aoristically	adv	aorist|aorist|R|N ; -ic|ic|S ; -ly|ally|I|Adv|-ly (adv)
+aortal	adj	aorta|aort|R|N ; -al|al|S
+aortitis	noun	aortitis|aortitis|R|N
+apadana	noun	apadana|apadana|R|N
+apagoge	noun	apagoge|apagoge|R|N
+apanage	noun	apanage|apanage|R|N
+apar	noun	apar|apar|R|N
+aparejo	noun	aparejo|aparejo|R|N
+aparthotel	noun	apart|apart|R|Adv ; hotel|hotel|R|N
+apastron	noun	apastron|apastron|R|N
+apatheism	noun	apatheism|apatheism|R|N
+apathetically	adv	apathetic|apathetic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+apatite	noun	apatite|apatite|R|N
+apeak	adj	a-|a|P ; peak|peak|R|N
+apedicellate	adj	a-|a|P ; pedicellate|pedicellate|R|Adj
+apeirogon	noun	apeirogon|apeirogon|R|N
+apelike	adj	ape|ape|R|N ; -like|like|S
+apeman	noun	ape|ape|R|N ; man|man|R|N
+aper	noun	ape|ap|R|V ; -er|er|S||-er (N)
+aperient	adj	aperient|aperient|R|Adj
+aperiodic	adj	a-|a|P ; period|period|R|N ; -ic|ic|S
+aperitive	adj	aperitive|aperitive|R|Adj
+apertural	adj	aperture|apertur|R|N ; -al|al|S
+apery	noun	ape|ape|R|N ; -ery|ry|S
+apetalous	adj	a-|a|P ; petal|petal|R|N ; -ous|ous|S
+apetaly	noun	a-|a|P ; petal|petal|R|N ; -y|y|S
+aphaeretic	adj	aphaeresis|aphaeret|R|N ; -ic|ic|S
+aphagia	noun	aphagia|aphagia|R|N
+aphanipterous	adj	aphanipterous|aphanipterous|R|Adj
+aphantasia	noun	aphantasia|aphantasia|R|N
+aphasiology	noun	aphasiology|aphasiology|R|N
+apheliotropic	adj	apheliotropic|apheliotropic|R|Adj
+apheliotropism	noun	apheliotropism|apheliotropism|R|N
+aphemia	noun	aphemia|aphemia|R|N
+apheresis	noun	apheresis|apheresis|R|N
+aphesis	noun	aphesis|aphesis|R|N
+aphetic	adj	aphesis|aphet|R|N ; -ic|ic|S
+aphetically	adv	aphesis|aphet|R|N ; -ic|ic|S ; -ly|ally|I|Adv|-ly (adv)
+aphetize	verb	aphesis|aphet|R|N ; -ize|ize|S
+aphidian	adj	aphid|aphid|R|N ; -ian|ian|S
+aphidicide	noun	aphidicide|aphidicide|R|N
+aphis	noun	aphis|aphis|R|N
+aphonia	noun	aphonia|aphonia|R|N
+aphonic	adj	aphonia|aphon|R|N ; -ic|ic|S
+aphonous	adj	aphonia|aphon|R|N ; -ous|ous|S
+aphorismic	adj	aphorism|aphorism|R|N ; -ic|ic|S
+aphorist	noun	aphorism|aphor|R|N ; -ist|ist|S
+aphoristically	adv	aphorism|aphor|R|N ; -ist|ist|S ; -ic|ic|S ; -ly|ally|I|Adv|-ly (adv)
+aphotic	adj	a-|a|P ; photic|photic|R|Adj
+aphototropic	adj	aphototropic|aphototropic|R|Adj
+aphototropism	noun	aphototropism|aphototropism|R|N
+aphrodisiacal	adj	aphrodisiac|aphrodisiac|R|N ; -al|al|S
+aphtha	noun	aphtha|aphtha|R|N
+aphthous	adj	aphtha|aphth|R|N ; -ous|ous|S
+aphyllous	adj	aphyllous|aphyllous|R|Adj
+aphylly	noun	aphylly|aphylly|R|N
+apian	adj	apian|apian|R|Adj
+apiarian	adj	apiary|apiar|R|N ; -ian|ian|S
+apiarist	noun	apiary|apiar|R|N ; -ist|ist|S
+apically	adv	apical|apical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+apiculate	adj	apiculus|apicul|R|N ; -ate|ate|S
+apicultural	adj	apiculture|apicultur|R|N ; -al|al|S
+apiculture	noun	apiculture|apiculture|R|N
+apiculturist	noun	apiculture|apicultur|R|N ; -ist|ist|S
+apiculus	noun	apiculus|apiculus|R|N
+aping	verb	ape|ap|R|V ; -ing|ing|I||-ing (v)
+apiologist	noun	apiology|apiolog|R|N ; -ist|ist|S
+apiology	noun	apiology|apiology|R|N
+apish	adj	ape|ap|R|N ; -ish|ish|S
+apishly	adv	ape|ap|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+apishness	noun	ape|ap|R|N ; -ish|ish|S ; -ness|ness|S
+apitherapy	noun	apitherapy|apitherapy|R|N
+apitoxin	noun	apitoxin|apitoxin|R|N
+apivorous	adj	apivorous|apivorous|R|Adj
+aplacental	adj	a-|a|P ; placenta|placent|R|N ; -al|al|S
+aplanat	noun	aplanat|aplanat|R|N
+aplanatic	adj	aplanat|aplanat|R|N ; -ic|ic|S

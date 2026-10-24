@@ -1,0 +1,200 @@
+unvoyageable	adj	un-|un|P ; voyage|voyage|R|V ; -able|able|S
+unwaked	adj	un-|un|P ; wake|wake|R|V ; -ed|d|S||-ed (adj)
+unwarily	adv	un-|un|P ; wary|wari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+unwariness	noun	un-|un|P ; wary|wari|R|Adj ; -ness|ness|S
+unwarlike	adj	un-|un|P ; war|war|R|N ; -like|like|S
+unwarmed	adj	un-|un|P ; warm|warm|R|V ; -ed|ed|S||-ed (adj)
+unwarned	adj	un-|un|P ; warn|warn|R|V ; -ed|ed|S||-ed (adj)
+unwarped	adj	un-|un|P ; warp|warp|R|V ; -ed|ed|S||-ed (adj)
+unwarrantableness	noun	un-|un|P ; warrant|warrant|R|V ; -able|able|S ; -ness|ness|S
+unwarrantably	adv	un-|un|P ; warrant|warrant|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+unwashable	adj	un-|un|P ; wash|wash|R|V ; -able|able|S
+unwasteful	adj	un-|un|P ; waste|waste|R|V ; -ful|ful|S
+unwatchful	adj	un-|un|P ; watch|watch|R|V ; -ful|ful|S
+unwatchfulness	noun	un-|un|P ; watch|watch|R|V ; -ful|ful|S ; -ness|ness|S
+unwater	verb	un-|un|P ; water|water|R|V
+unwatered	adj	un-|un|P ; water|water|R|V ; -ed|ed|S||-ed (adj)
+unwaved	adj	un-|un|P ; wave|wave|R|V ; -ed|d|S||-ed (adj)
+unwealthy	adj	un-|un|P ; wealth|wealth|R|N ; -y|y|S
+unweaned	adj	un-|un|P ; wean|wean|R|V ; -ed|ed|S||-ed (adj)
+unwearable	adj	un-|un|P ; wear|wear|R|V ; -able|able|S
+unwearied	adj	un-|un|P ; weary|weari|R|Adj ; -ed|ed|S||-ed (adj)
+unweariedly	adv	un-|un|P ; weary|weari|R|Adj ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+unweary	verb	un-|un|P ; weary|weary|R|Adj
+unwearying	adj	un-|un|P ; weary|weary|R|Adj ; -ing|ing|S||-ing (adj)
+unweathered	adj	un-|un|P ; weather|weather|R|V ; -ed|ed|S||-ed (adj)
+unweave	verb	un-|un|P ; weave|weave|R|V
+unwedded	adj	un-|un|P ; wed|wedd|R|V ; -ed|ed|S||-ed (adj)
+unweeded	adj	un-|un|P ; weed|weed|R|V ; -ed|ed|S||-ed (adj)
+unweighed	adj	un-|un|P ; weigh|weigh|R|V ; -ed|ed|S||-ed (adj)
+unwelcomed	adj	un-|un|P ; welcome|welcome|R|V ; -ed|d|S||-ed (adj)
+unwept	adj	un-|un|P ; weep|wept|R|V ; -ed||I||-ed (v2)
+unwetted	adj	un-|un|P ; wet|wett|R|V ; -ed|ed|S||-ed (adj)
+unwhipped	adj	un-|un|P ; whip|whipp|R|V ; -ed|ed|S||-ed (adj)
+unwhitened	adj	un-|un|P ; whiten|whiten|R|V ; -ed|ed|S||-ed (adj)
+unwhitewashed	adj	un-|un|P ; white|white|R|Adj ; wash|wash|R|V ; -ed|ed|S||-ed (adj)
+unwholesomely	adv	un-|un|P ; whole|whole|R|Adj ; -some|some|S ; -ly|ly|I|Adv|-ly (adv)
+unwholesomeness	noun	un-|un|P ; whole|whole|R|Adj ; -some|some|S ; -ness|ness|S
+unwieldily	adv	un-|un|P ; wield|wield|R|V ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+unwieldiness	noun	un-|un|P ; wield|wield|R|V ; -y|i|S ; -ness|ness|S
+unwifely	adj	un-|un|P ; wife|wife|R|N ; -ly|ly|S||-ly (adj)
+unwill	verb	un-|un|P ; will|will|R|V
+unwilled	adj	un-|un|P ; will|will|R|V ; -ed|ed|S||-ed (adj)
+unwinged	adj	un-|un|P ; wing|wing|R|V ; -ed|ed|S||-ed (adj)
+unwinking	adj	un-|un|P ; wink|wink|R|V ; -ing|ing|S||-ing (adj)
+unwiped	adj	un-|un|P ; wipe|wipe|R|V ; -ed|d|S||-ed (adj)
+unwisdom	noun	un-|un|P ; wise|wis|R|Adj ; -dom|dom|S
+unwished	adj	un-|un|P ; wish|wish|R|V ; -ed|ed|S||-ed (adj)
+unwithdrawn	adj	un-|un|P ; withdraw|withdrawn|R|V ; -en||I||-en (participle)
+unwithered	adj	un-|un|P ; wither|wither|R|V ; -ed|ed|S||-ed (adj)
+unwithering	adj	un-|un|P ; wither|wither|R|V ; -ing|ing|S||-ing (adj)
+unwitnessed	adj	un-|un|P ; witness|witness|R|V ; -ed|ed|S||-ed (adj)
+unwitty	adj	un-|un|P ; wit|witt|R|N ; -y|y|S
+unwived	adj	un-|un|P ; wife|wiv|R|N ; -ed|ed|S||-ed (adj)
+unwomanly	adj	un-|un|P ; woman|woman|R|N ; -ly|ly|S||-ly (adj)
+unwontedly	adv	un-|un|P ; wont|wont|R|Adj ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+unwontedness	noun	un-|un|P ; wont|wont|R|Adj ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unwooded	adj	un-|un|P ; wood|wood|R|V ; -ed|ed|S||-ed (adj)
+unwooed	adj	un-|un|P ; woo|woo|R|V ; -ed|ed|S||-ed (adj)
+unwordable	adj	un-|un|P ; word|word|R|V ; -able|able|S
+unwork	verb	un-|un|P ; work|work|R|V
+unworkability	noun	un-|un|P ; work|work|R|V ; -able|abil|S ; -ity|ity|S
+unworkableness	noun	un-|un|P ; work|work|R|V ; -able|able|S ; -ness|ness|S
+unworkably	adv	un-|un|P ; work|work|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+unworkmanlike	adj	un-|un|P ; workman|workman|R|N ; -like|like|S
+unworldliness	noun	un-|un|P ; world|world|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+unworthily	adv	un-|un|P ; worthy|worthi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+unwounded	adj	un-|un|P ; wound|wound|R|V ; -ed|ed|S||-ed (adj)
+unwrapping	noun	un-|un|P ; wrap|wrapp|R|V ; -ing|ing|S||-ing (N)
+unwrinkle	verb	un-|un|P ; wrinkle|wrinkle|R|V
+unwrittenness	noun	un-|un|P ; write|writt|R|V ; -en|en|S ; -ness|ness|S
+unwrought	adj	un-|un|P ; work|wrought|R|V ; -en||I||-en (participle)
+unwrung	adj	un-|un|P ; wring|wrung|R|V ; -en||I||-en (participle)
+unyieldingly	adv	un-|un|P ; yield|yield|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+unyieldingness	noun	un-|un|P ; yield|yield|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unyoke	verb	un-|un|P ; yoke|yoke|R|V
+unyoked	adj	un-|un|P ; yoke|yoke|R|V ; -ed|d|S||-ed (adj)
+unyoking	adj	un-|un|P ; yoke|yok|R|V ; -ing|ing|S||-ing (adj)
+unyouthful	adj	un-|un|P ; youth|youth|R|N ; -ful|ful|S
+unzealous	adj	un-|un|P ; zealous|zealous|R|Adj
+unzipping	noun	un-|un|P ; zip|zipp|R|V ; -ing|ing|S||-ing (N)
+upas	noun	upas|upas|R|N
+upbear	verb	up-|up|P ; bear|bear|R|V
+upbraider	noun	up-|up|P ; braid|braid|R|V ; -er|er|S||-er (N)
+upbraiding	noun	up-|up|P ; braid|braid|R|V ; -ing|ing|S||-ing (N)
+upbraidingly	adv	up-|up|P ; braid|braid|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+upcast	noun	up-|up|P ; cast|cast|R|V
+upconcentrate	verb	up-|up|P ; concentrate|concentrate|R|V
+updo	noun	up|up|R|Adv ; do|do|R|V
+upgrowth	noun	up-|up|P ; grow|grow|R|V ; -th|th|S
+upheave	verb	up-|up|P ; heave|heave|R|V
+upholstering	noun	up-|up|P ; holster|holster|R|V ; -ing|ing|S||-ing (N)
+uplander	noun	up|up|R|Adv ; land|land|R|N ; -er|er|S||-er (N)
+uploader	noun	up-|up|P ; load|load|R|V ; -er|er|S||-er (N)
+uploading	noun	up-|up|P ; load|load|R|V ; -ing|ing|S||-ing (N)
+upmost	adj	upmost|upmost|R|Adj
+uposatha	noun	uposatha|uposatha|R|N
+upping	noun	up|upp|R|Adv ; -ing|ing|S||-ing (N)
+uppish	adj	up|upp|R|Adv ; -ish|ish|S
+uppishly	adv	up|upp|R|Adv ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+uppishness	noun	up|upp|R|Adv ; -ish|ish|S ; -ness|ness|S
+upraising	noun	up-|up|P ; raise|rais|R|V ; -ing|ing|S||-ing (N)
+uprear	verb	up-|up|P ; rear|rear|R|V
+uprightly	adv	up|up|R|Adv ; right|right|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+uprise	verb	up-|up|P ; rise|rise|R|V
+uproariousness	noun	uproar|uproar|R|N ; -ious|ious|S ; -ness|ness|S
+uprootedness	noun	up-|up|P ; root|root|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+uprooter	noun	up-|up|P ; root|root|R|V ; -er|er|S||-er (N)
+uprush	noun	up-|up|P ; rush|rush|R|V
+upsadaisy	interj	upsadaisy|upsadaisy|R
+upsetter	noun	up-|up|P ; set|sett|R|V ; -er|er|S||-er (N)
+upsettingly	adv	up-|up|P ; set|sett|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+upshift	verb	up-|up|P ; shift|shift|R|V
+upstager	noun	up-|up|P ; stage|stag|R|V ; -er|er|S||-er (N)
+upstandingness	noun	up-|up|P ; stand|stand|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+upthrow	noun	up-|up|P ; throw|throw|R|V
+uptightness	noun	up|up|R|Adv ; tight|tight|R|Adj ; -ness|ness|S
+uptowner	noun	up|up|R|Adv ; town|town|R|N ; -er|er|S||-er (N)
+uptrend	noun	up|up|R|Adv ; trend|trend|R|N
+upvote	verb	up-|up|P ; vote|vote|R|V
+upwing	noun	up|up|R|Adv ; wing|wing|R|N
+urachus	noun	urachus|urachus|R|N
+uracil	noun	uracil|uracil|R|N
+urad	noun	urad|urad|R|N
+uraeus	noun	uraeus|uraeus|R|N
+uraninite	noun	uraninite|uraninite|R|N
+uranography	noun	uranography|uranography|R|N
+uranology	noun	uranology|uranology|R|N
+urate	noun	urate|urate|R|N
+urceolate	adj	urceolate|urceolate|R|Adj
+uremia	noun	uremia|uremia|R|N
+ureteral	adj	ureter|ureter|R|N ; -al|al|S
+ureteric	adj	ureter|ureter|R|N ; -ic|ic|S
+urethral	adj	urethra|urethr|R|N ; -al|al|S
+urethroscopy	noun	urethroscopy|urethroscopy|R|N
+uretic	adj	uretic|uretic|R|Adj
+urged	verb	urge|urge|R|V ; -ed|d|I||-ed (v2)
+urheimat	noun	urheimat|urheimat|R|N
+urial	noun	urial|urial|R|N
+uricemia	noun	uricemia|uricemia|R|N
+uricosuric	adj	uricosuric|uricosuric|R|Adj
+urinative	adj	urine|urin|R|N ; -ative|ative|S
+urinator	noun	urinate|urinat|R|V ; -or|or|S
+urinology	noun	urinology|urinology|R|N
+urinoscopy	noun	urinoscopy|urinoscopy|R|N
+urinous	adj	urine|urin|R|N ; -ous|ous|S
+urlanguage	noun	urlanguage|urlanguage|R|N
+urna	noun	urna|urna|R|N
+urobilin	noun	urobilin|urobilin|R|N
+uroflowmetry	noun	uroflowmetry|uroflowmetry|R|N
+urogenital	adj	urogenital|urogenital|R|Adj
+urogynecology	noun	urogynecology|urogynecology|R|N
+urolith	noun	urolith|urolith|R|N
+urolithiasis	noun	urolithiasis|urolithiasis|R|N
+uroscopy	noun	uroscopy|uroscopy|R|N
+urostomy	noun	urostomy|urostomy|R|N
+ursid	noun	ursid|ursid|R|N
+ursine	adj	ursine|ursine|R|Adj
+urstromtal	noun	urstromtal|urstromtal|R|N
+urtext	noun	urtext|urtext|R|N
+urticaceous	adj	urticaceous|urticaceous|R|Adj
+urticarial	adj	urticaria|urticari|R|N ; -al|al|S
+urushiol	noun	urushiol|urushiol|R|N
+usableness	noun	use|us|R|V ; -able|able|S ; -ness|ness|S
+usably	adv	use|us|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+usance	noun	usance|usance|R|N
+userbox	noun	use|us|R|V ; -er|er|S||-er (N) ; box|box|R|N
+ushanka	noun	ushanka|ushanka|R|N
+ushering	noun	usher|usher|R|V ; -ing|ing|S||-ing (N)
+using	noun	use|us|R|V ; -ing|ing|S||-ing (N)
+ustad	noun	ustad|ustad|R|N
+usualness	noun	usual|usual|R|Adj ; -ness|ness|S
+usufructuary	noun	usufructuary|usufructuary|R|N
+usuress	noun	usuress|usuress|R|N
+usuriously	adv	usurious|usurious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+usuriousness	noun	usurious|usurious|R|Adj ; -ness|ness|S
+usurping	adj	usurp|usurp|R|V ; -ing|ing|S||-ing (adj)
+ut	noun	ut|ut|R|N
+utilizable	adj	utilize|utiliz|R|V ; -able|able|S
+utilizer	noun	utilize|utiliz|R|V ; -er|er|S||-er (N)
+utopia	noun	utopia|utopia|R|N
+utopian	adj	utopia|utopi|R|N ; -an|an|S
+utricle	noun	utricle|utricle|R|N
+utricular	adj	utricle|utricul|R|N ; -ar|ar|S
+utterable	adj	utter|utter|R|V ; -able|able|S
+utterer	noun	utter|utter|R|V ; -er|er|S||-er (N)
+utterness	noun	utter|utter|R|Adj ; -ness|ness|S
+utters	verb	utter|utter|R|V ; -s|s|I||-s (3sg)
+uudecode	verb	uudecode|uudecode|R|V
+uuencode	verb	uuencode|uuencode|R|V
+uvea	noun	uvea|uvea|R|N
+uveitis	noun	uveitis|uveitis|R|N
+uvular	adj	uvula|uvul|R|N ; -ar|ar|S
+uxorial	adj	uxorial|uxorial|R|Adj
+uxoricide	noun	uxoricide|uxoricide|R|N
+uxorious	adj	uxorious|uxorious|R|Adj
+uxoriously	adv	uxorious|uxorious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+uxoriousness	noun	uxorious|uxorious|R|Adj ; -ness|ness|S
+uyezd	noun	uyezd|uyezd|R|N
+uzi	noun	uzi|uzi|R|N
+vacantness	noun	vacant|vacant|R|Adj ; -ness|ness|S

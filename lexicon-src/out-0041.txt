@@ -1,0 +1,200 @@
+invalid	adj	in-|in|P ; valid|valid|R|Adj
+functioning	adj	function|function|R|V ; -ing|ing|S||-ing (adj)
+ragged	adj	rag|ragg|R|V ; -ed|ed|S||-ed (adj)
+heighten	verb	height|height|R|N ; -en|en|S
+latitude	noun	latitude|latitude|R|N
+pebble	noun	pebble|pebble|R|N
+expressive	adj	express|express|R|V ; -ive|ive|S
+maritime	adj	maritime|maritime|R|Adj
+moose	noun	moose|moose|R|N
+ventilation	noun	ventilate|ventilat|R|V ; -ion|ion|S
+yearn	verb	yearn|yearn|R|V
+occupied	adj	occupy|occupi|R|V ; -ed|ed|S||-ed (adj)
+unseen	adj	un-|un|P ; see|se|R|V ; -en|en|I||-en (participle)
+creed	noun	creed|creed|R|N
+prostitution	noun	prostitute|prostitut|R|V ; -ion|ion|S
+ceramics	noun	ceramic|ceramic|R|N ; -s|s|I||-s (plural)
+adorn	verb	adorn|adorn|R|V
+jelly	noun	jelly|jelly|R|N
+introductory	adj	introduce|introduc|R|V ; -ory|tory|S
+unify	verb	unify|unify|R|V
+famed	adj	fame|fam|R|N ; -ed|ed|S||-ed (adj)
+apron	noun	apron|apron|R|N
+turnout	noun	turn|turn|R|V ; out|out|R|Adv
+rabbi	noun	rabbi|rabbi|R|N
+rectangular	adj	rectangular|rectangular|R|Adj
+practicable	adj	practice|practic|R|V ; -able|able|S
+twisted	adj	twist|twist|R|V ; -ed|ed|S||-ed (adj)
+lager	noun	lager|lager|R|N
+pharmacy	noun	pharmacy|pharmacy|R|N
+inaugural	adj	inaugurate|inaugur|R|V ; -al|al|S
+bedside	noun	bed|bed|R|N ; side|side|R|N
+detainee	noun	detain|detain|R|V ; -ee|ee|S
+qualifying	adj	qualify|qualify|R|V ; -ing|ing|S||-ing (adj)
+tanker	noun	tank|tank|R|N ; -er|er|S||-er (N)
+sensory	adj	sense|sens|R|N ; -ory|ory|S
+wavelength	noun	wave|wave|R|N ; length|length|R|N
+guru	noun	guru|guru|R|N
+cardiac	adj	cardiac|cardiac|R|Adj
+quartet	noun	quartet|quartet|R|N
+mast	noun	mast|mast|R|N
+spiral	noun	spiral|spiral|R|N
+punk	noun	punk|punk|R|N
+wed	verb	wed|wed|R|V
+paw	noun	paw|paw|R|N
+waterfall	noun	water|water|R|N ; fall|fall|R|V
+whirl	verb	whirl|whirl|R|V
+flirt	verb	flirt|flirt|R|V
+computerized	adj	computerize|computeriz|R|V ; -ed|ed|S||-ed (adj)
+stan	noun	stan|stan|R|N
+frankfurt	noun	frankfurt|frankfurt|R|N
+restructure	verb	re-|re|P ; structure|structure|R|N
+atrocity	noun	atrocious|atroc|R|Adj ; -ity|ity|S
+insulation	noun	insulate|insulat|R|V ; -ion|ion|S
+flutter	verb	flutter|flutter|R|V
+cavalry	noun	cavalry|cavalry|R|N
+competitiveness	noun	compete|compet|R|V ; -itive|itive|S ; -ness|ness|S
+cooler	noun	cool|cool|R|Adj ; -er|er|S||-er (N)
+brag	verb	brag|brag|R|V
+hypothetical	adj	hypothesis|hypothet|R|N ; -ical|ical|S
+blessed	adj	bless|bless|R|V ; -ed|ed|S||-ed (adj)
+buzz	verb	buzz|buzz|R|V
+attributable	adj	attribute|attribut|R|V ; -able|able|S
+tortilla	noun	tortilla|tortilla|R|N
+cecil	noun	cecil|cecil|R|N
+thump	verb	thump|thump|R|V
+gin	noun	gin|gin|R|N
+postmodern	adj	post-|post|P ; modern|modern|R|Adj
+garrison	noun	garrison|garrison|R|N
+ecstasy	noun	ecstasy|ecstasy|R|N
+familiarity	noun	familiar|familiar|R|Adj ; -ity|ity|S
+physiological	adj	physiology|physiolog|R|N ; -ical|ical|S
+carpenter	noun	carpenter|carpenter|R|N
+finite	adj	finite|finite|R|Adj
+canon	noun	canon|canon|R|N
+souvenir	noun	souvenir|souvenir|R|N
+antiquity	noun	antique|antiqu|R|Adj ; -ity|ity|S
+termination	noun	terminate|terminat|R|V ; -ion|ion|S
+instalment	noun	install|instal|R|V ; -ment|ment|S
+hound	noun	hound|hound|R|N
+benchmark	noun	bench|bench|R|N ; mark|mark|R|N
+lousy	adj	louse|lous|R|N ; -y|y|S
+stratum	noun	stratum|stratum|R|N
+particulars	noun	particular|particular|R|Adj ; -s|s|I||-s (plural)
+sniper	noun	snipe|snip|R|V ; -er|er|S||-er (N)
+headlight	noun	head|head|R|N ; light|light|R|N
+backlash	noun	back|back|R|Adv ; lash|lash|R|V
+bakery	noun	bake|bak|R|V ; -ery|ery|S
+conditional	adj	condition|condition|R|N ; -al|al|S
+cheerfully	adv	cheer|cheer|R|V ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+intern	noun	intern|intern|R|N
+divorced	adj	divorce|divorc|R|V ; -ed|ed|S||-ed (adj)
+housekeeper	noun	house|house|R|N ; keep|keep|R|V ; -er|er|S||-er (N)
+footballer	noun	foot|foot|R|N ; ball|ball|R|N ; -er|er|S||-er (N)
+ratify	verb	ratify|ratify|R|V
+nostalgia	noun	nostalgia|nostalgia|R|N
+accordance	noun	accord|accord|R|V ; -ance|ance|S
+coyote	noun	coyote|coyote|R|N
+parachute	noun	para-|para|P ; chute|chute|R|N
+mickey	noun	mickey|mickey|R|N
+automated	adj	automate|automat|R|V ; -ed|ed|S||-ed (adj)
+exquisite	adj	exquisite|exquisite|R|Adj
+immerse	verb	immerse|immerse|R|V
+petroleum	noun	petroleum|petroleum|R|N
+infected	adj	infect|infect|R|V ; -ed|ed|S||-ed (adj)
+peggy	noun	peggy|peggy|R|N
+bodyguard	noun	body|body|R|N ; guard|guard|R|N
+underpin	verb	under-|under|P ; pin|pin|R|V
+thug	noun	thug|thug|R|N
+initiation	noun	initiate|initiat|R|V ; -ion|ion|S
+explanatory	adj	explain|explan|R|V ; -ory|atory|S
+preheat	verb	pre-|pre|P ; heat|heat|R|V
+arrears	noun	arrear|arrear|R|N ; -s|s|I||-s (plural)
+entrant	noun	enter|entr|R|V ; -ant|ant|S
+convent	noun	convent|convent|R|N
+sierra	noun	sierra|sierra|R|N
+aura	noun	aura|aura|R|N
+sic	adv	sic|sic|R|Adv
+marshal	noun	marshal|marshal|R|N
+flap	verb	flap|flap|R|V
+cadet	noun	cadet|cadet|R|N
+feudal	adj	feud|feud|R|N ; -al|al|S
+jaguar	noun	jaguar|jaguar|R|N
+chilling	adj	chill|chill|R|V ; -ing|ing|S||-ing (adj)
+cohen	noun	cohen|cohen|R|N
+ascent	noun	ascent|ascent|R|N
+woe	noun	woe|woe|R|N
+ripple	verb	ripple|ripple|R|V
+cookbook	noun	cook|cook|R|V ; book|book|R|N
+pellet	noun	pellet|pellet|R|N
+striped	adj	stripe|strip|R|N ; -ed|ed|S||-ed (adj)
+patriotism	noun	patriot|patriot|R|N ; -ism|ism|S
+rio	noun	rio|rio|R|N
+fletcher	noun	fletcher|fletcher|R|N
+softball	noun	soft|soft|R|Adj ; ball|ball|R|N
+moderately	adv	moderate|moderate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+broadcaster	noun	broad|broad|R|Adj ; cast|cast|R|V ; -er|er|S||-er (N)
+poker	noun	poker|poker|R|N
+alienate	verb	alien|alien|R|Adj ; -ate|ate|S
+fascist	noun	fascist|fascist|R|N
+badger	noun	badger|badger|R|N
+goldsmith	noun	gold|gold|R|N ; smith|smith|R|N
+registry	noun	register|regist|R|V ; -ry|ry|S
+sting	verb	sting|sting|R|V
+pore	noun	pore|pore|R|N
+shortcoming	noun	short|short|R|Adj ; come|com|R|V ; -ing|ing|S||-ing (N)
+sandal	noun	sandal|sandal|R|N
+croydon	noun	croydon|croydon|R|N
+exhaustion	noun	exhaust|exhaust|R|V ; -ion|ion|S
+longing	noun	long|long|R|V ; -ing|ing|S||-ing (N)
+mahogany	noun	mahogany|mahogany|R|N
+booster	noun	boost|boost|R|V ; -er|er|S||-er (N)
+churchyard	noun	church|church|R|N ; yard|yard|R|N
+regeneration	noun	re-|re|P ; generate|generat|R|V ; -ion|ion|S
+differential	adj	differ|differ|R|V ; -ent|ent|S ; -ial|ial|S
+ubiquitous	adj	ubiquitous|ubiquitous|R|Adj
+carved	adj	carve|carv|R|V ; -ed|ed|S||-ed (adj)
+costa	noun	costa|costa|R|N
+pinpoint	verb	pin|pin|R|N ; point|point|R|N
+swimmer	noun	swim|swimm|R|V ; -er|er|S||-er (N)
+mince	verb	mince|mince|R|V
+glamour	noun	glamour|glamour|R|N
+pivotal	adj	pivot|pivot|R|N ; -al|al|S
+cosmos	noun	cosmos|cosmos|R|N
+rosemary	noun	rose|rose|R|N ; mary|mary|R|N
+haze	noun	haze|haze|R|N
+anatomy	noun	anatomy|anatomy|R|N
+liberalism	noun	liberal|liberal|R|Adj ; -ism|ism|S
+dissent	noun	dissent|dissent|R|N
+infantry	noun	infantry|infantry|R|N
+scenic	adj	scene|scen|R|N ; -ic|ic|S
+solitude	noun	solitude|solitude|R|N
+bloc	noun	bloc|bloc|R|N
+accession	noun	access|access|R|V ; -ion|ion|S
+celery	noun	celery|celery|R|N
+courageous	adj	courage|courag|R|N ; -eous|eous|S
+compression	noun	compress|compress|R|V ; -ion|ion|S
+sculptor	noun	sculpt|sculpt|R|V ; -or|or|S
+lavender	noun	lavender|lavender|R|N
+tutorial	noun	tutor|tutor|R|N ; -ial|ial|S
+disconnect	verb	dis-|dis|P ; connect|connect|R|V
+fragrance	noun	fragrant|fragr|R|Adj ; -ance|ance|S
+gleaming	adj	gleam|gleam|R|V ; -ing|ing|S||-ing (adj)
+wasp	noun	wasp|wasp|R|N
+authenticity	noun	authentic|authentic|R|Adj ; -ity|ity|S
+intermediary	noun	intermediate|intermedi|R|Adj ; -ary|ary|S
+converge	verb	con-|con|P ; verge|verge|R|V
+hierarchical	adj	hierarchy|hierarch|R|N ; -ical|ical|S
+furiously	adv	fury|fur|R|N ; -ious|ious|S ; -ly|ly|I|Adv|-ly (adv)
+cork	noun	cork|cork|R|N
+porcelain	noun	porcelain|porcelain|R|N
+designation	noun	designate|designat|R|V ; -ion|ion|S
+scanner	noun	scan|scann|R|V ; -er|er|S||-er (N)
+jeep	noun	jeep|jeep|R|N
+expanse	noun	expanse|expanse|R|N
+pronunciation	noun	pronounce|pronunci|R|V ; -ation|ation|S
+barton	noun	barton|barton|R|N
+inventor	noun	invent|invent|R|V ; -or|or|S
+reinvent	verb	re-|re|P ; invent|invent|R|V
+fines	noun	fine|fine|R|N ; -s|s|I||-s (plural)
+policing	noun	police|polic|R|N ; -ing|ing|S||-ing (N)

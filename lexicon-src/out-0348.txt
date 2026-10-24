@@ -1,0 +1,200 @@
+pereion	noun	pereion|pereion|R|N
+peremptoriness	noun	peremptory|peremptori|R|Adj ; -ness|ness|S
+perennate	verb	perennate|perennate|R|V
+perennation	noun	perennate|perennat|R|V ; -ion|ion|S
+perenniality	noun	perennial|perennial|R|Adj ; -ity|ity|S
+perentie	noun	perentie|perentie|R|N
+perfectible	adj	perfect|perfect|R|Adj ; -ible|ible|S
+perfectively	adv	perfective|perfective|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+perfectiveness	noun	perfective|perfective|R|Adj ; -ness|ness|S
+perfectivity	noun	perfective|perfectiv|R|Adj ; -ity|ity|S
+perfectness	noun	perfect|perfect|R|Adj ; -ness|ness|S
+perfecto	noun	perfecto|perfecto|R|N
+perfervid	adj	per-|per|P ; fervid|fervid|R|Adj
+perfervidly	adv	per-|per|P ; fervid|fervid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+perfervidness	noun	per-|per|P ; fervid|fervid|R|Adj ; -ness|ness|S
+perfidiously	adv	perfidious|perfidious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+perfidiousness	noun	perfidious|perfidious|R|Adj ; -ness|ness|S
+perfoliate	adj	per-|per|P ; foliate|foliate|R|Adj
+perfoliation	noun	perfoliate|perfoliat|R|Adj ; -ion|ion|S
+perforable	adj	perforate|perfor|R|V ; -able|able|S
+perforative	adj	perforate|perforat|R|V ; -ive|ive|S
+perforator	noun	perforate|perforat|R|V ; -or|or|S
+performable	adj	perform|perform|R|V ; -able|able|S
+performant	adj	perform|perform|R|V ; -ant|ant|S
+perfunctoriness	noun	perfunctory|perfunctori|R|Adj ; -ness|ness|S
+perfusive	adj	perfuse|perfus|R|V ; -ive|ive|S
+pergameneous	adj	pergameneous|pergameneous|R|Adj
+perianal	adj	perianal|perianal|R|Adj
+periapical	adj	periapical|periapical|R|Adj
+periapsis	noun	periapsis|periapsis|R|N
+periapt	noun	periapt|periapt|R|N
+periarterial	adj	periarterial|periarterial|R|Adj
+periaxial	adj	periaxial|periaxial|R|Adj
+periblast	noun	periblast|periblast|R|N
+periblastic	adj	periblast|periblast|R|N ; -ic|ic|S
+periblem	noun	periblem|periblem|R|N
+peribranchial	adj	peribranchial|peribranchial|R|Adj
+peribulbar	adj	peribulbar|peribulbar|R|Adj
+pericambium	noun	pericambium|pericambium|R|N
+pericapillary	adj	pericapillary|pericapillary|R|Adj
+pericarditis	noun	pericarditis|pericarditis|R|N
+pericarp	noun	pericarp|pericarp|R|N
+pericarpial	adj	pericarp|pericarp|R|N ; -ial|ial|S
+pericellular	adj	pericellular|pericellular|R|Adj
+pericentric	adj	pericentric|pericentric|R|Adj
+perichondral	adj	perichondral|perichondral|R|Adj
+perichondrium	noun	perichondrium|perichondrium|R|N
+periclase	noun	periclase|periclase|R|N
+periclinal	adj	periclinal|periclinal|R|Adj
+pericope	noun	pericope|pericope|R|N
+pericranial	adj	pericranial|pericranial|R|Adj
+pericranium	noun	pericranium|pericranium|R|N
+pericycle	noun	pericycle|pericycle|R|N
+pericyclic	adj	pericycle|pericycl|R|N ; -ic|ic|S
+periderm	noun	periderm|periderm|R|N
+peridermal	adj	periderm|periderm|R|N ; -al|al|S
+peridermic	adj	periderm|periderm|R|N ; -ic|ic|S
+peridot	noun	peridot|peridot|R|N
+peridotic	adj	peridot|peridot|R|N ; -ic|ic|S
+peridotite	noun	peridotite|peridotite|R|N
+peridrome	noun	peridrome|peridrome|R|N
+periegesis	noun	periegesis|periegesis|R|N
+perigeal	adj	perigee|perige|R|N ; -al|al|S
+perigean	adj	perigee|perige|R|N ; -an|an|S
+perigon	noun	perigon|perigon|R|N
+perigynium	noun	perigynium|perigynium|R|N
+perigynous	adj	perigynous|perigynous|R|Adj
+perigyny	noun	perigyny|perigyny|R|N
+perihelial	adj	perihelion|periheli|R|N ; -al|al|S
+perihepatic	adj	perihepatic|perihepatic|R|Adj
+perikaryon	noun	perikaryon|perikaryon|R|N
+perilla	noun	perilla|perilla|R|N
+perilousness	noun	perilous|perilous|R|Adj ; -ness|ness|S
+perilune	noun	perilune|perilune|R|N
+perimenopause	noun	perimenopause|perimenopause|R|N
+perimetric	adj	perimeter|perimetr|R|N ; -ic|ic|S
+perimetrically	adv	perimetric|perimetric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+perimorph	noun	perimorph|perimorph|R|N
+perinephric	adj	perinephric|perinephric|R|Adj
+perineuritis	noun	perineuritis|perineuritis|R|N
+periodize	verb	period|period|R|N ; -ize|ize|S
+periodogram	noun	periodogram|periodogram|R|N
+periodontics	noun	periodontics|periodontics|R|N
+periodontologist	noun	periodontology|periodontolog|R|N ; -ist|ist|S
+periodontology	noun	periodontology|periodontology|R|N
+periosteal	adj	periosteum|perioste|R|N ; -al|al|S
+periostitic	adj	periostitis|periostit|R|N ; -ic|ic|S
+periostitis	noun	periostitis|periostitis|R|N
+periostracum	noun	periostracum|periostracum|R|N
+periotic	adj	periotic|periotic|R|Adj
+peripatetically	adv	peripatetic|peripatetic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+peripateticism	noun	peripatetic|peripatetic|R|Adj ; -ism|ism|S
+peripeteia	noun	peripeteia|peripeteia|R|N
+peripheric	adj	periphery|peripher|R|N ; -ic|ic|S
+periphlebitis	noun	periphlebitis|periphlebitis|R|N
+periphrasis	noun	periphrasis|periphrasis|R|N
+periphrastic	adj	periphrasis|periphrast|R|N ; -ic|ic|S
+periphrastically	adv	periphrastic|periphrastic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+periplasm	noun	periplasm|periplasm|R|N
+periplasmic	adj	periplasm|periplasm|R|N ; -ic|ic|S
+periplast	noun	periplast|periplast|R|N
+periplus	noun	periplus|periplus|R|N
+peripteral	adj	peripteral|peripteral|R|Adj
+peripterous	adj	peripterous|peripterous|R|Adj
+periptery	noun	periptery|periptery|R|N
+perique	noun	perique|perique|R|N
+perisarc	noun	perisarc|perisarc|R|N
+periscopic	adj	periscope|periscop|R|N ; -ic|ic|S
+periselene	noun	periselene|periselene|R|N
+perishability	noun	perishable|perishabil|R|Adj ; -ity|ity|S
+perishableness	noun	perishable|perishable|R|Adj ; -ness|ness|S
+perishably	adv	perishable|perishabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+perisher	noun	perish|perish|R|V ; -er|er|S||-er (N)
+perishing	noun	perish|perish|R|V ; -ing|ing|S||-ing (N)
+perishingly	adv	perish|perish|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+perisperm	noun	perisperm|perisperm|R|N
+perispheric	adj	perispheric|perispheric|R|Adj
+perissodactyl	noun	perissodactyl|perissodactyl|R|N
+perissodactylate	adj	perissodactyl|perissodactyl|R|N ; -ate|ate|S
+peristalith	noun	peristalith|peristalith|R|N
+peristaltically	adv	peristaltic|peristaltic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+peristomal	adj	peristome|peristom|R|N ; -al|al|S
+peristome	noun	peristome|peristome|R|N
+perithecial	adj	perithecium|peritheci|R|N ; -al|al|S
+perithecium	noun	perithecium|perithecium|R|N
+peritoneally	adv	peritoneal|peritoneal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+peritrichous	adj	peritrichous|peritrichous|R|Adj
+perivascular	adj	perivascular|perivascular|R|Adj
+periwig	noun	periwig|periwig|R|N
+periwigged	adj	periwig|periwigg|R|N ; -ed|ed|S||-ed (adj)
+perjuriously	adv	perjurious|perjurious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+perking	noun	perk|perk|R|V ; -ing|ing|S||-ing (N)
+perlemoen	noun	perlemoen|perlemoen|R|N
+perlitic	adj	perlite|perlit|R|N ; -ic|ic|S
+perlustration	noun	perlustrate|perlustrat|R|V ; -ion|ion|S
+permalink	noun	permalink|permalink|R|N
+permalloy	noun	permalloy|permalloy|R|N
+permanentness	noun	permanent|permanent|R|Adj ; -ness|ness|S
+permanganic	adj	permanganate|permangan|R|N ; -ic|ic|S
+permeably	adv	permeable|permeabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+permeance	noun	permeate|perme|R|V ; -ance|ance|S
+permeant	adj	permeate|perme|R|V ; -ant|ant|S
+permease	noun	permease|permease|R|N
+permille	noun	permille|permille|R|N
+permineralization	noun	permineralize|permineraliz|R|V ; -ation|ation|S
+permissibleness	noun	permissible|permissible|R|Adj ; -ness|ness|S
+permissibly	adv	permissible|permissibl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+permissively	adv	permissive|permissive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+permittance	noun	permit|permitt|R|V ; -ance|ance|S
+permitter	noun	permit|permitt|R|V ; -er|er|S||-er (N)
+permitting	noun	permit|permitt|R|V ; -ing|ing|S||-ing (N)
+permittivity	noun	permit|permitt|R|V ; -ive|iv|S ; -ity|ity|S
+permutability	noun	permutable|permutabil|R|Adj ; -ity|ity|S
+permutable	adj	permute|permut|R|V ; -able|able|S
+permutably	adv	permutable|permutabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+permutational	adj	permute|permut|R|V ; -ation|ation|S ; -al|al|S
+permute	verb	permute|permute|R|V
+pern	noun	pern|pern|R|N
+perniciously	adv	pernicious|pernicious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+perniciousness	noun	pernicious|pernicious|R|Adj ; -ness|ness|S
+pernio	noun	pernio|pernio|R|N
+pernoctation	noun	pernoctate|pernoctat|R|V ; -ion|ion|S
+peroral	adj	per-|per|P ; oral|oral|R|Adj
+perorate	verb	per-|per|P ; orate|orate|R|V
+perovskite	noun	perovskite|perovskite|R|N
+peroxidic	adj	per-|per|P ; oxide|oxid|R|N ; -ic|ic|S
+perpend	verb	per-|per|P ; pend|pend|R|V
+perpendicularity	noun	perpendicular|perpendicular|R|Adj ; -ity|ity|S
+perpetuator	noun	perpetuate|perpetuat|R|V ; -or|or|S
+perplexedly	adv	perplexed|perplexed|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+perplexingly	adv	perplex|perplex|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+perquisition	noun	perquisition|perquisition|R|N
+perron	noun	perron|perron|R|N
+pers	noun	pers|pers|R|N
+perse	noun	perse|perse|R|N
+persecutional	adj	persecution|persecution|R|N ; -al|al|S
+persecutive	adj	persecute|persecut|R|V ; -ive|ive|S
+persecutory	adj	persecute|persecut|R|V ; -ory|ory|S
+persecutrix	noun	persecutrix|persecutrix|R|N
+perseverant	adj	persevere|persever|R|V ; -ant|ant|S
+perseveration	noun	perseverate|perseverat|R|V ; -ion|ion|S
+perseveringly	adv	persevere|persever|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+persiflage	noun	persiflage|persiflage|R|N
+persistency	noun	persistent|persist|R|Adj ; -ency|ency|S
+persister	noun	persist|persist|R|V ; -er|er|S||-er (N)
+personableness	noun	personable|personable|R|Adj ; -ness|ness|S
+personably	adv	personable|personabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+personalist	noun	personal|personal|R|Adj ; -ist|ist|S
+personalty	noun	personal|personal|R|Adj ; -ty|ty|S
+personate	verb	person|person|R|N ; -ate|ate|S
+personation	noun	personate|personat|R|V ; -ion|ion|S
+personative	adj	personate|personat|R|V ; -ive|ive|S
+personator	noun	personate|personat|R|V ; -or|or|S
+personifier	noun	personify|personifi|R|V ; -er|er|S||-er (N)
+personifying	verb	personify|personify|R|V ; -ing|ing|I||-ing (v)
+perspectively	adv	perspective|perspective|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+perspectivity	noun	perspective|perspectiv|R|N ; -ity|ity|S
+perspicaciously	adv	perspicacious|perspicacious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+perspicaciousness	noun	perspicacious|perspicacious|R|Adj ; -ness|ness|S
+perspicuity	noun	perspicuous|perspicu|R|Adj ; -ity|ity|S

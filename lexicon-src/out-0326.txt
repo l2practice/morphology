@@ -1,0 +1,200 @@
+megajoule	noun	mega|mega|R|Adj ; joule|joule|R|N
+megalitre	noun	mega|mega|R|Adj ; litre|litre|R|N
+megaloblast	noun	megaloblast|megaloblast|R|N
+megaloblastic	adj	megaloblast|megaloblast|R|N ; -ic|ic|S
+megalocephaly	noun	megalocephaly|megalocephaly|R|N
+megalodon	noun	megalodon|megalodon|R|N
+megalographic	adj	megalography|megalograph|R|N ; -ic|ic|S
+megalography	noun	megalography|megalography|R|N
+megalophobia	noun	megalophobia|megalophobia|R|N
+megalopolistic	adj	megalopolistic|megalopolistic|R|Adj
+megalopolitan	adj	megalopolis|megalopolit|R|N ; -an|an|S
+megalopteran	noun	megalopteran|megalopteran|R|N
+megalosaur	noun	megalosaur|megalosaur|R|N
+megametre	noun	mega|mega|R|Adj ; metre|metre|R|N
+megaohm	noun	mega|mega|R|Adj ; ohm|ohm|R|N
+megaphonic	adj	megaphone|megaphon|R|N ; -ic|ic|S
+megapode	noun	megapode|megapode|R|N
+megapolis	noun	megapolis|megapolis|R|N
+megaron	noun	megaron|megaron|R|N
+megascope	noun	mega|mega|R|Adj ; scope|scope|R|N
+megascopic	adj	megascope|megascop|R|N ; -ic|ic|S
+megasporangium	noun	megasporangium|megasporangium|R|N
+megaspore	noun	mega|mega|R|Adj ; spore|spore|R|N
+megasporic	adj	megaspore|megaspor|R|N ; -ic|ic|S
+megasporogenesis	noun	megasporogenesis|megasporogenesis|R|N
+megasporophyll	noun	megasporophyll|megasporophyll|R|N
+megatron	noun	megatron|megatron|R|N
+megatsunami	noun	mega|mega|R|Adj ; tsunami|tsunami|R|N
+megavolt	noun	mega|mega|R|Adj ; volt|volt|R|N
+megilp	noun	megilp|megilp|R|N
+megrim	noun	megrim|megrim|R|N
+meh	interj	meh|meh|R
+meistersinger	noun	meistersinger|meistersinger|R|N
+meitnerium	noun	meitnerium|meitnerium|R|N
+melancholiac	noun	melancholiac|melancholiac|R|N
+melancholically	adv	melancholy|melanchol|R|N ; -ic|ic|S ; -ly|ally|I|Adv|-ly (adv)
+melanic	adj	melanic|melanic|R|Adj
+melanism	noun	melanism|melanism|R|N
+melanistic	adj	melanistic|melanistic|R|Adj
+melanization	noun	melanize|melaniz|R|V ; -ation|ation|S
+melanize	verb	melanize|melanize|R|V
+melanoblast	noun	melanoblast|melanoblast|R|N
+melanoblastic	adj	melanoblast|melanoblast|R|N ; -ic|ic|S
+melanogenesis	noun	melanogenesis|melanogenesis|R|N
+melanoid	adj	melanoid|melanoid|R|Adj
+melanophore	noun	melanophore|melanophore|R|N
+melanosis	noun	melanosis|melanosis|R|N
+melanotic	adj	melanosis|melanot|R|N ; -ic|ic|S
+melanterite	noun	melanterite|melanterite|R|N
+melasma	noun	melasma|melasma|R|N
+melic	adj	melic|melic|R|Adj
+melilot	noun	melilot|melilot|R|N
+melinite	noun	melinite|melinite|R|N
+melioidosis	noun	melioidosis|melioidosis|R|N
+meliorable	adj	meliorate|melior|R|V ; -able|able|S
+meliorate	verb	meliorate|meliorate|R|V
+meliorative	adj	meliorate|meliorat|R|V ; -ive|ive|S
+meliorator	noun	meliorate|meliorat|R|V ; -or|or|S
+meliorism	noun	meliorism|meliorism|R|N
+meliorist	noun	meliorist|meliorist|R|N
+melisma	noun	melisma|melisma|R|N
+melismatic	adj	melisma|melismat|R|N ; -ic|ic|S
+melliferous	adj	melliferous|melliferous|R|Adj
+mellifluence	noun	mellifluent|melliflu|R|Adj ; -ence|ence|S
+mellifluent	adj	mellifluent|mellifluent|R|Adj
+mellifluently	adv	mellifluent|mellifluent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+mellifluously	adv	mellifluous|mellifluous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+mellifluousness	noun	mellifluous|mellifluous|R|Adj ; -ness|ness|S
+mellowed	adj	mellow|mellow|R|Adj ; -ed|ed|S||-ed (adj)
+mellowly	adv	mellow|mellow|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+mellowy	adj	mellow|mellow|R|Adj ; -y|y|S
+melodeon	noun	melodeon|melodeon|R|N
+melodica	noun	melodica|melodica|R|N
+melodiously	adv	melody|melodi|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+melodiousness	noun	melody|melodi|R|N ; -ous|ous|S ; -ness|ness|S
+melodist	noun	melody|melod|R|N ; -ist|ist|S
+melodize	verb	melody|melod|R|N ; -ize|ize|S
+melodizer	noun	melodize|melodiz|R|V ; -er|er|S||-er (N)
+melodramatics	noun	melodramatic|melodramatic|R|Adj ; -s|s|I||-s (plural)
+melodramatist	noun	melodrama|melodramat|R|N ; -ist|ist|S
+melodramatization	noun	melodramatize|melodramatiz|R|V ; -ation|ation|S
+melodramatize	verb	melodramatic|melodramat|R|Adj ; -ize|ize|S
+melolonthine	adj	melolonthine|melolonthine|R|Adj
+melomane	noun	melomane|melomane|R|N
+melomania	noun	melomania|melomania|R|N
+melomaniac	noun	melomaniac|melomaniac|R|N
+melomel	noun	melomel|melomel|R|N
+melophile	noun	melophile|melophile|R|N
+meltability	noun	meltable|meltabil|R|Adj ; -ity|ity|S
+meltable	adj	melt|melt|R|V ; -able|able|S
+meltage	noun	melt|melt|R|V ; -age|age|S
+melter	noun	melt|melt|R|V ; -er|er|S||-er (N)
+mem	noun	mem|mem|R|N
+memberless	adj	member|member|R|N ; -less|less|S
+membranophone	noun	membranophone|membranophone|R|N
+meme	noun	meme|meme|R|N
+memetic	adj	meme|meme|R|N ; -ic|tic|S
+memetics	noun	memetic|memetic|R|Adj ; -s|s|I||-s (plural)
+memoization	noun	memoize|memoiz|R|V ; -ation|ation|S
+memorability	noun	memorable|memorabil|R|Adj ; -ity|ity|S
+memorableness	noun	memorable|memorable|R|Adj ; -ness|ness|S
+memorialist	noun	memorial|memorial|R|Adj ; -ist|ist|S
+memorizable	adj	memorize|memoriz|R|V ; -able|able|S
+memorizing	verb	memorize|memoriz|R|V ; -ing|ing|I||-ing (v)
+memsahib	noun	memsahib|memsahib|R|N
+menaced	verb	menace|menac|R|V ; -ed|ed|I||-ed (v2)
+menacer	noun	menace|menac|R|V ; -er|er|S||-er (N)
+menacme	noun	menacme|menacme|R|N
+mendable	adj	mend|mend|R|V ; -able|able|S
+mendaciously	adv	mendacious|mendacious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+mendelevium	noun	mendelevium|mendelevium|R|N
+mendicancy	noun	mendicant|mendic|R|N ; -ancy|ancy|S
+mendicity	noun	mendicity|mendicity|R|N
+mends	verb	mend|mend|R|V ; -s|s|I||-s (3sg)
+menhaden	noun	menhaden|menhaden|R|N
+menhir	noun	menhir|menhir|R|N
+meningocele	noun	meningocele|meningocele|R|N
+meningococcus	noun	meningococcus|meningococcus|R|N
+meningoencephalitis	noun	meningoencephalitis|meningoencephalitis|R|N
+meninx	noun	meninx|meninx|R|N
+menologium	noun	menologium|menologium|R|N
+menorrhagia	noun	menorrhagia|menorrhagia|R|N
+menorrhagic	adj	menorrhagia|menorrhag|R|N ; -ic|ic|S
+menorrhoea	noun	menorrhoea|menorrhoea|R|N
+menoxenia	noun	menoxenia|menoxenia|R|N
+mensal	adj	mensal|mensal|R|Adj
+mensiversary	noun	mensiversary|mensiversary|R|N
+menstruous	adj	menstruum|menstru|R|N ; -ous|ous|S
+menstruum	noun	menstruum|menstruum|R|N
+mensurability	noun	mensurable|mensurabil|R|Adj ; -ity|ity|S
+mensurable	adj	mensurable|mensurable|R|Adj
+mensural	adj	mensural|mensural|R|Adj
+mensurate	verb	mensurate|mensurate|R|V
+mentalese	noun	mentalese|mentalese|R|N
+mentalis	noun	mentalis|mentalis|R|N
+mentalism	noun	mental|mental|R|Adj ; -ism|ism|S
+mentalist	noun	mental|mental|R|Adj ; -ist|ist|S
+mentholated	adj	menthol|menthol|R|N ; -ate|ate|S ; -ed|d|S||-ed (adj)
+menticide	noun	menticide|menticide|R|N
+mentionable	adj	mention|mention|R|V ; -able|able|S
+mentioning	verb	mention|mention|R|V ; -ing|ing|I||-ing (v)
+mentum	noun	mentum|mentum|R|N
+mephedrone	noun	mephedrone|mephedrone|R|N
+mephitic	adj	mephitic|mephitic|R|Adj
+mephitis	noun	mephitis|mephitis|R|N
+meprobamate	noun	meprobamate|meprobamate|R|N
+mercaptan	noun	mercaptan|mercaptan|R|N
+mercenarily	adv	mercenary|mercenari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+mercenariness	noun	mercenary|mercenari|R|Adj ; -ness|ness|S
+mercerisation	noun	mercerize|merceris|R|V ; -ation|ation|S
+mercerize	verb	mercer|mercer|R|N ; -ize|ize|S
+mercery	noun	mercer|mercer|R|N ; -y|y|S
+merch	noun	merch|merch|R|N
+merchantability	noun	merchantable|merchantabil|R|Adj ; -ity|ity|S
+merchantableness	noun	merchantable|merchantable|R|Adj ; -ness|ness|S
+merchantlike	adj	merchant|merchant|R|N ; -like|like|S
+mercifulness	noun	mercy|merci|R|N ; -ful|ful|S ; -ness|ness|S
+mercilessness	noun	mercy|merci|R|N ; -less|less|S ; -ness|ness|S
+mercurate	verb	mercury|mercur|R|N ; -ate|ate|S
+mercurialism	noun	mercurial|mercurial|R|Adj ; -ism|ism|S
+mercuriality	noun	mercurial|mercurial|R|Adj ; -ity|ity|S
+mercurialize	verb	mercurial|mercurial|R|Adj ; -ize|ize|S
+mercurially	adv	mercurial|mercurial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+mercurochrome	noun	mercurochrome|mercurochrome|R|N
+mercurous	adj	mercury|mercur|R|N ; -ous|ous|S
+mereology	noun	mereology|mereology|R|N
+meretriciously	adv	meretricious|meretricious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+meretriciousness	noun	meretricious|meretricious|R|Adj ; -ness|ness|S
+mergence	noun	merge|merg|R|V ; -ence|ence|S
+mericarp	noun	mericarp|mericarp|R|N
+meridiem	noun	meridiem|meridiem|R|N
+meristematic	adj	meristem|meristem|R|N ; -ic|atic|S
+meristic	adj	meristic|meristic|R|Adj
+merited	adj	merit|merit|R|V ; -ed|ed|S||-ed (adj)
+meritocrat	noun	meritocrat|meritocrat|R|N
+meritoriously	adv	meritorious|meritorious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+meritoriousness	noun	meritorious|meritorious|R|Adj ; -ness|ness|S
+merits	noun	merit|merit|R|N ; -s|s|I||-s (plural)
+merkin	noun	merkin|merkin|R|N
+merle	noun	merle|merle|R|N
+merlin	noun	merlin|merlin|R|N
+merlon	noun	merlon|merlon|R|N
+meroblastic	adj	meroblast|meroblast|R|N ; -ic|ic|S
+merocrine	adj	merocrine|merocrine|R|Adj
+meromorphic	adj	meromorphic|meromorphic|R|Adj
+meromorphically	adv	meromorphic|meromorphic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+meronym	noun	meronym|meronym|R|N
+meronymy	noun	meronym|meronym|R|N ; -y|y|S
+merperson	noun	merperson|merperson|R|N
+merriness	noun	merry|merri|R|Adj ; -ness|ness|S
+merwoman	noun	merwoman|merwoman|R|N
+mesangial	adj	mesangium|mesangi|R|N ; -al|al|S
+mesencephalic	adj	mesencephalon|mesencephal|R|N ; -ic|ic|S
+mesencephalon	noun	mesencephalon|mesencephalon|R|N
+mesenchymatous	adj	mesenchyme|mesenchymat|R|N ; -ous|ous|S
+mesenteric	adj	mesentery|mesenter|R|N ; -ic|ic|S
+mesenteritis	noun	mesenteritis|mesenteritis|R|N
+mesentery	noun	mesentery|mesentery|R|N
+meshugge	adj	meshugge|meshugge|R|Adj
+meshwork	noun	mesh|mesh|R|N ; work|work|R|N

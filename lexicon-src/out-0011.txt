@@ -1,0 +1,200 @@
+stretch	verb	stretch|stretch|R|V
+pleased	adj	please|please|R|V ; -ed|d|S||-ed (adj)
+ideal	adj	ideal|ideal|R|Adj
+expense	noun	expense|expense|R|N
+seed	noun	seed|seed|R|N
+surprised	adj	surprise|surprise|R|V ; -ed|d|S||-ed (adj)
+withdraw	verb	with-|with|P ; draw|draw|R|V
+significance	noun	sign|sign|R|N ; -ific|ific|S ; -ance|ance|S
+pepper	noun	pepper|pepper|R|N
+severe	adj	severe|severe|R|Adj
+intervention	noun	intervene|interven|R|V ; -tion|tion|S
+terrible	adj	terrible|terrible|R|Adj
+tip	noun	tip|tip|R|N
+cite	verb	cite|cite|R|V
+prisoner	noun	prison|prison|R|N ; -er|er|S||-er (N)
+vegetable	noun	vegetable|vegetable|R|N
+dish	noun	dish|dish|R|N
+palace	noun	palace|palace|R|N
+vast	adj	vast|vast|R|Adj
+champion	noun	champion|champion|R|N
+everywhere	adv	every|every|R ; where|where|R|Adv
+gray	adj	gray|gray|R|Adj
+exclude	verb	ex-|ex|P ; -clude|clude|B|V
+eighty	det	eighty|eighty|R
+oppose	verb	oppose|oppose|R|V
+contemporary	adj	contemporary|contemporary|R|Adj
+convention	noun	convene|conven|R|V ; -tion|tion|S
+multiple	adj	multiple|multiple|R|Adj
+ninety	det	ninety|ninety|R
+afterwards	adv	afterwards|afterwards|R|Adv
+switch	verb	switch|switch|R|V
+criminal	adj	criminal|criminal|R|Adj
+ill	adj	ill|ill|R|Adj
+rush	verb	rush|rush|R|V
+knock	verb	knock|knock|R|V
+specifically	adv	specific|specific|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+justify	verb	just|just|R|Adj ; -ify|ify|S
+tired	adj	tire|tire|R|V ; -ed|d|S||-ed (adj)
+signal	noun	signal|signal|R|N
+rail	noun	rail|rail|R|N
+parish	noun	parish|parish|R|N
+diet	noun	diet|diet|R|N
+strongly	adv	strong|strong|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+fewer	adj	few|few|R|Adj ; -er|er|I||-er (comparative)
+rapidly	adv	rapid|rapid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+comparison	noun	comparison|comparison|R|N
+resolution	noun	resolve|resolut|R|V ; -ion|ion|S
+abortion	noun	abort|abort|R|V ; -ion|ion|S
+witness	noun	witness|witness|R|N
+apart	adv	a-|a|P ; part|part|R|N
+jones	noun	jones|jones|R|N
+mine	pron	mine|mine|R
+barely	adv	bare|bare|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+emphasize	verb	emphasize|emphasize|R|V
+harry	noun	harry|harry|R|N
+plenty	noun	plenty|plenty|R|N
+achievement	noun	achieve|achieve|R|V ; -ment|ment|S
+proud	adj	proud|proud|R|Adj
+faculty	noun	faculty|faculty|R|N
+ooh	interj	ooh|ooh|R
+gap	noun	gap|gap|R|N
+weak	adj	weak|weak|R|Adj
+definitely	adv	definite|definite|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+occupy	verb	occupy|occupy|R|V
+bomb	noun	bomb|bomb|R|N
+permanent	adj	permanent|permanent|R|Adj
+enormous	adj	enormous|enormous|R|Adj
+originally	adv	original|original|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+complaint	noun	complaint|complaint|R|N
+massive	adj	mass|mass|R|N ; -ive|ive|S
+amongst	prep	amongst|amongst|R
+shock	noun	shock|shock|R|N
+wheel	noun	wheel|wheel|R|N
+decline	verb	decline|decline|R|V
+invest	verb	invest|invest|R|V
+passenger	noun	passenger|passenger|R|N
+odd	adj	odd|odd|R|Adj
+cable	noun	cable|cable|R|N
+grass	noun	grass|grass|R|N
+via	prep	via|via|R
+expose	verb	expose|expose|R|V
+column	noun	column|column|R|N
+charity	noun	charity|charity|R|N
+cream	noun	cream|cream|R|N
+territory	noun	territory|territory|R|N
+independence	noun	in-|in|P ; depend|depend|R|V ; -ence|ence|S
+solid	adj	solid|solid|R|Adj
+crucial	adj	crucial|crucial|R|Adj
+typically	adv	typical|typical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+inner	adj	inner|inner|R|Adj
+hat	noun	hat|hat|R|N
+manufacturer	noun	manufacture|manufactur|R|V ; -er|er|S||-er (N)
+breakfast	noun	break|break|R|V ; fast|fast|R|N
+celebrate	verb	celebrate|celebrate|R|V
+fishing	noun	fish|fish|R|N ; -ing|ing|S||-ing (N)
+permit	verb	permit|permit|R|V
+similarly	adv	similar|similar|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+corporation	noun	corporate|corporat|R|Adj ; -ion|ion|S
+councillor	noun	council|councill|R|N ; -or|or|S
+tenant	noun	tenant|tenant|R|N
+inflation	noun	inflate|inflat|R|V ; -ion|ion|S
+talent	noun	talent|talent|R|N
+fundamental	adj	fundamental|fundamental|R|Adj
+taste	noun	taste|taste|R|N
+virtually	adv	virtual|virtual|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cast	verb	cast|cast|R|V
+sharp	adj	sharp|sharp|R|Adj
+perfectly	adv	perfect|perfect|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+unusual	adj	un-|un|P ; usual|usual|R|Adj
+convince	verb	convince|convince|R|V
+quote	verb	quote|quote|R|V
+dominate	verb	dominate|dominate|R|V
+physician	noun	physic|physic|R|N ; -ian|ian|S
+exception	noun	except|except|R|V ; -ion|ion|S
+accommodation	noun	accommodate|accommodat|R|V ; -ion|ion|S
+addition	noun	add|add|R|V ; -ition|ition|S
+boundary	noun	bound|bound|R|V ; -ary|ary|S
+creative	adj	create|creat|R|V ; -ive|ive|S
+lower	adj	low|low|R|Adj ; -er|er|I||-er (comparative)
+licence	noun	licence|licence|R|N
+buyer	noun	buy|buy|R|V ; -er|er|S||-er (N)
+gay	adj	gay|gay|R|Adj
+abandon	verb	abandon|abandon|R|V
+honor	noun	honor|honor|R|N
+construct	verb	con-|con|P ; -struct|struct|B|V
+campus	noun	campus|campus|R|N
+supporter	noun	support|support|R|V ; -er|er|S||-er (N)
+guilty	adj	guilt|guilt|R|N ; -y|y|S
+formation	noun	form|form|R|V ; -ation|ation|S
+compete	verb	compete|compete|R|V
+transaction	noun	transact|transact|R|V ; -ion|ion|S
+dispute	verb	dispute|dispute|R|V
+inquiry	noun	inquire|inquir|R|V ; -y|y|S
+immigrant	noun	immigrate|immigr|R|V ; -ant|ant|S
+steve	noun	steve|steve|R|N
+kingdom	noun	king|king|R|N ; -dom|dom|S
+illegal	adj	il-|il|P|||in- ; legal|legal|R|Adj
+database	noun	data|data|R|N ; base|base|R|N
+hi	interj	hi|hi|R
+ref	noun	ref|ref|R|N
+interaction	noun	interact|interact|R|V ; -ion|ion|S
+fault	noun	fault|fault|R|N
+personality	noun	person|person|R|N ; -al|al|S ; -ity|ity|S
+badly	adv	bad|bad|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+assistance	noun	assist|assist|R|V ; -ance|ance|S
+phrase	noun	phrase|phrase|R|N
+forever	adv	for|for|R ; ever|ever|R|Adv
+quantity	noun	quantity|quantity|R|N
+unknown	adj	un-|un|P ; known|known|R|Adj
+naturally	adv	nature|natur|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+lab	noun	lab|lab|R|N
+proceed	verb	proceed|proceed|R|V
+wrap	verb	wrap|wrap|R|V
+preparation	noun	prepare|prepar|R|V ; -ation|ation|S
+tension	noun	tension|tension|R|N
+interpret	verb	interpret|interpret|R|V
+depression	noun	depress|depress|R|V ; -ion|ion|S
+incorporate	verb	incorporate|incorporate|R|V
+spiritual	adj	spirit|spirit|R|N ; -ual|ual|S
+jim	noun	jim|jim|R|N
+musical	adj	music|music|R|N ; -al|al|S
+prayer	noun	pray|pray|R|V ; -er|er|S||-er (N)
+secondary	adj	second|second|R|Adj ; -ary|ary|S
+journalist	noun	journal|journal|R|N ; -ist|ist|S
+metre	noun	metre|metre|R|N
+dismiss	verb	dismiss|dismiss|R|V
+suspect	verb	suspect|suspect|R|V
+scholar	noun	scholar|scholar|R|N
+simon	noun	simon|simon|R|N
+climate	noun	climate|climate|R|N
+cheese	noun	cheese|cheese|R|N
+joe	noun	joe|joe|R|N
+childhood	noun	child|child|R|N ; -hood|hood|S
+proceeding	noun	proceed|proceed|R|V ; -ing|ing|S||-ing (N)
+mike	noun	mike|mike|R|N
+cigarette	noun	cigar|cigar|R|N ; -ette|ette|S
+moreover	adv	more|more|R ; over|over|R
+bread	noun	bread|bread|R|N
+subsequent	adj	subsequent|subsequent|R|Adj
+currency	noun	currency|currency|R|N
+graduate	verb	graduate|graduate|R|V
+parliamentary	adj	parliament|parliament|R|N ; -ary|ary|S
+alright	adv	alright|alright|R|Adv
+emotion	noun	emotion|emotion|R|N
+scream	verb	scream|scream|R|V
+dramatic	adj	dramatic|dramatic|R|Adj
+universe	noun	universe|universe|R|N
+alter	verb	alter|alter|R|V
+deeply	adv	deep|deep|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+rarely	adv	rare|rare|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+extension	noun	extend|exten|R|V ; -sion|sion|S
+prosecutor	noun	prosecute|prosecut|R|V ; -or|or|S
+prize	noun	prize|prize|R|N
+lucky	adj	luck|luck|R|N ; -y|y|S
+drag	verb	drag|drag|R|V
+graham	noun	graham|graham|R|N
+airline	noun	air|air|R|N ; line|line|R|N
+mill	noun	mill|mill|R|N
+possess	verb	possess|possess|R|V
+agenda	noun	agenda|agenda|R|N

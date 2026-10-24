@@ -1,0 +1,150 @@
+cartridge	noun	=
+raisin	noun	=
+mitigate	verb	=
+liquidation	noun	=
+experimentation	noun	ex-|ex|P||||Latin ex- 'out' ; -peri-|peri|B|V|||Latin periri 'to attempt' ; -ment|ment|S||||Latin -mentum 'means, result' ; -ation|ation|S||||Latin -atio 'act, process'
+infirmary	noun	=
+asbestos	noun	=
+fend	verb	=
+impatience	noun	=
+cider	noun	=
+ceremonial	adj	=
+flux	noun	=
+apostle	noun	=
+lineage	noun	=
+motto	noun	=
+fragrant	adj	=
+neutrality	noun	=
+phenomenal	adj	=
+conservatism	noun	=
+conglomerate	noun	con-|con|P||||Latin com- 'together' ; -glomer-|glomer|B|N|||Latin glomus 'ball' ; -ate|ate|S||||Latin -atus 'verb-forming'
+gull	noun	=
+seasoning	noun	=
+assessor	noun	=
+discrete	adj	=
+tuberculosis	noun	tubercul-|tubercul|B|N|||Latin tuberculum 'small swelling' ; -osis|osis|S||||Greek -osis 'diseased condition'
+cohesion	noun	co-|co|P||||Latin com- 'together' ; -hes-|hes|B|V|||Latin haerere 'to stick' ; -ion|ion|S||||Latin -io 'act, state'
+fluorescent	adj	=
+pineapple	noun	=
+mediator	noun	=
+bouquet	noun	=
+anthrax	noun	=
+gram	noun	=
+enclave	noun	=
+leftist	noun	=
+subsistence	noun	=
+furnace	noun	=
+pigment	noun	=
+preface	noun	=
+nuance	noun	=
+alcoholism	noun	=
+caption	noun	capt-|capt|B|V|||Latin capere 'to take' ; -ion|ion|S||||Latin -io 'act, state'
+baroque	adj	=
+potency	noun	=
+centenary	noun	cent-|cent|B|N|||Latin centum 'hundred' ; -enary|enary|S||||Latin -arius 'belonging to'
+rapper	noun	=
+compatibility	noun	=
+intestine	noun	=
+derivative	noun	=
+allergic	adj	=
+bounty	noun	=
+incorporation	noun	=
+analogous	adj	=
+coma	noun	=
+tolerant	adj	toler-|toler|B|V|||Latin tolerare 'to endure' ; -ant|ant|S||||Latin -ans 'present participle'
+remuneration	noun	=
+concur	verb	con-|con|P||||Latin com- 'together' ; -cur|cur|B|V|||Latin currere 'to run'
+convergence	noun	=
+cricketer	noun	=
+proxy	noun	=
+coronary	adj	coron-|coron|B|N|||Latin corona 'crown' ; -ary|ary|S||||Latin -arius 'relating to'
+camper	noun	=
+payer	noun	=
+paddle	noun	=
+fauna	noun	=
+spaghetti	noun	=
+alphabet	noun	alpha-|alpha|B|N|||Greek alpha 'first letter' ; -bet|bet|B|N|||Greek beta 'second letter'
+pentagon	noun	penta-|penta|B|Adj|||Greek pente 'five' ; -gon|gon|B|N|||Greek gonia 'angle'
+inflammation	noun	=
+expansive	adj	expans-|expans|B|V|||Latin expandere 'to spread out' ; -ive|ive|S||||Latin -ivus 'tending to'
+homogeneous	adj	homo-|homo|B|Adj|||Greek homos 'same' ; -geneous|geneous|B|N|||Greek genos 'kind'
+punctuate	verb	punct-|punct|B|V|||Latin pungere 'to prick' ; -uate|uate|S||||Latin -uatus 'verb suffix'
+autism	noun	aut-|aut|B|Adj|||Greek autos 'self' ; -ism|ism|S||||Greek -ismos 'condition'
+inscribe	verb	in-|in|P||||Latin in- 'upon' ; -scribe|scribe|B|V|||Latin scribere 'to write'
+energize	verb	=
+backer	noun	=
+friar	noun	=
+judiciary	noun	judici-|judici|B|N|||Latin judicium 'judgment' ; -ary|ary|S||||Latin -arius 'relating to'
+deity	noun	=
+singular	adj	singul-|singul|B|Adj|||Latin singulus 'single' ; -ar|ar|S||||Latin -aris 'relating to'
+hypocrisy	noun	hypo-|hypo|P||||Greek hypo 'under' ; -cris-|cris|B|N|||Greek krisis 'judgment' ; -y|y|S||||Greek -ia 'state, quality'
+portal	noun	=
+captive	noun	capt-|capt|B|V|||Latin capere 'to take' ; -ive|ive|S||||Latin -ivus 'tending to'
+devolution	noun	de-|de|P||||Latin de- 'down, away' ; -volu-|volu|B|V|||Latin volvere 'to roll' ; -tion|tion|S||||Latin -tio 'act, state'
+template	noun	=
+textual	adj	=
+acoustic	adj	acoust-|acoust|B|V|||Greek akouein 'to hear' ; -ic|ic|S||||Greek -ikos 'relating to'
+cartel	noun	=
+cuckoo	noun	=
+stylistic	adj	=
+germ	noun	=
+hysterical	adj	hyster-|hyster|B|N|||Greek hystera 'womb' ; -ic|ic|S||||Greek -ikos 'relating to' ; -al|al|S||||Latin -alis 'relating to'
+rouge	noun	=
+crypt	noun	=
+strangle	verb	=
+appetizer	noun	=
+linguist	noun	lingu-|lingu|B|N|||Latin lingua 'language' ; -ist|ist|S||||Greek -istes 'agent'
+elude	verb	e-|e|P||||Latin ex- 'out' ; -lud-|lude|B|V|||Latin ludere 'to play'
+nave	noun	=
+hector	verb	=
+papa	noun	=
+aesthetics	noun	aesthet-|aesthet|B|V|||Greek aisthesis 'perception' ; -ics|ics|S||||Greek -ikos 'relating to'
+scorer	noun	=
+bibliography	noun	biblio-|biblio|B|N|||Greek biblion 'book' ; -graphy|graphy|B|N|||Greek graphein 'to write'
+engender	verb	=
+artisan	noun	=
+dissertation	noun	=
+metabolism	noun	meta-|meta|P||||Greek meta 'change, beyond' ; -bol-|bol|B|V|||Greek ballein 'to throw' ; -ism|ism|S||||Greek -ismos 'condition'
+asparagus	noun	=
+infusion	noun	=
+neural	adj	neur-|neur|B|N|||Greek neuron 'nerve' ; -al|al|S||||Latin -alis 'relating to'
+opaque	adj	=
+nausea	noun	naus-|naus|B|N|||Greek naus 'ship' ; -ea|ea|S||||Greek -eia 'condition'
+umpire	noun	=
+optics	noun	=
+activation	noun	=
+cactus	noun	=
+emancipation	noun	=
+academically	adv	=
+abdominal	adj	abdomin-|abdomin|B|N|||Latin abdomen 'belly' ; -al|al|S||||Latin -alis 'relating to'
+orchid	noun	=
+pluralism	noun	=
+humiliate	verb	humil-|humili|B|Adj|||Latin humilis 'lowly' ; -ate|ate|S||||Latin -atus 'verb-forming'
+remand	verb	re-|re|P||||Latin re- 'back' ; -mand|mand|B|V|||Latin mandare 'to order'
+relegation	noun	=
+pronoun	noun	=
+tyranny	noun	tyrann-|tyrann|B|N|||Greek tyrannos 'tyrant' ; -y|y|S||||Greek -ia 'state, quality'
+anal	adj	=
+sterile	adj	=
+compiler	noun	=
+extinct	adj	ex-|ex|P||||Latin ex- 'out' ; -tinct|tinct|B|V|||Latin tinguere 'to quench'
+deletion	noun	=
+unilateral	adj	=
+gorilla	noun	=
+assimilation	noun	=
+futile	adj	=
+ferret	noun	=
+renal	adj	ren-|ren|B|N|||Latin renes 'kidneys' ; -al|al|S||||Latin -alis 'relating to'
+posit	verb	=
+schema	noun	=
+idol	noun	=
+tenor	noun	=
+basal	adj	=
+neuron	noun	neur-|neur|B|N|||Greek neuron 'nerve' ; -on|on|S||||Greek -on 'noun ending'
+jess	noun	=
+placebo	noun	=
+luce	noun	=
+ballad	noun	=
+salient	adj	=
+prophecy	noun	pro-|pro|P||||Greek pro 'before' ; -phe-|phe|B|V|||Greek phanai 'to speak' ; -cy|cy|S||||Greek -eia 'state, quality'
+proximal	adj	proxim-|proxim|B|Adj|||Latin proximus 'nearest' ; -al|al|S||||Latin -alis 'relating to'

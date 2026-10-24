@@ -1,0 +1,200 @@
+sprinkles	noun	sprinkle|sprinkle|R|V ; -s|s|I||-s (plural)
+sprinting	verb	sprint|sprint|R|V ; -ing|ing|I||-ing (v)
+sprints	noun	sprint|sprint|R|N ; -s|s|I||-s (plural)
+spritsail	noun	sprit|sprit|R|N ; sail|sail|R|N
+spritzig	adj	spritzig|spritzig|R|Adj
+sprucely	adv	spruce|spruce|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+spruceness	noun	spruce|spruce|R|Adj ; -ness|ness|S
+sprue	noun	sprue|sprue|R|N
+spruik	verb	spruik|spruik|R|V
+spruiker	noun	spruik|spruik|R|V ; -er|er|S||-er (N)
+spruit	noun	spruit|spruit|R|N
+spryly	adv	spry|spry|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+spryness	noun	spry|spry|R|Adj ; -ness|ness|S
+spudder	noun	spud|spudd|R|V ; -er|er|S||-er (N)
+spudding	verb	spud|spudd|R|V ; -ing|ing|I||-ing (v)
+spuddle	verb	spuddle|spuddle|R|V
+spuddy	adj	spud|spudd|R|N ; -y|y|S
+spumescent	adj	spumescent|spumescent|R|Adj
+spuminess	noun	spume|spum|R|N ; -y|i|S ; -ness|ness|S
+spumous	adj	spume|spum|R|N ; -ous|ous|S
+spumy	adj	spume|spum|R|N ; -y|y|S
+spuriousness	noun	spurious|spurious|R|Adj ; -ness|ness|S
+spurner	noun	spurn|spurn|R|V ; -er|er|S||-er (N)
+spurning	verb	spurn|spurn|R|V ; -ing|ing|I||-ing (v)
+spurred	verb	spur|spurr|R|V ; -ed|ed|I||-ed (v2)
+spurrier	noun	spurrier|spurrier|R|N
+spurring	verb	spur|spurr|R|V ; -ing|ing|I||-ing (v)
+spurrite	noun	spurrite|spurrite|R|N
+spurry	noun	spurry|spurry|R|N
+spurting	verb	spurt|spurt|R|V ; -ing|ing|I||-ing (v)
+spurtle	noun	spurtle|spurtle|R|N
+spyplane	noun	spy|spy|R|N ; plane|plane|R|N
+squabbish	adj	squab|squabb|R|N ; -ish|ish|S
+squabbler	noun	squabble|squabbl|R|V ; -er|er|S||-er (N)
+squabby	adj	squab|squabb|R|N ; -y|y|S
+squacco	noun	squacco|squacco|R|N
+squailer	noun	squail|squail|R|V ; -er|er|S||-er (N)
+squalane	noun	squalane|squalane|R|N
+squalene	noun	squalene|squalene|R|N
+squalidity	noun	squalid|squalid|R|Adj ; -ity|ity|S
+squalidly	adv	squalid|squalid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+squalidness	noun	squalid|squalid|R|Adj ; -ness|ness|S
+squaller	noun	squall|squall|R|V ; -er|er|S||-er (N)
+squaloid	adj	squaloid|squaloid|R|Adj
+squama	noun	squama|squama|R|N
+squamate	adj	squamate|squamate|R|Adj
+squamation	noun	squamation|squamation|R|N
+squame	noun	squame|squame|R|N
+squamiform	adj	squamiform|squamiform|R|Adj
+squamosal	adj	squamosal|squamosal|R|Adj
+squamula	noun	squamula|squamula|R|N
+squamulose	adj	squamulose|squamulose|R|Adj
+squanderer	noun	squander|squander|R|V ; -er|er|S||-er (N)
+squanderingly	adv	squander|squander|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+squandermania	noun	squander|squander|R|V ; mania|mania|R|N
+squarable	adj	square|squar|R|Adj ; -able|able|S
+squarehead	noun	square|square|R|N ; head|head|R|N
+squarer	noun	square|squar|R|V ; -er|er|S||-er (N)
+squaring	verb	square|squar|R|V ; -ing|ing|I||-ing (v)
+squarrose	adj	squarrose|squarrose|R|Adj
+squarson	noun	squarson|squarson|R|N
+squashily	adv	squashy|squashi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+squashiness	noun	squash|squash|R|N ; -y|i|S ; -ness|ness|S
+squashing	verb	squash|squash|R|V ; -ing|ing|I||-ing (v)
+squatty	adj	squat|squatt|R|Adj ; -y|y|S
+squeakily	adv	squeaky|squeaki|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+squeakiness	noun	squeak|squeak|R|N ; -y|i|S ; -ness|ness|S
+squeamishly	adv	squeamish|squeamish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+squeezability	noun	squeeze|squeez|R|V ; -able|abil|S ; -ity|ity|S
+squeezable	adj	squeeze|squeez|R|V ; -able|able|S
+squegging	verb	squeg|squegg|R|V ; -ing|ing|I||-ing (v)
+squelched	verb	squelch|squelch|R|V ; -ed|ed|I||-ed (v2)
+squelcher	noun	squelch|squelch|R|V ; -er|er|S||-er (N)
+squidding	verb	squid|squidd|R|V ; -ing|ing|I||-ing (v)
+squidgy	adj	squidgy|squidgy|R|Adj
+squiffed	adj	squiff|squiff|R|V ; -ed|ed|S||-ed (adj)
+squiffy	adj	squiff|squiff|R|N ; -y|y|S
+squilgee	noun	squilgee|squilgee|R|N
+squill	noun	squill|squill|R|N
+squinny	verb	squinny|squinny|R|V
+squinter	noun	squint|squint|R|V ; -er|er|S||-er (N)
+squinting	verb	squint|squint|R|V ; -ing|ing|I||-ing (v)
+squirearchal	adj	squirearch|squirearch|R|N ; -al|al|S
+squireen	noun	squireen|squireen|R|N
+squirehood	noun	squire|squire|R|N ; -hood|hood|S
+squirelet	noun	squire|squire|R|N ; -let|let|S
+squireling	noun	squire|squire|R|N ; -ling|ling|S
+squirely	adj	squire|squire|R|N ; -ly|ly|S||-ly (adj)
+squireship	noun	squire|squire|R|N ; -ship|ship|S
+squirting	verb	squirt|squirt|R|V ; -ing|ing|I||-ing (v)
+squishiness	noun	squish|squish|R|V ; -y|i|S ; -ness|ness|S
+squit	noun	squit|squit|R|N
+squits	noun	squit|squit|R|N ; -s|s|I||-s (plural)
+sriracha	noun	sriracha|sriracha|R|N
+sss	interj	sss|sss|R
+st	noun	st|st|R|N
+stabber	noun	stab|stabb|R|V ; -er|er|S||-er (N)
+stabile	noun	stabile|stabile|R|N
+stabled	verb	stable|stabl|R|V ; -ed|ed|I||-ed (v2)
+stablemaster	noun	stable|stable|R|N ; master|master|R|N
+stableness	noun	stable|stable|R|Adj ; -ness|ness|S
+stacks	noun	stack|stack|R|N ; -s|s|I||-s (plural)
+stacte	noun	stacte|stacte|R|N
+stactometer	noun	stactometer|stactometer|R|N
+staddle	noun	staddle|staddle|R|N
+stade	noun	stade|stade|R|N
+stadiometer	noun	stadiometer|stadiometer|R|N
+stadion	noun	stadion|stadion|R|N
+stadtholder	noun	stadtholder|stadtholder|R|N
+stadtholdership	noun	stadtholder|stadtholder|R|N ; -ship|ship|S
+stagestruck	adj	stage|stage|R|N ; struck|struck|R|V
+staggard	noun	staggard|staggard|R|N
+staggart	noun	staggart|staggart|R|N
+staggerer	noun	stagger|stagger|R|V ; -er|er|S||-er (N)
+staggers	noun	stagger|stagger|R|V ; -s|s|I||-s (plural)
+staggy	adj	stag|stagg|R|N ; -y|y|S
+staghound	noun	stag|stag|R|N ; hound|hound|R|N
+stagily	adv	stagy|stagi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+staginess	noun	stage|stag|R|N ; -y|i|S ; -ness|ness|S
+stagnancy	noun	stagnant|stagnan|R|Adj ; -cy|cy|S
+stagnantly	adv	stagnant|stagnant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+stagnicolous	adj	stagnicolous|stagnicolous|R|Adj
+staidly	adv	staid|staid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+staidness	noun	staid|staid|R|Adj ; -ness|ness|S
+stainability	noun	stain|stain|R|V ; -able|abil|S ; -ity|ity|S
+stainable	adj	stain|stain|R|V ; -able|able|S
+stainer	noun	stain|stain|R|V ; -er|er|S||-er (N)
+stairhead	noun	stair|stair|R|N ; head|head|R|N
+staithe	noun	staithe|staithe|R|N
+staked	verb	stake|stak|R|V ; -ed|ed|I||-ed (v2)
+stakes	noun	stake|stake|R|N ; -s|s|I||-s (plural)
+staking	verb	stake|stak|R|V ; -ing|ing|I||-ing (v)
+stalactic	adj	stalactite|stalact|R|N ; -ic|ic|S
+stalactiform	adj	stalactiform|stalactiform|R|Adj
+stalag	noun	stalag|stalag|R|N
+stalagmometer	noun	stalagmometer|stalagmometer|R|N
+stalely	adv	stale|stale|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+staling	verb	stale|stal|R|V ; -ing|ing|I||-ing (v)
+stalinization	noun	stalin|stalin|R|N ; -ize|iz|S ; -ation|ation|S
+stalked	verb	stalk|stalk|R|V ; -ed|ed|I||-ed (v2)
+stalkless	adj	stalk|stalk|R|N ; -less|less|S
+stalklet	noun	stalk|stalk|R|N ; -let|let|S
+stalky	adj	stalk|stalk|R|N ; -y|y|S
+stalwartly	adv	stalwart|stalwart|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+stalwartness	noun	stalwart|stalwart|R|Adj ; -ness|ness|S
+stamened	adj	stamen|stamen|R|N ; -ed|ed|S||-ed (adj)
+stamenless	adj	stamen|stamen|R|N ; -less|less|S
+staminal	adj	staminal|staminal|R|Adj
+staminate	adj	staminate|staminate|R|Adj
+stamineal	adj	stamineal|stamineal|R|Adj
+staminiferous	adj	staminiferous|staminiferous|R|Adj
+staminode	noun	staminode|staminode|R|N
+staminody	noun	staminody|staminody|R|N
+stammered	verb	stammer|stammer|R|V ; -ed|ed|I||-ed (v2)
+stammerer	noun	stammer|stammer|R|V ; -er|er|S||-er (N)
+stammeringly	adv	stammer|stammer|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+stamper	noun	stamp|stamp|R|V ; -er|er|S||-er (N)
+standardbred	noun	standard|standard|R|N ; bred|bred|R|V
+standaway	noun	stand|stand|R|V ; away|away|R|Adv
+standfast	noun	stand|stand|R|V ; fast|fast|R|Adj
+standpat	adj	stand|stand|R|V ; pat|pat|R|Adv
+standpatter	noun	stand|stand|R|V ; pat|patt|R|Adv ; -er|er|S||-er (N)
+stang	noun	stang|stang|R|N
+staniel	noun	staniel|staniel|R|N
+stanitsa	noun	stanitsa|stanitsa|R|N
+stank	verb	stink|stank|R|V ; -ed||I||-ed (v2)
+stannane	noun	stannane|stannane|R|N
+stannary	noun	stannary|stannary|R|N
+stannic	adj	stannic|stannic|R|Adj
+stanniferous	adj	stanniferous|stanniferous|R|Adj
+stannite	noun	stannite|stannite|R|N
+stannous	adj	stannous|stannous|R|Adj
+stannum	noun	stannum|stannum|R|N
+stanzaed	adj	stanza|stanza|R|N ; -ed|ed|S||-ed (adj)
+stanzaic	adj	stanza|stanza|R|N ; -ic|ic|S
+stapedial	adj	stapes|staped|R|N ; -ial|ial|S
+stapedius	noun	stapedius|stapedius|R|N
+staphylococcic	adj	staphylococcus|staphylococc|R|N ; -ic|ic|S
+stapling	verb	staple|stapl|R|V ; -ing|ing|I||-ing (v)
+starchedness	noun	starch|starch|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+starcher	noun	starch|starch|R|V ; -er|er|S||-er (N)
+starchiness	noun	starch|starch|R|N ; -y|i|S ; -ness|ness|S
+starer	noun	stare|star|R|V ; -er|er|S||-er (N)
+starets	noun	starets|starets|R|N
+stargate	noun	star|star|R|N ; gate|gate|R|N
+stargaze	verb	star|star|R|N ; gaze|gaze|R|V
+staringly	adv	stare|star|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+starkers	adj	starkers|starkers|R|Adj
+starostynskyi	noun	starostynskyi|starostynskyi|R|N
+stars	noun	star|star|R|N ; -s|s|I||-s (plural)
+starthistle	noun	star|star|R|N ; thistle|thistle|R|N
+startler	noun	startle|startl|R|V ; -er|er|S||-er (N)
+startup	noun	start|start|R|V ; up|up|R|Adv
+starveling	noun	starve|starve|R|V ; -ling|ling|S
+starver	noun	starve|starv|R|V ; -er|er|S||-er (N)
+starwort	noun	star|star|R|N ; wort|wort|R|N
+stasimorphy	noun	stasimorphy|stasimorphy|R|N
+statable	adj	state|stat|R|V ; -able|able|S
+statal	adj	state|stat|R|N ; -al|al|S
+statant	adj	statant|statant|R|Adj

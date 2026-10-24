@@ -1,0 +1,200 @@
+libeller	noun	libel|libell|R|V ; -er|er|S||-er (N)
+liberalist	noun	liberal|liberal|R|Adj ; -ist|ist|S
+liberalistic	adj	liberal|liberal|R|Adj ; -ist|ist|S ; -ic|ic|S
+liberticide	noun	liberticide|liberticide|R|N
+libertinage	noun	libertine|libertin|R|N ; -age|age|S
+libertinism	noun	libertine|libertin|R|N ; -ism|ism|S
+libidinosity	noun	libidinous|libidinos|R|Adj ; -ity|ity|S
+libidinousness	noun	libidinous|libidinous|R|Adj ; -ness|ness|S
+librate	verb	librate|librate|R|V
+libratory	adj	librate|librat|R|V ; -ory|ory|S
+libtard	noun	libtard|libtard|R|N
+lice	noun	louse|lice|R|N ; -s||I||-s (plural)
+licensable	adj	license|licens|R|V ; -able|able|S
+licensor	noun	license|licens|R|V ; -or|or|S
+licentiateship	noun	licentiate|licentiate|R|N ; -ship|ship|S
+licentiously	adv	licentious|licentious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+lich	noun	lich|lich|R|N
+lichened	adj	lichen|lichen|R|N ; -ed|ed|S||-ed (adj)
+lichenic	adj	lichen|lichen|R|N ; -ic|ic|S
+lichenification	noun	lichenify|lichenifi|R|V ; -ation|cation|S
+lichenize	verb	lichen|lichen|R|N ; -ize|ize|S
+lichenologist	noun	lichenology|lichenolog|R|N ; -ist|ist|S
+lichenology	noun	lichenology|lichenology|R|N
+lichenometry	noun	lichenometry|lichenometry|R|N
+lichenous	adj	lichen|lichen|R|N ; -ous|ous|S
+licit	adj	licit|licit|R|Adj
+licked	verb	lick|lick|R|V ; -ed|ed|I||-ed (v2)
+licker	noun	lick|lick|R|V ; -er|er|S||-er (N)
+lickerish	adj	lickerish|lickerish|R|Adj
+lickerishness	noun	lickerish|lickerish|R|Adj ; -ness|ness|S
+lickspittle	noun	lick|lick|R|V ; spittle|spittle|R|N
+lictor	noun	lictor|lictor|R|N
+lied	verb	lie|lie|R|V ; -ed|d|I||-ed (v2)
+liegeman	noun	liege|liege|R|N ; man|man|R|N
+lienable	adj	lien|lien|R|N ; -able|able|S
+lierne	noun	lierne|lierne|R|N
+lies	verb	lie|lie|R|V ; -s|s|I||-s (3sg)
+lifeform	noun	life|life|R|N ; form|form|R|N
+lifeful	adj	life|life|R|N ; -ful|ful|S
+lifehack	noun	life|life|R|N ; hack|hack|R|N
+lifelikeness	noun	life|life|R|N ; like|like|R|Adj ; -ness|ness|S
+lifepath	noun	life|life|R|N ; path|path|R|N
+liferent	noun	life|life|R|N ; rent|rent|R|N
+lifted	verb	lift|lift|R|V ; -ed|ed|I||-ed (v2)
+liftman	noun	lift|lift|R|N ; man|man|R|N
+liftshaft	noun	lift|lift|R|N ; shaft|shaft|R|N
+ligamental	adj	ligament|ligament|R|N ; -al|al|S
+ligamentous	adj	ligament|ligament|R|N ; -ous|ous|S
+ligase	noun	ligase|ligase|R|N
+ligatured	adj	ligature|ligatur|R|N ; -ed|ed|S||-ed (adj)
+liger	noun	liger|liger|R|N
+lighterage	noun	light|light|R|V ; -er|er|S||-er (N) ; -age|age|S
+lighterman	noun	light|light|R|V ; -er|er|S||-er (N) ; man|man|R|N
+lightfast	adj	light|light|R|N ; fast|fast|R|Adj
+lightish	adj	light|light|R|N ; -ish|ish|S
+lights	verb	light|light|R|V ; -s|s|I||-s (3sg)
+lightsaber	noun	light|light|R|N ; saber|saber|R|N
+lightsome	adj	light|light|R|N ; -some|some|S
+lightspeed	noun	light|light|R|N ; speed|speed|R|N
+lightwell	noun	light|light|R|N ; well|well|R|N
+ligneous	adj	ligneous|ligneous|R|Adj
+lignification	noun	lignify|lignifi|R|V ; -ation|cation|S
+lignify	verb	lignify|lignify|R|V
+lignitic	adj	lignite|lignit|R|N ; -ic|ic|S
+lignivorous	adj	lignivorous|lignivorous|R|Adj
+lignolytic	adj	lignolytic|lignolytic|R|Adj
+ligress	noun	ligress|ligress|R|N
+ligula	noun	ligula|ligula|R|N
+ligule	noun	ligule|ligule|R|N
+likableness	noun	like|lik|R|V ; -able|able|S ; -ness|ness|S
+likeability	noun	like|like|R|V ; -able|abil|S ; -ity|ity|S
+likeliness	noun	like|like|R|V ; -ly|li|S||-ly (adj) ; -ness|ness|S
+likening	noun	liken|liken|R|V ; -ing|ing|S||-ing (N)
+liliaceous	adj	liliaceous|liliaceous|R|Adj
+lilied	adj	lily|lili|R|N ; -ed|ed|S||-ed (adj)
+lilliputian	adj	lilliputian|lilliputian|R|Adj
+lilo	noun	lilo|lilo|R|N
+limacine	adj	limacine|limacine|R|Adj
+limba	noun	limba|limba|R|N
+limbate	adj	limb|limb|R|N ; -ate|ate|S
+limbed	adj	limb|limb|R|N ; -ed|ed|S||-ed (adj)
+limekiln	noun	lime|lime|R|N ; kiln|kiln|R|N
+limen	noun	limen|limen|R|N
+limerence	noun	limerence|limerence|R|N
+limes	verb	lime|lime|R|V ; -s|s|I||-s (3sg)
+limescale	noun	lime|lime|R|N ; scale|scale|R|N
+limewash	noun	lime|lime|R|N ; wash|wash|R|N
+limewater	noun	lime|lime|R|N ; water|water|R|N
+limicoline	adj	limicoline|limicoline|R|Adj
+limicolous	adj	limicolous|limicolous|R|Adj
+liming	noun	lime|lim|R|V ; -ing|ing|S||-ing (N)
+limitary	adj	limit|limit|R|V ; -ary|ary|S
+limitative	adj	limit|limit|R|V ; -ative|ative|S
+limitrophe	adj	limitrophe|limitrophe|R|Adj
+limmer	noun	limmer|limmer|R|N
+limner	noun	limn|limn|R|V ; -er|er|S||-er (N)
+limnetic	adj	limnetic|limnetic|R|Adj
+limnimeter	noun	limnimeter|limnimeter|R|N
+limnologic	adj	limnology|limnolog|R|N ; -ic|ic|S
+limnological	adj	limnology|limnolog|R|N ; -ical|ical|S
+limnologist	noun	limnology|limnolog|R|N ; -ist|ist|S
+limnophilous	adj	limnophilous|limnophilous|R|Adj
+limoncello	noun	limoncello|limoncello|R|N
+limonene	noun	limonene|limonene|R|N
+limonite	noun	limonite|limonite|R|N
+limpidity	noun	limpid|limpid|R|Adj ; -ity|ity|S
+limpidly	adv	limpid|limpid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+limpidness	noun	limpid|limpid|R|Adj ; -ness|ness|S
+limpingly	adv	limp|limp|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+limpkin	noun	limpkin|limpkin|R|N
+limy	adj	lime|lim|R|N ; -y|y|S
+linalool	noun	linalool|linalool|R|N
+linctus	noun	linctus|linctus|R|N
+lindgrenite	noun	lindgrenite|lindgrenite|R|N
+lindworm	noun	lindworm|lindworm|R|N
+lineally	adv	line|line|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+linearization	noun	linear|linear|R|Adj ; -ize|iz|S ; -ation|ation|S
+linearize	verb	linear|linear|R|Adj ; -ize|ize|S
+lineation	noun	line|line|R|N ; -ation|ation|S
+linebreed	verb	line|line|R|N ; breed|breed|R|V
+lines	verb	line|line|R|V ; -s|s|I||-s (3sg)
+lingam	noun	lingam|lingam|R|N
+lingerer	noun	linger|linger|R|V ; -er|er|S||-er (N)
+lingonberry	noun	lingonberry|lingonberry|R|N
+linguicide	noun	linguicide|linguicide|R|N
+linguicism	noun	linguicism|linguicism|R|N
+linguiform	adj	linguiform|linguiform|R|Adj
+linguistician	noun	linguistic|linguistic|R|Adj ; -ian|ian|S
+lingulate	adj	lingulate|lingulate|R|Adj
+lingzhi	noun	lingzhi|lingzhi|R|N
+linkman	noun	link|link|R|N ; man|man|R|N
+linkrot	noun	link|link|R|N ; rot|rot|R|N
+linkup	noun	link|link|R|N ; up|up|R
+linsang	noun	linsang|linsang|R|N
+linstock	noun	linstock|linstock|R|N
+linter	noun	lint|lint|R|N ; -er|er|S||-er (N)
+lioncel	noun	lioncel|lioncel|R|N
+lionet	noun	lionet|lionet|R|N
+lionhearted	adj	lion|lion|R|N ; heart|heart|R|N ; -ed|ed|S||-ed (adj)
+lionism	noun	lion|lion|R|N ; -ism|ism|S
+lionization	noun	lion|lion|R|N ; -ize|iz|S ; -ation|ation|S
+liparite	noun	liparite|liparite|R|N
+lipase	noun	lipase|lipase|R|N
+lipbrush	noun	lip|lip|R|N ; brush|brush|R|N
+lipidic	adj	lipid|lipid|R|N ; -ic|ic|S
+lipin	noun	lipin|lipin|R|N
+liplessness	noun	lip|lip|R|N ; -less|less|S ; -ness|ness|S
+lipogenesis	noun	lipogenesis|lipogenesis|R|N
+lipogram	noun	lipogram|lipogram|R|N
+lipoid	adj	lipoid|lipoid|R|Adj
+lipolysis	noun	lipolysis|lipolysis|R|N
+lipoma	noun	lipoma|lipoma|R|N
+lipomatous	adj	lipoma|lipomat|R|N ; -ous|ous|S
+lipophilicity	noun	lipophilic|lipophilic|R|Adj ; -ity|ity|S
+liposoluble	adj	liposoluble|liposoluble|R|Adj
+lipotropic	adj	lipotropic|lipotropic|R|Adj
+lipotropin	noun	lipotropin|lipotropin|R|N
+lipotropism	noun	lipotropism|lipotropism|R|N
+lipoxygenase	noun	lipoxygenase|lipoxygenase|R|N
+lipread	verb	lip|lip|R|N ; read|read|R|V
+lipreading	noun	lip|lip|R|N ; read|read|R|V ; -ing|ing|S||-ing (N)
+liquate	verb	liquate|liquate|R|V
+liquation	noun	liquate|liquat|R|V ; -ion|ion|S
+liquefacient	adj	liquefacient|liquefacient|R|Adj
+liquefiable	adj	liquefy|liquefi|R|V ; -able|able|S
+liquesce	verb	liquesce|liquesce|R|V
+liquescency	noun	liquescent|liquesc|R|Adj ; -ency|ency|S
+liquescent	adj	liquescent|liquescent|R|Adj
+liquidize	verb	liquid|liquid|R|Adj ; -ize|ize|S
+liquidized	verb	liquid|liquid|R|Adj ; -ize|iz|S ; -ed|ed|I||-ed (v2)
+liquidizer	noun	liquid|liquid|R|Adj ; -ize|iz|S ; -er|er|S||-er (N)
+liquidus	noun	liquidus|liquidus|R|N
+liquified	verb	liquify|liquifi|R|V ; -ed|ed|I||-ed (v2)
+lishenets	noun	lishenets|lishenets|R|N
+lisper	noun	lisp|lisp|R|V ; -er|er|S||-er (N)
+lisping	noun	lisp|lisp|R|V ; -ing|ing|S||-ing (N)
+lispingly	adv	lisp|lisp|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+lissencephaly	noun	lissencephaly|lissencephaly|R|N
+lissom	adj	lissom|lissom|R|Adj
+listel	noun	listel|listel|R|N
+listeria	noun	listeria|listeria|R|N
+listeriosis	noun	listeriosis|listeriosis|R|N
+litas	noun	litas|litas|R|N
+literalist	noun	literal|literal|R|Adj ; -ist|ist|S
+literality	noun	literal|literal|R|Adj ; -ity|ity|S
+literator	noun	literate|literat|R|Adj ; -or|or|S
+litharge	noun	litharge|litharge|R|N
+litheness	noun	lithe|lithe|R|Adj ; -ness|ness|S
+lithesome	adj	lithe|lithe|R|Adj ; -some|some|S
+lithesomeness	noun	lithe|lithe|R|Adj ; -some|some|S ; -ness|ness|S
+lithiasis	noun	lithiasis|lithiasis|R|N
+lithic	adj	lithic|lithic|R|Adj
+lithification	noun	lithify|lithifi|R|V ; -ation|cation|S
+lithistid	adj	lithistid|lithistid|R|Adj
+lithoid	adj	lithoid|lithoid|R|Adj
+lithologist	noun	lithology|litholog|R|N ; -ist|ist|S
+lithology	noun	lithology|lithology|R|N
+lithophyte	noun	lithophyte|lithophyte|R|N
+lithopone	noun	lithopone|lithopone|R|N
+lithoprint	noun	lithoprint|lithoprint|R|N

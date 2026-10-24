@@ -1,0 +1,200 @@
+codicology	noun	codicology|codicology|R|N
+codifier	noun	codify|codifi|R|V ; -er|er|S||-er (N)
+codifying	verb	codify|codify|R|V ; -ing|ing|I||-ing (v)
+codirector	noun	co-|co|P ; direct|direct|R|V ; -or|or|S
+codomain	noun	co-|co|P ; domain|domain|R|N
+codominance	noun	co-|co|P ; dominant|domin|R|Adj ; -ance|ance|S
+codominant	adj	co-|co|P ; dominant|dominant|R|Adj
+codswallop	noun	codswallop|codswallop|R|N
+coeditor	noun	co-|co|P ; edit|edit|R|V ; -or|or|S
+coelacanthous	adj	coelacanth|coelacanth|R|N ; -ous|ous|S
+coelenterate	noun	coelenterate|coelenterate|R|N
+coelenteron	noun	coelenteron|coelenteron|R|N
+coelom	noun	coelom|coelom|R|N
+coelomate	adj	coelom|coelom|R|N ; -ate|ate|S
+coelomic	adj	coelom|coelom|R|N ; -ic|ic|S
+coemption	noun	coemption|coemption|R|N
+coendou	noun	coendou|coendou|R|N
+coenobium	noun	coenobium|coenobium|R|N
+coenocyte	noun	coenocyte|coenocyte|R|N
+coenospecies	noun	coenospecies|coenospecies|R|N
+coenurus	noun	coenurus|coenurus|R|N
+coequal	adj	co-|co|P ; equal|equal|R|Adj
+coequality	noun	coequal|coequal|R|Adj ; -ity|ity|S
+coequally	adv	coequal|coequal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+coercer	noun	coerce|coerc|R|V ; -er|er|S||-er (N)
+coercible	adj	coerce|coerc|R|V ; -ible|ible|S
+coercimeter	noun	coercimeter|coercimeter|R|N
+coercionary	adj	coercion|coercion|R|N ; -ary|ary|S
+coercively	adv	coercive|coercive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+coerciveness	noun	coercive|coercive|R|Adj ; -ness|ness|S
+coercivity	noun	coercive|coerciv|R|Adj ; -ity|ity|S
+coessential	adj	co-|co|P ; essential|essential|R|Adj
+coetaneous	adj	coetaneous|coetaneous|R|Adj
+coeternal	adj	co-|co|P ; eternal|eternal|R|Adj
+coevality	noun	coeval|coeval|R|Adj ; -ity|ity|S
+coevally	adv	coeval|coeval|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+coexecutor	noun	co-|co|P ; execute|execut|R|V ; -or|or|S
+coexecutrix	noun	co-|co|P ; executrix|executrix|R|N
+coffeeman	noun	coffee|coffee|R|N ; man|man|R|N
+coffined	verb	coffin|coffin|R|N ; -ed|ed|I||-ed (v2)
+coffle	noun	coffle|coffle|R|N
+cofibration	noun	cofibration|cofibration|R|N
+cofinal	adj	co-|co|P ; final|final|R|Adj
+coflow	noun	co-|co|P ; flow|flow|R|V
+cofounder	noun	co-|co|P ; found|found|R|V ; -er|er|S||-er (N)
+cofunction	noun	co-|co|P ; function|function|R|N
+cogence	noun	cogent|cog|R|Adj ; -ence|ence|S
+cogitability	noun	cogitate|cogit|R|V ; -able|abil|S ; -ity|ity|S
+cogitable	adj	cogitate|cogit|R|V ; -able|able|S
+cogitative	adj	cogitate|cogit|R|V ; -ative|ative|S
+cogitatively	adv	cogitative|cogitative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cogitativeness	noun	cogitative|cogitative|R|Adj ; -ness|ness|S
+cogitator	noun	cogitate|cogit|R|V ; -or|ator|S
+cogito	noun	cogito|cogito|R|N
+cognation	noun	cognate|cognat|R|N ; -ion|ion|S
+cognitariat	noun	cognitariat|cognitariat|R|N
+cognizably	adv	cognize|cogniz|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+cognize	verb	cognize|cognize|R|V
+cognomen	noun	cognomen|cognomen|R|N
+cognominal	adj	cognomen|cognomin|R|N ; -al|al|S
+cognoscente	noun	cognoscente|cognoscente|R|N
+cognoscible	adj	cognoscible|cognoscible|R|Adj
+cognovit	noun	cognovit|cognovit|R|N
+cogon	noun	cogon|cogon|R|N
+cohabitant	noun	co-|co|P ; habitant|habitant|R|N
+cohabitational	adj	co-|co|P ; habit|habit|R|V ; -ation|ation|S ; -al|al|S
+cohabiter	noun	co-|co|P ; habit|habit|R|V ; -er|er|S||-er (N)
+coheir	noun	co-|co|P ; heir|heir|R|N
+coheiress	noun	coheir|coheir|R|N ; -ess|ess|S
+coheirship	noun	coheir|coheir|R|N ; -ship|ship|S
+coherer	noun	cohere|coher|R|V ; -er|er|S||-er (N)
+coheritor	noun	co-|co|P ; heritor|heritor|R|N
+cohesionless	adj	cohesion|cohesion|R|N ; -less|less|S
+cohesively	adv	cohesive|cohesive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cohobate	verb	cohobate|cohobate|R|V
+cohomology	noun	cohomology|cohomology|R|N
+cohost	noun	co-|co|P ; host|host|R|N
+coideal	noun	co-|co|P ; ideal|ideal|R|Adj
+coiffeur	noun	coiffeur|coiffeur|R|N
+coiffeuse	noun	coiffeuse|coiffeuse|R|N
+coign	noun	coign|coign|R|N
+coiler	noun	coil|coil|R|V ; -er|er|S||-er (N)
+coilgun	noun	coil|coil|R|N ; gun|gun|R|N
+coimage	noun	co-|co|P ; image|image|R|N
+coinable	adj	coin|coin|R|V ; -able|able|S
+coiner	noun	coin|coin|R|V ; -er|er|S||-er (N)
+coining	verb	coin|coin|R|V ; -ing|ing|I||-ing (v)
+coinitial	adj	co-|co|P ; initial|initial|R|Adj
+coinsurance	noun	co-|co|P ; insure|insur|R|V ; -ance|ance|S
+coinsurer	noun	co-|co|P ; insure|insur|R|V ; -er|er|S||-er (N)
+cointegration	noun	co-|co|P ; integrate|integrat|R|V ; -ion|ion|S
+coir	noun	coir|coir|R|N
+coitally	adv	coitus|coit|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+coitarche	noun	coitarche|coitarche|R|N
+coition	noun	coition|coition|R|N
+coitize	verb	coitize|coitize|R|V
+coked	verb	coke|cok|R|N ; -ed|ed|I||-ed (v2)
+coking	verb	coke|cok|R|N ; -ing|ing|I||-ing (v)
+colatitude	noun	co-|co|P ; latitude|latitude|R|N
+colchicine	noun	colchicine|colchicine|R|N
+colchicum	noun	colchicum|colchicum|R|N
+coldish	adj	cold|cold|R|Adj ; -ish|ish|S
+colegislate	verb	co-|co|P ; legislate|legislate|R|V
+colegislator	noun	co-|co|P ; legislate|legislat|R|V ; -or|or|S
+colemanite	noun	colemanite|colemanite|R|N
+coleopteran	noun	coleopteran|coleopteran|R|N
+coleopterist	noun	coleoptera|coleopter|R|N ; -ist|ist|S
+coleopterologist	noun	coleopterologist|coleopterologist|R|N
+coleopterology	noun	coleopterology|coleopterology|R|N
+coleopterous	adj	coleoptera|coleopter|R|N ; -ous|ous|S
+coleoptile	noun	coleoptile|coleoptile|R|N
+colewort	noun	cole|cole|R|N ; wort|wort|R|N
+colingual	adj	co-|co|P ; lingual|lingual|R|Adj
+collaborationism	noun	col-|col|P|||com- ; labor|labor|R|V ; -ation|ation|S ; -ism|ism|S
+collagenic	adj	collagen|collagen|R|N ; -ic|ic|S
+collagist	noun	collage|collag|R|N ; -ist|ist|S
+collapsibility	noun	collapse|collaps|R|V ; -ible|ibil|S ; -ity|ity|S
+collarette	noun	collar|collar|R|N ; -ette|ette|S
+collaring	verb	collar|collar|R|V ; -ing|ing|I||-ing (v)
+collatable	adj	collate|collat|R|V ; -able|able|S
+collaterally	adv	col-|col|P|||com- ; lateral|lateral|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+collator	noun	collate|collat|R|V ; -or|or|S
+colleagueship	noun	colleague|colleague|R|N ; -ship|ship|S
+collectanea	noun	collectanea|collectanea|R|N
+collectedly	adv	collect|collect|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+collectedness	noun	collect|collect|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+collectiveness	noun	collective|collective|R|Adj ; -ness|ness|S
+collectivistically	adv	collective|collectiv|R|Adj ; -ist|ist|S ; -ic|ic|S ; -ly|ally|I|Adv|-ly (adv)
+collectorship	noun	collect|collect|R|V ; -or|or|S ; -ship|ship|S
+collenchyma	noun	collenchyma|collenchyma|R|N
+collenchymatous	adj	collenchymatous|collenchymatous|R|Adj
+colligate	verb	col-|col|P|||com- ; ligate|ligate|R|V
+colligation	noun	col-|col|P|||com- ; ligate|ligat|R|V ; -ion|ion|S
+colligative	adj	col-|col|P|||com- ; ligate|ligat|R|V ; -ive|ive|S
+collinear	adj	col-|col|P|||com- ; linear|linear|R|Adj
+collineation	noun	col-|col|P|||com- ; lineate|lineat|R|Adj ; -ion|ion|S
+colliquation	noun	colliquation|colliquation|R|N
+collisional	adj	collision|collision|R|N ; -al|al|S
+collocate	verb	col-|col|P|||com- ; locate|locate|R|V
+collocational	adj	col-|col|P|||com- ; locate|locat|R|V ; -ion|ion|S ; -al|al|S
+collocutor	noun	col-|col|P|||com- ; locutor|locutor|R|N
+collogue	verb	collogue|collogue|R|V
+colloidally	adv	colloid|colloid|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+collop	noun	collop|collop|R|N
+colloquialness	noun	colloquial|colloquial|R|Adj ; -ness|ness|S
+colloquist	noun	colloquy|colloqu|R|N ; -ist|ist|S
+collotype	noun	collotype|collotype|R|N
+colluder	noun	collude|collud|R|V ; -er|er|S||-er (N)
+collusively	adv	collude|collus|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+collusiveness	noun	collude|collus|R|V ; -ive|ive|S ; -ness|ness|S
+colluvium	noun	colluvium|colluvium|R|N
+collyrium	noun	collyrium|collyrium|R|N
+collywobbles	noun	collywobbles|collywobbles|R|N
+colocolo	noun	colocolo|colocolo|R|N
+colocynth	noun	colocynth|colocynth|R|N
+cologne	noun	cologne|cologne|R|N
+colonelcy	noun	colonel|colonel|R|N ; -cy|cy|S
+colonelship	noun	colonel|colonel|R|N ; -ship|ship|S
+colonially	adv	colonial|colonial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+colonialness	noun	colonial|colonial|R|Adj ; -ness|ness|S
+colonizationist	noun	colonize|coloniz|R|V ; -ation|ation|S ; -ist|ist|S
+colonoscope	noun	colonoscope|colonoscope|R|N
+colonus	noun	colonus|colonus|R|N
+colophon	noun	colophon|colophon|R|N
+colophony	noun	colophony|colophony|R|N
+colorcast	noun	color|color|R|N ; cast|cast|R|V
+colorer	noun	color|color|R|N ; -er|er|S||-er (N)
+colorfast	adj	color|color|R|N ; fast|fast|R|Adj
+colorfulness	noun	color|color|R|N ; -ful|ful|S ; -ness|ness|S
+colorific	adj	color|color|R|N ; -ific|ific|S
+colorimeter	noun	colorimeter|colorimeter|R|N
+colorimetric	adj	colorimetric|colorimetric|R|Adj
+colorimetrically	adv	colorimetric|colorimetric|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+colorimetry	noun	colorimetry|colorimetry|R|N
+colorism	noun	color|color|R|N ; -ism|ism|S
+colorize	verb	color|color|R|N ; -ize|ize|S
+coloscopic	adj	coloscopic|coloscopic|R|Adj
+colossality	noun	colossal|colossal|R|Adj ; -ity|ity|S
+colostral	adj	colostrum|colostr|R|N ; -al|al|S
+colourable	adj	colour|colour|R|N ; -able|able|S
+colours	noun	colour|colour|R|N ; -s|s|I||-s (plural)
+coloury	adj	colour|colour|R|N ; -y|y|S
+colportage	noun	colportage|colportage|R|N
+colporteur	noun	colporteur|colporteur|R|N
+colposcope	noun	colposcope|colposcope|R|N
+coltan	noun	coltan|coltan|R|N
+coltishly	adv	coltish|coltish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+coltishness	noun	coltish|coltish|R|Adj ; -ness|ness|S
+coltsfoot	noun	colt|colts|R|N ; foot|foot|R|N
+colubrid	noun	colubrid|colubrid|R|N
+colugo	noun	colugo|colugo|R|N
+columbiform	adj	columbiform|columbiform|R|Adj
+columbite	noun	columbite|columbite|R|N
+columel	noun	columel|columel|R|N
+columella	noun	columella|columella|R|N
+columniation	noun	column|column|R|N ; -ion|iation|S
+columniform	adj	columniform|columniform|R|Adj
+colure	noun	colure|colure|R|N
+colza	noun	colza|colza|R|N
+comarca	noun	comarca|comarca|R|N

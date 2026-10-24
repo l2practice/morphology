@@ -1,0 +1,200 @@
+rearrange	verb	re-|re|P ; arrange|arrange|R|V
+endoscopic	adj	endoscope|endoscop|R|N ; -ic|ic|S
+nome	noun	nome|nome|R|N
+jagged	adj	jag|jagg|R|V ; -ed|ed|S||-ed (adj)
+counting	noun	count|count|R|V ; -ing|ing|S||-ing (N)
+offline	adj	off|off|R|Adv ; line|line|R|N
+doughnut	noun	dough|dough|R|N ; nut|nut|R|N
+dysfunction	noun	dysfunction|dysfunction|R|N
+hesitant	adj	hesitant|hesitant|R|Adj
+flurry	noun	flurry|flurry|R|N
+sensibly	adv	sensible|sensib|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+clog	verb	clog|clog|R|V
+lapse	verb	lapse|lapse|R|V
+dismal	adj	dismal|dismal|R|Adj
+aggravate	verb	aggravate|aggravate|R|V
+noteworthy	adj	note|note|R|V ; worthy|worthy|R|Adj
+plume	noun	plume|plume|R|N
+paralyse	verb	paralyse|paralyse|R|V
+sweetness	noun	sweet|sweet|R|Adj ; -ness|ness|S
+algae	noun	algae|algae|R|N
+utmost	adj	utmost|utmost|R|Adj
+sloppy	adj	slop|slopp|R|V ; -y|y|S
+obstruct	verb	obstruct|obstruct|R|V
+transcribe	verb	trans-|trans|P ; -scribe|cribe|B|V
+inconvenience	noun	in-|in|P ; convenience|convenience|R|N
+predicament	noun	predicament|predicament|R|N
+sinus	noun	sinus|sinus|R|N
+garnish	verb	garnish|garnish|R|V
+depress	verb	de-|de|P ; press|press|R|V
+override	verb	over-|over|P ; ride|ride|R|V
+notch	noun	notch|notch|R|N
+sealed	adj	seal|seal|R|V ; -ed|ed|S||-ed (adj)
+attentive	adj	attend|attent|R|V ; -ive|ive|S
+humorous	adj	humor|humor|R|N ; -ous|ous|S
+perish	verb	perish|perish|R|V
+hectic	adj	hectic|hectic|R|Adj
+tangled	adj	tangle|tangl|R|V ; -ed|ed|S||-ed (adj)
+emigrate	verb	emigrate|emigrate|R|V
+healer	noun	heal|heal|R|V ; -er|er|S||-er (N)
+dealership	noun	deal|deal|R|V ; -er|er|S||-er (N) ; -ship|ship|S
+blueberry	noun	blue|blue|R|Adj ; berry|berry|R|N
+wasted	adj	waste|wast|R|V ; -ed|ed|S||-ed (adj)
+haste	noun	haste|haste|R|N
+surname	noun	surname|surname|R|N
+exaggerated	adj	exaggerate|exaggerat|R|V ; -ed|ed|S||-ed (adj)
+deflect	verb	deflect|deflect|R|V
+humility	noun	humility|humility|R|N
+unimportant	adj	un-|un|P ; important|important|R|Adj
+televised	adj	televise|televis|R|V ; -ed|ed|S||-ed (adj)
+caffeine	noun	caffeine|caffeine|R|N
+locus	noun	locus|locus|R|N
+stormy	adj	storm|storm|R|N ; -y|y|S
+adamant	adj	adamant|adamant|R|Adj
+anthem	noun	anthem|anthem|R|N
+vanity	noun	vanity|vanity|R|N
+mango	noun	mango|mango|R|N
+bulky	adj	bulk|bulk|R|N ; -y|y|S
+limp	verb	limp|limp|R|V
+motionless	adj	motion|motion|R|N ; -less|less|S
+tickle	verb	tickle|tickle|R|V
+assured	adj	assure|assur|R|V ; -ed|ed|S||-ed (adj)
+biotechnology	noun	biotechnology|biotechnology|R|N
+bony	adj	bone|bon|R|N ; -y|y|S
+meagre	adj	meagre|meagre|R|Adj
+incompetent	adj	in-|in|P ; competent|competent|R|Adj
+scour	verb	scour|scour|R|V
+wizard	noun	wizard|wizard|R|N
+grossly	adv	gross|gross|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+exaggeration	noun	exaggerate|exaggerat|R|V ; -ion|ion|S
+freshwater	noun	fresh|fresh|R|Adj ; water|water|R|N
+traveling	adj	travel|travel|R|V ; -ing|ing|S||-ing (adj)
+billionaire	noun	billionaire|billionaire|R|N
+mistaken	adj	mistake|mistak|R|V ; -en|en|I||-en (participle)
+ludicrous	adj	ludicrous|ludicrous|R|Adj
+compress	verb	com-|com|P|||con- ; press|press|R|V
+irritating	adj	irritate|irritat|R|V ; -ing|ing|S||-ing (adj)
+impart	verb	im-|im|P|||in- ; part|part|R|V
+waterway	noun	water|water|R|N ; way|way|R|N
+forcibly	adv	forcible|forcib|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+skyline	noun	sky|sky|R|N ; line|line|R|N
+lunge	verb	lunge|lunge|R|V
+acutely	adv	acute|acute|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+limiting	adj	limit|limit|R|V ; -ing|ing|S||-ing (adj)
+mortal	adj	mortal|mortal|R|Adj
+ascend	verb	ascend|ascend|R|V
+linked	adj	link|link|R|V ; -ed|ed|S||-ed (adj)
+exceedingly	adv	exceed|exceed|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+ultraviolet	adj	ultraviolet|ultraviolet|R|Adj
+bedding	noun	bed|bedd|R|N ; -ing|ing|S||-ing (N)
+downhill	adv	down|down|R|Adv ; hill|hill|R|N
+perverse	adj	perverse|perverse|R|Adj
+pageant	noun	pageant|pageant|R|N
+gloss	noun	gloss|gloss|R|N
+unwise	adj	un-|un|P ; wise|wise|R|Adj
+realistically	adv	realistic|realistic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+rum	noun	rum|rum|R|N
+alligator	noun	alligator|alligator|R|N
+marginally	adv	marginal|marginal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+overshadow	verb	over-|over|P ; shadow|shadow|R|V
+usefully	adv	useful|useful|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+unhealthy	adj	un-|un|P ; health|health|R|N ; -y|y|S
+repeal	verb	repeal|repeal|R|V
+halo	noun	halo|halo|R|N
+distorted	adj	distort|distort|R|V ; -ed|ed|S||-ed (adj)
+intimately	adv	intimate|intimate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+dignified	adj	dignify|dignifi|R|V ; -ed|ed|S||-ed (adj)
+havoc	noun	havoc|havoc|R|N
+bilingual	adj	bi-|bi|P ; lingual|lingual|R|Adj
+unfit	adj	un-|un|P ; fit|fit|R|Adj
+impossibility	noun	im-|im|P|||in- ; possible|possibil|R|Adj ; -ity|ity|S
+offending	adj	offend|offend|R|V ; -ing|ing|S||-ing (adj)
+chlorine	noun	chlorine|chlorine|R|N
+ingenious	adj	ingenious|ingenious|R|Adj
+sulfur	noun	sulfur|sulfur|R|N
+riches	noun	rich|rich|R|Adj ; -es|es|I||-s (plural)
+poisonous	adj	poison|poison|R|N ; -ous|ous|S
+sane	adj	sane|sane|R|Adj
+robber	noun	rob|robb|R|V ; -er|er|S||-er (N)
+sparse	adj	sparse|sparse|R|Adj
+fore	noun	fore|fore|R|N
+flowing	adj	flow|flow|R|V ; -ing|ing|S||-ing (adj)
+favourably	adv	favourable|favourab|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+excessively	adv	excessive|excessive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+engulf	verb	en-|en|P ; gulf|gulf|R|N
+precarious	adj	precarious|precarious|R|Adj
+unsettle	verb	un-|un|P ; settle|settle|R|V
+hugely	adv	huge|huge|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+mailing	noun	mail|mail|R|V ; -ing|ing|S||-ing (N)
+hindsight	noun	hind|hind|R|Adj ; sight|sight|R|N
+subtly	adv	subtle|subt|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+containment	noun	contain|contain|R|V ; -ment|ment|S
+forceful	adj	force|force|R|N ; -ful|ful|S
+erratic	adj	erratic|erratic|R|Adj
+magnify	verb	magnify|magnify|R|V
+colonist	noun	colony|colon|R|N ; -ist|ist|S
+decency	noun	decency|decency|R|N
+countryman	noun	country|country|R|N ; man|man|R|N
+malpractice	noun	mal-|mal|P ; practice|practice|R|N
+misguided	adj	mis-|mis|P ; guide|guid|R|V ; -ed|ed|S||-ed (adj)
+acquaint	verb	acquaint|acquaint|R|V
+unavoidable	adj	un-|un|P ; avoid|avoid|R|V ; -able|able|S
+thriving	adj	thrive|thriv|R|V ; -ing|ing|S||-ing (adj)
+incarnation	noun	incarnate|incarnat|R|V ; -ion|ion|S
+rot	verb	rot|rot|R|V
+mower	noun	mow|mow|R|V ; -er|er|S||-er (N)
+remotely	adv	remote|remote|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+auditorium	noun	auditorium|auditorium|R|N
+pitfall	noun	pit|pit|R|N ; fall|fall|R|N
+microscopic	adj	microscope|microscop|R|N ; -ic|ic|S
+pessimistic	adj	pessimist|pessimist|R|N ; -ic|ic|S
+incompetence	noun	in-|in|P ; competence|competence|R|N
+poisoning	noun	poison|poison|R|N ; -ing|ing|S||-ing (N)
+distressing	adj	distress|distress|R|V ; -ing|ing|S||-ing (adj)
+juggle	verb	juggle|juggle|R|V
+complexion	noun	complex|complex|R|Adj ; -ion|ion|S
+limousine	noun	limousine|limousine|R|N
+agreeable	adj	agree|agree|R|V ; -able|able|S
+plentiful	adj	plenty|plenti|R|N ; -ful|ful|S
+stern	adj	stern|stern|R|Adj
+defining	adj	define|defin|R|V ; -ing|ing|S||-ing (adj)
+mischief	noun	mischief|mischief|R|N
+lengthen	verb	length|length|R|N ; -en|en|S
+defiance	noun	defy|defi|R|V ; -ance|ance|S
+luminous	adj	luminous|luminous|R|Adj
+unavailable	adj	un-|un|P ; avail|avail|R|V ; -able|able|S
+dustbin	noun	dust|dust|R|N ; bin|bin|R|N
+shear	verb	shear|shear|R|V
+amplify	verb	amplify|amplify|R|V
+lofty	adj	loft|loft|R|N ; -y|y|S
+foyer	noun	foyer|foyer|R|N
+backbone	noun	back|back|R|N ; bone|bone|R|N
+staggering	adj	stagger|stagger|R|V ; -ing|ing|S||-ing (adj)
+modernist	noun	modern|modern|R|Adj ; -ist|ist|S
+snowy	adj	snow|snow|R|N ; -y|y|S
+casket	noun	casket|casket|R|N
+inauguration	noun	inaugurate|inaugurat|R|V ; -ion|ion|S
+troublesome	adj	trouble|trouble|R|N ; -some|some|S
+horrify	verb	horrify|horrify|R|V
+ploy	noun	ploy|ploy|R|N
+devoid	adj	de-|de|P ; void|void|R|Adj
+dryer	noun	dry|dry|R|Adj ; -er|er|S||-er (N)
+whim	noun	whim|whim|R|N
+meager	adj	meager|meager|R|Adj
+powerfully	adv	powerful|powerful|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+seeker	noun	seek|seek|R|V ; -er|er|S||-er (N)
+dent	noun	dent|dent|R|N
+intervening	adj	intervene|interven|R|V ; -ing|ing|S||-ing (adj)
+pollen	noun	pollen|pollen|R|N
+conceivable	adj	con-|con|P ; -ceive|ceiv|B|V ; -able|able|S
+rusty	adj	rust|rust|R|N ; -y|y|S
+terrestrial	adj	terrestrial|terrestrial|R|Adj
+breaking	noun	break|break|R|V ; -ing|ing|S||-ing (N)
+alienation	noun	alienate|alienat|R|V ; -ion|ion|S
+perk	noun	perk|perk|R|N
+feeble	adj	feeble|feeble|R|Adj
+permeate	verb	permeate|permeate|R|V
+defiant	adj	defy|defi|R|V ; -ant|ant|S
+esteem	verb	esteem|esteem|R|V
+conspire	verb	conspire|conspire|R|V
+swollen	adj	swell|swollen|R|V ; -en||I||-en (participle)

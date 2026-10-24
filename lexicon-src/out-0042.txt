@@ -1,0 +1,200 @@
+ore	noun	ore|ore|R|N
+expressly	adv	express|express|R|V ; -ly|ly|I|Adv|-ly (adv)
+systemic	adj	system|system|R|N ; -ic|ic|S
+gourmet	noun	gourmet|gourmet|R|N
+clump	verb	clump|clump|R|V
+stoke	verb	stoke|stoke|R|V
+subdivision	noun	sub-|sub|P ; divide|divi|R|V ; -ion|sion|S
+eerie	adj	eerie|eerie|R|Adj
+retort	verb	retort|retort|R|V
+cycling	noun	cycle|cycl|R|V ; -ing|ing|S||-ing (N)
+nebula	noun	nebula|nebula|R|N
+arrogance	noun	arrogant|arrog|R|Adj ; -ance|ance|S
+aquatic	adj	aquatic|aquatic|R|Adj
+bidder	noun	bid|bid|R|V ; -er|der|S||-er (N)
+disappoint	verb	dis-|dis|P ; appoint|appoint|R|V
+geometric	adj	geometry|geometr|R|N ; -ic|ic|S
+lighter	noun	light|light|R|N ; -er|er|S||-er (N)
+scum	noun	scum|scum|R|N
+addictive	adj	addict|addict|R|V ; -ive|ive|S
+computerised	adj	computerise|computeris|R|V ; -ed|ed|S||-ed (adj)
+startled	adj	startle|startl|R|V ; -ed|ed|S||-ed (adj)
+vapor	noun	vapor|vapor|R|N
+rationality	noun	rational|rational|R|Adj ; -ity|ity|S
+corporal	adj	corporal|corporal|R|Adj
+sage	noun	sage|sage|R|N
+equitable	adj	equity|equit|R|N ; -able|able|S
+kinship	noun	kin|kin|R|N ; -ship|ship|S
+burner	noun	burn|burn|R|V ; -er|er|S||-er (N)
+concerto	noun	concerto|concerto|R|N
+trooper	noun	troop|troop|R|N ; -er|er|S||-er (N)
+aston	noun	aston|aston|R|N
+blush	verb	blush|blush|R|V
+evacuation	noun	evacuate|evacuat|R|V ; -ion|ion|S
+decidedly	adv	decide|decid|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+programmer	noun	program|program|R|V ; -er|mer|S||-er (N)
+carving	noun	carve|carv|R|V ; -ing|ing|S||-ing (N)
+fin	noun	fin|fin|R|N
+hack	verb	hack|hack|R|V
+clamp	verb	clamp|clamp|R|V
+rig	verb	rig|rig|R|V
+irrational	adj	ir-|ir|P|||in- ; rational|rational|R|Adj
+proprietary	adj	proprietor|propriet|R|N ; -ary|ary|S
+occupier	noun	occupy|occupi|R|V ; -er|er|S||-er (N)
+pristine	adj	pristine|pristine|R|Adj
+armored	adj	armor|armor|R|N ; -ed|ed|S||-ed (adj)
+recurrence	noun	recur|recur|R|V ; -ence|rence|S
+patiently	adv	patient|patient|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+determinant	noun	determine|determin|R|V ; -ant|ant|S
+boutique	noun	boutique|boutique|R|N
+growl	verb	growl|growl|R|V
+diver	noun	dive|div|R|V ; -er|er|S||-er (N)
+elector	noun	elect|elect|R|V ; -or|or|S
+alpine	adj	alpine|alpine|R|Adj
+confederation	noun	confederate|confederat|R|V ; -ion|ion|S
+exporter	noun	export|export|R|V ; -er|er|S||-er (N)
+discretionary	adj	discretion|discretion|R|N ; -ary|ary|S
+improper	adj	im-|im|P|||in- ; proper|proper|R|Adj
+bamboo	noun	bamboo|bamboo|R|N
+prosper	verb	prosper|prosper|R|V
+pianist	noun	piano|pian|R|N ; -ist|ist|S
+heartbeat	noun	heart|heart|R|N ; beat|beat|R|V
+interception	noun	intercept|intercept|R|V ; -ion|ion|S
+downward	adv	down|down|R|Adv ; -ward|ward|S
+adaptive	adj	adapt|adapt|R|V ; -ive|ive|S
+warsaw	noun	warsaw|warsaw|R|N
+stainless	adj	stain|stain|R|V ; -less|less|S
+brewer	noun	brew|brew|R|V ; -er|er|S||-er (N)
+divided	adj	divide|divid|R|V ; -ed|ed|S||-ed (adj)
+adventurer	noun	adventure|adventur|R|N ; -er|er|S||-er (N)
+sentimental	adj	sentiment|sentiment|R|N ; -al|al|S
+insecurity	noun	in-|in|P ; secure|secur|R|Adj ; -ity|ity|S
+oxide	noun	oxide|oxide|R|N
+recognizable	adj	recognize|recogniz|R|V ; -able|able|S
+boarding	noun	board|board|R|V ; -ing|ing|S||-ing (N)
+gran	noun	gran|gran|R|N
+citation	noun	cite|cit|R|V ; -ation|ation|S
+inclusive	adj	include|inclu|R|V ; -ive|sive|S
+devaluation	noun	de-|de|P ; value|valu|R|N ; -ation|ation|S
+pilgrimage	noun	pilgrim|pilgrim|R|N ; -age|age|S
+mandy	noun	mandy|mandy|R|N
+monumental	adj	monument|monument|R|N ; -al|al|S
+memorize	verb	memory|memor|R|N ; -ize|ize|S
+upscale	adj	up-|up|P ; scale|scale|R|N
+thyme	noun	thyme|thyme|R|N
+silicon	noun	silicon|silicon|R|N
+syntax	noun	syntax|syntax|R|N
+bugger	noun	bugger|bugger|R|N
+grimly	adv	grim|grim|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+reviewer	noun	review|review|R|V ; -er|er|S||-er (N)
+bourgeoisie	noun	bourgeoisie|bourgeoisie|R|N
+puff	verb	puff|puff|R|V
+snort	verb	snort|snort|R|V
+alga	noun	alga|alga|R|N
+henley	noun	henley|henley|R|N
+pecan	noun	pecan|pecan|R|N
+misunderstand	verb	mis-|mis|P ; under-|under|P ; stand|stand|R|V
+superpower	noun	super-|super|P ; power|power|R|N
+annoying	adj	annoy|annoy|R|V ; -ing|ing|S||-ing (adj)
+genus	noun	genus|genus|R|N
+arse	noun	arse|arse|R|N
+modernity	noun	modern|modern|R|Adj ; -ity|ity|S
+hallmark	noun	hall|hall|R|N ; mark|mark|R|N
+bookseller	noun	book|book|R|N ; sell|sell|R|V ; -er|er|S||-er (N)
+clench	verb	clench|clench|R|V
+cucumber	noun	cucumber|cucumber|R|N
+playing	noun	play|play|R|V ; -ing|ing|S||-ing (N)
+nightclub	noun	night|night|R|N ; club|club|R|N
+piss	verb	piss|piss|R|V
+coldly	adv	cold|cold|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+encode	verb	en-|en|P ; code|code|R|N
+turnaround	noun	turn|turn|R|V ; around|around|R|Adv
+crooked	adj	crook|crook|R|V ; -ed|ed|S||-ed (adj)
+modular	adj	modular|modular|R|Adj
+lava	noun	lava|lava|R|N
+asphalt	noun	asphalt|asphalt|R|N
+impending	adj	impend|impend|R|V ; -ing|ing|S||-ing (adj)
+euro	noun	euro|euro|R|N
+bacterial	adj	bacteria|bacteri|R|N ; -al|al|S
+spear	noun	spear|spear|R|N
+characterization	noun	characterize|characteriz|R|V ; -ation|ation|S
+notation	noun	note|not|R|V ; -ation|ation|S
+weekday	noun	week|week|R|N ; day|day|R|N
+dorm	noun	dorm|dorm|R|N
+validation	noun	validate|validat|R|V ; -ion|ion|S
+selector	noun	select|select|R|V ; -or|or|S
+ledge	noun	ledge|ledge|R|N
+phosphate	noun	phosphate|phosphate|R|N
+glucose	noun	glucose|glucose|R|N
+overtime	noun	over-|over|P ; time|time|R|N
+mediation	noun	mediate|mediat|R|V ; -ion|ion|S
+lifeboat	noun	life|life|R|N ; boat|boat|R|N
+aroma	noun	aroma|aroma|R|N
+impatiently	adv	im-|im|P|||in- ; patient|patient|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+relay	verb	re-|re|P ; lay|lay|R|V
+thwart	verb	thwart|thwart|R|V
+goodnight	interj	good|good|R|Adj ; night|night|R|N
+lexicon	noun	lexicon|lexicon|R|N
+benny	noun	benny|benny|R|N
+stint	noun	stint|stint|R|N
+ye	pron	ye|ye|R
+jog	verb	jog|jog|R|V
+awfully	adv	awe|aw|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+clough	noun	clough|clough|R|N
+amino	adj	amino|amino|R|Adj
+cor	interj	cor|cor|R
+lantern	noun	lantern|lantern|R|N
+fen	noun	fen|fen|R|N
+plateau	noun	plateau|plateau|R|N
+slaughter	verb	slaughter|slaughter|R|V
+cosmetic	adj	cosmetic|cosmetic|R|Adj
+fender	noun	fend|fend|R|V ; -er|er|S||-er (N)
+heroine	noun	heroine|heroine|R|N
+glider	noun	glide|glid|R|V ; -er|er|S||-er (N)
+retrospect	noun	retrospect|retrospect|R|N
+duchy	noun	duchy|duchy|R|N
+trot	verb	trot|trot|R|V
+tsar	noun	tsar|tsar|R|N
+liquidity	noun	liquid|liquid|R|Adj ; -ity|ity|S
+socialize	verb	social|social|R|Adj ; -ize|ize|S
+subsection	noun	sub-|sub|P ; section|section|R|N
+jake	noun	jake|jake|R|N
+mingle	verb	mingle|mingle|R|V
+clubhouse	noun	club|club|R|N ; house|house|R|N
+kohl	noun	kohl|kohl|R|N
+grapple	verb	grapple|grapple|R|V
+floral	adj	floral|floral|R|Adj
+torque	noun	torque|torque|R|N
+imperative	adj	imperative|imperative|R|Adj
+gravitational	adj	gravity|gravit|R|N ; -ation|ation|S ; -al|al|S
+pi	noun	pi|pi|R|N
+heightened	adj	height|height|R|N ; -en|en|S ; -ed|ed|S||-ed (adj)
+winger	noun	wing|wing|R|N ; -er|er|S||-er (N)
+carbonate	verb	carbon|carbon|R|N ; -ate|ate|S
+impoverished	adj	impoverish|impoverish|R|V ; -ed|ed|S||-ed (adj)
+dude	noun	dude|dude|R|N
+respectful	adj	respect|respect|R|V ; -ful|ful|S
+humidity	noun	humid|humid|R|Adj ; -ity|ity|S
+eternity	noun	eternal|etern|R|Adj ; -ity|ity|S
+kylie	noun	kylie|kylie|R|N
+martyr	noun	martyr|martyr|R|N
+keyword	noun	key|key|R|N ; word|word|R|N
+synagogue	noun	synagogue|synagogue|R|N
+midfielder	noun	mid-|mid|P ; field|field|R|N ; -er|er|S||-er (N)
+ominous	adj	ominous|ominous|R|Adj
+distal	adj	distal|distal|R|Adj
+howl	verb	howl|howl|R|V
+pod	noun	pod|pod|R|N
+modernization	noun	modernize|moderniz|R|V ; -ation|ation|S
+antigen	noun	antigen|antigen|R|N
+eligibility	noun	eligible|eligib|R|Adj ; -ity|ility|S
+acting	noun	act|act|R|V ; -ing|ing|S||-ing (N)
+mungo	noun	mungo|mungo|R|N
+peptide	noun	peptide|peptide|R|N
+crane	noun	crane|crane|R|N
+ethanol	noun	ethanol|ethanol|R|N
+vodka	noun	vodka|vodka|R|N
+hype	noun	hype|hype|R|N
+lightweight	adj	light|light|R|Adj ; weight|weight|R|N
+jeopardy	noun	jeopardy|jeopardy|R|N
+vie	verb	vie|vie|R|V

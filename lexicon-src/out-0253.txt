@@ -1,0 +1,200 @@
+congruently	adv	congruent|congruent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+congruously	adv	congruous|congruous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+congruousness	noun	congruous|congruous|R|Adj ; -ness|ness|S
+conicalness	noun	cone|con|R|N ; -ical|ical|S ; -ness|ness|S
+conicity	noun	cone|con|R|N ; -ic|ic|S ; -ity|ity|S
+conicoid	adj	conicoid|conicoid|R|Adj
+conidial	adj	conidium|conidi|R|N ; -al|al|S
+conidiophore	noun	conidiophore|conidiophore|R|N
+conidium	noun	conidium|conidium|R|N
+coniform	adj	coniform|coniform|R|Adj
+conjecturable	adj	conjecture|conjectur|R|V ; -able|able|S
+conjecturably	adv	conjecture|conjectur|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+conjecturally	adv	conjecture|conjectur|R|V ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+conjecturer	noun	conjecture|conjectur|R|V ; -er|er|S||-er (N)
+conjecturing	verb	conjecture|conjectur|R|V ; -ing|ing|I||-ing (v)
+conjoiner	noun	con-|con|P ; join|join|R|V ; -er|er|S||-er (N)
+conjoint	adj	con-|con|P ; joint|joint|R|Adj
+conjugality	noun	conjugal|conjugal|R|Adj ; -ity|ity|S
+conjugally	adv	conjugal|conjugal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+conjugant	noun	conjugate|conjug|R|V ; -ant|ant|S
+conjugately	adv	conjugate|conjugate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+conjugating	verb	conjugate|conjugat|R|V ; -ing|ing|I||-ing (v)
+conjugational	adj	conjugate|conjugat|R|V ; -ion|ion|S ; -al|al|S
+conjugationally	adv	conjugate|conjugat|R|V ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+conjugative	adj	conjugate|conjugat|R|V ; -ive|ive|S
+conjugator	noun	conjugate|conjugat|R|V ; -or|or|S
+conjunct	noun	conjunct|conjunct|R|N
+conjunctional	adj	conjunction|conjunction|R|N ; -al|al|S
+conjunctionally	adv	conjunction|conjunction|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+conjunctively	adv	conjunct|conjunct|R|N ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+conjunctly	adv	conjunct|conjunct|R|N ; -ly|ly|I|Adv|-ly (adv)
+conjury	noun	conjure|conjur|R|V ; -y|y|S
+conkers	noun	conker|conker|R|N ; -s|s|I||-s (plural)
+conky	adj	conk|conk|R|N ; -y|y|S
+conlanger	noun	conlang|conlang|R|N ; -er|er|S||-er (N)
+connascence	noun	con-|con|P ; nascence|nascence|R|N
+connascent	adj	con-|con|P ; nascent|nascent|R|Adj
+connate	adj	connate|connate|R|Adj
+connately	adv	connate|connate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+connateness	noun	connate|connate|R|Adj ; -ness|ness|S
+connatural	adj	con-|con|P ; natural|natural|R|Adj
+connectable	adj	connect|connect|R|V ; -able|able|S
+connectedly	adv	connect|connect|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+connectible	adj	connect|connect|R|V ; -ible|ible|S
+connectional	adj	connect|connect|R|V ; -ion|ion|S ; -al|al|S
+connections	noun	connect|connect|R|V ; -ion|ion|S ; -s|s|I||-s (plural)
+connectively	adv	connect|connect|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+connectome	noun	connectome|connectome|R|N
+conner	noun	con|conn|R|V ; -er|er|S||-er (N)
+connivent	adj	connivent|connivent|R|Adj
+connotate	verb	con-|con|P ; notate|notate|R|V
+connotatively	adv	con-|con|P ; notate|notat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+connoted	verb	con-|con|P ; note|not|R|V ; -ed|ed|I||-ed (v2)
+connubialism	noun	connubial|connubial|R|Adj ; -ism|ism|S
+connubiality	noun	connubial|connubial|R|Adj ; -ity|ity|S
+connubially	adv	connubial|connubial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+conoid	noun	conoid|conoid|R|N
+conoidal	adj	conoid|conoid|R|N ; -al|al|S
+conormal	adj	co-|co|P ; normal|normal|R|Adj
+conpoy	noun	conpoy|conpoy|R|N
+conquerable	adj	conquer|conquer|R|V ; -able|able|S
+conquerableness	noun	conquer|conquer|R|V ; -able|able|S ; -ness|ness|S
+conquerer	noun	conquer|conquer|R|V ; -er|er|S||-er (N)
+cons	noun	con|con|R|N ; -s|s|I||-s (plural)
+consanguine	adj	con-|con|P ; sanguine|sanguine|R|Adj
+consanguineous	adj	con-|con|P ; sanguine|sanguin|R|Adj ; -eous|eous|S
+consanguineously	adv	con-|con|P ; sanguine|sanguin|R|Adj ; -eous|eous|S ; -ly|ly|I|Adv|-ly (adv)
+consanguineousness	noun	con-|con|P ; sanguine|sanguin|R|Adj ; -eous|eous|S ; -ness|ness|S
+consecrative	adj	consecrate|consecrat|R|V ; -ive|ive|S
+consecrator	noun	consecrate|consecrat|R|V ; -or|or|S
+consecratory	adj	consecrate|consecrat|R|V ; -ory|ory|S
+consecution	noun	consecution|consecution|R|N
+consecutiveness	noun	consecutive|consecutive|R|Adj ; -ness|ness|S
+consenescence	noun	consenescence|consenescence|R|N
+consentaneity	noun	consentaneous|consentane|R|Adj ; -ity|ity|S
+consentaneous	adj	consentaneous|consentaneous|R|Adj
+consentaneously	adv	consentaneous|consentaneous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+consented	verb	consent|consent|R|V ; -ed|ed|I||-ed (v2)
+consequences	noun	consequence|consequence|R|N ; -s|s|I||-s (plural)
+consequentialism	noun	consequence|consequenti|R|N ; -al|al|S ; -ism|ism|S
+consequentiality	noun	consequence|consequenti|R|N ; -al|al|S ; -ity|ity|S
+consequentially	adv	consequence|consequenti|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+conservable	adj	conserve|conserv|R|V ; -able|able|S
+conservational	adj	conserve|conserv|R|V ; -ation|ation|S ; -al|al|S
+conservative	adj	conserve|conserv|R|V ; -ative|ative|S
+conservativeness	noun	conserve|conserv|R|V ; -ative|ative|S ; -ness|ness|S
+conservatize	verb	conservatize|conservatize|R|V
+conservatorial	adj	conservator|conservator|R|N ; -ial|ial|S
+conservatorship	noun	conservator|conservator|R|N ; -ship|ship|S
+conserving	verb	conserve|conserv|R|V ; -ing|ing|I||-ing (v)
+consexual	adj	con-|con|P ; sexual|sexual|R|Adj
+considerateness	noun	consider|consider|R|V ; -ate|ate|S ; -ness|ness|S
+considerer	noun	consider|consider|R|V ; -er|er|S||-er (N)
+consignable	adj	consign|consign|R|V ; -able|able|S
+consignation	noun	consign|consign|R|V ; -ation|ation|S
+consigner	noun	consign|consign|R|V ; -er|er|S||-er (N)
+consilience	noun	consilience|consilience|R|N
+consilient	adj	consilient|consilient|R|Adj
+consistence	noun	consist|consist|R|V ; -ence|ence|S
+consistorial	adj	consistory|consistori|R|N ; -al|al|S
+consistory	noun	consistory|consistory|R|N
+consociate	verb	con-|con|P ; sociate|sociate|R|V
+consociation	noun	con-|con|P ; sociate|sociat|R|V ; -ion|ion|S
+consociationalism	noun	con-|con|P ; sociate|sociat|R|V ; -ion|ion|S ; -al|al|S ; -ism|ism|S
+consolable	adj	console|consol|R|V ; -able|able|S
+consolatory	adj	console|consol|R|V ; -ory|atory|S
+consonantal	adj	consonant|consonant|R|N ; -al|al|S
+consonantalize	verb	consonant|consonant|R|N ; -al|al|S ; -ize|ize|S
+consonantally	adv	consonant|consonant|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+consonantly	adv	consonant|consonant|R|N ; -ly|ly|I|Adv|-ly (adv)
+consortial	adj	consortium|consorti|R|N ; -al|al|S
+consortism	noun	consort|consort|R|V ; -ism|ism|S
+conspectus	noun	conspectus|conspectus|R|N
+conspicuity	noun	conspicuous|conspicu|R|Adj ; -ity|ity|S
+conspicuousness	noun	conspicuous|conspicuous|R|Adj ; -ness|ness|S
+conspirant	noun	conspire|conspir|R|V ; -ant|ant|S
+conspiratress	noun	conspire|conspir|R|V ; -ess|atress|S
+conspirer	noun	conspire|conspir|R|V ; -er|er|S||-er (N)
+conspiringly	adv	conspire|conspir|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+conspue	verb	con-|con|P ; spue|spue|R|V
+constableship	noun	constable|constable|R|N ; -ship|ship|S
+constantan	noun	constantan|constantan|R|N
+constellate	verb	con-|con|P ; stellate|stellate|R|V
+constellational	adj	con-|con|P ; stellate|stellat|R|V ; -ion|ion|S ; -al|al|S
+constellatory	adj	con-|con|P ; stellate|stellat|R|V ; -ory|ory|S
+consternate	verb	consternate|consternate|R|V
+consternated	verb	consternate|consternat|R|V ; -ed|ed|I||-ed (v2)
+constituently	adv	constituent|constituent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+constitutionalize	verb	constitute|constituti|R|V ; -ion|on|S ; -al|al|S ; -ize|ize|S
+constitutively	adv	constitute|constitut|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+constitutor	noun	constitute|constitut|R|V ; -or|or|S
+constrainable	adj	constrain|constrain|R|V ; -able|able|S
+constrainedly	adv	constrain|constrain|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+constrainer	noun	constrain|constrain|R|V ; -er|er|S||-er (N)
+constrictively	adv	constrict|constrict|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+constringe	verb	constringe|constringe|R|V
+constringent	adj	constringe|constring|R|V ; -ent|ent|S
+construable	adj	construe|constru|R|V ; -able|able|S
+construal	noun	construe|constru|R|V ; -al|al|S
+constructible	adj	con-|con|P ; -struct|struct|B|V ; -ible|ible|S
+constructing	verb	con-|con|P ; -struct|struct|B|V ; -ing|ing|I||-ing (v)
+constructionally	adv	con-|con|P ; -struct|struct|B|V ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+constructiveness	noun	con-|con|P ; -struct|struct|B|V ; -ive|ive|S ; -ness|ness|S
+construing	verb	construe|constru|R|V ; -ing|ing|I||-ing (v)
+consubstantialism	noun	con-|con|P ; substance|substanti|R|N ; -al|al|S ; -ism|ism|S
+consubstantialist	noun	con-|con|P ; substance|substanti|R|N ; -al|al|S ; -ist|ist|S
+consubstantiality	noun	con-|con|P ; substance|substanti|R|N ; -al|al|S ; -ity|ity|S
+consubstantiate	verb	con-|con|P ; substance|substanti|R|N ; -ate|ate|S
+consubstantiation	noun	con-|con|P ; substance|substanti|R|N ; -ation|ation|S
+consuetude	noun	consuetude|consuetude|R|N
+consuetudinary	adj	consuetude|consuetudin|R|N ; -ary|ary|S
+consulship	noun	consul|consul|R|N ; -ship|ship|S
+consultantship	noun	consult|consult|R|V ; -ant|ant|S ; -ship|ship|S
+consumedly	adv	consume|consum|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+consumeristic	adj	consume|consum|R|V ; -er|er|S||-er (N) ; -ist|ist|S ; -ic|ic|S
+consumership	noun	consume|consum|R|V ; -er|er|S||-er (N) ; -ship|ship|S
+consummative	adj	consummate|consummat|R|V ; -ive|ive|S
+consummator	noun	consummate|consummat|R|V ; -or|or|S
+consumptively	adv	consume|consumpt|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+consumptiveness	noun	consume|consumpt|R|V ; -ive|ive|S ; -ness|ness|S
+contactable	adj	contact|contact|R|V ; -able|able|S
+contactless	adj	contact|contact|R|V ; -less|less|S
+contactor	noun	contact|contact|R|V ; -or|or|S
+contactual	adj	contact|contact|R|V ; -ual|ual|S
+contactually	adv	contact|contact|R|V ; -ual|ual|S ; -ly|ly|I|Adv|-ly (adv)
+contagiously	adv	contagious|contagious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+contagiousness	noun	contagious|contagious|R|Adj ; -ness|ness|S
+containerization	noun	contain|contain|R|V ; -er|er|S||-er (N) ; -ize|iz|S ; -ation|ation|S
+containerize	verb	contain|contain|R|V ; -er|er|S||-er (N) ; -ize|ize|S
+contaminative	adj	contaminate|contaminat|R|V ; -ive|ive|S
+contaminator	noun	contaminate|contaminat|R|V ; -or|or|S
+contango	noun	contango|contango|R|N
+contemn	verb	contemn|contemn|R|V
+contemner	noun	contemn|contemn|R|V ; -er|er|S||-er (N)
+contemplativeness	noun	contemplate|contemplat|R|V ; -ive|ive|S ; -ness|ness|S
+contemplator	noun	contemplate|contemplat|R|V ; -or|or|S
+contemporaneousness	noun	contemporaneous|contemporaneous|R|Adj ; -ness|ness|S
+contemporarily	adv	contemporary|contemporari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+contemporize	verb	contemporary|contempori|R|Adj ; -ize|ze|S
+contemptibility	noun	contempt|contempt|R|N ; -ible|ibil|S ; -ity|ity|S
+contemptibleness	noun	contempt|contempt|R|N ; -ible|ible|S ; -ness|ness|S
+contemptibly	adv	contempt|contempt|R|N ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+contemptuousness	noun	contemptuous|contemptuous|R|Adj ; -ness|ness|S
+contentedness	noun	content|content|R|Adj ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+contenting	verb	content|content|R|V ; -ing|ing|I||-ing (v)
+contentiously	adv	contentious|contentious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+contents	noun	content|content|R|N ; -s|s|I||-s (plural)
+contentwise	adv	content|content|R|N ; -wise|wise|S
+conterminal	adj	con-|con|P ; terminal|terminal|R|Adj
+contester	noun	contest|contest|R|V ; -er|er|S||-er (N)
+contextural	adj	contexture|contextur|R|N ; -al|al|S
+contexture	noun	context|context|R|N ; -ure|ure|S
+contiguously	adv	contiguous|contiguous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+contiguousness	noun	contiguous|contiguous|R|Adj ; -ness|ness|S
+continentalism	noun	continent|continent|R|N ; -al|al|S ; -ism|ism|S
+continentalist	noun	continent|continent|R|N ; -al|al|S ; -ist|ist|S
+continentality	noun	continent|continent|R|N ; -al|al|S ; -ity|ity|S
+continentally	adv	continent|continent|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+continently	adv	continent|continent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+continuable	adj	continue|continu|R|V ; -able|able|S

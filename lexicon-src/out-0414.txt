@@ -1,0 +1,200 @@
+unpained	adj	un-|un|P ; pain|pain|R|N ; -ed|ed|S||-ed (adj)
+unpainful	adj	un-|un|P ; pain|pain|R|N ; -ful|ful|S
+unpalatability	noun	un-|un|P ; palate|palat|R|N ; -able|abil|S ; -ity|ity|S
+unpalatableness	noun	un-|un|P ; palate|palat|R|N ; -able|able|S ; -ness|ness|S
+unpalatably	adv	un-|un|P ; palate|palat|R|N ; -able|abl|S ; -ly|y|I||-ly (adv)
+unpampered	adj	un-|un|P ; pamper|pamper|R|V ; -ed|ed|S||-ed (adj)
+unpapered	adj	un-|un|P ; paper|paper|R|N ; -ed|ed|S||-ed (adj)
+unparalyzed	adj	un-|un|P ; paralyze|paralyz|R|V ; -ed|ed|S||-ed (adj)
+unpardonableness	noun	un-|un|P ; pardon|pardon|R|V ; -able|able|S ; -ness|ness|S
+unpardoned	adj	un-|un|P ; pardon|pardon|R|V ; -ed|ed|S||-ed (adj)
+unpardoning	adj	un-|un|P ; pardon|pardon|R|V ; -ing|ing|S||-ing (adj)
+unpared	adj	un-|un|P ; pare|par|R|V ; -ed|ed|S||-ed (adj)
+unparental	adj	un-|un|P ; parent|parent|R|N ; -al|al|S
+unparented	adj	un-|un|P ; parent|parent|R|N ; -ed|ed|S||-ed (adj)
+unparenthesized	adj	un-|un|P ; parenthesize|parenthesiz|R|V ; -ed|ed|S||-ed (adj)
+unparished	adj	un-|un|P ; parish|parish|R|N ; -ed|ed|S||-ed (adj)
+unpark	verb	un-|un|P ; park|park|R|V
+unparliamentary	adj	un-|un|P ; parliament|parliament|R|N ; -ary|ary|S
+unparted	adj	un-|un|P ; part|part|R|V ; -ed|ed|S||-ed (adj)
+unparticipated	adj	un-|un|P ; participate|participat|R|V ; -ed|ed|S||-ed (adj)
+unpassable	adj	un-|un|P ; pass|pass|R|V ; -able|able|S
+unpassionate	adj	un-|un|P ; passion|passion|R|N ; -ate|ate|S
+unpatented	adj	un-|un|P ; patent|patent|R|V ; -ed|ed|S||-ed (adj)
+unpathed	adj	un-|un|P ; path|path|R|N ; -ed|ed|S||-ed (adj)
+unpatronized	adj	un-|un|P ; patronize|patroniz|R|V ; -ed|ed|S||-ed (adj)
+unpatterned	adj	un-|un|P ; pattern|pattern|R|N ; -ed|ed|S||-ed (adj)
+unpausable	adj	un-|un|P ; pause|paus|R|V ; -able|able|S
+unpausing	adj	un-|un|P ; pause|paus|R|V ; -ing|ing|S||-ing (adj)
+unpawned	adj	un-|un|P ; pawn|pawn|R|V ; -ed|ed|S||-ed (adj)
+unpayable	adj	un-|un|P ; pay|pay|R|V ; -able|able|S
+unpeaceful	adj	un-|un|P ; peace|peace|R|N ; -ful|ful|S
+unpedantic	adj	un-|un|P ; pedantic|pedantic|R|Adj
+unpedestal	verb	un-|un|P ; pedestal|pedestal|R|N
+unpedigreed	adj	un-|un|P ; pedigree|pedigree|R|N ; -ed|d|S||-ed (adj)
+unpeg	verb	un-|un|P ; peg|peg|R|V
+unpen	verb	un-|un|P ; pen|pen|R|V
+unpenetrable	adj	un-|un|P ; penetrate|penetr|R|V ; -able|able|S
+unpensioned	adj	un-|un|P ; pension|pension|R|N ; -ed|ed|S||-ed (adj)
+unpent	adj	un-|un|P ; pent|pent|R|Adj
+unpeople	verb	un-|un|P ; people|people|R|N
+unperceivable	adj	un-|un|P ; per-|per|P ; -ceive|ceiv|B|V ; -able|able|S
+unperch	verb	un-|un|P ; perch|perch|R|V
+unperfected	adj	un-|un|P ; perfect|perfect|R|V ; -ed|ed|S||-ed (adj)
+unperforated	adj	un-|un|P ; perforate|perforat|R|V ; -ed|ed|S||-ed (adj)
+unperformable	adj	un-|un|P ; perform|perform|R|V ; -able|able|S
+unperformed	adj	un-|un|P ; perform|perform|R|V ; -ed|ed|S||-ed (adj)
+unperilous	adj	un-|un|P ; peril|peril|R|N ; -ous|ous|S
+unperished	adj	un-|un|P ; perish|perish|R|V ; -ed|ed|S||-ed (adj)
+unperishing	adj	un-|un|P ; perish|perish|R|V ; -ing|ing|S||-ing (adj)
+unperjured	adj	un-|un|P ; perjure|perjur|R|V ; -ed|ed|S||-ed (adj)
+unpermanent	adj	un-|un|P ; permanent|permanent|R|Adj
+unpermitted	adj	un-|un|P ; permit|permitt|R|V ; -ed|ed|S||-ed (adj)
+unperplexed	adj	un-|un|P ; perplex|perplex|R|V ; -ed|ed|S||-ed (adj)
+unpersevering	adj	un-|un|P ; persevere|persever|R|V ; -ing|ing|S||-ing (adj)
+unperson	noun	un-|un|P ; person|person|R|N
+unpersuaded	adj	un-|un|P ; persuade|persuad|R|V ; -ed|ed|S||-ed (adj)
+unperturbable	adj	un-|un|P ; perturb|perturb|R|V ; -able|able|S
+unperused	adj	un-|un|P ; peruse|perus|R|V ; -ed|ed|S||-ed (adj)
+unphilosophic	adj	un-|un|P ; philosophy|philosoph|R|N ; -ic|ic|S
+unphilosophical	adj	un-|un|P ; philosophy|philosoph|R|N ; -ical|ical|S
+unphilosophicalness	noun	un-|un|P ; philosophy|philosoph|R|N ; -ical|ical|S ; -ness|ness|S
+unphonetic	adj	un-|un|P ; phonetic|phonetic|R|Adj
+unphotogenic	adj	un-|un|P ; photogenic|photogenic|R|Adj
+unphotographed	adj	un-|un|P ; photograph|photograph|R|V ; -ed|ed|S||-ed (adj)
+unphrased	adj	un-|un|P ; phrase|phras|R|V ; -ed|ed|S||-ed (adj)
+unphysical	adj	un-|un|P ; physical|physical|R|Adj
+unpicking	verb	un-|un|P ; pick|pick|R|V ; -ing|ing|I||-ing (v)
+unpicturesque	adj	un-|un|P ; picturesque|picturesque|R|Adj
+unpierced	adj	un-|un|P ; pierce|pierc|R|V ; -ed|ed|S||-ed (adj)
+unpile	verb	un-|un|P ; pile|pile|R|V
+unpiloted	adj	un-|un|P ; pilot|pilot|R|V ; -ed|ed|S||-ed (adj)
+unpin	verb	un-|un|P ; pin|pin|R|V
+unpinned	adj	un-|un|P ; pin|pinn|R|V ; -ed|ed|S||-ed (adj)
+unpinning	verb	un-|un|P ; pin|pinn|R|V ; -ing|ing|I||-ing (v)
+unpitied	adj	un-|un|P ; pity|piti|R|V ; -ed|ed|S||-ed (adj)
+unpitying	adj	un-|un|P ; pity|pity|R|V ; -ing|ing|S||-ing (adj)
+unplagued	adj	un-|un|P ; plague|plagu|R|V ; -ed|ed|S||-ed (adj)
+unplait	verb	un-|un|P ; plait|plait|R|V
+unplaited	adj	un-|un|P ; plait|plait|R|V ; -ed|ed|S||-ed (adj)
+unplaned	adj	un-|un|P ; plane|plan|R|V ; -ed|ed|S||-ed (adj)
+unplant	verb	un-|un|P ; plant|plant|R|V
+unplantable	adj	un-|un|P ; plant|plant|R|V ; -able|able|S
+unplanted	adj	un-|un|P ; plant|plant|R|V ; -ed|ed|S||-ed (adj)
+unplastered	adj	un-|un|P ; plaster|plaster|R|V ; -ed|ed|S||-ed (adj)
+unplastic	adj	un-|un|P ; plastic|plastic|R|Adj
+unplated	adj	un-|un|P ; plate|plat|R|V ; -ed|ed|S||-ed (adj)
+unplausible	adj	un-|un|P ; plausible|plausible|R|Adj
+unpleased	adj	un-|un|P ; please|pleas|R|V ; -ed|ed|S||-ed (adj)
+unpleasingness	noun	un-|un|P ; please|pleas|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unpleated	adj	un-|un|P ; pleat|pleat|R|V ; -ed|ed|S||-ed (adj)
+unpledged	adj	un-|un|P ; pledge|pledg|R|V ; -ed|ed|S||-ed (adj)
+unpliable	adj	un-|un|P ; ply|pli|R|V ; -able|able|S
+unpliant	adj	un-|un|P ; ply|pli|R|V ; -ant|ant|S
+unploughed	adj	un-|un|P ; plough|plough|R|V ; -ed|ed|S||-ed (adj)
+unplucked	adj	un-|un|P ; pluck|pluck|R|V ; -ed|ed|S||-ed (adj)
+unplugging	verb	un-|un|P ; plug|plugg|R|V ; -ing|ing|I||-ing (v)
+unplumbed	adj	un-|un|P ; plumb|plumb|R|V ; -ed|ed|S||-ed (adj)
+unplundered	adj	un-|un|P ; plunder|plunder|R|V ; -ed|ed|S||-ed (adj)
+unpoetic	adj	un-|un|P ; poet|poet|R|N ; -ic|ic|S
+unpoetical	adj	un-|un|P ; poet|poet|R|N ; -ical|ical|S
+unpoeticalness	noun	un-|un|P ; poet|poet|R|N ; -ical|ical|S ; -ness|ness|S
+unpointed	adj	un-|un|P ; point|point|R|V ; -ed|ed|S||-ed (adj)
+unpoised	adj	un-|un|P ; poise|pois|R|V ; -ed|ed|S||-ed (adj)
+unpoisoned	adj	un-|un|P ; poison|poison|R|V ; -ed|ed|S||-ed (adj)
+unpolarized	adj	un-|un|P ; polarize|polariz|R|V ; -ed|ed|S||-ed (adj)
+unpoliced	adj	un-|un|P ; police|polic|R|V ; -ed|ed|S||-ed (adj)
+unpolite	adj	un-|un|P ; polite|polite|R|Adj
+unpoliteness	noun	un-|un|P ; polite|polite|R|Adj ; -ness|ness|S
+unpolitic	adj	un-|un|P ; politic|politic|R|Adj
+unpolled	adj	un-|un|P ; poll|poll|R|V ; -ed|ed|S||-ed (adj)
+unpollinated	adj	un-|un|P ; pollinate|pollinat|R|V ; -ed|ed|S||-ed (adj)
+unpolymerized	adj	un-|un|P ; polymerize|polymeriz|R|V ; -ed|ed|S||-ed (adj)
+unportioned	adj	un-|un|P ; portion|portion|R|N ; -ed|ed|S||-ed (adj)
+unposed	adj	un-|un|P ; pose|pos|R|V ; -ed|ed|S||-ed (adj)
+unpossessed	adj	un-|un|P ; possess|possess|R|V ; -ed|ed|S||-ed (adj)
+unpossessing	adj	un-|un|P ; possess|possess|R|V ; -ing|ing|S||-ing (adj)
+unposted	adj	un-|un|P ; post|post|R|V ; -ed|ed|S||-ed (adj)
+unpowered	adj	un-|un|P ; power|power|R|N ; -ed|ed|S||-ed (adj)
+unpowerful	adj	un-|un|P ; power|power|R|N ; -ful|ful|S
+unpowerfulness	noun	un-|un|P ; power|power|R|N ; -ful|ful|S ; -ness|ness|S
+unpracticality	noun	un-|un|P ; practice|practic|R|V ; -al|al|S ; -ity|ity|S
+unpraised	adj	un-|un|P ; praise|prais|R|V ; -ed|ed|S||-ed (adj)
+unprecarious	adj	un-|un|P ; precarious|precarious|R|Adj
+unprecise	adj	un-|un|P ; precise|precise|R|Adj
+unprefaced	adj	un-|un|P ; preface|prefac|R|V ; -ed|ed|S||-ed (adj)
+unprelatical	adj	un-|un|P ; prelate|prelat|R|N ; -ical|ical|S
+unpremeditatedly	adv	un-|un|P ; premeditate|premeditat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unpreoccupied	adj	un-|un|P ; pre-|pre|P ; occupy|occupi|R|V ; -ed|ed|S||-ed (adj)
+unpreparation	noun	un-|un|P ; prepare|prepar|R|V ; -ation|ation|S
+unpreparedly	adv	un-|un|P ; prepare|prepar|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unprepossessed	adj	un-|un|P ; prepossess|prepossess|R|V ; -ed|ed|S||-ed (adj)
+unprepossessingly	adv	un-|un|P ; prepossess|prepossess|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unprescribed	adj	un-|un|P ; prescribe|prescrib|R|V ; -ed|ed|S||-ed (adj)
+unpresentable	adj	un-|un|P ; present|present|R|V ; -able|able|S
+unpreservable	adj	un-|un|P ; preserve|preserv|R|V ; -able|able|S
+unpreserved	adj	un-|un|P ; preserve|preserv|R|V ; -ed|ed|S||-ed (adj)
+unpressed	adj	un-|un|P ; press|press|R|V ; -ed|ed|S||-ed (adj)
+unpressured	adj	un-|un|P ; pressure|pressur|R|N ; -ed|ed|S||-ed (adj)
+unpresuming	adj	un-|un|P ; presume|presum|R|V ; -ing|ing|S||-ing (adj)
+unpresumptuous	adj	un-|un|P ; presumptuous|presumptuous|R|Adj
+unpretending	adj	un-|un|P ; pretend|pretend|R|V ; -ing|ing|S||-ing (adj)
+unpretentiously	adv	un-|un|P ; pretentious|pretentious|R|Adj ; -ly|ly|I||-ly (adv)
+unpretentiousness	noun	un-|un|P ; pretentious|pretentious|R|Adj ; -ness|ness|S
+unpretty	adj	un-|un|P ; pretty|pretty|R|Adj
+unprevailing	adj	un-|un|P ; prevail|prevail|R|V ; -ing|ing|S||-ing (adj)
+unpreventable	adj	un-|un|P ; prevent|prevent|R|V ; -able|able|S
+unpriced	adj	un-|un|P ; price|pric|R|V ; -ed|ed|S||-ed (adj)
+unpriestly	adj	un-|un|P ; priest|priest|R|N ; -ly|ly|S||-ly (adj)
+unprincely	adj	un-|un|P ; prince|prince|R|N ; -ly|ly|S||-ly (adj)
+unprincipledness	noun	un-|un|P ; principle|principl|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unprinted	adj	un-|un|P ; print|print|R|V ; -ed|ed|S||-ed (adj)
+unprivileged	adj	un-|un|P ; privilege|privileg|R|N ; -ed|ed|S||-ed (adj)
+unprized	adj	un-|un|P ; prize|priz|R|V ; -ed|ed|S||-ed (adj)
+unprobed	adj	un-|un|P ; probe|prob|R|V ; -ed|ed|S||-ed (adj)
+unproclaimed	adj	un-|un|P ; proclaim|proclaim|R|V ; -ed|ed|S||-ed (adj)
+unprocurable	adj	un-|un|P ; procure|procur|R|V ; -able|able|S
+unproductively	adv	un-|un|P ; product|product|R|N ; -ive|ive|S ; -ly|ly|I||-ly (adv)
+unproductiveness	noun	un-|un|P ; product|product|R|N ; -ive|ive|S ; -ness|ness|S
+unprofaned	adj	un-|un|P ; profane|profan|R|V ; -ed|ed|S||-ed (adj)
+unprofessed	adj	un-|un|P ; profess|profess|R|V ; -ed|ed|S||-ed (adj)
+unprofessionalism	noun	un-|un|P ; profession|profession|R|N ; -al|al|S ; -ism|ism|S
+unprofitability	noun	un-|un|P ; profit|profit|R|N ; -able|abil|S ; -ity|ity|S
+unprofitableness	noun	un-|un|P ; profit|profit|R|N ; -able|able|S ; -ness|ness|S
+unprofitably	adv	un-|un|P ; profit|profit|R|N ; -able|abl|S ; -ly|y|I||-ly (adv)
+unprogrammable	adj	un-|un|P ; program|programm|R|V ; -able|able|S
+unprogrammed	adj	un-|un|P ; program|programm|R|V ; -ed|ed|S||-ed (adj)
+unprogressive	adj	un-|un|P ; progress|progress|R|V ; -ive|ive|S
+unprohibited	adj	un-|un|P ; prohibit|prohibit|R|V ; -ed|ed|S||-ed (adj)
+unprolific	adj	un-|un|P ; prolific|prolific|R|Adj
+unpromisingly	adv	un-|un|P ; promise|promis|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unpromulgated	adj	un-|un|P ; promulgate|promulgat|R|V ; -ed|ed|S||-ed (adj)
+unpronounced	adj	un-|un|P ; pronounce|pronounc|R|V ; -ed|ed|S||-ed (adj)
+unprop	verb	un-|un|P ; prop|prop|R|V
+unpropagated	adj	un-|un|P ; propagate|propagat|R|V ; -ed|ed|S||-ed (adj)
+unproper	adj	un-|un|P ; proper|proper|R|Adj
+unpropertied	adj	un-|un|P ; property|properti|R|N ; -ed|ed|S||-ed (adj)
+unprophetic	adj	un-|un|P ; prophet|prophet|R|N ; -ic|ic|S
+unprophetical	adj	un-|un|P ; prophet|prophet|R|N ; -ical|ical|S
+unpropitiously	adv	un-|un|P ; propitious|propitious|R|Adj ; -ly|ly|I||-ly (adv)
+unpropitiousness	noun	un-|un|P ; propitious|propitious|R|Adj ; -ness|ness|S
+unproportional	adj	un-|un|P ; proportion|proportion|R|N ; -al|al|S
+unproportionate	adj	un-|un|P ; proportion|proportion|R|N ; -ate|ate|S
+unproportioned	adj	un-|un|P ; proportion|proportion|R|N ; -ed|ed|S||-ed (adj)
+unproposed	adj	un-|un|P ; propose|propos|R|V ; -ed|ed|S||-ed (adj)
+unpropped	adj	un-|un|P ; prop|propp|R|V ; -ed|ed|S||-ed (adj)
+unprosperous	adj	un-|un|P ; prosper|prosper|R|V ; -ous|ous|S
+unprosperousness	noun	un-|un|P ; prosper|prosper|R|V ; -ous|ous|S ; -ness|ness|S
+unprotested	adj	un-|un|P ; protest|protest|R|V ; -ed|ed|S||-ed (adj)
+unprotesting	adj	un-|un|P ; protest|protest|R|V ; -ing|ing|S||-ing (adj)
+unprovenanced	adj	un-|un|P ; provenance|provenance|R|N ; -ed|d|S||-ed (adj)
+unprovided	adj	un-|un|P ; provide|provid|R|V ; -ed|ed|S||-ed (adj)
+unpunctual	adj	un-|un|P ; punctual|punctual|R|Adj
+unpunctuality	noun	un-|un|P ; punctual|punctual|R|Adj ; -ity|ity|S
+unpunctuated	adj	un-|un|P ; punctuate|punctuat|R|V ; -ed|ed|S||-ed (adj)
+unpunishable	adj	un-|un|P ; punish|punish|R|V ; -able|able|S
+unpurchasable	adj	un-|un|P ; purchase|purchas|R|V ; -able|able|S
+unpurchaseable	adj	un-|un|P ; purchase|purchase|R|V ; -able|able|S
+unpurchased	adj	un-|un|P ; purchase|purchas|R|V ; -ed|ed|S||-ed (adj)
+unpure	adj	un-|un|P ; pure|pure|R|Adj
+unpurified	adj	un-|un|P ; purify|purifi|R|V ; -ed|ed|S||-ed (adj)

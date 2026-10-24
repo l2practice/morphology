@@ -1,0 +1,200 @@
+drillhole	noun	drill|drill|R|V ; hole|hole|R|N
+drinkability	noun	drink|drink|R|V ; -able|abil|S ; -ity|ity|S
+drinks	noun	drink|drink|R|V ; -s|s|I||-s (plural)
+dripstone	noun	drip|drip|R|V ; stone|stone|R|N
+driveller	noun	drivel|drivell|R|V ; -er|er|S||-er (N)
+drivelling	verb	drivel|drivell|R|V ; -ing|ing|I||-ing (v)
+drogher	noun	drogher|drogher|R|N
+drollness	noun	droll|droll|R|Adj ; -ness|ness|S
+droningly	adv	drone|dron|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+drooped	verb	droop|droop|R|V ; -ed|ed|I||-ed (v2)
+dropdown	noun	drop|drop|R|V ; down|down|R|Adv
+dropseed	noun	drop|drop|R|N ; seed|seed|R|N
+dropsical	adj	dropsy|drops|R|N ; -ical|ical|S
+dropwise	adv	drop|drop|R|N ; -wise|wise|S
+dropwort	noun	drop|drop|R|N ; wort|wort|R|N
+dropzone	noun	drop|drop|R|V ; zone|zone|R|N
+drosera	noun	drosera|drosera|R|N
+droshky	noun	droshky|droshky|R|N
+drosometer	noun	drosometer|drosometer|R|N
+drossy	adj	dross|dross|R|N ; -y|y|S
+droughty	adj	drought|drought|R|N ; -y|y|S
+drouthy	adj	drouth|drouth|R|N ; -y|y|S
+droveway	noun	drove|drove|R|N ; way|way|R|N
+drow	noun	drow|drow|R|N
+drowner	noun	drown|drown|R|V ; -er|er|S||-er (N)
+drowsing	verb	drowse|drows|R|V ; -ing|ing|I||-ing (v)
+drudging	verb	drudge|drudg|R|V ; -ing|ing|I||-ing (v)
+drudgingly	adv	drudge|drudg|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+drugget	noun	drugget|drugget|R|N
+drugging	verb	drug|drugg|R|V ; -ing|ing|I||-ing (v)
+druglord	noun	drug|drug|R|N ; lord|lord|R|N
+druidess	noun	druid|druid|R|N ; -ess|ess|S
+druidic	adj	druid|druid|R|N ; -ic|ic|S
+druidism	noun	druid|druid|R|N ; -ism|ism|S
+drumfire	noun	drum|drum|R|N ; fire|fire|R|N
+drumfish	noun	drum|drum|R|N ; fish|fish|R|N
+drumlin	noun	drumlin|drumlin|R|N
+drunkometer	noun	drunkometer|drunkometer|R|N
+drupaceous	adj	drupaceous|drupaceous|R|Adj
+drupe	noun	drupe|drupe|R|N
+drupelet	noun	drupe|drupe|R|N ; -let|let|S
+druse	noun	druse|druse|R|N
+dryadic	adj	dryad|dryad|R|N ; -ic|ic|S
+dryasdust	noun	dryasdust|dryasdust|R|N
+drydock	noun	dry|dry|R|Adj ; dock|dock|R|N
+dryopithecine	noun	dryopithecine|dryopithecine|R|N
+drypoint	noun	dry|dry|R|Adj ; point|point|R|N
+drysuit	noun	dry|dry|R|Adj ; suit|suit|R|N
+dualize	verb	dual|dual|R|Adj ; -ize|ize|S
+duarchy	noun	duarchy|duarchy|R|N
+duathlon	noun	duathlon|duathlon|R|N
+dubbed	verb	dub|dubb|R|V ; -ed|ed|I||-ed (v2)
+dubber	noun	dub|dubb|R|V ; -er|er|S||-er (N)
+dubbin	noun	dubbin|dubbin|R|N
+dubiety	noun	dubiety|dubiety|R|N
+dubiousness	noun	dubious|dubious|R|Adj ; -ness|ness|S
+dubitable	adj	dubitable|dubitable|R|Adj
+dubitate	verb	dubitate|dubitate|R|V
+dubitation	noun	dubitation|dubitation|R|N
+dubitative	adj	dubitative|dubitative|R|Adj
+dubnium	noun	dubnium|dubnium|R|N
+dubplate	noun	dub|dub|R|V ; plate|plate|R|N
+dubs	noun	dub|dub|R|V ; -s|s|I||-s (plural)
+dubstep	noun	dub|dub|R|V ; step|step|R|N
+duce	noun	duce|duce|R|N
+ducker	noun	duck|duck|R|V ; -er|er|S||-er (N)
+ducket	noun	ducket|ducket|R|N
+duckface	noun	duck|duck|R|N ; face|face|R|N
+duckpond	noun	duck|duck|R|N ; pond|pond|R|N
+ducks	noun	duck|duck|R|N ; -s|s|I||-s (plural)
+duckspeak	noun	duck|duck|R|N ; speak|speak|R|V
+ducktail	noun	duck|duck|R|N ; tail|tail|R|N
+ducting	noun	duct|duct|R|N ; -ing|ing|S||-ing (N)
+ductless	adj	duct|duct|R|N ; -less|less|S
+ductule	noun	ductule|ductule|R|N
+ductus	noun	ductus|ductus|R|N
+dudeen	noun	dudeen|dudeen|R|N
+dudette	noun	dude|dud|R|N ; -ette|ette|S
+dudish	adj	dud|dud|R|N ; -ish|ish|S
+dudou	noun	dudou|dudou|R|N
+duds	noun	dud|dud|R|N ; -s|s|I||-s (plural)
+duduk	noun	duduk|duduk|R|N
+duebill	noun	due|due|R|Adj ; bill|bill|R|N
+duenna	noun	duenna|duenna|R|N
+duettist	noun	duet|duett|R|N ; -ist|ist|S
+dugong	noun	dugong|dugong|R|N
+duh	interj	duh|duh|R
+duilian	noun	duilian|duilian|R|N
+dukeling	noun	duke|duke|R|N ; -ling|ling|S
+dukhan	noun	dukhan|dukhan|R|N
+dukkah	noun	dukkah|dukkah|R|N
+dukkha	noun	dukkha|dukkha|R|N
+dulcet	adj	dulcet|dulcet|R|Adj
+dulcification	noun	dulcify|dulcifi|R|V ; -ation|cation|S
+dulcify	verb	dulcify|dulcify|R|V
+dulling	verb	dull|dull|R|V ; -ing|ing|I||-ing (v)
+dullish	adj	dull|dull|R|Adj ; -ish|ish|S
+dulosis	noun	dulosis|dulosis|R|N
+dulse	noun	dulse|dulse|R|N
+duma	noun	duma|duma|R|N
+dumbcane	noun	dumb|dumb|R|Adj ; cane|cane|R|N
+dumbed	verb	dumb|dumb|R|Adj ; -ed|ed|I||-ed (v2)
+dumbfounding	verb	dumb|dumb|R|Adj ; found|found|R|V ; -ing|ing|I||-ing (v)
+dumbfuck	noun	dumb|dumb|R|Adj ; fuck|fuck|R|V
+dumbhead	noun	dumb|dumb|R|Adj ; head|head|R|N
+dumbphone	noun	dumb|dumb|R|Adj ; phone|phone|R|N
+dumdum	noun	dumdum|dumdum|R|N
+dummkopf	noun	dummkopf|dummkopf|R|N
+dumortierite	noun	dumortierite|dumortierite|R|N
+dumpiness	noun	dumpy|dumpi|R|Adj ; -ness|ness|S
+dumpish	adj	dump|dump|R|V ; -ish|ish|S
+dunch	noun	dunch|dunch|R|N
+dunderheaded	adj	dunder|dunder|R|N ; head|head|R|N ; -ed|ed|S||-ed (adj)
+duneland	noun	dune|dune|R|N ; land|land|R|N
+dunelike	adj	dune|dune|R|N ; -like|like|S
+dungarees	noun	dungaree|dungaree|R|N ; -s|s|I||-s (plural)
+dungy	adj	dung|dung|R|N ; -y|y|S
+dunks	noun	dunk|dunk|R|N ; -s|s|I||-s (plural)
+dunnage	noun	dunnage|dunnage|R|N
+dunner	noun	dun|dunn|R|V ; -er|er|S||-er (N)
+dunnock	noun	dunnock|dunnock|R|N
+duodecillion	noun	duo|duo|R|N ; decillion|decillion|R|N
+duodecimal	adj	duo|duo|R|N ; decimal|decimal|R|N
+duodecimo	noun	duodecimo|duodecimo|R|N
+duodenary	adj	duo|duo|R|N ; denary|denary|R|N
+duologue	noun	duologue|duologue|R|N
+duopsony	noun	duopsony|duopsony|R|N
+duotheism	noun	duo|duo|R|N ; theism|theism|R|N
+duotone	noun	duo|duo|R|N ; tone|tone|R|N
+duotrigintillion	noun	duo|duo|R|N ; trigintillion|trigintillion|R|N
+duovigintillion	noun	duo|duo|R|N ; vigintillion|vigintillion|R|N
+dupability	noun	dupe|dup|R|V ; -able|abil|S ; -ity|ity|S
+dupable	adj	dupe|dup|R|V ; -able|able|S
+dupatta	noun	dupatta|dupatta|R|N
+duper	noun	dupe|dup|R|V ; -er|er|S||-er (N)
+dupery	noun	dupe|dup|R|V ; -ery|ery|S
+duping	verb	dupe|dup|R|V ; -ing|ing|I||-ing (v)
+dupion	noun	dupion|dupion|R|N
+duple	adj	duple|duple|R|Adj
+durableness	noun	durable|durable|R|Adj ; -ness|ness|S
+duralumin	noun	duralumin|duralumin|R|N
+duraluminium	noun	duraluminium|duraluminium|R|N
+duramen	noun	duramen|duramen|R|N
+durative	adj	durative|durative|R|Adj
+durmast	noun	durmast|durmast|R|N
+durn	interj	durn|durn|R
+durometer	noun	durometer|durometer|R|N
+durra	noun	durra|durra|R|N
+duskiness	noun	dusky|duski|R|Adj ; -ness|ness|S
+duskish	adj	dusk|dusk|R|N ; -ish|ish|S
+dustbag	noun	dust|dust|R|N ; bag|bag|R|N
+dustcloth	noun	dust|dust|R|N ; cloth|cloth|R|N
+dustcloud	noun	dust|dust|R|N ; cloud|cloud|R|N
+dustiness	noun	dusty|dusti|R|Adj ; -ness|ness|S
+dustless	adj	dust|dust|R|N ; -less|less|S
+dustproof	adj	dust|dust|R|N ; proof|proof|R|N
+duststorm	noun	dust|dust|R|N ; storm|storm|R|N
+dustup	noun	dust|dust|R|N ; up|up|R|Adv
+dutar	noun	dutar|dutar|R|N
+dutch	noun	dutch|dutch|R|N
+dutchman	noun	dutch|dutch|R|N ; man|man|R|N
+duteousness	noun	duteous|duteous|R|Adj ; -ness|ness|S
+dutiable	adj	duty|duti|R|N ; -able|able|S
+dutifulness	noun	duty|duti|R|N ; -ful|ful|S ; -ness|ness|S
+duumvir	noun	duumvir|duumvir|R|N
+duumvirate	noun	duumvirate|duumvirate|R|N
+dux	noun	dux|dux|R|N
+dwale	noun	dwale|dwale|R|N
+dwarfing	verb	dwarf|dwarf|R|V ; -ing|ing|I||-ing (v)
+dwindles	verb	dwindle|dwindle|R|V ; -s|s|I||-s (3sg)
+dyeable	adj	dye|dye|R|V ; -able|able|S
+dynamist	noun	dynamist|dynamist|R|N
+dynamiter	noun	dynamite|dynamit|R|N ; -er|er|S||-er (N)
+dynamitic	adj	dynamite|dynamit|R|N ; -ic|ic|S
+dynamiting	verb	dynamite|dynamit|R|V ; -ing|ing|I||-ing (v)
+dynamize	verb	dynamo|dynam|R|N ; -ize|ize|S
+dynamoelectric	adj	dynamo|dynamo|R|N ; electric|electric|R|Adj
+dynamometric	adj	dynamo|dynamo|R|N ; metric|metric|R|Adj
+dynamometry	noun	dynamometry|dynamometry|R|N
+dynamotor	noun	dynamotor|dynamotor|R|N
+dynatron	noun	dynatron|dynatron|R|N
+dyne	noun	dyne|dyne|R|N
+dynode	noun	dynode|dynode|R|N
+dysarthria	noun	dysarthria|dysarthria|R|N
+dysbiosis	noun	dysbiosis|dysbiosis|R|N
+dyscalculia	noun	dyscalculia|dyscalculia|R|N
+dyscrasia	noun	dyscrasia|dyscrasia|R|N
+dysenteric	adj	dysentery|dysenter|R|N ; -ic|ic|S
+dysgenesis	noun	dysgenesis|dysgenesis|R|N
+dysgenic	adj	dysgenic|dysgenic|R|Adj
+dysgenics	noun	dysgenics|dysgenics|R|N
+dysgeusia	noun	dysgeusia|dysgeusia|R|N
+dysgraphia	noun	dysgraphia|dysgraphia|R|N
+dyshidrosis	noun	dyshidrosis|dyshidrosis|R|N
+dyskinesia	noun	dyskinesia|dyskinesia|R|N
+dyslalia	noun	dyslalia|dyslalia|R|N
+dyslogistic	adj	dyslogistic|dyslogistic|R|Adj
+dysmenorrhea	noun	dysmenorrhea|dysmenorrhea|R|N
+dysmorphia	noun	dysmorphia|dysmorphia|R|N
+dyspareunia	noun	dyspareunia|dyspareunia|R|N

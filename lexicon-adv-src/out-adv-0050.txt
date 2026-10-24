@@ -1,0 +1,150 @@
+lugubrious	adj	lugubr-|lugubr|B|Adj|||Latin lugubris 'mournful' ; -ious|ious|S||||Latin -osus 'full of'
+declaim	verb	=
+luxuriant	adj	=
+exorcism	noun	ex-|ex|P||||Greek ex 'out' ; -orc-|orc|B|N|||Greek horkos 'oath' ; -ism|ism|S||||Greek -ismos 'doctrine, practice'
+restive	adj	=
+initiator	noun	=
+automaton	noun	=
+pedicure	noun	=
+officeholder	noun	=
+reprove	verb	=
+pastiche	noun	=
+acclimate	verb	=
+savant	noun	=
+hibiscus	noun	=
+shredder	noun	=
+virile	adj	vir-|vir|B|N|||Latin vir 'man' ; -ile|ile|S||||Latin -ilis 'pertaining to'
+inexcusable	adj	=
+lint	noun	=
+titillate	verb	=
+conjugal	adj	con-|con|P||||Latin com- 'together' ; -jug-|jug|B|N|||Latin iugum 'yoke' ; -al|al|S||||Latin -alis 'pertaining to'
+rostrum	noun	ros-|ros|B|V|||Latin rodere 'to gnaw' ; -trum|trum|S||||Latin -trum 'instrument'
+fallible	adj	fall-|fall|B|V|||Latin fallere 'to deceive' ; -ible|ible|S||||Latin -ibilis 'able to'
+preparer	noun	=
+batman	noun	=
+subtraction	noun	=
+ditty	noun	=
+numeracy	noun	=
+fatuous	adj	=
+salivate	verb	saliv-|saliv|B|V|||Latin salivare 'to spit out' ; -ate|ate|S||||Latin -atus 'verb-forming'
+medicate	verb	medic-|medic|B|V|||Latin medicare 'to heal' ; -ate|ate|S||||Latin -atus 'verb-forming'
+emporium	noun	=
+lister	noun	=
+sinusitis	noun	=
+sluice	noun	=
+crematorium	noun	=
+bung	noun	=
+mechanistic	adj	=
+suffocation	noun	=
+triangulation	noun	triangul-|triangul|B|N|||Latin triangulus 'triangle' ; -ation|ation|S||||Latin -atio 'act, process'
+ante	noun	=
+teaser	noun	=
+delicatessen	noun	=
+installer	noun	=
+solicitous	adj	=
+anise	noun	=
+sprightly	adj	=
+rudiment	noun	=
+lucidity	noun	=
+intransigent	adj	in-|in|P||||Latin in- 'not' ; -transig-|transig|B|V|||Latin transigere 'to settle' ; -ent|ent|S||||Latin -ens 'agent'
+proportionality	noun	=
+doyen	noun	=
+minimalism	noun	=
+cartography	noun	carto-|carto|B|N|||Greek khartes 'map' ; -graphy|graphy|B|N|||Greek graphe 'writing'
+dialogic	adj	=
+gratuity	noun	=
+criminologist	noun	=
+churchgoer	noun	=
+fuchsia	noun	=
+chimera	noun	=
+rectitude	noun	rect-|rect|B|Adj|||Latin rectus 'straight' ; -itude|itude|S||||Latin -tudo 'state, quality'
+capillary	noun	capill-|capill|B|N|||Latin capillus 'hair' ; -ary|ary|S||||Latin -aris 'pertaining to'
+inane	adj	=
+herbalist	noun	=
+carte	noun	=
+satirize	verb	=
+biomechanics	noun	=
+retrenchment	noun	=
+injurious	adj	=
+ontology	noun	=
+impetuous	adj	=
+multiplex	noun	multi-|multi|P||||Latin multus 'many' ; -plex|plex|B|Adj|||Latin plicare 'to fold'
+contrite	adj	=
+claustrophobia	noun	claustro-|claustro|B|N|||Latin claustrum 'shut-in place' ; -phobia|phobia|B|N|||Greek phobos 'fear'
+ulterior	adj	ulter-|ulter|B|Adj|||Latin ulter 'beyond' ; -ior|ior|S||||Latin -ior 'more'
+spasmodic	adj	=
+sarcophagus	noun	=
+hippocampus	noun	hippo-|hippo|B|N|||Greek hippos 'horse' ; -campus|campus|B|N|||Greek kampos 'sea-monster'
+monopolistic	adj	=
+ensign	noun	=
+sociability	noun	=
+dram	noun	=
+taffeta	noun	=
+revelatory	adj	=
+fugue	noun	=
+impostor	noun	im-|im|P||||Latin in- 'upon' ; -posit-|post|B|V|||Latin ponere 'to put' ; -or|or|S||||Latin -or 'agent'
+manganese	noun	=
+quince	noun	=
+enslavement	noun	=
+zoology	noun	zoo-|zoo|B|N|||Greek zoon 'animal' ; -logy|logy|B|N|||Greek logos 'knowledge'
+eyeliner	noun	=
+ineffable	adj	=
+phytoplankton	noun	phyto-|phyto|B|N|||Greek phyton 'plant' ; plankton|plankton|R|N
+supine	adj	sup-|sup|P||||Latin sub- 'under' ; -ine|ine|S||||Latin -inus 'pertaining to'
+anus	noun	=
+abscond	verb	abs-|abs|P||||Latin ab 'away' ; -cond|cond|B|V|||Latin condere 'to store'
+reverent	adj	=
+blotter	noun	=
+abrogate	verb	abrog-|abrog|B|V|||Latin abrogare 'to repeal' ; -ate|ate|S||||Latin -atus 'verb-forming'
+instrumentalist	noun	=
+vanquish	verb	=
+ionize	verb	=
+typhoon	noun	=
+animus	noun	=
+accommodating	adj	=
+credulity	noun	=
+oblong	adj	=
+funerary	adj	funer-|funer|B|N|||Latin funus 'funeral' ; -ary|ary|S||||Latin -arius 'pertaining to'
+diviner	noun	=
+stratagem	noun	=
+astrophysical	adj	=
+epilogue	noun	=
+facilitation	noun	=
+inveterate	adj	=
+impertinent	adj	=
+ignominious	adj	=
+occultation	noun	=
+vehemence	noun	=
+ergonomic	adj	ergo-|ergo|B|N|||Greek ergon 'work' ; -nom-|nom|B|N|||Greek nomos 'distribution' ; -ic|ic|S||||Latin -icus 'pertaining to'
+oxidize	verb	=
+fritter	verb	=
+peninsular	adj	=
+mountaineer	noun	=
+asymmetric	adj	=
+fantastically	adv	=
+bugle	noun	=
+castor	noun	=
+bursary	noun	burs-|burs|B|N|||Latin bursa 'purse' ; -ary|ary|S||||Latin -arius 'pertaining to'
+balustrade	noun	=
+consular	adj	=
+hibernate	verb	hibern-|hibern|B|Adj|||Latin hibernus 'wintry' ; -ate|ate|S||||Latin -atus 'verb-forming'
+harpoon	noun	=
+inhumanity	noun	=
+tonsil	noun	=
+depredation	noun	=
+connexion	noun	=
+tangent	noun	tang-|tang|B|V|||Latin tangere 'to touch' ; -ent|ent|S||||Latin -ens 'agent'
+tetanus	noun	=
+wrangler	noun	=
+armistice	noun	armi-|armi|B|N|||Latin arma 'arms, weapons' ; -stice|stice|B|V|||Latin sistere 'to halt'
+perplexity	noun	=
+peremptory	adj	=
+proximate	adj	proxim-|proxim|B|Adj|||Latin proximus 'nearest' ; -ate|ate|S||||Latin -atus 'verb-forming'
+collider	noun	=
+convalescent	adj	=
+combustible	adj	=
+biota	noun	=
+pacifier	noun	=
+leprosy	noun	=
+herbaceous	adj	=
+phenom	noun	=

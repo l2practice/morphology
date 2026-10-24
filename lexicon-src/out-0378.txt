@@ -1,0 +1,200 @@
+seitan	noun	seitan|seitan|R|N
+seizable	adj	seize|seiz|R|V ; -able|able|S
+sejant	adj	sejant|sejant|R|Adj
+sekere	noun	sekere|sekere|R|N
+sekos	noun	sekos|sekos|R|N
+selachian	noun	selachian|selachian|R|N
+seladang	noun	seladang|seladang|R|N
+selaginella	noun	selaginella|selaginella|R|N
+selamlik	noun	selamlik|selamlik|R|N
+selecting	verb	select|select|R|V ; -ing|ing|I||-ing (v)
+selectness	noun	select|select|R|Adj ; -ness|ness|S
+selectron	noun	selectron|selectron|R|N
+selenate	noun	selenate|selenate|R|N
+selenic	adj	selenic|selenic|R|Adj
+selenide	noun	selenide|selenide|R|N
+selenite	noun	selenite|selenite|R|N
+selenitic	adj	selenitic|selenitic|R|Adj
+selenocentric	adj	selenocentric|selenocentric|R|Adj
+selenodont	adj	selenodont|selenodont|R|Adj
+selenographer	noun	selenography|selenograph|R|N ; -er|er|S||-er (N)
+selenographic	adj	selenography|selenograph|R|N ; -ic|ic|S
+selenography	noun	selenography|selenography|R|N
+selenoid	noun	selenoid|selenoid|R|N
+selenological	adj	selenology|selenolog|R|N ; -ical|ical|S
+selenologist	noun	selenology|selenolog|R|N ; -ist|ist|S
+selenology	noun	selenology|selenology|R|N
+selenophile	noun	selenophile|selenophile|R|N
+selenotropic	adj	selenotropic|selenotropic|R|Adj
+selenotropism	noun	selenotropism|selenotropism|R|N
+selfbow	noun	self|self|R|N ; bow|bow|R|N
+selfheal	noun	self|self|R|N ; heal|heal|R|V
+selfie	noun	selfie|selfie|R|N
+selfness	noun	self|self|R|N ; -ness|ness|S
+selkie	noun	selkie|selkie|R|N
+sellanders	noun	sellanders|sellanders|R|N
+sellar	adj	sellar|sellar|R|Adj
+selliform	adj	selliform|selliform|R|Adj
+selsoviet	noun	selsoviet|selsoviet|R|N
+seltzogene	noun	seltzogene|seltzogene|R|N
+selvage	noun	selvage|selvage|R|N
+semaglutide	noun	semaglutide|semaglutide|R|N
+semanteme	noun	semanteme|semanteme|R|N
+semanticist	noun	semantic|semantic|R|Adj ; -ist|ist|S
+semantology	noun	semantology|semantology|R|N
+semaphoric	adj	semaphore|semaphor|R|N ; -ic|ic|S
+semaphorist	noun	semaphore|semaphor|R|N ; -ist|ist|S
+semasiological	adj	semasiology|semasiolog|R|N ; -ical|ical|S
+semasiologist	noun	semasiology|semasiolog|R|N ; -ist|ist|S
+semasiology	noun	semasiology|semasiology|R|N
+sematic	adj	sematic|sematic|R|Adj
+sematology	noun	sematology|sematology|R|N
+semelfactive	adj	semelfactive|semelfactive|R|Adj
+sememe	noun	sememe|sememe|R|N
+semestral	adj	semester|semestr|R|N ; -al|al|S
+semiabstract	adj	semi-|semi|P ; abstract|abstract|R|Adj
+semiannual	adj	semi-|semi|P ; annual|annual|R|Adj
+semiarid	adj	semi-|semi|P ; arid|arid|R|Adj
+semiautonomous	adj	semi-|semi|P ; autonomous|autonomous|R|Adj
+semiaxis	noun	semi-|semi|P ; axis|axis|R|N
+semibreve	noun	semi-|semi|P ; breve|breve|R|N
+semicentenary	noun	semi-|semi|P ; centenary|centenary|R|N
+semicentennial	adj	semi-|semi|P ; centennial|centennial|R|Adj
+semicircumference	noun	semi-|semi|P ; circumference|circumference|R|N
+semicolon	noun	semi-|semi|P ; colon|colon|R|N
+semicolonial	adj	semi-|semi|P ; colonial|colonial|R|Adj
+semicolonialism	noun	semi-|semi|P ; colonial|colonial|R|Adj ; -ism|ism|S
+semiconducting	adj	semi-|semi|P ; conduct|conduct|R|V ; -ing|ing|S||-ing (adj)
+semiconscious	adj	semi-|semi|P ; con-|con|P ; sci-|sci|B|V ; -ous|ous|S
+semiconsciousness	noun	semi-|semi|P ; con-|con|P ; sci-|sci|B|V ; -ous|ous|S ; -ness|ness|S
+semicontinuous	adj	semi-|semi|P ; continuous|continuous|R|Adj
+semidarkness	noun	semi-|semi|P ; dark|dark|R|Adj ; -ness|ness|S
+semidesert	noun	semi-|semi|P ; desert|desert|R|N
+semidiameter	noun	semi-|semi|P ; diameter|diameter|R|N
+semidivine	adj	semi-|semi|P ; divine|divine|R|Adj
+semidome	noun	semi-|semi|P ; dome|dome|R|N
+semidomestication	noun	semi-|semi|P ; domesticate|domesticat|R|V ; -ion|ion|S
+semidominant	adj	semi-|semi|P ; dominant|dominant|R|Adj
+semidouble	adj	semi-|semi|P ; double|double|R|Adj
+semidrying	noun	semi-|semi|P ; dry|dry|R|Adj ; -ing|ing|S||-ing (N)
+semielliptical	adj	semi-|semi|P ; elliptical|elliptical|R|Adj
+semierect	adj	semi-|semi|P ; erect|erect|R|Adj
+semifinalist	noun	semi-|semi|P ; final|final|R|Adj ; -ist|ist|S
+semifinished	adj	semi-|semi|P ; finish|finish|R|V ; -ed|ed|S||-ed (adj)
+semiflexible	adj	semi-|semi|P ; flexible|flexible|R|Adj
+semifluid	adj	semi-|semi|P ; fluid|fluid|R|Adj
+semifossil	noun	semi-|semi|P ; fossil|fossil|R|N
+semigroup	noun	semi-|semi|P ; group|group|R|N
+semihemidemisemiquaver	noun	semihemidemisemiquaver|semihemidemisemiquaver|R|N
+semilethal	adj	semi-|semi|P ; lethal|lethal|R|Adj
+semiliquid	adj	semi-|semi|P ; liquid|liquid|R|Adj
+semimechanized	adj	semi-|semi|P ; mechanize|mechaniz|R|V ; -ed|ed|S||-ed (adj)
+semimembranosus	noun	semimembranosus|semimembranosus|R|N
+semimetal	noun	semi-|semi|P ; metal|metal|R|N
+seminarist	noun	seminar|seminar|R|N ; -ist|ist|S
+semination	noun	semination|semination|R|N
+seminiferous	adj	seminiferous|seminiferous|R|Adj
+seminivorous	adj	seminivorous|seminivorous|R|Adj
+seminoma	noun	seminoma|seminoma|R|N
+seminomad	noun	semi-|semi|P ; nomad|nomad|R|N
+seminomadic	adj	semi-|semi|P ; nomad|nomad|R|N ; -ic|ic|S
+seminude	adj	semi-|semi|P ; nude|nude|R|Adj
+seminudity	noun	semi-|semi|P ; nude|nud|R|Adj ; -ity|ity|S
+semiologist	noun	semiology|semiolog|R|N ; -ist|ist|S
+semiotical	adj	semiotic|semiotic|R|Adj ; -al|al|S
+semipalmated	adj	semi-|semi|P ; palmate|palmat|R|Adj ; -ed|ed|S||-ed (adj)
+semiparasitic	adj	semi-|semi|P ; parasitic|parasitic|R|Adj
+semipornographic	adj	semi-|semi|P ; pornographic|pornographic|R|Adj
+semiprime	adj	semi-|semi|P ; prime|prime|R|Adj
+semipro	noun	semi-|semi|P ; pro|pro|R|N
+semipublic	adj	semi-|semi|P ; public|public|R|Adj
+semipure	adj	semi-|semi|P ; pure|pure|R|Adj
+semiquaver	noun	semi-|semi|P ; quaver|quaver|R|N
+semiquincentennial	adj	semi-|semi|P ; quincentennial|quincentennial|R|Adj
+semirigid	adj	semi-|semi|P ; rigid|rigid|R|Adj
+semisedentary	adj	semi-|semi|P ; sedentary|sedentary|R|Adj
+semiskilled	adj	semi-|semi|P ; skill|skill|R|N ; -ed|ed|S||-ed (adj)
+semisphere	noun	semi-|semi|P ; sphere|sphere|R|N
+semispherical	adj	semi-|semi|P ; sphere|spher|R|N ; -ical|ical|S
+semistable	adj	semi-|semi|P ; stable|stable|R|Adj
+semisteel	noun	semi-|semi|P ; steel|steel|R|N
+semistructured	adj	semi-|semi|P ; structure|structur|R|V ; -ed|ed|S||-ed (adj)
+semisweet	adj	semi-|semi|P ; sweet|sweet|R|Adj
+semitendinosus	noun	semitendinosus|semitendinosus|R|N
+semitonal	adj	semi-|semi|P ; tonal|tonal|R|Adj
+semitransparent	adj	semi-|semi|P ; transparent|transparent|R|Adj
+semivitreous	adj	semi-|semi|P ; vitreous|vitreous|R|Adj
+semivowel	noun	semi-|semi|P ; vowel|vowel|R|N
+semiyearly	adj	semi-|semi|P ; yearly|yearly|R|Adj
+semla	noun	semla|semla|R|N
+sempervirent	adj	sempervirent|sempervirent|R|Adj
+sempiternal	adj	sempiternal|sempiternal|R|Adj
+sempiternity	noun	sempiternal|sempitern|R|Adj ; -ity|ity|S
+semplice	adj	semplice|semplice|R|Adj
+sempre	adv	sempre|sempre|R|Adv
+sempstress	noun	sempstress|sempstress|R|N
+sen	noun	sen|sen|R|N
+senary	adj	senary|senary|R|Adj
+senatorship	noun	senator|senator|R|N ; -ship|ship|S
+senatus	noun	senatus|senatus|R|N
+sencha	noun	sencha|sencha|R|N
+sendal	noun	sendal|sendal|R|N
+sendoff	noun	send|send|R|V ; off|off|R|Adv
+senectitude	noun	senectitude|senectitude|R|N
+senega	noun	senega|senega|R|N
+senesce	verb	senesce|senesce|R|V
+senescent	adj	senescent|senescent|R|Adj
+sengi	noun	sengi|sengi|R|N
+sengreen	noun	sengreen|sengreen|R|N
+senhor	noun	senhor|senhor|R|N
+senhorita	noun	senhorita|senhorita|R|N
+sennet	noun	sennet|sennet|R|N
+sennit	noun	sennit|sennit|R|N
+sensed	verb	sense|sens|R|V ; -ed|ed|I||-ed (v2)
+sensei	noun	sensei|sensei|R|N
+sensibilization	noun	sense|sens|R|V ; -ible|ibil|S ; -ize|iz|S ; -ation|ation|S
+sensibleness	noun	sensible|sensible|R|Adj ; -ness|ness|S
+sensitiveness	noun	sensitive|sensitive|R|Adj ; -ness|ness|S
+sensitizer	noun	sensitize|sensitiz|R|V ; -er|er|S||-er (N)
+sensitizing	verb	sensitize|sensitiz|R|V ; -ing|ing|I||-ing (v)
+sensitometer	noun	sensitometer|sensitometer|R|N
+sensitometry	noun	sensitometry|sensitometry|R|N
+sensorimotor	adj	sensorimotor|sensorimotor|R|Adj
+sensualism	noun	sensual|sensual|R|Adj ; -ism|ism|S
+sensualization	noun	sensualize|sensualiz|R|V ; -ation|ation|S
+sensualize	verb	sensual|sensual|R|Adj ; -ize|ize|S
+sent	verb	send|sent|R|V ; -ed||I||-ed (v2)
+sententiously	adv	sententious|sententious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sententiousness	noun	sententious|sententious|R|Adj ; -ness|ness|S
+sentiency	noun	sentient|sentien|R|Adj ; -cy|cy|S
+separableness	noun	separate|separ|R|V ; -able|able|S ; -ness|ness|S
+separably	adv	separate|separ|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+separative	adj	separate|separat|R|V ; -ive|ive|S
+sepiolite	noun	sepiolite|sepiolite|R|N
+seppuku	noun	seppuku|seppuku|R|N
+septan	adj	septan|septan|R|Adj
+septate	adj	septate|septate|R|Adj
+septation	noun	septation|septation|R|N
+septempartite	adj	septempartite|septempartite|R|Adj
+septenary	adj	septenary|septenary|R|Adj
+septenate	adj	septenate|septenate|R|Adj
+septendecillion	noun	septendecillion|septendecillion|R|N
+septennate	noun	septennate|septennate|R|N
+septennial	adj	septennial|septennial|R|Adj
+septentrional	adj	septentrional|septentrional|R|Adj
+septenvigintillion	noun	septenvigintillion|septenvigintillion|R|N
+septette	noun	septette|septette|R|N
+septicemic	adj	septicemic|septicemic|R|Adj
+septicidal	adj	septicidal|septicidal|R|Adj
+septiferous	adj	septiferous|septiferous|R|Adj
+septifragal	adj	septifragal|septifragal|R|Adj
+septilateral	adj	septilateral|septilateral|R|Adj
+septillion	noun	septillion|septillion|R|N
+septillionaire	noun	septillionaire|septillionaire|R|N
+septimal	adj	septimal|septimal|R|Adj
+septimation	noun	septimation|septimation|R|N
+septuple	noun	septuple|septuple|R|N
+sepulture	noun	sepulture|sepulture|R|N
+sequacious	adj	sequacious|sequacious|R|Adj
+sequacity	noun	sequacious|sequac|R|Adj ; -ity|ity|S
+sequela	noun	sequela|sequela|R|N

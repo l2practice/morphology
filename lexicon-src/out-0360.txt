@@ -1,0 +1,200 @@
+proa	noun	proa|proa|R|N
+probabilism	noun	probable|probabil|R|Adj ; -ism|ism|S
+probabilist	noun	probable|probabil|R|Adj ; -ist|ist|S
+probableness	noun	probable|probable|R|Adj ; -ness|ness|S
+proband	noun	proband|proband|R|N
+probang	noun	probang|probang|R|N
+probational	adj	probe|probat|R|V ; -ion|ion|S ; -al|al|S
+probationally	adv	probe|probat|R|V ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+probator	noun	probe|probat|R|V ; -or|or|S
+probatory	adj	probe|probat|R|V ; -ory|ory|S
+probingly	adv	probe|prob|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+problematicity	noun	problematic|problematic|R|Adj ; -ity|ity|S
+problematist	noun	problematic|problemat|R|Adj ; -ist|ist|S
+problematize	verb	problematic|problemat|R|Adj ; -ize|ize|S
+problemist	noun	problem|problem|R|N ; -ist|ist|S
+proboscidean	adj	proboscidean|proboscidean|R|Adj
+proboscidiferous	adj	proboscidiferous|proboscidiferous|R|Adj
+procaine	noun	procaine|procaine|R|N
+procambial	adj	pro-|pro|P ; cambium|cambi|R|N ; -al|al|S
+procambium	noun	pro-|pro|P ; cambium|cambium|R|N
+procapitalist	noun	pro-|pro|P ; capital|capital|R|N ; -ist|ist|S
+procathedral	noun	pro-|pro|P ; cathedral|cathedral|R|N
+proceleusmatic	adj	proceleusmatic|proceleusmatic|R|Adj
+procellarian	noun	procellaria|procellari|R|N ; -an|an|S
+procephalic	adj	pro-|pro|P ; cephalic|cephalic|R|Adj
+procercoid	noun	procercoid|procercoid|R|N
+procerebrum	noun	pro-|pro|P ; cerebrum|cerebrum|R|N
+procerus	noun	procerus|procerus|R|N
+processability	noun	process|process|R|V ; -able|abil|S ; -ity|ity|S
+processable	adj	process|process|R|V ; -able|able|S
+processer	noun	process|process|R|V ; -er|er|S||-er (N)
+processionally	adv	process|process|R|V ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+processionary	adj	process|process|R|V ; -ion|ion|S ; -ary|ary|S
+processioning	noun	process|process|R|V ; -ion|ion|S ; -ing|ing|S||-ing (N)
+processionist	noun	process|process|R|V ; -ion|ion|S ; -ist|ist|S
+processual	adj	process|process|R|V ; -ual|ual|S
+prochromosome	noun	pro-|pro|P ; chromosome|chromosome|R|N
+prochronism	noun	prochronism|prochronism|R|N
+procidence	noun	procidence|procidence|R|N
+proclaimer	noun	pro-|pro|P ; claim|claim|R|V ; -er|er|S||-er (N)
+proclaiming	verb	pro-|pro|P ; claim|claim|R|V ; -ing|ing|I||-ing (v)
+proclamatory	adj	pro-|pro|P ; claim|clam|R|V ; -ory|atory|S
+proclitic	noun	pro-|pro|P ; clitic|clitic|R|N
+procoelous	adj	procoelous|procoelous|R|Adj
+proconsular	adj	pro-|pro|P ; consul|consul|R|N ; -ar|ar|S
+proconsulate	noun	pro-|pro|P ; consul|consul|R|N ; -ate|ate|S
+proconsulship	noun	pro-|pro|P ; consul|consul|R|N ; -ship|ship|S
+procrastinative	adj	procrastinate|procrastinat|R|V ; -ive|ive|S
+procrastinatory	adj	procrastinate|procrastinat|R|V ; -ory|ory|S
+procreant	adj	procreate|procre|R|V ; -ant|ant|S
+procreativeness	noun	procreate|procreat|R|V ; -ive|ive|S ; -ness|ness|S
+procreator	noun	procreate|procreat|R|V ; -or|or|S
+procrustean	adj	procrustean|procrustean|R|Adj
+procryptic	adj	pro-|pro|P ; cryptic|cryptic|R|Adj
+proctal	adj	proctal|proctal|R|Adj
+proctitis	noun	proctitis|proctitis|R|N
+proctodeum	noun	proctodeum|proctodeum|R|N
+proctologic	adj	proctology|proctolog|R|N ; -ic|ic|S
+proctological	adj	proctology|proctolog|R|N ; -ical|ical|S
+proctology	noun	proctology|proctology|R|N
+proctorial	adj	proctor|proctor|R|N ; -ial|ial|S
+proctoring	noun	proctor|proctor|R|V ; -ing|ing|S||-ing (N)
+proctorship	noun	proctor|proctor|R|N ; -ship|ship|S
+proctoscope	noun	proctoscope|proctoscope|R|N
+proctoscopic	adj	proctoscope|proctoscop|R|N ; -ic|ic|S
+procumbent	adj	procumbent|procumbent|R|Adj
+procurable	adj	procure|procur|R|V ; -able|able|S
+procurance	noun	procure|procur|R|V ; -ance|ance|S
+procuration	noun	procure|procur|R|V ; -ation|ation|S
+procuratorate	noun	procure|procurat|R|V ; -or|or|S ; -ate|ate|S
+procuratorial	adj	procure|procurat|R|V ; -or|or|S ; -ial|ial|S
+procuratory	adj	procure|procurat|R|V ; -ory|ory|S
+procuress	noun	procure|procur|R|V ; -ess|ess|S
+procuring	verb	procure|procur|R|V ; -ing|ing|I||-ing (v)
+procyonid	noun	procyonid|procyonid|R|N
+prodelision	noun	prodelision|prodelision|R|N
+prodigalize	verb	prodigal|prodigal|R|Adj ; -ize|ize|S
+prodigally	adv	prodigal|prodigal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+prodigiousness	noun	prodigious|prodigious|R|Adj ; -ness|ness|S
+prodromal	adj	prodrome|prodrom|R|N ; -al|al|S
+prodrome	noun	prodrome|prodrome|R|N
+prodrug	noun	pro-|pro|P ; drug|drug|R|N
+producibility	noun	pro-|pro|P ; -duce|duc|B|V ; -ible|ibil|S ; -ity|ity|S
+producible	adj	pro-|pro|P ; -duce|duc|B|V ; -ible|ible|S
+productible	adj	product|product|R|N ; -ible|ible|S
+productional	adj	pro-|pro|P ; -duce|duct|B|V ; -ion|ion|S ; -al|al|S
+productionist	noun	pro-|pro|P ; -duce|duct|B|V ; -ion|ion|S ; -ist|ist|S
+productiveness	noun	pro-|pro|P ; -duce|duct|B|V ; -ive|ive|S ; -ness|ness|S
+productization	noun	productize|productiz|R|V ; -ation|ation|S
+proem	noun	proem|proem|R|N
+proembryo	noun	pro-|pro|P ; embryo|embryo|R|N
+proemial	adj	proem|proem|R|N ; -ial|ial|S
+proenzyme	noun	pro-|pro|P ; enzyme|enzyme|R|N
+profanatory	adj	profane|profan|R|V ; -ory|atory|S
+profaned	adj	profane|profan|R|V ; -ed|ed|S||-ed (adj)
+profanely	adv	profane|profane|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+profaneness	noun	profane|profane|R|Adj ; -ness|ness|S
+profaner	noun	profane|profan|R|V ; -er|er|S||-er (N)
+profaning	verb	profane|profan|R|V ; -ing|ing|I||-ing (v)
+profer	verb	profer|profer|R|V
+professedly	adv	profess|profess|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+professionality	noun	profess|profess|R|V ; -ion|ion|S ; -al|al|S ; -ity|ity|S
+professorially	adv	profess|profess|R|V ; -or|or|S ; -ial|ial|S ; -ly|ly|I|Adv|-ly (adv)
+profferer	noun	proffer|proffer|R|V ; -er|er|S||-er (N)
+proffering	verb	proffer|proffer|R|V ; -ing|ing|I||-ing (v)
+profilist	noun	profile|profil|R|N ; -ist|ist|S
+profilograph	noun	profilograph|profilograph|R|N
+profilometer	noun	profilometer|profilometer|R|N
+profiting	verb	profit|profit|R|V ; -ing|ing|I||-ing (v)
+profitlessly	adv	profit|profit|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+profligately	adv	profligate|profligate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+profligateness	noun	profligate|profligate|R|Adj ; -ness|ness|S
+profoundness	noun	profound|profound|R|Adj ; -ness|ness|S
+profuseness	noun	profuse|profuse|R|Adj ; -ness|ness|S
+progamete	noun	pro-|pro|P ; gamete|gamete|R|N
+progamic	adj	progamic|progamic|R|Adj
+progenesis	noun	pro-|pro|P ; genesis|genesis|R|N
+progenetic	adj	progenesis|progenet|R|N ; -ic|ic|S
+progenitive	adj	progenitive|progenitive|R|Adj
+progenitorial	adj	progenitor|progenitor|R|N ; -ial|ial|S
+progenitress	noun	progenitress|progenitress|R|N
+progenitrix	noun	progenitrix|progenitrix|R|N
+progeniture	noun	progenitor|progenit|R|N ; -ure|ure|S
+progeria	noun	progeria|progeria|R|N
+progestational	adj	pro-|pro|P ; gestation|gestation|R|N ; -al|al|S
+proggins	noun	proggins|proggins|R|N
+proglottis	noun	proglottis|proglottis|R|N
+prognathism	noun	prognathous|prognath|R|Adj ; -ism|ism|S
+prognathous	adj	prognathous|prognathous|R|Adj
+prognosticable	adj	prognosticate|prognostic|R|V ; -able|able|S
+prognosticating	verb	prognosticate|prognosticat|R|V ; -ing|ing|I||-ing (v)
+prognosticative	adj	prognosticate|prognosticat|R|V ; -ive|ive|S
+prognosticatory	adj	prognosticate|prognosticat|R|V ; -ory|ory|S
+prograde	adj	pro-|pro|P ; grade|grade|R|N
+programmability	noun	program|programm|R|V ; -able|abil|S ; -ity|ity|S
+programmatically	adv	programmatic|programmatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+progressional	adj	progress|progress|R|V ; -ion|ion|S ; -al|al|S
+progressionist	noun	progress|progress|R|V ; -ion|ion|S ; -ist|ist|S
+progressist	noun	progress|progress|R|N ; -ist|ist|S
+progressivist	noun	progress|progress|R|V ; -ive|iv|S ; -ist|ist|S
+progressivistic	adj	progress|progress|R|V ; -ive|iv|S ; -ist|ist|S ; -ic|ic|S
+prohibiter	noun	prohibit|prohibit|R|V ; -er|er|S||-er (N)
+prohibitionism	noun	prohibit|prohibit|R|V ; -ion|ion|S ; -ism|ism|S
+prohibitiveness	noun	prohibit|prohibit|R|V ; -ive|ive|S ; -ness|ness|S
+prohibitor	noun	prohibit|prohibit|R|V ; -or|or|S
+prohibitory	adj	prohibit|prohibit|R|V ; -ory|ory|S
+prohormone	noun	pro-|pro|P ; hormone|hormone|R|N
+proinflammatory	adj	pro-|pro|P ; inflame|inflamm|R|V ; -ory|atory|S
+projectable	adj	project|project|R|V ; -able|able|S
+projectional	adj	project|project|R|V ; -ion|ion|S ; -al|al|S
+projectively	adv	project|project|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+projectivity	noun	project|project|R|V ; -ive|iv|S ; -ity|ity|S
+projects	noun	project|project|R|N ; -s|s|I||-s (plural)
+prokaryotic	adj	prokaryote|prokaryot|R|N ; -ic|ic|S
+prolate	adj	prolate|prolate|R|Adj
+prolately	adv	prolate|prolate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+prolateness	noun	prolate|prolate|R|Adj ; -ness|ness|S
+prolative	adj	prolative|prolative|R|Adj
+proleg	noun	pro-|pro|P ; leg|leg|R|N
+prolegomenon	noun	prolegomenon|prolegomenon|R|N
+prolegomenous	adj	prolegomenon|prolegomen|R|N ; -ous|ous|S
+prolepsis	noun	prolepsis|prolepsis|R|N
+proleptic	adj	prolepsis|prolept|R|N ; -ic|ic|S
+proletarianism	noun	proletariat|proletari|R|N ; -an|an|S ; -ism|ism|S
+proletarianize	verb	proletariat|proletari|R|N ; -an|an|S ; -ize|ize|S
+proletary	noun	proletary|proletary|R|N
+prolicide	noun	prolicide|prolicide|R|N
+proliferator	noun	proliferate|proliferat|R|V ; -or|or|S
+proliferous	adj	proliferate|prolifer|R|V ; -ous|ous|S
+proliferously	adv	proliferate|prolifer|R|V ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+prolificacy	noun	prolificacy|prolificacy|R|N
+prolificity	noun	prolific|prolific|R|Adj ; -ity|ity|S
+prolificness	noun	prolific|prolific|R|Adj ; -ness|ness|S
+prolix	adj	prolix|prolix|R|Adj
+prolixity	noun	prolix|prolix|R|Adj ; -ity|ity|S
+prolixly	adv	prolix|prolix|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+prolly	adv	prolly|prolly|R|Adv
+prolocutor	noun	pro-|pro|P ; locutor|locutor|R|N
+prolongable	adj	prolong|prolong|R|V ; -able|able|S
+prolongate	verb	prolong|prolong|R|V ; -ate|ate|S
+prolonge	verb	prolonge|prolonge|R|V
+prolonger	noun	prolong|prolong|R|V ; -er|er|S||-er (N)
+prolonging	verb	prolong|prolong|R|V ; -ing|ing|I||-ing (v)
+prolusion	noun	prolusion|prolusion|R|N
+prolusory	adj	prolusion|prolus|R|N ; -ory|ory|S
+promenader	noun	promenade|promenad|R|V ; -er|er|S||-er (N)
+promethium	noun	promethium|promethium|R|N
+prominency	noun	prominent|promin|R|Adj ; -ency|ency|S
+promiscuousness	noun	promiscuous|promiscuous|R|Adj ; -ness|ness|S
+promisee	noun	promise|promis|R|V ; -ee|ee|S
+promiser	noun	promise|promis|R|V ; -er|er|S||-er (N)
+promisor	noun	promise|promis|R|V ; -or|or|S
+promotability	noun	promote|promot|R|V ; -able|abil|S ; -ity|ity|S
+promotable	adj	promote|promot|R|V ; -able|able|S
+promotionally	adv	promote|promot|R|V ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+promotive	adj	promote|promot|R|V ; -ive|ive|S
+promotiveness	noun	promote|promot|R|V ; -ive|ive|S ; -ness|ness|S
+promptitude	noun	promptitude|promptitude|R|N
+promulgator	noun	promulgate|promulgat|R|V ; -or|or|S
+promulge	verb	promulge|promulge|R|V

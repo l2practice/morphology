@@ -1,0 +1,200 @@
+psychopathically	adv	psychopathy|psychopath|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+psychopathologist	noun	psychopathology|psychopatholog|R|N ; -ist|ist|S
+psychopedagogic	adj	psychopedagogy|psychopedagog|R|N ; -ic|ic|S
+psychopedagogy	noun	psychopedagogy|psychopedagogy|R|N
+psychopharmacologist	noun	psychopharmacology|psychopharmacolog|R|N ; -ist|ist|S
+psychophysics	noun	psychophysics|psychophysics|R|N
+psychophysiologist	noun	psychophysiology|psychophysiolog|R|N ; -ist|ist|S
+psychophysiology	noun	psychophysiology|psychophysiology|R|N
+psychopolitics	noun	psychopolitics|psychopolitics|R|N
+psychopomp	noun	psychopomp|psychopomp|R|N
+psychosexuality	noun	psychosexual|psychosexual|R|Adj ; -ity|ity|S
+psychosomatically	adv	psychosomatic|psychosomatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+psychosomaticist	noun	psychosomatic|psychosomatic|R|Adj ; -ist|ist|S
+psychosomatics	noun	psychosomatics|psychosomatics|R|N
+psychosynthesis	noun	psychosynthesis|psychosynthesis|R|N
+psychotechnic	adj	psychotechnic|psychotechnic|R|Adj
+psychotherapeutically	adv	psychotherapeutic|psychotherapeutic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+psychotomimetic	adj	psychotomimetic|psychotomimetic|R|Adj
+psychotraumatology	noun	psychotraumatology|psychotraumatology|R|N
+psychrometer	noun	psychrometer|psychrometer|R|N
+psychrometrics	noun	psychrometrics|psychrometrics|R|N
+psychrometry	noun	psychrometry|psychrometry|R|N
+psychrophilic	adj	psychrophilic|psychrophilic|R|Adj
+psylla	noun	psylla|psylla|R|N
+psyllid	noun	psyllid|psyllid|R|N
+psytrance	noun	psytrance|psytrance|R|N
+pteranodon	noun	pteranodon|pteranodon|R|N
+pteridium	noun	pteridium|pteridium|R|N
+pteridological	adj	pteridology|pteridolog|R|N ; -ical|ical|S
+pteridologist	noun	pteridology|pteridolog|R|N ; -ist|ist|S
+pteridology	noun	pteridology|pteridology|R|N
+pteridophyte	noun	pteridophyte|pteridophyte|R|N
+pteridosperm	noun	pteridosperm|pteridosperm|R|N
+pterion	noun	pterion|pterion|R|N
+pterodactyloid	adj	pterodactyloid|pterodactyloid|R|Adj
+pteroid	adj	pteroid|pteroid|R|Adj
+pteropod	noun	pteropod|pteropod|R|N
+pterygial	adj	pterygium|pterygi|R|N ; -al|al|S
+pterygium	noun	pterygium|pterygium|R|N
+pterygoid	adj	pterygoid|pterygoid|R|Adj
+pterygote	noun	pterygote|pterygote|R|N
+pteryla	noun	pteryla|pteryla|R|N
+ptochocracy	noun	ptochocracy|ptochocracy|R|N
+ptomaine	noun	ptomaine|ptomaine|R|N
+ptosis	noun	ptosis|ptosis|R|N
+ptotic	adj	ptosis|ptot|R|N ; -ic|ic|S
+ptui	interj	ptui|ptui|R
+ptyalin	noun	ptyalin|ptyalin|R|N
+ptyalism	noun	ptyalism|ptyalism|R|N
+pubby	adj	pub|pubb|R|N ; -y|y|S
+puberal	adj	puberty|puber|R|N ; -al|al|S
+puberulent	adj	puberulent|puberulent|R|Adj
+pubes	noun	pubes|pubes|R|N
+pubicide	noun	pubicide|pubicide|R|N
+puccoon	noun	puccoon|puccoon|R|N
+puckishly	adv	puck|puck|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+puckishness	noun	puck|puck|R|N ; -ish|ish|S ; -ness|ness|S
+puddening	noun	puddening|puddening|R|N
+pudder	noun	pudder|pudder|R|N
+puddingy	adj	pudding|pudding|R|N ; -y|y|S
+puddler	noun	puddle|puddl|R|V ; -er|er|S||-er (N)
+puddling	noun	puddle|puddl|R|V ; -ing|ing|S||-ing (N)
+puddly	adj	puddle|puddl|R|V ; -y|y|S
+pudendal	adj	pudendum|pudend|R|N ; -al|al|S
+pudendum	noun	pudendum|pudendum|R|N
+pudginess	noun	pudgy|pudgi|R|Adj ; -ness|ness|S
+pudicity	noun	pudic|pudic|R|Adj ; -ity|ity|S
+pudor	noun	pudor|pudor|R|N
+pudsy	adj	pudsy|pudsy|R|Adj
+pudu	noun	pudu|pudu|R|N
+puericulture	noun	puericulture|puericulture|R|N
+puerilely	adv	puerile|puerile|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+puerilism	noun	puerile|pueril|R|Adj ; -ism|ism|S
+puerility	noun	puerile|pueril|R|Adj ; -ity|ity|S
+puerpera	noun	puerpera|puerpera|R|N
+puerperal	adj	puerpera|puerper|R|N ; -al|al|S
+puerperium	noun	puerperium|puerperium|R|N
+puffbird	noun	puff|puff|R|N ; bird|bird|R|N
+pufferfish	noun	puff|puff|R|V ; -er|er|S||-er (N) ; fish|fish|R|N
+puffily	adv	puffy|puffi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pugging	noun	pug|pugg|R|V ; -ing|ing|S||-ing (N)
+pugilism	noun	pugilism|pugilism|R|N
+pugnaciousness	noun	pugnacious|pugnacious|R|Adj ; -ness|ness|S
+puisne	adj	puisne|puisne|R|Adj
+puking	verb	puke|puk|R|V ; -ing|ing|I||-ing (v)
+puku	noun	puku|puku|R|N
+pulchritudinous	adj	pulchritudinous|pulchritudinous|R|Adj
+pule	verb	pule|pule|R|V
+puler	noun	pule|pul|R|V ; -er|er|S||-er (N)
+puling	adj	pule|pul|R|V ; -ing|ing|S||-ing (adj)
+pulk	noun	pulk|pulk|R|N
+pullulate	verb	pullulate|pullulate|R|V
+pullulation	noun	pullulate|pullulat|R|V ; -ion|ion|S
+pullulative	adj	pullulate|pullulat|R|V ; -ive|ive|S
+pulmogastric	adj	pulmogastric|pulmogastric|R|Adj
+pulmonate	adj	pulmonate|pulmonate|R|Adj
+pulmonic	adj	pulmonic|pulmonic|R|Adj
+pulmonology	noun	pulmonology|pulmonology|R|N
+pulmotor	noun	pulmotor|pulmotor|R|N
+pulper	noun	pulp|pulp|R|N ; -er|er|S||-er (N)
+pulpify	verb	pulp|pulp|R|N ; -ify|ify|S
+pulpiness	noun	pulpy|pulpi|R|Adj ; -ness|ness|S
+pulping	noun	pulp|pulp|R|V ; -ing|ing|S||-ing (N)
+pulpiteer	noun	pulpit|pulpit|R|N ; -eer|eer|S
+pulpous	adj	pulp|pulp|R|N ; -ous|ous|S
+pulque	noun	pulque|pulque|R|N
+pulsative	adj	pulsate|pulsat|R|V ; -ive|ive|S
+pulsator	noun	pulsate|pulsat|R|V ; -or|or|S
+pulsatory	adj	pulsate|pulsat|R|V ; -ory|ory|S
+pulsejet	noun	pulse|pulse|R|N ; jet|jet|R|N
+pulseless	adj	pulse|pulse|R|N ; -less|less|S
+pulser	noun	pulse|puls|R|V ; -er|er|S||-er (N)
+pulsimeter	noun	pulsimeter|pulsimeter|R|N
+pulverable	adj	pulverize|pulver|R|V ; -able|able|S
+pulverate	verb	pulverate|pulverate|R|V
+pulverizable	adj	pulverize|pulveriz|R|V ; -able|able|S
+pulverization	noun	pulverize|pulveriz|R|V ; -ation|ation|S
+pulverizer	noun	pulverize|pulveriz|R|V ; -er|er|S||-er (N)
+pulverous	adj	pulverous|pulverous|R|Adj
+pulverulence	noun	pulverulent|pulverul|R|Adj ; -ence|ence|S
+pulverulent	adj	pulverulent|pulverulent|R|Adj
+pulvillar	adj	pulvillus|pulvill|R|N ; -ar|ar|S
+pulvilliform	adj	pulvilliform|pulvilliform|R|Adj
+pulvillus	noun	pulvillus|pulvillus|R|N
+pulvinate	adj	pulvinus|pulvin|R|N ; -ate|ate|S
+pulvinated	adj	pulvinate|pulvinat|R|Adj ; -ed|ed|S||-ed (adj)
+pulvinus	noun	pulvinus|pulvinus|R|N
+pulviplume	noun	pulviplume|pulviplume|R|N
+pumiceous	adj	pumice|pumic|R|N ; -eous|eous|S
+pumicer	noun	pumice|pumic|R|N ; -er|er|S||-er (N)
+pumiciform	adj	pumiciform|pumiciform|R|Adj
+pummelling	verb	pummel|pummell|R|V ; -ing|ing|I||-ing (v)
+pumpability	noun	pump|pump|R|V ; -able|abil|S ; -ity|ity|S
+pumpage	noun	pump|pump|R|V ; -age|age|S
+pumpjack	noun	pump|pump|R|N ; jack|jack|R|N
+pumpkinification	noun	pumpkinify|pumpkinifi|R|V ; -ation|cation|S
+puna	noun	puna|puna|R|N
+punaluan	noun	punaluan|punaluan|R|N
+puncheon	noun	puncheon|puncheon|R|N
+punchily	adv	punchy|punchi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+punchinello	noun	punchinello|punchinello|R|N
+punchiness	noun	punchy|punchi|R|Adj ; -ness|ness|S
+punchless	adj	punch|punch|R|N ; -less|less|S
+punctate	adj	punctate|punctate|R|Adj
+punctation	noun	punctate|punctat|R|Adj ; -ion|ion|S
+punctator	noun	punctate|punctat|R|Adj ; -or|or|S
+punctiform	adj	punctiform|punctiform|R|Adj
+punctilio	noun	punctilio|punctilio|R|N
+punctiliously	adv	punctilious|punctilious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+punctiliousness	noun	punctilious|punctilious|R|Adj ; -ness|ness|S
+punctuative	adj	punctuate|punctuat|R|V ; -ive|ive|S
+punctuator	noun	punctuate|punctuat|R|V ; -or|or|S
+punctule	noun	punctule|punctule|R|N
+punctum	noun	punctum|punctum|R|N
+puncturable	adj	puncture|punctur|R|V ; -able|able|S
+puncturing	verb	puncture|punctur|R|V ; -ing|ing|I||-ing (v)
+pung	noun	pung|pung|R|N
+punily	adv	puny|puni|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+puniness	noun	puny|puni|R|Adj ; -ness|ness|S
+punishability	noun	punish|punish|R|V ; -able|abil|S ; -ity|ity|S
+punishingly	adv	punish|punish|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+punitiveness	noun	punitive|punitive|R|Adj ; -ness|ness|S
+punkah	noun	punkah|punkah|R|N
+punkahwallah	noun	punkah|punkah|R|N ; wallah|wallah|R|N
+punker	noun	punk|punk|R|N ; -er|er|S||-er (N)
+punner	noun	pun|punn|R|V ; -er|er|S||-er (N)
+punningly	adv	pun|punn|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+punster	noun	pun|pun|R|V ; -ster|ster|S
+pupation	noun	pupate|pupat|R|V ; -ion|ion|S
+pupiform	adj	pupiform|pupiform|R|Adj
+pupilage	noun	pupil|pupil|R|N ; -age|age|S
+pupillage	noun	pupil|pupill|R|N ; -age|age|S
+pupillarity	noun	pupillary|pupillar|R|Adj ; -ity|ity|S
+pupillary	adj	pupil|pupill|R|N ; -ary|ary|S
+pupilometer	noun	pupilometer|pupilometer|R|N
+pupilship	noun	pupil|pupil|R|N ; -ship|ship|S
+pupiparous	adj	pupiparous|pupiparous|R|Adj
+pupivorous	adj	pupivorous|pupivorous|R|Adj
+pupoid	adj	pupoid|pupoid|R|Adj
+puppyish	adj	puppy|puppy|R|N ; -ish|ish|S
+puppyism	noun	puppy|puppy|R|N ; -ism|ism|S
+purblind	adj	purblind|purblind|R|Adj
+purblindly	adv	purblind|purblind|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+purblindness	noun	purblind|purblind|R|Adj ; -ness|ness|S
+purchasability	noun	purchase|purchas|R|V ; -able|abil|S ; -ity|ity|S
+purchasable	adj	purchase|purchas|R|V ; -able|able|S
+pureblooded	adj	pure|pure|R|Adj ; blood|blood|R|N ; -ed|ed|S||-ed (adj)
+pureness	noun	pure|pure|R|Adj ; -ness|ness|S
+purfle	verb	purfle|purfle|R|V
+purger	noun	purge|purg|R|V ; -er|er|S||-er (N)
+purificator	noun	purify|purific|R|V ; -or|ator|S
+purificatory	adj	purify|purific|R|V ; -ory|atory|S
+puristic	adj	purist|purist|R|N ; -ic|ic|S
+puristical	adj	purist|purist|R|N ; -ic|ic|S ; -al|al|S
+puristically	adv	purist|purist|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+puritanically	adv	puritan|puritan|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+puritanicalness	noun	puritan|puritan|R|N ; -ical|ical|S ; -ness|ness|S
+purler	noun	purl|purl|R|V ; -er|er|S||-er (N)
+purlieu	noun	purlieu|purlieu|R|N
+purling	noun	purl|purl|R|V ; -ing|ing|S||-ing (N)

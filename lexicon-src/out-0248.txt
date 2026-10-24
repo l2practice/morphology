@@ -1,0 +1,200 @@
+circinately	adv	circinate|circinate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+circs	noun	circ|circ|R|N ; -s|s|I||-s (plural)
+circuital	adj	circuit|circuit|R|N ; -al|al|S
+circuiting	verb	circuit|circuit|R|V ; -ing|ing|I||-ing (v)
+circuitousness	noun	circuitous|circuitous|R|Adj ; -ness|ness|S
+circuity	noun	circuit|circuit|R|N ; -y|y|S
+circulant	noun	circulant|circulant|R|N
+circularization	noun	circular|circular|R|Adj ; -ize|iz|S ; -ation|ation|S
+circularize	verb	circular|circular|R|Adj ; -ize|ize|S
+circularized	verb	circularize|circulariz|R|V ; -ed|ed|I||-ed (v2)
+circularizer	noun	circularize|circulariz|R|V ; -er|er|S||-er (N)
+circularness	noun	circular|circular|R|Adj ; -ness|ness|S
+circulative	adj	circulate|circulat|R|V ; -ive|ive|S
+circumambience	noun	circumambient|circumambi|R|Adj ; -ence|ence|S
+circumambiency	noun	circumambient|circumambi|R|Adj ; -ency|ency|S
+circumambient	adj	circumambient|circumambient|R|Adj
+circumambiently	adv	circumambient|circumambient|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+circumambulate	verb	circumambulate|circumambulate|R|V
+circumambulation	noun	circumambulate|circumambulat|R|V ; -ion|ion|S
+circumbendibus	noun	circumbendibus|circumbendibus|R|N
+circumbuccal	adj	circumbuccal|circumbuccal|R|Adj
+circumcenter	noun	circumcenter|circumcenter|R|N
+circumcircle	noun	circumcircle|circumcircle|R|N
+circumcisor	noun	circumcise|circumcis|R|V ; -or|or|S
+circumduction	noun	circumduction|circumduction|R|N
+circumfix	noun	circumfix|circumfix|R|N
+circumfluent	adj	circumfluent|circumfluent|R|Adj
+circumfuse	verb	circumfuse|circumfuse|R|V
+circumfusion	noun	circumfuse|circumfus|R|V ; -ion|ion|S
+circumgyrate	verb	circumgyrate|circumgyrate|R|V
+circumgyration	noun	circumgyrate|circumgyrat|R|V ; -ion|ion|S
+circumlittoral	adj	circumlittoral|circumlittoral|R|Adj
+circumlocutionary	adj	circumlocutionary|circumlocutionary|R|Adj
+circumlocutorily	adv	circumlocutory|circumlocutori|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+circumlocutory	adj	circumlocutory|circumlocutory|R|Adj
+circumlunar	adj	circumlunar|circumlunar|R|Adj
+circumnavigator	noun	circumnavigate|circumnavigat|R|V ; -or|or|S
+circumnuclear	adj	circumnuclear|circumnuclear|R|Adj
+circumnutate	verb	circumnutate|circumnutate|R|V
+circumnutation	noun	circumnutate|circumnutat|R|V ; -ion|ion|S
+circumoral	adj	circumoral|circumoral|R|Adj
+circumplanetary	adj	circumplanetary|circumplanetary|R|Adj
+circumscribable	adj	circumscribe|circumscrib|R|V ; -able|able|S
+circumscriber	noun	circumscribe|circumscrib|R|V ; -er|er|S||-er (N)
+circumscriptive	adj	circumscriptive|circumscriptive|R|Adj
+circumscriptively	adv	circumscriptive|circumscriptive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+circumsolar	adj	circumsolar|circumsolar|R|Adj
+circumspectness	noun	circumspect|circumspect|R|Adj ; -ness|ness|S
+circumstantiality	noun	circumstance|circumstant|R|N ; -ial|ial|S ; -ity|ity|S
+circumstantiate	verb	circumstantiate|circumstantiate|R|V
+circumstantiation	noun	circumstantiate|circumstantiat|R|V ; -ion|ion|S
+circumvallate	verb	circumvallate|circumvallate|R|V
+circumvallation	noun	circumvallate|circumvallat|R|V ; -ion|ion|S
+circumvascular	adj	circumvascular|circumvascular|R|Adj
+circumventive	adj	circumvent|circumvent|R|V ; -ive|ive|S
+circumventor	noun	circumvent|circumvent|R|V ; -or|or|S
+circumvolution	noun	circumvolution|circumvolution|R|N
+cirrate	adj	cirrate|cirrate|R|Adj
+cirrhotic	adj	cirrhotic|cirrhotic|R|Adj
+cirriferous	adj	cirriferous|cirriferous|R|Adj
+cirriped	noun	cirriped|cirriped|R|N
+cirrocumulus	noun	cirrocumulus|cirrocumulus|R|N
+cirrostratus	noun	cirrostratus|cirrostratus|R|N
+cirrous	adj	cirrous|cirrous|R|Adj
+cis	adj	cis|cis|R|Adj
+cisalpine	adj	cisalpine|cisalpine|R|Adj
+cisgender	adj	cisgender|cisgender|R|Adj
+cishet	adj	cishet|cishet|R|Adj
+cisidentity	noun	cisidentity|cisidentity|R|N
+cislunar	adj	cislunar|cislunar|R|Adj
+cissoid	noun	cissoid|cissoid|R|N
+cist	noun	cist|cist|R|N
+cisterna	noun	cisterna|cisterna|R|N
+cisternal	adj	cisterna|cistern|R|N ; -al|al|S
+cistron	noun	cistron|cistron|R|N
+cistus	noun	cistus|cistus|R|N
+citable	adj	cite|cit|R|V ; -able|able|S
+citational	adj	citation|citation|R|N ; -al|al|S
+citatory	adj	cite|cit|R|V ; -ory|atory|S
+citerior	adj	citerior|citerior|R|Adj
+cithara	noun	cithara|cithara|R|N
+citicoline	noun	citicoline|citicoline|R|N
+citing	verb	cite|cit|R|V ; -ing|ing|I||-ing (v)
+citizenly	adj	citizen|citizen|R|N ; -ly|ly|S||-ly (adj)
+citole	noun	citole|citole|R|N
+citral	noun	citral|citral|R|N
+citriculture	noun	citriculture|citriculture|R|N
+citrulline	noun	citrulline|citrulline|R|N
+cittern	noun	cittern|cittern|R|N
+civilianize	verb	civilian|civilian|R|N ; -ize|ize|S
+civilizable	adj	civilize|civiliz|R|V ; -able|able|S
+civilizer	noun	civilize|civiliz|R|V ; -er|er|S||-er (N)
+clachan	noun	clachan|clachan|R|N
+clacker	noun	clack|clack|R|V ; -er|er|S||-er (N)
+cladistic	adj	cladistic|cladistic|R|Adj
+cladistics	noun	cladistics|cladistics|R|N
+cladocarpous	adj	cladocarpous|cladocarpous|R|Adj
+cladode	noun	cladode|cladode|R|N
+cladogenesis	noun	cladogenesis|cladogenesis|R|N
+cladogram	noun	cladogram|cladogram|R|N
+cladophyll	noun	cladophyll|cladophyll|R|N
+cladoptosis	noun	cladoptosis|cladoptosis|R|N
+claggy	adj	clag|clagg|R|V ; -y|y|S
+claimable	adj	claim|claim|R|V ; -able|able|S
+claimer	noun	claim|claim|R|V ; -er|er|S||-er (N)
+claimless	adj	claim|claim|R|V ; -less|less|S
+clamant	adj	clam|clam|R|V ; -ant|ant|S
+clamantly	adv	clamant|clamant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+clamberer	noun	clamber|clamber|R|V ; -er|er|S||-er (N)
+clammily	adv	clammy|clammi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+clamminess	noun	clammy|clammi|R|Adj ; -ness|ness|S
+clamming	verb	clam|clamm|R|V ; -ing|ing|I||-ing (v)
+clamorously	adv	clamorous|clamorous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+clamorousness	noun	clamorous|clamorous|R|Adj ; -ness|ness|S
+clamouring	verb	clamour|clamour|R|V ; -ing|ing|I||-ing (v)
+clamped	verb	clamp|clamp|R|V ; -ed|ed|I||-ed (v2)
+clamper	noun	clamp|clamp|R|V ; -er|er|S||-er (N)
+clandestineness	noun	clandestine|clandestine|R|Adj ; -ness|ness|S
+clandestinity	noun	clandestine|clandestin|R|Adj ; -ity|ity|S
+clangorous	adj	clangour|clangor|R|N ; -ous|ous|S
+clangour	noun	clangour|clangour|R|N
+clanker	noun	clank|clank|R|V ; -er|er|S||-er (N)
+clannishly	adv	clannish|clannish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+clannishness	noun	clannish|clannish|R|Adj ; -ness|ness|S
+clanship	noun	clan|clan|R|N ; -ship|ship|S
+clanswoman	noun	clan|clans|R|N ; woman|woman|R|N
+clapped	verb	clap|clapp|R|V ; -ed|ed|I||-ed (v2)
+clapperboard	noun	clapper|clapper|R|N ; board|board|R|N
+claqueur	noun	claqueur|claqueur|R|N
+clarino	noun	clarino|clarino|R|N
+clarionet	noun	clarionet|clarionet|R|N
+clarithromycin	noun	clarithromycin|clarithromycin|R|N
+clarkia	noun	clarkia|clarkia|R|N
+clarsach	noun	clarsach|clarsach|R|N
+clasping	verb	clasp|clasp|R|V ; -ing|ing|I||-ing (v)
+classicality	noun	classic|classic|R|N ; -al|al|S ; -ity|ity|S
+classicistic	adj	classic|classic|R|N ; -ist|ist|S ; -ic|ic|S
+classicize	verb	classic|classic|R|N ; -ize|ize|S
+classics	noun	classic|classic|R|N ; -s|s|I||-s (plural)
+classificatorily	adv	classify|classific|R|V ; -ory|atori|S ; -ly|ly|I|Adv|-ly (adv)
+classifying	verb	classify|classify|R|V ; -ing|ing|I||-ing (v)
+classiness	noun	classy|classi|R|Adj ; -ness|ness|S
+clast	noun	clast|clast|R|N
+clastic	adj	clast|clast|R|N ; -ic|ic|S
+clatterer	noun	clatter|clatter|R|V ; -er|er|S||-er (N)
+clatteringly	adv	clatter|clatter|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+clausal	adj	clause|claus|R|N ; -al|al|S
+claustral	adj	claustrum|claustr|R|N ; -al|al|S
+claustrophile	noun	claustrophile|claustrophile|R|N
+claustrophilia	noun	claustrophilia|claustrophilia|R|N
+claustrophobe	noun	claustrophobe|claustrophobe|R|N
+claustrophobically	adv	claustrophobic|claustrophobic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+claustrum	noun	claustrum|claustrum|R|N
+clava	noun	clava|clava|R|N
+clavate	adj	clavate|clavate|R|Adj
+clavately	adv	clavate|clavate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+clavation	noun	clavate|clavat|R|Adj ; -ion|ion|S
+claves	noun	claves|claves|R|N
+clavichordist	noun	clavichord|clavichord|R|N ; -ist|ist|S
+clavicular	adj	clavicular|clavicular|R|Adj
+claviculate	adj	clavicle|clavicul|R|N ; -ate|ate|S
+clavicytherium	noun	clavicytherium|clavicytherium|R|N
+clavierist	noun	clavier|clavier|R|N ; -ist|ist|S
+claviform	adj	claviform|claviform|R|Adj
+clavus	noun	clavus|clavus|R|N
+claycourt	noun	clay|clay|R|N ; court|court|R|N
+clayen	adj	clay|clay|R|N ; -en|en|S
+clayish	adj	clay|clay|R|N ; -ish|ish|S
+claystone	noun	clay|clay|R|N ; stone|stone|R|N
+cleanable	adj	clean|clean|R|Adj ; -able|able|S
+cleanroom	noun	clean|clean|R|Adj ; room|room|R|N
+cleantech	noun	clean|clean|R|Adj ; tech|tech|R|N
+clearable	adj	clear|clear|R|Adj ; -able|able|S
+clearage	noun	clear|clear|R|V ; -age|age|S
+clearcole	noun	clearcole|clearcole|R|N
+clearcutting	noun	clear|clear|R|V ; cut|cutt|R|V ; -ing|ing|S||-ing (N)
+clearer	adj	clear|clear|R|Adj ; -er|er|I||-er (comparative)
+clears	verb	clear|clear|R|V ; -s|s|I||-s (3sg)
+cleartext	noun	clear|clear|R|Adj ; text|text|R|N
+clearway	noun	clear|clear|R|Adj ; way|way|R|N
+cleats	noun	cleat|cleat|R|N ; -s|s|I||-s (plural)
+cleavable	adj	cleave|cleav|R|V ; -able|able|S
+cleaved	verb	cleave|cleav|R|V ; -ed|ed|I||-ed (v2)
+cleavers	noun	cleave|cleav|R|V ; -er|er|S||-er (N) ; -s|s|I||-s (plural)
+cleaving	verb	cleave|cleav|R|V ; -ing|ing|I||-ing (v)
+cleek	noun	cleek|cleek|R|N
+cleidoic	adj	cleidoic|cleidoic|R|Adj
+clem	verb	clem|clem|R|V
+clementine	noun	clementine|clementine|R|N
+clemently	adv	clement|clement|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+clenbuterol	noun	clenbuterol|clenbuterol|R|N
+clencher	noun	clench|clench|R|V ; -er|er|S||-er (N)
+clenching	verb	clench|clench|R|V ; -ing|ing|I||-ing (v)
+cleome	noun	cleome|cleome|R|N
+clepsydra	noun	clepsydra|clepsydra|R|N
+clergyperson	noun	clergy|clergy|R|N ; person|person|R|N
+clergywoman	noun	clergy|clergy|R|N ; woman|woman|R|N
+clericalist	noun	clerical|clerical|R|Adj ; -ist|ist|S
+clerically	adv	clerical|clerical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+clerihew	noun	clerihew|clerihew|R|N

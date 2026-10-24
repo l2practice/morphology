@@ -1,0 +1,200 @@
+overspread	verb	over-|over|P ; spread|spread|R|V
+oversteer	verb	over-|over|P ; steer|steer|R|V
+overstride	verb	over-|over|P ; stride|stride|R|V
+overstrung	adj	over-|over|P ; string|strung|R|V ; -en||I||-en (participle)
+overstudy	verb	over-|over|P ; study|study|R|V
+oversubtle	adj	over-|over|P ; subtle|subtle|R|Adj
+oversubtlety	noun	over-|over|P ; subtle|subtlet|R|Adj ; -y|y|S
+oversweet	adj	over-|over|P ; sweet|sweet|R|Adj
+overswollen	adj	over-|over|P ; swell|swollen|R|V ; -en||I||-en (participle)
+overtaken	verb	over-|over|P ; take|taken|R|V ; -en||I||-en (participle)
+overtask	verb	over-|over|P ; task|task|R|V
+overtaxation	noun	over-|over|P ; tax|tax|R|V ; -ation|ation|S
+overtension	noun	over-|over|P ; tense|tens|R|Adj ; -ion|ion|S
+overthink	verb	over-|over|P ; think|think|R|V
+overthrust	noun	over-|over|P ; thrust|thrust|R|V
+overtired	adj	over-|over|P ; tire|tir|R|V ; -ed|ed|S||-ed (adj)
+overtoil	verb	over-|over|P ; toil|toil|R|V
+overtourism	noun	over-|over|P ; tour|tour|R|V ; -ism|ism|S
+overtrade	verb	over-|over|P ; trade|trade|R|V
+overtrain	verb	over-|over|P ; train|train|R|V
+overtranslate	verb	over-|over|P ; translate|translate|R|V
+overtrump	verb	over-|over|P ; trump|trump|R|V
+overvaluing	noun	over-|over|P ; value|valu|R|V ; -ing|ing|S||-ing (N)
+overveil	verb	over-|over|P ; veil|veil|R|V
+overvoltage	noun	over-|over|P ; volt|volt|R|N ; -age|age|S
+overwalk	verb	over-|over|P ; walk|walk|R|V
+overwatch	verb	over-|over|P ; watch|watch|R|V
+overwear	verb	over-|over|P ; wear|wear|R|V
+overween	verb	over-|over|P ; ween|ween|R|V
+overweightage	noun	over-|over|P ; weight|weight|R|N ; -age|age|S
+overwind	verb	over-|over|P ; wind|wind|R|V
+overworn	adj	over-|over|P ; wear|worn|R|V ; -en||I||-en (participle)
+overzeal	noun	over-|over|P ; zeal|zeal|R|N
+overzealousness	noun	over-|over|P ; zeal|zeal|R|N ; -ous|ous|S ; -ness|ness|S
+ovicapsule	noun	ovicapsule|ovicapsule|R
+ovicell	noun	ovicell|ovicell|R
+ovicide	noun	ovicide|ovicide|R
+oviduct	noun	oviduct|oviduct|R
+oviferous	adj	oviferous|oviferous|R
+oviform	adj	oviform|oviform|R
+ovine	adj	ovine|ovine|R
+oviparity	noun	oviparity|oviparity|R
+oviparousness	noun	oviparous|oviparous|R|Adj ; -ness|ness|S
+oviposit	verb	oviposit|oviposit|R
+oviraptor	noun	oviraptor|oviraptor|R
+ovisac	noun	ovisac|ovisac|R
+ovogenesis	noun	ovogenesis|ovogenesis|R
+ovogonium	noun	ovogonium|ovogonium|R
+ovoidal	adj	ovoid|ovoid|R|Adj ; -al|al|S
+ovolo	noun	ovolo|ovolo|R
+ovoo	noun	ovoo|ovoo|R
+ovotestis	noun	ovotestis|ovotestis|R
+ovovitellin	noun	ovovitellin|ovovitellin|R
+ovoviviparity	noun	ovoviviparity|ovoviviparity|R
+ovoviviparous	adj	ovoviviparous|ovoviviparous|R
+ovoviviparousness	noun	ovoviviparous|ovoviviparous|R|Adj ; -ness|ness|S
+ovular	adj	ovule|ovul|R|N ; -ar|ar|S
+ovulatory	adj	ovulate|ovulat|R|V ; -ory|ory|S
+oware	noun	oware|oware|R
+owed	verb	owe|ow|R|V ; -ed|ed|I||-ed (v2)
+owie	interj	owie|owie|R
+owler	noun	owl|owl|R|N ; -er|er|S||-er (N)
+owlery	noun	owl|owl|R|N ; -ery|ery|S
+owneress	noun	owner|owner|R|N ; -ess|ess|S
+ownerless	adj	owner|owner|R|N ; -less|less|S
+oxalic	adj	oxalic|oxalic|R
+oxalis	noun	oxalis|oxalis|R
+oxaloacetate	noun	oxaloacetate|oxaloacetate|R
+oxazine	noun	oxazine|oxazine|R
+oxblood	noun	ox|ox|R|N ; blood|blood|R|N
+oxen	noun	ox|oxen|R|N ; -s||I||-s (plural)
+oxer	noun	ox|ox|R|N ; -er|er|S||-er (N)
+oxgoad	noun	ox|ox|R|N ; goad|goad|R|N
+oxherd	noun	ox|ox|R|N ; herd|herd|R|N
+oxhide	noun	ox|ox|R|N ; hide|hide|R|N
+oxidable	adj	oxide|oxid|R|N ; -able|able|S
+oxidasic	adj	oxidase|oxidas|R|N ; -ic|ic|S
+oxidate	verb	oxide|oxid|R|N ; -ate|ate|S
+oxidic	adj	oxide|oxid|R|N ; -ic|ic|S
+oxidizable	adj	oxidize|oxidiz|R|V ; -able|able|S
+oxidization	noun	oxidize|oxidiz|R|V ; -ation|ation|S
+oxidoreductase	noun	oxidoreductase|oxidoreductase|R
+oxime	noun	oxime|oxime|R
+oximeter	noun	oximeter|oximeter|R
+oxlike	adj	ox|ox|R|N ; -like|like|S
+oxlip	noun	ox|ox|R|N ; lip|lip|R|N
+oxon	noun	oxon|oxon|R
+oxonian	noun	oxonian|oxonian|R
+oxonium	noun	oxonium|oxonium|R
+oxozone	noun	oxozone|oxozone|R
+oxpecker	noun	ox|ox|R|N ; pecker|pecker|R|N
+oxter	noun	oxter|oxter|R
+oxtongue	noun	ox|ox|R|N ; tongue|tongue|R|N
+oxy	adj	oxy|oxy|R
+oxyacetylene	noun	oxy|oxy|R ; acetylene|acetylene|R|N
+oxyacid	noun	oxy|oxy|R ; acid|acid|R|N
+oxybiotic	adj	oxy|oxy|R ; biotic|biotic|R|Adj
+oxycellulose	noun	oxy|oxy|R ; cellulose|cellulose|R|N
+oxycephalic	adj	oxy|oxy|R ; cephalic|cephalic|R|Adj
+oxychloride	noun	oxy|oxy|R ; chloride|chloride|R|N
+oxygenic	adj	oxygen|oxygen|R|N ; -ic|ic|S
+oxygenize	verb	oxygen|oxygen|R|N ; -ize|ize|S
+oxyhydrogen	noun	oxy|oxy|R ; hydrogen|hydrogen|R|N
+oxylium	noun	oxylium|oxylium|R
+oxymel	noun	oxymel|oxymel|R
+oxyopia	noun	oxyopia|oxyopia|R
+oxyphilic	adj	oxyphilic|oxyphilic|R
+oxysalt	noun	oxy|oxy|R ; salt|salt|R|N
+oxytocic	adj	oxytocin|oxytoc|R|N ; -ic|ic|S
+oxytone	noun	oxy|oxy|R ; tone|tone|R|N
+oxytonic	adj	oxytone|oxyton|R|N ; -ic|ic|S
+oyez	interj	oyez|oyez|R
+oysterer	noun	oyster|oyster|R|N ; -er|er|S||-er (N)
+oysterling	noun	oyster|oyster|R|N ; -ling|ling|S
+ozonic	adj	ozone|ozon|R|N ; -ic|ic|S
+ozoniferous	adj	ozoniferous|ozoniferous|R
+ozonization	noun	ozonize|ozoniz|R|V ; -ation|ation|S
+ozonize	verb	ozone|ozon|R|N ; -ize|ize|S
+ozonometer	noun	ozonometer|ozonometer|R
+ozonometry	noun	ozonometry|ozonometry|R
+ozonoscope	noun	ozonoscope|ozonoscope|R
+ozonosphere	noun	ozonosphere|ozonosphere|R
+ozostomia	noun	ozostomia|ozostomia|R
+pa	noun	pa|pa|R
+paan	noun	paan|paan|R
+paca	noun	paca|paca|R
+pacarana	noun	pacarana|pacarana|R
+paced	verb	pace|pac|R|V ; -ed|ed|I||-ed (v2)
+pacemaking	noun	pace|pace|R|N ; make|mak|R|V ; -ing|ing|S||-ing (N)
+pachisi	noun	pachisi|pachisi|R
+pachycephalic	adj	pachycephalic|pachycephalic|R
+pachycladous	adj	pachycladous|pachycladous|R
+pachydactylous	adj	pachydactylous|pachydactylous|R
+pachyderma	noun	pachyderma|pachyderma|R
+pachydermal	adj	pachyderm|pachyderm|R|N ; -al|al|S
+pachydermatous	adj	pachyderm|pachydermat|R|N ; -ous|ous|S
+pachydermic	adj	pachyderm|pachyderm|R|N ; -ic|ic|S
+pachydermous	adj	pachyderm|pachyderm|R|N ; -ous|ous|S
+pachymeter	noun	pachymeter|pachymeter|R
+pacifiable	adj	pacify|pacifi|R|V ; -able|able|S
+pacifically	adv	pacific|pacific|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+pacificator	noun	pacify|pacific|R|V ; -or|ator|S
+pacificatory	adj	pacify|pacific|R|V ; -ory|atory|S
+pacificism	noun	pacific|pacific|R|Adj ; -ism|ism|S
+pacifistically	adv	pacifist|pacifist|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+packability	noun	packable|packabil|R|Adj ; -ity|ity|S
+packable	adj	pack|pack|R|V ; -able|able|S
+packmule	noun	pack|pack|R|V ; mule|mule|R|N
+packsaddle	noun	pack|pack|R|N ; saddle|saddle|R|N
+padawan	noun	padawan|padawan|R
+paddleboarding	noun	paddle|paddle|R|V ; board|board|R|N ; -ing|ing|S||-ing (N)
+paddleboat	noun	paddle|paddle|R|V ; boat|boat|R|N
+paddled	verb	paddle|paddl|R|V ; -ed|ed|I||-ed (v2)
+paddywhack	noun	paddy|paddy|R|N ; whack|whack|R|V
+padel	noun	padel|padel|R
+pademelon	noun	pademelon|pademelon|R
+padkos	noun	padkos|padkos|R
+padless	adj	pad|pad|R|N ; -less|less|S
+padrone	noun	padrone|padrone|R
+padstone	noun	pad|pad|R|N ; stone|stone|R|N
+paduasoy	noun	paduasoy|paduasoy|R
+paederast	noun	paederast|paederast|R
+paediatrist	noun	paediatrist|paediatrist|R
+paedobaptism	noun	paedobaptism|paedobaptism|R
+paedogamy	noun	paedogamy|paedogamy|R
+paedologist	noun	paedologist|paedologist|R
+paedomorphic	adj	paedomorphic|paedomorphic|R
+paedophilia	noun	paedophilia|paedophilia|R
+paeon	noun	paeon|paeon|R
+pagandom	noun	pagan|pagan|R|N ; -dom|dom|S
+paganish	adj	pagan|pagan|R|N ; -ish|ish|S
+paganization	noun	paganize|paganiz|R|V ; -ation|ation|S
+paganize	verb	pagan|pagan|R|N ; -ize|ize|S
+paged	verb	page|pag|R|V ; -ed|ed|I||-ed (v2)
+pagedom	noun	page|page|R|N ; -dom|dom|S
+pageful	noun	page|page|R|N ; -ful|ful|S
+pagehood	noun	page|page|R|N ; -hood|hood|S
+pageship	noun	page|page|R|N ; -ship|ship|S
+paginal	adj	paginal|paginal|R
+paginary	adj	paginary|paginary|R
+paginate	verb	paginate|paginate|R
+paginated	adj	paginate|paginat|R|V ; -ed|ed|S||-ed (adj)
+pagodite	noun	pagodite|pagodite|R
+pahoehoe	noun	pahoehoe|pahoehoe|R
+paideutic	adj	paideutic|paideutic|R
+pailful	noun	pail|pail|R|N ; -ful|ful|S
+paillasse	noun	paillasse|paillasse|R
+paillette	noun	paillette|paillette|R
+painfulness	noun	pain|pain|R|N ; -ful|ful|S ; -ness|ness|S
+painkilling	adj	pain|pain|R|N ; kill|kill|R|V ; -ing|ing|S||-ing (adj)
+painlessness	noun	pain|pain|R|N ; -less|less|S ; -ness|ness|S
+pains	noun	pain|pain|R|N ; -s|s|I||-s (plural)
+painstaker	noun	pain|pains|R|N ; take|tak|R|V ; -er|er|S||-er (N)
+paintability	noun	paintable|paintabil|R|Adj ; -ity|ity|S
+paintable	adj	paint|paint|R|V ; -able|able|S
+paintbox	noun	paint|paint|R|V ; box|box|R|N
+painterliness	noun	painter|painter|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+painty	adj	paint|paint|R|V ; -y|y|S
+pairs	noun	pair|pair|R|N ; -s|s|I||-s (plural)
+paiza	noun	paiza|paiza|R

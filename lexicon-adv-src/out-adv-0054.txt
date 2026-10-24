@@ -1,0 +1,150 @@
+anaconda	noun	=
+facetious	adj	=
+fixer	noun	=
+hyperventilate	verb	=
+phenomenology	noun	phenomeno-|phenomeno|B|N|||Greek phainomenon 'thing appearing' ; -logy|logy|B|N|||Greek logos 'study, word'
+sonorous	adj	=
+obtuse	adj	=
+jocular	adj	=
+erudition	noun	=
+dogmatism	noun	=
+effusion	noun	ef-|ef|P||||Latin ex- 'out' ; -fus-|fus|B|V|||Latin fundere 'to pour' ; -ion|ion|S||||Latin -io 'act, state'
+eosinophil	noun	eosino-|eosino|B|N|||Greek eos 'dawn' ; -phil|phil|B|N|||Greek philos 'loving, fond'
+arithmetical	adj	=
+technicolor	noun	=
+clincher	noun	=
+esophageal	adj	=
+hydro	noun	=
+corroboration	noun	=
+revisionism	noun	=
+caulk	verb	=
+legitimation	noun	=
+multilateralism	noun	=
+cavalcade	noun	=
+bronchial	adj	bronchi-|bronchi|B|N|||Greek bronkhos 'windpipe' ; -al|al|S||||Latin -alis 'pertaining to'
+pharmacological	adj	pharmaco-|pharmaco|B|N|||Greek pharmakon 'drug, medicine' ; -log-|log|B|N|||Greek logos 'study, word' ; -ical|ical|S||||Latin -icalis 'pertaining to'
+preserver	noun	=
+pyre	noun	=
+figuration	noun	=
+emitter	noun	=
+mimesis	noun	mim-|mim|B|V|||Greek mimeisthai 'to imitate' ; -esis|esis|S||||Greek -esis 'process, state'
+bitumen	noun	=
+liquefy	verb	lique-|lique|B|V|||Latin liquere 'to be liquid' ; -fy|fy|S||||Latin -ficare 'to make'
+asynchronous	adj	=
+covey	noun	=
+voyeurism	noun	=
+antifreeze	noun	=
+collation	noun	col-|col|P||||Latin con- 'together' ; -lat-|lat|B|V|||Latin ferre 'to carry, bear' ; -ion|ion|S||||Latin -io 'act, state'
+behaviourist	noun	=
+meritorious	adj	merit-|merit|B|V|||Latin merere 'to earn, deserve' ; -orious|orious|S||||Latin -orius 'tending to'
+repulsion	noun	re-|re|P||||Latin re- 'back, away' ; -puls-|puls|B|V|||Latin pellere 'to drive, push' ; -ion|ion|S||||Latin -io 'act, state'
+tranche	noun	=
+neoliberalism	noun	=
+granary	noun	=
+classicism	noun	=
+constructor	noun	=
+arthropod	noun	arthro-|arthro|B|N|||Greek arthron 'joint' ; -pod|pod|B|N|||Greek pous 'foot'
+ephemera	noun	=
+secessionist	noun	=
+circadian	adj	=
+lactic	adj	lact-|lact|B|N|||Latin lac 'milk' ; -ic|ic|S||||Latin -icus 'pertaining to'
+impolite	adj	=
+paunch	noun	=
+riviera	noun	=
+ocular	adj	ocul-|ocul|B|N|||Latin oculus 'eye' ; -ar|ar|S||||Latin -aris 'pertaining to'
+remiss	adj	re-|re|P||||Latin re- 'back, again' ; -miss|miss|B|V|||Latin mittere 'to send'
+leviathan	noun	=
+paean	noun	=
+supplication	noun	=
+columbine	noun	=
+internalization	noun	=
+tensile	adj	tens-|tens|B|V|||Latin tendere 'to stretch' ; -ile|ile|S||||Latin -ilis 'able to be, related'
+pyrotechnic	adj	pyro-|pyro|B|N|||Greek pyr 'fire' ; -technic|technic|B|N|||Greek tekhne 'art, skill'
+sprite	noun	=
+wanker	noun	=
+signet	noun	sign-|sign|B|N|||Latin signum 'sign, mark' ; -et|et|S||||Latin -etum 'small, diminutive'
+topology	noun	topo-|topo|B|N|||Greek topos 'place' ; -logy|logy|B|N|||Greek logos 'study, word'
+casein	noun	case-|case|B|N|||Latin caseus 'cheese' ; -in|in|S||||Greek -ine 'chemical substance'
+colic	adj	col-|col|B|N|||Greek kolon 'colon, large intestine' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+solder	noun	=
+homesteader	noun	=
+distributive	adj	dis-|dis|P||||Latin dis- 'apart' ; -tribut-|tribut|B|V|||Latin tribuere 'to assign, allot' ; -ive|ive|S||||Latin -ivus 'tending to'
+palisade	noun	=
+accusatory	adj	=
+portage	noun	=
+prurient	adj	=
+flotsam	noun	=
+beautify	verb	beaut-|beaut|B|Adj|||Latin bellus 'beautiful, fine' ; -ify|ify|S||||Latin -ficare 'to make'
+pseudo	noun	=
+boreal	adj	=
+omnipotent	adj	omni-|omni|P||||Latin omnis 'all' ; -pot-|pot|B|V|||Latin posse 'to be able' ; -ent|ent|S||||Latin -ens 'agent'
+harmonization	noun	=
+filigree	noun	=
+palpitation	noun	=
+armature	noun	arm-|arm|B|N|||Latin arma 'arms, weapons' ; -ature|ature|S||||Latin -atura 'equipment, act'
+antiterrorism	noun	=
+hydraulics	noun	=
+silencer	noun	=
+ennui	noun	=
+quartile	noun	=
+irascible	adj	=
+empiricism	noun	=
+denture	noun	dent-|dent|B|N|||Latin dens 'tooth' ; -ure|ure|S||||Latin -ura 'set, collection'
+exorcist	noun	=
+gigabyte	noun	=
+laminate	verb	=
+occlusion	noun	oc-|oc|P||||Latin ob- 'against, shut' ; -clus-|clus|B|V|||Latin claudere 'to shut, close' ; -ion|ion|S||||Latin -io 'act, state'
+anatomic	adj	=
+stunner	noun	=
+quint	noun	=
+mart	noun	=
+repeater	noun	=
+convolute	verb	=
+clematis	noun	=
+telenovela	noun	=
+tinsel	noun	=
+putrid	adj	putr-|putr|B|V|||Latin putrere 'to be rotten' ; -id|id|S||||Latin -idus 'tending to'
+fetid	adj	=
+odometer	noun	odo-|odo|B|N|||Greek hodos 'road, path' ; -meter|meter|B|N|||Greek metron 'measure'
+beatific	adj	beat-|beat|B|Adj|||Latin beatus 'blessed' ; -ific|ific|S||||Latin -ficus 'making'
+osmosis	noun	=
+sonogram	noun	sono-|sono|B|N|||Latin sonus 'sound' ; -gram|gram|B|N|||Greek gramma 'letter, writing'
+phlox	noun	=
+professionalization	noun	=
+acoustical	adj	=
+ergonomics	noun	ergo-|ergo|B|N|||Greek ergon 'work' ; -nomics|nomics|B|N|||Greek nomos 'law, rule'
+contortion	noun	con-|con|P||||Latin con- 'together' ; -tort-|tort|B|V|||Latin torquere 'to twist' ; -ion|ion|S||||Latin -io 'act, state'
+gonorrhea	noun	gono-|gono|B|N|||Greek gonos 'sperm, seed' ; -rrhea|rrhea|B|N|||Greek rhoia 'flow'
+glorification	noun	=
+goth	noun	=
+quorum	noun	=
+lactation	noun	=
+typography	noun	=
+elongate	verb	=
+cant	noun	=
+apogee	noun	apo-|apo|P||||Greek apo- 'away, from' ; -gee|gee|B|N|||Greek ge 'earth'
+lasso	noun	=
+tremulous	adj	=
+baseless	adj	=
+hermeneutical	adj	=
+procrastinate	verb	=
+prelate	noun	=
+forceps	noun	=
+typographical	adj	=
+macroscopic	adj	macro-|macro|B|Adj|||Greek makros 'large, long' ; -scop-|scop|B|V|||Greek skopein 'to look, see' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+prefigure	verb	=
+constitutionalism	noun	=
+lascivious	adj	=
+censorious	adj	=
+insolence	noun	=
+tincture	noun	=
+glamorize	verb	=
+intramural	adj	=
+trophic	adj	troph-|troph|B|N|||Greek trophe 'food, nourishment' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+vitriol	noun	=
+aquamarine	noun	aqua-|aqua|B|N|||Latin aqua 'water' ; marine|marine|R|Adj
+undulation	noun	=
+testicular	adj	=
+penitent	adj	=
+colorist	noun	=
+extrude	verb	=

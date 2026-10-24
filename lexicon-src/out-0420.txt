@@ -1,0 +1,200 @@
+vehiculate	verb	vehicle|vehicul|R|N ; -ate|ate|S
+vehiculation	noun	vehicle|vehicul|R|N ; -ation|ation|S
+veiledly	adv	veil|veil|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+veinal	adj	vein|vein|R|N ; -al|al|S
+veining	noun	vein|vein|R|N ; -ing|ing|S||-ing (N)
+veinless	adj	vein|vein|R|N ; -less|less|S
+veinlet	noun	vein|vein|R|N ; -let|let|S
+veinous	adj	vein|vein|R|N ; -ous|ous|S
+veinstone	noun	vein|vein|R|N ; stone|stone|R|N
+velamen	noun	velamen|velamen|R|N
+velamentous	adj	velamentous|velamentous|R|Adj
+velamentum	noun	velamentum|velamentum|R|N
+velar	adj	velum|vel|R|N ; -ar|ar|S
+velarization	noun	velum|vel|R|N ; -ar|ar|S ; -ize|iz|S ; -ation|ation|S
+velarize	verb	velum|vel|R|N ; -ar|ar|S ; -ize|ize|S
+velella	noun	velella|velella|R|N
+veleta	noun	veleta|veleta|R|N
+velleity	noun	velleity|velleity|R|N
+vellicate	verb	vellicate|vellicate|R|V
+vellication	noun	vellicate|vellicat|R|V ; -ion|ion|S
+velocimeter	noun	velocimeter|velocimeter|R|N
+velocipede	noun	velocipede|velocipede|R|N
+velocipedist	noun	velocipede|velociped|R|N ; -ist|ist|S
+velum	noun	velum|velum|R|N
+velure	noun	velure|velure|R|N
+velutinous	adj	velutinous|velutinous|R|Adj
+velvetiness	noun	velvet|velvet|R|N ; -y|i|S ; -ness|ness|S
+velveting	noun	velvet|velvet|R|N ; -ing|ing|S||-ing (N)
+velvetleaf	noun	velvet|velvet|R|N ; leaf|leaf|R|N
+venally	adv	venal|venal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+venatic	adj	venatic|venatic|R|Adj
+venation	noun	venation|venation|R|N
+venational	adj	venation|venation|R|N ; -al|al|S
+venatorial	adj	venatorial|venatorial|R|Adj
+venatory	adj	venatory|venatory|R|Adj
+vendace	noun	vendace|vendace|R|N
+vendee	noun	vend|vend|R|V ; -ee|ee|S
+vendibility	noun	vend|vend|R|V ; -ible|ibil|S ; -ity|ity|S
+vendible	adj	vend|vend|R|V ; -ible|ible|S
+vendibleness	noun	vend|vend|R|V ; -ible|ible|S ; -ness|ness|S
+veneerer	noun	veneer|veneer|R|V ; -er|er|S||-er (N)
+veneering	noun	veneer|veneer|R|V ; -ing|ing|S||-ing (N)
+venerability	noun	venerable|venerabil|R|Adj ; -ity|ity|S
+venerableness	noun	venerable|venerable|R|Adj ; -ness|ness|S
+venerably	adv	venerable|venerabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+venerational	adj	venerate|venerat|R|V ; -ion|ion|S ; -al|al|S
+venerator	noun	venerate|vener|R|V ; -or|ator|S
+venereologist	noun	venereology|venereolog|R|N ; -ist|ist|S
+venereology	noun	venereology|venereology|R|N
+venerer	noun	venerate|vener|R|V ; -er|er|S||-er (N)
+venerid	noun	venerid|venerid|R|N
+venery	noun	venery|venery|R|N
+venesect	verb	venesect|venesect|R|V
+venesection	noun	venesection|venesection|R|N
+venezolano	noun	venezolano|venezolano|R|N
+veniality	noun	venial|venial|R|Adj ; -ity|ity|S
+venially	adv	venial|venial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+venialness	noun	venial|venial|R|Adj ; -ness|ness|S
+venin	noun	venin|venin|R|N
+venipuncture	noun	venipuncture|venipuncture|R|N
+venomed	adj	venom|venom|R|N ; -ed|ed|S||-ed (adj)
+venomization	noun	venom|venom|R|N ; -ize|iz|S ; -ation|ation|S
+venomosalivary	adj	venomosalivary|venomosalivary|R|Adj
+venomotor	adj	venomotor|venomotor|R|Adj
+venomousness	noun	venom|venom|R|N ; -ous|ous|S ; -ness|ness|S
+venose	adj	venose|venose|R|Adj
+venously	adv	venous|venous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+venousness	noun	venous|venous|R|Adj ; -ness|ness|S
+venta	noun	venta|venta|R|N
+ventage	noun	vent|vent|R|N ; -age|age|S
+venter	noun	venter|venter|R|N
+ventiduct	noun	ventiduct|ventiduct|R|N
+ventilative	adj	ventilate|ventilat|R|V ; -ive|ive|S
+ventrally	adv	ventral|ventral|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+ventricose	adj	ventricose|ventricose|R|Adj
+ventricosity	noun	ventricose|ventricos|R|Adj ; -ity|ity|S
+ventriculus	noun	ventriculus|ventriculus|R|N
+ventriloquial	adj	ventriloquy|ventriloqui|R|N ; -al|al|S
+ventriloquially	adv	ventriloquy|ventriloqui|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+ventriloquistic	adj	ventriloquy|ventriloqu|R|N ; -ist|ist|S ; -ic|ic|S
+ventriloquize	verb	ventriloquy|ventriloqu|R|N ; -ize|ize|S
+ventriloquy	noun	ventriloquy|ventriloquy|R|N
+ventripotent	adj	ventripotent|ventripotent|R|Adj
+ventrodorsal	adj	ventrodorsal|ventrodorsal|R|Adj
+ventrodorsally	adv	ventrodorsal|ventrodorsal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+venturesomely	adv	venture|venture|R|V ; -some|some|S ; -ly|ly|I|Adv|-ly (adv)
+venturesomeness	noun	venture|venture|R|V ; -some|some|S ; -ness|ness|S
+venturously	adv	venture|ventur|R|V ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+venturousness	noun	venture|ventur|R|V ; -ous|ous|S ; -ness|ness|S
+venule	noun	venule|venule|R|N
+venus	noun	venus|venus|R
+venusquake	noun	venus|venus|R ; quake|quake|R|V
+veny	noun	veny|veny|R|N
+veracious	adj	veracious|veracious|R|Adj
+veraciously	adv	veracious|veracious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+veraciousness	noun	veracious|veracious|R|Adj ; -ness|ness|S
+verbalism	noun	verb|verb|R|N ; -al|al|S ; -ism|ism|S
+verbalist	noun	verb|verb|R|N ; -al|al|S ; -ist|ist|S
+verbalistic	adj	verb|verb|R|N ; -al|al|S ; -ist|ist|S ; -ic|ic|S
+verbalizer	noun	verb|verb|R|N ; -al|al|S ; -ize|iz|S ; -er|er|S||-er (N)
+verbarian	noun	verbarian|verbarian|R|N
+verbarium	noun	verbarium|verbarium|R|N
+verberation	noun	verberation|verberation|R|N
+verbicide	noun	verbicide|verbicide|R|N
+verbify	verb	verb|verb|R|N ; -ify|ify|S
+verbigerate	verb	verbigerate|verbigerate|R|V
+verbigeration	noun	verbigeration|verbigeration|R|N
+verbosely	adv	verbose|verbose|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+verboseness	noun	verbose|verbose|R|Adj ; -ness|ness|S
+verdancy	noun	verdant|verdan|R|Adj ; -cy|cy|S
+verdantly	adv	verdant|verdant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+verdured	adj	verdure|verdure|R|N ; -ed|d|S||-ed (adj)
+verdurous	adj	verdure|verdur|R|N ; -ous|ous|S
+verdurousness	noun	verdure|verdur|R|N ; -ous|ous|S ; -ness|ness|S
+verecund	adj	verecund|verecund|R|Adj
+verging	verb	verge|verg|R|V ; -ing|ing|I||-ing (v)
+veridic	adj	veridic|veridic|R|Adj
+veridical	adj	veridic|veridic|R|Adj ; -al|al|S
+veridicality	noun	veridical|veridical|R|Adj ; -ity|ity|S
+veridically	adv	veridical|veridical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+verifiableness	noun	verify|verifi|R|V ; -able|able|S ; -ness|ness|S
+verificationism	noun	verify|verifi|R|V ; -ation|cation|S ; -ism|ism|S
+verificative	adj	verify|verifi|R|V ; -ative|cative|S
+verificatory	adj	verify|verifi|R|V ; -ory|catory|S
+verisimilar	adj	verisimilar|verisimilar|R|Adj
+verisimilarly	adv	verisimilar|verisimilar|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+verisimilitudinous	adj	verisimilitudinous|verisimilitudinous|R|Adj
+veritableness	noun	verity|verit|R|N ; -able|able|S ; -ness|ness|S
+verjuice	noun	verjuice|verjuice|R|N
+verlan	noun	verlan|verlan|R|N
+vermicidal	adj	vermicide|vermicid|R|N ; -al|al|S
+vermicide	noun	vermicide|vermicide|R|N
+vermicular	adj	vermicule|vermicul|R|N ; -ar|ar|S
+vermicularly	adv	vermicule|vermicul|R|N ; -ar|ar|S ; -ly|ly|I|Adv|-ly (adv)
+vermiculate	adj	vermicule|vermicul|R|N ; -ate|ate|S
+vermiculated	adj	vermicule|vermicul|R|N ; -ate|ate|S ; -ed|d|S||-ed (adj)
+vermiculation	noun	vermicule|vermicul|R|N ; -ation|ation|S
+vermiculous	adj	vermicule|vermicul|R|N ; -ous|ous|S
+vermiform	adj	vermiform|vermiform|R|Adj
+vermifugal	adj	vermifuge|vermifug|R|N ; -al|al|S
+vermifuge	noun	vermifuge|vermifuge|R|N
+verminate	verb	vermin|vermin|R|N ; -ate|ate|S
+verminously	adv	vermin|vermin|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+vermivorous	adj	vermivorous|vermivorous|R|Adj
+vernacularism	noun	vernacular|vernacular|R|N ; -ism|ism|S
+vernacularity	noun	vernacular|vernacular|R|N ; -ity|ity|S
+vernacularize	verb	vernacular|vernacular|R|N ; -ize|ize|S
+vernacularly	adv	vernacular|vernacular|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+vernalization	noun	vernal|vernal|R|Adj ; -ize|iz|S ; -ation|ation|S
+vernalize	verb	vernal|vernal|R|Adj ; -ize|ize|S
+vernally	adv	vernal|vernal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+vernation	noun	vernation|vernation|R|N
+vernissage	noun	vernissage|vernissage|R|N
+veronal	noun	veronal|veronal|R|N
+veronica	noun	veronica|veronica|R
+verruca	noun	verruca|verruca|R|N
+verrucose	adj	verrucose|verrucose|R|Adj
+verrucous	adj	verruca|verruc|R|N ; -ous|ous|S
+vers	noun	vers|vers|R|N
+versal	adj	verse|vers|R|N ; -al|al|S
+versant	noun	versant|versant|R|N
+versatilely	adv	versatile|versatile|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+versed	adj	verse|verse|R|N ; -ed|d|S||-ed (adj)
+verseman	noun	verse|verse|R|N ; man|man|R|N
+versemonger	noun	verse|verse|R|N ; monger|monger|R|N
+verset	noun	verse|vers|R|N ; -et|et|S
+versicle	noun	versicle|versicle|R|N
+versicolour	adj	versicolour|versicolour|R|Adj
+versicoloured	adj	versicolour|versicolour|R|Adj ; -ed|ed|S||-ed (adj)
+versicular	adj	versicle|versicul|R|N ; -ar|ar|S
+versificator	noun	versify|versifi|R|V ; -ator|cator|S
+versifier	noun	versify|versifi|R|V ; -er|er|S||-er (N)
+versifying	verb	versify|versify|R|V ; -ing|ing|I||-ing (v)
+versing	verb	verse|vers|R|V ; -ing|ing|I||-ing (v)
+versional	adj	version|version|R|N ; -al|al|S
+versioning	noun	version|version|R|N ; -ing|ing|S||-ing (N)
+versionist	noun	version|version|R|N ; -ist|ist|S
+verst	noun	verst|verst|R|N
+versute	adj	versute|versute|R|Adj
+vertebrally	adv	vertebra|vertebr|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+vertebrated	adj	vertebra|vertebr|R|N ; -ate|ate|S ; -ed|d|S||-ed (adj)
+vertebration	noun	vertebra|vertebr|R|N ; -ation|ation|S
+verticalness	noun	vertical|vertical|R|Adj ; -ness|ness|S
+verticel	noun	verticel|verticel|R|N
+verticil	noun	verticil|verticil|R|N
+verticillate	adj	verticil|verticill|R|N ; -ate|ate|S
+verticillately	adv	verticil|verticill|R|N ; -ate|ate|S ; -ly|ly|I|Adv|-ly (adv)
+verticillation	noun	verticil|verticill|R|N ; -ation|ation|S
+vertiginate	verb	vertiginate|vertiginate|R|V
+vertiginously	adv	vertiginous|vertiginous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+vertiginousness	noun	vertiginous|vertiginous|R|Adj ; -ness|ness|S
+vesania	noun	vesania|vesania|R|N
+vesica	noun	vesica|vesica|R|N
+vesical	adj	vesica|vesic|R|N ; -al|al|S
+vesicant	noun	vesica|vesic|R|N ; -ant|ant|S
+vesicate	verb	vesica|vesic|R|N ; -ate|ate|S
+vesication	noun	vesica|vesic|R|N ; -ation|ation|S
+vesicatory	adj	vesica|vesic|R|N ; -ory|atory|S
+vesicularly	adv	vesicle|vesicul|R|N ; -ar|ar|S ; -ly|ly|I|Adv|-ly (adv)
+vesiculate	adj	vesicle|vesicul|R|N ; -ate|ate|S

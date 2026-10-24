@@ -1,0 +1,200 @@
+thixotropy	noun	thixotropy|thixotropy|R|N
+thole	noun	thole|thole|R|N
+thorite	noun	thorite|thorite|R|N
+thornback	noun	thorn|thorn|R|N ; back|back|R|N
+thorniness	noun	thorny|thorni|R|Adj ; -ness|ness|S
+thoroughpaced	adj	thorough|thorough|R|Adj ; pace|pac|R|V ; -ed|ed|S||-ed (adj)
+thoroughwort	noun	thorough|thorough|R|Adj ; wort|wort|R|N
+thoughtcrime	noun	thought|thought|R|N ; crime|crime|R|N
+thraldom	noun	thrall|thral|R|N ; -dom|dom|S
+thrasher	noun	thrash|thrash|R|V ; -er|er|S||-er (N)
+threader	noun	thread|thread|R|N ; -er|er|S||-er (N)
+threadlike	adj	thread|thread|R|N ; -like|like|S
+threads	noun	thread|thread|R|N ; -s|s|I||-s (plural)
+threadworm	noun	thread|thread|R|N ; worm|worm|R|N
+threes	noun	three|three|R ; -s|s|I||-s (plural)
+threesquare	noun	three|three|R ; square|square|R|N
+threeven	noun	threeven|threeven|R|N
+threne	noun	threne|threne|R|N
+threnetic	adj	threnetic|threnetic|R|Adj
+threonine	noun	threonine|threonine|R|N
+thriftily	adv	thrifty|thrifti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+thriftless	adj	thrift|thrift|R|N ; -less|less|S
+thriftlessness	noun	thrift|thrift|R|N ; -less|less|S ; -ness|ness|S
+thrips	noun	thrips|thrips|R|N
+throatiness	noun	throaty|throati|R|Adj ; -ness|ness|S
+throdd	noun	throdd|throdd|R|N
+thrombocyte	noun	thrombocyte|thrombocyte|R|N
+thrombocytopenic	adj	thrombocytopenia|thrombocytopen|R|N ; -ic|ic|S
+thrombocytosis	noun	thrombocytosis|thrombocytosis|R|N
+thronging	noun	throng|throng|R|V ; -ing|ing|S||-ing (N)
+throstle	noun	throstle|throstle|R|N
+throttling	noun	throttle|throttl|R|V ; -ing|ing|S||-ing (N)
+throughline	noun	through|through|R|Adv ; line|line|R|N
+throuple	noun	throuple|throuple|R|N
+thrown	verb	throw|thrown|R|V ; -en||I||-en (participle)
+thrummed	verb	thrum|thrumm|R|V ; -ed|ed|I||-ed (v2)
+thrummy	adj	thrum|thrumm|R|V ; -y|y|S
+thuggee	noun	thug|thugg|R|N ; -ee|ee|S
+thuggism	noun	thug|thugg|R|N ; -ism|ism|S
+thuja	noun	thuja|thuja|R|N
+thukpa	noun	thukpa|thukpa|R|N
+thulium	noun	thulium|thulium|R|N
+thumbed	verb	thumb|thumb|R|N ; -ed|ed|I||-ed (v2)
+thumbing	verb	thumb|thumb|R|N ; -ing|ing|I||-ing (v)
+thunderation	noun	thunder|thunder|R|N ; -ation|ation|S
+thunderer	noun	thunder|thunder|R|N ; -er|er|S||-er (N)
+thunderpeal	noun	thunder|thunder|R|N ; peal|peal|R|N
+thundersnow	noun	thunder|thunder|R|N ; snow|snow|R|N
+thunderstroke	noun	thunder|thunder|R|N ; stroke|stroke|R|N
+thurible	noun	thurible|thurible|R|N
+thurifer	noun	thurifer|thurifer|R|N
+thurification	noun	thurify|thurifi|R|V ; -ation|cation|S
+thurify	verb	thurify|thurify|R|V
+thwacking	verb	thwack|thwack|R|V ; -ing|ing|I||-ing (v)
+thwarting	verb	thwart|thwart|R|V ; -ing|ing|I||-ing (v)
+thylacine	noun	thylacine|thylacine|R|N
+thylakoid	noun	thylakoid|thylakoid|R|N
+thymidine	noun	thymidine|thymidine|R|N
+thymol	noun	thymol|thymol|R|N
+thymoma	noun	thymoma|thymoma|R|N
+thyristor	noun	thyristor|thyristor|R|N
+thyroxine	noun	thyroxine|thyroxine|R|N
+thyrse	noun	thyrse|thyrse|R|N
+thyrsus	noun	thyrsus|thyrsus|R|N
+ti	noun	ti|ti|R|N
+tibiotarsus	noun	tibiotarsus|tibiotarsus|R|N
+ticked	verb	tick|tick|R|V ; -ed|ed|I||-ed (v2)
+tickets	noun	ticket|ticket|R|N ; -s|s|I||-s (plural)
+tickicide	noun	tickicide|tickicide|R|N
+tickled	verb	tickle|tickl|R|V ; -ed|ed|I||-ed (v2)
+ticklishness	noun	ticklish|ticklish|R|Adj ; -ness|ness|S
+tickly	adj	tickle|tickl|R|V ; -y|y|S
+ticktack	noun	tick|tick|R|N ; tack|tack|R|N
+tiddlywinks	noun	tiddlywinks|tiddlywinks|R|N
+tided	verb	tide|tid|R|N ; -ed|ed|I||-ed (v2)
+tideless	adj	tide|tide|R|N ; -less|less|S
+tidying	verb	tidy|tidy|R|Adj ; -ing|ing|I||-ing (v)
+tiebeam	noun	tie|tie|R|V ; beam|beam|R|N
+tiepin	noun	tie|tie|R|V ; pin|pin|R|N
+tierce	noun	tierce|tierce|R|N
+tierced	adj	tierce|tierce|R|N ; -ed|d|S||-ed (adj)
+tiercel	noun	tiercel|tiercel|R|N
+tiercet	noun	tiercet|tiercet|R|N
+ties	noun	tie|tie|R|N ; -s|s|I||-s (plural)
+tiffin	noun	tiffin|tiffin|R|N
+tig	noun	tig|tig|R|N
+tige	noun	tige|tige|R|N
+tigerism	noun	tiger|tiger|R|N ; -ism|ism|S
+tightass	noun	tight|tight|R|Adj ; ass|ass|R|N
+tightener	noun	tighten|tighten|R|V ; -er|er|S||-er (N)
+tigon	noun	tigon|tigon|R|N
+tigrine	adj	tigrine|tigrine|R|Adj
+tigrish	adj	tiger|tigr|R|N ; -ish|ish|S
+tilak	noun	tilak|tilak|R|N
+tilery	noun	tile|til|R|N ; -ery|ery|S
+tilework	noun	tile|tile|R|N ; work|work|R|N
+tillable	adj	till|till|R|V ; -able|able|S
+tilter	noun	tilt|tilt|R|V ; -er|er|S||-er (N)
+timar	noun	timar|timar|R|N
+timbal	noun	timbal|timbal|R|N
+timberman	noun	timber|timber|R|N ; man|man|R|N
+timbrel	noun	timbrel|timbrel|R|N
+timeout	noun	time|time|R|N ; out|out|R|Adv
+timeproof	adj	time|time|R|N ; proof|proof|R|N
+timesaving	adj	time|time|R|N ; save|sav|R|V ; -ing|ing|S||-ing (adj)
+timescape	noun	timescape|timescape|R|N
+timeserver	noun	time|time|R|N ; serve|serv|R|V ; -er|er|S||-er (N)
+timesheet	noun	time|time|R|N ; sheet|sheet|R|N
+timeslot	noun	time|time|R|N ; slot|slot|R|N
+timestamp	noun	time|time|R|N ; stamp|stamp|R|N
+timework	noun	time|time|R|N ; work|work|R|N
+timeworn	adj	time|time|R|N ; wear|worn|R|V ; -en||I||-en (participle)
+timidness	noun	timid|timid|R|Adj ; -ness|ness|S
+timocracy	noun	timocracy|timocracy|R|N
+timorously	adv	timorous|timorous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+timorousness	noun	timorous|timorous|R|Adj ; -ness|ness|S
+timorsome	adj	timorsome|timorsome|R|Adj
+timpano	noun	timpano|timpano|R|N
+tinamou	noun	tinamou|tinamou|R|N
+tinctorial	adj	tinctorial|tinctorial|R|Adj
+tinctured	adj	tincture|tincture|R|N ; -ed|d|S||-ed (adj)
+tincturing	verb	tincture|tinctur|R|N ; -ing|ing|I||-ing (v)
+tindery	adj	tinder|tinder|R|N ; -y|y|S
+tinhorn	noun	tin|tin|R|N ; horn|horn|R|N
+tininess	noun	tiny|tini|R|Adj ; -ness|ness|S
+tinkler	noun	tinkle|tinkl|R|V ; -er|er|S||-er (N)
+tinman	noun	tin|tin|R|N ; man|man|R|N
+tinner	noun	tin|tinn|R|N ; -er|er|S||-er (N)
+tinnery	noun	tin|tinn|R|N ; -ery|ery|S
+tinning	noun	tin|tinn|R|N ; -ing|ing|S||-ing (N)
+tinselled	adj	tinsel|tinsell|R|N ; -ed|ed|S||-ed (adj)
+tinselly	adj	tinsel|tinsell|R|N ; -y|y|S
+tinsnips	noun	tin|tin|R|N ; snip|snip|R|V ; -s|s|I||-s (plural)
+tinter	noun	tint|tint|R|N ; -er|er|S||-er (N)
+tintinnabulation	noun	tintinnabulum|tintinnabul|R|N ; -ation|ation|S
+tintinnabulum	noun	tintinnabulum|tintinnabulum|R|N
+tintometer	noun	tintometer|tintometer|R|N
+tinty	adj	tint|tint|R|N ; -y|y|S
+tipcat	noun	tip|tip|R|N ; cat|cat|R|N
+tipped	verb	tip|tipp|R|V ; -ed|ed|I||-ed (v2)
+tippler	noun	tipple|tippl|R|V ; -er|er|S||-er (N)
+tippling	verb	tipple|tippl|R|V ; -ing|ing|I||-ing (v)
+tips	noun	tip|tip|R|N ; -s|s|I||-s (plural)
+tipsily	adv	tipsy|tipsi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+tipsiness	noun	tipsy|tipsi|R|Adj ; -ness|ness|S
+tipstaff	noun	tip|tip|R|N ; staff|staff|R|N
+tiptoes	noun	tip|tip|R|N ; toe|toe|R|N ; -s|s|I||-s (plural)
+tiresomeness	noun	tiresome|tiresome|R|Adj ; -ness|ness|S
+tirocinium	noun	tirocinium|tirocinium|R|N
+tissued	adj	tissue|tissue|R|N ; -ed|d|S||-ed (adj)
+titan	noun	titan|titan|R|N
+titanesque	adj	titan|titan|R|N ; -esque|esque|S
+titanian	adj	titan|titan|R|N ; -ian|ian|S
+titanic	adj	titan|titan|R|N ; -ic|ic|S
+titanite	noun	titanite|titanite|R|N
+tithable	adj	tithe|tith|R|N ; -able|able|S
+tithed	verb	tithe|tith|R|N ; -ed|ed|I||-ed (v2)
+tither	noun	tithe|tith|R|N ; -er|er|S||-er (N)
+tithi	noun	tithi|tithi|R|N
+titillative	adj	titillate|titillat|R|V ; -ive|ive|S
+titin	noun	titin|titin|R|N
+titivate	verb	titivate|titivate|R|V
+titivation	noun	titivate|titivat|R|V ; -ion|ion|S
+titlark	noun	tit|tit|R|N ; lark|lark|R|N
+titleless	adj	title|title|R|N ; -less|less|S
+titler	noun	title|titl|R|N ; -er|er|S||-er (N)
+titrimetric	adj	titrimetry|titrimetr|R|N ; -ic|ic|S
+tittering	verb	titter|titter|R|V ; -ing|ing|I||-ing (v)
+titubate	verb	titubate|titubate|R|V
+titubation	noun	titubate|titubat|R|V ; -ion|ion|S
+titulary	noun	titulary|titulary|R|N
+titushky	noun	titushky|titushky|R|N
+tkemali	noun	tkemali|tkemali|R|N
+tmesis	noun	tmesis|tmesis|R|N
+toadflax	noun	toad|toad|R|N ; flax|flax|R|N
+toadish	adj	toad|toad|R|N ; -ish|ish|S
+toadstone	noun	toad|toad|R|N ; stone|stone|R|N
+toadying	verb	toady|toady|R|V ; -ing|ing|I||-ing (v)
+toadyism	noun	toady|toady|R|V ; -ism|ism|S
+tobogganer	noun	toboggan|toboggan|R|N ; -er|er|S||-er (N)
+tobogganing	noun	toboggan|toboggan|R|N ; -ing|ing|S||-ing (N)
+tobogganist	noun	toboggan|toboggan|R|N ; -ist|ist|S
+toby	noun	toby|toby|R|N
+toccata	noun	toccata|toccata|R|N
+tocher	noun	tocher|tocher|R|N
+toco	noun	toco|toco|R|N
+tocologist	noun	tocology|tocolog|R|N ; -ist|ist|S
+tocology	noun	tocology|tocology|R|N
+tocsin	noun	tocsin|tocsin|R|N
+toddles	verb	toddle|toddle|R|V ; -s|s|I||-s (3sg)
+toddling	verb	toddle|toddl|R|V ; -ing|ing|I||-ing (v)
+toed	adj	toe|toe|R|N ; -ed|d|S||-ed (adj)
+toeing	verb	toe|toe|R|N ; -ing|ing|I||-ing (v)
+toeless	adj	toe|toe|R|N ; -less|less|S
+toffy	noun	toffy|toffy|R|N
+togged	verb	tog|togg|R|N ; -ed|ed|I||-ed (v2)
+toggery	noun	tog|togg|R|N ; -ery|ery|S
+togs	noun	tog|tog|R|N ; -s|s|I||-s (plural)
+toilful	adj	toil|toil|R|V ; -ful|ful|S
+toilless	adj	toil|toil|R|V ; -less|less|S

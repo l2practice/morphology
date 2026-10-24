@@ -1,0 +1,200 @@
+digicam	noun	digicam|digicam|R|N
+hutong	noun	hutong|hutong|R|N
+tabor	noun	tabor|tabor|R|N
+yielder	noun	yield|yield|R|V ; -er|er|S||-er (N)
+vervet	noun	vervet|vervet|R|N
+manzanilla	noun	manzanilla|manzanilla|R|N
+hypertonic	adj	hyper-|hyper|P ; tonic|tonic|R|Adj
+adat	noun	adat|adat|R|N
+crosier	noun	crosier|crosier|R|N
+braillewriter	noun	braille|braille|R|N ; write|writ|R|V ; -er|er|S||-er (N)
+superalloy	noun	super-|super|P ; alloy|alloy|R|N
+cyclorama	noun	cyclorama|cyclorama|R|N
+distractive	adj	distract|distract|R|V ; -ive|ive|S
+ramie	noun	ramie|ramie|R|N
+prefetch	verb	pre-|pre|P ; fetch|fetch|R|V
+transfrontier	adj	trans-|trans|P ; frontier|frontier|R|N
+disjoin	verb	dis-|dis|P ; join|join|R|V
+plage	noun	plage|plage|R|N
+subretinal	adj	sub-|sub|P ; retinal|retinal|R|Adj
+thermographic	adj	thermographic|thermographic|R|Adj
+cyanobacterial	adj	cyanobacterial|cyanobacterial|R|Adj
+biopolymer	noun	biopolymer|biopolymer|R|N
+osteoclastic	adj	osteoclastic|osteoclastic|R|Adj
+vestryman	noun	vestry|vestry|R|N ; man|man|R|N
+carboxylic	adj	carboxyl|carboxyl|R|N ; -ic|ic|S
+corneum	noun	corneum|corneum|R|N
+bim	noun	bim|bim|R|N
+pastured	adj	pasture|pastur|R|N ; -ed|ed|S||-ed (adj)
+unlikeness	noun	un-|un|P ; like|like|R|V ; -ness|ness|S
+explant	noun	ex-|ex|P ; plant|plant|R|N
+epigastric	adj	epigastric|epigastric|R|Adj
+impermeability	noun	im-|im|P|||in- ; permeable|permeabil|R|Adj ; -ity|ity|S
+wer	noun	wer|wer|R|N
+orthomolecular	adj	orthomolecular|orthomolecular|R|Adj
+differentiable	adj	differentiate|differenti|R|V ; -able|able|S
+bulbul	noun	bulbul|bulbul|R|N
+unpeeled	adj	un-|un|P ; peel|peel|R|V ; -ed|ed|S||-ed (adj)
+scaffolded	adj	scaffold|scaffold|R|N ; -ed|ed|S||-ed (adj)
+pinnace	noun	pinnace|pinnace|R|N
+sectionalism	noun	sectional|sectional|R|Adj ; -ism|ism|S
+unbranded	adj	un-|un|P ; brand|brand|R|V ; -ed|ed|S||-ed (adj)
+sphenopalatine	adj	sphenopalatine|sphenopalatine|R|Adj
+psoas	noun	psoas|psoas|R|N
+agrarianism	noun	agrarian|agrarian|R|Adj ; -ism|ism|S
+scrying	verb	scry|scry|R|V ; -ing|ing|I||-ing (v)
+tactlessness	noun	tactless|tactless|R|Adj ; -ness|ness|S
+hemoptysis	noun	hemoptysis|hemoptysis|R|N
+supersession	noun	super-|super|P ; session|session|R|N
+stative	adj	state|stat|R|V ; -ive|ive|S
+superfine	adj	super-|super|P ; fine|fine|R|Adj
+ethnogenesis	noun	ethnogenesis|ethnogenesis|R|N
+standoffish	adj	standoff|standoff|R|N ; -ish|ish|S
+sympatric	adj	sympatric|sympatric|R|Adj
+squally	adj	squall|squall|R|N ; -y|y|S
+krait	noun	krait|krait|R|N
+adelgid	noun	adelgid|adelgid|R|N
+spellbind	verb	spell|spell|R|V ; bind|bind|R|V
+tricuspid	noun	tri-|tri|P ; cuspid|cuspid|R|N
+sor	noun	sor|sor|R|N
+substitutive	adj	substitute|substitut|R|V ; -ive|ive|S
+truthiness	noun	truth|truth|R|N ; -ness|iness|S
+necrotizing	verb	necrotize|necrotiz|R|V ; -ing|ing|I||-ing (v)
+endomorph	noun	endomorph|endomorph|R|N
+paneer	noun	paneer|paneer|R|N
+mensuration	noun	mensure|mensur|R|V ; -ation|ation|S
+ontic	adj	ontic|ontic|R|Adj
+rissole	noun	rissole|rissole|R|N
+teosinte	noun	teosinte|teosinte|R|N
+filariasis	noun	filariasis|filariasis|R|N
+boneset	noun	bone|bone|R|N ; set|set|R|V
+regrading	verb	re-|re|P ; grade|grad|R|V ; -ing|ing|I||-ing (v)
+spanker	noun	spank|spank|R|V ; -er|er|S||-er (N)
+stapedectomy	noun	stapedectomy|stapedectomy|R|N
+qu	?	?
+rouille	noun	rouille|rouille|R|N
+prayerfully	adv	prayer|prayer|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+recision	noun	recision|recision|R|N
+coronavirus	noun	corona|corona|R|N ; virus|virus|R|N
+palmette	noun	palmette|palmette|R|N
+biparental	adj	bi-|bi|P ; parental|parental|R|Adj
+phonetician	noun	phonetic|phonetic|R|Adj ; -ian|ian|S
+microswitch	noun	micro-|micro|P ; switch|switch|R|N
+noncircular	adj	non-|non|P ; circular|circular|R|Adj
+hydrazine	noun	hydrazine|hydrazine|R|N
+mustelid	noun	mustelid|mustelid|R|N
+electrocardiographic	adj	electrocardiographic|electrocardiographic|R|Adj
+outstay	verb	out-|out|P ; stay|stay|R|V
+ogee	noun	ogee|ogee|R|N
+mitomycin	noun	mitomycin|mitomycin|R|N
+halloo	verb	halloo|halloo|R|V
+undistributed	adj	un-|un|P ; distribute|distribut|R|V ; -ed|ed|S||-ed (adj)
+allelopathy	noun	allelopathy|allelopathy|R|N
+uxorilocal	adj	uxorilocal|uxorilocal|R|Adj
+precordial	adj	pre-|pre|P ; cordial|cordial|R|Adj
+pathogenetic	adj	pathogenetic|pathogenetic|R|Adj
+aminotransferase	noun	aminotransferase|aminotransferase|R|N
+gravimetric	adj	gravimeter|gravimetr|R|N ; -ic|ic|S
+benthos	noun	benthos|benthos|R|N
+dreamcatcher	noun	dream|dream|R|N ; catch|catch|R|V ; -er|er|S||-er (N)
+lovage	noun	lovage|lovage|R|N
+dairymaid	noun	dairy|dairy|R|N ; maid|maid|R|N
+lonicera	noun	lonicera|lonicera|R|N
+complementarily	adv	complementary|complementari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+telescreen	noun	tele-|tele|P ; screen|screen|R|N
+supination	noun	supinate|supinat|R|V ; -ion|ion|S
+simvastatin	noun	simvastatin|simvastatin|R|N
+varicella	noun	varicella|varicella|R|N
+internode	noun	inter-|inter|P ; node|node|R|N
+interlinear	adj	inter-|inter|P ; linear|linear|R|Adj
+icosahedral	adj	icosahedron|icosahedr|R|N ; -al|al|S
+damascene	adj	damascene|damascene|R|Adj
+socle	noun	socle|socle|R|N
+emotivism	noun	emotive|emotiv|R|Adj ; -ism|ism|S
+splenectomy	noun	splenectomy|splenectomy|R|N
+anthropoid	noun	anthropoid|anthropoid|R|N
+periphyton	noun	periphyton|periphyton|R|N
+pedipalp	noun	pedipalp|pedipalp|R|N
+uniformitarian	noun	uniformitarian|uniformitarian|R|N
+telematics	noun	telematics|telematics|R|N
+cullet	noun	cullet|cullet|R|N
+durbar	noun	durbar|durbar|R|N
+auricle	noun	auricle|auricle|R|N
+diamagnetic	adj	diamagnetic|diamagnetic|R|Adj
+trophoblast	noun	trophoblast|trophoblast|R|N
+pastorale	noun	pastorale|pastorale|R|N
+dichondra	noun	dichondra|dichondra|R|N
+engined	adj	engine|engin|R|N ; -ed|ed|S||-ed (adj)
+encash	verb	en-|en|P ; cash|cash|R|V
+eightpence	noun	eight|eight|R|Adj ; pence|pence|R|N
+lacustrine	adj	lacustrine|lacustrine|R|Adj
+babesiosis	noun	babesiosis|babesiosis|R|N
+downhearted	adj	down|down|R|Adv ; heart|heart|R|N ; -ed|ed|S||-ed (adj)
+folkloristic	adj	folklorist|folklorist|R|N ; -ic|ic|S
+consummatory	adj	consummate|consummat|R|V ; -ory|ory|S
+dishonoured	adj	dis-|dis|P ; honour|honour|R|V ; -ed|ed|S||-ed (adj)
+diverticulum	noun	diverticulum|diverticulum|R|N
+microfabrication	noun	micro-|micro|P ; fabricate|fabricat|R|V ; -ion|ion|S
+heterozygosity	noun	heterozygosity|heterozygosity|R|N
+stereotypy	noun	stereotype|stereotyp|R|N ; -y|y|S
+contingently	adv	contingent|contingent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+fibrinolytic	adj	fibrinolytic|fibrinolytic|R|Adj
+antitype	noun	anti-|anti|P ; type|type|R|N
+conciseness	noun	concise|concise|R|Adj ; -ness|ness|S
+rille	noun	rille|rille|R|N
+lasing	verb	lase|las|R|V ; -ing|ing|I||-ing (v)
+coaxingly	adv	coax|coax|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+immunogenicity	noun	immunogenic|immunogenic|R|Adj ; -ity|ity|S
+perianth	noun	perianth|perianth|R|N
+antihydrogen	noun	anti-|anti|P ; hydrogen|hydrogen|R|N
+anagogic	adj	anagogic|anagogic|R|Adj
+enterotoxin	noun	enterotoxin|enterotoxin|R|N
+daguerreotypist	noun	daguerreotype|daguerreotyp|R|N ; -ist|ist|S
+cdi	noun	cdi|cdi|R|N
+carting	verb	cart|cart|R|V ; -ing|ing|I||-ing (v)
+calorimetry	noun	calorimetry|calorimetry|R|N
+crashworthy	adj	crash|crash|R|V ; worthy|worthy|R|Adj
+cobalamin	noun	cobalamin|cobalamin|R|N
+metamaterial	noun	metamaterial|metamaterial|R|N
+daminozide	noun	daminozide|daminozide|R|N
+reiki	noun	reiki|reiki|R|N
+behaviourally	adv	behavioural|behavioural|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bargee	noun	barge|barg|R|N ; -ee|ee|S
+killifish	noun	killi|killi|R|N ; fish|fish|R|N
+stoichiometry	noun	stoichiometry|stoichiometry|R|N
+susu	noun	susu|susu|R|N
+electrodermal	adj	electrodermal|electrodermal|R|Adj
+histone	noun	histone|histone|R|N
+subperiosteal	adj	sub-|sub|P ; periosteal|periosteal|R|Adj
+eyewall	noun	eye|eye|R|N ; wall|wall|R|N
+notarial	adj	notary|notari|R|N ; -al|al|S
+allometry	noun	allometry|allometry|R|N
+tremolite	noun	tremolite|tremolite|R|N
+hearthside	noun	hearth|hearth|R|N ; side|side|R|N
+shareowner	noun	share|share|R|N ; own|own|R|V ; -er|er|S||-er (N)
+astrocyte	noun	astrocyte|astrocyte|R|N
+ubiquinone	noun	ubiquinone|ubiquinone|R|N
+scotoma	noun	scotoma|scotoma|R|N
+destructor	noun	de-|de|P ; -struct|struct|B|V ; -or|or|S
+cannulation	noun	cannulate|cannulat|R|V ; -ion|ion|S
+gyrus	noun	gyrus|gyrus|R|N
+hexadecimal	adj	hexadecimal|hexadecimal|R|Adj
+solidus	noun	solidus|solidus|R|N
+pleura	noun	pleura|pleura|R|N
+rammed	verb	ram|ramm|R|V ; -ed|ed|I||-ed (v2)
+backdating	verb	back|back|R|Adv ; date|dat|R|V ; -ing|ing|I||-ing (v)
+myasthenia	noun	myasthenia|myasthenia|R|N
+lobectomy	noun	lobectomy|lobectomy|R|N
+heuchera	noun	heuchera|heuchera|R|N
+electrochromic	adj	electrochromic|electrochromic|R|Adj
+washerman	noun	washer|washer|R|N ; man|man|R|N
+ileostomy	noun	ileostomy|ileostomy|R|N
+carpel	noun	carpel|carpel|R|N
+billabong	noun	billabong|billabong|R|N
+criterial	adj	criterion|criteri|R|N ; -al|al|S
+interpretant	noun	interpret|interpret|R|V ; -ant|ant|S
+nonsterile	adj	non-|non|P ; sterile|sterile|R|Adj
+prefinished	adj	pre-|pre|P ; finish|finish|R|V ; -ed|ed|S||-ed (adj)
+proteinuria	noun	proteinuria|proteinuria|R|N
+tractate	noun	tractate|tractate|R|N
+doomster	noun	doom|doom|R|N ; -ster|ster|S

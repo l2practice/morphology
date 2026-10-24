@@ -1,0 +1,200 @@
+backboned	adj	back|back|R|N ; bone|bon|R|N ; -ed|ed|S||-ed (adj)
+backbreaking	adj	back|back|R|N ; break|break|R|V ; -ing|ing|S||-ing (adj)
+backcomb	verb	back|back|R|N ; comb|comb|R|V
+backcross	noun	back|back|R|N ; cross|cross|R|N
+backfiring	noun	back|back|R|N ; fire|fir|R|V ; -ing|ing|S||-ing (N)
+backfisch	noun	backfisch|backfisch|R|N
+backhandedly	adv	back|back|R|N ; hand|hand|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+backhandedness	noun	back|back|R|N ; hand|hand|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+backheel	noun	back|back|R|N ; heel|heel|R|N
+backhouse	noun	back|back|R|N ; house|house|R|N
+backlink	noun	back|back|R|N ; link|link|R|N
+backlist	noun	back|back|R|N ; list|list|R|N
+backmost	adj	back|back|R|N ; most|most|R|Adv
+backpedal	verb	back|back|R|N ; pedal|pedal|R|V
+backplane	noun	back|back|R|N ; plane|plane|R|N
+backpressure	noun	back|back|R|N ; press|press|R|V ; -ure|ure|S
+backroll	noun	back|back|R|N ; roll|roll|R|N
+backronym	noun	backronym|backronym|R|N
+backs	noun	back|back|R|N ; -s|s|I||-s (plural)
+backscatter	noun	back|back|R|N ; scatter|scatter|R|V
+backscattering	noun	back|back|R|N ; scatter|scatter|R|V ; -ing|ing|S||-ing (N)
+backscratcher	noun	back|back|R|N ; scratch|scratch|R|V ; -er|er|S||-er (N)
+backsight	noun	back|back|R|N ; sight|sight|R|N
+backslapper	noun	back|back|R|N ; slap|slapp|R|V ; -er|er|S||-er (N)
+backslapping	noun	back|back|R|N ; slap|slapp|R|V ; -ing|ing|S||-ing (N)
+backslash	noun	back|back|R|N ; slash|slash|R|N
+backslider	noun	back|back|R|N ; slide|slid|R|V ; -er|er|S||-er (N)
+backstab	verb	back|back|R|N ; stab|stab|R|V
+backstabber	noun	back|back|R|N ; stab|stabb|R|V ; -er|er|S||-er (N)
+backstay	noun	back|back|R|N ; stay|stay|R|N
+backstitch	verb	back|back|R|N ; stitch|stitch|R|V
+backswept	adj	back|back|R|N ; sweep|swept|R|V ; -ed||I||-ed (v2)
+backswimmer	noun	back|back|R|N ; swim|swimm|R|V ; -er|er|S||-er (N)
+backsword	noun	back|back|R|N ; sword|sword|R|N
+backtab	noun	back|back|R|N ; tab|tab|R|N
+backtick	noun	back|back|R|N ; tick|tick|R|N
+backtrace	noun	back|back|R|N ; trace|trace|R|N
+backveld	noun	backveld|backveld|R|N
+backwardation	noun	back|back|R|N ; -ward|ward|S ; -ation|ation|S
+backwardly	adv	back|back|R|N ; -ward|ward|S ; -ly|ly|I|Adv|-ly (adv)
+backway	noun	back|back|R|N ; way|way|R|N
+backwoods	noun	back|back|R|N ; wood|wood|R|N ; -s|s|I||-s (plural)
+backwoodsman	noun	back|back|R|N ; woodsman|woodsman|R|N
+bacteraemia	noun	bacteraemia|bacteraemia|R|N
+bacterially	adv	bacteria|bacteri|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+bactericide	noun	bactericide|bactericide|R|N
+bacterin	noun	bacterin|bacterin|R|N
+bacteriochlorophyll	noun	bacteriochlorophyll|bacteriochlorophyll|R|N
+bacteriocin	noun	bacteriocin|bacteriocin|R|N
+bacteriologically	adv	bacteriologically|bacteriologically|R|Adv
+bacteriolysis	noun	bacteriolysis|bacteriolysis|R|N
+bacteriolytic	adj	bacteriolytic|bacteriolytic|R|Adj
+bacteriophagic	adj	bacteriophagic|bacteriophagic|R|Adj
+bacteriophagy	noun	bacteriophagy|bacteriophagy|R|N
+bacteriostasis	noun	bacteriostasis|bacteriostasis|R|N
+bacteriostat	noun	bacteriostat|bacteriostat|R|N
+bacteriostatic	adj	bacteriostatic|bacteriostatic|R|Adj
+bacteriuria	noun	bacteriuria|bacteriuria|R|N
+baculine	adj	baculine|baculine|R|Adj
+baculum	noun	baculum|baculum|R|N
+badass	noun	bad|bad|R|Adj ; ass|ass|R|N
+baddish	adj	bad|badd|R|Adj ; -ish|ish|S
+badgered	verb	badger|badger|R|V ; -ed|ed|I||-ed (v2)
+badmouth	verb	bad|bad|R|Adj ; mouth|mouth|R|V
+badmouther	noun	bad|bad|R|Adj ; mouth|mouth|R|V ; -er|er|S||-er (N)
+bael	noun	bael|bael|R|N
+baffler	noun	baffle|baffl|R|V ; -er|er|S||-er (N)
+baffy	noun	baffy|baffy|R|N
+bagatellize	verb	bagatelle|bagatell|R|N ; -ize|ize|S
+baggily	adv	bag|bag|R|N ; -y|gi|S ; -ly|ly|I|Adv|-ly (adv)
+bagginess	noun	bag|bag|R|N ; -y|gi|S ; -ness|ness|S
+baglike	adj	bag|bag|R|N ; -like|like|S
+bagnio	noun	bagnio|bagnio|R|N
+bagpipes	noun	bag|bag|R|N ; pipe|pipe|R|N ; -s|s|I||-s (plural)
+bags	noun	bag|bag|R|N ; -s|s|I||-s (plural)
+bagua	noun	bagua|bagua|R|N
+bagworm	noun	bag|bag|R|N ; worm|worm|R|N
+bahadur	noun	bahadur|bahadur|R|N
+bahuvrihi	noun	bahuvrihi|bahuvrihi|R|N
+baiji	noun	baiji|baiji|R|N
+baijiu	noun	baijiu|baijiu|R|N
+bailable	adj	bail|bail|R|V ; -able|able|S
+bailer	noun	bail|bail|R|V ; -er|er|S||-er (N)
+bailing	verb	bail|bail|R|V ; -ing|ing|I||-ing (v)
+bailment	noun	bail|bail|R|V ; -ment|ment|S
+bailor	noun	bail|bail|R|V ; -or|or|S
+bailsman	noun	bailsman|bailsman|R|N
+bakehouse	noun	bake|bake|R|V ; house|house|R|N
+bakestone	noun	bake|bake|R|V ; stone|stone|R|N
+bakfiets	noun	bakfiets|bakfiets|R|N
+bakmi	noun	bakmi|bakmi|R|N
+baksheesh	noun	baksheesh|baksheesh|R|N
+balafon	noun	balafon|balafon|R|N
+balanic	adj	balanic|balanic|R|Adj
+balanitis	noun	balanitis|balanitis|R|N
+balanoposthitis	noun	balanoposthitis|balanoposthitis|R|N
+balanopreputial	adj	balanopreputial|balanopreputial|R|Adj
+balata	noun	balata|balata|R|N
+balayage	noun	balayage|balayage|R|N
+balbal	noun	balbal|balbal|R|N
+balbriggan	noun	balbriggan|balbriggan|R|N
+balconette	noun	balcony|balcon|R|N ; -ette|ette|S
+balconing	verb	balcony|balcon|R|N ; -ing|ing|I||-ing (v)
+baldacchin	noun	baldacchin|baldacchin|R|N
+baldicoot	noun	baldicoot|baldicoot|R|N
+baldie	noun	baldie|baldie|R|N
+baldmoney	noun	bald|bald|R|Adj ; money|money|R|N
+baldric	noun	baldric|baldric|R|N
+balefulness	noun	bale|bale|R|N ; -ful|ful|S ; -ness|ness|S
+balise	noun	balise|balise|R|N
+balisong	noun	balisong|balisong|R|N
+balking	verb	balk|balk|R|V ; -ing|ing|I||-ing (v)
+ballade	noun	ballade|ballade|R|N
+balladic	adj	ballad|ballad|R|N ; -ic|ic|S
+ballasting	verb	ballast|ballast|R|V ; -ing|ing|I||-ing (v)
+ballcock	noun	ball|ball|R|N ; cock|cock|R|N
+ballerino	noun	ballerino|ballerino|R|N
+balletomane	noun	balletomane|balletomane|R|N
+balletomania	noun	balletomania|balletomania|R|N
+balling	verb	ball|ball|R|V ; -ing|ing|I||-ing (v)
+ballistician	noun	ballistic|ballistic|R|Adj ; -ian|ian|S
+ballistite	noun	ballistite|ballistite|R|N
+ballistocardiogram	noun	ballistocardiogram|ballistocardiogram|R|N
+ballooner	noun	balloon|balloon|R|N ; -er|er|S||-er (N)
+balloonlike	adj	balloon|balloon|R|N ; -like|like|S
+balloted	verb	ballot|ballot|R|V ; -ed|ed|I||-ed (v2)
+ballrace	noun	ball|ball|R|N ; race|race|R|N
+balls	noun	ball|ball|R|N ; -s|s|I||-s (plural)
+ballsiness	noun	ballsy|ballsi|R|Adj ; -ness|ness|S
+ballyrag	verb	ballyrag|ballyrag|R|V
+balmily	adv	balm|balm|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+balminess	noun	balm|balm|R|N ; -y|i|S ; -ness|ness|S
+balneology	noun	balneology|balneology|R|N
+balneotherapy	noun	balneotherapy|balneotherapy|R|N
+balrog	noun	balrog|balrog|R|N
+balsaminaceous	adj	balsaminaceous|balsaminaceous|R|Adj
+balun	noun	balun|balun|R|N
+balut	noun	balut|balut|R|N
+bambino	noun	bambino|bambino|R|N
+bamboozlement	noun	bamboozle|bamboozle|R|V ; -ment|ment|S
+bamboozler	noun	bamboozle|bamboozl|R|V ; -er|er|S||-er (N)
+bamboozling	verb	bamboozle|bamboozl|R|V ; -ing|ing|I||-ing (v)
+banalize	verb	banal|banal|R|Adj ; -ize|ize|S
+banally	adv	banal|banal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bananalike	adj	banana|banana|R|N ; -like|like|S
+bananaquit	noun	banana|banana|R|N ; quit|quit|R|N
+banat	noun	banat|banat|R|N
+banausic	adj	banausic|banausic|R|Adj
+bancha	noun	bancha|bancha|R|N
+banchan	noun	banchan|banchan|R|N
+bancor	noun	bancor|bancor|R|N
+bandager	noun	bandage|bandag|R|V ; -er|er|S||-er (N)
+bandeaux	noun	bandeau|bandeaux|R|N ; -s||I||-s (plural)
+banderilla	noun	banderilla|banderilla|R|N
+banderillero	noun	banderillero|banderillero|R|N
+banderole	noun	banderole|banderole|R|N
+bandfish	noun	band|band|R|N ; fish|fish|R|N
+bandicoot	noun	bandicoot|bandicoot|R|N
+bandier	adj	bandy|bandi|R|Adj ; -er|er|I||-er (comparative)
+bandmaster	noun	band|band|R|N ; master|master|R|N
+bandog	noun	bandog|bandog|R|N
+bandoline	noun	bandoline|bandoline|R|N
+bandsaw	noun	band|band|R|N ; saw|saw|R|N
+bandura	noun	bandura|bandura|R|N
+bandurria	noun	bandurria|bandurria|R|N
+baneberry	noun	bane|bane|R|N ; berry|berry|R|N
+banefully	adv	bane|bane|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+banefulness	noun	bane|bane|R|N ; -ful|ful|S ; -ness|ness|S
+banged	verb	bang|bang|R|V ; -ed|ed|I||-ed (v2)
+bangled	adj	bangle|bangl|R|N ; -ed|ed|S||-ed (adj)
+bangs	noun	bang|bang|R|N ; -s|s|I||-s (plural)
+bangy	noun	bangy|bangy|R|N
+banisher	noun	banish|banish|R|V ; -er|er|S||-er (N)
+banishing	verb	banish|banish|R|V ; -ing|ing|I||-ing (v)
+banjax	verb	banjax|banjax|R|V
+banjoist	noun	banjo|banjo|R|N ; -ist|ist|S
+bankability	noun	bank|bank|R|V ; -able|abil|S ; -ity|ity|S
+bankerly	adj	bank|bank|R|N ; -er|er|S||-er (N) ; -ly|ly|S||-ly (adj)
+banksia	noun	banksia|banksia|R|N
+banksman	noun	banksman|banksman|R|N
+banneret	noun	banneret|banneret|R|N
+banneton	noun	banneton|banneton|R|N
+banqueteer	noun	banquet|banquet|R|N ; -eer|eer|S
+banqueter	noun	banquet|banquet|R|N ; -er|er|S||-er (N)
+banteng	noun	banteng|banteng|R|N
+banterer	noun	banter|banter|R|V ; -er|er|S||-er (N)
+banteringly	adv	banter|banter|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+banxring	noun	banxring|banxring|R|N
+banya	noun	banya|banya|R|N
+baozi	noun	baozi|baozi|R|N
+bap	noun	bap|bap|R|N
+baptising	verb	baptise|baptis|R|V ; -ing|ing|I||-ing (v)
+baptismally	adv	baptism|baptism|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+baptist	noun	baptist|baptist|R|N
+baptistry	noun	baptist|baptist|R|N ; -ry|ry|S
+baptizer	noun	baptize|baptiz|R|V ; -er|er|S||-er (N)
+baptizing	verb	baptize|baptiz|R|V ; -ing|ing|I||-ing (v)
+baraat	noun	baraat|baraat|R|N
+barbarianism	noun	barbarian|barbarian|R|N ; -ism|ism|S
+barbarically	adv	barbaric|barbaric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)

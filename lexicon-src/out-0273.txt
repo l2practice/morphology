@@ -1,0 +1,200 @@
+electrotelegraphy	noun	electrotelegraphy|electrotelegraphy|R|N
+electrotherapeutics	noun	electrotherapeutics|electrotherapeutics|R|N
+electrotherapy	noun	electrotherapy|electrotherapy|R|N
+electrothermal	adj	electrothermal|electrothermal|R|Adj
+electrothermy	noun	electrothermy|electrothermy|R|N
+electrotonic	adj	electrotonic|electrotonic|R|Adj
+electrotonus	noun	electrotonus|electrotonus|R|N
+electrotype	noun	electrotype|electrotype|R|N
+electrotyper	noun	electrotype|electrotyp|R|N ; -er|er|S||-er (N)
+electrotypic	adj	electrotype|electrotyp|R|N ; -ic|ic|S
+electrotypy	noun	electrotype|electrotyp|R|N ; -y|y|S
+electrovalency	noun	electrovalency|electrovalency|R|N
+electrovalent	adj	electrovalent|electrovalent|R|Adj
+electroweak	adj	electroweak|electroweak|R|Adj
+electrum	noun	electrum|electrum|R|N
+electuary	noun	electuary|electuary|R|N
+eleemosynary	adj	eleemosynary|eleemosynary|R|Adj
+elegiacal	adj	elegiac|elegiac|R|Adj ; -al|al|S
+elegiacally	adv	elegiac|elegiac|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+elegist	noun	elegy|eleg|R|N ; -ist|ist|S
+elegize	verb	elegy|eleg|R|N ; -ize|ize|S
+elementally	adv	elemental|elemental|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+elementarily	adv	elementary|elementari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+elementariness	noun	elementary|elementari|R|Adj ; -ness|ness|S
+elements	noun	element|element|R|N ; -s|s|I||-s (plural)
+elementwise	adv	element|element|R|N ; -wise|wise|S
+elemi	noun	elemi|elemi|R|N
+elench	noun	elench|elench|R|N
+elenchus	noun	elenchus|elenchus|R|N
+elenctic	adj	elenctic|elenctic|R|Adj
+elephanthood	noun	elephant|elephant|R|N ; -hood|hood|S
+eleutheromania	noun	eleutheromania|eleutheromania|R|N
+elevatory	adj	elevate|elevat|R|V ; -ory|ory|S
+elevenses	noun	elevenses|elevenses|R|N
+eleventy	noun	eleven|eleven|R|N ; -ty|ty|S
+elevon	noun	elevon|elevon|R|N
+elf	noun	elf|elf|R|N
+elfish	adj	elf|elf|R|N ; -ish|ish|S
+elfishly	adv	elfish|elfish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+elfishness	noun	elfish|elfish|R|Adj ; -ness|ness|S
+eliciting	verb	elicit|elicit|R|V ; -ing|ing|I||-ing (v)
+elicitor	noun	elicit|elicit|R|V ; -or|or|S
+eligibly	adv	eligible|eligib|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+eliminability	noun	eliminate|elimin|R|V ; -able|abil|S ; -ity|ity|S
+eliminable	adj	eliminate|elimin|R|V ; -able|able|S
+eliminant	noun	eliminate|elimin|R|V ; -ant|ant|S
+eliminative	adj	eliminate|elimin|R|V ; -ative|ative|S
+eliminatory	adj	eliminate|elimin|R|V ; -ory|atory|S
+eliquate	verb	eliquate|eliquate|R|V
+eliquation	noun	eliquate|eliquat|R|V ; -ion|ion|S
+ellipsograph	noun	ellipsograph|ellipsograph|R|N
+ellipsoid	noun	ellipsoid|ellipsoid|R|N
+ellipsoidal	adj	ellipsoid|ellipsoid|R|N ; -al|al|S
+elocutionary	adj	elocution|elocution|R|N ; -ary|ary|S
+elocutionist	noun	elocution|elocution|R|N ; -ist|ist|S
+eloge	noun	eloge|eloge|R|N
+elogist	noun	eloge|elog|R|N ; -ist|ist|S
+eloping	verb	elope|elop|R|V ; -ing|ing|I||-ing (v)
+eloquentness	noun	eloquent|eloquent|R|Adj ; -ness|ness|S
+eluant	noun	elute|elu|R|V ; -ant|ant|S
+elucidative	adj	elucidate|elucidat|R|V ; -ive|ive|S
+elucidator	noun	elucidate|elucidat|R|V ; -or|or|S
+elucidatory	adj	elucidate|elucidat|R|V ; -ory|ory|S
+elucubrate	verb	elucubrate|elucubrate|R|V
+elucubration	noun	elucubrate|elucubrat|R|V ; -ion|ion|S
+elusion	noun	elude|elu|R|V ; -sion|sion|S
+elusory	adj	elude|elus|R|V ; -ory|ory|S
+elution	noun	elute|elut|R|V ; -ion|ion|S
+elutriate	verb	elutriate|elutriate|R|V
+elutriation	noun	elutriate|elutriat|R|V ; -ion|ion|S
+eluvial	adj	eluvium|eluvi|R|N ; -al|al|S
+eluvium	noun	eluvium|eluvium|R|N
+elver	noun	elver|elver|R|N
+elytra	noun	elytra|elytra|R|N
+elytron	noun	elytron|elytron|R|N
+em	noun	em|em|R|N
+email	noun	email|email|R|N
+emanational	adj	emanation|emanation|R|N ; -al|al|S
+emanationism	noun	emanation|emanation|R|N ; -ism|ism|S
+emanative	adj	emanate|emanat|R|V ; -ive|ive|S
+emancipationist	noun	emancipation|emancipation|R|N ; -ist|ist|S
+emancipative	adj	emancipate|emancipat|R|V ; -ive|ive|S
+emancipist	noun	emancipate|emancip|R|V ; -ist|ist|S
+emarginate	adj	emarginate|emarginate|R|Adj
+emargination	noun	emarginate|emarginat|R|Adj ; -ion|ion|S
+emasculative	adj	emasculate|emasculat|R|V ; -ive|ive|S
+emasculator	noun	emasculate|emasculat|R|V ; -or|or|S
+emasculatory	adj	emasculate|emasculat|R|V ; -ory|ory|S
+emballage	noun	emballage|emballage|R|N
+embalmment	noun	em-|em|P|||en- ; balm|balm|R|N ; -ment|ment|S
+embank	verb	em-|em|P|||en- ; bank|bank|R|N
+embanked	verb	em-|em|P|||en- ; bank|bank|R|N ; -ed|ed|I||-ed (v2)
+embarcadero	noun	embarcadero|embarcadero|R|N
+embarge	verb	em-|em|P|||en- ; barge|barge|R|N
+embargoed	verb	embargo|embargo|R|V ; -ed|ed|I||-ed (v2)
+embarking	verb	embark|embark|R|V ; -ing|ing|I||-ing (v)
+embarkment	noun	embark|embark|R|V ; -ment|ment|S
+embay	verb	em-|em|P|||en- ; bay|bay|R|N
+embayed	verb	em-|em|P|||en- ; bay|bay|R|N ; -ed|ed|I||-ed (v2)
+embeddability	noun	em-|em|P|||en- ; bed|bedd|R|N ; -able|abil|S ; -ity|ity|S
+embedment	noun	em-|em|P|||en- ; bed|bed|R|N ; -ment|ment|S
+embellisher	noun	embellish|embellish|R|V ; -er|er|S||-er (N)
+embellishing	verb	embellish|embellish|R|V ; -ing|ing|I||-ing (v)
+embers	noun	ember|ember|R|N ; -s|s|I||-s (plural)
+embezzling	verb	embezzle|embezzl|R|V ; -ing|ing|I||-ing (v)
+embittering	verb	em-|em|P|||en- ; bitter|bitter|R|Adj ; -ing|ing|I||-ing (v)
+embitterment	noun	em-|em|P|||en- ; bitter|bitter|R|Adj ; -ment|ment|S
+emblazoned	verb	em-|em|P|||en- ; blazon|blazon|R|V ; -ed|ed|I||-ed (v2)
+emblazoner	noun	em-|em|P|||en- ; blazon|blazon|R|V ; -er|er|S||-er (N)
+emblazoning	verb	em-|em|P|||en- ; blazon|blazon|R|V ; -ing|ing|I||-ing (v)
+emblazonment	noun	em-|em|P|||en- ; blazon|blazon|R|V ; -ment|ment|S
+emblazonry	noun	em-|em|P|||en- ; blazon|blazon|R|V ; -ry|ry|S
+emblematical	adj	emblematic|emblematic|R|Adj ; -al|al|S
+emblematically	adv	emblematic|emblematic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+emblematist	noun	emblematic|emblemat|R|Adj ; -ist|ist|S
+emblematize	verb	emblematic|emblemat|R|Adj ; -ize|ize|S
+emblement	noun	emblement|emblement|R|N
+embodied	verb	em-|em|P|||en- ; body|bodi|R|N ; -ed|ed|I||-ed (v2)
+embodying	verb	em-|em|P|||en- ; body|body|R|N ; -ing|ing|I||-ing (v)
+embog	verb	em-|em|P|||en- ; bog|bog|R|N
+emboldening	verb	em-|em|P|||en- ; bold|bold|R|Adj ; -en|en|S ; -ing|ing|I||-ing (v)
+embolic	adj	embolus|embol|R|N ; -ic|ic|S
+embolismic	adj	embolism|embolism|R|N ; -ic|ic|S
+embolus	noun	embolus|embolus|R|N
+embonpoint	noun	embonpoint|embonpoint|R|N
+embosom	verb	em-|em|P|||en- ; bosom|bosom|R|N
+embossing	verb	em-|em|P|||en- ; boss|boss|R|N ; -ing|ing|I||-ing (v)
+embossment	noun	em-|em|P|||en- ; boss|boss|R|N ; -ment|ment|S
+embourgeoisement	noun	em-|em|P|||en- ; bourgeois|bourgeois|R|N ; -ment|ement|S
+embowelment	noun	em-|em|P|||en- ; bowel|bowel|R|N ; -ment|ment|S
+embower	verb	em-|em|P|||en- ; bower|bower|R|N
+embracement	noun	embrace|embrace|R|V ; -ment|ment|S
+embraceor	noun	embrace|embrace|R|V ; -or|or|S
+embracer	noun	embrace|embrac|R|V ; -er|er|S||-er (N)
+embracery	noun	embrace|embrac|R|V ; -ery|ery|S
+embranchment	noun	em-|em|P|||en- ; branch|branch|R|N ; -ment|ment|S
+embrangle	verb	em-|em|P|||en- ; brangle|brangle|R|V
+embranglement	noun	em-|em|P|||en- ; brangle|brangle|R|V ; -ment|ment|S
+embrocation	noun	embrocate|embrocat|R|V ; -ion|ion|S
+embroideress	noun	embroider|embroider|R|V ; -ess|ess|S
+embroidering	verb	embroider|embroider|R|V ; -ing|ing|I||-ing (v)
+embroilment	noun	embroil|embroil|R|V ; -ment|ment|S
+embrown	verb	em-|em|P|||en- ; brown|brown|R|Adj
+embryocardia	noun	embryocardia|embryocardia|R|N
+embryoctony	noun	embryoctony|embryoctony|R|N
+embryogenic	adj	embryogenic|embryogenic|R|Adj
+embryologically	adv	embryological|embryological|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+embryonated	adj	embryonate|embryonat|R|V ; -ed|ed|S||-ed (adj)
+embryonically	adv	embryonic|embryonic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+embryotomy	noun	embryotomy|embryotomy|R|N
+embryotrophic	adj	embryotrophic|embryotrophic|R|Adj
+embryotrophy	noun	embryotrophy|embryotrophy|R|N
+embus	verb	em-|em|P|||en- ; bus|bus|R|N
+emendate	verb	emend|emend|R|V ; -ate|ate|S
+emendator	noun	emendate|emendat|R|V ; -or|or|S
+emender	noun	emend|emend|R|V ; -er|er|S||-er (N)
+emersed	adj	emerse|emers|R|V ; -ed|ed|S||-ed (adj)
+emersion	noun	emerse|emers|R|V ; -ion|ion|S
+emesis	noun	emesis|emesis|R|N
+emetically	adv	emetic|emetic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+emetin	noun	emetin|emetin|R|N
+emetine	noun	emetine|emetine|R|N
+emetophilia	noun	emetophilia|emetophilia|R|N
+emetophobia	noun	emetophobia|emetophobia|R|N
+emigratory	adj	emigrate|emigrat|R|V ; -ory|ory|S
+emissarium	noun	emissarium|emissarium|R|N
+emissive	adj	emit|emiss|R|V ; -ive|ive|S
+emittance	noun	emit|emitt|R|V ; -ance|ance|S
+emmenagogue	noun	emmenagogue|emmenagogue|R|N
+emmer	noun	emmer|emmer|R|N
+emmetrope	noun	emmetrope|emmetrope|R|N
+emmetropia	noun	emmetropia|emmetropia|R|N
+emmetropic	adj	emmetropia|emmetrop|R|N ; -ic|ic|S
+emobility	noun	emobility|emobility|R|N
+emoji	noun	emoji|emoji|R|N
+emolliate	verb	emollient|emolli|R|Adj ; -ate|ate|S
+emoticon	noun	emoticon|emoticon|R|N
+emotionalist	noun	emotional|emotional|R|Adj ; -ist|ist|S
+emotionalistic	adj	emotional|emotional|R|Adj ; -ist|ist|S ; -ic|ic|S
+emotionalize	verb	emotional|emotional|R|Adj ; -ize|ize|S
+emotionlessness	noun	emotion|emotion|R|N ; -less|less|S ; -ness|ness|S
+emotively	adv	emotive|emotive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+emotiveness	noun	emotive|emotive|R|Adj ; -ness|ness|S
+emotivity	noun	emotive|emotiv|R|Adj ; -ity|ity|S
+empale	verb	em-|em|P|||en- ; pale|pale|R|N
+empennage	noun	empennage|empennage|R|N
+emperorship	noun	emperor|emperor|R|N ; -ship|ship|S
+emphasized	verb	emphasize|emphasiz|R|V ; -ed|ed|I||-ed (v2)
+emphysematous	adj	emphysema|emphysemat|R|N ; -ous|ous|S
+emphysemic	adj	emphysema|emphysem|R|N ; -ic|ic|S
+emphyteusis	noun	emphyteusis|emphyteusis|R|N
+emphyteutic	adj	emphyteutic|emphyteutic|R|Adj
+emphyteuticary	adj	emphyteutic|emphyteutic|R|Adj ; -ary|ary|S
+emplastic	adj	em-|em|P|||en- ; plastic|plastic|R|Adj
+emplectite	noun	emplectite|emplectite|R|N
+emplume	verb	em-|em|P|||en- ; plume|plume|R|N
+empodium	noun	empodium|empodium|R|N
+empoison	verb	em-|em|P|||en- ; poison|poison|R|N
+emptyhanded	adj	empty|empty|R|Adj ; hand|hand|R|N ; -ed|ed|S||-ed (adj)
+empurple	verb	em-|em|P|||en- ; purple|purple|R|Adj

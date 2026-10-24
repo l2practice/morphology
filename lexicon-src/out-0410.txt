@@ -1,0 +1,200 @@
+unenchanted	adj	un-|un|P ; en-|en|P ; chant|chant|R|V ; -ed|ed|S||-ed (adj)
+unenclosed	adj	un-|un|P ; en-|en|P ; close|close|R|V ; -ed|d|S||-ed (adj)
+unendangered	adj	un-|un|P ; en-|en|P ; danger|danger|R|N ; -ed|ed|S||-ed (adj)
+unendearing	adj	un-|un|P ; en-|en|P ; dear|dear|R|Adj ; -ing|ing|S||-ing (adj)
+unendingness	noun	un-|un|P ; end|end|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unendorsed	adj	un-|un|P ; endorse|endorse|R|V ; -ed|d|S||-ed (adj)
+unendowed	adj	un-|un|P ; endow|endow|R|V ; -ed|ed|S||-ed (adj)
+unenduring	adj	un-|un|P ; endure|endur|R|V ; -ing|ing|S||-ing (adj)
+unenfranchised	adj	un-|un|P ; en-|en|P ; franchise|franchise|R|V ; -ed|d|S||-ed (adj)
+unengaging	adj	un-|un|P ; engage|engag|R|V ; -ing|ing|S||-ing (adj)
+unenjoyable	adj	un-|un|P ; enjoy|enjoy|R|V ; -able|able|S
+unenlarged	adj	un-|un|P ; en-|en|P ; large|large|R|Adj ; -ed|d|S||-ed (adj)
+unenlightening	adj	un-|un|P ; en-|en|P ; light|light|R|N ; -en|en|S ; -ing|ing|S||-ing (adj)
+unenlivened	adj	un-|un|P ; en-|en|P ; live|liv|R|V ; -en|en|S ; -ed|ed|S||-ed (adj)
+unenriched	adj	un-|un|P ; en-|en|P ; rich|rich|R|Adj ; -ed|ed|S||-ed (adj)
+unenroll	verb	un-|un|P ; en-|en|P ; roll|roll|R|V
+unenrolled	adj	un-|un|P ; en-|en|P ; roll|roll|R|V ; -ed|ed|S||-ed (adj)
+unenslaved	adj	un-|un|P ; en-|en|P ; slave|slave|R|N ; -ed|d|S||-ed (adj)
+unentailed	adj	un-|un|P ; en-|en|P ; tail|tail|R|N ; -ed|ed|S||-ed (adj)
+unentangled	adj	un-|un|P ; en-|en|P ; tangle|tangle|R|V ; -ed|d|S||-ed (adj)
+unentered	adj	un-|un|P ; enter|enter|R|V ; -ed|ed|S||-ed (adj)
+unenterprising	adj	un-|un|P ; enterprise|enterpris|R|N ; -ing|ing|S||-ing (adj)
+unenterprisingness	noun	un-|un|P ; enterprise|enterpris|R|N ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unentertaining	adj	un-|un|P ; entertain|entertain|R|V ; -ing|ing|S||-ing (adj)
+unenticing	adj	un-|un|P ; entice|entic|R|V ; -ing|ing|S||-ing (adj)
+unentitled	adj	un-|un|P ; en-|en|P ; title|title|R|N ; -ed|d|S||-ed (adj)
+unenumerated	adj	un-|un|P ; enumerate|enumerate|R|V ; -ed|d|S||-ed (adj)
+unenvied	adj	un-|un|P ; envy|envi|R|V ; -ed|ed|S||-ed (adj)
+unenvious	adj	un-|un|P ; envy|envi|R|N ; -ous|ous|S
+unenvying	adj	un-|un|P ; envy|envy|R|V ; -ing|ing|S||-ing (adj)
+unepiscopal	adj	un-|un|P ; episcopal|episcopal|R|Adj
+unequable	adj	un-|un|P ; equable|equable|R|Adj
+unequalize	verb	un-|un|P ; equal|equal|R|Adj ; -ize|ize|S
+unequitable	adj	un-|un|P ; equity|equit|R|N ; -able|able|S
+unequivocalness	noun	un-|un|P ; equivocal|equivocal|R|Adj ; -ness|ness|S
+uneradicated	adj	un-|un|P ; eradicate|eradicate|R|V ; -ed|d|S||-ed (adj)
+unerasable	adj	un-|un|P ; erase|eras|R|V ; -able|able|S
+unerased	adj	un-|un|P ; erase|erase|R|V ; -ed|d|S||-ed (adj)
+unerotic	adj	un-|un|P ; erotic|erotic|R|Adj
+unerringness	noun	un-|un|P ; err|err|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unescapable	adj	un-|un|P ; escape|escap|R|V ; -able|able|S
+unespied	adj	un-|un|P ; espy|espi|R|V ; -ed|ed|S||-ed (adj)
+unessayed	adj	un-|un|P ; essay|essay|R|V ; -ed|ed|S||-ed (adj)
+unessential	adj	un-|un|P ; essential|essential|R|Adj
+unestablished	adj	un-|un|P ; establish|establish|R|V ; -ed|ed|S||-ed (adj)
+unestimated	adj	un-|un|P ; estimate|estimate|R|V ; -ed|d|S||-ed (adj)
+unestranged	adj	un-|un|P ; estrange|estrange|R|V ; -ed|d|S||-ed (adj)
+unevadable	adj	un-|un|P ; evade|evad|R|V ; -able|able|S
+unevaluated	adj	un-|un|P ; evaluate|evaluate|R|V ; -ed|d|S||-ed (adj)
+unevangelical	adj	un-|un|P ; evangelical|evangelical|R|Adj
+unevaporated	adj	un-|un|P ; evaporate|evaporate|R|V ; -ed|d|S||-ed (adj)
+uneventfulness	noun	un-|un|P ; event|event|R|N ; -ful|ful|S ; -ness|ness|S
+unevident	adj	un-|un|P ; evident|evident|R|Adj
+unexact	adj	un-|un|P ; exact|exact|R|Adj
+unexacting	adj	un-|un|P ; exact|exact|R|Adj ; -ing|ing|S||-ing (adj)
+unexaggerated	adj	un-|un|P ; exaggerate|exaggerate|R|V ; -ed|d|S||-ed (adj)
+unexamining	adj	un-|un|P ; examine|examin|R|V ; -ing|ing|S||-ing (adj)
+unexampled	adj	un-|un|P ; example|example|R|N ; -ed|d|S||-ed (adj)
+unexcavated	adj	un-|un|P ; excavate|excavate|R|V ; -ed|d|S||-ed (adj)
+unexceeded	adj	un-|un|P ; exceed|exceed|R|V ; -ed|ed|S||-ed (adj)
+unexcelled	adj	un-|un|P ; excel|excell|R|V ; -ed|ed|S||-ed (adj)
+unexceptionableness	noun	un-|un|P ; exception|exception|R|N ; -able|able|S ; -ness|ness|S
+unexceptionably	adv	un-|un|P ; ex-|ex|P ; -cept|cept|B|V ; -ion|ion|S ; -able|abl|S ; -ly|y|I||-ly (adv)
+unexceptionally	adv	un-|un|P ; ex-|ex|P ; -cept|cept|B|V ; -ion|ion|S ; -al|al|S ; -ly|ly|I||-ly (adv)
+unexchangeable	adj	un-|un|P ; ex-|ex|P ; change|change|R|V ; -able|able|S
+unexcised	adj	un-|un|P ; excise|excise|R|V ; -ed|d|S||-ed (adj)
+unexcitable	adj	un-|un|P ; excite|excit|R|V ; -able|able|S
+unexcited	adj	un-|un|P ; excite|excite|R|V ; -ed|d|S||-ed (adj)
+unexclusive	adj	un-|un|P ; ex-|ex|P ; -clude|clus|B|V ; -ive|ive|S
+unexcusable	adj	un-|un|P ; excuse|excus|R|V ; -able|able|S
+unexcusableness	noun	un-|un|P ; excuse|excus|R|V ; -able|able|S ; -ness|ness|S
+unexecuted	adj	un-|un|P ; execute|execute|R|V ; -ed|d|S||-ed (adj)
+unexemplified	adj	un-|un|P ; example|exempl|R|N ; -ify|ifi|S ; -ed|ed|S||-ed (adj)
+unexercised	adj	un-|un|P ; exercise|exercise|R|V ; -ed|d|S||-ed (adj)
+unexhausted	adj	un-|un|P ; exhaust|exhaust|R|V ; -ed|ed|S||-ed (adj)
+unexhaustible	adj	un-|un|P ; exhaust|exhaust|R|V ; -ible|ible|S
+unexpanded	adj	un-|un|P ; expand|expand|R|V ; -ed|ed|S||-ed (adj)
+unexpansive	adj	un-|un|P ; expand|expans|R|V ; -ive|ive|S
+unexpectant	adj	un-|un|P ; expect|expect|R|V ; -ant|ant|S
+unexpeditious	adj	un-|un|P ; expedite|expedit|R|V ; -ious|ious|S
+unexpended	adj	un-|un|P ; expend|expend|R|V ; -ed|ed|S||-ed (adj)
+unexperienced	adj	un-|un|P ; experience|experience|R|N ; -ed|d|S||-ed (adj)
+unexperimented	adj	un-|un|P ; experiment|experiment|R|V ; -ed|ed|S||-ed (adj)
+unexpiated	adj	un-|un|P ; expiate|expiate|R|V ; -ed|d|S||-ed (adj)
+unexplicit	adj	un-|un|P ; explicit|explicit|R|Adj
+unexpounded	adj	un-|un|P ; expound|expound|R|V ; -ed|ed|S||-ed (adj)
+unexpressible	adj	un-|un|P ; express|express|R|V ; -ible|ible|S
+unexpressive	adj	un-|un|P ; express|express|R|V ; -ive|ive|S
+unexpressively	adv	un-|un|P ; express|express|R|V ; -ive|ive|S ; -ly|ly|I||-ly (adv)
+unexpressiveness	noun	un-|un|P ; express|express|R|V ; -ive|ive|S ; -ness|ness|S
+unextended	adj	un-|un|P ; extend|extend|R|V ; -ed|ed|S||-ed (adj)
+unextenuated	adj	un-|un|P ; extenuate|extenuate|R|V ; -ed|d|S||-ed (adj)
+unextinct	adj	un-|un|P ; extinct|extinct|R|Adj
+unextinguished	adj	un-|un|P ; extinguish|extinguish|R|V ; -ed|ed|S||-ed (adj)
+unextirpated	adj	un-|un|P ; extirpate|extirpate|R|V ; -ed|d|S||-ed (adj)
+unextorted	adj	un-|un|P ; extort|extort|R|V ; -ed|ed|S||-ed (adj)
+unextraordinary	adj	un-|un|P ; extra-|extra|P ; ordinary|ordinary|R|Adj
+uneyed	adj	un-|un|P ; eye|ey|R|N ; -ed|ed|S||-ed (adj)
+unfabled	adj	un-|un|P ; fable|fable|R|N ; -ed|d|S||-ed (adj)
+unface	verb	un-|un|P ; face|face|R|V
+unfadable	adj	un-|un|P ; fade|fad|R|V ; -able|able|S
+unfading	adj	un-|un|P ; fade|fad|R|V ; -ing|ing|S||-ing (adj)
+unfadingly	adv	un-|un|P ; fade|fad|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unfadingness	noun	un-|un|P ; fade|fad|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unfailingness	noun	un-|un|P ; fail|fail|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unfainting	adj	un-|un|P ; faint|faint|R|V ; -ing|ing|S||-ing (adj)
+unfaithfully	adv	un-|un|P ; faith|faith|R|N ; -ful|ful|S ; -ly|ly|I||-ly (adv)
+unfaked	adj	un-|un|P ; fake|fake|R|Adj ; -ed|d|S||-ed (adj)
+unfallen	adj	un-|un|P ; fall|fall|R|V ; -en|en|I||-en (participle)
+unfamed	adj	un-|un|P ; fame|fame|R|N ; -ed|d|S||-ed (adj)
+unfamiliarly	adv	un-|un|P ; familiar|familiar|R|Adj ; -ly|ly|I||-ly (adv)
+unfancied	adj	un-|un|P ; fancy|fanci|R|Adj ; -ed|ed|S||-ed (adj)
+unfancy	adj	un-|un|P ; fancy|fancy|R|Adj
+unfantastic	adj	un-|un|P ; fantastic|fantastic|R|Adj
+unfashionableness	noun	un-|un|P ; fashion|fashion|R|N ; -able|able|S ; -ness|ness|S
+unfashionably	adv	un-|un|P ; fashion|fashion|R|N ; -able|abl|S ; -ly|y|I||-ly (adv)
+unfashioned	adj	un-|un|P ; fashion|fashion|R|N ; -ed|ed|S||-ed (adj)
+unfastened	adj	un-|un|P ; fast|fast|R|Adj ; -en|en|S ; -ed|ed|S||-ed (adj)
+unfastidious	adj	un-|un|P ; fastidious|fastidious|R|Adj
+unfathered	adj	un-|un|P ; father|father|R|N ; -ed|ed|S||-ed (adj)
+unfatherly	adj	un-|un|P ; father|father|R|N ; -ly|ly|S||-ly (adj)
+unfathomableness	noun	un-|un|P ; fathom|fathom|R|V ; -able|able|S ; -ness|ness|S
+unfathomed	adj	un-|un|P ; fathom|fathom|R|V ; -ed|ed|S||-ed (adj)
+unfatiguable	adj	un-|un|P ; fatigue|fatigu|R|N ; -able|able|S
+unfatigued	adj	un-|un|P ; fatigue|fatigue|R|N ; -ed|d|S||-ed (adj)
+unfatiguing	adj	un-|un|P ; fatigue|fatigu|R|N ; -ing|ing|S||-ing (adj)
+unfaulty	adj	un-|un|P ; fault|fault|R|N ; -y|y|S
+unfearing	adj	un-|un|P ; fear|fear|R|V ; -ing|ing|S||-ing (adj)
+unfeather	verb	un-|un|P ; feather|feather|R|N
+unfeathered	adj	un-|un|P ; feather|feather|R|N ; -ed|ed|S||-ed (adj)
+unfeatured	adj	un-|un|P ; feature|feature|R|N ; -ed|d|S||-ed (adj)
+unfeed	verb	un-|un|P ; feed|feed|R|V
+unfeelingly	adv	un-|un|P ; feel|feel|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unfeelingness	noun	un-|un|P ; feel|feel|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unfeignedly	adv	un-|un|P ; feign|feign|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unfeignedness	noun	un-|un|P ; feign|feign|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unfellowed	adj	un-|un|P ; fellow|fellow|R|N ; -ed|ed|S||-ed (adj)
+unfence	verb	un-|un|P ; fence|fence|R|N
+unfermentable	adj	un-|un|P ; ferment|ferment|R|V ; -able|able|S
+unfermented	adj	un-|un|P ; ferment|ferment|R|V ; -ed|ed|S||-ed (adj)
+unfertile	adj	un-|un|P ; fertile|fertile|R|Adj
+unfestive	adj	un-|un|P ; festive|festive|R|Adj
+unfeudalize	verb	un-|un|P ; feud|feud|R|N ; -al|al|S ; -ize|ize|S
+unfightable	adj	un-|un|P ; fight|fight|R|V ; -able|able|S
+unfigured	adj	un-|un|P ; figure|figure|R|N ; -ed|d|S||-ed (adj)
+unfile	verb	un-|un|P ; file|file|R|V
+unfiled	adj	un-|un|P ; file|file|R|V ; -ed|d|S||-ed (adj)
+unfilial	adj	un-|un|P ; filial|filial|R|Adj
+unfilmed	adj	un-|un|P ; film|film|R|V ; -ed|ed|S||-ed (adj)
+unfindable	adj	un-|un|P ; find|find|R|V ; -able|able|S
+unfingered	adj	un-|un|P ; finger|finger|R|N ; -ed|ed|S||-ed (adj)
+unfinishedness	noun	un-|un|P ; finish|finish|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unfitly	adv	un-|un|P ; fit|fit|R|Adj ; -ly|ly|I||-ly (adv)
+unfitting	adj	un-|un|P ; fit|fitt|R|V ; -ing|ing|S||-ing (adj)
+unfix	verb	un-|un|P ; fix|fix|R|V
+unflaggingly	adv	un-|un|P ; flag|flagg|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unflamboyant	adj	un-|un|P ; flamboyant|flamboyant|R|Adj
+unflappability	noun	un-|un|P ; flap|flapp|R|V ; -able|abil|S ; -ity|ity|S
+unflappably	adv	un-|un|P ; flap|flapp|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+unflatteringly	adv	un-|un|P ; flatter|flatter|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unflawed	adj	un-|un|P ; flaw|flaw|R|N ; -ed|ed|S||-ed (adj)
+unflecked	adj	un-|un|P ; fleck|fleck|R|N ; -ed|ed|S||-ed (adj)
+unfledged	adj	un-|un|P ; fledge|fledge|R|V ; -ed|d|S||-ed (adj)
+unfleshed	adj	un-|un|P ; flesh|flesh|R|N ; -ed|ed|S||-ed (adj)
+unfleshly	adj	un-|un|P ; flesh|flesh|R|N ; -ly|ly|S||-ly (adj)
+unflexed	adj	un-|un|P ; flex|flex|R|V ; -ed|ed|S||-ed (adj)
+unflickering	adj	un-|un|P ; flicker|flicker|R|V ; -ing|ing|S||-ing (adj)
+unflinchingness	noun	un-|un|P ; flinch|flinch|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unflower	verb	un-|un|P ; flower|flower|R|N
+unfluctuating	adj	un-|un|P ; fluctuate|fluctuat|R|V ; -ing|ing|S||-ing (adj)
+unflyable	adj	un-|un|P ; fly|fly|R|V ; -able|able|S
+unfoiled	adj	un-|un|P ; foil|foil|R|V ; -ed|ed|S||-ed (adj)
+unfoldment	noun	un-|un|P ; fold|fold|R|V ; -ment|ment|S
+unfollow	verb	un-|un|P ; follow|follow|R|V
+unfond	adj	un-|un|P ; fond|fond|R|Adj
+unfooled	adj	un-|un|P ; fool|fool|R|N ; -ed|ed|S||-ed (adj)
+unfooted	adj	un-|un|P ; foot|foot|R|N ; -ed|ed|S||-ed (adj)
+unforbearing	adj	un-|un|P ; fore-|for|P ; bear|bear|R|V ; -ing|ing|S||-ing (adj)
+unforbidden	adj	un-|un|P ; forbid|forbidd|R|V ; -en|en|I||-en (participle)
+unforceable	adj	un-|un|P ; force|force|R|V ; -able|able|S
+unfordable	adj	un-|un|P ; ford|ford|R|V ; -able|able|S
+unforeknowable	adj	un-|un|P ; fore-|fore|P ; know|know|R|V ; -able|able|S
+unforeseeing	adj	un-|un|P ; fore-|fore|P ; see|see|R|V ; -ing|ing|S||-ing (adj)
+unforested	adj	un-|un|P ; forest|forest|R|N ; -ed|ed|S||-ed (adj)
+unforetold	adj	un-|un|P ; fore-|fore|P ; tell|told|R|V ; -ed||I||-ed (v2)
+unforewarned	adj	un-|un|P ; fore-|fore|P ; warn|warn|R|V ; -ed|ed|S||-ed (adj)
+unforged	adj	un-|un|P ; forge|forge|R|V ; -ed|d|S||-ed (adj)
+unforgettability	noun	un-|un|P ; forget|forgett|R|V ; -able|abil|S ; -ity|ity|S
+unforgettableness	noun	un-|un|P ; forget|forgett|R|V ; -able|able|S ; -ness|ness|S
+unforgivingly	adv	un-|un|P ; forgive|forgiv|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I||-ly (adv)
+unforgivingness	noun	un-|un|P ; forgive|forgiv|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+unforgotten	adj	un-|un|P ; forget|forgotten|R|V ; -en||I||-en (participle)
+unformidable	adj	un-|un|P ; formidable|formidable|R|Adj
+unformulated	adj	un-|un|P ; formula|formul|R|N ; -ate|ate|S ; -ed|d|S||-ed (adj)
+unforsaken	adj	un-|un|P ; forsake|forsaken|R|V ; -en||I||-en (participle)
+unforthcoming	adj	un-|un|P ; forth|forth|R|Adv ; come|com|R|V ; -ing|ing|S||-ing (adj)
+unfortified	adj	un-|un|P ; fort|fort|R|N ; -ify|ifi|S ; -ed|ed|S||-ed (adj)
+unfortunateness	noun	un-|un|P ; fortune|fortun|R|N ; -ate|ate|S ; -ness|ness|S
+unfossiliferous	adj	un-|un|P ; fossiliferous|fossiliferous|R|Adj
+unfought	adj	un-|un|P ; fight|fought|R|V ; -ed||I||-ed (v2)

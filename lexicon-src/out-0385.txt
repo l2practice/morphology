@@ -1,0 +1,200 @@
+sovnarkhoz	noun	sovnarkhoz|sovnarkhoz|R|N
+sovok	noun	sovok|sovok|R|N
+sowback	noun	sow|sow|R|N ; back|back|R|N
+sowbelly	noun	sow|sow|R|N ; belly|belly|R|N
+sowbread	noun	sow|sow|R|N ; bread|bread|R|N
+sown	verb	sow|sown|R|V ; -en||I||-en (participle)
+soylent	noun	soylent|soylent|R|N
+sozzled	adj	sozzle|sozzl|R|V ; -ed|ed|S||-ed (adj)
+spacefarer	noun	space|space|R|N ; fare|far|R|V ; -er|er|S||-er (N)
+spaceless	adj	space|space|R|N ; -less|less|S
+spacetime	noun	space|space|R|N ; time|time|R|N
+spacewards	adv	space|space|R|N ; -ward|wards|S
+spacewoman	noun	space|space|R|N ; woman|woman|R|N
+spaciously	adv	spacious|spacious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+spackle	noun	spackle|spackle|R|N
+spacy	adj	space|spac|R|N ; -y|y|S
+spadeful	noun	spade|spade|R|N ; -ful|ful|S
+spader	noun	spade|spad|R|N ; -er|er|S||-er (N)
+spades	noun	spade|spade|R|N ; -s|s|I||-s (plural)
+spadesman	noun	spade|spades|R|N ; man|man|R|N
+spadger	noun	spadger|spadger|R|N
+spadicose	adj	spadicose|spadicose|R|Adj
+spadille	noun	spadille|spadille|R|N
+spadix	noun	spadix|spadix|R|N
+spaewife	noun	spae|spae|R|V ; wife|wife|R|N
+spaghettification	noun	spaghettify|spaghettifi|R|V ; -ation|cation|S
+spaghetto	noun	spaghetto|spaghetto|R|N
+spagyric	adj	spagyric|spagyric|R|Adj
+spahbed	noun	spahbed|spahbed|R|N
+spahi	noun	spahi|spahi|R|N
+spall	verb	spall|spall|R|V
+spalling	verb	spall|spall|R|V ; -ing|ing|I||-ing (v)
+spalpeen	noun	spalpeen|spalpeen|R|N
+spamdexing	verb	spamdex|spamdex|R|V ; -ing|ing|I||-ing (v)
+spangling	verb	spangle|spangl|R|V ; -ing|ing|I||-ing (v)
+spangly	adj	spangle|spangl|R|V ; -y|y|S
+spankee	noun	spank|spank|R|V ; -ee|ee|S
+spanless	adj	span|span|R|N ; -less|less|S
+sparable	noun	spar|spar|R|N ; -able|able|S
+sparerib	noun	spare|spare|R|Adj ; rib|rib|R|N
+sparge	verb	sparge|sparge|R|V
+sparger	noun	sparge|sparg|R|V ; -er|er|S||-er (N)
+sparingness	noun	sparing|sparing|R|Adj ; -ness|ness|S
+sparked	verb	spark|spark|R|V ; -ed|ed|I||-ed (v2)
+sparkish	adj	spark|spark|R|N ; -ish|ish|S
+sparkless	adj	spark|spark|R|N ; -less|less|S
+sparling	noun	sparling|sparling|R|N
+sparoid	noun	sparoid|sparoid|R|N
+sparry	adj	spar|sparr|R|N ; -y|y|S
+spartan	adj	spartan|spartan|R|Adj
+spasmology	noun	spasmology|spasmology|R|N
+spasmolytic	adj	spasmolytic|spasmolytic|R|Adj
+spatchcock	verb	spatchcock|spatchcock|R|V
+spathaceous	adj	spathaceous|spathaceous|R|Adj
+spathe	noun	spathe|spathe|R|N
+spathed	adj	spathe|spath|R|N ; -ed|ed|S||-ed (adj)
+spathic	adj	spathic|spathic|R|Adj
+spathiform	adj	spathiform|spathiform|R|Adj
+spationaut	noun	spationaut|spationaut|R|N
+spatiotemporal	adj	spatiotemporal|spatiotemporal|R|Adj
+spatterdashes	noun	spatter|spatter|R|V ; dash|dash|R|N ; -es|es|I||-s (plural)
+spatular	adj	spatula|spatul|R|N ; -ar|ar|S
+spatulate	adj	spatula|spatul|R|N ; -ate|ate|S
+spatule	noun	spatule|spatule|R|N
+spatuliform	adj	spatuliform|spatuliform|R|Adj
+spavin	noun	spavin|spavin|R|N
+spavined	adj	spavin|spavin|R|N ; -ed|ed|S||-ed (adj)
+speakable	adj	speak|speak|R|V ; -able|able|S
+speared	verb	spear|spear|R|V ; -ed|ed|I||-ed (v2)
+speargrass	noun	spear|spear|R|N ; grass|grass|R|N
+speargun	noun	spear|spear|R|N ; gun|gun|R|N
+spearing	verb	spear|spear|R|V ; -ing|ing|I||-ing (v)
+speary	adj	spear|spear|R|N ; -y|y|S
+specialistic	adj	specialist|specialist|R|N ; -ic|ic|S
+speciational	adj	speciation|speciation|R|N ; -al|al|S
+speciesism	noun	species|species|R|N ; -ism|ism|S
+speciesist	noun	species|species|R|N ; -ist|ist|S
+specifications	noun	specification|specification|R|N ; -s|s|I||-s (plural)
+specificness	noun	specific|specific|R|Adj ; -ness|ness|S
+specifying	verb	specify|specify|R|V ; -ing|ing|I||-ing (v)
+speciology	noun	speciology|speciology|R|N
+speciosity	noun	specious|speci|R|Adj ; -ity|osity|S
+speciously	adv	specious|specious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+speciousness	noun	specious|specious|R|Adj ; -ness|ness|S
+specked	adj	speck|speck|R|N ; -ed|ed|S||-ed (adj)
+specking	verb	speck|speck|R|V ; -ing|ing|I||-ing (v)
+speckless	adj	speck|speck|R|N ; -less|less|S
+speckling	verb	speckle|speckl|R|V ; -ing|ing|I||-ing (v)
+specs	noun	spec|spec|R|N ; -s|s|I||-s (plural)
+spectacles	noun	spectacle|spectacle|R|N ; -s|s|I||-s (plural)
+spectatress	noun	spectatress|spectatress|R|N
+spectrality	noun	spectral|spectral|R|Adj ; -ity|ity|S
+spectrally	adv	spectral|spectral|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+spectrogram	noun	spectrogram|spectrogram|R|N
+spectrography	noun	spectrography|spectrography|R|N
+spectroheliogram	noun	spectroheliogram|spectroheliogram|R|N
+spectroheliograph	noun	spectroheliograph|spectroheliograph|R|N
+spectroheliography	noun	spectroheliography|spectroheliography|R|N
+spectrohelioscope	noun	spectrohelioscope|spectrohelioscope|R|N
+spectrology	noun	spectrology|spectrology|R|N
+spectrometric	adj	spectrometer|spectrometr|R|N ; -ic|ic|S
+spectrophotography	noun	spectrophotography|spectrophotography|R|N
+spectrophotometric	adj	spectrophotometric|spectrophotometric|R|Adj
+spectrophotometry	noun	spectrophotometry|spectrophotometry|R|N
+speculating	verb	speculate|speculat|R|V ; -ing|ing|I||-ing (v)
+speculativeness	noun	speculative|speculative|R|Adj ; -ness|ness|S
+speculatory	adj	speculate|speculat|R|V ; -ory|ory|S
+speculoos	noun	speculoos|speculoos|R|N
+sped	verb	speed|sped|R|V ; -ed||I||-ed (v2)
+speechification	noun	speechify|speechifi|R|V ; -ation|cation|S
+speechifier	noun	speechify|speechifi|R|V ; -er|er|S||-er (N)
+speechify	verb	speech|speech|R|N ; -ify|ify|S
+speechifying	verb	speechify|speechify|R|V ; -ing|ing|I||-ing (v)
+speechlessly	adv	speechless|speechless|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+speechmaker	noun	speech|speech|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+speediness	noun	speedy|speedi|R|Adj ; -ness|ness|S
+speedrun	noun	speed|speed|R|N ; run|run|R|V
+speedup	noun	speed|speed|R|N ; up|up|R|Adv
+speiss	noun	speiss|speiss|R|N
+spelaean	adj	spelaean|spelaean|R|Adj
+speleological	adj	speleology|speleolog|R|N ; -ical|ical|S
+speleologist	noun	speleology|speleolog|R|N ; -ist|ist|S
+speleology	noun	speleology|speleology|R|N
+speleothem	noun	speleothem|speleothem|R|N
+spellbinder	noun	spell|spell|R|V ; bind|bind|R|V ; -er|er|S||-er (N)
+spelt	verb	spell|spelt|R|V ; -ed||I||-ed (v2)
+spelter	noun	spelter|spelter|R|N
+spelunk	verb	spelunk|spelunk|R|V
+spelunking	verb	spelunk|spelunk|R|V ; -ing|ing|I||-ing (v)
+spendable	adj	spend|spend|R|V ; -able|able|S
+spermaceti	noun	spermaceti|spermaceti|R|N
+spermary	noun	sperm|sperm|R|N ; -ary|ary|S
+spermatheca	noun	spermatheca|spermatheca|R|N
+spermatic	adj	spermatic|spermatic|R|Adj
+spermatid	noun	spermatid|spermatid|R|N
+spermatium	noun	spermatium|spermatium|R|N
+spermatocyte	noun	spermatocyte|spermatocyte|R|N
+spermatogenesis	noun	spermatogenesis|spermatogenesis|R|N
+spermatogenetic	adj	spermatogenesis|spermatogenet|R|N ; -ic|ic|S
+spermatogenous	adj	spermatogenous|spermatogenous|R|Adj
+spermatogonium	noun	spermatogonium|spermatogonium|R|N
+spermatological	adj	spermatology|spermatolog|R|N ; -ical|ical|S
+spermatologist	noun	spermatology|spermatolog|R|N ; -ist|ist|S
+spermatology	noun	spermatology|spermatology|R|N
+spermatophyte	noun	spermatophyte|spermatophyte|R|N
+spermatorrhoea	noun	spermatorrhoea|spermatorrhoea|R|N
+spermatozoal	adj	spermatozoon|spermatozo|R|N ; -al|al|S
+spermatozoan	noun	spermatozoon|spermatozo|R|N ; -an|an|S
+spermatozoid	noun	spermatozoid|spermatozoid|R|N
+spermatozoon	noun	spermatozoon|spermatozoon|R|N
+spermic	adj	sperm|sperm|R|N ; -ic|ic|S
+spermicidal	adj	spermicide|spermicid|R|N ; -al|al|S
+spermiducal	adj	spermiducal|spermiducal|R|Adj
+spermiduct	noun	sperm|spermi|R|N ; duct|duct|R|N
+spermine	noun	spermine|spermine|R|N
+spermiogenesis	noun	spermiogenesis|spermiogenesis|R|N
+spermogonial	adj	spermogonium|spermogoni|R|N ; -al|al|S
+spermogonium	noun	spermogonium|spermogonium|R|N
+spermology	noun	spermology|spermology|R|N
+spermous	adj	sperm|sperm|R|N ; -ous|ous|S
+spessartine	noun	spessartine|spessartine|R|N
+spewing	verb	spew|spew|R|V ; -ing|ing|I||-ing (v)
+sphacelate	verb	sphacelate|sphacelate|R|V
+sphalerite	noun	sphalerite|sphalerite|R|N
+sphene	noun	sphene|sphene|R|N
+sphenoidal	adj	sphenoid|sphenoid|R|N ; -al|al|S
+spheral	adj	sphere|spher|R|N ; -al|al|S
+spherically	adv	spherical|spherical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+spherics	noun	spherics|spherics|R|N
+spheroidization	noun	spheroidize|spheroidiz|R|V ; -ation|ation|S
+spherometer	noun	spherometer|spherometer|R|N
+spherular	adj	spherule|spherul|R|N ; -ar|ar|S
+spherulate	adj	spherule|spherul|R|N ; -ate|ate|S
+spherule	noun	spherule|spherule|R|N
+spherulite	noun	spherulite|spherulite|R|N
+spherulitic	adj	spherulite|spherulit|R|N ; -ic|ic|S
+sphincteral	adj	sphincter|sphincter|R|N ; -al|al|S
+sphincterial	adj	sphincter|sphincter|R|N ; -ial|ial|S
+sphincteric	adj	sphincter|sphincter|R|N ; -ic|ic|S
+sphinxian	adj	sphinx|sphinx|R|N ; -ian|ian|S
+sphragistics	noun	sphragistics|sphragistics|R|N
+sphygmic	adj	sphygmic|sphygmic|R|Adj
+sphygmogram	noun	sphygmogram|sphygmogram|R|N
+sphygmograph	noun	sphygmograph|sphygmograph|R|N
+sphygmographic	adj	sphygmography|sphygmograph|R|N ; -ic|ic|S
+sphygmography	noun	sphygmography|sphygmography|R|N
+sphygmoid	adj	sphygmoid|sphygmoid|R|Adj
+sphygmology	noun	sphygmology|sphygmology|R|N
+sphygmomanometer	noun	sphygmomanometer|sphygmomanometer|R|N
+sphygmometer	noun	sphygmometer|sphygmometer|R|N
+sphygmophone	noun	sphygmophone|sphygmophone|R|N
+spicate	adj	spicate|spicate|R|Adj
+spicated	adj	spicate|spicat|R|Adj ; -ed|ed|S||-ed (adj)
+spicebush	noun	spice|spice|R|N ; bush|bush|R|N
+spicery	noun	spice|spic|R|N ; -ery|ery|S
+spicily	adv	spicy|spici|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+spicula	noun	spicula|spicula|R|N
+spicular	adj	spicula|spicul|R|N ; -ar|ar|S
+spiculate	adj	spicula|spicul|R|N ; -ate|ate|S
+spiculum	noun	spiculum|spiculum|R|N

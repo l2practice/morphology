@@ -1,0 +1,200 @@
+genome	noun	genome|genome|R|N
+watercolour	noun	water|water|R|N ; colour|colour|R|N
+abnormality	noun	abnormality|abnormality|R|N
+cram	verb	cram|cram|R|V
+nutritional	adj	nutrition|nutrition|R|N ; -al|al|S
+spike	noun	spike|spike|R|N
+feminism	noun	feminism|feminism|R|N
+palette	noun	palette|palette|R|N
+lament	verb	lament|lament|R|V
+vic	noun	vic|vic|R|N
+negatively	adv	negate|negat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+auntie	noun	auntie|auntie|R|N
+hmm	interj	hmm|hmm|R
+ignite	verb	ignite|ignite|R|V
+heather	noun	heather|heather|R|N
+revolve	verb	revolve|revolve|R|V
+alternate	verb	alternate|alternate|R|V
+paisley	noun	paisley|paisley|R|N
+spa	noun	spa|spa|R|N
+bully	noun	bully|bully|R|N
+diocese	noun	diocese|diocese|R|N
+bracelet	noun	brace|brace|R|N ; -let|let|S
+contaminate	verb	contaminate|contaminate|R|V
+geology	noun	geology|geology|R|N
+piper	noun	pipe|pip|R|V ; -er|er|S||-er (N)
+vowel	noun	vowel|vowel|R|N
+startling	adj	startle|startl|R|V ; -ing|ing|S||-ing (adj)
+veterinary	adj	veterinary|veterinary|R|Adj
+alumnus	noun	alumnus|alumnus|R|N
+inspectorate	noun	inspect|inspect|R|V ; -or|or|S ; -ate|ate|S
+chaotic	adj	chaotic|chaotic|R|Adj
+unification	noun	unify|unifi|R|V ; -ation|cation|S
+mutant	noun	mutant|mutant|R|N
+arbitration	noun	arbitrate|arbitrat|R|V ; -ion|ion|S
+listening	noun	listen|listen|R|V ; -ing|ing|S||-ing (N)
+corpus	noun	corpus|corpus|R|N
+merry	adj	merry|merry|R|Adj
+awhile	adv	a-|a|P ; while|while|R|N
+marc	noun	marc|marc|R|N
+gloria	noun	gloria|gloria|R|N
+sober	adj	sober|sober|R|Adj
+morse	noun	morse|morse|R|N
+sleepy	adj	sleep|sleep|R|V ; -y|y|S
+nitrate	noun	nitrate|nitrate|R|N
+peek	verb	peek|peek|R|V
+camping	noun	camp|camp|R|V ; -ing|ing|S||-ing (N)
+clasp	verb	clasp|clasp|R|V
+youthful	adj	youth|youth|R|N ; -ful|ful|S
+thoughtfully	adv	thought|thought|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+flatten	verb	flat|flat|R|Adj ; -en|ten|S
+marco	noun	marco|marco|R|N
+glowing	adj	glow|glow|R|V ; -ing|ing|S||-ing (adj)
+commando	noun	commando|commando|R|N
+nap	noun	nap|nap|R|N
+roadside	noun	road|road|R|N ; side|side|R|N
+clone	noun	clone|clone|R|N
+impair	verb	impair|impair|R|V
+dementia	noun	dementia|dementia|R|N
+hazel	noun	hazel|hazel|R|N
+razor	noun	razor|razor|R|N
+frantic	adj	frantic|frantic|R|Adj
+charcoal	noun	char|char|R|V ; coal|coal|R|N
+font	noun	font|font|R|N
+intrinsic	adj	intrinsic|intrinsic|R|Adj
+starve	verb	starve|starve|R|V
+rainforest	noun	rain|rain|R|N ; forest|forest|R|N
+reclaim	verb	re-|re|P ; claim|claim|R|V
+sewer	noun	sewer|sewer|R|N
+catcher	noun	catch|catch|R|V ; -er|er|S||-er (N)
+distributed	adj	distribute|distribut|R|V ; -ed|ed|S||-ed (adj)
+fertile	adj	fertile|fertile|R|Adj
+inflammatory	adj	inflammatory|inflammatory|R|Adj
+hepatitis	noun	hepatitis|hepatitis|R|N
+wield	verb	wield|wield|R|V
+timely	adj	time|time|R|N ; -ly|ly|S||-ly (adj)
+daunting	adj	daunt|daunt|R|V ; -ing|ing|S||-ing (adj)
+retrieval	noun	retrieve|retriev|R|V ; -al|al|S
+disgust	noun	disgust|disgust|R|N
+southwestern	adj	south|south|R|N ; western|western|R|Adj
+graphical	adj	graph|graph|R|N ; -ical|ical|S
+binary	adj	binary|binary|R|Adj
+yogurt	noun	yogurt|yogurt|R|N
+doom	noun	doom|doom|R|N
+larva	noun	larva|larva|R|N
+tentacle	noun	tentacle|tentacle|R|N
+rancher	noun	ranch|ranch|R|N ; -er|er|S||-er (N)
+northeastern	adj	north|north|R|N ; eastern|eastern|R|Adj
+niece	noun	niece|niece|R|N
+beta	noun	beta|beta|R|N
+gi	noun	gi|gi|R|N
+rainy	adj	rain|rain|R|N ; -y|y|S
+microcomputer	noun	micro-|micro|P ; compute|comput|R|V ; -er|er|S||-er (N)
+mumble	verb	mumble|mumble|R|V
+capsule	noun	capsule|capsule|R|N
+respiratory	adj	respiratory|respiratory|R|Adj
+insulin	noun	insulin|insulin|R|N
+hamburger	noun	hamburger|hamburger|R|N
+relational	adj	relate|relat|R|V ; -ion|ion|S ; -al|al|S
+appellant	noun	appellant|appellant|R|N
+readiness	noun	ready|readi|R|Adj ; -ness|ness|S
+batsman	noun	bats|bats|R|N ; man|man|R|N
+persistence	noun	persist|persist|R|V ; -ence|ence|S
+liberate	verb	liberate|liberate|R|V
+yer	pron	yer|yer|R
+rhetorical	adj	rhetoric|rhetoric|R|N ; -al|al|S
+desperation	noun	desperate|desperat|R|Adj ; -ion|ion|S
+anonymity	noun	anonymity|anonymity|R|N
+assay	noun	assay|assay|R|N
+interstate	adj	inter-|inter|P ; state|state|R|N
+liner	noun	line|lin|R|N ; -er|er|S||-er (N)
+identifier	noun	identify|identifi|R|V ; -er|er|S||-er (N)
+topple	verb	topple|topple|R|V
+reinforcement	noun	re-|re|P ; in-|in|P ; force|force|R|V ; -ment|ment|S
+dana	noun	dana|dana|R|N
+vastly	adv	vast|vast|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+almond	noun	almond|almond|R|N
+announcer	noun	announce|announc|R|V ; -er|er|S||-er (N)
+duodenal	adj	duodenal|duodenal|R|Adj
+reminiscent	adj	reminisce|reminisc|R|V ; -ent|ent|S
+mucosal	adj	mucosal|mucosal|R|Adj
+validate	verb	valid|valid|R|Adj ; -ate|ate|S
+cooked	adj	cook|cook|R|V ; -ed|ed|S||-ed (adj)
+dime	noun	dime|dime|R|N
+higher	adj	high|high|R|Adj ; -er|er|I||-er (comparative)
+undercover	adj	under-|under|P ; cover|cover|R|V
+orphan	noun	orphan|orphan|R|N
+tempting	adj	tempt|tempt|R|V ; -ing|ing|S||-ing (adj)
+founding	noun	found|found|R|V ; -ing|ing|S||-ing (N)
+needless	adj	need|need|R|N ; -less|less|S
+idle	adj	idle|idle|R|Adj
+persona	noun	persona|persona|R|N
+reel	noun	reel|reel|R|N
+recollection	noun	re-|re|P ; collect|collect|R|V ; -ion|ion|S
+preview	noun	pre-|pre|P ; view|view|R|V
+alleviate	verb	alleviate|alleviate|R|V
+plank	noun	plank|plank|R|N
+disregard	verb	dis-|dis|P ; regard|regard|R|V
+protagonist	noun	protagonist|protagonist|R|N
+collectively	adv	collect|collect|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+comedian	noun	comedy|comedi|R|N ; -an|an|S
+detach	verb	detach|detach|R|V
+wrongly	adv	wrong|wrong|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+hinder	verb	hinder|hinder|R|V
+sprawling	adj	sprawl|sprawl|R|V ; -ing|ing|S||-ing (adj)
+crunch	verb	crunch|crunch|R|V
+taking	noun	take|tak|R|V ; -ing|ing|S||-ing (N)
+mock	verb	mock|mock|R|V
+escalate	verb	escalate|escalate|R|V
+sharpen	verb	sharp|sharp|R|Adj ; -en|en|S
+cruiser	noun	cruise|cruis|R|V ; -er|er|S||-er (N)
+pleasing	adj	please|pleas|R|V ; -ing|ing|S||-ing (adj)
+indifferent	adj	in-|in|P ; differ|differ|R|V ; -ent|ent|S
+scrub	verb	scrub|scrub|R|V
+detached	adj	detach|detach|R|V ; -ed|ed|S||-ed (adj)
+foe	noun	foe|foe|R|N
+stubborn	adj	stubborn|stubborn|R|Adj
+rubble	noun	rubble|rubble|R|N
+bathe	verb	bathe|bathe|R|V
+nearer	adj	near|near|R|Adj ; -er|er|I||-er (comparative)
+tentative	adj	tentative|tentative|R|Adj
+alarming	adj	alarm|alarm|R|V ; -ing|ing|S||-ing (adj)
+avert	verb	avert|avert|R|V
+cavity	noun	cavity|cavity|R|N
+conjunction	noun	conjunction|conjunction|R|N
+pointless	adj	point|point|R|N ; -less|less|S
+novelty	noun	novel|novel|R|Adj ; -ty|ty|S
+outdoors	adv	out-|out|P ; doors|doors|R|N
+genocide	noun	genocide|genocide|R|N
+continual	adj	continue|continu|R|V ; -al|al|S
+troubling	adj	trouble|troubl|R|V ; -ing|ing|S||-ing (adj)
+conjure	verb	conjure|conjure|R|V
+crave	verb	crave|crave|R|V
+redefine	verb	re-|re|P ; define|define|R|V
+seaside	noun	sea|sea|R|N ; side|side|R|N
+packed	adj	pack|pack|R|V ; -ed|ed|S||-ed (adj)
+outskirts	noun	out-|out|P ; skirt|skirt|R|N ; -s|s|I||-s (plural)
+mend	verb	mend|mend|R|V
+catastrophic	adj	catastrophe|catastroph|R|N ; -ic|ic|S
+unrelated	adj	un-|un|P ; relate|relat|R|V ; -ed|ed|S||-ed (adj)
+blueprint	noun	blue|blue|R|Adj ; print|print|R|N
+damaged	adj	damage|damag|R|V ; -ed|ed|S||-ed (adj)
+animation	noun	animate|animat|R|V ; -ion|ion|S
+mildly	adv	mild|mild|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+digest	verb	digest|digest|R|V
+nude	adj	nude|nude|R|Adj
+shorten	verb	short|short|R|Adj ; -en|en|S
+vicinity	noun	vicinity|vicinity|R|N
+hiring	noun	hire|hir|R|V ; -ing|ing|S||-ing (N)
+unsure	adj	un-|un|P ; sure|sure|R|Adj
+reappear	verb	re-|re|P ; appear|appear|R|V
+runoff	noun	run|run|R|V ; off|off|R|Adv
+menace	noun	menace|menace|R|N
+breadth	noun	breadth|breadth|R|N
+professionally	adv	profess|profess|R|V ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+accustom	verb	ac-|ac|P|||ad- ; custom|custom|R|N
+empathy	noun	empathy|empathy|R|N
+unpopular	adj	un-|un|P ; popular|popular|R|Adj
+ruthless	adj	ruthless|ruthless|R|Adj
+collide	verb	collide|collide|R|V
+rehearse	verb	rehearse|rehearse|R|V

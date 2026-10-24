@@ -1,0 +1,200 @@
+epistle	noun	epistle|epistle|R|N
+epistler	noun	epistle|epistl|R|N ; -er|er|S||-er (N)
+epistolarian	adj	epistolary|epistolari|R|Adj ; -an|an|S
+epistrophe	noun	epistrophe|epistrophe|R|N
+epistyle	noun	epistyle|epistyle|R|N
+epitaphic	adj	epitaph|epitaph|R|N ; -ic|ic|S
+epitasis	noun	epitasis|epitasis|R|N
+epithalamial	adj	epithalamium|epithalami|R|N ; -al|al|S
+epithalamic	adj	epithalamium|epithalam|R|N ; -ic|ic|S
+epithalamium	noun	epithalamium|epithalamium|R|N
+epithalamus	noun	epithalamus|epithalamus|R|N
+epithelialize	verb	epithelial|epithelial|R|Adj ; -ize|ize|S
+epithelioid	adj	epithelioid|epithelioid|R|Adj
+epithelioma	noun	epithelioma|epithelioma|R|N
+epitheliomatous	adj	epitheliomatous|epitheliomatous|R|Adj
+epithem	noun	epithem|epithem|R|N
+epithetic	adj	epithet|epithet|R|N ; -ic|ic|S
+epitomist	noun	epitome|epitom|R|N ; -ist|ist|S
+epitomizer	noun	epitome|epitom|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+epitrachelion	noun	epitrachelion|epitrachelion|R|N
+epitrite	noun	epitrite|epitrite|R|N
+epitrochoid	noun	epitrochoid|epitrochoid|R|N
+epitympanic	adj	epitympanic|epitympanic|R|Adj
+epizeuxis	noun	epizeuxis|epizeuxis|R|N
+epizoan	noun	epizoan|epizoan|R|N
+epizoic	adj	epizoic|epizoic|R|Adj
+epizoism	noun	epizoism|epizoism|R|N
+epizoon	noun	epizoon|epizoon|R|N
+epizootically	adv	epizootic|epizootic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+epizootiology	noun	epizootiology|epizootiology|R|N
+epizooty	noun	epizooty|epizooty|R|N
+epode	noun	epode|epode|R|N
+eponymy	noun	eponym|eponym|R|N ; -y|y|S
+epoophoron	noun	epoophoron|epoophoron|R|N
+epopee	noun	epopee|epopee|R|N
+epos	noun	epos|epos|R|N
+epoxide	noun	epoxide|epoxide|R|N
+epulis	noun	epulis|epulis|R|N
+epyllion	noun	epyllion|epyllion|R|N
+equability	noun	equable|equabil|R|Adj ; -ity|ity|S
+equableness	noun	equable|equable|R|Adj ; -ness|ness|S
+equalitarian	adj	equalitarian|equalitarian|R|Adj
+equalitarianism	noun	equalitarian|equalitarian|R|Adj ; -ism|ism|S
+equals	noun	equal|equal|R|Adj ; -s|s|I||-s (plural)
+equanimous	adj	equanimous|equanimous|R|Adj
+equating	verb	equate|equat|R|V ; -ing|ing|I||-ing (v)
+equational	adj	equate|equat|R|V ; -ion|ion|S ; -al|al|S
+equationally	adv	equate|equat|R|V ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+equative	adj	equate|equat|R|V ; -ive|ive|S
+equatorially	adv	equator|equator|R|N ; -ial|ial|S ; -ly|ly|I|Adv|-ly (adv)
+equestrianship	noun	equestrian|equestrian|R|Adj ; -ship|ship|S
+equestrienne	noun	equestrienne|equestrienne|R|N
+equiangular	adj	equiangular|equiangular|R|Adj
+equiareal	adj	equiareal|equiareal|R|Adj
+equiaxial	adj	equiaxial|equiaxial|R|Adj
+equibalance	noun	equibalance|equibalance|R|N
+equicharacteristic	adj	equicharacteristic|equicharacteristic|R|Adj
+equid	noun	equid|equid|R|N
+equidistance	noun	equidistance|equidistance|R|N
+equidistantly	adv	equidistant|equidistant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+equifrequent	adj	equifrequent|equifrequent|R|Adj
+equigranular	adj	equigranular|equigranular|R|Adj
+equilaterally	adv	equilateral|equilateral|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+equilibrant	noun	equilibrant|equilibrant|R|N
+equilibratory	adj	equilibratory|equilibratory|R|Adj
+equilibristic	adj	equilibristic|equilibristic|R|Adj
+equimolecular	adj	equimolecular|equimolecular|R|Adj
+equimultiple	noun	equimultiple|equimultiple|R|N
+equinoctial	adj	equinoctial|equinoctial|R|Adj
+equipage	noun	equip|equip|R|V ; -age|age|S
+equipartition	noun	equipartition|equipartition|R|N
+equipollence	noun	equipollence|equipollence|R|N
+equipollent	adj	equipollent|equipollent|R|Adj
+equiponderance	noun	equiponderance|equiponderance|R|N
+equiponderate	adj	equiponderate|equiponderate|R|Adj
+equipotent	adj	equipotent|equipotent|R|Adj
+equipotential	adj	equipotential|equipotential|R|Adj
+equipped	adj	equip|equipp|R|V ; -ed|ed|S||-ed (adj)
+equiprobable	adj	equiprobable|equiprobable|R|Adj
+equisetic	adj	equisetic|equisetic|R|Adj
+equisetum	noun	equisetum|equisetum|R|N
+equisummable	adj	equisummable|equisummable|R|Adj
+equitableness	noun	equitable|equitable|R|Adj ; -ness|ness|S
+equitant	adj	equitant|equitant|R|Adj
+equitation	noun	equitation|equitation|R|N
+equitization	noun	equitize|equitiz|R|V ; -ation|ation|S
+equitize	verb	equity|equit|R|N ; -ize|ize|S
+equivalve	adj	equivalve|equivalve|R|Adj
+equivariant	adj	equivariant|equivariant|R|Adj
+equivocality	noun	equivocal|equivocal|R|Adj ; -ity|ity|S
+equivocally	adv	equivocal|equivocal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+equivocalness	noun	equivocal|equivocal|R|Adj ; -ness|ness|S
+equivoque	noun	equivoque|equivoque|R|N
+er	interj	er|er|R
+eradiate	verb	eradiate|eradiate|R|V
+eradiation	noun	eradiate|eradiat|R|V ; -ion|ion|S
+eradicable	adj	eradicate|eradic|R|V ; -able|able|S
+eradicated	adj	eradicate|eradicat|R|V ; -ed|ed|S||-ed (adj)
+eradicative	adj	eradicate|eradicat|R|V ; -ive|ive|S
+eradicator	noun	eradicate|eradicat|R|V ; -or|or|S
+erasability	noun	erasable|erasabil|R|Adj ; -ity|ity|S
+erasement	noun	erase|erase|R|V ; -ment|ment|S
+erd	noun	erd|erd|R|N
+erectable	adj	erect|erect|R|V ; -able|able|S
+erected	adj	erect|erect|R|V ; -ed|ed|S||-ed (adj)
+erectility	noun	erectile|erectil|R|Adj ; -ity|ity|S
+erectly	adv	erect|erect|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+erectness	noun	erect|erect|R|Adj ; -ness|ness|S
+erectopatent	adj	erectopatent|erectopatent|R|Adj
+eremic	adj	eremic|eremic|R|Adj
+eremite	noun	eremite|eremite|R|N
+eremitic	adj	eremite|eremit|R|N ; -ic|ic|S
+eremitism	noun	eremite|eremit|R|N ; -ism|ism|S
+erethism	noun	erethism|erethism|R|N
+erethismic	adj	erethism|erethism|R|N ; -ic|ic|S
+erethistic	adj	erethism|erethist|R|N ; -ic|ic|S
+erethizontid	noun	erethizontid|erethizontid|R|N
+ereyesterday	noun	ere|ere|R ; yesterday|yesterday|R|N
+ergastic	adj	ergastic|ergastic|R|Adj
+ergastoplasm	noun	ergastoplasm|ergastoplasm|R|N
+ergastoplasmic	adj	ergastoplasm|ergastoplasm|R|N ; -ic|ic|S
+ergative	adj	ergative|ergative|R|Adj
+ergativity	noun	ergative|ergativ|R|Adj ; -ity|ity|S
+ergatocracy	noun	ergatocracy|ergatocracy|R|N
+ergodic	adj	ergodic|ergodic|R|Adj
+ergodicity	noun	ergodic|ergodic|R|Adj ; -ity|ity|S
+ergograph	noun	ergograph|ergograph|R|N
+ergology	noun	ergology|ergology|R|N
+ergometric	adj	ergometric|ergometric|R|Adj
+ergometrine	noun	ergometrine|ergometrine|R|N
+ergometry	noun	ergometry|ergometry|R|N
+ergon	noun	ergon|ergon|R|N
+ergonometric	adj	ergonometric|ergonometric|R|Adj
+ergonomist	noun	ergonomics|ergonom|R|N ; -ist|ist|S
+ergonovine	noun	ergonovine|ergonovine|R|N
+ergonym	noun	ergonym|ergonym|R|N
+ergosterol	noun	ergosterol|ergosterol|R|N
+ergot	noun	ergot|ergot|R|N
+ergotamine	noun	ergotamine|ergotamine|R|N
+ergotic	adj	ergot|ergot|R|N ; -ic|ic|S
+ergotine	noun	ergotine|ergotine|R|N
+ergotism	noun	ergot|ergot|R|N ; -ism|ism|S
+ergotize	verb	ergot|ergot|R|N ; -ize|ize|S
+ergotoxine	noun	ergotoxine|ergotoxine|R|N
+erhu	noun	erhu|erhu|R|N
+erhua	noun	erhua|erhua|R|N
+ericaceous	adj	ericaceous|ericaceous|R|Adj
+erigeron	noun	erigeron|erigeron|R|N
+erinaceous	adj	erinaceous|erinaceous|R|Adj
+eristavi	noun	eristavi|eristavi|R|N
+eristic	adj	eristic|eristic|R|Adj
+erlang	noun	erlang|erlang|R|N
+erlenmeyer	noun	erlenmeyer|erlenmeyer|R|N
+erodent	adj	erode|erod|R|V ; -ent|ent|S
+erodibility	noun	erodible|erodibil|R|Adj ; -ity|ity|S
+erodible	adj	erode|erod|R|V ; -ible|ible|S
+eroge	noun	eroge|eroge|R|N
+erosionally	adv	erosion|erosion|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+erosiveness	noun	erosive|erosive|R|Adj ; -ness|ness|S
+erosivity	noun	erosive|erosiv|R|Adj ; -ity|ity|S
+erotematic	adj	erotematic|erotematic|R|Adj
+eroticist	noun	erotic|erotic|R|Adj ; -ist|ist|S
+eroticization	noun	eroticize|eroticiz|R|V ; -ation|ation|S
+eroticize	verb	erotic|erotic|R|Adj ; -ize|ize|S
+erotism	noun	erotic|erot|R|Adj ; -ism|ism|S
+erotology	noun	erotology|erotology|R|N
+erotomania	noun	erotomania|erotomania|R|N
+erotomaniac	noun	erotomaniac|erotomaniac|R|N
+errancy	noun	errant|erran|R|Adj ; -cy|cy|S
+errantly	adv	errant|errant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+errantry	noun	errant|errant|R|Adj ; -ry|ry|S
+errata	noun	errata|errata|R|N
+erraticism	noun	erratic|erratic|R|Adj ; -ism|ism|S
+erratum	noun	erratum|erratum|R|N
+erred	verb	err|err|R|V ; -ed|ed|I||-ed (v2)
+errhine	noun	errhine|errhine|R|N
+erroneousness	noun	erroneous|erroneous|R|Adj ; -ness|ness|S
+errorfree	adj	error|error|R|N ; free|free|R|Adj
+errorless	adj	error|error|R|N ; -less|less|S
+erubescence	noun	erubescent|erubesc|R|Adj ; -ence|ence|S
+erubescent	adj	erubescent|erubescent|R|Adj
+eruciform	adj	eruciform|eruciform|R|Adj
+eruct	verb	eruct|eruct|R|V
+eructate	verb	eruct|eruct|R|V ; -ate|ate|S
+eructation	noun	eructate|eructat|R|V ; -ion|ion|S
+eructative	adj	eructate|eructat|R|V ; -ive|ive|S
+eruditely	adv	erudite|erudite|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+eruditeness	noun	erudite|erudite|R|Adj ; -ness|ness|S
+erumpent	adj	erumpent|erumpent|R|Adj
+eruptional	adj	eruption|eruption|R|N ; -al|al|S
+eruptively	adv	eruptive|eruptive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+eruptiveness	noun	eruptive|eruptive|R|Adj ; -ness|ness|S
+eruptivity	noun	eruptive|eruptiv|R|Adj ; -ity|ity|S
+eryngium	noun	eryngium|eryngium|R|N
+eryngo	noun	eryngo|eryngo|R|N
+erysipelas	noun	erysipelas|erysipelas|R|N
+erysipelatous	adj	erysipelatous|erysipelatous|R|Adj
+erythrism	noun	erythrism|erythrism|R|N
+erythristic	adj	erythristic|erythristic|R|Adj
+erythrite	noun	erythrite|erythrite|R|N

@@ -1,0 +1,200 @@
+ovenware	noun	oven|oven|R|N ; ware|ware|R|N
+overabound	verb	over-|over|P ; abound|abound|R|V
+overabundant	adj	over-|over|P ; abundant|abundant|R|Adj
+overaccentuate	verb	over-|over|P ; accentuate|accentuate|R|V
+overaccumulation	noun	over-|over|P ; accumulate|accumul|R|V ; -ation|ation|S
+overachiever	noun	over-|over|P ; achieve|achiev|R|V ; -er|er|S||-er (N)
+overact	verb	over-|over|P ; act|act|R|V
+overalls	noun	over-|over|P ; all|all|R ; -s|s|I||-s (plural)
+overanalysis	noun	over-|over|P ; analysis|analysis|R|N
+overanalytical	adj	over-|over|P ; analysis|analyt|R|N ; -ical|ical|S
+overanxiety	noun	over-|over|P ; anxiety|anxiety|R|N
+overarm	verb	over-|over|P ; arm|arm|R|V
+overassert	verb	over-|over|P ; assert|assert|R|V
+overassertion	noun	over-|over|P ; assert|assert|R|V ; -ion|ion|S
+overassertive	adj	over-|over|P ; assert|assert|R|V ; -ive|ive|S
+overassessment	noun	over-|over|P ; assess|assess|R|V ; -ment|ment|S
+overassist	verb	over-|over|P ; assist|assist|R|V
+overattached	adj	over-|over|P ; attach|attach|R|V ; -ed|ed|S||-ed (adj)
+overattention	noun	over-|over|P ; attend|attent|R|V ; -ion|ion|S
+overattentive	adj	over-|over|P ; attend|attent|R|V ; -ive|ive|S
+overbalancing	noun	over-|over|P ; balance|balanc|R|V ; -ing|ing|S||-ing (N)
+overbear	verb	over-|over|P ; bear|bear|R|V
+overbearingly	adv	over-|over|P ; bear|bear|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+overbearingness	noun	over-|over|P ; bear|bear|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+overbid	verb	over-|over|P ; bid|bid|R|V
+overblouse	noun	over-|over|P ; blouse|blouse|R|N
+overblow	verb	over-|over|P ; blow|blow|R|V
+overboil	verb	over-|over|P ; boil|boil|R|V
+overbold	adj	over-|over|P ; bold|bold|R|Adj
+overbooking	noun	over-|over|P ; book|book|R|V ; -ing|ing|S||-ing (N)
+overbore	verb	over-|over|P ; bore|bore|R|V
+overbought	verb	over-|over|P ; buy|bought|R|V ; -ed||I||-ed (v2)
+overbounteous	adj	over-|over|P ; bounteous|bounteous|R|Adj
+overbridge	noun	over-|over|P ; bridge|bridge|R|N
+overbrim	verb	over-|over|P ; brim|brim|R|V
+overbuilt	adj	over-|over|P ; build|built|R|V ; -ed||I||-ed (v2)
+overburdensome	adj	over-|over|P ; burden|burden|R|N ; -some|some|S
+overburning	noun	over-|over|P ; burn|burn|R|V ; -ing|ing|S||-ing (N)
+overbusy	adj	over-|over|P ; busy|busy|R|Adj
+overbuy	verb	over-|over|P ; buy|buy|R|V
+overcall	verb	over-|over|P ; call|call|R|V
+overcanopy	noun	over-|over|P ; canopy|canopy|R|N
+overcapitalization	noun	over-|over|P ; capitalize|capitaliz|R|V ; -ation|ation|S
+overcapitalize	verb	over-|over|P ; capitalize|capitalize|R|V
+overcapitalized	adj	over-|over|P ; capitalize|capitaliz|R|V ; -ed|ed|S||-ed (adj)
+overcare	verb	over-|over|P ; care|care|R|V
+overcareful	adj	over-|over|P ; care|care|R|N ; -ful|ful|S
+overcasting	noun	over-|over|P ; cast|cast|R|V ; -ing|ing|S||-ing (N)
+overcaution	noun	over-|over|P ; caution|caution|R|N
+overcautious	adj	over-|over|P ; caution|cauti|R|N ; -ous|ous|S
+overcharged	adj	over-|over|P ; charge|charg|R|V ; -ed|ed|S||-ed (adj)
+overcharging	noun	over-|over|P ; charge|charg|R|V ; -ing|ing|S||-ing (N)
+overclothes	noun	over-|over|P ; clothes|clothes|R|N
+overcloud	verb	over-|over|P ; cloud|cloud|R|V
+overclouded	adj	over-|over|P ; cloud|cloud|R|N ; -ed|ed|S||-ed (adj)
+overcloy	verb	over-|over|P ; cloy|cloy|R|V
+overcoating	noun	over-|over|P ; coat|coat|R|V ; -ing|ing|S||-ing (N)
+overcold	adj	over-|over|P ; cold|cold|R|Adj
+overcolour	verb	over-|over|P ; colour|colour|R|V
+overcompression	noun	over-|over|P ; compress|compress|R|V ; -ion|ion|S
+overconscious	adj	over-|over|P ; con-|con|P ; sci-|sci|B|V ; -ous|ous|S
+overconsumption	noun	over-|over|P ; consume|consumpt|R|V ; -ion|ion|S
+overconvergence	noun	over-|over|P ; converge|converg|R|V ; -ence|ence|S
+overcooling	noun	over-|over|P ; cool|cool|R|V ; -ing|ing|S||-ing (N)
+overcorrection	noun	over-|over|P ; correct|correct|R|V ; -ion|ion|S
+overcount	verb	over-|over|P ; count|count|R|V
+overcourtesy	noun	over-|over|P ; courtesy|courtesy|R|N
+overcover	verb	over-|over|P ; cover|cover|R|V
+overcritical	adj	over-|over|P ; critic|critic|R|N ; -al|al|S
+overcrop	verb	over-|over|P ; crop|crop|R|V
+overcrust	noun	over-|over|P ; crust|crust|R|N
+overcunning	adj	over-|over|P ; cunning|cunning|R|Adj
+overcurrent	noun	over-|over|P ; current|current|R|N
+overdear	adj	over-|over|P ; dear|dear|R|Adj
+overdependent	adj	over-|over|P ; depend|depend|R|V ; -ent|ent|S
+overdosage	noun	over-|over|P ; dose|dos|R|N ; -age|age|S
+overdosing	noun	over-|over|P ; dose|dos|R|V ; -ing|ing|S||-ing (N)
+overdrawer	noun	over-|over|P ; draw|draw|R|V ; -er|er|S||-er (N)
+overdrink	verb	over-|over|P ; drink|drink|R|V
+overdriven	adj	over-|over|P ; drive|driven|R|V ; -en||I||-en (participle)
+overdye	verb	over-|over|P ; dye|dye|R|V
+overeagerness	noun	over-|over|P ; eager|eager|R|Adj ; -ness|ness|S
+overearnest	adj	over-|over|P ; earnest|earnest|R|Adj
+overelaborate	adj	over-|over|P ; elaborate|elaborate|R|Adj
+overexcite	verb	over-|over|P ; excite|excite|R|V
+overexert	verb	over-|over|P ; exert|exert|R|V
+overfall	noun	over-|over|P ; fall|fall|R|V
+overfatigue	noun	over-|over|P ; fatigue|fatigue|R|N
+overfeeding	noun	over-|over|P ; feed|feed|R|V ; -ing|ing|S||-ing (N)
+overfill	verb	over-|over|P ; fill|fill|R|V
+overfire	verb	over-|over|P ; fire|fire|R|V
+overfit	verb	over-|over|P ; fit|fit|R|V
+overfitting	noun	over-|over|P ; fit|fitt|R|V ; -ing|ing|S||-ing (N)
+overfold	verb	over-|over|P ; fold|fold|R|V
+overfond	adj	over-|over|P ; fond|fond|R|Adj
+overfreight	noun	over-|over|P ; freight|freight|R|N
+overfulfill	verb	over-|over|P ; fulfill|fulfill|R|V
+overfulfilment	noun	over-|over|P ; fulfill|fulfil|R|V ; -ment|ment|S
+overfund	verb	over-|over|P ; fund|fund|R|V
+overfunding	noun	over-|over|P ; fund|fund|R|V ; -ing|ing|S||-ing (N)
+overgarment	noun	over-|over|P ; garment|garment|R|N
+overgaze	verb	over-|over|P ; gaze|gaze|R|V
+overgentle	adj	over-|over|P ; gentle|gentle|R|Adj
+overgently	adv	over-|over|P ; gentle|gentl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+overgild	verb	over-|over|P ; gild|gild|R|V
+overglance	noun	over-|over|P ; glance|glance|R|V
+overgo	verb	over-|over|P ; go|go|R|V
+overgovern	verb	over-|over|P ; govern|govern|R|V
+overgovernment	noun	over-|over|P ; govern|govern|R|V ; -ment|ment|S
+overgraze	verb	over-|over|P ; graze|graze|R|V
+overgreat	adj	over-|over|P ; great|great|R|Adj
+overhappy	adj	over-|over|P ; happy|happy|R|Adj
+overhaste	noun	over-|over|P ; haste|haste|R|N
+overhasty	adj	over-|over|P ; haste|hast|R|N ; -y|y|S
+overhauling	noun	over-|over|P ; haul|haul|R|V ; -ing|ing|S||-ing (N)
+overhauls	verb	over-|over|P ; haul|haul|R|V ; -s|s|I||-s (3sg)
+overhouse	verb	over-|over|P ; house|house|R|V
+overidentification	noun	over-|over|P ; identify|identifi|R|V ; -ation|cation|S
+overjoy	verb	over-|over|P ; joy|joy|R|N
+overjump	verb	over-|over|P ; jump|jump|R|V
+overkind	adj	over-|over|P ; kind|kind|R|Adj
+overking	noun	over-|over|P ; king|king|R|N
+overknee	noun	over-|over|P ; knee|knee|R|N
+overlabour	verb	over-|over|P ; labour|labour|R|V
+overladen	adj	over-|over|P ; lade|laden|R|V ; -en||I||-en (participle)
+overleap	verb	over-|over|P ; leap|leap|R|V
+overline	verb	over-|over|P ; line|line|R|V
+overlive	verb	over-|over|P ; live|live|R|V
+overlooker	noun	over-|over|P ; look|look|R|V ; -er|er|S||-er (N)
+overlove	verb	over-|over|P ; love|love|R|V
+overmany	adj	over-|over|P ; many|many|R
+overmark	verb	over-|over|P ; mark|mark|R|V
+overmast	noun	over-|over|P ; mast|mast|R|N
+overmasted	adj	over-|over|P ; mast|mast|R|N ; -ed|ed|S||-ed (adj)
+overmaster	verb	over-|over|P ; master|master|R|V
+overmastering	noun	over-|over|P ; master|master|R|V ; -ing|ing|S||-ing (N)
+overmatch	verb	over-|over|P ; match|match|R|V
+overmature	adj	over-|over|P ; mature|mature|R|Adj
+overmeasure	verb	over-|over|P ; measure|measure|R|V
+overmighty	adj	over-|over|P ; mighty|mighty|R|Adj
+overmind	noun	over-|over|P ; mind|mind|R|N
+overmodest	adj	over-|over|P ; modest|modest|R|Adj
+overmodulation	noun	over-|over|P ; modulate|modulat|R|V ; -ion|ion|S
+overmortality	noun	over-|over|P ; mortal|mortal|R|Adj ; -ity|ity|S
+overmount	verb	over-|over|P ; mount|mount|R|V
+overnice	adj	over-|over|P ; nice|nice|R|Adj
+overniceness	noun	over-|over|P ; nice|nice|R|Adj ; -ness|ness|S
+overnicety	noun	over-|over|P ; nice|nicet|R|Adj ; -y|y|S
+overnighter	noun	over-|over|P ; night|night|R|N ; -er|er|S||-er (N)
+overnumerous	adj	over-|over|P ; numerous|numerous|R|Adj
+overnutrition	noun	over-|over|P ; nutrition|nutrition|R|N
+overoptimism	noun	over-|over|P ; optimism|optimism|R|N
+overoptimist	noun	over-|over|P ; optimist|optimist|R|N
+overoptimistic	adj	over-|over|P ; optimist|optimist|R|N ; -ic|ic|S
+overorganization	noun	over-|over|P ; organize|organiz|R|V ; -ation|ation|S
+overorganize	verb	over-|over|P ; organize|organize|R|V
+overpage	verb	over-|over|P ; page|page|R|V
+overpatient	adj	over-|over|P ; patient|patient|R|Adj
+overpersuade	verb	over-|over|P ; persuade|persuade|R|V
+overpitch	verb	over-|over|P ; pitch|pitch|R|V
+overplus	noun	over-|over|P ; plus|plus|R|N
+overpoise	noun	over-|over|P ; poise|poise|R|V
+overpot	noun	over-|over|P ; pot|pot|R|N
+overpowered	adj	over-|over|P ; power|power|R|N ; -ed|ed|S||-ed (adj)
+overpraise	verb	over-|over|P ; praise|praise|R|V
+overpraising	noun	over-|over|P ; praise|prais|R|V ; -ing|ing|S||-ing (N)
+overpreach	verb	over-|over|P ; preach|preach|R|V
+overprescription	noun	over-|over|P ; prescribe|prescript|R|V ; -ion|ion|S
+overpress	verb	over-|over|P ; press|press|R|V
+overpronounce	verb	over-|over|P ; pronounce|pronounce|R|V
+overproof	adj	over-|over|P ; proof|proof|R|N
+overproud	adj	over-|over|P ; proud|proud|R|Adj
+overquick	adj	over-|over|P ; quick|quick|R|Adj
+overranging	noun	over-|over|P ; range|rang|R|V ; -ing|ing|S||-ing (N)
+overrefine	verb	over-|over|P ; refine|refine|R|V
+overreliant	adj	over-|over|P ; rely|reli|R|V ; -ant|ant|S
+overrent	verb	over-|over|P ; rent|rent|R|V
+overrepresent	verb	over-|over|P ; represent|represent|R|V
+overrepresented	adj	over-|over|P ; represent|represent|R|V ; -ed|ed|S||-ed (adj)
+overring	verb	over-|over|P ; ring|ring|R|V
+overruling	noun	over-|over|P ; rule|rul|R|V ; -ing|ing|S||-ing (N)
+oversail	verb	over-|over|P ; sail|sail|R|V
+overscrupulous	adj	over-|over|P ; scrupulous|scrupulous|R|Adj
+oversensitivity	noun	over-|over|P ; sensitive|sensitiv|R|Adj ; -ity|ity|S
+overset	verb	over-|over|P ; set|set|R|V
+oversew	verb	over-|over|P ; sew|sew|R|V
+overshade	verb	over-|over|P ; shade|shade|R|V
+overshadowed	adj	over-|over|P ; shadow|shadow|R|N ; -ed|ed|S||-ed (adj)
+overshadowing	noun	over-|over|P ; shadow|shadow|R|V ; -ing|ing|S||-ing (N)
+overshare	verb	over-|over|P ; share|share|R|V
+overshine	verb	over-|over|P ; shine|shine|R|V
+overside	noun	over-|over|P ; side|side|R|N
+overskirt	noun	over-|over|P ; skirt|skirt|R|N
+oversleeve	noun	over-|over|P ; sleeve|sleeve|R|N
+overslip	verb	over-|over|P ; slip|slip|R|V
+oversmoke	verb	over-|over|P ; smoke|smoke|R|V
+oversnowed	adj	over-|over|P ; snow|snow|R|N ; -ed|ed|S||-ed (adj)
+oversold	verb	over-|over|P ; sell|sold|R|V ; -ed||I||-ed (v2)
+oversoon	adv	over-|over|P ; soon|soon|R|Adv
+oversoul	noun	over-|over|P ; soul|soul|R|N

@@ -1,0 +1,200 @@
+postgraduate	adj	post-|post|P ; graduate|graduate|R|V
+mourn	verb	mourn|mourn|R|V
+millionaire	noun	millionaire|millionaire|R|N
+rex	noun	rex|rex|R|N
+arguably	adv	argue|argu|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+consultative	adj	consult|consult|R|V ; -ative|ative|S
+scarce	adj	scarce|scarce|R|Adj
+charitable	adj	charity|charit|R|N ; -able|able|S
+molly	noun	molly|molly|R|N
+barbecue	noun	barbecue|barbecue|R|N
+indemnity	noun	indemnity|indemnity|R|N
+pervasive	adj	pervasive|pervasive|R|Adj
+stella	noun	stella|stella|R|N
+col	noun	col|col|R|N
+papal	adj	papal|papal|R|Adj
+translator	noun	translate|translat|R|V ; -or|or|S
+strategist	noun	strategy|strateg|R|N ; -ist|ist|S
+transcription	noun	trans-|trans|P ; -scribe|crip|B|V ; -ion|tion|S
+borrower	noun	borrow|borrow|R|V ; -er|er|S||-er (N)
+trademark	noun	trade|trade|R|N ; mark|mark|R|N
+displace	verb	dis-|dis|P ; place|place|R|V
+rosa	noun	rosa|rosa|R|N
+homosexual	adj	homosexual|homosexual|R|Adj
+aerospace	noun	aerospace|aerospace|R|N
+multicultural	adj	multi-|multi|P ; culture|cultur|R|N ; -al|al|S
+icing	noun	ice|ic|R|N ; -ing|ing|S||-ing (N)
+oracle	noun	oracle|oracle|R|N
+polar	adj	polar|polar|R|Adj
+header	noun	head|head|R|N ; -er|er|S||-er (N)
+bilateral	adj	bi-|bi|P ; lateral|lateral|R|Adj
+puppy	noun	puppy|puppy|R|N
+angler	noun	angle|angl|R|V ; -er|er|S||-er (N)
+calory	noun	calory|calory|R|N
+median	noun	median|median|R|N
+inaudible	adj	in-|in|P ; audible|audible|R|Adj
+pending	adj	pend|pend|R|V ; -ing|ing|S||-ing (adj)
+dating	noun	date|dat|R|V ; -ing|ing|S||-ing (N)
+coconut	noun	coco|coco|R|N ; nut|nut|R|N
+guitarist	noun	guitar|guitar|R|N ; -ist|ist|S
+chromosome	noun	chromosome|chromosome|R|N
+linguistics	noun	linguistics|linguistics|R|N
+void	noun	void|void|R|N
+colon	noun	colon|colon|R|N
+seafood	noun	sea|sea|R|N ; food|food|R|N
+battered	adj	batter|batter|R|V ; -ed|ed|S||-ed (adj)
+spreadsheet	noun	spread|spread|R|V ; sheet|sheet|R|N
+algorithm	noun	algorithm|algorithm|R|N
+granite	noun	granite|granite|R|N
+lesion	noun	lesion|lesion|R|N
+theologian	noun	theology|theolog|R|N ; -ian|ian|S
+erode	verb	erode|erode|R|V
+intestinal	adj	intestine|intestin|R|N ; -al|al|S
+dexter	noun	dexter|dexter|R|N
+hum	verb	hum|hum|R|V
+ceasefire	noun	cease|cease|R|V ; fire|fire|R|N
+midfield	noun	mid-|mid|P ; field|field|R|N
+viewing	noun	view|view|R|V ; -ing|ing|S||-ing (N)
+syrup	noun	syrup|syrup|R|N
+travis	noun	travis|travis|R|N
+buying	noun	buy|buy|R|V ; -ing|ing|S||-ing (N)
+infinitive	noun	in-|in|P ; finite|finit|R|Adj ; -ive|ive|S
+beverage	noun	beverage|beverage|R|N
+microsystem	noun	micro-|micro|P ; system|system|R|N
+premiere	noun	premiere|premiere|R|N
+mimic	verb	mimic|mimic|R|V
+ulcerative	adj	ulcer|ulcer|R|N ; -ative|ative|S
+illegally	adv	il-|il|P|||in- ; legal|legal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+colonic	adj	colon|colon|R|N ; -ic|ic|S
+oppression	noun	oppress|oppress|R|V ; -ion|ion|S
+ammunition	noun	ammunition|ammunition|R|N
+paperwork	noun	paper|paper|R|N ; work|work|R|N
+pierce	verb	pierce|pierce|R|V
+hybrid	noun	hybrid|hybrid|R|N
+worse	adj	bad|worse|R|Adj ; -er||I||-er (comparative)
+depressing	adj	depress|depress|R|V ; -ing|ing|S||-ing (adj)
+beforehand	adv	before|before|R|Adv ; hand|hand|R|N
+heated	adj	heat|heat|R|V ; -ed|ed|S||-ed (adj)
+admittedly	adv	admit|admitt|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+prairie	noun	prairie|prairie|R|N
+atmospheric	adj	atmosphere|atmospher|R|N ; -ic|ic|S
+suspected	adj	suspect|suspect|R|V ; -ed|ed|S||-ed (adj)
+commuter	noun	commute|commut|R|V ; -er|er|S||-er (N)
+foul	adj	foul|foul|R|Adj
+downwards	adv	down|down|R|Adv ; -ward|wards|S
+answering	noun	answer|answer|R|V ; -ing|ing|S||-ing (N)
+serial	adj	serial|serial|R|Adj
+investigative	adj	investigate|investigat|R|V ; -ive|ive|S
+marking	noun	mark|mark|R|V ; -ing|ing|S||-ing (N)
+dice	noun	dice|dice|R|N
+dubious	adj	dubious|dubious|R|Adj
+pear	noun	pear|pear|R|N
+boomer	noun	boom|boom|R|V ; -er|er|S||-er (N)
+drastic	adj	drastic|drastic|R|Adj
+surpass	verb	surpass|surpass|R|V
+unsuitable	adj	un-|un|P ; suit|suit|R|V ; -able|able|S
+reflective	adj	reflect|reflect|R|V ; -ive|ive|S
+contradict	verb	contradict|contradict|R|V
+muscular	adj	muscular|muscular|R|Adj
+subscribe	verb	sub-|sub|P ; -scribe|scribe|B|V
+compliment	noun	compliment|compliment|R|N
+landfill	noun	land|land|R|N ; fill|fill|R|V
+commute	verb	commute|commute|R|V
+temporal	adj	temporal|temporal|R|Adj
+misunderstanding	noun	mis-|mis|P ; understand|understand|R|V ; -ing|ing|S||-ing (N)
+pluck	verb	pluck|pluck|R|V
+lunar	adj	lunar|lunar|R|Adj
+pressing	adj	press|press|R|V ; -ing|ing|S||-ing (adj)
+discrepancy	noun	discrepancy|discrepancy|R|N
+trained	adj	train|train|R|V ; -ed|ed|S||-ed (adj)
+patio	noun	patio|patio|R|N
+luckily	adv	lucky|lucki|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sincere	adj	sincere|sincere|R|Adj
+roommate	noun	room|room|R|N ; mate|mate|R|N
+demise	noun	demise|demise|R|N
+enrich	verb	en-|en|P ; rich|rich|R|Adj
+chant	verb	chant|chant|R|V
+dismantle	verb	dis-|dis|P ; mantle|mantle|R|V
+overwhelmingly	adv	overwhelm|overwhelm|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+plainly	adv	plain|plain|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+narrowly	adv	narrow|narrow|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+hesitation	noun	hesitate|hesitat|R|V ; -ion|ion|S
+tout	verb	tout|tout|R|V
+crater	noun	crater|crater|R|N
+jersey	noun	jersey|jersey|R|N
+pamphlet	noun	pamphlet|pamphlet|R|N
+clown	noun	clown|clown|R|N
+loaf	noun	loaf|loaf|R|N
+scout	noun	scout|scout|R|N
+sow	verb	sow|sow|R|V
+wrestling	noun	wrestle|wrestl|R|V ; -ing|ing|S||-ing (N)
+suitably	adv	suit|suit|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+twilight	noun	twilight|twilight|R|N
+adolescence	noun	adolescence|adolescence|R|N
+meaningless	adj	mean|mean|R|V ; -ing|ing|S||-ing (N) ; -less|less|S
+comprehend	verb	comprehend|comprehend|R|V
+secrecy	noun	secrecy|secrecy|R|N
+unlock	verb	un-|un|P ; lock|lock|R|V
+imaging	noun	image|imag|R|N ; -ing|ing|S||-ing (N)
+prosperous	adj	prosper|prosper|R|V ; -ous|ous|S
+squirrel	noun	squirrel|squirrel|R|N
+preferable	adj	prefer|prefer|R|V ; -able|able|S
+plight	noun	plight|plight|R|N
+bleeding	noun	bleed|bleed|R|V ; -ing|ing|S||-ing (N)
+exposed	adj	expose|expos|R|V ; -ed|ed|S||-ed (adj)
+plough	noun	plough|plough|R|N
+responsive	adj	responsive|responsive|R|Adj
+pathetic	adj	pathetic|pathetic|R|Adj
+lurk	verb	lurk|lurk|R|V
+inclination	noun	incline|inclin|R|V ; -ation|ation|S
+deceive	verb	de-|de|P ; -ceive|ceive|B|V
+loosely	adv	loose|loose|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+accidental	adj	accident|accident|R|N ; -al|al|S
+evacuate	verb	evacuate|evacuate|R|V
+wreck	noun	wreck|wreck|R|N
+descriptive	adj	descriptive|descriptive|R|Adj
+modified	adj	modify|modifi|R|V ; -ed|ed|S||-ed (adj)
+lever	noun	lever|lever|R|N
+squash	verb	squash|squash|R|V
+clearing	noun	clear|clear|R|Adj ; -ing|ing|S||-ing (N)
+famine	noun	famine|famine|R|N
+instability	noun	in-|in|P ; stable|stabil|R|Adj ; -ity|ity|S
+legion	noun	legion|legion|R|N
+ignorant	adj	ignore|ignor|R|V ; -ant|ant|S
+relocate	verb	re-|re|P ; locate|locate|R|V
+affiliate	verb	affiliate|affiliate|R|V
+elusive	adj	elusive|elusive|R|Adj
+immensely	adv	immense|immense|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+dodge	verb	dodge|dodge|R|V
+energetic	adj	energetic|energetic|R|Adj
+bureaucrat	noun	bureaucrat|bureaucrat|R|N
+cosy	adj	cosy|cosy|R|Adj
+claw	noun	claw|claw|R|N
+susceptible	adj	susceptible|susceptible|R|Adj
+frost	noun	frost|frost|R|N
+marvelous	adj	marvel|marvel|R|V ; -ous|ous|S
+projected	adj	project|project|R|V ; -ed|ed|S||-ed (adj)
+mercury	noun	mercury|mercury|R|N
+skepticism	noun	skeptic|skeptic|R|N ; -ism|ism|S
+caring	adj	care|car|R|V ; -ing|ing|S||-ing (adj)
+incomplete	adj	in-|in|P ; complete|complete|R|Adj
+laborer	noun	labor|labor|R|N ; -er|er|S||-er (N)
+immunity	noun	immune|immun|R|Adj ; -ity|ity|S
+planetary	adj	planet|planet|R|N ; -ary|ary|S
+speculative	adj	speculate|speculat|R|V ; -ive|ive|S
+saw	noun	saw|saw|R|N
+chess	noun	chess|chess|R|N
+formality	noun	formal|formal|R|Adj ; -ity|ity|S
+endeavour	verb	endeavour|endeavour|R|V
+dedication	noun	dedicate|dedicat|R|V ; -ion|ion|S
+tornado	noun	tornado|tornado|R|N
+filing	noun	file|fil|R|V ; -ing|ing|S||-ing (N)
+wholesale	noun	whole|whole|R|Adj ; sale|sale|R|N
+camel	noun	camel|camel|R|N
+sinister	adj	sinister|sinister|R|Adj
+heck	interj	heck|heck|R
+declining	adj	decline|declin|R|V ; -ing|ing|S||-ing (adj)
+diversion	noun	divert|divers|R|V ; -ion|ion|S
+cuff	noun	cuff|cuff|R|N
+shipment	noun	ship|ship|R|V ; -ment|ment|S
+certified	adj	certify|certifi|R|V ; -ed|ed|S||-ed (adj)

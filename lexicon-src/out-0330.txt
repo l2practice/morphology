@@ -1,0 +1,200 @@
+monomorphism	noun	mono-|mono|P ; morphic|morph|R|Adj ; -ism|ism|S
+mononym	noun	mononym|mononym|R|N
+monophase	noun	mono-|mono|P ; phase|phase|R|N
+monophobia	noun	mono-|mono|P ; phobia|phobia|R|N
+monophonic	adj	mono-|mono|P ; phonic|phonic|R|Adj
+monophthong	noun	monophthong|monophthong|R|N
+monophthongal	adj	monophthong|monophthong|R|N ; -al|al|S
+monophthongization	noun	monophthong|monophthong|R|N ; -ize|iz|S ; -ation|ation|S
+monophthongize	verb	monophthong|monophthong|R|N ; -ize|ize|S
+monophyly	noun	monophyly|monophyly|R|N
+monophysite	noun	monophysite|monophysite|R|N
+monophysitism	noun	monophysite|monophysit|R|N ; -ism|ism|S
+monoploid	adj	monoploid|monoploid|R|Adj
+monopod	noun	mono-|mono|P ; pod|pod|R|N
+monopolism	noun	monopoly|monopol|R|N ; -ism|ism|S
+monopolizer	noun	monopoly|monopol|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+monoprotic	adj	mono-|mono|P ; protic|protic|R|Adj
+monorchid	noun	monorchid|monorchid|R|N
+monosaccharide	noun	mono-|mono|P ; saccharide|saccharide|R|N
+monosemy	noun	monosemy|monosemy|R|N
+monosexual	adj	mono-|mono|P ; sexual|sexual|R|Adj
+monosomy	noun	monosomy|monosomy|R|N
+monostable	adj	mono-|mono|P ; stable|stable|R|Adj
+monosyllabism	noun	mono-|mono|P ; syllable|syllab|R|N ; -ism|ism|S
+monothematic	adj	mono-|mono|P ; thematic|thematic|R|Adj
+monotherapy	noun	mono-|mono|P ; therapy|therapy|R|N
+monotint	noun	mono-|mono|P ; tint|tint|R|N
+monotonicity	noun	monotonic|monotonic|R|Adj ; -ity|ity|S
+monotonousness	noun	monotonous|monotonous|R|Adj ; -ness|ness|S
+monotreme	noun	monotreme|monotreme|R|N
+monotypic	adj	monotype|monotyp|R|N ; -ic|ic|S
+monovalence	noun	mono-|mono|P ; valence|valence|R|N
+monovalency	noun	mono-|mono|P ; valence|valenc|R|N ; -y|y|S
+monovalent	adj	mono-|mono|P ; valent|valent|R|Adj
+monsieur	noun	monsieur|monsieur|R|N
+monstera	noun	monstera|monstera|R|N
+monstrousness	noun	monstrous|monstrous|R|Adj ; -ness|ness|S
+monte	noun	monte|monte|R|N
+montmorillonite	noun	montmorillonite|montmorillonite|R|N
+monumentalism	noun	monumental|monumental|R|Adj ; -ism|ism|S
+monumentalize	verb	monumental|monumental|R|Adj ; -ize|ize|S
+mooching	noun	mooch|mooch|R|V ; -ing|ing|S||-ing (N)
+mook	noun	mook|mook|R|N
+moola	noun	moola|moola|R|N
+moonbase	noun	moon|moon|R|N ; base|base|R|N
+moonbow	noun	moon|moon|R|N ; bow|bow|R|N
+mooncake	noun	moon|moon|R|N ; cake|cake|R|N
+mooncalf	noun	moon|moon|R|N ; calf|calf|R|N
+mooned	verb	moon|moon|R|V ; -ed|ed|I||-ed (v2)
+moonfish	noun	moon|moon|R|N ; fish|fish|R|N
+moonily	adv	moon|moon|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+mooniness	noun	moon|moon|R|N ; -y|i|S ; -ness|ness|S
+mooning	noun	moon|moon|R|V ; -ing|ing|S||-ing (N)
+moonish	adj	moon|moon|R|N ; -ish|ish|S
+moonlighted	verb	moon|moon|R|N ; light|light|R|N ; -ed|ed|I||-ed (v2)
+moonlighter	noun	moon|moon|R|N ; light|light|R|N ; -er|er|S||-er (N)
+moonmilk	noun	moon|moon|R|N ; milk|milk|R|N
+moonquake	noun	moon|moon|R|N ; quake|quake|R|N
+moonraker	noun	moon|moon|R|N ; rake|rak|R|V ; -er|er|S||-er (N)
+moonset	noun	moon|moon|R|N ; set|set|R|N
+moonshiny	adj	moon|moon|R|N ; shine|shin|R|V ; -y|y|S
+moonsickle	noun	moon|moon|R|N ; sickle|sickle|R|N
+moonstruck	adj	moon|moon|R|N ; strike|struck|R|V ; -en||I||-en (participle)
+moonwort	noun	moon|moon|R|N ; wort|wort|R|N
+moorage	noun	moor|moor|R|V ; -age|age|S
+moorcock	noun	moor|moor|R|N ; cock|cock|R|N
+moorfowl	noun	moor|moor|R|N ; fowl|fowl|R|N
+moorish	adj	moor|moor|R|N ; -ish|ish|S
+moorman	noun	moor|moor|R|N ; man|man|R|N
+mooseberry	noun	moose|moose|R|N ; berry|berry|R|N
+mooted	verb	moot|moot|R|V ; -ed|ed|I||-ed (v2)
+mooting	noun	moot|moot|R|V ; -ing|ing|S||-ing (N)
+mopane	noun	mopane|mopane|R|N
+mophead	noun	mop|mop|R|N ; head|head|R|N
+mopish	adj	mop|mop|R|V ; -ish|ish|S
+mopishness	noun	mop|mop|R|V ; -ish|ish|S ; -ness|ness|S
+mopped	verb	mop|mopp|R|V ; -ed|ed|I||-ed (v2)
+moppy	adj	mop|mopp|R|V ; -y|y|S
+mops	noun	mop|mop|R|N ; -s|s|I||-s (plural)
+moquette	noun	moquette|moquette|R|N
+mora	noun	mora|mora|R|N
+moralization	noun	moral|moral|R|Adj ; -ize|iz|S ; -ation|ation|S
+moratory	adj	moratory|moratory|R|Adj
+morbidness	noun	morbid|morbid|R|Adj ; -ness|ness|S
+morbific	adj	morbific|morbific|R|Adj
+morbilli	noun	morbilli|morbilli|R|N
+mordacious	adj	mordacious|mordacious|R|Adj
+mordacity	noun	mordacious|mordaci|R|Adj ; -ty|ty|S
+mordancy	noun	mordant|mord|R|Adj ; -ancy|ancy|S
+mordent	noun	mordent|mordent|R|N
+morello	noun	morello|morello|R|N
+morepork	noun	morepork|morepork|R|N
+mores	noun	mores|mores|R|N
+morganatic	adj	morganatic|morganatic|R|Adj
+moringa	noun	moringa|moringa|R|N
+morion	noun	morion|morion|R|N
+mormon	noun	mormon|mormon|R|N
+morna	noun	morna|morna|R|N
+mornings	noun	morn|morn|R|N ; -ing|ing|S||-ing (N) ; -s|s|I||-s (plural)
+morocco	noun	morocco|morocco|R|N
+moronism	noun	moron|moron|R|N ; -ism|ism|S
+moronity	noun	moron|moron|R|N ; -ity|ity|S
+moroseness	noun	morose|morose|R|Adj ; -ness|ness|S
+morosity	noun	morose|moros|R|Adj ; -ity|ity|S
+morphemic	adj	morpheme|morphem|R|N ; -ic|ic|S
+morphemics	noun	morphemic|morphemic|R|Adj ; -s|s|I||-s (plural)
+morphetic	adj	morphetic|morphetic|R|Adj
+morphic	adj	morph|morph|R|V ; -ic|ic|S
+morphinism	noun	morphine|morphin|R|N ; -ism|ism|S
+morphinize	verb	morphine|morphin|R|N ; -ize|ize|S
+morphism	noun	morph|morph|R|N ; -ism|ism|S
+morphogenic	adj	morphogenic|morphogenic|R|Adj
+morphography	noun	morphography|morphography|R|N
+morphophoneme	noun	morphophoneme|morphophoneme|R|N
+morphophonology	noun	morphophonology|morphophonology|R|N
+morphosyntax	noun	morphosyntax|morphosyntax|R|N
+morra	noun	morra|morra|R|N
+mortgager	noun	mortgage|mortgag|R|N ; -er|er|S||-er (N)
+mortgaging	noun	mortgage|mortgag|R|V ; -ing|ing|S||-ing (N)
+mortised	adj	mortise|mortis|R|V ; -ed|ed|S||-ed (adj)
+mortmain	noun	mortmain|mortmain|R|N
+morula	noun	morula|morula|R|N
+mosasaur	noun	mosasaur|mosasaur|R|N
+moschatel	noun	moschatel|moschatel|R|N
+moscovium	noun	moscovium|moscovium|R|N
+mossback	noun	moss|moss|R|N ; back|back|R|N
+mossen	adj	moss|moss|R|N ; -en|en|S
+mossiness	noun	moss|moss|R|N ; -y|i|S ; -ness|ness|S
+mot	noun	mot|mot|R|N
+motey	adj	mote|mote|R|N ; -y|y|S
+mothercraft	noun	mother|mother|R|N ; craft|craft|R|N
+motherlessness	noun	mother|mother|R|N ; -less|less|S ; -ness|ness|S
+motherlike	adj	mother|mother|R|N ; -like|like|S
+motherliness	noun	mother|mother|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+motherwort	noun	mother|mother|R|N ; wort|wort|R|N
+mothy	adj	moth|moth|R|N ; -y|y|S
+motional	adj	motion|motion|R|N ; -al|al|S
+motioning	noun	motion|motion|R|N ; -ing|ing|S||-ing (N)
+motionlessness	noun	motion|motion|R|N ; -less|less|S ; -ness|ness|S
+motivative	adj	motivate|motivat|R|V ; -ive|ive|S
+motivity	noun	motive|motiv|R|N ; -ity|ity|S
+motlopi	noun	motlopi|motlopi|R|N
+motmot	noun	motmot|motmot|R|N
+motordom	noun	motor|motor|R|N ; -dom|dom|S
+motordrome	noun	motordrome|motordrome|R|N
+motored	adj	motor|motor|R|N ; -ed|ed|S||-ed (adj)
+motorization	noun	motor|motor|R|N ; -ize|iz|S ; -ation|ation|S
+motorize	verb	motor|motor|R|N ; -ize|ize|S
+motory	adj	motor|motor|R|N ; -y|y|S
+mouchoir	noun	mouchoir|mouchoir|R|N
+mouflon	noun	mouflon|mouflon|R|N
+mouldboard	noun	mould|mould|R|N ; board|board|R|N
+mouldiness	noun	mould|mould|R|N ; -y|i|S ; -ness|ness|S
+moulin	noun	moulin|moulin|R|N
+moulinet	noun	moulinet|moulinet|R|N
+moulting	noun	moult|moult|R|V ; -ing|ing|S||-ing (N)
+mountainy	adj	mountain|mountain|R|N ; -y|y|S
+mountant	adj	mount|mount|R|V ; -ant|ant|S
+mountebankery	noun	mountebank|mountebank|R|N ; -ery|ery|S
+mournfulness	noun	mournful|mournful|R|Adj ; -ness|ness|S
+mousebird	noun	mouse|mouse|R|N ; bird|bird|R|N
+mousehole	noun	mouse|mouse|R|N ; hole|hole|R|N
+mousekin	noun	mousekin|mousekin|R|N
+mouser	noun	mouse|mous|R|N ; -er|er|S||-er (N)
+mousetrapped	adj	mouse|mouse|R|N ; trap|trapp|R|V ; -ed|ed|S||-ed (adj)
+mousing	noun	mouse|mous|R|V ; -ing|ing|S||-ing (N)
+mousseline	noun	mousseline|mousseline|R|N
+moustacheless	adj	moustache|moustache|R|N ; -less|less|S
+moustachioed	adj	moustachio|moustachio|R|N ; -ed|ed|S||-ed (adj)
+mouthbrooder	noun	mouth|mouth|R|N ; brood|brood|R|V ; -er|er|S||-er (N)
+mouthed	verb	mouth|mouth|R|V ; -ed|ed|I||-ed (v2)
+mouther	noun	mouth|mouth|R|V ; -er|er|S||-er (N)
+mouthfeel	noun	mouth|mouth|R|N ; feel|feel|R|V
+mouthguard	noun	mouth|mouth|R|N ; guard|guard|R|N
+movability	noun	movable|movabil|R|Adj ; -ity|ity|S
+movableness	noun	movable|movable|R|Adj ; -ness|ness|S
+moveableness	noun	moveable|moveable|R|Adj ; -ness|ness|S
+moveless	adj	move|move|R|V ; -less|less|S
+moves	verb	move|move|R|V ; -s|s|I||-s (3sg)
+moviedom	noun	movie|movie|R|N ; -dom|dom|S
+moviegoing	noun	movie|movie|R|N ; go|go|R|V ; -ing|ing|S||-ing (N)
+movieland	noun	movie|movie|R|N ; land|land|R|N
+movingness	noun	move|mov|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+moxa	noun	moxa|moxa|R|N
+moxibustion	noun	moxibustion|moxibustion|R|N
+mozzetta	noun	mozzetta|mozzetta|R|N
+mpox	noun	mpox|mpox|R|N
+muchness	noun	much|much|R|Adj ; -ness|ness|S
+mucilaginous	adj	mucilage|mucilagin|R|N ; -ous|ous|S
+mucker	noun	muck|muck|R|V ; -er|er|S||-er (N)
+muckle	adj	muckle|muckle|R|Adj
+muckworm	noun	muck|muck|R|N ; worm|worm|R|N
+mucoactive	adj	mucoactive|mucoactive|R|Adj
+mucosity	noun	mucose|mucos|R|Adj ; -ity|ity|S
+mudbrick	noun	mud|mud|R|N ; brick|brick|R|N
+mudded	verb	mud|mudd|R|V ; -ed|ed|I||-ed (v2)
+muddily	adv	mud|mudd|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+muddiness	noun	mud|mudd|R|N ; -y|i|S ; -ness|ness|S
+muddling	noun	muddle|muddl|R|V ; -ing|ing|S||-ing (N)
+muddying	noun	mud|mudd|R|N ; -y|y|S ; -ing|ing|S||-ing (N)

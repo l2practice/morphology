@@ -1,0 +1,200 @@
+impaler	noun	impale|impal|R|V ; -er|er|S||-er (N)
+impalpability	noun	im-|im|P|||in- ; palp|palp|R|V ; -able|abil|S ; -ity|ity|S
+impalpably	adv	im-|im|P|||in- ; palp|palp|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+impanel	verb	im-|im|P|||in- ; panel|panel|R|N
+impanelment	noun	impanel|impanel|R|V ; -ment|ment|S
+imparadise	verb	im-|im|P|||in- ; paradise|paradise|R|N
+imparipinnate	adj	imparipinnate|imparipinnate|R|Adj
+imparisyllabic	adj	imparisyllabic|imparisyllabic|R|Adj
+imparity	noun	im-|im|P|||in- ; parity|parity|R|N
+impark	verb	im-|im|P|||in- ; park|park|R|N
+impartable	adj	impart|impart|R|V ; -able|able|S
+impartation	noun	impart|impart|R|V ; -ation|ation|S
+impartialness	noun	im-|im|P|||in- ; partial|partial|R|Adj ; -ness|ness|S
+impartibility	noun	im-|im|P|||in- ; part|part|R|V ; -ible|ibil|S ; -ity|ity|S
+impartible	adj	im-|im|P|||in- ; part|part|R|V ; -ible|ible|S
+impartibly	adv	im-|im|P|||in- ; part|part|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+imparting	noun	impart|impart|R|V ; -ing|ing|S||-ing (N)
+impartment	noun	impart|impart|R|V ; -ment|ment|S
+impassability	noun	im-|im|P|||in- ; pass|pass|R|V ; -able|abil|S ; -ity|ity|S
+impassableness	noun	im-|im|P|||in- ; pass|pass|R|V ; -able|able|S ; -ness|ness|S
+impassably	adv	im-|im|P|||in- ; pass|pass|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+impassibility	noun	im-|im|P|||in- ; pass|pass|R|V ; -ible|ibil|S ; -ity|ity|S
+impassibleness	noun	im-|im|P|||in- ; pass|pass|R|V ; -ible|ible|S ; -ness|ness|S
+impassibly	adv	im-|im|P|||in- ; pass|pass|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+impassion	verb	im-|im|P|||in- ; passion|passion|R|N
+impassionedness	noun	im-|im|P|||in- ; passion|passion|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+impassiveness	noun	impassive|impassive|R|Adj ; -ness|ness|S
+impastation	noun	impaste|impast|R|V ; -ation|ation|S
+impaste	verb	im-|im|P|||in- ; paste|paste|R|N
+impastoed	adj	impasto|impasto|R|N ; -ed|ed|S||-ed (adj)
+impatientness	noun	im-|im|P|||in- ; patient|patient|R|Adj ; -ness|ness|S
+impawn	verb	im-|im|P|||in- ; pawn|pawn|R|N
+impeachability	noun	impeach|impeach|R|V ; -able|abil|S ; -ity|ity|S
+impeacher	noun	impeach|impeach|R|V ; -er|er|S||-er (N)
+impearl	verb	im-|im|P|||in- ; pearl|pearl|R|N
+impeccability	noun	impeccable|impeccabil|R|Adj ; -ity|ity|S
+impeccableness	noun	impeccable|impeccable|R|Adj ; -ness|ness|S
+impeccant	adj	im-|im|P|||in- ; peccant|peccant|R|Adj
+impecuniosity	noun	impecunious|impecunios|R|Adj ; -ity|ity|S
+impecuniously	adv	impecunious|impecunious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+impecuniousness	noun	impecunious|impecunious|R|Adj ; -ness|ness|S
+impeder	noun	impede|imped|R|V ; -er|er|S||-er (N)
+impedient	noun	impedient|impedient|R|N
+impedimental	adj	impediment|impediment|R|N ; -al|al|S
+impedimentary	adj	impediment|impediment|R|N ; -ary|ary|S
+impedingly	adv	impede|imped|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+impeditive	adj	impede|imped|R|V ; -itive|itive|S
+impellent	noun	impel|impell|R|V ; -ent|ent|S
+impelling	noun	impel|impell|R|V ; -ing|ing|S||-ing (N)
+impend	verb	impend|impend|R|V
+impendency	noun	impendent|impend|R|Adj ; -ency|ency|S
+impenetrableness	noun	im-|im|P|||in- ; penetrate|penetr|R|V ; -able|able|S ; -ness|ness|S
+impenetrate	verb	im-|im|P|||in- ; penetrate|penetrate|R|V
+impenitence	noun	im-|im|P|||in- ; penitent|penit|R|Adj ; -ence|ence|S
+impenitent	adj	im-|im|P|||in- ; penitent|penitent|R|Adj
+impenitently	adv	im-|im|P|||in- ; penitent|penitent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+imperatival	adj	imperative|imperativ|R|Adj ; -al|al|S
+imperatively	adv	imperative|imperative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+imperativeness	noun	imperative|imperative|R|Adj ; -ness|ness|S
+imperator	noun	imperator|imperator|R|N
+imperatorial	adj	imperator|imperator|R|N ; -ial|ial|S
+imperceptibility	noun	imperceptible|imperceptibil|R|Adj ; -ity|ity|S
+imperceptibleness	noun	imperceptible|imperceptible|R|Adj ; -ness|ness|S
+imperception	noun	im-|im|P|||in- ; perception|perception|R|N
+imperceptive	adj	im-|im|P|||in- ; perceptive|perceptive|R|Adj
+imperceptiveness	noun	im-|im|P|||in- ; perceptive|perceptive|R|Adj ; -ness|ness|S
+imperceptivity	noun	imperceptive|imperceptiv|R|Adj ; -ity|ity|S
+impercipience	noun	impercipient|impercipi|R|Adj ; -ence|ence|S
+impercipient	adj	im-|im|P|||in- ; percipient|percipient|R|Adj
+imperfectible	adj	im-|im|P|||in- ; perfect|perfect|R|Adj ; -ible|ible|S
+imperfective	adj	im-|im|P|||in- ; perfect|perfect|R|Adj ; -ive|ive|S
+imperfectness	noun	im-|im|P|||in- ; perfect|perfect|R|Adj ; -ness|ness|S
+imperforate	adj	im-|im|P|||in- ; perforate|perforate|R|V
+imperforation	noun	imperforate|imperforat|R|V ; -ion|ion|S
+imperialistically	adv	imperialistic|imperialistic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+imperialization	noun	imperialize|imperializ|R|V ; -ation|ation|S
+imperialize	verb	imperial|imperial|R|Adj ; -ize|ize|S
+imperialness	noun	imperial|imperial|R|Adj ; -ness|ness|S
+imperilment	noun	imperil|imperil|R|V ; -ment|ment|S
+imperishability	noun	im-|im|P|||in- ; perish|perish|R|V ; -able|abil|S ; -ity|ity|S
+imperishableness	noun	im-|im|P|||in- ; perish|perish|R|V ; -able|able|S ; -ness|ness|S
+imperishably	adv	im-|im|P|||in- ; perish|perish|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+impermeableness	noun	im-|im|P|||in- ; permeable|permeable|R|Adj ; -ness|ness|S
+impermeably	adv	im-|im|P|||in- ; permeable|permeabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+impermissibility	noun	im-|im|P|||in- ; permit|permiss|R|V ; -ible|ibil|S ; -ity|ity|S
+impersonalism	noun	im-|im|P|||in- ; personal|personal|R|Adj ; -ism|ism|S
+impersonalization	noun	impersonalize|impersonaliz|R|V ; -ation|ation|S
+impersonalize	verb	im-|im|P|||in- ; personal|personal|R|Adj ; -ize|ize|S
+impersonative	adj	impersonate|impersonat|R|V ; -ive|ive|S
+impertinency	noun	impertinent|impertin|R|Adj ; -ency|ency|S
+impertinently	adv	im-|im|P|||in- ; pertinent|pertinent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+impertinentness	noun	im-|im|P|||in- ; pertinent|pertinent|R|Adj ; -ness|ness|S
+imperturbability	noun	im-|im|P|||in- ; perturb|perturb|R|V ; -able|abil|S ; -ity|ity|S
+imperturbableness	noun	im-|im|P|||in- ; perturb|perturb|R|V ; -able|able|S ; -ness|ness|S
+imperturbation	noun	imperturb|imperturb|R|V ; -ation|ation|S
+imperviable	adj	im-|im|P|||in- ; pervious|pervi|R|Adj ; -able|able|S
+imperviously	adv	im-|im|P|||in- ; pervious|pervious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+imperviousness	noun	im-|im|P|||in- ; pervious|pervious|R|Adj ; -ness|ness|S
+impetiginous	adj	impetiginous|impetiginous|R|Adj
+impetrate	verb	impetrate|impetrate|R|V
+impetrator	noun	impetrate|impetrat|R|V ; -or|or|S
+impetuousness	noun	impetuous|impetuous|R|Adj ; -ness|ness|S
+impiously	adv	im-|im|P|||in- ; pious|pious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+impiousness	noun	im-|im|P|||in- ; pious|pious|R|Adj ; -ness|ness|S
+impishness	noun	impish|impish|R|Adj ; -ness|ness|S
+implacableness	noun	im-|im|P|||in- ; placable|placable|R|Adj ; -ness|ness|S
+implacentate	adj	im-|im|P|||in- ; placentate|placentate|R|Adj
+implausibleness	noun	im-|im|P|||in- ; plausible|plausible|R|Adj ; -ness|ness|S
+implead	verb	im-|im|P|||in- ; plead|plead|R|V
+impleadable	adj	implead|implead|R|V ; -able|able|S
+implemental	adj	implement|implement|R|N ; -al|al|S
+implementary	adj	implement|implement|R|N ; -ary|ary|S
+impletion	noun	impletion|impletion|R|N
+implicational	adj	implication|implication|R|N ; -al|al|S
+implicative	adj	implicate|implicat|R|V ; -ive|ive|S
+implicatively	adv	implicative|implicative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+implicatory	adj	implicate|implicat|R|V ; -ory|ory|S
+implicitness	noun	implicit|implicit|R|Adj ; -ness|ness|S
+imploded	adj	implode|implod|R|V ; -ed|ed|S||-ed (adj)
+imploration	noun	implore|implor|R|V ; -ation|ation|S
+implorer	noun	implore|implor|R|V ; -er|er|S||-er (N)
+imploringness	noun	implore|implor|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+implosive	adj	implode|implos|R|V ; -ive|ive|S
+impluvium	noun	impluvium|impluvium|R|N
+implying	noun	imply|imply|R|V ; -ing|ing|S||-ing (N)
+impolicy	noun	im-|im|P|||in- ; policy|policy|R|N
+impolitely	adv	im-|im|P|||in- ; polite|polite|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+impoliteness	noun	im-|im|P|||in- ; polite|polite|R|Adj ; -ness|ness|S
+impoliticness	noun	im-|im|P|||in- ; politic|politic|R|Adj ; -ness|ness|S
+imponderabilia	noun	imponderabilia|imponderabilia|R|N
+imponderability	noun	im-|im|P|||in- ; ponder|ponder|R|V ; -able|abil|S ; -ity|ity|S
+imponderableness	noun	im-|im|P|||in- ; ponder|ponder|R|V ; -able|able|S ; -ness|ness|S
+imponderably	adv	im-|im|P|||in- ; ponder|ponder|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+imponent	noun	imponent|imponent|R|N
+importability	noun	import|import|R|V ; -able|abil|S ; -ity|ity|S
+importable	adj	import|import|R|V ; -able|able|S
+importee	noun	import|import|R|V ; -ee|ee|S
+importunately	adv	importunate|importunate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+importunateness	noun	importunate|importunate|R|Adj ; -ness|ness|S
+importuning	noun	importune|importun|R|V ; -ing|ing|S||-ing (N)
+imposable	adj	impose|impos|R|V ; -able|able|S
+imposer	noun	impose|impos|R|V ; -er|er|S||-er (N)
+imposingly	adv	impose|impos|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+imposingness	noun	impose|impos|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+impossibleness	noun	im-|im|P|||in- ; possible|possible|R|Adj ; -ness|ness|S
+impot	noun	impot|impot|R|N
+impotentness	noun	im-|im|P|||in- ; potent|potent|R|Adj ; -ness|ness|S
+impoundable	adj	impound|impound|R|V ; -able|able|S
+impoundage	noun	impound|impound|R|V ; -age|age|S
+impounder	noun	impound|impound|R|V ; -er|er|S||-er (N)
+impounding	noun	impound|impound|R|V ; -ing|ing|S||-ing (N)
+impoverishing	noun	impoverish|impoverish|R|V ; -ing|ing|S||-ing (N)
+impracticableness	noun	im-|im|P|||in- ; practicable|practicable|R|Adj ; -ness|ness|S
+impracticably	adv	im-|im|P|||in- ; practicable|practicabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+impractically	adv	im-|im|P|||in- ; practical|practical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+imprecate	verb	imprecate|imprecate|R|V
+imprecatingly	adv	imprecate|imprecat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+imprecator	noun	imprecate|imprecat|R|V ; -or|or|S
+imprecatory	adj	imprecate|imprecat|R|V ; -ory|ory|S
+impreciseness	noun	im-|im|P|||in- ; precise|precise|R|Adj ; -ness|ness|S
+impregnability	noun	impregnable|impregnabil|R|Adj ; -ity|ity|S
+impregnably	adv	impregnable|impregnabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+impregnant	noun	impregnate|impregn|R|V ; -ant|ant|S
+impregnator	noun	impregnate|impregnat|R|V ; -or|or|S
+imprescribable	adj	im-|im|P|||in- ; prescribable|prescribable|R|Adj
+imprescriptibility	noun	imprescriptible|imprescriptibil|R|Adj ; -ity|ity|S
+imprescriptible	adj	im-|im|P|||in- ; prescriptible|prescriptible|R|Adj
+impressibility	noun	im-|im|P|||in- ; press|press|R|V ; -ible|ibil|S ; -ity|ity|S
+impressible	adj	im-|im|P|||in- ; press|press|R|V ; -ible|ible|S
+impressibly	adv	im-|im|P|||in- ; press|press|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+impressionability	noun	impression|impression|R|N ; -able|abil|S ; -ity|ity|S
+impressionableness	noun	impression|impression|R|N ; -able|able|S ; -ness|ness|S
+impressional	adj	impression|impression|R|N ; -al|al|S
+impressionary	adj	impression|impression|R|N ; -ary|ary|S
+impressionistically	adv	impressionistic|impressionistic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+impressiveness	noun	impressive|impressive|R|Adj ; -ness|ness|S
+imprest	noun	imprest|imprest|R|N
+imprimis	adv	imprimis|imprimis|R|Adv
+imprisonable	adj	imprison|imprison|R|V ; -able|able|S
+imprisoner	noun	imprison|imprison|R|V ; -er|er|S||-er (N)
+improbableness	noun	im-|im|P|||in- ; probable|probable|R|Adj ; -ness|ness|S
+improbity	noun	im-|im|P|||in- ; probity|probity|R|N
+improperness	noun	im-|im|P|||in- ; proper|proper|R|Adj ; -ness|ness|S
+impropriate	verb	impropriate|impropriate|R|V
+impropriation	noun	impropriate|impropriat|R|V ; -ion|ion|S
+improvability	noun	improve|improv|R|V ; -able|abil|S ; -ity|ity|S
+improvable	adj	improve|improv|R|V ; -able|able|S
+improvableness	noun	improve|improv|R|V ; -able|able|S ; -ness|ness|S
+improvidently	adv	im-|im|P|||in- ; provident|provident|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+improvisator	noun	improvise|improvis|R|V ; -or|ator|S
+improvisedly	adv	improvised|improvised|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+imprudentness	noun	im-|im|P|||in- ; prudent|prudent|R|Adj ; -ness|ness|S
+impudentness	noun	impudent|impudent|R|Adj ; -ness|ness|S
+impudicity	noun	impudent|impudic|R|Adj ; -ity|ity|S
+impugnability	noun	impugn|impugn|R|V ; -able|abil|S ; -ity|ity|S
+impugnable	adj	impugn|impugn|R|V ; -able|able|S
+impugner	noun	impugn|impugn|R|V ; -er|er|S||-er (N)
+impugnment	noun	impugn|impugn|R|V ; -ment|ment|S
+impuissance	noun	impuissant|impuiss|R|Adj ; -ance|ance|S
+impuissant	adj	im-|im|P|||in- ; puissant|puissant|R|Adj

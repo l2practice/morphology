@@ -1,0 +1,150 @@
+intramuscular	adj	intra-|intra|P||||Latin intra 'within' ; muscul-|muscul|B|N|||Latin musculus 'muscle' ; -ar|ar|S
+enervate	verb	=
+pentathlon	noun	penta-|pent|P||||Greek pente 'five' ; -athlon|athlon|B|N|||Greek athlon 'contest'
+subjunctive	noun	sub-|sub|P||||Latin sub 'under' ; -iunct-|junct|B|V|||Latin iungere 'to join' ; -ive|ive|S
+tempura	noun	=
+scutum	noun	=
+quiescence	noun	quiesc-|quiesc|B|V|||Latin quiescere 'to rest' ; -ence|ence|S||||Latin -entia 'state, quality'
+antimalarial	adj	=
+rockery	noun	=
+animalistic	adj	=
+writerly	adj	=
+crasher	noun	=
+fellatio	noun	=
+hooter	noun	=
+windlass	noun	=
+decrepitude	noun	=
+bigamy	noun	=
+millipede	noun	milli-|milli|P||||Latin mille 'thousand' ; -pede|pede|B|N|||Latin pes 'foot'
+raster	noun	=
+zirconium	noun	=
+enlarger	noun	=
+articular	adj	=
+covetous	adj	=
+collimate	verb	=
+postsurgical	adj	=
+cartilaginous	adj	cartilagin-|cartilagin|B|N|||Latin cartilago 'cartilage' ; -ous|ous|S
+scapula	noun	=
+gradualism	noun	=
+faker	noun	=
+osteomyelitis	noun	osteo-|osteo|B|N|||Greek osteon 'bone' ; myel-|myel|B|N|||Greek myelos 'marrow' ; -itis|itis|S||||Greek -itis 'inflammation'
+thermoplastic	adj	=
+acidosis	noun	=
+sonority	noun	=
+geophysics	noun	=
+aridity	noun	=
+herpetologist	noun	herpeto-|herpeto|B|N|||Greek herpeton 'reptile' ; -log-|log|B|N|||Greek logos 'word, study' ; -ist|ist|S
+cloche	noun	=
+religionist	noun	=
+ellipsis	noun	=
+vetch	noun	=
+bringer	noun	=
+philander	verb	=
+docility	noun	=
+sidereal	adj	=
+rima	noun	=
+irreligious	adj	=
+ventriloquism	noun	=
+xeric	adj	xer-|xer|B|Adj|||Greek xeros 'dry' ; -ic|ic|S
+influent	noun	=
+hysteresis	noun	=
+jingoism	noun	=
+plebeian	adj	=
+arachnid	noun	arachn-|arachn|B|N|||Greek arakhne 'spider' ; -id|id|S
+aqua	noun	=
+hymen	noun	=
+venality	noun	=
+interregnum	noun	=
+shul	noun	=
+fervid	adj	ferv-|ferv|B|V|||Latin fervere 'to boil' ; -id|id|S
+interstice	noun	=
+pimento	noun	=
+encomium	noun	=
+fulminate	verb	fulmin-|fulmin|B|V|||Latin fulminare 'to strike with lightning' ; -ate|ate|S
+characterless	adj	=
+troglodyte	noun	=
+pentagram	noun	penta-|penta|P||||Greek pente 'five' ; -gram|gram|B|N|||Greek gramma 'letter, line'
+mendacious	adj	mendac-|mendac|B|Adj|||Latin mendax 'lying' ; -ious|ious|S
+univocal	adj	=
+chastisement	noun	=
+contrapuntal	adj	contra-|contra|P||||Latin contra 'against' ; -punct-|punt|B|N|||Latin punctus 'point, note' ; -al|al|S
+macrobiotic	adj	macro-|macro|P||||Greek makros 'large' ; bio-|bio|B|N|||Greek bios 'life' ; -tic|tic|S
+theistic	adj	=
+calumny	noun	=
+laryngoscope	noun	=
+equable	adj	equ-|equ|B|Adj|||Latin aequus 'even, level' ; -able|able|S
+megastore	noun	=
+effectual	adj	=
+umbra	noun	=
+elastin	noun	=
+perioperative	adj	=
+polarizer	noun	=
+gentian	noun	=
+dispositive	adj	=
+expedience	noun	=
+squeaker	noun	=
+constitutionalist	noun	=
+gripper	noun	=
+necropolis	noun	necro-|necro|B|N|||Greek nekros 'dead' ; -polis|polis|B|N|||Greek polis 'city'
+parley	noun	=
+reamer	noun	=
+montane	adj	=
+euphemistic	adj	=
+improver	noun	=
+paralytic	adj	=
+expressionistic	adj	=
+gladiolus	noun	=
+suasion	noun	=
+sibilant	noun	sibil-|sibil|B|V|||Latin sibilare 'to hiss' ; -ant|ant|S
+spongiform	adj	spongi-|spongi|B|N|||Greek spongos 'sponge' ; -form|form|S||||Latin -formis 'having form'
+psychoanalytical	adj	=
+amaretto	noun	=
+citron	noun	=
+inflexion	noun	=
+alphabetize	verb	=
+bariatric	adj	bari-|bar|B|Adj|||Greek barus 'heavy' ; -iatr-|iatr|B|N|||Greek iatros 'doctor' ; -ic|ic|S
+paraplegia	noun	=
+reconnoiter	verb	=
+expiation	noun	=
+triceratops	noun	tri-|tri|P||||Greek treis 'three' ; -cerat-|cerat|B|N|||Greek keras 'horn' ; -ops|ops|B|N|||Greek ops 'face'
+friable	adj	=
+sensitization	noun	=
+initiatory	adj	=
+verbose	adj	verb-|verb|B|N|||Latin verbum 'word' ; -ose|ose|S||||Latin -osus 'full of'
+mutability	noun	=
+collegium	noun	=
+legato	adj	=
+endotracheal	adj	=
+benefaction	noun	=
+imprecation	noun	=
+alyssum	noun	=
+sycophantic	adj	=
+diptych	noun	di-|di|P||||Greek dis 'twice' ; -ptych|ptych|B|N|||Greek ptukhe 'fold'
+risible	adj	ris-|ris|B|V|||Latin ridere 'to laugh' ; -ible|ible|S
+vituperative	adj	=
+camber	noun	=
+beatification	noun	=
+leaderless	adj	=
+civet	noun	=
+coterminous	adj	co-|co|P||||Latin com- 'with, together' ; -termin-|termin|B|N|||Latin terminus 'end, border' ; -ous|ous|S
+acquiescent	adj	ac-|ac|P||||Latin ad- 'to' ; -quiesc-|quiesc|B|V|||Latin quiescere 'to rest' ; -ent|ent|S
+profligacy	noun	pro-|pro|P||||Latin pro 'forward' ; -flig-|flig|B|V|||Latin fligere 'to strike' ; -acy|acy|S
+streptococcus	noun	strepto-|strepto|B|Adj|||Greek streptos 'twisted' ; -coccus|coccus|B|N|||Greek kokkos 'berry'
+cruciferous	adj	=
+timpani	noun	=
+prefatory	adj	=
+elision	noun	=
+drover	noun	=
+crafter	noun	=
+conciliate	verb	=
+pustule	noun	=
+chimerical	adj	=
+oligarchic	adj	=
+mystically	adv	=
+regionalist	noun	=
+cauterize	verb	cauter-|cauter|B|N|||Greek kauter 'branding iron' ; -ize|ize|S
+illusive	adj	=
+telecommute	verb	=
+finis	noun	=
+careerism	noun	=
+amateurism	noun	=

@@ -1,0 +1,150 @@
+antacid	noun	=
+bacteriological	adj	=
+evangelicalism	noun	=
+forsythia	noun	=
+usurpation	noun	=
+subsidiarity	noun	=
+invincibility	noun	=
+idiomatic	adj	idiom-|idiom|B|N|||Greek idioma 'idiom, peculiarity' ; -atic|atic|S||||Greek -atikos 'relating to'
+nebulosity	noun	=
+gravitation	noun	=
+interpolation	noun	=
+rigger	noun	=
+domesticate	verb	=
+coniferous	adj	=
+spastic	adj	=
+freelancer	noun	=
+confederacy	noun	=
+protean	adj	=
+trendsetter	noun	=
+kappa	noun	=
+lesbianism	noun	=
+scrotum	noun	=
+alba	noun	=
+hermeneutic	adj	hermeneut-|hermeneut|B|N|||Greek hermeneus 'interpreter' ; -ic|ic|S||||Greek -ikos 'relating to'
+effervescent	adj	ef-|ef|P||||Latin ex- 'out' ; -ferv-|ferv|B|V|||Latin fervere 'to boil, seethe' ; -escent|escent|S||||Latin -escens 'becoming'
+obstructionist	noun	=
+transept	noun	trans-|tran|P||||Latin trans 'across' ; -sept|sept|B|N|||Latin saeptum 'fence, enclosure'
+investiture	noun	invest-|invest|B|V|||Latin investire 'to clothe' ; -iture|iture|S||||Latin -itura 'act, process'
+groomer	noun	=
+solarium	noun	sol-|sol|B|N|||Latin sol 'sun' ; -arium|arium|S||||Latin -arium 'place for'
+rhapsody	noun	=
+onyx	noun	=
+denude	verb	de-|de|P||||Latin de- 'down, off' ; -nude|nude|B|Adj|||Latin nudus 'bare, naked'
+malevolence	noun	=
+quotidian	adj	=
+screamer	noun	=
+adroit	adj	=
+cutaneous	adj	cutan-|cutan|B|N|||Latin cutis 'skin' ; -eous|eous|S||||Latin -eus 'relating to'
+marsupial	noun	=
+remunerate	verb	re-|re|P||||Latin re- 'again, back' ; -muner-|muner|B|N|||Latin munus 'gift' ; -ate|ate|S||||Latin -atus 'verb-forming'
+odeon	noun	od-|od|B|N|||Greek oide 'song' ; -eon|eon|S||||Greek -eion 'place for'
+chevalier	noun	=
+astrological	adj	=
+autocrat	noun	=
+ingratiate	verb	in-|in|P||||Latin in 'into, for' ; -grati-|grati|B|N|||Latin gratia 'favor, grace' ; -ate|ate|S||||Latin -atus 'verb-forming'
+orzo	noun	=
+imbecile	noun	=
+infanticide	noun	=
+hypochondriac	noun	=
+orthosis	noun	ortho-|ortho|B|Adj|||Greek orthos 'straight, right' ; -osis|sis|S||||Greek -osis 'condition, process'
+remediate	verb	=
+tropic	adj	trop-|trop|B|N|||Greek tropos 'turn, change' ; -ic|ic|S||||Greek -ikos 'relating to'
+empiricist	noun	=
+evolutionist	noun	=
+sodomize	verb	=
+bastille	noun	=
+exterminator	noun	=
+hymnal	noun	=
+metallurgy	noun	=
+escapist	noun	=
+interdict	verb	inter-|inter|P||||Latin inter 'between' ; -dict|dict|B|V|||Latin dicere 'to say'
+evanescent	adj	evan-|evan|B|V|||Latin evanescere 'to vanish, disappear' ; -escent|escent|S||||Latin -escens 'becoming'
+fantasia	noun	=
+imitative	adj	imit-|imit|B|V|||Latin imitari 'to imitate' ; -ative|ative|S||||Latin -ativus 'relating to'
+inflect	verb	in-|in|P||||Latin in- 'in, into' ; -flect|flect|B|V|||Latin flectere 'to bend'
+relativist	noun	=
+gibbet	noun	=
+domiciliary	adj	=
+illumine	verb	=
+exacerbation	noun	=
+inebriated	adj	in-|in|P||||Latin in- 'in, into' ; -ebri-|ebri|B|Adj|||Latin ebrius 'drunk, intoxicated' ; -ate|at|S||||Latin -atus 'verb-forming' ; -ed|ed|I
+abortionist	noun	=
+eclecticism	noun	=
+centurion	noun	=
+cesspool	noun	=
+coincident	adj	coincid-|coincid|B|V|||Latin coincidere 'to coincide, fall together' ; -ent|ent|S||||Latin -ens 'being, agent'
+monotheistic	adj	=
+granulation	noun	=
+marchioness	noun	=
+recursive	adj	=
+antiquary	noun	=
+anticlimactic	adj	=
+caliphate	noun	=
+philology	noun	=
+igneous	adj	ign-|ign|B|N|||Latin ignis 'fire' ; -eous|eous|S||||Latin -eus 'relating to'
+biologic	adj	=
+megabyte	noun	=
+gyration	noun	=
+defecate	verb	=
+inactivate	verb	=
+enunciation	noun	=
+sandalwood	noun	=
+autobahn	noun	=
+microbiological	adj	=
+obfuscate	verb	=
+amoeba	noun	=
+demesne	noun	=
+factionalism	noun	=
+gasification	noun	=
+palladium	noun	=
+cubist	noun	=
+introvert	noun	intro-|intro|P||||Latin intro 'within' ; -vert|vert|B|V|||Latin vertere 'to turn'
+distemper	noun	=
+slasher	noun	=
+ophthalmic	adj	ophthalm-|ophthalm|B|N|||Greek ophthalmos 'eye' ; -ic|ic|S||||Greek -ikos 'relating to'
+physiognomy	noun	=
+debilitate	verb	de-|de|P||||Latin de- 'down, away' ; -bilit-|bilit|B|Adj|||Latin habilis 'able' ; -ate|ate|S||||Latin -atus 'verb-forming'
+sniffer	noun	=
+lymphatic	adj	=
+inviolable	adj	=
+multiculturalist	noun	=
+neurosurgery	noun	=
+chive	noun	=
+salutation	noun	=
+inconsolable	adj	=
+emaciate	verb	=
+archangel	noun	=
+copyist	noun	=
+hypothalamus	noun	=
+proscription	noun	pro-|pro|P||||Latin pro- 'before, forth' ; -script-|script|B|V|||Latin scribere 'to write' ; -ion|ion|S||||Latin -io 'act, state'
+iconoclast	noun	=
+reductionism	noun	=
+gerontology	noun	=
+phytochemical	noun	=
+redoubt	noun	=
+prolongation	noun	=
+tamarind	noun	=
+pugnacious	adj	pugn-|pugn|B|V|||Latin pugnare 'to fight' ; -acious|acious|S||||Latin -ax 'inclined to'
+cardiopulmonary	adj	=
+lupine	noun	lup-|lup|B|N|||Latin lupus 'wolf' ; -ine|ine|S||||Latin -inus 'pertaining to'
+caldera	noun	=
+libation	noun	lib-|lib|B|V|||Latin libare 'to pour, taste' ; -ation|ation|S||||Latin -atio 'act, process'
+pupa	noun	=
+dissemble	verb	=
+preposition	noun	=
+elegiac	adj	=
+emanation	noun	=
+aetiology	noun	aetio-|aetio|B|N|||Greek aitia 'cause' ; -logy|logy|B|N|||Greek logos 'study, word'
+cabana	noun	=
+thorax	noun	=
+cenotaph	noun	ceno-|ceno|B|Adj|||Greek kenos 'empty' ; -taph|taph|B|N|||Greek taphos 'tomb'
+clicker	noun	=
+abridge	verb	=
+anchoring	noun	=
+endometriosis	noun	=
+sacrilegious	adj	sacri-|sacri|B|Adj|||Latin sacer 'sacred' ; -leg-|leg|B|V|||Latin legere 'to steal, gather' ; -ious|ious|S||||Latin -iosus 'full of'
+excommunication	noun	=
+degas	verb	=
+mastoid	adj	mast-|mast|B|N|||Greek mastos 'breast' ; -oid|oid|S||||Greek -eides 'like, resembling'
+plunger	noun	=

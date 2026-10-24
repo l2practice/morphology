@@ -1,0 +1,200 @@
+obtected	adj	obtect|obtect|R|Adj ; -ed|ed|S||-ed (adj)
+obtruder	noun	obtrude|obtrud|R|V ; -er|er|S||-er (N)
+obtrusion	noun	obtrude|obtru|R|V ; -sion|sion|S
+obtrusively	adv	obtrude|obtrus|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+obtrusiveness	noun	obtrude|obtrus|R|V ; -ive|ive|S ; -ness|ness|S
+obtund	verb	obtund|obtund|R|V
+obtundation	noun	obtundation|obtundation|R|N
+obtundent	adj	obtundent|obtundent|R|Adj
+obturate	verb	obturate|obturate|R|V
+obturation	noun	obturation|obturation|R|N
+obturator	noun	obturate|obturat|R|V ; -or|or|S
+obtusely	adv	obtuse|obtuse|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+obversion	noun	obversion|obversion|R|N
+obvert	verb	obvert|obvert|R|V
+obviation	noun	obviate|obviat|R|V ; -ion|ion|S
+obvolute	adj	obvolute|obvolute|R|Adj
+oca	noun	oca|oca|R|N
+ocarina	noun	ocarina|ocarina|R|N
+ocarinist	noun	ocarina|ocarin|R|N ; -ist|ist|S
+occasionalism	noun	occasion|occasion|R|N ; -al|al|S ; -ism|ism|S
+occasionalist	noun	occasion|occasion|R|N ; -al|al|S ; -ist|ist|S
+occasionality	noun	occasion|occasion|R|N ; -al|al|S ; -ity|ity|S
+occident	noun	occident|occident|R|N
+occidentalism	noun	occident|occident|R|N ; -al|al|S ; -ism|ism|S
+occidentalist	noun	occident|occident|R|N ; -al|al|S ; -ist|ist|S
+occidentality	noun	occident|occident|R|N ; -al|al|S ; -ity|ity|S
+occidentalization	noun	occident|occident|R|N ; -al|al|S ; -ize|iz|S ; -ation|ation|S
+occidentalize	verb	occident|occident|R|N ; -al|al|S ; -ize|ize|S
+occipitalis	noun	occipitalis|occipitalis|R|N
+occipitofrontalis	noun	occipitofrontalis|occipitofrontalis|R|N
+occiput	noun	occiput|occiput|R|N
+occludent	noun	occludent|occludent|R|N
+occlusor	noun	occlusor|occlusor|R|N
+occultistic	adj	occult|occult|R|Adj ; -ist|ist|S ; -ic|ic|S
+occultly	adv	occult|occult|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+occultness	noun	occult|occult|R|Adj ; -ness|ness|S
+oceangoing	adj	ocean|ocean|R|N ; go|go|R|V ; -ing|ing|S||-ing (adj)
+oceanlike	adj	ocean|ocean|R|N ; -like|like|S
+oceanographical	adj	oceanography|oceanograph|R|N ; -ical|ical|S
+oceanographically	adv	oceanography|oceanograph|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+oceanologist	noun	oceanology|oceanolog|R|N ; -ist|ist|S
+oceanward	adv	ocean|ocean|R|N ; -ward|ward|S
+oceanwater	noun	ocean|ocean|R|N ; water|water|R|N
+ocellar	adj	ocellus|ocell|R|N ; -ar|ar|S
+ocellate	adj	ocellus|ocell|R|N ; -ate|ate|S
+ocellated	adj	ocellate|ocellat|R|V ; -ed|ed|S||-ed (adj)
+ocellation	noun	ocellate|ocellat|R|V ; -ion|ion|S
+ocelliferous	adj	ocelliferous|ocelliferous|R|Adj
+ocelligerous	adj	ocelligerous|ocelligerous|R|Adj
+ocellus	noun	ocellus|ocellus|R|N
+oche	noun	oche|oche|R|N
+ochery	noun	ochre|ocher|R|N ; -y|y|S
+ochlesis	noun	ochlesis|ochlesis|R|N
+ochlocracy	noun	ochlocracy|ochlocracy|R|N
+ochlocrat	noun	ochlocrat|ochlocrat|R|N
+ochlocratic	adj	ochlocracy|ochlocrat|R|N ; -ic|ic|S
+ochlocratical	adj	ochlocracy|ochlocrat|R|N ; -ic|ic|S ; -al|al|S
+ochraceous	adj	ochraceous|ochraceous|R|Adj
+ochrea	noun	ochrea|ochrea|R|N
+ochreate	adj	ochrea|ochre|R|N ; -ate|ate|S
+ochreish	adj	ochre|ochre|R|N ; -ish|ish|S
+ochroid	adj	ochroid|ochroid|R|Adj
+ochrous	adj	ochre|ochr|R|N ; -ous|ous|S
+ocrea	noun	ocrea|ocrea|R|N
+ocreaceous	adj	ocreaceous|ocreaceous|R|Adj
+ocreate	adj	ocrea|ocre|R|N ; -ate|ate|S
+octachord	noun	octachord|octachord|R|N
+octacontagon	noun	octacontagon|octacontagon|R|N
+octacosane	noun	octacosane|octacosane|R|N
+octactinal	adj	octactinal|octactinal|R|Adj
+octad	noun	octad|octad|R|N
+octadecagon	noun	octadecagon|octadecagon|R|N
+octadecahedron	noun	octadecahedron|octadecahedron|R|N
+octadecane	noun	octadecane|octadecane|R|N
+octagonally	adv	octagon|octagon|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+octagram	noun	octagram|octagram|R|N
+octahedral	adj	octahedron|octahedr|R|N ; -al|al|S
+octahedron	noun	octahedron|octahedron|R|N
+octal	adj	octal|octal|R|Adj
+octalogy	noun	octalogy|octalogy|R|N
+octamerous	adj	octamerous|octamerous|R|Adj
+octameter	noun	octameter|octameter|R|N
+octandrous	adj	octandrous|octandrous|R|Adj
+octangle	noun	octangle|octangle|R|N
+octangular	adj	octangular|octangular|R|Adj
+octant	noun	octant|octant|R|N
+octarch	noun	octarch|octarch|R|N
+octarchy	noun	octarchy|octarchy|R|N
+octastyle	noun	octastyle|octastyle|R|N
+octateuch	noun	octateuch|octateuch|R|N
+octathlon	noun	octathlon|octathlon|R|N
+octavalent	adj	octavalent|octavalent|R|Adj
+octennial	adj	octennial|octennial|R|Adj
+octennially	adv	octennial|octennial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+octillion	noun	octillion|octillion|R|N
+octillionaire	noun	octillionaire|octillionaire|R|N
+octobass	noun	octobass|octobass|R|N
+octocentenary	noun	octocentenary|octocentenary|R|N
+octocentennial	adj	octocentennial|octocentennial|R|Adj
+octode	noun	octode|octode|R|N
+octodecillion	noun	octodecillion|octodecillion|R|N
+octodecimo	noun	octodecimo|octodecimo|R|N
+octodontid	noun	octodontid|octodontid|R|N
+octogynous	adj	octogynous|octogynous|R|Adj
+octolateral	adj	octolateral|octolateral|R|Adj
+octonal	noun	octonal|octonal|R|N
+octonarian	noun	octonarian|octonarian|R|N
+octonary	adj	octonary|octonary|R|Adj
+octonion	noun	octonion|octonion|R|N
+octonocular	adj	octonocular|octonocular|R|Adj
+octopetalous	adj	octopetalous|octopetalous|R|Adj
+octopod	noun	octopod|octopod|R|N
+octopodous	adj	octopodous|octopodous|R|Adj
+octoradiate	adj	octoradiate|octoradiate|R|Adj
+octoroon	noun	octoroon|octoroon|R|N
+octosporous	adj	octosporous|octosporous|R|Adj
+octostyle	noun	octostyle|octostyle|R|N
+octosyllabic	adj	octosyllable|octosyllab|R|N ; -ic|ic|S
+octosyllable	noun	octosyllable|octosyllable|R|N
+octroi	noun	octroi|octroi|R|N
+octuple	verb	octuple|octuple|R|V
+octuplet	noun	octuplet|octuplet|R|N
+ocularist	noun	ocular|ocular|R|Adj ; -ist|ist|S
+ocularly	adv	ocular|ocular|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+oculated	adj	oculus|ocul|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+oculiferous	adj	oculiferous|oculiferous|R|Adj
+oculiform	adj	oculiform|oculiform|R|Adj
+oculist	noun	oculus|ocul|R|N ; -ist|ist|S
+oculistic	adj	oculus|ocul|R|N ; -ist|ist|S ; -ic|ic|S
+oculomotor	adj	oculomotor|oculomotor|R|Adj
+od	interj	od|od|R
+oddish	adj	odd|odd|R|Adj ; -ish|ish|S
+oddments	noun	odd|odd|R|Adj ; -ment|ment|S ; -s|s|I||-s (plural)
+odic	adj	ode|od|R|N ; -ic|ic|S
+odiousness	noun	odious|odious|R|Adj ; -ness|ness|S
+odist	noun	ode|od|R|N ; -ist|ist|S
+odograph	noun	odograph|odograph|R|N
+odonate	noun	odonate|odonate|R|N
+odontalgia	noun	odontalgia|odontalgia|R|N
+odontalgic	adj	odontalgia|odontalg|R|N ; -ic|ic|S
+odontic	adj	odontic|odontic|R|Adj
+odontoblast	noun	odontoblast|odontoblast|R|N
+odontoblastic	adj	odontoblast|odontoblast|R|N ; -ic|ic|S
+odontoclast	noun	odontoclast|odontoclast|R|N
+odontoglossum	noun	odontoglossum|odontoglossum|R|N
+odontoid	adj	odontoid|odontoid|R|Adj
+odontolith	noun	odontolith|odontolith|R|N
+odontological	adj	odontology|odontolog|R|N ; -ical|ical|S
+odontologist	noun	odontology|odontolog|R|N ; -ist|ist|S
+odontology	noun	odontology|odontology|R|N
+odontophobia	noun	odontophobia|odontophobia|R|N
+odontophore	noun	odontophore|odontophore|R|N
+odontorrhagia	noun	odontorrhagia|odontorrhagia|R|N
+odontoscope	noun	odontoscope|odontoscope|R|N
+odonym	noun	odonym|odonym|R|N
+odoriferously	adv	odoriferous|odoriferous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+odoriferousness	noun	odoriferous|odoriferous|R|Adj ; -ness|ness|S
+odorize	verb	odor|odor|R|N ; -ize|ize|S
+odorously	adv	odorous|odorous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+odorousness	noun	odorous|odorous|R|Adj ; -ness|ness|S
+odylic	adj	odylic|odylic|R|Adj
+odyssey	noun	odyssey|odyssey|R|N
+oecist	noun	oecist|oecist|R|N
+oecium	noun	oecium|oecium|R|N
+oedipally	adv	oedipal|oedipal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+oeillade	noun	oeillade|oeillade|R|N
+oenochoe	noun	oenochoe|oenochoe|R|N
+oenological	adj	oenology|oenolog|R|N ; -ical|ical|S
+oenologist	noun	oenology|oenolog|R|N ; -ist|ist|S
+oenology	noun	oenology|oenology|R|N
+oenomania	noun	oenomania|oenomania|R|N
+oenophilia	noun	oenophilia|oenophilia|R|N
+oenophilic	adj	oenophilia|oenophil|R|N ; -ic|ic|S
+oenophilist	noun	oenophilia|oenophil|R|N ; -ist|ist|S
+oersted	noun	oersted|oersted|R|N
+oestradiol	noun	oestradiol|oestradiol|R|N
+oestruation	noun	oestrus|oestru|R|N ; -ation|ation|S
+ofay	noun	ofay|ofay|R|N
+offendedly	adv	offend|offend|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+offenseless	adj	offense|offense|R|N ; -less|less|S
+offhandedness	noun	off|off|R|Adv ; hand|hand|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+officialese	noun	officialese|officialese|R|N
+officialism	noun	official|official|R|Adj ; -ism|ism|S
+officialize	verb	official|official|R|Adj ; -ize|ize|S
+officiary	noun	office|offici|R|N ; -ary|ary|S
+officiation	noun	officiate|officiat|R|V ; -ion|ion|S
+officinal	adj	officinal|officinal|R|Adj
+officinally	adv	officinal|officinal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+officiousness	noun	officious|officious|R|Adj ; -ness|ness|S
+offish	adj	off|off|R|Adv ; -ish|ish|S
+offishly	adv	off|off|R|Adv ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+offishness	noun	off|off|R|Adv ; -ish|ish|S ; -ness|ness|S
+offprint	noun	off|off|R|Adv ; print|print|R|V
+offscouring	noun	off|off|R|Adv ; scour|scour|R|V ; -ing|ing|S||-ing (N)
+offshoring	noun	off|off|R|Adv ; shore|shor|R|N ; -ing|ing|S||-ing (N)
+offtake	noun	off|off|R|Adv ; take|take|R|V
+oflag	noun	oflag|oflag|R|N
+oganesson	noun	oganesson|oganesson|R|N
+ogdoad	noun	ogdoad|ogdoad|R|N
+oghamic	adj	ogham|ogham|R|N ; -ic|ic|S

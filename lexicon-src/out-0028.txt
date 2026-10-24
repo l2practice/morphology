@@ -1,0 +1,200 @@
+reside	verb	reside|reside|R|V
+query	noun	query|query|R|N
+preferred	adj	prefer|preferr|R|V ; -ed|ed|S||-ed (adj)
+lure	verb	lure|lure|R|V
+coherent	adj	coherent|coherent|R|Adj
+nationally	adv	nation|nation|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+erupt	verb	erupt|erupt|R|V
+terminate	verb	terminate|terminate|R|V
+ashamed	adj	a-|a|P ; shame|sham|R|V ; -ed|ed|S||-ed (adj)
+loom	verb	loom|loom|R|V
+repetition	noun	repeat|repet|R|V ; -ition|ition|S
+majesty	noun	majesty|majesty|R|N
+witch	noun	witch|witch|R|N
+endorsement	noun	endorse|endorse|R|V ; -ment|ment|S
+triangle	noun	tri-|tri|P ; angle|angle|R|N
+salvation	noun	salvation|salvation|R|N
+dusty	adj	dust|dust|R|N ; -y|y|S
+cane	noun	cane|cane|R|N
+nuisance	noun	nuisance|nuisance|R|N
+inflict	verb	inflict|inflict|R|V
+rap	verb	rap|rap|R|V
+forge	verb	forge|forge|R|V
+surgical	adj	surgical|surgical|R|Adj
+aging	noun	age|ag|R|N ; -ing|ing|S||-ing (N)
+disrupt	verb	disrupt|disrupt|R|V
+breakthrough	noun	break|break|R|V ; through|through|R|Adv
+liaison	noun	liaison|liaison|R|N
+delightful	adj	delight|delight|R|N ; -ful|ful|S
+specialized	adj	specialize|specializ|R|V ; -ed|ed|S||-ed (adj)
+colourful	adj	colour|colour|R|N ; -ful|ful|S
+odor	noun	odor|odor|R|N
+newcomer	noun	new|new|R|Adj ; come|com|R|V ; -er|er|S||-er (N)
+lobbyist	noun	lobby|lobby|R|N ; -ist|ist|S
+apparatus	noun	apparatus|apparatus|R|N
+wicked	adj	wicked|wicked|R|Adj
+postpone	verb	postpone|postpone|R|V
+warrant	noun	warrant|warrant|R|N
+resentment	noun	resent|resent|R|V ; -ment|ment|S
+dinosaur	noun	dinosaur|dinosaur|R|N
+gradual	adj	gradual|gradual|R|Adj
+excite	verb	excite|excite|R|V
+quotation	noun	quote|quot|R|V ; -ation|ation|S
+banner	noun	banner|banner|R|N
+injured	adj	injure|injur|R|V ; -ed|ed|S||-ed (adj)
+insider	noun	in-|in|P ; side|sid|R|N ; -er|er|S||-er (N)
+bitterly	adv	bitter|bitter|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+flock	noun	flock|flock|R|N
+assertion	noun	assert|assert|R|V ; -ion|ion|S
+ted	noun	ted|ted|R|N
+pier	noun	pier|pier|R|N
+sincerely	adv	sincere|sincere|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+efficiently	adv	efficient|efficient|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+payroll	noun	pay|pay|R|V ; roll|roll|R|N
+freshly	adv	fresh|fresh|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+grim	adj	grim|grim|R|Adj
+winning	adj	win|winn|R|V ; -ing|ing|S||-ing (adj)
+bead	noun	bead|bead|R|N
+arbitrary	adj	arbitrary|arbitrary|R|Adj
+drought	noun	drought|drought|R|N
+sporting	adj	sport|sport|R|V ; -ing|ing|S||-ing (adj)
+uphold	verb	up-|up|P ; hold|hold|R|V
+amusement	noun	amuse|amuse|R|V ; -ment|ment|S
+formidable	adj	formidable|formidable|R|Adj
+hazardous	adj	hazard|hazard|R|N ; -ous|ous|S
+clarity	noun	clear|clar|R|Adj ; -ity|ity|S
+unchanged	adj	un-|un|P ; change|chang|R|V ; -ed|ed|S||-ed (adj)
+believer	noun	believe|believ|R|V ; -er|er|S||-er (N)
+dressing	noun	dress|dress|R|V ; -ing|ing|S||-ing (N)
+wireless	adj	wire|wire|R|N ; -less|less|S
+proceedings	noun	proceed|proceed|R|V ; -ing|ing|S||-ing (N) ; -s|s|I||-s (plural)
+renewal	noun	re-|re|P ; new|new|R|Adj ; -al|al|S
+rebellion	noun	rebel|rebell|R|V ; -ion|ion|S
+bin	noun	bin|bin|R|N
+frog	noun	frog|frog|R|N
+grind	verb	grind|grind|R|V
+elected	adj	elect|elect|R|V ; -ed|ed|S||-ed (adj)
+parker	noun	parker|parker|R|N
+keyboard	noun	key|key|R|N ; board|board|R|N
+vanilla	noun	vanilla|vanilla|R|N
+wounded	adj	wound|wound|R|V ; -ed|ed|S||-ed (adj)
+lone	adj	lone|lone|R|Adj
+insure	verb	insure|insure|R|V
+shotgun	noun	shot|shot|R|N ; gun|gun|R|N
+graphic	adj	graphic|graphic|R|Adj
+mainland	noun	main|main|R|Adj ; land|land|R|N
+subway	noun	sub-|sub|P ; way|way|R|N
+descent	noun	descent|descent|R|N
+deficiency	noun	deficient|deficien|R|Adj ; -cy|cy|S
+transplant	verb	trans-|trans|P ; plant|plant|R|V
+explosive	noun	explode|explos|R|V ; -ive|ive|S
+pudding	noun	pudding|pudding|R|N
+illuminate	verb	illuminate|illuminate|R|V
+congressman	noun	congress|congress|R|N ; man|man|R|N
+adjacent	adj	adjacent|adjacent|R|Adj
+collins	noun	collins|collins|R|N
+evolutionary	adj	evolve|evolut|R|V ; -ion|ion|S ; -ary|ary|S
+analogy	noun	analogy|analogy|R|N
+grill	verb	grill|grill|R|V
+innocence	noun	innocence|innocence|R|N
+flaw	noun	flaw|flaw|R|N
+locality	noun	local|local|R|Adj ; -ity|ity|S
+pony	noun	pony|pony|R|N
+optimism	noun	optimism|optimism|R|N
+balcony	noun	balcony|balcony|R|N
+skinny	adj	skin|skinn|R|N ; -y|y|S
+folly	noun	folly|folly|R|N
+regression	noun	regress|regress|R|V ; -ion|ion|S
+jointly	adv	joint|joint|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+burial	noun	bury|buri|R|V ; -al|al|S
+posture	noun	posture|posture|R|N
+ambiguity	noun	ambiguous|ambigu|R|Adj ; -ity|ity|S
+demon	noun	demon|demon|R|N
+stab	verb	stab|stab|R|V
+flick	verb	flick|flick|R|V
+rehearsal	noun	rehearse|rehears|R|V ; -al|al|S
+invoke	verb	invoke|invoke|R|V
+solidarity	noun	solidarity|solidarity|R|N
+repayment	noun	re-|re|P ; pay|pay|R|V ; -ment|ment|S
+discard	verb	discard|discard|R|V
+flush	verb	flush|flush|R|V
+tub	noun	tub|tub|R|N
+reservoir	noun	reservoir|reservoir|R|N
+theirs	pron	their|their|R ; -s|s|I
+landowner	noun	land|land|R|N ; own|own|R|V ; -er|er|S||-er (N)
+wardrobe	noun	ward|ward|R|N ; robe|robe|R|N
+abundance	noun	abundant|abund|R|Adj ; -ance|ance|S
+calf	noun	calf|calf|R|N
+rev	noun	rev|rev|R|N
+hull	noun	hull|hull|R|N
+renaissance	noun	renaissance|renaissance|R|N
+lime	noun	lime|lime|R|N
+psychiatric	adj	psychiatry|psychiatr|R|N ; -ic|ic|S
+attendant	noun	attend|attend|R|V ; -ant|ant|S
+fulfill	verb	full|ful|R|Adj ; fill|fill|R|V
+dominance	noun	dominate|domin|R|V ; -ance|ance|S
+ethnicity	noun	ethnic|ethnic|R|Adj ; -ity|ity|S
+assassination	noun	assassinate|assassinat|R|V ; -ion|ion|S
+geographic	adj	geography|geograph|R|N ; -ic|ic|S
+strawberry	noun	straw|straw|R|N ; berry|berry|R|N
+atomic	adj	atom|atom|R|N ; -ic|ic|S
+crying	noun	cry|cry|R|V ; -ing|ing|S||-ing (N)
+loudly	adv	loud|loud|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+portable	adj	port|port|R|V ; -able|able|S
+environmentalist	noun	environ|environ|R|V ; -ment|ment|S ; -al|al|S ; -ist|ist|S
+subscription	noun	sub-|sub|P ; -scribe|script|B|V ; -ion|ion|S
+staircase	noun	stair|stair|R|N ; case|case|R|N
+moisture	noun	moist|moist|R|Adj ; -ure|ure|S
+parenting	noun	parent|parent|R|N ; -ing|ing|S||-ing (N)
+ironic	adj	irony|iron|R|N ; -ic|ic|S
+superintendent	noun	super-|super|P ; intend|intend|R|V ; -ent|ent|S
+rattle	verb	rattle|rattle|R|V
+fridge	noun	fridge|fridge|R|N
+shatter	verb	shatter|shatter|R|V
+sniff	verb	sniff|sniff|R|V
+startle	verb	startle|startle|R|V
+gorgeous	adj	gorgeous|gorgeous|R|Adj
+variant	noun	vary|vari|R|V ; -ant|ant|S
+tease	verb	tease|tease|R|V
+stool	noun	stool|stool|R|N
+memorandum	noun	memorandum|memorandum|R|N
+waiter	noun	wait|wait|R|V ; -er|er|S||-er (N)
+formulation	noun	formulate|formulat|R|V ; -ion|ion|S
+butler	noun	butler|butler|R|N
+vow	noun	vow|vow|R|N
+semester	noun	semester|semester|R|N
+disciplinary	adj	discipline|disciplin|R|N ; -ary|ary|S
+angrily	adv	angry|angri|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+electorate	noun	elect|elect|R|V ; -or|or|S ; -ate|ate|S
+jam	noun	jam|jam|R|N
+hometown	noun	home|home|R|N ; town|town|R|N
+tumble	verb	tumble|tumble|R|V
+financially	adv	finance|financ|R|N ; -ial|ial|S ; -ly|ly|I|Adv|-ly (adv)
+statistically	adv	statistic|statistic|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+accused	noun	accuse|accus|R|V ; -ed|ed|S||-ed (adj)
+backup	noun	back|back|R|Adv ; up|up|R|Adv
+claire	noun	claire|claire|R|N
+detector	noun	detect|detect|R|V ; -or|or|S
+rotate	verb	rotate|rotate|R|V
+recount	verb	re-|re|P ; count|count|R|V
+decree	noun	decree|decree|R|N
+spotlight	noun	spot|spot|R|N ; light|light|R|N
+alpha	noun	alpha|alpha|R|N
+bladder	noun	bladder|bladder|R|N
+settler	noun	settle|settl|R|V ; -er|er|S||-er (N)
+unionist	noun	union|union|R|N ; -ist|ist|S
+copyright	noun	copy|copy|R|V ; right|right|R|N
+exclaim	verb	exclaim|exclaim|R|V
+scrape	verb	scrape|scrape|R|V
+autonomous	adj	autonomous|autonomous|R|Adj
+optical	adj	optic|optic|R|Adj ; -al|al|S
+methodology	noun	methodology|methodology|R|N
+bump	verb	bump|bump|R|V
+aggregate	noun	aggregate|aggregate|R|N
+sadness	noun	sad|sad|R|Adj ; -ness|ness|S
+glare	verb	glare|glare|R|V
+amnesty	noun	amnesty|amnesty|R|N
+firefighter	noun	fire|fire|R|N ; fight|fight|R|V ; -er|er|S||-er (N)
+sediment	noun	sediment|sediment|R|N
+mainframe	noun	main|main|R|Adj ; frame|frame|R|N
+shah	noun	shah|shah|R|N

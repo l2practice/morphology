@@ -1,0 +1,150 @@
+ginger	noun	=
+elimination	noun	e-|e|P||||Latin ex 'out' ; -limin|limin|B|N|||Latin limen 'threshold' ; -ation|ation|S||||Latin -atio 'act, state'
+nanny	noun	=
+khan	noun	=
+friction	noun	=
+segregation	noun	se-|se|P||||Latin se- 'apart' ; -greg|greg|B|N|||Latin grex 'flock' ; -ation|ation|S||||Latin -atio 'act, state'
+aerial	adj	aer-|aer|B|N|||Greek aēr 'air' ; -ial|ial|S||||Latin -ialis 'pertaining to'
+lateral	adj	=
+cardinal	noun	=
+forensic	adj	=
+basil	noun	=
+examiner	noun	=
+cohort	noun	=
+dine	verb	=
+dispatch	verb	=
+fascism	noun	=
+iris	noun	=
+prostate	noun	=
+gradient	noun	grad-|grad|B|V|||Latin gradi 'to step' ; -ient|ient|S||||Latin -iens 'acting'
+arthritis	noun	arthr-|arthr|B|N|||Greek arthron 'joint' ; -itis|itis|S||||Greek -itis 'inflammation'
+feminism	noun	femin-|femin|B|N|||Latin femina 'woman' ; -ism|ism|S||||Greek -ismos 'doctrine'
+lament	verb	=
+ignite	verb	ign-|ign|B|N|||Latin ignis 'fire' ; -ite|ite|S||||Latin -itus 'past participle'
+revolve	verb	re-|re|P||||Latin re- 'back, again' ; -volve|volve|B|V|||Latin volvere 'to roll'
+alternate	verb	=
+diocese	noun	=
+contaminate	verb	=
+geology	noun	geo-|geo|B|N|||Greek gē 'earth' ; -logy|logy|B|N|||Greek logos 'study, word'
+vowel	noun	=
+veterinary	adj	=
+alumnus	noun	=
+chaotic	adj	=
+mutant	noun	mut-|mut|B|V|||Latin mutare 'to change' ; -ant|ant|S||||Latin -ans 'acting'
+arbitration	noun	arbitr-|arbitr|B|N|||Latin arbiter 'judge' ; -ation|ation|S||||Latin -atio 'act, state'
+corpus	noun	=
+gloria	noun	=
+sober	adj	=
+morse	noun	=
+marco	noun	=
+commando	noun	=
+clone	noun	=
+impair	verb	=
+dementia	noun	de-|de|P||||Latin de 'away, down' ; -ment|ment|B|N|||Latin mens 'mind' ; -ia|ia|S||||Latin -ia 'state'
+frantic	adj	=
+intrinsic	adj	=
+reclaim	verb	=
+sewer	noun	=
+catcher	noun	=
+fertile	adj	fer-|fer|B|V|||Latin ferre 'to bear' ; -tile|tile|S||||Latin -tilis 'able to'
+hepatitis	noun	hepat-|hepat|B|N|||Greek hēpar 'liver' ; -itis|itis|S||||Greek -itis 'inflammation'
+disgust	noun	dis-|dis|P||||Latin dis- 'apart' ; -gust|gust|B|V|||Latin gustare 'to taste'
+larva	noun	=
+tentacle	noun	=
+rancher	noun	=
+niece	noun	=
+beta	noun	=
+capsule	noun	=
+respiratory	adj	=
+insulin	noun	insul-|insul|B|N|||Latin insula 'island' ; -in|in|S||||Latin -ina 'substance'
+persistence	noun	=
+liberate	verb	liber-|liber|B|Adj|||Latin liber 'free' ; -ate|ate|S||||Latin -atus 'having, made'
+rhetorical	adj	=
+desperation	noun	de-|de|P||||Latin de 'down, away' ; -sper|sper|B|V|||Latin sperare 'to hope' ; -ation|ation|S||||Latin -atio 'act, state'
+anonymity	noun	an-|an|P||||Greek a- 'without' ; -onym|onym|B|N|||Greek onyma 'name' ; -ity|ity|S||||Latin -itas 'state'
+liner	noun	=
+identifier	noun	=
+almond	noun	=
+announcer	noun	=
+reminiscent	adj	=
+validate	verb	=
+dime	noun	=
+orphan	noun	=
+persona	noun	=
+recollection	noun	=
+alleviate	verb	al-|al|P||||Latin ad 'to' ; -lev|lev|B|V|||Latin levare 'to lighten' ; -i|i|S||||Latin -i- 'linking vowel' ; -ate|ate|S||||Latin -atus 'having, made'
+plank	noun	=
+protagonist	noun	=
+comedian	noun	comed-|comed|B|N|||Greek kōmōidia 'comedy' ; -ian|ian|S||||Latin -ianus 'belonging to'
+cruiser	noun	=
+indifferent	adj	=
+tentative	adj	tent-|tent|B|V|||Latin tentare 'to try' ; -ative|ative|S||||Latin -ativus 'tending to'
+avert	verb	a-|a|P||||Latin ab 'away, from' ; -vert|vert|B|V|||Latin vertere 'to turn'
+cavity	noun	cav-|cav|B|Adj|||Latin cavus 'hollow' ; -ity|ity|S||||Latin -itas 'state'
+conjunction	noun	con-|con|P||||Latin com- 'together' ; -junct|junct|B|V|||Latin iungere 'to join' ; -ion|ion|S||||Latin -io 'act, state'
+novelty	noun	=
+genocide	noun	geno-|geno|B|N|||Greek genos 'race, kind' ; -cide|cide|S||||Latin -cidium 'killing'
+continual	adj	=
+conjure	verb	con-|con|P||||Latin com- 'together' ; -jure|jure|B|V|||Latin iurare 'to swear'
+mend	verb	=
+catastrophic	adj	=
+animation	noun	=
+digest	verb	di-|di|P||||Latin dis- 'apart' ; -gest|gest|B|V|||Latin gerere 'to carry'
+nude	adj	=
+vicinity	noun	vicin-|vicin|B|N|||Latin vicinus 'neighbour' ; -ity|ity|S||||Latin -itas 'state'
+menace	noun	=
+empathy	noun	em-|em|P||||Greek en 'in, at' ; -pathy|pathy|B|N|||Greek pathos 'feeling'
+collide	verb	=
+fume	noun	=
+commend	verb	com-|com|P||||Latin com- 'together' ; -mend|mend|B|V|||Latin mandare 'to entrust'
+preventive	adj	=
+arrogant	adj	ar-|ar|P||||Latin ad 'to' ; -rog|rog|B|V|||Latin rogare 'to ask' ; -ant|ant|S||||Latin -ans 'acting'
+facade	noun	=
+vigour	noun	vig-|vig|B|V|||Latin vigere 'to thrive' ; -our|our|S||||Latin -or 'state'
+persuasion	noun	per-|per|P||||Latin per 'through' ; -suad|suas|B|V|||Latin suadere 'to advise' ; -ion|ion|S||||Latin -io 'act, state'
+generosity	noun	=
+vent	noun	=
+eclipse	noun	=
+consolation	noun	con-|con|P||||Latin com- 'together' ; -sol|sol|B|V|||Latin solari 'to comfort' ; -ation|ation|S||||Latin -atio 'act, state'
+peril	noun	=
+paste	noun	=
+stifle	verb	=
+savage	adj	=
+poultry	noun	=
+automaker	noun	=
+conserve	verb	=
+patriotic	adj	=
+genetics	noun	=
+perpetuate	verb	per-|per|P||||Latin per 'through' ; -pet|pet|B|V|||Latin petere 'to seek' ; -uate|uate|S||||Latin -atus 'having, made'
+ornament	noun	orn-|orn|B|V|||Latin ornare 'to adorn' ; -ament|ament|S||||Latin -amentum 'result'
+relic	noun	re-|re|P||||Latin re- 'back' ; -lic|lic|B|V|||Latin linquere 'to leave'
+infamous	adj	=
+dilute	verb	=
+ordeal	noun	=
+reiterate	verb	=
+obstruction	noun	ob-|ob|P||||Latin ob 'against' ; -struct|struct|B|V|||Latin struere 'to build' ; -ion|ion|S||||Latin -io 'act, state'
+eccentric	adj	ec-|ec|P||||Greek ek 'out' ; -centr|centr|B|N|||Greek kentron 'centre' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+recede	verb	=
+abound	verb	ab-|ab|P||||Latin ab 'away, from' ; -ound|ound|B|V|||Latin undare 'to overflow'
+depiction	noun	de-|de|P||||Latin de 'down, away' ; -pict|pict|B|V|||Latin pingere 'to paint' ; -ion|ion|S||||Latin -io 'act, state'
+discreet	adj	=
+plummet	verb	=
+humiliation	noun	humil-|humil|B|Adj|||Latin humilis 'lowly' ; -iation|iation|S||||Latin -iatio 'act, state'
+intrusion	noun	in-|in|P||||Latin in 'into' ; -trude|trus|B|V|||Latin trudere 'to thrust' ; -ion|ion|S||||Latin -io 'act, state'
+demolition	noun	=
+implicate	verb	im-|im|P||||Latin in 'in, into' ; -plic|plic|B|V|||Latin plicare 'to fold' ; -ate|ate|S||||Latin -atus 'having, made'
+obedience	noun	ob-|ob|P||||Latin ob 'toward' ; -aud|edi|B|V|||Latin audire 'to hear' ; -ence|ence|S||||Latin -entia 'state, quality'
+periodic	adj	peri-|peri|P||||Greek peri 'around' ; -od|od|B|N|||Greek hodos 'way, period' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+gutter	noun	=
+adore	verb	ad-|ad|P||||Latin ad 'to' ; -ore|ore|B|V|||Latin orare 'to speak, pray'
+literal	adj	litter-|liter|B|N|||Latin littera 'letter' ; -al|al|S||||Latin -alis 'pertaining to'
+discern	verb	=
+proven	adj	=
+apprehension	noun	ap-|ap|P||||Latin ad 'to' ; -prehend|prehens|B|V|||Latin prehendere 'to seize' ; -ion|ion|S||||Latin -io 'act, state'
+solicit	verb	soll-|sol|P||||Latin sollus 'whole' ; -cit|icit|B|V|||Latin citare 'to rouse'
+anguish	noun	=
+nasal	adj	=
+storey	noun	=
+dismay	noun	=
+pinch	verb	=
+trajectory	noun	tra-|tra|P||||Latin trans 'across' ; -ject|ject|B|V|||Latin iacere 'to throw' ; -ory|ory|S||||Latin -orius 'pertaining to'

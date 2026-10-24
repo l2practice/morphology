@@ -1,0 +1,200 @@
+craig	noun	craig|craig|R|N
+swell	verb	swell|swell|R|V
+shorts	noun	short|short|R|Adj ; -s|s|I||-s (plural)
+managerial	adj	manage|manag|R|V ; -er|er|S||-er (N) ; -ial|ial|S
+soften	verb	soft|soft|R|Adj ; -en|en|S
+accusation	noun	accuse|accus|R|V ; -ation|ation|S
+bride	noun	bride|bride|R|N
+cue	noun	cue|cue|R|N
+biography	noun	biography|biography|R|N
+rover	noun	rove|rov|R|V ; -er|er|S||-er (N)
+straighten	verb	straight|straight|R|Adj ; -en|en|S
+compelling	adj	compel|compell|R|V ; -ing|ing|S||-ing (adj)
+greater	adj	great|great|R|Adj ; -er|er|I||-er (comparative)
+linear	adj	linear|linear|R|Adj
+exemption	noun	exempt|exempt|R|V ; -ion|ion|S
+troubled	adj	trouble|troubl|R|V ; -ed|ed|S||-ed (adj)
+economically	adv	economic|economic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+membrane	noun	membrane|membrane|R|N
+erosion	noun	erode|eros|R|V ; -ion|ion|S
+lordship	noun	lord|lord|R|N ; -ship|ship|S
+foreigner	noun	foreign|foreign|R|Adj ; -er|er|S||-er (N)
+balanced	adj	balance|balanc|R|V ; -ed|ed|S||-ed (adj)
+motif	noun	motif|motif|R|N
+utterance	noun	utter|utter|R|V ; -ance|ance|S
+ace	noun	ace|ace|R|N
+convenience	noun	convenience|convenience|R|N
+promoter	noun	promote|promot|R|V ; -er|er|S||-er (N)
+weave	verb	weave|weave|R|V
+sustainable	adj	sustain|sustain|R|V ; -able|able|S
+telecommunication	noun	tele-|tele|P ; communicate|communicat|R|V ; -ion|ion|S
+probe	noun	probe|probe|R|N
+ozone	noun	ozone|ozone|R|N
+bolt	noun	bolt|bolt|R|N
+learner	noun	learn|learn|R|V ; -er|er|S||-er (N)
+bulb	noun	bulb|bulb|R|N
+molecular	adj	molecular|molecular|R|Adj
+cargo	noun	cargo|cargo|R|N
+guerrilla	noun	guerrilla|guerrilla|R|N
+narrator	noun	narrate|narrat|R|V ; -or|or|S
+calcium	noun	calcium|calcium|R|N
+organized	adj	organize|organiz|R|V ; -ed|ed|S||-ed (adj)
+missionary	noun	mission|mission|R|N ; -ary|ary|S
+node	noun	node|node|R|N
+reactor	noun	react|react|R|V ; -or|or|S
+fog	noun	fog|fog|R|N
+semantic	adj	semantic|semantic|R|Adj
+sometime	adv	some|some|R ; time|time|R|N
+isabel	noun	isabel|isabel|R|N
+yep	interj	yep|yep|R
+serum	noun	serum|serum|R|N
+diplomat	noun	diplomat|diplomat|R|N
+easier	adj	easy|easi|R|Adj ; -er|er|I||-er (comparative)
+epidemic	noun	epidemic|epidemic|R|N
+trim	verb	trim|trim|R|V
+presume	verb	presume|presume|R|V
+permanently	adv	permanent|permanent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+butterfly	noun	butter|butter|R|N ; fly|fly|R|N
+divert	verb	divert|divert|R|V
+accelerate	verb	accelerate|accelerate|R|V
+convincing	adj	convince|convinc|R|V ; -ing|ing|S||-ing (adj)
+bargain	noun	bargain|bargain|R|N
+nationwide	adj	nation|nation|R|N ; wide|wide|R|Adj
+ideally	adv	ideal|ideal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+vacuum	noun	vacuum|vacuum|R|N
+creek	noun	creek|creek|R|N
+renew	verb	re-|re|P ; new|new|R|Adj
+spit	verb	spit|spit|R|V
+parcel	noun	parcel|parcel|R|N
+crossing	noun	cross|cross|R|V ; -ing|ing|S||-ing (N)
+sensor	noun	sense|sens|R|V ; -or|or|S
+stereotype	noun	stereotype|stereotype|R|N
+kneel	verb	kneel|kneel|R|V
+laundry	noun	launder|laundr|R|V ; -y|y|S
+revise	verb	revise|revise|R|V
+pistol	noun	pistol|pistol|R|N
+apology	noun	apology|apology|R|N
+sketch	noun	sketch|sketch|R|N
+bore	verb	bore|bore|R|V
+respectable	adj	respect|respect|R|V ; -able|able|S
+beloved	adj	be-|be|P ; love|lov|R|V ; -ed|ed|S||-ed (adj)
+relieved	adj	relieve|reliev|R|V ; -ed|ed|S||-ed (adj)
+pronounce	verb	pronounce|pronounce|R|V
+dislike	verb	dis-|dis|P ; like|like|R|V
+website	noun	web|web|R|N ; site|site|R|N
+chopped	adj	chop|chopp|R|V ; -ed|ed|S||-ed (adj)
+sickness	noun	sick|sick|R|Adj ; -ness|ness|S
+obey	verb	obey|obey|R|V
+retrieve	verb	retrieve|retrieve|R|V
+bomber	noun	bomb|bomb|R|N ; -er|er|S||-er (N)
+fond	adj	fond|fond|R|Adj
+hammer	noun	hammer|hammer|R|N
+smoking	noun	smoke|smok|R|V ; -ing|ing|S||-ing (N)
+bizarre	adj	bizarre|bizarre|R|Adj
+nominate	verb	nominate|nominate|R|V
+queue	noun	queue|queue|R|N
+anchor	noun	anchor|anchor|R|N
+skeptical	adj	skeptic|skeptic|R|N ; -al|al|S
+scrutiny	noun	scrutiny|scrutiny|R|N
+alert	noun	alert|alert|R|N
+considering	verb	consider|consider|R|V ; -ing|ing|I||-ing (v)
+redundant	adj	redundant|redundant|R|Adj
+decisive	adj	decide|decis|R|V ; -ive|ive|S
+confirmation	noun	confirm|confirm|R|V ; -ation|ation|S
+tech	noun	tech|tech|R|N
+betray	verb	betray|betray|R|V
+telegraph	noun	tele-|tele|P ; graph|graph|R|N
+consistency	noun	consist|consist|R|V ; -ency|ency|S
+recorder	noun	record|record|R|V ; -er|er|S||-er (N)
+polite	adj	polite|polite|R|Adj
+foolish	adj	fool|fool|R|N ; -ish|ish|S
+interactive	adj	interact|interact|R|V ; -ive|ive|S
+static	adj	static|static|R|Adj
+intake	noun	in-|in|P ; take|take|R|V
+loser	noun	lose|los|R|V ; -er|er|S||-er (N)
+challenging	adj	challenge|challeng|R|V ; -ing|ing|S||-ing (adj)
+cleaning	noun	clean|clean|R|Adj ; -ing|ing|S||-ing (N)
+complication	noun	complicate|complicat|R|V ; -ion|ion|S
+critique	noun	critique|critique|R|N
+skiing	noun	ski|ski|R|V ; -ing|ing|S||-ing (N)
+aboard	adv	aboard|aboard|R|Adv
+unaware	adj	un-|un|P ; aware|aware|R|Adj
+delicious	adj	delicious|delicious|R|Adj
+lengthy	adj	length|length|R|N ; -y|y|S
+compassion	noun	com-|com|P|||con- ; passion|passion|R|N
+fashionable	adj	fashion|fashion|R|N ; -able|able|S
+devoted	adj	devote|devot|R|V ; -ed|ed|S||-ed (adj)
+congregation	noun	congregate|congregat|R|V ; -ion|ion|S
+mercy	noun	mercy|mercy|R|N
+beautifully	adv	beautiful|beautiful|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+worm	noun	worm|worm|R|N
+competent	adj	compete|compet|R|V ; -ent|ent|S
+marijuana	noun	marijuana|marijuana|R|N
+accumulate	verb	accumulate|accumulate|R|V
+legendary	adj	legend|legend|R|N ; -ary|ary|S
+militia	noun	militia|militia|R|N
+authentic	adj	authentic|authentic|R|Adj
+tenure	noun	tenure|tenure|R|N
+dome	noun	dome|dome|R|N
+editorial	noun	edit|edit|R|V ; -or|or|S ; -ial|ial|S
+locker	noun	lock|lock|R|V ; -er|er|S||-er (N)
+surroundings	noun	surround|surround|R|V ; -ing|ing|S||-ing (N) ; -s|s|I||-s (plural)
+follower	noun	follow|follow|R|V ; -er|er|S||-er (N)
+faithful	adj	faith|faith|R|N ; -ful|ful|S
+wit	noun	wit|wit|R|N
+haunt	verb	haunt|haunt|R|V
+spectacle	noun	spectacle|spectacle|R|N
+respective	adj	respect|respect|R|V ; -ive|ive|S
+probable	adj	probable|probable|R|Adj
+sheriff	noun	sheriff|sheriff|R|N
+miserable	adj	miserable|miserable|R|Adj
+dual	adj	dual|dual|R|Adj
+evoke	verb	evoke|evoke|R|V
+comparatively	adv	compare|compar|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+backing	noun	back|back|R|V ; -ing|ing|S||-ing (N)
+pal	noun	pal|pal|R|N
+affirmative	adj	affirm|affirm|R|V ; -ative|ative|S
+surrender	verb	surrender|surrender|R|V
+scar	noun	scar|scar|R|N
+unconscious	adj	un-|un|P ; con-|con|P ; sci-|sci|B|V ; -ous|ous|S
+surviving	adj	survive|surviv|R|V ; -ing|ing|S||-ing (adj)
+variance	noun	vary|vari|R|V ; -ance|ance|S
+multiply	verb	multiply|multiply|R|V
+surge	noun	surge|surge|R|N
+amateur	noun	amateur|amateur|R|N
+sailor	noun	sail|sail|R|V ; -or|or|S
+appraisal	noun	appraise|apprais|R|V ; -al|al|S
+commentary	noun	comment|comment|R|V ; -ary|ary|S
+cleaner	noun	clean|clean|R|Adj ; -er|er|S||-er (N)
+chemist	noun	chemist|chemist|R|N
+penetrate	verb	penetrate|penetrate|R|V
+spectator	noun	spectate|spectat|R|V ; -or|or|S
+ranking	noun	rank|rank|R|V ; -ing|ing|S||-ing (N)
+outlook	noun	out|out|R|Adv ; look|look|R|V
+fuck	verb	fuck|fuck|R|V
+cheerful	adj	cheer|cheer|R|N ; -ful|ful|S
+hover	verb	hover|hover|R|V
+attain	verb	attain|attain|R|V
+stunning	adj	stun|stunn|R|V ; -ing|ing|S||-ing (adj)
+orthodox	adj	orthodox|orthodox|R|Adj
+trout	noun	trout|trout|R|N
+frighten	verb	fright|fright|R|N ; -en|en|S
+cowboy	noun	cow|cow|R|N ; boy|boy|R|N
+disagreement	noun	dis-|dis|P ; agree|agree|R|V ; -ment|ment|S
+snatch	verb	snatch|snatch|R|V
+viable	adj	viable|viable|R|Adj
+precision	noun	precise|precis|R|Adj ; -ion|ion|S
+countless	adj	count|count|R|V ; -less|less|S
+swiftly	adv	swift|swift|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+selling	noun	sell|sell|R|V ; -ing|ing|S||-ing (N)
+upcoming	adj	up|up|R|Adv ; come|com|R|V ; -ing|ing|S||-ing (adj)
+exert	verb	exert|exert|R|V
+ninth	adj	nine|nin|R ; -th|th|S
+outbreak	noun	out|out|R|Adv ; break|break|R|V
+knot	noun	knot|knot|R|N
+lyrics	noun	lyric|lyric|R|N ; -s|s|I||-s (plural)
+strive	verb	strive|strive|R|V
+gambling	noun	gamble|gambl|R|V ; -ing|ing|S||-ing (N)
+spur	noun	spur|spur|R|N
+warfare	noun	war|war|R|N ; fare|fare|R|N
+mound	noun	mound|mound|R|N

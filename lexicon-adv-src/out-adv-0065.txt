@@ -1,0 +1,150 @@
+stevedore	noun	=
+glutinous	adj	=
+vespers	noun	=
+saltire	noun	=
+touristy	adj	=
+licentious	adj	=
+obdurate	adj	ob-|ob|P||||Latin ob- 'against' ; -dur-|dur|B|V|||Latin durare 'to harden' ; -ate|ate|S||||Latin -atus 'made, having'
+theist	noun	theo-|the|B|N|||Greek theos 'god' ; -ist|ist|S||||Greek -istes 'one who'
+lymphadenopathy	noun	lymph-|lymph|B|N|||Greek nymphe 'nymph, bride' ; -aden-|aden|B|N|||Greek aden 'gland' ; -pathy|opathy|B|N|||Greek pascho 'to suffer'
+conventionalism	noun	=
+villous	adj	=
+epistaxis	noun	epi-|epi|P||||Greek epi- 'upon' ; -stax-|stax|B|V|||Greek stazein 'to drip' ; -is|is|S||||Greek -sis 'act, state'
+criminalist	noun	=
+chlorinate	verb	=
+ligature	noun	lig-|lig|B|V|||Latin ligare 'to tie' ; -ature|ature|S||||Latin -atura 'act, state'
+sigmoidoscopy	noun	=
+diagenetic	adj	=
+reductivist	noun	=
+lysozyme	noun	=
+leukocyte	noun	leuko-|leuko|B|Adj|||Greek leukos 'white' ; -cyte|cyte|B|N|||Greek kytos 'cell'
+amphora	noun	=
+valedictory	adj	=
+verderer	noun	=
+menthol	noun	menth-|menth|B|N|||Latin mentha 'mint' ; -ol|ol|S||||Latin oleum 'oil'
+novitiate	noun	=
+apoptosis	noun	apo-|apo|P||||Greek apo- 'away from' ; -ptosis|ptosis|B|N|||Greek ptosis 'falling'
+anadromous	adj	ana-|ana|P||||Greek ana- 'up, back' ; -drom-|drom|B|V|||Greek dromos 'running' ; -ous|ous|S||||Latin -osus 'full of'
+operationalization	noun	=
+orthopedics	noun	ortho-|ortho|B|Adj|||Greek orthos 'straight' ; -ped-|ped|B|N|||Greek paideia 'training' ; -ics|ics|S||||Greek -ike 'art, science'
+neonate	noun	=
+isoform	noun	=
+jejunum	noun	=
+rubella	noun	=
+antrum	noun	=
+exfoliate	verb	ex-|ex|P||||Latin ex- 'out' ; -foli-|foli|B|N|||Latin folium 'leaf' ; -ate|ate|S||||Latin -atus 'made, having'
+anastomosis	noun	=
+stratus	noun	=
+deputize	verb	=
+neologism	noun	neo-|neo|B|Adj|||Greek neos 'new' ; -log-|log|B|N|||Greek logos 'word' ; -ism|ism|S||||Greek -ismos 'doctrine'
+prioress	noun	=
+sharer	noun	=
+pinion	noun	=
+lysosomal	adj	=
+sexualize	verb	=
+triticale	noun	=
+crystallite	noun	=
+biometrics	noun	=
+sophistry	noun	=
+psychotherapeutic	adj	=
+snatcher	noun	=
+regionalization	noun	=
+stator	noun	stat-|stat|B|V|||Latin stare 'to stand' ; -or|or|S||||Latin -or 'agent'
+discharger	noun	=
+photoelectric	adj	=
+germanium	noun	=
+arborist	noun	=
+oratorio	noun	=
+cochlea	noun	=
+contiguity	noun	=
+quietude	noun	quiet-|quiet|B|Adj|||Latin quietus 'at rest' ; -ude|ude|S||||Latin -udo 'state'
+phosphatidylcholine	noun	=
+balladeer	noun	=
+andouille	noun	=
+variceal	adj	=
+rugose	adj	=
+effectuate	verb	=
+concatenation	noun	=
+serif	noun	=
+dilatory	adj	=
+industrialism	noun	=
+ambrosia	noun	=
+abiotic	adj	a-|a|P||||Greek a- 'not' ; bio-|bio|B|N|||Greek bios 'life' ; -tic|tic|S||||Greek -tikos 'pertaining to'
+narthex	noun	=
+disjunctive	adj	dis-|dis|P||||Latin dis- 'apart' ; -junct-|junct|B|V|||Latin jungere 'to join' ; -ive|ive|S||||Latin -ivus 'tending to'
+manometry	noun	mano-|mano|B|Adj|||Greek manos 'thin, rare' ; -metry|metry|B|N|||Greek metria 'measurement'
+transmissible	adj	trans-|trans|P||||Latin trans- 'across' ; -miss-|miss|B|V|||Latin mittere 'to send' ; -ible|ible|S||||Latin -ibilis 'able to be'
+launderer	noun	=
+substantiation	noun	=
+polyposis	noun	=
+anthropomorphism	noun	anthropo-|anthropo|B|N|||Greek anthropos 'man, human' ; -morph-|morph|B|N|||Greek morphe 'form, shape' ; -ism|ism|S||||Greek -ismos 'doctrine'
+genealogist	noun	=
+lithotripsy	noun	litho-|litho|B|N|||Greek lithos 'stone' ; -trips-|trips|B|N|||Greek tripsis 'rubbing' ; -y|y|S||||Greek -ia 'state, quality'
+incus	noun	=
+psychophysical	adj	=
+neotropical	adj	=
+albedo	noun	=
+mythos	noun	=
+mosaicist	noun	=
+historiographic	adj	=
+pharaonic	adj	=
+audiobook	noun	=
+dichotic	adj	dich-|dich|B|Adj|||Greek dicha 'apart' ; -ot-|ot|B|N|||Greek ous 'ear' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+soma	noun	=
+encirclement	noun	=
+anthropic	adj	anthrop-|anthrop|B|N|||Greek anthropos 'man, human' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+artemisia	noun	=
+blastocyst	noun	=
+urbanity	noun	=
+mentee	noun	=
+antiracism	noun	=
+monolingual	adj	=
+petulance	noun	=
+palpate	verb	=
+ecotourist	noun	=
+biogas	noun	=
+effendi	noun	=
+solipsism	noun	sol-|sol|B|Adj|||Latin solus 'alone' ; -ips-|ips|B|N|||Latin ipse 'self' ; -ism|ism|S||||Greek -ismos 'doctrine'
+historiographical	adj	=
+concretize	verb	=
+monocle	noun	=
+combust	verb	=
+criticality	noun	=
+habitus	noun	=
+vagotomy	noun	vago-|vago|B|N|||Latin vagus 'wandering' ; -tomy|tomy|B|N|||Greek tome 'cutting'
+manometric	adj	=
+disquisition	noun	=
+sphincterotomy	noun	=
+adenomatous	adj	=
+revivalism	noun	=
+aerobically	adv	=
+cardia	noun	=
+deify	verb	=
+emasculate	verb	e-|e|P||||Latin ex- 'out' ; -mascul-|mascul|B|N|||Latin masculus 'male' ; -ate|ate|S||||Latin -atus 'made, having'
+torpid	adj	=
+parvis	noun	=
+adenoidectomy	noun	=
+analytics	noun	=
+abstinent	adj	=
+ptarmigan	noun	=
+deme	noun	=
+megapixel	noun	=
+agoraphobia	noun	agora-|agora|B|N|||Greek agora 'assembly' ; -phob-|phob|B|N|||Greek phobos 'fear' ; -ia|ia|S||||Greek -ia 'state, quality'
+electromagnet	noun	=
+gasifier	noun	=
+duodenitis	noun	=
+synecdoche	noun	=
+philologist	noun	=
+ganache	noun	=
+anime	noun	=
+alumna	noun	=
+roseate	adj	=
+falsificationist	noun	=
+inglorious	adj	=
+thunderstruck	adj	=
+malachite	noun	=
+pedagogue	noun	=
+cardiomyopathy	noun	=
+nostrum	noun	=
+dimity	noun	=
+centripetal	adj	centri-|centri|B|N|||Latin centrum 'center' ; -pet-|pet|B|V|||Latin petere 'to seek' ; -al|al|S||||Latin -alis 'relating to'

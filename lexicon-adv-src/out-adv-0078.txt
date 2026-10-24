@@ -1,0 +1,150 @@
+duelist	noun	=
+bactericidal	adj	=
+allograft	noun	=
+nonagenarian	noun	=
+conic	adj	=
+cryonics	noun	=
+geomorphological	adj	=
+lounger	noun	=
+ghettoization	noun	=
+biomolecular	adj	=
+arthroscopy	noun	arthro-|arthro|B|N|||Greek arthron 'joint' ; -scopy|scopy|B|N|||Greek skopein 'to look, examine'
+nephropathy	noun	nephro-|nephro|B|N|||Greek nephros 'kidney' ; -pathy|pathy|B|N|||Greek pathos 'suffering, disease'
+ecosphere	noun	=
+sapiential	adj	=
+sumpter	noun	=
+exoteric	adj	=
+vitalism	noun	=
+concretization	noun	=
+penurious	adj	=
+tantalum	noun	=
+collaborationist	noun	=
+myringotomy	noun	myringo-|myringo|B|N|||Greek myrinx 'eardrum membrane' ; -tomy|tomy|B|N|||Greek temnein 'to cut'
+raphe	noun	=
+delegitimization	noun	=
+amatory	adj	=
+viridian	noun	=
+hyperthermia	noun	hyper-|hyper|P||||Greek hyper 'over' ; -therm-|therm|B|N|||Greek therme 'heat' ; -ia|ia|S||||Greek -ia 'condition'
+moussaka	noun	=
+strumpet	noun	=
+agnatic	adj	=
+bittern	noun	=
+paraphilia	noun	=
+phonic	adj	=
+dryad	noun	=
+chlorite	noun	=
+achromatic	adj	a-|a|P||||Greek a- 'not' ; -chrom-|chrom|B|N|||Greek chroma 'colour' ; -atic|atic|S||||Greek -atikos 'pertaining to'
+quoit	noun	=
+glucocorticoid	noun	=
+tablature	noun	=
+labrum	noun	=
+osteosarcoma	noun	=
+bustard	noun	=
+pantechnicon	noun	=
+obloquy	noun	=
+pablum	noun	=
+gerontocracy	noun	geronto-|geronto|B|Adj|||Greek geron 'old man' ; -cracy|cracy|B|N|||Greek kratos 'rule, power'
+exiguous	adj	=
+occultist	noun	=
+brigantine	noun	=
+almoner	noun	=
+saturnine	adj	=
+slaughterer	noun	=
+irreligion	noun	=
+imipramine	noun	=
+quincentennial	adj	=
+glottic	adj	=
+biotin	noun	biot-|biot|B|N|||Greek biotos 'life' ; -in|in|S
+prodigality	noun	=
+flexure	noun	=
+perambulate	verb	=
+biostatistician	noun	=
+squeezer	noun	=
+paradisiacal	adj	=
+soleus	noun	=
+rebus	noun	=
+pronominal	adj	=
+vasculature	noun	=
+parasitoid	noun	=
+thiamine	noun	=
+sumptuary	adj	=
+factious	adj	=
+storable	adj	=
+paresthesia	noun	para-|par|P||||Greek para 'beside, beyond' ; -esthesia|esthesia|B|N|||Greek aisthesis 'sensation'
+truculence	noun	=
+aldehyde	noun	=
+svelte	adj	=
+surcease	verb	=
+cryostat	noun	cryo-|cryo|B|Adj|||Greek kryos 'cold, frost' ; -stat|stat|B|N|||Greek statos 'standing, stopping'
+pinniped	noun	pinni-|pinni|B|N|||Latin pinna 'fin, feather' ; -ped|ped|B|N|||Latin pes 'foot'
+scooper	noun	=
+cryopreservation	noun	=
+ordure	noun	=
+confectionary	noun	=
+anthologist	noun	=
+etymologically	adv	=
+schematize	verb	=
+dirigiste	noun	=
+spectroscopist	noun	=
+chromodynamics	noun	=
+cavil	verb	=
+cyclophosphamide	noun	=
+prelapsarian	adj	pre-|pre|P||||Latin prae 'before' ; -laps-|laps|B|N|||Latin lapsus 'fall' ; -arian|arian|S||||Latin -arius 'relating to'
+summarization	noun	=
+solemnize	verb	=
+haploid	adj	haplo-|hapl|B|Adj|||Greek haploos 'single, simple' ; -oid|oid|S||||Greek -oeides 'like, form'
+electrophysiology	noun	=
+arsenate	noun	=
+stereopticon	noun	stereo-|stere|B|Adj|||Greek stereos 'solid, three-dimensional' ; -opticon|opticon|B|Adj|||Greek optikos 'visual'
+cess	noun	=
+lumbago	noun	=
+improvident	adj	=
+rusticity	noun	=
+priapic	adj	=
+pastille	noun	=
+ordinate	adj	=
+bureaucratese	noun	=
+apiary	noun	api-|api|B|N|||Latin apis 'bee' ; -ary|ary|S||||Latin -arium 'place for'
+buckthorn	noun	=
+fruiterer	noun	=
+savin	noun	=
+parathion	noun	=
+lepidopterist	noun	=
+symptomology	noun	symptomo-|symptomo|B|N|||Greek symptoma 'occurrence, symptom' ; -logy|logy|B|N|||Greek logos 'study, word'
+peritoneum	noun	=
+regionalize	verb	=
+phrenologist	noun	=
+categoric	adj	=
+supercritical	adj	=
+involution	noun	=
+biochip	noun	=
+dysregulation	noun	=
+describer	noun	=
+exoskeletal	adj	=
+microscopist	noun	=
+prepositional	adj	=
+polyunsaturate	noun	=
+petrology	noun	petro-|petro|B|N|||Greek petra 'rock, stone' ; -logy|logy|B|N|||Greek logos 'study, word'
+astronautical	adj	=
+monosodium	noun	=
+incrimination	noun	=
+regnant	adj	=
+kleptomania	noun	klepto-|klepto|B|V|||Greek kleptein 'to steal' ; -mania|mania|B|N|||Greek mania 'madness, frenzy'
+epicure	noun	=
+despoliation	noun	=
+compere	noun	=
+salmonellosis	noun	=
+osseous	adj	osse-|osse|B|N|||Latin os 'bone' ; -ous|ous|S||||Latin -osus 'full of'
+robusta	noun	=
+inguinal	adj	=
+factitious	adj	=
+burl	noun	=
+thrombocytopenia	noun	=
+barque	noun	=
+impaction	noun	=
+antineutrino	noun	=
+systole	noun	sys-|sys|P||||Greek syn 'together' ; -stole|tole|B|V|||Greek stellein 'to send, contract'
+taciturnity	noun	=
+predestine	verb	=
+ethnobotanical	adj	=
+ethnomusicology	noun	=

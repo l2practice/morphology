@@ -1,0 +1,200 @@
+reflexive	adj	reflex|reflex|R|N ; -ive|ive|S
+eggshell	noun	egg|egg|R|N ; shell|shell|R|N
+straggle	verb	straggle|straggle|R|V
+doormat	noun	door|door|R|N ; mat|mat|R|N
+coughing	noun	cough|cough|R|V ; -ing|ing|S||-ing (N)
+frilly	adj	frill|frill|R|N ; -y|y|S
+depressingly	adv	depress|depress|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+capitulation	noun	capitulate|capitulat|R|V ; -ion|ion|S
+dreamily	adv	dream|dream|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+swampy	adj	swamp|swamp|R|N ; -y|y|S
+sienna	noun	sienna|sienna|R|N
+miniskirt	noun	mini|mini|R|Adj ; skirt|skirt|R|N
+wholehearted	adj	whole|whole|R|Adj ; heart|heart|R|N ; -ed|ed|S||-ed (adj)
+flagstone	noun	flag|flag|R|N ; stone|stone|R|N
+pulverize	verb	pulverize|pulverize|R|V
+unruffled	adj	un-|un|P ; ruffle|ruffl|R|V ; -ed|ed|S||-ed (adj)
+sinew	noun	sinew|sinew|R|N
+underrated	adj	under-|under|P ; rate|rat|R|V ; -ed|ed|S||-ed (adj)
+divinely	adv	divine|divine|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+throwaway	noun	throw|throw|R|V ; away|away|R|Adv
+croquet	noun	croquet|croquet|R|N
+presentable	adj	present|present|R|V ; -able|able|S
+perversity	noun	perverse|pervers|R|Adj ; -ity|ity|S
+probate	noun	probate|probate|R|N
+perishable	adj	perish|perish|R|V ; -able|able|S
+prehistory	noun	pre-|pre|P ; history|history|R|N
+banality	noun	banal|banal|R|Adj ; -ity|ity|S
+ostentatious	adj	ostentatious|ostentatious|R|Adj
+trombone	noun	trombone|trombone|R|N
+anchorman	noun	anchor|anchor|R|N ; man|man|R|N
+dynamo	noun	dynamo|dynamo|R|N
+controllable	adj	control|controll|R|V ; -able|able|S
+imaginatively	adv	imagine|imagin|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+taping	noun	tape|tap|R|V ; -ing|ing|S||-ing (N)
+hammering	noun	hammer|hammer|R|N ; -ing|ing|S||-ing (N)
+homogenous	adj	homogenous|homogenous|R|Adj
+signification	noun	signify|signific|R|V ; -ation|ation|S
+grandly	adv	grand|grand|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+reverberation	noun	reverberate|reverberat|R|V ; -ion|ion|S
+borderland	noun	border|border|R|N ; land|land|R|N
+flabby	adj	flab|flabb|R|N ; -y|y|S
+exigency	noun	exigent|exigenc|R|Adj ; -cy|y|S
+soreness	noun	sore|sore|R|Adj ; -ness|ness|S
+bouncy	adj	bounce|bounc|R|V ; -y|y|S
+exhaustively	adv	exhaust|exhaust|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+perpetuation	noun	perpetuate|perpetuat|R|V ; -ion|ion|S
+shuck	verb	shuck|shuck|R|V
+drainpipe	noun	drain|drain|R|V ; pipe|pipe|R|N
+rascal	noun	rascal|rascal|R|N
+dismally	adv	dismal|dismal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+granddaddy	noun	grand|grand|R|Adj ; daddy|daddy|R|N
+desultory	adj	desultory|desultory|R|Adj
+leaden	adj	lead|lead|R|N ; -en|en|S
+daub	verb	daub|daub|R|V
+hearse	noun	hearse|hearse|R|N
+cellist	noun	cello|cell|R|N ; -ist|ist|S
+coon	noun	coon|coon|R|N
+baffled	adj	baffle|baffl|R|V ; -ed|ed|S||-ed (adj)
+crowbar	noun	crow|crow|R|N ; bar|bar|R|N
+diode	noun	diode|diode|R|N
+aphorism	noun	aphorism|aphorism|R|N
+volunteerism	noun	volunteer|volunteer|R|V ; -ism|ism|S
+serpentine	adj	serpentine|serpentine|R|Adj
+impressionable	adj	impress|impress|R|V ; -ion|ion|S ; -able|able|S
+unhurried	adj	un-|un|P ; hurry|hurri|R|V ; -ed|ed|S||-ed (adj)
+sooty	adj	soot|soot|R|N ; -y|y|S
+scruff	noun	scruff|scruff|R|N
+burp	verb	burp|burp|R|V
+pallid	adj	pallid|pallid|R|Adj
+kipper	noun	kipper|kipper|R|N
+gnat	noun	gnat|gnat|R|N
+metamorphose	verb	metamorphose|metamorphose|R|V
+begrudge	verb	be-|be|P ; grudge|grudge|R|V
+cognitively	adv	cognitive|cognitive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+capsize	verb	capsize|capsize|R|V
+funnily	adv	funny|funni|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+exorcise	verb	exorcise|exorcise|R|V
+funder	noun	fund|fund|R|N ; -er|er|S||-er (N)
+bioethics	noun	bioethics|bioethics|R|N
+displeased	adj	dis-|dis|P ; please|pleas|R|V ; -ed|ed|S||-ed (adj)
+ardor	noun	ardor|ardor|R|N
+debar	verb	de-|de|P ; bar|bar|R|V
+cornflake	noun	corn|corn|R|N ; flake|flake|R|N
+preeminence	noun	pre-|pre|P ; eminence|eminence|R|N
+balaclava	noun	balaclava|balaclava|R|N
+alm	noun	alm|alm|R|N
+technocrat	noun	technocrat|technocrat|R|N
+shag	verb	shag|shag|R|V
+inky	adj	ink|ink|R|N ; -y|y|S
+madison	noun	madison|madison|R|N
+breadcrumb	noun	bread|bread|R|N ; crumb|crumb|R|N
+unscientific	adj	un-|un|P ; sci-|sci|B|V ; -ent|ent|S ; -ific|ific|S
+invigorate	verb	in-|in|P ; vigor|vigor|R|N ; -ate|ate|S
+praxis	noun	praxis|praxis|R|N
+slander	verb	slander|slander|R|V
+teal	noun	teal|teal|R|N
+offing	noun	offing|offing|R|N
+ungainly	adj	un-|un|P ; gain|gain|R|V ; -ly|ly|S||-ly (adj)
+paediatrician	noun	paediatric|paediatric|R|Adj ; -ian|ian|S
+whiten	verb	white|whit|R|Adj ; -en|en|S
+interacting	verb	inter-|inter|P ; act|act|R|V ; -ing|ing|I||-ing (v)
+imagining	verb	imagine|imagin|R|V ; -ing|ing|I||-ing (v)
+aground	adv	a-|a|P ; ground|ground|R|N
+androgynous	adj	androgynous|androgynous|R|Adj
+serrated	adj	serrate|serrat|R|V ; -ed|ed|S||-ed (adj)
+epileptic	noun	epilepsy|epilept|R|N ; -ic|ic|S
+aloe	noun	aloe|aloe|R|N
+hallucinate	verb	hallucinate|hallucinate|R|V
+implosion	noun	implosion|implosion|R|N
+blurring	noun	blur|blurr|R|V ; -ing|ing|S||-ing (N)
+twang	noun	twang|twang|R|N
+barbarism	noun	barbarism|barbarism|R|N
+brainstorm	noun	brain|brain|R|N ; storm|storm|R|N
+hoy	interj	hoy|hoy|R
+ingrained	adj	in-|in|P ; grain|grain|R|N ; -ed|ed|S||-ed (adj)
+lunchroom	noun	lunch|lunch|R|N ; room|room|R|N
+cleaver	noun	cleave|cleav|R|V ; -er|er|S||-er (N)
+conch	noun	conch|conch|R|N
+underprivileged	adj	under-|under|P ; privilege|privileg|R|N ; -ed|ed|S||-ed (adj)
+carnivorous	adj	carnivore|carnivor|R|N ; -ous|ous|S
+eroded	adj	erode|erod|R|V ; -ed|ed|S||-ed (adj)
+footbridge	noun	foot|foot|R|N ; bridge|bridge|R|N
+fractional	adj	fraction|fraction|R|N ; -al|al|S
+jailhouse	noun	jail|jail|R|N ; house|house|R|N
+menopausal	adj	menopause|menopaus|R|N ; -al|al|S
+tai	noun	tai|tai|R|N
+virtuosity	noun	virtuoso|virtuos|R|N ; -ity|ity|S
+orbiting	verb	orbit|orbit|R|V ; -ing|ing|I||-ing (v)
+ripper	noun	rip|ripp|R|V ; -er|er|S||-er (N)
+quack	verb	quack|quack|R|V
+correlational	adj	correlate|correlat|R|V ; -ion|ion|S ; -al|al|S
+fleetingly	adv	fleet|fleet|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+subjugation	noun	subjugate|subjugat|R|V ; -ion|ion|S
+decker	noun	deck|deck|R|N ; -er|er|S||-er (N)
+encyclical	noun	encyclical|encyclical|R|N
+collude	verb	collude|collude|R|V
+churlish	adj	churl|churl|R|N ; -ish|ish|S
+overemphasize	verb	over-|over|P ; emphasize|emphasize|R|V
+doomsday	noun	doomsday|doomsday|R|N
+plausibility	noun	plausible|plausib|R|Adj ; -ity|ility|S
+undetermined	adj	un-|un|P ; determine|determin|R|V ; -ed|ed|S||-ed (adj)
+gangway	noun	gang|gang|R|N ; way|way|R|N
+foible	noun	foible|foible|R|N
+chalice	noun	chalice|chalice|R|N
+nonathlete	noun	non-|non|P ; athlete|athlete|R|N
+burnish	verb	burnish|burnish|R|V
+breakneck	adj	break|break|R|V ; neck|neck|R|N
+rated	adj	rate|rat|R|V ; -ed|ed|S||-ed (adj)
+armoire	noun	armoire|armoire|R|N
+bozo	noun	bozo|bozo|R|N
+decibel	noun	decibel|decibel|R|N
+shirtless	adj	shirt|shirt|R|N ; -less|less|S
+rhinestone	noun	rhinestone|rhinestone|R|N
+metabolize	verb	metabolize|metabolize|R|V
+confirmatory	adj	confirmatory|confirmatory|R|Adj
+flabbergasted	adj	flabbergast|flabbergast|R|V ; -ed|ed|S||-ed (adj)
+scalloped	adj	scallop|scallop|R|N ; -ed|ed|S||-ed (adj)
+oversimplify	verb	over-|over|P ; simple|simpl|R|Adj ; -ify|ify|S
+irreparable	adj	ir-|ir|P|||in- ; repair|repar|R|V ; -able|able|S
+dehumanize	verb	de-|de|P ; human|human|R|N ; -ize|ize|S
+windowpane	noun	window|window|R|N ; pane|pane|R|N
+duckling	noun	duck|duck|R|N ; -ling|ling|S
+headlamp	noun	head|head|R|N ; lamp|lamp|R|N
+uninspiring	adj	un-|un|P ; inspire|inspir|R|V ; -ing|ing|S||-ing (adj)
+unhindered	adj	un-|un|P ; hinder|hinder|R|V ; -ed|ed|S||-ed (adj)
+cooled	adj	cool|cool|R|Adj ; -ed|ed|S||-ed (adj)
+undiminished	adj	un-|un|P ; diminish|diminish|R|V ; -ed|ed|S||-ed (adj)
+bib	noun	bib|bib|R|N
+unacceptably	adv	un-|un|P ; accept|accept|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+deliberative	adj	deliberate|deliberat|R|V ; -ive|ive|S
+blustery	adj	bluster|bluster|R|V ; -y|y|S
+punctual	adj	punctual|punctual|R|Adj
+acolyte	noun	acolyte|acolyte|R|N
+privation	noun	privation|privation|R|N
+militarism	noun	military|militar|R|Adj ; -ism|ism|S
+plaything	noun	play|play|R|V ; thing|thing|R|N
+pitifully	adv	pity|piti|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+perusal	noun	peruse|perus|R|V ; -al|al|S
+tuba	noun	tuba|tuba|R|N
+cornbread	noun	corn|corn|R|N ; bread|bread|R|N
+bungee	noun	bungee|bungee|R|N
+fluted	adj	flute|flut|R|N ; -ed|ed|S||-ed (adj)
+physicality	noun	physical|physical|R|Adj ; -ity|ity|S
+cleave	verb	cleave|cleave|R|V
+delaying	verb	delay|delay|R|V ; -ing|ing|I||-ing (v)
+prototypical	adj	prototype|prototyp|R|N ; -ical|ical|S
+unwisely	adv	un-|un|P ; wise|wise|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+mettle	noun	mettle|mettle|R|N
+hipster	noun	hip|hip|R|Adj ; -ster|ster|S
+equivalency	noun	equivalent|equivalenc|R|Adj ; -cy|y|S
+bicentennial	noun	bi-|bi|P ; centennial|centennial|R|N
+biofeedback	noun	biofeedback|biofeedback|R|N
+stencil	noun	stencil|stencil|R|N
+triage	noun	triage|triage|R|N
+arrhythmia	noun	arrhythmia|arrhythmia|R|N
+proscribe	verb	pro-|pro|P ; -scribe|scribe|B|V
+dyslexia	noun	dyslexia|dyslexia|R|N
+procrastination	noun	procrastinate|procrastinat|R|V ; -ion|ion|S
+excrete	verb	excrete|excrete|R|V
+merged	verb	merge|merg|R|V ; -ed|ed|I||-ed (v2)

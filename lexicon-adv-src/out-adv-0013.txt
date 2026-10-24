@@ -1,0 +1,150 @@
+parade	noun	par-|par|B|V|||French parer 'to prepare' ; -ade|ade|S||||French -ade 'display'
+subsidy	noun	=
+autonomy	noun	auto-|auto|P||||Greek autos 'self' ; -nomy|nomy|B|N|||Greek nomos 'law, custom'
+organism	noun	=
+realm	noun	=
+auditor	noun	aud-|aud|B|V|||Latin audire 'to hear' ; -itor|itor|S||||Latin -tor 'agent'
+therapist	noun	therap|therap|B|V|||Greek therapeuein 'to attend' ; -ist|ist|S||||Greek -istes 'practitioner'
+faster	noun	=
+pizza	noun	=
+recipient	noun	=
+metaphor	noun	meta-|meta|P||||Greek meta 'across, beyond' ; -phor|phor|B|V|||Greek pherein 'to carry'
+fierce	adj	=
+diamond	noun	=
+minimize	verb	minim-|minim|B|Adj|||Latin minimus 'smallest' ; -ize|ize|S||||Greek -izein 'to make'
+edit	verb	=
+casualty	noun	=
+vanish	verb	=
+confess	verb	=
+contemplate	verb	con-|con|P||||Latin com- 'together' ; -templ-|templ|B|N|||Latin templum 'temple' ; -ate|ate|S||||Latin -atus 'having been'
+excessive	adj	=
+splendid	adj	splend-|splend|B|V|||Latin splendere 'to shine' ; -id|id|S||||Latin -idus 'having quality'
+gravity	noun	grav-|grav|B|Adj|||Latin gravis 'heavy' ; -ity|ity|S||||Latin -itas 'state, quality'
+intervene	verb	inter-|inter|P||||Latin inter 'between' ; -vene|vene|B|V|||Latin venire 'to come'
+decorate	verb	decor-|decor|B|N|||Latin decor 'beauty, honor' ; -ate|ate|S||||Latin -atus 'having been'
+diminish	verb	=
+prevention	noun	pre-|pre|P||||Latin prae 'before' ; -vent-|vent|B|V|||Latin venire 'to come' ; -ion|ion|S||||Latin -io 'act, state'
+intent	noun	in-|in|P||||Latin in 'in' ; -tent|tent|B|V|||Latin tendere 'to stretch'
+metropolitan	adj	=
+performer	noun	=
+productive	adj	=
+geography	noun	geo-|geo|B|N|||Greek ge 'earth' ; -graphy|graphy|B|N|||Greek graphein 'to write'
+inventory	noun	=
+civic	adj	civ-|civ|B|N|||Latin civis 'citizen' ; -ic|ic|S||||Latin -icus 'pertaining to'
+descend	verb	de-|de|P||||Latin de 'down' ; -scend|scend|B|V|||Latin scandere 'to climb'
+magnitude	noun	magn-|magn|B|Adj|||Latin magnus 'great' ; -itude|itude|S||||Latin -tudo 'state, quality'
+hostage	noun	=
+popularity	noun	=
+supervision	noun	=
+alien	noun	=
+pint	noun	=
+dynamic	adj	dynam-|dynam|B|N|||Greek dynamis 'power' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+translation	noun	trans-|trans|P||||Latin trans 'across' ; -lat-|lat|B|V|||Latin ferre 'to carry' ; -ion|ion|S||||Latin -io 'act, state'
+rage	noun	=
+memorial	noun	=
+execution	noun	ex-|ex|P||||Latin ex 'out' ; -secut-|ecut|B|V|||Latin sequi 'to follow' ; -ion|ion|S||||Latin -io 'act, state'
+precious	adj	=
+dismissal	noun	=
+prohibit	verb	pro-|pro|P||||Latin pro 'forth' ; -hibit|hibit|B|V|||Latin habere 'to hold'
+conceal	verb	=
+hostility	noun	=
+compulsory	adj	=
+automobile	noun	=
+progressive	adj	=
+terminal	adj	termin-|termin|B|N|||Latin terminus 'boundary' ; -al|al|S||||Latin -alis 'pertaining to'
+incur	verb	in-|in|P||||Latin in 'into' ; -cur|cur|B|V|||Latin currere 'to run'
+cooperate	verb	=
+romance	noun	=
+primitive	adj	prim-|prim|B|Adj|||Latin primus 'first' ; -itive|itive|S||||Latin -ivus 'tending to'
+orchestra	noun	orch-|orch|B|V|||Greek orcheisthai 'to dance' ; -estra|estra|S||||Greek -tra 'place, instrument'
+scan	verb	=
+operational	adj	=
+verbal	adj	=
+exclusion	noun	=
+tribal	adj	=
+systematic	adj	=
+sexually	adv	=
+credibility	noun	=
+constituent	noun	con-|con|P||||Latin com- 'together' ; -stitu-|stitu|B|V|||Latin statuere 'to set' ; -ent|ent|S||||Latin -ens 'agent'
+sentiment	noun	sent-|sent|B|V|||Latin sentire 'to feel' ; -iment|iment|S||||Latin -mentum 'result'
+divine	adj	div-|div|B|N|||Latin divus 'god' ; -ine|ine|S||||Latin -inus 'pertaining to'
+pardon	verb	par-|par|P||||Latin per 'through' ; -don|don|B|V|||Latin donare 'to give'
+interim	noun	=
+inspiration	noun	in-|in|P||||Latin in 'into' ; -spir-|spir|B|V|||Latin spirare 'to breathe' ; -ation|ation|S||||Latin -atio 'act, state'
+parameter	noun	para-|para|P||||Greek para 'beside' ; -meter|meter|B|N|||Greek metron 'measure'
+equilibrium	noun	equi-|equi|B|Adj|||Latin aequus 'equal' ; -librium|librium|B|N|||Latin libra 'balance'
+genius	noun	=
+matrix	noun	=
+monument	noun	=
+premier	adj	=
+quest	noun	=
+striker	noun	=
+sacrifice	noun	sacri-|sacri|B|Adj|||Latin sacer 'sacred' ; -fice|fice|B|V|||Latin facere 'to make'
+juror	noun	jur-|jur|B|V|||Latin iurare 'to swear' ; -or|or|S||||Latin -or 'agent'
+carer	noun	=
+dynamics	noun	dynam-|dynam|B|N|||Greek dynamis 'power' ; -ics|ics|S||||Greek -ika 'field of study'
+treasure	noun	=
+tempt	verb	=
+definite	adj	de-|de|P||||Latin de 'fully' ; -fin-|fin|B|N|||Latin finis 'end, limit' ; -ite|ite|S||||Latin -itus 'having been'
+gasoline	noun	gas|gas|R|N ; -ol|ol|S||||suffix 'oil' ; -ine|ine|S||||suffix 'derivative'
+diabetes	noun	=
+toxic	adj	tox-|tox|B|N|||Greek toxikon 'poison' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+grief	noun	=
+mysterious	adj	=
+donate	verb	don-|don|B|V|||Latin donare 'to give' ; -ate|ate|S||||Latin -atus 'having been'
+dignity	noun	dign-|dign|B|Adj|||Latin dignus 'worthy' ; -ity|ity|S||||Latin -itas 'state, quality'
+affection	noun	=
+parental	adj	=
+grace	noun	=
+specialize	verb	=
+prejudice	noun	pre-|pre|P||||Latin prae 'before' ; -judice|judice|B|N|||Latin iudicium 'judgment'
+protective	adj	=
+drum	noun	=
+neutral	adj	=
+mature	adj	=
+stadium	noun	=
+virgin	noun	=
+refrigerator	noun	re-|re|P||||Latin re- 'again' ; -friger-|friger|B|Adj|||Latin frigus 'cold' ; -ator|ator|S||||Latin -ator 'agent'
+coincide	verb	co-|co|P||||Latin com- 'together' ; -incide|incide|B|V|||Latin incidere 'to fall upon'
+ancestor	noun	=
+cage	noun	=
+hostile	adj	host-|host|B|N|||Latin hostis 'enemy' ; -ile|ile|S||||Latin -ilis 'pertaining to'
+correspondence	noun	=
+costume	noun	=
+cartoon	noun	cart-|cart|B|N|||Latin carta 'paper' ; -oon|oon|S||||Italian -one 'large'
+symbolic	adj	=
+accessible	adj	=
+tumor	noun	tum-|tum|B|V|||Latin tumere 'to swell' ; -or|or|S||||Latin -or 'state'
+verdict	noun	ver-|ver|B|Adj|||Latin verus 'true' ; -dict|dict|B|V|||Latin dicere 'to say'
+inhabitant	noun	in-|in|P||||Latin in 'in' ; -habit-|habit|B|V|||Latin habitare 'to dwell' ; -ant|ant|S||||Latin -ans 'agent'
+collaboration	noun	col-|col|P||||Latin com- 'together' ; labor|labor|R|V ; -ate|at|S||||Latin -atus 'having been' ; -ion|ion|S||||Latin -io 'act, state'
+patience	noun	pat-|pat|B|V|||Latin pati 'to suffer' ; -ience|ience|S||||Latin -entia 'state'
+orbit	noun	=
+spite	noun	=
+submission	noun	sub-|sub|P||||Latin sub 'under' ; -miss-|miss|B|V|||Latin mittere 'to send' ; -ion|ion|S||||Latin -io 'act, state'
+prey	noun	=
+patrol	noun	=
+predecessor	noun	pre-|pre|P||||Latin prae 'before' ; -decess-|decess|B|V|||Latin decedere 'to depart' ; -or|or|S||||Latin -or 'agent'
+revelation	noun	re-|re|P||||Latin re- 'again' ; -vel-|vel|B|V|||Latin velare 'to cover' ; -ation|ation|S||||Latin -atio 'act, state'
+provincial	adj	=
+calm	adj	=
+commerce	noun	=
+coffin	noun	=
+notable	adj	not-|not|B|V|||Latin notare 'to note' ; -able|able|S||||Latin -abilis 'able to be'
+equality	noun	=
+ruin	noun	=
+marble	noun	=
+immune	adj	im-|im|P||||Latin in- 'not' ; -mune|mune|B|N|||Latin munus 'service'
+competence	noun	compet-|compet|B|V|||Latin competere 'to be suitable' ; -ence|ence|S||||Latin -entia 'state'
+collar	noun	coll-|coll|B|N|||Latin collum 'neck' ; -ar|ar|S||||Latin -aris 'pertaining to'
+exotic	adj	exo-|exo|P||||Greek exo 'outside' ; -tic|tic|S||||Greek -tikos 'pertaining to'
+trophy	noun	=
+intimate	adj	intim-|intim|B|Adj|||Latin intimus 'innermost' ; -ate|ate|S||||Latin -atus 'having been'
+secular	adj	secul-|secul|B|N|||Latin saeculum 'age' ; -ar|ar|S||||Latin -aris 'pertaining to'
+documentary	noun	=
+tender	adj	=
+biology	noun	bio-|bio|B|N|||Greek bios 'life' ; -logy|logy|B|N|||Greek logos 'study, word'
+conspiracy	noun	=
+rally	verb	=
+dolphin	noun	=
+geographical	adj	geo-|geo|B|N|||Greek ge 'earth' ; -graph-|graph|B|V|||Greek graphein 'to write' ; -ic|ic|S||||Greek -ikos 'pertaining to' ; -al|al|S||||Latin -alis 'pertaining to'

@@ -1,0 +1,150 @@
+indirect	adj	=
+terrific	adj	terr-|terr|B|V|||Latin terrere 'to frighten' ; -ific|ific|S||||Latin -ficus 'making'
+aluminum	noun	alumin-|alumin|B|N|||Latin alumen 'alum' ; -um|um|S||||Latin -um 'neuter suffix'
+atom	noun	a-|a|P||||Greek a- 'not' ; -tom|tom|B|V|||Greek temnein 'to cut'
+tumour	noun	tum-|tum|B|V|||Latin tumere 'to swell' ; -our|our|S||||Latin -or 'state'
+tragic	adj	trag-|trag|B|N|||Greek tragos 'goat' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+mechanic	noun	mechan-|mechan|B|N|||Greek mechane 'machine' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+utilize	verb	util-|util|B|V|||Latin uti 'to use' ; -ize|ize|S||||Greek -izein 'to make'
+vague	adj	=
+pork	noun	=
+conscience	noun	con-|con|P||||Latin com- 'together' ; sci-|sci|B|V|||Latin scire 'to know' ; -ence|ence|S||||Latin -entia 'state, quality'
+sexy	adj	=
+sympathetic	adj	=
+syndrome	noun	syn-|syn|P||||Greek syn 'together' ; -drome|drome|B|N|||Greek dromos 'running, course'
+spoil	verb	=
+certainty	noun	=
+inspect	verb	in-|in|P||||Latin in 'in' ; -spect|spect|B|V|||Latin specere 'to look'
+ambitious	adj	=
+distress	noun	=
+circulation	noun	=
+disturbance	noun	=
+aesthetic	adj	aesthet-|aesthet|B|V|||Greek aisthanesthai 'to perceive' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+zero	noun	=
+absent	adj	ab-|ab|P||||Latin ab 'away' ; -sent|sent|B|V|||Latin esse 'to be'
+erect	adj	e-|e|P||||Latin ex- 'out' ; -rect|rect|B|V|||Latin regere 'to direct'
+rejection	noun	re-|re|P||||Latin re- 'back' ; -ject-|ject|B|V|||Latin iacere 'to throw' ; -ion|ion|S||||Latin -io 'act, state'
+crush	verb	=
+enclose	verb	en-|en|P||||Latin in 'in' ; -close|close|B|V|||Latin claudere 'to shut'
+cord	noun	=
+discharge	verb	=
+illusion	noun	il-|il|P||||Latin in 'at, upon' ; -lus-|lus|B|V|||Latin ludere 'to play' ; -ion|ion|S||||Latin -io 'act, state'
+anonymous	adj	an-|an|P||||Greek a- 'not' ; -onym-|onym|B|N|||Greek onoma 'name' ; -ous|ous|S||||Latin -osus 'full of'
+commence	verb	=
+tolerate	verb	toler-|toler|B|V|||Latin tolerare 'to endure' ; -ate|ate|S||||Latin -atus 'having been'
+elephant	noun	=
+casino	noun	cas-|cas|B|N|||Latin casa 'house' ; -ino|ino|S||||Italian -ino 'small'
+maturity	noun	=
+precede	verb	pre-|pre|P||||Latin prae 'before' ; -cede|cede|B|V|||Latin cedere 'to go'
+pulse	noun	=
+momentum	noun	=
+donation	noun	don-|don|B|V|||Latin donare 'to give' ; -ation|ation|S||||Latin -atio 'act, state'
+irony	noun	=
+liquid	adj	liqu-|liqu|B|V|||Latin liquere 'to be liquid' ; -id|id|S||||Latin -idus 'having quality'
+charm	noun	=
+punch	verb	=
+alteration	noun	=
+passing	noun	=
+omit	verb	o-|o|P||||Latin ob- 'against' ; -mit|mit|B|V|||Latin mittere 'to send'
+contradiction	noun	contra-|contra|P||||Latin contra 'against' ; -dict-|dict|B|V|||Latin dicere 'to say' ; -ion|ion|S||||Latin -io 'act, state'
+icon	noun	=
+suspension	noun	sub-|sus|P||||Latin sub 'under' ; -pens-|pens|B|V|||Latin pendere 'to hang' ; -ion|ion|S||||Latin -io 'act, state'
+vein	noun	=
+petition	noun	pet-|pet|B|V|||Latin petere 'to seek' ; -ition|ition|S||||Latin -itio 'act'
+basin	noun	=
+favourable	adj	=
+expedition	noun	ex-|ex|P||||Latin ex 'out' ; -ped-|ped|B|N|||Latin pes 'foot' ; -ition|ition|S||||Latin -itio 'act'
+plea	noun	=
+commodity	noun	commod-|commod|B|Adj|||Latin commodus 'suitable' ; -ity|ity|S||||Latin -itas 'state'
+academy	noun	=
+cheat	verb	=
+auction	noun	auc-|auc|B|V|||Latin augere 'to increase' ; -tion|tion|S||||Latin -tio 'act'
+supplement	noun	=
+naval	adj	=
+manual	adj	manu-|manu|B|N|||Latin manus 'hand' ; -al|al|S||||Latin -alis 'pertaining to'
+originate	verb	origin-|origin|B|N|||Latin origo 'origin' ; -ate|ate|S||||Latin -atus 'having been'
+stove	noun	=
+embassy	noun	=
+regiment	noun	reg-|reg|B|V|||Latin regere 'to rule' ; -iment|iment|S||||Latin -mentum 'result'
+custody	noun	cust-|cust|B|N|||Latin custos 'keeper' ; -ody|ody|S||||Latin -odia 'state'
+electronics	noun	electr-|electr|B|N|||Greek elektron 'amber' ; -onics|onics|S||||Greek -ika 'field of study'
+manor	noun	=
+columnist	noun	=
+defect	noun	de-|de|P||||Latin de 'from' ; -fect|fect|B|V|||Latin facere 'to do'
+mobility	noun	mobil-|mobil|B|Adj|||Latin mobilis 'movable' ; -ity|ity|S||||Latin -itas 'state'
+spine	noun	=
+pencil	noun	=
+texture	noun	text-|text|B|V|||Latin texere 'to weave' ; -ure|ure|S||||Latin -ura 'act, result'
+damn	verb	=
+hormone	noun	=
+magnetic	adj	=
+ballet	noun	ball-|ball|B|N|||Italian ballo 'dance' ; -et|et|S||||Italian -etto 'small'
+tourism	noun	=
+beast	noun	=
+bowel	noun	=
+tremble	verb	=
+composer	noun	=
+inequality	noun	=
+quid	noun	=
+ulcer	noun	=
+empirical	adj	empir-|empir|B|N|||Greek empeiria 'experience' ; -ical|ical|S||||Greek -ikos 'pertaining to'
+outsider	noun	=
+referendum	noun	refer-|refer|B|V|||Latin referre 'to announce' ; -endum|endum|S||||Latin -endum 'to be done'
+compel	verb	com-|com|P||||Latin com- 'together' ; -pel|pel|B|V|||Latin pellere 'to drive'
+instant	noun	in-|in|P||||Latin in 'upon' ; -stant|stant|B|V|||Latin stare 'to stand'
+proclaim	verb	pro-|pro|P||||Latin pro 'forth' ; -claim|claim|B|V|||Latin clamare 'to shout'
+enthusiastic	adj	enthusi-|enthusi|B|N|||Greek enthousiasmos 'inspiration' ; -astic|astic|S||||Greek -tikos 'pertaining to'
+relaxed	adj	=
+scent	noun	=
+loyal	adj	=
+suspicious	adj	suspici-|suspici|B|V|||Latin suspicere 'to suspect' ; -ous|ous|S||||Latin -osus 'full of'
+fatal	adj	fat-|fat|B|N|||Latin fatum 'fate' ; -al|al|S||||Latin -alis 'pertaining to'
+compensate	verb	com-|com|P||||Latin com- 'together' ; -pens-|pens|B|V|||Latin pendere 'to weigh' ; -ate|ate|S||||Latin -atus 'having been'
+mobile	adj	mob-|mob|B|V|||Latin movere 'to move' ; -ile|ile|S||||Latin -ilis 'able to be'
+cruel	adj	cru-|cru|B|Adj|||Latin crudus 'raw' ; -el|el|S||||Latin -elis 'pertaining to'
+rigid	adj	rig-|rig|B|V|||Latin rigere 'to be stiff' ; -id|id|S||||Latin -idus 'having quality'
+peculiar	adj	peculi-|peculi|B|N|||Latin peculium 'property' ; -ar|ar|S||||Latin -aris 'pertaining to'
+neglect	verb	neg-|neg|P||||Latin nec 'not' ; -lect|lect|B|V|||Latin legere 'to pick'
+entertain	verb	enter-|enter|P||||Latin inter 'among' ; -tain|tain|B|V|||Latin tenere 'to hold'
+circulate	verb	circul-|circul|B|N|||Latin circulus 'circle' ; -ate|ate|S||||Latin -atus 'having been'
+envision	verb	=
+aisle	noun	=
+protocol	noun	=
+vocal	adj	voc-|voc|B|N|||Latin vox 'voice' ; -al|al|S||||Latin -alis 'pertaining to'
+deprive	verb	de-|de|P||||Latin de 'away' ; -prive|prive|B|V|||Latin privare 'to deprive'
+terrain	noun	terr-|terr|B|N|||Latin terra 'earth' ; -ain|ain|S||||Latin -enus 'pertaining to'
+lecturer	noun	=
+risky	adj	=
+compact	noun	=
+deploy	verb	=
+genre	noun	=
+depart	verb	=
+pasta	noun	=
+distract	verb	dis-|dis|P||||Latin dis 'apart' ; -tract|tract|B|V|||Latin trahere 'to pull'
+summon	verb	sum-|sum|P||||Latin sub 'under' ; -mon|mon|B|V|||Latin monere 'to warn'
+manufacture	verb	manu-|manu|B|N|||Latin manus 'hand' ; -fact-|fact|B|V|||Latin facere 'to make' ; -ure|ure|S||||Latin -ura 'act, result'
+migration	noun	=
+invade	verb	=
+retailer	noun	=
+passive	adj	pass-|pass|B|V|||Latin pati 'to suffer' ; -ive|ive|S||||Latin -ivus 'tending to'
+curiosity	noun	=
+aggression	noun	ag-|ag|P||||Latin ad 'to' ; -gress-|gress|B|V|||Latin gradi 'to step' ; -ion|ion|S||||Latin -io 'act, state'
+revive	verb	re-|re|P||||Latin re- 'again' ; -vive|vive|B|V|||Latin vivere 'to live'
+transmit	verb	trans-|trans|P||||Latin trans 'across' ; -mit|mit|B|V|||Latin mittere 'to send'
+plunge	verb	=
+excess	noun	ex-|ex|P||||Latin ex 'out' ; -cess|cess|B|V|||Latin cedere 'to go'
+validity	noun	=
+activate	verb	=
+suppress	verb	=
+immense	adj	im-|im|P||||Latin in- 'not' ; -mense|mense|B|V|||Latin metiri 'to measure'
+substitute	verb	sub-|sub|P||||Latin sub 'under' ; -stitute|stitute|B|V|||Latin statuere 'to set'
+clarify	verb	clar-|clar|B|Adj|||Latin clarus 'clear' ; -ify|ify|S||||Latin -ficare 'to make'
+specialty	noun	=
+decoration	noun	=
+entail	verb	en-|en|P||||Latin in 'in' ; -tail|tail|B|V|||Latin taliare 'to cut'
+artifact	noun	art-|art|B|N|||Latin ars 'art' ; -ifact|ifact|B|V|||Latin facere 'to make'
+listener	noun	=
+mentor	noun	=
+occurrence	noun	=
+injection	noun	in-|in|P||||Latin in 'into' ; -ject-|ject|B|V|||Latin iacere 'to throw' ; -ion|ion|S||||Latin -io 'act, state'
+compile	verb	=

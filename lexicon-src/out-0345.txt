@@ -1,0 +1,200 @@
+parascientific	adj	para-|para|P ; sci-|sci|B|V ; -ent|ent|S ; -ific|ific|S
+parascientist	noun	para-|para|P ; sci-|sci|B|V ; -ent|ent|S ; -ist|ist|S
+parasecretion	noun	para-|para|P ; secretion|secretion|R|N
+paraselene	noun	paraselene|paraselene|R|N
+paraselenic	adj	paraselene|paraselen|R|N ; -ic|ic|S
+parasexual	adj	para-|para|P ; sexual|sexual|R|Adj
+parashah	noun	parashah|parashah|R|N
+parasitically	adv	parasitic|parasitic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+parasiticidal	adj	parasiticide|parasiticid|R|N ; -al|al|S
+parasiticide	noun	parasiticide|parasiticide|R|N
+parasitization	noun	parasitize|parasitiz|R|V ; -ation|ation|S
+parasitologic	adj	parasitology|parasitolog|R|N ; -ic|ic|S
+parasitologist	noun	parasitology|parasitolog|R|N ; -ist|ist|S
+parasitosis	noun	parasitosis|parasitosis|R|N
+paraskavedekatriaphobia	noun	paraskavedekatriaphobia|paraskavedekatriaphobia|R|N
+parasocial	adj	para-|para|P ; social|social|R|Adj
+parasolette	noun	parasol|parasol|R|N ; -ette|ette|S
+parasomnia	noun	parasomnia|parasomnia|R|N
+parasport	noun	para-|para|P ; sport|sport|R|N
+parasymbiosis	noun	parasymbiosis|parasymbiosis|R|N
+parasynapsis	noun	parasynapsis|parasynapsis|R|N
+parasynonym	noun	para-|para|P ; synonym|synonym|R|N
+parasynthesis	noun	parasynthesis|parasynthesis|R|N
+parasynthetic	adj	parasynthesis|parasynthet|R|N ; -ic|ic|S
+paratactically	adv	paratactic|paratactic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+parataxis	noun	parataxis|parataxis|R|N
+parathesis	noun	parathesis|parathesis|R|N
+parathyroidectomy	noun	para-|para|P ; thyroidectomy|thyroidectomy|R|N
+paratonic	adj	para-|para|P ; tonic|tonic|R|Adj
+paratransit	noun	para-|para|P ; transit|transit|R|N
+paratroops	noun	para-|para|P ; troop|troop|R|N ; -s|s|I||-s (plural)
+paratyphoid	noun	para-|para|P ; typhoid|typhoid|R|N
+paravane	noun	para-|para|P ; vane|vane|R|N
+paravascular	adj	para-|para|P ; vascular|vascular|R|Adj
+paravertebral	adj	para-|para|P ; vertebral|vertebral|R|Adj
+paraxial	adj	paraxial|paraxial|R|Adj
+parbake	verb	parbake|parbake|R|V
+parboiled	verb	parboil|parboil|R|V ; -ed|ed|I||-ed (v2)
+parboiling	verb	parboil|parboil|R|V ; -ing|ing|I||-ing (v)
+parbuckle	verb	parbuckle|parbuckle|R|V
+parcelling	verb	parcel|parcell|R|V ; -ing|ing|I||-ing (v)
+parcels	noun	parcel|parcel|R|N ; -s|s|I||-s (plural)
+parching	verb	parch|parch|R|V ; -ing|ing|I||-ing (v)
+parchmenty	adj	parchment|parchment|R|N ; -y|y|S
+pard	noun	pard|pard|R|N
+pardonableness	noun	pardon|pardon|R|V ; -able|able|S ; -ness|ness|S
+pardonably	adv	pardon|pardon|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+pardoned	verb	pardon|pardon|R|V ; -ed|ed|I||-ed (v2)
+pardoner	noun	pardon|pardon|R|V ; -er|er|S||-er (N)
+pardoning	verb	pardon|pardon|R|V ; -ing|ing|I||-ing (v)
+paregoric	noun	paregoric|paregoric|R|N
+pareidolia	noun	pareidolia|pareidolia|R|N
+paremiology	noun	paremiology|paremiology|R|N
+parencephalon	noun	parencephalon|parencephalon|R|N
+parenchymal	adj	parenchyma|parenchym|R|N ; -al|al|S
+parenchymatous	adj	parenchyma|parenchymat|R|N ; -ous|ous|S
+parenchymatously	adv	parenchymatous|parenchymatous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+parentally	adv	parental|parental|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+parenthesize	verb	parenthesis|parenthes|R|N ; -ize|ize|S
+parenthesized	verb	parenthesize|parenthesiz|R|V ; -ed|ed|I||-ed (v2)
+parenthetic	adj	parenthesis|parenthet|R|N ; -ic|ic|S
+parenticide	noun	parenticide|parenticide|R|N
+parentification	noun	parentify|parentifi|R|V ; -ation|cation|S
+pareo	noun	pareo|pareo|R|N
+parergon	noun	parergon|parergon|R|N
+paretic	adj	paretic|paretic|R|Adj
+pareve	adj	pareve|pareve|R|Adj
+parfleche	noun	parfleche|parfleche|R|N
+parge	verb	parge|parge|R|V
+parget	verb	parget|parget|R|V
+pargeting	verb	parget|parget|R|V ; -ing|ing|I||-ing (v)
+parhelic	adj	parhelic|parhelic|R|Adj
+parhelion	noun	parhelion|parhelion|R|N
+paries	noun	paries|paries|R|N
+parinirvana	noun	parinirvana|parinirvana|R|N
+parison	noun	parison|parison|R|N
+parisyllabic	adj	parisyllabic|parisyllabic|R|Adj
+parkin	noun	parkin|parkin|R|N
+parkinsonism	noun	parkinsonism|parkinsonism|R|N
+parkish	adj	park|park|R|N ; -ish|ish|S
+parkour	noun	parkour|parkour|R|N
+parky	adj	park|park|R|N ; -y|y|S
+parlando	adv	parlando|parlando|R|Adv
+parlante	adj	parlante|parlante|R|Adj
+parleyvoo	noun	parleyvoo|parleyvoo|R|N
+parliamentarism	noun	parliament|parliament|R|N ; -ary|ar|S ; -ism|ism|S
+parlously	adv	parlous|parlous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+parmesan	noun	parmesan|parmesan|R|N
+parnassian	adj	parnassian|parnassian|R|Adj
+paroccipital	adj	paroccipital|paroccipital|R|Adj
+parochialist	noun	parochial|parochial|R|Adj ; -ist|ist|S
+parochiality	noun	parochial|parochial|R|Adj ; -ity|ity|S
+parochialize	verb	parochial|parochial|R|Adj ; -ize|ize|S
+parochially	adv	parochial|parochial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+parodical	adj	parody|parod|R|N ; -ical|ical|S
+parodist	noun	parody|parod|R|N ; -ist|ist|S
+parodistic	adj	parodist|parodist|R|N ; -ic|ic|S
+parodying	verb	parody|parody|R|V ; -ing|ing|I||-ing (v)
+paroecious	adj	paroecious|paroecious|R|Adj
+paroemia	noun	paroemia|paroemia|R|N
+parol	noun	parol|parol|R|N
+paronomasia	noun	paronomasia|paronomasia|R|N
+paronomastic	adj	paronomasia|paronomast|R|N ; -ic|ic|S
+paronomastically	adv	paronomastic|paronomastic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+paronym	noun	paronym|paronym|R|N
+paronymic	adj	paronym|paronym|R|N ; -ic|ic|S
+paronymous	adj	paronym|paronym|R|N ; -ous|ous|S
+parosmia	noun	parosmia|parosmia|R|N
+parotic	adj	parotic|parotic|R|Adj
+parotitic	adj	parotitis|parotit|R|N ; -ic|ic|S
+parotitis	noun	parotitis|parotitis|R|N
+parous	adj	parous|parous|R|Adj
+parousia	noun	parousia|parousia|R|N
+paroxysmally	adv	paroxysmal|paroxysmal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+paroxytone	noun	paroxytone|paroxytone|R|N
+parquetry	noun	parquet|parquet|R|N ; -ry|ry|S
+parricidal	adj	parricide|parricid|R|N ; -al|al|S
+parricidally	adv	parricidal|parricidal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+parroter	noun	parrot|parrot|R|N ; -er|er|S||-er (N)
+parroting	verb	parrot|parrot|R|V ; -ing|ing|I||-ing (v)
+parrotry	noun	parrot|parrot|R|N ; -ry|ry|S
+parrying	verb	parry|parry|R|V ; -ing|ing|I||-ing (v)
+parsable	adj	parse|pars|R|V ; -able|able|S
+parsimoniously	adv	parsimonious|parsimonious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+parsimoniousness	noun	parsimonious|parsimonious|R|Adj ; -ness|ness|S
+parsonic	adj	parson|parson|R|N ; -ic|ic|S
+partaker	noun	partake|partak|R|V ; -er|er|S||-er (N)
+parthenocarpic	adj	parthenocarpic|parthenocarpic|R|Adj
+parthenocarpy	noun	parthenocarpy|parthenocarpy|R|N
+parthenogenetically	adv	parthenogenetic|parthenogenetic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+partialism	noun	partial|partial|R|Adj ; -ism|ism|S
+partialness	noun	partial|partial|R|Adj ; -ness|ness|S
+partibility	noun	partible|partibil|R|Adj ; -ity|ity|S
+partible	adj	part|part|R|V ; -ible|ible|S
+participance	noun	participate|particip|R|V ; -ance|ance|S
+participational	adj	participation|participation|R|N ; -al|al|S
+participially	adv	participial|participial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+particoloured	adj	particolour|particolour|R|Adj ; -ed|ed|S||-ed (adj)
+particularise	verb	particular|particular|R|Adj ; -ise|ise|S
+particularist	noun	particular|particular|R|Adj ; -ist|ist|S
+particularization	noun	particularize|particulariz|R|V ; -ation|ation|S
+particularizer	noun	particularize|particulariz|R|V ; -er|er|S||-er (N)
+partier	noun	party|parti|R|N ; -er|er|S||-er (N)
+partite	adj	partite|partite|R|Adj
+partitive	adj	part|part|R|N ; -itive|itive|S
+partitively	adv	partitive|partitive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+partnering	verb	partner|partner|R|V ; -ing|ing|I||-ing (v)
+partocracy	noun	partocracy|partocracy|R|N
+parton	noun	parton|parton|R|N
+parts	noun	part|part|R|N ; -s|s|I||-s (plural)
+parturiency	noun	parturient|parturi|R|Adj ; -ency|ency|S
+parturient	adj	parturient|parturient|R|Adj
+parturifacient	adj	parturifacient|parturifacient|R|Adj
+partway	adv	part|part|R|N ; way|way|R|N
+partyism	noun	party|party|R|N ; -ism|ism|S
+paruresis	noun	paruresis|paruresis|R|N
+pascal	noun	pascal|pascal|R|N
+pase	noun	pase|pase|R|N
+paseo	noun	paseo|paseo|R|N
+pash	noun	pash|pash|R|N
+pashalik	noun	pashalik|pashalik|R|N
+pashm	noun	pashm|pashm|R|N
+pasigraphy	noun	pasigraphy|pasigraphy|R|N
+paskha	noun	paskha|paskha|R|N
+paspalum	noun	paspalum|paspalum|R|N
+pasquinade	noun	pasquinade|pasquinade|R|N
+pasquinader	noun	pasquinade|pasquinad|R|N ; -er|er|S||-er (N)
+passableness	noun	pass|pass|R|V ; -able|able|S ; -ness|ness|S
+passacaglia	noun	passacaglia|passacaglia|R|N
+passant	adj	passant|passant|R|Adj
+passata	noun	passata|passata|R|N
+passcode	noun	pass|pass|R|V ; code|code|R|N
+passement	noun	passement|passement|R|N
+passementerie	noun	passementerie|passementerie|R|N
+passibility	noun	passible|passibil|R|Adj ; -ity|ity|S
+passible	adj	pass|pass|R|V ; -ible|ible|S
+passimeter	noun	passimeter|passimeter|R|N
+passingly	adv	pass|pass|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+passional	adj	passion|passion|R|N ; -al|al|S
+passionary	noun	passion|passion|R|N ; -ary|ary|S
+passionateness	noun	passionate|passionate|R|Adj ; -ness|ness|S
+passioned	adj	passion|passion|R|N ; -ed|ed|S||-ed (adj)
+passivate	verb	passive|passiv|R|Adj ; -ate|ate|S
+passivation	noun	passivate|passivat|R|V ; -ion|ion|S
+passiveness	noun	passive|passive|R|Adj ; -ness|ness|S
+passivism	noun	passive|passiv|R|Adj ; -ism|ism|S
+passivist	noun	passive|passiv|R|Adj ; -ist|ist|S
+passphrase	noun	pass|pass|R|V ; phrase|phrase|R|N
+passthrough	noun	pass|pass|R|V ; through|through|R|Adv
+pastellist	noun	pastel|pastell|R|N ; -ist|ist|S
+paster	noun	paste|past|R|V ; -er|er|S||-er (N)
+pasteurisation	noun	pasteurise|pasteuris|R|V ; -ation|ation|S
+pasteurise	verb	pasteurise|pasteurise|R|V
+pasteurizer	noun	pasteurize|pasteuriz|R|V ; -er|er|S||-er (N)
+pastie	noun	pastie|pastie|R|N
+pastiera	noun	pastiera|pastiera|R|N
+pastiness	noun	pasty|pasti|R|Adj ; -ness|ness|S
+pastirma	noun	pastirma|pastirma|R|N
+pastorally	adv	pastoral|pastoral|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+pastorship	noun	pastor|pastor|R|N ; -ship|ship|S

@@ -1,0 +1,150 @@
+epigram	noun	=
+mesothelioma	noun	=
+formalization	noun	=
+parasitize	verb	=
+exegete	noun	=
+castanet	noun	=
+excusable	adj	=
+vigilantism	noun	=
+electronica	noun	=
+stover	noun	=
+hyoid	adj	=
+incivility	noun	=
+aestheticism	noun	=
+psychical	adj	=
+intellectualize	verb	=
+calorific	adj	calor-|calor|B|N|||Latin calor 'heat' ; -ific|ific|S||||Latin -ficus 'making'
+thumper	noun	=
+loggia	noun	=
+gustatory	adj	gust-|gust|B|V|||Latin gustare 'to taste' ; -atory|atory|S
+biomedicine	noun	=
+phenolic	adj	=
+vitreous	adj	vitr-|vitr|B|N|||Latin vitrum 'glass' ; -eous|eous|S
+extemporaneous	adj	=
+plaint	noun	=
+gastronomy	noun	gastro-|gastro|B|N|||Greek gaster 'stomach' ; -nomy|nomy|B|N|||Greek nomos 'law, knowledge'
+deification	noun	=
+vanadium	noun	=
+bioavailability	noun	=
+sexologist	noun	=
+pyrite	noun	=
+contemporaneously	adv	=
+colourist	noun	=
+catechesis	noun	=
+vaulter	noun	=
+parallelogram	noun	parallel|parallel|R|Adj ; -gram|ogram|B|N|||Greek gramma 'line'
+gigabit	noun	=
+lineal	adj	=
+exaction	noun	=
+organelle	noun	=
+pineal	adj	=
+extortionist	noun	=
+preceptor	noun	=
+concordant	adj	=
+monosyllable	noun	=
+impious	adj	=
+sepulchral	adj	=
+sagacity	noun	=
+excrescence	noun	=
+astrobiology	noun	=
+triumphalist	noun	=
+arrogate	verb	ar-|ar|P||||Latin ad- 'to' ; -rog-|rog|B|V|||Latin rogare 'to ask' ; -ate|ate|S
+louver	noun	=
+superannuated	adj	super-|super|P||||Latin super 'over' ; -annu-|annu|B|N|||Latin annus 'year' ; -ate|ate|S ; -d|d|I
+klaxon	noun	=
+hedonic	adj	hedon-|hedon|B|N|||Greek hedone 'pleasure' ; -ic|ic|S
+pugilist	noun	pugil-|pugil|B|N|||Latin pugil 'boxer' ; -ist|ist|S
+reconnoitre	verb	=
+libidinous	adj	=
+agora	noun	=
+unilateralist	noun	=
+homophobe	noun	homo-|homo|P||||Greek homos 'same' ; -phobe|phobe|B|N|||Greek phobos 'fear'
+fungible	adj	fung-|fung|B|V|||Latin fungi 'to perform' ; -ible|ible|S
+augury	noun	=
+vivisection	noun	vivi-|vivi|B|Adj|||Latin vivus 'alive' ; section|section|R|N
+plutocrat	noun	pluto-|pluto|B|N|||Greek ploutos 'wealth' ; -crat|crat|B|N|||Greek kratos 'power'
+metallurgist	noun	=
+fumigation	noun	=
+psyllium	noun	=
+oscilloscope	noun	=
+elephantine	adj	=
+calyx	noun	=
+monetize	verb	monet-|monet|B|N|||Latin moneta 'money' ; -ize|ize|S
+usurer	noun	=
+visuality	noun	=
+adumbrate	verb	=
+syntactical	adj	=
+tubercular	adj	=
+pillion	noun	=
+boner	noun	=
+anther	noun	=
+laburnum	noun	=
+electioneer	verb	=
+formalistic	adj	=
+sayer	noun	=
+nuncio	noun	=
+meson	noun	=
+effervescence	noun	ef-|ef|P||||Latin ex- 'out' ; -ferv-|ferv|B|V|||Latin fervere 'to boil' ; -escence|escence|S
+assimilative	adj	=
+friary	noun	=
+pastoralism	noun	=
+patroness	noun	=
+attestation	noun	=
+stoical	adj	=
+emendation	noun	=
+subnormal	adj	=
+libertine	noun	=
+hosanna	noun	=
+laudanum	noun	=
+arteriosclerosis	noun	=
+inducer	noun	=
+sybaritic	adj	=
+brontosaurus	noun	bronto-|bronto|B|N|||Greek bronte 'thunder' ; -saurus|saurus|B|N|||Greek sauros 'lizard'
+volcanologist	noun	=
+biomolecule	noun	=
+tutelary	adj	=
+dyspeptic	adj	dys-|dys|P||||Greek dus- 'bad' ; -pept-|pept|B|V|||Greek peptein 'to digest' ; -ic|ic|S
+marginalia	noun	=
+sufferance	noun	=
+jeremiad	noun	=
+hyperkinetic	adj	=
+redaction	noun	=
+polymath	noun	poly-|poly|P||||Greek polus 'much' ; -math|math|B|V|||Greek manthanein 'to learn'
+odium	noun	=
+garble	verb	=
+jefe	noun	=
+rhea	noun	=
+masquerader	noun	=
+philodendron	noun	=
+tokenism	noun	=
+damson	noun	=
+circumlocution	noun	=
+liniment	noun	=
+bursitis	noun	=
+oddsmaker	noun	=
+dyspnea	noun	=
+antimony	noun	=
+lupin	noun	=
+inveigle	verb	=
+effrontery	noun	=
+monocular	adj	=
+baster	noun	=
+meniscus	noun	=
+loosestrife	noun	=
+polygyny	noun	poly-|poly|P||||Greek polus 'many' ; -gyny|gyny|B|N|||Greek gune 'woman, wife'
+dissimulation	noun	=
+spume	noun	=
+neoplastic	adj	=
+obsolescent	adj	=
+celadon	noun	=
+inviolate	adj	=
+sculpin	noun	=
+astrolabe	noun	=
+decrypt	verb	de-|de|P||||Latin de- 'from, away' ; -crypt|crypt|B|V|||Greek kruptos 'hidden'
+adductor	noun	=
+epicentre	noun	=
+consumerist	noun	=
+biogeographic	adj	=
+ossuary	noun	oss-|oss|B|N|||Latin os 'bone' ; -uary|uary|S
+fratricide	noun	=
+transcendentalist	noun	=

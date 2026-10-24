@@ -1,0 +1,200 @@
+lithosol	noun	lithosol|lithosol|R|N
+lithotomy	noun	lithotomy|lithotomy|R|N
+lithotripter	noun	lithotripter|lithotripter|R|N
+litigable	adj	litigate|litig|R|V ; -able|able|S
+litigiousness	noun	litigious|litigious|R|Adj ; -ness|ness|S
+litotes	noun	litotes|litotes|R|N
+litterateur	noun	litterateur|litterateur|R|N
+litterbug	noun	litter|litter|R|N ; bug|bug|R|N
+littering	noun	litter|litter|R|V ; -ing|ing|S||-ing (N)
+littery	adj	litter|litter|R|N ; -y|y|S
+liturgically	adv	liturgy|liturg|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+liturgics	noun	liturgics|liturgics|R|N
+liturgiologist	noun	liturgiology|liturgiolog|R|N ; -ist|ist|S
+lituus	noun	lituus|lituus|R|N
+livableness	noun	live|liv|R|V ; -able|able|S ; -ness|ness|S
+lived	verb	live|live|R|V ; -ed|d|I||-ed (v2)
+livener	noun	liven|liven|R|V ; -er|er|S||-er (N)
+liverish	adj	liver|liver|R|N ; -ish|ish|S
+liverishness	noun	liver|liver|R|N ; -ish|ish|S ; -ness|ness|S
+livermorium	noun	livermorium|livermorium|R|N
+liveryman	noun	livery|livery|R|N ; man|man|R|N
+livestream	noun	live|live|R|Adj ; stream|stream|R|N
+lividly	adv	livid|livid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+lividness	noun	livid|livid|R|Adj ; -ness|ness|S
+livingly	adv	live|liv|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+livistona	noun	livistona|livistona|R|N
+livraison	noun	livraison|livraison|R|N
+lixiviate	verb	lixiviate|lixiviate|R|V
+lixiviation	noun	lixiviate|lixiviat|R|V ; -ion|ion|S
+lizardfish	noun	lizard|lizard|R|N ; fish|fish|R|N
+lizardman	noun	lizard|lizard|R|N ; man|man|R|N
+llano	noun	llano|llano|R|N
+lmao	interj	lmao|lmao|R
+loadability	noun	load|load|R|V ; -able|abil|S ; -ity|ity|S
+loadable	adj	load|load|R|V ; -able|able|S
+loads	verb	load|load|R|V ; -s|s|I||-s (3sg)
+loaferish	adj	loafer|loafer|R|N ; -ish|ish|S
+loanable	adj	loan|loan|R|N ; -able|able|S
+loanblend	noun	loan|loan|R|N ; blend|blend|R|N
+loaning	noun	loan|loan|R|V ; -ing|ing|S||-ing (N)
+loanword	noun	loan|loan|R|N ; word|word|R|N
+loathly	adv	loath|loath|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+loathsomeness	noun	loath|loath|R|Adj ; -some|some|S ; -ness|ness|S
+lobar	adj	lobe|lob|R|N ; -ar|ar|S
+lobate	adj	lobe|lob|R|N ; -ate|ate|S
+lobation	noun	lobe|lob|R|N ; -ation|ation|S
+lobbyism	noun	lobby|lobby|R|N ; -ism|ism|S
+lobbyman	noun	lobby|lobby|R|N ; man|man|R|N
+lobed	adj	lobe|lob|R|N ; -ed|ed|S||-ed (adj)
+lobing	noun	lobe|lob|R|V ; -ing|ing|S||-ing (N)
+lobotomization	noun	lobotomy|lobotom|R|N ; -ize|iz|S ; -ation|ation|S
+lobotomize	verb	lobotomy|lobotom|R|N ; -ize|ize|S
+lobscouse	noun	lobscouse|lobscouse|R|N
+lobsterback	noun	lobster|lobster|R|N ; back|back|R|N
+lobsterer	noun	lobster|lobster|R|N ; -er|er|S||-er (N)
+lobulate	adj	lobule|lobul|R|N ; -ate|ate|S
+lobulation	noun	lobule|lobul|R|N ; -ation|ation|S
+lobworm	noun	lob|lob|R|N ; worm|worm|R|N
+localite	noun	localite|localite|R|N
+localitis	noun	localitis|localitis|R|N
+localizable	adj	localize|localiz|R|V ; -able|able|S
+localizer	noun	localize|localiz|R|V ; -er|er|S||-er (N)
+localizing	noun	localize|localiz|R|V ; -ing|ing|S||-ing (N)
+locatable	adj	locate|locat|R|V ; -able|able|S
+locative	adj	locate|locat|R|V ; -ive|ive|S
+lochia	noun	lochia|lochia|R|N
+lochial	adj	lochia|lochi|R|N ; -al|al|S
+lockage	noun	lock|lock|R|V ; -age|age|S
+lockfast	adj	lock|lock|R|N ; fast|fast|R|Adj
+lockkeeper	noun	lock|lock|R|N ; keep|keep|R|V ; -er|er|S||-er (N)
+lockless	adj	lock|lock|R|N ; -less|less|S
+locksman	noun	lock|locks|R|N ; man|man|R|N
+locksmithery	noun	lock|lock|R|N ; smith|smith|R|N ; -ery|ery|S
+locksmithing	noun	lock|lock|R|N ; smith|smith|R|N ; -ing|ing|S||-ing (N)
+locky	adj	lock|lock|R|N ; -y|y|S
+locomobility	noun	locomobility|locomobility|R|N
+locomote	verb	locomote|locomote|R|V
+locomotivity	noun	locomotive|locomotiv|R|N ; -ity|ity|S
+locomotor	adj	locomotor|locomotor|R|Adj
+locoweed	noun	loco|loco|R|N ; weed|weed|R|N
+locular	adj	locule|locul|R|N ; -ar|ar|S
+loculate	adj	locule|locul|R|N ; -ate|ate|S
+loculated	adj	loculate|loculat|R|Adj ; -ed|ed|S||-ed (adj)
+loculicidal	adj	loculicidal|loculicidal|R|Adj
+loculus	noun	loculus|loculus|R|N
+locutory	adj	locutory|locutory|R|Adj
+lodged	verb	lodge|lodg|R|V ; -ed|ed|I||-ed (v2)
+lodgment	noun	lodge|lodg|R|V ; -ment|ment|S
+lofting	noun	loft|loft|R|V ; -ing|ing|S||-ing (N)
+loganberry	noun	loganberry|loganberry|R|N
+logaoedic	adj	logaoedic|logaoedic|R|Adj
+logfile	noun	log|log|R|N ; file|file|R|N
+loggy	adj	log|logg|R|N ; -y|y|S
+logicality	noun	logical|logical|R|Adj ; -ity|ity|S
+logicalness	noun	logical|logical|R|Adj ; -ness|ness|S
+logicism	noun	logic|logic|R|N ; -ism|ism|S
+logicize	verb	logic|logic|R|N ; -ize|ize|S
+login	noun	log|log|R|N ; in|in|R
+logion	noun	logion|logion|R|N
+logistician	noun	logistic|logistic|R|Adj ; -ian|ian|S
+logline	noun	log|log|R|N ; line|line|R|N
+logogram	noun	logogram|logogram|R|N
+logograph	noun	logograph|logograph|R|N
+logographer	noun	logography|logograph|R|N ; -er|er|S||-er (N)
+logographic	adj	logography|logograph|R|N ; -ic|ic|S
+logography	noun	logography|logography|R|N
+logogriph	noun	logogriph|logogriph|R|N
+logological	adj	logology|logolog|R|N ; -ical|ical|S
+logomachic	adj	logomachy|logomach|R|N ; -ic|ic|S
+logomachist	noun	logomachy|logomach|R|N ; -ist|ist|S
+logomachy	noun	logomachy|logomachy|R|N
+logomania	noun	logomania|logomania|R|N
+logopedics	noun	logopedics|logopedics|R|N
+logopedist	noun	logopedics|logoped|R|N ; -ist|ist|S
+logophoric	adj	logophoric|logophoric|R|Adj
+logorrhea	noun	logorrhea|logorrhea|R|N
+logorrheic	adj	logorrhea|logorrhe|R|N ; -ic|ic|S
+logos	noun	logos|logos|R|N
+logothete	noun	logothete|logothete|R|N
+logotype	noun	logo|logo|R|N ; type|type|R|N
+logout	noun	log|log|R|N ; out|out|R
+logy	adj	logy|logy|R|Adj
+loins	noun	loin|loin|R|N ; -s|s|I||-s (plural)
+loir	noun	loir|loir|R|N
+loiteringly	adv	loiter|loiter|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+lokma	noun	lokma|lokma|R|N
+lolcat	noun	lol|lol|R ; cat|cat|R|N
+loli	noun	loli|loli|R|N
+lolicon	noun	lolicon|lolicon|R|N
+lollapalooza	noun	lollapalooza|lollapalooza|R|N
+lolling	noun	loll|loll|R|V ; -ing|ing|S||-ing (N)
+lollop	verb	lollop|lollop|R|V
+lolloping	noun	lollop|lollop|R|V ; -ing|ing|S||-ing (N)
+lollygag	verb	lollygag|lollygag|R|V
+lolot	noun	lolot|lolot|R|N
+loment	noun	loment|loment|R|N
+lomentaceous	adj	lomentaceous|lomentaceous|R|Adj
+lomentum	noun	lomentum|lomentum|R|N
+lonesomeness	noun	lone|lone|R|Adj ; -some|some|S ; -ness|ness|S
+longa	noun	longa|longa|R|N
+longan	noun	longan|longan|R|N
+longanimous	adj	longanimous|longanimous|R|Adj
+longboard	noun	long|long|R|Adj ; board|board|R|N
+longbowman	noun	long|long|R|Adj ; bow|bow|R|N ; man|man|R|N
+longe	noun	longe|longe|R|N
+longeron	noun	longeron|longeron|R|N
+longevous	adj	longevous|longevous|R|Adj
+longicaudal	adj	longicaudal|longicaudal|R|Adj
+longicorn	noun	longicorn|longicorn|R|N
+longingness	noun	long|long|R|V ; -ing|ing|S||-ing (N) ; -ness|ness|S
+longship	noun	long|long|R|Adj ; ship|ship|R|N
+longsomeness	noun	long|long|R|Adj ; -some|some|S ; -ness|ness|S
+longsword	noun	long|long|R|Adj ; sword|sword|R|N
+longueur	noun	longueur|longueur|R|N
+longwave	noun	long|long|R|Adj ; wave|wave|R|N
+longways	adv	longways|longways|R|Adv
+longwise	adv	long|long|R|Adj ; -wise|wise|S
+longyi	noun	longyi|longyi|R|N
+loogie	noun	loogie|loogie|R|N
+looie	noun	looie|looie|R|N
+looked	verb	look|look|R|V ; -ed|ed|I||-ed (v2)
+lookism	noun	look|look|R|V ; -ism|ism|S
+looks	verb	look|look|R|V ; -s|s|I||-s (3sg)
+loomery	noun	loom|loom|R|N ; -ery|ery|S
+loosehead	noun	loose|loose|R|Adj ; head|head|R|N
+lophodont	noun	lophodont|lophodont|R|N
+lophophore	noun	lophophore|lophophore|R|N
+loppers	noun	lop|lopp|R|V ; -er|er|S||-er (N) ; -s|s|I||-s (plural)
+lopping	noun	lop|lopp|R|V ; -ing|ing|S||-ing (N)
+loppy	adj	lop|lopp|R|V ; -y|y|S
+loquaciously	adv	loquacious|loquacious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+loquaciousness	noun	loquacious|loquacious|R|Adj ; -ness|ness|S
+loquacity	noun	loquacious|loquac|R|Adj ; -ity|ity|S
+lorcha	noun	lorcha|lorcha|R|N
+lordliness	noun	lord|lord|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+lordling	noun	lord|lord|R|N ; -ling|ling|S
+lordotic	adj	lordosis|lordot|R|N ; -ic|ic|S
+lorgnette	noun	lorgnette|lorgnette|R|N
+lorica	noun	lorica|lorica|R|N
+loricate	adj	lorica|loric|R|N ; -ate|ate|S
+lorikeet	noun	lorikeet|lorikeet|R|N
+loriot	noun	loriot|loriot|R|N
+loris	noun	loris|loris|R|N
+lory	noun	lory|lory|R|N
+losability	noun	lose|los|R|V ; -able|abil|S ; -ity|ity|S
+losable	adj	lose|los|R|V ; -able|able|S
+losel	noun	losel|losel|R|N
+lota	noun	lota|lota|R|N
+lotic	adj	lotic|lotic|R|Adj
+lotiform	adj	lotiform|lotiform|R|Adj
+lotos	noun	lotos|lotos|R|N
+louden	verb	loud|loud|R|Adj ; -en|en|S
+loudish	adj	loud|loud|R|Adj ; -ish|ish|S
+loudmouthed	adj	loud|loud|R|Adj ; mouth|mouth|R|N ; -ed|ed|S||-ed (adj)
+loungingly	adv	lounge|loung|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+louring	adj	lour|lour|R|V ; -ing|ing|S||-ing (adj)
+lousewort	noun	louse|louse|R|N ; wort|wort|R|N
+lousily	adv	louse|lous|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+lousiness	noun	louse|lous|R|N ; -y|i|S ; -ness|ness|S
+loutishness	noun	lout|lout|R|N ; -ish|ish|S ; -ness|ness|S

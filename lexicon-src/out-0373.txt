@@ -1,0 +1,200 @@
+ropeway	noun	rope|rope|R|N ; way|way|R|N
+ropiness	noun	ropy|ropi|R|Adj ; -ness|ness|S
+roquet	verb	roquet|roquet|R|V
+rorqual	noun	rorqual|rorqual|R|N
+rorty	adj	rort|rort|R|N ; -y|y|S
+rosaceous	adj	rosaceous|rosaceous|R|Adj
+rosarian	noun	rose|ros|R|N ; -ian|arian|S
+rosarium	noun	rosarium|rosarium|R|N
+rosebay	noun	rose|rose|R|N ; bay|bay|R|N
+rosefinch	noun	rose|rose|R|N ; finch|finch|R|N
+rosehip	noun	rose|rose|R|N ; hip|hip|R|N
+roselle	noun	roselle|roselle|R|N
+roseola	noun	roseola|roseola|R|N
+roseolar	adj	roseola|roseol|R|N ; -ar|ar|S
+rosewater	noun	rose|rose|R|N ; water|water|R|N
+rosily	adv	rosy|rosi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+rosiness	noun	rosy|rosi|R|Adj ; -ness|ness|S
+rosiny	adj	rosin|rosin|R|N ; -y|y|S
+rostellar	adj	rostellum|rostell|R|N ; -ar|ar|S
+rostellate	adj	rostellum|rostell|R|N ; -ate|ate|S
+rostellum	noun	rostellum|rostellum|R|N
+rostral	adj	rostrum|rostr|R|N ; -al|al|S
+rostrated	adj	rostrum|rostr|R|N ; -ate|ate|S ; -ed|d|S||-ed (adj)
+rosular	adj	rosular|rosular|R|Adj
+rotameter	noun	rotameter|rotameter|R|N
+rotative	adj	rotate|rotat|R|V ; -ive|ive|S
+rotaxane	noun	rotaxane|rotaxane|R|N
+roti	noun	roti|roti|R|N
+rotiform	adj	rotiform|rotiform|R|Adj
+rotogravure	noun	rotogravure|rotogravure|R|N
+rotoscope	noun	rotoscope|rotoscope|R|N
+rottenly	adv	rotten|rotten|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+rottol	noun	rottol|rottol|R|N
+rotula	noun	rotula|rotula|R|N
+rotular	adj	rotula|rotul|R|N ; -ar|ar|S
+rotundifolious	adj	rotundifolious|rotundifolious|R|Adj
+rotundity	noun	rotund|rotund|R|Adj ; -ity|ity|S
+rotundly	adv	rotund|rotund|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+roturier	noun	roturier|roturier|R|N
+roucou	noun	roucou|roucou|R|N
+roughcast	noun	rough|rough|R|Adj ; cast|cast|R|V
+roughish	adj	rough|rough|R|Adj ; -ish|ish|S
+roughometer	noun	roughometer|roughometer|R|N
+rouleau	noun	rouleau|rouleau|R|N
+rouleur	noun	rouleur|rouleur|R|N
+roundaboutness	noun	round|round|R|Adj ; about|about|R|Adv ; -ness|ness|S
+roundelay	noun	roundelay|roundelay|R|N
+roundoff	noun	round|round|R|V ; off|off|R|Adv
+rounds	noun	round|round|R|N ; -s|s|I||-s (plural)
+roundsman	noun	round|rounds|R|N ; man|man|R|N
+roup	noun	roup|roup|R|N
+rousong	noun	rousong|rousong|R|N
+routeman	noun	route|route|R|N ; man|man|R|N
+routinism	noun	routine|routin|R|N ; -ism|ism|S
+routinize	verb	routine|routin|R|N ; -ize|ize|S
+rowanberry	noun	rowan|rowan|R|N ; berry|berry|R|N
+rowdily	adv	rowdy|rowdi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+rowdyism	noun	rowdy|rowdy|R|Adj ; -ism|ism|S
+rowed	verb	row|row|R|V ; -ed|ed|I||-ed (v2)
+rowel	noun	rowel|rowel|R|N
+rowen	noun	rowen|rowen|R|N
+rowhouse	noun	row|row|R|N ; house|house|R|N
+rowlock	noun	row|row|R|V ; lock|lock|R|N
+royalism	noun	royal|royal|R|Adj ; -ism|ism|S
+royalistic	adj	royal|royal|R|Adj ; -ist|ist|S ; -ic|ic|S
+rubab	noun	rubab|rubab|R|N
+rubasse	noun	rubasse|rubasse|R|N
+rubbed	verb	rub|rubb|R|V ; -ed|ed|I||-ed (v2)
+rubberize	verb	rubber|rubber|R|N ; -ize|ize|S
+rubbernecking	noun	rubber|rubber|R|N ; neck|neck|R|N ; -ing|ing|S||-ing (N)
+rubbly	adj	rubble|rubbl|R|N ; -y|y|S
+rubefacient	adj	rubefacient|rubefacient|R|Adj
+rubefaction	noun	rubefaction|rubefaction|R|N
+rubefy	verb	rubefy|rubefy|R|V
+rubeola	noun	rubeola|rubeola|R|N
+rubescent	adj	rubescent|rubescent|R|Adj
+rubiaceous	adj	rubiaceous|rubiaceous|R|Adj
+rubican	adj	rubican|rubican|R|Adj
+rubicelle	noun	rubicelle|rubicelle|R|N
+rubicund	adj	rubicund|rubicund|R|Adj
+rubicundity	noun	rubicund|rubicund|R|Adj ; -ity|ity|S
+rubied	adj	ruby|rubi|R|N ; -ed|ed|S||-ed (adj)
+rubify	verb	ruby|rubi|R|N ; -ify|fy|S
+rubious	adj	ruby|rubi|R|N ; -ous|ous|S
+ruble	noun	ruble|ruble|R|N
+rubricate	verb	rubric|rubric|R|N ; -ate|ate|S
+rubrician	noun	rubric|rubric|R|N ; -ian|ian|S
+rubricist	noun	rubric|rubric|R|N ; -ist|ist|S
+ruche	noun	ruche|ruche|R|N
+ruching	noun	ruche|ruch|R|N ; -ing|ing|S||-ing (N)
+ruckle	verb	ruckle|ruckle|R|V
+rudderfish	noun	rudder|rudder|R|N ; fish|fish|R|N
+ruddily	adv	ruddy|ruddi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+ruddiness	noun	ruddy|ruddi|R|Adj ; -ness|ness|S
+ruddle	noun	ruddle|ruddle|R|N
+ruderal	adj	ruderal|ruderal|R|Adj
+rudimental	adj	rudiment|rudiment|R|N ; -al|al|S
+ruefulness	noun	rue|rue|R|V ; -ful|ful|S ; -ness|ness|S
+ruffe	noun	ruffe|ruffe|R|N
+ruffianish	adj	ruffian|ruffian|R|N ; -ish|ish|S
+ruffianism	noun	ruffian|ruffian|R|N ; -ism|ism|S
+ruffler	noun	ruffle|ruffl|R|V ; -er|er|S||-er (N)
+ruffling	verb	ruffle|ruffl|R|V ; -ing|ing|I||-ing (v)
+ruga	noun	ruga|ruga|R|N
+rugal	adj	ruga|rug|R|N ; -al|al|S
+rugate	adj	ruga|rug|R|N ; -ate|ate|S
+rugosity	noun	rugose|rugos|R|Adj ; -ity|ity|S
+rugulose	adj	rugule|rugul|R|N ; -ose|ose|S
+ruinate	verb	ruin|ruin|R|N ; -ate|ate|S
+ruining	verb	ruin|ruin|R|V ; -ing|ing|I||-ing (v)
+rulable	adj	rule|rul|R|V ; -able|able|S
+ruleless	adj	rule|rule|R|N ; -less|less|S
+rulemaking	noun	rule|rule|R|N ; make|mak|R|V ; -ing|ing|S||-ing (N)
+rulley	noun	rulley|rulley|R|N
+rumbler	noun	rumble|rumbl|R|V ; -er|er|S||-er (N)
+ruminated	verb	ruminate|ruminat|R|V ; -ed|ed|I||-ed (v2)
+ruminating	verb	ruminate|ruminat|R|V ; -ing|ing|I||-ing (v)
+ruminatively	adv	ruminate|ruminat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+rummaging	verb	rummage|rummag|R|V ; -ing|ing|I||-ing (v)
+rummer	noun	rum|rumm|R|N ; -er|er|S||-er (N)
+rumminess	noun	rummy|rummi|R|Adj ; -ness|ness|S
+rumness	noun	rum|rum|R|Adj ; -ness|ness|S
+rumormonger	noun	rumor|rumor|R|N ; monger|monger|R|N
+rumpling	verb	rumple|rumpl|R|V ; -ing|ing|I||-ing (v)
+runagate	noun	runagate|runagate|R|N
+runcinate	adj	runcinate|runcinate|R|Adj
+rundlet	noun	rundlet|rundlet|R|N
+runestone	noun	rune|rune|R|N ; stone|stone|R|N
+runlet	noun	run|run|R|V ; -let|let|S
+runology	noun	runology|runology|R|N
+runs	verb	run|run|R|V ; -s|s|I||-s (3sg)
+rupestrine	adj	rupestrine|rupestrine|R|Adj
+rupiah	noun	rupiah|rupiah|R|N
+rupturewort	noun	rupture|rupture|R|N ; wort|wort|R|N
+ruralism	noun	rural|rural|R|Adj ; -ism|ism|S
+ruralite	noun	ruralite|ruralite|R|N
+rurality	noun	rural|rural|R|Adj ; -ity|ity|S
+ruralization	noun	rural|rural|R|Adj ; -ize|iz|S ; -ation|ation|S
+ruralize	verb	rural|rural|R|Adj ; -ize|ize|S
+rusalka	noun	rusalka|rusalka|R|N
+rushes	noun	rush|rush|R|N ; -es|es|I||-s (plural)
+rushlight	noun	rush|rush|R|N ; light|light|R|N
+rushnyk	noun	rushnyk|rushnyk|R|N
+rushy	adj	rush|rush|R|N ; -y|y|S
+russist	noun	russ|russ|R|N ; -ist|ist|S
+russula	noun	russula|russula|R|N
+rustbucket	noun	rust|rust|R|N ; bucket|bucket|R|N
+rustically	adv	rustic|rustic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+rusticate	verb	rustic|rustic|R|Adj ; -ate|ate|S
+rusticated	verb	rusticate|rusticat|R|V ; -ed|ed|I||-ed (v2)
+rustication	noun	rusticate|rusticat|R|V ; -ion|ion|S
+rusticness	noun	rustic|rustic|R|Adj ; -ness|ness|S
+rustless	adj	rust|rust|R|N ; -less|less|S
+rustyback	noun	rusty|rusty|R|Adj ; back|back|R|N
+rutaceous	adj	rutaceous|rutaceous|R|Adj
+ruthenium	noun	ruthenium|ruthenium|R|N
+rutherfordium	noun	rutherfordium|rutherfordium|R|N
+ruthful	adj	ruth|ruth|R|N ; -ful|ful|S
+rutilant	adj	rutilant|rutilant|R|Adj
+rutile	noun	rutile|rutile|R|N
+ruttish	adj	rut|rutt|R|N ; -ish|ish|S
+rutty	adj	rut|rutt|R|N ; -y|y|S
+rux	noun	rux|rux|R|N
+ryazhanka	noun	ryazhanka|ryazhanka|R|N
+ryokan	noun	ryokan|ryokan|R|N
+ryot	noun	ryot|ryot|R|N
+sabadilla	noun	sabadilla|sabadilla|R|N
+sabbat	noun	sabbat|sabbat|R|N
+sabbatize	verb	sabbat|sabbat|R|N ; -ize|ize|S
+sabermetrics	noun	sabermetrics|sabermetrics|R|N
+sabicu	noun	sabicu|sabicu|R|N
+sabretache	noun	sabretache|sabretache|R|N
+sabreur	noun	sabreur|sabreur|R|N
+sabulosity	noun	sabulous|sabul|R|Adj ; -ity|osity|S
+sabulous	adj	sabulous|sabulous|R|Adj
+sac	noun	sac|sac|R|N
+saccade	noun	saccade|saccade|R|N
+saccate	adj	saccate|saccate|R|Adj
+saccharate	noun	saccharate|saccharate|R|N
+saccharic	adj	saccharic|saccharic|R|Adj
+saccharide	noun	saccharide|saccharide|R|N
+sacchariferous	adj	sacchariferous|sacchariferous|R|Adj
+saccharification	noun	saccharify|saccharifi|R|V ; -ation|cation|S
+saccharify	verb	saccharify|saccharify|R|V
+saccharimeter	noun	saccharimeter|saccharimeter|R|N
+saccharimetry	noun	saccharimeter|saccharimetr|R|N ; -y|y|S
+saccharization	noun	saccharize|sacchariz|R|V ; -ation|ation|S
+saccharize	verb	saccharize|saccharize|R|V
+saccharogenic	adj	saccharogenic|saccharogenic|R|Adj
+saccharoid	adj	saccharoid|saccharoid|R|Adj
+saccharometer	noun	saccharometer|saccharometer|R|N
+saccharose	noun	saccharose|saccharose|R|N
+sacciform	adj	sacciform|sacciform|R|Adj
+saccular	adj	sacculus|saccul|R|N ; -ar|ar|S
+sacculated	adj	sacculus|saccul|R|N ; -ate|ate|S ; -ed|d|S||-ed (adj)
+saccus	noun	saccus|saccus|R|N
+sacellum	noun	sacellum|sacellum|R|N
+sacerdotage	noun	sacerdotage|sacerdotage|R|N
+sacerdotalism	noun	sacerdotal|sacerdotal|R|Adj ; -ism|ism|S
+sachima	noun	sachima|sachima|R|N

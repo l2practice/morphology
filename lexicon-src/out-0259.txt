@@ -1,0 +1,200 @@
+cuttingly	adv	cut|cutt|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+cuttle	noun	cuttle|cuttle|R|N
+cutup	noun	cut|cut|R|V ; up|up|R|Adv
+cutwater	noun	cut|cut|R|V ; water|water|R|N
+cuvette	noun	cuvette|cuvette|R|N
+cwm	noun	cwm|cwm|R|N
+cyanamide	noun	cyanamide|cyanamide|R|N
+cyanate	noun	cyan|cyan|R|N ; -ate|ate|S
+cyanic	adj	cyan|cyan|R|N ; -ic|ic|S
+cyanidin	noun	cyanidin|cyanidin|R|N
+cyanoacrylate	noun	cyanoacrylate|cyanoacrylate|R|N
+cyanobacterium	noun	cyanobacterium|cyanobacterium|R|N
+cyanogen	noun	cyanogen|cyanogen|R|N
+cyanogenesis	noun	cyanogenesis|cyanogenesis|R|N
+cyanophyte	noun	cyanophyte|cyanophyte|R|N
+cyanosed	adj	cyanose|cyanos|R|V ; -ed|ed|S||-ed (adj)
+cyanosis	noun	cyanosis|cyanosis|R|N
+cyanotic	adj	cyanotic|cyanotic|R|Adj
+cyanotype	noun	cyanotype|cyanotype|R|N
+cyathium	noun	cyathium|cyathium|R|N
+cyberaddiction	noun	cyber|cyber|R|N ; addiction|addiction|R|N
+cyberattack	noun	cyber|cyber|R|N ; attack|attack|R|N
+cyberattacker	noun	cyber|cyber|R|N ; attack|attack|R|V ; -er|er|S||-er (N)
+cyberbully	noun	cyber|cyber|R|N ; bully|bully|R|N
+cyberbullying	noun	cyber|cyber|R|N ; bully|bully|R|V ; -ing|ing|S||-ing (N)
+cybercrime	noun	cyber|cyber|R|N ; crime|crime|R|N
+cybercriminal	noun	cyber|cyber|R|N ; criminal|criminal|R|N
+cyberdefense	noun	cyber|cyber|R|N ; defense|defense|R|N
+cyberespionage	noun	cyber|cyber|R|N ; espionage|espionage|R|N
+cyberextortion	noun	cyber|cyber|R|N ; extortion|extortion|R|N
+cyberharassment	noun	cyber|cyber|R|N ; harass|harass|R|V ; -ment|ment|S
+cybernation	noun	cybernation|cybernation|R|N
+cybernetically	adv	cybernetic|cybernetic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+cybernetician	noun	cybernetic|cybernetic|R|Adj ; -ian|ian|S
+cyberneticist	noun	cybernetic|cybernetic|R|Adj ; -ist|ist|S
+cyberscience	noun	cyber|cyber|R|N ; science|science|R|N
+cybersecurity	noun	cyber|cyber|R|N ; security|security|R|N
+cybersex	noun	cyber|cyber|R|N ; sex|sex|R|N
+cybersquatting	noun	cyber|cyber|R|N ; squat|squatt|R|V ; -ing|ing|S||-ing (N)
+cyberwar	noun	cyber|cyber|R|N ; war|war|R|N
+cyberwarfare	noun	cyber|cyber|R|N ; warfare|warfare|R|N
+cycas	noun	cycas|cycas|R|N
+cyclamate	noun	cyclamate|cyclamate|R|N
+cyclamin	noun	cyclamin|cyclamin|R|N
+cycler	noun	cycle|cycl|R|V ; -er|er|S||-er (N)
+cyclicality	noun	cyclic|cyclic|R|Adj ; -al|al|S ; -ity|ity|S
+cyclicity	noun	cyclic|cyclic|R|Adj ; -ity|ity|S
+cyclization	noun	cyclize|cycliz|R|V ; -ation|ation|S
+cyclize	verb	cycle|cycl|R|N ; -ize|ize|S
+cycloalkane	noun	cycloalkane|cycloalkane|R|N
+cyclobutane	noun	cyclobutane|cyclobutane|R|N
+cyclocomputer	noun	cyclocomputer|cyclocomputer|R|N
+cyclocross	noun	cyclocross|cyclocross|R|N
+cyclodextrin	noun	cyclodextrin|cyclodextrin|R|N
+cyclogenesis	noun	cyclogenesis|cyclogenesis|R|N
+cyclogram	noun	cyclogram|cyclogram|R|N
+cyclograph	noun	cyclograph|cyclograph|R|N
+cyclohexane	noun	cyclohexane|cyclohexane|R|N
+cycloid	noun	cycloid|cycloid|R|N
+cycloidal	adj	cycloid|cycloid|R|N ; -al|al|S
+cyclometer	noun	cyclometer|cyclometer|R|N
+cyclometric	adj	cyclometer|cyclometr|R|N ; -ic|ic|S
+cyclonoscope	noun	cyclonoscope|cyclonoscope|R|N
+cyclooxygenase	noun	cyclooxygenase|cyclooxygenase|R|N
+cyclopedic	adj	cyclopedia|cycloped|R|N ; -ic|ic|S
+cyclopentadecane	noun	cyclopentadecane|cyclopentadecane|R|N
+cyclopentane	noun	cyclopentane|cyclopentane|R|N
+cyclopropane	noun	cyclopropane|cyclopropane|R|N
+cycloramic	adj	cyclorama|cycloram|R|N ; -ic|ic|S
+cyclosis	noun	cyclosis|cyclosis|R|N
+cyclostomate	adj	cyclostome|cyclostom|R|N ; -ate|ate|S
+cyclostome	noun	cyclostome|cyclostome|R|N
+cyclostyle	noun	cyclostyle|cyclostyle|R|N
+cyclothymia	noun	cyclothymia|cyclothymia|R|N
+cyclotomic	adj	cyclotomy|cyclotom|R|N ; -ic|ic|S
+cyesis	noun	cyesis|cyesis|R|N
+cylindricality	noun	cylinder|cylindr|R|N ; -ic|ic|S ; -al|al|S ; -ity|ity|S
+cylindrically	adv	cylinder|cylindr|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+cylindricity	noun	cylinder|cylindr|R|N ; -ic|ic|S ; -ity|ity|S
+cylindroid	noun	cylindroid|cylindroid|R|N
+cymatium	noun	cymatium|cymatium|R|N
+cymbalist	noun	cymbal|cymbal|R|N ; -ist|ist|S
+cymbiform	adj	cymbiform|cymbiform|R|Adj
+cymbium	noun	cymbium|cymbium|R|N
+cyme	noun	cyme|cyme|R|N
+cymiferous	adj	cymiferous|cymiferous|R|Adj
+cymometer	noun	cymometer|cymometer|R|N
+cymophane	noun	cymophane|cymophane|R|N
+cymose	adj	cymose|cymose|R|Adj
+cynegetic	adj	cynegetic|cynegetic|R|Adj
+cynicalness	noun	cynical|cynical|R|Adj ; -ness|ness|S
+cynological	adj	cynology|cynolog|R|N ; -ic|ic|S ; -al|al|S
+cynologist	noun	cynology|cynolog|R|N ; -ist|ist|S
+cynology	noun	cynology|cynology|R|N
+cynophile	noun	cynophile|cynophile|R|N
+cynophilist	noun	cynophile|cynophil|R|N ; -ist|ist|S
+cynophobia	noun	cynophobia|cynophobia|R|N
+cynophobic	adj	cynophobia|cynophob|R|N ; -ic|ic|S
+cynosural	adj	cynosure|cynosur|R|N ; -al|al|S
+cyperus	noun	cyperus|cyperus|R|N
+cyprinid	noun	cyprinid|cyprinid|R|N
+cyprinodont	noun	cyprinodont|cyprinodont|R|N
+cysteine	noun	cysteine|cysteine|R|N
+cysticercoid	noun	cysticercoid|cysticercoid|R|N
+cysticercosis	noun	cysticercosis|cysticercosis|R|N
+cystine	noun	cystine|cystine|R|N
+cystinuria	noun	cystinuria|cystinuria|R|N
+cystocarp	noun	cystocarp|cystocarp|R|N
+cystoid	noun	cystoid|cystoid|R|N
+cystolith	noun	cystolith|cystolith|R|N
+cystoscope	noun	cystoscope|cystoscope|R|N
+cytoarchitectonics	noun	cytoarchitectonics|cytoarchitectonics|R|N
+cytoarchitecture	noun	cytoarchitecture|cytoarchitecture|R|N
+cytochemistry	noun	cytochemistry|cytochemistry|R|N
+cytodifferentiation	noun	cytodifferentiation|cytodifferentiation|R|N
+cytogenesis	noun	cytogenesis|cytogenesis|R|N
+cytogenetics	noun	cytogenetics|cytogenetics|R|N
+cytokinesis	noun	cytokinesis|cytokinesis|R|N
+cytological	adj	cytology|cytolog|R|N ; -ic|ic|S ; -al|al|S
+cytologist	noun	cytology|cytolog|R|N ; -ist|ist|S
+cytolysin	noun	cytolysin|cytolysin|R|N
+cytolysis	noun	cytolysis|cytolysis|R|N
+cytomembrane	noun	cytomembrane|cytomembrane|R|N
+cyton	noun	cyton|cyton|R|N
+cytopathology	noun	cytopathology|cytopathology|R|N
+cytoplasmically	adv	cytoplasmic|cytoplasmic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+cytoskeleton	noun	cytoskeleton|cytoskeleton|R|N
+cytosol	noun	cytosol|cytosol|R|N
+cytosolic	adj	cytosol|cytosol|R|N ; -ic|ic|S
+cytosome	noun	cytosome|cytosome|R|N
+cytostatic	adj	cytostatic|cytostatic|R|Adj
+cytotoxin	noun	cytotoxin|cytotoxin|R|N
+da	noun	da|da|R|N
+dabber	noun	dab|dabb|R|V ; -er|er|S||-er (N)
+dabbing	verb	dab|dabb|R|V ; -ing|ing|I||-ing (v)
+dabbling	verb	dabble|dabbl|R|V ; -ing|ing|I||-ing (v)
+dabchick	noun	dab|dab|R|N ; chick|chick|R|N
+dabster	noun	dab|dab|R|V ; -ster|ster|S
+dacite	noun	dacite|dacite|R|N
+dacoit	noun	dacoit|dacoit|R|N
+dacoity	noun	dacoit|dacoit|R|N ; -y|y|S
+dacron	noun	dacron|dacron|R|N
+dacryocystitis	noun	dacryocystitis|dacryocystitis|R|N
+dactylic	adj	dactyl|dactyl|R|N ; -ic|ic|S
+dactylically	adv	dactyl|dactyl|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+dactyliography	noun	dactyliography|dactyliography|R|N
+dactylogram	noun	dactylogram|dactylogram|R|N
+dactylographic	adj	dactylography|dactylograph|R|N ; -ic|ic|S
+dactylography	noun	dactylography|dactylography|R|N
+dactylology	noun	dactylology|dactylology|R|N
+dactyloscopy	noun	dactyloscopy|dactyloscopy|R|N
+dactylus	noun	dactylus|dactylus|R|N
+dadaism	noun	dada|dada|R|N ; -ism|ism|S
+daedal	adj	daedal|daedal|R|Adj
+daeva	noun	daeva|daeva|R|N
+daff	verb	daff|daff|R|V
+daffily	adv	daffy|daffi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+daffiness	noun	daffy|daffi|R|Adj ; -ness|ness|S
+daffodilly	adj	daffodil|daffodill|R|N ; -y|y|S
+daftly	adv	daft|daft|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+daftness	noun	daft|daft|R|Adj ; -ness|ness|S
+dagesh	noun	dagesh|dagesh|R|N
+daggle	verb	daggle|daggle|R|V
+daguerreotyper	noun	daguerreotype|daguerreotyp|R|N ; -er|er|S||-er (N)
+daguerreotypy	noun	daguerreotype|daguerreotyp|R|N ; -y|y|S
+daimon	noun	daimon|daimon|R|N
+daimyo	noun	daimyo|daimyo|R|N
+daintiness	noun	dainty|dainti|R|Adj ; -ness|ness|S
+daisied	adj	daisy|daisi|R|N ; -ed|ed|S||-ed (adj)
+dakuten	noun	dakuten|dakuten|R|N
+dalesman	noun	dalesman|dalesman|R|N
+dalet	noun	dalet|dalet|R|N
+dalgona	noun	dalgona|dalgona|R|N
+dallier	noun	dally|dalli|R|V ; -er|er|S||-er (N)
+dallying	verb	dally|dally|R|V ; -ing|ing|I||-ing (v)
+dallyingly	adv	dally|dally|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+dalmatic	noun	dalmatic|dalmatic|R|N
+damageability	noun	damage|damage|R|V ; -able|abil|S ; -ity|ity|S
+damageable	adj	damage|damage|R|V ; -able|able|S
+damages	noun	damage|damage|R|N ; -s|s|I||-s (plural)
+daman	noun	daman|daman|R|N
+damascener	noun	damascene|damascen|R|V ; -er|er|S||-er (N)
+damma	noun	damma|damma|R|N
+dammer	noun	dam|damm|R|V ; -er|er|S||-er (N)
+damnableness	noun	damn|damn|R|V ; -able|able|S ; -ness|ness|S
+damnatory	adj	damn|damn|R|V ; -ory|atory|S
+damnification	noun	damnify|damnifi|R|V ; -ation|cation|S
+damnify	verb	damn|damn|R|V ; -ify|ify|S
+damningly	adv	damn|damn|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+damped	verb	damp|damp|R|V ; -ed|ed|I||-ed (v2)
+dampish	adj	damp|damp|R|Adj ; -ish|ish|S
+dampishness	noun	damp|damp|R|Adj ; -ish|ish|S ; -ness|ness|S
+dancehall	noun	dance|dance|R|V ; hall|hall|R|N
+dancingly	adv	dance|danc|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+dandiacal	adj	dandiacal|dandiacal|R|Adj
+dandification	noun	dandify|dandifi|R|V ; -ation|cation|S
+dandified	adj	dandify|dandifi|R|V ; -ed|ed|S||-ed (adj)
+dandify	verb	dandy|dand|R|N ; -ify|ify|S
+dandiprat	noun	dandiprat|dandiprat|R|N
+dandling	verb	dandle|dandl|R|V ; -ing|ing|I||-ing (v)

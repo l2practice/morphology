@@ -1,0 +1,150 @@
+iniquity	noun	=
+florid	adj	=
+abomination	noun	=
+padre	noun	=
+livid	adj	=
+auspicious	adj	=
+plumb	noun	=
+psychopath	noun	psycho-|psycho|B|N|||Greek psukhe 'soul' ; -path|path|B|N|||Greek pathos 'suffering'
+neonatal	adj	=
+personable	adj	=
+perfunctory	adj	per-|per|P||||Latin per 'through' ; -funct-|funct|B|V|||Latin fungor 'to perform' ; -ory|ory|S||||Latin -orius 'relating to'
+panache	noun	=
+moribund	adj	=
+militate	verb	milit-|milit|B|N|||Latin miles 'soldier' ; -ate|ate|S||||Latin -atus 'past participle'
+jovial	adj	=
+impregnable	adj	=
+athleticism	noun	=
+telescopic	adj	=
+catharsis	noun	=
+recyclable	adj	=
+cajole	verb	=
+enjoin	verb	=
+melee	noun	=
+ventilate	verb	ventil-|ventil|B|V|||Latin ventilare 'to fan' ; -ate|ate|S||||Latin -atus 'past participle'
+elixir	noun	=
+dentistry	noun	=
+impregnate	verb	im-|im|P||||Latin in- 'into' ; -pregn-|pregn|B|Adj|||Latin praegnans 'pregnant' ; -ate|ate|S||||Latin -atus 'past participle'
+imperious	adj	imper-|imper|B|N|||Latin imperium 'command' ; -ious|ious|S||||Latin -osus 'full of'
+confection	noun	=
+spaniel	noun	=
+repose	noun	=
+conspiratorial	adj	con-|con|P||||Latin com- 'together' ; -spir-|spir|B|V|||Latin spirare 'to breathe' ; -ator-|ator|S||||Latin -ator 'one who' ; -ial|ial|S||||Latin -alis 'pertaining to'
+calligraphy	noun	calli-|calli|B|Adj|||Greek kallos 'beauty' ; -graphy|graphy|B|N|||Greek graphein 'to write'
+causeway	noun	=
+semicircle	noun	=
+propound	verb	pro-|pro|P||||Latin pro- 'before' ; -pound|pound|B|V|||Latin ponere 'to put'
+antibacterial	adj	=
+imperceptible	adj	=
+equivocal	adj	equi-|equi|P||||Latin aequus 'equal' ; -voc-|voc|B|V|||Latin vocare 'to call' ; -al|al|S||||Latin -alis 'pertaining to'
+technologist	noun	=
+acrobat	noun	=
+fedora	noun	=
+abscess	noun	ab-|ab|P||||Latin abs 'away from' ; -scess|scess|B|V|||Latin cedere 'to go'
+carnal	adj	carn-|carn|B|N|||Latin caro 'meat, flesh' ; -al|al|S||||Latin -alis 'pertaining to'
+anesthetic	adj	an-|an|P||||Greek an- 'without' ; -esthet-|esthet|B|V|||Greek aisthesis 'perception' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+matriarch	noun	matri-|matri|B|N|||Latin mater 'mother' ; -arch|arch|B|N|||Greek arkhos 'ruler'
+corrode	verb	cor-|cor|P||||Latin com- 'completely' ; -rode|rode|B|V|||Latin rodere 'to gnaw'
+conflate	verb	con-|con|P||||Latin com- 'together' ; -flate|flate|B|V|||Latin flare 'to blow'
+incinerate	verb	in-|in|P||||Latin in- 'into' ; -ciner-|ciner|B|N|||Latin cinis 'ashes' ; -ate|ate|S||||Latin -atus 'past participle'
+cosmologist	noun	=
+amphitheatre	noun	=
+bulbous	adj	=
+toleration	noun	toler-|toler|B|V|||Latin tolerare 'to endure' ; -ation|ation|S||||Latin -atio 'act, state'
+providence	noun	=
+heartburn	noun	=
+bedevil	verb	=
+plankton	noun	=
+mutilate	verb	mutil-|mutil|B|V|||Latin mutilare 'to mutilate' ; -ate|ate|S||||Latin -atus 'past participle'
+philosophic	adj	=
+misnomer	noun	=
+equanimity	noun	equ-|equ|P||||Latin aequus 'even, calm' ; -anim-|anim|B|N|||Latin animus 'mind, soul' ; -ity|ity|S||||Latin -itas 'state, quality'
+diffident	adj	dif-|dif|P||||Latin dis- 'apart' ; -fid-|fid|B|V|||Latin fidere 'to trust' ; -ent|ent|S||||Latin -ens 'present participle'
+slurp	verb	=
+deface	verb	=
+sensitize	verb	=
+crucible	noun	=
+whitewash	verb	=
+vermin	noun	=
+caloric	adj	=
+uncritical	adj	=
+lien	noun	=
+storehouse	noun	=
+transgress	verb	trans-|trans|P||||Latin trans 'across' ; -gress|gress|B|V|||Latin gradi 'to step'
+phenomenological	adj	=
+preoccupy	verb	=
+odious	adj	=
+lethargic	adj	=
+procreation	noun	pro-|pro|P||||Latin pro- 'forth' ; -cre-|cre|B|V|||Latin creare 'to create' ; -ation|ation|S||||Latin -atio 'act, state'
+ponderous	adj	=
+aneurysm	noun	=
+jest	noun	=
+conservator	noun	conserv-|conserv|B|V|||Latin conservare 'to preserve' ; -ator|ator|S||||Latin -ator 'agent'
+pusher	noun	=
+biodegradable	adj	=
+urinal	noun	urin-|urin|B|N|||Latin urina 'urine' ; -al|al|S||||Latin -alis 'pertaining to'
+encrust	verb	=
+pillage	verb	=
+salvo	noun	=
+diabolical	adj	=
+quadriceps	noun	quadri-|quadri|P||||Latin quattuor 'four' ; -ceps|ceps|B|N|||Latin caput 'head'
+animator	noun	=
+efficacious	adj	effic-|effic|B|V|||Latin efficere 'to effect' ; -acious|acious|S||||Latin -ax 'tending to'
+rotunda	noun	=
+fission	noun	fiss-|fiss|B|V|||Latin findere 'to split' ; -ion|ion|S||||Latin -io 'act, state'
+pediatrics	noun	ped-|ped|B|N|||Greek pais 'child' ; -iatrics|iatrics|B|N|||Greek iatreia 'healing'
+kaleidoscope	noun	=
+condescension	noun	=
+haughty	adj	=
+ecclesial	adj	=
+vulgarity	noun	=
+biofuel	noun	=
+mestizo	noun	=
+connective	adj	=
+modicum	noun	=
+suited	adj	=
+minstrel	noun	=
+machination	noun	machin-|machin|B|N|||Latin machina 'machine' ; -ation|ation|S||||Latin -atio 'act, state'
+solemnity	noun	=
+extort	verb	ex-|ex|P||||Latin ex- 'out' ; -tort|tort|B|V|||Latin torquere 'to twist'
+sacrosanct	adj	=
+recant	verb	re-|re|P||||Latin re- 'back' ; -cant|cant|B|V|||Latin cantare 'to sing'
+proselytize	verb	=
+atheism	noun	a-|a|P||||Greek a- 'without' ; -the-|the|B|N|||Greek theos 'god' ; -ism|ism|S||||Greek -ismos 'belief, practice'
+tyrannical	adj	tyrann-|tyrann|B|N|||Greek tyrannos 'absolute ruler' ; -ic|ic|S||||Greek -ikos 'pertaining to' ; -al|al|S||||Latin -alis 'pertaining to'
+abeyance	noun	=
+homophobic	adj	=
+feline	adj	=
+pejorative	adj	pejor-|pejor|B|Adj|||Latin peior 'worse' ; -ative|ative|S||||Latin -ativus 'tending to'
+oxymoron	noun	=
+presumptuous	adj	=
+subservient	adj	sub-|sub|P||||Latin sub- 'under' ; -serv-|serv|B|V|||Latin servire 'to serve' ; -ient|ient|S||||Latin -iens 'present participle'
+ruinous	adj	=
+conflagration	noun	=
+pittance	noun	=
+talisman	noun	=
+drifter	noun	=
+coriander	noun	=
+pervert	verb	per-|per|P||||Latin per 'through' ; -vert|vert|B|V|||Latin vertere 'to turn'
+secularist	noun	=
+irreconcilable	adj	ir-|ir|P||||Latin in- 'not' ; -reconcil-|reconcil|B|V|||Latin reconciliare 'to reconcile' ; -able|able|S||||Latin -abilis 'able to'
+rancor	noun	=
+lethargy	noun	=
+methanol	noun	=
+rationalism	noun	=
+demur	verb	=
+latrine	noun	=
+impale	verb	=
+modus	noun	=
+trowel	noun	=
+desist	verb	de-|de|P||||Latin de- 'from' ; -sist|sist|B|V|||Latin sistere 'to stand'
+simile	noun	=
+tress	noun	=
+subliminal	adj	sub-|sub|P||||Latin sub- 'beneath' ; -limin-|limin|B|N|||Latin limen 'threshold' ; -al|al|S||||Latin -alis 'pertaining to'
+saxophonist	noun	=
+discordant	adj	dis-|dis|P||||Latin dis- 'apart' ; -cord-|cord|B|N|||Latin cor 'heart' ; -ant|ant|S||||Latin -ans 'present participle'
+pretender	noun	=
+temerity	noun	=
+interdiction	noun	inter-|inter|P||||Latin inter 'between' ; -dict-|dict|B|V|||Latin dicere 'to say' ; -ion|ion|S||||Latin -io 'act, state'
+redoubtable	adj	=
+redolent	adj	=

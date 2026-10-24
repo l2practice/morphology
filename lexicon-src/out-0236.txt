@@ -1,0 +1,200 @@
+biennially	adv	biennial|biennial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+biennium	noun	biennium|biennium|R|N
+biface	noun	bi-|bi|P ; face|face|R|N
+bifactorial	adj	bi-|bi|P ; factor|factor|R|N ; -ial|ial|S
+biffin	noun	biffin|biffin|R|N
+bifid	adj	bifid|bifid|R|Adj
+bifilar	adj	bifilar|bifilar|R|Adj
+bifunctor	noun	bi-|bi|P ; functor|functor|R|N
+bigamous	adj	bigamy|bigam|R|N ; -ous|ous|S
+bigamously	adv	bigamy|bigam|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+bigender	adj	bi-|bi|P ; gender|gender|R|N
+bigger	adj	big|bigg|R|Adj ; -er|er|I||-er (comparative)
+biggest	adj	big|bigg|R|Adj ; -est|est|I||-est (superlative)
+bighearted	adj	big|big|R|Adj ; heart|heart|R|N ; -ed|ed|S||-ed (adj)
+bigmouthed	adj	big|big|R|Adj ; mouth|mouth|R|N ; -ed|ed|S||-ed (adj)
+bigorexia	noun	bigorexia|bigorexia|R|N
+bigorexic	adj	bigorexia|bigorex|R|N ; -ic|ic|S
+bigtime	noun	big|big|R|Adj ; time|time|R|N
+biharmonic	adj	bi-|bi|P ; harmonic|harmonic|R|Adj
+biholomorphic	adj	bi-|bi|P ; holomorphic|holomorphic|R|Adj
+bijection	noun	bijection|bijection|R|N
+bijective	adj	bijective|bijective|R|Adj
+bilabial	adj	bi-|bi|P ; labial|labial|R|Adj
+bilabiate	adj	bi-|bi|P ; labiate|labiate|R|Adj
+bilbo	noun	bilbo|bilbo|R|N
+bilboes	noun	bilbo|bilbo|R|N ; -es|es|I||-s (plural)
+bilby	noun	bilby|bilby|R|N
+bilgewater	noun	bilge|bilge|R|N ; water|water|R|N
+bilimbi	noun	bilimbi|bilimbi|R|N
+bilinear	adj	bi-|bi|P ; linear|linear|R|Adj
+bilinguist	noun	bi-|bi|P ; linguist|linguist|R|N
+biliously	adv	bilious|bilious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+biliousness	noun	bilious|bilious|R|Adj ; -ness|ness|S
+biliverdin	noun	biliverdin|biliverdin|R|N
+bilker	noun	bilk|bilk|R|V ; -er|er|S||-er (N)
+bilking	noun	bilk|bilk|R|V ; -ing|ing|S||-ing (N)
+billeted	adj	billet|billet|R|V ; -ed|ed|S||-ed (adj)
+billhook	noun	bill|bill|R|N ; hook|hook|R|N
+billsticker	noun	bill|bill|R|N ; stick|stick|R|V ; -er|er|S||-er (N)
+billyboy	noun	billy|billy|R|N ; boy|boy|R|N
+billycan	noun	billy|billy|R|N ; can|can|R|N
+billycock	noun	billy|billy|R|N ; cock|cock|R|N
+bilobate	adj	bi-|bi|P ; lobate|lobate|R|Adj
+bilobed	adj	bi-|bi|P ; lobe|lob|R|N ; -ed|ed|S||-ed (adj)
+bilocation	noun	bi-|bi|P ; location|location|R|N
+bilocular	adj	bi-|bi|P ; locular|locular|R|Adj
+biltong	noun	biltong|biltong|R|N
+bimane	noun	bimane|bimane|R|N
+bimanous	adj	bimanous|bimanous|R|Adj
+bimester	noun	bimester|bimester|R|N
+bimetal	noun	bi-|bi|P ; metal|metal|R|N
+bimetallic	adj	bi-|bi|P ; metal|metal|R|N ; -ic|lic|S
+bimetallism	noun	bi-|bi|P ; metal|metall|R|N ; -ism|ism|S
+bimetallist	noun	bi-|bi|P ; metal|metall|R|N ; -ist|ist|S
+bimotored	adj	bi-|bi|P ; motor|motor|R|N ; -ed|ed|S||-ed (adj)
+binate	adj	binate|binate|R|Adj
+binbag	noun	bin|bin|R|N ; bag|bag|R|N
+bindery	noun	bind|bind|R|V ; -ery|ery|S
+bindi	noun	bindi|bindi|R|N
+bindle	noun	bindle|bindle|R|N
+bindlestiff	noun	bindle|bindle|R|N ; stiff|stiff|R|Adj
+bine	noun	bine|bine|R|N
+binit	noun	binit|binit|R|N
+binitarianism	noun	binitarian|binitarian|R|N ; -ism|ism|S
+binnacle	noun	binnacle|binnacle|R|N
+binodal	adj	bi-|bi|P ; nodal|nodal|R|Adj
+binominal	adj	bi-|bi|P ; nominal|nominal|R|Adj
+binormal	adj	bi-|bi|P ; normal|normal|R|Adj
+binturong	noun	binturong|binturong|R|N
+binyan	noun	binyan|binyan|R|N
+bioaccumulate	verb	bioaccumulate|bioaccumulate|R|V
+biobank	noun	biobank|biobank|R|N
+biobibliography	noun	biobibliography|biobibliography|R|N
+biocatalyst	noun	biocatalyst|biocatalyst|R|N
+bioclimatology	noun	bioclimatology|bioclimatology|R|N
+biocoenosis	noun	biocoenosis|biocoenosis|R|N
+biocomputer	noun	biocomputer|biocomputer|R|N
+biodegradability	noun	biodegradability|biodegradability|R|N
+biodegradation	noun	biodegradation|biodegradation|R|N
+bioecology	noun	bioecology|bioecology|R|N
+bioelectric	adj	bioelectric|bioelectric|R|Adj
+bioelectricity	noun	bioelectric|bioelectric|R|Adj ; -ity|ity|S
+bioelectronics	noun	bioelectronics|bioelectronics|R|N
+bioenergetics	noun	bioenergetics|bioenergetics|R|N
+bioenergy	noun	bioenergy|bioenergy|R|N
+bioexclusion	noun	bioexclusion|bioexclusion|R|N
+biogenesis	noun	biogenesis|biogenesis|R|N
+biogenetical	adj	biogenetic|biogenetic|R|Adj ; -al|al|S
+biogeny	noun	biogeny|biogeny|R|N
+biogeocenology	noun	biogeocenology|biogeocenology|R|N
+biographically	adv	biographical|biographical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+biohydrogen	noun	biohydrogen|biohydrogen|R|N
+bioindicator	noun	bioindicator|bioindicator|R|N
+bioindustry	noun	bioindustry|bioindustry|R|N
+biomagnetism	noun	biomagnetism|biomagnetism|R|N
+biomaterial	noun	biomaterial|biomaterial|R|N
+biomathematics	noun	biomathematics|biomathematics|R|N
+biometeorology	noun	biometeorology|biometeorology|R|N
+biometrically	adv	biometric|biometric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+biometrician	noun	biometric|biometric|R|Adj ; -ian|ian|S
+biometry	noun	biometry|biometry|R|N
+biomicroscope	noun	biomicroscope|biomicroscope|R|N
+biomimetics	noun	biomimetics|biomimetics|R|N
+bionomics	noun	bionomics|bionomics|R|N
+biophilia	noun	biophilia|biophilia|R|N
+biophysically	adv	biophysical|biophysical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+biopiracy	noun	biopiracy|biopiracy|R|N
+bioplasm	noun	bioplasm|bioplasm|R|N
+bioplastic	noun	bioplastic|bioplastic|R|N
+biopolitics	noun	biopolitics|biopolitics|R|N
+biopsic	adj	biopsy|biops|R|N ; -ic|ic|S
+biorthogonal	adj	biorthogonal|biorthogonal|R|Adj
+biorthogonalization	noun	biorthogonal|biorthogonal|R|Adj ; -ize|iz|S ; -ation|ation|S
+bios	noun	bios|bios|R|N
+bioscope	noun	bioscope|bioscope|R|N
+biosibling	noun	biosibling|biosibling|R|N
+biostratigraphy	noun	biostratigraphy|biostratigraphy|R|N
+biotechnical	adj	biotechnical|biotechnical|R|Adj
+biotherapy	noun	biotherapy|biotherapy|R|N
+biotite	noun	biotite|biotite|R|N
+biotope	noun	biotope|biotope|R|N
+bioturbation	noun	bioturbation|bioturbation|R|N
+biowaste	noun	biowaste|biowaste|R|N
+bipartisanism	noun	bi-|bi|P ; partisan|partisan|R|N ; -ism|ism|S
+bipartitely	adv	bipartite|bipartite|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bipartition	noun	bi-|bi|P ; partition|partition|R|N
+bipedally	adv	bipedal|bipedal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+biphase	noun	bi-|bi|P ; phase|phase|R|N
+biphobia	noun	bi-|bi|P ; phobia|phobia|R|N
+biphobic	adj	bi-|bi|P ; phobic|phobic|R|Adj
+bipolarity	noun	bi-|bi|P ; polar|polar|R|Adj ; -ity|ity|S
+biquadratic	adj	bi-|bi|P ; quadratic|quadratic|R|Adj
+biquinary	adj	bi-|bi|P ; quinary|quinary|R|Adj
+biramous	adj	bi-|bi|P ; ramous|ramous|R|Adj
+birational	adj	bi-|bi|P ; rational|rational|R|Adj
+birchen	adj	birch|birch|R|N ; -en|en|S
+birching	noun	birch|birch|R|N ; -ing|ing|S||-ing (N)
+birchwood	noun	birch|birch|R|N ; wood|wood|R|N
+birdbrain	noun	bird|bird|R|N ; brain|brain|R|N
+birdbrained	adj	bird|bird|R|N ; brain|brain|R|N ; -ed|ed|S||-ed (adj)
+birdcatcher	noun	bird|bird|R|N ; catch|catch|R|V ; -er|er|S||-er (N)
+birdeater	noun	bird|bird|R|N ; eat|eat|R|V ; -er|er|S||-er (N)
+birdfeed	noun	bird|bird|R|N ; feed|feed|R|V
+birdlime	noun	bird|bird|R|N ; lime|lime|R|N
+birdling	noun	bird|bird|R|N ; -ling|ling|S
+birdman	noun	bird|bird|R|N ; man|man|R|N
+birdshit	noun	bird|bird|R|N ; shit|shit|R|N
+birdwatching	noun	bird|bird|R|N ; watch|watch|R|V ; -ing|ing|S||-ing (N)
+birdwoman	noun	bird|bird|R|N ; woman|woman|R|N
+bireme	noun	bireme|bireme|R|N
+biretta	noun	biretta|biretta|R|N
+birotate	adj	bi-|bi|P ; rotate|rotate|R|V
+birse	noun	birse|birse|R|N
+birther	noun	birth|birth|R|N ; -er|er|S||-er (N)
+birthstone	noun	birth|birth|R|N ; stone|stone|R|N
+birthwort	noun	birth|birth|R|N ; wort|wort|R|N
+birthyear	noun	birth|birth|R|N ; year|year|R|N
+biryani	noun	biryani|biryani|R|N
+bis	noun	bis|bis|R|N
+bise	noun	bise|bise|R|N
+bisecant	noun	bi-|bi|P ; secant|secant|R|N
+bisection	noun	bi-|bi|P ; section|section|R|N
+bisectional	adj	bi-|bi|P ; section|section|R|N ; -al|al|S
+bisectionally	adv	bi-|bi|P ; section|section|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+bisector	noun	bi-|bi|P ; sector|sector|R|N
+bisectrix	noun	bisectrix|bisectrix|R|N
+bisexually	adv	bi-|bi|P ; sexual|sexual|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bish	noun	bish|bish|R|N
+bishopess	noun	bishop|bishop|R|N ; -ess|ess|S
+bismuthal	adj	bismuth|bismuth|R|N ; -al|al|S
+bisontine	adj	bisontine|bisontine|R|Adj
+bissextile	adj	bissextile|bissextile|R|Adj
+bistort	noun	bistort|bistort|R|N
+bistoury	noun	bistoury|bistoury|R|N
+bistre	noun	bistre|bistre|R|N
+bisulfate	noun	bi-|bi|P ; sulfate|sulfate|R|N
+bisymmetric	adj	bi-|bi|P ; symmetric|symmetric|R|Adj
+bitchily	adv	bitchy|bitchi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bitcoin	noun	bit|bit|R|N ; coin|coin|R|N
+biteable	adj	bite|bite|R|V ; -able|able|S
+bitemark	noun	bite|bite|R|V ; mark|mark|R|N
+bitewing	noun	bite|bite|R|V ; wing|wing|R|N
+bitrate	noun	bit|bit|R|N ; rate|rate|R|N
+bits	noun	bit|bit|R|N ; -s|s|I||-s (plural)
+bitstock	noun	bit|bit|R|N ; stock|stock|R|N
+bitsy	noun	bitsy|bitsy|R|N
+bitt	noun	bitt|bitt|R|N
+bittercress	noun	bitter|bitter|R|Adj ; cress|cress|R|N
+bitterish	adj	bitter|bitter|R|Adj ; -ish|ish|S
+bitterleaf	noun	bitter|bitter|R|Adj ; leaf|leaf|R|N
+bitterling	noun	bitter|bitter|R|Adj ; -ling|ling|S
+bitterroot	noun	bitter|bitter|R|Adj ; root|root|R|N
+bitters	noun	bitter|bitter|R|N ; -s|s|I||-s (plural)
+bittock	noun	bittock|bittock|R|N
+bitts	noun	bitt|bitt|R|N ; -s|s|I||-s (plural)
+bituminization	noun	bituminize|bituminiz|R|V ; -ation|ation|S
+bituminize	verb	bitumen|bitumin|R|N ; -ize|ize|S
+bituminoid	adj	bituminoid|bituminoid|R|Adj
+bitwise	adj	bit|bit|R|N ; -wise|wise|S
+biune	adj	biune|biune|R|Adj

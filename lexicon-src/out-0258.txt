@@ -1,0 +1,200 @@
+cuadrilla	noun	cuadrilla|cuadrilla|R|N
+cubage	noun	cube|cub|R|N ; -age|age|S
+cubature	noun	cubature|cubature|R|N
+cubbing	verb	cub|cubb|R|V ; -ing|ing|I||-ing (v)
+cubbish	adj	cub|cubb|R|N ; -ish|ish|S
+cubeb	noun	cubeb|cubeb|R|N
+cuber	noun	cube|cub|R|N ; -er|er|S||-er (N)
+cubes	noun	cube|cube|R|N ; -s|s|I||-s (plural)
+cubically	adv	cubic|cubic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+cubicalness	noun	cubic|cubic|R|Adj ; -al|al|S ; -ness|ness|S
+cubiform	adj	cubiform|cubiform|R|Adj
+cubing	verb	cube|cub|R|N ; -ing|ing|I||-ing (v)
+cubistic	adj	cubist|cubist|R|N ; -ic|ic|S
+cubistically	adv	cubist|cubist|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+cubital	adj	cubit|cubit|R|N ; -al|al|S
+cubitus	noun	cubitus|cubitus|R|N
+cuboctahedron	noun	cuboctahedron|cuboctahedron|R|N
+cuboid	noun	cuboid|cuboid|R|N
+cuboidal	adj	cuboid|cuboid|R|N ; -al|al|S
+cuck	verb	cuck|cuck|R|V
+cuckolding	verb	cuckold|cuckold|R|V ; -ing|ing|I||-ing (v)
+cuckoldry	noun	cuckold|cuckold|R|V ; -ry|ry|S
+cuckooflower	noun	cuckoo|cuckoo|R|N ; flower|flower|R|N
+cuckoopint	noun	cuckoo|cuckoo|R|N ; pint|pint|R|N
+cucullate	adj	cucullate|cucullate|R|Adj
+cucullus	noun	cucullus|cucullus|R|N
+cucumiform	adj	cucumiform|cucumiform|R|Adj
+cucurbit	noun	cucurbit|cucurbit|R|N
+cucurbitaceous	adj	cucurbitaceous|cucurbitaceous|R|Adj
+cudbear	noun	cudbear|cudbear|R|N
+cuddlesome	adj	cuddle|cuddle|R|V ; -some|some|S
+cudgelling	verb	cudgel|cudgell|R|V ; -ing|ing|I||-ing (v)
+cudweed	noun	cud|cud|R|N ; weed|weed|R|N
+cueist	noun	cue|cue|R|N ; -ist|ist|S
+cuesta	noun	cuesta|cuesta|R|N
+cuffing	verb	cuff|cuff|R|V ; -ing|ing|I||-ing (v)
+cuirassier	noun	cuirassier|cuirassier|R|N
+cuisse	noun	cuisse|cuisse|R|N
+cuju	noun	cuju|cuju|R|N
+culantro	noun	culantro|culantro|R|N
+culet	noun	culet|culet|R|N
+culex	noun	culex|culex|R|N
+culler	noun	cull|cull|R|V ; -er|er|S||-er (N)
+cullis	noun	cullis|cullis|R|N
+cully	noun	cully|cully|R|N
+culm	noun	culm|culm|R|N
+culmen	noun	culmen|culmen|R|N
+culminal	adj	culminal|culminal|R|Adj
+culminant	adj	culminant|culminant|R|Adj
+culottes	noun	culottes|culottes|R|N
+culpa	noun	culpa|culpa|R|N
+culpableness	noun	culpable|culpable|R|Adj ; -ness|ness|S
+culpeo	noun	culpeo|culpeo|R|N
+cultiform	adj	cultiform|cultiform|R|Adj
+cultism	noun	cult|cult|R|N ; -ism|ism|S
+cultivability	noun	cultivate|cultiv|R|V ; -able|abil|S ; -ity|ity|S
+cultivable	adj	cultivate|cultiv|R|V ; -able|able|S
+cultivatable	adj	cultivate|cultivat|R|V ; -able|able|S
+culturing	verb	culture|cultur|R|V ; -ing|ing|I||-ing (v)
+culturist	noun	culture|cultur|R|N ; -ist|ist|S
+culturology	noun	culturology|culturology|R|N
+cultus	noun	cultus|cultus|R|N
+culver	noun	culver|culver|R|N
+culverin	noun	culverin|culverin|R|N
+cumacean	noun	cumacean|cumacean|R|N
+cumber	verb	cumber|cumber|R|V
+cumberer	noun	cumber|cumber|R|V ; -er|er|S||-er (N)
+cumbersomely	adv	cumber|cumber|R|V ; -some|some|S ; -ly|ly|I|Adv|-ly (adv)
+cumbersomeness	noun	cumber|cumber|R|V ; -some|some|S ; -ness|ness|S
+cumbrously	adv	cumber|cumbr|R|V ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+cumbrousness	noun	cumber|cumbr|R|V ; -ous|ous|S ; -ness|ness|S
+cumdump	noun	cum|cum|R|N ; dump|dump|R|V
+cummer	noun	cummer|cummer|R|N
+cummingtonite	noun	cummingtonite|cummingtonite|R|N
+cumshaw	noun	cumshaw|cumshaw|R|N
+cumshot	noun	cum|cum|R|N ; shot|shot|R|N
+cumslut	noun	cum|cum|R|N ; slut|slut|R|N
+cumulant	noun	cumulate|cumul|R|V ; -ant|ant|S
+cumulativeness	noun	cumulate|cumulat|R|V ; -ive|ive|S ; -ness|ness|S
+cumuliform	adj	cumuliform|cumuliform|R|Adj
+cumulonimbus	noun	cumulonimbus|cumulonimbus|R|N
+cunctative	adj	cunctative|cunctative|R|Adj
+cunctator	noun	cunctator|cunctator|R|N
+cuneate	adj	cuneate|cuneate|R|Adj
+cuneately	adv	cuneate|cuneate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cuneiformist	noun	cuneiform|cuneiform|R|N ; -ist|ist|S
+cuneus	noun	cuneus|cuneus|R|N
+cunnilingual	adj	cunnilingual|cunnilingual|R|Adj
+cunningness	noun	cunning|cunning|R|Adj ; -ness|ness|S
+cunted	verb	cunt|cunt|R|V ; -ed|ed|I||-ed (v2)
+cuntlicker	noun	cunt|cunt|R|N ; lick|lick|R|V ; -er|er|S||-er (N)
+cupbearer	noun	cup|cup|R|N ; bear|bear|R|V ; -er|er|S||-er (N)
+cupel	noun	cupel|cupel|R|N
+cupellation	noun	cupel|cupell|R|V ; -ation|ation|S
+cupeller	noun	cupel|cupell|R|V ; -er|er|S||-er (N)
+cupid	noun	cupid|cupid|R|N
+cupping	verb	cup|cupp|R|V ; -ing|ing|I||-ing (v)
+cupreous	adj	cupreous|cupreous|R|Adj
+cupric	adj	cupric|cupric|R|Adj
+cupriferous	adj	cupriferous|cupriferous|R|Adj
+cuprite	noun	cuprite|cuprite|R|N
+cupronickel	noun	cupronickel|cupronickel|R|N
+cuprous	adj	cuprous|cuprous|R|Adj
+cups	noun	cup|cup|R|N ; -s|s|I||-s (plural)
+cupula	noun	cupula|cupula|R|N
+cupule	noun	cupule|cupule|R|N
+cupuliform	adj	cupuliform|cupuliform|R|Adj
+curability	noun	cure|cur|R|V ; -able|abil|S ; -ity|ity|S
+curableness	noun	cure|cur|R|V ; -able|able|S ; -ness|ness|S
+curably	adv	cure|cur|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+curare	noun	curare|curare|R|N
+curarine	noun	curarine|curarine|R|N
+curassow	noun	curassow|curassow|R|N
+curatively	adv	cure|cur|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+curativeness	noun	cure|cur|R|V ; -ative|ative|S ; -ness|ness|S
+curatorship	noun	curator|curator|R|N ; -ship|ship|S
+curbless	adj	curb|curb|R|N ; -less|less|S
+curcuma	noun	curcuma|curcuma|R|N
+curcumin	noun	curcumin|curcumin|R|N
+curdling	verb	curdle|curdl|R|V ; -ing|ing|I||-ing (v)
+curdy	adj	curd|curd|R|N ; -y|y|S
+cureless	adj	cure|cure|R|V ; -less|less|S
+curer	noun	cure|cur|R|V ; -er|er|S||-er (N)
+curette	noun	curette|curette|R|N
+curing	verb	cure|cur|R|V ; -ing|ing|I||-ing (v)
+curiosa	noun	curiosa|curiosa|R|N
+curiousness	noun	curious|curious|R|Adj ; -ness|ness|S
+curium	noun	curium|curium|R|N
+curlily	adv	curly|curli|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+curliness	noun	curly|curli|R|Adj ; -ness|ness|S
+curls	noun	curl|curl|R|N ; -s|s|I||-s (plural)
+curlyhead	noun	curly|curly|R|Adj ; head|head|R|N
+currentness	noun	current|current|R|Adj ; -ness|ness|S
+curricle	noun	curricle|curricle|R|N
+currier	noun	curry|curri|R|V ; -er|er|S||-er (N)
+currish	adj	cur|curr|R|N ; -ish|ish|S
+currishly	adv	cur|curr|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+currycomb	noun	curry|curry|R|N ; comb|comb|R|N
+currying	verb	curry|curry|R|V ; -ing|ing|I||-ing (v)
+currywurst	noun	curry|curry|R|N ; wurst|wurst|R|N
+cursedly	adv	curse|curs|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+cursedness	noun	curse|curs|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+curses	noun	curse|curs|R|V ; -es|es|I||-s (plural)
+cursively	adv	cursive|cursive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cursiveness	noun	cursive|cursive|R|Adj ; -ness|ness|S
+cursorial	adj	cursor|cursor|R|N ; -ial|ial|S
+cursoriness	noun	cursory|cursori|R|Adj ; -ness|ness|S
+cursus	noun	cursus|cursus|R|N
+curtailer	noun	curtail|curtail|R|V ; -er|er|S||-er (N)
+curtailing	verb	curtail|curtail|R|V ; -ing|ing|I||-ing (v)
+curtaining	verb	curtain|curtain|R|V ; -ing|ing|I||-ing (v)
+curtains	noun	curtain|curtain|R|N ; -s|s|I||-s (plural)
+curtal	adj	curt|curt|R|Adj ; -al|al|S
+curtana	noun	curtana|curtana|R|N
+curtate	adj	curt|curt|R|Adj ; -ate|ate|S
+curtilage	noun	curtilage|curtilage|R|N
+curtness	noun	curt|curt|R|Adj ; -ness|ness|S
+curtsying	verb	curtsy|curtsy|R|V ; -ing|ing|I||-ing (v)
+curule	adj	curule|curule|R|Adj
+curvaceously	adv	curve|curv|R|V ; -eous|aceous|S ; -ly|ly|I|Adv|-ly (adv)
+curvaceousness	noun	curve|curv|R|V ; -eous|aceous|S ; -ness|ness|S
+curvate	adj	curve|curv|R|V ; -ate|ate|S
+curvedness	noun	curve|curv|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+curvet	verb	curvet|curvet|R|V
+curvicaudate	adj	curvicaudate|curvicaudate|R|Adj
+curvifoliate	adj	curvifoliate|curvifoliate|R|Adj
+curviform	adj	curviform|curviform|R|Adj
+curvilinearity	noun	curvilinear|curvilinear|R|Adj ; -ity|ity|S
+curvilinearly	adv	curvilinear|curvilinear|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+curvinervate	adj	curvinervate|curvinervate|R|Adj
+curvity	noun	curve|curv|R|V ; -ity|ity|S
+cuscus	noun	cuscus|cuscus|R|N
+cusec	noun	cusec|cusec|R|N
+cushat	noun	cushat|cushat|R|N
+cushaw	noun	cushaw|cushaw|R|N
+cushily	adv	cushy|cushi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cushiness	noun	cushy|cushi|R|Adj ; -ness|ness|S
+cushionet	noun	cushionet|cushionet|R|N
+cushionless	adj	cushion|cushion|R|N ; -less|less|S
+cusk	noun	cusk|cusk|R|N
+cuspate	adj	cusp|cusp|R|N ; -ate|ate|S
+cuspid	noun	cuspid|cuspid|R|N
+cuspidal	adj	cuspid|cuspid|R|N ; -al|al|S
+cuspidate	adj	cuspid|cuspid|R|N ; -ate|ate|S
+cuspidor	noun	cuspidor|cuspidor|R|N
+cussed	verb	cuss|cuss|R|V ; -ed|ed|I||-ed (v2)
+cussedly	adv	cuss|cuss|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+cussedness	noun	cuss|cuss|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+customariness	noun	customary|customari|R|Adj ; -ness|ness|S
+customization	noun	customize|customiz|R|V ; -ation|ation|S
+customizer	noun	customize|customiz|R|V ; -er|er|S||-er (N)
+customs	noun	custom|custom|R|N ; -s|s|I||-s (plural)
+custos	noun	custos|custos|R|N
+cutaneously	adv	cutaneous|cutaneous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+cuticular	adj	cuticular|cuticular|R|Adj
+cutify	verb	cute|cut|R|Adj ; -ify|ify|S
+cutin	noun	cutin|cutin|R|N
+cutis	noun	cutis|cutis|R|N
+cutpurse	noun	cut|cut|R|V ; purse|purse|R|N
+cuttable	adj	cut|cutt|R|V ; -able|able|S

@@ -1,0 +1,150 @@
+megadose	noun	=
+liberality	noun	=
+scabrous	adj	=
+jovially	adv	=
+viscoelastic	adj	=
+leonine	adj	leon-|leon|B|N|||Latin leo 'lion' ; -ine|ine|S||||Latin -inus 'pertaining to'
+oblate	adj	=
+inexpert	adj	=
+exemplum	noun	=
+affinal	adj	affin-|affin|B|Adj|||Latin affinis 'kindred' ; -al|al|S||||Latin -alis 'pertaining to'
+gingery	adj	=
+hyperbaric	adj	=
+intemperance	noun	=
+clindamycin	noun	=
+commonalty	noun	=
+expiate	verb	=
+virago	noun	=
+arginine	noun	=
+bronchodilator	noun	broncho-|broncho|B|N|||Greek bronkhos 'windpipe' ; dilator|dilator|R|N
+lucre	noun	=
+pulverise	verb	pulver-|pulver|B|N|||Latin pulvis 'powder' ; -ise|ise|S||||Latin -izare 'to make'
+moiety	noun	=
+hemodynamic	adj	=
+meretricious	adj	=
+perineum	noun	=
+concuss	verb	con-|con|P||||Latin com- 'together' ; -cuss|cuss|B|V|||Latin quatere 'to shake'
+colloidal	adj	koll-|coll|B|N|||Greek kolla 'glue' ; -oid|oid|S||||Greek -oeidēs 'like' ; -al|al|S||||Latin -alis 'pertaining to'
+reticular	adj	reticul-|reticul|B|N|||Latin reticulum 'little net' ; -ar|ar|S||||Latin -aris 'pertaining to'
+countertenor	noun	=
+panellist	noun	=
+synovial	adj	=
+paedophile	noun	paedo-|paedo|B|N|||Greek pais 'child' ; -phile|phile|B|V|||Greek philein 'to love'
+cuckold	noun	=
+administrate	verb	=
+capstan	noun	=
+ferritin	noun	ferr-|ferr|B|N|||Latin ferrum 'iron' ; -itin|itin|S||||Latin -ina 'substance'
+aporia	noun	a-|a|P||||Greek a- 'not' ; -por-|por|B|N|||Greek poros 'passage' ; -ia|ia|S||||Greek -ia 'state'
+caravel	noun	=
+dower	noun	=
+ululate	verb	=
+subjectivism	noun	=
+extramural	adj	=
+scleroderma	noun	sclero-|sclero|B|Adj|||Greek sklēros 'hard' ; -derma|derma|B|N|||Greek derma 'skin'
+tonsure	noun	=
+thermophilic	adj	thermo-|thermo|B|N|||Greek thermē 'heat' ; -phil-|phil|B|V|||Greek philein 'to love' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+otiose	adj	=
+irremediable	adj	=
+subtend	verb	sub-|sub|P||||Latin sub 'under' ; -tend|tend|B|V|||Latin tendere 'to stretch'
+calendula	noun	=
+aquiline	adj	=
+transcriptase	noun	=
+natatorium	noun	=
+concordat	noun	=
+stela	noun	=
+immolation	noun	=
+zeaxanthin	noun	zea-|zea|B|N|||Latin Zea 'maize genus' ; -xanth-|xanth|B|Adj|||Greek xanthos 'yellow' ; -in|in|S||||Latin -ina 'substance'
+hemostasis	noun	hemo-|hemo|B|N|||Greek haima 'blood' ; stasis|stasis|R|N
+borax	noun	=
+coll	verb	=
+neuralgia	noun	neur-|neur|B|N|||Greek neuron 'nerve' ; -algia|algia|B|N|||Greek algos 'pain'
+matriarchy	noun	matri-|matri|B|N|||Latin mater 'mother' ; -archy|archy|B|V|||Greek arkhein 'to rule'
+coalite	noun	=
+dramaturgy	noun	=
+fenugreek	noun	=
+macula	noun	=
+revivify	verb	=
+syrah	noun	=
+labia	noun	=
+photometer	noun	=
+revocable	adj	=
+annulus	noun	=
+umbilicus	noun	=
+anticoagulation	noun	=
+meatus	noun	=
+vasoconstriction	noun	=
+baobab	noun	=
+primula	noun	=
+lido	noun	=
+gesticulation	noun	=
+immoderate	adj	=
+omicron	noun	=
+penetrative	adj	penetr-|penetr|B|V|||Latin penetrare 'to penetrate' ; -ative|ative|S||||Latin -ativus 'pertaining to'
+multiplicative	adj	multiplic-|multiplic|B|V|||Latin multiplicare 'to multiply' ; -ative|ative|S||||Latin -ativus 'pertaining to'
+tonsillitis	noun	=
+deactivation	noun	=
+translucence	noun	=
+nitroglycerine	noun	=
+percolation	noun	=
+superscript	noun	super-|super|P||||Latin super 'above' ; -script|script|B|V|||Latin scribere 'to write'
+sodomite	noun	=
+angulation	noun	=
+naphtha	noun	=
+pronto	adv	=
+platitudinous	adj	=
+macrocosm	noun	macro-|macro|B|Adj|||Greek makros 'great, long' ; -cosm|cosm|B|N|||Greek kosmos 'universe'
+monocultural	adj	=
+subluxation	noun	sub-|sub|P||||Latin sub 'under' ; -lux-|lux|B|V|||Latin luxare 'to dislocate' ; -ation|ation|S||||Latin -atio 'act'
+determiner	noun	=
+triplex	noun	tri-|tri|P||||Latin tri- 'three' ; -plex|plex|B|Adj|||Latin plicare 'to fold'
+antipathetic	adj	=
+peritonitis	noun	=
+exclusivism	noun	=
+transmigration	noun	=
+retentive	adj	re-|re|P||||Latin re- 'back' ; -tent-|tent|B|V|||Latin tenere 'to hold' ; -ive|ive|S||||Latin -ivus 'pertaining to'
+mycotoxin	noun	=
+striate	verb	stri-|stri|B|V|||Latin striare 'to groove' ; -ate|ate|S||||Latin -atus 'past participle'
+fulminant	adj	=
+ague	noun	=
+euphorbia	noun	=
+soffit	noun	=
+tragicomedy	noun	=
+perspicacious	adj	per-|per|P||||Latin per 'through' ; -spic-|spic|B|V|||Latin specere 'to look' ; -acious|acious|S||||Latin -ax 'inclined to'
+carnality	noun	=
+efferent	adj	ef-|ef|P||||Latin ex- 'out of' ; -fer-|fer|B|V|||Latin ferre 'to carry' ; -ent|ent|S||||Latin -ens 'agent'
+superintend	verb	=
+lenticular	adj	lenticul-|lenticul|B|N|||Latin lenticula 'little lentil' ; -ar|ar|S||||Latin -aris 'pertaining to'
+autoclave	noun	auto-|auto|B|N|||Greek autos 'self' ; -clave|clave|B|N|||Latin clavis 'key'
+epigenetic	adj	=
+vireo	noun	=
+diadem	noun	=
+centralist	noun	=
+dazzler	noun	=
+philistinism	noun	=
+photomicrograph	noun	=
+expander	noun	=
+protoplasm	noun	proto-|proto|B|Adj|||Greek prōtos 'first' ; -plasm|plasm|B|N|||Greek plasma 'something molded'
+equerry	noun	=
+rotavirus	noun	rota-|rota|B|N|||Latin rota 'wheel' ; virus|virus|R|N
+supernumerary	adj	super-|super|P||||Latin super 'above, beyond' ; -numer-|numer|B|N|||Latin numerus 'number' ; -ary|ary|S||||Latin -arius 'pertaining to'
+toreador	noun	=
+ultima	noun	ultim-|ultim|B|Adj|||Latin ultimus 'last' ; -a|a|S||||Latin -a 'feminine'
+aspidistra	noun	=
+croton	noun	=
+relict	noun	re-|re|P||||Latin re- 'back' ; -lict|lict|B|V|||Latin relinquere 'to leave'
+stapedotomy	noun	staped-|staped|B|N|||Latin stapes 'stirrup' ; -otomy|otomy|B|N|||Greek -tomia 'cutting'
+agriculturist	noun	=
+scrivener	noun	=
+nominator	noun	=
+rumen	noun	=
+numerate	adj	numer-|numer|B|N|||Latin numerus 'number' ; -ate|ate|S||||Latin -atus 'past participle'
+sophist	noun	soph-|soph|B|Adj|||Greek sophos 'wise' ; -ist|ist|S||||Greek -istēs 'one who'
+tarsal	adj	tars-|tars|B|N|||Greek tarsos 'ankle' ; -al|al|S||||Latin -alis 'pertaining to'
+epiglottis	noun	epi-|epi|P||||Greek epi 'upon' ; -glott-|glott|B|N|||Greek glōtta 'tongue' ; -is|is|S||||Greek -is 'noun suffix'
+chronograph	noun	chrono-|chrono|B|N|||Greek khronos 'time' ; -graph|graph|B|V|||Greek graphein 'to write'
+ossicle	noun	oss-|oss|B|N|||Latin os 'bone' ; -icle|icle|S||||Latin -iculus 'little'
+craniofacial	adj	=
+trefoil	noun	tri-|tre|P||||Latin tri- 'three' ; -foil|foil|B|N|||Latin folium 'leaf'
+photodetector	noun	=
+vivify	verb	viv-|viv|B|Adj|||Latin vivus 'alive' ; -ify|ify|S||||Latin -ificare 'to make'
+mendicant	noun	mendic-|mendic|B|V|||Latin mendicare 'to beg' ; -ant|ant|S||||Latin -ans 'agent'

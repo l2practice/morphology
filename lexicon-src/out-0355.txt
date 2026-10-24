@@ -1,0 +1,200 @@
+polemics	noun	polemics|polemics|R|N
+polemist	noun	polemic|polem|R|N ; -ist|ist|S
+polemize	verb	polemic|polem|R|N ; -ize|ize|S
+polemology	noun	polemology|polemology|R|N
+poleward	adv	pole|pole|R|N ; -ward|ward|S
+policlinic	noun	policlinic|policlinic|R|N
+poling	noun	pole|pol|R|V ; -ing|ing|S||-ing (N)
+poliomyelitic	adj	poliomyelitis|poliomyelit|R|N ; -ic|ic|S
+poliorcetics	noun	poliorcetics|poliorcetics|R|N
+polish	verb	polish|polish|R|V
+politicalization	noun	politicalize|politicaliz|R|V ; -ation|ation|S
+politicalize	verb	political|political|R|Adj ; -ize|ize|S
+politick	verb	politick|politick|R|V
+politicker	noun	politick|politick|R|V ; -er|er|S||-er (N)
+politicomania	noun	politicomania|politicomania|R|N
+pollakiuria	noun	pollakiuria|pollakiuria|R|N
+pollenizer	noun	pollenize|polleniz|R|V ; -er|er|S||-er (N)
+pollenless	adj	pollen|pollen|R|N ; -less|less|S
+poller	noun	poll|poll|R|V ; -er|er|S||-er (N)
+pollex	noun	pollex|pollex|R|N
+pollical	adj	pollex|pollic|R|N ; -al|al|S
+pollicitation	noun	pollicitation|pollicitation|R|N
+pollinarium	noun	pollinarium|pollinarium|R|N
+pollinic	adj	pollen|pollin|R|N ; -ic|ic|S
+polliniferous	adj	polliniferous|polliniferous|R|Adj
+pollinium	noun	pollinium|pollinium|R|N
+pollinization	noun	pollinize|polliniz|R|V ; -ation|ation|S
+pollinodium	noun	pollinodium|pollinodium|R|N
+pollinose	adj	pollinose|pollinose|R|Adj
+pollinosis	noun	pollinosis|pollinosis|R|N
+polls	noun	poll|poll|R|N ; -s|s|I||-s (plural)
+pollywog	noun	pollywog|pollywog|R|N
+poloist	noun	polo|polo|R|N ; -ist|ist|S
+polony	noun	polony|polony|R|N
+polster	noun	polster|polster|R|N
+poltroon	noun	poltroon|poltroon|R|N
+poltroonery	noun	poltroon|poltroon|R|N ; -ery|ery|S
+polyadelphous	adj	polyadelphous|polyadelphous|R|Adj
+polyadenous	adj	polyadenous|polyadenous|R|Adj
+polyadic	adj	polyadic|polyadic|R|Adj
+polyamorous	adj	poly-|poly|P ; amorous|amorous|R|Adj
+polyamory	noun	polyamory|polyamory|R|N
+polyandric	adj	polyandric|polyandric|R|Adj
+polyandrist	noun	polyandrist|polyandrist|R|N
+polyanthus	noun	polyanthus|polyanthus|R|N
+polyarchic	adj	polyarchic|polyarchic|R|Adj
+polyarchy	noun	polyarchy|polyarchy|R|N
+polyatomic	adj	poly-|poly|P ; atomic|atomic|R|Adj
+polybasic	adj	poly-|poly|P ; basic|basic|R|Adj
+polyblast	noun	poly-|poly|P ; blast|blast|R|N
+polybutadiene	noun	poly-|poly|P ; butadiene|butadiene|R|N
+polycarp	noun	poly-|poly|P ; carp|carp|R|N
+polycarpellary	adj	polycarpellary|polycarpellary|R|Adj
+polycellular	adj	poly-|poly|P ; cellular|cellular|R|Adj
+polycentric	adj	poly-|poly|P ; centric|centric|R|Adj
+polycentrism	noun	polycentric|polycentr|R|Adj ; -ism|ism|S
+polycephalous	adj	polycephalous|polycephalous|R|Adj
+polychaetous	adj	polychaetous|polychaetous|R|Adj
+polychete	noun	polychete|polychete|R|N
+polychloroprene	noun	poly-|poly|P ; chloroprene|chloroprene|R|N
+polychord	noun	poly-|poly|P ; chord|chord|R|N
+polychoron	noun	polychoron|polychoron|R|N
+polychromy	noun	polychromy|polychromy|R|N
+polyclinic	noun	poly-|poly|P ; clinic|clinic|R|N
+polycondensation	noun	poly-|poly|P ; condensation|condensation|R|N
+polyconic	adj	poly-|poly|P ; conic|conic|R|Adj
+polycot	noun	poly-|poly|P ; cot|cot|R|N
+polycotyledon	noun	poly-|poly|P ; cotyledon|cotyledon|R|N
+polycracy	noun	polycracy|polycracy|R|N
+polycrisis	noun	poly-|poly|P ; crisis|crisis|R|N
+polycrystal	noun	poly-|poly|P ; crystal|crystal|R|N
+polycule	noun	polycule|polycule|R|N
+polyculture	noun	poly-|poly|P ; culture|culture|R|N
+polycythemia	noun	polycythemia|polycythemia|R|N
+polydactyl	noun	poly-|poly|P ; dactyl|dactyl|R|N
+polydactylism	noun	polydactyl|polydactyl|R|N ; -ism|ism|S
+polydactyly	noun	polydactyl|polydactyl|R|N ; -y|y|S
+polydemonism	noun	poly-|poly|P ; demon|demon|R|N ; -ism|ism|S
+polydimensional	adj	poly-|poly|P ; dimensional|dimensional|R|Adj
+polydipsia	noun	polydipsia|polydipsia|R|N
+polyembryonic	adj	poly-|poly|P ; embryonic|embryonic|R|Adj
+polyembryony	noun	polyembryony|polyembryony|R|N
+polyesterification	noun	poly-|poly|P ; esterification|esterification|R|N
+polyfactorial	adj	poly-|poly|P ; factorial|factorial|R|Adj
+polyfunctional	adj	poly-|poly|P ; functional|functional|R|Adj
+polygala	noun	polygala|polygala|R|N
+polygalactia	noun	polygalactia|polygalactia|R|N
+polygamic	adj	polygamy|polygam|R|N ; -ic|ic|S
+polygamously	adv	polygamous|polygamous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+polygastric	adj	poly-|poly|P ; gastric|gastric|R|Adj
+polygene	noun	poly-|poly|P ; gene|gene|R|N
+polygenesis	noun	poly-|poly|P ; genesis|genesis|R|N
+polygenesist	noun	polygenesis|polygenes|R|N ; -ist|ist|S
+polygenetic	adj	polygenesis|polygenet|R|N ; -ic|ic|S
+polygenic	adj	poly-|poly|P ; genic|genic|R|Adj
+polygeny	noun	polygeny|polygeny|R|N
+polyglandular	adj	poly-|poly|P ; glandular|glandular|R|Adj
+polyglotism	noun	polyglot|polyglot|R|N ; -ism|ism|S
+polyglottal	adj	poly-|poly|P ; glottal|glottal|R|Adj
+polyglottic	adj	poly-|poly|P ; glottic|glottic|R|Adj
+polyglottist	noun	polyglot|polyglott|R|N ; -ist|ist|S
+polyglottous	adj	polyglottous|polyglottous|R|Adj
+polygonally	adv	polygonal|polygonal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+polygonometry	noun	polygonometry|polygonometry|R|N
+polygonous	adj	polygon|polygon|R|N ; -ous|ous|S
+polygonum	noun	polygonum|polygonum|R|N
+polygraphy	noun	polygraphy|polygraphy|R|N
+polygynist	noun	polygyny|polygyn|R|N ; -ist|ist|S
+polyhaploid	noun	poly-|poly|P ; haploid|haploid|R|N
+polyharmonic	adj	poly-|poly|P ; harmonic|harmonic|R|Adj
+polyhedral	adj	polyhedral|polyhedral|R|Adj
+polyhedric	adj	polyhedric|polyhedric|R|Adj
+polyhedrosis	noun	polyhedrosis|polyhedrosis|R|N
+polyhistor	noun	polyhistor|polyhistor|R|N
+polyhistoric	adj	polyhistor|polyhistor|R|N ; -ic|ic|S
+polyhybrid	noun	poly-|poly|P ; hybrid|hybrid|R|N
+polyline	noun	poly-|poly|P ; line|line|R|N
+polymastia	noun	polymastia|polymastia|R|N
+polymathic	adj	polymath|polymath|R|N ; -ic|ic|S
+polymathy	noun	polymath|polymath|R|N ; -y|y|S
+polymerically	adv	polymeric|polymeric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+polymerism	noun	polymer|polymer|R|N ; -ism|ism|S
+polymerize	verb	polymer|polymer|R|N ; -ize|ize|S
+polymerizing	noun	polymerize|polymeriz|R|V ; -ing|ing|S||-ing (N)
+polymerous	adj	polymer|polymer|R|N ; -ous|ous|S
+polymery	noun	polymer|polymer|R|N ; -y|y|S
+polymetallic	adj	poly-|poly|P ; metallic|metallic|R|Adj
+polymitosis	noun	polymitosis|polymitosis|R|N
+polymolecular	adj	poly-|poly|P ; molecular|molecular|R|Adj
+polymorph	noun	poly-|poly|P ; morph|morph|R|N
+polymorphemic	adj	poly-|poly|P ; morphemic|morphemic|R|Adj
+polymorphocellular	adj	polymorphocellular|polymorphocellular|R|Adj
+polymorphonuclear	adj	polymorphonuclear|polymorphonuclear|R|Adj
+polymorphously	adv	polymorphous|polymorphous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+polymyositis	noun	polymyositis|polymyositis|R|N
+polymyxin	noun	polymyxin|polymyxin|R|N
+polyneuritis	noun	poly-|poly|P ; neuritis|neuritis|R|N
+polyneuropathy	noun	poly-|poly|P ; neuropathy|neuropathy|R|N
+polynuclear	adj	poly-|poly|P ; nuclear|nuclear|R|Adj
+polynya	noun	polynya|polynya|R|N
+polyol	noun	polyol|polyol|R|N
+polyomino	noun	polyomino|polyomino|R|N
+polyonychia	noun	polyonychia|polyonychia|R|N
+polyonymous	adj	polyonymous|polyonymous|R|Adj
+polyonymy	noun	polyonymy|polyonymy|R|N
+polyopia	noun	polyopia|polyopia|R|N
+polyorchism	noun	polyorchism|polyorchism|R|N
+polyoxymethylene	noun	poly-|poly|P ; oxymethylene|oxymethylene|R|N
+polyparasitism	noun	poly-|poly|P ; parasitism|parasitism|R|N
+polypary	noun	polypary|polypary|R|N
+polypetalous	adj	poly-|poly|P ; petalous|petalous|R|Adj
+polyphagia	noun	polyphagia|polyphagia|R|N
+polyphagian	noun	polyphagian|polyphagian|R|N
+polyphagous	adj	polyphagous|polyphagous|R|Adj
+polypharmacy	noun	poly-|poly|P ; pharmacy|pharmacy|R|N
+polyphase	adj	poly-|poly|P ; phase|phase|R|N
+polyphasic	adj	poly-|poly|P ; phasic|phasic|R|Adj
+polyphone	noun	poly-|poly|P ; phone|phone|R|N
+polyphonically	adv	polyphonic|polyphonic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+polyphonous	adj	polyphone|polyphon|R|N ; -ous|ous|S
+polyphonously	adv	polyphonous|polyphonous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+polyphosphate	noun	poly-|poly|P ; phosphate|phosphate|R|N
+polyphyletic	adj	poly-|poly|P ; phyletic|phyletic|R|Adj
+polyphyllous	adj	polyphyllous|polyphyllous|R|Adj
+polypite	noun	polypite|polypite|R|N
+polyplastic	adj	poly-|poly|P ; plastic|plastic|R|Adj
+polyplicate	adj	poly-|poly|P ; plicate|plicate|R|Adj
+polyploidization	noun	polyploidize|polyploidiz|R|V ; -ation|ation|S
+polypnea	noun	polypnea|polypnea|R|N
+polypod	noun	poly-|poly|P ; pod|pod|R|N
+polypody	noun	polypod|polypod|R|N ; -y|y|S
+polypous	adj	polyp|polyp|R|N ; -ous|ous|S
+polyptoton	noun	polyptoton|polyptoton|R|N
+polypus	noun	polypus|polypus|R|N
+polyrhizal	adj	polyrhizal|polyrhizal|R|Adj
+polysemantic	adj	poly-|poly|P ; semantic|semantic|R|Adj
+polyseme	noun	poly-|poly|P ; seme|seme|R|N
+polysemous	adj	polyseme|polysem|R|N ; -ous|ous|S
+polysepalous	adj	poly-|poly|P ; sepalous|sepalous|R|Adj
+polysiphonic	adj	poly-|poly|P ; siphonic|siphonic|R|Adj
+polysomaty	noun	polysomaty|polysomaty|R|N
+polysomic	adj	polysomic|polysomic|R|Adj
+polyspast	noun	polyspast|polyspast|R|N
+polyspermous	adj	polyspermous|polyspermous|R|Adj
+polysporous	adj	polysporous|polysporous|R|Adj
+polystelic	adj	polystelic|polystelic|R|Adj
+polystome	noun	polystome|polystome|R|N
+polysyllabically	adv	polysyllabic|polysyllabic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+polysyllable	noun	poly-|poly|P ; syllable|syllable|R|N
+polysymmetrical	adj	poly-|poly|P ; symmetrical|symmetrical|R|Adj
+polysynaptic	adj	poly-|poly|P ; synaptic|synaptic|R|Adj
+polysyndetic	adj	poly-|poly|P ; syndetic|syndetic|R|Adj
+polysyndeton	noun	poly-|poly|P ; syndeton|syndeton|R|N
+polysynthetic	adj	poly-|poly|P ; synthetic|synthetic|R|Adj
+polytarp	noun	poly-|poly|P ; tarp|tarp|R|N
+polytene	noun	polytene|polytene|R|N
+polytetrafluoroethylene	noun	poly-|poly|P ; tetrafluoroethylene|tetrafluoroethylene|R|N
+polytheist	noun	poly-|poly|P ; theist|theist|R|N
+polythelia	noun	polythelia|polythelia|R|N
+polytocous	adj	polytocous|polytocous|R|Adj

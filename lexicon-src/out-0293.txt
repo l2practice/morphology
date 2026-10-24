@@ -1,0 +1,200 @@
+goniocyst	noun	goniocyst|goniocyst|R|N
+goniometry	noun	goniometry|goniometry|R|N
+gonion	noun	gonion|gonion|R|N
+gonk	noun	gonk|gonk|R|N
+gonocalyx	noun	gonocalyx|gonocalyx|R|N
+gonococcus	noun	gonococcus|gonococcus|R|N
+gonoph	noun	gonoph|gonoph|R|N
+gonophore	noun	gonophore|gonophore|R|N
+gonopod	noun	gonopod|gonopod|R|N
+gonorrheal	adj	gonorrheal|gonorrheal|R|Adj
+goodhearted	adj	good|good|R|Adj ; heart|heart|R|N ; -ed|ed|S||-ed (adj)
+goodheartedness	noun	good|good|R|Adj ; heart|heart|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+goodish	adj	good|good|R|Adj ; -ish|ish|S
+goodliness	noun	good|good|R|Adj ; -ly|li|S||-ly (adj) ; -ness|ness|S
+goofily	adv	goof|goof|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+google	noun	google|google|R|N
+googly	noun	googly|googly|R|N
+googolplex	noun	googolplex|googolplex|R|N
+googolplexplex	noun	googolplexplex|googolplexplex|R|N
+goony	noun	goon|goon|R|N ; -y|y|S
+goosander	noun	goosander|goosander|R|N
+goosefoot	noun	goose|goose|R|N ; foot|foot|R|N
+gooseherd	noun	goose|goose|R|N ; herd|herd|R|N
+goosery	noun	goose|goos|R|N ; -ery|ery|S
+gopher	noun	gopher|gopher|R|N
+gopnik	noun	gopnik|gopnik|R|N
+goral	noun	goral|goral|R|N
+gorged	verb	gorge|gorg|R|V ; -ed|ed|I||-ed (v2)
+gorger	noun	gorge|gorg|R|V ; -er|er|S||-er (N)
+gorging	verb	gorge|gorg|R|V ; -ing|ing|I||-ing (v)
+gorgonian	noun	gorgon|gorgon|R|N ; -ian|ian|S
+gorgonize	verb	gorgon|gorgon|R|N ; -ize|ize|S
+gorgonzola	noun	gorgonzola|gorgonzola|R|N
+gorily	adv	gore|gor|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+goriness	noun	gore|gor|R|N ; -y|i|S ; -ness|ness|S
+goring	verb	gore|gor|R|V ; -ing|ing|I||-ing (v)
+gormandizer	noun	gormandize|gormandiz|R|V ; -er|er|S||-er (N)
+gormandizing	verb	gormandize|gormandiz|R|V ; -ing|ing|I||-ing (v)
+gormlessly	adv	gormless|gormless|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+gormlessness	noun	gormless|gormless|R|Adj ; -ness|ness|S
+gorodki	noun	gorodki|gorodki|R|N
+goropism	noun	goropism|goropism|R|N
+gorsy	noun	gorse|gors|R|N ; -y|y|S
+gossamery	adj	gossamer|gossamer|R|N ; -y|y|S
+gossan	noun	gossan|gossan|R|N
+gossiper	noun	gossip|gossip|R|N ; -er|er|S||-er (N)
+gossipmonger	noun	gossip|gossip|R|N ; monger|monger|R|N
+gossipry	noun	gossip|gossip|R|N ; -ry|ry|S
+gossoon	noun	gossoon|gossoon|R|N
+gotta	verb	gotta|gotta|R|V
+gotten	verb	get|gotten|R|V ; -en||I||-en (participle)
+gouda	noun	gouda|gouda|R|N
+goudron	noun	goudron|goudron|R|N
+gouger	noun	gouge|goug|R|V ; -er|er|S||-er (N)
+gourami	noun	gourami|gourami|R|N
+gourmandise	noun	gourmand|gourmand|R|N ; -ise|ise|S
+gourmandism	noun	gourmand|gourmand|R|N ; -ism|ism|S
+goutiness	noun	gout|gout|R|N ; -y|i|S ; -ness|ness|S
+goutte	noun	goutte|goutte|R|N
+gouty	adj	gout|gout|R|N ; -y|y|S
+governability	noun	govern|govern|R|V ; -able|abil|S ; -ity|ity|S
+governmentalism	noun	govern|govern|R|V ; -ment|ment|S ; -al|al|S ; -ism|ism|S
+governmentalist	noun	govern|govern|R|V ; -ment|ment|S ; -al|al|S ; -ist|ist|S
+governmentalize	verb	govern|govern|R|V ; -ment|ment|S ; -al|al|S ; -ize|ize|S
+gowk	noun	gowk|gowk|R|N
+gownsman	noun	gown|gowns|R|N ; man|man|R|N
+gowpen	noun	gowpen|gowpen|R|N
+grabble	verb	grabble|grabble|R|V
+graben	noun	graben|graben|R|N
+gracelessness	noun	grace|grace|R|N ; -less|less|S ; -ness|ness|S
+gracile	adj	gracile|gracile|R|Adj
+gracility	noun	gracile|gracil|R|Adj ; -ity|ity|S
+gracing	verb	grace|grac|R|V ; -ing|ing|I||-ing (v)
+gracioso	noun	gracioso|gracioso|R|N
+gradable	adj	grade|grad|R|V ; -able|able|S
+gradate	verb	grade|grad|R|V ; -ate|ate|S
+gradational	adj	grade|grad|R|V ; -ate|at|S ; -ion|ion|S ; -al|al|S
+gradationally	adv	grade|grad|R|V ; -ate|at|S ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+gradatory	adj	grade|grad|R|V ; -ate|at|S ; -ory|ory|S
+grades	noun	grade|grade|R|N ; -s|s|I||-s (plural)
+gradian	noun	gradian|gradian|R|N
+gradienter	noun	gradient|gradient|R|N ; -er|er|S||-er (N)
+gradin	noun	gradin|gradin|R|N
+gradine	noun	gradine|gradine|R|N
+gradiometer	noun	gradiometer|gradiometer|R|N
+gradualness	noun	gradual|gradual|R|Adj ; -ness|ness|S
+graduateship	noun	graduate|graduate|R|N ; -ship|ship|S
+graduator	noun	graduate|graduat|R|V ; -or|or|S
+gradus	noun	gradus|gradus|R|N
+graf	noun	graf|graf|R|N
+graftage	noun	graft|graft|R|N ; -age|age|S
+grafter	noun	graft|graft|R|V ; -er|er|S||-er (N)
+grainer	noun	grain|grain|R|N ; -er|er|S||-er (N)
+graining	noun	grain|grain|R|N ; -ing|ing|S||-ing (N)
+grains	noun	grain|grain|R|N ; -s|s|I||-s (plural)
+graminaceous	adj	graminaceous|graminaceous|R|Adj
+gramineous	adj	gramineous|gramineous|R|Adj
+graminivore	noun	graminivore|graminivore|R|N
+graminivorous	adj	graminivorous|graminivorous|R|Adj
+grammage	noun	gram|gramm|R|N ; -age|age|S
+grammalogue	noun	grammalogue|grammalogue|R|N
+grammaticality	noun	grammar|grammat|R|N ; -ical|ical|S ; -ity|ity|S
+grammaticalization	noun	grammar|grammat|R|N ; -ical|ical|S ; -ize|iz|S ; -ation|ation|S
+grammaticalize	verb	grammar|grammat|R|N ; -ical|ical|S ; -ize|ize|S
+grammaticism	noun	grammatic|grammatic|R|Adj ; -ism|ism|S
+grammaticize	verb	grammatic|grammatic|R|Adj ; -ize|ize|S
+grammatist	noun	grammar|grammat|R|N ; -ist|ist|S
+grammatite	noun	grammatite|grammatite|R|N
+gramp	noun	gramp|gramp|R|N
+grampus	noun	grampus|grampus|R|N
+granadilla	noun	granadilla|granadilla|R|N
+grandiloquence	noun	grandiloquence|grandiloquence|R|N
+grandiloquently	adv	grandiloquent|grandiloquent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+grandioso	noun	grandioso|grandioso|R|N
+grandmamma	noun	grand|grand|R|Adj ; mamma|mamma|R|N
+grandpapa	noun	grand|grand|R|Adj ; papa|papa|R|N
+grandsire	noun	grand|grand|R|Adj ; sire|sire|R|N
+grandstander	noun	grand|grand|R|Adj ; stand|stand|R|V ; -er|er|S||-er (N)
+grangerize	verb	granger|granger|R|N ; -ize|ize|S
+graniferous	adj	graniferous|graniferous|R|Adj
+graniform	adj	graniform|graniform|R|Adj
+granitelike	adj	granite|granite|R|N ; -like|like|S
+graniteware	noun	granite|granite|R|N ; ware|ware|R|N
+granitite	noun	granitite|granitite|R|N
+granitoid	noun	granitoid|granitoid|R|N
+granivore	noun	granivore|granivore|R|N
+granivorous	adj	granivorous|granivorous|R|Adj
+granodiorite	noun	granodiorite|granodiorite|R|N
+granolith	noun	granolith|granolith|R|N
+granolithic	adj	granolith|granolith|R|N ; -ic|ic|S
+granose	adj	granose|granose|R|Adj
+grantable	adj	grant|grant|R|V ; -able|able|S
+granted	verb	grant|grant|R|V ; -ed|ed|I||-ed (v2)
+grantedly	adv	grant|grant|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+granularly	adv	granular|granular|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+granulator	noun	granulate|granulat|R|V ; -or|or|S
+granulite	noun	granulite|granulite|R|N
+granulitic	adj	granulite|granulit|R|N ; -ic|ic|S
+granulomatosis	noun	granulomatosis|granulomatosis|R|N
+granulometry	noun	granulometry|granulometry|R|N
+granulous	adj	granule|granul|R|N ; -ous|ous|S
+grapery	noun	grape|grap|R|N ; -ery|ery|S
+grapeseed	noun	grape|grape|R|N ; seed|seed|R|N
+graphemic	adj	grapheme|graphem|R|N ; -ic|ic|S
+graphemics	noun	graphemic|graphemic|R|Adj ; -s|s|I||-s (plural)
+graphene	noun	graphene|graphene|R|N
+graphicness	noun	graphic|graphic|R|Adj ; -ness|ness|S
+graphitic	adj	graphite|graphit|R|N ; -ic|ic|S
+graphitization	noun	graphite|graphit|R|N ; -ize|iz|S ; -ation|ation|S
+graphitize	verb	graphite|graphit|R|N ; -ize|ize|S
+grapholect	noun	grapholect|grapholect|R|N
+graphological	adj	graphology|grapholog|R|N ; -ical|ical|S
+graphologist	noun	graphology|grapholog|R|N ; -ist|ist|S
+graphomania	noun	graphomania|graphomania|R|N
+graphomaniac	noun	graphomaniac|graphomaniac|R|N
+graphometer	noun	graphometer|graphometer|R|N
+graphometric	adj	graphometer|graphometr|R|N ; -ic|ic|S
+grapnel	noun	grapnel|grapnel|R|N
+graspingly	adv	grasp|grasp|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+graspingness	noun	grasp|grasp|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+graspless	adj	grasp|grasp|R|V ; -less|less|S
+grassfire	noun	grass|grass|R|N ; fire|fire|R|N
+grassiness	noun	grass|grass|R|N ; -y|i|S ; -ness|ness|S
+grassing	verb	grass|grass|R|N ; -ing|ing|I||-ing (v)
+gratifier	noun	gratify|gratifi|R|V ; -er|er|S||-er (N)
+gratinate	verb	gratin|gratin|R|N ; -ate|ate|S
+gratingly	adv	grate|grat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+graupel	noun	graupel|graupel|R|N
+gravamen	noun	gravamen|gravamen|R|N
+graveclothes	noun	grave|grave|R|N ; clothes|clothes|R|N
+graveless	adj	grave|grave|R|N ; -less|less|S
+gravelling	verb	gravel|gravell|R|N ; -ing|ing|I||-ing (v)
+graveness	noun	grave|grave|R|Adj ; -ness|ness|S
+graver	noun	grave|grav|R|V ; -er|er|S||-er (N)
+graverobber	noun	grave|grave|R|N ; rob|robb|R|V ; -er|er|S||-er (N)
+gravidity	noun	gravid|gravid|R|Adj ; -ity|ity|S
+gravidly	adv	gravid|gravid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+gravimeter	noun	gravimeter|gravimeter|R|N
+gravimetry	noun	gravimetry|gravimetry|R|N
+graving	verb	grave|grav|R|V ; -ing|ing|I||-ing (v)
+gravitas	noun	gravitas|gravitas|R|N
+gravitative	adj	gravitate|gravitat|R|V ; -ive|ive|S
+gravitino	noun	gravitino|gravitino|R|N
+gravure	noun	gravure|gravure|R|N
+grawlix	noun	grawlix|grawlix|R|N
+graybody	noun	gray|gray|R|Adj ; body|body|R|N
+grayly	adv	gray|gray|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+grazeable	adj	graze|graze|R|V ; -able|able|S
+grazier	noun	graze|graz|R|V ; -er|ier|S||-er (N)
+graziery	noun	graze|graz|R|V ; -er|ier|S||-er (N) ; -y|y|S
+greasily	adv	grease|greas|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+greasiness	noun	grease|greas|R|N ; -y|i|S ; -ness|ness|S
+greasing	verb	grease|greas|R|V ; -ing|ing|I||-ing (v)
+greaten	verb	great|great|R|Adj ; -en|en|S
+greatsword	noun	great|great|R|Adj ; sword|sword|R|N
+greave	noun	greave|greave|R|N
+greedyguts	noun	greed|greed|R|N ; -y|y|S ; guts|guts|R|N
+greek	noun	greek|greek|R|N
+greened	verb	green|green|R|Adj ; -ed|ed|I||-ed (v2)
+greener	adj	green|green|R|Adj ; -er|er|I||-er (comparative)

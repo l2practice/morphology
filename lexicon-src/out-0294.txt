@@ -1,0 +1,200 @@
+greenfinch	noun	green|green|R|Adj ; finch|finch|R|N
+greengage	noun	green|green|R|Adj ; gage|gage|R|N
+greenishness	noun	green|green|R|Adj ; -ish|ish|S ; -ness|ness|S
+greenlight	verb	green|green|R|Adj ; light|light|R|V
+greenockite	noun	greenockite|greenockite|R|N
+greens	noun	green|green|R|Adj ; -s|s|I||-s (plural)
+greensand	noun	green|green|R|Adj ; sand|sand|R|N
+greenschist	noun	green|green|R|Adj ; schist|schist|R|N
+greenshank	noun	green|green|R|Adj ; shank|shank|R|N
+greensick	adj	green|green|R|Adj ; sick|sick|R|Adj
+greenspace	noun	green|green|R|Adj ; space|space|R|N
+greentech	noun	green|green|R|Adj ; tech|tech|R|N
+greenwash	verb	green|green|R|Adj ; wash|wash|R|V
+greenwashing	noun	green|green|R|Adj ; wash|wash|R|V ; -ing|ing|S||-ing (N)
+greenyard	noun	green|green|R|Adj ; yard|yard|R|N
+greetings	noun	greet|greet|R|V ; -ing|ing|S||-ing (N) ; -s|s|I||-s (plural)
+greets	verb	greet|greet|R|V ; -s|s|I||-s (3sg)
+gregariously	adv	gregarious|gregarious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+greige	noun	greige|greige|R|N
+grep	verb	grep|grep|R|V
+grevillea	noun	grevillea|grevillea|R|N
+greybeard	noun	grey|grey|R|Adj ; beard|beard|R|N
+greylag	noun	greylag|greylag|R|N
+greywacke	noun	greywacke|greywacke|R|N
+gridder	noun	grid|gridd|R|N ; -er|er|S||-er (N)
+griddlecake	noun	griddle|griddle|R|N ; cake|cake|R|N
+gride	verb	gride|gride|R|V
+griefless	adj	grief|grief|R|N ; -less|less|S
+griever	noun	grieve|griev|R|V ; -er|er|S||-er (N)
+grievingly	adv	grieve|griev|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+grievousness	noun	grievous|grievous|R|Adj ; -ness|ness|S
+griff	noun	griff|griff|R|N
+griffonage	noun	griffonage|griffonage|R|N
+grift	noun	grift|grift|R|N
+grig	noun	grig|grig|R|N
+grillage	noun	grill|grill|R|V ; -age|age|S
+grilse	noun	grilse|grilse|R|N
+grimaced	verb	grimace|grimac|R|V ; -ed|ed|I||-ed (v2)
+grimacer	noun	grimace|grimac|R|V ; -er|er|S||-er (N)
+grimalkin	noun	grimalkin|grimalkin|R|N
+grimed	verb	grime|grim|R|N ; -ed|ed|I||-ed (v2)
+grimily	adv	grime|grim|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+griminess	noun	grime|grim|R|N ; -y|i|S ; -ness|ness|S
+grimoire	noun	grimoire|grimoire|R|N
+grindability	noun	grind|grind|R|V ; -able|abil|S ; -ity|ity|S
+grindery	noun	grind|grind|R|V ; -ery|ery|S
+grindingly	adv	grind|grind|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+grinds	verb	grind|grind|R|V ; -s|s|I||-s (3sg)
+grinningly	adv	grin|grinn|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+griper	noun	gripe|grip|R|V ; -er|er|S||-er (N)
+grippe	noun	grippe|grippe|R|N
+gripped	verb	grip|gripp|R|V ; -ed|ed|I||-ed (v2)
+grippingly	adv	grip|gripp|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+gripsack	noun	grip|grip|R|N ; sack|sack|R|N
+griseous	adj	griseous|griseous|R|Adj
+grisette	noun	grisette|grisette|R|N
+griskin	noun	griskin|griskin|R|N
+grisliness	noun	grisly|grisli|R|Adj ; -ness|ness|S
+grison	noun	grison|grison|R|N
+gristliness	noun	grist|grist|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+gristly	adj	grist|grist|R|N ; -ly|ly|S||-ly (adj)
+grits	noun	grit|grit|R|N ; -s|s|I||-s (plural)
+gritter	noun	grit|gritt|R|N ; -er|er|S||-er (N)
+grittily	adv	grit|gritt|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+grivna	noun	grivna|grivna|R|N
+grizzling	verb	grizzle|grizzl|R|V ; -ing|ing|I||-ing (v)
+groaningly	adv	groan|groan|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+grobian	noun	grobian|grobian|R|N
+groceries	noun	grocer|grocer|R|N ; -y|i|S ; -s|es|I||-s (plural)
+groceteria	noun	groceteria|groceteria|R|N
+groggery	noun	grog|grogg|R|N ; -ery|ery|S
+grogram	noun	grogram|grogram|R|N
+groined	verb	groin|groin|R|N ; -ed|ed|I||-ed (v2)
+grok	verb	grok|grok|R|V
+gromwell	noun	gromwell|gromwell|R|N
+groover	noun	groove|groov|R|N ; -er|er|S||-er (N)
+grooviness	noun	groove|groov|R|N ; -y|i|S ; -ness|ness|S
+grooving	verb	groove|groov|R|V ; -ing|ing|I||-ing (v)
+groper	noun	grope|grop|R|V ; -er|er|S||-er (N)
+gropingly	adv	grope|grop|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+groschen	noun	groschen|groschen|R|N
+grossular	noun	grossular|grossular|R|N
+grossularite	noun	grossularite|grossularite|R|N
+grot	noun	grot|grot|R|N
+grotesqueness	noun	grotesque|grotesque|R|Adj ; -ness|ness|S
+grottiness	noun	grot|grott|R|N ; -y|i|S ; -ness|ness|S
+grouchily	adv	grouch|grouch|R|V ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+grouchiness	noun	grouch|grouch|R|V ; -y|i|S ; -ness|ness|S
+grouching	verb	grouch|grouch|R|V ; -ing|ing|I||-ing (v)
+groundage	noun	ground|ground|R|N ; -age|age|S
+groundbait	noun	ground|ground|R|N ; bait|bait|R|N
+groundcherry	noun	ground|ground|R|N ; cherry|cherry|R|N
+groundedly	adv	ground|ground|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+groundlessly	adv	ground|ground|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+groundlessness	noun	ground|ground|R|N ; -less|less|S ; -ness|ness|S
+groundpecker	noun	ground|ground|R|N ; peck|peck|R|V ; -er|er|S||-er (N)
+grounds	noun	ground|ground|R|N ; -s|s|I||-s (plural)
+groundsel	noun	groundsel|groundsel|R|N
+groupment	noun	group|group|R|N ; -ment|ment|S
+groupoid	noun	groupoid|groupoid|R|N
+groupuscule	noun	groupuscule|groupuscule|R|N
+groupwork	noun	group|group|R|N ; work|work|R|N
+grouser	noun	grouse|grous|R|V ; -er|er|S||-er (N)
+grouter	noun	grout|grout|R|N ; -er|er|S||-er (N)
+grouts	verb	grout|grout|R|V ; -s|s|I||-s (3sg)
+grouty	adj	grout|grout|R|N ; -y|y|S
+groveler	noun	grovel|grovel|R|V ; -er|er|S||-er (N)
+groveller	noun	grovel|grovell|R|V ; -er|er|S||-er (N)
+growingly	adv	grow|grow|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+growler	noun	growl|growl|R|V ; -er|er|S||-er (N)
+growly	adj	growl|growl|R|V ; -y|y|S
+grubber	noun	grub|grubb|R|V ; -er|er|S||-er (N)
+grubbily	adv	grub|grubb|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+grubbiness	noun	grub|grubb|R|N ; -y|i|S ; -ness|ness|S
+grubbing	verb	grub|grubb|R|V ; -ing|ing|I||-ing (v)
+grubstake	noun	grub|grub|R|N ; stake|stake|R|N
+grudger	noun	grudge|grudg|R|V ; -er|er|S||-er (N)
+grue	noun	grue|grue|R|N
+gruesomeness	noun	gruesome|gruesome|R|Adj ; -ness|ness|S
+gruffish	adj	gruff|gruff|R|Adj ; -ish|ish|S
+gruffy	adj	gruff|gruff|R|Adj ; -y|y|S
+gruiform	adj	gruiform|gruiform|R|Adj
+grumbler	noun	grumble|grumbl|R|V ; -er|er|S||-er (N)
+grumblingly	adv	grumble|grumbl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+grumbly	adj	grumble|grumbl|R|V ; -y|y|S
+grume	noun	grume|grume|R|N
+grumose	adj	grumose|grumose|R|Adj
+grumous	adj	grumous|grumous|R|Adj
+grumpish	adj	grump|grump|R|N ; -ish|ish|S
+grundy	noun	grundy|grundy|R|N
+grunter	noun	grunt|grunt|R|V ; -er|er|S||-er (N)
+gruntingly	adv	grunt|grunt|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+gruntled	adj	gruntle|gruntl|R|V ; -ed|ed|S||-ed (adj)
+gruntling	noun	gruntle|gruntl|R|V ; -ing|ing|S||-ing (N)
+grysbok	noun	grysbok|grysbok|R|N
+gt	?	?
+guacharo	noun	guacharo|guacharo|R|N
+guaco	noun	guaco|guaco|R|N
+guaiac	noun	guaiac|guaiac|R|N
+guaiacum	noun	guaiacum|guaiacum|R|N
+guanidine	noun	guanidine|guanidine|R|N
+guaniferous	adj	guaniferous|guaniferous|R|Adj
+guanophore	noun	guanophore|guanophore|R|N
+guanosine	noun	guanosine|guanosine|R|N
+guanxi	noun	guanxi|guanxi|R|N
+guardedness	noun	guard|guard|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+guarder	noun	guard|guard|R|V ; -er|er|S||-er (N)
+guardless	adj	guard|guard|R|V ; -less|less|S
+gubbins	noun	gubbin|gubbin|R|N ; -s|s|I||-s (plural)
+gubernaculum	noun	gubernaculum|gubernaculum|R|N
+guberniya	noun	guberniya|guberniya|R|N
+guddle	verb	guddle|guddle|R|V
+gudgeon	noun	gudgeon|gudgeon|R|N
+guenon	noun	guenon|guenon|R|N
+guerdon	noun	guerdon|guerdon|R|N
+guereza	noun	guereza|guereza|R|N
+guestship	noun	guest|guest|R|N ; -ship|ship|S
+gug	noun	gug|gug|R|N
+guggul	noun	guggul|guggul|R|N
+guichet	noun	guichet|guichet|R|N
+guidable	adj	guide|guid|R|V ; -able|able|S
+guideless	adj	guide|guide|R|V ; -less|less|S
+guideword	noun	guide|guide|R|V ; word|word|R|N
+guidon	noun	guidon|guidon|R|N
+guildmaster	noun	guild|guild|R|N ; master|master|R|N
+guildsman	noun	guild|guilds|R|N ; man|man|R|N
+guileful	adj	guile|guile|R|N ; -ful|ful|S
+guilefully	adv	guile|guile|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+guilefulness	noun	guile|guile|R|N ; -ful|ful|S ; -ness|ness|S
+guilelessness	noun	guile|guile|R|N ; -less|less|S ; -ness|ness|S
+guillemet	noun	guillemet|guillemet|R|N
+guiltiness	noun	guilt|guilt|R|N ; -y|i|S ; -ness|ness|S
+guiltlessly	adv	guilt|guilt|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+guiltlessness	noun	guilt|guilt|R|N ; -less|less|S ; -ness|ness|S
+guimpe	noun	guimpe|guimpe|R|N
+guiro	noun	guiro|guiro|R|N
+guitarfish	noun	guitar|guitar|R|N ; fish|fish|R|N
+gular	adj	gular|gular|R|Adj
+gulden	noun	gulden|gulden|R|N
+gules	noun	gules|gules|R|N
+gulfy	adj	gulf|gulf|R|N ; -y|y|S
+guller	noun	gull|gull|R|V ; -er|er|S||-er (N)
+gullery	noun	gull|gull|R|N ; -ery|ery|S
+gullibly	adv	gull|gull|R|V ; -ible|ibl|S ; -ly|y|I|Adv|-ly (adv)
+gulper	noun	gulp|gulp|R|V ; -er|er|S||-er (N)
+gulpingly	adv	gulp|gulp|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+gumboil	noun	gum|gum|R|N ; boil|boil|R|N
+gumby	noun	gumby|gumby|R|N
+gumma	noun	gumma|gumma|R|N
+gummer	noun	gum|gumm|R|N ; -er|er|S||-er (N)
+gummi	noun	gummi|gummi|R|N
+gummiferous	adj	gummiferous|gummiferous|R|Adj
+gumminess	noun	gum|gumm|R|N ; -y|i|S ; -ness|ness|S
+gumming	verb	gum|gumm|R|V ; -ing|ing|I||-ing (v)
+gungy	adj	gunge|gung|R|N ; -y|y|S
+gunite	noun	gunite|gunite|R|N
+gunned	verb	gun|gunn|R|V ; -ed|ed|I||-ed (v2)
+gunning	verb	gun|gunn|R|V ; -ing|ing|I||-ing (v)
+gunport	noun	gun|gun|R|N ; port|port|R|N
+gunroom	noun	gun|gun|R|N ; room|room|R|N

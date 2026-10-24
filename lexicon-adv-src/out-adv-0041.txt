@@ -1,0 +1,150 @@
+dissonance	noun	dis-|dis|P||||Latin dis- 'apart' ; -son-|son|B|N|||Latin sonus 'sound' ; -ance|ance|S||||Latin -antia 'state'
+citywide	adj	=
+curt	adj	=
+macro	noun	=
+ether	noun	=
+irrigate	verb	=
+rapture	noun	rapt-|rapt|B|V|||Latin rapere 'to seize' ; -ure|ure|S||||Latin -ura 'act'
+audacious	adj	aud-|aud|B|V|||Latin audere 'to dare' ; -acious|acious|S||||Latin -ax 'inclined to'
+bonnie	adj	=
+regency	noun	=
+despicable	adj	de-|de|P||||Latin de 'down' ; -spic-|spic|B|V||spect|Latin specere 'to look' ; -able|able|S||||Latin -abilis 'able'
+inflection	noun	in-|in|P||||Latin in- 'into' ; -flect-|flect|B|V|||Latin flectere 'to bend' ; -ion|ion|S||||Latin -io 'act, state'
+auburn	adj	=
+concourse	noun	=
+talon	noun	=
+vernacular	noun	=
+frenetic	adj	fren-|fren|B|N|||Greek phrēn 'mind' ; -etic|etic|S||||Greek -etikos 'pertaining to'
+liberalize	verb	=
+rampart	noun	=
+methamphetamine	noun	=
+degeneration	noun	de-|de|P||||Latin de 'down' ; -gener-|gener|B|N|||Latin genus 'kind' ; -ation|ation|S||||Latin -atio 'act, state'
+executioner	noun	=
+furtive	adj	=
+languid	adj	langu-|langu|B|V|||Latin languere 'to faint' ; -id|id|S||||Latin -idus 'tending to'
+specialism	noun	=
+electrify	verb	=
+dupe	noun	=
+educationalist	noun	=
+firefly	noun	=
+anchorage	noun	=
+saffron	noun	=
+amphibian	noun	amphi-|amphi|P||||Greek amphi 'both' ; -bi-|bi|B|N|||Greek bios 'life' ; -an|an|S||||Latin -anus 'pertaining to'
+epistemology	noun	epistem-|epistem|B|N|||Greek epistēmē 'knowledge' ; -ology|ology|B|N|||Greek logos 'study, word'
+arbor	noun	=
+emissary	noun	e-|e|P||||Latin ex- 'out' ; -miss-|miss|B|V|||Latin mittere 'to send' ; -ary|ary|S||||Latin -arius 'agent'
+decadent	noun	de-|de|P||||Latin de 'down' ; -cad-|cad|B|V|||Latin cadere 'to fall' ; -ent|ent|S||||Latin -ens 'agent'
+bouncer	noun	=
+requiem	noun	=
+liquidate	verb	=
+blanch	verb	=
+umbilical	adj	umbilic-|umbilic|B|N|||Latin umbilicus 'navel' ; -al|al|S||||Latin -alis 'pertaining to'
+feta	noun	=
+exorbitant	adj	ex-|ex|P||||Latin ex- 'out' ; orbit|orbit|R|N ; -ant|ant|S||||Latin -ans 'agent'
+moray	noun	=
+rhubarb	noun	=
+frugal	adj	=
+destitute	adj	de-|de|P||||Latin de 'down' ; -stit-|stit|B|V|||Latin statuere 'to set' ; -ute|ute|S||||Latin -utus 'past participle'
+intoxicate	verb	=
+mediocrity	noun	=
+anaerobic	adj	=
+voracious	adj	vor-|vor|B|V|||Latin vorare 'to devour' ; -acious|acious|S||||Latin -ax 'inclined to'
+equestrian	adj	equestr-|equestr|B|N|||Latin equus 'horse' ; -ian|ian|S||||Latin -ianus 'pertaining to'
+decrepit	adj	de-|de|P||||Latin de 'down' ; -crepit|crepit|B|V|||Latin crepare 'to creak'
+transcendental	adj	trans-|trans|P||||Latin trans 'across' ; -scend-|cend|B|V||scand|Latin scandere 'to climb' ; -ent|ent|S||||Latin -ens 'agent' ; -al|al|S||||Latin -alis 'pertaining to'
+seclusion	noun	se-|se|P||||Latin se- 'apart' ; -clus-|clus|B|V||clude|Latin claudere 'to shut' ; -ion|ion|S||||Latin -io 'act, state'
+typology	noun	typo-|typo|B|N|||Greek tupos 'type' ; -logy|logy|B|N|||Greek logos 'study, word'
+expectant	adj	ex-|ex|P||||Latin ex- 'out' ; -pect-|pect|B|V||spect|Latin spectare 'to look' ; -ant|ant|S||||Latin -ans 'agent'
+mountaineering	noun	=
+eraser	noun	=
+peddler	noun	=
+opulent	adj	=
+sapphire	noun	=
+chastity	noun	=
+sobriety	noun	=
+indent	verb	=
+synthesizer	noun	=
+occult	adj	=
+feces	noun	=
+truckload	noun	=
+paucity	noun	=
+artistically	adv	=
+stockist	noun	=
+negation	noun	=
+meddle	verb	=
+eloquence	noun	e-|e|P||||Latin ex- 'out' ; -loqu-|loqu|B|V|||Latin loqui 'to speak' ; -ence|ence|S||||Latin -entia 'state'
+irreverent	adj	=
+vestry	noun	vest-|vest|B|N|||Latin vestis 'garment' ; -ry|ry|S||||Latin -arium 'place for'
+cadaver	noun	=
+careen	verb	=
+hernia	noun	=
+congruent	adj	=
+abhor	verb	ab-|ab|P||||Latin ab- 'from' ; -hor|hor|B|V|||Latin horrere 'to shudder'
+vegetative	adj	=
+conurbation	noun	con-|con|P||||Latin com- 'together' ; -urb-|urb|B|N|||Latin urbs 'city' ; -ation|ation|S||||Latin -atio 'act, state'
+transducer	noun	=
+mercer	noun	merc-|merc|B|N|||Latin merx 'goods' ; -er|er|S
+mercantile	adj	mercant-|mercant|B|V|||Latin mercari 'to trade' ; -ile|ile|S||||Latin -ilis 'pertaining to'
+ethnographer	noun	=
+audacity	noun	aud-|aud|B|V|||Latin audere 'to dare' ; -acity|acity|S||||Latin -acitas 'state'
+assuage	verb	=
+duress	noun	dur-|dur|B|Adj|||Latin durus 'hard' ; -ess|ess|S||||Latin -itia 'state'
+glut	noun	=
+iridescent	adj	irid-|irid|B|N|||Latin iris 'rainbow' ; -escent|escent|S||||Latin -escens 'becoming'
+ointment	noun	oint-|oint|B|V|||Latin unguere 'to anoint' ; -ment|ment|S||||Latin -mentum 'result'
+autoimmune	adj	=
+dialectical	adj	=
+atonement	noun	=
+ruse	noun	=
+infestation	noun	=
+gratuitous	adj	=
+gusto	noun	=
+vagrant	noun	vagr-|vagr|B|V|||Latin vagari 'to wander' ; -ant|ant|S||||Latin -ans 'agent'
+pique	noun	=
+commensurate	adj	com-|com|P||||Latin com- 'together' ; -mensur-|mensur|B|V|||Latin metiri 'to measure' ; -ate|ate|S||||Latin -atus 'having'
+nomenclature	noun	nomen-|nomen|B|N|||Latin nomen 'name' ; -clature|clature|B|V|||Latin calare 'to call'
+repellent	noun	=
+micron	noun	=
+eyre	noun	=
+convex	adj	con-|con|P||||Latin com- 'together' ; -vex|vex|B|V|||Latin vehere 'to carry'
+lackluster	adj	=
+bray	verb	=
+anemone	noun	=
+kestrel	noun	=
+sentient	adj	sent-|sent|B|V|||Latin sentire 'to feel' ; -ient|ient|S||||Latin -iens 'agent'
+legume	noun	=
+irate	adj	ir-|ir|B|N|||Latin ira 'anger' ; -ate|ate|S||||Latin -atus 'having'
+lasagna	noun	=
+succulent	adj	=
+portico	noun	port-|port|B|N|||Latin porta 'gate' ; -ico|ico|S||||Latin -icus 'pertaining to'
+postpartum	adj	post-|post|P||||Latin post 'after' ; -partum|partum|B|V|||Latin parere 'to bear'
+distillery	noun	=
+aerodrome	noun	aero-|aero|B|N|||Greek aēr 'air' ; -drome|drome|B|N|||Greek dromos 'course'
+catechism	noun	catech-|catech|B|V|||Greek katēkhein 'to teach' ; -ism|ism|S||||Greek -ismos 'doctrine'
+longitude	noun	=
+peregrine	noun	=
+trellis	noun	=
+latte	noun	=
+axiom	noun	=
+opine	verb	=
+plotter	noun	=
+gobbler	noun	=
+cremation	noun	=
+conscript	noun	con-|con|P||||Latin com- 'together' ; -script|script|B|V|||Latin scribere 'to write'
+marginalization	noun	=
+individualist	noun	=
+progeny	noun	=
+orbiter	noun	=
+jittery	adj	=
+satchel	noun	=
+amputee	noun	amput-|amput|B|V|||Latin amputare 'to cut off' ; -ee|ee|S||||French -é 'one acted on'
+dynastic	adj	=
+draconian	adj	=
+symbiotic	adj	sym-|sym|P||||Greek sun 'with' ; -bi-|bi|B|N|||Greek bios 'life' ; -otic|otic|S||||Greek -ōtikos 'pertaining to'
+pecuniary	adj	=
+materialist	noun	=
+lingo	noun	ling-|ling|B|N|||Latin lingua 'tongue' ; -o|o|S||||Latin -o 'diminutive'
+enforcer	noun	=
+pita	noun	=
+meningitis	noun	mening-|mening|B|N|||Greek mēninx 'membrane' ; -itis|itis|S||||Greek -itis 'inflammation'
+precipitous	adj	pre-|pre|P||||Latin prae 'before' ; -cipit-|cipit|B|N||capit|Latin caput 'head' ; -ous|ous|S||||Latin -osus 'full of'

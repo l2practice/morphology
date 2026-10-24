@@ -1,0 +1,200 @@
+laumontite	noun	laumontite|laumontite|R|N
+laundrywoman	noun	launder|laundr|R|V ; -y|y|S ; woman|woman|R|N
+laupele	noun	laupele|laupele|R|N
+lauraceous	adj	lauraceous|lauraceous|R|Adj
+laureateship	noun	laureate|laureate|R|N ; -ship|ship|S
+laurelled	adj	laurel|laurell|R|N ; -ed|ed|S||-ed (adj)
+laurestine	noun	laurestine|laurestine|R|N
+lavabo	noun	lavabo|lavabo|R|N
+lavalier	noun	lavalier|lavalier|R|N
+lavaret	noun	lavaret|lavaret|R|N
+lavash	noun	lavash|lavash|R|N
+lavendered	adj	lavender|lavender|R|N ; -ed|ed|S||-ed (adj)
+laving	verb	lave|lav|R|V ; -ing|ing|I||-ing (v)
+lavishing	verb	lavish|lavish|R|V ; -ing|ing|I||-ing (v)
+lavishment	noun	lavish|lavish|R|V ; -ment|ment|S
+lavolta	noun	lavolta|lavolta|R|N
+lavvie	noun	lavvie|lavvie|R|N
+lawfare	noun	lawfare|lawfare|R|N
+lawlessly	adv	law|law|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+lawny	adj	lawn|lawn|R|N ; -y|y|S
+lawrencium	noun	lawrencium|lawrencium|R|N
+lawspeaker	noun	law|law|R|N ; speak|speak|R|V ; -er|er|S||-er (N)
+laxation	noun	lax|lax|R|Adj ; -ation|ation|S
+laxly	adv	lax|lax|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+laxness	noun	lax|lax|R|Adj ; -ness|ness|S
+layerage	noun	layer|layer|R|N ; -age|age|S
+laystall	noun	lay|lay|R|V ; stall|stall|R|N
+laytime	noun	lay|lay|R|V ; time|time|R|N
+lazaret	noun	lazaret|lazaret|R|N
+lazaretto	noun	lazaretto|lazaretto|R|N
+lazurite	noun	lazurite|lazurite|R|N
+lazybones	noun	lazy|lazy|R|Adj ; bone|bone|R|N ; -s|s|I||-s (plural)
+leachability	noun	leach|leach|R|V ; -able|abil|S ; -ity|ity|S
+leachable	adj	leach|leach|R|V ; -able|able|S
+leaderette	noun	leader|leader|R|N ; -ette|ette|S
+leadline	noun	lead|lead|R|N ; line|line|R|N
+leadsman	noun	lead|leads|R|N ; man|man|R|N
+leadwork	noun	lead|lead|R|N ; work|work|R|N
+leafage	noun	leaf|leaf|R|N ; -age|age|S
+leafiness	noun	leaf|leaf|R|N ; -y|i|S ; -ness|ness|S
+leafing	verb	leaf|leaf|R|V ; -ing|ing|I||-ing (v)
+leaflike	adj	leaf|leaf|R|N ; -like|like|S
+leafstalk	noun	leaf|leaf|R|N ; stalk|stalk|R|N
+leafworm	noun	leaf|leaf|R|N ; worm|worm|R|N
+leakiness	noun	leak|leak|R|V ; -y|i|S ; -ness|ness|S
+leakless	adj	leak|leak|R|V ; -less|less|S
+leans	noun	lean|lean|R|N ; -s|s|I||-s (plural)
+leapfrogging	verb	leap|leap|R|V ; frog|frogg|R|N ; -ing|ing|I||-ing (v)
+learnedly	adv	learned|learned|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+leastwise	adv	least|least|R|Adj ; -wise|wise|S
+leat	noun	leat|leat|R|N
+leathern	adj	leathern|leathern|R|Adj
+leatherware	noun	leather|leather|R|N ; ware|ware|R|N
+leatherwood	noun	leather|leather|R|N ; wood|wood|R|N
+leatherworker	noun	leather|leather|R|N ; work|work|R|V ; -er|er|S||-er (N)
+leavings	noun	leave|leav|R|V ; -ing|ing|S||-ing (N) ; -s|s|I||-s (plural)
+lebbek	noun	lebbek|lebbek|R|N
+lecherously	adv	lecherous|lecherous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+lecherousness	noun	lecherous|lecherous|R|Adj ; -ness|ness|S
+lechwe	noun	lechwe|lechwe|R|N
+lect	noun	lect|lect|R|N
+lectica	noun	lectica|lectica|R|N
+lection	noun	lection|lection|R|N
+lectotype	noun	lectotype|lectotype|R|N
+lede	noun	lede|lede|R|N
+leeboard	noun	lee|lee|R|N ; board|board|R|N
+leeching	verb	leech|leech|R|V ; -ing|ing|I||-ing (v)
+leechlike	adj	leech|leech|R|N ; -like|like|S
+leerfish	noun	leerfish|leerfish|R|N
+leeriness	noun	leer|leer|R|V ; -y|i|S ; -ness|ness|S
+lees	noun	lees|lees|R|N
+leftard	noun	leftard|leftard|R|N
+legalist	noun	legal|legal|R|Adj ; -ist|ist|S
+legateship	noun	legate|legate|R|N ; -ship|ship|S
+legator	noun	legate|legat|R|N ; -or|or|S
+legendist	noun	legend|legend|R|N ; -ist|ist|S
+legendize	verb	legend|legend|R|N ; -ize|ize|S
+legendry	noun	legend|legend|R|N ; -ry|ry|S
+legerity	noun	legerity|legerity|R|N
+legislatorship	noun	legislator|legislator|R|N ; -ship|ship|S
+legist	noun	legist|legist|R|N
+legitimatize	verb	legitimate|legitimat|R|Adj ; -ize|ize|S
+legitime	noun	legitime|legitime|R|N
+legitimism	noun	legitimate|legitim|R|Adj ; -ism|ism|S
+legitimist	noun	legitimate|legitim|R|Adj ; -ist|ist|S
+legman	noun	leg|leg|R|N ; man|man|R|N
+legs	noun	leg|leg|R|N ; -s|s|I||-s (plural)
+legumin	noun	legumin|legumin|R|N
+lehr	noun	lehr|lehr|R|N
+leister	noun	leister|leister|R|N
+leisureliness	noun	leisure|leisure|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+lekker	adj	lekker|lekker|R|Adj
+leman	noun	leman|leman|R|N
+lemmatisation	noun	lemmatise|lemmatis|R|V ; -ation|ation|S
+lemmatize	verb	lemma|lemmat|R|N ; -ize|ize|S
+lemniscate	noun	lemniscate|lemniscate|R|N
+lemniscatic	adj	lemniscate|lemniscat|R|N ; -ic|ic|S
+lemures	noun	lemures|lemures|R|N
+lengthily	adv	length|length|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+lengthiness	noun	length|length|R|N ; -y|i|S ; -ness|ness|S
+lengthman	noun	length|length|R|N ; man|man|R|N
+lenience	noun	lenient|leni|R|Adj ; -ence|ence|S
+lenis	adj	lenis|lenis|R|Adj
+lenite	verb	lenite|lenite|R|V
+lenition	noun	lenite|lenit|R|V ; -ion|ion|S
+lenitive	adj	lenite|lenit|R|V ; -ive|ive|S
+lenity	noun	lenity|lenity|R|N
+lensed	adj	lens|lens|R|N ; -ed|ed|S||-ed (adj)
+lensless	adj	lens|lens|R|N ; -less|less|S
+lentic	adj	lentic|lentic|R|Adj
+lentiform	adj	lentiform|lentiform|R|Adj
+lentiginous	adj	lentiginous|lentiginous|R|Adj
+lentisk	noun	lentisk|lentisk|R|N
+lento	adv	lento|lento|R|Adv
+lentoid	adj	lentoid|lentoid|R|Adj
+leo	noun	leo|leo|R|N
+leopardess	noun	leopard|leopard|R|N ; -ess|ess|S
+leopardsbane	noun	leopard|leopards|R|N ; bane|bane|R|N
+lepidolite	noun	lepidolite|lepidolite|R|N
+lepidopteran	noun	lepidoptera|lepidopter|R|N ; -an|an|S
+lepidopterology	noun	lepidopterology|lepidopterology|R|N
+lepidopteron	noun	lepidopteron|lepidopteron|R|N
+lepidopterous	adj	lepidoptera|lepidopter|R|N ; -ous|ous|S
+lepidote	adj	lepidote|lepidote|R|Adj
+leporid	noun	leporid|leporid|R|N
+leporine	adj	leporine|leporine|R|Adj
+leprosarium	noun	leprosarium|leprosarium|R|N
+leprosery	noun	leprosy|lepros|R|N ; -ery|ery|S
+leprotic	adj	leprosy|leprot|R|N ; -ic|ic|S
+leptocephalic	adj	leptocephalus|leptocephal|R|N ; -ic|ic|S
+leptocephalus	noun	leptocephalus|leptocephalus|R|N
+leptodactyl	noun	leptodactyl|leptodactyl|R|N
+leptokurtic	adj	leptokurtosis|leptokurt|R|N ; -ic|ic|S
+leptokurtosis	noun	leptokurtosis|leptokurtosis|R|N
+leptonic	adj	lepton|lepton|R|N ; -ic|ic|S
+leptorrhine	adj	leptorrhine|leptorrhine|R|Adj
+leptotene	noun	leptotene|leptotene|R|N
+lesbophobia	noun	lesbophobia|lesbophobia|R|N
+lesene	noun	lesene|lesene|R|N
+leshy	noun	leshy|leshy|R|N
+lespedeza	noun	lespedeza|lespedeza|R|N
+letch	noun	letch|letch|R|N
+lethe	noun	lethe|lethe|R|N
+lethean	adj	lethe|lethe|R|N ; -an|an|S
+letterless	adj	letter|letter|R|N ; -less|less|S
+letters	noun	letter|letter|R|N ; -s|s|I||-s (plural)
+letup	noun	let|let|R|V ; up|up|R|Adv
+leu	noun	leu|leu|R|N
+leucism	noun	leucism|leucism|R|N
+leucite	noun	leucite|leucite|R|N
+leucocythemia	noun	leucocythemia|leucocythemia|R|N
+leucocytic	adj	leucocyte|leucocyt|R|N ; -ic|ic|S
+leucocytosis	noun	leucocytosis|leucocytosis|R|N
+leucoderma	noun	leucoderma|leucoderma|R|N
+leucoma	noun	leucoma|leucoma|R|N
+leucoplast	noun	leucoplast|leucoplast|R|N
+leucoplastid	noun	leucoplastid|leucoplastid|R|N
+leukoplakia	noun	leukoplakia|leukoplakia|R|N
+leukorrhea	noun	leukorrhea|leukorrhea|R|N
+levanter	noun	levant|levant|R|N ; -er|er|S||-er (N)
+levered	verb	lever|lever|R|V ; -ed|ed|I||-ed (v2)
+leveret	noun	leveret|leveret|R|N
+levetiracetam	noun	levetiracetam|levetiracetam|R|N
+leviable	adj	levy|levi|R|V ; -able|able|S
+levigate	verb	levigate|levigate|R|V
+levigation	noun	levigation|levigation|R|N
+levirate	noun	levirate|levirate|R|N
+levitant	adj	levitant|levitant|R|Adj
+levitical	adj	levitical|levitical|R|Adj
+levogyrate	adj	levogyrate|levogyrate|R|Adj
+levonorgestrel	noun	levonorgestrel|levonorgestrel|R|N
+levorotatory	adj	levorotatory|levorotatory|R|Adj
+levulose	noun	levulose|levulose|R|N
+lewisite	noun	lewisite|lewisite|R|N
+lewisson	noun	lewisson|lewisson|R|N
+lexeme	noun	lexeme|lexeme|R|N
+lexicalization	noun	lexicalize|lexicaliz|R|V ; -ation|ation|S
+lexicalize	verb	lexical|lexical|R|Adj ; -ize|ize|S
+lexicographic	adj	lexicography|lexicograph|R|N ; -ic|ic|S
+lexicographical	adj	lexicography|lexicograph|R|N ; -ical|ical|S
+lexicographically	adv	lexicography|lexicograph|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+lexicological	adj	lexicology|lexicolog|R|N ; -ical|ical|S
+lexicologically	adv	lexicology|lexicolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+lexicologist	noun	lexicology|lexicolog|R|N ; -ist|ist|S
+lexicology	noun	lexicology|lexicology|R|N
+lexigraphy	noun	lexigraphy|lexigraphy|R|N
+leyn	noun	leyn|leyn|R|N
+li	noun	li|li|R|N
+liabilities	noun	liable|liabil|R|Adj ; -ity|iti|S ; -s|es|I||-s (plural)
+lianoid	adj	lianoid|lianoid|R|Adj
+liao	noun	liao|liao|R|N
+lias	noun	lias|lias|R|N
+liassic	adj	lias|liass|R|N ; -ic|ic|S
+libational	adj	libation|libation|R|N ; -al|al|S
+libationary	adj	libation|libation|R|N ; -ary|ary|S
+libeccio	noun	libeccio|libeccio|R|N
+libelant	noun	libel|libel|R|N ; -ant|ant|S
+libelee	noun	libel|libel|R|N ; -ee|ee|S
+libeler	noun	libel|libel|R|V ; -er|er|S||-er (N)
+libelist	noun	libel|libel|R|V ; -ist|ist|S

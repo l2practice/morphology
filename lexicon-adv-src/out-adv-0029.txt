@@ -1,0 +1,150 @@
+enamel	noun	=
+eloquent	adj	e-|e|P||||Latin e- 'out' ; -loqu-|loqu|B|V|||Latin loqui 'to speak' ; -ent|ent|S
+treason	noun	=
+apricot	noun	=
+quaint	adj	=
+nigger	noun	=
+resin	noun	=
+remit	verb	=
+articulation	noun	=
+hospice	noun	=
+oasis	noun	=
+abuser	noun	=
+inception	noun	=
+reverence	noun	=
+matron	noun	=
+negligent	adj	=
+monstrous	adj	=
+obese	adj	=
+exposition	noun	=
+profess	verb	pro-|pro|P||||Latin pro- 'forth' ; -fess|fess|B|V|||Latin fateri 'to confess'
+moratorium	noun	=
+transient	adj	=
+monologue	noun	=
+clement	adj	=
+archer	noun	=
+convertible	adj	=
+embryonic	adj	=
+audible	adj	aud-|aud|B|V|||Latin audire 'to hear' ; -ible|ible|S
+beak	noun	=
+idiom	noun	=
+pantry	noun	=
+fabricate	verb	=
+comma	noun	=
+tendon	noun	=
+avocado	noun	=
+plaid	noun	=
+sublime	adj	=
+collateral	adj	col-|col|P||||Latin con- 'together with' ; -later-|later|B|N||latus|Latin latus 'side' ; -al|al|S
+ecstatic	adj	=
+metaphysical	adj	=
+infiltrate	verb	=
+magnate	noun	=
+predictive	adj	=
+interrogate	verb	=
+accessibility	noun	=
+visitation	noun	=
+hypertension	noun	=
+diversification	noun	divers|divers|R|Adj ; -ific-|ific|B|V|||Latin facere 'to make, do' ; -ation|ation|S
+zucchini	noun	=
+saver	noun	=
+remedial	adj	=
+sacrament	noun	sacr-|sacr|B|Adj|||Latin sacer 'sacred' ; -ament|ament|S
+gymnastics	noun	=
+gully	noun	=
+clientele	noun	=
+parity	noun	=
+mediocre	adj	=
+stat	noun	=
+symptomatic	adj	=
+detergent	noun	=
+orgasm	noun	=
+encyclopedia	noun	=
+remorse	noun	=
+cubicle	noun	=
+malignant	adj	=
+presuppose	verb	=
+signatory	noun	=
+margarine	noun	=
+affidavit	noun	=
+satire	noun	=
+alloy	noun	=
+imperialism	noun	=
+nostalgic	adj	=
+parody	noun	para-|par|P||||Greek para 'besides' ; -ody|ody|B|N|||Greek oide 'song'
+caste	noun	=
+relentlessly	adv	=
+pedestal	noun	=
+biographer	noun	bio-|bio|B|N|||Greek bios 'life' ; -graph-|graph|B|V|||Greek graphein 'to write' ; -er|er|S
+concurrent	adj	=
+diarrhea	noun	=
+delineate	verb	=
+caterpillar	noun	=
+monastic	adj	=
+paranoia	noun	para-|para|P||||Greek para 'beyond, beside' ; -noia|noia|B|N|||Greek noos 'mind, spirit'
+emeritus	adj	=
+reptile	noun	=
+expatriate	verb	=
+parable	noun	=
+insecure	adj	=
+postulate	verb	=
+confound	verb	=
+mathematician	noun	=
+verification	noun	=
+cannabis	noun	=
+biographical	adj	bio-|bio|B|N|||Greek bios 'life' ; -graph-|graph|B|V|||Greek graphein 'to write' ; -ical|ical|S
+viscount	noun	=
+lotion	noun	=
+cadre	noun	=
+encircle	verb	=
+confiscate	verb	=
+arable	adj	=
+hydraulic	adj	=
+hooker	noun	=
+resurrect	verb	=
+deli	noun	=
+resilience	noun	=
+messiah	noun	=
+menopause	noun	meno-|meno|B|N|||Greek men 'month' ; pause|pause|R|N
+revitalize	verb	=
+impediment	noun	=
+reformation	noun	=
+grange	noun	=
+bipolar	adj	=
+stricture	noun	=
+electrode	noun	=
+remission	noun	=
+ornate	adj	=
+edible	adj	ed-|ed|B|V|||Latin edere 'to eat' ; -ible|ible|S
+caress	verb	=
+bumper	noun	=
+patriot	noun	=
+expend	verb	=
+airy	adj	=
+resilient	adj	re-|re|P||||Latin re- 'back' ; -sil-|sil|B|V||sal|Latin salire 'to leap, jump' ; -ient|ient|S
+primacy	noun	=
+hilarious	adj	=
+syringe	noun	=
+envelop	verb	=
+revere	verb	=
+intonation	noun	=
+choral	adj	=
+memorabilia	noun	=
+proclamation	noun	=
+countess	noun	=
+victimize	verb	=
+ambivalent	adj	ambi-|ambi|P||||Latin ambi- 'both' ; -val-|val|B|V|||Latin valere 'to be strong' ; -ent|ent|S
+humid	adj	=
+elasticity	noun	=
+depletion	noun	=
+glean	verb	=
+generalize	verb	gener-|gener|B|N|||Latin genus 'kind, race' ; -alize|alize|S
+faucet	noun	=
+parry	verb	=
+fillet	noun	fil-|fil|B|N|||Latin filum 'thread' ; -let|let|S
+inversion	noun	=
+arid	adj	=
+effluent	noun	=
+ratification	noun	=
+jade	noun	=
+micro	noun	=

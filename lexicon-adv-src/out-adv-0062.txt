@@ -1,0 +1,150 @@
+demerit	noun	=
+triumphalism	noun	=
+electromagnetism	noun	=
+nonsurgical	adj	=
+prefecture	noun	=
+radiography	noun	=
+conjugate	verb	=
+exactitude	noun	=
+damnable	adj	=
+adverbial	adj	=
+typhus	noun	=
+aureole	noun	=
+monomer	noun	=
+adieu	noun	=
+chasten	verb	=
+popery	noun	=
+lysis	noun	=
+ethology	noun	=
+aspirate	verb	=
+grabber	noun	=
+revivalist	noun	=
+arboreal	adj	arbor-|arbor|B|N|||Latin arbor 'tree' ; -eal|eal|S||||Latin -alis 'pertaining to'
+camphor	noun	=
+omniscience	noun	omni-|omni|P||||Latin omnis 'all' ; sci-|sci|B|V|||Latin scire 'to know' ; -ence|ence|S||||Latin -entia 'state, quality'
+lepton	noun	=
+hydra	noun	=
+turboprop	noun	=
+phantasm	noun	=
+ageist	noun	=
+clamorous	adj	=
+adenocarcinoma	noun	=
+dildo	noun	=
+calligraphic	adj	=
+testamentary	adj	=
+polyphonic	adj	poly-|poly|B|N|||Greek polys 'many' ; -phon-|phon|B|N|||Greek phone 'sound, voice' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+amortize	verb	a-|a|P||||Latin ad- 'to' ; -mort-|mort|B|N|||Latin mortuus 'dead' ; -ize|ize|S||||Greek -izein 'verb-forming'
+inveigh	verb	in-|in|P||||Latin in- 'in, into' ; -veh-|veigh|B|V|||Latin vehere 'to carry'
+legation	noun	=
+projectionist	noun	=
+anima	noun	=
+glycemic	adj	=
+desiccation	noun	=
+columnar	adj	=
+parathyroid	noun	=
+mammary	adj	mamm-|mamm|B|N|||Latin mamma 'breast' ; -ary|ary|S||||Latin -arius 'belonging to'
+formalist	noun	=
+dyspepsia	noun	dys-|dys|P||||Greek dys- 'bad' ; -peps-|peps|B|N|||Greek pepsis 'digestion' ; -ia|ia|S||||Greek -ia 'state, condition'
+cetacean	noun	=
+tracheal	adj	=
+dissolute	adj	=
+negativism	noun	=
+incommensurable	adj	=
+xenon	noun	xen-|xen|B|Adj|||Greek xenos 'foreign, strange' ; -on|on|S||||Greek -on 'thing, element'
+circumpolar	adj	=
+barometric	adj	=
+dredger	noun	=
+heuristics	noun	=
+hander	noun	=
+inaccessibility	noun	=
+cosine	noun	=
+mineralogy	noun	=
+credulous	adj	cred-|cred|B|V|||Latin credere 'to believe' ; -ulous|ulous|S||||Latin -ulosus 'prone to'
+cyclotron	noun	=
+cicely	noun	=
+proboscis	noun	=
+photographically	adv	=
+zeolite	noun	zeo-|zeo|B|V|||Greek zein 'to boil' ; -lite|lite|B|N|||Greek lithos 'stone'
+silicosis	noun	silic-|silic|B|N|||Latin silex 'flint, silica' ; -osis|osis|S||||Greek -osis 'diseased condition'
+piezoelectric	adj	=
+cyan	noun	=
+oriole	noun	=
+anion	noun	=
+apostate	noun	=
+inestimable	adj	=
+bevel	noun	=
+binomial	adj	=
+aesthetician	noun	=
+analgesia	noun	an-|an|P||||Greek an- 'not' ; -alg-|alg|B|N|||Greek algos 'pain' ; -esia|esia|S||||Greek -ia 'state, condition'
+curia	noun	=
+agglomeration	noun	=
+ignominy	noun	=
+anthropocentric	adj	=
+narcolepsy	noun	narco-|narco|B|V|||Greek narkoun 'to put to sleep' ; -lepsy|lepsy|B|N|||Greek lepsis 'seizure'
+beatitude	noun	beat-|beat|B|Adj|||Latin beatus 'happy, blessed' ; -itude|itude|S||||Latin -tudo 'state, quality'
+astringent	adj	a-|a|P||||Latin ad- 'toward' ; -string-|string|B|V|||Latin stringere 'to bind' ; -ent|ent|S||||Latin -ens 'agent'
+pommel	noun	=
+cession	noun	=
+sentience	noun	senti-|senti|B|V|||Latin sentire 'to feel' ; -ence|ence|S||||Latin -entia 'state, quality'
+lacuna	noun	=
+cocksucker	noun	=
+isotropic	adj	iso-|iso|B|N|||Greek isos 'equal' ; -trop-|trop|B|N|||Greek tropos 'turn' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+polis	noun	=
+blandishment	noun	=
+gamete	noun	gam-|gam|B|N|||Greek gamos 'marriage' ; -ete|ete|S||||Greek -etes 'agent'
+geochemistry	noun	=
+centrifuge	noun	centri-|centri|B|N|||Latin centrum 'centre' ; -fuge|fuge|B|V|||Latin fugere 'to flee'
+solute	noun	=
+alphabetic	adj	=
+raconteur	noun	=
+dichotomize	verb	=
+megaton	noun	=
+finitude	noun	fin-|fin|B|N|||Latin finis 'end, limit' ; -itude|itude|S||||Latin -tudo 'state, quality'
+cannula	noun	cann-|cann|B|N|||Latin canna 'cane, reed' ; -ula|ula|S||||Latin -ula 'diminutive'
+bicameral	adj	bi-|bi|P||||Latin bis 'twice' ; -camer-|camer|B|N|||Latin camera 'chamber' ; -al|al|S||||Latin -alis 'pertaining to'
+radium	noun	radi-|radi|B|N|||Latin radius 'ray' ; -ium|um|S||||Latin -ium 'element suffix'
+magnetosphere	noun	=
+atomize	verb	=
+universalist	noun	=
+legitimization	noun	=
+hagiography	noun	=
+glycol	noun	glyc-|glyc|B|Adj|||Greek glykys 'sweet' ; -ol|ol|S
+quasi	adj	=
+mellifluous	adj	=
+depopulate	verb	=
+amaranth	noun	=
+corsair	noun	=
+streetscape	noun	=
+scoliosis	noun	=
+creel	noun	=
+dendrite	noun	dendr-|dendr|B|N|||Greek dendron 'tree' ; -ite|ite|S||||Greek -ites 'belonging to'
+transgressor	noun	=
+actualization	noun	=
+arrondissement	noun	=
+verso	noun	=
+lymphoid	adj	=
+prescience	noun	pre-|pre|P||||Latin prae 'before' ; sci-|sci|B|V|||Latin scire 'to know' ; -ence|ence|S||||Latin -entia 'state, quality'
+adventurism	noun	=
+tractable	adj	tract-|tract|B|V|||Latin tractare 'to handle' ; -able|able|S||||Latin -bilis 'able to'
+sunbather	noun	=
+taqueria	noun	=
+historicist	noun	=
+grama	noun	=
+serra	noun	=
+civilizational	adj	=
+incorruptible	adj	=
+bolus	noun	=
+rance	noun	=
+couturier	noun	=
+quintuple	adj	quint-|quint|B|N|||Latin quintus 'fifth' ; -uple|uple|S||||Latin -plus 'fold'
+herbarium	noun	=
+amour	noun	=
+miscegenation	noun	misce-|misce|B|V|||Latin miscere 'to mix' ; -gen-|gen|B|N|||Latin genus 'race, kind' ; -ation|ation|S||||Latin -atio 'act, process'
+mandamus	noun	=
+penitential	adj	=
+hippopotamus	noun	hippo-|hippo|B|N|||Greek hippos 'horse' ; -potamus|potamus|B|N|||Greek potamos 'river'
+chiller	noun	=
+antitrust	adj	=
+phytoestrogen	noun	=
+seton	noun	=
+aminoglycoside	noun	=

@@ -1,0 +1,150 @@
+manner	noun	=
+baseball	noun	=
+entry	noun	=
+engine	noun	=
+demonstrate	verb	de-|de|P||||Latin de 'from' ; -monstr-|monstr|B|V|||Latin monstrare 'to show' ; -ate|ate|S||||Latin -atus, 'having'
+introduction	noun	intro-|intro|P||||Latin intro 'within' ; -duct-|duct|B|V|||Latin ducere 'to lead' ; -ion|ion|S||||Latin -io, 'act, state'
+domestic	adj	dom-|dom|B|N|||Latin domus 'house' ; -estic|estic|S||||Latin -esticus, 'relating to'
+religion	noun	re-|re|P||||Latin re- 'again' ; -lig-|lig|B|V|||Latin ligare 'to bind' ; -ion|ion|S||||Latin -io, 'act, state'
+editor	noun	=
+prefer	verb	pre-|pre|P||||Latin prae 'before' ; -fer|fer|B|V|||Latin ferre 'to bear'
+ordinary	adj	=
+relief	noun	=
+commit	verb	com-|com|P||||Latin com- 'together' ; -mit|mit|B|V|||Latin mittere 'to send'
+technical	adj	techn-|techn|B|N|||Greek techne 'skill' ; -ic|ic|S||||Greek -ikos, 'relating to' ; -al|al|S||||Latin -alis, 'relating to'
+grant	noun	=
+actual	adj	=
+female	adj	=
+strange	adj	=
+repeat	verb	re-|re|P||||Latin re- 'again' ; -pet-|peat|B|V|||Latin petere 'to seek'
+native	adj	nat-|nat|B|V|||Latin nasci 'to be born' ; -ive|ive|S||||Latin -ivus, 'tending to'
+wage	noun	=
+acquire	verb	ac-|ac|P||||Latin ad- 'to' ; -quire|quire|B|V|||Latin quaerere 'to seek'
+suit	noun	=
+perspective	noun	per-|per|P||||Latin per 'through' ; -spect-|spect|B|V|||Latin spectare 'to look' ; -ive|ive|S||||Latin -ivus, 'tending to'
+construction	noun	con-|con|P||||Latin com- 'together' ; -struct-|struct|B|V|||Latin struere 'to build' ; -ion|ion|S||||Latin -io, 'act, state'
+excellent	adj	ex-|ex|P||||Latin ex- 'out' ; -cell-|cell|B|V|||Latin cellere 'to rise' ; -ent|ent|S||||Latin -ens, 'agent'
+intelligence	noun	intellig-|intellig|B|V|||Latin intellegere 'to understand' ; -ence|ence|S||||Latin -entia, 'state, quality'
+destroy	verb	de-|de|P||||Latin de 'down' ; -stroy|stroy|B|V|||Latin struere 'to build'
+internal	adj	=
+category	noun	=
+connection	noun	con-|con|P||||Latin com- 'together' ; -nect-|nect|B|V|||Latin nectere 'to bind' ; -ion|ion|S||||Latin -io, 'act, state'
+traffic	noun	=
+grade	noun	=
+location	noun	=
+appearance	noun	=
+quiet	adj	=
+promise	noun	pro-|pro|P||||Latin pro 'forth' ; -mise|mise|B|V|||Latin mittere 'to send'
+description	noun	=
+session	noun	sess-|sess|B|V|||Latin sedere 'to sit' ; -ion|ion|S||||Latin -io, 'act, state'
+discipline	noun	discipl-|discipl|B|N|||Latin discipulus 'pupil' ; -ine|ine|S||||Latin -ina, 'relating to'
+contrast	noun	contra-|contra|P||||Latin contra 'against' ; -st|st|B|V|||Latin stare 'to stand'
+existence	noun	=
+distribution	noun	=
+proper	adj	=
+moral	adj	mor-|mor|B|N|||Latin mos 'custom' ; -al|al|S||||Latin -alis, 'relating to'
+retain	verb	re-|re|P||||Latin re- 'back' ; -tain|tain|B|V|||Latin tenere 'to hold'
+famous	adj	=
+victory	noun	vict-|vict|B|V|||Latin vincere 'to conquer' ; -ory|ory|S||||Latin -oria, 'place, state'
+theatre	noun	=
+academic	adj	academ-|academ|B|N|||Greek Akademia 'Academy' ; -ic|ic|S||||Greek -ikos, 'relating to'
+prince	noun	=
+code	noun	=
+negative	adj	=
+representative	noun	=
+historical	adj	=
+medicine	noun	medic-|medic|B|V|||Latin mederi 'to heal' ; -ine|ine|S||||Latin -ina, 'relating to'
+usual	adj	us-|usu|B|V|||Latin uti 'to use' ; -al|al|S||||Latin -alis, 'relating to'
+respect	noun	re-|re|P||||Latin re- 'back' ; -spect|spect|B|V|||Latin spectare 'to look'
+attract	verb	at-|at|P||||Latin ad- 'to' ; -tract|tract|B|V|||Latin trahere 'to draw'
+photograph	noun	photo-|photo|B|N|||Greek phos 'light' ; -graph|graph|B|N|||Greek graphein 'to write'
+formal	adj	=
+participate	verb	=
+reject	verb	re-|re|P||||Latin re- 'back' ; -ject|ject|B|V|||Latin iacere 'to throw'
+assess	verb	as-|as|P||||Latin ad- 'to' ; -sess|sess|B|V|||Latin sedere 'to sit'
+joint	noun	=
+pension	noun	pens-|pens|B|V|||Latin pendere 'to weigh' ; -ion|ion|S||||Latin -io, 'act, state'
+explanation	noun	=
+familiar	adj	=
+plate	noun	=
+actor	noun	=
+search	verb	=
+democracy	noun	demo-|demo|B|N|||Greek demos 'people' ; -cracy|cracy|B|N|||Greek kratos 'rule'
+invite	verb	=
+factory	noun	=
+circle	noun	=
+capacity	noun	capac-|capac|B|V|||Latin capere 'to take' ; -ity|ity|S||||Latin -tas, 'state'
+device	noun	=
+vary	verb	=
+selection	noun	se-|se|P||||Latin se- 'apart' ; -lect-|lect|B|V|||Latin legere 'to gather' ; -ion|ion|S||||Latin -io, 'act, state'
+finance	noun	fin-|fin|B|N|||Latin finis 'end' ; -ance|ance|S||||Latin -antia, 'state'
+impose	verb	im-|im|P||||Latin in- 'upon' ; -pose|pose|B|V|||Latin ponere 'to put'
+rural	adj	rur-|rur|B|N|||Latin rus 'countryside' ; -al|al|S||||Latin -alis, 'relating to'
+intention	noun	=
+plastic	noun	plast-|plast|B|V|||Greek plassein 'to mold' ; -ic|ic|S||||Greek -ikos, 'relating to'
+initial	adj	initi-|initi|B|V|||Latin inire 'to go in' ; -al|al|S||||Latin -alis, 'relating to'
+examination	noun	=
+definition	noun	=
+declare	verb	de-|de|P||||Latin de 'down' ; clar-|clare|B|Adj|||Latin clarus 'clear'
+theater	noun	=
+substantial	adj	=
+aircraft	noun	=
+abuse	noun	=
+suitable	adj	=
+immediate	adj	im-|im|P||||Latin in- 'not' ; -medi-|medi|B|Adj|||Latin medius 'middle' ; -ate|ate|S||||Latin -atus, 'having'
+divide	verb	di-|di|P||||Latin dis- 'apart' ; -vide|vide|B|V|||Latin dividere 'to divide'
+equal	adj	equ-|equ|B|Adj|||Latin aequus 'equal' ; -al|al|S||||Latin -alis, 'relating to'
+literature	noun	liter-|liter|B|N|||Latin littera 'letter' ; -ature|ature|S||||Latin -atura, 'state'
+reasonable	adj	=
+desire	noun	=
+reduction	noun	=
+paint	noun	=
+fuel	noun	=
+instruction	noun	=
+concentration	noun	=
+enterprise	noun	inter-|enter|P||||Latin inter 'between' ; -prise|prise|B|V|||Latin prehendere 'to seize'
+expand	verb	ex-|ex|P||||Latin ex- 'out' ; -pand|pand|B|V|||Latin pandere 'to spread'
+metal	noun	=
+expensive	adj	=
+recommend	verb	=
+corporate	adj	corpor-|corpor|B|N|||Latin corpus 'body' ; -ate|ate|S||||Latin -atus, 'having'
+correct	adj	cor-|cor|P||||Latin com- 'together' ; -rect|rect|B|V|||Latin regere 'to rule'
+sufficient	adj	suf-|suf|P||||Latin sub- 'under' ; -fic-|fic|B|V|||Latin facere 'to make' ; -ient|ient|S||||Latin -iens, 'agent'
+urban	adj	urb-|urb|B|N|||Latin urbs 'city' ; -an|an|S||||Latin -anus, 'relating to'
+bottle	noun	=
+mental	adj	ment-|ment|B|N|||Latin mens 'mind' ; -al|al|S||||Latin -alis, 'relating to'
+absence	noun	=
+criticism	noun	crit-|crit|B|V|||Greek krinein 'to judge' ; -ic|ic|S||||Greek -ikos, 'relating to' ; -ism|ism|S||||Greek -ismos, 'doctrine'
+sugar	noun	=
+planet	noun	plan-|plan|B|V|||Greek planasthai 'to wander' ; -et|et|S||||Greek -etes, 'agent'
+transfer	verb	trans-|trans|P||||Latin trans 'across' ; -fer|fer|B|V|||Latin ferre 'to bear'
+explore	verb	ex-|ex|P||||Latin ex- 'out' ; -plore|plore|B|V|||Latin plorare 'to cry out'
+error	noun	=
+enemy	noun	=
+acid	noun	=
+surround	verb	=
+athlete	noun	athl-|athl|B|V|||Greek athlein 'to compete' ; -ete|ete|S||||Greek -etes, 'agent'
+scientific	adj	sci-|sci|B|V|||Latin scire 'to know' ; -ent|ent|S||||Latin -ens, 'agent' ; -ific|ific|S||||Latin -ificus, 'making'
+module	noun	=
+panel	noun	=
+instrument	noun	in-|in|P||||Latin in- 'upon' ; -stru-|stru|B|V|||Latin struere 'to build' ; -ment|ment|S||||Latin -mentum, 'means'
+pleasure	noun	=
+predict	verb	pre-|pre|P||||Latin prae 'before' ; -dict|dict|B|V|||Latin dicere 'to say'
+select	verb	se-|se|P||||Latin se- 'apart' ; -lect|lect|B|V|||Latin legere 'to gather'
+channel	noun	=
+supreme	adj	supr-|supr|B|Adj|||Latin superus 'above' ; -eme|eme|S||||Latin -imus, 'most'
+temperature	noun	=
+surprise	noun	sur-|sur|P||||Latin super 'over' ; -prise|prise|B|V|||Latin prehendere 'to seize'
+implication	noun	=
+recognition	noun	=
+institute	noun	in-|in|P||||Latin in- 'upon' ; -stit-|stit|B|V|||Latin statuere 'to set up' ; -ute|ute|S||||Latin -utus, 'past participle'
+component	noun	com-|com|P||||Latin com- 'together' ; -pon-|pon|B|V|||Latin ponere 'to put' ; -ent|ent|S||||Latin -ens, 'agent'
+republic	noun	=
+minority	noun	=
+connect	verb	con-|con|P||||Latin com- 'together' ; -nect|nect|B|V|||Latin nectere 'to bind'
+organize	verb	=
+trail	noun	=
+novel	adj	nov-|nov|B|Adj|||Latin novus 'new' ; -el|el|S||||Latin -ellus, 'diminutive'
+jury	noun	=
+nurse	noun	=
+experiment	noun	experi-|experi|B|V|||Latin experiri 'to try' ; -ment|ment|S||||Latin -mentum, 'means'

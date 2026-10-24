@@ -1,0 +1,150 @@
+pesto	noun	=
+primordial	adj	=
+kidnapper	noun	=
+equivalence	noun	=
+adjudication	noun	=
+memento	noun	=
+oceanic	adj	=
+configure	verb	=
+cull	verb	=
+nutritionist	noun	=
+pornographic	adj	porno-|porno|B|N|||Greek porne 'prostitute' ; -graph-|graph|B|V|||Greek graphein 'to write' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+elitist	noun	=
+pare	verb	=
+linoleum	noun	lino-|lino|B|N|||Latin linum 'flax' ; -oleum|leum|B|N|||Latin oleum 'oil'
+nutritious	adj	nutr-|nutr|B|V|||Latin nutrire 'to nourish' ; -itious|itious|S||||Latin -itius 'relating to'
+psychoanalytic	adj	=
+marinate	verb	=
+increment	noun	in-|in|P||||Latin in- 'into' ; -cre-|cre|B|V|||Latin crescere 'to grow' ; -ment|ment|S||||Latin -mentum 'result'
+craven	adj	=
+behemoth	noun	=
+calorie	noun	=
+abate	verb	=
+constipation	noun	=
+postscript	noun	=
+veritable	adj	=
+nascent	adj	nasc-|nasc|B|V|||Latin nasci 'to be born' ; -ent|ent|S||||Latin -ens 'agent'
+qualifier	noun	=
+infuriate	verb	=
+multiplier	noun	=
+extradition	noun	ex-|ex|P||||Latin ex- 'out' ; -tradit-|tradit|B|V|||Latin tradere 'to hand over' ; -ion|ion|S||||Latin -io 'act'
+minuscule	adj	minus-|minus|B|Adj|||Latin minus 'less' ; -cule|cule|S||||Latin -culus 'diminutive'
+alibi	noun	=
+alkali	noun	=
+sprinkler	noun	=
+chemically	adv	=
+incontinence	noun	=
+harmonic	adj	=
+juniper	noun	=
+syphilis	noun	=
+repertory	noun	=
+retardation	noun	=
+bribery	noun	=
+surety	noun	=
+politicize	verb	=
+presupposition	noun	=
+sonic	adj	son-|son|B|N|||Latin sonus 'sound' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+muffle	verb	=
+nocturnal	adj	nocturn-|nocturn|B|N|||Latin nox 'night' ; -al|al|S||||Latin -alis 'relating to'
+eradication	noun	e-|e|P||||Latin ex- 'out' ; -radic-|radic|B|N|||Latin radix 'root' ; -ation|ation|S||||Latin -atio 'act'
+gouge	noun	=
+actuary	noun	actu-|actu|B|N|||Latin actus 'business' ; -ary|ary|S||||Latin -arius 'agent'
+funk	noun	=
+circumstantial	adj	=
+cyclic	adj	=
+incubation	noun	=
+asymmetry	noun	=
+emulation	noun	=
+clarinet	noun	=
+impulsive	adj	=
+overture	noun	=
+mammalian	adj	=
+dislocation	noun	=
+nonconformist	noun	=
+mater	noun	=
+choreographer	noun	=
+liturgical	adj	=
+dispatcher	noun	=
+gemma	noun	=
+aggressor	noun	=
+juxtapose	verb	=
+macroeconomic	adj	=
+spatula	noun	=
+pennant	noun	=
+crepe	noun	=
+personalize	verb	=
+valet	noun	=
+chasm	noun	=
+gubernatorial	adj	gubernator-|gubernator|B|N|||Latin gubernator 'governor' ; -ial|ial|S||||Latin -ialis 'relating to'
+pretext	noun	pre-|pre|P||||Latin prae 'before' ; -text|text|B|V|||Latin texere 'to weave'
+viola	noun	=
+sigma	noun	sig-|sig|B|V|||Greek sizein 'to hiss' ; -ma|ma|S||||Greek -ma 'result'
+papacy	noun	pap-|pap|B|N|||Latin papa 'pope' ; -acy|acy|S||||Latin -atia 'office'
+preposterous	adj	pre-|pre|P||||Latin prae 'before' ; -poster-|poster|B|Adj|||Latin posterus 'coming after' ; -ous|ous|S||||Latin -osus 'full of'
+exhibitor	noun	=
+visceral	adj	viscer-|viscer|B|N|||Latin viscus 'organ' ; -al|al|S||||Latin -alis 'relating to'
+fiduciary	adj	fiduci-|fiduci|B|N|||Latin fiducia 'trust' ; -ary|ary|S||||Latin -arius 'relating to'
+excretion	noun	=
+evocative	adj	=
+activator	noun	=
+ultra	adj	=
+accumulator	noun	=
+finesse	noun	=
+acronym	noun	acro-|acro|B|N|||Greek akron 'peak' ; -nym|nym|B|N|||Greek onoma 'name'
+entropy	noun	=
+vigilance	noun	=
+feign	verb	=
+innovator	noun	=
+kerosene	noun	kero-|kero|B|N|||Greek keros 'wax' ; -ene|sene|S||||Greek -ene 'hydrocarbon'
+confluence	noun	con-|con|P||||Latin com- 'together' ; -flu-|flu|B|V|||Latin fluere 'to flow' ; -ence|ence|S||||Latin -entia 'state'
+verity	noun	ver-|ver|B|Adj|||Latin verus 'true' ; -ity|ity|S||||Latin -itas 'state'
+criminology	noun	=
+rubric	noun	rubr-|rubr|B|Adj|||Latin ruber 'red' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+postmodernism	noun	=
+laurel	noun	=
+complicity	noun	com-|com|P||||Latin com- 'together' ; -plic-|plic|B|V|||Latin plicare 'to fold' ; -ity|ity|S||||Latin -itas 'state'
+futility	noun	=
+lipid	noun	lip-|lip|B|N|||Greek lipos 'fat' ; -id|id|S||||French -ide 'chemical'
+normalize	verb	=
+polyp	noun	=
+philanthropy	noun	phil-|phil|B|N|||Greek philos 'loving' ; -anthrop-|anthrop|B|N|||Greek anthropos 'human' ; -y|y|S||||Greek -ia 'state'
+informational	adj	=
+epithelium	noun	epi-|epi|P||||Greek epi 'upon' ; -thel-|thel|B|N|||Greek thele 'nipple' ; -ium|ium|S||||Greek -ion 'tissue'
+cautionary	adj	=
+modulus	noun	=
+doctrinal	adj	=
+plethora	noun	=
+condolence	noun	con-|con|P||||Latin com- 'together' ; -dol-|dol|B|V|||Latin dolere 'to hurt' ; -ence|ence|S||||Latin -entia 'state'
+lymphoma	noun	=
+extremity	noun	=
+porous	adj	=
+saxophone	noun	=
+hepatic	adj	hepat-|hepat|B|N|||Greek hepar 'liver' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+delinquent	noun	=
+populous	adj	popul-|popul|B|N|||Latin populus 'people' ; -ous|ous|S||||Latin -osus 'full of'
+kinase	noun	kin-|kin|B|V|||Greek kinein 'to move' ; -ase|ase|S||||Greek -ase 'enzyme'
+infarction	noun	=
+perseverance	noun	=
+forecaster	noun	=
+bryony	noun	=
+quip	noun	=
+crony	noun	=
+testator	noun	test-|test|B|V|||Latin testari 'to witness' ; -ator|ator|S||||Latin -ator 'agent'
+glorify	verb	=
+molar	noun	=
+melancholy	noun	=
+gastritis	noun	gastr-|gastr|B|N|||Greek gaster 'stomach' ; -itis|itis|S||||Greek -itis 'inflammation'
+fondant	noun	=
+oligonucleotide	noun	=
+piracy	noun	=
+pancreatitis	noun	=
+deflate	verb	de-|de|P||||Latin de- 'away' ; -flate|flate|B|V|||Latin flare 'to blow'
+coeliac	adj	coeli-|coeli|B|N|||Greek koilia 'belly' ; -ac|ac|S||||Greek -akos 'pertaining to'
+tensor	noun	=
+crevice	noun	=
+colorectal	adj	=
+pelvis	noun	=
+enthalpy	noun	en-|en|P||||Greek en 'in' ; -thalp-|thalp|B|V|||Greek thalpein 'to warm' ; -y|y|S||||Greek -ia 'state'
+plasminogen	noun	=
+morphine	noun	=
+lymph	noun	=

@@ -1,0 +1,200 @@
+defrayal	noun	defray|defray|R|V ; -al|al|S
+defrayment	noun	defray|defray|R|V ; -ment|ment|S
+defrocking	verb	de-|de|P ; frock|frock|R|N ; -ing|ing|I||-ing (v)
+defrosting	verb	de-|de|P ; frost|frost|R|N ; -ing|ing|I||-ing (v)
+defunctness	noun	defunct|defunct|R|Adj ; -ness|ness|S
+defusal	noun	de-|de|P ; fuse|fus|R|V ; -al|al|S
+defying	verb	defy|defy|R|V ; -ing|ing|I||-ing (v)
+degauss	verb	de-|de|P ; gauss|gauss|R|N
+degausser	noun	de-|de|P ; gauss|gauss|R|N ; -er|er|S||-er (N)
+degaussing	verb	de-|de|P ; gauss|gauss|R|N ; -ing|ing|I||-ing (v)
+degenerately	adv	degenerate|degenerate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+degenerateness	noun	degenerate|degenerate|R|Adj ; -ness|ness|S
+deghan	noun	deghan|deghan|R|N
+deglaze	verb	de-|de|P ; glaze|glaze|R|V
+deglobalization	noun	de-|de|P ; global|global|R|Adj ; -ize|iz|S ; -ation|ation|S
+deglobalize	verb	de-|de|P ; global|global|R|Adj ; -ize|ize|S
+deglutition	noun	deglutition|deglutition|R|N
+deglutitory	adj	deglutitory|deglutitory|R|Adj
+degradability	noun	de-|de|P ; grade|grad|R|V ; -able|abil|S ; -ity|ity|S
+degrader	noun	de-|de|P ; grade|grad|R|V ; -er|er|S||-er (N)
+degradingly	adv	de-|de|P ; grade|grad|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+degranulation	noun	de-|de|P ; granulate|granulat|R|V ; -ion|ion|S
+degreasant	noun	de-|de|P ; grease|greas|R|N ; -ant|ant|S
+degrease	verb	de-|de|P ; grease|grease|R|N
+degression	noun	degression|degression|R|N
+degressive	adj	degressive|degressive|R|Adj
+degringolade	noun	degringolade|degringolade|R|N
+degrowth	noun	de-|de|P ; growth|growth|R|N
+degu	noun	degu|degu|R|N
+degust	verb	degust|degust|R|V
+dehisce	verb	dehisce|dehisce|R|V
+dehiscent	adj	dehiscent|dehiscent|R|Adj
+dehorn	verb	de-|de|P ; horn|horn|R|N
+dehortative	adj	dehort|dehort|R|V ; -ative|ative|S
+dehumidification	noun	de-|de|P ; humid|humid|R|Adj ; -ify|ific|S ; -ation|ation|S
+dehumidify	verb	de-|de|P ; humid|humid|R|Adj ; -ify|ify|S
+dehusk	verb	de-|de|P ; husk|husk|R|N
+dehydrant	noun	de-|de|P ; hydrate|hydr|R|V ; -ant|ant|S
+dehydrating	verb	de-|de|P ; hydrate|hydrat|R|V ; -ing|ing|I||-ing (v)
+dehydrogenate	verb	de-|de|P ; hydrogen|hydrogen|R|N ; -ate|ate|S
+dehydrogenation	noun	de-|de|P ; hydrogen|hydrogen|R|N ; -ate|at|S ; -ion|ion|S
+dehydrogenization	noun	de-|de|P ; hydrogen|hydrogen|R|N ; -ize|iz|S ; -ation|ation|S
+dehydrogenize	verb	de-|de|P ; hydrogen|hydrogen|R|N ; -ize|ize|S
+dehypnotization	noun	de-|de|P ; hypnotize|hypnotiz|R|V ; -ation|ation|S
+dehypnotize	verb	de-|de|P ; hypnotize|hypnotize|R|V
+deice	verb	de-|de|P ; ice|ice|R|N
+deicide	noun	deicide|deicide|R|N
+deictically	adv	deictic|deictic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+deifier	noun	deify|deifi|R|V ; -er|er|S||-er (N)
+deiform	adj	deiform|deiform|R|Adj
+deindustrialize	verb	de-|de|P ; industry|industri|R|N ; -al|al|S ; -ize|ize|S
+deionization	noun	de-|de|P ; ion|ion|R|N ; -ize|iz|S ; -ation|ation|S
+deionize	verb	de-|de|P ; ion|ion|R|N ; -ize|ize|S
+deistical	adj	deist|deist|R|N ; -ical|ical|S
+deistically	adv	deist|deist|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+deject	verb	deject|deject|R|V
+dejecta	noun	dejecta|dejecta|R|N
+dejectedness	noun	deject|deject|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+dejudicialization	noun	de-|de|P ; judicial|judicial|R|Adj ; -ize|iz|S ; -ation|ation|S
+dejudicialize	verb	de-|de|P ; judicial|judicial|R|Adj ; -ize|ize|S
+dekko	noun	dekko|dekko|R|N
+dekulakization	noun	de-|de|P ; kulak|kulak|R|N ; -ize|iz|S ; -ation|ation|S
+dekulakize	verb	de-|de|P ; kulak|kulak|R|N ; -ize|ize|S
+delaine	noun	delaine|delaine|R|N
+delaminate	verb	de-|de|P ; laminate|laminate|R|V
+delation	noun	delation|delation|R|N
+delator	noun	delator|delator|R|N
+delayer	noun	delay|delay|R|V ; -er|er|S||-er (N)
+dele	verb	dele|dele|R|V
+delectability	noun	delect|delect|R|V ; -able|abil|S ; -ity|ity|S
+delectableness	noun	delect|delect|R|V ; -able|able|S ; -ness|ness|S
+delegacy	noun	delegate|delega|R|V ; -cy|cy|S
+deleteriously	adv	deleterious|deleterious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+deleteriousness	noun	deleterious|deleterious|R|Adj ; -ness|ness|S
+deleverage	verb	de-|de|P ; leverage|leverage|R|N
+delf	noun	delf|delf|R|N
+deliberatively	adv	deliberate|deliberat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+deliberativeness	noun	deliberate|deliberat|R|V ; -ive|ive|S ; -ness|ness|S
+delible	adj	delible|delible|R|Adj
+delicateness	noun	delicate|delicate|R|Adj ; -ness|ness|S
+delict	noun	delict|delict|R|N
+delightedness	noun	delight|delight|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+delightfulness	noun	delight|delight|R|N ; -ful|ful|S ; -ness|ness|S
+delightsome	adj	delight|delight|R|N ; -some|some|S
+delimitate	verb	de-|de|P ; limit|limit|R|N ; -ate|ate|S
+delimitative	adj	de-|de|P ; limit|limit|R|N ; -ate|at|S ; -ive|ive|S
+delimiter	noun	de-|de|P ; limit|limit|R|N ; -er|er|S||-er (N)
+delimiting	verb	de-|de|P ; limit|limit|R|N ; -ing|ing|I||-ing (v)
+delineative	adj	delineate|delineat|R|V ; -ive|ive|S
+delineator	noun	delineate|deline|R|V ; -or|ator|S
+delinquently	adv	delinquent|delinquent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+deliquesce	verb	deliquesce|deliquesce|R|V
+deliquescence	noun	deliquesce|deliquesc|R|V ; -ence|ence|S
+deliquescent	adj	deliquesce|deliquesc|R|V ; -ent|ent|S
+deliriant	noun	delirium|deliri|R|N ; -ant|ant|S
+deliriousness	noun	delirious|delirious|R|Adj ; -ness|ness|S
+delitescent	adj	delitescent|delitescent|R|Adj
+deliverability	noun	deliver|deliver|R|V ; -able|abil|S ; -ity|ity|S
+delivering	verb	deliver|deliver|R|V ; -ing|ing|I||-ing (v)
+delousing	verb	de-|de|P ; louse|lous|R|N ; -ing|ing|I||-ing (v)
+delphic	adj	delphic|delphic|R|Adj
+deltacism	noun	deltacism|deltacism|R|N
+deltaic	adj	delta|delta|R|N ; -ic|ic|S
+deltiologist	noun	deltiology|deltiolog|R|N ; -ist|ist|S
+deltiology	noun	deltiology|deltiology|R|N
+deluder	noun	delude|delud|R|V ; -er|er|S||-er (N)
+deludingly	adv	delude|delud|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+deluging	verb	deluge|delug|R|V ; -ing|ing|I||-ing (v)
+delusively	adv	delude|delus|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+delusiveness	noun	delude|delus|R|V ; -ive|ive|S ; -ness|ness|S
+delusory	adj	delude|delus|R|V ; -ory|ory|S
+delustre	verb	de-|de|P ; lustre|lustre|R|N
+delver	noun	delve|delv|R|V ; -er|er|S||-er (N)
+demagnetise	verb	de-|de|P ; magnet|magnet|R|N ; -ise|ise|S
+demagnetization	noun	de-|de|P ; magnet|magnet|R|N ; -ize|iz|S ; -ation|ation|S
+demagnetize	verb	de-|de|P ; magnet|magnet|R|N ; -ize|ize|S
+demagnetized	verb	de-|de|P ; magnet|magnet|R|N ; -ize|iz|S ; -ed|ed|I||-ed (v2)
+demagnetizer	noun	de-|de|P ; magnet|magnet|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+demagogical	adj	demagogue|demagog|R|N ; -ical|ical|S
+demagogically	adv	demagogue|demagog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+demagogism	noun	demagogue|demagog|R|N ; -ism|ism|S
+demandable	adj	demand|demand|R|V ; -able|able|S
+demandant	noun	demand|demand|R|V ; -ant|ant|S
+demandingly	adv	demand|demand|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+demantoid	noun	demantoid|demantoid|R|N
+demarcator	noun	demarcate|demarc|R|V ; -or|ator|S
+dematerialisation	noun	de-|de|P ; material|material|R|N ; -ise|is|S ; -ation|ation|S
+demeaned	verb	demean|demean|R|V ; -ed|ed|I||-ed (v2)
+demeaningly	adv	demean|demean|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+dement	verb	dement|dement|R|V
+dementedly	adv	dement|dement|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+dementedness	noun	dement|dement|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+demential	adj	dementia|dement|R|N ; -ial|ial|S
+dementor	noun	dementor|dementor|R|N
+demeritorious	adj	demeritorious|demeritorious|R|Adj
+demersal	adj	demersal|demersal|R|Adj
+demethylation	noun	de-|de|P ; methyl|methyl|R|N ; -ate|at|S ; -ion|ion|S
+demi	noun	demi|demi|R|N
+demiboy	noun	demiboy|demiboy|R|N
+demicircular	adj	demicircular|demicircular|R|Adj
+demigender	noun	demigender|demigender|R|N
+demigirl	noun	demigirl|demigirl|R|N
+demijohn	noun	demijohn|demijohn|R|N
+demilitarisation	noun	de-|de|P ; military|militar|R|N ; -ise|is|S ; -ation|ation|S
+demimondaine	noun	demimondaine|demimondaine|R|N
+demine	verb	de-|de|P ; mine|mine|R|N
+deminer	noun	de-|de|P ; mine|min|R|N ; -er|er|S||-er (N)
+demineralize	verb	de-|de|P ; mineral|mineral|R|N ; -ize|ize|S
+demineralizer	noun	de-|de|P ; mineral|mineral|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+demiquaver	noun	demiquaver|demiquaver|R|N
+demisable	adj	demise|demis|R|V ; -able|able|S
+demisemiquaver	noun	demisemiquaver|demisemiquaver|R|N
+demisexuality	noun	demisexuality|demisexuality|R|N
+demising	verb	demise|demis|R|V ; -ing|ing|I||-ing (v)
+demist	verb	de-|de|P ; mist|mist|R|N
+demister	noun	de-|de|P ; mist|mist|R|N ; -er|er|S||-er (N)
+demisting	verb	de-|de|P ; mist|mist|R|N ; -ing|ing|I||-ing (v)
+demit	verb	demit|demit|R|V
+demiurgeous	adj	demiurge|demiurg|R|N ; -eous|eous|S
+demiurgically	adv	demiurge|demiurg|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+demiworld	noun	demiworld|demiworld|R|N
+demo	noun	demo|demo|R|N
+democide	noun	democide|democide|R|N
+democratism	noun	democrat|democrat|R|N ; -ism|ism|S
+demodulate	verb	de-|de|P ; modulate|modulate|R|V
+demodulation	noun	de-|de|P ; modulate|modulat|R|V ; -ion|ion|S
+demodulator	noun	de-|de|P ; modulate|modul|R|V ; -or|ator|S
+demogeron	noun	demogeron|demogeron|R|N
+demogerontia	noun	demogerontia|demogerontia|R|N
+demolitionist	noun	demolition|demolition|R|N ; -ist|ist|S
+demoness	noun	demon|demon|R|N ; -ess|ess|S
+demonetization	noun	de-|de|P ; monetize|monetiz|R|V ; -ation|ation|S
+demonetize	verb	de-|de|P ; monetize|monetize|R|V
+demoniac	adj	demoniac|demoniac|R|Adj
+demoniacal	adj	demoniac|demoniac|R|Adj ; -al|al|S
+demoniacally	adv	demoniac|demoniac|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+demonically	adv	demon|demon|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+demonism	noun	demon|demon|R|N ; -ism|ism|S
+demonolater	noun	demonolater|demonolater|R|N
+demonolatry	noun	demonolatry|demonolatry|R|N
+demonologist	noun	demonology|demonolog|R|N ; -ist|ist|S
+demonstrableness	noun	demonstrate|demonstr|R|V ; -able|able|S ; -ness|ness|S
+demonstrativeness	noun	demonstrate|demonstrat|R|V ; -ive|ive|S ; -ness|ness|S
+demonym	noun	demonym|demonym|R|N
+demophobia	noun	demophobia|demophobia|R|N
+demos	noun	demos|demos|R|N
+demoscene	noun	demo|demo|R|N ; scene|scene|R|N
+demotivated	verb	de-|de|P ; motivate|motivat|R|V ; -ed|ed|I||-ed (v2)
+demotivating	verb	de-|de|P ; motivate|motivat|R|V ; -ing|ing|I||-ing (v)
+demotivation	noun	de-|de|P ; motivate|motivat|R|V ; -ion|ion|S
+demount	verb	de-|de|P ; mount|mount|R|V
+demoware	noun	demo|demo|R|N ; ware|ware|R|N
+demulcent	adj	demulcent|demulcent|R|Adj
+demultiplex	verb	de-|de|P ; multiplex|multiplex|R|Adj
+demultiplexer	noun	de-|de|P ; multiplex|multiplex|R|Adj ; -er|er|S||-er (N)
+demureness	noun	demure|demure|R|Adj ; -ness|ness|S
+demurrable	adj	demur|demurr|R|V ; -able|able|S
+demurrage	noun	demur|demurr|R|V ; -age|age|S
+demurrer	noun	demur|demurr|R|V ; -er|er|S||-er (N)
+demurring	verb	demur|demurr|R|V ; -ing|ing|I||-ing (v)

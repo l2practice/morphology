@@ -1,0 +1,200 @@
+vulgarizer	noun	vulgar|vulgar|R|Adj ; -ize|iz|S ; -er|er|S||-er (N)
+vulgarizing	verb	vulgar|vulgar|R|Adj ; -ize|iz|S ; -ing|ing|I||-ing (v)
+vulgarness	noun	vulgar|vulgar|R|Adj ; -ness|ness|S
+vulgate	noun	vulgate|vulgate|R|N
+vulnerableness	noun	vulnerable|vulnerable|R|Adj ; -ness|ness|S
+vulnerably	adv	vulnerable|vulnerabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+vulnerary	adj	vulnerary|vulnerary|R|Adj
+vulturine	adj	vulturine|vulturine|R|Adj
+vulturish	adj	vulture|vultur|R|N ; -ish|ish|S
+vulturous	adj	vulture|vultur|R|N ; -ous|ous|S
+vulval	adj	vulva|vulv|R|N ; -al|al|S
+vulvar	adj	vulva|vulv|R|N ; -ar|ar|S
+vulvectomy	noun	vulvectomy|vulvectomy|R|N
+vulviform	adj	vulviform|vulviform|R|Adj
+vulvitis	noun	vulvitis|vulvitis|R|N
+vulvodynia	noun	vulvodynia|vulvodynia|R|N
+vum	interj	vum|vum|R
+vuvuzela	noun	vuvuzela|vuvuzela|R|N
+vying	verb	vie|vy|R|V ; -ing|ing|I||-ing (v)
+vyomanaut	noun	vyomanaut|vyomanaut|R|N
+vyshyvanka	noun	vyshyvanka|vyshyvanka|R|N
+wabbling	verb	wabble|wabbl|R|V ; -ing|ing|I||-ing (v)
+wabbly	adj	wabble|wabbl|R|V ; -y|y|S
+waddling	verb	waddle|waddl|R|V ; -ing|ing|I||-ing (v)
+waddy	noun	waddy|waddy|R|N
+wadeable	adj	wade|wade|R|V ; -able|able|S
+waffled	verb	waffle|waffl|R|V ; -ed|ed|I||-ed (v2)
+wafting	verb	waft|waft|R|V ; -ing|ing|I||-ing (v)
+wagerer	noun	wager|wager|R|N ; -er|er|S||-er (N)
+wages	noun	wage|wage|R|N ; -s|s|I||-s (plural)
+waggery	noun	wag|wagg|R|V ; -ery|ery|S
+waggishness	noun	wag|wagg|R|V ; -ish|ish|S ; -ness|ness|S
+waggling	verb	waggle|waggl|R|V ; -ing|ing|I||-ing (v)
+waggly	adj	waggle|waggl|R|V ; -y|y|S
+waggonage	noun	waggon|waggon|R|N ; -age|age|S
+wagoner	noun	wagon|wagon|R|N ; -er|er|S||-er (N)
+wagonette	noun	wagon|wagon|R|N ; -ette|ette|S
+wagyu	noun	wagyu|wagyu|R|N
+wai	noun	wai|wai|R|N
+waifu	noun	waifu|waifu|R|N
+wailer	noun	wail|wail|R|V ; -er|er|S||-er (N)
+wailful	adj	wail|wail|R|V ; -ful|ful|S
+wailsome	adj	wail|wail|R|V ; -some|some|S
+wainscotting	noun	wainscot|wainscott|R|N ; -ing|ing|S||-ing (N)
+waisted	adj	waist|waist|R|N ; -ed|ed|S||-ed (adj)
+waits	noun	wait|wait|R|V ; -s|s|I||-s (plural)
+waka	noun	waka|waka|R|N
+wakeboarding	noun	wake|wake|R|V ; board|board|R|N ; -ing|ing|S||-ing (N)
+wakefully	adv	wake|wake|R|V ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+wakeless	adj	wake|wake|R|V ; -less|less|S
+wakeman	noun	wake|wake|R|V ; man|man|R|N
+wakener	noun	wake|wak|R|V ; -en|en|S ; -er|er|S||-er (N)
+wakening	verb	wake|wak|R|V ; -en|en|S ; -ing|ing|I||-ing (v)
+wakes	noun	wake|wake|R|V ; -s|s|I||-s (plural)
+wale	noun	wale|wale|R|N
+wali	noun	wali|wali|R|N
+walima	noun	walima|walima|R|N
+waling	verb	wale|wal|R|V ; -ing|ing|I||-ing (v)
+walkability	noun	walk|walk|R|V ; -able|abil|S ; -ity|ity|S
+walkaway	noun	walk|walk|R|V ; away|away|R|Adv
+wallah	noun	wallah|wallah|R|N
+wallaroo	noun	wallaroo|wallaroo|R|N
+wallcreeper	noun	wall|wall|R|N ; creep|creep|R|V ; -er|er|S||-er (N)
+walleyed	adj	wall|wall|R|N ; eye|ey|R|N ; -ed|ed|S||-ed (adj)
+wallowing	verb	wallow|wallow|R|V ; -ing|ing|I||-ing (v)
+waltzer	noun	waltz|waltz|R|V ; -er|er|S||-er (N)
+wampee	noun	wampee|wampee|R|N
+wampus	noun	wampus|wampus|R|N
+wamus	noun	wamus|wamus|R|N
+wandsman	noun	wand|wands|R|N ; man|man|R|N
+waned	verb	wane|wan|R|V ; -ed|ed|I||-ed (v2)
+wangler	noun	wangle|wangl|R|V ; -er|er|S||-er (N)
+wangling	verb	wangle|wangl|R|V ; -ing|ing|I||-ing (v)
+wanness	noun	wan|wan|R|Adj ; -ness|ness|S
+wapentake	noun	wapentake|wapentake|R|N
+waqf	noun	waqf|waqf|R|N
+warband	noun	war|war|R|N ; band|band|R|N
+warded	verb	ward|ward|R|V ; -ed|ed|I||-ed (v2)
+wardenship	noun	warden|warden|R|N ; -ship|ship|S
+warding	verb	ward|ward|R|V ; -ing|ing|I||-ing (v)
+wardress	noun	warder|wardr|R|N ; -ess|ess|S
+warehoused	verb	warehouse|warehous|R|N ; -ed|ed|I||-ed (v2)
+warehousewoman	noun	warehouse|warehouse|R|N ; woman|woman|R|N
+warez	noun	warez|warez|R|N
+warmish	adj	warm|warm|R|Adj ; -ish|ish|S
+warmness	noun	warm|warm|R|Adj ; -ness|ness|S
+warrantable	adj	warrant|warrant|R|V ; -able|able|S
+warrantee	noun	warrant|warrant|R|V ; -ee|ee|S
+warranter	noun	warrant|warrant|R|V ; -er|er|S||-er (N)
+warranting	verb	warrant|warrant|R|V ; -ing|ing|I||-ing (v)
+warrantor	noun	warrant|warrant|R|V ; -or|or|S
+warrener	noun	warren|warren|R|N ; -er|er|S||-er (N)
+warrigal	noun	warrigal|warrigal|R|N
+warted	adj	wart|wart|R|N ; -ed|ed|S||-ed (adj)
+washbag	noun	wash|wash|R|V ; bag|bag|R|N
+washbowl	noun	wash|wash|R|V ; bowl|bowl|R|N
+washhouse	noun	wash|wash|R|V ; house|house|R|N
+washi	noun	washi|washi|R|N
+washiness	noun	washy|washi|R|Adj ; -ness|ness|S
+washwoman	noun	wash|wash|R|V ; woman|woman|R|N
+washy	adj	wash|wash|R|V ; -y|y|S
+wasla	noun	wasla|wasla|R|N
+waspishness	noun	wasp|wasp|R|N ; -ish|ish|S ; -ness|ness|S
+wassail	noun	wassail|wassail|R|N
+wassailer	noun	wassail|wassail|R|N ; -er|er|S||-er (N)
+wassailing	verb	wassail|wassail|R|V ; -ing|ing|I||-ing (v)
+wasteless	adj	waste|waste|R|V ; -less|less|S
+wastry	noun	waste|wast|R|V ; -ry|ry|S
+wasty	adj	waste|wast|R|V ; -y|y|S
+watched	verb	watch|watch|R|V ; -ed|ed|I||-ed (v2)
+watchless	adj	watch|watch|R|V ; -less|less|S
+watchlist	noun	watch|watch|R|V ; list|list|R|N
+watchmaking	noun	watch|watch|R|V ; make|mak|R|V ; -ing|ing|S||-ing (N)
+watchstrap	noun	watch|watch|R|V ; strap|strap|R|N
+watchwork	noun	watch|watch|R|V ; work|work|R|N
+waterage	noun	water|water|R|N ; -age|age|S
+waterbased	adj	water|water|R|N ; base|bas|R|V ; -ed|ed|S||-ed (adj)
+waterberry	noun	water|water|R|N ; berry|berry|R|N
+waterboard	noun	water|water|R|N ; board|board|R|N
+waterboarding	noun	water|water|R|N ; board|board|R|N ; -ing|ing|S||-ing (N)
+waterbomber	noun	water|water|R|N ; bomb|bomb|R|V ; -er|er|S||-er (N)
+waterbuck	noun	water|water|R|N ; buck|buck|R|N
+watercock	noun	water|water|R|N ; cock|cock|R|N
+waterdrop	noun	water|water|R|N ; drop|drop|R|N
+waterer	noun	water|water|R|V ; -er|er|S||-er (N)
+waterflow	noun	water|water|R|N ; flow|flow|R|N
+wateriness	noun	watery|wateri|R|Adj ; -ness|ness|S
+waterish	adj	water|water|R|N ; -ish|ish|S
+waterlogging	noun	water|water|R|N ; log|logg|R|V ; -ing|ing|S||-ing (N)
+watermanship	noun	water|water|R|N ; man|man|R|N ; -ship|ship|S
+watermilfoil	noun	water|water|R|N ; milfoil|milfoil|R|N
+waterport	noun	water|water|R|N ; port|port|R|N
+waterproofed	verb	water|water|R|N ; proof|proof|R|N ; -ed|ed|I||-ed (v2)
+waterskier	noun	water|water|R|N ; ski|ski|R|V ; -er|er|S||-er (N)
+waterskin	noun	water|water|R|N ; skin|skin|R|N
+watersport	noun	water|water|R|N ; sport|sport|R|N
+watertightness	noun	water|water|R|N ; tight|tight|R|Adj ; -ness|ness|S
+wattled	adj	wattle|wattl|R|V ; -ed|ed|S||-ed (adj)
+wattless	adj	watt|watt|R|N ; -less|less|S
+wattling	noun	wattle|wattl|R|V ; -ing|ing|S||-ing (N)
+wattmeter	noun	watt|watt|R|N ; meter|meter|R|N
+waul	verb	waul|waul|R|V
+waved	verb	wave|wav|R|V ; -ed|ed|I||-ed (v2)
+waveless	adj	wave|wave|R|V ; -less|less|S
+wavelike	adj	wave|wave|R|V ; -like|like|S
+wavenumber	noun	wave|wave|R|V ; number|number|R|N
+wavily	adv	wavy|wavi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+waviness	noun	wavy|wavi|R|Adj ; -ness|ness|S
+waw	noun	waw|waw|R|N
+waxcloth	noun	wax|wax|R|N ; cloth|cloth|R|N
+waxflower	noun	wax|wax|R|N ; flower|flower|R|N
+wayfaring	noun	way|way|R|N ; fare|far|R|V ; -ing|ing|S||-ing (N)
+wayless	adj	way|way|R|N ; -less|less|S
+waymark	noun	way|way|R|N ; mark|mark|R|N
+waypost	noun	way|way|R|N ; post|post|R|N
+wayzgoose	noun	wayzgoose|wayzgoose|R|N
+wazir	noun	wazir|wazir|R|N
+wazukhana	noun	wazukhana|wazukhana|R|N
+weaker	adj	weak|weak|R|Adj ; -er|er|I||-er (comparative)
+weakish	adj	weak|weak|R|Adj ; -ish|ish|S
+wealthily	adv	wealth|wealth|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+wealthiness	noun	wealth|wealth|R|N ; -y|i|S ; -ness|ness|S
+weanling	noun	wean|wean|R|V ; -ling|ling|S
+weaponed	adj	weapon|weapon|R|N ; -ed|ed|S||-ed (adj)
+weaponeer	noun	weapon|weapon|R|N ; -eer|eer|S
+weaponize	verb	weapon|weapon|R|N ; -ize|ize|S
+weaponsmith	noun	weapon|weapon|R|N ; smith|smith|R|N
+weariedness	noun	weary|weari|R|Adj ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+weariful	adj	weary|weari|R|Adj ; -ful|ful|S
+weariless	adj	weary|weari|R|Adj ; -less|less|S
+wearisomeness	noun	weary|weari|R|Adj ; -some|some|S ; -ness|ness|S
+weaselly	adj	weasel|weasel|R|N ; -ly|ly|S||-ly (adj)
+weatherboard	noun	weather|weather|R|N ; board|board|R|N
+weatherstrip	noun	weather|weather|R|N ; strip|strip|R|N
+weatherwoman	noun	weather|weather|R|N ; woman|woman|R|N
+weazen	adj	weazen|weazen|R|Adj
+weazened	adj	weazen|weazen|R|Adj ; -ed|ed|S||-ed (adj)
+webcap	noun	web|web|R|N ; cap|cap|R|N
+webcomic	noun	web|web|R|N ; comic|comic|R|N
+weber	noun	weber|weber|R|N
+webfoot	noun	web|web|R|N ; foot|foot|R|N
+webinar	noun	webinar|webinar|R|N
+webnovel	noun	web|web|R|N ; novel|novel|R|N
+webography	noun	webography|webography|R|N
+webster	noun	webster|webster|R|N
+webstore	noun	web|web|R|N ; store|store|R|N
+websurfer	noun	web|web|R|N ; surf|surf|R|V ; -er|er|S||-er (N)
+wedgelike	adj	wedge|wedge|R|V ; -like|like|S
+wedgewise	adv	wedge|wedge|R|V ; -wise|wise|S
+wedgy	adj	wedge|wedg|R|V ; -y|y|S
+weeaboo	noun	weeaboo|weeaboo|R|N
+weeder	noun	weed|weed|R|V ; -er|er|S||-er (N)
+weedery	noun	weed|weed|R|V ; -ery|ery|S
+weedgrown	adj	weed|weed|R|N ; grow|grown|R|V ; -en||I||-en (participle)
+weedhead	noun	weed|weed|R|V ; head|head|R|N
+weekdays	noun	week|week|R|N ; day|day|R|N ; -s|s|I||-s (plural)
+weekends	noun	week|week|R|N ; end|end|R|N ; -s|s|I||-s (plural)
+ween	verb	ween|ween|R|V
+weepingly	adv	weep|weep|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+weever	noun	weever|weever|R|N

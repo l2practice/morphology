@@ -1,0 +1,200 @@
+unoiled	adj	un-|un|P ; oil|oil|R|V ; -ed|ed|S||-ed (adj)
+satiated	adj	satiate|satiat|R|V ; -ed|ed|S||-ed (adj)
+trunnion	noun	trunnion|trunnion|R|N
+vincristine	noun	vincristine|vincristine|R|N
+hygroscopic	adj	hygroscopic|hygroscopic|R|Adj
+wonted	adj	wont|wont|R|Adj ; -ed|ed|S||-ed (adj)
+goanna	noun	goanna|goanna|R|N
+arytenoid	noun	arytenoid|arytenoid|R|N
+subtopic	noun	sub-|sub|P ; topic|topic|R|N
+vilely	adv	vile|vile|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+thali	noun	thali|thali|R|N
+versify	verb	verse|vers|R|N ; -ify|ify|S
+pubescence	noun	pubescent|pubesc|R|Adj ; -ence|ence|S
+unwelcoming	adj	un-|un|P ; welcome|welcom|R|V ; -ing|ing|S||-ing (adj)
+volute	noun	volute|volute|R|N
+paver	noun	pave|pav|R|V ; -er|er|S||-er (N)
+polygrapher	noun	polygraph|polygraph|R|N ; -er|er|S||-er (N)
+telluric	adj	telluric|telluric|R|Adj
+matrilateral	adj	matrilateral|matrilateral|R|Adj
+lapin	noun	lapin|lapin|R|N
+underfinanced	adj	under-|under|P ; finance|financ|R|V ; -ed|ed|S||-ed (adj)
+ectomorph	noun	ectomorph|ectomorph|R|N
+unmourned	adj	un-|un|P ; mourn|mourn|R|V ; -ed|ed|S||-ed (adj)
+protectress	noun	protectress|protectress|R|N
+viceregal	adj	viceregal|viceregal|R|Adj
+cyberterrorism	noun	cyber|cyber|R|N ; terror|terror|R|N ; -ism|ism|S
+misogynous	adj	misogynous|misogynous|R|Adj
+treacly	adj	treacle|treacl|R|N ; -y|y|S
+minicar	noun	mini|mini|R|Adj ; car|car|R|N
+epidemiologically	adv	epidemiological|epidemiological|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+tideway	noun	tide|tide|R|N ; way|way|R|N
+thundery	adj	thunder|thunder|R|N ; -y|y|S
+cablegram	noun	cable|cable|R|N ; gram|gram|R|N
+thunderously	adv	thunder|thunder|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+repellency	noun	repel|repell|R|V ; -ency|ency|S
+testa	noun	testa|testa|R|N
+historicization	noun	historic|historic|R|Adj ; -ize|iz|S ; -ation|ation|S
+peepshow	noun	peep|peep|R|V ; show|show|R|N
+cytosine	noun	cytosine|cytosine|R|N
+spokeshave	noun	spoke|spoke|R|N ; shave|shave|R|V
+silversides	noun	silver|silver|R|N ; side|side|R|N ; -s|s|I||-s (plural)
+stormer	noun	storm|storm|R|V ; -er|er|S||-er (N)
+stolidity	noun	stolid|stolid|R|Adj ; -ity|ity|S
+missiology	noun	missiology|missiology|R|N
+pluralization	noun	plural|plural|R|Adj ; -ize|iz|S ; -ation|ation|S
+communicability	noun	communicable|communicabil|R|Adj ; -ity|ity|S
+spadework	noun	spade|spade|R|N ; work|work|R|V
+creditability	noun	creditable|creditabil|R|Adj ; -ity|ity|S
+birefringence	noun	bi-|bi|P ; refringent|refring|R|Adj ; -ence|ence|S
+fowling	noun	fowl|fowl|R|V ; -ing|ing|S||-ing (N)
+slaty	adj	slate|slat|R|N ; -y|y|S
+trismus	noun	trismus|trismus|R|N
+alienable	adj	alien|alien|R|V ; -able|able|S
+sedulously	adv	sedulous|sedulous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+monetization	noun	monetize|monetiz|R|V ; -ation|ation|S
+standee	noun	stand|stand|R|V ; -ee|ee|S
+rhodopsin	noun	rhodopsin|rhodopsin|R|N
+sgraffito	noun	sgraffito|sgraffito|R|N
+bunco	noun	bunco|bunco|R|N
+haptics	noun	haptics|haptics|R|N
+scenographic	adj	scenographic|scenographic|R|Adj
+hydrogel	noun	hydro|hydro|R|N ; gel|gel|R|N
+coppersmith	noun	copper|copper|R|N ; smith|smith|R|N
+preconceive	verb	pre-|pre|P ; con-|con|P ; -ceive|ceive|B|V
+acclimatized	adj	ac-|ac|P|||ad- ; climate|climat|R|N ; -ize|iz|S ; -ed|ed|S||-ed (adj)
+intermittency	noun	intermittent|intermitt|R|Adj ; -ency|ency|S
+enucleation	noun	enucleate|enucleat|R|V ; -ion|ion|S
+intermezzo	noun	intermezzo|intermezzo|R|N
+herpesvirus	noun	herpes|herpes|R|N ; virus|virus|R|N
+panjandrum	noun	panjandrum|panjandrum|R|N
+enuresis	noun	enuresis|enuresis|R|N
+coprolite	noun	coprolite|coprolite|R|N
+overpoweringly	adv	over-|over|P ; power|power|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+talkativeness	noun	talkative|talkative|R|Adj ; -ness|ness|S
+sonography	noun	sonography|sonography|R|N
+cellularity	noun	cellular|cellular|R|Adj ; -ity|ity|S
+heterotopic	adj	heterotopic|heterotopic|R|Adj
+lightship	noun	light|light|R|N ; ship|ship|R|N
+mistily	adv	misty|misti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+ondansetron	noun	ondansetron|ondansetron|R|N
+leukemic	adj	leukemia|leukem|R|N ; -ic|ic|S
+ment	?	?
+anthropometry	noun	anthropometry|anthropometry|R|N
+pericardial	adj	pericardium|pericardi|R|N ; -al|al|S
+kerbstone	noun	kerb|kerb|R|N ; stone|stone|R|N
+quilled	adj	quill|quill|R|N ; -ed|ed|S||-ed (adj)
+guarana	noun	guarana|guarana|R|N
+blackfish	noun	black|black|R|Adj ; fish|fish|R|N
+azithromycin	noun	azithromycin|azithromycin|R|N
+phorid	noun	phorid|phorid|R|N
+scuppernong	noun	scuppernong|scuppernong|R|N
+malleolus	noun	malleolus|malleolus|R|N
+contractionary	adj	contraction|contraction|R|N ; -ary|ary|S
+motorcoach	noun	motor|motor|R|N ; coach|coach|R|N
+hangdog	adj	hang|hang|R|V ; dog|dog|R|N
+dysthymia	noun	dysthymia|dysthymia|R|N
+shillelagh	noun	shillelagh|shillelagh|R|N
+detoxifier	noun	detoxify|detoxifi|R|V ; -er|er|S||-er (N)
+frontbencher	noun	front|front|R|N ; bench|bench|R|N ; -er|er|S||-er (N)
+bricoleur	noun	bricoleur|bricoleur|R|N
+essayistic	adj	essay|essay|R|N ; -ist|ist|S ; -ic|ic|S
+chordate	noun	chordate|chordate|R|N
+libero	noun	libero|libero|R|N
+divinization	noun	divine|divin|R|Adj ; -ize|iz|S ; -ation|ation|S
+physiographic	adj	physiographic|physiographic|R|Adj
+drear	adj	drear|drear|R|Adj
+phalarope	noun	phalarope|phalarope|R|N
+cyclo	noun	cyclo|cyclo|R|N
+coelacanth	noun	coelacanth|coelacanth|R|N
+distractingly	adv	distract|distract|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+misattribution	noun	mis-|mis|P ; attribute|attribut|R|V ; -ion|ion|S
+electronystagmography	noun	electronystagmography|electronystagmography|R|N
+aquanaut	noun	aquanaut|aquanaut|R|N
+bolide	noun	bolide|bolide|R|N
+departmentally	adv	departmental|departmental|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+intermolecular	adj	inter-|inter|P ; molecular|molecular|R|Adj
+petitioning	verb	petition|petition|R|V ; -ing|ing|I||-ing (v)
+phylogenetically	adv	phylogenetic|phylogenetic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+electroactive	adj	electroactive|electroactive|R|Adj
+provenience	noun	provenience|provenience|R|N
+cinquefoil	noun	cinquefoil|cinquefoil|R|N
+coachwork	noun	coach|coach|R|N ; work|work|R|N
+penaeid	noun	penaeid|penaeid|R|N
+pietistic	adj	pietist|pietist|R|N ; -ic|ic|S
+breviary	noun	breviary|breviary|R|N
+synchronizer	noun	synchronize|synchroniz|R|V ; -er|er|S||-er (N)
+bilharzia	noun	bilharzia|bilharzia|R|N
+hilar	adj	hilar|hilar|R|Adj
+intratextual	adj	intra-|intra|P ; textual|textual|R|Adj
+diplodocus	noun	diplodocus|diplodocus|R|N
+aerostat	noun	aerostat|aerostat|R|N
+audiological	adj	audiology|audiolog|R|N ; -ical|ical|S
+amateurishness	noun	amateur|amateur|R|N ; -ish|ish|S ; -ness|ness|S
+adroitness	noun	adroit|adroit|R|Adj ; -ness|ness|S
+gratuitousness	noun	gratuitous|gratuitous|R|Adj ; -ness|ness|S
+lycanthrope	noun	lycanthrope|lycanthrope|R|N
+wingspread	noun	wing|wing|R|N ; spread|spread|R|V
+clogger	noun	clog|clogg|R|V ; -er|er|S||-er (N)
+deckle	noun	deckle|deckle|R|N
+histiocytosis	noun	histiocytosis|histiocytosis|R|N
+hydrogeologic	adj	hydrogeologic|hydrogeologic|R|Adj
+supraventricular	adj	supraventricular|supraventricular|R|Adj
+nonthermal	adj	non-|non|P ; thermal|thermal|R|Adj
+hammermill	noun	hammer|hammer|R|N ; mill|mill|R|N
+colleen	noun	colleen|colleen|R|N
+geoeconomics	noun	geoeconomics|geoeconomics|R|N
+aguardiente	noun	aguardiente|aguardiente|R|N
+gravlax	noun	gravlax|gravlax|R|N
+federative	adj	federate|federat|R|V ; -ive|ive|S
+intendant	noun	intendant|intendant|R|N
+wineshop	noun	wine|wine|R|N ; shop|shop|R|N
+saccule	noun	saccule|saccule|R|N
+nuclide	noun	nuclide|nuclide|R|N
+floristic	adj	florist|florist|R|N ; -ic|ic|S
+icepick	noun	ice|ice|R|N ; pick|pick|R|N
+trichotillomania	noun	trichotillomania|trichotillomania|R|N
+sunyata	noun	sunyata|sunyata|R|N
+gimbal	noun	gimbal|gimbal|R|N
+vide	verb	vide|vide|R|V
+introjection	noun	introject|introject|R|V ; -ion|ion|S
+morpho	noun	morpho|morpho|R|N
+paintless	adj	paint|paint|R|V ; -less|less|S
+hypoplasia	noun	hypoplasia|hypoplasia|R|N
+economistic	adj	economist|economist|R|N ; -ic|ic|S
+rhizomatous	adj	rhizome|rhizomat|R|N ; -ous|ous|S
+unburnt	adj	un-|un|P ; burn|burnt|R|V ; -ed||I||-ed (v2)
+twiddly	adj	twiddle|twiddl|R|V ; -y|y|S
+trebling	verb	treble|trebl|R|V ; -ing|ing|I||-ing (v)
+claudication	noun	claudication|claudication|R|N
+toper	noun	tope|top|R|V ; -er|er|S||-er (N)
+toecap	noun	toe|toe|R|N ; cap|cap|R|N
+zarzuela	noun	zarzuela|zarzuela|R|N
+hypercapnia	noun	hypercapnia|hypercapnia|R|N
+disyllabic	adj	disyllabic|disyllabic|R|Adj
+shrike	noun	shrike|shrike|R|N
+multimode	noun	multi-|multi|P ; mode|mode|R|N
+tantalus	noun	tantalus|tantalus|R|N
+albinism	noun	albino|albin|R|N ; -ism|ism|S
+geoengineering	noun	geoengineering|geoengineering|R|N
+mesophilic	adj	mesophilic|mesophilic|R|Adj
+ordinator	noun	ordinate|ordinat|R|V ; -or|or|S
+ampulla	noun	ampulla|ampulla|R|N
+tegmen	noun	tegmen|tegmen|R|N
+hyperemia	noun	hyperemia|hyperemia|R|N
+shigellosis	noun	shigellosis|shigellosis|R|N
+putrescible	adj	putrescible|putrescible|R|Adj
+pelota	noun	pelota|pelota|R|N
+springing	verb	spring|spring|R|V ; -ing|ing|I||-ing (v)
+carbamazepine	noun	carbamazepine|carbamazepine|R|N
+bast	noun	bast|bast|R|N
+kora	noun	kora|kora|R|N
+kilocalorie	noun	kilo|kilo|R|N ; calorie|calorie|R|N
+scandium	noun	scandium|scandium|R|N
+proteinase	noun	proteinase|proteinase|R|N
+lymphoblastic	adj	lymphoblast|lymphoblast|R|N ; -ic|ic|S
+hiddenness	noun	hidden|hidden|R|Adj ; -ness|ness|S
+refocusing	verb	re-|re|P ; focus|focus|R|V ; -ing|ing|I||-ing (v)
+mythopoeic	adj	mythopoeic|mythopoeic|R|Adj
+cofferdam	noun	coffer|coffer|R|N ; dam|dam|R|N
+princedom	noun	prince|prince|R|N ; -dom|dom|S

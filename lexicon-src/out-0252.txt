@@ -1,0 +1,200 @@
+comstockery	noun	comstockery|comstockery|R|N
+conarium	noun	conarium|conarium|R|N
+conation	noun	conation|conation|R|N
+conative	adj	conative|conative|R|Adj
+conatus	noun	conatus|conatus|R|N
+concatenate	verb	con-|con|P ; catenate|catenate|R|V
+concatenated	verb	con-|con|P ; catenate|catenat|R|V ; -ed|ed|I||-ed (v2)
+concavely	adv	concave|concave|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+concaveness	noun	concave|concave|R|Adj ; -ness|ness|S
+concealable	adj	conceal|conceal|R|V ; -able|able|S
+concededly	adv	concede|conced|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+conceder	noun	concede|conced|R|V ; -er|er|S||-er (N)
+conceitedly	adv	conceit|conceit|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+conceitedness	noun	conceit|conceit|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+conceivability	noun	con-|con|P ; -ceive|ceiv|B|V ; -able|abil|S ; -ity|ity|S
+conceivableness	noun	con-|con|P ; -ceive|ceiv|B|V ; -able|able|S ; -ness|ness|S
+conceiver	noun	con-|con|P ; -ceive|ceiv|B|V ; -er|er|S||-er (N)
+concentrative	adj	concentrate|concentrat|R|V ; -ive|ive|S
+concentratively	adv	concentrate|concentrat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+concentre	verb	con-|con|P ; centre|centre|R|V
+concentrically	adv	concentric|concentric|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+concentricity	noun	concentric|concentric|R|Adj ; -ity|ity|S
+conceptional	adj	con-|con|P ; -cept|cept|B|V ; -ion|ion|S ; -al|al|S
+conceptive	adj	con-|con|P ; -cept|cept|B|V ; -ive|ive|S
+conceptively	adv	con-|con|P ; -cept|cept|B|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+conceptualisation	noun	conceptual|conceptual|R|Adj ; -ise|is|S ; -ation|ation|S
+conceptualistic	adj	conceptual|conceptual|R|Adj ; -ist|ist|S ; -ic|ic|S
+conceptualistically	adv	conceptual|conceptual|R|Adj ; -ist|ist|S ; -ic|ic|S ; -ly|ally|I|Adv|-ly (adv)
+conceptus	noun	conceptus|conceptus|R|N
+concernedly	adv	concern|concern|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+concernment	noun	concern|concern|R|V ; -ment|ment|S
+concertedly	adv	concert|concert|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+concerting	verb	concert|concert|R|V ; -ing|ing|I||-ing (v)
+concertino	noun	concertino|concertino|R|N
+concessions	noun	concession|concession|R|N ; -s|s|I||-s (plural)
+concessive	adj	concession|concess|R|N ; -ive|ive|S
+concessively	adv	concession|concess|R|N ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+concettism	noun	concettism|concettism|R|N
+conchal	adj	conch|conch|R|N ; -al|al|S
+conchiferous	adj	conchiferous|conchiferous|R|Adj
+conchiform	adj	conchiform|conchiform|R|Adj
+conchoid	noun	conchoid|conchoid|R|N
+conchological	adj	conchology|concholog|R|N ; -ical|ical|S
+conchologist	noun	conchology|concholog|R|N ; -ist|ist|S
+conchology	noun	conchology|conchology|R|N
+conchy	noun	conch|conch|R|N ; -y|y|S
+conciliable	adj	conciliate|concili|R|V ; -able|able|S
+conciliar	adj	conciliar|conciliar|R|Adj
+conciliatoriness	noun	conciliate|conciliat|R|V ; -ory|ori|S ; -ness|ness|S
+concinnity	noun	concinnity|concinnity|R|N
+conclavist	noun	conclave|conclav|R|N ; -ist|ist|S
+concluder	noun	conclude|conclud|R|V ; -er|er|S||-er (N)
+conclusiveness	noun	con-|con|P ; -clude|clus|B|V ; -ive|ive|S ; -ness|ness|S
+concocter	noun	concoct|concoct|R|V ; -er|er|S||-er (N)
+concolorous	adj	con-|con|P ; color|color|R|N ; -ous|ous|S
+concomitance	noun	concomitant|concomit|R|Adj ; -ance|ance|S
+concordantly	adv	concordant|concordant|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+concrescence	noun	concrescence|concrescence|R|N
+concreted	verb	concrete|concret|R|V ; -ed|ed|I||-ed (v2)
+concreter	noun	concrete|concret|R|V ; -er|er|S||-er (N)
+concretionary	adj	concretion|concretion|R|N ; -ary|ary|S
+concretism	noun	concrete|concret|R|V ; -ism|ism|S
+concubinary	adj	concubine|concubin|R|N ; -ary|ary|S
+concupiscent	adj	concupiscent|concupiscent|R|Adj
+concurrency	noun	concurrent|concurr|R|Adj ; -ency|ency|S
+concussed	verb	concuss|concuss|R|V ; -ed|ed|I||-ed (v2)
+concussively	adv	concuss|concuss|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+condemning	verb	condemn|condemn|R|V ; -ing|ing|I||-ing (v)
+condensability	noun	condense|condens|R|V ; -able|abil|S ; -ity|ity|S
+condensable	adj	condense|condens|R|V ; -able|able|S
+condensational	adj	condense|condens|R|V ; -ation|ation|S ; -al|al|S
+condensedness	noun	condense|condens|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+condensery	noun	condense|condens|R|V ; -ery|ery|S
+condensible	adj	condense|condens|R|V ; -ible|ible|S
+condescender	noun	condescend|condescend|R|V ; -er|er|S||-er (N)
+condignly	adv	condign|condign|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+condimental	adj	condiment|condiment|R|N ; -al|al|S
+condisciple	noun	con-|con|P ; disciple|disciple|R|N
+condolatory	adj	condole|condol|R|V ; -ory|atory|S
+condole	verb	condole|condole|R|V
+condolences	noun	condole|condol|R|V ; -ence|ence|S ; -s|s|I||-s (plural)
+condoler	noun	condole|condol|R|V ; -er|er|S||-er (N)
+condoling	verb	condole|condol|R|V ; -ing|ing|I||-ing (v)
+condominial	adj	condominium|condomini|R|N ; -al|al|S
+condonation	noun	condone|condon|R|V ; -ation|ation|S
+condoner	noun	condone|condon|R|V ; -er|er|S||-er (N)
+condottiere	noun	condottiere|condottiere|R|N
+conducer	noun	con-|con|P ; -duce|duc|B|V ; -er|er|S||-er (N)
+conducing	verb	con-|con|P ; -duce|duc|B|V ; -ing|ing|I||-ing (v)
+conducingly	adv	con-|con|P ; -duce|duc|B|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+conduciveness	noun	con-|con|P ; -duce|duc|B|V ; -ive|ive|S ; -ness|ness|S
+conductibility	noun	con-|con|P ; -duct|duct|B|V ; -ible|ibil|S ; -ity|ity|S
+conductible	adj	con-|con|P ; -duct|duct|B|V ; -ible|ible|S
+conductimetric	adj	conductimetric|conductimetric|R|Adj
+conductometric	adj	conductometric|conductometric|R|Adj
+conductorial	adj	con-|con|P ; -duct|duct|B|V ; -or|or|S ; -ial|ial|S
+conductorship	noun	con-|con|P ; -duct|duct|B|V ; -or|or|S ; -ship|ship|S
+conductress	noun	con-|con|P ; -duct|duct|B|V ; -ess|ress|S
+conduplicate	verb	con-|con|P ; duplicate|duplicate|R|V
+conduplication	noun	con-|con|P ; duplicate|duplicat|R|V ; -ion|ion|S
+condylar	adj	condylar|condylar|R|Adj
+condyloid	adj	condyloid|condyloid|R|Adj
+condyloma	noun	condyloma|condyloma|R|N
+condylomatous	adj	condyloma|condylomat|R|N ; -ous|ous|S
+coned	verb	cone|con|R|V ; -ed|ed|I||-ed (v2)
+conehead	noun	cone|cone|R|N ; head|head|R|N
+confabulate	verb	con-|con|P ; fabulate|fabulate|R|V
+confabulator	noun	con-|con|P ; fabulate|fabulat|R|V ; -or|or|S
+confabulatory	adj	con-|con|P ; fabulate|fabulat|R|V ; -ory|ory|S
+confederalism	noun	confederate|confeder|R|V ; -al|al|S ; -ism|ism|S
+confederalist	noun	confederate|confeder|R|V ; -al|al|S ; -ist|ist|S
+confederationism	noun	confederate|confeder|R|V ; -ation|ation|S ; -ism|ism|S
+confederationist	noun	confederate|confeder|R|V ; -ation|ation|S ; -ist|ist|S
+confederative	adj	confederate|confeder|R|V ; -ative|ative|S
+conferencier	noun	conferencier|conferencier|R|N
+conferential	adj	conference|conferent|R|N ; -ial|ial|S
+conferment	noun	confer|confer|R|V ; -ment|ment|S
+conferrable	adj	confer|conferr|R|V ; -able|able|S
+conferrer	noun	confer|conferr|R|V ; -er|er|S||-er (N)
+conferring	verb	confer|conferr|R|V ; -ing|ing|I||-ing (v)
+confessable	adj	confess|confess|R|V ; -able|able|S
+confessed	verb	confess|confess|R|V ; -ed|ed|I||-ed (v2)
+confessedly	adv	confess|confess|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+confessing	verb	confess|confess|R|V ; -ing|ing|I||-ing (v)
+confessionist	noun	confession|confession|R|N ; -ist|ist|S
+confider	noun	confide|confid|R|V ; -er|er|S||-er (N)
+confidingness	noun	confide|confid|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+configurable	adj	configure|configur|R|V ; -able|able|S
+configurational	adj	configure|configur|R|V ; -ation|ation|S ; -al|al|S
+configurationally	adv	configure|configur|R|V ; -ation|ation|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+configurative	adj	configure|configur|R|V ; -ative|ative|S
+configurator	noun	configure|configur|R|V ; -or|ator|S
+confinable	adj	confine|confin|R|V ; -able|able|S
+confineless	adj	confine|confine|R|V ; -less|less|S
+confines	noun	confine|confine|R|N ; -s|s|I||-s (plural)
+confirmability	noun	confirm|confirm|R|V ; -able|abil|S ; -ity|ity|S
+confirmable	adj	confirm|confirm|R|V ; -able|able|S
+confirmand	noun	confirmand|confirmand|R|N
+confirmative	adj	confirm|confirm|R|V ; -ative|ative|S
+confirmedly	adv	confirm|confirm|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+confirmer	noun	confirm|confirm|R|V ; -er|er|S||-er (N)
+confiscable	adj	confiscate|confisc|R|V ; -able|able|S
+confiscator	noun	confiscate|confiscat|R|V ; -or|or|S
+confiteor	noun	confiteor|confiteor|R|N
+confiture	noun	confiture|confiture|R|N
+conflagrant	adj	con-|con|P ; flagrant|flagrant|R|Adj
+confliction	noun	conflict|conflict|R|V ; -ion|ion|S
+conflux	noun	con-|con|P ; flux|flux|R|N
+conformability	noun	conform|conform|R|V ; -able|abil|S ; -ity|ity|S
+conformable	adj	conform|conform|R|V ; -able|able|S
+conformableness	noun	conform|conform|R|V ; -able|able|S ; -ness|ness|S
+conformably	adv	conform|conform|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+conformally	adv	conform|conform|R|V ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+conformant	adj	conform|conform|R|V ; -ant|ant|S
+conformationally	adv	conform|conform|R|V ; -ation|ation|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+conformed	verb	conform|conform|R|V ; -ed|ed|I||-ed (v2)
+conformer	noun	conform|conform|R|V ; -er|er|S||-er (N)
+conforming	verb	conform|conform|R|V ; -ing|ing|I||-ing (v)
+confoundedly	adv	confound|confound|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+confoundedness	noun	confound|confound|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+confounder	noun	confound|confound|R|V ; -er|er|S||-er (N)
+confrontationist	noun	confront|confront|R|V ; -ation|ation|S ; -ist|ist|S
+confrontative	adj	confront|confront|R|V ; -ative|ative|S
+confronter	noun	confront|confront|R|V ; -er|er|S||-er (N)
+confronting	verb	confront|confront|R|V ; -ing|ing|I||-ing (v)
+confrontment	noun	confront|confront|R|V ; -ment|ment|S
+confusedness	noun	confuse|confus|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+confusional	adj	confuse|confus|R|V ; -ion|ion|S ; -al|al|S
+confutation	noun	confute|confut|R|V ; -ation|ation|S
+confutative	adj	confute|confut|R|V ; -ative|ative|S
+confuted	verb	confute|confut|R|V ; -ed|ed|I||-ed (v2)
+confuter	noun	confute|confut|R|V ; -er|er|S||-er (N)
+congealable	adj	congeal|congeal|R|V ; -able|able|S
+congealer	noun	congeal|congeal|R|V ; -er|er|S||-er (N)
+congealment	noun	congeal|congeal|R|V ; -ment|ment|S
+congelation	noun	congeal|congel|R|V ; -ation|ation|S
+congeneric	adj	con-|con|P ; generic|generic|R|Adj
+congenerical	adj	con-|con|P ; generic|generic|R|Adj ; -al|al|S
+congenerous	adj	congener|congener|R|N ; -ous|ous|S
+congenetic	adj	con-|con|P ; genetic|genetic|R|Adj
+congenially	adv	congenial|congenial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+congenialness	noun	congenial|congenial|R|Adj ; -ness|ness|S
+congest	verb	congest|congest|R|V
+conglobate	verb	conglobate|conglobate|R|V
+conglobation	noun	conglobate|conglobat|R|V ; -ion|ion|S
+conglomeratic	adj	conglomerate|conglomerat|R|V ; -ic|ic|S
+conglomerator	noun	conglomerate|conglomerat|R|V ; -or|or|S
+conglutinate	verb	con-|con|P ; glutinate|glutinate|R|V
+conglutination	noun	con-|con|P ; glutinate|glutinat|R|V ; -ion|ion|S
+conglutinative	adj	con-|con|P ; glutinate|glutinat|R|V ; -ive|ive|S
+conglutinator	noun	con-|con|P ; glutinate|glutinat|R|V ; -or|or|S
+congou	noun	congou|congou|R|N
+congratulating	verb	congratulate|congratulat|R|V ; -ing|ing|I||-ing (v)
+congratulator	noun	congratulate|congratulat|R|V ; -or|or|S
+congregationalism	noun	congregate|congregat|R|V ; -ion|ion|S ; -al|al|S ; -ism|ism|S
+congregationalist	noun	congregate|congregat|R|V ; -ion|ion|S ; -al|al|S ; -ist|ist|S
+congregative	adj	congregate|congregat|R|V ; -ive|ive|S
+congregativeness	noun	congregate|congregat|R|V ; -ive|ive|S ; -ness|ness|S
+congregator	noun	congregate|congregat|R|V ; -or|or|S
+congressionally	adv	congress|congress|R|N ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)

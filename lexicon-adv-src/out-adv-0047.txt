@@ -1,0 +1,150 @@
+nebulous	adj	nebul-|nebul|B|N|||Latin nebula 'mist' ; -ous|ous|S||||Latin -osus 'full of'
+quibble	verb	=
+clime	noun	=
+malign	verb	mal-|mal|P||||Latin malus 'bad' ; -ign|ign|B|N||gen|Latin genus 'kind'
+elegy	noun	=
+chaste	adj	=
+hibernation	noun	hibern-|hibern|B|N|||Latin hibernus 'wintry' ; -ation|ation|S||||Latin -atio 'act, state'
+imitator	noun	=
+exerciser	noun	=
+lifter	noun	=
+decapitate	verb	de-|de|P||||Latin de- 'from' ; -capit-|capit|B|N|||Latin caput 'head' ; -ate|ate|S||||Latin -atus 'past participle'
+daunt	verb	=
+alias	noun	=
+ejection	noun	e-|e|P||||Latin ex- 'out' ; -ject-|ject|B|V|||Latin iacere 'to throw' ; -ion|ion|S||||Latin -io 'act, state'
+tassel	noun	=
+attenuate	verb	=
+diction	noun	dict-|dict|B|V|||Latin dicere 'to say' ; -ion|ion|S||||Latin -io 'act, state'
+legible	adj	leg-|leg|B|V|||Latin legere 'to read' ; -ible|ible|S||||Latin -ibilis 'able to'
+inimical	adj	in-|in|P||||Latin in- 'not' ; -imic-|imic|B|N|||Latin amicus 'friend' ; -al|al|S||||Latin -alis 'pertaining to'
+excrement	noun	=
+monotone	adj	=
+remonstrate	verb	re-|re|P||||Latin re- 'again' ; -monstr-|monstr|B|V|||Latin monstrare 'to show' ; -ate|ate|S||||Latin -atus 'past participle'
+morose	adj	mor-|mor|B|N|||Latin mos 'custom' ; -ose|ose|S||||Latin -osus 'full of'
+suave	adj	=
+digress	verb	di-|di|P||||Latin dis- 'apart' ; -gress|gress|B|V|||Latin gradi 'to step'
+porcupine	noun	=
+incarnate	adj	=
+scald	verb	=
+antihistamine	noun	=
+paternalistic	adj	=
+interpose	verb	inter-|inter|P||||Latin inter 'between' ; -pose|pose|B|V|||Latin ponere 'to put'
+delirium	noun	=
+polyurethane	noun	=
+autographed	verb	=
+chickpea	noun	=
+gargoyle	noun	=
+sycamore	noun	=
+atrophy	noun	=
+abdication	noun	=
+seasonally	adv	=
+argumentative	adj	=
+rankle	verb	=
+telemarketer	noun	=
+individualize	verb	=
+cogent	adj	cog-|cog|B|V|||Latin cogere 'to compel' ; -ent|ent|S||||Latin -ens 'present participle'
+ecotourism	noun	=
+alarmist	noun	=
+glaucoma	noun	=
+stabilizer	noun	=
+opportune	adj	=
+monstrosity	noun	monstros-|monstros|B|N|||Latin monstrum 'monster' ; -ity|ity|S||||Latin -itas 'state, quality'
+lubricate	verb	lubric-|lubric|B|Adj|||Latin lubricus 'slippery' ; -ate|ate|S||||Latin -atus 'past participle'
+lamentable	adj	=
+incongruity	noun	in-|in|P||||Latin in- 'not' ; -congru-|congru|B|Adj|||Latin congruus 'fitting' ; -ity|ity|S||||Latin -itas 'state, quality'
+shrubbery	noun	=
+dissension	noun	dis-|dis|P||||Latin dis- 'apart' ; -sens-|sens|B|V|||Latin sentire 'to feel' ; -ion|ion|S||||Latin -io 'act, state'
+truism	noun	=
+despondency	noun	=
+petrochemical	noun	=
+acrimony	noun	=
+urbane	adj	urb-|urb|B|N|||Latin urbs 'city' ; -ane|ane|S||||Latin -anus 'pertaining to'
+stupor	noun	=
+promontory	noun	pro-|pro|P||||Latin pro- 'forward' ; -mont-|mont|B|V|||Latin prominere 'to project' ; -ory|ory|S||||Latin -torium 'place'
+prodigal	adj	=
+deflection	noun	de-|de|P||||Latin de- 'from' ; -flect-|flect|B|V|||Latin flectere 'to bend' ; -ion|ion|S||||Latin -io 'act, state'
+gurgle	verb	=
+annotate	verb	=
+sulfate	noun	=
+alacrity	noun	alacr-|alacr|B|Adj|||Latin alacer 'brisk' ; -ity|ity|S||||Latin -itas 'state, quality'
+pulsate	verb	=
+dermatology	noun	dermato-|dermato|B|N|||Greek derma 'skin' ; -logy|logy|B|N|||Greek logos 'study, word'
+ophthalmologist	noun	=
+problematical	adj	=
+prefect	noun	=
+mercurial	adj	=
+umber	noun	=
+authenticate	verb	=
+figment	noun	fig-|fig|B|V|||Latin fingere 'to make' ; -ment|ment|S||||Latin -mentum 'result, act'
+triceps	noun	tri-|tri|P||||Latin tres 'three' ; -ceps|ceps|B|N|||Latin caput 'head'
+ruckus	noun	=
+doubter	noun	=
+carotid	adj	=
+clarion	noun	=
+convulse	verb	con-|con|P||||Latin com- 'together' ; -vulse|vulse|B|V|||Latin vellere 'to pluck'
+cornea	noun	=
+perpetuity	noun	=
+confessor	noun	=
+idyll	noun	=
+truss	noun	=
+bisect	verb	bi-|bi|P||||Latin bis 'two' ; -sect|sect|B|V|||Latin secare 'to cut'
+angina	noun	=
+volition	noun	vol-|vol|B|V|||Latin velle 'to wish' ; -ition|ition|S||||Latin -io 'act, state'
+inimitable	adj	=
+egret	noun	=
+demure	adj	=
+perturbation	noun	per-|per|P||||Latin per 'through' ; -turb-|turb|B|V|||Latin turbare 'to disturb' ; -ation|ation|S||||Latin -atio 'act, state'
+diffraction	noun	dif-|dif|P||||Latin dis- 'apart' ; -fract-|fract|B|V|||Latin frangere 'to break' ; -ion|ion|S||||Latin -io 'act, state'
+almanac	noun	=
+trite	adj	=
+placenta	noun	=
+vicarious	adj	vicari-|vicari|B|N|||Latin vicarius 'substitute' ; -ous|ous|S||||Latin -osus 'full of'
+deserter	noun	=
+progenitor	noun	=
+lectern	noun	=
+cathartic	adj	cathart-|cathart|B|V|||Greek kathairein 'to cleanse' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+escapade	noun	=
+bioterrorism	noun	=
+heuristic	adj	heur-|heur|B|V|||Greek heuriskein 'to find' ; -istic|istic|S||||Greek -istikos 'pertaining to'
+reactivate	verb	=
+prostrate	adj	=
+spigot	noun	=
+maul	noun	=
+nodule	noun	nod-|nod|B|N|||Latin nodus 'knot' ; -ule|ule|S||||Latin -ulus 'small'
+selenium	noun	selen-|selen|B|N|||Greek selene 'moon' ; -ium|ium|S||||Latin -ium 'element suffix'
+cornice	noun	=
+dens	noun	=
+generalist	noun	=
+anarchic	adj	=
+gringo	noun	=
+lintel	noun	=
+explicable	adj	explic-|explic|B|V|||Latin explicare 'to unfold' ; -able|able|S||||Latin -abilis 'able to'
+psychoanalyst	noun	=
+faggot	noun	=
+nauseous	adj	=
+ochre	noun	=
+exhume	verb	ex-|ex|P||||Latin ex- 'out' ; -hume|hume|B|V|||Latin humare 'to bury'
+horoscope	noun	horo-|horo|B|N|||Greek hora 'time' ; -scope|scope|B|V|||Greek skopein 'to look'
+infantile	adj	=
+hydrangea	noun	hydr-|hydr|B|N|||Greek hydor 'water' ; -angea|angea|B|N|||Greek angeion 'vessel'
+philistine	noun	=
+recompense	noun	=
+separatism	noun	=
+sine	noun	=
+pandemonium	noun	pan-|pan|P||||Greek pan 'all' ; -demon-|demon|B|N|||Greek daimon 'demon, spirit' ; -ium|ium|S||||Latin -ium 'place'
+comedic	adj	=
+grotesquely	adv	=
+resiliency	noun	resili-|resili|B|V|||Latin resilire 'to spring back' ; -ency|ency|S||||Latin -entia 'state, quality'
+exult	verb	ex-|ex|P||||Latin ex- 'out' ; -ult|ult|B|V|||Latin salire 'to jump'
+ebullient	adj	e-|e|P||||Latin ex- 'out' ; -bulli-|bulli|B|V|||Latin bullire 'to bubble' ; -ent|ent|S||||Latin -ens 'present participle'
+duplicity	noun	duplic-|duplic|B|Adj|||Latin duplex 'double' ; -ity|ity|S||||Latin -itas 'state, quality'
+circumspect	adj	circum-|circum|P||||Latin circum 'around' ; -spect|spect|B|V|||Latin specere 'to look'
+millennial	adj	=
+apposite	adj	ap-|ap|P||||Latin ad- 'to' ; -posite|posite|B|V|||Latin ponere 'to put'
+sprain	verb	=
+vicissitude	noun	viciss-|viciss|B|N|||Latin vicis 'change' ; -itude|itude|S||||Latin -itudo 'state, condition'
+suburbanite	noun	=
+explicate	verb	explic-|explic|B|V|||Latin explicare 'to unfold' ; -ate|ate|S||||Latin -atus 'past participle'
+nativity	noun	=
+coliform	adj	coli-|coli|B|N|||Latin colon 'colon' ; -form|form|S||||Latin -formis 'shaped'
+culpable	adj	culp-|culp|B|N|||Latin culpa 'fault' ; -able|able|S||||Latin -abilis 'able to'

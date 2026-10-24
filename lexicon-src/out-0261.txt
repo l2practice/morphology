@@ -1,0 +1,200 @@
+decilitre	noun	decilitre|decilitre|R|N
+decillion	noun	decillion|decillion|R|N
+decillionaire	noun	decillionaire|decillionaire|R|N
+decimalism	noun	decimal|decimal|R|Adj ; -ism|ism|S
+decimalize	verb	decimal|decimal|R|Adj ; -ize|ize|S
+decimally	adv	decimal|decimal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+decimetre	noun	decimetre|decimetre|R|N
+decimetric	adj	decimetre|decimetr|R|N ; -ic|ic|S
+decimosexto	noun	decimosexto|decimosexto|R|N
+decipherer	noun	decipher|decipher|R|V ; -er|er|S||-er (N)
+decipherment	noun	decipher|decipher|R|V ; -ment|ment|S
+decisecond	noun	decisecond|decisecond|R|N
+decisionist	noun	decision|decision|R|N ; -ist|ist|S
+decisionmaker	noun	decision|decision|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+decisor	noun	decide|decis|R|V ; -or|or|S
+decivilization	noun	de-|de|P ; civilize|civiliz|R|V ; -ation|ation|S
+decivilize	verb	de-|de|P ; civilize|civilize|R|V
+deckhouse	noun	deck|deck|R|N ; house|house|R|N
+decklid	noun	deck|deck|R|N ; lid|lid|R|N
+declaimer	noun	declaim|declaim|R|V ; -er|er|S||-er (N)
+declaiming	verb	declaim|declaim|R|V ; -ing|ing|I||-ing (v)
+declarable	adj	declare|declar|R|V ; -able|able|S
+declarant	noun	declare|declar|R|V ; -ant|ant|S
+declaratively	adv	declare|declar|R|V ; -ative|ative|S ; -ly|ly|I|Adv|-ly (adv)
+declaring	verb	declare|declar|R|V ; -ing|ing|I||-ing (v)
+declass	verb	de-|de|P ; class|class|R|N
+declassifiable	adj	de-|de|P ; classify|classifi|R|V ; -able|able|S
+declensional	adj	declension|declension|R|N ; -al|al|S
+declinable	adj	decline|declin|R|V ; -able|able|S
+declinational	adj	decline|declinat|R|V ; -ion|ion|S ; -al|al|S
+declinator	noun	decline|declin|R|V ; -or|ator|S
+declinatory	adj	decline|declinat|R|V ; -ory|ory|S
+declined	verb	decline|declin|R|V ; -ed|ed|I||-ed (v2)
+decliner	noun	decline|declin|R|V ; -er|er|S||-er (N)
+declinometer	noun	declinometer|declinometer|R|N
+declivitous	adj	declivity|declivit|R|N ; -ous|ous|S
+declivous	adj	declivous|declivous|R|Adj
+declutch	verb	de-|de|P ; clutch|clutch|R|N
+declutter	verb	de-|de|P ; clutter|clutter|R|N
+decoct	verb	decoct|decoct|R|V
+decohere	verb	de-|de|P ; cohere|cohere|R|V
+decoherence	noun	de-|de|P ; cohere|coher|R|V ; -ence|ence|S
+decoke	verb	de-|de|P ; coke|coke|R|N
+decollate	verb	de-|de|P ; collate|collate|R|V
+decollation	noun	de-|de|P ; collate|collat|R|V ; -ion|ion|S
+decollator	noun	de-|de|P ; collate|coll|R|V ; -or|ator|S
+decolorant	noun	de-|de|P ; color|color|R|N ; -ant|ant|S
+decolorization	noun	de-|de|P ; color|color|R|N ; -ize|iz|S ; -ation|ation|S
+decolorize	verb	de-|de|P ; color|color|R|N ; -ize|ize|S
+decolorizer	noun	de-|de|P ; color|color|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+decolour	verb	de-|de|P ; colour|colour|R|N
+decolouration	noun	de-|de|P ; colour|colour|R|N ; -ation|ation|S
+decolourize	verb	de-|de|P ; colour|colour|R|N ; -ize|ize|S
+decommunization	noun	de-|de|P ; communize|communiz|R|V ; -ation|ation|S
+decommunize	verb	de-|de|P ; communize|communize|R|V
+decompensate	verb	de-|de|P ; compensate|compensate|R|V
+decompensation	noun	de-|de|P ; compensate|compensat|R|V ; -ion|ion|S
+decompilation	noun	de-|de|P ; compile|compil|R|V ; -ation|ation|S
+decompile	verb	de-|de|P ; compile|compile|R|V
+decompiler	noun	de-|de|P ; compile|compil|R|V ; -er|er|S||-er (N)
+decomplex	verb	de-|de|P ; complex|complex|R|Adj
+decomposability	noun	de-|de|P ; compose|compos|R|V ; -able|abil|S ; -ity|ity|S
+decomposable	adj	de-|de|P ; compose|compos|R|V ; -able|able|S
+decomposer	noun	de-|de|P ; compose|compos|R|V ; -er|er|S||-er (N)
+decomposite	adj	de-|de|P ; composite|composite|R|Adj
+decompositional	adj	de-|de|P ; compose|compos|R|V ; -ition|ition|S ; -al|al|S
+decompound	verb	de-|de|P ; compound|compound|R|N
+deconfigure	verb	de-|de|P ; configure|configure|R|V
+deconsecrate	verb	de-|de|P ; consecrate|consecrate|R|V
+decontaminant	noun	de-|de|P ; contaminate|contamin|R|V ; -ant|ant|S
+decontaminator	noun	de-|de|P ; contaminate|contamin|R|V ; -or|ator|S
+decontrolled	verb	de-|de|P ; control|controll|R|V ; -ed|ed|I||-ed (v2)
+decora	noun	decora|decora|R|N
+decorativeness	noun	decorate|decorat|R|V ; -ive|ive|S ; -ness|ness|S
+decorousness	noun	decorous|decorous|R|Adj ; -ness|ness|S
+decorticate	verb	de-|de|P ; cortex|cortic|R|N ; -ate|ate|S
+decortication	noun	de-|de|P ; cortex|cortic|R|N ; -ate|at|S ; -ion|ion|S
+decorticator	noun	de-|de|P ; cortex|cortic|R|N ; -ate|at|S ; -or|or|S
+decoyer	noun	decoy|decoy|R|N ; -er|er|S||-er (N)
+decreasingly	adv	decrease|decreas|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+decreeable	adj	decree|decree|R|V ; -able|able|S
+decreeing	verb	decree|decree|R|V ; -ing|ing|I||-ing (v)
+decreer	noun	decree|decre|R|V ; -er|er|S||-er (N)
+decremental	adj	decrement|decrement|R|N ; -al|al|S
+decrepitate	verb	de-|de|P ; crepitate|crepitate|R|V
+decrepitation	noun	de-|de|P ; crepitate|crepitat|R|V ; -ion|ion|S
+decrepitly	adv	decrepit|decrepit|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+decrescent	adj	decrescent|decrescent|R|Adj
+decretal	adj	decretal|decretal|R|Adj
+decretion	noun	decretion|decretion|R|N
+decretive	adj	decretive|decretive|R|Adj
+decrial	noun	de-|de|P ; cry|cri|R|V ; -al|al|S
+decrier	noun	de-|de|P ; cry|cri|R|V ; -er|er|S||-er (N)
+decrying	verb	de-|de|P ; cry|cry|R|V ; -ing|ing|I||-ing (v)
+decubitus	noun	decubitus|decubitus|R|N
+decuman	adj	decuman|decuman|R|Adj
+decumbence	noun	decumbent|decumb|R|Adj ; -ence|ence|S
+decumbent	adj	decumbent|decumbent|R|Adj
+decuple	verb	decuple|decuple|R|V
+decuplet	noun	decuplet|decuplet|R|N
+decurion	noun	decurion|decurion|R|N
+decurrence	noun	decurrent|decurr|R|Adj ; -ence|ence|S
+decurrent	adj	decurrent|decurrent|R|Adj
+decussate	verb	decussate|decussate|R|V
+decussately	adv	decussate|decussate|R|V ; -ly|ly|I|Adv|-ly (adv)
+decussation	noun	decussate|decussat|R|V ; -ion|ion|S
+dedans	noun	dedans|dedans|R|N
+dedicatedly	adv	dedicate|dedicat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+dedicative	adj	dedicate|dedicat|R|V ; -ive|ive|S
+dedicator	noun	dedicate|dedic|R|V ; -or|ator|S
+dedollarization	noun	de-|de|P ; dollar|dollar|R|N ; -ize|iz|S ; -ation|ation|S
+dedoublement	noun	de-|de|P ; double|double|R|V ; -ment|ment|S
+dedovshchina	noun	dedovshchina|dedovshchina|R|N
+deducibility	noun	de-|de|P ; -duce|duc|B|V ; -ible|ibil|S ; -ity|ity|S
+deductively	adv	de-|de|P ; -duct|duct|B|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+deduplicate	verb	de-|de|P ; duplicate|duplicate|R|V
+deeded	verb	deed|deed|R|N ; -ed|ed|I||-ed (v2)
+deel	noun	deel|deel|R|N
+deemed	verb	deem|deem|R|V ; -ed|ed|I||-ed (v2)
+deeming	verb	deem|deem|R|V ; -ing|ing|I||-ing (v)
+deen	noun	deen|deen|R|N
+deepfake	noun	deep|deep|R|Adj ; fake|fake|R|V
+deepthroating	verb	deep|deep|R|Adj ; throat|throat|R|N ; -ing|ing|I||-ing (v)
+deerhound	noun	deer|deer|R|N ; hound|hound|R|N
+deerstalker	noun	deer|deer|R|N ; stalk|stalk|R|V ; -er|er|S||-er (N)
+defaceable	adj	de-|de|P ; face|face|R|N ; -able|able|S
+defacer	noun	de-|de|P ; face|fac|R|N ; -er|er|S||-er (N)
+defalcate	verb	defalcate|defalcate|R|V
+defalcation	noun	defalcate|defalcat|R|V ; -ion|ion|S
+defalcator	noun	defalcate|defalc|R|V ; -or|ator|S
+defamed	verb	defame|defam|R|V ; -ed|ed|I||-ed (v2)
+defamer	noun	defame|defam|R|V ; -er|er|S||-er (N)
+defaming	verb	defame|defam|R|V ; -ing|ing|I||-ing (v)
+defat	verb	de-|de|P ; fat|fat|R|N
+defatted	verb	de-|de|P ; fat|fatt|R|N ; -ed|ed|I||-ed (v2)
+defaulting	verb	default|default|R|V ; -ing|ing|I||-ing (v)
+defeasance	noun	defease|defeas|R|V ; -ance|ance|S
+defeasibility	noun	defease|defeas|R|V ; -ible|ibil|S ; -ity|ity|S
+defeasible	adj	defease|defeas|R|V ; -ible|ible|S
+defeasibleness	noun	defease|defeas|R|V ; -ible|ible|S ; -ness|ness|S
+defeater	noun	defeat|defeat|R|V ; -er|er|S||-er (N)
+defeature	verb	de-|de|P ; feature|feature|R|N
+defecator	noun	defecate|defec|R|V ; -or|ator|S
+defectively	adv	defect|defect|R|N ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+defectiveness	noun	defect|defect|R|N ; -ive|ive|S ; -ness|ness|S
+defencelessly	adv	defence|defence|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+defencelessness	noun	defence|defence|R|N ; -less|less|S ; -ness|ness|S
+defenceman	noun	defence|defence|R|N ; man|man|R|N
+defended	verb	defend|defend|R|V ; -ed|ed|I||-ed (v2)
+defenestrate	verb	de-|de|P ; fenestrate|fenestrate|R|V
+defenestration	noun	de-|de|P ; fenestrate|fenestrat|R|V ; -ion|ion|S
+defenselessly	adv	defense|defense|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+defenselessness	noun	defense|defense|R|N ; -less|less|S ; -ness|ness|S
+defensibility	noun	defense|defens|R|N ; -ible|ibil|S ; -ity|ity|S
+defensibleness	noun	defense|defens|R|N ; -ible|ible|S ; -ness|ness|S
+defensibly	adv	defense|defens|R|N ; -ible|ib|S ; -ly|ly|I|Adv|-ly (adv)
+deferent	adj	defer|defer|R|V ; -ent|ent|S
+deferrable	adj	defer|deferr|R|V ; -able|able|S
+deferrer	noun	defer|deferr|R|V ; -er|er|S||-er (N)
+deferring	verb	defer|deferr|R|V ; -ing|ing|I||-ing (v)
+defervescence	noun	defervescence|defervescence|R|N
+defibrillate	verb	de-|de|P ; fibrillate|fibrillate|R|V
+defibrinate	verb	de-|de|P ; fibrin|fibrin|R|N ; -ate|ate|S
+defibrination	noun	de-|de|P ; fibrin|fibrin|R|N ; -ate|at|S ; -ion|ion|S
+deficiently	adv	deficient|deficient|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+defier	noun	defy|defi|R|V ; -er|er|S||-er (N)
+defilade	verb	defilade|defilade|R|V
+defiled	verb	defile|defil|R|V ; -ed|ed|I||-ed (v2)
+defiler	noun	defile|defil|R|V ; -er|er|S||-er (N)
+defilingly	adv	defile|defil|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+definability	noun	define|defin|R|V ; -able|abil|S ; -ity|ity|S
+definably	adv	define|defin|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+definement	noun	define|define|R|V ; -ment|ment|S
+definiendum	noun	definiendum|definiendum|R|N
+definitiveness	noun	define|definit|R|V ; -ive|ive|S ; -ness|ness|S
+deflagrate	verb	de-|de|P ; flagrate|flagrate|R|V
+deflagration	noun	de-|de|P ; flagrate|flagrat|R|V ; -ion|ion|S
+deflagrator	noun	de-|de|P ; flagrate|flagr|R|V ; -or|ator|S
+deflationist	noun	deflate|deflat|R|V ; -ion|ion|S ; -ist|ist|S
+deflea	verb	de-|de|P ; flea|flea|R|N
+deflectable	adj	deflect|deflect|R|V ; -able|able|S
+deflective	adj	deflect|deflect|R|V ; -ive|ive|S
+deflexed	adj	deflex|deflex|R|V ; -ed|ed|S||-ed (adj)
+deflexion	noun	deflex|deflex|R|V ; -ion|ion|S
+deflocculation	noun	de-|de|P ; flocculate|flocculat|R|V ; -ion|ion|S
+deflorate	verb	de-|de|P ; flora|flor|R|N ; -ate|ate|S
+defloration	noun	de-|de|P ; flora|flor|R|N ; -ate|at|S ; -ion|ion|S
+deflowerer	noun	de-|de|P ; flower|flower|R|N ; -er|er|S||-er (N)
+deflowering	verb	de-|de|P ; flower|flower|R|N ; -ing|ing|I||-ing (v)
+defog	verb	de-|de|P ; fog|fog|R|N
+defoliator	noun	de-|de|P ; foliate|foli|R|V ; -or|ator|S
+deforest	verb	de-|de|P ; forest|forest|R|N
+deforester	noun	de-|de|P ; forest|forest|R|N ; -er|er|S||-er (N)
+deformability	noun	de-|de|P ; form|form|R|V ; -able|abil|S ; -ity|ity|S
+defragment	verb	de-|de|P ; fragment|fragment|R|N
+defragmentation	noun	de-|de|P ; fragment|fragment|R|N ; -ation|ation|S
+defragmenter	noun	de-|de|P ; fragment|fragment|R|N ; -er|er|S||-er (N)
+defrauder	noun	defraud|defraud|R|V ; -er|er|S||-er (N)
+defrauding	verb	defraud|defraud|R|V ; -ing|ing|I||-ing (v)
+defrayable	adj	defray|defray|R|V ; -able|able|S

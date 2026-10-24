@@ -1,0 +1,200 @@
+aeroballistics	noun	aeroballistics|aeroballistics|R|N
+aerobat	noun	aerobat|aerobat|R|N
+aerobe	noun	aerobe|aerobe|R|N
+aerobiological	adj	aerobiological|aerobiological|R|Adj
+aerobiologically	adv	aerobiological|aerobiological|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+aerobiology	noun	aerobiology|aerobiology|R|N
+aerobiosis	noun	aerobiosis|aerobiosis|R|N
+aerocamera	noun	aerocamera|aerocamera|R|N
+aerodynamical	adj	aerodynamic|aerodynamic|R|Adj ; -al|al|S
+aerodynamicist	noun	aerodynamic|aerodynamic|R|Adj ; -ist|ist|S
+aerodyne	noun	aerodyne|aerodyne|R|N
+aeroelastic	adj	aeroelastic|aeroelastic|R|Adj
+aeroelasticity	noun	aeroelastic|aeroelastic|R|Adj ; -ity|ity|S
+aeroembolism	noun	aeroembolism|aeroembolism|R|N
+aerogram	noun	aerogram|aerogram|R|N
+aerograph	noun	aerograph|aerograph|R|N
+aerography	noun	aerograph|aerograph|R|N ; -y|y|S
+aerogun	noun	aerogun|aerogun|R|N
+aerolite	noun	aerolite|aerolite|R|N
+aerolith	noun	aerolith|aerolith|R|N
+aerolithology	noun	aerolithology|aerolithology|R|N
+aerolitic	adj	aerolite|aerolit|R|N ; -ic|ic|S
+aerologic	adj	aerology|aerolog|R|N ; -ic|ic|S
+aerologist	noun	aerology|aerolog|R|N ; -ist|ist|S
+aerology	noun	aerology|aerology|R|N
+aeromagnetic	adj	aeromagnetic|aeromagnetic|R|Adj
+aeromancy	noun	aeromancy|aeromancy|R|N
+aeromechanical	adj	aeromechanical|aeromechanical|R|Adj
+aeromechanically	adv	aeromechanical|aeromechanical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+aeromechanics	noun	aeromechanics|aeromechanics|R|N
+aerometer	noun	aerometer|aerometer|R|N
+aeromodelling	noun	aeromodelling|aeromodelling|R|N
+aeronaut	noun	aeronaut|aeronaut|R|N
+aeronautically	adv	aeronautical|aeronautical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+aeronaval	adj	aeronaval|aeronaval|R|Adj
+aeronavigation	noun	aeronavigation|aeronavigation|R|N
+aerophagy	noun	aerophagy|aerophagy|R|N
+aerophobia	noun	aerophobia|aerophobia|R|N
+aerophone	noun	aerophone|aerophone|R|N
+aerophotograph	noun	aerophotograph|aerophotograph|R|N
+aerophotography	noun	aerophotograph|aerophotograph|R|N ; -y|y|S
+aerophyte	noun	aerophyte|aerophyte|R|N
+aeroplankton	noun	aeroplankton|aeroplankton|R|N
+aeroponic	adj	aeroponic|aeroponic|R|Adj
+aeroport	noun	aeroport|aeroport|R|N
+aeroscope	noun	aeroscope|aeroscope|R|N
+aerospatial	adj	aerospatial|aerospatial|R|Adj
+aerostatic	adj	aerostatic|aerostatic|R|Adj
+aerostatical	adj	aerostatic|aerostatic|R|Adj ; -al|al|S
+aerostatics	noun	aerostatic|aerostatic|R|Adj ; -s|s|I||-s (plural)
+aerostation	noun	aerostat|aerostat|R|N ; -ion|ion|S
+aerotechnics	noun	aerotechnics|aerotechnics|R|N
+aerothermal	adj	aerothermal|aerothermal|R|Adj
+aerotrain	noun	aerotrain|aerotrain|R|N
+aerotropic	adj	aerotropic|aerotropic|R|Adj
+aerotropism	noun	aerotropism|aerotropism|R|N
+aeruginous	adj	aeruginous|aeruginous|R|Adj
+aery	adj	aery|aery|R|Adj
+aesthesia	noun	aesthesia|aesthesia|R|N
+aestivation	noun	aestivation|aestivation|R|N
+aeviternity	noun	aeviternity|aeviternity|R|N
+afebrile	adj	a-|a|P ; febrile|febrile|R|Adj
+affableness	noun	affable|affable|R|Adj ; -ness|ness|S
+affectedly	adv	affect|affect|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+affectedness	noun	affect|affect|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+affecter	noun	affect|affect|R|V ; -er|er|S||-er (N)
+affectingly	adv	affect|affect|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+affectionally	adv	affection|affection|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+affectionateness	noun	affection|affection|R|N ; -ate|ate|S ; -ness|ness|S
+affectivity	noun	affective|affectiv|R|Adj ; -ity|ity|S
+afferently	adv	afferent|afferent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+affettuoso	noun	affettuoso|affettuoso|R|N
+affiance	verb	affiance|affiance|R|V
+affianced	adj	affiance|affianc|R|V ; -ed|ed|S||-ed (adj)
+affinage	noun	affinage|affinage|R|N
+affinor	noun	affinor|affinor|R|N
+affirmable	adj	affirm|affirm|R|V ; -able|able|S
+affirmably	adv	affirm|affirm|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+affirmant	noun	affirm|affirm|R|V ; -ant|ant|S
+affirmer	noun	affirm|affirm|R|V ; -er|er|S||-er (N)
+affixable	adj	affix|affix|R|V ; -able|able|S
+affixation	noun	affix|affix|R|V ; -ation|ation|S
+affixed	adj	affix|affix|R|V ; -ed|ed|S||-ed (adj)
+affixer	noun	affix|affix|R|V ; -er|er|S||-er (N)
+affixing	verb	affix|affix|R|V ; -ing|ing|I||-ing (v)
+affixoid	adj	affixoid|affixoid|R|Adj
+affixture	noun	affixture|affixture|R|N
+afflatus	noun	afflatus|afflatus|R|N
+afflicter	noun	afflict|afflict|R|V ; -er|er|S||-er (N)
+afflicting	verb	afflict|afflict|R|V ; -ing|ing|I||-ing (v)
+afflictive	adj	afflict|afflict|R|V ; -ive|ive|S
+afflictively	adv	afflict|afflict|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+affluently	adv	affluent|affluent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+afflux	noun	afflux|afflux|R|N
+affogato	noun	affogato|affogato|R|N
+afforce	verb	af-|af|P|||ad- ; force|force|R|V
+affordance	noun	afford|afford|R|V ; -ance|ance|S
+afforest	verb	af-|af|P|||ad- ; forest|forest|R|N
+afforested	adj	af-|af|P|||ad- ; forest|forest|R|N ; -ed|ed|S||-ed (adj)
+afforesting	verb	af-|af|P|||ad- ; forest|forest|R|N ; -ing|ing|I||-ing (v)
+afforestment	noun	af-|af|P|||ad- ; forest|forest|R|N ; -ment|ment|S
+affranchise	verb	af-|af|P|||ad- ; franchise|franchise|R|V
+affranchisement	noun	af-|af|P|||ad- ; franchise|franchise|R|V ; -ment|ment|S
+affreightment	noun	af-|af|P|||ad- ; freight|freight|R|N ; -ment|ment|S
+affricate	noun	affricate|affricate|R|N
+affrication	noun	affricate|affricat|R|N ; -ion|ion|S
+affright	verb	af-|af|P|||ad- ; fright|fright|R|N
+affronting	adj	affront|affront|R|V ; -ing|ing|S||-ing (adj)
+affrontive	adj	affront|affront|R|V ; -ive|ive|S
+affusion	noun	af-|af|P|||ad- ; fusion|fusion|R|N
+afghan	noun	afghan|afghan|R|N
+afghani	noun	afghani|afghani|R|N
+aflagellar	adj	a-|a|P ; flagellar|flagellar|R|Adj
+aflutter	adj	a-|a|P ; flutter|flutter|R|V
+aforecited	adj	aforecited|aforecited|R|Adj
+aforehand	adv	aforehand|aforehand|R|Adv
+aforelisted	adj	aforelisted|aforelisted|R|Adj
+aforenamed	adj	aforenamed|aforenamed|R|Adj
+afoul	adv	a-|a|P ; foul|foul|R|Adj
+afrobeat	noun	afrobeat|afrobeat|R|N
+aftcastle	noun	aft|aft|R|N ; castle|castle|R|N
+afterbrain	noun	after|after|R|Adv ; brain|brain|R|N
+afterclap	noun	after|after|R|Adv ; clap|clap|R|N
+aftercrop	noun	after|after|R|Adv ; crop|crop|R|N
+afterdamp	noun	after|after|R|Adv ; damp|damp|R|N
+afterdeck	noun	after|after|R|Adv ; deck|deck|R|N
+afterfeather	noun	after|after|R|Adv ; feather|feather|R|N
+aftergame	noun	after|after|R|Adv ; game|game|R|N
+aftergrass	noun	after|after|R|Adv ; grass|grass|R|N
+aftergrowth	noun	after|after|R|Adv ; growth|growth|R|N
+afterlight	noun	after|after|R|Adv ; light|light|R|N
+aftermost	adj	after|after|R|Adv ; most|most|R|Adj
+afternoons	noun	after|after|R|Adv ; noon|noon|R|N ; -s|s|I||-s (plural)
+afterpain	noun	after|after|R|Adv ; pain|pain|R|N
+afterpeak	noun	after|after|R|Adv ; peak|peak|R|N
+afterpiece	noun	after|after|R|Adv ; piece|piece|R|N
+afterplay	noun	after|after|R|Adv ; play|play|R|V
+afters	noun	after|after|R|Adv ; -s|s|I||-s (plural)
+aftersale	noun	after|after|R|Adv ; sale|sale|R|N
+agalactia	noun	agalactia|agalactia|R|N
+agalmatolite	noun	agalmatolite|agalmatolite|R|N
+agama	noun	agama|agama|R|N
+agamete	noun	a-|a|P ; gamete|gamete|R|N
+agami	noun	agami|agami|R|N
+agamic	adj	agamic|agamic|R|Adj
+agamically	adv	agamic|agamic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+agamogenesis	noun	agamogenesis|agamogenesis|R|N
+agamogony	noun	agamogony|agamogony|R|N
+agamont	noun	agamont|agamont|R|N
+agamospecies	noun	agamospecies|agamospecies|R|N
+agamous	adj	agamous|agamous|R|Adj
+agamy	noun	agamy|agamy|R|N
+agapanthus	noun	agapanthus|agapanthus|R|N
+agaric	noun	agaric|agaric|R|N
+agaricaceous	adj	agaricaceous|agaricaceous|R|Adj
+agarwood	noun	agar|agar|R|N ; wood|wood|R|N
+agastric	adj	a-|a|P ; gastric|gastric|R|Adj
+agateware	noun	agate|agate|R|N ; ware|ware|R|N
+agathodaemon	noun	agathodaemon|agathodaemon|R|N
+agaze	adj	a-|a|P ; gaze|gaze|R|V
+agbada	noun	agbada|agbada|R|N
+agedly	adv	age|age|R|N ; -ed|d|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+agedness	noun	age|age|R|N ; -ed|d|S||-ed (adj) ; -ness|ness|S
+agelast	noun	agelast|agelast|R|N
+agelenid	noun	agelenid|agelenid|R|N
+agelessly	adv	age|age|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+agelessness	noun	age|age|R|N ; -less|less|S ; -ness|ness|S
+agelong	adj	age|age|R|N ; long|long|R|Adj
+agender	adj	a-|a|P ; gender|gender|R|N
+agenesia	noun	agenesia|agenesia|R|N
+agenesis	noun	agenesis|agenesis|R|N
+ages	noun	age|age|R|N ; -s|s|I||-s (plural)
+ageusia	noun	ageusia|ageusia|R|N
+agglomerant	noun	agglomerate|agglomer|R|V ; -ant|ant|S
+agglomerate	verb	agglomerate|agglomerate|R|V
+agglomerative	adj	agglomerate|agglomerat|R|V ; -ive|ive|S
+agglomerator	noun	agglomerate|agglomerat|R|V ; -or|or|S
+agglutinant	noun	agglutinate|agglutin|R|V ; -ant|ant|S
+agglutinate	verb	agglutinate|agglutinate|R|V
+agglutinative	adj	agglutinate|agglutinat|R|V ; -ive|ive|S
+agglutinin	noun	agglutinin|agglutinin|R|N
+agglutinogen	noun	agglutinogen|agglutinogen|R|N
+aggradation	noun	aggrade|aggrad|R|V ; -ation|ation|S
+aggrade	verb	aggrade|aggrade|R|V
+aggrandizer	noun	aggrandize|aggrandiz|R|V ; -er|er|S||-er (N)
+aggrandizing	verb	aggrandize|aggrandiz|R|V ; -ing|ing|I||-ing (v)
+aggravatingly	adv	aggravate|aggravat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+aggravator	noun	aggravate|aggravat|R|V ; -or|or|S
+aggregately	adv	aggregate|aggregate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+aggrieve	verb	aggrieve|aggrieve|R|V
+aggrievedly	adv	aggrieve|aggriev|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+aggrievedness	noun	aggrieve|aggriev|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+agha	noun	agha|agha|R|N
+agilely	adv	agile|agile|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+agileness	noun	agile|agile|R|Adj ; -ness|ness|S
+agio	noun	agio|agio|R|N
+agiotage	noun	agiotage|agiotage|R|N
+agism	noun	age|ag|R|N ; -ism|ism|S
+agist	verb	agist|agist|R|V
+agistment	noun	agist|agist|R|V ; -ment|ment|S

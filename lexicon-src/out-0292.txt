@@ -1,0 +1,200 @@
+glasswort	noun	glass|glass|R|N ; wort|wort|R|N
+glauberite	noun	glauberite|glauberite|R|N
+glaucomatous	adj	glaucoma|glaucomat|R|N ; -ous|ous|S
+glauconite	noun	glauconite|glauconite|R|N
+glauconitic	adj	glauconite|glauconit|R|N ; -ic|ic|S
+glaucophane	noun	glaucophane|glaucophane|R|N
+glaur	noun	glaur|glaur|R|N
+glazer	noun	glaze|glaz|R|V ; -er|er|S||-er (N)
+glaziery	noun	glazier|glazier|R|N ; -y|y|S
+gleamy	adj	gleam|gleam|R|V ; -y|y|S
+gleek	noun	gleek|gleek|R|N
+gleeman	noun	glee|glee|R|N ; man|man|R|N
+gleesome	adj	glee|glee|R|N ; -some|some|S
+gleet	noun	gleet|gleet|R|N
+gleety	adj	gleet|gleet|R|N ; -y|y|S
+glenohumeral	adj	glenohumeral|glenohumeral|R|Adj
+glenoid	adj	glenoid|glenoid|R|Adj
+glenoidal	adj	glenoid|glenoid|R|Adj ; -al|al|S
+gley	noun	gley|gley|R|N
+glia	noun	glia|glia|R|N
+glidingly	adv	glide|glid|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+glim	noun	glim|glim|R|N
+glissader	noun	glissade|glissad|R|V ; -er|er|S||-er (N)
+glist	noun	glist|glist|R|N
+glister	noun	glister|glister|R|N
+glistering	verb	glister|glister|R|V ; -ing|ing|I||-ing (v)
+glitteringly	adv	glitter|glitter|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+gloatingly	adv	gloat|gloat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+globalist	noun	global|global|R|Adj ; -ist|ist|S
+globed	adj	globe|glob|R|N ; -ed|ed|S||-ed (adj)
+globeflower	noun	globe|globe|R|N ; flower|flower|R|N
+globetrotter	noun	globe|globe|R|N ; trot|trott|R|V ; -er|er|S||-er (N)
+globoid	adj	globoid|globoid|R|Adj
+globose	adj	globose|globose|R|Adj
+globularity	noun	globular|globular|R|Adj ; -ity|ity|S
+globuliferous	adj	globuliferous|globuliferous|R|Adj
+glocalization	noun	glocalize|glocaliz|R|V ; -ation|ation|S
+glochidiate	adj	glochidium|glochidi|R|N ; -ate|ate|S
+glochidium	noun	glochidium|glochidium|R|N
+glogg	noun	glogg|glogg|R|N
+glomerate	verb	glomerate|glomerate|R|V
+glomeration	noun	glomerate|glomerat|R|V ; -ion|ion|S
+glomerule	noun	glomerule|glomerule|R|N
+glomerulus	noun	glomerulus|glomerulus|R|N
+glomus	noun	glomus|glomus|R|N
+gloried	verb	glory|glori|R|N ; -ed|ed|I||-ed (v2)
+gloriole	noun	gloriole|gloriole|R|N
+glossa	noun	glossa|glossa|R|N
+glossal	adj	gloss|gloss|R|N ; -al|al|S
+glossarial	adj	glossary|glossari|R|N ; -al|al|S
+glossarist	noun	glossary|glossar|R|N ; -ist|ist|S
+glossator	noun	gloss|gloss|R|V ; -or|ator|S
+glossematic	adj	glossematic|glossematic|R|Adj
+glossematics	noun	glossematic|glossematic|R|Adj ; -s|s|I||-s (plural)
+glosseme	noun	glosseme|glosseme|R|N
+glossily	adv	glossy|glossi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+glossina	noun	glossina|glossina|R|N
+glossiness	noun	glossy|glossi|R|Adj ; -ness|ness|S
+glossing	verb	gloss|gloss|R|V ; -ing|ing|I||-ing (v)
+glossitis	noun	glossitis|glossitis|R|N
+glossograph	noun	glossograph|glossograph|R|N
+glossographer	noun	glossography|glossograph|R|N ; -er|er|S||-er (N)
+glossolalia	noun	glossolalia|glossolalia|R|N
+glossolalist	noun	glossolalia|glossolal|R|N ; -ist|ist|S
+glossologist	noun	glossology|glossolog|R|N ; -ist|ist|S
+glossology	noun	glossology|glossology|R|N
+glossonym	noun	glossonym|glossonym|R|N
+glossopalatine	adj	glossopalatine|glossopalatine|R|Adj
+glossophagine	adj	glossophagine|glossophagine|R|Adj
+glossopharyngeal	adj	glossopharyngeal|glossopharyngeal|R|Adj
+glossotomy	noun	glossotomy|glossotomy|R|N
+glottochronology	noun	glottochronology|glottochronology|R|N
+glottologic	adj	glottology|glottolog|R|N ; -ic|ic|S
+glottology	noun	glottology|glottology|R|N
+gloving	verb	glove|glov|R|V ; -ing|ing|I||-ing (v)
+gloweringly	adv	glower|glower|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+gloxinia	noun	gloxinia|gloxinia|R|N
+gloze	verb	gloze|gloze|R|V
+glucagon	noun	glucagon|glucagon|R|N
+glucagonoma	noun	glucagonoma|glucagonoma|R|N
+glucometer	noun	glucometer|glucometer|R|N
+gluconeogenesis	noun	gluconeogenesis|gluconeogenesis|R|N
+gluconic	adj	gluconic|gluconic|R|Adj
+glucosic	adj	glucose|glucos|R|N ; -ic|ic|S
+glucoside	noun	glucoside|glucoside|R|N
+gluer	noun	glue|glu|R|V ; -er|er|S||-er (N)
+gluey	adj	glue|glue|R|N ; -y|y|S
+gluhwein	noun	gluhwein|gluhwein|R|N
+gluing	verb	glue|glu|R|V ; -ing|ing|I||-ing (v)
+glumal	adj	glume|glum|R|N ; -al|al|S
+glume	noun	glume|glume|R|N
+glumness	noun	glum|glum|R|Adj ; -ness|ness|S
+gluonic	adj	gluon|gluon|R|N ; -ic|ic|S
+glutenin	noun	glutenin|glutenin|R|N
+glutinosity	noun	glutinous|glutinos|R|Adj ; -ity|ity|S
+glutting	verb	glut|glutt|R|V ; -ing|ing|I||-ing (v)
+gluttonize	verb	glutton|glutton|R|N ; -ize|ize|S
+gluttonously	adv	gluttonous|gluttonous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+glycan	noun	glycan|glycan|R|N
+glycation	noun	glycate|glycat|R|V ; -ion|ion|S
+glycemia	noun	glycemia|glycemia|R|N
+glyceraldehyde	noun	glyceraldehyde|glyceraldehyde|R|N
+glycerate	noun	glycerol|glycer|R|N ; -ate|ate|S
+glyceric	adj	glycerol|glycer|R|N ; -ic|ic|S
+glyceride	noun	glyceride|glyceride|R|N
+glyceridic	adj	glyceride|glycerid|R|N ; -ic|ic|S
+glycocalyx	noun	glycocalyx|glycocalyx|R|N
+glycogenesis	noun	glycogenesis|glycogenesis|R|N
+glycogenolysis	noun	glycogenolysis|glycogenolysis|R|N
+glycolipid	noun	glycol|glyco|R|N ; lipid|lipid|R|N
+glycolysis	noun	glycolysis|glycolysis|R|N
+glycosecretory	adj	glycosecretory|glycosecretory|R|Adj
+glycosuria	noun	glycosuria|glycosuria|R|N
+glycyrrhizin	noun	glycyrrhizin|glycyrrhizin|R|N
+glyptic	adj	glyptic|glyptic|R|Adj
+glyptics	noun	glyptic|glyptic|R|Adj ; -s|s|I||-s (plural)
+glyptodont	noun	glyptodont|glyptodont|R|N
+glyptograph	noun	glyptograph|glyptograph|R|N
+glyptography	noun	glyptography|glyptography|R|N
+glyptotheca	noun	glyptotheca|glyptotheca|R|N
+gmina	noun	gmina|gmina|R|N
+gnarl	noun	gnarl|gnarl|R|N
+gnathal	adj	gnathal|gnathal|R|Adj
+gnathic	adj	gnathic|gnathic|R|Adj
+gnatty	adj	gnat|gnatt|R|N ; -y|y|S
+gnawed	verb	gnaw|gnaw|R|V ; -ed|ed|I||-ed (v2)
+gnawer	noun	gnaw|gnaw|R|V ; -er|er|S||-er (N)
+gneissic	adj	gneiss|gneiss|R|N ; -ic|ic|S
+gneissoid	adj	gneissoid|gneissoid|R|Adj
+gneissose	adj	gneissose|gneissose|R|Adj
+gneissy	adj	gneiss|gneiss|R|N ; -y|y|S
+gnocchi	noun	gnocchi|gnocchi|R|N
+gnomical	adj	gnome|gnom|R|N ; -ical|ical|S
+gnomically	adv	gnomical|gnomical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+gnomish	adj	gnome|gnom|R|N ; -ish|ish|S
+gnomonic	adj	gnomon|gnomon|R|N ; -ic|ic|S
+gnomonics	noun	gnomonic|gnomonic|R|Adj ; -s|s|I||-s (plural)
+gnomonist	noun	gnomon|gnomon|R|N ; -ist|ist|S
+gnoseological	adj	gnoseology|gnoseolog|R|N ; -ical|ical|S
+gnoseology	noun	gnoseology|gnoseology|R|N
+goaf	noun	goaf|goaf|R|N
+goalball	noun	goal|goal|R|N ; ball|ball|R|N
+goatfish	noun	goat|goat|R|N ; fish|fish|R|N
+goatfucker	noun	goat|goat|R|N ; fuck|fuck|R|V ; -er|er|S||-er (N)
+goatgrass	noun	goat|goat|R|N ; grass|grass|R|N
+goatish	adj	goat|goat|R|N ; -ish|ish|S
+goatling	noun	goat|goat|R|N ; -ling|ling|S
+goatmeat	noun	goat|goat|R|N ; meat|meat|R|N
+goatsucker	noun	goat|goat|R|N ; suck|suck|R|V ; -er|er|S||-er (N)
+goaty	adj	goat|goat|R|N ; -y|y|S
+gobbing	verb	gob|gobb|R|V ; -ing|ing|I||-ing (v)
+gobo	noun	gobo|gobo|R|N
+gobshite	noun	gob|gob|R|N ; shite|shite|R|N
+gobsmacked	adj	gob|gob|R|N ; smack|smack|R|V ; -ed|ed|S||-ed (adj)
+gochujang	noun	gochujang|gochujang|R|N
+god	noun	god|god|R|N
+godfearing	adj	god|god|R|N ; fear|fear|R|V ; -ing|ing|S||-ing (adj)
+godling	noun	god|god|R|N ; -ling|ling|S
+godown	noun	godown|godown|R|N
+godship	noun	god|god|R|N ; -ship|ship|S
+godwit	noun	godwit|godwit|R|N
+goethite	noun	goethite|goethite|R|N
+goffer	verb	goffer|goffer|R|V
+goggles	noun	goggle|goggle|R|N ; -s|s|I||-s (plural)
+goglet	noun	goglet|goglet|R|N
+goitre	noun	goitre|goitre|R|N
+goitrous	adj	goitre|goitr|R|N ; -ous|ous|S
+gokkun	noun	gokkun|gokkun|R|N
+goldcrest	noun	gold|gold|R|N ; crest|crest|R|N
+goldeneye	noun	golden|golden|R|Adj ; eye|eye|R|N
+goldilocks	noun	goldilocks|goldilocks|R|N
+goldish	adj	gold|gold|R|N ; -ish|ish|S
+goldless	adj	gold|gold|R|N ; -less|less|S
+goldsmithery	noun	gold|gold|R|N ; smith|smith|R|N ; -ery|ery|S
+goldstone	noun	gold|gold|R|N ; stone|stone|R|N
+goldware	noun	gold|gold|R|N ; ware|ware|R|N
+golfed	verb	golf|golf|R|V ; -ed|ed|I||-ed (v2)
+gollop	verb	gollop|gollop|R|V
+goluptious	adj	goluptious|goluptious|R|Adj
+gombeen	noun	gombeen|gombeen|R|N
+gombroon	noun	gombroon|gombroon|R|N
+gomoku	noun	gomoku|gomoku|R|N
+gompa	noun	gompa|gompa|R|N
+gonadectomized	adj	gonadectomy|gonadectom|R|N ; -ize|iz|S ; -ed|ed|S||-ed (adj)
+gonadectomy	noun	gonadectomy|gonadectomy|R|N
+gonadic	adj	gonad|gonad|R|N ; -ic|ic|S
+gonadotrophic	adj	gonadotrophic|gonadotrophic|R|Adj
+gonadotrophin	noun	gonadotrophin|gonadotrophin|R|N
+gonadotropic	adj	gonadotropic|gonadotropic|R|Adj
+gonaduct	noun	gonad|gona|R|N ; duct|duct|R|N
+gonal	adj	gonal|gonal|R|Adj
+gonangium	noun	gonangium|gonangium|R|N
+gone	verb	go|gone|R|V ; -en||I||-en (participle)
+goneness	noun	gone|gone|R|Adj ; -ness|ness|S
+gonfalon	noun	gonfalon|gonfalon|R|N
+gonfalonier	noun	gonfalonier|gonfalonier|R|N
+gonging	verb	gong|gong|R|V ; -ing|ing|I||-ing (v)
+gonid	noun	gonid|gonid|R|N
+gonidioid	adj	gonidioid|gonidioid|R|Adj
+gonidium	noun	gonidium|gonidium|R|N

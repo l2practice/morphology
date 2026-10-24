@@ -1,0 +1,200 @@
+idiophone	noun	idiophone|idiophone|R|N
+idiophonic	adj	idiophone|idiophon|R|N ; -ic|ic|S
+idioplasmic	adj	idioplasm|idioplasm|R|N ; -ic|ic|S
+idiotical	adj	idiotic|idiotic|R|Adj ; -al|al|S
+idioticon	noun	idioticon|idioticon|R|N
+idiotism	noun	idiot|idiot|R|N ; -ism|ism|S
+idiotize	verb	idiot|idiot|R|N ; -ize|ize|S
+idiyappam	noun	idiyappam|idiyappam|R|N
+idli	noun	idli|idli|R|N
+idolatress	noun	idolater|idolatr|R|N ; -ess|ess|S
+idolatrize	verb	idolatry|idolatr|R|N ; -ize|ize|S
+idolatrously	adv	idolatrous|idolatrous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+idolatrousness	noun	idolatrous|idolatrous|R|Adj ; -ness|ness|S
+idolizer	noun	idolize|idoliz|R|V ; -er|er|S||-er (N)
+idolum	noun	idolum|idolum|R|N
+idyllist	noun	idyll|idyll|R|N ; -ist|ist|S
+iffiness	noun	iffy|iffi|R|Adj ; -ness|ness|S
+ifrit	noun	ifrit|ifrit|R|N
+iftar	noun	iftar|iftar|R|N
+ignescent	adj	ignescent|ignescent|R|Adj
+ignitability	noun	ignitable|ignitabil|R|Adj ; -ity|ity|S
+ignitable	adj	ignite|ignit|R|V ; -able|able|S
+ignitible	adj	ignite|ignit|R|V ; -ible|ible|S
+ignobility	noun	ignoble|ignobil|R|Adj ; -ity|ity|S
+ignobleness	noun	ignoble|ignoble|R|Adj ; -ness|ness|S
+ignobly	adv	ignoble|ignobl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+ignominiousness	noun	ignominious|ignominious|R|Adj ; -ness|ness|S
+ignorable	adj	ignore|ignor|R|V ; -able|able|S
+ignorantism	noun	ignorant|ignorant|R|Adj ; -ism|ism|S
+ignorantness	noun	ignorant|ignorant|R|Adj ; -ness|ness|S
+ignorer	noun	ignore|ignor|R|V ; -er|er|S||-er (N)
+ignosticism	noun	ignosticism|ignosticism|R|N
+iguanid	noun	iguanid|iguanid|R|N
+iguanodon	noun	iguanodon|iguanodon|R|N
+ikebana	noun	ikebana|ikebana|R|N
+ikey	noun	ikey|ikey|R|N
+ikhshid	noun	ikhshid|ikhshid|R|N
+ikra	noun	ikra|ikra|R|N
+ileitis	noun	ileitis|ileitis|R|N
+ileus	noun	ileus|ileus|R|N
+ilex	noun	ilex|ilex|R|N
+ilkhan	noun	ilkhan|ilkhan|R|N
+illation	noun	illation|illation|R|N
+illative	adj	illative|illative|R|Adj
+illatively	adv	illative|illative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+illaudable	adj	il-|il|P|||in- ; laudable|laudable|R|Adj
+illegalization	noun	illegalize|illegaliz|R|V ; -ation|ation|S
+illegalize	verb	il-|il|P|||in- ; legal|legal|R|Adj ; -ize|ize|S
+illegibleness	noun	il-|il|P|||in- ; legible|legible|R|Adj ; -ness|ness|S
+illegibly	adv	il-|il|P|||in- ; legible|legibl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+illegitimateness	noun	il-|il|P|||in- ; legitimate|legitimate|R|Adj ; -ness|ness|S
+illeism	noun	illeism|illeism|R|N
+illiberalism	noun	il-|il|P|||in- ; liberal|liberal|R|Adj ; -ism|ism|S
+illiberality	noun	il-|il|P|||in- ; liberal|liberal|R|Adj ; -ity|ity|S
+illiberally	adv	il-|il|P|||in- ; liberal|liberal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+illiberalness	noun	il-|il|P|||in- ; liberal|liberal|R|Adj ; -ness|ness|S
+illicitness	noun	il-|il|P|||in- ; licit|licit|R|Adj ; -ness|ness|S
+illimitability	noun	il-|il|P|||in- ; limit|limit|R|V ; -able|abil|S ; -ity|ity|S
+illimitableness	noun	il-|il|P|||in- ; limit|limit|R|V ; -able|able|S ; -ness|ness|S
+illimitably	adv	il-|il|P|||in- ; limit|limit|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+illite	noun	illite|illite|R|N
+illiterately	adv	il-|il|P|||in- ; literate|literate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+illiterateness	noun	il-|il|P|||in- ; literate|literate|R|Adj ; -ness|ness|S
+illiterati	noun	illiterati|illiterati|R|N
+illocution	noun	il-|il|P|||in- ; locution|locution|R|N
+illogicalness	noun	il-|il|P|||in- ; logical|logical|R|Adj ; -ness|ness|S
+illude	verb	illude|illude|R|V
+illuminability	noun	illuminate|illumin|R|V ; -able|abil|S ; -ity|ity|S
+illuminable	adj	illuminate|illumin|R|V ; -able|able|S
+illuminance	noun	illuminate|illumin|R|V ; -ance|ance|S
+illuminant	noun	illuminate|illumin|R|V ; -ant|ant|S
+illuminatingly	adv	illuminate|illuminat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+illuminative	adj	illuminate|illuminat|R|V ; -ive|ive|S
+illumined	adj	illuminate|illumin|R|V ; -ed|ed|S||-ed (adj)
+illumining	noun	illuminate|illumin|R|V ; -ing|ing|S||-ing (N)
+illuminist	noun	illuminate|illumin|R|V ; -ist|ist|S
+illuministic	adj	illuminist|illuminist|R|N ; -ic|ic|S
+illuminometer	noun	illuminometer|illuminometer|R|N
+illusional	adj	illusion|illusion|R|N ; -al|al|S
+illusionistically	adv	illusionistic|illusionistic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+illusionless	adj	illusion|illusion|R|N ; -less|less|S
+illusively	adv	illusive|illusive|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+illusiveness	noun	illusive|illusive|R|Adj ; -ness|ness|S
+illustratable	adj	illustrate|illustrat|R|V ; -able|able|S
+illustrational	adj	illustration|illustration|R|N ; -al|al|S
+illustratively	adv	illustrative|illustrative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+illustriously	adv	illustrious|illustrious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+illustriousness	noun	illustrious|illustrious|R|Adj ; -ness|ness|S
+illuvial	adj	illuvium|illuvi|R|N ; -al|al|S
+illuviation	noun	illuvium|illuvi|R|N ; -ation|ation|S
+illuvium	noun	illuvium|illuvium|R|N
+illy	adv	illy|illy|R|Adv
+ilmenite	noun	ilmenite|ilmenite|R|N
+imageable	adj	image|image|R|N ; -able|able|S
+imageboard	noun	image|image|R|N ; board|board|R|N
+imageless	adj	image|image|R|N ; -less|less|S
+imager	noun	image|imag|R|N ; -er|er|S||-er (N)
+imaginability	noun	imagine|imagin|R|V ; -able|abil|S ; -ity|ity|S
+imaginableness	noun	imagine|imagin|R|V ; -able|able|S ; -ness|ness|S
+imaginably	adv	imagine|imagin|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+imaginarily	adv	imaginary|imaginari|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+imaginariness	noun	imaginary|imaginari|R|Adj ; -ness|ness|S
+imaginational	adj	imagination|imagination|R|N ; -al|al|S
+imaginativeness	noun	imaginative|imaginative|R|Adj ; -ness|ness|S
+imaginer	noun	imagine|imagin|R|V ; -er|er|S||-er (N)
+imagism	noun	image|imag|R|N ; -ism|ism|S
+imagist	noun	image|imag|R|N ; -ist|ist|S
+imagistically	adv	imagistic|imagistic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+imamate	noun	imamate|imamate|R|N
+imaret	noun	imaret|imaret|R|N
+imbecilely	adv	imbecile|imbecile|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+imbiber	noun	imbibe|imbib|R|V ; -er|er|S||-er (N)
+imbibition	noun	imbibe|imbib|R|V ; -ition|ition|S
+imbibitional	adj	imbibition|imbibition|R|N ; -al|al|S
+imbricative	adj	imbricate|imbricat|R|V ; -ive|ive|S
+imbrue	verb	imbrue|imbrue|R|V
+imbrute	verb	im-|im|P|||in- ; brute|brute|R|Adj
+imbrutement	noun	imbrute|imbrute|R|V ; -ment|ment|S
+imbuement	noun	imbue|imbue|R|V ; -ment|ment|S
+imidazole	noun	imidazole|imidazole|R|N
+imide	noun	imide|imide|R|N
+imidic	adj	imide|imid|R|N ; -ic|ic|S
+imitability	noun	imitate|imit|R|V ; -able|abil|S ; -ity|ity|S
+imitable	adj	imitate|imit|R|V ; -able|able|S
+imitableness	noun	imitate|imit|R|V ; -able|able|S ; -ness|ness|S
+imitated	adj	imitate|imitat|R|V ; -ed|ed|S||-ed (adj)
+imitating	noun	imitate|imitat|R|V ; -ing|ing|S||-ing (N)
+imitational	adj	imitation|imitation|R|N ; -al|al|S
+imitatively	adv	imitative|imitative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+imitativeness	noun	imitative|imitative|R|Adj ; -ness|ness|S
+immaculacy	noun	immaculate|immacul|R|Adj ; -cy|acy|S
+immaculateness	noun	im-|im|P|||in- ; maculate|maculate|R|Adj ; -ness|ness|S
+immanently	adv	immanent|immanent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+immaterialism	noun	im-|im|P|||in- ; material|material|R|Adj ; -ism|ism|S
+immaterialist	noun	im-|im|P|||in- ; material|material|R|Adj ; -ist|ist|S
+immaterialize	verb	im-|im|P|||in- ; material|material|R|Adj ; -ize|ize|S
+immaterially	adv	im-|im|P|||in- ; material|material|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+immaterialness	noun	im-|im|P|||in- ; material|material|R|Adj ; -ness|ness|S
+immaturely	adv	im-|im|P|||in- ; mature|mature|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+immatureness	noun	im-|im|P|||in- ; mature|mature|R|Adj ; -ness|ness|S
+immeasurability	noun	im-|im|P|||in- ; measure|measur|R|V ; -able|abil|S ; -ity|ity|S
+immeasurableness	noun	im-|im|P|||in- ; measure|measur|R|V ; -able|able|S ; -ness|ness|S
+immediateness	noun	immediate|immediate|R|Adj ; -ness|ness|S
+immediatism	noun	immediate|immediat|R|Adj ; -ism|ism|S
+immediatist	noun	immediate|immediat|R|Adj ; -ist|ist|S
+immedicable	adj	im-|im|P|||in- ; medicable|medicable|R|Adj
+immemorable	adj	im-|im|P|||in- ; memorable|memorable|R|Adj
+immemorially	adv	im-|im|P|||in- ; memorial|memorial|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+immenseness	noun	immense|immense|R|Adj ; -ness|ness|S
+immensurability	noun	immensurable|immensurabil|R|Adj ; -ity|ity|S
+immensurable	adj	immensurable|immensurable|R|Adj
+immensurableness	noun	immensurable|immensurable|R|Adj ; -ness|ness|S
+immerge	verb	im-|im|P|||in- ; merge|merge|R|V
+immergence	noun	immerge|immerg|R|V ; -ence|ence|S
+immersed	adj	immerse|immers|R|V ; -ed|ed|S||-ed (adj)
+immersible	adj	immerse|immers|R|V ; -ible|ible|S
+immesh	verb	im-|im|P|||in- ; mesh|mesh|R|N
+imminentness	noun	imminent|imminent|R|Adj ; -ness|ness|S
+immiscibility	noun	im-|im|P|||in- ; miscible|miscibil|R|Adj ; -ity|ity|S
+immiscible	adj	im-|im|P|||in- ; miscible|miscible|R|Adj
+immiscibly	adv	im-|im|P|||in- ; miscible|miscibl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+immiserate	verb	im-|im|P|||in- ; miser|miser|R|N ; -ate|ate|S
+immiserization	noun	immiserize|immiseriz|R|V ; -ation|ation|S
+immission	noun	im-|im|P|||in- ; mission|mission|R|N
+immitigability	noun	im-|im|P|||in- ; mitigate|mitig|R|V ; -able|abil|S ; -ity|ity|S
+immitigable	adj	im-|im|P|||in- ; mitigate|mitig|R|V ; -able|able|S
+immitigableness	noun	im-|im|P|||in- ; mitigate|mitig|R|V ; -able|able|S ; -ness|ness|S
+immitigably	adv	im-|im|P|||in- ; mitigate|mitig|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+immittance	noun	immittance|immittance|R|N
+immix	verb	im-|im|P|||in- ; mix|mix|R|V
+immixture	noun	immix|immix|R|V ; -ture|ture|S
+immobiliser	noun	immobilise|immobilis|R|V ; -er|er|S||-er (N)
+immobilism	noun	immobile|immobil|R|Adj ; -ism|ism|S
+immoderateness	noun	im-|im|P|||in- ; moderate|moderate|R|Adj ; -ness|ness|S
+immoderation	noun	im-|im|P|||in- ; moderate|moderat|R|V ; -ion|ion|S
+immolator	noun	immolate|immolat|R|V ; -or|or|S
+immoralism	noun	im-|im|P|||in- ; moral|moral|R|Adj ; -ism|ism|S
+immoralist	noun	im-|im|P|||in- ; moral|moral|R|Adj ; -ist|ist|S
+immoralize	verb	im-|im|P|||in- ; moral|moral|R|Adj ; -ize|ize|S
+immortalization	noun	immortalize|immortaliz|R|V ; -ation|ation|S
+immortally	adv	im-|im|P|||in- ; mortal|mortal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+immortelle	noun	immortelle|immortelle|R|N
+immovability	noun	im-|im|P|||in- ; move|mov|R|V ; -able|abil|S ; -ity|ity|S
+immovableness	noun	im-|im|P|||in- ; move|mov|R|V ; -able|able|S ; -ness|ness|S
+immovably	adv	im-|im|P|||in- ; move|mov|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+immunizer	noun	immunize|immuniz|R|V ; -er|er|S||-er (N)
+immunizing	noun	immunize|immuniz|R|V ; -ing|ing|S||-ing (N)
+immunoadsorbent	noun	immunoadsorbent|immunoadsorbent|R|N
+immunobiological	adj	immunobiology|immunobiolog|R|N ; -ical|ical|S
+immunobiology	noun	immunobiology|immunobiology|R|N
+immunochemistry	noun	immunochemistry|immunochemistry|R|N
+immunohistochemistry	noun	immunohistochemistry|immunohistochemistry|R|N
+immurement	noun	immure|immure|R|V ; -ment|ment|S
+immutableness	noun	im-|im|P|||in- ; mutable|mutable|R|Adj ; -ness|ness|S
+immutably	adv	im-|im|P|||in- ; mutable|mutabl|R|Adj ; -ly|y|I|Adv|-ly (adv)
+impactive	adj	impact|impact|R|N ; -ive|ive|S
+impairable	adj	impair|impair|R|V ; -able|able|S
+impairer	noun	impair|impair|R|V ; -er|er|S||-er (N)
+impairing	noun	impair|impair|R|V ; -ing|ing|S||-ing (N)
+impalement	noun	impale|impale|R|V ; -ment|ment|S

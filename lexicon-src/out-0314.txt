@@ -1,0 +1,200 @@
+jadedly	adv	jade|jad|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+jadedness	noun	jade|jad|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+jadeitic	adj	jadeite|jadeit|R|N ; -ic|ic|S
+jaffa	noun	jaffa|jaffa|R|N
+jaggedness	noun	jag|jagg|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+jaggery	noun	jaggery|jaggery|R|N
+jaggy	adj	jag|jagg|R|V ; -y|y|S
+jagless	adj	jag|jag|R|V ; -less|less|S
+jaguarundi	noun	jaguarundi|jaguarundi|R|N
+jailbait	noun	jail|jail|R|N ; bait|bait|R|N
+jalap	noun	jalap|jalap|R|N
+jalebi	noun	jalebi|jalebi|R|N
+jalousie	noun	jalousie|jalousie|R|N
+jamaat	noun	jamaat|jamaat|R|N
+jambeau	noun	jambeau|jambeau|R|N
+jambul	noun	jambul|jambul|R|N
+jammable	adj	jam|jamm|R|V ; -able|able|S
+jamo	noun	jamo|jamo|R|N
+jamon	noun	jamon|jamon|R|N
+jandal	noun	jandal|jandal|R|N
+janeu	noun	janeu|janeu|R|N
+janggi	noun	janggi|janggi|R|N
+jangler	noun	jangle|jangl|R|V ; -er|er|S||-er (N)
+janissary	noun	janissary|janissary|R|N
+janitress	noun	janitress|janitress|R|N
+janky	adj	janky|janky|R|Adj
+japan	verb	japan|japan|R|V
+japanning	noun	japan|japann|R|V ; -ing|ing|S||-ing (N)
+japchae	noun	japchae|japchae|R|N
+japer	noun	jape|jap|R|V ; -er|er|S||-er (N)
+jarful	noun	jar|jar|R|N ; -ful|ful|S
+jargonelle	noun	jargonelle|jargonelle|R|N
+jargonist	noun	jargon|jargon|R|N ; -ist|ist|S
+jargonistic	adj	jargon|jargon|R|N ; -ist|ist|S ; -ic|ic|S
+jargonize	verb	jargon|jargon|R|N ; -ize|ize|S
+jargoon	noun	jargoon|jargoon|R|N
+jarl	noun	jarl|jarl|R|N
+jarovization	noun	jarovize|jaroviz|R|V ; -ation|ation|S
+jarrah	noun	jarrah|jarrah|R|N
+jarvey	noun	jarvey|jarvey|R|N
+jasey	noun	jasey|jasey|R|N
+jaspery	adj	jasper|jasper|R|N ; -y|y|S
+jassid	noun	jassid|jassid|R|N
+jataka	noun	jataka|jataka|R|N
+jauntiness	noun	jaunty|jaunti|R|Adj ; -ness|ness|S
+jaunting	verb	jaunt|jaunt|R|V ; -ing|ing|I||-ing (v)
+java	noun	java|java|R|N
+jawan	noun	jawan|jawan|R|N
+jawed	adj	jaw|jaw|R|N ; -ed|ed|S||-ed (adj)
+jawing	verb	jaw|jaw|R|V ; -ing|ing|I||-ing (v)
+jawless	adj	jaw|jaw|R|N ; -less|less|S
+jaws	noun	jaw|jaw|R|N ; -s|s|I||-s (plural)
+jaywalking	noun	jay|jay|R|N ; walk|walk|R|V ; -ing|ing|S||-ing (N)
+jazzily	adv	jazzy|jazzi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+jazziness	noun	jazzy|jazzi|R|Adj ; -ness|ness|S
+jazzist	noun	jazz|jazz|R|N ; -ist|ist|S
+jealousness	noun	jealous|jealous|R|Adj ; -ness|ness|S
+jebel	noun	jebel|jebel|R|N
+jeerer	noun	jeer|jeer|R|V ; -er|er|S||-er (N)
+jeeringly	adv	jeer|jeer|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+jeet	verb	jeet|jeet|R|V
+jehu	noun	jehu|jehu|R|N
+jejune	adj	jejune|jejune|R|Adj
+jejunectomy	noun	jejunectomy|jejunectomy|R|N
+jejunely	adv	jejune|jejune|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+jejuneness	noun	jejune|jejune|R|Adj ; -ness|ness|S
+jelick	noun	jelick|jelick|R|N
+jellify	verb	jelly|jell|R|N ; -ify|ify|S
+jellygraph	noun	jelly|jelly|R|N ; graph|graph|R|N
+jemadar	noun	jemadar|jemadar|R|N
+jenever	noun	jenever|jenever|R|N
+jennet	noun	jennet|jennet|R|N
+jeonse	noun	jeonse|jeonse|R|N
+jequirity	noun	jequirity|jequirity|R|N
+jerbil	noun	jerbil|jerbil|R|N
+jerboa	noun	jerboa|jerboa|R|N
+jereed	noun	jereed|jereed|R|N
+jerker	noun	jerk|jerk|R|V ; -er|er|S||-er (N)
+jerkiness	noun	jerky|jerki|R|Adj ; -ness|ness|S
+jerkingly	adv	jerk|jerk|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+jerkoff	noun	jerk|jerk|R|V ; off|off|R|Adv
+jerkwater	adj	jerk|jerk|R|V ; water|water|R|N
+jerrycan	noun	jerry|jerry|R|N ; can|can|R|N
+jesting	verb	jest|jest|R|V ; -ing|ing|I||-ing (v)
+jestingly	adv	jest|jest|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+jesuitical	adj	jesuit|jesuit|R|N ; -ical|ical|S
+jetful	noun	jet|jet|R|N ; -ful|ful|S
+jettiness	noun	jetty|jetti|R|N ; -ness|ness|S
+jetting	verb	jet|jett|R|V ; -ing|ing|I||-ing (v)
+jettisoning	verb	jettison|jettison|R|V ; -ing|ing|I||-ing (v)
+jew	noun	jew|jew|R|N
+jewbush	noun	jew|jew|R|N ; bush|bush|R|N
+jewels	noun	jewel|jewel|R|N ; -s|s|I||-s (plural)
+jewfish	noun	jew|jew|R|N ; fish|fish|R|N
+jezail	noun	jezail|jezail|R|N
+jezve	noun	jezve|jezve|R|N
+jiangshi	noun	jiangshi|jiangshi|R|N
+jianzhi	noun	jianzhi|jianzhi|R|N
+jiao	noun	jiao|jiao|R|N
+jiaozi	noun	jiaozi|jiaozi|R|N
+jibber	verb	jibber|jibber|R|V
+jibbing	verb	jib|jibb|R|V ; -ing|ing|I||-ing (v)
+jicara	noun	jicara|jicara|R|N
+jiedushi	noun	jiedushi|jiedushi|R|N
+jiff	noun	jiff|jiff|R|N
+jiggered	adj	jigger|jigger|R|N ; -ed|ed|S||-ed (adj)
+jiggly	adj	jiggle|jiggl|R|V ; -y|y|S
+jihadism	noun	jihad|jihad|R|N ; -ism|ism|S
+jill	noun	jill|jill|R|N
+jilting	verb	jilt|jilt|R|V ; -ing|ing|I||-ing (v)
+jimp	adj	jimp|jimp|R|Adj
+jimsonweed	noun	jimson|jimson|R|N ; weed|weed|R|N
+jingly	adj	jingle|jingl|R|V ; -y|y|S
+jingo	noun	jingo|jingo|R|N
+jingoist	noun	jingo|jingo|R|N ; -ist|ist|S
+jingoistically	adv	jingo|jingo|R|N ; -ist|ist|S ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+jinn	noun	jinn|jinn|R|N
+jipijapa	noun	jipijapa|jipijapa|R|N
+jird	noun	jird|jird|R|N
+jitteriness	noun	jittery|jitteri|R|Adj ; -ness|ness|S
+jiver	noun	jive|jiv|R|V ; -er|er|S||-er (N)
+jizya	noun	jizya|jizya|R|N
+jizz	noun	jizz|jizz|R|N
+jjigae	noun	jjigae|jjigae|R|N
+jnana	noun	jnana|jnana|R|N
+jobation	noun	jobation|jobation|R|N
+jobbernowl	noun	jobbernowl|jobbernowl|R|N
+jobbery	noun	job|jobb|R|N ; -ery|ery|S
+jobholder	noun	job|job|R|N ; hold|hold|R|V ; -er|er|S||-er (N)
+jobseeker	noun	job|job|R|N ; seek|seek|R|V ; -er|er|S||-er (N)
+jockette	noun	jock|jock|R|N ; -ette|ette|S
+jockeyship	noun	jockey|jockey|R|N ; -ship|ship|S
+jocko	noun	jocko|jocko|R|N
+jocose	adj	jocose|jocose|R|Adj
+jocosely	adv	jocose|jocose|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+jocoseness	noun	jocose|jocose|R|Adj ; -ness|ness|S
+jocosity	noun	jocose|jocos|R|Adj ; -ity|ity|S
+jocund	adj	jocund|jocund|R|Adj
+jocundity	noun	jocund|jocund|R|Adj ; -ity|ity|S
+jocundly	adv	jocund|jocund|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+jodhpurs	noun	jodhpur|jodhpur|R|N ; -s|s|I||-s (plural)
+joggler	noun	joggle|joggl|R|V ; -er|er|S||-er (N)
+joggling	verb	joggle|joggl|R|V ; -ing|ing|I||-ing (v)
+jogtrot	noun	jog|jog|R|V ; trot|trot|R|V
+joinder	noun	joinder|joinder|R|N
+jointed	adj	joint|joint|R|N ; -ed|ed|S||-ed (adj)
+jointer	noun	joint|joint|R|V ; -er|er|S||-er (N)
+jointing	verb	joint|joint|R|V ; -ing|ing|I||-ing (v)
+jointress	noun	jointress|jointress|R|N
+jointure	noun	joint|joint|R|N ; -ure|ure|S
+jokes	noun	joke|joke|R|N ; -s|s|I||-s (plural)
+jokul	noun	jokul|jokul|R|N
+jollies	noun	jolly|jolli|R|N ; -s|es|I||-s (plural)
+jollification	noun	jollify|jollifi|R|V ; -ation|cation|S
+jollify	verb	jolly|joll|R|Adj ; -ify|ify|S
+jollily	adv	jolly|jolli|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+jolliness	noun	jolly|jolli|R|Adj ; -ness|ness|S
+jollying	verb	jolly|jolly|R|V ; -ing|ing|I||-ing (v)
+jolter	noun	jolt|jolt|R|V ; -er|er|S||-er (N)
+joltily	adv	jolty|jolti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+joltiness	noun	jolty|jolti|R|Adj ; -ness|ness|S
+jolty	adj	jolt|jolt|R|V ; -y|y|S
+jorum	noun	jorum|jorum|R|N
+joseph	noun	joseph|joseph|R|N
+josher	noun	josh|josh|R|V ; -er|er|S||-er (N)
+joshing	verb	josh|josh|R|V ; -ing|ing|I||-ing (v)
+joshingly	adv	josh|josh|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+joskin	noun	joskin|joskin|R|N
+josser	noun	josser|josser|R|N
+jostaberry	noun	jostaberry|jostaberry|R|N
+jostler	noun	jostle|jostl|R|V ; -er|er|S||-er (N)
+jota	noun	jota|jota|R|N
+jotter	noun	jot|jott|R|V ; -er|er|S||-er (N)
+jotun	noun	jotun|jotun|R|N
+joual	noun	joual|joual|R|N
+jouncing	verb	jounce|jounc|R|V ; -ing|ing|I||-ing (v)
+journalese	noun	journalese|journalese|R|N
+journalize	verb	journal|journal|R|N ; -ize|ize|S
+journalizer	noun	journalize|journaliz|R|V ; -er|er|S||-er (N)
+journeyer	noun	journey|journey|R|V ; -er|er|S||-er (N)
+jouster	noun	joust|joust|R|V ; -er|er|S||-er (N)
+joylessly	adv	joy|joy|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+joylessness	noun	joy|joy|R|N ; -less|less|S ; -ness|ness|S
+joyousness	noun	joyous|joyous|R|Adj ; -ness|ness|S
+jubbah	noun	jubbah|jubbah|R|N
+jubilance	noun	jubilant|jubil|R|Adj ; -ance|ance|S
+jubilarian	noun	jubilarian|jubilarian|R|N
+jubilate	verb	jubilate|jubilate|R|V
+judgy	adj	judge|judg|R|V ; -y|y|S
+judicatory	adj	judicatory|judicatory|R|Adj
+judicialization	noun	judicialize|judicializ|R|V ; -ation|ation|S
+judicialize	verb	judicial|judicial|R|Adj ; -ize|ize|S
+judiciousness	noun	judicious|judicious|R|Adj ; -ness|ness|S
+judoist	noun	judo|judo|R|N ; -ist|ist|S
+judoka	noun	judoka|judoka|R|N
+jugate	adj	jugate|jugate|R|Adj
+jugful	noun	jug|jug|R|N ; -ful|ful|S
+jugged	adj	jug|jugg|R|V ; -ed|ed|S||-ed (adj)
+jugging	verb	jug|jugg|R|V ; -ing|ing|I||-ing (v)
+juggins	noun	juggins|juggins|R|N

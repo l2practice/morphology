@@ -1,0 +1,200 @@
+kerchiefed	adj	kerchief|kerchief|R|N ; -ed|ed|S||-ed (adj)
+kermes	noun	kermes|kermes|R|N
+kermesite	noun	kermesite|kermesite|R|N
+kerning	noun	kern|kern|R|V ; -ing|ing|S||-ing (N)
+kernite	noun	kernite|kernite|R|N
+kerplunk	interj	kerplunk|kerplunk|R
+kerseymere	noun	kerseymere|kerseymere|R|N
+kerygma	noun	kerygma|kerygma|R|N
+kerygmatic	adj	kerygmatic|kerygmatic|R|Adj
+ket	noun	ket|ket|R|N
+ketamine	noun	ketamine|ketamine|R|N
+keto	noun	keto|keto|R|N
+ketoconazole	noun	ketoconazole|ketoconazole|R|N
+ketogenic	adj	ketogenic|ketogenic|R|Adj
+ketonic	adj	ketone|keton|R|N ; -ic|ic|S
+ketose	noun	ketose|ketose|R|N
+kettlebell	noun	kettle|kettle|R|N ; bell|bell|R|N
+kevel	noun	kevel|kevel|R|N
+kevlar	noun	kevlar|kevlar|R|N
+keyboarder	noun	keyboard|keyboard|R|N ; -er|er|S||-er (N)
+keycard	noun	key|key|R|N ; card|card|R|N
+keychain	noun	key|key|R|N ; chain|chain|R|N
+keyed	adj	key|key|R|N ; -ed|ed|S||-ed (adj)
+keyframe	noun	key|key|R|N ; frame|frame|R|N
+keygen	noun	key|key|R|N ; gen|gen|R|N
+keyholder	noun	key|key|R|N ; hold|hold|R|V ; -er|er|S||-er (N)
+keyman	noun	key|key|R|N ; man|man|R|N
+keypunch	verb	key|key|R|N ; punch|punch|R|V
+keyway	noun	key|key|R|N ; way|way|R|N
+khachapuri	noun	khachapuri|khachapuri|R|N
+khachkar	noun	khachkar|khachkar|R|N
+khaddar	noun	khaddar|khaddar|R|N
+khagan	noun	khagan|khagan|R|N
+khaganate	noun	khagan|khagan|R|N ; -ate|ate|S
+khakkhara	noun	khakkhara|khakkhara|R|N
+khalat	noun	khalat|khalat|R|N
+khaltura	noun	khaltura|khaltura|R|N
+khamsin	noun	khamsin|khamsin|R|N
+khananda	noun	khananda|khananda|R|N
+khanaqah	noun	khanaqah|khanaqah|R|N
+khanate	noun	khan|khan|R|N ; -ate|ate|S
+khanda	noun	khanda|khanda|R|N
+khanjar	noun	khanjar|khanjar|R|N
+khash	noun	khash|khash|R|N
+khata	noun	khata|khata|R|N
+khene	noun	khene|khene|R|N
+khinkali	noun	khinkali|khinkali|R|N
+khokhol	noun	khokhol|khokhol|R|N
+kholop	noun	kholop|kholop|R|N
+khorovod	noun	khorovod|khorovod|R|N
+khramulya	noun	khramulya|khramulya|R|N
+khrushchevka	noun	khrushchevka|khrushchevka|R|N
+khural	noun	khural|khural|R|N
+khutbah	noun	khutbah|khutbah|R|N
+khutor	noun	khutor|khutor|R|N
+khuushuur	noun	khuushuur|khuushuur|R|N
+kiang	noun	kiang|kiang|R|N
+kibbeh	noun	kibbeh|kibbeh|R|N
+kibbutznik	noun	kibbutznik|kibbutznik|R|N
+kibibit	noun	kibibit|kibibit|R|N
+kibibyte	noun	kibibyte|kibibyte|R|N
+kibitka	noun	kibitka|kibitka|R|N
+kibitzer	noun	kibitz|kibitz|R|V ; -er|er|S||-er (N)
+kibitzing	verb	kibitz|kibitz|R|V ; -ing|ing|I||-ing (v)
+kickboxer	noun	kick|kick|R|V ; box|box|R|V ; -er|er|S||-er (N)
+kicked	verb	kick|kick|R|V ; -ed|ed|I||-ed (v2)
+kicks	noun	kick|kick|R|N ; -s|s|I||-s (plural)
+kickshaw	noun	kickshaw|kickshaw|R|N
+kicksled	noun	kick|kick|R|V ; sled|sled|R|N
+kiddingly	adv	kid|kidd|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+kiddle	noun	kiddle|kiddle|R|N
+kiddush	noun	kiddush|kiddush|R|N
+kidult	noun	kidult|kidult|R|N
+kier	noun	kier|kier|R|N
+kieselguhr	noun	kieselguhr|kieselguhr|R|N
+kieserite	noun	kieserite|kieserite|R|N
+kif	noun	kif|kif|R|N
+kigurumi	noun	kigurumi|kigurumi|R|N
+kikimora	noun	kikimora|kikimora|R|N
+kilderkin	noun	kilderkin|kilderkin|R|N
+kilil	noun	kilil|kilil|R|N
+killable	adj	kill|kill|R|V ; -able|able|S
+killingly	adv	kill|kill|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+killock	noun	killock|killock|R|N
+kiloampere	noun	kilo|kilo|R|N ; ampere|ampere|R|N
+kilobit	noun	kilo|kilo|R|N ; bit|bit|R|N
+kilobyte	noun	kilo|kilo|R|N ; byte|byte|R|N
+kilocandela	noun	kilo|kilo|R|N ; candela|candela|R|N
+kilocycle	noun	kilo|kilo|R|N ; cycle|cycle|R|N
+kilojoule	noun	kilo|kilo|R|N ; joule|joule|R|N
+kilolitre	noun	kilo|kilo|R|N ; litre|litre|R|N
+kilometrage	noun	kilo|kilo|R|N ; metre|metr|R|N ; -age|age|S
+kilometric	adj	kilo|kilo|R|N ; metric|metric|R|Adj
+kiloparsec	noun	kilo|kilo|R|N ; parsec|parsec|R|N
+kilovolt	noun	kilo|kilo|R|N ; volt|volt|R|N
+kiltie	noun	kiltie|kiltie|R|N
+kilty	adj	kilt|kilt|R|N ; -y|y|S
+kimbap	noun	kimbap|kimbap|R|N
+kina	noun	kina|kina|R|N
+kincob	noun	kincob|kincob|R|N
+kindhearted	adj	kind|kind|R|Adj ; heart|heart|R|N ; -ed|ed|S||-ed (adj)
+kindler	noun	kindle|kindl|R|V ; -er|er|S||-er (N)
+kindredness	noun	kindred|kindred|R|Adj ; -ness|ness|S
+kine	noun	cow|kine|R|N ; -s||I||-s (plural)
+kinema	noun	kinema|kinema|R|N
+kinematical	adj	kinematic|kinematic|R|Adj ; -al|al|S
+kinematically	adv	kinematic|kinematic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+kinesics	noun	kinesics|kinesics|R|N
+kinesis	noun	kinesis|kinesis|R|N
+kinesthesia	noun	kinesthesia|kinesthesia|R|N
+kinetically	adv	kinetic|kinetic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+kineticist	noun	kinetic|kinetic|R|Adj ; -ist|ist|S
+kinetograph	noun	kinetograph|kinetograph|R|N
+kinetosis	noun	kinetosis|kinetosis|R|N
+kingbird	noun	king|king|R|N ; bird|bird|R|N
+kingbolt	noun	king|king|R|N ; bolt|bolt|R|N
+kingcraft	noun	king|king|R|N ; craft|craft|R|N
+kingklip	noun	king|king|R|N ; klip|klip|R|N
+kinglet	noun	king|king|R|N ; -let|let|S
+kinglike	adj	king|king|R|N ; -like|like|S
+kingliness	noun	king|king|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+kingmaking	noun	king|king|R|N ; make|mak|R|V ; -ing|ing|S||-ing (N)
+kingside	noun	king|king|R|N ; side|side|R|N
+kingwood	noun	king|king|R|N ; wood|wood|R|N
+kinkajou	noun	kinkajou|kinkajou|R|N
+kinkily	adv	kinky|kinki|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+kinkiness	noun	kinky|kinki|R|Adj ; -ness|ness|S
+kinless	adj	kin|kin|R|N ; -less|less|S
+kinnara	noun	kinnara|kinnara|R|N
+kinnari	noun	kinnari|kinnari|R|N
+kinnikinnick	noun	kinnikinnick|kinnikinnick|R|N
+kino	noun	kino|kino|R|N
+kintsugi	noun	kintsugi|kintsugi|R|N
+kipfel	noun	kipfel|kipfel|R|N
+kippah	noun	kippah|kippah|R|N
+kippered	adj	kipper|kipper|R|N ; -ed|ed|S||-ed (adj)
+kippering	verb	kipper|kipper|R|V ; -ing|ing|I||-ing (v)
+kir	noun	kir|kir|R|N
+kirigami	noun	kirigami|kirigami|R|N
+kirmess	noun	kirmess|kirmess|R|N
+kirpan	noun	kirpan|kirpan|R|N
+kirschwasser	noun	kirschwasser|kirschwasser|R|N
+kisaeng	noun	kisaeng|kisaeng|R|N
+kisel	noun	kisel|kisel|R|N
+kiskadee	noun	kiskadee|kiskadee|R|N
+kissable	adj	kiss|kiss|R|V ; -able|able|S
+kissaten	noun	kissaten|kissaten|R|N
+kist	noun	kist|kist|R|N
+kitchendom	noun	kitchen|kitchen|R|N ; -dom|dom|S
+kitchenhand	noun	kitchen|kitchen|R|N ; hand|hand|R|N
+kited	adj	kite|kit|R|N ; -ed|ed|S||-ed (adj)
+kiting	verb	kite|kit|R|V ; -ing|ing|I||-ing (v)
+kitsune	noun	kitsune|kitsune|R|N
+kittenishly	adv	kitten|kitten|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+kittenishness	noun	kitten|kitten|R|N ; -ish|ish|S ; -ness|ness|S
+kitting	verb	kit|kitt|R|V ; -ing|ing|I||-ing (v)
+kittle	verb	kittle|kittle|R|V
+kiwifruit	noun	kiwi|kiwi|R|N ; fruit|fruit|R|N
+kiyi	noun	kiyi|kiyi|R|N
+kleenex	noun	kleenex|kleenex|R|N
+klepht	noun	klepht|klepht|R|N
+kleptocracy	noun	kleptocracy|kleptocracy|R|N
+kleptocrat	noun	kleptocrat|kleptocrat|R|N
+kleptomaniacal	adj	kleptomaniac|kleptomaniac|R|N ; -al|al|S
+kleptoparasitism	noun	kleptoparasite|kleptoparasit|R|N ; -ism|ism|S
+klesha	noun	klesha|klesha|R|N
+klipspringer	noun	klipspringer|klipspringer|R|N
+kliros	noun	kliros|kliros|R|N
+kloof	noun	kloof|kloof|R|N
+kludge	noun	kludge|kludge|R|N
+klystron	noun	klystron|klystron|R|N
+knackery	noun	knack|knack|R|N ; -ery|ery|S
+knackwurst	noun	knackwurst|knackwurst|R|N
+knag	noun	knag|knag|R|N
+knaggy	adj	knag|knagg|R|N ; -y|y|S
+knap	verb	knap|knap|R|V
+knapper	noun	knap|knapp|R|V ; -er|er|S||-er (N)
+knar	noun	knar|knar|R|N
+knarr	noun	knarr|knarr|R|N
+knavery	noun	knave|knav|R|N ; -ery|ery|S
+knavish	adj	knave|knav|R|N ; -ish|ish|S
+knavishly	adv	knave|knav|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+knavishness	noun	knave|knav|R|N ; -ish|ish|S ; -ness|ness|S
+knawel	noun	knawel|knawel|R|N
+kneader	noun	knead|knead|R|V ; -er|er|S||-er (N)
+kneecapping	noun	knee|knee|R|N ; cap|capp|R|V ; -ing|ing|S||-ing (N)
+kneed	adj	knee|knee|R|N ; -ed|d|S||-ed (adj)
+kneeing	verb	knee|knee|R|V ; -ing|ing|I||-ing (v)
+kneejoint	noun	knee|knee|R|N ; joint|joint|R|N
+knelling	verb	knell|knell|R|V ; -ing|ing|I||-ing (v)
+knickerbockers	noun	knickerbocker|knickerbocker|R|N ; -s|s|I||-s (plural)
+knifed	adj	knife|knif|R|N ; -ed|ed|S||-ed (adj)
+knifer	noun	knife|knif|R|N ; -er|er|S||-er (N)
+knifing	verb	knife|knif|R|V ; -ing|ing|I||-ing (v)
+knightage	noun	knight|knight|R|N ; -age|age|S
+knightess	noun	knight|knight|R|N ; -ess|ess|S
+knighting	verb	knight|knight|R|V ; -ing|ing|I||-ing (v)
+knightliness	noun	knight|knight|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+knish	noun	knish|knish|R|N
+knits	noun	knit|knit|R|N ; -s|s|I||-s (plural)

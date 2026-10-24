@@ -1,0 +1,200 @@
+mamillary	adj	mammilla|mamill|R|N ; -ary|ary|S
+mammalogical	adj	mammalogy|mammalog|R|N ; -ical|ical|S
+mammalogist	noun	mammalogy|mammalog|R|N ; -ist|ist|S
+mammalogy	noun	mammalogy|mammalogy|R|N
+mammaplasty	noun	mammaplasty|mammaplasty|R|N
+mammer	verb	mammer|mammer|R|V
+mammiferous	adj	mammifer|mammifer|R|N ; -ous|ous|S
+mammiform	adj	mammiform|mammiform|R|Adj
+mammilla	noun	mammilla|mammilla|R|N
+mammillary	adj	mammilla|mammill|R|N ; -ary|ary|S
+mammogenic	adj	mammogenic|mammogenic|R|Adj
+mammographic	adj	mammography|mammograph|R|N ; -ic|ic|S
+mammonism	noun	mammon|mammon|R|N ; -ism|ism|S
+mammoplasty	noun	mammoplasty|mammoplasty|R|N
+mamoncillo	noun	mamoncillo|mamoncillo|R|N
+mamushi	noun	mamushi|mamushi|R|N
+mamzer	noun	mamzer|mamzer|R|N
+manacles	noun	manacle|manacle|R|N ; -s|s|I||-s (plural)
+manageableness	noun	manage|manage|R|V ; -able|able|S ; -ness|ness|S
+manageably	adv	manage|manage|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+managerialism	noun	managerial|managerial|R|Adj ; -ism|ism|S
+managership	noun	manager|manager|R|N ; -ship|ship|S
+manat	noun	manat|manat|R|N
+manchineel	noun	manchineel|manchineel|R|N
+manciple	noun	manciple|manciple|R|N
+mandarinate	noun	mandarin|mandarin|R|N ; -ate|ate|S
+mandatary	noun	mandate|mandat|R|N ; -ary|ary|S
+mandator	noun	mandate|mandat|R|V ; -or|or|S
+mandatorily	adv	mandatory|mandatori|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+mandocello	noun	mandocello|mandocello|R|N
+mandola	noun	mandola|mandola|R|N
+mandolinist	noun	mandolin|mandolin|R|N ; -ist|ist|S
+mandorla	noun	mandorla|mandorla|R|N
+mandragora	noun	mandragora|mandragora|R|N
+mandrill	noun	mandrill|mandrill|R|N
+mandu	noun	mandu|mandu|R|N
+manducate	verb	manducate|manducate|R|V
+maned	adj	mane|mane|R|N ; -ed|d|S||-ed (adj)
+manes	noun	manes|manes|R|N
+manful	adj	man|man|R|N ; -ful|ful|S
+manfulness	noun	man|man|R|N ; -ful|ful|S ; -ness|ness|S
+mangaka	noun	mangaka|mangaka|R|N
+mangal	noun	mangal|mangal|R|N
+manganate	noun	manganate|manganate|R|N
+manganiferous	adj	manganiferous|manganiferous|R|Adj
+manganin	noun	manganin|manganin|R|N
+manganite	noun	manganite|manganite|R|N
+mangel	noun	mangel|mangel|R|N
+mangelwurzel	noun	mangel|mangel|R|N ; wurzel|wurzel|R|N
+mangetout	noun	mangetout|mangetout|R|N
+mangling	noun	mangle|mangl|R|V ; -ing|ing|S||-ing (N)
+mangold	noun	mangold|mangold|R|N
+mangonel	noun	mangonel|mangonel|R|N
+manhandling	noun	man|man|R|N ; handle|handl|R|V ; -ing|ing|S||-ing (N)
+manhua	noun	manhua|manhua|R|N
+manhuajia	noun	manhuajia|manhuajia|R|N
+manhunter	noun	man|man|R|N ; hunt|hunt|R|V ; -er|er|S||-er (N)
+manhwa	noun	manhwa|manhwa|R|N
+manhwaga	noun	manhwaga|manhwaga|R|N
+manicole	noun	manicole|manicole|R|N
+manicule	noun	manicule|manicule|R|N
+manifestable	adj	manifest|manifest|R|V ; -able|able|S
+manifestant	noun	manifest|manifest|R|V ; -ant|ant|S
+manifestness	noun	manifest|manifest|R|Adj ; -ness|ness|S
+manifolded	adj	manifold|manifold|R|Adj ; -ed|ed|S||-ed (adj)
+manifolder	noun	manifold|manifold|R|N ; -er|er|S||-er (N)
+manifoldness	noun	manifold|manifold|R|Adj ; -ness|ness|S
+maniform	adj	maniform|maniform|R|Adj
+manila	noun	manila|manila|R|N
+manilla	noun	manilla|manilla|R|N
+maniple	noun	maniple|maniple|R|N
+manipular	adj	maniple|manipul|R|N ; -ar|ar|S
+manipulatory	adj	manipulate|manipulat|R|V ; -ory|ory|S
+mankurt	noun	mankurt|mankurt|R|N
+manky	adj	mank|mank|R|Adj ; -y|y|S
+manlike	adj	man|man|R|N ; -like|like|S
+manlikeness	noun	man|man|R|N ; -like|like|S ; -ness|ness|S
+mannerless	adj	manner|manner|R|N ; -less|less|S
+mannerlessness	noun	manner|manner|R|N ; -less|less|S ; -ness|ness|S
+mannerliness	noun	manner|manner|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+mannikin	noun	mannikin|mannikin|R|N
+mannishly	adv	man|mann|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+mannishness	noun	man|mann|R|N ; -ish|ish|S ; -ness|ness|S
+mannite	noun	mannite|mannite|R|N
+mannose	noun	mannose|mannose|R|N
+manny	noun	manny|manny|R|N
+manometer	noun	manometer|manometer|R|N
+manorialism	noun	manorial|manorial|R|Adj ; -ism|ism|S
+manoscopy	noun	manoscopy|manoscopy|R|N
+manosphere	noun	manosphere|manosphere|R|N
+manpowered	adj	man|man|R|N ; power|power|R|N ; -ed|ed|S||-ed (adj)
+manrope	noun	man|man|R|N ; rope|rope|R|N
+manslayer	noun	man|man|R|N ; slay|slay|R|V ; -er|er|S||-er (N)
+manslaying	noun	man|man|R|N ; slay|slay|R|V ; -ing|ing|S||-ing (N)
+mansplain	verb	mansplain|mansplain|R|V
+mansplaining	noun	mansplain|mansplain|R|V ; -ing|ing|S||-ing (N)
+manspreading	noun	man|man|R|N ; spread|spread|R|V ; -ing|ing|S||-ing (N)
+mantelletta	noun	mantelletta|mantelletta|R|N
+manti	noun	manti|manti|R|N
+mantic	adj	mantic|mantic|R|Adj
+manticore	noun	manticore|manticore|R|N
+mantid	noun	mantid|mantid|R|N
+mantissa	noun	mantissa|mantissa|R|N
+mantled	adj	mantle|mantl|R|N ; -ed|ed|S||-ed (adj)
+mantlet	noun	mantlet|mantlet|R|N
+mantling	noun	mantle|mantl|R|N ; -ing|ing|S||-ing (N)
+mantou	noun	mantou|mantou|R|N
+mantrap	noun	man|man|R|N ; trap|trap|R|N
+mantua	noun	mantua|mantua|R|N
+manualism	noun	manual|manual|R|Adj ; -ism|ism|S
+manubrium	noun	manubrium|manubrium|R|N
+manuka	noun	manuka|manuka|R|N
+manul	noun	manul|manul|R|N
+manumissive	adj	manumit|manumiss|R|V ; -ive|ive|S
+manumit	verb	manumit|manumit|R|V
+manumitter	noun	manumit|manumitt|R|V ; -er|er|S||-er (N)
+manuring	noun	manure|manur|R|V ; -ing|ing|S||-ing (N)
+manwhore	noun	man|man|R|N ; whore|whore|R|N
+manyfold	adj	many|many|R|Adj ; fold|fold|R|V
+mapless	adj	map|map|R|N ; -less|less|S
+mapmaking	noun	map|map|R|N ; make|mak|R|V ; -ing|ing|S||-ing (N)
+mappable	adj	map|mapp|R|V ; -able|able|S
+maqam	noun	maqam|maqam|R|N
+maqama	noun	maqama|maqama|R|N
+maqluba	noun	maqluba|maqluba|R|N
+maquillage	noun	maquillage|maquillage|R|N
+maquis	noun	maquis|maquis|R|N
+maquisard	noun	maquisard|maquisard|R|N
+maraboutism	noun	marabout|marabout|R|N ; -ism|ism|S
+marasmic	adj	marasmus|marasm|R|N ; -ic|ic|S
+marasmus	noun	marasmus|marasmus|R|N
+maraud	verb	maraud|maraud|R|V
+marbleize	verb	marble|marble|R|N ; -ize|ize|S
+marbles	noun	marble|marble|R|N ; -s|s|I||-s (plural)
+marbling	noun	marble|marbl|R|N ; -ing|ing|S||-ing (N)
+marbly	adj	marble|marbl|R|N ; -y|y|S
+marcasite	noun	marcasite|marcasite|R|N
+marcassin	noun	marcassin|marcassin|R|N
+marcescence	noun	marcescent|marcesc|R|Adj ; -ence|ence|S
+marcescent	adj	marcescent|marcescent|R|Adj
+marchland	noun	march|march|R|N ; land|land|R|N
+marconigram	noun	marconigram|marconigram|R|N
+marconigraph	noun	marconigraph|marconigraph|R|N
+marcot	verb	marcot|marcot|R|V
+marcotting	noun	marcot|marcott|R|V ; -ing|ing|S||-ing (N)
+maremma	noun	maremma|maremma|R|N
+mareograph	noun	mareograph|mareograph|R|N
+margarite	noun	margarite|margarite|R|N
+margaritic	adj	margarite|margarit|R|N ; -ic|ic|S
+margay	noun	margay|margay|R|N
+marginate	verb	margin|margin|R|N ; -ate|ate|S
+marginated	adj	margin|margin|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+margravate	noun	margrave|margrav|R|N ; -ate|ate|S
+margrave	noun	margrave|margrave|R|N
+margravine	noun	margravine|margravine|R|N
+marihuana	noun	marihuana|marihuana|R|N
+marimbist	noun	marimba|marimb|R|N ; -ist|ist|S
+marination	noun	marinate|marinat|R|V ; -ion|ion|S
+marionettist	noun	marionette|marionett|R|N ; -ist|ist|S
+maritally	adv	marital|marital|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+mariticide	noun	mariticide|mariticide|R|N
+markedness	noun	mark|mark|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+marketableness	noun	market|market|R|N ; -able|able|S ; -ness|ness|S
+markhor	noun	markhor|markhor|R|N
+markka	noun	markka|markka|R|N
+markstone	noun	mark|mark|R|N ; stone|stone|R|N
+markswoman	noun	mark|marks|R|N ; woman|woman|R|N
+markworthy	adj	mark|mark|R|N ; worthy|worthy|R|Adj
+marline	noun	marline|marline|R|N
+marlinspike	noun	marlin|marlin|R|N ; spike|spike|R|N
+marmoreal	adj	marmoreal|marmoreal|R|Adj
+marocain	noun	marocain|marocain|R|N
+marooning	noun	maroon|maroon|R|V ; -ing|ing|S||-ing (N)
+maroquin	noun	maroquin|maroquin|R|N
+marplot	noun	mar|mar|R|V ; plot|plot|R|N
+marquisate	noun	marquis|marquis|R|N ; -ate|ate|S
+marquisette	noun	marquis|marquis|R|N ; -ette|ette|S
+marring	noun	mar|marr|R|V ; -ing|ing|S||-ing (N)
+marrowbone	noun	marrow|marrow|R|N ; bone|bone|R|N
+marrowfat	noun	marrow|marrow|R|N ; fat|fat|R|N
+marrowless	adj	marrow|marrow|R|N ; -less|less|S
+marrowy	adj	marrow|marrow|R|N ; -y|y|S
+marshalcy	noun	marshal|marshal|R|N ; -cy|cy|S
+marshalship	noun	marshal|marshal|R|N ; -ship|ship|S
+marshiness	noun	marsh|marsh|R|N ; -y|i|S ; -ness|ness|S
+marshman	noun	marsh|marsh|R|N ; man|man|R|N
+marshrutka	noun	marshrutka|marshrutka|R|N
+marsquake	noun	mars|mars|R|N ; quake|quake|R|N
+marsupium	noun	marsupium|marsupium|R|N
+martempering	noun	martemper|martemper|R|V ; -ing|ing|S||-ing (N)
+martensite	noun	martensite|martensite|R|N
+martensitic	adj	martensite|martensit|R|N ; -ic|ic|S
+martialism	noun	martial|martial|R|Adj ; -ism|ism|S
+martialist	noun	martial|martial|R|Adj ; -ist|ist|S
+martin	noun	martin|martin|R|N
+martingale	noun	martingale|martingale|R|N
+martlet	noun	martlet|martlet|R|N
+martyrization	noun	martyr|martyr|R|V ; -ize|iz|S ; -ation|ation|S
+martyrize	verb	martyr|martyr|R|V ; -ize|ize|S
+martyrolatry	noun	martyrolatry|martyrolatry|R|N

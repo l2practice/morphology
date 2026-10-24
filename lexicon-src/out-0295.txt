@@ -1,0 +1,200 @@
+guns	noun	gun|gun|R|N ; -s|s|I||-s (plural)
+gunstick	noun	gun|gun|R|N ; stick|stick|R|N
+guqin	noun	guqin|guqin|R|N
+gurdwara	noun	gurdwara|gurdwara|R|N
+gurgitation	noun	gurgitate|gurgitat|R|V ; -ion|ion|S
+gurglingly	adv	gurgle|gurgl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+gurnard	noun	gurnard|gurnard|R|N
+gusan	noun	gusan|gusan|R|N
+gushily	adv	gush|gush|R|V ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+gushiness	noun	gush|gush|R|V ; -y|i|S ; -ness|ness|S
+gushingly	adv	gush|gush|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+guslar	noun	guslar|guslar|R|N
+gusle	noun	gusle|gusle|R|N
+gusli	noun	gusli|gusli|R|N
+gustable	adj	gust|gust|R|N ; -able|able|S
+gustation	noun	gustation|gustation|R|N
+gustatorily	adv	gustatory|gustatori|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+gustily	adv	gust|gust|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+gustiness	noun	gust|gust|R|N ; -y|i|S ; -ness|ness|S
+gutlessness	noun	gut|gut|R|N ; -less|less|S ; -ness|ness|S
+gutsily	adv	guts|guts|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+guttate	adj	guttate|guttate|R|Adj
+guttation	noun	guttation|guttation|R|N
+guttered	verb	gutter|gutter|R|N ; -ed|ed|I||-ed (v2)
+gutters	verb	gutter|gutter|R|N ; -s|s|I||-s (3sg)
+guttersnipish	adj	guttersnipe|guttersnip|R|N ; -ish|ish|S
+guttiform	adj	guttiform|guttiform|R|Adj
+guttula	noun	guttula|guttula|R|N
+guttulate	adj	guttulate|guttulate|R|Adj
+gutturalism	noun	guttural|guttural|R|Adj ; -ism|ism|S
+gutturality	noun	guttural|guttural|R|Adj ; -ity|ity|S
+gutturalize	verb	guttural|guttural|R|Adj ; -ize|ize|S
+gutturally	adv	guttural|guttural|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+guzheng	noun	guzheng|guzheng|R|N
+guzzling	verb	guzzle|guzzl|R|V ; -ing|ing|I||-ing (v)
+gyatt	interj	gyatt|gyatt|R
+gyle	noun	gyle|gyle|R|N
+gymnasiast	noun	gymnasiast|gymnasiast|R|N
+gymnastically	adv	gymnastic|gymnastic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+gymnocarpic	adj	gymnocarpic|gymnocarpic|R|Adj
+gymnocyte	noun	gymnocyte|gymnocyte|R|N
+gymnophobia	noun	gymnophobia|gymnophobia|R|N
+gymnoplast	noun	gymnoplast|gymnoplast|R|N
+gymnosperm	noun	gymnosperm|gymnosperm|R|N
+gymnospermous	adj	gymnosperm|gymnosperm|R|N ; -ous|ous|S
+gymnospore	noun	gymnospore|gymnospore|R|N
+gynaeceum	noun	gynaeceum|gynaeceum|R|N
+gynaecoid	adj	gynaecoid|gynaecoid|R|Adj
+gynandromorph	noun	gynandromorph|gynandromorph|R|N
+gynandromorphic	adj	gynandromorph|gynandromorph|R|N ; -ic|ic|S
+gynandromorphism	noun	gynandromorph|gynandromorph|R|N ; -ism|ism|S
+gynandrous	adj	gynandrous|gynandrous|R|Adj
+gynantherous	adj	gynantherous|gynantherous|R|Adj
+gynarchy	noun	gynarchy|gynarchy|R|N
+gynecocracy	noun	gynecocracy|gynecocracy|R|N
+gynecologically	adv	gynecology|gynecolog|R|N ; -ical|ical|S ; -ly|ly|I|Adv|-ly (adv)
+gynecomastia	noun	gynecomastia|gynecomastia|R|N
+gynephilia	noun	gynephilia|gynephilia|R|N
+gynesexual	adj	gynesexual|gynesexual|R|Adj
+gynoecium	noun	gynoecium|gynoecium|R|N
+gynophobia	noun	gynophobia|gynophobia|R|N
+gynosphinx	noun	gynosphinx|gynosphinx|R|N
+gyoza	noun	gyoza|gyoza|R|N
+gypper	noun	gyp|gypp|R|V ; -er|er|S||-er (N)
+gypseous	adj	gypseous|gypseous|R|Adj
+gypsiology	noun	gypsiology|gypsiology|R|N
+gypsophilous	adj	gypsophilous|gypsophilous|R|Adj
+gypsophily	noun	gypsophily|gypsophily|R|N
+gypsywort	noun	gypsy|gypsy|R|N ; wort|wort|R|N
+gyral	adj	gyre|gyr|R|N ; -al|al|S
+gyrator	noun	gyrate|gyrat|R|V ; -or|or|S
+gyratory	adj	gyrate|gyrat|R|V ; -ory|ory|S
+gyrene	noun	gyrene|gyrene|R|N
+gyrocompass	noun	gyro|gyro|R|N ; compass|compass|R|N
+gyrodyne	noun	gyrodyne|gyrodyne|R|N
+gyrofrequency	noun	gyro|gyro|R|N ; frequency|frequency|R|N
+gyroidal	adj	gyroid|gyroid|R|N ; -al|al|S
+gyromagnetic	adj	gyro|gyro|R|N ; magnetic|magnetic|R|Adj
+gyron	noun	gyron|gyron|R|N
+gyronny	noun	gyron|gyronn|R|N ; -y|y|S
+gyropilot	noun	gyro|gyro|R|N ; pilot|pilot|R|N
+gyroscopically	adv	gyroscope|gyroscop|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+gyrose	adj	gyrose|gyrose|R|Adj
+gyrostabilization	noun	gyro|gyro|R|N ; stabilize|stabiliz|R|V ; -ation|ation|S
+gyrostabilizer	noun	gyro|gyro|R|N ; stabilize|stabiliz|R|V ; -er|er|S||-er (N)
+gyrostat	noun	gyrostat|gyrostat|R|N
+gyrostatic	adj	gyrostat|gyrostat|R|N ; -ic|ic|S
+gyrotropic	adj	gyrotropic|gyrotropic|R|Adj
+gyve	noun	gyve|gyve|R|N
+haaf	noun	haaf|haaf|R|N
+haar	noun	haar|haar|R|N
+habanera	noun	habanera|habanera|R|N
+habenula	noun	habenula|habenula|R|N
+habergeon	noun	habergeon|habergeon|R|N
+habile	adj	habile|habile|R|Adj
+habiliment	noun	habiliment|habiliment|R|N
+habilitate	verb	habilitate|habilitate|R|V
+habilitation	noun	habilitate|habilitat|R|V ; -ion|ion|S
+habitableness	noun	habit|habit|R|N ; -able|able|S ; -ness|ness|S
+habitant	noun	habit|habit|R|N ; -ant|ant|S
+habituating	verb	habituate|habituat|R|V ; -ing|ing|I||-ing (v)
+habitude	noun	habitude|habitude|R|N
+haboob	noun	haboob|haboob|R|N
+hachure	noun	hachure|hachure|R|N
+hackable	adj	hack|hack|R|V ; -able|able|S
+hackamore	noun	hackamore|hackamore|R|N
+hackathon	noun	hackathon|hackathon|R|N
+hackery	noun	hack|hack|R|V ; -ery|ery|S
+hackly	adj	hack|hack|R|V ; -ly|ly|S||-ly (adj)
+hackmatack	noun	hackmatack|hackmatack|R|N
+hacks	noun	hack|hack|R|N ; -s|s|I||-s (plural)
+had	verb	have|had|R|V ; -ed||I||-ed (v2)
+hadal	adj	hadal|hadal|R|Adj
+hade	verb	hade|hade|R|V
+hadith	noun	hadith|hadith|R|N
+haecceity	noun	haecceity|haecceity|R|N
+haem	noun	haem|haem|R|N
+haemal	adj	haemal|haemal|R|Adj
+haematocryal	adj	haematocryal|haematocryal|R|Adj
+haematologist	noun	haematology|haematolog|R|N ; -ist|ist|S
+haematophagous	adj	haematophagous|haematophagous|R|Adj
+haematuria	noun	haematuria|haematuria|R|N
+haemoglobinopathy	noun	haemoglobinopathy|haemoglobinopathy|R|N
+haemolacria	noun	haemolacria|haemolacria|R|N
+haemorrhoids	noun	haemorrhoid|haemorrhoid|R|N ; -s|s|I||-s (plural)
+haemostat	noun	haemostat|haemostat|R|N
+haemostatic	adj	haemostat|haemostat|R|N ; -ic|ic|S
+haffet	noun	haffet|haffet|R|N
+hafiz	noun	hafiz|hafiz|R|N
+hagfish	noun	hag|hag|R|N ; fish|fish|R|N
+haggish	adj	hag|hagg|R|N ; -ish|ish|S
+haggler	noun	haggle|haggl|R|V ; -er|er|S||-er (N)
+hagiographist	noun	hagiography|hagiograph|R|N ; -ist|ist|S
+hagiolater	noun	hagiolater|hagiolater|R|N
+hagiolatry	noun	hagiolatry|hagiolatry|R|N
+hagiology	noun	hagiology|hagiology|R|N
+hagionym	noun	hagionym|hagionym|R|N
+hagiotoponym	noun	hagiotoponym|hagiotoponym|R|N
+hagridden	adj	hag|hag|R|N ; ride|ridden|R|V ; -en||I||-en (participle)
+haha	interj	haha|haha|R
+haikai	noun	haikai|haikai|R|N
+hailing	verb	hail|hail|R|V ; -ing|ing|I||-ing (v)
+haircloth	noun	hair|hair|R|N ; cloth|cloth|R|N
+haircutter	noun	hair|hair|R|N ; cut|cutt|R|V ; -er|er|S||-er (N)
+haircutting	noun	hair|hair|R|N ; cut|cutt|R|V ; -ing|ing|S||-ing (N)
+hairgrip	noun	hair|hair|R|N ; grip|grip|R|N
+hairshirt	noun	hair|hair|R|N ; shirt|shirt|R|N
+hairspring	noun	hair|hair|R|N ; spring|spring|R|N
+hairworm	noun	hair|hair|R|N ; worm|worm|R|N
+hajduk	noun	hajduk|hajduk|R|N
+hajji	noun	hajji|hajji|R|N
+haka	noun	haka|haka|R|N
+hakenkreuz	noun	hakenkreuz|hakenkreuz|R|N
+hakim	noun	hakim|hakim|R|N
+halachic	adj	halacha|halach|R|N ; -ic|ic|S
+halation	noun	halo|hal|R|N ; -ation|ation|S
+halberdier	noun	halberd|halberd|R|N ; -er|ier|S||-er (N)
+haleem	noun	haleem|haleem|R|N
+halfbeak	noun	half|half|R|N ; beak|beak|R|N
+halfdead	adj	half|half|R|N ; dead|dead|R|Adj
+halfhearted	adj	half|half|R|N ; heart|heart|R|N ; -ed|ed|S||-ed (adj)
+halfling	noun	half|half|R|N ; -ling|ling|S
+halfpennyworth	noun	half|half|R|N ; penny|penny|R|N ; worth|worth|R|N
+halfsleep	noun	half|half|R|N ; sleep|sleep|R|N
+halfwidth	noun	half|half|R|N ; width|width|R|N
+halieutic	adj	halieutic|halieutic|R|Adj
+halieutics	noun	halieutic|halieutic|R|Adj ; -s|s|I||-s (plural)
+halite	noun	halite|halite|R|N
+hallmarked	verb	hall|hall|R|N ; mark|mark|R|V ; -ed|ed|I||-ed (v2)
+hallmarking	verb	hall|hall|R|N ; mark|mark|R|V ; -ing|ing|I||-ing (v)
+halloa	interj	halloa|halloa|R
+halloumi	noun	halloumi|halloumi|R|N
+hallowing	verb	hallow|hallow|R|V ; -ing|ing|I||-ing (v)
+halloysite	noun	halloysite|halloysite|R|N
+hallucinative	adj	hallucinate|hallucinat|R|V ; -ive|ive|S
+hallucinosis	noun	hallucinosis|hallucinosis|R|N
+hallux	noun	hallux|hallux|R|N
+halma	noun	halma|halma|R|N
+halmos	noun	halmos|halmos|R|N
+haloalkane	noun	halo|halo|R|N ; alkane|alkane|R|N
+halobiont	noun	halobiont|halobiont|R|N
+halocarbon	noun	halo|halo|R|N ; carbon|carbon|R|N
+halogenate	verb	halogen|halogen|R|N ; -ate|ate|S
+halogenation	noun	halogen|halogen|R|N ; -ate|at|S ; -ion|ion|S
+halogenous	adj	halogen|halogen|R|N ; -ous|ous|S
+halography	noun	halography|halography|R|N
+haloid	noun	haloid|haloid|R|N
+halometer	noun	halometer|halometer|R|N
+halophile	noun	halophile|halophile|R|N
+halophyte	noun	halophyte|halophyte|R|N
+halophytic	adj	halophyte|halophyt|R|N ; -ic|ic|S
+halothane	noun	halothane|halothane|R|N
+halotherapy	noun	halo|halo|R|N ; therapy|therapy|R|N
+halterbreak	verb	halter|halter|R|N ; break|break|R|V
+haltere	noun	haltere|haltere|R|N
+halterneck	noun	halter|halter|R|N ; neck|neck|R|N
+halva	noun	halva|halva|R|N
+hamadryad	noun	hamadryad|hamadryad|R|N
+hamadryas	noun	hamadryas|hamadryas|R|N
+hamamelidaceous	adj	hamamelidaceous|hamamelidaceous|R|Adj

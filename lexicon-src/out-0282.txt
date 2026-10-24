@@ -1,0 +1,200 @@
+fagged	adj	fag|fagg|R|V ; -ed|ed|S||-ed (adj)
+fagger	noun	fag|fagg|R|V ; -er|er|S||-er (N)
+faggery	noun	fag|fagg|R|V ; -ery|ery|S
+fagging	noun	fag|fagg|R|V ; -ing|ing|S||-ing (N)
+faggotry	noun	faggot|faggot|R|N ; -ry|ry|S
+fagot	noun	fagot|fagot|R|N
+fagoting	noun	fagot|fagot|R|N ; -ing|ing|S||-ing (N)
+faineance	noun	faineance|faineance|R|N
+faineancy	noun	faineancy|faineancy|R|N
+fains	verb	fain|fain|R|V ; -s|s|I||-s (3sg)
+fainthearted	adj	faint|faint|R|Adj ; heart|heart|R|N ; -ed|ed|S||-ed (adj)
+faintish	adj	faint|faint|R|Adj ; -ish|ish|S
+fairlead	noun	fair|fair|R|Adj ; lead|lead|R|N
+fairydom	noun	fairy|fairy|R|N ; -dom|dom|S
+fairyhood	noun	fairy|fairy|R|N ; -hood|hood|S
+fairyism	noun	fairy|fairy|R|N ; -ism|ism|S
+faithlessly	adv	faith|faith|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+fajita	noun	fajita|fajita|R|N
+fajr	noun	fajr|fajr|R|N
+fakely	adv	fake|fake|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+fakirism	noun	fakir|fakir|R|N ; -ism|ism|S
+falanouc	noun	falanouc|falanouc|R|N
+falcate	adj	falcate|falcate|R|Adj
+falcated	adj	falcate|falcat|R|Adj ; -ed|ed|S||-ed (adj)
+falchion	noun	falchion|falchion|R|N
+falciform	adj	falciform|falciform|R|Adj
+falconet	noun	falconet|falconet|R|N
+falconine	adj	falconine|falconine|R|Adj
+falcula	noun	falcula|falcula|R|N
+faldstool	noun	faldstool|faldstool|R|N
+falernum	noun	falernum|falernum|R|N
+fallaciousness	noun	fallacious|fallacious|R|Adj ; -ness|ness|S
+fallal	noun	fallal|fallal|R|N
+fallibilism	noun	fallible|fallibil|R|Adj ; -ism|ism|S
+falloff	noun	fall|fall|R|V ; off|off|R|Adv
+fallowed	adj	fallow|fallow|R|V ; -ed|ed|S||-ed (adj)
+fallowing	noun	fallow|fallow|R|V ; -ing|ing|S||-ing (N)
+falooda	noun	falooda|falooda|R|N
+falsework	noun	false|false|R|Adj ; work|work|R|N
+falsifiability	noun	false|fals|R|Adj ; -ify|ifi|S ; -able|abil|S ; -ity|ity|S
+falsifier	noun	false|fals|R|Adj ; -ify|ifi|S ; -er|er|S||-er (N)
+falsifying	adj	false|fals|R|Adj ; -ify|ify|S ; -ing|ing|S||-ing (adj)
+falx	noun	falx|falx|R|N
+famish	verb	famish|famish|R|V
+famousness	noun	famous|famous|R|Adj ; -ness|ness|S
+famulus	noun	famulus|famulus|R|N
+fanart	noun	fan|fan|R|N ; art|art|R|N
+fanaticize	verb	fanatic|fanatic|R|Adj ; -ize|ize|S
+fanbelt	noun	fan|fan|R|N ; belt|belt|R|N
+fanboy	noun	fan|fan|R|N ; boy|boy|R|N
+fancam	noun	fan|fan|R|N ; cam|cam|R|N
+fancifulness	noun	fanciful|fanciful|R|Adj ; -ness|ness|S
+fanciless	adj	fancy|fanci|R|N ; -less|less|S
+fancying	noun	fancy|fancy|R|V ; -ing|ing|S||-ing (N)
+fandangle	noun	fandangle|fandangle|R|N
+fane	noun	fane|fane|R|N
+fanfaronade	noun	fanfaronade|fanfaronade|R|N
+fangless	adj	fang|fang|R|N ; -less|less|S
+fanion	noun	fanion|fanion|R|N
+fanner	noun	fan|fann|R|N ; -er|er|S||-er (N)
+fanning	noun	fan|fann|R|N ; -ing|ing|S||-ing (N)
+fanqie	noun	fanqie|fanqie|R|N
+fanservice	noun	fan|fan|R|N ; service|service|R|N
+fanslation	noun	fanslation|fanslation|R|N
+fansub	noun	fan|fan|R|N ; sub|sub|R|N
+fantasied	adj	fantasy|fantasi|R|N ; -ed|ed|S||-ed (adj)
+fantasizing	noun	fantasy|fantas|R|N ; -ize|iz|S ; -ing|ing|S||-ing (N)
+fantasticism	noun	fantastic|fantastic|R|Adj ; -ism|ism|S
+fantoccini	noun	fantoccini|fantoccini|R|N
+fap	verb	fap|fap|R|V
+farad	noun	farad|farad|R|N
+faradaic	adj	faradaic|faradaic|R|Adj
+faradic	adj	farad|farad|R|N ; -ic|ic|S
+farandole	noun	farandole|farandole|R|N
+farang	noun	farang|farang|R|N
+farceur	noun	farceur|farceur|R|N
+farcicality	noun	farcical|farcical|R|Adj ; -ity|ity|S
+farcically	adv	farcical|farcical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+farcy	noun	farcy|farcy|R|N
+fard	noun	fard|fard|R|N
+fardel	noun	fardel|fardel|R|N
+farecard	noun	fare|fare|R|N ; card|card|R|N
+farfalle	noun	farfalle|farfalle|R|N
+farina	noun	farina|farina|R|N
+farinaceous	adj	farinaceous|farinaceous|R|Adj
+faring	noun	fare|far|R|V ; -ing|ing|S||-ing (N)
+farinose	adj	farinose|farinose|R|Adj
+farl	noun	farl|farl|R|N
+farmable	adj	farm|farm|R|N ; -able|able|S
+farmboy	noun	farm|farm|R|N ; boy|boy|R|N
+farmwork	noun	farm|farm|R|N ; work|work|R|N
+farouche	adj	farouche|farouche|R|Adj
+farriery	noun	farrier|farrier|R|N ; -y|y|S
+farro	noun	farro|farro|R|N
+fartee	noun	fart|fart|R|V ; -ee|ee|S
+farter	noun	fart|fart|R|V ; -er|er|S||-er (N)
+farthingale	noun	farthingale|farthingale|R|N
+fartlek	noun	fartlek|fartlek|R|N
+fasces	noun	fasces|fasces|R|N
+fasciated	adj	fascia|fasci|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+fascicled	adj	fascicle|fascicl|R|N ; -ed|ed|S||-ed (adj)
+fascicular	adj	fascicle|fascicul|R|N ; -ar|ar|S
+fasciculate	adj	fascicle|fascicul|R|N ; -ate|ate|S
+fasciculated	adj	fascicle|fascicul|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+fasciculation	noun	fascicle|fascicul|R|N ; -ation|ation|S
+fascicule	noun	fascicule|fascicule|R|N
+fasciculus	noun	fasciculus|fasciculus|R|N
+fascinator	noun	fascinate|fascinat|R|V ; -or|or|S
+fascine	noun	fascine|fascine|R|N
+fascio	noun	fascio|fascio|R|N
+fasciola	noun	fasciola|fasciola|R|N
+fasciole	noun	fasciole|fasciole|R|N
+fascioliasis	noun	fascioliasis|fascioliasis|R|N
+fascistization	noun	fascist|fascist|R|N ; -ize|iz|S ; -ation|ation|S
+fascistoid	adj	fascistoid|fascistoid|R|Adj
+fascize	verb	fascize|fascize|R|V
+fash	noun	fash|fash|R|N
+fashionableness	noun	fashionable|fashionable|R|Adj ; -ness|ness|S
+fashionmonger	noun	fashion|fashion|R|N ; monger|monger|R|N
+fashy	adj	fash|fash|R|N ; -y|y|S
+fasti	noun	fasti|fasti|R|N
+fastigiate	adj	fastigium|fastigi|R|N ; -ate|ate|S
+fastigium	noun	fastigium|fastigium|R|N
+fastish	adj	fast|fast|R|Adj ; -ish|ish|S
+fatalistically	adv	fatal|fatal|R|Adj ; -ist|ist|S ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+fatalize	verb	fatal|fatal|R|Adj ; -ize|ize|S
+fatalness	noun	fatal|fatal|R|Adj ; -ness|ness|S
+fatberg	noun	fat|fat|R|N ; berg|berg|R|N
+fatha	noun	fatha|fatha|R|N
+fatherlike	adj	father|father|R|N ; -like|like|S
+fatherliness	noun	father|father|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+fathership	noun	father|father|R|N ; -ship|ship|S
+fathomable	adj	fathom|fathom|R|V ; -able|able|S
+fathometer	noun	fathom|fatho|R|N ; meter|meter|R|N
+fathoming	noun	fathom|fathom|R|V ; -ing|ing|S||-ing (N)
+fathomlessness	noun	fathom|fathom|R|N ; -less|less|S ; -ness|ness|S
+fatidical	adj	fatidical|fatidical|R|Adj
+fatigable	adj	fatigue|fatig|R|V ; -able|able|S
+fatigueless	adj	fatigue|fatigue|R|N ; -less|less|S
+fatigues	noun	fatigue|fatigue|R|N ; -s|s|I||-s (plural)
+fatiloquent	adj	fatiloquent|fatiloquent|R|Adj
+fatless	adj	fat|fat|R|N ; -less|less|S
+fatling	noun	fat|fat|R|N ; -ling|ling|S
+fatphobia	noun	fat|fat|R|N ; phobia|phobia|R|N
+fatstock	noun	fat|fat|R|N ; stock|stock|R|N
+fattish	adj	fat|fatt|R|Adj ; -ish|ish|S
+fattouch	noun	fattouch|fattouch|R|N
+fatuity	noun	fatuous|fatu|R|Adj ; -ity|ity|S
+fatuousness	noun	fatuous|fatuous|R|Adj ; -ness|ness|S
+faubourg	noun	faubourg|faubourg|R|N
+faucal	adj	fauces|fauc|R|N ; -al|al|S
+fauces	noun	fauces|fauces|R|N
+faugh	interj	faugh|faugh|R
+faultfinder	noun	fault|fault|R|N ; find|find|R|V ; -er|er|S||-er (N)
+faultfinding	noun	fault|fault|R|N ; find|find|R|V ; -ing|ing|S||-ing (N)
+faultful	adj	fault|fault|R|N ; -ful|ful|S
+faultily	adv	faulty|faulti|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+faultiness	noun	faulty|faulti|R|Adj ; -ness|ness|S
+faultlessness	noun	fault|fault|R|N ; -less|less|S ; -ness|ness|S
+faunist	noun	fauna|faun|R|N ; -ist|ist|S
+faunistic	adj	fauna|faun|R|N ; -ist|ist|S ; -ic|ic|S
+faunology	noun	faunology|faunology|R|N
+fauteuil	noun	fauteuil|fauteuil|R|N
+faux	adj	faux|faux|R|Adj
+fauxgasm	noun	fauxgasm|fauxgasm|R|N
+favicon	noun	fav|fav|R|N ; icon|icon|R|N
+favorability	noun	favor|favor|R|N ; -able|abil|S ; -ity|ity|S
+favorize	verb	favor|favor|R|N ; -ize|ize|S
+favose	adj	favose|favose|R|Adj
+favourableness	noun	favourable|favourable|R|Adj ; -ness|ness|S
+favus	noun	favus|favus|R|N
+fawner	noun	fawn|fawn|R|V ; -er|er|S||-er (N)
+fax	noun	fax|fax|R|N
+faxing	noun	fax|fax|R|V ; -ing|ing|S||-ing (N)
+fayalite	noun	fayalite|fayalite|R|N
+fazed	adj	faze|faz|R|V ; -ed|ed|S||-ed (adj)
+feal	adj	feal|feal|R|Adj
+fearing	noun	fear|fear|R|V ; -ing|ing|S||-ing (N)
+fearmonger	noun	fear|fear|R|N ; monger|monger|R|N
+fearmongering	noun	fear|fear|R|N ; monger|monger|R|N ; -ing|ing|S||-ing (N)
+fearsomeness	noun	fearsome|fearsome|R|Adj ; -ness|ness|S
+feasance	noun	feasance|feasance|R|N
+feaster	noun	feast|feast|R|V ; -er|er|S||-er (N)
+feastful	adj	feast|feast|R|N ; -ful|ful|S
+featherbedding	noun	feather|feather|R|N ; bed|bedd|R|N ; -ing|ing|S||-ing (N)
+feathergrass	noun	feather|feather|R|N ; grass|grass|R|N
+featheriness	noun	feather|feather|R|N ; -y|i|S ; -ness|ness|S
+featherlet	noun	feather|feather|R|N ; -let|let|S
+feathermoss	noun	feather|feather|R|N ; moss|moss|R|N
+featurette	noun	feature|featur|R|N ; -ette|ette|S
+featuring	noun	feature|featur|R|V ; -ing|ing|S||-ing (N)
+febricity	noun	febricity|febricity|R|N
+febrifugal	adj	febrifugal|febrifugal|R|Adj
+febrifuge	noun	febrifuge|febrifuge|R|N
+feceate	adj	feceate|feceate|R|Adj
+feck	noun	feck|feck|R|N
+feckful	adj	feck|feck|R|N ; -ful|ful|S
+fecklessly	adv	feckless|feckless|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+fecula	noun	fecula|fecula|R|N
+feculence	noun	feculent|fecul|R|Adj ; -ence|ence|S

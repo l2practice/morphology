@@ -1,0 +1,200 @@
+foretooth	noun	fore-|fore|P ; tooth|tooth|R|N
+foretop	noun	fore-|fore|P ; top|top|R|N
+foretype	noun	fore-|fore|P ; type|type|R|N
+forevermore	adv	for|for|R ; ever|ever|R|Adv ; more|more|R|Adv
+forewind	noun	fore-|fore|P ; wind|wind|R|N
+forfeitable	adj	forfeit|forfeit|R|V ; -able|able|S
+forfeiting	verb	forfeit|forfeit|R|V ; -ing|ing|I||-ing (v)
+forfeits	noun	forfeit|forfeit|R|N ; -s|s|I||-s (plural)
+forficate	adj	forficate|forficate|R|Adj
+forgather	verb	forgather|forgather|R|V
+forgathering	verb	forgather|forgather|R|V ; -ing|ing|I||-ing (v)
+forgeability	noun	forge|forge|R|V ; -able|abil|S ; -ity|ity|S
+forgeable	adj	forge|forge|R|V ; -able|able|S
+forgetfully	adv	forget|forget|R|V ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+forgetter	noun	forget|forgett|R|V ; -er|er|S||-er (N)
+forgivingly	adv	forgive|forgiv|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+forgivingness	noun	forgive|forgiv|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+forjudge	verb	forjudge|forjudge|R|V
+forkbeard	noun	fork|fork|R|N ; beard|beard|R|N
+forking	verb	fork|fork|R|V ; -ing|ing|I||-ing (v)
+forky	adj	fork|fork|R|N ; -y|y|S
+forlornness	noun	forlorn|forlorn|R|Adj ; -ness|ness|S
+formable	adj	form|form|R|V ; -able|able|S
+formate	noun	formate|formate|R|N
+formicarian	adj	formicary|formicari|R|N ; -an|an|S
+formicarium	noun	formicarium|formicarium|R|N
+formicary	noun	formicary|formicary|R|N
+formication	noun	formication|formication|R|N
+formidableness	noun	formidable|formidable|R|Adj ; -ness|ness|S
+formlessly	adv	form|form|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+formularise	verb	formularise|formularise|R|V
+formularization	noun	formularize|formulariz|R|V ; -ation|ation|S
+formularize	verb	formularize|formularize|R|V
+formulism	noun	formula|formul|R|N ; -ism|ism|S
+formulist	noun	formula|formul|R|N ; -ist|ist|S
+formulistic	adj	formula|formul|R|N ; -ist|ist|S ; -ic|ic|S
+formulization	noun	formulize|formuliz|R|V ; -ation|ation|S
+formulize	verb	formula|formul|R|N ; -ize|ize|S
+formwise	adv	form|form|R|N ; -wise|wise|S
+formwork	noun	form|form|R|N ; work|work|R|N
+formworker	noun	form|form|R|N ; work|work|R|N ; -er|er|S||-er (N)
+formyl	noun	formyl|formyl|R|N
+fornicated	verb	fornicate|fornicat|R|V ; -ed|ed|I||-ed (v2)
+fornicating	verb	fornicate|fornicat|R|V ; -ing|ing|I||-ing (v)
+fornicatrix	noun	fornicatrix|fornicatrix|R|N
+fornix	noun	fornix|fornix|R|N
+forsaking	verb	forsake|forsak|R|V ; -ing|ing|I||-ing (v)
+forspend	verb	forspend|forspend|R|V
+forsterite	noun	forsterite|forsterite|R|N
+forswearer	noun	forswear|forswear|R|V ; -er|er|S||-er (N)
+forthgoing	noun	forth|forth|R|Adv ; go|go|R|V ; -ing|ing|S||-ing (N)
+forties	noun	forty|forti|R|N ; -es|es|I||-s (plural)
+fortifiable	adj	fortify|fortifi|R|V ; -able|able|S
+fortifier	noun	fortify|fortifi|R|V ; -er|er|S||-er (N)
+fortis	noun	fortis|fortis|R|N
+fortition	noun	fortition|fortition|R|N
+fortochka	noun	fortochka|fortochka|R|N
+fortuitism	noun	fortuitism|fortuitism|R|N
+fortuitist	noun	fortuitist|fortuitist|R|N
+fortuitousness	noun	fortuitous|fortuitous|R|Adj ; -ness|ness|S
+fortuity	noun	fortuity|fortuity|R|N
+fortuneless	adj	fortune|fortune|R|N ; -less|less|S
+fortysomething	noun	forty|forty|R ; some|some|R ; thing|thing|R|N
+forumer	noun	forum|forum|R|N ; -er|er|S||-er (N)
+forwardly	adv	forward|forward|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+forwardness	noun	forward|forward|R|Adj ; -ness|ness|S
+fossette	noun	fossette|fossette|R|N
+fossick	verb	fossick|fossick|R|V
+fossilate	verb	fossil|fossil|R|N ; -ate|ate|S
+fossiliferous	adj	fossiliferous|fossiliferous|R|Adj
+fossilism	noun	fossil|fossil|R|N ; -ism|ism|S
+fossilology	noun	fossilology|fossilology|R|N
+fossorial	adj	fossorial|fossorial|R|Adj
+fosterable	adj	foster|foster|R|V ; -able|able|S
+fosterage	noun	foster|foster|R|V ; -age|age|S
+fosterer	noun	foster|foster|R|V ; -er|er|S||-er (N)
+fosterling	noun	foster|foster|R|V ; -ling|ling|S
+fougasse	noun	fougasse|fougasse|R|N
+foulard	noun	foulard|foulard|R|N
+foulmouth	verb	foul|foul|R|Adj ; mouth|mouth|R|N
+foumart	noun	foumart|foumart|R|N
+foundered	verb	founder|founder|R|V ; -ed|ed|I||-ed (v2)
+foundership	noun	found|found|R|V ; -er|er|S||-er (N) ; -ship|ship|S
+foundryman	noun	foundry|foundry|R|N ; man|man|R|N
+fourchette	noun	fourchette|fourchette|R|N
+fourgon	noun	fourgon|fourgon|R|N
+fourplex	noun	fourplex|fourplex|R|N
+fourscore	noun	four|four|R|N ; score|score|R|N
+foveal	adj	fovea|fove|R|N ; -al|al|S
+foveate	adj	fovea|fove|R|N ; -ate|ate|S
+foveola	noun	foveola|foveola|R|N
+foveolate	adj	foveola|foveol|R|N ; -ate|ate|S
+foxed	adj	fox|fox|R|N ; -ed|ed|S||-ed (adj)
+foxfire	noun	fox|fox|R|N ; fire|fire|R|N
+foxhunt	noun	fox|fox|R|N ; hunt|hunt|R|V
+foxhunter	noun	fox|fox|R|N ; hunt|hunt|R|V ; -er|er|S||-er (N)
+foxiness	noun	fox|fox|R|N ; -y|i|S ; -ness|ness|S
+foxing	verb	fox|fox|R|V ; -ing|ing|I||-ing (v)
+foxlike	adj	fox|fox|R|N ; -like|like|S
+foxnut	noun	fox|fox|R|N ; nut|nut|R|N
+foxship	noun	fox|fox|R|N ; -ship|ship|S
+fractionary	adj	fraction|fraction|R|N ; -ary|ary|S
+fractionator	noun	fraction|fraction|R|N ; -ate|at|S ; -or|or|S
+fractionize	verb	fraction|fraction|R|N ; -ize|ize|S
+fractiousness	noun	fractious|fractious|R|Adj ; -ness|ness|S
+fraenulum	noun	fraenulum|fraenulum|R|N
+fragilely	adv	fragile|fragile|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+fragileness	noun	fragile|fragile|R|Adj ; -ness|ness|S
+fragrancy	noun	fragrant|fragr|R|Adj ; -ancy|ancy|S
+fraise	noun	fraise|fraise|R|N
+framboise	noun	framboise|framboise|R|N
+francium	noun	francium|francium|R|N
+francolin	noun	francolin|francolin|R|N
+frangibility	noun	frangible|frangibil|R|Adj ; -ity|ity|S
+frangible	adj	frangible|frangible|R|Adj
+frangipane	noun	frangipane|frangipane|R|N
+frankenfood	noun	frankenfood|frankenfood|R|N
+franking	verb	frank|frank|R|V ; -ing|ing|I||-ing (v)
+franklin	noun	franklin|franklin|R|N
+franklinite	noun	franklinite|franklinite|R|N
+frankpledge	noun	frank|frank|R|Adj ; pledge|pledge|R|N
+frap	verb	frap|frap|R|V
+frappe	noun	frappe|frappe|R|N
+frass	noun	frass|frass|R|N
+frate	noun	frate|frate|R|N
+frater	noun	frater|frater|R|N
+fraternalism	noun	fraternal|fraternal|R|Adj ; -ism|ism|S
+fraternally	adv	fraternal|fraternal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+fraulein	noun	fraulein|fraulein|R|N
+fraxinella	noun	fraxinella|fraxinella|R|N
+frazil	noun	frazil|frazil|R|N
+freaking	verb	freak|freak|R|V ; -ing|ing|I||-ing (v)
+freakishness	noun	freak|freak|R|N ; -ish|ish|S ; -ness|ness|S
+freckleface	noun	freckle|freckle|R|N ; face|face|R|N
+freckling	verb	freckle|freckl|R|V ; -ing|ing|I||-ing (v)
+freckly	adj	freckle|freckl|R|N ; -y|y|S
+freeboot	verb	free|free|R|Adj ; boot|boot|R|V
+freebooting	verb	free|free|R|Adj ; boot|boot|R|V ; -ing|ing|I||-ing (v)
+freedwoman	noun	freed|freed|R|Adj ; woman|woman|R|N
+freegan	noun	freegan|freegan|R|N
+freelancing	verb	free|free|R|Adj ; lance|lanc|R|N ; -ing|ing|I||-ing (v)
+freeloading	verb	free|free|R|Adj ; load|load|R|V ; -ing|ing|I||-ing (v)
+freemartin	noun	freemartin|freemartin|R|N
+freemium	noun	freemium|freemium|R|N
+freepost	noun	free|free|R|Adj ; post|post|R|N
+freestyler	noun	free|free|R|Adj ; style|styl|R|N ; -er|er|S||-er (N)
+freeter	noun	freeter|freeter|R|N
+freethinker	noun	free|free|R|Adj ; think|think|R|V ; -er|er|S||-er (N)
+freethinking	noun	free|free|R|Adj ; think|think|R|V ; -ing|ing|S||-ing (N)
+freezable	adj	freeze|freez|R|V ; -able|able|S
+freightage	noun	freight|freight|R|N ; -age|age|S
+french	adj	french|french|R|Adj
+frenchify	verb	french|french|R|Adj ; -ify|ify|S
+frenemy	noun	frenemy|frenemy|R|N
+frenulum	noun	frenulum|frenulum|R|N
+frenum	noun	frenum|frenum|R|N
+freon	noun	freon|freon|R|N
+frequentable	adj	frequent|frequent|R|V ; -able|able|S
+frequentation	noun	frequent|frequent|R|V ; -ation|ation|S
+frequentative	adj	frequent|frequent|R|V ; -ative|ative|S
+frequenter	noun	frequent|frequent|R|V ; -er|er|S||-er (N)
+frequentness	noun	frequent|frequent|R|Adj ; -ness|ness|S
+frescoer	noun	fresco|fresco|R|N ; -er|er|S||-er (N)
+fresnel	noun	fresnel|fresnel|R|N
+fretfulness	noun	fret|fret|R|V ; -ful|ful|S ; -ness|ness|S
+fretsaw	noun	fret|fret|R|N ; saw|saw|R|N
+fretty	adj	fret|frett|R|V ; -y|y|S
+friability	noun	friable|friabil|R|Adj ; -ity|ity|S
+friableness	noun	friable|friable|R|Adj ; -ness|ness|S
+friarly	adj	friar|friar|R|N ; -ly|ly|S||-ly (adj)
+fribble	verb	fribble|fribble|R|V
+fricandeau	noun	fricandeau|fricandeau|R|N
+fricking	verb	frick|frick|R|V ; -ing|ing|I||-ing (v)
+frico	noun	frico|frico|R|N
+friendlessness	noun	friend|friend|R|N ; -less|less|S ; -ness|ness|S
+frig	verb	frig|frig|R|V
+frigatebird	noun	frigate|frigate|R|N ; bird|bird|R|N
+frightfulness	noun	fright|fright|R|N ; -ful|ful|S ; -ness|ness|S
+frighting	verb	fright|fright|R|V ; -ing|ing|I||-ing (v)
+frigidaire	noun	frigidaire|frigidaire|R|N
+frigidarium	noun	frigidarium|frigidarium|R|N
+frigidly	adv	frigid|frigid|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+frigorific	adj	frigorific|frigorific|R|Adj
+frikadelle	noun	frikadelle|frikadelle|R|N
+frillery	noun	frill|frill|R|N ; -ery|ery|S
+frillies	noun	frill|frill|R|N ; -y|i|S ; -es|es|I||-s (plural)
+frilling	verb	frill|frill|R|V ; -ing|ing|I||-ing (v)
+frindle	noun	frindle|frindle|R|N
+fringeless	adj	fringe|fringe|R|N ; -less|less|S
+fringing	verb	fringe|fring|R|V ; -ing|ing|I||-ing (v)
+frisker	noun	frisk|frisk|R|V ; -er|er|S||-er (N)
+friskily	adv	frisk|frisk|R|V ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+friskiness	noun	frisk|frisk|R|V ; -y|i|S ; -ness|ness|S
+frisking	verb	frisk|frisk|R|V ; -ing|ing|I||-ing (v)
+frit	noun	frit|frit|R|N
+fritillary	noun	fritillary|fritillary|R|N
+frivol	verb	frivol|frivol|R|V
+frizzle	verb	frizzle|frizzle|R|V
+frizzled	adj	frizzle|frizzl|R|V ; -ed|ed|S||-ed (adj)
+frizzly	adj	frizzle|frizzl|R|V ; -y|y|S

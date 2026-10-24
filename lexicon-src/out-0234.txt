@@ -1,0 +1,200 @@
+barbarisation	noun	barbarize|barbaris|R|V ; -ation|ation|S
+barbarize	verb	barbarize|barbarize|R|V
+barbarously	adv	barbarous|barbarous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+barbarousness	noun	barbarous|barbarous|R|Adj ; -ness|ness|S
+barbastelle	noun	barbastelle|barbastelle|R|N
+barbat	adj	barbat|barbat|R|Adj
+barbate	adj	barbate|barbate|R|Adj
+barbedness	noun	barb|barb|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+barbet	noun	barbet|barbet|R|N
+barbette	noun	barbette|barbette|R|N
+barbituric	adj	barbituric|barbituric|R|Adj
+barbola	noun	barbola|barbola|R|N
+barbule	noun	barbule|barbule|R|N
+barcarole	noun	barcarole|barcarole|R|N
+barchan	noun	barchan|barchan|R|N
+barcode	noun	bar|bar|R|N ; code|code|R|N
+bardiche	noun	bardiche|bardiche|R|N
+bardo	noun	bardo|bardo|R|N
+bardolatry	noun	bardolatry|bardolatry|R|N
+barebacked	adj	bare|bare|R|Adj ; back|back|R|N ; -ed|ed|S||-ed (adj)
+barebacking	verb	bare|bare|R|Adj ; back|back|R|N ; -ing|ing|I||-ing (v)
+barechested	adj	bare|bare|R|Adj ; chest|chest|R|N ; -ed|ed|S||-ed (adj)
+barefacedly	adv	bare|bare|R|Adj ; face|fac|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+barefacedness	noun	bare|bare|R|Adj ; face|fac|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+barehanded	adj	bare|bare|R|Adj ; hand|hand|R|N ; -ed|ed|S||-ed (adj)
+bareheadedness	noun	bare|bare|R|Adj ; head|head|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+barelegged	adj	bare|bare|R|Adj ; leg|legg|R|N ; -ed|ed|S||-ed (adj)
+bareleggedness	noun	bare|bare|R|Adj ; leg|legg|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+barer	adj	bare|bar|R|Adj ; -er|er|I||-er (comparative)
+barfi	noun	barfi|barfi|R|N
+barfly	noun	bar|bar|R|N ; fly|fly|R|N
+bargeman	noun	barge|barge|R|N ; man|man|R|N
+bariatrician	noun	bariatric|bariatric|R|Adj ; -ian|ian|S
+bariatrics	noun	bariatrics|bariatrics|R|N
+baric	adj	baric|baric|R|Adj
+barite	noun	barite|barite|R|N
+barked	verb	bark|bark|R|V ; -ed|ed|I||-ed (v2)
+barkeeper	noun	bar|bar|R|N ; keep|keep|R|V ; -er|er|S||-er (N)
+barkery	noun	bark|bark|R|N ; -ery|ery|S
+barky	adj	bark|bark|R|N ; -y|y|S
+barleycorn	noun	barley|barley|R|N ; corn|corn|R|N
+barlow	noun	barlow|barlow|R|N
+barmecidal	adj	barmecidal|barmecidal|R|Adj
+barnstormer	noun	barn|barn|R|N ; storm|storm|R|V ; -er|er|S||-er (N)
+barogram	noun	barogram|barogram|R|N
+barograph	noun	barograph|barograph|R|N
+barographic	adj	barographic|barographic|R|Adj
+barometrically	adv	barometric|barometric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+barometz	noun	barometz|barometz|R|N
+baronage	noun	baron|baron|R|N ; -age|age|S
+baronetage	noun	baronet|baronet|R|N ; -age|age|S
+barong	noun	barong|barong|R|N
+baroquely	adv	baroque|baroque|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+baroscope	noun	baroscope|baroscope|R|N
+barotrauma	noun	barotrauma|barotrauma|R|N
+barouche	noun	barouche|barouche|R|N
+barquentine	noun	barquentine|barquentine|R|N
+barracker	noun	barrack|barrack|R|V ; -er|er|S||-er (N)
+barracoon	noun	barracoon|barracoon|R|N
+barramunda	noun	barramunda|barramunda|R|N
+barramundi	noun	barramundi|barramundi|R|N
+barrator	noun	barrator|barrator|R|N
+barratrous	adj	barratrous|barratrous|R|Adj
+barratrously	adv	barratrous|barratrous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+barratry	noun	barratry|barratry|R|N
+barrelled	verb	barrel|barrell|R|V ; -ed|ed|I||-ed (v2)
+barrellike	adj	barrel|barrel|R|N ; -like|like|S
+barrelmaker	noun	barrel|barrel|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+barrener	adj	barren|barren|R|Adj ; -er|er|I||-er (comparative)
+barretter	noun	barretter|barretter|R|N
+barricader	noun	barricade|barricad|R|V ; -er|er|S||-er (N)
+bars	noun	bar|bar|R|N ; -s|s|I||-s (plural)
+barse	noun	barse|barse|R|N
+barterer	noun	barter|barter|R|V ; -er|er|S||-er (N)
+barycenter	noun	barycenter|barycenter|R|N
+barycentre	noun	barycentre|barycentre|R|N
+barycentric	adj	barycentric|barycentric|R|Adj
+baryonic	adj	baryonic|baryonic|R|Adj
+baryta	noun	baryta|baryta|R|N
+basally	adv	basal|basal|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+bascinet	noun	bascinet|bascinet|R|N
+bascule	noun	bascule|bascule|R|N
+baseballer	noun	base|base|R|N ; ball|ball|R|N ; -er|er|S||-er (N)
+baseband	noun	base|base|R|N ; band|band|R|N
+baseborn	adj	base|base|R|N ; born|born|R|Adj
+based	verb	base|bas|R|V ; -ed|ed|I||-ed (v2)
+basely	adv	base|base|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+baserunner	noun	base|base|R|N ; run|runn|R|V ; -er|er|S||-er (N)
+bashaw	noun	bashaw|bashaw|R|N
+bashfulness	noun	bash|bash|R|V ; -ful|ful|S ; -ness|ness|S
+bashlyk	noun	bashlyk|bashlyk|R|N
+basicity	noun	basic|basic|R|Adj ; -ity|ity|S
+basidial	adj	basidial|basidial|R|Adj
+basidiomycete	noun	basidiomycete|basidiomycete|R|N
+basidiospore	noun	basidiospore|basidiospore|R|N
+basidium	noun	basidium|basidium|R|N
+basilect	noun	basilect|basilect|R|N
+basileiolatry	noun	basileiolatry|basileiolatry|R|N
+basilic	adj	basilic|basilic|R|Adj
+basinal	adj	basin|basin|R|N ; -al|al|S
+basinful	noun	basin|basin|R|N ; -ful|ful|S
+basion	noun	basion|basion|R|N
+basionym	noun	basionym|basionym|R|N
+basipetal	adj	basipetal|basipetal|R|Adj
+basketmaker	noun	basket|basket|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+basketweaver	noun	basket|basket|R|N ; weave|weav|R|V ; -er|er|S||-er (N)
+basmala	noun	basmala|basmala|R|N
+basophil	noun	basophil|basophil|R|N
+basophilic	adj	basophilic|basophilic|R|Adj
+basque	noun	basque|basque|R|N
+basser	noun	bass|bass|R|N ; -er|er|S||-er (N)
+bassline	noun	bass|bass|R|N ; line|line|R|N
+basta	interj	basta|basta|R
+bastardizing	verb	bastard|bastard|R|N ; -ize|iz|S ; -ing|ing|I||-ing (v)
+bastardly	adj	bastard|bastard|R|N ; -ly|ly|S||-ly (adj)
+basted	verb	baste|bast|R|V ; -ed|ed|I||-ed (v2)
+bastinado	noun	bastinado|bastinado|R|N
+batata	noun	batata|batata|R|N
+batchim	noun	batchim|batchim|R|N
+bateleur	noun	bateleur|bateleur|R|N
+bathed	verb	bathe|bath|R|V ; -ed|ed|I||-ed (v2)
+bathometer	noun	bathometer|bathometer|R|N
+baths	noun	bath|bath|R|N ; -s|s|I||-s (plural)
+bathyal	adj	bathyal|bathyal|R|Adj
+bathymetric	adj	bathymetric|bathymetric|R|Adj
+bathymetrically	adv	bathymetric|bathymetric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+bathymetry	noun	bathymetry|bathymetry|R|N
+bathypelagic	adj	bathypelagic|bathypelagic|R|Adj
+bathyscaphe	noun	bathyscaphe|bathyscaphe|R|N
+bathysphere	noun	bathysphere|bathysphere|R|N
+batiste	noun	batiste|batiste|R|N
+batrachian	noun	batrachian|batrachian|R|N
+bats	noun	bat|bat|R|N ; -s|s|I||-s (plural)
+batshit	adj	bat|bat|R|N ; shit|shit|R|N
+battening	verb	batten|batten|R|V ; -ing|ing|I||-ing (v)
+battiness	noun	bat|bat|R|N ; -y|ti|S ; -ness|ness|S
+battlecraft	noun	battle|battle|R|N ; craft|craft|R|N
+battlecruiser	noun	battle|battle|R|N ; cruise|cruis|R|V ; -er|er|S||-er (N)
+battled	verb	battle|battl|R|V ; -ed|ed|I||-ed (v2)
+battledore	noun	battledore|battledore|R|N
+battleplan	noun	battle|battle|R|N ; plan|plan|R|N
+battue	noun	battue|battue|R|N
+bauhinia	noun	bauhinia|bauhinia|R|N
+bauxitic	adj	bauxite|bauxit|R|N ; -ic|ic|S
+bavarois	noun	bavarois|bavarois|R|N
+bawbee	noun	bawbee|bawbee|R|N
+bawdily	adv	bawd|bawd|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+bawdiness	noun	bawd|bawd|R|N ; -y|i|S ; -ness|ness|S
+bawler	noun	bawl|bawl|R|V ; -er|er|S||-er (N)
+bayan	noun	bayan|bayan|R|N
+bayoneting	verb	bayonet|bayonet|R|V ; -ing|ing|I||-ing (v)
+bdellium	noun	bdellium|bdellium|R|N
+beachgoer	noun	beach|beach|R|N ; go|go|R|V ; -er|er|S||-er (N)
+beaching	verb	beach|beach|R|V ; -ing|ing|I||-ing (v)
+beachwear	noun	beach|beach|R|N ; wear|wear|R|V
+beadledom	noun	beadle|beadle|R|N ; -dom|dom|S
+beads	noun	bead|bead|R|N ; -s|s|I||-s (plural)
+beakhead	noun	beak|beak|R|N ; head|head|R|N
+beaksedge	noun	beak|beak|R|N ; sedge|sedge|R|N
+beamwidth	noun	beam|beam|R|N ; width|width|R|N
+beaner	noun	bean|bean|R|N ; -er|er|S||-er (N)
+beanery	noun	bean|bean|R|N ; -ery|ery|S
+beanlike	adj	bean|bean|R|N ; -like|like|S
+beano	noun	beano|beano|R|N
+beans	noun	bean|bean|R|N ; -s|s|I||-s (plural)
+bearberry	noun	bear|bear|R|N ; berry|berry|R|N
+bearding	verb	beard|beard|R|V ; -ing|ing|I||-ing (v)
+beardlessness	noun	beard|beard|R|N ; -less|less|S ; -ness|ness|S
+beardline	noun	beard|beard|R|N ; line|line|R|N
+bearishness	noun	bear|bear|R|N ; -ish|ish|S ; -ness|ness|S
+bearleader	noun	bear|bear|R|N ; lead|lead|R|V ; -er|er|S||-er (N)
+beatbox	noun	beat|beat|R|V ; box|box|R|N
+beatified	verb	beatify|beatifi|R|V ; -ed|ed|I||-ed (v2)
+beats	noun	beat|beat|R|N ; -s|s|I||-s (plural)
+beautified	verb	beautify|beautifi|R|V ; -ed|ed|I||-ed (v2)
+beautifier	noun	beautify|beautifi|R|V ; -er|er|S||-er (N)
+beautifulness	noun	beauty|beauti|R|N ; -ful|ful|S ; -ness|ness|S
+beautifying	verb	beautify|beautify|R|V ; -ing|ing|I||-ing (v)
+becloud	verb	be-|be|P ; cloud|cloud|R|V
+beclouding	verb	be-|be|P ; cloud|cloud|R|V ; -ing|ing|I||-ing (v)
+becquerel	noun	becquerel|becquerel|R|N
+bedabble	verb	be-|be|P ; dabble|dabble|R|V
+bedaub	verb	be-|be|P ; daub|daub|R|V
+bedboard	noun	bed|bed|R|N ; board|board|R|N
+bedclothes	noun	bed|bed|R|N ; cloth|cloth|R|N ; -es|es|I||-s (plural)
+bedder	noun	bed|bedd|R|N ; -er|er|S||-er (N)
+bedecked	verb	be-|be|P ; deck|deck|R|V ; -ed|ed|I||-ed (v2)
+bedecking	verb	be-|be|P ; deck|deck|R|V ; -ing|ing|I||-ing (v)
+bedel	noun	bedel|bedel|R|N
+bedevilling	verb	be-|be|P ; devil|devill|R|V ; -ing|ing|I||-ing (v)
+bedevilment	noun	be-|be|P ; devil|devil|R|V ; -ment|ment|S
+bedew	verb	be-|be|P ; dew|dew|R|N
+bedgown	noun	bed|bed|R|N ; gown|gown|R|N
+bedim	verb	be-|be|P ; dim|dim|R|Adj
+bedizen	verb	be-|be|P ; dizen|dizen|R|V
+bedizened	verb	be-|be|P ; dizen|dizen|R|V ; -ed|ed|I||-ed (v2)
+bedjacket	noun	bed|bed|R|N ; jacket|jacket|R|N
+bedmate	noun	bed|bed|R|N ; mate|mate|R|N
+bedraggle	verb	be-|be|P ; draggle|draggle|R|V
+bedriddenness	noun	bedridden|bedridden|R|Adj ; -ness|ness|S

@@ -1,0 +1,200 @@
+ubiquitarian	noun	ubiquity|ubiquit|R|N ; -ian|arian|S
+ubiquitarianism	noun	ubiquity|ubiquit|R|N ; -ian|arian|S ; -ism|ism|S
+ubiquitary	adj	ubiquity|ubiquit|R|N ; -ary|ary|S
+ubiquitin	noun	ubiquitin|ubiquitin|R|N
+ubiquitousness	noun	ubiquitous|ubiquitous|R|Adj ; -ness|ness|S
+ubuntu	noun	ubuntu|ubuntu|R|N
+uchronia	noun	uchronia|uchronia|R|N
+udarnik	noun	udarnik|udarnik|R|N
+uddered	adj	udder|udder|R|N ; -ed|ed|S||-ed (adj)
+udometer	noun	udometer|udometer|R|N
+udometric	adj	udometric|udometric|R|N
+udometry	noun	udometry|udometry|R|N
+ufo	noun	ufo|ufo|R|N
+ufological	adj	ufology|ufolog|R|N ; -ical|ical|S
+ufologist	noun	ufology|ufolog|R|N ; -ist|ist|S
+ufology	noun	ufology|ufology|R|N
+ugali	noun	ugali|ugali|R|N
+ugli	noun	ugli|ugli|R|N
+uglification	noun	ugly|ugli|R|Adj ; -ify|fi|S ; -ation|cation|S
+uglifier	noun	ugly|ugli|R|Adj ; -ify|fi|S ; -er|er|S||-er (N)
+uglify	verb	ugly|ugli|R|Adj ; -ify|fy|S
+uglily	adv	ugly|ugli|R|Adj ; -ly|ly|I||-ly (adv)
+uhlan	noun	uhlan|uhlan|R|N
+ukase	noun	ukase|ukase|R|N
+ukha	noun	ukha|ukha|R|N
+ukulelist	noun	ukulele|ukulel|R|N ; -ist|ist|S
+ulcerate	verb	ulcer|ulcer|R|N ; -ate|ate|S
+ulcered	adj	ulcer|ulcer|R|N ; -ed|ed|S||-ed (adj)
+ulcerous	adj	ulcer|ulcer|R|N ; -ous|ous|S
+ulcerously	adv	ulcer|ulcer|R|N ; -ous|ous|S ; -ly|ly|I||-ly (adv)
+ulcerousness	noun	ulcer|ulcer|R|N ; -ous|ous|S ; -ness|ness|S
+ulexite	noun	ulex|ulex|R|N ; -ite|ite|S
+uliginal	adj	uliginal|uliginal|R|N
+uliginous	adj	uliginous|uliginous|R|N
+ullage	noun	ullage|ullage|R|N
+ullaged	verb	ullage|ullag|R|N ; -ed|ed|I||-ed (v2)
+ullmannite	noun	ullmannite|ullmannite|R|N
+ulmin	noun	ulmin|ulmin|R|N
+ult	noun	ult|ult|R|N
+ulteriorly	adv	ulterior|ulterior|R|Adj ; -ly|ly|I||-ly (adv)
+ultimo	adv	ultimo|ultimo|R|N
+ultimogeniture	noun	ultimogeniture|ultimogeniture|R|N
+ultracentrifugal	adj	ultra|ultra|R|Adj ; centrifugal|centrifugal|R|Adj
+ultracentrifugally	adv	ultra|ultra|R|Adj ; centrifugal|centrifugal|R|Adj ; -ly|ly|I||-ly (adv)
+ultracentrifuge	noun	ultra|ultra|R|Adj ; centrifuge|centrifuge|R|N
+ultraconservatism	noun	ultra|ultra|R|Adj ; conservative|conservat|R|Adj ; -ism|ism|S
+ultracrepidarianism	noun	ultracrepidarianism|ultracrepidarianism|R|N
+ultrafiltrate	noun	ultra|ultra|R|Adj ; filter|filtr|R|V ; -ate|ate|S
+ultrafiltration	noun	ultra|ultra|R|Adj ; filter|filtr|R|V ; -ation|ation|S
+ultraism	noun	ultra|ultra|R|N ; -ism|ism|S
+ultraist	noun	ultra|ultra|R|N ; -ist|ist|S
+ultraliberal	adj	ultra|ultra|R|Adj ; liberal|liberal|R|Adj
+ultramarathon	noun	ultra|ultra|R|Adj ; marathon|marathon|R|N
+ultramarathoner	noun	ultra|ultra|R|Adj ; marathon|marathon|R|N ; -er|er|S||-er (N)
+ultramicroscope	noun	ultra|ultra|R|Adj ; microscope|microscope|R|N
+ultramicroscopic	adj	ultra|ultra|R|Adj ; microscope|microscop|R|N ; -ic|ic|S
+ultramicroscopy	noun	ultra|ultra|R|Adj ; microscope|microscop|R|N ; -y|y|S
+ultramodernism	noun	ultra|ultra|R|Adj ; modern|modern|R|Adj ; -ism|ism|S
+ultramodernist	noun	ultra|ultra|R|Adj ; modern|modern|R|Adj ; -ist|ist|S
+ultramodernistic	adj	ultra|ultra|R|Adj ; modern|modern|R|Adj ; -ist|ist|S ; -ic|ic|S
+ultramontane	adj	ultra|ultra|R|Adj ; montane|montane|R|Adj
+ultramontanism	noun	ultra|ultra|R|Adj ; montane|montan|R|Adj ; -ism|ism|S
+ultramontanist	noun	ultra|ultra|R|Adj ; montane|montan|R|Adj ; -ist|ist|S
+ultramundane	adj	ultra|ultra|R|Adj ; mundane|mundane|R|Adj
+ultranationalism	noun	ultra|ultra|R|Adj ; nation|nation|R|N ; -al|al|S ; -ism|ism|S
+ultranationalist	noun	ultra|ultra|R|Adj ; nation|nation|R|N ; -al|al|S ; -ist|ist|S
+ultrarelativistic	adj	ultra|ultra|R|Adj ; relative|relativ|R|Adj ; -ic|istic|S
+ultraright	noun	ultra|ultra|R|Adj ; right|right|R|N
+ultrashort	adj	ultra|ultra|R|Adj ; short|short|R|Adj
+ultrasonically	adv	ultrasonic|ultrasonic|R|Adj ; -al|al|S ; -ly|ly|I||-ly (adv)
+ultrasonics	noun	ultrasonics|ultrasonics|R|N
+ultraspherical	adj	ultra|ultra|R|Adj ; sphere|spher|R|N ; -ical|ical|S
+ultrastructure	noun	ultra|ultra|R|Adj ; structure|structure|R|N
+ulu	noun	ulu|ulu|R|N
+ululant	adj	ululate|ulul|R|V ; -ant|ant|S
+ululating	verb	ululate|ululat|R|V ; -ing|ing|I||-ing (v)
+ulva	noun	ulva|ulva|R|N
+umami	noun	umami|umami|R|N
+umbella	noun	umbella|umbella|R|N
+umbellar	adj	umbel|umbell|R|N ; -ar|ar|S
+umbellate	adj	umbel|umbell|R|N ; -ate|ate|S
+umbellately	adv	umbel|umbell|R|N ; -ate|ate|S ; -ly|ly|I||-ly (adv)
+umbellifer	noun	umbellifer|umbellifer|R|N
+umbelliferous	adj	umbelliferous|umbelliferous|R|N
+umbelliform	adj	umbelliform|umbelliform|R|N
+umbilicate	adj	umbilicus|umbilic|R|N ; -ate|ate|S
+umbilication	noun	umbilicus|umbilic|R|N ; -ation|ation|S
+umbiliform	adj	umbiliform|umbiliform|R|N
+umbo	noun	umbo|umbo|R|N
+umbonal	adj	umbo|umbon|R|N ; -al|al|S
+umbrageous	adj	umbrage|umbrage|R|N ; -ous|ous|S
+umbrageously	adv	umbrage|umbrage|R|N ; -ous|ous|S ; -ly|ly|I||-ly (adv)
+umbrageousness	noun	umbrage|umbrage|R|N ; -ous|ous|S ; -ness|ness|S
+umbrellaless	adj	umbrella|umbrella|R|N ; -less|less|S
+umbriferous	adj	umbriferous|umbriferous|R|N
+ume	noun	ume|ume|R|N
+umeshu	noun	umeshu|umeshu|R|N
+umiak	noun	umiak|umiak|R|N
+umlaut	noun	umlaut|umlaut|R|N
+umpireship	noun	umpire|umpire|R|N ; -ship|ship|S
+umptieth	adj	umpteen|umpti|R ; -eth|eth|S
+umrah	noun	umrah|umrah|R|N
+unabatedly	adv	un-|un|P ; abate|abat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unabating	adj	un-|un|P ; abate|abat|R|V ; -ing|ing|S||-ing (adj)
+unabbreviated	adj	un-|un|P ; abbreviate|abbreviat|R|V ; -ed|ed|S||-ed (adj)
+unabetted	adj	un-|un|P ; abet|abett|R|V ; -ed|ed|S||-ed (adj)
+unabiding	adj	un-|un|P ; abide|abid|R|V ; -ing|ing|S||-ing (adj)
+unabolished	adj	un-|un|P ; abolish|abolish|R|V ; -ed|ed|S||-ed (adj)
+unabrogated	adj	un-|un|P ; abrogate|abrogat|R|V ; -ed|ed|S||-ed (adj)
+unabsolved	adj	un-|un|P ; absolve|absolv|R|V ; -ed|ed|S||-ed (adj)
+unabsorbable	adj	un-|un|P ; absorb|absorb|R|V ; -able|able|S
+unabsorbed	adj	un-|un|P ; absorb|absorb|R|V ; -ed|ed|S||-ed (adj)
+unabsorbent	adj	un-|un|P ; absorb|absorb|R|V ; -ent|ent|S
+unacademic	adj	un-|un|P ; academic|academic|R|Adj
+unaccentuated	adj	un-|un|P ; accentuate|accentuat|R|V ; -ed|ed|S||-ed (adj)
+unacceptability	noun	un-|un|P ; accept|accept|R|V ; -able|abil|S ; -ity|ity|S
+unaccepted	adj	un-|un|P ; accept|accept|R|V ; -ed|ed|S||-ed (adj)
+unacclimated	adj	un-|un|P ; acclimate|acclimat|R|V ; -ed|ed|S||-ed (adj)
+unacclimatized	adj	un-|un|P ; acclimate|acclimat|R|V ; -ize|iz|S ; -ed|ed|S||-ed (adj)
+unaccommodated	adj	un-|un|P ; accommodate|accommodat|R|V ; -ed|ed|S||-ed (adj)
+unaccommodating	adj	un-|un|P ; accommodate|accommodat|R|V ; -ing|ing|S||-ing (adj)
+unaccomplished	adj	un-|un|P ; accomplish|accomplish|R|V ; -ed|ed|S||-ed (adj)
+unaccordant	adj	un-|un|P ; accord|accord|R|V ; -ant|ant|S
+unaccorded	adj	un-|un|P ; accord|accord|R|V ; -ed|ed|S||-ed (adj)
+unaccountability	noun	un-|un|P ; account|account|R|V ; -able|abil|S ; -ity|ity|S
+unaccountableness	noun	un-|un|P ; account|account|R|V ; -able|able|S ; -ness|ness|S
+unaccustomedly	adv	un-|un|P ; accustom|accustom|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unaccustomedness	noun	un-|un|P ; accustom|accustom|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unacquaintance	noun	un-|un|P ; acquaint|acquaint|R|V ; -ance|ance|S
+unacquirable	adj	un-|un|P ; acquire|acquir|R|V ; -able|able|S
+unacquired	adj	un-|un|P ; acquire|acquir|R|V ; -ed|ed|S||-ed (adj)
+unactable	adj	un-|un|P ; act|act|R|V ; -able|able|S
+unacted	adj	un-|un|P ; act|act|R|V ; -ed|ed|S||-ed (adj)
+unactive	adj	un-|un|P ; active|active|R|Adj
+unadaptable	adj	un-|un|P ; adapt|adapt|R|V ; -able|able|S
+unadapted	adj	un-|un|P ; adapt|adapt|R|V ; -ed|ed|S||-ed (adj)
+unadjudged	adj	un-|un|P ; adjudge|adjudg|R|V ; -ed|ed|S||-ed (adj)
+unadmirable	adj	un-|un|P ; admire|admir|R|V ; -able|able|S
+unadmired	adj	un-|un|P ; admire|admir|R|V ; -ed|ed|S||-ed (adj)
+unadmiring	adj	un-|un|P ; admire|admir|R|V ; -ing|ing|S||-ing (adj)
+unadmitted	adj	un-|un|P ; admit|admitt|R|V ; -ed|ed|S||-ed (adj)
+unadopted	adj	un-|un|P ; adopt|adopt|R|V ; -ed|ed|S||-ed (adj)
+unadvanced	adj	un-|un|P ; advance|advanc|R|V ; -ed|ed|S||-ed (adj)
+unadvertised	adj	un-|un|P ; advertise|advertis|R|V ; -ed|ed|S||-ed (adj)
+unadvisable	adj	un-|un|P ; advise|advis|R|V ; -able|able|S
+unadvised	adj	un-|un|P ; advise|advis|R|V ; -ed|ed|S||-ed (adj)
+unadvisedly	adv	un-|un|P ; advise|advis|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unadvisedness	noun	un-|un|P ; advise|advis|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unaesthetic	adj	un-|un|P ; aesthetic|aesthetic|R|Adj
+unaffable	adj	un-|un|P ; affable|affable|R|Adj
+unaffectedly	adv	un-|un|P ; affect|affect|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unaffectedness	noun	un-|un|P ; affect|affect|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+unafraid	adj	un-|un|P ; afraid|afraid|R|Adj
+unaggressive	adj	un-|un|P ; aggressive|aggressive|R|Adj
+unagreeable	adj	un-|un|P ; agree|agree|R|V ; -able|able|S
+unaimed	adj	un-|un|P ; aim|aim|R|V ; -ed|ed|S||-ed (adj)
+unaired	adj	un-|un|P ; air|air|R|N ; -ed|ed|S||-ed (adj)
+unalarmed	adj	un-|un|P ; alarm|alarm|R|V ; -ed|ed|S||-ed (adj)
+unalarming	adj	un-|un|P ; alarm|alarm|R|V ; -ing|ing|S||-ing (adj)
+unalive	adj	un-|un|P ; alive|alive|R|Adj
+unallayed	adj	un-|un|P ; allay|allay|R|V ; -ed|ed|S||-ed (adj)
+unalleviated	adj	un-|un|P ; alleviate|alleviat|R|V ; -ed|ed|S||-ed (adj)
+unallotted	adj	un-|un|P ; allot|allott|R|V ; -ed|ed|S||-ed (adj)
+unallowable	adj	un-|un|P ; allow|allow|R|V ; -able|able|S
+unallowed	adj	un-|un|P ; allow|allow|R|V ; -ed|ed|S||-ed (adj)
+unalloyedly	adv	un-|un|P ; alloy|alloy|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unalluring	adj	un-|un|P ; allure|allur|R|V ; -ing|ing|S||-ing (adj)
+unalphabeted	adj	un-|un|P ; alphabet|alphabet|R|N ; -ed|ed|S||-ed (adj)
+unalter	verb	un-|un|P ; alter|alter|R|V
+unalterability	noun	un-|un|P ; alter|alter|R|V ; -able|abil|S ; -ity|ity|S
+unalterableness	noun	un-|un|P ; alter|alter|R|V ; -able|able|S ; -ness|ness|S
+unamazed	adj	un-|un|P ; amaze|amaz|R|V ; -ed|ed|S||-ed (adj)
+unambiguity	noun	un-|un|P ; ambiguous|ambigu|R|Adj ; -ity|ity|S
+unambition	noun	un-|un|P ; ambition|ambition|R|N
+unambitiousness	noun	un-|un|P ; ambitious|ambitious|R|Adj ; -ness|ness|S
+unamenable	adj	un-|un|P ; amenable|amenable|R|Adj
+unamendable	adj	un-|un|P ; amend|amend|R|V ; -able|able|S
+unamended	adj	un-|un|P ; amend|amend|R|V ; -ed|ed|S||-ed (adj)
+unamiability	noun	un-|un|P ; amiable|amiabil|R|Adj ; -ity|ity|S
+unamiable	adj	un-|un|P ; amiable|amiable|R|Adj
+unamiableness	noun	un-|un|P ; amiable|amiable|R|Adj ; -ness|ness|S
+unamusing	adj	un-|un|P ; amuse|amus|R|V ; -ing|ing|S||-ing (adj)
+unanalysable	adj	un-|un|P ; analyse|analys|R|V ; -able|able|S
+unanchor	verb	un-|un|P ; anchor|anchor|R|V
+unanchored	adj	un-|un|P ; anchor|anchor|R|V ; -ed|ed|S||-ed (adj)
+unanimated	adj	un-|un|P ; animate|animat|R|V ; -ed|ed|S||-ed (adj)
+unanimousness	noun	unanimous|unanimous|R|Adj ; -ness|ness|S
+unannealed	adj	un-|un|P ; anneal|anneal|R|V ; -ed|ed|S||-ed (adj)
+unannotated	adj	un-|un|P ; annotate|annotat|R|V ; -ed|ed|S||-ed (adj)
+unannoyed	adj	un-|un|P ; annoy|annoy|R|V ; -ed|ed|S||-ed (adj)
+unanointed	adj	un-|un|P ; anoint|anoint|R|V ; -ed|ed|S||-ed (adj)
+unanswerability	noun	un-|un|P ; answer|answer|R|V ; -able|abil|S ; -ity|ity|S
+unanswerableness	noun	un-|un|P ; answer|answer|R|V ; -able|able|S ; -ness|ness|S
+unanswerably	adv	un-|un|P ; answer|answer|R|V ; -able|abl|S ; -ly|y|I||-ly (adv)
+unanticipatedly	adv	un-|un|P ; anticipate|anticipat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I||-ly (adv)
+unapocryphal	adj	un-|un|P ; apocryphal|apocryphal|R|Adj
+unappalled	adj	un-|un|P ; appal|appall|R|V ; -ed|ed|S||-ed (adj)
+unapparelled	adj	un-|un|P ; apparel|apparell|R|N ; -ed|ed|S||-ed (adj)
+unapparent	adj	un-|un|P ; apparent|apparent|R|Adj
+unappealable	adj	un-|un|P ; appeal|appeal|R|V ; -able|able|S

@@ -1,0 +1,150 @@
+skier	noun	=
+reverend	noun	rever|rever|B|V|||Latin revereri 'to respect' ; -end|end|S||||Latin -endus 'to be'
+coral	noun	=
+delete	verb	de-|de|P||||Latin de- 'away' ; -lete|lete|B|V|||Latin delere 'to destroy'
+cellular	adj	=
+excellence	noun	=
+recycle	verb	=
+feminine	adj	femin|femin|B|N|||Latin femina 'woman' ; -ine|ine|S||||Latin -inus 'relating to'
+symphony	noun	sym-|sym|P||||Greek syn- 'together' ; -phon-|phon|B|N|||Greek phone 'sound' ; -y|y|S||||Greek -ia 'state'
+tuition	noun	tu|tu|B|V|||Latin tueri 'to guard' ; -ition|ition|S||||Latin -itio 'action, process'
+destructive	adj	=
+absorption	noun	=
+governmental	adj	=
+inhibition	noun	=
+accumulation	noun	=
+niche	noun	=
+terrify	verb	terr|terr|B|V|||Latin terrere 'to frighten' ; -ify|ify|S||||Latin -ificare 'to make'
+vegetation	noun	=
+monarchy	noun	mon-|mon|P||||Greek monos 'only' ; -arch|arch|B|N|||Greek arkhe 'rule, power' ; -y|y|S||||Greek -ia 'state'
+fascinate	verb	=
+default	noun	=
+generator	noun	=
+adjective	noun	ad-|ad|P||||Latin ad- 'to' ; -ject-|ject|B|V|||Latin iacere 'to throw' ; -ive|ive|S||||Latin -ivus 'tending to'
+corrupt	verb	cor-|cor|P||||Latin com- 'together' ; -rupt|rupt|B|V|||Latin rumpere 'to break'
+hemisphere	noun	=
+nucleus	noun	=
+heroin	noun	=
+geological	adj	geo-|geo|B|N|||Greek ge 'earth' ; -log-|log|B|N|||Greek logos 'study, word' ; -ical|ical|S||||Latin -alis 'relating to'
+cone	noun	=
+nationalist	noun	=
+theorist	noun	=
+transparent	adj	trans-|trans|P||||Latin trans- 'across' ; -par-|par|B|V|||Latin parere 'to appear' ; -ent|ent|S||||Latin -ens 'present participle'
+velocity	noun	veloc|veloc|B|Adj|||Latin velox 'fast' ; -ity|ity|S||||Latin -itas 'state, quality'
+aviation	noun	avi-|avi|B|N|||Latin avis 'bird' ; -ation|ation|S||||Latin -atio 'action, process'
+maximize	verb	=
+hectare	noun	hect-|hect|B|N|||Greek hekaton 'hundred' ; -are|are|B|N|||French are 'unit'
+grammatical	adj	=
+plasma	noun	=
+vector	noun	=
+conductor	noun	=
+receptor	noun	=
+aquarium	noun	aqu|aqu|B|N|||Latin aqua 'water' ; -arium|arium|S||||Latin -arium 'place'
+secretion	noun	=
+melissa	noun	=
+exaggerate	noun	=
+manifest	adj	=
+distort	verb	dis-|dis|P||||Latin dis- 'apart' ; -tort|tort|B|V|||Latin torquere 'to twist'
+sophomore	noun	=
+revert	verb	re-|re|P||||Latin re- 'back' ; -vert|vert|B|V|||Latin vertere 'to turn'
+align	verb	=
+idiot	noun	idi|idi|B|Adj|||Greek idios 'private' ; -ot|ot|S||||Greek -otes 'one who'
+precaution	noun	pre-|pre|P||||Latin prae 'before' ; -caut-|caut|B|Adj|||Latin cavere 'to guard' ; -ion|ion|S||||Latin -io 'action, state'
+skeleton	noun	=
+diner	noun	=
+urgency	noun	=
+artery	noun	=
+tense	adj	=
+curator	noun	cur|cur|B|N|||Latin cura 'care' ; -ator|ator|S||||Latin -ator 'agent'
+correction	noun	=
+inferior	adj	infer|infer|B|Adj|||Latin inferus 'below' ; -ior|ior|S||||Latin -ior 'more'
+grower	noun	=
+humble	adj	humb|humb|B|Adj|||Latin humilis 'low' ; -le|le|S||||Latin -ilis 'relating to'
+fishery	noun	=
+audio	noun	=
+deter	verb	de-|de|P||||Latin de- 'from' ; -ter|ter|B|V|||Latin terrere 'to frighten'
+coefficient	noun	=
+cosmic	adj	=
+disperse	verb	dis-|dis|P||||Latin dis- 'apart' ; -perse|perse|B|V||sparg|Latin spargere 'to scatter'
+ponder	verb	=
+complicate	verb	com-|com|P||||Latin com- 'together' ; -plic-|plic|B|V|||Latin plicare 'to fold' ; -ate|ate|S||||Latin -atus 'made, having'
+sanctuary	noun	=
+denounce	verb	de-|de|P||||Latin de- 'from' ; -nounce|nounce|B|V|||Latin nuntiare 'to announce'
+ascertain	verb	=
+expel	verb	ex-|ex|P||||Latin ex- 'out' ; -pel|pel|B|V|||Latin pellere 'to drive'
+clerical	adj	=
+credible	adj	cred|cred|B|V|||Latin credere 'to believe' ; -ible|ible|S||||Latin -ibilis 'able to be'
+pedestrian	noun	=
+tuna	noun	=
+signify	verb	=
+decay	verb	de-|de|P||||Latin de- 'away' ; -cay|cay|B|V||cad|Latin cadere 'to fall'
+hostel	noun	=
+cereal	noun	=
+gallon	noun	=
+memorable	adj	memor|memor|B|N|||Latin memor 'mindful' ; -able|able|S||||Latin -abilis 'able to be'
+congratulate	verb	=
+prostitute	noun	pro-|pro|P||||Latin pro 'before' ; -stit-|stit|B|V|||Latin statuere 'to set up' ; -ute|ute|S||||Latin -utus 'having been'
+clove	noun	=
+notorious	adj	not|not|B|V|||Latin notus 'known' ; -orious|orious|S||||Latin -orius 'relating to'
+elevate	verb	=
+cellar	noun	=
+shopper	noun	=
+monastery	noun	=
+procession	noun	=
+royalty	noun	=
+honourable	adj	=
+circus	noun	=
+infinite	adj	=
+rationale	noun	=
+apprentice	noun	ap-|ap|P||||Latin ad- 'to' ; -prent-|prent|B|V||prehend|Latin prehendere 'to seize' ; -ice|ice|S||||Latin -icius 'one who'
+inhabit	verb	in-|in|P||||Latin in- 'in' ; -habit|habit|B|V|||Latin habitare 'to dwell'
+pigeon	noun	=
+hospitality	noun	hospit|hospit|B|N|||Latin hospes 'host' ; -ality|ality|S||||Latin -alitas 'state, quality'
+injustice	noun	=
+dentist	noun	=
+excerpt	noun	ex-|ex|P||||Latin ex- 'out' ; -cerpt|cerpt|B|V|||Latin carpere 'to pick'
+miniature	noun	mini|mini|B|N|||Latin minium 'red lead' ; -ature|ature|S||||Latin -atura 'action, result'
+insurer	noun	=
+solitary	adj	=
+coordination	noun	co-|co|P||||Latin com- 'together' ; -ordin-|ordin|B|N|||Latin ordo 'order' ; -ation|ation|S||||Latin -atio 'action, process'
+jewel	noun	=
+slogan	noun	=
+buffalo	noun	=
+perch	noun	=
+disposition	noun	dis-|dis|P||||Latin dis- 'apart' ; -pos-|pos|B|V||pon|Latin ponere 'to put' ; -ition|ition|S||||Latin -itio 'action, process'
+beneficiary	noun	bene-|bene|P||||Latin bene 'well' ; -fic-|fic|B|V|||Latin facere 'to do' ; -iary|iary|S||||Latin -arius 'relating to'
+mold	noun	=
+addict	noun	ad-|ad|P||||Latin ad- 'to' ; -dict|dict|B|V|||Latin dicere 'to say'
+siege	noun	=
+cushion	noun	=
+dial	noun	=
+mustard	noun	=
+villager	noun	=
+bailey	noun	=
+continuation	noun	=
+airway	noun	=
+naive	adj	=
+decorative	adj	=
+compartment	noun	=
+fracture	noun	fract|fract|B|V|||Latin frangere 'to break' ; -ure|ure|S||||Latin -ura 'action, result'
+prose	noun	=
+quilt	noun	=
+omission	noun	o-|o|P||||Latin ob- 'against' ; -miss-|miss|B|V||mit|Latin mittere 'to send' ; -ion|ion|S||||Latin -io 'action, state'
+pyramid	noun	=
+bachelor	noun	=
+tomb	noun	=
+victor	noun	=
+detection	noun	=
+detention	noun	de-|de|P||||Latin de- 'away' ; -tent|tent|B|V|||Latin tenere 'to hold' ; -ion|ion|S||||Latin -io 'action, state'
+consolidate	verb	=
+descendant	noun	=
+seasonal	adj	=
+denote	verb	=
+pumpkin	noun	=
+imitate	verb	imit|imit|B|V|||Latin imitari 'to copy' ; -ate|ate|S||||Latin -atus 'made, having'
+velvet	noun	=
+manifestation	noun	=
+compost	noun	=
+domination	noun	=
+stereo	noun	=
+lethal	adj	leth|leth|B|N|||Latin letum 'death' ; -al|al|S||||Latin -alis 'relating to'

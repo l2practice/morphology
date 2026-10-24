@@ -1,0 +1,200 @@
+osteal	adj	osteal|osteal|R|Adj
+osteitis	noun	osteitis|osteitis|R|N
+ostensibility	noun	ostensible|ostensibil|R|Adj ; -ity|ity|S
+ostensive	adj	ostensive|ostensive|R|Adj
+ostensorium	noun	ostensorium|ostensorium|R|N
+ostensory	adj	ostensory|ostensory|R|Adj
+osteoarthritic	adj	osteoarthritic|osteoarthritic|R|Adj
+osteoblast	noun	osteoblast|osteoblast|R|N
+osteoblastic	adj	osteoblast|osteoblast|R|N ; -ic|ic|S
+osteochondral	adj	osteochondral|osteochondral|R|Adj
+osteochondrodysplasia	noun	osteochondrodysplasia|osteochondrodysplasia|R|N
+osteochondrosis	noun	osteochondrosis|osteochondrosis|R|N
+osteoclasis	noun	osteoclasis|osteoclasis|R|N
+osteoclast	noun	osteoclast|osteoclast|R|N
+osteocranium	noun	osteocranium|osteocranium|R|N
+osteocyte	noun	osteocyte|osteocyte|R|N
+osteodentine	noun	osteodentine|osteodentine|R|N
+osteogenetic	adj	osteogenesis|osteogenet|R|N ; -ic|ic|S
+osteogeny	noun	osteogeny|osteogeny|R|N
+osteoid	noun	osteoid|osteoid|R|N
+osteolite	noun	osteolite|osteolite|R|N
+osteological	adj	osteology|osteolog|R|N ; -ical|ical|S
+osteologist	noun	osteology|osteolog|R|N ; -ist|ist|S
+osteology	noun	osteology|osteology|R|N
+osteoma	noun	osteoma|osteoma|R|N
+osteomalacia	noun	osteomalacia|osteomalacia|R|N
+osteopenia	noun	osteopenia|osteopenia|R|N
+osteophyte	noun	osteophyte|osteophyte|R|N
+osteoplastic	adj	osteoplastic|osteoplastic|R|Adj
+osteoplasty	noun	osteoplasty|osteoplasty|R|N
+osteosuture	noun	osteosuture|osteosuture|R|N
+osteotome	noun	osteotome|osteotome|R|N
+ostial	adj	ostium|osti|R|N ; -al|al|S
+ostiary	noun	ostiary|ostiary|R|N
+ostiolar	adj	ostiole|ostiol|R|N ; -ar|ar|S
+ostiolate	adj	ostiole|ostiol|R|N ; -ate|ate|S
+ostiole	noun	ostiole|ostiole|R|N
+ostmark	noun	ostmark|ostmark|R|N
+ostomy	noun	ostomy|ostomy|R|N
+ostosis	noun	ostosis|ostosis|R|N
+ostracizing	verb	ostracize|ostraciz|R|V ; -ing|ing|I||-ing (v)
+ostracod	noun	ostracod|ostracod|R|N
+ostracoderm	noun	ostracoderm|ostracoderm|R|N
+ostreiculture	noun	ostreiculture|ostreiculture|R|N
+ostreiculturist	noun	ostreiculture|ostreicultur|R|N ; -ist|ist|S
+ostreophagous	adj	ostreophagous|ostreophagous|R|Adj
+ostrichism	noun	ostrich|ostrich|R|N ; -ism|ism|S
+ostrichlike	adj	ostrich|ostrich|R|N ; -like|like|S
+ostro	noun	ostro|ostro|R|N
+otaku	noun	otaku|otaku|R|N
+otalgic	adj	otalgic|otalgic|R|Adj
+otary	noun	otary|otary|R|N
+otherkin	noun	other|other|R|Adj ; kin|kin|R|N
+otherwhere	adv	other|other|R|Adj ; where|where|R|Adv
+otioseness	noun	otiose|otiose|R|Adj ; -ness|ness|S
+otiosity	noun	otiose|otios|R|Adj ; -ity|ity|S
+otocyst	noun	otocyst|otocyst|R|N
+otolithic	adj	otolith|otolith|R|N ; -ic|ic|S
+otological	adj	otology|otolog|R|N ; -ical|ical|S
+otologist	noun	otology|otolog|R|N ; -ist|ist|S
+otology	noun	otology|otology|R|N
+otorhinolaryngologist	noun	otorhinolaryngology|otorhinolaryngolog|R|N ; -ist|ist|S
+otorhinolaryngology	noun	otorhinolaryngology|otorhinolaryngology|R|N
+otoscopy	noun	otoscopy|otoscopy|R|N
+ouguiya	noun	ouguiya|ouguiya|R|N
+ouroboric	adj	ouroboros|ourobor|R|N ; -ic|ic|S
+ouroboros	noun	ouroboros|ouroboros|R|N
+outact	verb	out-|out|P ; act|act|R|V
+outbalance	verb	out-|out|P ; balance|balance|R|V
+outblaze	verb	out-|out|P ; blaze|blaze|R|V
+outbluff	verb	out-|out|P ; bluff|bluff|R|V
+outborn	adj	out-|out|P ; born|born|R|Adj
+outbounds	noun	out-|out|P ; bound|bound|R|N ; -s|s|I||-s (plural)
+outbox	verb	out-|out|P ; box|box|R|V
+outbrag	verb	out-|out|P ; brag|brag|R|V
+outbranch	verb	out-|out|P ; branch|branch|R|V
+outbrave	verb	out-|out|P ; brave|brave|R|V
+outbreaker	noun	out-|out|P ; break|break|R|V ; -er|er|S||-er (N)
+outbreaking	noun	out-|out|P ; break|break|R|V ; -ing|ing|S||-ing (N)
+outbreed	verb	out-|out|P ; breed|breed|R|V
+outbreeding	noun	out-|out|P ; breed|breed|R|V ; -ing|ing|S||-ing (N)
+outbuild	verb	out-|out|P ; build|build|R|V
+outcaste	noun	out-|out|P ; caste|caste|R|N
+outclearing	noun	out-|out|P ; clear|clear|R|V ; -ing|ing|S||-ing (N)
+outclimb	verb	out-|out|P ; climb|climb|R|V
+outcross	verb	out-|out|P ; cross|cross|R|V
+outcrossing	noun	out-|out|P ; cross|cross|R|V ; -ing|ing|S||-ing (N)
+outdance	verb	out-|out|P ; dance|dance|R|V
+outdare	verb	out-|out|P ; dare|dare|R|V
+outdegree	noun	out-|out|P ; degree|degree|R|N
+outdent	verb	out-|out|P ; dent|dent|R|V
+outdoorsperson	noun	outdoors|outdoors|R|Adv ; person|person|R|N
+outdraw	verb	out-|out|P ; draw|draw|R|V
+outdrawn	adj	out-|out|P ; draw|drawn|R|V ; -en||I||-en (participle)
+outdweller	noun	out-|out|P ; dwell|dwell|R|V ; -er|er|S||-er (N)
+outeat	verb	out-|out|P ; eat|eat|R|V
+outflanking	noun	out-|out|P ; flank|flank|R|V ; -ing|ing|S||-ing (N)
+outflash	verb	out-|out|P ; flash|flash|R|V
+outflowing	noun	out-|out|P ; flow|flow|R|V ; -ing|ing|S||-ing (N)
+outfly	verb	out-|out|P ; fly|fly|R|V
+outfoot	verb	out-|out|P ; foot|foot|R|V
+outgas	verb	out-|out|P ; gas|gas|R|N
+outgassing	noun	out-|out|P ; gas|gass|R|N ; -ing|ing|S||-ing (N)
+outgate	noun	out-|out|P ; gate|gate|R|N
+outgaze	verb	out-|out|P ; gaze|gaze|R|V
+outgeneral	verb	out-|out|P ; general|general|R|N
+outgiving	noun	out-|out|P ; give|giv|R|V ; -ing|ing|S||-ing (N)
+outgo	noun	out-|out|P ; go|go|R|V
+outguard	verb	out-|out|P ; guard|guard|R|V
+outgush	verb	out-|out|P ; gush|gush|R|V
+outjuggle	verb	out-|out|P ; juggle|juggle|R|V
+outjump	verb	out-|out|P ; jump|jump|R|V
+outlabour	verb	out-|out|P ; labour|labour|R|V
+outland	noun	out-|out|P ; land|land|R|N
+outlandishness	noun	outlandish|outlandish|R|Adj ; -ness|ness|S
+outlaugh	verb	out-|out|P ; laugh|laugh|R|V
+outlawry	noun	outlaw|outlaw|R|N ; -ry|ry|S
+outlearn	verb	out-|out|P ; learn|learn|R|V
+outlinear	adj	outlinear|outlinear|R|Adj
+outliner	noun	outline|outlin|R|N ; -er|er|S||-er (N)
+outlodging	noun	out-|out|P ; lodge|lodg|R|V ; -ing|ing|S||-ing (N)
+outlustre	verb	out-|out|P ; lustre|lustre|R|N
+outman	verb	out-|out|P ; man|man|R|N
+outmarch	verb	out-|out|P ; march|march|R|V
+outmatched	adj	out-|out|P ; match|match|R|V ; -ed|ed|S||-ed (adj)
+outmeasure	verb	out-|out|P ; measure|measure|R|V
+outmost	adj	out-|out|P ; most|most|R|Adv
+outness	noun	out|out|R|Adv ; -ness|ness|S
+outpaint	verb	out-|out|P ; paint|paint|R|V
+outparish	noun	out-|out|P ; parish|parish|R|N
+outpart	noun	out-|out|P ; part|part|R|N
+outpass	verb	out-|out|P ; pass|pass|R|V
+outpension	noun	out-|out|P ; pension|pension|R|N
+outport	noun	out-|out|P ; port|port|R|N
+outpour	verb	out-|out|P ; pour|pour|R|V
+outrange	verb	out-|out|P ; range|range|R|V
+outreaching	verb	out-|out|P ; reach|reach|R|V ; -ing|ing|I||-ing (v)
+outreason	verb	out-|out|P ; reason|reason|R|V
+outremer	noun	outremer|outremer|R|N
+outride	verb	out-|out|P ; ride|ride|R|V
+outrightness	noun	outright|outright|R|Adj ; -ness|ness|S
+outring	verb	out-|out|P ; ring|ring|R|V
+outrival	verb	out-|out|P ; rival|rival|R|N
+outro	noun	outro|outro|R|N
+outroar	verb	out-|out|P ; roar|roar|R|V
+outroot	verb	out-|out|P ; root|root|R|V
+outrunner	noun	out-|out|P ; run|runn|R|V ; -er|er|S||-er (N)
+outrush	noun	out-|out|P ; rush|rush|R|V
+outsail	verb	out-|out|P ; sail|sail|R|V
+outscold	verb	out-|out|P ; scold|scold|R|V
+outscorn	verb	out-|out|P ; scorn|scorn|R|V
+outsetting	noun	out-|out|P ; set|sett|R|V ; -ing|ing|S||-ing (N)
+outsettlement	noun	out-|out|P ; settle|settle|R|V ; -ment|ment|S
+outsettler	noun	out-|out|P ; settle|settl|R|V ; -er|er|S||-er (N)
+outshoot	verb	out-|out|P ; shoot|shoot|R|V
+outshot	noun	out-|out|P ; shot|shot|R|N
+outshout	verb	out-|out|P ; shout|shout|R|V
+outsight	noun	out-|out|P ; sight|sight|R|N
+outsing	verb	out-|out|P ; sing|sing|R|V
+outsit	verb	out-|out|P ; sit|sit|R|V
+outskirt	noun	out-|out|P ; skirt|skirt|R|N
+outsleep	verb	out-|out|P ; sleep|sleep|R|V
+outsmarting	noun	out-|out|P ; smart|smart|R|Adj ; -ing|ing|S||-ing (N)
+outsoar	verb	out-|out|P ; soar|soar|R|V
+outspan	verb	out-|out|P ; span|span|R|V
+outsparkle	verb	out-|out|P ; sparkle|sparkle|R|V
+outspeak	verb	out-|out|P ; speak|speak|R|V
+outspeed	verb	out-|out|P ; speed|speed|R|V
+outstand	verb	out-|out|P ; stand|stand|R|V
+outstare	verb	out-|out|P ; stare|stare|R|V
+outstep	verb	out-|out|P ; step|step|R|V
+outstretch	verb	out-|out|P ; stretch|stretch|R|V
+outstripping	noun	out-|out|P ; strip|stripp|R|V ; -ing|ing|S||-ing (N)
+outstroke	noun	out-|out|P ; stroke|stroke|R|N
+outswear	verb	out-|out|P ; swear|swear|R|V
+outswim	verb	out-|out|P ; swim|swim|R|V
+outthrow	verb	out-|out|P ; throw|throw|R|V
+outtravel	verb	out-|out|P ; travel|travel|R|V
+outtrump	verb	out-|out|P ; trump|trump|R|V
+outvalue	verb	out-|out|P ; value|value|R|V
+outvie	verb	out-|out|P ; vie|vie|R|V
+outvoice	verb	out-|out|P ; voice|voice|R|V
+outvoter	noun	out-|out|P ; vote|vot|R|V ; -er|er|S||-er (N)
+outwalk	verb	out-|out|P ; walk|walk|R|V
+outwardness	noun	outward|outward|R|Adj ; -ness|ness|S
+outwatch	verb	out-|out|P ; watch|watch|R|V
+outwear	verb	out-|out|P ; wear|wear|R|V
+outweep	verb	out-|out|P ; weep|weep|R|V
+outwind	verb	out-|out|P ; wind|wind|R|V
+outworking	noun	out-|out|P ; work|work|R|V ; -ing|ing|S||-ing (N)
+outworld	noun	out-|out|P ; world|world|R|N
+outwrest	verb	out-|out|P ; wrest|wrest|R|V
+ouzel	noun	ouzel|ouzel|R|N
+ovalness	noun	oval|oval|R|Adj ; -ness|ness|S
+ovaloid	noun	ovaloid|ovaloid|R|N
+ovariole	noun	ovariole|ovariole|R|N
+ovariotomy	noun	ovariotomy|ovariotomy|R|N
+ovaritis	noun	ovaritis|ovaritis|R|N
+ovate	adj	ovum|ov|R|N ; -ate|ate|S
+ovenbird	noun	oven|oven|R|N ; bird|bird|R|N

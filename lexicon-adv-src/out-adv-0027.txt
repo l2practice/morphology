@@ -1,0 +1,150 @@
+topaz	noun	=
+candid	adj	cand-|cand|B|Adj|||Latin candidus 'white' ; -id|id|S||||Latin -idus 'having quality'
+oesophagus	noun	=
+carcinoma	noun	carcin-|carcin|B|N|||Greek karkinos 'crab, cancer' ; -oma|oma|S||||Greek -oma 'tumour, condition'
+unison	noun	uni-|uni|P||||Latin unus 'one' ; -son|son|B|N|||Latin sonus 'sound'
+gastrointestinal	adj	=
+polymerase	noun	=
+goblin	noun	=
+misconception	noun	=
+endoscopic	adj	=
+nome	noun	=
+dysfunction	noun	=
+hesitant	adj	haesit-|hesit|B|V|||Latin haesitare 'to hesitate' ; -ant|ant|S||||Latin -ans 'present participle'
+lapse	noun	=
+dismal	adj	=
+aggravate	verb	ag-|ag|P||||Latin ad- 'to' ; -grav-|grav|B|Adj|||Latin gravis 'heavy' ; -ate|ate|S||||Latin -atus 'verb-forming'
+plume	noun	=
+obstruct	verb	ob-|ob|P||||Latin ob 'against' ; -struct|struct|B|V|||Latin struere 'to build'
+transcribe	verb	trans-|tran|P||||Latin trans 'across' ; -scribe|scribe|B|V|||Latin scribere 'to write'
+inconvenience	noun	=
+predicament	noun	pre-|pre|P||||Latin prae- 'before' ; -dic-|dic|B|V|||Latin dicere 'to say' ; -ament|ament|S||||Latin -amentum 'means, result'
+sinus	noun	=
+depress	verb	=
+humorous	adj	=
+perish	verb	=
+hectic	adj	=
+emigrate	verb	e-|e|P||||Latin ex- 'out of' ; -migr-|migr|B|V|||Latin migrare 'to move' ; -ate|ate|S||||Latin -atus 'verb-forming'
+dealership	noun	=
+surname	noun	=
+deflect	verb	de-|de|P||||Latin de- 'away' ; -flect|flect|B|V|||Latin flectere 'to bend'
+humility	noun	humil-|humil|B|Adj|||Latin humilis 'lowly' ; -ity|ity|S||||Latin -itas 'state, quality'
+locus	noun	=
+adamant	adj	=
+vanity	noun	=
+biotechnology	noun	=
+meagre	adj	=
+incompetent	adj	=
+scour	verb	=
+exaggeration	noun	=
+ludicrous	adj	=
+compress	verb	=
+impart	verb	=
+lunge	noun	=
+mortal	adj	mort-|mort|B|N|||Latin mors 'death' ; -al|al|S||||Latin -alis 'relating to'
+ascend	verb	a-|a|P||||Latin ad- 'to' ; -scend|scend|B|V|||Latin scandere 'to climb'
+perverse	adj	per-|per|P||||Latin per 'thoroughly' ; -vers-|verse|B|V|||Latin vertere 'to turn'
+pageant	noun	=
+alligator	noun	=
+repeal	verb	re-|re|P||||Latin re- 'back' ; -pell-|peal|B|V|||Latin pellere 'to push'
+bilingual	adj	=
+impossibility	noun	=
+chlorine	noun	chlor-|chlor|B|Adj|||Greek khloros 'pale green' ; -ine|ine|S||||Greek -ine 'chemical substance'
+ingenious	adj	=
+sulfur	noun	=
+sane	adj	=
+sparse	adj	=
+precarious	adj	=
+erratic	adj	errat-|errat|B|V|||Latin errare 'to wander' ; -ic|ic|S||||Greek -ikos 'relating to'
+magnify	verb	magni-|magni|B|Adj|||Latin magnus 'great' ; -fy|fy|S||||Latin -ficare 'to make'
+decency	noun	=
+acquaint	verb	=
+incarnation	noun	=
+auditorium	noun	=
+microscopic	adj	=
+juggle	verb	=
+complexion	noun	com-|com|P||||Latin com- 'together' ; -plex-|plex|B|V|||Latin plectere 'to weave' ; -ion|ion|S||||Latin -io 'act, state'
+limousine	noun	=
+mischief	noun	=
+luminous	adj	lumin-|lumin|B|N|||Latin lumen 'light' ; -ous|ous|S||||Latin -osus 'full of'
+amplify	verb	=
+foyer	noun	=
+modernist	noun	=
+horrify	verb	=
+ploy	noun	=
+meager	adj	=
+pollen	noun	=
+terrestrial	adj	=
+alienation	noun	=
+feeble	adj	=
+permeate	verb	=
+esteem	noun	=
+conspire	verb	con-|con|P||||Latin cum 'with' ; -spir-|spire|B|V|||Latin spirare 'to breathe'
+elapse	verb	e-|e|P||||Latin ex- 'out' ; -laps-|lapse|B|V|||Latin labi 'to slip'
+loophole	noun	=
+insistent	adj	in-|in|P||||Latin in- 'upon' ; -sist-|sist|B|V|||Latin sistere 'to stand' ; -ent|ent|S||||Latin -ens 'present participle'
+erection	noun	e-|e|P||||Latin ex- 'out of' ; -rect-|rect|B|V|||Latin regere 'to raise, direct' ; -ion|ion|S||||Latin -io 'act, state'
+afflict	verb	af-|af|P||||Latin ad- 'to' ; -flict|flict|B|V|||Latin fligere 'to strike'
+irregularity	noun	=
+apiece	adv	=
+amass	verb	=
+traverse	verb	trans-|tra|P||||Latin trans 'across' ; -vers-|verse|B|V|||Latin vertere 'to turn'
+protector	noun	=
+intrude	verb	in-|in|P||||Latin in- 'into' ; -trud-|trude|B|V|||Latin trudere 'to thrust'
+flair	noun	=
+savvy	noun	=
+improbable	adj	=
+fluent	adj	flu-|flu|B|V|||Latin fluere 'to flow' ; -ent|ent|S||||Latin -ens 'present participle'
+complacency	noun	=
+precursor	noun	=
+poignant	adj	=
+vibrate	verb	vibr-|vibr|B|V|||Latin vibrare 'to shake' ; -ate|ate|S||||Latin -atus 'verb-forming'
+stationary	adj	=
+conclusive	adj	conclus-|conclus|B|V|||Latin concludere 'to conclude' ; -ive|ive|S||||Latin -ivus 'tending to'
+recur	verb	re-|re|P||||Latin re- 'back' ; -cur|cur|B|V|||Latin currere 'to run'
+pedigree	noun	=
+coaster	noun	=
+dissident	noun	dis-|dis|P||||Latin dis- 'apart' ; -sid-|sid|B|V|||Latin sedere 'to sit' ; -ent|ent|S||||Latin -ens 'present participle'
+vinyl	noun	vin-|vin|B|N|||Latin vinum 'wine' ; -yl|yl|S||||Greek hyle 'substance'
+incomprehensible	adj	=
+hiker	noun	=
+browser	noun	=
+eclectic	adj	ec-|ec|P||||Greek ek 'out, from' ; -lect-|lect|B|V|||Greek legein 'to choose' ; -ic|ic|S||||Greek -ikos 'relating to'
+relegate	verb	re-|re|P||||Latin re- 'back, again' ; -leg-|leg|B|V|||Latin legare 'to send' ; -ate|ate|S||||Latin -atus 'verb-forming'
+unjust	adj	=
+geologist	noun	=
+preparatory	adj	=
+oust	verb	=
+abdomen	noun	=
+entice	verb	=
+uniformed	adj	=
+deplore	verb	de-|de|P||||Latin de- 'down, away' ; -plor-|plore|B|V|||Latin plorare 'to wail'
+illegitimate	adj	=
+triangular	adj	=
+radiant	adj	radi-|radi|B|N|||Latin radius 'ray' ; -ant|ant|S||||Latin -ans 'present participle'
+vain	adj	=
+orbital	adj	=
+delicacy	noun	=
+accentuate	verb	=
+postseason	noun	=
+assent	noun	as-|as|P||||Latin ad- 'to' ; -sent|sent|B|V|||Latin sentire 'to feel'
+grieve	verb	=
+receptive	adj	re-|re|P||||Latin re- 'back' ; -cept-|cept|B|V|||Latin capere 'to take' ; -ive|ive|S||||Latin -ivus 'tending to'
+seminary	noun	semin-|semin|B|N|||Latin semen 'seed' ; -ary|ary|S||||Latin -arius 'relating to'
+fuse	noun	=
+coercion	noun	co-|co|P||||Latin com- 'together' ; -erc-|erc|B|V|||Latin arcere 'to restrain' ; -ion|ion|S||||Latin -io 'act, state'
+compulsion	noun	com-|com|P||||Latin com- 'together' ; -puls-|puls|B|V|||Latin pellere 'to push' ; -ion|ion|S||||Latin -io 'act, state'
+dissipate	verb	=
+sombre	adj	=
+rigour	noun	rig-|rig|B|V|||Latin rigere 'to be rigid' ; -our|our|S||||Latin -or 'state, quality'
+semifinal	noun	=
+finale	noun	=
+bulge	noun	=
+indignation	noun	in-|in|P||||Latin in- 'not' ; -dign-|dign|B|Adj|||Latin dignus 'worthy' ; -ation|ation|S||||Latin -atio 'act, process'
+savior	noun	salv-|savi|B|V|||Latin salvare 'to save' ; -or|or|S||||Latin -or 'agent'
+combustion	noun	com-|com|P||||Latin com- 'together' ; -bust-|bust|B|V|||Latin burere 'to burn' ; -ion|ion|S||||Latin -io 'act, state'
+invader	noun	=
+pertinent	adj	pertin-|pertin|B|V|||Latin pertinere 'to pertain' ; -ent|ent|S||||Latin -ens 'present participle'
+manure	noun	=
+tenet	noun	=
+longitudinal	adj	=

@@ -1,0 +1,150 @@
+disport	verb	=
+pulchritude	noun	=
+admonitory	adj	=
+coruscate	verb	=
+bagasse	noun	=
+taxer	noun	=
+plasmodium	noun	=
+monopsony	noun	mono-|mono|B|Adj|||Greek monos 'alone, solitary' ; -psony|psony|B|V|||Greek opsonein 'to buy provisions'
+borage	noun	=
+macerate	verb	=
+nugatory	adj	=
+schistosomiasis	noun	=
+offertory	noun	=
+abase	verb	=
+orthostatic	adj	=
+institutionalism	noun	=
+complicit	adj	=
+thermocline	noun	thermo-|thermo|B|N|||Greek thermos 'heat' ; -cline|cline|B|N|||Greek klinein 'to slope'
+fascicle	noun	=
+diapause	noun	=
+hyrax	noun	=
+petrous	adj	=
+aleatory	adj	=
+palfrey	noun	=
+biowarfare	noun	=
+biocide	noun	=
+zoster	noun	=
+corolla	noun	=
+erythematous	adj	=
+rosacea	noun	=
+polytheistic	adj	=
+scrofula	noun	=
+pharmacotherapy	noun	=
+coccyx	noun	=
+automaticity	noun	=
+pessary	noun	=
+umbel	noun	=
+vasoconstrictor	noun	=
+perfumery	noun	=
+sylph	noun	=
+streptokinase	noun	=
+inhere	verb	in-|in|P||||Latin in 'in' ; -here|here|B|V|||Latin haerere 'to stick'
+impetigo	noun	=
+graffito	noun	=
+capsicum	noun	=
+federate	verb	=
+conger	noun	=
+misanthropy	noun	mis-|mis|B|N|||Greek misos 'hatred' ; -anthrop-|anthrop|B|N|||Greek anthropos 'human' ; -y|y|S||||Greek -ia 'state'
+temporalis	noun	=
+sigil	noun	=
+onomatopoeic	adj	=
+anticlockwise	adj	=
+oblation	noun	=
+respire	verb	re-|re|P||||Latin re- 'back' ; -spire|spire|B|V|||Latin spirare 'to breathe'
+mazurka	noun	=
+confabulation	noun	=
+congee	noun	=
+photocall	noun	=
+titlist	noun	=
+replicant	noun	=
+pterosaur	noun	ptero-|ptero|B|N|||Greek pteron 'wing, feather' ; -saur|saur|B|N|||Greek sauros 'lizard'
+deodorizer	noun	=
+pomade	noun	=
+merganser	noun	merg-|merg|B|N|||Latin mergus 'diver, waterfowl' ; -anser|anser|B|N|||Latin anser 'goose'
+equilibrate	verb	=
+catatonia	noun	cata-|cata|P||||Greek kata 'down, against' ; -ton-|ton|B|N|||Greek tonos 'tension, tone' ; -ia|ia|S||||Greek -ia 'condition'
+diamante	noun	=
+succubus	noun	=
+bioinformatics	noun	=
+brut	adj	=
+eponym	noun	ep-|ep|P||||Greek epi 'upon' ; -onym|onym|B|N|||Greek onoma 'name'
+acetyl	noun	acet-|acet|B|N|||Latin acetum 'vinegar' ; -yl|yl|B|N|||Greek hyle 'substance, matter'
+quale	noun	=
+octavo	noun	=
+condemnatory	adj	=
+gravid	adj	=
+pulsatile	adj	=
+styloid	adj	=
+subjectivist	noun	=
+sebum	noun	=
+acclimatisation	noun	=
+cryptosporidiosis	noun	=
+trammel	noun	=
+sulcus	noun	=
+cerise	noun	=
+radioactively	adv	=
+presbyopia	noun	presby-|presby|B|Adj|||Greek presbys 'old, elder' ; -opia|opia|B|N|||Greek ops 'eye, vision'
+phenology	noun	=
+metalware	noun	=
+ruminant	noun	=
+insensibility	noun	=
+sensate	adj	=
+mutagen	noun	=
+pharmacopoeia	noun	=
+necromancy	noun	=
+inoculum	noun	=
+fenestration	noun	=
+collodion	noun	=
+saxifrage	noun	saxi-|saxi|B|N|||Latin saxum 'stone' ; -frage|frage|B|V|||Latin frangere 'to break'
+procurer	noun	=
+herbalism	noun	=
+cogitate	verb	=
+connubial	adj	=
+naltrexone	noun	=
+apperception	noun	=
+bronchiectasis	noun	bronchi-|bronchi|B|N|||Greek bronchos 'windpipe' ; -ectasis|ectasis|B|N|||Greek ektasis 'expansion'
+axilla	noun	=
+regius	adj	reg-|reg|B|N|||Latin rex 'king' ; -ius|ius|S||||Latin -ius 'adjective suffix'
+indubitable	adj	=
+astir	adj	=
+catechumen	noun	=
+pharmacokinetics	noun	=
+usufruct	noun	usu-|usu|B|N|||Latin usus 'use' ; -fruct|fruct|B|N|||Latin fructus 'fruit, produce'
+sodality	noun	=
+insurrectionist	noun	=
+ululation	noun	=
+polyvinyl	adj	=
+bipartite	adj	=
+substantiality	noun	=
+craniotomy	noun	=
+servomotor	noun	=
+reticulum	noun	=
+stridor	noun	=
+denotative	adj	=
+abnegation	noun	ab-|ab|P||||Latin ab 'off, away' ; -neg-|neg|B|V|||Latin negare 'to deny' ; -ation|ation|S||||Latin -atio 'action, state'
+pullet	noun	=
+indigence	noun	=
+piggery	noun	=
+superorganism	noun	=
+clericalism	noun	=
+androcentric	adj	=
+myocardium	noun	myo-|myo|B|N|||Greek mys 'muscle' ; -cardium|cardium|B|N|||Greek kardia 'heart'
+electrophysiological	adj	=
+phytolith	noun	=
+autoimmunity	noun	=
+ethnobotany	noun	=
+sapient	adj	=
+psychometrics	noun	=
+incorruptibility	noun	=
+mutagenic	adj	=
+exclamatory	adj	=
+tetrahedron	noun	tetra-|tetra|B|Adj|||Greek tetras 'four' ; -hedron|hedron|B|N|||Greek hedra 'seat, base'
+limnology	noun	=
+normativity	noun	=
+viviparous	adj	vivi-|vivi|B|Adj|||Latin vivus 'alive, living' ; -parous|parous|B|V|||Latin parere 'to give birth'
+excursus	noun	=
+ritualize	verb	=
+biogenetic	adj	=
+meridional	adj	=
+poliomyelitis	noun	polio-|polio|B|Adj|||Greek polios 'grey' ; -myel-|myel|B|N|||Greek myelos 'marrow' ; -itis|itis|S||||Greek -itis 'inflammation'

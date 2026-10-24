@@ -1,0 +1,200 @@
+presale	noun	pre-|pre|P ; sale|sale|R|N
+presanctified	adj	pre-|pre|P ; sanctify|sanctifi|R|V ; -ed|ed|S||-ed (adj)
+presbyopic	adj	presbyopia|presbyop|R|N ; -ic|ic|S
+presbyteral	adj	presbyter|presbyter|R|N ; -al|al|S
+presbyterial	adj	presbyter|presbyter|R|N ; -ial|ial|S
+presbyterially	adv	presbyter|presbyter|R|N ; -ial|ial|S ; -ly|ly|I|Adv|-ly (adv)
+presbyterianism	noun	presbyter|presbyter|R|N ; -ian|ian|S ; -ism|ism|S
+prescientific	adj	pre-|pre|P ; sci-|sci|B|V ; -ent|ent|S ; -ific|ific|S
+prescind	verb	prescind|prescind|R|V
+prescriber	noun	pre-|pre|P ; -scribe|scrib|B|V ; -er|er|S||-er (N)
+prescript	noun	pre-|pre|P ; -scribe|script|B|V
+prescriptively	adv	prescribe|prescript|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+prescriptiveness	noun	prescribe|prescript|R|V ; -ive|ive|S ; -ness|ness|S
+prescriptivism	noun	prescriptive|prescriptiv|R|Adj ; -ism|ism|S
+prescriptivist	noun	prescriptive|prescriptiv|R|Adj ; -ist|ist|S
+preselection	noun	pre-|pre|P ; select|select|R|V ; -ion|ion|S
+preselector	noun	pre-|pre|P ; select|select|R|V ; -or|or|S
+presentability	noun	present|present|R|V ; -able|abil|S ; -ity|ity|S
+presentableness	noun	present|present|R|V ; -able|able|S ; -ness|ness|S
+presentably	adv	present|present|R|V ; -able|abl|S ; -ly|y|I|Adv|-ly (adv)
+presentationism	noun	present|present|R|V ; -ation|ation|S ; -ism|ism|S
+presentative	adj	present|present|R|V ; -ative|ative|S
+presentee	noun	present|present|R|V ; -ee|ee|S
+presenteeism	noun	presentee|presentee|R|N ; -ism|ism|S
+presentient	adj	presentient|presentient|R|Adj
+presentimental	adj	pre-|pre|P ; sentiment|sentiment|R|N ; -al|al|S
+presentism	noun	present|present|R|N ; -ism|ism|S
+presentive	adj	present|present|R|V ; -ive|ive|S
+presentoir	noun	presentoir|presentoir|R|N
+presents	noun	present|present|R|N ; -s|s|I||-s (plural)
+preservability	noun	preserve|preserv|R|V ; -able|abil|S ; -ity|ity|S
+preservable	adj	preserve|preserv|R|V ; -able|able|S
+preservatory	adj	preserve|preserv|R|V ; -ory|atory|S
+presettable	adj	pre-|pre|P ; set|sett|R|V ; -able|able|S
+presidentship	noun	president|president|R|N ; -ship|ship|S
+presidial	adj	presidium|presidi|R|N ; -al|al|S
+presidiary	adj	presidium|presidi|R|N ; -ary|ary|S
+presignify	verb	pre-|pre|P ; signify|signify|R|V
+prespawning	noun	pre-|pre|P ; spawn|spawn|R|V ; -ing|ing|S||-ing (N)
+prespiracular	adj	pre-|pre|P ; spiracle|spiracul|R|N ; -ar|ar|S
+pressie	noun	pressie|pressie|R|N
+pressingly	adv	press|press|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+pressmark	noun	press|press|R|N ; mark|mark|R|N
+pressor	noun	press|press|R|V ; -or|or|S
+pressrun	noun	press|press|R|N ; run|run|R|V
+presstitute	noun	presstitute|presstitute|R|N
+pressurisation	noun	pressurise|pressuris|R|V ; -ation|ation|S
+pressurizer	noun	pressurize|pressuriz|R|V ; -er|er|S||-er (N)
+presswork	noun	press|press|R|N ; work|work|R|N
+prestation	noun	prestation|prestation|R|N
+prester	noun	prester|prester|R|N
+presternal	adj	pre-|pre|P ; sternum|stern|R|N ; -al|al|S
+presternum	noun	pre-|pre|P ; sternum|sternum|R|N
+prestidigital	adj	prestidigitate|prestidigit|R|V ; -al|al|S
+prestidigitation	noun	prestidigitate|prestidigitat|R|V ; -ion|ion|S
+prestidigitator	noun	prestidigitate|prestidigit|R|V ; -or|ator|S
+prestigiously	adv	prestige|prestig|R|N ; -ious|ious|S ; -ly|ly|I|Adv|-ly (adv)
+prestigiousness	noun	prestige|prestig|R|N ; -ious|ious|S ; -ness|ness|S
+prestissimo	adv	prestissimo|prestissimo|R|Adv
+prestress	verb	pre-|pre|P ; stress|stress|R|V
+prestressed	adj	pre-|pre|P ; stress|stress|R|V ; -ed|ed|S||-ed (adj)
+presumedly	adv	presume|presum|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+presumer	noun	presume|presum|R|V ; -er|er|S||-er (N)
+presuming	verb	presume|presum|R|V ; -ing|ing|I||-ing (v)
+presumingly	adv	presume|presum|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+presumptuously	adv	presumptuous|presumptuous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+presumptuousness	noun	presumptuous|presumptuous|R|Adj ; -ness|ness|S
+presupposal	noun	pre-|pre|P ; suppose|suppos|R|V ; -al|al|S
+presupposing	verb	pre-|pre|P ; suppose|suppos|R|V ; -ing|ing|I||-ing (v)
+presuppositional	adj	pre-|pre|P ; suppose|suppos|R|V ; -ition|ition|S ; -al|al|S
+presymptomatic	adj	pre-|pre|P ; symptomatic|symptomatic|R|Adj
+preta	noun	preta|preta|R|N
+pretax	adj	pre-|pre|P ; tax|tax|R|N
+pretendedly	adv	pretend|pretend|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+preterhuman	adj	preterhuman|preterhuman|R|Adj
+preterintentional	adj	preterintentional|preterintentional|R|Adj
+preterition	noun	preterition|preterition|R|N
+preterm	adj	pre-|pre|P ; term|term|R|N
+preterminal	adj	pre-|pre|P ; terminal|terminal|R|Adj
+pretermission	noun	pretermit|pretermiss|R|V ; -ion|ion|S
+pretermit	verb	pretermit|pretermit|R|V
+preternaturalism	noun	preternatural|preternatural|R|Adj ; -ism|ism|S
+preternaturalness	noun	preternatural|preternatural|R|Adj ; -ness|ness|S
+pretersensual	adj	pretersensual|pretersensual|R|Adj
+pretesticular	adj	pre-|pre|P ; testicle|testicul|R|N ; -ar|ar|S
+pretibial	adj	pre-|pre|P ; tibia|tibi|R|N ; -al|al|S
+pretonic	adj	pre-|pre|P ; tonic|tonic|R|Adj
+prettification	noun	prettify|prettifi|R|V ; -ation|cation|S
+prettifier	noun	prettify|prettifi|R|V ; -er|er|S||-er (N)
+prettyish	adj	pretty|pretty|R|Adj ; -ish|ish|S
+prevailingly	adv	prevail|prevail|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+prevailingness	noun	prevail|prevail|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+prevalently	adv	prevail|preval|R|V ; -ent|ent|S ; -ly|ly|I|Adv|-ly (adv)
+prevaricator	noun	prevaricate|prevaricat|R|V ; -or|or|S
+prevenance	noun	prevenance|prevenance|R|N
+prevenient	adj	prevenient|prevenient|R|Adj
+preveniently	adv	prevenient|prevenient|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+preventability	noun	prevent|prevent|R|V ; -able|abil|S ; -ity|ity|S
+preventiveness	noun	prevent|prevent|R|V ; -ive|ive|S ; -ness|ness|S
+preventorium	noun	preventorium|preventorium|R|N
+preverb	noun	pre-|pre|P ; verb|verb|R|N
+prevernal	adj	pre-|pre|P ; vernal|vernal|R|Adj
+prevertebral	adj	pre-|pre|P ; vertebra|vertebr|R|N ; -al|al|S
+prevesical	adj	pre-|pre|P ; vesicle|vesic|R|N ; -al|al|S
+previousness	noun	previous|previous|R|Adj ; -ness|ness|S
+previse	verb	previse|previse|R|V
+prevision	noun	pre-|pre|P ; vis|vis|B|V ; -ion|ion|S
+previsional	adj	pre-|pre|P ; vis|vis|B|V ; -ion|ion|S ; -al|al|S
+previsionary	adj	pre-|pre|P ; vis|vis|B|V ; -ion|ion|S ; -ary|ary|S
+previtamin	noun	pre-|pre|P ; vitamin|vitamin|R|N
+prevocalic	adj	pre-|pre|P ; vocal|vocal|R|Adj ; -ic|ic|S
+prevocational	adj	pre-|pre|P ; vocation|vocation|R|N ; -al|al|S
+prewarn	verb	pre-|pre|P ; warn|warn|R|V
+prex	noun	prex|prex|R|N
+prexie	noun	prexie|prexie|R|N
+prexy	noun	prex|prex|R|N ; -y|y|S
+preyer	noun	prey|prey|R|V ; -er|er|S||-er (N)
+priceable	adj	price|price|R|N ; -able|able|S
+pricelessly	adv	price|price|R|N ; -less|less|S ; -ly|ly|I|Adv|-ly (adv)
+priceyness	noun	price|price|R|N ; -y|y|S ; -ness|ness|S
+pricily	adv	price|pric|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+pricket	noun	pricket|pricket|R|N
+prickliness	noun	prickle|prickl|R|N ; -y|i|S ; -ness|ness|S
+prickteaser	noun	prick|prick|R|N ; tease|teas|R|V ; -er|er|S||-er (N)
+pridefully	adv	pride|pride|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+pridefulness	noun	pride|pride|R|N ; -ful|ful|S ; -ness|ness|S
+prier	noun	pry|pri|R|V ; -er|er|S||-er (N)
+priestcraft	noun	priest|priest|R|N ; craft|craft|R|N
+priestlike	adj	priest|priest|R|N ; -like|like|S
+priestliness	noun	priest|priest|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+priggery	noun	prig|prigg|R|N ; -ery|ery|S
+priggishly	adv	prig|prigg|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+priggishness	noun	prig|prigg|R|N ; -ish|ish|S ; -ness|ness|S
+priggism	noun	prig|prigg|R|N ; -ism|ism|S
+prill	noun	prill|prill|R|N
+primage	noun	prime|prim|R|V ; -age|age|S
+primality	noun	prime|prim|R|Adj ; -al|al|S ; -ity|ity|S
+primariness	noun	prime|prim|R|Adj ; -ary|ari|S ; -ness|ness|S
+primase	noun	primase|primase|R|N
+primateship	noun	primate|primate|R|N ; -ship|ship|S
+primatial	adj	primate|primat|R|N ; -ial|ial|S
+primatological	adj	primatology|primatolog|R|N ; -ical|ical|S
+primatology	noun	primatology|primatology|R|N
+primely	adv	prime|prime|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+primeness	noun	prime|prime|R|Adj ; -ness|ness|S
+primero	noun	primero|primero|R|N
+primeur	noun	primeur|primeur|R|N
+primevally	adv	primeval|primeval|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+primigenial	adj	primigenial|primigenial|R|Adj
+primigenous	adj	primigenous|primigenous|R|Adj
+primigravida	noun	primigravida|primigravida|R|N
+primine	noun	primine|primine|R|N
+primipara	noun	primipara|primipara|R|N
+primiparity	noun	primipara|primipar|R|N ; -ity|ity|S
+primiparous	adj	primipara|primipar|R|N ; -ous|ous|S
+primitivist	noun	primitive|primitiv|R|Adj ; -ist|ist|S
+primitivity	noun	primitive|primitiv|R|Adj ; -ity|ity|S
+primogenial	adj	primogenial|primogenial|R|Adj
+primogenital	adj	primogenital|primogenital|R|Adj
+primogenitary	adj	primogenitary|primogenitary|R|Adj
+primogenitor	noun	primogenitor|primogenitor|R|N
+primordiality	noun	primordium|primordi|R|N ; -al|al|S ; -ity|ity|S
+primordially	adv	primordium|primordi|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+primordium	noun	primordium|primordium|R|N
+primping	noun	primp|primp|R|V ; -ing|ing|S||-ing (N)
+primrosy	adj	primrose|primros|R|N ; -y|y|S
+princelet	noun	prince|prince|R|N ; -let|let|S
+princelike	adj	prince|prince|R|N ; -like|like|S
+princeliness	noun	prince|prince|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+princeps	noun	princeps|princeps|R|N
+princeship	noun	prince|prince|R|N ; -ship|ship|S
+principate	noun	principate|principate|R|N
+principe	noun	principe|principe|R|N
+prink	verb	prink|prink|R|V
+prinker	noun	prink|prink|R|V ; -er|er|S||-er (N)
+printability	noun	print|print|R|V ; -able|abil|S ; -ity|ity|S
+printery	noun	print|print|R|V ; -ery|ery|S
+printless	adj	print|print|R|V ; -less|less|S
+priorate	noun	prior|prior|R|N ; -ate|ate|S
+priorities	noun	prior|prior|R|N ; -ity|iti|S ; -es|es|I||-s (plural)
+priorship	noun	prior|prior|R|N ; -ship|ship|S
+prismatically	adv	prismatic|prismatic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+prismatoid	noun	prismatoid|prismatoid|R|N
+prismatoidal	adj	prismatoid|prismatoid|R|N ; -al|al|S
+prismoid	noun	prismoid|prismoid|R|N
+prismoidal	adj	prismoid|prismoid|R|N ; -al|al|S
+prismy	adj	prism|prism|R|N ; -y|y|S
+prissily	adv	prissy|prissi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+prissiness	noun	prissy|prissi|R|Adj ; -ness|ness|S
+pristinely	adv	pristine|pristine|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+privateering	noun	private|privat|R|Adj ; -eer|eer|S ; -ing|ing|S||-ing (N)
+privateness	noun	private|private|R|Adj ; -ness|ness|S
+privative	adj	privative|privative|R|Adj
+privatively	adv	privative|privative|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+privatizing	verb	private|privat|R|Adj ; -ize|iz|S ; -ing|ing|I||-ing (v)
+prizable	adj	prize|priz|R|V ; -able|able|S
+prizefighting	noun	prize|prize|R|N ; fight|fight|R|V ; -ing|ing|S||-ing (N)
+prizeman	noun	prize|prize|R|N ; man|man|R|N
+prizewinning	adj	prize|prize|R|N ; win|winn|R|V ; -ing|ing|S||-ing (adj)
+prizing	noun	prize|priz|R|V ; -ing|ing|S||-ing (N)

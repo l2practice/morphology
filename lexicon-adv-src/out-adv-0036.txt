@@ -1,0 +1,150 @@
+coffer	noun	=
+allegory	noun	=
+propriety	noun	=
+experiential	adj	=
+condense	verb	=
+pragmatism	noun	pragmat-|pragmat|B|N|||Greek pragma 'act' ; -ism|ism|S||||Greek -ismos 'doctrine'
+affliction	noun	=
+proverbial	adj	=
+artistry	noun	=
+intersperse	verb	inter-|inter|P||||Latin inter 'between' ; -sperse|sperse|B|V|||Latin spargere 'to scatter'
+impenetrable	adj	=
+impotent	adj	=
+predicate	noun	=
+superfluous	adj	super-|super|P||||Latin super 'above' ; -flu-|flu|B|V|||Latin fluere 'to flow' ; -ous|ous|S||||Latin -osus 'full of'
+avail	verb	a-|a|P||||Latin ad 'to' ; -vail|vail|B|V|||Latin valere 'to be worth'
+laud	verb	=
+dialectic	noun	=
+dissuade	verb	dis-|dis|P||||Latin dis- 'apart' ; -suade|suade|B|V|||Latin suadere 'to urge'
+divulge	verb	di-|di|P||||Latin dis- 'widely' ; -vulge|vulge|B|V|||Latin vulgare 'to publish'
+snowmobile	noun	=
+sedentary	adj	sedent-|sedent|B|V|||Latin sedere 'to sit' ; -ary|ary|S||||Latin -arius 'relating to'
+reminisce	verb	re-|re|P||||Latin re- 'again' ; -minisce|minisce|B|V|||Latin reminisci 'to remember'
+melodrama	noun	=
+pluralistic	adj	=
+sanctity	noun	=
+separatist	noun	=
+persevere	verb	=
+profanity	noun	=
+exuberance	noun	ex-|ex|P||||Latin ex- 'out' ; -uber-|uber|B|N|||Latin uber 'udder' ; -ance|ance|S||||Latin -antia 'state'
+bran	noun	=
+latex	noun	=
+foresight	noun	=
+reservist	noun	=
+esoteric	adj	=
+tolerable	adj	=
+strident	adj	=
+filament	noun	fil-|fil|B|N|||Latin filum 'thread' ; -ament|ament|S||||Latin -amentum 'result'
+justly	adv	=
+inflexible	adj	=
+awash	adj	=
+rota	noun	=
+enthuse	verb	en-|en|P||||Greek en 'in' ; -thuse|thuse|B|N|||Greek theos 'god'
+sclerosis	noun	sclero-|sclero|B|Adj|||Greek skleros 'hard' ; -osis|sis|S||||Greek -osis 'condition'
+cockroach	noun	=
+transfix	verb	trans-|trans|P||||Latin trans 'through' ; -fix|fix|B|V|||Latin figere 'to pierce'
+revisionist	noun	=
+exhort	verb	ex-|ex|P||||Latin ex- 'out' ; -hort|hort|B|V|||Latin hortari 'to urge'
+immigrate	verb	=
+consternation	noun	=
+defection	noun	=
+scandalous	adj	=
+nudity	noun	=
+tactile	adj	tact-|tact|B|V|||Latin tangere 'to touch' ; -ile|ile|S||||Latin -ilis 'able'
+lieu	noun	=
+emergent	adj	=
+oblique	adj	=
+acne	noun	=
+inexperience	noun	=
+affix	noun	=
+intangible	adj	=
+menstrual	adj	menstr-|menstr|B|N|||Latin mensis 'month' ; -ual|ual|S||||Latin -ualis 'relating to'
+perpendicular	adj	=
+elliptical	adj	=
+impeach	verb	=
+credence	noun	cred-|cred|B|V|||Latin credere 'to believe' ; -ence|ence|S||||Latin -entia 'state'
+fiat	noun	=
+rebuke	verb	re-|re|P||||Latin re- 'back' ; -buke|buke|B|V|||Old French buker 'to strike'
+antic	adj	=
+precept	noun	pre-|pre|P||||Latin prae 'before' ; -cept|cept|B|V|||Latin capere 'to take'
+retract	verb	re-|re|P||||Latin re- 'back' ; -tract|tract|B|V|||Latin trahere 'to draw'
+zebra	noun	=
+cynic	noun	=
+affront	noun	=
+medley	noun	=
+counterpoint	noun	=
+illustrious	adj	=
+illusory	adj	=
+grandiose	adj	=
+decimate	verb	decim-|decim|B|N|||Latin decem 'ten' ; -ate|ate|S||||Latin -atus 'verb ending'
+extravagance	noun	extra-|extra|P||||Latin extra 'outside' ; -vag-|vag|B|V|||Latin vagari 'to wander' ; -ance|ance|S||||Latin -antia 'state'
+cursory	adj	=
+percussion	noun	=
+tact	noun	=
+revulsion	noun	=
+rupture	noun	=
+inept	adj	=
+inflame	verb	=
+onus	noun	=
+paternity	noun	patern-|patern|B|N|||Latin pater 'father' ; -ity|ity|S||||Latin -itas 'state'
+onerous	adj	oner-|oner|B|N|||Latin onus 'burden' ; -ous|ous|S||||Latin -osus 'full of'
+domino	noun	=
+amble	verb	=
+incursion	noun	=
+auxiliary	adj	auxili-|auxili|B|N|||Latin auxilium 'help' ; -ary|ary|S||||Latin -arius 'relating to'
+orthopedic	adj	=
+genital	adj	genit-|genit|B|V|||Latin gignere 'to beget' ; -al|al|S||||Latin -alis 'relating to'
+ultimatum	noun	=
+placate	verb	plac-|plac|B|V|||Latin placare 'to appease' ; -ate|ate|S||||Latin -atus 'verb ending'
+perspiration	noun	per-|per|P||||Latin per 'through' ; -spir-|spir|B|V|||Latin spirare 'to breathe' ; -ation|ation|S||||Latin -atio 'act'
+hypocritical	adj	=
+futuristic	adj	=
+turquoise	noun	=
+countenance	noun	=
+resonant	adj	=
+morph	noun	=
+fervent	adj	ferv-|ferv|B|V|||Latin fervere 'to burn' ; -ent|ent|S||||Latin -ens 'agent'
+florist	noun	flor-|flor|B|N|||Latin flos 'flower' ; -ist|ist|S||||Greek -istes 'agent'
+issuer	noun	=
+mascot	noun	=
+innocuous	adj	in-|in|P||||Latin in- 'not' ; -nocu-|nocu|B|V|||Latin nocere 'to hurt' ; -ous|ous|S||||Latin -osus 'full of'
+posterity	noun	poster-|poster|B|Adj|||Latin posterus 'following' ; -ity|ity|S||||Latin -itas 'state'
+fruition	noun	=
+expound	verb	ex-|ex|P||||Latin ex- 'out' ; -pound|pound|B|V|||Latin ponere 'to put'
+buzzer	noun	=
+graft	noun	=
+tinge	verb	=
+frailty	noun	=
+envious	adj	=
+collate	verb	col-|col|P||||Latin com- 'together' ; -late|late|B|V|||Latin ferre 'to bring'
+sumptuous	adj	sumptu-|sumptu|B|V|||Latin sumere 'to take' ; -ous|ous|S||||Latin -osus 'full of'
+septic	adj	sept-|sept|B|V|||Greek sepein 'to rot' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+soprano	noun	=
+noxious	adj	nox-|nox|B|V|||Latin nocere 'to hurt' ; -ious|ious|S||||Latin -osus 'full of'
+gamut	noun	=
+crux	noun	=
+ephemeral	adj	=
+ferocity	noun	=
+extortion	noun	=
+nexus	noun	=
+vagary	noun	=
+recalcitrant	adj	=
+incredulous	adj	=
+judicious	adj	=
+diligent	adj	=
+exhortation	noun	=
+edifice	noun	=
+astray	adv	=
+snapper	noun	=
+obedient	adj	=
+laborious	adj	=
+impotence	noun	=
+baritone	noun	bari-|bari|B|Adj|||Greek barys 'heavy' ; -tone|tone|B|N|||Greek tonos 'tone'
+callous	adj	call-|call|B|N|||Latin callum 'hardened skin' ; -ous|ous|S||||Latin -osus 'full of'
+agile	adj	=
+sustenance	noun	=
+inhuman	adj	=
+recollect	verb	=
+preamble	noun	=
+interlude	noun	inter-|inter|P||||Latin inter 'between' ; -lude|lude|B|V|||Latin ludere 'to play'
+instantaneous	adj	=

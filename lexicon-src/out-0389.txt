@@ -1,0 +1,200 @@
+stigmatose	adj	stigmatose|stigmatose|R|Adj
+stilb	noun	stilb|stilb|R|N
+stilbene	noun	stilbene|stilbene|R|N
+stilbite	noun	stilbite|stilbite|R|N
+stillage	noun	stillage|stillage|R|N
+stilling	noun	still|still|R|V ; -ing|ing|S||-ing (N)
+stillman	noun	still|still|R|N ; man|man|R|N
+stilly	adj	still|still|R|Adj ; -y|y|S
+stiltedly	adv	stilt|stilt|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+stiltedness	noun	stilt|stilt|R|N ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+stiltwalker	noun	stilt|stilt|R|N ; walk|walk|R|V ; -er|er|S||-er (N)
+stim	noun	stim|stim|R|N
+stimulose	adj	stimulose|stimulose|R|Adj
+stingaree	noun	stingaree|stingaree|R|N
+stingily	adv	sting|sting|R|V ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+stingless	adj	sting|sting|R|N ; -less|less|S
+stinkard	noun	stinkard|stinkard|R|N
+stinkbomb	noun	stink|stink|R|N ; bomb|bomb|R|N
+stinkbug	noun	stink|stink|R|N ; bug|bug|R|N
+stinkhorn	noun	stink|stink|R|N ; horn|horn|R|N
+stinkpot	noun	stink|stink|R|N ; pot|pot|R|N
+stinkwood	noun	stink|stink|R|N ; wood|wood|R|N
+stinted	adj	stint|stint|R|V ; -ed|ed|S||-ed (adj)
+stinting	verb	stint|stint|R|V ; -ing|ing|I||-ing (v)
+stintingly	adv	stint|stint|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+stipate	verb	stipate|stipate|R|V
+stipe	noun	stipe|stipe|R|N
+stipel	noun	stipel|stipel|R|N
+stipellate	adj	stipel|stipell|R|N ; -ate|ate|S
+stipes	noun	stipe|stipe|R|N ; -s|s|I||-s (plural)
+stipiform	adj	stipiform|stipiform|R|Adj
+stipitate	adj	stipe|stipit|R|N ; -ate|ate|S
+stipitiform	adj	stipitiform|stipitiform|R|Adj
+stippler	noun	stipple|stippl|R|V ; -er|er|S||-er (N)
+stippling	noun	stipple|stippl|R|V ; -ing|ing|S||-ing (N)
+stipular	adj	stipule|stipul|R|N ; -ar|ar|S
+stipulator	noun	stipulate|stipulat|R|V ; -or|or|S
+stipule	noun	stipule|stipule|R|N
+stipuled	adj	stipule|stipul|R|N ; -ed|ed|S||-ed (adj)
+stipuliform	adj	stipuliform|stipuliform|R|Adj
+stirps	noun	stirps|stirps|R|N
+stirringly	adv	stir|stirr|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+stishovite	noun	stishovite|stishovite|R|N
+stitchbird	noun	stitch|stitch|R|N ; bird|bird|R|N
+stitchwort	noun	stitch|stitch|R|N ; wort|wort|R|N
+stithy	noun	stithy|stithy|R|N
+stiver	noun	stiver|stiver|R|N
+stoa	noun	stoa|stoa|R|N
+stochastically	adv	stochastic|stochastic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+stochastics	noun	stochastics|stochastics|R|N
+stockbreeder	noun	stock|stock|R|N ; breed|breed|R|V ; -er|er|S||-er (N)
+stockfish	noun	stock|stock|R|N ; fish|fish|R|N
+stockily	adv	stock|stock|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+stockiness	noun	stock|stock|R|N ; -y|i|S ; -ness|ness|S
+stockinet	noun	stockinet|stockinet|R|N
+stockjobber	noun	stock|stock|R|N ; job|jobb|R|V ; -er|er|S||-er (N)
+stockjobbery	noun	stock|stock|R|N ; job|jobb|R|V ; -ery|ery|S
+stockjobbing	noun	stock|stock|R|N ; job|jobb|R|V ; -ing|ing|S||-ing (N)
+stockkeeper	noun	stock|stock|R|N ; keep|keep|R|V ; -er|er|S||-er (N)
+stockless	adj	stock|stock|R|N ; -less|less|S
+stockproof	adj	stock|stock|R|N ; proof|proof|R|N
+stockrider	noun	stock|stock|R|N ; ride|rid|R|V ; -er|er|S||-er (N)
+stocks	noun	stock|stock|R|N ; -s|s|I||-s (plural)
+stockwhip	noun	stock|stock|R|N ; whip|whip|R|N
+stodginess	noun	stodge|stodg|R|N ; -y|i|S ; -ness|ness|S
+stoep	noun	stoep|stoep|R|N
+stoic	adj	stoic|stoic|R|Adj
+stoichiological	adj	stoichiology|stoichiolog|R|N ; -ical|ical|S
+stoichiology	noun	stoichiology|stoichiology|R|N
+stoichiometric	adj	stoichiometry|stoichiometr|R|N ; -ic|ic|S
+stoicism	noun	stoic|stoic|R|Adj ; -ism|ism|S
+stoicness	noun	stoic|stoic|R|Adj ; -ness|ness|S
+stoked	adj	stoke|stok|R|V ; -ed|ed|S||-ed (adj)
+stokehold	noun	stoke|stoke|R|N ; hold|hold|R|N
+stokehole	noun	stoke|stoke|R|N ; hole|hole|R|N
+stoking	verb	stoke|stok|R|V ; -ing|ing|I||-ing (v)
+stola	noun	stola|stola|R|N
+stoled	adj	stole|stol|R|N ; -ed|ed|S||-ed (adj)
+stolidness	noun	stolid|stolid|R|Adj ; -ness|ness|S
+stollen	noun	stollen|stollen|R|N
+stolon	noun	stolon|stolon|R|N
+stoloniferous	adj	stoloniferous|stoloniferous|R|Adj
+stoloniferously	adv	stoloniferous|stoloniferous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+stolperstein	noun	stolperstein|stolperstein|R|N
+stomachal	adj	stomach|stomach|R|N ; -al|al|S
+stomached	adj	stomach|stomach|R|N ; -ed|ed|S||-ed (adj)
+stomacher	noun	stomach|stomach|R|N ; -er|er|S||-er (N)
+stomachful	adj	stomach|stomach|R|N ; -ful|ful|S
+stomachic	adj	stomach|stomach|R|N ; -ic|ic|S
+stomachically	adv	stomach|stomach|R|N ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+stomaching	verb	stomach|stomach|R|V ; -ing|ing|I||-ing (v)
+stomachless	adj	stomach|stomach|R|N ; -less|less|S
+stomal	adj	stoma|stom|R|N ; -al|al|S
+stomatitis	noun	stomatitis|stomatitis|R|N
+stomatologic	adj	stomatology|stomatolog|R|N ; -ic|ic|S
+stomatological	adj	stomatology|stomatolog|R|N ; -ical|ical|S
+stomatologist	noun	stomatology|stomatolog|R|N ; -ist|ist|S
+stomatology	noun	stomatology|stomatology|R|N
+stomatoplasty	noun	stomatoplasty|stomatoplasty|R|N
+stonechat	noun	stone|stone|R|N ; chat|chat|R|N
+stonecrop	noun	stone|stone|R|N ; crop|crop|R|N
+stonefish	noun	stone|stone|R|N ; fish|fish|R|N
+stonehearted	adj	stone|stone|R|N ; heart|heart|R|N ; -ed|ed|S||-ed (adj)
+stoneless	adj	stone|stone|R|N ; -less|less|S
+stoneman	noun	stone|stone|R|N ; man|man|R|N
+stonemasonry	noun	stone|stone|R|N ; mason|mason|R|N ; -ry|ry|S
+stones	noun	stone|stone|R|N ; -s|s|I||-s (plural)
+stoneseed	noun	stone|stone|R|N ; seed|seed|R|N
+stonewalled	verb	stone|stone|R|N ; wall|wall|R|V ; -ed|ed|I||-ed (v2)
+stoniness	noun	stone|ston|R|N ; -y|i|S ; -ness|ness|S
+stoolie	noun	stoolie|stoolie|R|N
+stooping	verb	stoop|stoop|R|V ; -ing|ing|I||-ing (v)
+stoopingly	adv	stoop|stoop|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+stopcock	noun	stop|stop|R|V ; cock|cock|R|N
+stope	noun	stope|stope|R|N
+stoping	noun	stope|stop|R|N ; -ing|ing|S||-ing (N)
+stoppered	adj	stop|stopp|R|V ; -er|er|S||-er (N) ; -ed|ed|S||-ed (adj)
+stopple	noun	stopple|stopple|R|N
+storax	noun	storax|storax|R|N
+storekeeping	noun	store|store|R|N ; keep|keep|R|V ; -ing|ing|S||-ing (N)
+storge	noun	storge|storge|R|N
+storiated	adj	storiated|storiated|R|Adj
+storing	verb	store|stor|R|V ; -ing|ing|I||-ing (v)
+storkling	noun	stork|stork|R|N ; -ling|ling|S
+storksbill	noun	stork|storks|R|N ; bill|bill|R|N
+stormbound	adj	storm|storm|R|N ; bound|bound|R|Adj
+stormily	adv	storm|storm|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+storminess	noun	storm|storm|R|N ; -y|i|S ; -ness|ness|S
+stormless	adj	storm|storm|R|N ; -less|less|S
+stormtrooper	noun	storm|storm|R|N ; troop|troop|R|N ; -er|er|S||-er (N)
+stoss	noun	stoss|stoss|R|N
+stot	noun	stot|stot|R|N
+stotinka	noun	stotinka|stotinka|R|N
+stoush	noun	stoush|stoush|R|N
+stoutish	adj	stout|stout|R|Adj ; -ish|ish|S
+stoutness	noun	stout|stout|R|Adj ; -ness|ness|S
+stower	noun	stow|stow|R|V ; -er|er|S||-er (N)
+stowing	verb	stow|stow|R|V ; -ing|ing|I||-ing (v)
+strabism	noun	strabism|strabism|R|N
+strabismal	adj	strabism|strabism|R|N ; -al|al|S
+strabismic	adj	strabism|strabism|R|N ; -ic|ic|S
+strabotomy	noun	strabotomy|strabotomy|R|N
+stracciatella	noun	stracciatella|stracciatella|R|N
+strafer	noun	strafe|straf|R|V ; -er|er|S||-er (N)
+strafing	verb	strafe|straf|R|V ; -ing|ing|I||-ing (v)
+straightener	noun	straight|straight|R|Adj ; -en|en|S ; -er|er|S||-er (N)
+strainometer	noun	strainometer|strainometer|R|N
+straiten	verb	strait|strait|R|N ; -en|en|S
+straitjacketing	verb	strait|strait|R|N ; jacket|jacket|R|N ; -ing|ing|I||-ing (v)
+straitlacedly	adv	strait|strait|R|N ; lace|lac|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|I|Adv|-ly (adv)
+straitlacedness	noun	strait|strait|R|N ; lace|lac|R|V ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+straitness	noun	strait|strait|R|N ; -ness|ness|S
+stramineous	adj	stramineous|stramineous|R|Adj
+stramonium	noun	stramonium|stramonium|R|N
+strander	noun	strand|strand|R|V ; -er|er|S||-er (N)
+strangles	noun	strangle|strangle|R|V ; -s|s|I||-s (plural)
+strangulate	verb	strangulate|strangulate|R|V
+strangurious	adj	strangurious|strangurious|R|Adj
+strangury	noun	strangury|strangury|R|N
+straphanger	noun	strap|strap|R|N ; hang|hang|R|V ; -er|er|S||-er (N)
+strappado	noun	strappado|strappado|R|N
+strapper	noun	strap|strapp|R|V ; -er|er|S||-er (N)
+strass	noun	strass|strass|R|N
+strata	noun	stratum|strata|R|N ; -s||I||-s (plural)
+stratal	adj	strata|strat|R|N ; -al|al|S
+strategics	noun	strategics|strategics|R|N
+strategus	noun	strategus|strategus|R|N
+straticulate	adj	straticulate|straticulate|R|Adj
+stratifiable	adj	stratify|stratifi|R|V ; -able|able|S
+stratiform	adj	stratiform|stratiform|R|Adj
+stratigrapher	noun	stratigraphy|stratigraph|R|N ; -er|er|S||-er (N)
+stratocirrus	noun	stratocirrus|stratocirrus|R|N
+stratocracy	noun	stratocracy|stratocracy|R|N
+stratocumulus	noun	stratocumulus|stratocumulus|R|N
+stratopause	noun	stratopause|stratopause|R|N
+stratostat	noun	stratostat|stratostat|R|N
+stratovolcano	noun	stratovolcano|stratovolcano|R|N
+strawbale	noun	straw|straw|R|N ; bale|bale|R|N
+strawed	adj	straw|straw|R|N ; -ed|ed|S||-ed (adj)
+strawy	adj	straw|straw|R|N ; -y|y|S
+streaker	noun	streak|streak|R|V ; -er|er|S||-er (N)
+streakiness	noun	streak|streak|R|N ; -y|i|S ; -ness|ness|S
+streamed	verb	stream|stream|R|V ; -ed|ed|I||-ed (v2)
+streamless	adj	stream|stream|R|N ; -less|less|S
+streamlet	noun	stream|stream|R|N ; -let|let|S
+streamy	adj	stream|stream|R|N ; -y|y|S
+streeted	adj	street|street|R|N ; -ed|ed|S||-ed (adj)
+streetlet	noun	street|street|R|N ; -let|let|S
+streetward	adv	street|street|R|N ; -ward|ward|S
+strengthless	adj	strength|strength|R|N ; -less|less|S
+strenuousness	noun	strenuous|strenuous|R|Adj ; -ness|ness|S
+streptobacillus	noun	streptobacillus|streptobacillus|R|N
+streptolysin	noun	streptolysin|streptolysin|R|N
+stressless	adj	stress|stress|R|N ; -less|less|S
+stretchiness	noun	stretch|stretch|R|V ; -y|i|S ; -ness|ness|S
+stretto	noun	stretto|stretto|R|N
+strewing	verb	strew|strew|R|V ; -ing|ing|I||-ing (v)
+strewn	verb	strew|strewn|R|V ; -en||I||-en (participle)
+stria	noun	stria|stria|R|N
+striatum	noun	striatum|striatum|R|N

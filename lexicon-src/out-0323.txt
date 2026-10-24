@@ -1,0 +1,200 @@
+macrocrystalline	adj	macrocrystalline|macrocrystalline|R|Adj
+macrocyte	noun	macrocyte|macrocyte|R|N
+macrocytic	adj	macrocyte|macrocyt|R|N ; -ic|ic|S
+macroeconomy	noun	macroeconomy|macroeconomy|R|N
+macroevolution	noun	macroevolution|macroevolution|R|N
+macrofossil	noun	macrofossil|macrofossil|R|N
+macrogamete	noun	macrogamete|macrogamete|R|N
+macrograph	noun	macrograph|macrograph|R|N
+macroinstruction	noun	macroinstruction|macroinstruction|R|N
+macrolanguage	noun	macrolanguage|macrolanguage|R|N
+macrolinguistics	noun	macrolinguistics|macrolinguistics|R|N
+macrometeorology	noun	macrometeorology|macrometeorology|R|N
+macrometric	adj	macrometry|macrometr|R|N ; -ic|ic|S
+macron	noun	macron|macron|R|N
+macronucleus	noun	macronucleus|macronucleus|R|N
+macronutrient	noun	macronutrient|macronutrient|R|N
+macroorganism	noun	macroorganism|macroorganism|R|N
+macropenis	noun	macropenis|macropenis|R|N
+macrophagic	adj	macrophage|macrophag|R|N ; -ic|ic|S
+macrophotograph	noun	macrophotograph|macrophotograph|R|N
+macrophotography	noun	macrophotography|macrophotography|R|N
+macrophysics	noun	macrophysics|macrophysics|R|N
+macropodous	adj	macropod|macropod|R|N ; -ous|ous|S
+macropsia	noun	macropsia|macropsia|R|N
+macropterous	adj	macropterous|macropterous|R|Adj
+macroscale	noun	macroscale|macroscale|R|N
+macrosegment	noun	macrosegment|macrosegment|R|N
+macrosporangium	noun	macrosporangium|macrosporangium|R|N
+macrospore	noun	macrospore|macrospore|R|N
+macrostate	noun	macrostate|macrostate|R|N
+macrostatistics	noun	macrostatistics|macrostatistics|R|N
+macrostomia	noun	macrostomia|macrostomia|R|N
+macrostructure	noun	macrostructure|macrostructure|R|N
+macuahuitl	noun	macuahuitl|macuahuitl|R|N
+macular	adj	macula|macul|R|N ; -ar|ar|S
+maculate	adj	macula|macul|R|N ; -ate|ate|S
+maculated	adj	macula|macul|R|N ; -ate|at|S ; -ed|ed|S||-ed (adj)
+maculation	noun	macula|macul|R|N ; -ation|ation|S
+macule	noun	macule|macule|R|N
+maculopathy	noun	maculopathy|maculopathy|R|N
+maddah	noun	maddah|maddah|R|N
+maddeningness	noun	madden|madden|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+maddingly	adv	mad|madd|R|Adj ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+maddish	adj	mad|madd|R|Adj ; -ish|ish|S
+madeleine	noun	madeleine|madeleine|R|N
+mademoiselle	noun	mademoiselle|mademoiselle|R|N
+madhhab	noun	madhhab|madhhab|R|N
+madonna	noun	madonna|madonna|R|N
+madrepore	noun	madrepore|madrepore|R|N
+madreporian	adj	madrepore|madrepor|R|N ; -ian|ian|S
+madrigalian	adj	madrigal|madrigal|R|N ; -ian|ian|S
+madrigalist	noun	madrigal|madrigal|R|N ; -ist|ist|S
+maenad	noun	maenad|maenad|R|N
+maenadic	adj	maenad|maenad|R|N ; -ic|ic|S
+maestoso	adv	maestoso|maestoso|R|Adv
+maffick	verb	maffick|maffick|R|V
+mafic	adj	mafic|mafic|R|Adj
+mafiya	noun	mafiya|mafiya|R|N
+magazinish	adj	magazine|magazin|R|N ; -ish|ish|S
+magazinist	noun	magazine|magazin|R|N ; -ist|ist|S
+magaziny	adj	magazine|magazin|R|N ; -y|y|S
+maggotry	noun	maggot|maggot|R|N ; -ry|ry|S
+maggoty	adj	maggot|maggot|R|N ; -y|y|S
+maghrib	noun	maghrib|maghrib|R|N
+magicianess	noun	magician|magician|R|N ; -ess|ess|S
+magistral	adj	magistrate|magistr|R|N ; -al|al|S
+magistrality	noun	magistrate|magistr|R|N ; -al|al|S ; -ity|ity|S
+magistrally	adv	magistrate|magistr|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+magistrateship	noun	magistrate|magistrate|R|N ; -ship|ship|S
+magistratical	adj	magistrate|magistrat|R|N ; -ical|ical|S
+magistrature	noun	magistrature|magistrature|R|N
+magmatic	adj	magma|magmat|R|N ; -ic|ic|S
+magnalium	noun	magnalium|magnalium|R|N
+magnanimousness	noun	magnanimous|magnanimous|R|Adj ; -ness|ness|S
+magnateship	noun	magnate|magnate|R|N ; -ship|ship|S
+magnesia	noun	magnesia|magnesia|R|N
+magnesian	adj	magnesia|magnesi|R|N ; -an|an|S
+magnesic	adj	magnesia|magnes|R|N ; -ic|ic|S
+magnesite	noun	magnesite|magnesite|R|N
+magnetist	noun	magnet|magnet|R|N ; -ist|ist|S
+magnetizability	noun	magnetize|magnetiz|R|V ; -able|abil|S ; -ity|ity|S
+magnetochemistry	noun	magnetochemistry|magnetochemistry|R|N
+magnetoencephalography	noun	magnetoencephalography|magnetoencephalography|R|N
+magnetograph	noun	magnetograph|magnetograph|R|N
+magnetohydrodynamics	noun	magnetohydrodynamics|magnetohydrodynamics|R|N
+magneton	noun	magneton|magneton|R|N
+magnetooptics	noun	magnetooptics|magnetooptics|R|N
+magnetophone	noun	magnetophone|magnetophone|R|N
+magnetoscope	noun	magnetoscope|magnetoscope|R|N
+magnetostatic	adj	magnetostatic|magnetostatic|R|Adj
+magnetostatics	noun	magnetostatics|magnetostatics|R|N
+magnetostriction	noun	magnetostriction|magnetostriction|R|N
+magnificentness	noun	magnificent|magnificent|R|Adj ; -ness|ness|S
+magniloquence	noun	magniloquence|magniloquence|R|N
+magniloquent	adj	magniloquent|magniloquent|R|Adj
+magnitudinous	adj	magnitudinous|magnitudinous|R|Adj
+magot	noun	magot|magot|R|N
+maharani	noun	maharani|maharani|R|N
+mahjong	noun	mahjong|mahjong|R|N
+mahleb	noun	mahleb|mahleb|R|N
+mahr	noun	mahr|mahr|R|N
+mahua	noun	mahua|mahua|R|N
+maidan	noun	maidan|maidan|R|N
+maidenhood	noun	maiden|maiden|R|N ; -hood|hood|S
+maidenish	adj	maiden|maiden|R|N ; -ish|ish|S
+maidenlike	adj	maiden|maiden|R|N ; -like|like|S
+maidenliness	noun	maiden|maiden|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+maidhood	noun	maid|maid|R|N ; -hood|hood|S
+maidish	adj	maid|maid|R|N ; -ish|ish|S
+maieutic	adj	maieutic|maieutic|R|Adj
+maieutics	noun	maieutics|maieutics|R|N
+maigre	noun	maigre|maigre|R|N
+mailability	noun	mail|mail|R|V ; -able|abil|S ; -ity|ity|S
+maillot	noun	maillot|maillot|R|N
+mailplane	noun	mail|mail|R|N ; plane|plane|R|N
+mails	noun	mail|mail|R|N ; -s|s|I||-s (plural)
+mainlander	noun	mainland|mainland|R|N ; -er|er|S||-er (N)
+mainliner	noun	mainline|mainlin|R|V ; -er|er|S||-er (N)
+mainsheet	noun	main|main|R|Adj ; sheet|sheet|R|N
+maintainability	noun	maintain|maintain|R|V ; -able|abil|S ; -ity|ity|S
+maintop	noun	main|main|R|Adj ; top|top|R|N
+maintopsail	noun	main|main|R|Adj ; top|top|R|N ; sail|sail|R|N
+maitake	noun	maitake|maitake|R|N
+maitri	noun	maitri|maitri|R|N
+majestical	adj	majesty|majest|R|N ; -ical|ical|S
+majesticalness	noun	majesty|majest|R|N ; -ical|ical|S ; -ness|ness|S
+majorant	noun	major|major|R|Adj ; -ant|ant|S
+majoritarianism	noun	majoritarian|majoritarian|R|Adj ; -ism|ism|S
+majorize	verb	major|major|R|N ; -ize|ize|S
+majuscular	adj	majuscule|majuscul|R|N ; -ar|ar|S
+majuscule	noun	majuscule|majuscule|R|N
+makable	adj	make|mak|R|V ; -able|able|S
+makar	noun	makar|makar|R|N
+makara	noun	makara|makara|R|N
+makefast	noun	make|make|R|V ; fast|fast|R|N
+makepeace	noun	make|make|R|V ; peace|peace|R|N
+makeshiftness	noun	makeshift|makeshift|R|Adj ; -ness|ness|S
+makgeolli	noun	makgeolli|makgeolli|R|N
+makhorka	noun	makhorka|makhorka|R|N
+makizushi	noun	makizushi|makizushi|R|N
+maknae	noun	maknae|maknae|R|N
+maktab	noun	maktab|maktab|R|N
+malacia	noun	malacia|malacia|R|N
+malacological	adj	malacology|malacolog|R|N ; -ical|ical|S
+malacologist	noun	malacology|malacolog|R|N ; -ist|ist|S
+malacology	noun	malacology|malacology|R|N
+malacostracan	adj	malacostraca|malacostrac|R|N ; -an|an|S
+maladapt	verb	mal-|mal|P ; adapt|adapt|R|V
+maladapted	adj	mal-|mal|P ; adapt|adapt|R|V ; -ed|ed|S||-ed (adj)
+maladminister	verb	mal-|mal|P ; administer|administer|R|V
+maladministrator	noun	mal-|mal|P ; administer|administrat|R|V ; -or|or|S
+maladroitly	adv	mal-|mal|P ; adroit|adroit|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+maladroitness	noun	mal-|mal|P ; adroit|adroit|R|Adj ; -ness|ness|S
+malapportionment	noun	mal-|mal|P ; apportion|apportion|R|V ; -ment|ment|S
+malapropos	adj	malapropos|malapropos|R|Adj
+malar	adj	malar|malar|R|Adj
+malarian	adj	malaria|malari|R|N ; -an|an|S
+malariology	noun	malariology|malariology|R|N
+malassimilation	noun	mal-|mal|P ; assimilate|assimil|R|V ; -ation|ation|S
+malatang	noun	malatang|malatang|R|N
+malate	noun	malate|malate|R|N
+malcontentedness	noun	mal-|mal|P ; content|content|R|Adj ; -ed|ed|S||-ed (adj) ; -ness|ness|S
+maldeveloped	adj	mal-|mal|P ; develop|develop|R|V ; -ed|ed|S||-ed (adj)
+maldevelopment	noun	mal-|mal|P ; develop|develop|R|V ; -ment|ment|S
+maldistributed	adj	mal-|mal|P ; distribute|distribut|R|V ; -ed|ed|S||-ed (adj)
+maledictive	adj	maledictive|maledictive|R|Adj
+maledictory	adj	maledictory|maledictory|R|Adj
+malefaction	noun	malefaction|malefaction|R|N
+malefactress	noun	malefactress|malefactress|R|N
+malefic	adj	malefic|malefic|R|Adj
+maleficence	noun	malefic|malefic|R|Adj ; -ence|ence|S
+malfeasant	noun	malfeasant|malfeasant|R|N
+mali	noun	mali|mali|R|N
+malic	adj	malic|malic|R|Adj
+malignance	noun	malign|malign|R|V ; -ance|ance|S
+malignantly	adv	malign|malign|R|V ; -ant|ant|S ; -ly|ly|I|Adv|-ly (adv)
+malignity	noun	malign|malign|R|V ; -ity|ity|S
+malingering	noun	malinger|malinger|R|V ; -ing|ing|S||-ing (N)
+malleableness	noun	malleate|malle|R|V ; -able|able|S ; -ness|ness|S
+malleably	adv	malleate|malle|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+malleate	verb	malleate|malleate|R|V
+malleation	noun	malleate|malleat|R|V ; -ion|ion|S
+malm	noun	malm|malm|R|N
+malmsey	noun	malmsey|malmsey|R|N
+malocclusion	noun	mal-|mal|P ; occlusion|occlusion|R|N
+malodorant	adj	mal-|mal|P ; odor|odor|R|N ; -ant|ant|S
+malodorously	adv	mal-|mal|P ; odor|odor|R|N ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+malodorousness	noun	mal-|mal|P ; odor|odor|R|N ; -ous|ous|S ; -ness|ness|S
+malpighiaceous	adj	malpighiaceous|malpighiaceous|R|Adj
+malpractitioner	noun	mal-|mal|P ; practitioner|practitioner|R|N
+maltase	noun	maltase|maltase|R|N
+malthouse	noun	malt|malt|R|N ; house|house|R|N
+maltodextrin	noun	maltodextrin|maltodextrin|R|N
+maltose	noun	maltose|maltose|R|N
+maltreater	noun	mal-|mal|P ; treat|treat|R|V ; -er|er|S||-er (N)
+malvaceous	adj	malvaceous|malvaceous|R|Adj
+malvasia	noun	malvasia|malvasia|R|N
+malversation	noun	malversation|malversation|R|N
+mamelon	noun	mamelon|mamelon|R|N
+mamilla	noun	mamilla|mamilla|R|N

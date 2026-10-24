@@ -1,0 +1,150 @@
+paternalist	noun	=
+faller	noun	=
+bromine	noun	brom-|brom|B|N|||Greek bromos 'stink' ; -ine|ine|S||||Greek -ine 'chemical substance'
+exculpate	verb	ex-|ex|P||||Latin ex- 'out, from' ; -culp-|culp|B|N|||Latin culpa 'fault' ; -ate|ate|S||||Latin -atus 'verb-forming'
+sensualist	noun	=
+quadriplegia	noun	quadri-|quadri|P||||Latin quadri- 'four' ; -pleg-|pleg|B|V|||Greek plessein 'to strike' ; -ia|ia|S||||Greek -ia 'state, quality'
+chancellery	noun	=
+altitudinal	adj	alt-|alt|B|Adj|||Latin altus 'high' ; -itudin-|itudin|S||||Latin -tudo 'state' ; -al|al|S||||Latin -alis 'relating to'
+secularity	noun	=
+styrene	noun	styr-|styr|B|N|||Latin styrax 'storax' ; -ene|ene|S||||Greek -ene 'chemical substance'
+colloid	noun	coll-|coll|B|N|||Greek kolla 'glue' ; -oid|oid|S||||Greek -eides 'form, likeness'
+mange	noun	=
+concha	noun	=
+chondrule	noun	chondr-|chondr|B|N|||Greek khondros 'grain' ; -ule|ule|S||||Latin -ulus 'diminutive'
+rotifer	noun	roti-|roti|B|N|||Latin rota 'wheel' ; -fer|fer|S||||Latin -fer 'bearing'
+aitch	noun	=
+chroma	noun	=
+eosin	noun	=
+valency	noun	=
+plenipotentiary	noun	pleni-|pleni|B|Adj|||Latin plenus 'full' ; -potent-|potent|B|Adj|||Latin potens 'mighty' ; -iary|iary|S||||Latin -arius 'relating to'
+insensate	adj	=
+necrophilia	noun	necro-|necro|B|N|||Greek nekros 'corpse' ; -philia|philia|B|N|||Greek philia 'affection'
+ionise	verb	=
+miniaturist	noun	=
+tattooist	noun	=
+saddlery	noun	=
+joss	noun	=
+masculinize	verb	=
+voracity	noun	vorac-|vorac|B|V|||Latin vorax 'devouring' ; -ity|ity|S||||Latin -itas 'state, quality'
+calcitonin	noun	=
+glaciologist	noun	=
+bioluminescence	noun	bio-|bio|B|N|||Greek bios 'life' ; luminescence|luminescence|R|N
+incubus	noun	in-|in|P||||Latin in- 'on' ; -cub-|cubus|B|V|||Latin cubare 'to lie down'
+extenuating	adj	ex-|ex|P||||Latin ex- 'out' ; -tenu-|tenu|B|Adj|||Latin tenuis 'thin' ; -at-|at|S||||Latin -atus 'verb-forming' ; -ing|ing|I
+deism	noun	de-|de|B|N|||Latin deus 'god' ; -ism|ism|S||||Greek -ismos 'doctrine'
+expatiate	verb	ex-|ex|P||||Latin ex- 'out' ; -spati-|pati|B|V|||Latin spatiari 'to walk about' ; -ate|ate|S||||Latin -atus 'verb-forming'
+sepal	noun	=
+valediction	noun	vale-|vale|B|V|||Latin vale 'farewell' ; -dict-|dict|B|V|||Latin dicere 'to say' ; -ion|ion|S||||Latin -io 'act, state'
+anencephaly	noun	=
+seraphic	adj	=
+osteotomy	noun	osteo-|osteo|B|N|||Greek osteon 'bone' ; -tomy|tomy|B|V|||Greek temnein 'to cut'
+minimus	noun	=
+obscurantist	noun	=
+grog	noun	=
+corporatization	noun	=
+hematologist	noun	=
+anhydrous	adj	an-|an|P||||Greek an- 'without' ; -hydr-|hydr|B|N|||Greek hydor 'water' ; -ous|ous|S||||Latin -osus 'full of'
+impedimenta	noun	=
+diabolic	adj	=
+phenobarbital	noun	=
+lusterless	adj	=
+coloratura	noun	=
+gnomic	adj	gnom-|gnom|B|N|||Greek gnome 'thought' ; -ic|ic|S||||Greek -ikos 'relating to'
+factotum	noun	=
+criminological	noun	=
+cassis	noun	=
+centric	adj	=
+caver	noun	=
+fraudulence	noun	fraudul-|fraudul|B|Adj|||Latin fraudulentus 'deceitful' ; -ence|ence|S||||Latin -entia 'state, quality'
+erythropoietin	noun	erythro-|erythro|B|Adj|||Greek erythros 'red' ; -poiet-|poiet|B|V|||Greek poietes 'creator, maker' ; -in|in|S||||Greek -ine 'chemical substance'
+hydrocephalus	noun	hydro-|hydro|B|N|||Greek hydor 'water' ; -cephal-|cephalus|B|N|||Greek kephale 'head'
+demiurge	noun	=
+masculinization	noun	=
+escutcheon	noun	=
+legionary	noun	=
+noetic	adj	=
+ebon	adj	=
+vestal	noun	=
+olfaction	noun	olfact-|olfact|B|V|||Latin olfacere 'to smell' ; -ion|ion|S||||Latin -io 'act, state'
+chromosphere	noun	chromo-|chromo|B|N|||Greek khroma 'colour' ; -sphere|sphere|B|N|||Greek sphaira 'sphere'
+damselfly	noun	=
+placeholder	noun	=
+hurler	noun	=
+kenosis	noun	ken-|ken|B|V|||Greek kenoen 'to empty' ; -osis|osis|S||||Greek -osis 'process, condition'
+echoey	adj	=
+scarper	verb	=
+geoscience	noun	geo-|geo|B|N|||Greek ge 'earth' ; science|science|R|N
+concupiscence	noun	=
+epiphenomenon	noun	=
+methionine	noun	=
+prolapse	noun	pro-|pro|P||||Latin pro 'forward' ; -laps-|lapse|B|V|||Latin labi 'to slip'
+fornicator	noun	fornic-|fornic|B|V|||Latin fornicari 'to fornicate' ; -ator|ator|S||||Latin -ator 'agent'
+irruption	noun	ir-|ir|P||||Latin in- 'into' ; -rupt-|rupt|B|V|||Latin rumpere 'to break' ; -ion|ion|S||||Latin -io 'act, state'
+panegyric	noun	=
+immure	verb	im-|im|P||||Latin in- 'in' ; -mur-|mure|B|N|||Latin murus 'wall'
+concessioner	noun	=
+helminth	noun	=
+prehension	noun	pre-|pre|P||||Latin prae- 'before' ; -hens-|hens|B|V|||Latin prendere 'to grasp' ; -ion|ion|S||||Latin -io 'act, state'
+impregnation	noun	im-|im|P||||Latin in- 'into' ; -pregn-|pregn|B|Adj|||Latin praegnans 'pregnant' ; -ation|ation|S||||Latin -atio 'act, state'
+paresis	noun	=
+neoclassic	adj	=
+polytheism	noun	poly-|poly|B||||Greek polys 'many' ; -the-|the|B|N|||Greek theos 'god' ; -ism|ism|S||||Greek -ismos 'doctrine'
+interposition	noun	inter-|inter|P||||Latin inter 'between' ; -posit-|posit|B|V|||Latin ponere 'to place' ; -ion|ion|S||||Latin -io 'act, state'
+plutocracy	noun	=
+gracilis	noun	=
+protuberant	adj	pro-|pro|P||||Latin pro 'forward' ; -tuber-|tuber|B|N|||Latin tuber 'swelling' ; -ant|ant|S||||Latin -ans 'present participle'
+pimpernel	noun	=
+salvager	noun	=
+brachial	adj	brachi-|brachi|B|N|||Latin bracchium 'arm' ; -al|al|S||||Latin -alis 'relating to'
+precipitant	noun	=
+fibrinogen	noun	=
+vagus	noun	=
+arteriovenous	adj	=
+papist	noun	pap-|pap|B|N|||Latin papa 'pope' ; -ist|ist|S
+venial	adj	=
+idolater	noun	=
+libration	noun	libr-|libr|B|V|||Latin librare 'to poise' ; -ation|ation|S||||Latin -atio 'act, state'
+hypnotism	noun	=
+instrumentalism	noun	=
+distrain	verb	dis-|di|P||||Latin dis- 'apart' ; -strain|strain|B|V|||Latin stringere 'to draw tight'
+pietism	noun	=
+ataxia	noun	a-|a|P||||Greek a- 'not' ; -tax-|tax|B|N|||Greek taxis 'order' ; -ia|ia|S||||Greek -ia 'state, quality'
+hematology	noun	hemato-|hemato|B|N|||Greek haima 'blood' ; -logy|logy|B|N|||Greek logos 'study, word'
+propinquity	noun	=
+distracter	noun	=
+bioassay	noun	bio-|bio|B|N|||Greek bios 'life' ; assay|assay|R|N
+placidity	noun	=
+mullein	noun	=
+alveolus	noun	=
+simplex	adj	=
+uvula	noun	=
+sternocleidomastoid	noun	sterno-|sterno|B|N|||Latin sternum 'breastbone' ; -cleido-|cleido|B|N|||Greek kleis 'collarbone' ; -mastoid|mastoid|B|N|||Greek mastos 'breast'
+biosensor	noun	bio-|bio|B|N|||Greek bios 'life' ; sensor|sensor|R|N
+interrogatory	adj	=
+petiole	noun	=
+declivity	noun	de-|de|P||||Latin de- 'down' ; -cliv-|cliv|B|N|||Latin clivus 'slope' ; -ity|ity|S||||Latin -itas 'state, quality'
+consanguinity	noun	=
+romanticization	noun	=
+kinescope	noun	=
+carbuncle	noun	=
+reprobate	noun	=
+optoelectronic	adj	=
+definer	noun	=
+nonpareil	noun	=
+animality	noun	=
+norovirus	noun	=
+alpinist	noun	=
+geocentric	adj	geo-|geo|B|N|||Greek ge 'earth' ; centric|centric|R|Adj
+ichthyosaur	noun	ichthyo-|ichthyo|B|N|||Greek ichthys 'fish' ; -saur|saur|B|N|||Greek sauros 'lizard'
+sargasso	noun	=
+lune	noun	=
+sebaceous	adj	seb-|seb|B|N|||Latin sebum 'tallow' ; -aceous|aceous|S||||Latin -aceus 'relating to'
+biophysicist	noun	bio-|bio|B|N|||Greek bios 'life' ; physicist|physicist|R|N
+outturn	noun	=
+polycrystalline	adj	poly-|poly|B||||Greek polys 'many' ; crystalline|crystalline|R|Adj
+spirea	noun	=
+clanger	noun	=
+monomaniacal	adj	=
+sybarite	noun	=
+tricyclic	adj	=

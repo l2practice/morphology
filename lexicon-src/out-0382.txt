@@ -1,0 +1,200 @@
+skiagram	noun	skiagram|skiagram|R|N
+skiascopy	noun	skiascopy|skiascopy|R|N
+skibidi	noun	skibidi|skibidi|R|N
+skidder	noun	skid|skidd|R|V ; -er|er|S||-er (N)
+skiffling	verb	skiffle|skiffl|R|V ; -ing|ing|I||-ing (v)
+skijoring	noun	skijoring|skijoring|R|N
+skilfulness	noun	skill|skil|R|N ; -ful|ful|S ; -ness|ness|S
+skilless	adj	skill|skil|R|N ; -less|less|S
+skillfulness	noun	skill|skill|R|N ; -ful|ful|S ; -ness|ness|S
+skillion	noun	skillion|skillion|R|N
+skilly	noun	skilly|skilly|R|N
+skimming	verb	skim|skimm|R|V ; -ing|ing|I||-ing (v)
+skimped	verb	skimp|skimp|R|V ; -ed|ed|I||-ed (v2)
+skimpily	adv	skimp|skimp|R|V ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+skimpiness	noun	skimp|skimp|R|V ; -y|i|S ; -ness|ness|S
+skimping	verb	skimp|skimp|R|V ; -ing|ing|I||-ing (v)
+skimpingly	adv	skimp|skimp|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+skinniness	noun	skinny|skinni|R|Adj ; -ness|ness|S
+skins	noun	skin|skin|R|N ; -s|s|I||-s (plural)
+skippet	noun	skippet|skippet|R|N
+skippingly	adv	skip|skipp|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+skirr	verb	skirr|skirr|R|V
+skirret	noun	skirret|skirret|R|N
+skite	verb	skite|skite|R|V
+skiver	noun	skive|skiv|R|V ; -er|er|S||-er (N)
+skiving	verb	skive|skiv|R|V ; -ing|ing|I||-ing (v)
+skivvies	noun	skivvy|skivv|R|N ; -es|ies|I||-s (plural)
+skoal	interj	skoal|skoal|R
+skort	noun	skort|skort|R|N
+skulker	noun	skulk|skulk|R|V ; -er|er|S||-er (N)
+skulking	verb	skulk|skulk|R|V ; -ing|ing|I||-ing (v)
+skulkingly	adv	skulk|skulk|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+skunked	verb	skunk|skunk|R|V ; -ed|ed|I||-ed (v2)
+skyclad	adj	sky|sky|R|N ; clad|clad|R|Adj
+skyed	verb	sky|sky|R|V ; -ed|ed|I||-ed (v2)
+skyey	adj	sky|sky|R|N ; -y|ey|S
+skylarking	noun	sky|sky|R|N ; lark|lark|R|V ; -ing|ing|S||-ing (N)
+skyman	noun	sky|sky|R|N ; man|man|R|N
+skype	verb	skype|skype|R|V
+skyr	noun	skyr|skyr|R|N
+skyrmion	noun	skyrmion|skyrmion|R|N
+skysail	noun	sky|sky|R|N ; sail|sail|R|N
+slabbed	verb	slab|slabb|R|V ; -ed|ed|I||-ed (v2)
+slabber	verb	slabber|slabber|R|V
+slabbing	verb	slab|slabb|R|V ; -ing|ing|I||-ing (v)
+slacked	verb	slack|slack|R|V ; -ed|ed|I||-ed (v2)
+slackline	noun	slack|slack|R|Adj ; line|line|R|N
+slacks	noun	slack|slack|R|N ; -s|s|I||-s (plural)
+slaggy	adj	slag|slagg|R|N ; -y|y|S
+slaked	verb	slake|slak|R|V ; -ed|ed|I||-ed (v2)
+slalomer	noun	slalom|slalom|R|N ; -er|er|S||-er (N)
+slanderer	noun	slander|slander|R|V ; -er|er|S||-er (N)
+slandering	verb	slander|slander|R|V ; -ing|ing|I||-ing (v)
+slanderously	adv	slander|slander|R|V ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+slanderousness	noun	slander|slander|R|V ; -ous|ous|S ; -ness|ness|S
+slangily	adv	slang|slang|R|N ; -y|i|S ; -ly|ly|I|Adv|-ly (adv)
+slanginess	noun	slang|slang|R|N ; -y|i|S ; -ness|ness|S
+slantingly	adv	slant|slant|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+slantingness	noun	slant|slant|R|V ; -ing|ing|S||-ing (adj) ; -ness|ness|S
+slapdash	adj	slap|slap|R|V ; dash|dash|R|V
+slapjack	noun	slap|slap|R|V ; jack|jack|R|N
+slapper	noun	slap|slapp|R|V ; -er|er|S||-er (N)
+slaps	noun	slap|slap|R|N ; -s|s|I||-s (plural)
+slathering	verb	slather|slather|R|V ; -ing|ing|I||-ing (v)
+slatiness	noun	slate|slat|R|N ; -y|i|S ; -ness|ness|S
+slating	verb	slate|slat|R|V ; -ing|ing|I||-ing (v)
+slatternliness	noun	slattern|slattern|R|N ; -ly|li|S||-ly (adj) ; -ness|ness|S
+slatternly	adj	slattern|slattern|R|N ; -ly|ly|S||-ly (adj)
+slaughterous	adj	slaughter|slaughter|R|V ; -ous|ous|S
+slaughterously	adv	slaughter|slaughter|R|V ; -ous|ous|S ; -ly|ly|I|Adv|-ly (adv)
+slaveowner	noun	slave|slave|R|N ; own|own|R|V ; -er|er|S||-er (N)
+slavess	noun	slave|slav|R|N ; -ess|ess|S
+slavey	noun	slave|slave|R|N ; -y|y|S
+slaving	verb	slave|slav|R|V ; -ing|ing|I||-ing (v)
+slavishness	noun	slave|slav|R|N ; -ish|ish|S ; -ness|ness|S
+slavocracy	noun	slavocracy|slavocracy|R|N
+sleazebag	noun	sleaze|sleaze|R|N ; bag|bag|R|N
+sleazemonger	noun	sleaze|sleaze|R|N ; monger|monger|R|N
+sleazily	adv	sleazy|sleazi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+sleaziness	noun	sleazy|sleazi|R|Adj ; -ness|ness|S
+sledder	noun	sled|sledd|R|N ; -er|er|S||-er (N)
+sledging	verb	sledge|sledg|R|V ; -ing|ing|I||-ing (v)
+sleeker	adj	sleek|sleek|R|Adj ; -er|er|I||-er (comparative)
+sleeking	verb	sleek|sleek|R|V ; -ing|ing|I||-ing (v)
+sleeky	adj	sleek|sleek|R|Adj ; -y|y|S
+sleepsuit	noun	sleep|sleep|R|V ; suit|suit|R|N
+sleeptalk	noun	sleep|sleep|R|V ; talk|talk|R|V
+sleetiness	noun	sleet|sleet|R|N ; -y|i|S ; -ness|ness|S
+sleety	adj	sleet|sleet|R|N ; -y|y|S
+sleeving	verb	sleeve|sleev|R|V ; -ing|ing|I||-ing (v)
+sleighing	verb	sleigh|sleigh|R|V ; -ing|ing|I||-ing (v)
+sleiveen	noun	sleiveen|sleiveen|R|N
+slenderize	verb	slender|slender|R|Adj ; -ize|ize|S
+slenderly	adv	slender|slender|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+slickenside	noun	slicken|slicken|R|V ; side|side|R|N
+slickensided	adj	slicken|slicken|R|V ; side|sid|R|N ; -ed|ed|S||-ed (adj)
+slicking	verb	slick|slick|R|V ; -ing|ing|I||-ing (v)
+slighting	verb	slight|slight|R|V ; -ing|ing|I||-ing (v)
+slightness	noun	slight|slight|R|Adj ; -ness|ness|S
+sliminess	noun	slimy|slimi|R|Adj ; -ness|ness|S
+slimly	adv	slim|slim|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+slimmish	adj	slim|slimm|R|Adj ; -ish|ish|S
+slimsy	adj	slimsy|slimsy|R|Adj
+slinger	noun	sling|sling|R|V ; -er|er|S||-er (N)
+slinkily	adv	slinky|slinki|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+slinkiness	noun	slinky|slinki|R|Adj ; -ness|ness|S
+slipover	noun	slip|slip|R|V ; over|over|R|Adv
+slipperily	adv	slippery|slipperi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+slippering	verb	slipper|slipper|R|V ; -ing|ing|I||-ing (v)
+slipperwort	noun	slipper|slipper|R|N ; wort|wort|R|N
+slips	noun	slip|slip|R|N ; -s|s|I||-s (plural)
+slipslop	noun	slip|slip|R|V ; slop|slop|R|V
+slitter	noun	slit|slitt|R|V ; -er|er|S||-er (N)
+slitting	verb	slit|slitt|R|V ; -ing|ing|I||-ing (v)
+sliverer	noun	sliver|sliver|R|V ; -er|er|S||-er (N)
+slivovitz	noun	slivovitz|slivovitz|R|N
+slobberiness	noun	slobber|slobber|R|V ; -y|i|S ; -ness|ness|S
+slobbers	noun	slobber|slobber|R|N ; -s|s|I||-s (plural)
+sloboda	noun	sloboda|sloboda|R|N
+sloganize	verb	slogan|slogan|R|N ; -ize|ize|S
+sloganizer	noun	slogan|slogan|R|N ; -ize|iz|S ; -er|er|S||-er (N)
+slogger	noun	slog|slogg|R|V ; -er|er|S||-er (N)
+sloot	noun	sloot|sloot|R|N
+slopewise	adv	slope|slope|R|N ; -wise|wise|S
+slopping	verb	slop|slopp|R|V ; -ing|ing|I||-ing (v)
+slops	noun	slop|slop|R|N ; -s|s|I||-s (plural)
+slothfully	adv	sloth|sloth|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+slothfulness	noun	sloth|sloth|R|N ; -ful|ful|S ; -ness|ness|S
+slotted	verb	slot|slott|R|V ; -ed|ed|I||-ed (v2)
+slotter	noun	slot|slott|R|V ; -er|er|S||-er (N)
+slotting	verb	slot|slott|R|V ; -ing|ing|I||-ing (v)
+slouchily	adv	slouchy|slouchi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+slouchiness	noun	slouchy|slouchi|R|Adj ; -ness|ness|S
+slouchingly	adv	slouch|slouch|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+sloughing	verb	slough|slough|R|V ; -ing|ing|I||-ing (v)
+sloughy	adj	slough|slough|R|N ; -y|y|S
+sloven	noun	sloven|sloven|R|N
+slowcoach	noun	slow|slow|R|Adj ; coach|coach|R|N
+slowworm	noun	slow|slow|R|Adj ; worm|worm|R|N
+sloyd	noun	sloyd|sloyd|R|N
+slub	noun	slub|slub|R|N
+slubber	verb	slubber|slubber|R|V
+slubberingly	adv	slubber|slubber|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+sludger	noun	sludge|sludg|R|N ; -er|er|S||-er (N)
+slue	verb	slue|slue|R|V
+sluff	verb	sluff|sluff|R|V
+slugabed	noun	slug|slug|R|N ; a|a|R ; bed|bed|R|N
+sluggardly	adj	sluggard|sluggard|R|N ; -ly|ly|S||-ly (adj)
+sluicing	verb	sluice|sluic|R|V ; -ing|ing|I||-ing (v)
+slumberer	noun	slumber|slumber|R|V ; -er|er|S||-er (N)
+slumberingly	adv	slumber|slumber|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+slumberland	noun	slumber|slumber|R|N ; land|land|R|N
+slumberous	adj	slumber|slumber|R|V ; -ous|ous|S
+slumbery	adj	slumber|slumber|R|V ; -y|y|S
+slumdom	noun	slum|slum|R|N ; -dom|dom|S
+slumdweller	noun	slum|slum|R|N ; dwell|dwell|R|V ; -er|er|S||-er (N)
+slummer	noun	slum|slumm|R|V ; -er|er|S||-er (N)
+slumming	verb	slum|slumm|R|V ; -ing|ing|I||-ing (v)
+slummock	noun	slummock|slummock|R|N
+slummy	adj	slum|slumm|R|N ; -y|y|S
+slusher	noun	slush|slush|R|V ; -er|er|S||-er (N)
+sluttery	noun	slut|slutt|R|N ; -ery|ery|S
+sluttish	adj	slut|slutt|R|N ; -ish|ish|S
+sluttishly	adv	slut|slutt|R|N ; -ish|ish|S ; -ly|ly|I|Adv|-ly (adv)
+sluttishness	noun	slut|slutt|R|N ; -ish|ish|S ; -ness|ness|S
+slyboots	noun	sly|sly|R|Adj ; boot|boot|R|N ; -s|s|I||-s (plural)
+slype	noun	slype|slype|R|N
+smacksman	noun	smack|smacks|R|N ; man|man|R|N
+smallage	noun	smallage|smallage|R|N
+smallfolk	noun	small|small|R|Adj ; folk|folk|R|N
+smalt	noun	smalt|smalt|R|N
+smaltite	noun	smaltite|smaltite|R|N
+smalto	noun	smalto|smalto|R|N
+smaragdine	adj	smaragdine|smaragdine|R|Adj
+smaragdite	noun	smaragdite|smaragdite|R|N
+smarm	verb	smarm|smarm|R|V
+smartass	noun	smart|smart|R|Adj ; ass|ass|R|N
+smarting	verb	smart|smart|R|V ; -ing|ing|I||-ing (v)
+smartish	adj	smart|smart|R|Adj ; -ish|ish|S
+smartphone	noun	smart|smart|R|Adj ; phone|phone|R|N
+smartwatch	noun	smart|smart|R|Adj ; watch|watch|R|N
+smatter	verb	smatter|smatter|R|V
+smatterer	noun	smatter|smatter|R|V ; -er|er|S||-er (N)
+smatteringly	adv	smatter|smatter|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+smaze	noun	smaze|smaze|R|N
+smearer	noun	smear|smear|R|V ; -er|er|S||-er (N)
+smeariness	noun	smear|smear|R|V ; -y|i|S ; -ness|ness|S
+smectite	noun	smectite|smectite|R|N
+smeech	noun	smeech|smeech|R|N
+smegma	noun	smegma|smegma|R|N
+smegmatic	adj	smegma|smegmat|R|N ; -ic|ic|S
+smeller	noun	smell|smell|R|V ; -er|er|S||-er (N)
+smeltery	noun	smelt|smelt|R|V ; -ery|ery|S
+smerd	noun	smerd|smerd|R|N
+smetana	noun	smetana|smetana|R|N
+smew	noun	smew|smew|R|N
+smilax	noun	smilax|smilax|R|N
+smileless	adj	smile|smile|R|N ; -less|less|S
+smirch	verb	smirch|smirch|R|V
+smirkingly	adv	smirk|smirk|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)

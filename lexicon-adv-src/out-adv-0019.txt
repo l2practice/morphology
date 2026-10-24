@@ -1,0 +1,150 @@
+olive	noun	=
+filmmaker	noun	=
+provisional	adj	=
+credential	noun	cred-|cred|B|V|||Latin credere 'to trust' ; -ential|ential|S||||Latin -ialis, 'pertaining to'
+distortion	noun	=
+distraction	noun	=
+heroic	adj	=
+affiliation	noun	af-|af|P|||ad-|Latin ad- 'to' ; -fili-|fili|B|N|||Latin filius 'son' ; -ation|ation|S||||Latin -atio, 'action, result'
+asteroid	noun	=
+solvent	noun	=
+anticipation	noun	=
+unveil	verb	=
+meditation	noun	=
+protester	noun	=
+subordinate	adj	sub-|sub|P||||Latin sub 'under' ; -ordin-|ordin|B|V|||Latin ordinare 'to order' ; -ate|ate|S||||Latin -atus, 'verb-forming'
+peripheral	adj	=
+transcript	noun	=
+novelist	noun	=
+abundant	adj	=
+prone	adj	=
+fluctuation	noun	=
+palmer	noun	=
+syllable	noun	=
+inquest	noun	=
+intercourse	noun	=
+poise	noun	=
+marital	adj	=
+excavation	noun	ex-|ex|P||||Latin ex 'out' ; -cav-|cav|B|V|||Latin cavare 'to hollow' ; -ation|ation|S||||Latin -atio, 'action, result'
+drape	verb	=
+evangelical	adj	=
+differentiation	noun	=
+coroner	noun	=
+pharmaceutical	adj	=
+lotus	noun	=
+contractual	adj	=
+prototype	noun	proto-|proto|P||||Greek prōtos 'first' ; type|type|R|N
+magnet	noun	=
+emit	verb	=
+noun	noun	=
+embryo	noun	em-|em|P|||en-|Greek en 'in' ; -bryo|bryo|B|V|||Greek bruein 'to grow, swell'
+quantitative	adj	=
+efficacy	noun	effic-|effic|B|Adj|||Latin efficax 'effective' ; -acy|acy|S||||Latin -acia, 'state, quality'
+anthropologist	noun	=
+ample	adj	=
+mutation	noun	=
+potent	adj	pot-|pot|B|V|||Latin potis 'able, powerful' ; -ent|ent|S||||Latin -ens, 'agent'
+patten	noun	=
+scholarly	adj	=
+pastry	noun	=
+privatization	noun	=
+volcano	noun	=
+syntactic	adj	=
+satisfying	adj	=
+platelet	noun	=
+deteriorate	verb	=
+lesbian	noun	=
+oblige	verb	=
+embargo	noun	=
+cynical	adj	=
+badge	noun	=
+implant	verb	=
+nephew	noun	=
+vintage	noun	=
+dietary	adj	=
+vacant	adj	vac-|vac|B|V|||Latin vacare 'to be empty' ; -ant|ant|S||||Latin -ans, 'agent'
+fertilizer	noun	=
+gratitude	noun	grat-|grat|B|Adj|||Latin gratus 'thankful' ; -itude|itude|S||||Latin -itudo, 'state, quality'
+altitude	noun	alt-|alt|B|Adj|||Latin altus 'high' ; -itude|itude|S||||Latin -itudo, 'state, quality'
+premature	adj	=
+dispense	verb	=
+adhere	verb	ad-|ad|P||||Latin ad 'to' ; -here|here|B|V|||Latin haerere 'to stick'
+collaborate	verb	=
+manoeuvre	noun	=
+waitress	noun	=
+aeroplane	noun	=
+remnant	noun	=
+cement	noun	=
+recite	verb	=
+communal	adj	=
+occupant	noun	=
+cuisine	noun	=
+preside	verb	pre-|pre|P||||Latin prae 'before' ; -side|side|B|V|||Latin sedere 'to sit'
+imminent	adj	im-|im|P|||in-|Latin in- 'upon' ; -min-|min|B|V|||Latin minere 'to project, overhang' ; -ent|ent|S||||Latin -ens, 'agent'
+advent	noun	=
+devastate	verb	de-|de|P||||Latin de- 'away' ; vast|vast|R|V ; -ate|ate|S||||Latin -atus, 'verb-forming'
+navigate	verb	=
+vacancy	noun	vac-|vac|B|V|||Latin vacare 'to be empty' ; -ancy|ancy|S||||Latin -antia, 'state, quality'
+robust	adj	=
+feasible	adj	feas-|feas|B|V||fac|Latin facere 'to do' ; -ible|ible|S||||Latin -ibilis, 'able to be'
+mama	noun	=
+parlor	noun	parl-|parl|B|V|||French parler 'to speak' ; -or|or|S||||Latin -or, 'agent'
+ecology	noun	eco-|eco|B|N|||Greek oikos 'house' ; -logy|logy|B|N|||Greek logos 'study, word'
+accessory	noun	=
+ambiguous	adj	ambi-|ambi|P||||Latin ambi- 'around, both' ; -gu-|gu|B|V||ag|Latin agere 'to drive' ; -ous|ous|S||||Latin -osus, 'full of'
+generic	adj	=
+marathon	noun	=
+customary	adj	=
+prestigious	adj	=
+massacre	noun	=
+deviation	noun	=
+spirituality	noun	=
+porter	noun	=
+cinnamon	noun	=
+devotion	noun	=
+preoccupation	noun	=
+insane	adj	=
+superficial	adj	=
+plausible	adj	plaus-|plaus|B|V|||Latin plaudere 'to applaud' ; -ible|ible|S||||Latin -ibilis, 'able to be'
+spawn	verb	=
+indict	verb	=
+ivory	noun	=
+hygiene	noun	=
+litter	noun	=
+voyage	noun	=
+migrate	verb	migr-|migr|B|V|||Latin migrare 'to move' ; -ate|ate|S||||Latin -atus, 'verb-forming'
+perfection	noun	=
+superiority	noun	=
+rite	noun	=
+imaginary	adj	=
+amenity	noun	=
+interruption	noun	=
+cruelty	noun	=
+contamination	noun	=
+appropriation	noun	=
+conspicuous	adj	con-|con|P||||Latin com- 'together' ; -spic-|spic|B|V|||Latin specere 'to look' ; -uous|uous|S||||Latin -osus, 'full of'
+artillery	noun	=
+moist	adj	=
+retention	noun	re-|re|P||||Latin re- 'back, again' ; -ten-|ten|B|V|||Latin tenere 'to hold' ; -tion|tion|S||||Latin -tio, 'action, result'
+depot	noun	=
+comrade	noun	=
+urine	noun	=
+contention	noun	=
+abnormal	adj	=
+tractor	noun	tract-|tract|B|V|||Latin trahere 'to pull' ; -or|or|S||||Latin -or, 'agent'
+summons	noun	=
+culminate	verb	=
+paradox	noun	=
+vase	noun	=
+revolt	noun	=
+critically	adv	=
+excursion	noun	ex-|ex|P||||Latin ex 'out' ; -curr-|cur|B|V|||Latin currere 'to run' ; -sion|sion|S||||Latin -sio, 'action, result'
+policymaker	noun	=
+cloak	noun	=
+stimulation	noun	=
+insult	noun	=
+asthma	noun	=
+usher	noun	=
+discriminate	verb	discrimin-|discrimin|B|V|||Latin discriminare 'to divide, separate' ; -ate|ate|S||||Latin -atus, 'verb-forming'
+golfer	noun	=
+pearl	noun	=

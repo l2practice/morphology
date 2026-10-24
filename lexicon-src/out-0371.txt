@@ -1,0 +1,200 @@
+retractile	adj	retractile|retractile|R|Adj
+retractility	noun	retractile|retractil|R|Adj ; -ity|ity|S
+retral	adj	retral|retral|R|Adj
+retransfer	verb	re-|re|P ; transfer|transfer|R|V
+retransform	verb	re-|re|P ; transform|transform|R|V
+retranslate	verb	re-|re|P ; translate|translate|R|V
+retranslation	noun	re-|re|P ; translate|translat|R|V ; -ion|ion|S
+retranslocation	noun	re-|re|P ; trans-|trans|P ; locate|locat|R|V ; -ion|ion|S
+retreading	verb	re-|re|P ; tread|tread|R|V ; -ing|ing|I||-ing (v)
+retree	verb	re-|re|P ; tree|tree|R|N
+retrenching	verb	re-|re|P ; trench|trench|R|V ; -ing|ing|I||-ing (v)
+retributory	adj	retribute|retribut|R|V ; -ory|ory|S
+retrieving	verb	retrieve|retriev|R|V ; -ing|ing|I||-ing (v)
+retroact	verb	retroact|retroact|R|V
+retroaction	noun	retroact|retroact|R|V ; -ion|ion|S
+retrobulbar	adj	retrobulbar|retrobulbar|R|Adj
+retrocede	verb	retrocede|retrocede|R|V
+retrocedence	noun	retrocede|retroced|R|V ; -ence|ence|S
+retrocedent	adj	retrocede|retroced|R|V ; -ent|ent|S
+retrocerebral	adj	retrocerebral|retrocerebral|R|Adj
+retrocervical	adj	retrocervical|retrocervical|R|Adj
+retrocession	noun	retrocede|retrocess|R|V ; -ion|ion|S
+retrocessive	adj	retrocede|retrocess|R|V ; -ive|ive|S
+retrochoir	noun	retrochoir|retrochoir|R|N
+retrocognition	noun	retrocognition|retrocognition|R|N
+retrocollic	adj	retrocollic|retrocollic|R|Adj
+retrocomputing	noun	retrocomputing|retrocomputing|R|N
+retrocurved	adj	retrocurved|retrocurved|R|Adj
+retroflex	verb	retroflex|retroflex|R|V
+retroflexed	adj	retroflex|retroflex|R|V ; -ed|ed|S||-ed (adj)
+retroflexion	noun	retroflex|retroflex|R|V ; -ion|ion|S
+retrofuturistic	adj	retrofuturist|retrofuturist|R|N ; -ic|ic|S
+retrogradation	noun	retrograde|retrograd|R|V ; -ation|ation|S
+retrogress	verb	retrogress|retrogress|R|V
+retrogressively	adv	retrogress|retrogress|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+retroinsular	adj	retroinsular|retroinsular|R|Adj
+retroject	verb	retroject|retroject|R|V
+retrolingual	adj	retrolingual|retrolingual|R|Adj
+retromandibular	adj	retromandibular|retromandibular|R|Adj
+retron	noun	retron|retron|R|N
+retronasal	adj	retronasal|retronasal|R|Adj
+retronym	noun	retronym|retronym|R|N
+retroocular	adj	retroocular|retroocular|R|Adj
+retropack	noun	retropack|retropack|R|N
+retroperitoneal	adj	retroperitoneal|retroperitoneal|R|Adj
+retroposition	noun	retroposition|retroposition|R|N
+retropubic	adj	retropubic|retropubic|R|Adj
+retroreflector	noun	retroreflect|retroreflect|R|V ; -or|or|S
+retrorse	adj	retrorse|retrorse|R|Adj
+retrosynthesis	noun	retrosynthesis|retrosynthesis|R|N
+retroversion	noun	retrovert|retrovers|R|V ; -ion|ion|S
+retroverted	adj	retrovert|retrovert|R|V ; -ed|ed|S||-ed (adj)
+retrying	verb	re-|re|P ; try|try|R|V ; -ing|ing|I||-ing (v)
+retsina	noun	retsina|retsina|R|N
+rettery	noun	rett|rett|R|V ; -ery|ery|S
+retting	noun	rett|rett|R|V ; -ing|ing|S||-ing (N)
+retubing	verb	re-|re|P ; tube|tub|R|V ; -ing|ing|I||-ing (v)
+returns	noun	return|return|R|V ; -s|s|I||-s (plural)
+retuse	adj	retuse|retuse|R|Adj
+retweet	verb	re-|re|P ; tweet|tweet|R|V
+retyre	verb	re-|re|P ; tyre|tyre|R|N
+reunionist	noun	re-|re|P ; union|union|R|N ; -ist|ist|S
+reunionistic	adj	re-|re|P ; union|union|R|N ; -ist|ist|S ; -ic|ic|S
+reuniting	verb	re-|re|P ; unite|unit|R|V ; -ing|ing|I||-ing (v)
+reusability	noun	re-|re|P ; use|us|R|V ; -able|abil|S ; -ity|ity|S
+reusing	verb	re-|re|P ; use|us|R|V ; -ing|ing|I||-ing (v)
+reutilize	verb	re-|re|P ; utilize|utilize|R|V
+revaccinate	verb	re-|re|P ; vaccinate|vaccinate|R|V
+revaccination	noun	re-|re|P ; vaccinate|vaccinat|R|V ; -ion|ion|S
+revalidate	verb	re-|re|P ; validate|validate|R|V
+revalorization	noun	re-|re|P ; valorize|valoriz|R|V ; -ation|ation|S
+revalorize	verb	re-|re|P ; valorize|valorize|R|V
+revaluate	verb	re-|re|P ; valuate|valuate|R|V
+revanche	noun	revanche|revanche|R|N
+revanchism	noun	revanche|revanch|R|N ; -ism|ism|S
+revealable	adj	reveal|reveal|R|V ; -able|able|S
+revegetate	verb	re-|re|P ; vegetate|vegetate|R|V
+revelationist	noun	reveal|revel|R|V ; -ation|ation|S ; -ist|ist|S
+revelator	noun	revelator|revelator|R|N
+revelling	verb	revel|revell|R|V ; -ing|ing|I||-ing (v)
+revendication	noun	re-|re|P ; vendicate|vendicat|R|V ; -ion|ion|S
+revengefully	adv	revenge|revenge|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+revengefulness	noun	revenge|revenge|R|N ; -ful|ful|S ; -ness|ness|S
+revenger	noun	revenge|reveng|R|V ; -er|er|S||-er (N)
+revenging	verb	revenge|reveng|R|V ; -ing|ing|I||-ing (v)
+reverberative	adj	reverberate|reverberat|R|V ; -ive|ive|S
+reverberator	noun	reverberate|reverberat|R|V ; -or|or|S
+reverberatory	adj	reverberate|reverberat|R|V ; -ory|ory|S
+revers	noun	revers|revers|R|N
+reversi	noun	reversi|reversi|R|N
+reversional	adj	revert|revers|R|V ; -ion|ion|S ; -al|al|S
+reverted	verb	revert|revert|R|V ; -ed|ed|I||-ed (v2)
+revertible	adj	revert|revert|R|V ; -ible|ible|S
+revet	verb	revet|revet|R|V
+reviewal	noun	review|review|R|V ; -al|al|S
+revilement	noun	revile|revile|R|V ; -ment|ment|S
+reviler	noun	revile|revil|R|V ; -er|er|S||-er (N)
+reviling	verb	revile|revil|R|V ; -ing|ing|I||-ing (v)
+revisable	adj	revise|revis|R|V ; -able|able|S
+revisal	noun	revise|revis|R|V ; -al|al|S
+reviser	noun	revise|revis|R|V ; -er|er|S||-er (N)
+revisional	adj	revise|revis|R|V ; -ion|ion|S ; -al|al|S
+revisiting	verb	re-|re|P ; visit|visit|R|V ; -ing|ing|I||-ing (v)
+revisory	adj	revise|revis|R|V ; -ory|ory|S
+revivable	adj	revive|reviv|R|V ; -able|able|S
+reviver	noun	revive|reviv|R|V ; -er|er|S||-er (N)
+revivification	noun	revivify|revivifi|R|V ; -ation|cation|S
+revivifier	noun	revivify|revivifi|R|V ; -er|er|S||-er (N)
+reviviscence	noun	reviviscence|reviviscence|R|N
+reviviscent	adj	reviviscent|reviviscent|R|Adj
+revocability	noun	revoke|revoc|R|V ; -able|abil|S ; -ity|ity|S
+revocatory	adj	revoke|revoc|R|V ; -ory|atory|S
+revoking	verb	revoke|revok|R|V ; -ing|ing|I||-ing (v)
+revolter	noun	revolt|revolt|R|V ; -er|er|S||-er (N)
+revoltingly	adv	revolt|revolt|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+revolute	adj	revolute|revolute|R|Adj
+revolutionarily	adv	revolve|revolut|R|V ; -ion|ion|S ; -ary|ari|S ; -ly|ly|I|Adv|-ly (adv)
+revolutionism	noun	revolve|revolut|R|V ; -ion|ion|S ; -ism|ism|S
+revulsive	adj	revulse|revuls|R|V ; -ive|ive|S
+revving	verb	rev|revv|R|V ; -ing|ing|I||-ing (v)
+rewardable	adj	reward|reward|R|V ; -able|able|S
+rewarder	noun	reward|reward|R|V ; -er|er|S||-er (N)
+rewash	verb	re-|re|P ; wash|wash|R|V
+rewatch	verb	re-|re|P ; watch|watch|R|V
+rewater	verb	re-|re|P ; water|water|R|V
+reweigh	verb	re-|re|P ; weigh|weigh|R|V
+rewild	verb	re-|re|P ; wild|wild|R|Adj
+rewilding	noun	re-|re|P ; wild|wild|R|Adj ; -ing|ing|S||-ing (N)
+rewinder	noun	re-|re|P ; wind|wind|R|V ; -er|er|S||-er (N)
+rezident	noun	rezident|rezident|R|N
+rhabdoid	adj	rhabdoid|rhabdoid|R|Adj
+rhabdomancy	noun	rhabdomancy|rhabdomancy|R|N
+rhabdome	noun	rhabdome|rhabdome|R|N
+rhabdomere	noun	rhabdomere|rhabdomere|R|N
+rhabdomyolysis	noun	rhabdomyolysis|rhabdomyolysis|R|N
+rhamnaceous	adj	rhamnaceous|rhamnaceous|R|Adj
+rhamnose	noun	rhamnose|rhamnose|R|N
+rhapsode	noun	rhapsode|rhapsode|R|N
+rhapsodical	adj	rhapsody|rhapsod|R|N ; -ic|ic|S ; -al|al|S
+rhapsodist	noun	rhapsody|rhapsod|R|N ; -ist|ist|S
+rhapsodizing	verb	rhapsody|rhapsod|R|N ; -ize|iz|S ; -ing|ing|I||-ing (v)
+rhebok	noun	rhebok|rhebok|R|N
+rhematic	adj	rhematic|rhematic|R|Adj
+rhenium	noun	rhenium|rhenium|R|N
+rheobase	noun	rheobase|rheobase|R|N
+rheological	adj	rheology|rheolog|R|N ; -ical|ical|S
+rheology	noun	rheology|rheology|R|N
+rheometer	noun	rheometer|rheometer|R|N
+rheometry	noun	rheometer|rheometr|R|N ; -y|y|S
+rheotaxis	noun	rheotaxis|rheotaxis|R|N
+rheotropic	adj	rheotropic|rheotropic|R|Adj
+rheum	noun	rheum|rheum|R|N
+rheumaticky	adj	rheumaticky|rheumaticky|R|Adj
+rheumatological	adj	rheumatology|rheumatolog|R|N ; -ical|ical|S
+rhinal	adj	rhinal|rhinal|R|Adj
+rhinarium	noun	rhinarium|rhinarium|R|N
+rhinology	noun	rhinology|rhinology|R|N
+rhinopharyngeal	adj	rhinopharyngeal|rhinopharyngeal|R|Adj
+rhinopharyngitis	noun	rhinopharyngitis|rhinopharyngitis|R|N
+rhinophore	noun	rhinophore|rhinophore|R|N
+rhinoplastic	adj	rhinoplasty|rhinoplast|R|N ; -ic|ic|S
+rhinoscope	noun	rhinoscope|rhinoscope|R|N
+rhinoscopy	noun	rhinoscope|rhinoscop|R|N ; -y|y|S
+rhinotillexomania	noun	rhinotillexomania|rhinotillexomania|R|N
+rhizanthous	adj	rhizanthous|rhizanthous|R|Adj
+rhizobial	adj	rhizobium|rhizobi|R|N ; -al|al|S
+rhizobium	noun	rhizobium|rhizobium|R|N
+rhizocarpous	adj	rhizocarpous|rhizocarpous|R|Adj
+rhizocephalan	noun	rhizocephalan|rhizocephalan|R|N
+rhizogenesis	noun	rhizogenesis|rhizogenesis|R|N
+rhizoid	noun	rhizoid|rhizoid|R|N
+rhizomorph	noun	rhizomorph|rhizomorph|R|N
+rhizomorphous	adj	rhizomorph|rhizomorph|R|N ; -ous|ous|S
+rhizopod	noun	rhizopod|rhizopod|R|N
+rhizopodium	noun	rhizopodium|rhizopodium|R|N
+rhizosphere	noun	rhizosphere|rhizosphere|R|N
+rhizotaxis	noun	rhizotaxis|rhizotaxis|R|N
+rhizotonic	adj	rhizotonic|rhizotonic|R|Adj
+rhodamine	noun	rhodamine|rhodamine|R|N
+rhodochrosite	noun	rhodochrosite|rhodochrosite|R|N
+rhodonite	noun	rhodonite|rhodonite|R|N
+rhomb	noun	rhomb|rhomb|R|N
+rhombic	adj	rhomb|rhomb|R|N ; -ic|ic|S
+rhombicosidodecahedron	noun	rhombicosidodecahedron|rhombicosidodecahedron|R|N
+rhombicuboctahedron	noun	rhombicuboctahedron|rhombicuboctahedron|R|N
+rhombohedral	adj	rhombohedron|rhombohedr|R|N ; -al|al|S
+rhombohedron	noun	rhombohedron|rhombohedron|R|N
+rhomboidal	adj	rhomboid|rhomboid|R|N ; -al|al|S
+rhombus	noun	rhombus|rhombus|R|N
+rhomphaia	noun	rhomphaia|rhomphaia|R|N
+rhonchus	noun	rhonchus|rhonchus|R|N
+rhotacism	noun	rhotacism|rhotacism|R|N
+rhotacize	verb	rhotacize|rhotacize|R|V
+rhoticity	noun	rhotic|rhotic|R|Adj ; -ity|ity|S
+rhumb	noun	rhumb|rhumb|R|N
+rhymer	noun	rhyme|rhym|R|V ; -er|er|S||-er (N)
+rhymester	noun	rhyme|rhym|R|V ; -ster|ester|S
+rhynchophoran	noun	rhynchophoran|rhynchophoran|R|N
+rhyolite	noun	rhyolite|rhyolite|R|N
+rhythmics	noun	rhythmics|rhythmics|R|N

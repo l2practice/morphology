@@ -1,0 +1,200 @@
+mispunctuate	verb	mis-|mis|P ; punctuate|punctuate|R|V
+mispunctuation	noun	mis-|mis|P ; punctuate|punctuat|R|V ; -ion|ion|S
+misquotation	noun	mis-|mis|P ; quote|quot|R|V ; -ation|ation|S
+misreckon	verb	mis-|mis|P ; reckon|reckon|R|V
+misrelate	verb	mis-|mis|P ; relate|relate|R|V
+misremembering	noun	mis-|mis|P ; remember|remember|R|V ; -ing|ing|S||-ing (N)
+misrepresenting	noun	mis-|mis|P ; represent|represent|R|V ; -ing|ing|S||-ing (N)
+missel	noun	missel|missel|R|N
+misses	verb	miss|miss|R|V ; -es|es|I||-s (3sg)
+missilery	noun	missile|missil|R|N ; -ery|ery|S
+missish	adj	miss|miss|R|N ; -ish|ish|S
+missishness	noun	miss|miss|R|N ; -ish|ish|S ; -ness|ness|S
+misstepping	noun	mis-|mis|P ; step|stepp|R|V ; -ing|ing|S||-ing (N)
+missynchronization	noun	mis-|mis|P ; synchronize|synchroniz|R|V ; -ation|ation|S
+mistakable	adj	mistake|mistak|R|V ; -able|able|S
+mistakenness	noun	mistaken|mistaken|R|Adj ; -ness|ness|S
+mistelle	noun	mistelle|mistelle|R|N
+mister	noun	mister|mister|R|N
+misterm	verb	mis-|mis|P ; term|term|R|V
+mistful	adj	mist|mist|R|N ; -ful|ful|S
+mistimed	adj	mis-|mis|P ; time|tim|R|N ; -ed|ed|S||-ed (adj)
+mistiming	noun	mis-|mis|P ; time|tim|R|N ; -ing|ing|S||-ing (N)
+mistiness	noun	mist|mist|R|N ; -y|i|S ; -ness|ness|S
+mistranslate	verb	mis-|mis|P ; translate|translate|R|V
+mistruster	noun	mis-|mis|P ; trust|trust|R|V ; -er|er|S||-er (N)
+mistrustfulness	noun	mis-|mis|P ; trust|trust|R|V ; -ful|ful|S ; -ness|ness|S
+mistune	verb	mis-|mis|P ; tune|tune|R|V
+misunderstandingly	adv	mis-|mis|P ; understand|understand|R|V ; -ing|ing|S||-ing (N) ; -ly|ly|I|Adv|-ly (adv)
+misusage	noun	mis-|mis|P ; use|us|R|V ; -age|age|S
+miswak	noun	miswak|miswak|R|N
+mither	verb	mither|mither|R|V
+mithridate	noun	mithridate|mithridate|R|N
+mithridatic	adj	mithridate|mithridat|R|N ; -ic|ic|S
+mithridatism	noun	mithridate|mithridat|R|N ; -ism|ism|S
+mithridatize	verb	mithridate|mithridat|R|N ; -ize|ize|S
+mithril	noun	mithril|mithril|R|N
+mitigated	adj	mitigate|mitigat|R|V ; -ed|ed|S||-ed (adj)
+mitigative	adj	mitigate|mitigat|R|V ; -ive|ive|S
+mitigatory	adj	mitigate|mitigat|R|V ; -ory|ory|S
+mitosome	noun	mitosome|mitosome|R|N
+mitrailleuse	noun	mitrailleuse|mitrailleuse|R|N
+mixability	noun	mixable|mixabil|R|Adj ; -ity|ity|S
+mixable	adj	mix|mix|R|V ; -able|able|S
+mixdown	noun	mix|mix|R|V ; down|down|R|Adv
+mixedness	noun	mixed|mixed|R|Adj ; -ness|ness|S
+mixologist	noun	mixology|mixolog|R|N ; -ist|ist|S
+mixology	noun	mixology|mixology|R|N
+mizzen	noun	mizzen|mizzen|R|N
+mizzenmast	noun	mizzen|mizzen|R|N ; mast|mast|R|N
+mizzensail	noun	mizzen|mizzen|R|N ; sail|sail|R|N
+mizzle	verb	mizzle|mizzle|R|V
+mlem	verb	mlem|mlem|R|V
+mnemonics	noun	mnemonics|mnemonics|R|N
+mnemotechnic	adj	mnemotechnic|mnemotechnic|R|Adj
+mnemotechny	noun	mnemotechny|mnemotechny|R|N
+moabi	noun	moabi|moabi|R|N
+moai	noun	moai|moai|R|N
+moanful	adj	moan|moan|R|V ; -ful|ful|S
+moaningly	adv	moan|moan|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+mobad	noun	mobad|mobad|R|N
+mobbing	noun	mob|mobb|R|V ; -ing|ing|S||-ing (N)
+mobbish	adj	mob|mobb|R|N ; -ish|ish|S
+mobbishness	noun	mob|mobb|R|N ; -ish|ish|S ; -ness|ness|S
+mobocracy	noun	mobocracy|mobocracy|R|N
+mocker	noun	mock|mock|R|V ; -er|er|S||-er (N)
+mocktail	noun	mock|mock|R|V ; tail|tail|R|N
+mockumentary	noun	mockumentary|mockumentary|R|N
+moderateness	noun	moderate|moderate|R|Adj ; -ness|ness|S
+moderato	noun	moderato|moderato|R|N
+modernly	adv	modern|modern|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+modifiability	noun	modify|modifi|R|V ; -able|abil|S ; -ity|ity|S
+modificative	adj	modify|modifi|R|V ; -ative|cative|S
+modificatory	adj	modify|modifi|R|V ; -ory|catory|S
+modiolus	noun	modiolus|modiolus|R|N
+modishly	adv	modish|modish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+modishness	noun	modish|modish|R|Adj ; -ness|ness|S
+modiste	noun	modiste|modiste|R|N
+modius	noun	modius|modius|R|N
+modularity	noun	modular|modular|R|Adj ; -ity|ity|S
+modulo	prep	modulo|modulo|R
+moggy	noun	moggy|moggy|R|N
+mohatra	noun	mohatra|mohatra|R|N
+mohel	noun	mohel|mohel|R|N
+mohinga	noun	mohinga|mohinga|R|N
+mohur	noun	mohur|mohur|R|N
+moil	verb	moil|moil|R|V
+moissanite	noun	moissanite|moissanite|R|N
+moistening	noun	moist|moist|R|Adj ; -en|en|S ; -ing|ing|S||-ing (N)
+moistureless	adj	moisture|moisture|R|N ; -less|less|S
+moisty	adj	moist|moist|R|Adj ; -y|y|S
+mojibake	noun	mojibake|mojibake|R|N
+mojito	noun	mojito|mojito|R|N
+moke	noun	moke|moke|R|N
+moksha	noun	moksha|moksha|R|N
+molal	adj	molal|molal|R|Adj
+molality	noun	molal|molal|R|Adj ; -ity|ity|S
+molarity	noun	molar|molar|R|Adj ; -ity|ity|S
+molasse	noun	molasse|molasse|R|N
+molave	noun	molave|molave|R|N
+moldboard	noun	mold|mold|R|N ; board|board|R|N
+molecatcher	noun	mole|mole|R|N ; catch|catch|R|V ; -er|er|S||-er (N)
+molinologist	noun	molinology|molinolog|R|N ; -ist|ist|S
+molinology	noun	molinology|molinology|R|N
+mollification	noun	mollify|mollifi|R|V ; -ation|cation|S
+mollisol	noun	mollisol|mollisol|R|N
+mollusca	noun	mollusca|mollusca|R|N
+mollycoddling	noun	mollycoddle|mollycoddl|R|V ; -ing|ing|S||-ing (N)
+moloch	noun	moloch|moloch|R|N
+molybdenite	noun	molybdenite|molybdenite|R|N
+mombin	noun	mombin|mombin|R|N
+momentariness	noun	momentary|momentari|R|Adj ; -ness|ness|S
+momently	adv	moment|moment|R|N ; -ly|ly|I|Adv|-ly (adv)
+momentousness	noun	momentous|momentous|R|Adj ; -ness|ness|S
+momism	noun	mom|mom|R|N ; -ism|ism|S
+momo	noun	momo|momo|R|N
+monadic	adj	monad|monad|R|N ; -ic|ic|S
+monadism	noun	monad|monad|R|N ; -ism|ism|S
+monadology	noun	monadology|monadology|R|N
+monandrous	adj	monandrous|monandrous|R|Adj
+monandry	noun	monandry|monandry|R|N
+monarchal	adj	monarch|monarch|R|N ; -al|al|S
+monarchism	noun	monarch|monarch|R|N ; -ism|ism|S
+monarchistic	adj	monarchist|monarchist|R|N ; -ic|ic|S
+monatomic	adj	mono-|mon|P ; atomic|atomic|R|Adj
+monchong	noun	monchong|monchong|R|N
+mondegreen	noun	mondegreen|mondegreen|R|N
+mondial	adj	mondial|mondial|R|Adj
+monergism	noun	monergism|monergism|R|N
+moneyboy	noun	money|money|R|N ; boy|boy|R|N
+moneyless	adj	money|money|R|N ; -less|less|S
+moneywort	noun	money|money|R|N ; wort|wort|R|N
+mongering	noun	monger|monger|R|V ; -ing|ing|S||-ing (N)
+mongolism	noun	mongol|mongol|R|N ; -ism|ism|S
+mongoloid	adj	mongoloid|mongoloid|R|Adj
+mongrelism	noun	mongrel|mongrel|R|N ; -ism|ism|S
+mongrelization	noun	mongrel|mongrel|R|N ; -ize|iz|S ; -ation|ation|S
+mongrelize	verb	mongrel|mongrel|R|N ; -ize|ize|S
+monist	noun	monist|monist|R|N
+monition	noun	monition|monition|R|N
+monitorial	adj	monitor|monitor|R|V ; -ial|ial|S
+monitors	noun	monitor|monitor|R|V ; -s|s|I||-s (plural)
+monitory	adj	monitory|monitory|R|Adj
+monitress	noun	monitress|monitress|R|N
+monkery	noun	monk|monk|R|N ; -ery|ery|S
+monkeyflower	noun	monkey|monkey|R|N ; flower|flower|R|N
+monkeyish	adj	monkey|monkey|R|N ; -ish|ish|S
+monkeyishness	noun	monkey|monkey|R|N ; -ish|ish|S ; -ness|ness|S
+monkeylike	adj	monkey|monkey|R|N ; -like|like|S
+monkeypox	noun	monkey|monkey|R|N ; pox|pox|R|N
+monkhood	noun	monk|monk|R|N ; -hood|hood|S
+monkishness	noun	monk|monk|R|N ; -ish|ish|S ; -ness|ness|S
+monobasic	adj	mono-|mono|P ; basic|basic|R|Adj
+monobob	noun	mono-|mono|P ; bob|bob|R|N
+monocarp	noun	mono-|mono|P ; carp|carp|R|N
+monocarpic	adj	mono-|mono|P ; carp|carp|R|N ; -ic|ic|S
+monocarpous	adj	mono-|mono|P ; carp|carp|R|N ; -ous|ous|S
+monochasium	noun	monochasium|monochasium|R|N
+monochord	noun	mono-|mono|P ; chord|chord|R|N
+monochromist	noun	mono-|mono|P ; chrome|chrom|R|N ; -ist|ist|S
+monoclinal	adj	mono-|mono|P ; cline|clin|R|N ; -al|al|S
+monoclinic	adj	monoclinic|monoclinic|R|Adj
+monocotyledon	noun	monocotyledon|monocotyledon|R|N
+monocotyledonous	adj	monocotyledon|monocotyledon|R|N ; -ous|ous|S
+monocracy	noun	monocracy|monocracy|R|N
+monocrat	noun	monocrat|monocrat|R|N
+monocycle	noun	mono-|mono|P ; cycle|cycle|R|N
+monocyte	noun	monocyte|monocyte|R|N
+monocytic	adj	monocyte|monocyt|R|N ; -ic|ic|S
+monodactylous	adj	monodactylous|monodactylous|R|Adj
+monodic	adj	monodic|monodic|R|Adj
+monodical	adj	monodic|monodic|R|Adj ; -al|al|S
+monodist	noun	monody|monod|R|N ; -ist|ist|S
+monodrama	noun	mono-|mono|P ; drama|drama|R|N
+monodramatic	adj	monodramatic|monodramatic|R|Adj
+monody	noun	monody|monody|R|N
+monogamic	adj	monogamy|monogam|R|N ; -ic|ic|S
+monogamist	noun	monogamy|monogam|R|N ; -ist|ist|S
+monogenic	adj	monogenic|monogenic|R|Adj
+monoglot	noun	monoglot|monoglot|R|N
+monogon	noun	monogon|monogon|R|N
+monographer	noun	monograph|monograph|R|N ; -er|er|S||-er (N)
+monographist	noun	monograph|monograph|R|N ; -ist|ist|S
+monogynous	adj	monogynous|monogynous|R|Adj
+monogyny	noun	monogyny|monogyny|R|N
+monohedron	noun	monohedron|monohedron|R|N
+monoid	noun	monoid|monoid|R|N
+monoidal	adj	monoid|monoid|R|N ; -al|al|S
+monokini	noun	monokini|monokini|R|N
+monolatry	noun	monolatry|monolatry|R|N
+monolectic	adj	monolectic|monolectic|R|Adj
+monolingualism	noun	mono-|mono|P ; lingual|lingual|R|Adj ; -ism|ism|S
+monologize	verb	monologue|monolog|R|N ; -ize|ize|S
+monology	noun	monology|monology|R|N
+monomania	noun	mono-|mono|P ; mania|mania|R|N
+monomaniac	noun	mono-|mono|P ; maniac|maniac|R|N
+monometer	noun	mono-|mono|P ; meter|meter|R|N
+monometric	adj	mono-|mono|P ; meter|metr|R|N ; -ic|ic|S
+monomial	noun	monomial|monomial|R|N
+monomorphemic	adj	mono-|mono|P ; morpheme|morphem|R|N ; -ic|ic|S
+monomorphic	adj	mono-|mono|P ; morphic|morphic|R|Adj

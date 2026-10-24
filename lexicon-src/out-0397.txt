@@ -1,0 +1,200 @@
+tegument	noun	tegument|tegument|R|N
+tegumental	adj	tegument|tegument|R|N ; -al|al|S
+tegumentary	adj	tegument|tegument|R|N ; -ary|ary|S
+teknonymy	noun	teknonymy|teknonymy|R|N
+tektite	noun	tektite|tektite|R|N
+telamon	noun	telamon|telamon|R|N
+telangiectasia	noun	telangiectasia|telangiectasia|R|N
+telautogram	noun	telautogram|telautogram|R|N
+telautograph	noun	telautograph|telautograph|R|N
+telecamera	noun	tele-|tele|P ; camera|camera|R|N
+telecommuter	noun	tele-|tele|P ; commuter|commuter|R|N
+telecontrol	noun	tele-|tele|P ; control|control|R|N
+telefilm	noun	tele-|tele|P ; film|film|R|N
+telega	noun	telega|telega|R|N
+telegraphese	noun	telegraphese|telegraphese|R|N
+telegraphically	adv	telegraphic|telegraphic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+telegraphing	verb	telegraph|telegraph|R|V ; -ing|ing|I||-ing (v)
+telegraphist	noun	telegraph|telegraph|R|N ; -ist|ist|S
+telehandler	noun	tele-|tele|P ; handler|handler|R|N
+teleiophilia	noun	teleiophilia|teleiophilia|R|N
+telematic	adj	telematic|telematic|R|Adj
+telemechanics	noun	tele-|tele|P ; mechanics|mechanics|R|N
+telemessage	noun	tele-|tele|P ; message|message|R|N
+telemeter	noun	tele-|tele|P ; meter|meter|R|N
+telencephalon	noun	telencephalon|telencephalon|R|N
+telenursing	noun	tele-|tele|P ; nursing|nursing|R|N
+teleologic	adj	teleology|teleolog|R|N ; -ic|ic|S
+teleologist	noun	teleology|teleolog|R|N ; -ist|ist|S
+telepathist	noun	telepathy|telepath|R|N ; -ist|ist|S
+telepathize	verb	telepathy|telepath|R|N ; -ize|ize|S
+telephoner	noun	telephone|telephon|R|N ; -er|er|S||-er (N)
+telephonically	adv	telephonic|telephonic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+telephoning	verb	telephone|telephon|R|V ; -ing|ing|I||-ing (v)
+telephotograph	noun	tele-|tele|P ; photograph|photograph|R|N
+telephotographic	adj	tele-|tele|P ; photographic|photographic|R|Adj
+telephotography	noun	tele-|tele|P ; photography|photography|R|N
+telepic	noun	tele-|tele|P ; pic|pic|R|N
+teleport	verb	tele-|tele|P ; port|port|R|V
+teleportation	noun	teleport|teleport|R|V ; -ation|ation|S
+teleporter	noun	teleport|teleport|R|V ; -er|er|S||-er (N)
+teleradiology	noun	tele-|tele|P ; radiology|radiology|R|N
+telesales	noun	tele-|tele|P ; sales|sales|R|N
+telescript	noun	tele-|tele|P ; script|script|R|N
+telescriptor	noun	telescript|telescript|R|N ; -or|or|S
+telestereoscope	noun	tele-|tele|P ; stereoscope|stereoscope|R|N
+teletsunami	noun	tele-|tele|P ; tsunami|tsunami|R|N
+teleview	verb	tele-|tele|P ; view|view|R|V
+televiewer	noun	tele-|tele|P ; viewer|viewer|R|N
+televisor	noun	tele-|tele|P ; visor|visor|R|N
+televoting	noun	tele-|tele|P ; voting|voting|R|N
+teleworker	noun	tele-|tele|P ; worker|worker|R|N
+telicity	noun	telic|telic|R|Adj ; -ity|ity|S
+telium	noun	telium|telium|R|N
+tellable	adj	tell|tell|R|V ; -able|able|S
+tellurian	adj	tellurian|tellurian|R|Adj
+telluride	noun	telluride|telluride|R|N
+tellurium	noun	tellurium|tellurium|R|N
+telmatology	noun	telmatology|telmatology|R|N
+telnyashka	noun	telnyashka|telnyashka|R|N
+telophase	noun	telophase|telophase|R|N
+telpher	noun	telpher|telpher|R|N
+telpherage	noun	telpher|telpher|R|N ; -age|age|S
+temerarious	adj	temerarious|temerarious|R|Adj
+tempeh	noun	tempeh|tempeh|R|N
+temperately	adv	temperate|temperate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+temperateness	noun	temperate|temperate|R|Adj ; -ness|ness|S
+temperer	noun	temper|temper|R|V ; -er|er|S||-er (N)
+tempestuously	adv	tempestuous|tempestuous|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+tempestuousness	noun	tempestuous|tempestuous|R|Adj ; -ness|ness|S
+templar	noun	templar|templar|R|N
+temporariness	noun	temporary|temporari|R|Adj ; -ness|ness|S
+temporization	noun	temporize|temporiz|R|V ; -ation|ation|S
+temporizer	noun	temporize|temporiz|R|V ; -er|er|S||-er (N)
+temporizing	verb	temporize|temporiz|R|V ; -ing|ing|I||-ing (v)
+temporoparietalis	noun	temporoparietalis|temporoparietalis|R|N
+tenability	noun	tenable|tenabil|R|Adj ; -ity|ity|S
+tenableness	noun	tenable|tenable|R|Adj ; -ness|ness|S
+tenaciousness	noun	tenacious|tenacious|R|Adj ; -ness|ness|S
+tenamaste	noun	tenamaste|tenamaste|R|N
+tenantable	adj	tenant|tenant|R|N ; -able|able|S
+tenantless	adj	tenant|tenant|R|N ; -less|less|S
+tenantry	noun	tenant|tenant|R|N ; -ry|ry|S
+tenate	noun	tenate|tenate|R|N
+tendance	noun	tend|tend|R|V ; -ance|ance|S
+tendential	adj	tendency|tendent|R|N ; -ial|ial|S
+tendentiously	adv	tendentious|tendentious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+tendentiousness	noun	tendentious|tendentious|R|Adj ; -ness|ness|S
+tenderhearted	adj	tender|tender|R|Adj ; heart|heart|R|N ; -ed|ed|S||-ed (adj)
+tenderized	verb	tenderize|tenderiz|R|V ; -ed|ed|I||-ed (v2)
+tendinous	adj	tendon|tendin|R|N ; -ous|ous|S
+tendresse	noun	tendresse|tendresse|R|N
+tenebrosity	noun	tenebrous|tenebr|R|Adj ; -ity|osity|S
+tenebrous	adj	tenebrous|tenebrous|R|Adj
+tenge	noun	tenge|tenge|R|N
+tengu	noun	tengu|tengu|R|N
+tennessine	noun	tennessine|tennessine|R|N
+tenoplasty	noun	tenoplasty|tenoplasty|R|N
+tenosynovitis	noun	tenosynovitis|tenosynovitis|R|N
+tenotomy	noun	tenotomy|tenotomy|R|N
+tenpins	noun	ten|ten|R ; pin|pin|R|N ; -s|s|I||-s (plural)
+tens	noun	ten|ten|R ; -s|s|I||-s (plural)
+tensibility	noun	tensible|tensibil|R|Adj ; -ity|ity|S
+tensible	adj	tense|tens|R|Adj ; -ible|ible|S
+tensility	noun	tensile|tensil|R|Adj ; -ity|ity|S
+tensimeter	noun	tensimeter|tensimeter|R|N
+tensiometer	noun	tensiometer|tensiometer|R|N
+tensional	adj	tension|tension|R|N ; -al|al|S
+tensity	noun	tense|tens|R|Adj ; -ity|ity|S
+tensome	noun	tensome|tensome|R|N
+tensorial	adj	tensor|tensor|R|N ; -ial|ial|S
+tentacular	adj	tentacle|tentacul|R|N ; -ar|ar|S
+tentaculate	adj	tentacle|tentacul|R|N ; -ate|ate|S
+tenter	verb	tenter|tenter|R|V
+tenthly	adv	tenth|tenth|R ; -ly|ly|I|Adv|-ly (adv)
+tenting	noun	tent|tent|R|N ; -ing|ing|S||-ing (N)
+tentpole	noun	tent|tent|R|N ; pole|pole|R|N
+tenuity	noun	tenuous|tenu|R|Adj ; -ity|ity|S
+tepal	noun	tepal|tepal|R|N
+tepefy	verb	tepefy|tepefy|R|V
+tepetate	noun	tepetate|tepetate|R|N
+tephra	noun	tephra|tephra|R|N
+tephrite	noun	tephrite|tephrite|R|N
+tepidity	noun	tepid|tepid|R|Adj ; -ity|ity|S
+tepidness	noun	tepid|tepid|R|Adj ; -ness|ness|S
+teppanyaki	noun	teppanyaki|teppanyaki|R|N
+teqball	noun	teqball|teqball|R|N
+terabit	noun	terabit|terabit|R|N
+teraflop	noun	teraflop|teraflop|R|N
+teragon	noun	teragon|teragon|R|N
+teratogen	noun	teratogen|teratogen|R|N
+teratogenesis	noun	teratogenesis|teratogenesis|R|N
+teratological	adj	teratology|teratolog|R|N ; -ical|ical|S
+teratology	noun	teratology|teratology|R|N
+teratoma	noun	teratoma|teratoma|R|N
+terawatt	noun	terawatt|terawatt|R|N
+terbinafine	noun	terbinafine|terbinafine|R|N
+terbium	noun	terbium|terbium|R|N
+terce	noun	terce|terce|R|N
+tercentenary	noun	tercentenary|tercentenary|R|N
+tercentennial	adj	tercentennial|tercentennial|R|Adj
+terebinth	noun	terebinth|terebinth|R|N
+terebinthine	adj	terebinthine|terebinthine|R|Adj
+terebra	noun	terebra|terebra|R|N
+terebrant	noun	terebra|terebr|R|N ; -ant|ant|S
+terebrate	verb	terebra|terebr|R|N ; -ate|ate|S
+terebration	noun	terebrate|terebrat|R|V ; -ion|ion|S
+teredo	noun	teredo|teredo|R|N
+tergal	adj	tergum|terg|R|N ; -al|al|S
+tergiversate	verb	tergiversate|tergiversate|R|V
+tergiversation	noun	tergiversation|tergiversation|R|N
+tergum	noun	tergum|tergum|R|N
+termagant	noun	termagant|termagant|R|N
+termes	noun	termes|termes|R|N
+terminable	adj	terminate|termin|R|V ; -able|able|S
+terminative	adj	terminate|termin|R|V ; -ative|ative|S
+terminologist	noun	terminology|terminolog|R|N ; -ist|ist|S
+termitarium	noun	termitarium|termitarium|R|N
+termitary	noun	termite|termit|R|N ; -ary|ary|S
+termless	adj	term|term|R|N ; -less|less|S
+ternate	adj	ternate|ternate|R|Adj
+ternion	noun	ternion|ternion|R|N
+terpsichorean	adj	terpsichorean|terpsichorean|R|Adj
+terraform	verb	terraform|terraform|R|V
+terraforming	verb	terraform|terraform|R|V ; -ing|ing|I||-ing (v)
+terramare	noun	terramare|terramare|R|N
+terramation	noun	terramation|terramation|R|N
+terraneous	adj	terrane|terrane|R|N ; -ous|ous|S
+terrene	adj	terrene|terrene|R|Adj
+terret	noun	terret|terret|R|N
+terricole	noun	terricole|terricole|R|N
+terricolous	adj	terricole|terricol|R|N ; -ous|ous|S
+territorialization	noun	territorialize|territorializ|R|V ; -ation|ation|S
+terrorization	noun	terrorize|terroriz|R|V ; -ation|ation|S
+terseness	noun	terse|terse|R|Adj ; -ness|ness|S
+tertian	adj	tertian|tertian|R|Adj
+tervalent	adj	tervalent|tervalent|R|Adj
+tesla	noun	tesla|tesla|R|N
+tessellate	verb	tessella|tessell|R|N ; -ate|ate|S
+tessellated	adj	tessellate|tessellat|R|V ; -ed|ed|S||-ed (adj)
+tessellation	noun	tessellate|tessellat|R|V ; -ion|ion|S
+tessera	noun	tessera|tessera|R|N
+tesseract	noun	tesseract|tesseract|R|N
+testaceous	adj	testaceous|testaceous|R|Adj
+testacy	noun	testate|testa|R|Adj ; -cy|cy|S
+testate	adj	testate|testate|R|Adj
+testation	noun	testate|testat|R|Adj ; -ion|ion|S
+testatrix	noun	testatrix|testatrix|R|N
+testiculate	adj	testicle|testicul|R|N ; -ate|ate|S
+testification	noun	testify|testifi|R|V ; -ation|cation|S
+testifier	noun	testify|testifi|R|V ; -er|er|S||-er (N)
+testudinate	adj	testudo|testudin|R|N ; -ate|ate|S
+testudineous	adj	testudo|testudin|R|N ; -eous|eous|S
+tetanic	adj	tetany|tetan|R|N ; -ic|ic|S
+tetany	noun	tetany|tetany|R|N
+tetchily	adv	tetchy|tetchi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+tetchiness	noun	tetchy|tetchi|R|Adj ; -ness|ness|S
+teth	noun	teth|teth|R|N
+tetherball	noun	tether|tether|R|N ; ball|ball|R|N
+tethering	verb	tether|tether|R|V ; -ing|ing|I||-ing (v)
+tetrachloroethylene	noun	tetrachloroethylene|tetrachloroethylene|R|N

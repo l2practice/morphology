@@ -1,0 +1,150 @@
+encoder	noun	=
+annunciation	noun	=
+tibial	adj	=
+tardy	adj	=
+bellicose	adj	=
+politic	adj	=
+excommunicate	verb	=
+larch	noun	=
+supplicant	noun	sub-|sup|P||||Latin sub- 'under, below' ; -plic-|plic|B|V|||Latin plicare 'to fold' ; -ant|ant|S||||Latin -ans 'agent'
+refraction	noun	=
+amygdala	noun	=
+neuroticism	noun	=
+epidermis	noun	=
+orthogonal	adj	=
+irradiate	verb	=
+flan	noun	=
+educationist	noun	=
+mailer	noun	=
+nuptials	noun	nupt-|nupt|B|V|||Latin nubere 'to marry' ; -ial|ial|S||||Latin -alis 'relating to' ; -s|s|I
+aqueous	adj	aqu-|aqu|B|N|||Latin aqua 'water' ; -ous|eous|S||||Latin -osus 'full of'
+metastasize	verb	=
+gyroscope	noun	gyro-|gyro|B|N|||Greek guros 'circle' ; -scope|scope|B|N|||Greek skopos 'watcher'
+grandee	noun	=
+aeronautics	noun	aero-|aero|B|N|||Greek aer 'air' ; -naut-|naut|B|N|||Greek nautes 'sailor' ; -ics|ics|S||||Greek -ika 'arts, studies'
+caraway	noun	=
+symptomatology	noun	symptomato-|symptomato|B|N|||Greek sumptoma 'symptom' ; -logy|logy|B|N|||Greek logos 'study, word'
+prejudge	verb	=
+toner	noun	=
+glandular	adj	=
+frontispiece	noun	=
+lifer	noun	=
+toxicologist	noun	=
+natal	adj	=
+lira	noun	=
+searchable	adj	=
+profuse	adj	=
+fructose	noun	fruct-|fruct|B|N|||Latin fructus 'fruit' ; -ose|ose|S||||Latin -ose 'sugar'
+fulcrum	noun	=
+parquet	noun	=
+hyphen	noun	=
+acrobatics	noun	=
+phosphorous	adj	=
+universalism	noun	=
+maudlin	adj	=
+novelistic	adj	=
+nous	noun	=
+deuterium	noun	deutero-|deuter|B|Adj|||Greek deuteros 'second' ; -ium|ium|S||||Latin -ium 'chemical element'
+jaundice	noun	=
+melancholic	adj	=
+fief	noun	=
+diurnal	adj	=
+recapitulate	verb	re-|re|P||||Latin re- 'again' ; -capitul-|capitul|B|N|||Latin capitulum 'head, chapter' ; -ate|ate|S||||Latin -atus 'verb-forming'
+engraver	noun	=
+hysteric	adj	hyster-|hyster|B|N|||Greek hustera 'womb' ; -ic|ic|S||||Greek -ikos 'relating to'
+destitution	noun	=
+tulle	noun	=
+saboteur	noun	=
+serge	noun	=
+autonomously	adv	=
+endocrinologist	noun	=
+conceited	adj	=
+womanizer	noun	=
+anagram	noun	ana-|ana|P||||Greek ana 'up, back' ; -gram|gram|B|N|||Greek gramma 'letter'
+acclamation	noun	=
+cotta	noun	=
+photojournalism	noun	=
+obverse	noun	=
+athletically	adv	=
+adopter	noun	=
+tonsillectomy	noun	=
+lackey	noun	=
+orca	noun	=
+arbitrate	verb	arbitr-|arbitr|B|V|||Latin arbitrari 'to judge, witness' ; -ate|ate|S||||Latin -atus 'verb-forming'
+rotund	adj	=
+metronome	noun	metro-|metro|B|N|||Greek metron 'measure' ; -nome|nome|B|N|||Greek nomos 'law, regulation'
+ethylene	noun	=
+ecliptic	noun	=
+tarantula	noun	=
+reorientation	noun	=
+ibis	noun	=
+libra	noun	=
+revocation	noun	=
+driller	noun	=
+rhizome	noun	=
+plagiarize	verb	=
+reify	verb	re-|re|B|N|||Latin res 'thing' ; -ify|ify|S||||Latin -ficare 'to make'
+ordinal	adj	ordin-|ordin|B|N|||Latin ordo 'order' ; -al|al|S||||Latin -alis 'relating to'
+ingratitude	noun	in-|in|P||||Latin in- 'not' ; -grat-|grat|B|Adj|||Latin gratus 'pleasing, thankful' ; -itude|itude|S||||Latin -itudo 'state, quality'
+macrophage	noun	macro-|macro|B|Adj|||Greek makros 'large' ; -phage|phage|B|V|||Greek phagein 'to eat'
+maxillary	adj	=
+semaphore	noun	sema-|sema|B|N|||Greek sema 'sign, mark' ; -phore|phore|B|N|||Greek -phoros 'bearer, carrier'
+sectarianism	noun	=
+seismologist	noun	=
+cathode	noun	kata-|cath|P||||Greek kata- 'down' ; -ode|ode|B|N|||Greek hodos 'way, journey'
+tempestuous	adj	=
+cartographer	noun	=
+gasworks	noun	=
+finial	noun	=
+incorrigible	adj	in-|in|P||||Latin in- 'not' ; -corrig-|corrig|B|V|||Latin corrigere 'to correct' ; -ible|ible|S||||Latin -ibilis 'able to be'
+concord	noun	con-|con|P||||Latin com- 'together' ; -cord|cord|B|N|||Latin cor 'heart'
+determinate	adj	determin-|determin|B|V|||Latin determinare 'to limit, bound' ; -ate|ate|S||||Latin -atus 'past participle'
+voyeuristic	adj	=
+mortician	noun	mort-|mort|B|N|||Latin mors 'death' ; -ician|ician|S||||Latin -ician 'specialist, practitioner'
+lyricism	noun	=
+antifungal	adj	=
+diphtheria	noun	=
+leaven	noun	=
+psychosomatic	adj	=
+marmot	noun	=
+downer	noun	=
+stationer	noun	=
+quitter	noun	=
+economize	verb	=
+ornithology	noun	ornitho-|ornitho|B|N|||Greek ornis 'bird' ; -logy|logy|B|N|||Greek logos 'study, word'
+calamitous	adj	=
+starr	noun	=
+tabular	adj	=
+depopulation	noun	=
+urea	noun	=
+vestigial	adj	=
+percussionist	noun	=
+barracuda	noun	=
+flavonoid	noun	=
+conflation	noun	=
+pedometer	noun	ped-|ped|B|N|||Latin pes 'foot' ; -ometer|ometer|B|N|||Greek metron 'measure'
+sparkler	noun	=
+moisturize	verb	=
+choker	noun	=
+classicist	noun	=
+vintner	noun	=
+truculent	adj	=
+provident	adj	provid-|provid|B|V|||Latin providere 'to foresee, provide' ; -ent|ent|S||||Latin -ens 'being, agent'
+apostrophe	noun	=
+poser	noun	=
+agave	noun	=
+expropriate	verb	=
+promulgation	noun	=
+levity	noun	lev-|lev|B|Adj|||Latin levis 'light' ; -ity|ity|S||||Latin -itas 'state, quality'
+miser	noun	=
+litigious	adj	=
+electrostatic	adj	=
+providential	adj	=
+docent	noun	doc-|doc|B|V|||Latin docere 'to teach' ; -ent|ent|S||||Latin -ens 'being, agent'
+militarization	noun	=
+diaphanous	adj	dia-|dia|P||||Greek dia- 'through' ; -phan-|phan|B|V|||Greek phainein 'to shine, appear' ; -ous|ous|S||||Latin -osus 'full of'
+attenuation	noun	=
+ligation	noun	lig-|lig|B|V|||Latin ligare 'to bind' ; -ation|ation|S||||Latin -atio 'act, process'
+isoflavone	noun	=
+chrysalis	noun	=
+kinesiology	noun	=

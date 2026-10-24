@@ -1,0 +1,150 @@
+annoy	verb	=
+deduce	verb	de-|de|P||||Latin de 'down, away' ; -duce|duce|B|V|||Latin ducere 'to lead'
+quarrel	noun	=
+pants	noun	=
+recess	noun	re-|re|P||||Latin re- 'back' ; -cess|cess|B|V|||Latin cedere 'to go'
+peninsula	noun	pen-|pen|P||||Latin paene 'almost' ; -insula|insula|B|N|||Latin insula 'island'
+culinary	adj	=
+explorer	noun	=
+indifference	noun	=
+relish	noun	=
+biodiversity	noun	=
+centrally	adv	=
+pedal	noun	ped-|ped|B|N|||Latin pes 'foot' ; -al|al|S||||Latin -alis 'pertaining to'
+frail	adj	=
+slower	adj	=
+autopsy	noun	auto-|aut|P||||Greek autos 'self' ; -opsy|opsy|B|N|||Greek opsis 'sight'
+gigantic	adj	gigant-|gigant|B|N|||Greek gigas 'giant' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+irritate	verb	=
+repertoire	noun	=
+scrutinize	verb	scrut-|scrut|B|V|||Latin scrutari 'to examine' ; -inize|inize|S||||Greek -izein 'to make'
+fortress	noun	=
+psyche	noun	=
+dynasty	noun	dynast-|dynast|B|N|||Greek dunastes 'ruler' ; -y|y|S||||Greek -eia 'state'
+uranium	noun	=
+penetration	noun	=
+lizard	noun	=
+penis	noun	=
+marvel	noun	=
+tailor	noun	=
+ceramic	adj	ceram-|ceram|B|N|||Greek keramos 'clay' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+compassionate	adj	=
+prominence	noun	=
+industrialist	noun	=
+convene	verb	con-|con|P||||Latin com- 'together' ; -vene|vene|B|V|||Latin venire 'to come'
+temperament	noun	=
+psychic	adj	psych-|psych|B|N|||Greek psukhē 'soul' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+compute	verb	com-|com|P||||Latin com- 'together' ; -pute|pute|B|V|||Latin putare 'to reckon'
+comprehension	noun	com-|com|P||||Latin com- 'together' ; -prehend|prehens|B|V|||Latin prehendere 'to seize' ; -ion|ion|S||||Latin -io 'act, state'
+aspire	verb	a-|a|P||||Latin ad 'to' ; -spire|spire|B|V|||Latin spirare 'to breathe'
+flare	noun	=
+geometry	noun	geo-|geo|B|N|||Greek gē 'earth' ; -metry|metry|B|N|||Greek metron 'measure'
+broccoli	noun	=
+resonate	verb	re-|re|P||||Latin re- 'again' ; -son|son|B|V|||Latin sonare 'to sound' ; -ate|ate|S||||Latin -atus 'having, made'
+pavilion	noun	=
+overt	adj	=
+chemotherapy	noun	chemo-|chemo|B|N|||Greek khēmeia 'chemical art' ; -therap|therap|B|N|||Greek therapeia 'treatment' ; -y|y|S||||Greek -eia 'state'
+coronation	noun	coron-|coron|B|N|||Latin corona 'crown' ; -ation|ation|S||||Latin -atio 'act, state'
+confide	verb	con-|con|P||||Latin com- 'together' ; -fide|fide|B|V|||Latin fidere 'to trust'
+attribution	noun	at-|at|P||||Latin ad 'to' ; -tribut|tribut|B|V|||Latin tribuere 'to assign' ; -ion|ion|S||||Latin -io 'act, state'
+squat	verb	=
+erotic	adj	erot-|erot|B|N|||Greek erōs 'love' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+glacier	noun	glaci-|glaci|B|N|||Latin glacies 'ice' ; -er|er|S||||Latin -arium 'place'
+simultaneous	adj	simul-|simul|B|V|||Latin simul 'at same time' ; -taneous|taneous|S||||Latin -aneus 'pertaining to'
+extraction	noun	ex-|ex|P||||Latin ex 'out' ; -tract|tract|B|V|||Latin trahere 'to draw' ; -ion|ion|S||||Latin -io 'act, state'
+abstraction	noun	ab-|ab|P||||Latin ab 'away, from' ; -tract|stract|B|V|||Latin trahere 'to draw' ; -ion|ion|S||||Latin -io 'act, state'
+redemption	noun	re-|re|P||||Latin re- 'back' ; -empt|dempt|B|V|||Latin emere 'to buy' ; -ion|ion|S||||Latin -io 'act, state'
+bartender	noun	=
+evaporate	verb	=
+genesis	noun	=
+succumb	verb	suc-|suc|P||||Latin sub 'under' ; -cumb|cumb|B|V|||Latin cumbere 'to lie down'
+simulate	verb	simul-|simul|B|V|||Latin simulare 'to imitate' ; -ate|ate|S||||Latin -atus 'having, made'
+stature	noun	stat-|stat|B|V|||Latin stare 'to stand' ; -ure|ure|S||||Latin -ura 'state'
+optimum	noun	optim-|optim|B|Adj|||Latin optimus 'best' ; -um|um|S||||Latin -um 'neuter ending'
+intrigue	noun	=
+grenade	noun	gran-|gren|B|N|||Latin granum 'grain' ; -ade|ade|S||||French -ade 'result'
+chestnut	noun	=
+anomaly	noun	=
+stellar	adj	stell-|stell|B|N|||Latin stella 'star' ; -ar|ar|S||||Latin -aris 'pertaining to'
+incumbent	adj	in-|in|P||||Latin in 'in, on' ; -cumb|cumb|B|V|||Latin cumbere 'to lie down' ; -ent|ent|S||||Latin -ens 'acting'
+intuition	noun	in-|in|P||||Latin in 'in, on' ; -tuit|tuit|B|V|||Latin tueri 'to watch' ; -ion|ion|S||||Latin -io 'act, state'
+regimen	noun	reg-|reg|B|V|||Latin regere 'to rule' ; -imen|imen|S||||Latin -imen 'result'
+cancellation	noun	=
+perpetrator	noun	=
+fetus	noun	=
+catalyst	noun	cata-|cata|P||||Greek kata 'down' ; -lyst|lyst|B|V|||Greek lyein 'to loosen'
+extremist	noun	=
+hairdresser	noun	=
+gland	noun	=
+ordinance	noun	ordin-|ordin|B|V|||Latin ordinare 'to order' ; -ance|ance|S||||Latin -antia 'state'
+chronicle	noun	chron-|chron|B|N|||Greek khronos 'time' ; -icle|icle|S||||Greek -ikos 'pertaining to'
+doctoral	adj	=
+grease	noun	=
+tonic	adj	ton-|ton|B|N|||Greek tonos 'tone, tension' ; -ic|ic|S||||Greek -ikos 'pertaining to'
+episcopal	adj	epi-|epi|P||||Greek epi 'upon' ; -scop|scop|B|V|||Greek skopein 'to watch' ; -al|al|S||||Latin -alis 'pertaining to'
+commemorate	verb	com-|com|P||||Latin com- 'together' ; -memor|memor|B|N|||Latin memoria 'memory' ; -ate|ate|S||||Latin -atus 'having, made'
+revisit	verb	=
+resonance	noun	re-|re|P||||Latin re- 'again' ; -son|son|B|V|||Latin sonare 'to sound' ; -ance|ance|S||||Latin -antia 'state'
+deduct	verb	de-|de|P||||Latin de 'down, away' ; -duct|duct|B|V|||Latin ducere 'to lead'
+villain	noun	vill-|vill|B|N|||Latin villa 'country house' ; -ain|ain|S||||Latin -anus 'belonging to'
+durable	adj	dur-|dur|B|V|||Latin durare 'to last' ; -able|able|S||||Latin -abilis 'able to'
+capitalize	verb	=
+vault	noun	=
+deliberation	noun	=
+despise	verb	de-|de|P||||Latin de 'down' ; -spec|spise|B|V|||Latin specere 'to look'
+podium	noun	pod-|pod|B|N|||Greek pous 'foot' ; -ium|ium|S||||Greek -ion 'diminutive'
+ascribe	verb	a-|a|P||||Latin ad 'to' ; -scribe|scribe|B|V|||Latin scribere 'to write'
+martial	adj	=
+pastel	noun	=
+cardiovascular	adj	cardio-|cardio|B|N|||Greek kardia 'heart' ; -vascul|vascul|B|N|||Latin vas 'vessel' ; -ar|ar|S||||Latin -aris 'pertaining to'
+vale	noun	=
+presenter	noun	=
+jeopardize	verb	=
+neon	noun	=
+spinal	adj	=
+coil	noun	=
+categorize	verb	=
+latitude	noun	=
+maritime	adj	mar-|mar|B|N|||Latin mare 'sea' ; -itime|itime|S||||Latin -itimus 'pertaining to'
+ventilation	noun	=
+prostitution	noun	=
+adorn	verb	ad-|ad|P||||Latin ad 'to' ; -orn|orn|B|V|||Latin ornare 'to adorn'
+introductory	adj	intro-|intro|P||||Latin intro 'within' ; -duct|duct|B|V|||Latin ducere 'to lead' ; -ory|ory|S||||Latin -orius 'pertaining to'
+unify	verb	=
+apron	noun	=
+rabbi	noun	=
+practicable	adj	=
+pharmacy	noun	pharmac-|pharmac|B|N|||Greek pharmakon 'drug' ; -y|y|S||||Greek -ia 'art, practice'
+inaugural	adj	in-|in|P||||Latin in 'in, on' ; -augur|augur|B|V|||Latin augurare 'to divine' ; -al|al|S||||Latin -alis 'pertaining to'
+cardiac	adj	cardi-|cardi|B|N|||Greek kardia 'heart' ; -ac|ac|S||||Greek -akos 'pertaining to'
+spiral	noun	=
+atrocity	noun	=
+cooler	noun	=
+hypothetical	adj	hypo-|hypo|P||||Greek hypo 'under' ; -thet|thet|B|V|||Greek tithenai 'to place' ; -ical|ical|S||||Greek -ikos 'pertaining to'
+ecstasy	noun	ec-|ec|P||||Greek ek 'out' ; -stasy|stasy|B|V|||Greek histanai 'to stand'
+familiarity	noun	=
+physiological	adj	physio-|physio|B|N|||Greek physis 'nature' ; -log|log|B|N|||Greek logos 'word, study' ; -ical|ical|S||||Greek -ikos 'pertaining to'
+carpenter	noun	=
+finite	adj	fin-|fin|B|N|||Latin finis 'end' ; -ite|ite|S||||Latin -itus 'past participle'
+antiquity	noun	=
+termination	noun	termin-|termin|B|N|||Latin terminus 'end' ; -ation|ation|S||||Latin -atio 'act, state'
+stratum	noun	strat-|strat|B|V|||Latin sternere 'to spread' ; -um|um|S||||Latin -um 'neuter ending'
+intern	noun	=
+ratify	verb	rat-|rat|B|V|||Latin reri 'to reckon' ; -ify|ify|S||||Latin -ficare 'to make'
+nostalgia	noun	nost-|nost|B|N|||Greek nostos 'homecoming' ; -algia|algia|B|N|||Greek algos 'pain'
+automated	adj	=
+exquisite	adj	ex-|ex|P||||Latin ex 'out' ; -quisit|quisite|B|V|||Latin quaerere 'to seek'
+immerse	verb	im-|im|P||||Latin in 'in' ; -merse|merse|B|V|||Latin mergere 'to dip'
+petroleum	noun	petr-|petr|B|N|||Greek petra 'rock' ; -oleum|oleum|B|N|||Latin oleum 'oil'
+initiation	noun	=
+explanatory	adj	=
+convent	noun	con-|con|P||||Latin com- 'together' ; -vent|vent|B|V|||Latin venire 'to come'
+sierra	noun	=
+aura	noun	=
+marshal	noun	=
+cadet	noun	=
+feudal	adj	=
+pellet	noun	pel-|pel|B|N|||Latin pila 'ball' ; -let|let|S||||French -elet 'small'
+patriotism	noun	=
+poker	noun	=
+alienate	verb	=

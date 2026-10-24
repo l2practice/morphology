@@ -1,0 +1,200 @@
+hyperphysical	adj	hyper-|hyper|P ; physical|physical|R|Adj
+hyperpituitarism	noun	hyper-|hyper|P ; pituitary|pituitar|R|N ; -ism|ism|S
+hyperplane	noun	hyper-|hyper|P ; plane|plane|R|N
+hyperplastic	adj	hyper-|hyper|P ; plastic|plastic|R|Adj
+hyperpyretic	adj	hyper-|hyper|P ; pyretic|pyretic|R|Adj
+hyperpyrexia	noun	hyper-|hyper|P ; pyrexia|pyrexia|R|N
+hyperquadric	adj	hyper-|hyper|P ; quadric|quadric|R|Adj
+hypersaline	adj	hyper-|hyper|P ; saline|saline|R|Adj
+hypersexuality	noun	hyper-|hyper|P ; sexual|sexual|R|Adj ; -ity|ity|S
+hypersomnia	noun	hypersomnia|hypersomnia|R|N
+hypersphere	noun	hyper-|hyper|P ; sphere|sphere|R|N
+hypersthene	noun	hypersthene|hypersthene|R|N
+hypersthenic	adj	hypersthene|hypersthen|R|N ; -ic|ic|S
+hypersurface	noun	hyper-|hyper|P ; surface|surface|R|N
+hyperthermic	adj	hyper-|hyper|P ; thermic|thermic|R|Adj
+hyperthymesia	noun	hyperthymesia|hyperthymesia|R|N
+hyperthyroid	noun	hyper-|hyper|P ; thyroid|thyroid|R|N
+hypertonicity	noun	hyper-|hyper|P ; tonic|tonic|R|Adj ; -ity|ity|S
+hyperuricemia	noun	hyper-|hyper|P ; uricemia|uricemia|R|N
+hypervisor	noun	hyper-|hyper|P ; visor|visor|R|N
+hypervolemic	adj	hyper-|hyper|P ; volemic|volemic|R|Adj
+hypha	noun	hypha|hypha|R|N
+hyphema	noun	hyphema|hyphema|R|N
+hyphened	adj	hyphen|hyphen|R|N ; -ed|ed|S||-ed (adj)
+hyphenless	adj	hyphen|hyphen|R|N ; -less|less|S
+hypnagogic	adj	hypnagogic|hypnagogic|R|Adj
+hypnoanalysis	noun	hypnoanalysis|hypnoanalysis|R|N
+hypnogenesis	noun	hypnogenesis|hypnogenesis|R|N
+hypnogenetic	adj	hypnogenetic|hypnogenetic|R|Adj
+hypnoid	adj	hypnoid|hypnoid|R|Adj
+hypnology	noun	hypnology|hypnology|R|N
+hypnopaedia	noun	hypnopaedia|hypnopaedia|R|N
+hypnopompic	adj	hypnopompic|hypnopompic|R|Adj
+hypnotising	noun	hypnotise|hypnotis|R|V ; -ing|ing|S||-ing (N)
+hypnotization	noun	hypnotize|hypnotiz|R|V ; -ation|ation|S
+hypoblast	noun	hypoblast|hypoblast|R|N
+hypobromite	noun	hypo-|hypo|P ; bromite|bromite|R|N
+hypocapnia	noun	hypocapnia|hypocapnia|R|N
+hypocaust	noun	hypocaust|hypocaust|R|N
+hypocentre	noun	hypo-|hypo|P ; centre|centre|R|N
+hypochondriasis	noun	hypochondriasis|hypochondriasis|R|N
+hypochondrium	noun	hypochondrium|hypochondrium|R|N
+hypocorism	noun	hypocorism|hypocorism|R|N
+hypocoristic	adj	hypocoristic|hypocoristic|R|Adj
+hypocotyl	noun	hypocotyl|hypocotyl|R|N
+hypocycloid	noun	hypo-|hypo|P ; cycloid|cycloid|R|N
+hypodermis	noun	hypo-|hypo|P ; dermis|dermis|R|N
+hypoelliptic	adj	hypo-|hypo|P ; elliptic|elliptic|R|Adj
+hypogamy	noun	hypogamy|hypogamy|R|N
+hypogastric	adj	hypo-|hypo|P ; gastric|gastric|R|Adj
+hypogastrium	noun	hypogastrium|hypogastrium|R|N
+hypogeal	adj	hypogeal|hypogeal|R|Adj
+hypogene	noun	hypogene|hypogene|R|N
+hypogeum	noun	hypogeum|hypogeum|R|N
+hypogynous	adj	hypogynous|hypogynous|R|Adj
+hypogyny	noun	hypogyny|hypogyny|R|N
+hypoinsulinism	noun	hypo-|hypo|P ; insulin|insulin|R|N ; -ism|ism|S
+hypokalemia	noun	hypo-|hypo|P ; kalemia|kalemia|R|N
+hypolimnion	noun	hypolimnion|hypolimnion|R|N
+hyponatremia	noun	hypo-|hypo|P ; natremia|natremia|R|N
+hyponym	noun	hyponym|hyponym|R|N
+hyponymous	adj	hyponym|hyponym|R|N ; -ous|ous|S
+hyponymy	noun	hyponym|hyponym|R|N ; -y|y|S
+hypoparathyroidism	noun	hypo-|hypo|P ; parathyroidism|parathyroidism|R|N
+hypopharynx	noun	hypo-|hypo|P ; pharynx|pharynx|R|N
+hypophysectomize	verb	hypophysectomy|hypophysectom|R|N ; -ize|ize|S
+hypophysectomy	noun	hypophysectomy|hypophysectomy|R|N
+hypophysial	adj	hypophysis|hypophysi|R|N ; -al|al|S
+hypophysis	noun	hypophysis|hypophysis|R|N
+hypopituitarism	noun	hypo-|hypo|P ; pituitary|pituitar|R|N ; -ism|ism|S
+hypoplastic	adj	hypo-|hypo|P ; plastic|plastic|R|Adj
+hyposmia	noun	hyposmia|hyposmia|R|N
+hypospadias	noun	hypospadias|hypospadias|R|N
+hypostome	noun	hypostome|hypostome|R|N
+hypostyle	noun	hypo-|hypo|P ; style|style|R|N
+hypotaxis	noun	hypotaxis|hypotaxis|R|N
+hypothalamic	adj	hypothalamus|hypothalam|R|N ; -ic|ic|S
+hypothec	noun	hypothec|hypothec|R|N
+hypothecary	adj	hypothec|hypothec|R|N ; -ary|ary|S
+hypothecate	verb	hypothec|hypothec|R|N ; -ate|ate|S
+hypothecation	noun	hypothecate|hypothecat|R|V ; -ion|ion|S
+hypothermal	adj	hypo-|hypo|P ; thermal|thermal|R|Adj
+hypothetic	adj	hypothesis|hypothet|R|N ; -ic|ic|S
+hypotonic	adj	hypo-|hypo|P ; tonic|tonic|R|Adj
+hypotonicity	noun	hypo-|hypo|P ; tonic|tonic|R|Adj ; -ity|ity|S
+hypotrochoid	noun	hypo-|hypo|P ; trochoid|trochoid|R|N
+hypotrophy	noun	hypotrophy|hypotrophy|R|N
+hypoventilation	noun	hypo-|hypo|P ; ventilation|ventilation|R|N
+hypovolemia	noun	hypo-|hypo|P ; volemia|volemia|R|N
+hypovolemic	adj	hypo-|hypo|P ; volemic|volemic|R|Adj
+hypoxemia	noun	hypoxemia|hypoxemia|R|N
+hypsography	noun	hypsography|hypsography|R|N
+hypsometer	noun	hypsometer|hypsometer|R|N
+hypsometric	adj	hypsometer|hypsometr|R|N ; -ic|ic|S
+hypsometrical	adj	hypsometric|hypsometric|R|Adj ; -al|al|S
+hypsometry	noun	hypsometry|hypsometry|R|N
+hyraceum	noun	hyraceum|hyraceum|R|N
+hyson	noun	hyson|hyson|R|N
+hysterogenic	adj	hysterogenic|hysterogenic|R|Adj
+hysteroid	adj	hysteroid|hysteroid|R|Adj
+hysterotomy	noun	hysterotomy|hysterotomy|R|N
+hystricid	noun	hystricid|hystricid|R|N
+iamb	noun	iamb|iamb|R|N
+iambus	noun	iambus|iambus|R|N
+iatric	adj	iatric|iatric|R|Adj
+iatrogenesis	noun	iatrogenesis|iatrogenesis|R|N
+ibidem	adv	ibidem|ibidem|R|Adv
+ibisbill	noun	ibis|ibis|R|N ; bill|bill|R|N
+ibrik	noun	ibrik|ibrik|R|N
+icchantika	noun	icchantika|icchantika|R|N
+iceblink	noun	ice|ice|R|N ; blink|blink|R|N
+iceless	adj	ice|ice|R|N ; -less|less|S
+icemaker	noun	ice|ice|R|N ; make|mak|R|V ; -er|er|S||-er (N)
+ichneumon	noun	ichneumon|ichneumon|R|N
+ichnography	noun	ichnography|ichnography|R|N
+ichnology	noun	ichnology|ichnology|R|N
+ichorous	adj	ichor|ichor|R|N ; -ous|ous|S
+ichthyocentaur	noun	ichthyocentaur|ichthyocentaur|R|N
+ichthyographer	noun	ichthyography|ichthyograph|R|N ; -er|er|S||-er (N)
+ichthyoid	adj	ichthyoid|ichthyoid|R|Adj
+ichthyol	noun	ichthyol|ichthyol|R|N
+ichthyolatry	noun	ichthyolatry|ichthyolatry|R|N
+ichthyologic	adj	ichthyology|ichthyolog|R|N ; -ic|ic|S
+ichthyological	adj	ichthyologic|ichthyologic|R|Adj ; -al|al|S
+ichthyology	noun	ichthyology|ichthyology|R|N
+ichthyophagist	noun	ichthyophagist|ichthyophagist|R|N
+ichthyophagous	adj	ichthyophagous|ichthyophagous|R|Adj
+ichthyosaurian	adj	ichthyosaurus|ichthyosaur|R|N ; -ian|ian|S
+ichthyosaurus	noun	ichthyosaurus|ichthyosaurus|R|N
+ichthyosis	noun	ichthyosis|ichthyosis|R|N
+ichthyotic	adj	ichthyosis|ichthyot|R|N ; -ic|ic|S
+ichthys	noun	ichthys|ichthys|R|N
+ickiness	noun	icky|icki|R|Adj ; -ness|ness|S
+ickle	adj	ickle|ickle|R|Adj
+iconoclastically	adv	iconoclastic|iconoclastic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+iconodule	noun	iconodule|iconodule|R|N
+iconodulism	noun	iconodule|iconodul|R|N ; -ism|ism|S
+iconodulist	noun	iconodule|iconodul|R|N ; -ist|ist|S
+iconoduly	noun	iconodule|iconodul|R|N ; -y|y|S
+iconographer	noun	iconography|iconograph|R|N ; -er|er|S||-er (N)
+iconolater	noun	iconolatry|iconolat|R|N ; -er|er|S||-er (N)
+iconolatry	noun	iconolatry|iconolatry|R|N
+iconological	adj	iconology|iconolog|R|N ; -ical|ical|S
+iconologist	noun	iconology|iconolog|R|N ; -ist|ist|S
+iconology	noun	iconology|iconology|R|N
+iconomachy	noun	iconomachy|iconomachy|R|N
+iconometer	noun	iconometer|iconometer|R|N
+iconoscope	noun	iconoscope|iconoscope|R|N
+iconostasis	noun	iconostasis|iconostasis|R|N
+icosagon	noun	icosagon|icosagon|R|N
+icosagonal	adj	icosagon|icosagon|R|N ; -al|al|S
+icosidigon	noun	icosidigon|icosidigon|R|N
+icosidodecahedron	noun	icosidodecahedron|icosidodecahedron|R|N
+icosihenagon	noun	icosihenagon|icosihenagon|R|N
+icositetrachoron	noun	icositetrachoron|icositetrachoron|R|N
+icositetragon	noun	icositetragon|icositetragon|R|N
+icositetrahedron	noun	icositetrahedron|icositetrahedron|R|N
+icositrigon	noun	icositrigon|icositrigon|R|N
+icteric	adj	icterus|icter|R|N ; -ic|ic|S
+icterus	noun	icterus|icterus|R|N
+ictus	noun	ictus|ictus|R|N
+ide	noun	ide|ide|R|N
+ideaed	adj	idea|idea|R|N ; -ed|ed|S||-ed (adj)
+ideaful	adj	idea|idea|R|N ; -ful|ful|S
+idealess	adj	idea|idea|R|N ; -less|less|S
+ideality	noun	ideal|ideal|R|Adj ; -ity|ity|S
+idealizer	noun	idealize|idealiz|R|V ; -er|er|S||-er (N)
+ideamonger	noun	idea|idea|R|N ; monger|monger|R|N
+ideate	verb	idea|ide|R|N ; -ate|ate|S
+idemfactor	noun	idemfactor|idemfactor|R|N
+idempotence	noun	idempotent|idempot|R|Adj ; -ence|ence|S
+idempotent	adj	idempotent|idempotent|R|Adj
+ident	noun	ident|ident|R|N
+identicalness	noun	identical|identical|R|Adj ; -ness|ness|S
+identifiableness	noun	identify|identifi|R|V ; -able|able|S ; -ness|ness|S
+ideogrammatic	adj	ideogrammatic|ideogrammatic|R|Adj
+ideogrammatically	adv	ideogrammatic|ideogrammatic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+ideographically	adv	ideographic|ideographic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+ideography	noun	ideography|ideography|R|N
+ideologic	adj	ideology|ideolog|R|N ; -ic|ic|S
+ideologization	noun	ideologize|ideologiz|R|V ; -ation|ation|S
+ideologize	verb	ideology|ideolog|R|N ; -ize|ize|S
+ideophone	noun	ideophone|ideophone|R|N
+ides	noun	ides|ides|R|N
+idigbo	noun	idigbo|idigbo|R|N
+idioblast	noun	idioblast|idioblast|R|N
+idioblastic	adj	idioblast|idioblast|R|N ; -ic|ic|S
+idiocracy	noun	idiocracy|idiocracy|R|N
+idiocrasy	noun	idiocrasy|idiocrasy|R|N
+idioglossia	noun	idioglossia|idioglossia|R|N
+idiograph	noun	idiograph|idiograph|R|N
+idiolectal	adj	idiolect|idiolect|R|N ; -al|al|S
+idiolectic	adj	idiolect|idiolect|R|N ; -ic|ic|S
+idiomatical	adj	idiomatic|idiomatic|R|Adj ; -al|al|S
+idiomatically	adv	idiomatic|idiomatic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+idiomaticity	noun	idiomatic|idiomatic|R|Adj ; -ity|ity|S
+idiomorphic	adj	idiomorphic|idiomorphic|R|Adj
+idiomorphism	noun	idiomorphism|idiomorphism|R|N
+idiopathically	adv	idiopathic|idiopathic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+idiopathy	noun	idiopathy|idiopathy|R|N

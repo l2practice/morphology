@@ -1,0 +1,200 @@
+anticonscription	noun	anti-|anti|P ; con-|con|P ; -scribe|script|B|V ; -ion|ion|S
+anticonservation	noun	anti-|anti|P ; conserve|conserv|R|V ; -ation|ation|S
+anticonstitutional	adj	anti-|anti|P ; constitute|constitut|R|V ; -ion|ion|S ; -al|al|S
+anticonstitutionally	adv	anti-|anti|P ; constitute|constitut|R|V ; -ion|ion|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+anticonsumerism	noun	anti-|anti|P ; consume|consum|R|V ; -er|er|S||-er (N) ; -ism|ism|S
+anticonsumerist	noun	anti-|anti|P ; consume|consum|R|V ; -er|er|S||-er (N) ; -ist|ist|S
+anticonvulsive	adj	anti-|anti|P ; convulse|convuls|R|V ; -ive|ive|S
+anticorporate	adj	anti-|anti|P ; corporate|corporate|R|Adj
+anticorrosion	noun	anti-|anti|P ; corrode|corros|R|V ; -ion|ion|S
+anticorrosive	adj	anti-|anti|P ; corrode|corros|R|V ; -ive|ive|S
+anticorruption	noun	anti-|anti|P ; corrupt|corrupt|R|V ; -ion|ion|S
+anticosine	noun	anti-|anti|P ; cosine|cosine|R|N
+anticough	adj	anti-|anti|P ; cough|cough|R|N
+anticruelty	noun	anti-|anti|P ; cruel|cruel|R|Adj ; -ty|ty|S
+anticult	adj	anti-|anti|P ; cult|cult|R|N
+anticyclone	noun	anti-|anti|P ; cyclone|cyclone|R|N
+anticyclonic	adj	anti-|anti|P ; cyclone|cyclon|R|N ; -ic|ic|S
+antidazzle	adj	anti-|anti|P ; dazzle|dazzle|R|V
+antidemocratic	adj	anti-|anti|P ; democrat|democrat|R|N ; -ic|ic|S
+antidepressive	adj	anti-|anti|P ; de-|de|P ; press|press|R|V ; -ive|ive|S
+antiderivative	noun	anti-|anti|P ; derivative|derivative|R|N
+antidetective	noun	anti-|anti|P ; detective|detective|R|N
+antidiabetic	adj	anti-|anti|P ; diabetic|diabetic|R|Adj
+antidiarrheal	adj	anti-|anti|P ; diarrhea|diarrhe|R|N ; -al|al|S
+antidiarrheic	adj	anti-|anti|P ; diarrhea|diarrhe|R|N ; -ic|ic|S
+antidifferentiation	noun	anti-|anti|P ; differentiate|differentiat|R|V ; -ion|ion|S
+antidiscriminatory	adj	anti-|anti|P ; discriminate|discrimin|R|V ; -ory|atory|S
+antidisestablishmentarianism	noun	anti-|anti|P ; disestablishmentarian|disestablishmentarian|R|N ; -ism|ism|S
+antidissident	noun	anti-|anti|P ; dissident|dissident|R|N
+antidiuretic	adj	anti-|anti|P ; diuretic|diuretic|R|Adj
+antidogmatic	adj	anti-|anti|P ; dogma|dogmat|R|N ; -ic|ic|S
+antidoping	noun	anti-|anti|P ; dope|dop|R|V ; -ing|ing|I||-ing (v)
+antidotal	adj	antidote|antidot|R|N ; -al|al|S
+antidotally	adv	antidote|antidot|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+antidromic	adj	anti-|anti|P ; dromic|dromic|R|Adj
+antidrug	adj	anti-|anti|P ; drug|drug|R|N
+antidumping	noun	anti-|anti|P ; dump|dump|R|V ; -ing|ing|I||-ing (v)
+antiecclesiastical	adj	anti-|anti|P ; ecclesiastic|ecclesiastic|R|Adj ; -al|al|S
+antielitism	noun	anti-|anti|P ; elite|elit|R|N ; -ism|ism|S
+antiemetic	adj	anti-|anti|P ; emetic|emetic|R|Adj
+antiendotoxic	adj	anti-|anti|P ; endotoxic|endotoxic|R|Adj
+antienzyme	noun	anti-|anti|P ; enzyme|enzyme|R|N
+antifading	adj	anti-|anti|P ; fade|fad|R|V ; -ing|ing|I||-ing (v)
+antifascism	noun	anti-|anti|P ; fascism|fascism|R|N
+antifascist	noun	anti-|anti|P ; fascist|fascist|R|N
+antifebrile	adj	anti-|anti|P ; febrile|febrile|R|Adj
+antifebrin	noun	antifebrin|antifebrin|R|N
+antifebrine	noun	antifebrine|antifebrine|R|N
+antifeminism	noun	anti-|anti|P ; feminism|feminism|R|N
+antiferment	noun	anti-|anti|P ; ferment|ferment|R|V
+antiferroelectric	adj	anti-|anti|P ; ferroelectric|ferroelectric|R|Adj
+antiferromagnetic	adj	anti-|anti|P ; ferromagnetic|ferromagnetic|R|Adj
+antiferromagnetism	noun	anti-|anti|P ; ferromagnetism|ferromagnetism|R|N
+antifertility	noun	anti-|anti|P ; fertile|fertil|R|Adj ; -ity|ity|S
+antifibrillatory	adj	anti-|anti|P ; fibrillate|fibrill|R|V ; -ory|atory|S
+antiflea	adj	anti-|anti|P ; flea|flea|R|N
+antifoaming	adj	anti-|anti|P ; foam|foam|R|V ; -ing|ing|I||-ing (v)
+antifogging	adj	anti-|anti|P ; fog|fogg|R|V ; -ing|ing|I||-ing (v)
+antiforeign	adj	anti-|anti|P ; foreign|foreign|R|Adj
+antifouling	adj	anti-|anti|P ; foul|foul|R|V ; -ing|ing|I||-ing (v)
+antifraud	adj	anti-|anti|P ; fraud|fraud|R|N
+antifriction	noun	anti-|anti|P ; friction|friction|R|N
+antifrost	adj	anti-|anti|P ; frost|frost|R|N
+antifundamentalist	noun	anti-|anti|P ; fundamental|fundamental|R|Adj ; -ist|ist|S
+antigambling	adj	anti-|anti|P ; gamble|gambl|R|V ; -ing|ing|I||-ing (v)
+antigenically	adv	antigenic|antigenic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+antigenicity	noun	antigen|antigen|R|N ; -ic|ic|S ; -ity|ity|S
+antiglare	adj	anti-|anti|P ; glare|glare|R|N
+antiglobalist	noun	anti-|anti|P ; global|global|R|Adj ; -ist|ist|S
+antiglobulin	noun	anti-|anti|P ; globulin|globulin|R|N
+antigorite	noun	antigorite|antigorite|R|N
+antigovernment	adj	anti-|anti|P ; govern|govern|R|V ; -ment|ment|S
+antigropelos	noun	antigropelos|antigropelos|R|N
+antigrowth	noun	anti-|anti|P ; grow|grow|R|V ; -th|th|S
+antigypsyism	noun	anti-|anti|P ; gypsy|gypsy|R|N ; -ism|ism|S
+antihaemophilic	adj	anti-|anti|P ; haemophilia|haemophil|R|N ; -ic|ic|S
+antihelium	noun	anti-|anti|P ; helium|helium|R|N
+antihelix	noun	anti-|anti|P ; helix|helix|R|N
+antihemorrhagic	adj	anti-|anti|P ; hemorrhage|hemorrhag|R|N ; -ic|ic|S
+antihero	noun	anti-|anti|P ; hero|hero|R|N
+antiheroic	adj	anti-|anti|P ; hero|hero|R|N ; -ic|ic|S
+antiheroine	noun	anti-|anti|P ; heroine|heroine|R|N
+antiheroism	noun	anti-|anti|P ; hero|hero|R|N ; -ism|ism|S
+antihistaminic	adj	anti-|anti|P ; histamine|histamin|R|N ; -ic|ic|S
+antihomeopathy	noun	anti-|anti|P ; homeopathy|homeopathy|R|N
+antihomomorphism	noun	anti-|anti|P ; homomorphism|homomorphism|R|N
+antihomosexual	adj	anti-|anti|P ; homosexual|homosexual|R|Adj
+antihormone	noun	anti-|anti|P ; hormone|hormone|R|N
+antihum	verb	anti-|anti|P ; hum|hum|R|V
+antihuman	adj	anti-|anti|P ; human|human|R|Adj
+antihumanism	noun	anti-|anti|P ; human|human|R|N ; -ism|ism|S
+antihumanitarian	adj	anti-|anti|P ; humanitarian|humanitarian|R|Adj
+antihunting	adj	anti-|anti|P ; hunt|hunt|R|V ; -ing|ing|I||-ing (v)
+antihypnotic	adj	anti-|anti|P ; hypnotic|hypnotic|R|Adj
+antijamming	noun	anti-|anti|P ; jam|jamm|R|V ; -ing|ing|I||-ing (v)
+antiking	noun	anti-|anti|P ; king|king|R|N
+antileft	adj	anti-|anti|P ; left|left|R|Adj
+antileprosy	adj	anti-|anti|P ; leprosy|leprosy|R|N
+antiliberal	adj	anti-|anti|P ; liberal|liberal|R|Adj
+antiliberalism	noun	anti-|anti|P ; liberal|liberal|R|Adj ; -ism|ism|S
+antiliteracy	noun	anti-|anti|P ; literacy|literacy|R|N
+antiliturgical	adj	anti-|anti|P ; liturgy|liturg|R|N ; -ical|ical|S
+antilog	noun	anti-|anti|P ; log|log|R|N
+antilogarithm	noun	anti-|anti|P ; logarithm|logarithm|R|N
+antilogarithmic	adj	anti-|anti|P ; logarithm|logarithm|R|N ; -ic|ic|S
+antilogous	adj	antilogous|antilogous|R|Adj
+antilogy	noun	antilogy|antilogy|R|N
+antimagnetic	adj	anti-|anti|P ; magnet|magnet|R|N ; -ic|ic|S
+antimask	adj	anti-|anti|P ; mask|mask|R|N
+antimasque	noun	anti-|anti|P ; masque|masque|R|N
+antimasturbation	noun	anti-|anti|P ; masturbate|masturbat|R|V ; -ion|ion|S
+antimaterialism	noun	anti-|anti|P ; material|material|R|N ; -ism|ism|S
+antimaterialist	noun	anti-|anti|P ; material|material|R|N ; -ist|ist|S
+antimechanized	adj	anti-|anti|P ; mechanize|mechaniz|R|V ; -ed|ed|I||-ed (v2)
+antimere	noun	antimere|antimere|R|N
+antimeridian	noun	anti-|anti|P ; meridian|meridian|R|N
+antimetabole	noun	antimetabole|antimetabole|R|N
+antimetabolite	noun	anti-|anti|P ; metabolite|metabolite|R|N
+antimicrophonic	adj	anti-|anti|P ; micro-|micro|P ; phone|phon|R|V ; -ic|ic|S
+antimilitarist	noun	anti-|anti|P ; military|militar|R|N ; -ist|ist|S
+antimissile	adj	anti-|anti|P ; missile|missile|R|N
+antimode	noun	anti-|anti|P ; mode|mode|R|N
+antimodern	adj	anti-|anti|P ; modern|modern|R|Adj
+antimonarchic	adj	anti-|anti|P ; monarch|monarch|R|N ; -ic|ic|S
+antimonarchical	adj	anti-|anti|P ; monarch|monarch|R|N ; -ical|ical|S
+antimonarchist	noun	anti-|anti|P ; monarch|monarch|R|N ; -ist|ist|S
+antimonate	noun	antimony|antimon|R|N ; -ate|ate|S
+antimonial	adj	antimony|antimon|R|N ; -ial|ial|S
+antimonic	adj	antimony|antimon|R|N ; -ic|ic|S
+antimonious	adj	antimony|antimon|R|N ; -ious|ious|S
+antimonite	noun	antimonite|antimonite|R|N
+antimonopolist	noun	anti-|anti|P ; monopoly|monopol|R|N ; -ist|ist|S
+antimonopolistic	adj	anti-|anti|P ; monopoly|monopol|R|N ; -ist|ist|S ; -ic|ic|S
+antimorph	noun	antimorph|antimorph|R|N
+antimorphic	adj	anti-|anti|P ; morphic|morphic|R|Adj
+antimosquito	adj	anti-|anti|P ; mosquito|mosquito|R|N
+antimutation	noun	anti-|anti|P ; mutate|mutat|R|V ; -ion|ion|S
+antimycin	noun	antimycin|antimycin|R|N
+antimycotic	adj	anti-|anti|P ; mycotic|mycotic|R|Adj
+antinarcotic	adj	anti-|anti|P ; narcotic|narcotic|R|Adj
+antinatalism	noun	anti-|anti|P ; natal|natal|R|Adj ; -ism|ism|S
+antinatalist	noun	anti-|anti|P ; natal|natal|R|Adj ; -ist|ist|S
+antinational	adj	anti-|anti|P ; nation|nation|R|N ; -al|al|S
+antinationalism	noun	anti-|anti|P ; nation|nation|R|N ; -al|al|S ; -ism|ism|S
+antineoplastic	adj	anti-|anti|P ; neoplastic|neoplastic|R|Adj
+antineuritic	adj	anti-|anti|P ; neuritis|neurit|R|N ; -ic|ic|S
+antineutron	noun	anti-|anti|P ; neutron|neutron|R|N
+anting	noun	ant|ant|R|N ; -ing|ing|S||-ing (N)
+antinode	noun	anti-|anti|P ; node|node|R|N
+antinoise	adj	anti-|anti|P ; noise|noise|R|N
+antinomianism	noun	antinomian|antinomian|R|N ; -ism|ism|S
+antinomic	adj	antinomy|antinom|R|N ; -ic|ic|S
+antinomical	adj	antinomy|antinom|R|N ; -ical|ical|S
+antinovel	noun	anti-|anti|P ; novel|novel|R|N
+antinuclear	adj	anti-|anti|P ; nuclear|nuclear|R|Adj
+antinutrient	noun	anti-|anti|P ; nutrient|nutrient|R|N
+antiobscenity	noun	anti-|anti|P ; obscene|obscen|R|Adj ; -ity|ity|S
+antiorganization	noun	anti-|anti|P ; organize|organiz|R|V ; -ation|ation|S
+antipacifist	noun	anti-|anti|P ; pacifist|pacifist|R|N
+antipapal	adj	anti-|anti|P ; papal|papal|R|Adj
+antiparallel	adj	anti-|anti|P ; parallel|parallel|R|Adj
+antiparallelogram	noun	anti-|anti|P ; parallelogram|parallelogram|R|N
+antiparasitic	adj	anti-|anti|P ; parasite|parasit|R|N ; -ic|ic|S
+antiparty	adj	anti-|anti|P ; party|party|R|N
+antipathetical	adj	antipathetical|antipathetical|R|Adj
+antipathetically	adv	antipathetical|antipathetical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+antipathic	adj	antipathy|antipath|R|N ; -ic|ic|S
+antipathogen	noun	anti-|anti|P ; pathogen|pathogen|R|N
+antipathogenic	adj	anti-|anti|P ; pathogen|pathogen|R|N ; -ic|ic|S
+antipatriotic	adj	anti-|anti|P ; patriot|patriot|R|N ; -ic|ic|S
+antipattern	noun	anti-|anti|P ; pattern|pattern|R|N
+antiperiodic	adj	anti-|anti|P ; period|period|R|N ; -ic|ic|S
+antiperistalsis	noun	anti-|anti|P ; peristalsis|peristalsis|R|N
+antipersonnel	adj	anti-|anti|P ; personnel|personnel|R|N
+antiphase	noun	anti-|anti|P ; phase|phase|R|N
+antiphlogistic	adj	anti-|anti|P ; phlogistic|phlogistic|R|Adj
+antiphonally	adv	antiphon|antiphon|R|N ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+antiphonary	noun	antiphon|antiphon|R|N ; -ary|ary|S
+antiphony	noun	antiphon|antiphon|R|N ; -y|y|S
+antiphrasis	noun	antiphrasis|antiphrasis|R|N
+antipirate	adj	anti-|anti|P ; pirate|pirate|R|N
+antiplatelet	adj	anti-|anti|P ; platelet|platelet|R|N
+antipodal	adj	antipode|antipod|R|N ; -al|al|S
+antipodes	noun	antipode|antipod|R|N ; -es|es|I||-s (plural)
+antipoetry	noun	anti-|anti|P ; poetry|poetry|R|N
+antipoison	noun	anti-|anti|P ; poison|poison|R|N
+antipole	noun	anti-|anti|P ; pole|pole|R|N
+antipollution	noun	anti-|anti|P ; pollute|pollut|R|V ; -ion|ion|S
+antipope	noun	anti-|anti|P ; pope|pope|R|N
+antipopular	adj	anti-|anti|P ; popular|popular|R|Adj
+antiporn	adj	anti-|anti|P ; porn|porn|R|N
+antipornography	noun	anti-|anti|P ; pornography|pornography|R|N
+antiporter	noun	anti-|anti|P ; porter|porter|R|N
+antiprism	noun	anti-|anti|P ; prism|prism|R|N
+antiprofiteering	noun	anti-|anti|P ; profiteer|profiteer|R|V ; -ing|ing|I||-ing (v)
+antiprogressive	adj	anti-|anti|P ; progressive|progressive|R|Adj
+antiprohibitionist	noun	anti-|anti|P ; prohibition|prohibition|R|N ; -ist|ist|S
+antiprostitution	noun	anti-|anti|P ; prostitute|prostitut|R|V ; -ion|ion|S
+antiproverb	noun	anti-|anti|P ; proverb|proverb|R|N
+antipruritic	adj	anti-|anti|P ; pruritic|pruritic|R|Adj

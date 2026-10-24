@@ -1,0 +1,200 @@
+educology	noun	educology|educology|R|N
+educt	noun	educt|educt|R|N
+eduction	noun	eduction|eduction|R|N
+eductor	noun	eductor|eductor|R|N
+edulcorate	verb	edulcorate|edulcorate|R|V
+edulcoration	noun	edulcoration|edulcoration|R|N
+eek	interj	eek|eek|R
+eeler	noun	eel|eel|R|N ; -er|er|S||-er (N)
+eellike	adj	eel|eel|R|N ; -like|like|S
+eelpot	noun	eel|eel|R|N ; pot|pot|R|N
+eelpout	noun	eel|eel|R|N ; pout|pout|R|N
+eelworm	noun	eel|eel|R|N ; worm|worm|R|N
+eely	adj	eel|eel|R|N ; -y|y|S
+effaceable	adj	efface|efface|R|V ; -able|able|S
+effacer	noun	efface|effac|R|V ; -er|er|S||-er (N)
+effected	verb	effect|effect|R|V ; -ed|ed|I||-ed (v2)
+effectible	adj	effect|effect|R|V ; -ible|ible|S
+effecting	verb	effect|effect|R|V ; -ing|ing|I||-ing (v)
+effection	noun	effect|effect|R|V ; -ion|ion|S
+effectivity	noun	effect|effect|R|N ; -ive|iv|S ; -ity|ity|S
+effectless	adj	effect|effect|R|N ; -less|less|S
+effectuality	noun	effect|effect|R|N ; -ual|ual|S ; -ity|ity|S
+effectualness	noun	effect|effect|R|N ; -ual|ual|S ; -ness|ness|S
+effectuation	noun	effectuate|effectuat|R|V ; -ion|ion|S
+effeminately	adv	effeminate|effeminate|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+effeminateness	noun	effeminate|effeminate|R|Adj ; -ness|ness|S
+efferently	adv	efferent|efferent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+effervesce	verb	effervesce|effervesce|R|V
+effervescently	adv	effervescent|effervescent|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+effervescible	adj	effervesce|effervesc|R|V ; -ible|ible|S
+effetely	adv	effete|effete|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+effeteness	noun	effete|effete|R|Adj ; -ness|ness|S
+efficaciously	adv	efficacious|efficacious|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+efficaciousness	noun	efficacious|efficacious|R|Adj ; -ness|ness|S
+efficacity	noun	efficacious|efficac|R|Adj ; -ity|ity|S
+effloresce	verb	effloresce|effloresce|R|V
+efflorescent	adj	efflorescent|efflorescent|R|Adj
+effluence	noun	effluence|effluence|R|N
+effluvial	adj	effluvium|effluvi|R|N ; -al|al|S
+effluxion	noun	ef-|ef|P|||ex- ; flux|flux|R|N ; -ion|ion|S
+effortfully	adv	effort|effort|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+effraction	noun	ef-|ef|P|||ex- ; fraction|fraction|R|N
+effulge	verb	effulge|effulge|R|V
+effulgent	adj	ef-|ef|P|||ex- ; fulgent|fulgent|R|Adj
+effuse	verb	effuse|effuse|R|V
+effusiveness	noun	effuse|effus|R|V ; -ive|ive|S ; -ness|ness|S
+eft	noun	eft|eft|R|N
+egest	verb	egest|egest|R|V
+egesta	noun	egesta|egesta|R|N
+egestion	noun	egest|egest|R|V ; -ion|ion|S
+eggar	noun	eggar|eggar|R|N
+eggcup	noun	egg|egg|R|N ; cup|cup|R|N
+egged	verb	egg|egg|R|V ; -ed|ed|I||-ed (v2)
+egging	verb	egg|egg|R|V ; -ing|ing|I||-ing (v)
+eggless	adj	egg|egg|R|N ; -less|less|S
+eglantine	noun	eglantine|eglantine|R|N
+egocentrically	adv	egocentric|egocentric|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+egohood	noun	ego|ego|R|N ; -hood|hood|S
+egoistical	adj	ego|ego|R|N ; -ist|ist|S ; -ical|ical|S
+egoistically	adv	ego|ego|R|N ; -ist|ist|S ; -ic|ic|S ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+egosyntonic	adj	ego|ego|R|N ; syntonic|syntonic|R|Adj
+egotistically	adv	egotistic|egotistic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+egotize	verb	egotize|egotize|R|V
+egregiousness	noun	egregious|egregious|R|Adj ; -ness|ness|S
+egregore	noun	egregore|egregore|R|N
+egression	noun	egress|egress|R|V ; -ion|ion|S
+egressive	adj	egress|egress|R|V ; -ive|ive|S
+eicosane	noun	eicosane|eicosane|R|N
+eident	adj	eident|eident|R|Adj
+eidograph	noun	eidograph|eidograph|R|N
+eidolon	noun	eidolon|eidolon|R|N
+eidolopoeia	noun	eidolopoeia|eidolopoeia|R|N
+eigenfunction	noun	eigenfunction|eigenfunction|R|N
+eigenket	noun	eigenket|eigenket|R|N
+eigenspace	noun	eigenspace|eigenspace|R|N
+eigenstate	noun	eigenstate|eigenstate|R|N
+eigenvector	noun	eigenvector|eigenvector|R|N
+eighteenmo	noun	eighteenmo|eighteenmo|R|N
+eighthly	adv	eighth|eighth|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+eighties	noun	eighty|eighti|R|N ; -es|es|I||-s (plural)
+eightsome	noun	eight|eight|R|N ; -some|some|S
+eightyfold	adj	eighty|eighty|R|N ; fold|fold|R|V
+eightysomething	noun	eighty|eighty|R|N ; something|something|R
+einherjar	noun	einherjar|einherjar|R|N
+einsteinium	noun	einsteinium|einsteinium|R|N
+eirenicon	noun	eirenicon|eirenicon|R|N
+eisegesis	noun	eisegesis|eisegesis|R|N
+eiswein	noun	eiswein|eiswein|R|N
+ejaculator	noun	ejaculate|ejaculat|R|V ; -or|or|S
+ejectable	adj	eject|eject|R|V ; -able|able|S
+ejective	adj	eject|eject|R|V ; -ive|ive|S
+ejectment	noun	eject|eject|R|V ; -ment|ment|S
+ekiben	noun	ekiben|ekiben|R|N
+eking	verb	eke|ek|R|V ; -ing|ing|I||-ing (v)
+ekistics	noun	ekistics|ekistics|R|N
+ekka	noun	ekka|ekka|R|N
+ekphrasis	noun	ekphrasis|ekphrasis|R|N
+ekranoplan	noun	ekranoplan|ekranoplan|R|N
+ektara	noun	ektara|ektara|R|N
+elaborateness	noun	elaborate|elaborate|R|Adj ; -ness|ness|S
+elaborator	noun	elaborate|elaborat|R|V ; -or|or|S
+elasmobranch	noun	elasmobranch|elasmobranch|R|N
+elastane	noun	elastane|elastane|R|N
+elastically	adv	elastic|elastic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+elasticate	verb	elastic|elastic|R|Adj ; -ate|ate|S
+elatedly	adv	elated|elated|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+elatedness	noun	elated|elated|R|Adj ; -ness|ness|S
+elater	noun	elater|elater|R|N
+elative	noun	elate|elat|R|V ; -ive|ive|S
+elbaite	noun	elbaite|elbaite|R|N
+elbowed	adj	elbow|elbow|R|N ; -ed|ed|S||-ed (adj)
+elbowing	verb	elbow|elbow|R|V ; -ing|ing|I||-ing (v)
+elchi	noun	elchi|elchi|R|N
+elderliness	noun	elderly|elderli|R|Adj ; -ness|ness|S
+eldership	noun	elder|elder|R|N ; -ship|ship|S
+elecampane	noun	elecampane|elecampane|R|N
+electability	noun	elect|elect|R|V ; -able|abil|S ; -ity|ity|S
+electable	adj	elect|elect|R|V ; -able|able|S
+electioneerer	noun	electioneer|electioneer|R|V ; -er|er|S||-er (N)
+electively	adv	elective|elective|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+electiveness	noun	elective|elective|R|Adj ; -ness|ness|S
+electorship	noun	elector|elector|R|N ; -ship|ship|S
+electress	noun	elector|electr|R|N ; -ess|ess|S
+electrifiable	adj	electrify|electrifi|R|V ; -able|able|S
+electrifier	noun	electrify|electrifi|R|V ; -er|er|S||-er (N)
+electrifyingly	adv	electrify|electrify|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+electrine	noun	electrine|electrine|R|N
+electrization	noun	electrize|electriz|R|V ; -ation|ation|S
+electrize	verb	electric|electr|R|Adj ; -ize|ize|S
+electroacoustic	adj	electroacoustic|electroacoustic|R|Adj
+electroacoustics	noun	electroacoustic|electroacoustic|R|Adj ; -s|s|I||-s (plural)
+electrobiology	noun	electrobiology|electrobiology|R|N
+electrocardiograph	noun	electrocardiograph|electrocardiograph|R|N
+electrocardiography	noun	electrocardiography|electrocardiography|R|N
+electrochemiluminescence	noun	electrochemiluminescence|electrochemiluminescence|R|N
+electrochemist	noun	electrochemist|electrochemist|R|N
+electroconductivity	noun	electroconductivity|electroconductivity|R|N
+electrodeposit	noun	electrodeposit|electrodeposit|R|N
+electrodeposition	noun	electrodeposition|electrodeposition|R|N
+electrodialysis	noun	electrodialysis|electrodialysis|R|N
+electrodynamometer	noun	electrodynamometer|electrodynamometer|R|N
+electroencephalograph	noun	electroencephalograph|electroencephalograph|R|N
+electroencephalographic	adj	electroencephalographic|electroencephalographic|R|Adj
+electroencephalography	noun	electroencephalography|electroencephalography|R|N
+electrofishing	noun	electrofishing|electrofishing|R|N
+electroform	noun	electroform|electroform|R|N
+electrogen	noun	electrogen|electrogen|R|N
+electrogilding	noun	electrogilding|electrogilding|R|N
+electrogram	noun	electrogram|electrogram|R|N
+electrograph	noun	electrograph|electrograph|R|N
+electrography	noun	electrography|electrography|R|N
+electrohydraulic	adj	electrohydraulic|electrohydraulic|R|Adj
+electrokinetic	adj	electrokinetic|electrokinetic|R|Adj
+electrokinetics	noun	electrokinetic|electrokinetic|R|Adj ; -s|s|I||-s (plural)
+electrolier	noun	electrolier|electrolier|R|N
+electrology	noun	electrology|electrology|R|N
+electroluminescence	noun	electroluminescence|electroluminescence|R|N
+electroluminescent	adj	electroluminescent|electroluminescent|R|Adj
+electrolytically	adv	electrolytic|electrolytic|R|Adj ; -ly|ally|I|Adv|-ly (adv)
+electrolyze	verb	electrolyze|electrolyze|R|V
+electromagnetically	adv	electromagnetic|electromagnetic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+electromechanics	noun	electromechanics|electromechanics|R|N
+electrometallurgical	adj	electrometallurgical|electrometallurgical|R|Adj
+electrometallurgy	noun	electrometallurgy|electrometallurgy|R|N
+electrometer	noun	electrometer|electrometer|R|N
+electrometric	adj	electrometric|electrometric|R|Adj
+electrometry	noun	electrometry|electrometry|R|N
+electromotive	adj	electromotive|electromotive|R|Adj
+electromotor	noun	electromotor|electromotor|R|N
+electromyogram	noun	electromyogram|electromyogram|R|N
+electromyograph	noun	electromyograph|electromyograph|R|N
+electromyographic	adj	electromyographic|electromyographic|R|Adj
+electronegative	adj	electronegative|electronegative|R|Adj
+electronegativity	noun	electronegative|electronegativ|R|Adj ; -ity|ity|S
+electropathic	adj	electropathic|electropathic|R|Adj
+electropathy	noun	electropathy|electropathy|R|N
+electrophile	noun	electrophile|electrophile|R|N
+electrophilic	adj	electrophilic|electrophilic|R|Adj
+electrophore	noun	electrophore|electrophore|R|N
+electrophoretic	adj	electrophoretic|electrophoretic|R|Adj
+electrophorus	noun	electrophorus|electrophorus|R|N
+electrophotography	noun	electrophotography|electrophotography|R|N
+electroplating	noun	electroplating|electroplating|R|N
+electropneumatic	adj	electropneumatic|electropneumatic|R|Adj
+electropositive	adj	electropositive|electropositive|R|Adj
+electroretinogram	noun	electroretinogram|electroretinogram|R|N
+electroretinograph	noun	electroretinograph|electroretinograph|R|N
+electroretinography	noun	electroretinography|electroretinography|R|N
+electroscope	noun	electroscope|electroscope|R|N
+electroscopic	adj	electroscopic|electroscopic|R|Adj
+electrostatics	noun	electrostatic|electrostatic|R|Adj ; -s|s|I||-s (plural)
+electrosteel	noun	electrosteel|electrosteel|R|N
+electrosurgery	noun	electrosurgery|electrosurgery|R|N
+electrosurgical	adj	electrosurgical|electrosurgical|R|Adj
+electrosurgically	adv	electrosurgical|electrosurgical|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+electrotaxis	noun	electrotaxis|electrotaxis|R|N
+electrotechnic	adj	electrotechnic|electrotechnic|R|Adj
+electrotechnician	noun	electrotechnician|electrotechnician|R|N
+electrotechnics	noun	electrotechnics|electrotechnics|R|N
+electrotechnology	noun	electrotechnology|electrotechnology|R|N

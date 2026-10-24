@@ -1,0 +1,200 @@
+maximization	noun	maximize|maximiz|R|V ; -ation|ation|S
+timberland	noun	timber|timber|R|N ; land|land|R|N
+stapes	noun	stapes|stapes|R|N
+curtained	adj	curtain|curtain|R|N ; -ed|ed|S||-ed (adj)
+subscript	noun	sub-|sub|P ; script|script|R|N
+heraldry	noun	herald|herald|R|N ; -ry|ry|S
+turncoat	noun	turn|turn|R|V ; coat|coat|R|N
+screwball	noun	screw|screw|R|V ; ball|ball|R|N
+interbreed	verb	inter-|inter|P ; breed|breed|R|V
+seeding	noun	seed|seed|R|N ; -ing|ing|S||-ing (N)
+literati	noun	literati|literati|R|N
+legislatively	adv	legislate|legislat|R|V ; -ive|ive|S ; -ly|ly|I|Adv|-ly (adv)
+civilize	verb	civil|civil|R|Adj ; -ize|ize|S
+borg	noun	borg|borg|R|N
+parodic	adj	parody|parod|R|N ; -ic|ic|S
+forehand	noun	fore-|fore|P ; hand|hand|R|N
+accrete	verb	accrete|accrete|R|V
+axon	noun	axon|axon|R|N
+meningioma	noun	meningioma|meningioma|R|N
+catatonic	adj	catatonic|catatonic|R|Adj
+hydroxide	noun	hydroxide|hydroxide|R|N
+jacky	noun	jacky|jacky|R|N
+curmudgeon	noun	curmudgeon|curmudgeon|R|N
+ville	noun	ville|ville|R|N
+slammer	noun	slam|slamm|R|V ; -er|er|S||-er (N)
+constructionist	noun	con-|con|P ; -struct|struct|B|V ; -ion|ion|S ; -ist|ist|S
+mortise	noun	mortise|mortise|R|N
+lustful	adj	lust|lust|R|N ; -ful|ful|S
+ovum	noun	ovum|ovum|R|N
+underused	adj	under-|under|P ; use|us|R|V ; -ed|ed|S||-ed (adj)
+teamster	noun	team|team|R|N ; -ster|ster|S
+ironside	noun	iron|iron|R|N ; side|side|R|N
+scaled	adj	scale|scal|R|V ; -ed|ed|S||-ed (adj)
+lodgepole	noun	lodge|lodge|R|N ; pole|pole|R|N
+polyunsaturated	adj	poly-|poly|P ; un-|un|P ; saturate|saturat|R|V ; -ed|ed|S||-ed (adj)
+smokehouse	noun	smoke|smoke|R|V ; house|house|R|N
+speeder	noun	speed|speed|R|V ; -er|er|S||-er (N)
+climatologist	noun	climatology|climatolog|R|N ; -ist|ist|S
+disrobe	verb	dis-|dis|P ; robe|robe|R|N
+ungrammatical	adj	un-|un|P ; grammatical|grammatical|R|Adj
+breaststroke	noun	breast|breast|R|N ; stroke|stroke|R|N
+sequencer	noun	sequence|sequenc|R|N ; -er|er|S||-er (N)
+sawhorse	noun	saw|saw|R|N ; horse|horse|R|N
+creatinine	noun	creatinine|creatinine|R|N
+bruiser	noun	bruise|bruis|R|V ; -er|er|S||-er (N)
+titian	noun	titian|titian|R|N
+bionic	adj	bionic|bionic|R|Adj
+pipette	noun	pipette|pipette|R|N
+electrocution	noun	electrocute|electrocut|R|V ; -ion|ion|S
+lilting	adj	lilt|lilt|R|V ; -ing|ing|S||-ing (adj)
+uppity	adj	uppity|uppity|R|Adj
+soothsayer	noun	sooth|sooth|R|N ; say|say|R|V ; -er|er|S||-er (N)
+fused	adj	fuse|fus|R|V ; -ed|ed|S||-ed (adj)
+degeneracy	noun	degenerate|degener|R|V ; -cy|acy|S
+utilitarianism	noun	utilitarian|utilitarian|R|Adj ; -ism|ism|S
+stanch	verb	stanch|stanch|R|V
+survivalist	noun	survive|surviv|R|V ; -al|al|S ; -ist|ist|S
+maypole	noun	may|may|R|N ; pole|pole|R|N
+epinephrine	noun	epinephrine|epinephrine|R|N
+legionnaire	noun	legionnaire|legionnaire|R|N
+dormancy	noun	dormant|dorman|R|Adj ; -cy|cy|S
+phosphorescent	adj	phosphorescent|phosphorescent|R|Adj
+typesetter	noun	type|type|R|N ; set|sett|R|V ; -er|er|S||-er (N)
+shamefully	adv	shame|shame|R|N ; -ful|ful|S ; -ly|ly|I|Adv|-ly (adv)
+pelmet	noun	pelmet|pelmet|R|N
+postnatal	adj	post-|post|P ; natal|natal|R|Adj
+dixie	noun	dixie|dixie|R|N
+swami	noun	swami|swami|R|N
+possessed	adj	possess|possess|R|V ; -ed|ed|S||-ed (adj)
+recombination	noun	re-|re|P ; combine|combin|R|V ; -ation|ation|S
+gibbous	adj	gibbous|gibbous|R|Adj
+shamanic	adj	shaman|shaman|R|N ; -ic|ic|S
+shrilly	adv	shrill|shril|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+damnedest	adj	damn|damn|R|V ; -ed|ed|S||-ed (adj) ; -est|est|I||-est (superlative)
+greeter	noun	greet|greet|R|V ; -er|er|S||-er (N)
+slacker	noun	slack|slack|R|Adj ; -er|er|S||-er (N)
+spiritualist	noun	spiritual|spiritual|R|Adj ; -ist|ist|S
+tomcat	noun	tom|tom|R|N ; cat|cat|R|N
+zonal	adj	zone|zon|R|N ; -al|al|S
+dunce	noun	dunce|dunce|R|N
+testily	adv	testy|testi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+birdbath	noun	bird|bird|R|N ; bath|bath|R|N
+orthopedist	noun	orthopedist|orthopedist|R|N
+fra	noun	fra|fra|R|N
+motherless	adj	mother|mother|R|N ; -less|less|S
+scoreline	noun	score|score|R|N ; line|line|R|N
+classificatory	adj	classify|classifi|R|V ; -atory|catory|S
+bassinet	noun	bassinet|bassinet|R|N
+steadfastness	noun	steadfast|steadfast|R|Adj ; -ness|ness|S
+undercooked	adj	under-|under|P ; cook|cook|R|V ; -ed|ed|S||-ed (adj)
+overstay	verb	over-|over|P ; stay|stay|R|V
+frustratingly	adv	frustrate|frustrat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|I|Adv|-ly (adv)
+dapple	verb	dapple|dapple|R|V
+simian	adj	simian|simian|R|Adj
+hematoma	noun	hematoma|hematoma|R|N
+parted	adj	part|part|R|V ; -ed|ed|S||-ed (adj)
+mutineer	noun	mutiny|mutin|R|N ; -eer|eer|S
+zippy	adj	zip|zipp|R|V ; -y|y|S
+slumping	noun	slump|slump|R|V ; -ing|ing|S||-ing (N)
+foreskin	noun	fore-|fore|P ; skin|skin|R|N
+hiya	interj	hiya|hiya|R
+piedmont	noun	piedmont|piedmont|R|N
+sluggishly	adv	sluggish|sluggish|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+daybed	noun	day|day|R|N ; bed|bed|R|N
+div	noun	div|div|R|N
+tenon	noun	tenon|tenon|R|N
+magnified	adj	magnify|magnifi|R|V ; -ed|ed|S||-ed (adj)
+manicurist	noun	manicure|manicur|R|N ; -ist|ist|S
+stepsister	noun	step|step|R|N ; sister|sister|R|N
+officious	adj	office|offic|R|N ; -ious|ious|S
+groggily	adv	groggy|groggi|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+muzzleloader	noun	muzzle|muzzle|R|N ; load|load|R|V ; -er|er|S||-er (N)
+unfamiliarity	noun	un-|un|P ; familiar|familiar|R|Adj ; -ity|ity|S
+futilely	adv	futile|futile|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+triplicate	noun	triplicate|triplicate|R|N
+weft	noun	weft|weft|R|N
+cacique	noun	cacique|cacique|R|N
+mastic	noun	mastic|mastic|R|N
+lovey	noun	love|love|R|N ; -y|y|S
+camomile	noun	camomile|camomile|R|N
+iridium	noun	iridium|iridium|R|N
+ribald	adj	ribald|ribald|R|Adj
+downbeat	noun	down|down|R|Adv ; beat|beat|R|N
+hypnotist	noun	hypnotist|hypnotist|R|N
+systematize	verb	systematize|systematize|R|V
+comorbidity	noun	co-|co|P ; morbidity|morbidity|R|N
+triangulate	verb	tri-|tri|P ; angulate|angulate|R|V
+cheerleading	noun	cheer|cheer|R|V ; lead|lead|R|V ; -ing|ing|S||-ing (N)
+rutabaga	noun	rutabaga|rutabaga|R|N
+tacking	noun	tack|tack|R|V ; -ing|ing|S||-ing (N)
+gawky	adj	gawk|gawk|R|V ; -y|y|S
+beatnik	noun	beatnik|beatnik|R|N
+grammarian	noun	grammar|grammar|R|N ; -ian|ian|S
+deconstructive	adj	de-|de|P ; con-|con|P ; -struct|struct|B|V ; -ive|ive|S
+diuretic	adj	diuretic|diuretic|R|Adj
+bifocals	noun	bi-|bi|P ; focal|focal|R|Adj ; -s|s|I||-s (plural)
+masher	noun	mash|mash|R|V ; -er|er|S||-er (N)
+horsehair	noun	horse|horse|R|N ; hair|hair|R|N
+poetically	adv	poetic|poetic|R|Adj ; -al|al|S ; -ly|ly|I|Adv|-ly (adv)
+unequaled	adj	un-|un|P ; equal|equal|R|Adj ; -ed|ed|S||-ed (adj)
+freewheel	verb	free|free|R|Adj ; wheel|wheel|R|N
+mantis	noun	mantis|mantis|R|N
+omnipotence	noun	omnipotence|omnipotence|R|N
+gyro	noun	gyro|gyro|R|N
+multipolar	adj	multi-|multi|P ; polar|polar|R|Adj
+cybernetic	adj	cybernetic|cybernetic|R|Adj
+androgen	noun	androgen|androgen|R|N
+docudrama	noun	docudrama|docudrama|R|N
+funereal	adj	funereal|funereal|R|Adj
+superheated	adj	super-|super|P ; heat|heat|R|V ; -ed|ed|S||-ed (adj)
+perforate	verb	perforate|perforate|R|V
+poundage	noun	pound|pound|R|N ; -age|age|S
+longhand	noun	long|long|R|Adj ; hand|hand|R|N
+joyless	adj	joy|joy|R|N ; -less|less|S
+attainder	noun	attainder|attainder|R|N
+ciprofloxacin	noun	ciprofloxacin|ciprofloxacin|R|N
+bettor	noun	bet|bett|R|V ; -or|or|S
+matchbook	noun	match|match|R|N ; book|book|R|N
+drinkable	adj	drink|drink|R|V ; -able|able|S
+prefrontal	adj	pre-|pre|P ; frontal|frontal|R|Adj
+redcoat	noun	red|red|R|Adj ; coat|coat|R|N
+inauthentic	adj	in-|in|P ; authentic|authentic|R|Adj
+squabbling	noun	squabble|squabbl|R|V ; -ing|ing|S||-ing (N)
+emotionless	adj	emotion|emotion|R|N ; -less|less|S
+spiritualism	noun	spiritual|spiritual|R|Adj ; -ism|ism|S
+unveiling	noun	un-|un|P ; veil|veil|R|N ; -ing|ing|S||-ing (N)
+periwinkle	noun	periwinkle|periwinkle|R|N
+trackway	noun	track|track|R|N ; way|way|R|N
+tethered	adj	tether|tether|R|V ; -ed|ed|S||-ed (adj)
+oilskin	noun	oil|oil|R|N ; skin|skin|R|N
+ripping	noun	rip|ripp|R|V ; -ing|ing|S||-ing (N)
+sepsis	noun	sepsis|sepsis|R|N
+dilettante	noun	dilettante|dilettante|R|N
+haemophiliac	noun	haemophiliac|haemophiliac|R|N
+metonymic	adj	metonymy|metonym|R|N ; -ic|ic|S
+spacewalk	noun	space|space|R|N ; walk|walk|R|V
+capitation	noun	capitation|capitation|R|N
+vee	noun	vee|vee|R|N
+consumptive	adj	consume|consumpt|R|V ; -ive|ive|S
+ejido	noun	ejido|ejido|R|N
+paramour	noun	paramour|paramour|R|N
+outrank	verb	out-|out|P ; rank|rank|R|V
+focaccia	noun	focaccia|focaccia|R|N
+galilee	noun	galilee|galilee|R|N
+snakeskin	noun	snake|snake|R|N ; skin|skin|R|N
+yogi	noun	yogi|yogi|R|N
+silversmith	noun	silver|silver|R|N ; smith|smith|R|N
+reticle	noun	reticle|reticle|R|N
+toiling	noun	toil|toil|R|V ; -ing|ing|S||-ing (N)
+playable	adj	play|play|R|V ; -able|able|S
+witless	adj	wit|wit|R|N ; -less|less|S
+hydrologist	noun	hydrology|hydrolog|R|N ; -ist|ist|S
+reducer	noun	re-|re|P ; -duce|duc|B|V ; -er|er|S||-er (N)
+ironstone	noun	iron|iron|R|N ; stone|stone|R|N
+oxidative	adj	oxide|oxid|R|N ; -ative|ative|S
+accelerometer	noun	accelerometer|accelerometer|R|N
+coupler	noun	couple|coupl|R|V ; -er|er|S||-er (N)
+coven	noun	coven|coven|R|N
+fancier	adj	fancy|fanci|R|Adj ; -er|er|I||-er (comparative)
+overwrite	verb	over-|over|P ; write|write|R|V
