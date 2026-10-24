@@ -59,7 +59,6 @@ degree	-gree
 compare	-pare
 determine	-termine
 prepare	-pare
-recognize	-cogn-
 function	funct-
 character	charact-
 physical	physic-
@@ -142,7 +141,6 @@ vital	vit-
 request	-quest
 typical	typ-
 eliminate	elimin-
-capable	cap-
 mirror	mirr-
 atmosphere	atmo-,-sphere
 revolution	-volut-
@@ -272,7 +270,6 @@ collapse	-lapse
 narrative	narr-
 helicopter	helico-,-pter
 petrol	-ol
-anticipate	-cip-
 explode	-plode
 curious	curi-
 junction	junc-
@@ -366,7 +363,6 @@ technological	techno-
 delicate	delic-
 casual	casu-
 inherit	-herit
-dedicate	dedic-
 intensive	intens-
 isolate	isol-
 elegant	eleg-
@@ -398,7 +394,6 @@ hostile	host-
 cartoon	cart-
 tumor	tum-
 patience	pat-
-predecessor	-decess-
 revelation	-vel-
 immune	-mune
 competence	compet-
@@ -520,7 +515,6 @@ absurd	-surd
 jealous	jeal
 complement	comple
 applaud	-plaud
-facial	fac
 antique	ant
 pasture	past
 erase	-rase
@@ -818,7 +812,6 @@ exuberant	-uber-
 immersion	-mers-
 thyroid	thyr-
 meditate	medit-
-diligence	dilig-
 exclamation	-clam-
 abort	-ort
 concoct	-coct
@@ -833,14 +826,13 @@ technologically	-ological
 saturation	satur-
 executor	-ecut-
 anomalous	-omal-
-cyclical	cycl-
 hallucination	hallucin-
 gravitate	gravit-
 aperture	apert-
 puberty	puber-
 tumultuous	tumult-
 accuser	-cus-
-facsimile	fac-,-simile
+facsimile	-simile
 tubular	tub-
 sarcasm	sarc-
 captivate	captiv-
@@ -1055,7 +1047,6 @@ iteration	iter-
 deplorable	-plor-
 heretic	heret-
 palatine	palat-
-hypothermia	-therm-
 conceit	-ceit
 mystify	myst-
 hatchet	hatch-
@@ -1087,7 +1078,6 @@ pneumatic	pneumat-
 operand	oper-
 derision	-ris-
 tabulate	tabul-
-delectable	delect-
 malleable	malle-
 industrious	industri-
 brevity	brev-
@@ -1214,7 +1204,6 @@ androgynous	andro-,-gyn-
 epileptic	epilept-
 hallucinate	hallucin-
 carnivorous	-ivor-
-encyclical	-cycl-
 plausibility	plausib-
 deliberative	deliberat-
 privation	priv-
@@ -1337,7 +1326,6 @@ incriminate	-crimin-
 thoracic	thorac-
 myopia	my-
 navigable	navig-
-physiologic	physio-,-logic
 chromatic	chromat-
 globule	glob-
 calisthenics	cali-,-sthen-
@@ -1364,7 +1352,7 @@ colic	col-
 distributive	-tribut-
 beautify	beaut-
 armature	arm-
-denture	dent-
+denture	-dent-
 putrid	putr-
 odometer	odo-
 beatific	beat-
@@ -1437,7 +1425,6 @@ lipoprotein	lipo-
 melaleuca	mela-,-leuca
 musicologist	-olog-
 botulism	botul-
-cognate	-gnate
 obfuscation	-fusc-
 pontificate	ponti-
 melanin	melan-
@@ -1567,10 +1554,8 @@ leukocyte	leuko-,-cyte
 menthol	menth-
 apoptosis	-ptosis
 anadromous	-drom-
-neologism	neo-
 quietude	quiet-
 manometry	mano-
-anthropomorphism	anthropo-
 lithotripsy	litho-,-trips-
 dichotic	dich-,-ot-
 solipsism	-ips-
@@ -1601,7 +1586,6 @@ ovoid	ov-
 inclement	-clement
 intramuscular	muscul-
 pentathlon	-athlon
-subjunctive	-iunct-
 quiescence	quiesc-
 millipede	-pede
 cartilaginous	cartilagin-
@@ -1807,7 +1791,6 @@ periosteum	-oste-
 stegosaurus	stego-
 hematocrit	hemato-
 goniometer	gonio-
-precognition	-cogn-
 lubricious	lubric-
 homunculus	hom-
 verdure	verd-
@@ -1866,7 +1849,6 @@ poliomyelitis	polio-,-myel-
 arthroscopy	arthro-,-scopy
 nephropathy	nephro-
 myringotomy	myringo-
-hyperthermia	-therm-
 achromatic	-chrom-
 gerontocracy	geronto-
 biotin	biot-
@@ -1998,3 +1980,7 @@ liposome	lipo-,-some
 fissiparous	fissi-
 amyl	-myl
 reduplicate	-duplic-
+chromium	-chrom-
+nondescript	-scrib-
+reluctance	-luc-
+scripture	-scrib-

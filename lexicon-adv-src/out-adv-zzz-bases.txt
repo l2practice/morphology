@@ -1,0 +1,103 @@
+agronomic	adj	agro-|agro|P ; -nom-|nom|B|N|||Greek: name, law ; -ic|ic|S
+anachronism	noun	ana-|ana|P ; -chron-|chron|B|N|||Greek: time ; -ism|ism|S
+analogue	noun	ana-|ana|P ; -log-|logue|B|N|||Greek: word, speech
+anthropogenic	adj	anthropo-|anthropo|P ; -gen-|gen|B|N|||Greek/Latin: birth, produce ; -ic|ic|S
+anthropomorphism	noun	anthropo-|anthropo|P ; -morph-|morph|B|N|||Greek: form, shape ; -ism|ism|S
+anticipate	verb	anti-|anti|P ; -cap-|cip|B|V|||Latin: take, hold ; -ate|ate|S
+audiologist	noun	audio-|audio|P ; -log-|log|B|N|||Greek: word, speech ; -ist|ist|S
+autologous	adj	auto-|auto|P ; -log-|log|B|N|||Greek: word, speech ; -ous|ous|S
+benedict	noun	bene-|bene|P ; -dic-|dict|B|V|||Latin: say, speak
+benefaction	noun	bene-|bene|P ; -fac-|fact|B|V|||Latin: make, do ; -ion|ion|S
+bibliographic	adj	biblio-|biblio|P ; -graph-|graph|B|N|||Greek: write, record ; -ic|ic|S
+biomorph	noun	bio-|bio|P ; -morph-|morph|B|N|||Greek: form, shape
+brachiopod	noun	brachio-|brachio|P ; -ped-|pod|B|N|||Greek/Latin: foot
+chromium	noun	-chrom-|chrom|B|N|||Greek: color ; -ium|ium|S
+cognate	noun	-cogn-|cogn|B|V|||Latin: know ; -ate|ate|S
+complacency	noun	com-|com|P ; -plac-|plac|B|V|||Latin: please ; -ency|ency|S
+compulsory	adj	com-|com|P ; -pel-|puls|B|V|||Latin: drive, push ; -ory|ory|S
+conspiracy	noun	con-|con|P ; -spir-|spir|B|V|||Latin: breathe ; -acy|acy|S
+contention	noun	con-|con|P ; -ten-|tent|B|V|||Latin: hold ; -ion|ion|S
+cursory	adj	-cur-|curs|B|V|||Latin: run ; -ory|ory|S
+dedicate	verb	de-|de|P ; -dic-|dic|B|V|||Latin: say, speak ; -ate|ate|S
+delectable	adj	de-|de|P ; -lect-|lect|B|V|||Latin: gather, choose ; -able|able|S
+denture	noun	-dent-|dent|B|V|||Latin: tooth ; -ure|ure|S
+diagenetic	adj	dia-|dia|P ; -gen-|gen|B|N|||Greek/Latin: birth, produce ; -et|et|S ; -ic|ic|S
+diligence	noun	di-|di|P ; -leg-|lig|B|V|||Latin: law, choose ; -ence|ence|S
+dimorphism	noun	di-|di|P ; -morph-|morph|B|N|||Greek: form, shape ; -ism|ism|S
+ecological	adj	eco-|eco|P ; -log-|log|B|N|||Greek: word, speech ; -ical|ical|S
+empathize	verb	em-|em|P ; -path-|path|B|N|||Greek: feeling, disease ; -ize|ize|S
+encyclical	noun	en-|en|P ; -cycl-|cycl|B|N|||Greek: circle, wheel ; -ical|ical|S
+entomologist	noun	entomo-|entomo|P ; -log-|log|B|N|||Greek: word, speech ; -ist|ist|S
+epilogue	noun	epi-|epi|P ; -log-|logue|B|N|||Greek: word, speech
+eugenics	noun	eu-|eu|P ; -gen-|gen|B|N|||Greek/Latin: birth, produce ; -ics|ics|S
+factoid	noun	-fac-|fact|B|V|||Latin: make, do ; -oid|oid|S
+fictive	adj	-fac-|fict|B|V|||Latin: make, do ; -ive|ive|S
+geosynchronous	adj	geo-|geo|P ; syn-|syn|P ; -chron-|chron|B|N|||Greek: time ; -ous|ous|S
+geothermal	adj	geo-|geo|P ; -therm-|therm|B|N|||Greek: heat ; -al|al|S
+glycogen	noun	glyco-|glyco|P ; -gen-|gen|B|N|||Greek/Latin: birth, produce
+histopathologic	adj	histo-|histo|P ; patho-|patho|P ; -log-|log|B|N|||Greek: word, speech ; -ic|ic|S
+homeopath	noun	homeo-|homeo|P ; -path-|path|B|N|||Greek: feeling, disease
+homeopathic	adj	homeo-|homeo|P ; -path-|path|B|N|||Greek: feeling, disease ; -ic|ic|S
+homoclinic	adj	homo-|homo|P ; -clin-|clin|B|V|||Latin: lean, slope ; -ic|ic|S
+homogenate	noun	homo-|homo|P ; -gen-|gen|B|N|||Greek/Latin: birth, produce ; -ate|ate|S
+homogenize	verb	homo-|homo|P ; -gen-|gen|B|N|||Greek/Latin: birth, produce ; -ize|ize|S
+homogenous	adj	homo-|homo|P ; -gen-|gen|B|N|||Greek/Latin: birth, produce ; -ous|ous|S
+hydrant	noun	-hydr-|hydr|B|N|||Greek: water ; -ant|ant|S
+hydroponics	noun	hydro-|hydro|P ; -pos-|pon|B|V|||Latin: place, put ; -ics|ics|S
+hydrothermal	adj	hydro-|hydro|P ; -therm-|therm|B|N|||Greek: heat ; -al|al|S
+ideologue	noun	ideo-|ideo|P ; -log-|logue|B|N|||Greek: word, speech
+immunologist	noun	immuno-|immuno|P ; -log-|log|B|N|||Greek: word, speech ; -ist|ist|S
+importance	noun	im-|im|P ; -port-|port|B|V|||Latin: carry ; -ance|ance|S
+incursion	noun	in-|in|P ; -cur-|curs|B|V|||Latin: run ; -ion|ion|S
+isoform	noun	iso-|iso|P ; -form-|form|B|V|||Latin: shape
+metafictional	adj	meta-|meta|P ; -fac-|fict|B|V|||Latin: make, do ; -ion|ion|S ; -al|al|S
+metamorphic	adj	meta-|meta|P ; -morph-|morph|B|N|||Greek: form, shape ; -ic|ic|S
+monologue	noun	mono-|mono|P ; -log-|logue|B|N|||Greek: word, speech
+neologism	noun	neo-|neo|P ; -log-|log|B|N|||Greek: word, speech ; -ism|ism|S
+neonatal	adj	neo-|neo|P ; -nat-|nat|B|V|||Latin: born ; -al|al|S
+neurobiologist	noun	neuro-|neuro|P ; bio-|bio|P ; -log-|log|B|N|||Greek: word, speech ; -ist|ist|S
+neurological	adj	neuro-|neuro|P ; -log-|log|B|N|||Greek: word, speech ; -ical|ical|S
+neurophysiological	adj	neuro-|neuro|P ; physio-|physio|P ; -log-|log|B|N|||Greek: word, speech ; -ical|ical|S
+neuroscience	noun	neuro-|neuro|P ; -sci-|sci|B|V|||Latin: know ; -ence|ence|S
+neuroscientist	noun	neuro-|neuro|P ; -sci-|sci|B|V|||Latin: know ; -ent|ent|S ; -ist|ist|S
+nondescript	adj	non-|non|P ; de-|de|P ; -scrib-|script|B|V|||Latin: write
+objective	adj	ob-|ob|P ; -ject-|ject|B|V|||Latin: throw ; -ive|ive|S
+ophthalmologist	noun	ophthalmo-|ophthalmo|P ; -log-|log|B|N|||Greek: word, speech ; -ist|ist|S
+ornithological	adj	ornitho-|ornitho|P ; -log-|log|B|N|||Greek: word, speech ; -ical|ical|S
+pathogenic	adj	patho-|patho|P ; -gen-|gen|B|N|||Greek/Latin: birth, produce ; -ic|ic|S
+pendant	noun	-pend-|pend|B|V|||Latin: hang, weigh ; -ant|ant|S
+perinatal	adj	peri-|peri|P ; -nat-|nat|B|V|||Latin: born ; -al|al|S
+philological	adj	philo-|philo|P ; -log-|log|B|N|||Greek: word, speech ; -ical|ical|S
+philologist	noun	philo-|philo|P ; -log-|log|B|N|||Greek: word, speech ; -ist|ist|S
+photoreceptor	noun	photo-|photo|P ; re-|re|P ; -cap-|cept|B|V|||Latin: take, hold ; -or|or|S
+physiologic	adj	physio-|physio|P ; -log-|log|B|N|||Greek: word, speech ; -ic|ic|S
+portage	noun	-port-|port|B|V|||Latin: carry ; -age|age|S
+portal	noun	-port-|port|B|V|||Latin: carry ; -al|al|S
+precession	noun	pre-|pre|P ; -ced-|cess|B|V|||Latin: go, yield ; -ion|ion|S
+predecessor	noun	pre-|pre|P ; de-|de|P ; -ced-|cess|B|V|||Latin: go, yield ; -or|or|S
+predicate	noun	pre-|pre|P ; -dic-|dic|B|V|||Latin: say, speak ; -ate|ate|S
+predilection	noun	pre-|pre|P ; di-|di|P ; -lect-|lect|B|V|||Latin: gather, choose ; -ion|ion|S
+procedure	noun	pro-|pro|P ; -ced-|ced|B|V|||Latin: go, yield ; -ure|ure|S
+procurator	noun	pro-|pro|P ; -cur-|cur|B|V|||Latin: run ; -ator|ator|S
+promissory	adj	pro-|pro|P ; -mit-|miss|B|V|||Latin: send ; -ory|ory|S
+propensity	noun	pro-|pro|P ; -pend-|pens|B|V|||Latin: hang, weigh ; -ity|ity|S
+pulsar	noun	-pel-|puls|B|V|||Latin: drive, push ; -ar|ar|S
+radiologist	noun	radio-|radio|P ; -log-|log|B|N|||Greek: word, speech ; -ist|ist|S
+recognize	verb	re-|re|P ; -cogn-|cogn|B|V|||Latin: know ; -ize|ize|S
+reluctance	noun	re-|re|P ; -luc-|luct|B|V|||Latin: light ; -ance|ance|S
+remit	verb	re-|re|P ; -mit-|mit|B|V|||Latin: send
+replicate	verb	re-|re|P ; -plic-|plic|B|V|||Latin: fold ; -ate|ate|S
+reportage	noun	re-|re|P ; -port-|port|B|V|||Latin: carry ; -age|age|S
+respirator	noun	re-|re|P ; -spir-|spir|B|V|||Latin: breathe ; -ator|ator|S
+scripture	noun	-scrib-|script|B|V|||Latin: write ; -ure|ure|S
+subjunctive	adj	sub-|sub|P ; -junct-|junct|B|V|||Latin: join ; -ive|ive|S
+supernatant	noun	super-|super|P ; -nat-|nat|B|V|||Latin: born ; -ant|ant|S
+synchronic	adj	syn-|syn|P ; -chron-|chron|B|N|||Greek: time ; -ic|ic|S
+synchronicity	noun	syn-|syn|P ; -chron-|chron|B|N|||Greek: time ; -ic|ic|S ; -ity|ity|S
+syndicate	noun	syn-|syn|P ; -dic-|dic|B|V|||Latin: say, speak ; -ate|ate|S
+technocratic	adj	techno-|techno|P ; -crat-|crat|B|N|||Greek: rule, power ; -ic|ic|S
+telegenic	adj	tele-|tele|P ; -gen-|gen|B|N|||Greek/Latin: birth, produce ; -ic|ic|S
+tetracycline	noun	tetra-|tetra|P ; -cycl-|cycl|B|N|||Greek: circle, wheel ; -ine|ine|S
+theological	adj	theo-|theo|P ; -log-|log|B|N|||Greek: word, speech ; -ical|ical|S
+transgenic	adj	trans-|trans|P ; -gen-|gen|B|N|||Greek/Latin: birth, produce ; -ic|ic|S
+zoological	adj	zoo-|zoo|P ; -log-|log|B|N|||Greek: word, speech ; -ical|ical|S
