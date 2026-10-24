@@ -153,7 +153,17 @@
     for (const f of found) { const s = signature(f.node); if (!seen.has(s)) { seen.add(s); unique.push(f); } }
     if (unique.length) {
       const hintSig = hint ? signature(hint) : "";
-      const pick = unique.find(f => signature(f.node) === hintSig) || unique[0];
+      // When the inventory allows several trees, a prefix joins the base before the suffixes do:
+      // (com- mit) -ee, (dis- agree) -ment. Score = size of the part each prefix is attached to; smaller wins.
+      const size = n => n.m !== undefined ? 1 : n.children.reduce((a, c) => a + size(c), 0);
+      const score = (n) => {
+        if (n.m !== undefined) return 0;
+        let sc = n.children.reduce((a, c) => a + score(c), 0);
+        n.children.forEach((c, i) => { if (c.m !== undefined && ms[c.m].type === "prefix") sc += size(n.children[1 - i]); });
+        return sc;
+      };
+      const ranked = unique.slice().sort((a, b) => score(a.node) - score(b.node));
+      const pick = unique.find(f => signature(f.node) === hintSig) || ranked[0];
       return { node: pick.node, method: "rules", ambiguous: unique.length > 1 };
     }
     if (hint) return { node: hint, method: "ai", ambiguous: false };
