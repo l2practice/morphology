@@ -768,3 +768,5 @@ h3 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -.01em; }
   .lv-info { width: 100%; justify-content: center; }
   .lv-help { grid-template-columns: 1fr; }
 }
+.lv-caret { display: inline-block; font-size: 15px; line-height: 1; margin-left: 2px; transition: transform .2s; }
+.lv-info[aria-expanded="true"] .lv-caret { transform: rotate(180deg); }

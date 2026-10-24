@@ -629,6 +629,7 @@
     hideNotice();
     hideBanner();
     hideOverlay();
+    clearTimeout(suggestTimer); suggestSeq++;   // a late suggestion must not reopen the list after a search
     $("#suggest").hidden = true;
     $("#word-input").value = key;
 
@@ -1154,9 +1155,9 @@
     });
     $$("#level button").forEach(x => x.setAttribute("aria-pressed", x.dataset.level === state.level));
     const help = $("#lv-help"), info = $("#lv-info");
-    const toggleHelp = open => { help.hidden = !open; info.setAttribute("aria-expanded", open); store.set("morph-level-help", "seen"); };
+    const toggleHelp = open => { help.hidden = !open; info.setAttribute("aria-expanded", open); };
     info.addEventListener("click", () => toggleHelp(help.hidden));
-    if (!store.get("morph-level-help")) { help.hidden = false; info.setAttribute("aria-expanded", "true"); }
+
     state.treeStyle = store.get(LS.tree) === "boxes" ? "boxes" : "classic";
     $$("#tree-style button").forEach(b => b.classList.toggle("active", b.dataset.style === state.treeStyle));
     $("#tree-style").addEventListener("click", e => {
