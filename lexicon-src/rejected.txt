@@ -255,3 +255,4 @@ vying	verb	vie|vy|R|V ; -ing|ing|I||-ing (v)	# m0: stem "vie" is spelled "vy" be
 wardress	noun	warder|wardr|R|N ; -ess|ess|S	# m0: stem "warder" is spelled "wardr" before -ess (irregular stem change: fossilised? keep the word as one morpheme)
 woken	verb	wake|wok|R|V ; -en|en|I||-en (participle)	# m0: stem "wake" is spelled "wok" before -en (irregular stem change: fossilised? keep the word as one morpheme)
 wrungness	noun	wring|wrung|R|V ; -ness|ness|S	# m0: stem "wring" is spelled "wrung" before -ness (irregular stem change: fossilised? keep the word as one morpheme)
+reactionaries	noun	re-|re|P||re- (against) ; act|act|R|V ; -ion|ion|S ; -ary|ary|S	# surfaces join to "reactionary"

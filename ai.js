@@ -4,7 +4,7 @@
  * morphemes can be shown while the rest of the analysis is still arriving.
  */
 (function () {
-  const PROMPT_VERSION = 20;
+  const PROMPT_VERSION = 21;
   const MAX_ATTEMPTS = 2;   // 1 retry when the answer fails validation
 
   /**
@@ -98,6 +98,7 @@
     "- Derivational prefixes keep the word class (re-try, un-ethical, in-human, il-legal); derivational suffixes usually change it (-ness, -ion, -ive, -ible). Derivation creates a new word with a changed meaning; inflection only creates another form of the same word.",
     "- cat for roots: N, V, Adj, Adv or P. Use \"\" for affixes.",
     "- variant: some endings look the same but do different jobs. When a suffix is one of the labels below, set variant to EXACTLY that label, otherwise \"\". Use the dictionary part of speech to decide. INFLECTIONAL (suffix-inf): \"-ing (v)\" progressive verb form (He is meeting a client); \"-ed (v2)\" past tense or past participle (visited, was turned on); \"-ly (adv)\" (quickly); \"-er (comparative)\" (taller); \"-est (superlative)\" (tallest). DERIVATIONAL (suffix-der): \"-ing (N)\" noun (a meeting, a misunderstanding); \"-ing (adj)\" participial adjective (an interesting talk); \"-ed (adj)\" (interested); \"-ly (adj)\" (friendly, costly); \"-er (N)\" person or tool (driver, hunter); \"-er (onomatopoeia)\" verb of repeated sound or movement (chatter, flicker); \"-ist\" (typist, artist). cls must agree: the (v), (v2), (adv), (comparative) and (superlative) labels are suffix-inf, all the others suffix-der.",
+    "- prefix senses: a prefix with two senses goes with different word classes, so label it. re- (again) goes with a VERB (re-activate, re-write): variant \"re- (again)\". re- (against, back) goes with a NOUN (re-action, re-actionary): variant \"re- (against)\". in- (not) goes with an ADJECTIVE (in-active, ir-refutable): variant \"in- (not)\". in- (into) goes with a verb or noun (in-sert): variant \"in- (into)\". un- (not) goes with an adjective, un- (reverse) with a verb (un-lock): variants \"un- (not)\" and \"un- (reverse)\". Other prefixes: variant \"\".",
     "",
     "## 4. The tree",
     "- tree is a bracket string that only gives your best reading; the program checks it and may rebuild it. Notation: [Cat|label left right] with exactly two parts per bracket; the parts are other brackets or morpheme NUMBERS (0-based, in the order of the morphemes list); a single morpheme is just 0. Example: unkindness (un-, kind, -ness) → [N|unkindness [Adj|unkind 0 1] 2]. Inflection is outermost; un-/in- attach to adjectives; a suffix that makes the adjective (-able, -ible) attaches before un-/in-.",
@@ -289,7 +290,12 @@
     const hint = hintNode(ai, ms.length);
     const planned = window.MorphTactics.plan(ms, hint);
     const rawTree = planned ? planned.node : { m: 0 };
-    const spell = n => n.m !== undefined ? plain(ms[n.m].form) : n.children.map(spell).reduce((x, y) => joinForms(x, y));
+    const spell = n => {
+      if (n.m !== undefined) return plain(ms[n.m].form);
+      const [l, r] = n.children;
+      // A prefix is simply written in front (re + act = react); the spelling changes only apply between base and suffix.
+      return l.m !== undefined && ms[l.m].type === "prefix" ? spell(l) + spell(r) : joinForms(spell(l), spell(r));
+    };
     // Take a label from the AI tree when it has the same shape, otherwise spell the pieces.
     const sameShape = hint && window.MorphTactics.signature(hint) === window.MorphTactics.signature(rawTree);
     const label = (n, h) => (sameShape && h && h.label && /^[a-zA-Z'-]{2,}$/.test(h.label)) ? h.label.toLowerCase() : spell(n);

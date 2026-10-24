@@ -58,6 +58,14 @@
     "-ly (adj)": { from: ["N"], to: ["Adj"] }, "-er (N)": { from: ["V", "N"], to: ["N"] }, "-er (onomatopoeia)": { from: ["V"], to: ["V"] }
   };
 
+  // Prefixes with more than one sense: the sense (variant label) decides which word class the prefix attaches to.
+  //   re- (again) goes with verbs (re-activate), re- (against) with nouns (re-action); in- (not) with adjectives, in- (into) with verbs and nouns.
+  const PVARIANT = {
+    "re- (again)": { from: ["V"], to: same }, "re- (against)": { from: ["N"], to: same },
+    "in- (not)": { from: ["Adj", "N"], to: same }, "in- (into)": { from: ["V", "N"], to: same },
+    "un- (not)": { from: ["Adj"], to: same }, "un- (reverse)": { from: ["V"], to: same }
+  };
+
   const plain = s => String(s || "").toLowerCase().replace(/-/g, "");
   const catOf = c => {
     const k = String(c || "").toLowerCase();
@@ -70,7 +78,7 @@
 
   function affixRule(m) {
     const f = plain(m.form);
-    if (m.type === "prefix") return PREFIX[f] || null;
+    if (m.type === "prefix") return (m.variant && PVARIANT[m.variant]) || PREFIX[f] || null;
     if (m.variant && VARIANT[m.variant]) return VARIANT[m.variant];
     if (/-inf$/.test(m.cls)) return INFLECT[f] || { from: ANY, to: same };
     return SUFFIX[f] || null;

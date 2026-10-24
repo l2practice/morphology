@@ -141,7 +141,13 @@
     "-er (comparative)": "comparative: more (tall-er).",
     "-er (N)": "a person or tool that does something (teach-er, drive-r).",
     "-er (onomatopoeia)": "repeated sound or movement (chat-ter, flick-er).",
-    "-est (superlative)": "superlative: most (tall-est)."
+    "-est (superlative)": "superlative: most (tall-est).",
+    "re- (again)": "again (re-activate). Goes with verbs.",
+    "re- (against)": "against, back (re-action). Goes with nouns.",
+    "in- (not)": "not (in-active, ir-refutable). Goes with adjectives.",
+    "in- (into)": "in, into (in-sert). Goes with verbs and nouns.",
+    "un- (not)": "not (un-happy). Goes with adjectives.",
+    "un- (reverse)": "reverse the action (un-lock). Goes with verbs."
   };
   const table = { prefix: {}, suffix: {} };
   const fill = (src, kind) => Object.entries(src).forEach(([keys, text]) => keys.split(" ").forEach(k => { table[kind][k] = text; }));

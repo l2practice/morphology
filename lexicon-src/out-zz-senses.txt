@@ -1,0 +1,3 @@
+reaction	noun	re-|re|P||re- (against) ; act|act|R|V ; -ion|ion|S
+reactionary	adj	re-|re|P||re- (against) ; act|act|R|V ; -ion|ion|S ; -ary|ary|S
+reactionaries	noun	re-|re|P||re- (against) ; act|act|R|V ; -ion|ion|S ; -ary|ary|S
