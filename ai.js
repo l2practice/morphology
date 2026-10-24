@@ -288,14 +288,14 @@
     // Affixes the course teaches come with a ready-made meaning that the AI text does not replace.
     ms.forEach(m => { if (!m.meaning && window.MorphGloss) { const g = window.MorphGloss.meaning(m); if (g) { m.meaning = g; m.fixedMeaning = true; } } else if (m.meaning) m.fixedMeaning = true; });
     const hint = hintNode(ai, ms.length);
-    const planned = window.MorphTactics.plan(ms, hint);
-    const rawTree = planned ? planned.node : { m: 0 };
     const spell = n => {
       if (n.m !== undefined) return plain(ms[n.m].form);
       const [l, r] = n.children;
       // A prefix is simply written in front (re + act = react); the spelling changes only apply between base and suffix.
       return l.m !== undefined && ms[l.m].type === "prefix" ? spell(l) + spell(r) : joinForms(spell(l), spell(r));
     };
+    const planned = window.MorphTactics.plan(ms, hint, { spell, exists: w => (window.MorphDict && window.MorphDict.hasWordSync ? window.MorphDict.hasWordSync(w) : null) });
+    const rawTree = planned ? planned.node : { m: 0 };
     // Take a label from the AI tree when it has the same shape, otherwise spell the pieces.
     const sameShape = hint && window.MorphTactics.signature(hint) === window.MorphTactics.signature(rawTree);
     const label = (n, h) => (sameShape && h && h.label && /^[a-zA-Z'-]{2,}$/.test(h.label)) ? h.label.toLowerCase() : spell(n);

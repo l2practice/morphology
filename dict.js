@@ -257,5 +257,10 @@
     };
   }
 
-  window.MorphDict = { lookup, suggest, fuzzy, neighbours, summarize, norm };
+  /** true/false once words.txt has been loaded, null before (the page loads it in the background). */
+  let wordSet = null;
+  function preloadWords() { return wordList().then(ws => { wordSet = new Set(ws.map(x => x[0])); return wordSet; }).catch(() => null); }
+  const hasWordSync = w => (wordSet ? wordSet.has(String(w).toLowerCase()) : null);
+
+  window.MorphDict = { preloadWords, hasWordSync, lookup, suggest, fuzzy, neighbours, summarize, norm };
 })();

@@ -170,7 +170,7 @@
    * @param hint  optional tree from the AI (nested {children}/{m}); used to break ties between valid trees
    * @returns { node, method: "rules" | "ai" | "default", ambiguous }
    */
-  function plan(ms, hint) {
+  function plan(ms, hint, opts) {
     if (ms.length === 1) return { node: { m: 0 }, method: "rules", ambiguous: false };
     const found = derive(ms);
     const unique = [];
@@ -187,7 +187,15 @@
         n.children.forEach((c, i) => { if (c.m !== undefined && ms[c.m].type === "prefix") sc += size(n.children[1 - i]); });
         return sc;
       };
-      const ranked = unique.slice().sort((a, b) => score(a.node) - score(b.node));
+      // Intermediate words that do not exist in the dictionary (inter- + nation = "internation") make a tree worse.
+      const missing = n => {
+        if (!opts || !opts.exists || !opts.spell || n.m !== undefined) return 0;
+        let c = n.children.reduce((a, k) => a + missing(k), 0);
+        if (n !== root) { const ok = opts.exists(opts.spell(n)); if (ok === false) c += 1; }
+        return c;
+      };
+      let root = null;
+      const ranked = unique.slice().sort((a, b) => { root = a.node; const ma = missing(a.node); root = b.node; const mb = missing(b.node); return (ma - mb) || (score(a.node) - score(b.node)); });
       const pick = unique.find(f => signature(f.node) === hintSig) || ranked[0];
       return { node: pick.node, method: "rules", ambiguous: unique.length > 1 };
     }

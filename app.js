@@ -489,6 +489,38 @@
 
   // ---------- Etymology card: summary, stages, changes of meaning ----------
   const SPEAKER = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 9v6h4l5 4V5L8 9z"/><path d="M16 9a4 4 0 0 1 0 6M18.5 6.5a8 8 0 0 1 0 11"/></svg>`;
+  // ---- Etymology: development chain + a few bullets ----
+  const FAMILY_NAME = { germanic: "Germanic", romance: "Latin / Romance", greek: "Greek", pie: "Proto-Indo-European", other: "another language" };
+  const ARROW = `<svg viewBox="0 0 24 12" aria-hidden="true"><path d="M1 6h20M16 1l5 5-5 5"/></svg>`;
+  const etNode = n => `<div class="et-node fam-${n.family}"><small>${esc(n.lang)}</small><b>${esc(n.form)}</b>${n.gloss ? `<i>“${esc(n.gloss)}”</i>` : ""}</div>`;
+  const etArrow = chip => `<div class="et-arrow">${chip ? `<span>${esc(chip)}</span>` : ""}${ARROW}</div>`;
+  const shortMeaning = m => String(m || "").replace(/\s*\(.*$/, "").replace(/[;.].*$/, "").trim();
+
+  /** The history chain of a dictionary etymology as boxes, plus bullets about it. */
+  function historyHtml(word, text, gloss, label) {
+    const r = window.MorphEtym.parse(text);
+    if (!r.chain.length && !r.parts.length) return { flow: "", bullets: [] };
+    const bullets = [];
+    let flow = "";
+    if (r.chain.length) {
+      const nodes = r.chain.slice();
+      flow = `<div class="et-flow">${nodes.map((n, i) => (i ? etArrow("") : "") + etNode(n)).join("")}${etArrow("")}<div class="et-node fam-en"><small>English</small><b>${esc(label || word)}</b></div></div>`;
+      const nonPie = nodes.filter(n => n.family !== "pie");
+      const src = nonPie[0] || nodes[0];
+      const via = nodes.slice(nodes.indexOf(src) + 1).map(n => n.lang);
+      bullets.push(`<b>Origin:</b> ${esc(src.lang)}${via.length ? `, through ${esc(via.join(" → "))}` : ""}.`);
+      const oldest = nodes.find(n => n.gloss);
+      if (oldest) bullets.push(`<b>Oldest meaning:</b> “${esc(oldest.gloss)}” (${esc(oldest.lang)} <i>${esc(oldest.form)}</i>)${gloss ? ` → today: ${esc(shortMeaning(gloss).slice(0, 90))}` : ""}.`);
+      const pie = nodes.find(n => n.family === "pie");
+      if (pie) bullets.push(`<b>Deepest root:</b> Proto-Indo-European <i>${esc(pie.form)}</i>${pie.gloss ? ` “${esc(pie.gloss)}”` : ""}.`);
+    } else if (r.parts.length) {
+      flow = `<div class="et-flow">${r.parts.map((p, i) => (i ? `<div class="et-plus">+</div>` : "") + `<div class="et-node fam-part"><b>${esc(p)}</b></div>`).join("")}${etArrow("")}<div class="et-node fam-en"><small>English</small><b>${esc(label || word)}</b></div></div>`;
+      bullets.push(`<b>Formed in English</b> from ${esc(r.parts.join(" + "))}.`);
+    }
+    return { flow, bullets };
+  }
+
+  let etymToken = 0;
   function renderEtymology(w, dict) {
     const box = $("#etym-body");
     if (!w && !dict) { box.innerHTML = `<p class="et-empty">Look up a word to see where it comes from.</p>`; return; }
@@ -496,22 +528,46 @@
     const ipa = (w && w.ipa) || (dict && dict.ipa) || "";
     const ety = w && w.etymology;
     const dictText = dict && dict.etymology ? String(dict.etymology) : "";
-    const summary = (ety && ety.summary) || dictText;
-    // Stages: written by the AI when available, otherwise the origin of each morpheme.
-    let steps = ety && Array.isArray(ety.steps) && ety.steps.length ? ety.steps.map(s => ({ label: s.stage, text: s.text, tags: "" })) : [];
-    if (!steps.length && w) steps = w.morphemes.filter(m => m.etym).map(m => ({ label: m.form, text: m.etym, tags: originTags(m.etym) }));
-    const meanings = ety && Array.isArray(ety.meanings) ? ety.meanings.filter(x => x && x.text) : [];
-    const li = s => `<li><b>${esc(s.label)}:</b> ${s.tags || ""} ${esc(s.text)}</li>`;
-    box.innerHTML = `
-      <div class="et-head">
+    const steps = w ? window.MorphEtym.buildSteps(w) : [];
+    const head = `<div class="et-head">
         <b class="et-word">${esc(word)}</b>${ipa ? `<span class="et-ipa">${esc(ipa)}</span>` : ""}
         <button type="button" class="et-speak" data-speak="${esc(word)}" aria-label="Hear “${esc(word)}”" title="Hear the word">${SPEAKER}</button>
-      </div>
-      ${summary ? `<p class="et-summary">${esc(summary)}</p>` : (w && w.detailState === "loading" ? `<p class="et-empty">Writing the etymology…</p>` : `<p class="et-empty">The dictionary has no etymology for this word.</p>`)}
-      ${steps.length ? `<h4>Origin and development</h4><ul class="et-list">${steps.map(li).join("")}</ul>` : ""}
-      ${meanings.length ? `<h4>Changes in meaning</h4><ul class="et-list et-meanings">${meanings.map(m => li({ label: m.period || "Later", text: m.text })).join("")}</ul>` : ""}
-      ${ety && dictText && dictText !== summary ? `<p class="et-src"><b>Dictionary:</b> ${esc(dictText)}</p>` : ""}
-      ${ety ? `<p class="et-note">Summary written by the AI from the dictionary entry. Check the dictionary for the original.</p>` : ""}`;
+      </div>`;
+    // 1. how the word is built, step by step (nation → national → nationalize → …)
+    let build = "";
+    const bullets = [];
+    if (steps.length) {
+      const first = steps[0];
+      build = `<h4>How the word is built</h4><div class="et-flow et-build">
+        <div class="et-node fam-part"><b>${esc(first.from)}</b></div>
+        ${steps.map(s => `${etArrow((s.prefix ? "" : "+ ") + s.add + (s.prefix ? " +" : ""))}<div class="et-node fam-part${s === steps[steps.length - 1] ? " fam-en" : ""}"><b>${esc(s.to)}</b>${s.cat ? `<small>${esc(s.cat)}</small>` : ""}</div>`).join("")}
+      </div>`;
+      w.morphemes.forEach(m => { const mm = shortMeaning(m.meaning); if (mm && m.type !== "root") bullets.push(`<b>${esc(m.form)}</b> — ${esc(mm)}`); });
+    }
+    // 2. where it comes from: the base word's history (or the word's own)
+    const baseM = w && w.morphemes.length > 1 ? w.morphemes.find(m => m.type === "root" && m.cls === "root-free" && /^[a-z]+$/i.test(m.form)) : null;
+    const own = historyHtml(word, dictText, dict && dict.gloss);
+    const token = ++etymToken;
+    const holder = `<div id="et-history"></div>`;
+    const fullText = [dictText, ety && ety.summary && ety.summary !== dictText ? ety.summary : ""].filter(Boolean).join("\n\n");
+    const empty = !build && !own.flow && !bullets.length;
+    box.innerHTML = `${head}
+      ${build}
+      ${baseM ? holder : (own.flow ? `<h4>Where it comes from</h4>${own.flow}` : "")}
+      ${!baseM && own.bullets.length ? `<ul class="et-points">${own.bullets.map(b => `<li>${b}</li>`).join("")}</ul>` : ""}
+      ${bullets.length ? `<h4>Parts</h4><ul class="et-points">${bullets.map(b => `<li>${b}</li>`).join("")}</ul>` : ""}
+      ${empty ? (w && w.detailState === "loading" ? `<p class="et-empty">Writing the etymology…</p>` : `<p class="et-empty">The dictionary has no etymology for this word.</p>`) : ""}
+      ${fullText ? `<details class="et-full"><summary>Full dictionary text</summary><p>${esc(fullText).replace(/\n\n/g, "<br><br>")}</p>${ety ? `<p class="et-note">AI summary: written from the dictionary entry; check the dictionary for the original.</p>` : ""}</details>` : ""}`;
+    if (baseM) {
+      window.MorphDict.lookup(baseM.form).then(res => {
+        if (token !== etymToken || !res || !res.found) return;
+        const s = window.MorphDict.summarize(res.entry);
+        const h = historyHtml(baseM.form, s.etymology || "", s.gloss, baseM.form);
+        const el = $("#et-history");
+        if (!el || !h.flow) return;
+        el.innerHTML = `<h4>Where “${esc(baseM.form)}” comes from</h4>${h.flow}<ul class="et-points">${h.bullets.map(b => `<li>${b}</li>`).join("")}</ul>`;
+      }).catch(() => {});
+    }
   }
 
   function renderAll() {
@@ -668,6 +724,8 @@
     }
     if (lx) {
       const sig = ms => ms.map(m => m.form + "|" + m.surface).join(";");
+      if (lx.ai.morphemes.length >= 3) await window.MorphDict.preloadWords();   // lets the tree rules check that intermediate words exist
+      if (token !== state.token) return;
       const data = window.MorphAI.toAppFormat(lx.ai, key, "lexicon");
       data.level = level;
       const reuse = cached && cached.detailState === "ready" && sig(cached.morphemes) === sig(data.morphemes);
@@ -1172,6 +1230,7 @@
       if (state.word) renderClassification(state.word);
       else $$("#cls-mode button").forEach(x => x.classList.toggle("active", x === b));
     });
+    setTimeout(() => window.MorphDict.preloadWords(), 400);   // word list in the background (used by the tree rules)
     state.level = store.get(LS.level) === "adv" ? "adv" : "basic";
     $$("#level button").forEach(b => b.classList.toggle("active", b.dataset.level === state.level));
     const setLevel = lv => {

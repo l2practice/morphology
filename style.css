@@ -781,3 +781,31 @@ h3 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -.01em; }
 #result.is-busy { opacity: .55; transition: opacity .15s; pointer-events: none; }
 .search button[aria-busy="true"] { background: var(--blue-d); }
 @media (prefers-reduced-motion: reduce) { .busybar::after { animation: none; width: 100%; } }
+
+/* ---- Etymology: development chain and bullets ---- */
+.etym-body h4 { margin: 16px 0 8px; font-size: 13px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.et-flow { display: flex; flex-wrap: wrap; align-items: stretch; gap: 6px; margin: 4px 0 2px; }
+.et-node { display: flex; flex-direction: column; justify-content: center; gap: 2px; min-width: 84px; max-width: 170px; padding: 8px 12px; border-radius: 14px; background: #eef2f5; border: 1.5px solid #e1e7ec; }
+.et-node small { font-size: 10.5px; font-weight: 800; letter-spacing: .05em; text-transform: uppercase; color: var(--muted); }
+.et-node b { font: 700 15px var(--mono, "JetBrains Mono", monospace); overflow-wrap: anywhere; }
+.et-node i { font-size: 12px; color: #4a535c; line-height: 1.3; }
+.et-node.fam-pie { background: #f1eef7; border-color: #ddd5ee; } .et-node.fam-pie small { color: #6a5a93; }
+.et-node.fam-germanic { background: var(--green-t); border-color: #d3dfb9; } .et-node.fam-germanic small { color: var(--green-d); }
+.et-node.fam-romance { background: var(--blue-t); border-color: #c4dcea; } .et-node.fam-romance small { color: var(--blue-d); }
+.et-node.fam-greek { background: var(--orange-t); border-color: #f4d6a9; } .et-node.fam-greek small { color: var(--orange-d); }
+.et-node.fam-part { background: #fff; border-color: #d8dee4; }
+.et-node.fam-en { background: var(--dark); border-color: var(--dark); } .et-node.fam-en b, .et-node.fam-en small { color: #fff; }
+.et-arrow { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2px; min-width: 34px; color: #8a949e; }
+.et-arrow span { font: 700 11px var(--mono, monospace); color: var(--blue-d); background: var(--blue-t); border-radius: 999px; padding: 1px 8px; white-space: nowrap; }
+.et-arrow svg { width: 26px; height: 12px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+.et-plus { display: grid; place-items: center; font-weight: 800; color: var(--muted); padding: 0 2px; }
+.et-points { margin: 10px 0 0; padding-left: 20px; display: flex; flex-direction: column; gap: 6px; font-size: 14px; line-height: 1.55; color: #3a424b; }
+.et-full { margin-top: 14px; font-size: 13px; color: var(--muted); }
+.et-full summary { cursor: pointer; font-weight: 700; color: #3a424b; }
+.et-full p { margin: 8px 0 0; line-height: 1.55; }
+@media (max-width: 560px) {
+  .et-flow { flex-direction: column; align-items: stretch; }
+  .et-node { max-width: none; }
+  .et-arrow { flex-direction: row; justify-content: flex-start; gap: 8px; padding-left: 14px; }
+  .et-arrow svg { transform: rotate(90deg); }
+}
