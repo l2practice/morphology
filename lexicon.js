@@ -105,5 +105,12 @@
     return c ? { ai: c, how: "composed", lemma: via.lemma, level: c.level } : null;
   }
 
-  window.MorphLex = { get, resolve, compose, inflection };
+  /** Both cuts of a word, for the level hint: { basic: morphemes|null, adv: morphemes|null (only when it differs) } */
+  async function both(word) {
+    const b = await get(word, "basic");
+    const a = await get(word, "adv");
+    return { basic: b ? b.morphemes : null, adv: a && a.level === "adv" ? a.morphemes : null };
+  }
+
+  window.MorphLex = { get, resolve, compose, inflection, both };
 })();

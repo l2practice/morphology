@@ -10,7 +10,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=20261024f">
+  <link rel="stylesheet" href="style.css?v=20261024g">
 </head>
 <body>
   <div class="frame">
@@ -54,7 +54,6 @@
           <button type="submit">Analyze</button>
           <ul id="suggest" class="suggest" hidden></ul>
         </form>
-        <div class="seg level-seg" id="level" role="group" aria-label="Analysis level" title="Basic: what you can see in modern English. Advanced: also Latin/Greek roots."><button type="button" data-level="basic" class="active">Basic</button><button type="button" data-level="adv">Advanced</button></div>
         <button type="button" id="key-chip" class="chip-user" title="Open settings">
           <span class="key-dot" aria-hidden="true"></span>
           <span id="key-chip-text">No API key</span>
@@ -64,6 +63,31 @@
 
       <!-- ---------- Analyze view ---------- -->
       <section id="view-analyze" class="view">
+        <section class="levelbar" id="levelbar" aria-label="Cut level">
+          <div class="lb-main">
+            <span class="lb-label">Cut level</span>
+            <div class="lv-switch" id="level" role="group" aria-label="Basic or Advanced cut">
+              <button type="button" data-level="basic" class="active" aria-pressed="true"><b>Basic</b><small>modern English</small></button>
+              <button type="button" data-level="adv" aria-pressed="false"><b>Advanced</b><small>+ Latin &amp; Greek roots</small></button>
+            </div>
+            <button type="button" id="lv-info" class="lv-info" aria-expanded="false" aria-controls="lv-help"><i aria-hidden="true">i</i> What is the difference?</button>
+          </div>
+          <div id="lv-help" class="lv-help" hidden>
+            <div class="lv-col basic">
+              <h4>Basic</h4>
+              <p>Cut only what you can <b>see and use in English today</b>: living prefixes, suffixes and whole words.</p>
+              <p class="lv-ex">science = <b>1</b> morpheme<br>employ = <b>1</b> · health = <b>1</b><br>receive = re- + -ceive</p>
+            </div>
+            <div class="lv-col adv">
+              <h4>Advanced</h4>
+              <p>Also cut <b>Latin, Greek and Old English roots</b> that come back in a whole family of words (Nida's recurrence test).</p>
+              <p class="lv-ex">science = sci- + -ence<br>employ = em- + -ploy<br>health = heal + -th</p>
+            </div>
+            <p class="lv-why">Why two answers? Introductory books (Yule, Fromkin) stop at what a learner can recognise; structural and etymological morphology goes down to bound roots. Both are correct: they answer different questions. Use Basic for course exercises unless your teacher says otherwise. Words with no deeper structure look the same in both.</p>
+          </div>
+          <p id="lv-note" class="lv-note" hidden></p>
+        </section>
+
         <section id="ai-banner" class="banner" hidden aria-live="polite">
           <div class="banner-top">
             <span class="banner-ico" aria-hidden="true">✦</span>
@@ -207,7 +231,7 @@
         </div>
       </section>
 
-      <footer class="footer">Morphology · Immediate Constituent analysis practice for English majors · build 20261024f</footer>
+      <footer class="footer">Morphology · Immediate Constituent analysis practice for English majors · build 20261024g</footer>
     </main>
   </div>
 
@@ -224,13 +248,13 @@
 
   <div id="popups" class="popups" aria-live="polite"></div>
 
-  <script src="data.js?v=20261024f"></script>
-  <script src="dict.js?v=20261024f"></script>
-  <script src="morphotactics.js?v=20261024f"></script>
-  <script src="lexicon.js?v=20261024f"></script>
-  <script src="ai.js?v=20261024f"></script>
-  <script src="tree.js?v=20261024f"></script>
-  <script src="bricks.js?v=20261024f"></script>
-  <script src="app.js?v=20261024f"></script>
+  <script src="data.js?v=20261024g"></script>
+  <script src="dict.js?v=20261024g"></script>
+  <script src="morphotactics.js?v=20261024g"></script>
+  <script src="lexicon.js?v=20261024g"></script>
+  <script src="ai.js?v=20261024g"></script>
+  <script src="tree.js?v=20261024g"></script>
+  <script src="bricks.js?v=20261024g"></script>
+  <script src="app.js?v=20261024g"></script>
 </body>
 </html>

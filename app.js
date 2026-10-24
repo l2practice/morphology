@@ -913,7 +913,25 @@
     throw lastErr;
   }
 
+  /** One line under the level switch when the other level would cut this word differently. */
+  async function levelNote(word) {
+    const note = $("#lv-note");
+    note.hidden = true;
+    let r;
+    try { r = await window.MorphLex.both(word); } catch (e) { return; }
+    if (state.word && state.word.word !== word) return;
+    const basic = (DB[word] ? DB[word].morphemes : r.basic);
+    const forms = ms => ms.map(m => m.form).join(" + ");
+    if (!basic || !r.adv || forms(basic) === forms(r.adv)) return;
+    const here = state.level === "adv";
+    note.innerHTML = here
+      ? `<b>Advanced cut</b> (${r.adv.length} morphemes: ${esc(forms(r.adv))}). The <b>Basic</b> cut is ${esc(forms(basic))} (${basic.length}). <button type="button" data-set-level="basic">Show Basic</button>`
+      : `This word also has an <b>Advanced</b> cut: ${esc(forms(r.adv))} (${r.adv.length} morphemes). <button type="button" data-set-level="adv">Show Advanced</button>`;
+    note.hidden = false;
+  }
+
   function finish(key, opts) {
+    levelNote(key);
     if (!opts.silentHash) history.replaceState(null, "", "#w=" + encodeURIComponent(key));
     historyAdd(state.word.word, state.word.morphemes.length);
   }
@@ -1123,14 +1141,22 @@
     });
     state.level = store.get(LS.level) === "adv" ? "adv" : "basic";
     $$("#level button").forEach(b => b.classList.toggle("active", b.dataset.level === state.level));
+    const setLevel = lv => {
+      state.level = lv;
+      store.set(LS.level, lv);
+      $$("#level button").forEach(x => { const on = x.dataset.level === lv; x.classList.toggle("active", on); x.setAttribute("aria-pressed", on); });
+      if (state.word && state.view === "analyze") show(state.word.word, { silentHash: true });
+    };
+    state.setLevel = setLevel;
     $("#level").addEventListener("click", e => {
       const b = e.target.closest("[data-level]");
-      if (!b || b.dataset.level === state.level) return;
-      state.level = b.dataset.level;
-      store.set(LS.level, state.level);
-      $$("#level button").forEach(x => x.classList.toggle("active", x === b));
-      if (state.word && state.view === "analyze") show(state.word.word, { silentHash: true });
+      if (b && b.dataset.level !== state.level) setLevel(b.dataset.level);
     });
+    $$("#level button").forEach(x => x.setAttribute("aria-pressed", x.dataset.level === state.level));
+    const help = $("#lv-help"), info = $("#lv-info");
+    const toggleHelp = open => { help.hidden = !open; info.setAttribute("aria-expanded", open); store.set("morph-level-help", "seen"); };
+    info.addEventListener("click", () => toggleHelp(help.hidden));
+    if (!store.get("morph-level-help")) { help.hidden = false; info.setAttribute("aria-expanded", "true"); }
     state.treeStyle = store.get(LS.tree) === "boxes" ? "boxes" : "classic";
     $$("#tree-style button").forEach(b => b.classList.toggle("active", b.dataset.style === state.treeStyle));
     $("#tree-style").addEventListener("click", e => {
@@ -1141,6 +1167,7 @@
       $$("#tree-style button").forEach(x => x.classList.toggle("active", x === b));
       window.ICTree.render($("#tree"), state.word, t, state.treeStyle);
     });
+    $("#lv-note").addEventListener("click", e => { const b = e.target.closest("[data-set-level]"); if (b) state.setLevel(b.dataset.setLevel); });
     $("#history").addEventListener("click", e => { const b = e.target.closest(".h-item"); if (b) show(b.dataset.word); });
     $("#clear-history").addEventListener("click", () => { store.del(LS.history); store.del(LS.cache); renderHistory(); });
 
