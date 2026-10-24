@@ -9,7 +9,7 @@
  */
 (function () {
   const DB = window.IC_DB;
-  const TEST_WORDS = ["unhappiness", "reconstruction", "misunderstanding", "running", "cities", "children",
+  const TEST_WORDS = ["unhappiness", "reconstruction", "misunderstanding", "running", "irrecoverably", "children",
     "sunflower", "mice", "visibly", "receptionists", "employment", "employ", "enjoy", "deploy", "refer", "unflobbable"];
 
   const LS = { provider: "morph-provider", cache: "morph-cache-v" + window.MorphAI.PROMPT_VERSION, history: "morph-history", tree: "morph-tree-style", cls: "morph-cls-mode" };
@@ -330,6 +330,8 @@
     frame.innerHTML = html;
   }
 
+  const pendingText = w => w.detailState === "loading" ? "Loading…" : w.detailState === "failed" ? "Not available" : "";
+
   function renderMatrix(w) {
     const chev = `<svg class="chev" viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></svg>`;
     $("#matrix").innerHTML = w.morphemes.map(m => `
@@ -341,13 +343,13 @@
             <span class="m-cls ${m.type}">${esc(t("cls_" + m.cls))}</span>
             ${m.allomorphOf ? `<span class="m-allo">${t("allomorphOf")} <b>${esc(m.allomorphOf)}</b></span>` : ""}
           </span>
-          <span class="m-short">${esc(firstSentence(m.meaning))}</span>
+          <span class="m-short${m.meaning ? "" : " ghost"}">${m.meaning ? esc(firstSentence(m.meaning)) : pendingText(w)}</span>
           ${chev}
         </button>
         <div class="m-body">
           <dl>
-            <dt>${t("meaning")}</dt><dd>${esc(m.meaning)}</dd>
-            <dt>${t("etym")}</dt><dd>${originTags(m.etym)} ${esc(m.etym)}</dd>
+            <dt>${t("meaning")}</dt><dd>${m.meaning ? esc(m.meaning) : pendingText(w)}</dd>
+            <dt>${t("etym")}</dt><dd>${m.etym ? `${originTags(m.etym)} ${esc(m.etym)}` : pendingText(w)}</dd>
           </dl>
         </div>
       </div>`).join("");
@@ -452,13 +454,13 @@
     $("#restore").innerHTML = (ins.restoration || []).map(x => `
       <div class="rs"><span class="rs-from">${esc(x.surface)}</span><span class="rs-arrow">→</span>
       <span class="rs-to">${esc(x.base)}</span><span class="rs-rule">${esc(x.rule)}</span></div>`).join("");
-    $("#allo-text").textContent = ins.allomorphy || t("noRestore");
+    $("#allo-text").textContent = ins.allomorphy || (w.detailState === "loading" ? "Writing the explanation…" : t("noRestore"));
   }
 
   function renderFamily(w) {
     const box = $("#family");
     const fam = w.family || { words: [] };
-    if (!fam.words || !fam.words.length) { box.innerHTML = `<p class="fam-empty">${t("famEmpty")}</p>`; return; }
+    if (!fam.words || !fam.words.length) { box.innerHTML = `<p class="fam-empty">${w.detailState === "loading" ? "Finding related words…" : t("famEmpty")}</p>`; return; }
     const W = 720, H = 340, cx = W / 2, cy = H / 2, rx = 270, ry = 125;
     const words = fam.words.slice(0, 10);
     let lines = "", pills = "";
@@ -503,7 +505,7 @@
         <b class="et-word">${esc(word)}</b>${ipa ? `<span class="et-ipa">${esc(ipa)}</span>` : ""}
         <button type="button" class="et-speak" data-speak="${esc(word)}" aria-label="Hear “${esc(word)}”" title="Hear the word">${SPEAKER}</button>
       </div>
-      ${summary ? `<p class="et-summary">${esc(summary)}</p>` : `<p class="et-empty">The dictionary has no etymology for this word.</p>`}
+      ${summary ? `<p class="et-summary">${esc(summary)}</p>` : (w && w.detailState === "loading" ? `<p class="et-empty">Writing the etymology…</p>` : `<p class="et-empty">The dictionary has no etymology for this word.</p>`)}
       ${steps.length ? `<h4>Origin and development</h4><ul class="et-list">${steps.map(li).join("")}</ul>` : ""}
       ${meanings.length ? `<h4>Changes in meaning</h4><ul class="et-list et-meanings">${meanings.map(m => li({ label: m.period || "Later", text: m.text })).join("")}</ul>` : ""}
       ${ety && dictText && dictText !== summary ? `<p class="et-src"><b>Dictionary:</b> ${esc(dictText)}</p>` : ""}
@@ -522,6 +524,7 @@
     renderWordType(w);
     renderCheat(w);
     renderEtymology(w, state.dict);
+    renderDetailStatus(w);
     renderAllo(w);
     renderFamily(w);
     $$(".chip").forEach(c => c.classList.toggle("active", c.dataset.word === w.word));
@@ -643,6 +646,11 @@
       $("#result").hidden = false;
       renderAll();
       finish(key, opts);
+      // An answer saved before its writing arrived: ask for the writing again.
+      if (cached && cached.detailState && cached.detailState !== "ready" && getKey(getProvider())) {
+        state.abort = new AbortController();
+        startDetails(key, getProvider(), getModel(getProvider()), token);
+      }
       return;
     }
 
@@ -700,6 +708,7 @@
       cachePut(key, run.data);
       renderAll();
       finish(key, opts);
+      startDetails(key, run.provider, run.model, token);
       if (run.data.warnings && run.data.warnings.length) {
         popup({ tone: "warn", kind: "warning", sticky: true, html: `<b>Check this cut.</b> ${run.data.warnings.map(esc).join(" ")}` });
       }
@@ -735,6 +744,51 @@
     }
   }
 
+  // ---------- Stage 2: meanings, etymology and word family arrive after the cut ----------
+  async function startDetails(key, provider, model, token) {
+    const w = state.word;
+    if (!w || w.word !== key) return;
+    w.detailState = "loading";
+    renderDetailStatus(w);
+    for (let n = 1; n <= 2; n++) {
+      try {
+        const d = await window.MorphAI.enrich({
+          word: key, provider, apiKey: getKey(provider), model, morphemes: w.morphemes,
+          context: state.dict, signal: state.abort && state.abort.signal
+        });
+        if (token !== state.token || state.word !== w) return;
+        w.morphemes.forEach((m, i) => { m.meaning = d.morphemes[i].meaning; m.etym = d.morphemes[i].etym; });
+        w.insights = d.insights; w.family = d.family; w.etymology = d.etymology;
+        if (d.gloss) w.gloss = d.gloss;
+        w.detailState = "ready";
+        cachePut(key, w);
+        renderDetails(w);
+        return;
+      } catch (err) {
+        if (err.name === "AbortError" || token !== state.token || state.word !== w) return;
+        if (n === 2) { w.detailState = "failed"; w.detailError = err.message; renderDetails(w); }
+      }
+    }
+  }
+
+  /** Re-draw only the parts that depend on the writing (the cut and the tree stay as they are). */
+  function renderDetails(w) {
+    renderHead(w, state.dict);
+    renderClassification(w);
+    renderAllo(w);
+    renderFamily(w);
+    renderEtymology(w, state.dict);
+    renderDetailStatus(w);
+  }
+
+  function renderDetailStatus(w) {
+    const el = $("#detail-status");
+    if (!w || w.detailState === "ready" || !w.detailState) { el.innerHTML = ""; return; }
+    el.innerHTML = w.detailState === "loading"
+      ? `<span class="ds-spin"></span>Writing meanings and etymology…`
+      : `Meanings could not be loaded. <button type="button" data-retry-details>Try again</button>`;
+  }
+
   // ---------- Loading overlay ----------
   let overlayTimer = 0;
   function showOverlay(word, msg) {
@@ -757,7 +811,7 @@
   }
 
   // ---------- Analysis with automatic recovery (retry, other model, other provider) ----------
-  const shortReason = e => e.status === 404 ? "model not available for this key" : e.status === 429 ? "rate limit or quota" : e.status >= 500 ? "busy" : e.status === 401 ? "key rejected" : e.status === 0 ? "no connection" : "error";
+  const shortReason = e => e.status === 404 ? "model not available for this key" : e.status === 429 ? "rate limit or quota" : e.status === 408 ? "too slow" : e.status >= 500 ? "busy" : e.status === 401 ? "key rejected" : e.status === 0 ? "no connection" : "error";
 
   async function geminiAlternatives(current) {
     try {
@@ -765,7 +819,7 @@
       const list = state.modelCache.gemini || (state.modelCache.gemini = await window.MorphAI.listModels("gemini", getKey("gemini")));
       const ids = list.map(m => m.id).filter(id => /^gemini-[\d.]+-flash(-lite)?$/.test(id) && id !== current);
       ids.sort((a, b) => (/lite/.test(a) - /lite/.test(b)) || parseFloat(b.split("-")[1]) - parseFloat(a.split("-")[1]));
-      return ids.slice(0, 2);
+      return ids.slice(0, 1);
     } catch (e) {
       return ["gemini-2.5-flash", "gemini-2.5-flash-lite"].filter(id => id !== current);
     }
@@ -783,16 +837,18 @@
   async function analyzeWithFallback(key, provider, token, attempts) {
     const plan = await buildPlan(provider);
     const say = msg => { const m = $("#wait-msg"); if (m && token === state.token) m.textContent = msg; setOverlay(msg); };
+    const deadline = Date.now() + 75000;      // never keep the student waiting longer than this in total
     let lastErr;
     for (const step of plan) {
       if (token !== state.token) throw Object.assign(new Error("superseded"), { name: "AbortError" });
+      if (attempts.length && Date.now() > deadline) break;
       const tries = step.retry ? 2 : 1;
       for (let n = 1; n <= tries; n++) {
         try {
           setOverlay(attempts.length ? `Trying ${PROV[step.provider].name} · ${step.model} …` : `Asking ${PROV[step.provider].name} to cut the word into morphemes …`, `${PROV[step.provider].name} · ${step.model}`);
           const data = await window.MorphAI.analyze({
             word: key, provider: step.provider, apiKey: getKey(step.provider), model: step.model,
-            context: state.dict, signal: state.abort.signal,
+            context: state.dict, signal: state.abort.signal, timeoutMs: Math.max(8000, Math.min(30000, deadline - Date.now())),
             onMorphemes: ms => { if (token === state.token) { renderBricks(ms); setOverlay(`Receiving the answer … ${ms.length} morpheme${ms.length === 1 ? "" : "s"} so far`); } },
             onAttempt: () => say("Double-checking the cuts…")
           });
@@ -804,8 +860,8 @@
             provider: step.provider, model: step.model, status: err.status, message: err.message, raw: err.raw || "",
             short: shortReason(err)
           });
-          const busy = err.status >= 500;
-          if (busy && n < tries) { say(`${PROV[step.provider].name} is busy, trying again…`); await new Promise(r => setTimeout(r, 1500)); continue; }
+          const busy = err.status >= 500 && err.status !== 408;
+          if (busy && n < tries) { say(`${PROV[step.provider].name} is busy, trying again…`); await new Promise(r => setTimeout(r, 1000)); continue; }
           break;
         }
       }
@@ -990,6 +1046,13 @@
       const nav = e.target.closest("[data-view]");
       if (nav) { setView(nav.dataset.view); refreshKeyUi(); return; }
       if (e.target.closest("#banner-alt [data-retry]") && state.bannerWord) { show(state.bannerWord, { force: true }); return; }
+      if (e.target.closest("[data-retry-details]") && state.word) {
+        const w = state.word, p = w.provider || getProvider();
+        if (!getKey(p)) { showNotice("Add an API key to load the meanings."); return; }
+        state.abort = new AbortController();
+        startDetails(w.word, p, w.model || getModel(p), state.token);
+        return;
+      }
       const alt = e.target.closest("#banner-alt [data-provider]");
       if (alt && state.bannerWord) { setProvider(alt.dataset.provider); refreshKeyUi(); show(state.bannerWord, { force: true }); return; }
       const suggestBtn = e.target.closest("#popups button[data-word]");

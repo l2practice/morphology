@@ -4,7 +4,7 @@ Practise Immediate Constituent (IC) analysis of English words: morpheme cards, b
 classification, allomorphy, derivation vs. inflection, word family. English only.
 
 ## How it works
-- **19 verified words** (`data.js`) work offline.
+- **20 verified words** (`data.js`) work offline.
 - **Dictionary** (`dict.js`): reads the static data of https://l2practice.github.io/dictionary/ for
   spelling checks and "did you mean", inflection → lemma, part of speech, definition, CEFR, etymology and
   search autocomplete. The entry is shown immediately while the AI works.

@@ -4,7 +4,7 @@
  * morphemes can be shown while the rest of the analysis is still arriving.
  */
 (function () {
-  const PROMPT_VERSION = 17;
+  const PROMPT_VERSION = 18;
   const MAX_ATTEMPTS = 2;   // 1 retry when the answer fails validation
 
   /**
@@ -62,11 +62,11 @@
     }
   };
 
-  // The worked examples deliberately avoid common test words, so the rules
-  // (not memorised answers) decide the analysis.
-  const SYSTEM_PROMPT = [
+  // Two small requests instead of one long one: the cut first (seconds), the writing afterwards.
+  // The worked examples deliberately avoid common test words, so the rules decide the analysis.
+  const CUT_PROMPT = [
     "You are an expert English morphologist helping English-major students practise Immediate Constituent (IC) analysis.",
-    "Analyse the word you are given and answer with JSON that follows the schema. Work through the decision procedure below before you answer.",
+    "Segment the word you are given into morphemes and answer with a SHORT JSON that follows the schema: no meanings, no etymology. Work through the rules below.",
     "",
     "## 0. Default: ONE morpheme",
     "A word is ONE morpheme (one free root, tree \"0\") unless a living English affix can clearly be cut off. When in doubt, do NOT cut. Single-morpheme words include simple native words and loanwords borrowed whole from French or Latin: employ, deploy, enjoy, refer, carpet, hammer, wonder, corner, butter, number, village. Do not cut en- from enjoy, de- from deploy or re- from refer. Never split a word only because it looks like it has pieces, or because its Latin or French ancestor did.",
@@ -79,6 +79,7 @@
     "Historical (etymological) structure is NOT enough: mention it in \"etym\", but do not cut it.",
     "NEVER invent morphemes and NEVER split a bare root: correct is ONE root (not cor + rect), color is ONE root.",
     "Pseudo-affix traps that must stay ONE free root: carpet (not car + pet), hammer (not ham + -er), wonder (not won + -der), corner, butter, number. The leftover piece must belong to a real family; car-, ham- do not.",
+    "LIVING PREFIX + FREE WORD: cut re-, un-, in-/im-/il-/ir-, dis-, mis-, non-, pre-, over-, under-, out- when what remains is a free English word, even if the meaning has drifted: recover = re- + cover, rewrite = re- + write, remove = re- + move, irrecoverably = ir- | re- | cover | -able | -ly (five morphemes). This does NOT apply to loanwords with en-, em- or de- (enjoy, employ, deploy) or to pieces whose leftover is not a word (refer).",
     "Latinate PREFIX + BOUND ROOT (taught in class): re-ceive is cut as re- + -ceive, because re- is a living prefix and -ceive recurs in deceive, conceive, perceive. A bound root may change its spelling (allomorph): -ceive ~ cep- (reception, deception). Example: receptionists = re- | -ceive (surface cep) | -tion | -ist | -s, tree [N|receptionists [N|receptionist [N|reception [V|receive 0 1] 2] 3] 4].",
     "Lexicalised participial adjectives keep their base when the base is a living word: charming = charm + -ing, surprising = surprise + -ing. In these adjectives -ing / -ed are DERIVATIONAL (suffix-der), never inflectional.",
     "",
@@ -98,18 +99,14 @@
     "- cat for roots: N, V, Adj, Adv or P. Use \"\" for affixes.",
     "- variant: some endings look the same but do different jobs. When a suffix is one of the labels below, set variant to EXACTLY that label, otherwise \"\". Use the dictionary part of speech to decide. INFLECTIONAL (suffix-inf): \"-ing (v)\" progressive verb form (He is meeting a client); \"-ed (v2)\" past tense or past participle (visited, was turned on); \"-ly (adv)\" (quickly); \"-er (comparative)\" (taller); \"-est (superlative)\" (tallest). DERIVATIONAL (suffix-der): \"-ing (N)\" noun (a meeting, a misunderstanding); \"-ing (adj)\" participial adjective (an interesting talk); \"-ed (adj)\" (interested); \"-ly (adj)\" (friendly, costly); \"-er (N)\" person or tool (driver, hunter); \"-er (onomatopoeia)\" verb of repeated sound or movement (chatter, flicker); \"-ist\" (typist, artist). cls must agree: the (v), (v2), (adv), (comparative) and (superlative) labels are suffix-inf, all the others suffix-der.",
     "",
-    "## 4. Describe the binary IC tree with the \"tree\" bracket string",
-    "- Notation: every cut is [Cat|label left right]. Cat is the word class of the whole constituent (N, V, Adj, Adv or P); label is the spelled word that constituent forms, in normal dictionary spelling (unhappy, not unhappi); left and right are each either another bracket or a morpheme NUMBER (0-based, in the order of the \"morphemes\" list).",
-    "- Every bracket has EXACTLY TWO parts (never one, never three). The numbers must appear left to right as 0, 1, 2 … each exactly once. A word with a single morpheme is just the number 0.",
-    "- Examples: unkindness (un-, kind, -ness) → [N|unkindness [Adj|unkind 0 1] 2]; hopelessness (hope, -less, -ness) → [N|hopelessness [Adj|hopeless 0 1] 2]; bookshelves (book, shelf, -es) → [N|bookshelves [N|bookshelf 0 1] 2]; unwashed (un-, wash, -ed) → [Adj|unwashed 0 [Adj|washed 1 2]]; carpet → 0.",
-    "- A prefix is the LEFT part of its cut, a suffix is the RIGHT part.",
-    "- Decide the order of attachment by asking which affix attached LAST, using word-class requirements:",
-    "    • Inflection is always outermost. A plural on a compound attaches to the whole compound: [[book shelf] -es].",
-    "    • un- and in-/im-/il-/ir- (meaning \"not\") attach to ADJECTIVES (including participial adjectives). So if the suffix turns an adjective into a noun (-ness, -ity), the prefix attached first: [[un-kind]-ness], [[in-active]-ity]. If the suffix creates the adjective (-able, -ible, -ed participle), the suffix attached first: [un-[wash-ed]], [un-[think-able]], [in-[dispense-able]].",
-    "    • A prefix that needs a verb (re-, mis-, dis-) attaches to the verb before nominalising suffixes: [[re-write]-er].",
-    "    • Suffix chains build from the inside out: [[hope-less]-ness], [[hurry-ed]-ly], [[cred- -ible] -ly].",
-    "    • Hyphenated phrasal compounds follow their phrase structure: editor-in-chief = [editor [in chief]].",
-    "## 5. Write",
+    "## 4. The tree",
+    "- tree is a bracket string that only gives your best reading; the program checks it and may rebuild it. Notation: [Cat|label left right] with exactly two parts per bracket; the parts are other brackets or morpheme NUMBERS (0-based, in the order of the morphemes list); a single morpheme is just 0. Example: unkindness (un-, kind, -ness) → [N|unkindness [Adj|unkind 0 1] 2]. Inflection is outermost; un-/in- attach to adjectives; a suffix that makes the adjective (-able, -ible) attaches before un-/in-.",
+    "- pos is the part of speech of the whole word: noun, verb, adjective, adverb."
+  ].join("\n");
+
+  const DETAIL_PROMPT = [
+    "You write short, student-friendly details about an English word that has ALREADY been cut into the morphemes listed in the user message. Answer with JSON that follows the schema. Never change the segmentation.",
+    "- morphemes: one entry per listed morpheme, in the same order, with its meaning and etym.",
     "- Be BRIEF and student-friendly: process is a LABEL of at most 8 words (for example \"Derivation (prefix + suffix) + inflection\"), never an explanation; each meaning at most 12 words, each etym at most 10 words, allomorphy and derivInfl one or two short sentences, gloss at most 10 words.",
     "- restoration: surface ends with a hyphen; empty list if nothing changed.",
     "- family: the historical root, its short gloss, and 6 real related English words.",
@@ -119,59 +116,51 @@
     "- If the user message says the word is NOT in the dictionary, analyse it as a nonce word using productive rules, and say so in the gloss."
   ].join("\n");
 
-  const SCHEMA = (() => {
-    const str = { type: "string" };
-    return {
-      type: "object",
-      required: ["morphemes", "tree", "insights", "family", "etymology", "process", "pos", "gloss"],
-      properties: {
-        morphemes: {
-          type: "array",
-          items: {
-            type: "object",
-            required: ["form", "surface", "type", "cls", "cat", "allomorphOf", "variant", "meaning", "etym"],
-            properties: {
-              form: str, surface: str,
-              type: { type: "string", enum: ["prefix", "root", "suffix"] },
-              cls: { type: "string", enum: ["prefix-der", "prefix-inf", "root-free", "root-bound", "suffix-der", "suffix-inf"] },
-              cat: str, allomorphOf: str, variant: str, meaning: str, etym: str
-            }
-          }
-        },
-        tree: str,
-        insights: {
-          type: "object",
-          required: ["allomorphy", "restoration", "derivInfl"],
+
+  const str = { type: "string" };
+  const INSIGHTS = {
+    type: "object", required: ["allomorphy", "restoration", "derivInfl"],
+    properties: {
+      allomorphy: str, derivInfl: str,
+      restoration: { type: "array", items: { type: "object", required: ["surface", "base", "rule"], properties: { surface: str, base: str, rule: str } } }
+    }
+  };
+  const FAMILY = { type: "object", required: ["root", "rootGloss", "words"], properties: { root: str, rootGloss: str, words: { type: "array", items: str } } };
+  const ETYMOLOGY = {
+    type: "object", required: ["summary", "steps", "meanings"],
+    properties: {
+      summary: str,
+      steps: { type: "array", items: { type: "object", required: ["stage", "text"], properties: { stage: str, text: str } } },
+      meanings: { type: "array", items: { type: "object", required: ["period", "text"], properties: { period: str, text: str } } }
+    }
+  };
+  // Stage 1: only what is needed to draw the cut.
+  const CUT_SCHEMA = {
+    type: "object", required: ["morphemes", "tree", "pos"],
+    properties: {
+      morphemes: {
+        type: "array",
+        items: {
+          type: "object", required: ["form", "surface", "type", "cls", "cat", "allomorphOf", "variant"],
           properties: {
-            allomorphy: str, derivInfl: str,
-            restoration: {
-              type: "array",
-              items: {
-                type: "object",
-                required: ["surface", "base", "rule"],
-                properties: { surface: str, base: str, rule: str }
-              }
-            }
+            form: str, surface: str,
+            type: { type: "string", enum: ["prefix", "root", "suffix"] },
+            cls: { type: "string", enum: ["prefix-der", "prefix-inf", "root-free", "root-bound", "suffix-der", "suffix-inf"] },
+            cat: str, allomorphOf: str, variant: str
           }
-        },
-        family: {
-          type: "object",
-          required: ["root", "rootGloss", "words"],
-          properties: { root: str, rootGloss: str, words: { type: "array", items: str } }
-        },
-        etymology: {
-          type: "object",
-          required: ["summary", "steps", "meanings"],
-          properties: {
-            summary: str,
-            steps: { type: "array", items: { type: "object", required: ["stage", "text"], properties: { stage: str, text: str } } },
-            meanings: { type: "array", items: { type: "object", required: ["period", "text"], properties: { period: str, text: str } } }
-          }
-        },
-        process: str, pos: str, gloss: str
-      }
-    };
-  })();
+        }
+      },
+      tree: str, pos: str
+    }
+  };
+  // Stage 2: the writing that can arrive later.
+  const DETAIL_SCHEMA = {
+    type: "object", required: ["morphemes", "insights", "family", "etymology", "gloss"],
+    properties: {
+      morphemes: { type: "array", items: { type: "object", required: ["meaning", "etym"], properties: { meaning: str, etym: str } } },
+      insights: INSIGHTS, family: FAMILY, etymology: ETYMOLOGY, gloss: str
+    }
+  };
 
   /** Gemini wants an explicit property order, otherwise it may emit keys alphabetically. */
   function withOrdering(node) {
@@ -182,7 +171,6 @@
     if (out.properties) out.propertyOrdering = Object.keys(out.properties);
     return out;
   }
-  const GEMINI_SCHEMA = withOrdering(SCHEMA);
 
   // ---------------------------------------------------------------- validation
 
@@ -268,32 +256,54 @@
       if ((/\((N|adj|onomatopoeia)\)$/.test(v) || v === "-ist") && m.cls !== "suffix-der") problems.push(`Morpheme ${i} is labelled ${v}, which is derivational, but its cls is ${m.cls}.`);
     });
 
-    const parsed = parseTree(ai.tree);
-    if (parsed.error) return problems.concat([`The tree string is malformed: ${parsed.error}.`]);
-    const leaves = [];
-    (function walk(n) {
-      if (n.leaf !== undefined) { leaves.push(n.leaf); return; }
-      if (n.kids.length !== 2) problems.push(`The bracket [${n.cat}|${n.label} …] has ${n.kids.length} parts; every cut must have exactly two.`);
-      n.kids.forEach(walk);
-    })(parsed.tree);
-    const want = ms.map((m, i) => i).join(",");
-    if (leaves.join(",") !== want) problems.push(`Reading the numbers left to right gives [${leaves.join(",")}] instead of [${want}].`);
     return problems;
   }
 
-  /** The bracket string → nested tree used by the renderers (labels fall back to the spelled morphemes). */
+  /** AI hint (bracket string) → {children}/{m} tree, or null when it is not a usable binary tree. */
+  function hintNode(ai, n) {
+    const parsed = parseTree(ai.tree);
+    if (parsed.error) return null;
+    const leaves = [];
+    let ok = true;
+    const conv = t => {
+      if (t.leaf !== undefined) { leaves.push(t.leaf); return { m: t.leaf }; }
+      if (t.kids.length !== 2) { ok = false; return { m: 0 }; }
+      return { cat: t.cat, label: t.label, children: t.kids.map(conv) };
+    };
+    const node = conv(parsed.tree);
+    return ok && leaves.join(",") === Array.from({ length: n }, (x, i) => i).join(",") ? node : null;
+  }
+
+  /** Dictionary-style spelling of two joined pieces (dispense + able → dispensable, happy + ness → happiness). */
+  function joinForms(a, b) {
+    if (/e$/.test(a) && /^[aeiouy]/.test(b)) return a.slice(0, -1) + b;
+    if (/[^aeiou]y$/.test(a) && /^[^i]/.test(b) && !/^[aeiou]/.test(b)) return a.slice(0, -1) + "i" + b;
+    return a + b;
+  }
+
+  /** Stage-1 answer → the object the page renders. The tree is chosen by the morphotactics rules; the AI tree breaks ties. */
   function toAppFormat(ai, word, model) {
-    const ms = ai.morphemes;
-    const parsed = parseTree(ai.tree).tree;
-    const spelled = n => n.leaf !== undefined ? plain(ms[n.leaf].surface) : n.kids.map(spelled).join("");
-    const cleanLabel = (lab, n) => /^[a-zA-Z'-]{2,}$/.test(lab || "") ? lab.toLowerCase() : spelled(n);
-    const make = (n, top) => {
-      if (n.leaf !== undefined) return top ? { label: word, cat: ms[n.leaf].cat, m: n.leaf } : { m: n.leaf };
-      return { label: top ? word : cleanLabel(n.label, n), cat: n.cat, children: n.kids.map(k => make(k, false)) };
+    const ms = ai.morphemes.map(m => ({ ...m, variant: m.variant || "", meaning: m.meaning || "", etym: m.etym || "" }));
+    const hint = hintNode(ai, ms.length);
+    const planned = window.MorphTactics.plan(ms, hint);
+    const rawTree = planned ? planned.node : { m: 0 };
+    const spell = n => n.m !== undefined ? plain(ms[n.m].form) : n.children.map(spell).reduce((x, y) => joinForms(x, y));
+    // Take a label from the AI tree when it has the same shape, otherwise spell the pieces.
+    const sameShape = hint && window.MorphTactics.signature(hint) === window.MorphTactics.signature(rawTree);
+    const label = (n, h) => (sameShape && h && h.label && /^[a-zA-Z'-]{2,}$/.test(h.label)) ? h.label.toLowerCase() : spell(n);
+    const make = (n, h, top) => {
+      if (n.m !== undefined) return top ? { label: word, cat: ms[n.m].cat, m: n.m } : { m: n.m };
+      return {
+        label: top ? word : label(n, h), cat: n.cat || (h && h.cat) || "",
+        children: n.children.map((c, i) => make(c, h && h.children && h.children[i], false))
+      };
     };
     return {
-      word, pos: ai.pos, ipa: "", gloss: ai.gloss, process: ai.process,
-      morphemes: ms, tree: make(parsed, true), insights: ai.insights, family: ai.family, etymology: ai.etymology || null,
+      word, pos: ai.pos || "", ipa: "", gloss: "", process: "",
+      morphemes: ms, tree: make(rawTree, sameShape ? hint : null, true),
+      insights: { allomorphy: "", restoration: [], derivInfl: "" },
+      family: { root: "", rootGloss: "", words: [] }, etymology: null,
+      detailState: "loading", treeMethod: planned ? planned.method : "none", ambiguous: !!(planned && planned.ambiguous),
       source: "ai", model, promptVersion: PROMPT_VERSION
     };
   }
@@ -391,37 +401,43 @@
     }
   }
 
-  const jsonInstruction = text => text + "\n\nAnswer with ONE JSON object only (no markdown, no commentary) that follows this JSON schema:\n" + JSON.stringify(SCHEMA);
+  const jsonInstruction = (text, schema) => text + "\n\nAnswer with ONE JSON object only (no markdown, no commentary) that follows this JSON schema:\n" + JSON.stringify(schema);
 
   /** Short thinking budget keeps Gemini fast; Pro cannot switch thinking off, unknown models get the default. */
   function thinking(model) {
     if (/2\.5-flash-lite/.test(model)) return { thinkingConfig: { thinkingBudget: 0 } };
-    if (/2\.5-flash/.test(model)) return { thinkingConfig: { thinkingBudget: 512 } };
+    if (/2\.5-flash/.test(model)) return { thinkingConfig: { thinkingBudget: 256 } };
+    if (/gemini-3/.test(model)) return { thinkingConfig: { thinkingLevel: "low" } };
     return {};
   }
 
   // ---- one streamed call per provider kind; each resolves with the full answer text ----
 
-  async function streamGemini({ apiKey, model, userText, onText, signal }) {
-    const gen = { maxOutputTokens: 8192, temperature: 0.2, ...thinking(model) };
+  async function streamGemini({ apiKey, model, userText, onText, signal, system, schema }) {
+    const base = { maxOutputTokens: 8192, temperature: 0.2 };
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:streamGenerateContent?alt=sse`;
     const call = body => http("gemini", url, {
       method: "POST", headers: { "content-type": "application/json", "x-goog-api-key": apiKey }, body: JSON.stringify(body)
     }, signal);
-    const sys = { parts: [{ text: SYSTEM_PROMPT }] };
-    let res;
-    try {
-      res = await call({
-        systemInstruction: sys, contents: [{ role: "user", parts: [{ text: userText }] }],
-        generationConfig: { ...gen, responseMimeType: "application/json", responseSchema: GEMINI_SCHEMA }
-      });
-    } catch (e) {
-      if (!(e instanceof ApiError) || e.status !== 400) throw e;   // schema rejected → plain JSON mode
-      res = await call({
-        systemInstruction: sys, contents: [{ role: "user", parts: [{ text: jsonInstruction(userText) }] }],
-        generationConfig: { ...gen, responseMimeType: "application/json" }
-      });
+    const think = thinking(model);
+    const body = (withThinking, withSchema) => ({
+      systemInstruction: { parts: [{ text: system }] },
+      contents: [{ role: "user", parts: [{ text: withSchema ? userText : jsonInstruction(userText, schema) }] }],
+      generationConfig: {
+        ...base, ...(withThinking ? think : {}), responseMimeType: "application/json",
+        ...(withSchema ? { responseSchema: withOrdering(schema) } : {})
+      }
+    });
+    // A model that rejects the thinking setting or the schema answers 400: drop one, then the other.
+    const tries = [];
+    if (Object.keys(think).length) tries.push([true, true]);
+    tries.push([false, true], [false, false]);
+    let res, lastErr;
+    for (const [t, sch] of tries) {
+      try { res = await call(body(t, sch)); break; }
+      catch (e) { if (!(e instanceof ApiError) || e.status !== 400) throw e; lastErr = e; }
     }
+    if (!res) throw lastErr;
     let text = "", finish = "", blocked = "";
     await readSse(res, msg => {
       if (msg.error) throw new ApiError(msg.error.message || "Gemini stopped unexpectedly.", 0);
@@ -437,7 +453,7 @@
     return text;
   }
 
-  async function streamOpenAI({ provider, apiKey, model, userText, onText, signal }) {
+  async function streamOpenAI({ provider, apiKey, model, userText, onText, signal, system, schema }) {
     const cfg = PROVIDERS[provider];
     const url = cfg.base + "/chat/completions";
     const call = body => http(provider, url, {
@@ -445,7 +461,7 @@
     }, signal);
     const base = {
       model, stream: true,
-      messages: [{ role: "system", content: SYSTEM_PROMPT }, { role: "user", content: jsonInstruction(userText) }]
+      messages: [{ role: "system", content: system }, { role: "user", content: jsonInstruction(userText, schema) }]
     };
     // JSON mode can fail ("Failed to generate JSON") or be unsupported (400): then rely on the instruction alone.
     const jsonModeFailed = e => e instanceof ApiError && (e.status === 400 || /failed to generate json|failed_generation|json_validate_failed/i.test(e.message + " " + (e.raw || "")));
@@ -469,7 +485,7 @@
     catch (e) { if (!jsonModeFailed(e)) throw e; return await run(false); }
   }
 
-  async function streamAnthropic({ apiKey, model, userText, onText, signal }) {
+  async function streamAnthropic({ apiKey, model, userText, onText, signal, system, schema }) {
     const res = await http("anthropic", "https://api.anthropic.com/v1/messages", {
       method: "POST",
       headers: {
@@ -478,8 +494,8 @@
       },
       body: JSON.stringify({
         model, max_tokens: 4096, stream: true,
-        system: [{ type: "text", text: SYSTEM_PROMPT, cache_control: { type: "ephemeral" } }],
-        messages: [{ role: "user", content: jsonInstruction(userText) }]
+        system: [{ type: "text", text: system, cache_control: { type: "ephemeral" } }],
+        messages: [{ role: "user", content: jsonInstruction(userText, schema) }]
       })
     }, signal);
     let text = "", stop = "";
@@ -493,12 +509,30 @@
     return text;
   }
 
+  /** One request with a time limit; a slow model counts as "did not answer" so the caller can move on. */
   async function stream(opts) {
-    const kind = PROVIDERS[opts.provider].kind;
-    const text = await (kind === "gemini" ? streamGemini(opts) : kind === "anthropic" ? streamAnthropic(opts) : streamOpenAI(opts));
-    const s = text.indexOf("{"), e = text.lastIndexOf("}");
-    try { return JSON.parse(text.slice(s, e + 1)); }
-    catch (err) { throw new ApiError(PROVIDERS[opts.provider].name + "'s answer could not be read. Please try again.", 0); }
+    const cfg = PROVIDERS[opts.provider];
+    const kind = cfg.kind;
+    const limit = opts.timeoutMs || 35000;
+    const ctl = new AbortController();
+    const timer = setTimeout(() => ctl.abort(), limit);
+    const relay = () => ctl.abort();
+    if (opts.signal) { if (opts.signal.aborted) ctl.abort(); else opts.signal.addEventListener("abort", relay); }
+    try {
+      const run = { ...opts, signal: ctl.signal };
+      const text = await (kind === "gemini" ? streamGemini(run) : kind === "anthropic" ? streamAnthropic(run) : streamOpenAI(run));
+      const s = text.indexOf("{"), e = text.lastIndexOf("}");
+      try { return JSON.parse(text.slice(s, e + 1)); }
+      catch (err) { throw new ApiError(cfg.name + "'s answer could not be read. Please try again.", 0); }
+    } catch (err) {
+      if (err && err.name === "AbortError" && !(opts.signal && opts.signal.aborted)) {
+        throw new ApiError(`${cfg.name} did not answer within ${Math.round(limit / 1000)} seconds.`, 408);
+      }
+      throw err;
+    } finally {
+      clearTimeout(timer);
+      if (opts.signal) opts.signal.removeEventListener("abort", relay);
+    }
   }
 
   function contextText(word, ctx) {
@@ -533,7 +567,7 @@
       }
       let shown = 0;
       const ai = await stream({
-        provider, apiKey, model, userText, signal,
+        provider, apiKey, model, userText, signal, system: CUT_PROMPT, schema: CUT_SCHEMA, timeoutMs: opts.timeoutMs || 30000,
         onText: text => {
           if (!opts.onMorphemes) return;
           const ms = partialMorphemes(text);
@@ -555,6 +589,26 @@
     const fail = new ApiError("The AI gave an inconsistent analysis for this word, even after a retry. Press Analyze again, or pick a stronger model in Settings. (" + problems[0] + ")", 0);
     fail.raw = problems.join("\n");
     throw fail;
+  }
+
+  /**
+   * Stage 2: meanings, etymology, word family and explanations for a word that is already cut.
+   * @param opts.morphemes  the stage-1 morphemes
+   * @returns { morphemes: [{meaning, etym}], insights, family, etymology, gloss }
+   */
+  async function enrich(opts) {
+    const { word, provider, apiKey, model, morphemes, context, signal } = opts;
+    const list = morphemes.map((m, i) => `${i}. ${m.form} (${m.type}${m.cls ? ", " + m.cls : ""}${m.variant ? ", " + m.variant : ""})`).join("\n");
+    const userText = contextText(word, context).replace("Word to analyse:", "Word:") + `\nMorphemes, in order:\n${list}`;
+    const ai = await stream({ provider, apiKey, model, userText, signal, system: DETAIL_PROMPT, schema: DETAIL_SCHEMA, timeoutMs: opts.timeoutMs || 60000 });
+    const arr = Array.isArray(ai.morphemes) ? ai.morphemes : [];
+    return {
+      morphemes: morphemes.map((m, i) => ({ meaning: (arr[i] && arr[i].meaning) || "", etym: (arr[i] && arr[i].etym) || "" })),
+      insights: { allomorphy: "", restoration: [], derivInfl: "", ...(ai.insights || {}) },
+      family: { root: "", rootGloss: "", words: [], ...(ai.family || {}) },
+      etymology: ai.etymology || null,
+      gloss: ai.gloss || ""
+    };
   }
 
   /** Model ids this key can actually use (used by "Load my models" and the automatic 404 recovery). */
@@ -611,5 +665,5 @@
     return true;
   }
 
-  window.MorphAI = { SOFT, analyze, testKey, listModels, pickGeminiModel, validate, parseTree, toAppFormat, partialMorphemes, PROVIDERS, PROMPT_VERSION, ApiError };
+  window.MorphAI = { SOFT, analyze, enrich, testKey, listModels, pickGeminiModel, validate, parseTree, toAppFormat, partialMorphemes, PROVIDERS, PROMPT_VERSION, ApiError };
 })();

@@ -1,4 +1,4 @@
-/* Morphology — 19 hand-verified test words (English only).
+/* Morphology — 20 hand-verified test words (English only).
    cls keys: prefix-der, prefix-inf, root-free, root-bound, suffix-der, suffix-inf */
 window.IC_DB = {
  "unhappiness": {
@@ -1313,6 +1313,132 @@ window.IC_DB = {
     "mousy",
     "dormouse",
     "titmouse"
+   ]
+  }
+ },
+ "irrecoverably": {
+  "word": "irrecoverably",
+  "pos": "Adverb",
+  "ipa": "/ˌɪrɪˈkʌvərəbli/",
+  "gloss": "in a way that cannot be put right or got back",
+  "process": "Derivation (2 prefixes + suffix) + inflection",
+  "morphemes": [
+   {
+    "form": "ir-",
+    "surface": "ir",
+    "type": "prefix",
+    "cls": "prefix-der",
+    "allomorphOf": "in-",
+    "meaning": "'not'. The form ir- is used before r; it is a variant of in-.",
+    "etym": "Latin in- 'not', assimilated before r."
+   },
+   {
+    "form": "re-",
+    "surface": "re",
+    "type": "prefix",
+    "cls": "prefix-der",
+    "meaning": "'again, back'. Attaches to a verb without changing the word class.",
+    "etym": "Latin re- 'back, again'."
+   },
+   {
+    "form": "cover",
+    "surface": "cover",
+    "type": "root",
+    "cls": "root-free",
+    "cat": "V",
+    "meaning": "Verb 'to put something over or on top of something'. A free root.",
+    "etym": "Old French covrir, from Latin cooperire."
+   },
+   {
+    "form": "-able",
+    "surface": "able",
+    "type": "suffix",
+    "cls": "suffix-der",
+    "meaning": "Forms an adjective: 'that can be …-ed' (V → Adj).",
+    "etym": "Latin -abilis."
+   },
+   {
+    "form": "-ly",
+    "surface": "ly",
+    "type": "suffix",
+    "cls": "suffix-inf",
+    "variant": "-ly (adv)",
+    "meaning": "Adverb-forming suffix: Adj → Adv.",
+    "etym": "Old English -lice 'in the manner of'."
+   }
+  ],
+  "tree": {
+   "label": "irrecoverably",
+   "cat": "Adv",
+   "children": [
+    {
+     "label": "irrecoverable",
+     "cat": "Adj",
+     "children": [
+      {
+       "m": 0
+      },
+      {
+       "label": "recoverable",
+       "cat": "Adj",
+       "children": [
+        {
+         "label": "recover",
+         "cat": "V",
+         "children": [
+          {
+           "m": 1
+          },
+          {
+           "m": 2
+          }
+         ]
+        },
+        {
+         "m": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "m": 4
+    }
+   ]
+  },
+  "insights": {
+   "allomorphy": "The negative prefix in- appears as ir- before r (in- + recoverable → irrecoverable); it is the same prefix.",
+   "restoration": [],
+   "derivInfl": "ir-, re- and -able are derivational; adverbial -ly is inflectional in this course and is added last."
+  },
+  "etymology": {
+   "summary": "Built in English from ir- + recoverable + -ly; recover itself is re- + cover, from Latin through Old French.",
+   "steps": [
+    {
+     "stage": "Latin origin",
+     "text": "cooperire 'to cover completely', which French turned into covrir."
+    },
+    {
+     "stage": "Old French",
+     "text": "covrir 'to cover'; English re- + cover gives recover 'to get back'."
+    },
+    {
+     "stage": "Into English",
+     "text": "recover + -able, then the negative prefix ir-, then adverbial -ly."
+    }
+   ],
+   "meanings": []
+  },
+  "family": {
+   "root": "cover",
+   "rootGloss": "to put over",
+   "words": [
+    "cover",
+    "recover",
+    "recoverable",
+    "discover",
+    "uncover",
+    "coverage"
    ]
   }
  }
