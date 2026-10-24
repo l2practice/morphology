@@ -809,3 +809,4 @@ h3 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -.01em; }
   .et-arrow { flex-direction: row; justify-content: flex-start; gap: 8px; padding-left: 14px; }
   .et-arrow svg { transform: rotate(90deg); }
 }
+.et-ai { font: 800 10px var(--mono, monospace); letter-spacing: .06em; background: var(--orange-t); color: var(--orange-d); border-radius: 999px; padding: 1px 7px; vertical-align: middle; margin-left: 6px; }

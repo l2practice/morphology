@@ -496,14 +496,11 @@
   const etArrow = chip => `<div class="et-arrow">${chip ? `<span>${esc(chip)}</span>` : ""}${ARROW}</div>`;
   const shortMeaning = m => String(m || "").replace(/\s*\(.*$/, "").replace(/[;.].*$/, "").trim();
 
-  /** The history chain of a dictionary etymology as boxes, plus bullets about it. */
-  function historyHtml(word, text, gloss, label) {
-    const r = window.MorphEtym.parse(text);
-    if (!r.chain.length && !r.parts.length) return { flow: "", bullets: [] };
+  /** Boxes + bullets for a development chain (oldest → newest) or for the parts a word is formed from. */
+  function chainView(word, nodes, parts, gloss, label) {
     const bullets = [];
     let flow = "";
-    if (r.chain.length) {
-      const nodes = r.chain.slice();
+    if (nodes.length) {
       flow = `<div class="et-flow">${nodes.map((n, i) => (i ? etArrow("") : "") + etNode(n)).join("")}${etArrow("")}<div class="et-node fam-en"><small>English</small><b>${esc(label || word)}</b></div></div>`;
       const nonPie = nodes.filter(n => n.family !== "pie");
       const src = nonPie[0] || nodes[0];
@@ -513,11 +510,15 @@
       if (oldest) bullets.push(`<b>Oldest meaning:</b> “${esc(oldest.gloss)}” (${esc(oldest.lang)} <i>${esc(oldest.form)}</i>)${gloss ? ` → today: ${esc(shortMeaning(gloss).slice(0, 90))}` : ""}.`);
       const pie = nodes.find(n => n.family === "pie");
       if (pie) bullets.push(`<b>Deepest root:</b> Proto-Indo-European <i>${esc(pie.form)}</i>${pie.gloss ? ` “${esc(pie.gloss)}”` : ""}.`);
-    } else if (r.parts.length) {
-      flow = `<div class="et-flow">${r.parts.map((p, i) => (i ? `<div class="et-plus">+</div>` : "") + `<div class="et-node fam-part"><b>${esc(p)}</b></div>`).join("")}${etArrow("")}<div class="et-node fam-en"><small>English</small><b>${esc(label || word)}</b></div></div>`;
-      bullets.push(`<b>Formed in English</b> from ${esc(r.parts.join(" + "))}.`);
+    } else if (parts.length) {
+      flow = `<div class="et-flow">${parts.map((p, i) => (i ? `<div class="et-plus">+</div>` : "") + `<div class="et-node fam-part"><b>${esc(p)}</b></div>`).join("")}${etArrow("")}<div class="et-node fam-en"><small>English</small><b>${esc(label || word)}</b></div></div>`;
+      bullets.push(`<b>Formed in English</b> from ${esc(parts.join(" + "))}.`);
     }
     return { flow, bullets };
+  }
+  function historyHtml(word, text, gloss, label) {
+    const r = window.MorphEtym.parse(text);
+    return chainView(word, r.chain, r.parts, gloss, label);
   }
 
   let etymToken = 0;
@@ -546,25 +547,34 @@
     }
     // 2. where it comes from: the base word's history (or the word's own)
     const baseM = w && w.morphemes.length > 1 ? w.morphemes.find(m => m.type === "root" && m.cls === "root-free" && /^[a-z]+$/i.test(m.form)) : null;
-    const own = historyHtml(word, dictText, dict && dict.gloss);
+    const aiNodes = ((ety && Array.isArray(ety.chain)) ? ety.chain : []).filter(n => n && n.form && n.lang)
+      .map(n => ({ lang: String(n.lang), form: String(n.form), gloss: String(n.gloss || ""), family: window.MorphEtym.familyOf(String(n.lang)) }));
+    let own = historyHtml(word, dictText, dict && dict.gloss);
+    let fromAi = false;
+    if (!own.flow && aiNodes.length) { own = chainView(word, aiNodes, [], (w && w.gloss) || (dict && dict.gloss) || "", word); fromAi = true; }
     const token = ++etymToken;
     const holder = `<div id="et-history"></div>`;
     const fullText = [dictText, ety && ety.summary && ety.summary !== dictText ? ety.summary : ""].filter(Boolean).join("\n\n");
     const empty = !build && !own.flow && !bullets.length;
     box.innerHTML = `${head}
       ${build}
-      ${baseM ? holder : (own.flow ? `<h4>Where it comes from</h4>${own.flow}` : "")}
+      ${baseM ? holder : (own.flow ? `<h4>Where it comes from${fromAi ? ` <span class="et-ai">AI</span>` : ""}</h4>${own.flow}` : "")}
       ${!baseM && own.bullets.length ? `<ul class="et-points">${own.bullets.map(b => `<li>${b}</li>`).join("")}</ul>` : ""}
       ${bullets.length ? `<h4>Parts</h4><ul class="et-points">${bullets.map(b => `<li>${b}</li>`).join("")}</ul>` : ""}
       ${empty ? (w && w.detailState === "loading" ? `<p class="et-empty">Writing the etymology…</p>` : `<p class="et-empty">The dictionary has no etymology for this word.</p>`) : ""}
       ${fullText ? `<details class="et-full"><summary>Full dictionary text</summary><p>${esc(fullText).replace(/\n\n/g, "<br><br>")}</p>${ety ? `<p class="et-note">AI summary: written from the dictionary entry; check the dictionary for the original.</p>` : ""}</details>` : ""}`;
     if (baseM) {
       window.MorphDict.lookup(baseM.form).then(res => {
-        if (token !== etymToken || !res || !res.found) return;
+        if (token !== etymToken) return;
+        if (!res || !res.found) res = { found: true, entry: { word: baseM.form, blocks: [] } };
         const s = window.MorphDict.summarize(res.entry);
         const h = historyHtml(baseM.form, s.etymology || "", s.gloss, baseM.form);
         const el = $("#et-history");
-        if (!el || !h.flow) return;
+        if (!el) return;
+        if (!h.flow) {
+          if (aiNodes.length) { const v = chainView(word, aiNodes, [], (w && w.gloss) || "", word); el.innerHTML = `<h4>Where it comes from <span class="et-ai">AI</span></h4>${v.flow}<ul class="et-points">${v.bullets.map(b => `<li>${b}</li>`).join("")}</ul>`; }
+          return;
+        }
         el.innerHTML = `<h4>Where “${esc(baseM.form)}” comes from</h4>${h.flow}<ul class="et-points">${h.bullets.map(b => `<li>${b}</li>`).join("")}</ul>`;
       }).catch(() => {});
     }
@@ -770,21 +780,14 @@
 
     // Not in the dictionary: look for related dictionary words first. A word built from known words
     // (construction ← construct) is real; only an unexplained word gets spelling suggestions.
-    let nb = null;
+    let nb = null, sugg = [];
     if (!dictRes || !dictRes.found) {
       nb = dictRes === null ? null : await window.MorphDict.neighbours(key).catch(() => null);
       if (token !== state.token) return;
       state.neighbours = nb;
-      if (dictRes !== null && !opts.force && !(nb && nb.likely)) {
-        const sugg = await window.MorphDict.fuzzy(key).catch(() => []);
-        if (token !== state.token) return;
-        if (sugg.length) {
-          showNotice(`“${esc(key)}” is not in the dictionary. Did you mean: ` +
-            sugg.map(s => `<button type="button" data-word="${esc(s)}">${esc(s)} →</button>`).join("") +
-            ` <button type="button" class="alt" data-word="${esc(key)}" data-force="1">Analyse “${esc(key)}” anyway</button>`);
-          return;
-        }
-      }
+      // A word the dictionary does not know goes to the AI at once. Spelling suggestions are only offered next to the answer.
+      if (dictRes !== null && !(nb && nb.likely)) sugg = await window.MorphDict.fuzzy(key).catch(() => []);
+      if (token !== state.token) return;
     }
 
     const provider = getProvider();
@@ -808,6 +811,9 @@
     state.abort = new AbortController();
     if (state.dict === null && dictRes === null) {
       showNotice("The dictionary could not be reached, so this analysis has no dictionary context.");
+    } else if (!state.dict && sugg.length) {
+      showNotice(`“${esc(key)}” is not in the dictionary, so the AI is analysing it. Did you mean: ` +
+        sugg.map(s => `<button type="button" data-word="${esc(s)}">${esc(s)} →</button>`).join(""));
     } else if (!state.dict) {
       showNotice(nb && (nb.bases.length || nb.family.length)
         ? `“${esc(key)}” is not in the dictionary, so it is cut using related words: ${esc([...nb.bases.map(b => b.word), ...nb.family].filter((w, i, arr) => arr.indexOf(w) === i).slice(0, 6).join(", "))}.`

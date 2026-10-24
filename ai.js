@@ -105,13 +105,40 @@
     "- pos is the part of speech of the whole word: noun, verb, adjective, adverb."
   ].join("\n");
 
+  const SENSE_LABELS = "re- (again) [verb], re- (against) [noun: re-action], in-/im-/il-/ir- (not) [adjective or noun], in-/im- (into) [verb or noun], un- (not) [adjective], un- (reverse) [verb], de- (reverse) [verb or noun], de- (down) [verb or noun], dis- (not) [verb, adjective, noun], dis- (apart) [verb or noun], en-/em- (make) [noun or adjective], en-/em- (into) [noun or verb]";
+  const courseList = kind => Object.keys((window.COURSE_AFFIXES || {})[kind] || {}).join(" ");
+  const courseBases = () => Object.values((window.COURSE_AFFIXES || {}).base || {}).map(b => `-${b.v.join("-/-")}- ${b.m.toLowerCase()}`).join("; ");
+
+  const BASIC_RULES = () => [
+    "",
+    "## LEVEL: BASIC (the course convention; follow it strictly)",
+    "Cut only what a student can SEE and DEFEND in present-day English. Never cut because of etymology. Fossilised derivations are ONE morpheme: health, wealth, truth, length, strength, youth, flight, height, weight, depth, width, gift, lawyer; science and scientist are one morpheme at this level.",
+    "Allowed prefixes: " + (courseList("prefix") || "un re in im il ir dis mis non de pre post over under out sub super inter trans") + ".",
+    "Allowed suffixes: " + (courseList("suffix") || "ness ment tion ity ive ous al ful less able ible ist ism ize ify ish y hood ship dom") + ". A piece that is not on these lists is not a morpheme here.",
+    "Neo-classical combining forms are bound morphemes in this course: suicide = sui- + -cide, omnivore = omni- + -vore, biology = bio- + -logy, democracy = demo- + -cracy, telescope = tele- + -scope, microphone = micro- + -phone (-cide kill, -vore eat, -logy study, -graph write, -phone sound, -scope look, -meter measure, -phobia fear, -phile love, -cracy rule).",
+    "Cut ALL THE WAY to the root: unemployment = un- + employ + -ment; reactive = re- + act + -ive; active = act + -ive; omnipresence = omni- + present + -ence (surface \"pres\" + \"ence\": -ent/-ant words take -ence/-ance: presence, absence, silence, distance).",
+    "Bound roots only when they recur in a family and the prefix is living: re-ceive, con-struct, per-ceive, de-scribe. Single-morpheme: employ, enjoy, deploy, refer, prefer.",
+    "Prefix senses (set variant to EXACTLY one of these when the cut has that prefix): " + SENSE_LABELS + ". The sense decides the order of the tree: ir-(refute-able), (re-act)-ive-ate, re-(action)-ary."
+  ].join("\n");
+
+  const ADV_RULES = () => [
+    "",
+    "## LEVEL: ADVANCED (bound-root analysis, Nida's recurrence test)",
+    "Everything in the BASIC rules applies, and you ALSO cut recognised Latin, Greek and Old English bound roots when the root comes back in at least THREE English words of a family (science = sci- + -ence; scientist = sci- + -ent + -ist; conceive = con- + -ceive; vulnerable = -vulner- + -able; omnipresence = omni- + -pres- + -ence; refer = re- + -fer; employ = em- + -ploy; health = heal + -th; truth = true + -th; flight = fly + -t).",
+    "Write a bound root with hyphens on the sides where it attaches (-vulner-, -pres-, sci-), type root, cls root-bound, cat V, N or Adj. Cut a derived base all the way down and cut the same root the same way in every word.",
+    "A piece that occurs in only one or two words is NOT a morpheme (no cranberry residues); a piece that is only an accident of spelling (liqu- in liquid and liqueur, magn- in magnet and magnify) is NOT shared; names and whole borrowings (clarence, sultan, candle) stay one morpheme.",
+    "The course's list of bound bases (use these forms): " + courseBases() + "."
+  ].join("\n");
+
+  const cutPrompt = level => CUT_PROMPT + (level === "adv" ? ADV_RULES() : BASIC_RULES());
+
   const DETAIL_PROMPT = [
     "You write short, student-friendly details about an English word that has ALREADY been cut into the morphemes listed in the user message. Answer with JSON that follows the schema. Never change the segmentation.",
-    "- morphemes: one entry per listed morpheme, in the same order, with its meaning and etym.",
+    "- morphemes: one entry per listed morpheme, in the same order. The meaning of every prefix and suffix, and of free roots marked [meaning known], is already in the program: for those write \"\" as the meaning. Write a meaning (at most 12 words) only for the others (bound roots and roots without a mark). Always write \"\" as etym: the etymology is written once, for the whole word, in the etymology field.",
     "- Be BRIEF and student-friendly: process is a LABEL of at most 8 words (for example \"Derivation (prefix + suffix) + inflection\"), never an explanation; each meaning at most 12 words, each etym at most 10 words, allomorphy and derivInfl one or two short sentences, gloss at most 10 words.",
     "- restoration: surface ends with a hyphen; empty list if nothing changed.",
     "- family: the historical root, its short gloss, and 6 real related English words.",
-    "- etymology (about the WHOLE word): summary is ONE sentence on where the word comes from (for example: comes from Latin through Old French and entered English in the 14th century); steps are 2 to 3 stages with a short label such as \"Latin origin\", \"Old French\" or \"Entry into English\" and a text of at most 20 words; meanings are 0 to 3 changes of meaning, each with a period (for example \"14th century\") and a text. Base it on the dictionary etymology when one is given. Only state dates and facts you are sure about; otherwise leave the period out of the text or use an empty list.",
+    "- etymology (about the WHOLE word): summary is ONE short sentence. chain is the development of the word as 2 to 6 items from the OLDEST known ancestor to the form just before Modern English, each {lang, form, gloss}: for example {Proto-Indo-European, *bʰedʰ-, to bend}, {Proto-Germanic, *badą, ...}, {Old English, bæddel, hermaphrodite}, {Middle English, bad, wicked}. Use real attested forms and the usual language names (Latin, Ancient Greek, Old French, Middle English, Old English, Proto-Germanic ...). gloss is at most 6 words. If the word was formed inside English from parts and has no older history, give an EMPTY chain and say so in the summary (From omni- + presence). steps and meanings may be empty lists.",
     "- Read the dictionary etymology as evidence: \"X + -suffix\" (formed inside English) supports a cut; a plain history of borrowing or inheritance with no \"+\" (employ: from Old French emploier; enjoy, deploy, refer likewise) supports ONE root.",
     "- The user message may contain DICTIONARY CONTEXT (part of speech, definition, etymology of the word). Treat it as reliable, use it to decide the segmentation and to keep etym short, and do not contradict it.",
     "- If the user message says the word is NOT in the dictionary: when related dictionary words are listed, build the cut on them (the base must be one of those words or their stem); otherwise analyse it as a nonce word using productive rules."
@@ -128,9 +155,10 @@
   };
   const FAMILY = { type: "object", required: ["root", "rootGloss", "words"], properties: { root: str, rootGloss: str, words: { type: "array", items: str } } };
   const ETYMOLOGY = {
-    type: "object", required: ["summary", "steps", "meanings"],
+    type: "object", required: ["summary", "chain", "steps", "meanings"],
     properties: {
       summary: str,
+      chain: { type: "array", items: { type: "object", required: ["lang", "form", "gloss"], properties: { lang: str, form: str, gloss: str } } },
       steps: { type: "array", items: { type: "object", required: ["stage", "text"], properties: { stage: str, text: str } } },
       meanings: { type: "array", items: { type: "object", required: ["period", "text"], properties: { period: str, text: str } } }
     }
@@ -607,7 +635,7 @@
       }
       let shown = 0;
       const ai = await stream({
-        provider, apiKey, model, userText, signal, system: CUT_PROMPT, schema: CUT_SCHEMA, timeoutMs: opts.timeoutMs || 30000,
+        provider, apiKey, model, userText, signal, system: cutPrompt(opts.level), schema: CUT_SCHEMA, timeoutMs: opts.timeoutMs || 30000,
         onText: text => {
           if (!opts.onMorphemes) return;
           const ms = partialMorphemes(text);
@@ -638,7 +666,7 @@
    */
   async function enrich(opts) {
     const { word, provider, apiKey, model, morphemes, context, signal } = opts;
-    const list = morphemes.map((m, i) => `${i}. ${m.form} (${m.type}${m.cls ? ", " + m.cls : ""}${m.variant ? ", " + m.variant : ""})`).join("\n");
+    const list = morphemes.map((m, i) => `${i}. ${m.form} (${m.type}${m.cls ? ", " + m.cls : ""}${m.variant ? ", " + m.variant : ""})${m.fixedMeaning || m.meaning ? " [meaning known]" : ""}`).join("\n");
     const userText = contextText(word, context, opts.neighbours, opts.level).replace("Word to analyse:", "Word:") + `\nMorphemes, in order:\n${list}`;
     const ai = await stream({ provider, apiKey, model, userText, signal, system: DETAIL_PROMPT, schema: DETAIL_SCHEMA, timeoutMs: opts.timeoutMs || 60000 });
     const arr = Array.isArray(ai.morphemes) ? ai.morphemes : [];
