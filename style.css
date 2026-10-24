@@ -729,3 +729,6 @@ h3 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -.01em; }
 @keyframes spin { to { transform: rotate(360deg); } }
 .m-short.ghost { color: var(--faint); font-style: italic; }
 .details .sec-head > div:first-child, .details .sec-head h3 { min-width: 0; }
+
+.level-seg { flex: none; margin-left: 10px; }
+@media (max-width: 720px) { .level-seg { margin-left: 0; } .level-seg button { padding: 5px 10px; } }

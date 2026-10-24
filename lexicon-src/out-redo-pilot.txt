@@ -1,0 +1,54 @@
+unhappiness	noun	un-|un|P ; happy|happi|R|Adj ; -ness|ness|S
+irrecoverably	adv	ir-|ir|P|||in- ; re-|re|P ; cover|cover|R|V ; -able|ab|S ; -ly|ly|I|Adv|-ly (adv)
+employ	verb	employ|employ|R|V
+employment	noun	employ|employ|R|V ; -ment|ment|S
+enjoy	verb	enjoy|enjoy|R|V
+deploy	verb	deploy|deploy|R|V
+refer	verb	refer|refer|R|V
+receive	verb	re-|re|P ; -ceive|ceive|B|V
+reception	noun	re-|re|P ; -cept|cep|B|V ; -ion|tion|S
+recover	verb	re-|re|P ; cover|cover|R|V
+mice	noun	mouse|mice|R|N ; -s||I||-s (plural)
+children	noun	child|child|R|N ; -ren|ren|I||-s (plural)
+better	adj	good|better|R|Adj ; -er||I||-er (comparative)
+visibly	adv	vis|vis|B|V ; -ible|ib|S ; -ly|ly|I|Adv|-ly (adv)
+receptionists	noun	re-|re|P ; -cept|cep|B|V ; -ion|tion|S ; -ist|ist|S ; -s|s|I||-s (plural)
+sunflower	noun	sun|sun|R|N ; flower|flower|R|N
+construction	noun	con-|con|P ; -struct|struct|B|V ; -ion|ion|S
+destruction	noun	de-|de|P ; -struct|struct|B|V ; -ion|ion|S
+instruction	noun	in-|in|P ; -struct|struct|B|V ; -ion|ion|S
+nationalization	noun	nation|nation|R|N ; -al|al|S ; -ize|iz|S ; -ation|ation|S
+happiness	noun	happy|happi|R|Adj ; -ness|ness|S
+running	verb	run|run|R|V ; -ing|ning|I||-ing (v)
+meeting	noun	meet|meet|R|V ; -ing|ing|S||-ing (N)
+interesting	adj	interest|interest|R|V ; -ing|ing|S||-ing (adj)
+interested	adj	interest|interest|R|V ; -ed|ed|S||-ed (adj)
+friendly	adj	friend|friend|R|N ; -ly|ly|S||-ly (adj)
+quickly	adv	quick|quick|R|Adj ; -ly|ly|I|Adv|-ly (adv)
+driver	noun	drive|driv|R|V ; -er|er|S||-er (N)
+chatter	verb	chat|chat|R|V ; -er|ter|S||-er (onomatopoeia)
+teacher	noun	teach|teach|R|V ; -er|er|S||-er (N)
+disrespectful	adj	dis-|dis|P ; respect|respect|R|N ; -ful|ful|S
+illegal	adj	il-|il|P|||in- ; legal|legal|R|Adj
+immature	adj	im-|im|P|||in- ; mature|mature|R|Adj
+impossible	adj	im-|im|P|||in- ; possible|possible|R|Adj
+production	noun	pro-|pro|P ; -duct|duc|B|V ; -ion|tion|S
+reduction	noun	re-|re|P ; -duct|duc|B|V ; -ion|tion|S
+unbelievable	adj	un-|un|P ; believe|believ|R|V ; -able|able|S
+misunderstanding	noun	mis-|mis|P ; understand|understand|R|V ; -ing|ing|S||-ing (N)
+reconstruction	noun	re-|re|P ; con-|con|P ; -struct|struct|B|V ; -ion|ion|S
+table	noun	table|table|R|N
+window	noun	window|window|R|N
+people	noun	people|people|R|N
+animal	noun	animal|animal|R|N
+corner	noun	corner|corner|R|N
+butter	noun	butter|butter|R|N
+brunch	noun	brunch|brunch|R|N
+laser	noun	laser|laser|R|N
+went	verb	go|went|R|V ; -ed||I||-ed (v2)
+sang	verb	sing|sang|R|V ; -ed||I||-ed (v2)
+geese	noun	goose|geese|R|N ; -s||I||-s (plural)
+best	adj	good|best|R|Adj ; -est||I||-est (superlative)
+good	adj	good|good|R|Adj
+wider	adj	wide|wid|R|Adj ; -er|er|I||-er (comparative)
+happier	adj	happy|happi|R|Adj ; -er|er|I||-er (comparative)

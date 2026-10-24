@@ -11,34 +11,46 @@
     S: { type: "suffix", cls: "suffix-der" }, I: { type: "suffix", cls: "suffix-inf" }
   };
   const shards = new Map();
+  const DIR = { basic: "lexicon", adv: "lexicon-adv" };
   const build = (document.currentScript && document.currentScript.src.split("?v=")[1]) || "";
 
-  function shard(word) {
+  function shard(word, level) {
     const k = word.slice(0, 2);
     if (!/^[a-z]{2}$/.test(k)) return Promise.resolve({});
-    if (!shards.has(k)) {
-      const p = fetch(`lexicon/${k}.json${build ? "?v=" + build : ""}`)
+    const id = level + "/" + k;
+    if (!shards.has(id)) {
+      const p = fetch(`${DIR[level]}/${k}.json${build ? "?v=" + build : ""}`)
         .then(r => (r.ok ? r.json() : {}))
-        .catch(() => { shards.delete(k); return {}; });
-      shards.set(k, p);
+        .catch(() => { shards.delete(id); return {}; });
+      shards.set(id, p);
     }
-    return shards.get(k);
+    return shards.get(id);
   }
 
   function parse(word, line) {
     const [pos, body] = line.split("\t");
     if (!body || body === "?") return null;
     const morphemes = body.split(" ; ").map(t => {
-      const [form, surface, code, cat, variant, allo] = t.split("|");
+      const [form, surface, code, cat, variant, allo, gloss] = t.split("|");
       const s = SHAPE[code];
-      return { form, surface, type: s.type, cls: s.cls, cat: cat || "", allomorphOf: allo || "", variant: variant || "" };
+      const m = { form, surface, type: s.type, cls: s.cls, cat: cat || "", allomorphOf: allo || "", variant: variant || "" };
+      if (gloss && gloss.trim()) m.meaning = gloss.trim();
+      return m;
     });
     return { pos, morphemes };
   }
 
-  async function get(word) {
-    const line = (await shard(word))[word];
-    return line ? parse(word, line) : null;
+  /** level "adv": the advanced cut when there is one, otherwise the basic cut. Result.level says which one it is. */
+  async function get(word, level) {
+    if (level === "adv") {
+      const a = (await shard(word, "adv"))[word];
+      const r = a ? parse(word, a) : null;
+      if (r) { r.level = "adv"; return r; }
+    }
+    const line = (await shard(word, "basic"))[word];
+    const r = line ? parse(word, line) : null;
+    if (r) r.level = "basic";
+    return r;
   }
 
   /** Which inflection does the dictionary say this form is? */
@@ -73,24 +85,24 @@
     last.surface += tail;
     ms.push({ form: infl.form, surface: rest, type: "suffix", cls: "suffix-inf", cat: "", allomorphOf: "", variant: infl.variant });
     if (ms.map(m => m.surface).join("") !== word) return null;
-    return { pos: lemma.pos, morphemes: ms };
+    return { pos: lemma.pos, morphemes: ms, level: lemma.level };
   }
 
   /**
    * @param dictRes result of MorphDict.lookup (may be null)
    * → { ai: {morphemes, pos}, how: "lexicon" | "composed", lemma } or null
    */
-  async function resolve(word, dictRes) {
-    const own = await get(word);
-    if (own) return { ai: own, how: "lexicon", lemma: word };
+  async function resolve(word, dictRes, level) {
+    const own = await get(word, level);
+    if (own) return { ai: own, how: "lexicon", lemma: word, level: own.level };
     const via = dictRes && dictRes.found && dictRes.via;
     if (!via || via.relation !== "inflection") return null;
     const infl = inflection(via.tags);
     if (!infl) return null;
-    const lemma = await get(via.lemma);
+    const lemma = await get(via.lemma, level);
     if (!lemma) return null;
     const c = compose(word, lemma, infl);
-    return c ? { ai: c, how: "composed", lemma: via.lemma } : null;
+    return c ? { ai: c, how: "composed", lemma: via.lemma, level: c.level } : null;
   }
 
   window.MorphLex = { get, resolve, compose, inflection };

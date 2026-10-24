@@ -1,0 +1,19 @@
+science	From Middle English science, borrowed from Old French, from Latin scientia, from sciens, from scire "to know".
+scientist	From science + -ist.
+omniscient	From Medieval Latin omnisciens (all-knowing), from Latin omnis (all) + sciens.
+conceive	From Old French concevoir, from Latin concipere, from com- + capere (to take).
+perceive	From Old French percevoir, from Latin percipere, from per- + capere (to take).
+biology	From Ancient Greek bios (life) + -logia (study).
+telephone	From Ancient Greek tele (far) + phone (sound).
+health	From Middle English helthe, from Old English hælþ, from hāl (whole) + -þ.
+truth	From Old English trīewþ, from trēowe (true) + -þ.
+length	From Old English lengþu, from lang (long) + -þu.
+flight	From Old English flyht, from flēogan (to fly) + -t.
+table	From Old French table, from Latin tabula.
+corner	From Old French corne, from Latin cornu (horn).
+construction	From Latin constructio, from construere, from com- + struere (to build).
+reception	From Latin receptio, from recipere, from re- + capere (to take).
+spectator	From Latin spectator, from spectare (to watch), frequentative of specere (to look).
+description	From Latin descriptio, from describere, from de- + scribere (to write).
+geography	From Ancient Greek geographia, from ge (earth) + -graphia (writing).
+unhappiness	From un- + happiness.

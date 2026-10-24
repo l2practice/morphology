@@ -12,7 +12,7 @@
   const TEST_WORDS = ["unhappiness", "reconstruction", "misunderstanding", "running", "irrecoverably", "children",
     "sunflower", "mice", "visibly", "receptionists", "employment", "employ", "enjoy", "deploy", "refer", "unflobbable"];
 
-  const LS = { provider: "morph-provider", cache: "morph-cache-v" + window.MorphAI.PROMPT_VERSION, history: "morph-history", tree: "morph-tree-style", cls: "morph-cls-mode" };
+  const LS = { provider: "morph-provider", cache: "morph-cache-v" + window.MorphAI.PROMPT_VERSION, history: "morph-history", tree: "morph-tree-style", cls: "morph-cls-mode", level: "morph-level" };
   const CACHE_MAX = 150;
 
   const T = {
@@ -27,7 +27,7 @@
     "cls_suffix-der": "Suffix (Derivational)", "cls_suffix-inf": "Suffix (Inflectional)"
   };
   const t = key => T[key] || key;
-  const SOURCE_LABEL = { verified: "✓ Verified", ai: "✦ AI analysis", cache: "✓ Saved on this device", lexicon: "✓ Checked cut" };
+  const SOURCE_LABEL = { verified: "✓ Verified", ai: "✦ AI analysis", cache: "✓ Saved on this device", lexicon: "✓ Checked cut", "lexicon-adv": "✓ Advanced cut" };
 
   const ORIGINS = [
     [/Old English/i, "Old English"], [/Middle English/i, "Middle English"], [/Old Norse/i, "Old Norse"],
@@ -36,7 +36,7 @@
   ];
 
   let settingsForm = null, bannerForm = null;
-  const state = { clsMode: "freebound", treeStyle: "classic", word: null, source: "verified", dict: null, view: "analyze", token: 0, abort: null };
+  const state = { level: "basic", clsMode: "freebound", treeStyle: "classic", word: null, source: "verified", dict: null, view: "analyze", token: 0, abort: null };
 
   const $ = sel => document.querySelector(sel);
   const $$ = sel => Array.from(document.querySelectorAll(sel));
@@ -72,13 +72,15 @@
   const setProvider = p => store.set(LS.provider, p);
   const keyedProviders = () => PROV_IDS.filter(p => getKey(p));
 
+  const ck = (word, level) => ((level || state.level) === "adv" ? word + "@adv" : word);
   function cacheGet(word) {
     const c = store.json(LS.cache, {});
-    return c[word] ? c[word].d : null;
+    const e = c[ck(word)];
+    return e ? e.d : null;
   }
   function cachePut(word, data) {
     const c = store.json(LS.cache, {});
-    c[word] = { d: data, t: Date.now() };
+    c[ck(word, data && data.level)] = { d: data, t: Date.now() };
     const keys = Object.keys(c);
     if (keys.length > CACHE_MAX) {
       keys.sort((a, b) => c[a].t - c[b].t).slice(0, keys.length - CACHE_MAX).forEach(k => delete c[k]);
@@ -640,20 +642,24 @@
 
     // 1b. pre-cut lexicon (also builds regular inflected forms from their lemma): no AI needed for the cut.
     let lx = null;
-    if (!verified) {
-      lx = await window.MorphLex.resolve(key, await dictP).catch(() => null);
+    const level = state.level;
+    {
+      const r = await window.MorphLex.resolve(key, await dictP, level).catch(() => null);
       if (token !== state.token) return;
+      // A verified (hand-checked) word stays as it is, unless the advanced layer has its own cut for it.
+      if (r && (!verified || r.level === "adv")) lx = r;
     }
     if (lx) {
       const sig = ms => ms.map(m => m.form + "|" + m.surface).join(";");
       const data = window.MorphAI.toAppFormat(lx.ai, key, "lexicon");
+      data.level = level;
       const reuse = cached && cached.detailState === "ready" && sig(cached.morphemes) === sig(data.morphemes);
       const provider = getProvider();
       const canWrite = !!getKey(provider);
-      data.source = "lexicon";
+      data.source = lx.level === "adv" ? "lexicon-adv" : "lexicon";
       data.detailState = canWrite ? "loading" : "none";
       state.word = reuse ? cached : data;
-      state.source = reuse ? "cache" : "lexicon";
+      state.source = reuse ? "cache" : data.source;
       state.dict = dictContext(await dictP);
       if (token !== state.token) return;
       $("#result").hidden = false;
@@ -738,6 +744,7 @@
       const run = await analyzeWithFallback(key, provider, token, attempts);
       if (token !== state.token) return;
       hideOverlay();
+      run.data.level = level;
       state.word = run.data;
       state.source = "ai";
       cachePut(key, run.data);
@@ -789,7 +796,7 @@
       try {
         const d = await window.MorphAI.enrich({
           word: key, provider, apiKey: getKey(provider), model, morphemes: w.morphemes,
-          context: state.dict, neighbours: state.neighbours, signal: state.abort && state.abort.signal
+          context: state.dict, neighbours: state.neighbours, level: w.level || state.level, signal: state.abort && state.abort.signal
         });
         if (token !== state.token || state.word !== w) return;
         w.morphemes.forEach((m, i) => { m.meaning = d.morphemes[i].meaning; m.etym = d.morphemes[i].etym; });
@@ -884,7 +891,7 @@
           setOverlay(attempts.length ? `Trying ${PROV[step.provider].name} · ${step.model} …` : `Asking ${PROV[step.provider].name} to cut the word into morphemes …`, `${PROV[step.provider].name} · ${step.model}`);
           const data = await window.MorphAI.analyze({
             word: key, provider: step.provider, apiKey: getKey(step.provider), model: step.model,
-            context: state.dict, neighbours: state.neighbours, signal: state.abort.signal, timeoutMs: Math.max(8000, Math.min(30000, deadline - Date.now())),
+            context: state.dict, neighbours: state.neighbours, level: state.level, signal: state.abort.signal, timeoutMs: Math.max(8000, Math.min(30000, deadline - Date.now())),
             onMorphemes: ms => { if (token === state.token) { renderBricks(ms); setOverlay(`Receiving the answer … ${ms.length} morpheme${ms.length === 1 ? "" : "s"} so far`); } },
             onAttempt: () => say("Double-checking the cuts…")
           });
@@ -1113,6 +1120,16 @@
       store.set(LS.cls, state.clsMode);
       if (state.word) renderClassification(state.word);
       else $$("#cls-mode button").forEach(x => x.classList.toggle("active", x === b));
+    });
+    state.level = store.get(LS.level) === "adv" ? "adv" : "basic";
+    $$("#level button").forEach(b => b.classList.toggle("active", b.dataset.level === state.level));
+    $("#level").addEventListener("click", e => {
+      const b = e.target.closest("[data-level]");
+      if (!b || b.dataset.level === state.level) return;
+      state.level = b.dataset.level;
+      store.set(LS.level, state.level);
+      $$("#level button").forEach(x => x.classList.toggle("active", x === b));
+      if (state.word && state.view === "analyze") show(state.word.word, { silentHash: true });
     });
     state.treeStyle = store.get(LS.tree) === "boxes" ? "boxes" : "classic";
     $$("#tree-style button").forEach(b => b.classList.toggle("active", b.dataset.style === state.treeStyle));

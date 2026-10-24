@@ -1,0 +1,43 @@
+political	adj	politics|politic|R|N ; -al|al|S
+agency	noun	agent|agen|R|N ; -cy|cy|S
+introduce	verb	intro-|intro|P ; -duce|duce|B|V
+religious	adj	religion|religi|R|N ; -ous|ous|S
+scientist	noun	sci-|sci|B|V ; -ent|ent|S ; -ist|ist|S
+participant	noun	participate|particip|R|V ; -ant|ant|S
+entry	noun	enter|entr|R|V ; -y|y|S
+scientific	adj	sci-|sci|B|V ; -ent|ent|S ; -ific|ific|S
+presidential	adj	president|president|R|N ; -ial|ial|S
+ministry	noun	minister|ministr|R|N ; -y|y|S
+ourselves	pron	our|our|R ; self|selv|R|N ; -es|es|I||-s (plural)
+politician	noun	politics|politic|R|N ; -ian|ian|S
+health	noun	health|health|R|N
+wealth	noun	wealth|wealth|R|N
+truth	noun	truth|truth|R|N
+length	noun	length|length|R|N
+strength	noun	strength|strength|R|N
+youth	noun	youth|youth|R|N
+flight	noun	flight|flight|R|N
+height	noun	height|height|R|N
+weight	noun	weight|weight|R|N
+depth	noun	depth|depth|R|N
+growth	noun	grow|grow|R|V ; -th|th|S
+warmth	noun	warm|warm|R|Adj ; -th|th|S
+lawyer	noun	lawyer|lawyer|R|N
+northern	adj	northern|northern|R|Adj
+justice	noun	justice|justice|R|N
+service	noun	service|service|R|N
+gift	noun	gift|gift|R|N
+unfortunately	adv	un-|un|P ; fortune|fortun|R|N ; -ate|ate|S ; -ly|ly|I|Adv|-ly (adv)
+independent	adj	in-|in|P ; depend|depend|R|V ; -ent|ent|S
+unlikely	adj	un-|un|P ; like|like|R|Adj ; -ly|ly|S||-ly (adj)
+television	noun	tele-|tele|P ; vis|vis|B|V ; -ion|ion|S
+undeniable	adj	un-|un|P ; deny|deni|R|V ; -able|able|S
+disagreement	noun	dis-|dis|P ; agree|agree|R|V ; -ment|ment|S
+rewriting	verb	re-|re|P ; write|writ|R|V ; -ing|ing|I||-ing (v)
+kindness	noun	kind|kind|R|Adj ; -ness|ness|S
+helpful	adj	help|help|R|V ; -ful|ful|S
+childhood	noun	child|child|R|N ; -hood|hood|S
+shortest	adj	short|short|R|Adj ; -est|est|I||-est (superlative)
+unhappier	adj	un-|un|P ; happy|happi|R|Adj ; -er|er|I||-er (comparative)
+boxes	noun	box|box|R|N ; -es|es|I||-s (plural)
+studies	verb	study|studi|R|V ; -es|es|I||-s (3sg)

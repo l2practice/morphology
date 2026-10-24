@@ -1,0 +1,5 @@
+science	noun	sci-|sci|B|V|||Latin scire 'to know' ; -ence|ence|S||||Latin -entia 'state'
+scientist	noun	sci-|sci|B|V|||Latin scire 'to know' ; -ent|ent|S ; -ist|ist|S
+omniscient	adj	omni-|omni|P|||Latin omnis 'all' ; sci-|sci|B|V|||Latin scire 'to know' ; -ent|ent|S
+health	noun	heal|heal|R|V ; -th|th|S
+table	noun	=
