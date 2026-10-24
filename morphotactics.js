@@ -44,6 +44,16 @@
   addS("ize ise ify fy", ["N", "Adj"], ["V"]);
   addS("en", ["Adj", "N"], ["V"]);        // widen, strengthen (derivational -en)
   addS("ward wise th", ["N", "Adj"], ["Adj", "Adv", "N"]);
+  addS("ate", ["N", "Adj", "V"], ["V"]);                 // activate, evaluate, hyphenate
+  addS("ard", ["V", "Adj"], ["N"]);
+  addS("arian ese ite ics", ["N", "Adj"], ["N"]);
+  addS("ar ern esque ine", ["N"], ["Adj"]);
+  addS("cle cule et ette", ["N"], ["N"]);
+  addS("ice", ["V", "Adj"], ["N"]);                      // justice, service
+  addS("le", ["V", "N"], ["V", "N"]);
+  addS("oid", ["N"], ["Adj", "N"]);
+  addS("tude", ["Adj"], ["N"]);
+  addS("ade", ["N", "V"], ["N"]);
 
   // Inflectional suffixes (always the outer layer).
   const INFLECT = {
@@ -54,7 +64,7 @@
   };
   // Look-alike derivational endings, chosen by the variant label.
   const VARIANT = {
-    "-ing (N)": { from: ["V"], to: ["N"] }, "-ing (adj)": { from: ["V"], to: ["Adj"] }, "-ed (adj)": { from: ["V"], to: ["Adj"] },
+    "-ing (N)": { from: ["V"], to: ["N"] }, "-ing (adj)": { from: ["V"], to: ["Adj"] }, "-ed (adj)": { from: ["V", "N"], to: ["Adj"] }, "-en (adj)": { from: ["V"], to: ["Adj"] },
     "-ly (adj)": { from: ["N"], to: ["Adj"] }, "-er (N)": { from: ["V", "N"], to: ["N"] }, "-er (onomatopoeia)": { from: ["V"], to: ["V"] }
   };
 
@@ -65,11 +75,11 @@
     "in- (not)": { from: ["Adj", "N"], to: same }, "im- (not)": { from: ["Adj", "N"], to: same },
     "il- (not)": { from: ["Adj", "N"], to: same }, "ir- (not)": { from: ["Adj", "N"], to: same },
     "in- (into)": { from: ["V", "N"], to: same }, "im- (into)": { from: ["V", "N"], to: same },
-    "un- (not)": { from: ["Adj"], to: same }, "un- (reverse)": { from: ["V"], to: same },
-    "de- (reverse)": { from: ["V"], to: same }, "de- (down)": { from: ["V", "N"], to: same },
+    "un- (not)": { from: ["Adj", "N"], to: same }, "un- (reverse)": { from: ["V"], to: same },
+    "de- (reverse)": { from: ["V", "N"], to: ["V"] }, "de- (down)": { from: ["V", "N"], to: same },
     "dis- (not)": { from: ["V", "Adj", "N"], to: same }, "dis- (apart)": { from: ["V", "N"], to: same },
-    "en- (make)": { from: ["N", "Adj"], to: "V" }, "en- (into)": { from: ["N", "V"], to: "V" },
-    "em- (make)": { from: ["N", "Adj"], to: "V" }, "em- (into)": { from: ["N", "V"], to: "V" }
+    "en- (make)": { from: ["N", "Adj"], to: ["V"] }, "en- (into)": { from: ["N", "V"], to: ["V"] },
+    "em- (make)": { from: ["N", "Adj"], to: ["V"] }, "em- (into)": { from: ["N", "V"], to: ["V"] }
   };
 
 

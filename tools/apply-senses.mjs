@@ -36,10 +36,33 @@ for (const f of files) {
     slots.forEach((m, i) => { withLabels.find(x => x === m || x.form === m.form && x.surface === m.surface).variant = labels[i]; });
     const forPlan = withLabels.map(m => ({ ...m, type: type(m), cls: cls(m) + (m.code === "I" ? "-inf" : "") }));
     forPlan.forEach(m => { if (m.code === "I") m.cls = "suffix-inf"; });
-    if (!T.derive(forPlan).length) { dropped.push(`${word}\tno valid tree with ${labelText}`); continue; }
+    if (!T.derive(forPlan).length) {
+      // The label is Muse's judgement of meaning; if only the class we recorded for the root disagrees (re- + press: noun or verb?),
+      // take the class the sense asks for.
+      let fixed = false;
+      for (let i = 0; i < forPlan.length - 1 && !fixed; i++) {
+        const pm = forPlan[i], nx = forPlan[i + 1];
+        if (pm.type !== "prefix" || !pm.variant || nx.type !== "root") continue;
+        for (const c of (T.PVARIANT[pm.variant] || { from: [] }).from) {
+          const old = nx.cat; nx.cat = c;
+          if (T.derive(forPlan).length) { withLabels[i + 1].cat = c; fixed = true; break; }
+          nx.cat = old;
+        }
+      }
+      // A past participle used as an adjective (un-kept, un-chosen) is the derivational "-ed/-en (adj)", not the verb ending.
+      for (let i = 0; i < forPlan.length && !fixed; i++) {
+        const m = forPlan[i];
+        if (m.code !== "I" || !/^-(ed|en)$/.test(m.form)) continue;
+        const was = { cls: m.cls, variant: m.variant, code: m.code };
+        m.cls = "suffix-der"; m.variant = m.form === "-en" ? "-en (adj)" : "-ed (adj)";
+        if (T.derive(forPlan).length) { Object.assign(withLabels[i], { code: "S", variant: m.variant }); fixed = true; }
+        else Object.assign(m, was);
+      }
+      if (!fixed) { dropped.push(`${word}\tno valid tree with ${labelText}`); continue; }
+    }
     out.push(`${word}\t${pos}\t${unparse(withLabels)}`); ok++;
   }
 }
 fs.writeFileSync(outFile, out.join("\n") + (out.length ? "\n" : ""));
-fs.writeFileSync(outFile.replace(/\.txt$/, "") + "-dropped.txt", dropped.join("\n") + "\n");
+fs.writeFileSync(outFile.replace(/[^/]*$/, "senses-dropped.log"), dropped.join("\n") + "\n");
 console.log(`${seen} answers: ${ok} labels applied, ${flagged} flagged by Muse, ${dropped.length - flagged} dropped by the checks`);
