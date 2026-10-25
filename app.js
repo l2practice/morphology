@@ -635,7 +635,7 @@
     renderHead(w, state.dict);
     renderBricks(w.morphemes);
     window.ICTree.render($("#tree"), w, t, state.treeStyle);
-    { const adv = (w.level || state.level) === "adv", c = $("#tree-approach"); c.textContent = adv ? "Structural approach" : "Synchronic approach"; c.title = adv ? "Bloomfield, Nida; Stageberg, Jackson, Arnold" : "Saussure; Marchand, Aronoff, Bauer"; }
+    { const adv = (w.level || state.level) === "adv", c = $("#tree-approach"); c.textContent = adv ? "Structural approach" : "Synchronic approach"; c.title = adv ? "Bloomfield, Nida; Stageberg, Jackson, Arnold" : "Saussure; Marchand, Aronoff, Bauer, Plag"; }
     $("#detail-title").innerHTML = `<span class="target">“${esc(w.word)}”</span> has ${w.morphemes.length} morpheme${w.morphemes.length === 1 ? "" : "s"}`;
     renderClassification(w);
     renderWordType(w);
