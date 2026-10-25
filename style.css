@@ -835,3 +835,20 @@ h3 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -.01em; }
 .lv-read { grid-column: 1 / -1; font-size: 13px; line-height: 1.5; color: var(--muted); border-top: 1px solid var(--line, rgba(128,128,128,.25)); padding-top: 8px; }
 .lv-read h4 { margin: 0 0 4px; font-size: 13px; }
 .lv-read p { margin: 0 0 4px; }
+
+/* ---------- Classification: each view has its own colour (buttons and frame) ---------- */
+#cls-mode button[data-mode="freebound"].active { background: var(--green-d); }
+#cls-mode button[data-mode="baseaffix"].active { background: var(--orange-d); }
+#cls-mode button[data-mode="derinf"].active { background: var(--blue-d); }
+#cls-mode button[data-mode="list"].active { background: var(--dark); }
+.cls-frame { --mc: var(--dark); --mt: var(--blue-t); --mb: #f4f7f9; }
+.cls-frame[data-mode="freebound"] { --mc: var(--green-d); --mt: var(--green-t); --mb: #f3f7ea; }
+.cls-frame[data-mode="baseaffix"] { --mc: var(--orange-d); --mt: var(--orange-t); --mb: #fdf4e6; }
+.cls-frame[data-mode="derinf"] { --mc: var(--blue-d); --mt: var(--blue-t); --mb: #edf4f8; }
+.cls-frame .f2 { border-color: var(--mc); }
+.cls-frame .f2-head { background: var(--mc); }
+.cls-frame .f2-sub { background: var(--mt); }
+.cls-frame .f2-compare .f2-cell:nth-child(4n+3), .cls-frame .f2-compare .f2-cell:nth-child(4n+4) { background: var(--mb); }
+.wt-gl { font-weight: 400; font-style: italic; color: var(--muted); font-size: .88em; }
+.wt-badge.sub { background: var(--blue-d); color: #fff; font-size: 15px; margin-left: 8px; }
+.wt-type.sub { background: #6b9db8; font-size: 14px; }

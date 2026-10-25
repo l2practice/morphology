@@ -325,6 +325,7 @@
     $$("#cls-mode button").forEach(b => b.classList.toggle("active", b.dataset.mode === mode));
     if (mode === "list") { frame.hidden = true; list.hidden = false; renderMatrix(w); list.insertAdjacentHTML("beforeend", lookalikeBox(w)); return; }
     list.hidden = true; frame.hidden = false;
+    frame.dataset.mode = mode;
     const def = FRAMES[mode];
     const cell = col => {
       const items = w.morphemes.filter(col.pick);
@@ -382,20 +383,27 @@
     compound: { name: "Compound word", abbr: "CpW", def: "Consists of two or more roots to create a new meaning, with or without inflectional suffixes.", structure: "≥ 2 roots ± inflect. suffix" },
     complex: { name: "Complex word", abbr: "CW", def: "Consists of derivational affixes and one root (free or bound), changing its meaning or part of speech.", structure: "root + deriv. affix(es) ± inflect. suffix" }
   };
+  // Complex words are taught in two kinds, by the kind of base (root) they are built on.
+  const COMPLEX_KINDS = {
+    "C-FB": { name: "Complex word with a free base (root)", def: "Derivational affix(es) added to a free root, which can stand alone as a word.", structure: "free root + deriv. affix(es)", eg: "unhappiness, kindness" },
+    "C-BB": { name: "Complex word with a bound base", def: "Derivational affix(es) added to a bound base, which can never stand alone.", structure: "bound base + deriv. affix(es)", eg: "audible, suicide" }
+  };
   function wordTypeOf(w) {
     const ms = w.morphemes;
     const roots = ms.filter(m => m.type === "root");
     const der = ms.filter(m => /-der$/.test(m.cls));
     const inf = ms.filter(m => /-inf$/.test(m.cls));
     const key = roots.length >= 2 ? "compound" : der.length ? "complex" : "simple";
-    return { key, roots, der, inf };
+    const kind = key === "complex" ? (roots.some(isBound) ? "C-BB" : "C-FB") : "";
+    return { key, roots, der, inf, kind };
   }
   function renderWordType(w) {
     const wt = wordTypeOf(w), def = WORD_TYPES[wt.key];
-    const list = (arr, cls) => arr.length ? arr.map(m => `<span class="${cls}">${esc(m.form)}</span>`).join(" + ") : "";
-    let formula = `<b>${def.abbr}</b> = root ${list(wt.roots, "wt-root")}`;
-    if (wt.der.length) formula += ` + deriv. ${list(wt.der, "wt-der")}`;
-    if (wt.inf.length) formula += ` ± inflect. ${list(wt.inf, "wt-inf")}`;
+    const gl = s => `<i class="wt-gl">(${s})</i>`;
+    const KIND = { root: ["wt-root", "root"], der: ["wt-der", "deriv."], inf: ["wt-inf", "inflect."] };
+    const kindOf = m => m.type === "root" ? "root" : /-inf$/.test(m.cls) ? "inf" : "der";
+    // Written in word order: (deriv.) un- + (root) happy + (deriv.) -ness
+    const formula = `<b>${wt.kind || def.abbr}</b> = ` + w.morphemes.map(m => { const k = KIND[kindOf(m)]; return `${gl(k[1])} <span class="${k[0]}">${esc(m.form)}</span>`; }).join(" + ");
     const notes = [];
     if (wt.key === "compound" && wt.der.length) notes.push("It also contains derivational affixes, so it combines compounding with derivation.");
     if (wt.key === "simple" && wt.roots.length && wt.roots[0].cls === "root-bound") notes.push("Its only root is bound, so it behaves like a simple word only in this analysis.");
@@ -410,7 +418,8 @@
       </div>`;
     $("#wordtype").innerHTML = `
       <p class="wt-approach">Word type by the <b>${approachName} approach</b> (${w.morphemes.length} morpheme${w.morphemes.length === 1 ? "" : "s"}).</p>
-      <div class="wt-result"><span class="wt-badge ${wt.key}">${def.name}</span><div class="wt-formula">${formula}</div></div>
+      <div class="wt-result"><span class="wt-badge ${wt.key}">${def.name}</span>${wt.kind ? `<span class="wt-badge sub">${wt.kind}</span>` : ""}<div class="wt-formula">${formula}</div></div>
+      ${wt.kind ? `<p class="cls-note">${esc(COMPLEX_KINDS[wt.kind].name)}: ${esc(COMPLEX_KINDS[wt.kind].def)}</p>` : ""}
       <div id="wt-compare"></div>
       ${notes.map(n => `<p class="cls-note">${esc(n)}</p>`).join("")}
       <div class="wt-table">
@@ -418,7 +427,11 @@
         ${Object.entries(WORD_TYPES).map(([k, d]) => `
           <div class="wt-c wt-type ${k}${k === wt.key ? " on" : ""}">${d.name}</div>
           <div class="wt-c${k === wt.key ? " on" : ""}">${esc(d.def)}</div>
-          <div class="wt-c${k === wt.key ? " on" : ""}">${d.abbr} = ${esc(d.structure)}</div>`).join("")}
+          <div class="wt-c${k === wt.key ? " on" : ""}">${d.abbr} = ${esc(d.structure)}</div>
+          ${k === "complex" ? Object.entries(COMPLEX_KINDS).map(([kk, c]) => `
+          <div class="wt-c wt-type complex sub${kk === wt.kind ? " on" : ""}">${kk}</div>
+          <div class="wt-c${kk === wt.kind ? " on" : ""}">${esc(c.name)}: ${esc(c.def)} <i>(${esc(c.eg)})</i></div>
+          <div class="wt-c${kk === wt.kind ? " on" : ""}">${kk} = ${esc(c.structure)}</div>`).join("") : ""}`).join("")}
       </div>
       ${unit5}`;
     return def.name;
