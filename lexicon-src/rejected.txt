@@ -254,5 +254,582 @@ wardress	noun	warder|wardr|R|N ; -ess|ess|S	# m0: stem "warder" is spelled "ward
 woken	verb	wake|wok|R|V ; -en|en|I||-en (participle)	# m0: stem "wake" is spelled "wok" before -en (irregular stem change: fossilised? keep the word as one morpheme)
 wrungness	noun	wring|wrung|R|V ; -ness|ness|S	# m0: stem "wring" is spelled "wrung" before -ness (irregular stem change: fossilised? keep the word as one morpheme)
 reactionaries	noun	re-|re|P||re- (against) ; act|act|R|V ; -ion|ion|S ; -ary|ary|S	# surfaces join to "reactionary"
+virtually	adv	virtue|virtu|R|N ; -al|al|S|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
 eighty	det	eight|eigh|R ; -ty|ty|S	# m0: stem "eight" is spelled "eigh" before -ty (irregular stem change: fossilised? keep the word as one morpheme)
 fulsome	adj	full|ful|R|Adj ; -some|some|S	# m0: stem "full" is spelled "ful" before -some (irregular stem change: fossilised? keep the word as one morpheme)
+degenerately	adv	de-|de|P||de- (down) ; generate|generate|R|V ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+degradingly	adv	de-|de|P||de- (down) ; grade|grad|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+demeaningly	adv	de-|de|P||de- (down) ; mean|mean|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+denominationally	adv	de-|de|P||de- (down) ; nominate|nomin|R|V ; -ation|ation|S ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+denotatively	adv	de-|de|P||de- (down) ; note|not|R|V ; -ative|ative|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+depressingly	adv	de-|de|P||de- (down) ; press|press|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+depressively	adv	de-|de|P||de- (down) ; press|press|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disadvantageously	adv	dis-|dis|P||dis- (not) ; advantage|advantage|R|N ; -ous|ous|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disagreeably	adv	dis-|dis|P||dis- (not) ; agree|agree|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disappointedly	adv	dis-|dis|P||dis- (not) ; appoint|appoint|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disappointingly	adv	dis-|dis|P||dis- (not) ; appoint|appoint|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disapprovingly	adv	dis-|dis|P||dis- (not) ; approve|approv|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disarmingly	adv	dis-|dis|P||dis- (apart) ; arm|arm|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disbelievingly	adv	dis-|dis|P||dis- (not) ; believe|believ|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+discomposedly	adv	dis-|dis|P||dis- (apart) ; compose|compos|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+discomposingly	adv	dis-|dis|P||dis- (apart) ; compose|compos|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disconcertingly	adv	dis-|dis|P||dis- (apart) ; concert|concert|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disconsolately	adv	dis-|dis|P||dis- (not) ; console|consol|R|V ; -ate|ate|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+discontentedly	adv	dis-|dis|P||dis- (not) ; content|content|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+discontinuously	adv	dis-|dis|P||dis- (not) ; continue|continu|R|N ; -ous|ous|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+discouragingly	adv	dis-|dis|P||dis- (not) ; courage|courag|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+discourteously	adv	dis-|dis|P||dis- (not) ; court|court|R|N ; -eous|eous|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+discreditably	adv	dis-|dis|P||dis- (not) ; credit|credit|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disgracefully	adv	dis-|dis|P||dis- (not) ; grace|grace|R|N ; -ful|ful|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disguisedly	adv	dis-|dis|P||dis- (apart) ; guise|guis|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+dishearteningly	adv	dis-|dis|P||dis- (not) ; heart|heart|R|N ; -en|en|S ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+dishonestly	adv	dis-|dis|P||dis- (not) ; honest|honest|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+dishonorably	adv	dis-|dis|P||dis- (not) ; honor|honor|R|N ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disingenuously	adv	dis-|dis|P||dis- (not) ; ingenuous|ingenuous|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+disinterestedly	adv	dis-|dis|P||dis- (not) ; interest|interest|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disjointedly	adv	dis-|dis|P||dis- (apart) ; joint|joint|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disloyally	adv	dis-|dis|P||dis- (not) ; loyal|loyal|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+disobediently	adv	dis-|dis|P||dis- (not) ; obedient|obedient|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+disobligingly	adv	dis-|dis|P||dis- (not) ; oblige|oblig|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+dispassionately	adv	dis-|dis|P||dis- (not) ; passion|passion|R|N ; -ate|ate|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+displeasingly	adv	dis-|dis|P||dis- (not) ; please|pleas|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disproportionately	adv	dis-|dis|P||dis- (not) ; proportion|proportion|R|N ; -ate|ate|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disquietingly	adv	dis-|dis|P||dis- (not) ; quiet|quiet|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disreputably	adv	dis-|dis|P||dis- (not) ; repute|reput|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+disrespectfully	adv	dis-|dis|P||dis- (not) ; respect|respect|R|V ; -ful|ful|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+dissonantly	adv	dis-|dis|P||dis- (not) ; sonant|sonant|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+distastefully	adv	dis-|dis|P||dis- (not) ; taste|taste|R|V ; -ful|ful|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+distrustfully	adv	dis-|dis|P||dis- (not) ; trust|trust|R|V ; -ful|ful|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+enchantingly	adv	en-|en|P||en- (into) ; chant|chant|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+encouragingly	adv	en-|en|P||en- (make) ; courage|courag|R|N ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+endearingly	adv	en-|en|P||en- (make) ; dear|dear|R|Adj ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+enforcedly	adv	en-|en|P||en- (into) ; force|forc|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+engrossingly	adv	en-|en|P||en- (into) ; gross|gross|R|N ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+enthrallingly	adv	en-|en|P||en- (into) ; thrall|thrall|R|N ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+entrancingly	adv	en-|en|P||en- (into) ; trance|tranc|R|N ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+illegally	adv	il-|il|P||il- (not)|in- ; legal|legal|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+illegibly	adv	il-|il|P||il- (not)|in- ; legible|legibl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+illegitimately	adv	il-|il|P||il- (not)|in- ; legitimate|legitimate|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+illiberally	adv	il-|il|P||il- (not)|in- ; liberal|liberal|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+illicitly	adv	il-|il|P||il- (not)|in- ; licit|licit|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+illimitably	adv	il-|il|P||il- (not)|in- ; limit|limit|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+illiterately	adv	il-|il|P||il- (not)|in- ; literate|literate|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+illogically	adv	il-|il|P||il- (not)|in- ; logic|logic|R|N ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+immaculately	adv	im-|im|P||im- (not)|in- ; macula|macul|R|N ; -ate|ate|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+immaterially	adv	im-|im|P||im- (not)|in- ; material|material|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+immaturely	adv	im-|im|P||im- (not)|in- ; mature|mature|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+immeasurably	adv	im-|im|P||im- (not)|in- ; measure|measur|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+immemorially	adv	im-|im|P||im- (not)|in- ; memory|memor|R|N ; -ial|ial|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+immiscibly	adv	im-|im|P||im- (not)|in- ; miscible|miscibl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+immitigably	adv	im-|im|P||im- (not)|in- ; mitigate|mitig|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+immoderately	adv	im-|im|P||im- (not)|in- ; moderate|moderate|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+immodestly	adv	im-|im|P||im- (not)|in- ; modest|modest|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+immorally	adv	im-|im|P||im- (not)|in- ; moral|moral|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+immortally	adv	im-|im|P||im- (not)|in- ; mortal|mortal|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+immovably	adv	im-|im|P||im- (not)|in- ; move|mov|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+immutably	adv	im-|im|P||im- (not)|in- ; mutable|mutabl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+impalpably	adv	im-|im|P||im- (not)|in- ; palp|palp|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+impartially	adv	im-|im|P||im- (not)|in- ; part|part|R|N ; -ial|ial|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+impartibly	adv	im-|im|P||im- (not)|in- ; part|part|R|V ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+impassably	adv	im-|im|P||im- (not)|in- ; pass|pass|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+impassibly	adv	im-|im|P||im- (not)|in- ; pass|pass|R|V ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+impassively	adv	im-|im|P||im- (not)|in- ; pass|pass|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+impatiently	adv	im-|im|P||im- (not)|in- ; patient|patient|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+impeccably	adv	im-|im|P||im- (not)|in- ; peccable|peccab|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+impenetrably	adv	im-|im|P||im- (not)|in- ; penetrate|penetr|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+impenitently	adv	im-|im|P||im- (not)|in- ; penitent|penitent|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+imperceptibly	adv	im-|im|P||im- (not)|in- ; percept|percept|R|N ; -ible|ib|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+imperfectly	adv	im-|im|P||im- (not)|in- ; perfect|perfect|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+imperishably	adv	im-|im|P||im- (not)|in- ; perish|perish|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+impermeably	adv	im-|im|P||im- (not)|in- ; permeate|perme|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+impermissibly	adv	im-|im|P||im- (not)|in- ; permit|permiss|R|V ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+impersonally	adv	im-|im|P||im- (not)|in- ; person|person|R|N ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+impertinently	adv	im-|im|P||im- (not)|in- ; pertinent|pertinent|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+imperturbably	adv	im-|im|P||im- (not)|in- ; perturb|perturb|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+imperviously	adv	im-|im|P||im- (not)|in- ; pervious|pervious|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+impiously	adv	im-|im|P||im- (not)|in- ; pious|pious|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+implacably	adv	im-|im|P||im- (not)|in- ; placate|plac|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+implausibly	adv	im-|im|P||im- (not)|in- ; plausible|plausib|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+impolitely	adv	im-|im|P||im- (not)|in- ; polite|polite|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+imponderably	adv	im-|im|P||im- (not)|in- ; ponder|ponder|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+impossibly	adv	im-|im|P||im- (not)|in- ; possible|possib|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+impotently	adv	im-|im|P||im- (not)|in- ; potent|potent|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+impracticably	adv	im-|im|P||im- (not)|in- ; practice|practic|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+impractically	adv	im-|im|P||im- (not)|in- ; practice|practic|R|N ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+imprecisely	adv	im-|im|P||im- (not)|in- ; precise|precise|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+impregnably	adv	im-|im|P||im- (not)|in- ; pregnant|pregn|R|N ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+impressibly	adv	im-|im|P||im- (into)|in- ; press|press|R|V ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+impressionistically	adv	im-|im|P||im- (into)|in- ; press|press|R|V ; -ion|ion|S ; -ist|ist|S ; -ic|ic|S ; -ly|ally|S|Adv|-ly (adv)	# m5: -ly (adv) must be code I
+impressively	adv	im-|im|P||im- (into)|in- ; press|press|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+improbably	adv	im-|im|P||im- (not)|in- ; probable|probabl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+improperly	adv	im-|im|P||im- (not)|in- ; proper|proper|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+improvidently	adv	im-|im|P||im- (not)|in- ; provide|provid|R|V ; -ent|ent|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+imprudently	adv	im-|im|P||im- (not)|in- ; prudent|prudent|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+impurely	adv	im-|im|P||im- (not)|in- ; pure|pure|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inaccessibly	adv	in-|in|P||in- (not) ; access|access|R|N ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inaccurately	adv	in-|in|P||in- (not) ; accurate|accurate|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inactively	adv	in-|in|P||in- (not) ; act|act|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inadequately	adv	in-|in|P||in- (not) ; adequate|adequate|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inadmissibly	adv	in-|in|P||in- (not) ; admit|admiss|R|V ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inadvertently	adv	in-|in|P||in- (not) ; advert|advert|R|V ; -ent|ent|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inalienably	adv	in-|in|P||in- (not) ; alien|alien|R|N ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inalterably	adv	in-|in|P||in- (not) ; alter|alter|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inanimately	adv	in-|in|P||in- (not) ; animate|animate|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inapplicably	adv	in-|in|P||in- (not) ; apply|applic|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inappositely	adv	in-|in|P||in- (not) ; apposite|apposite|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inappreciably	adv	in-|in|P||in- (not) ; appreciate|appreci|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inappreciatively	adv	in-|in|P||in- (not) ; appreciate|appreciat|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inapproachably	adv	in-|in|P||in- (not) ; approach|approach|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inappropriately	adv	in-|in|P||in- (not) ; appropriate|appropriate|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inaptly	adv	in-|in|P||in- (not) ; apt|apt|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inarticulately	adv	in-|in|P||in- (not) ; articulate|articulate|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inartificially	adv	in-|in|P||in- (not) ; artificial|artificial|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inattentively	adv	in-|in|P||in- (not) ; attend|attent|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inauspiciously	adv	in-|in|P||in- (not) ; auspice|auspic|R|N ; -ious|ious|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incalculably	adv	in-|in|P||in- (not) ; calculate|calcul|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incapably	adv	in-|in|P||in- (not) ; capable|capab|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+incautiously	adv	in-|in|P||in- (not) ; caution|cauti|R|N ; -ous|ous|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incitingly	adv	in-|in|P||in- (into) ; cite|cit|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inclemently	adv	in-|in|P||in- (not) ; clement|clement|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+incoherently	adv	in-|in|P||in- (not) ; coherent|coherent|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+incombustibly	adv	in-|in|P||in- (not) ; combust|combust|R|V ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incommensurably	adv	in-|in|P||in- (not) ; com-|com|P ; mensurable|mensurab|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incommensurately	adv	in-|in|P||in- (not) ; commensurate|commensurate|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+incommodiously	adv	in-|in|P||in- (not) ; commode|commodi|R|N ; -ous|ous|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incommunicably	adv	in-|in|P||in- (not) ; communicate|communic|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incommunicatively	adv	in-|in|P||in- (not) ; communicate|communicat|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incommutably	adv	in-|in|P||in- (not) ; commute|commut|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incomparably	adv	in-|in|P||in- (not) ; compare|compar|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incompatibly	adv	in-|in|P||in- (not) ; compatible|compatib|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+incompetently	adv	in-|in|P||in- (not) ; compete|compet|R|V ; -ent|ent|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incompletely	adv	in-|in|P||in- (not) ; complete|complete|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+incompliantly	adv	in-|in|P||in- (not) ; comply|compli|R|V ; -ant|ant|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incomprehensibly	adv	in-|in|P||in- (not) ; comprehend|comprehens|R|V ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incomprehensively	adv	in-|in|P||in- (not) ; comprehend|comprehens|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inconceivably	adv	in-|in|P||in- (not) ; conceive|conceiv|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inconclusively	adv	in-|in|P||in- (not) ; conclude|conclus|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incongruently	adv	in-|in|P||in- (not) ; congruent|congruent|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+incongruously	adv	in-|in|P||in- (not) ; congruous|congruous|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inconsequentially	adv	in-|in|P||in- (not) ; consequent|consequent|R|N ; -ial|ial|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inconsequently	adv	in-|in|P||in- (not) ; consequent|consequent|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inconsiderably	adv	in-|in|P||in- (not) ; consider|consider|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inconsiderately	adv	in-|in|P||in- (not) ; consider|consider|R|Adj ; -ate|ate|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inconsistently	adv	in-|in|P||in- (not) ; consist|consist|R|V ; -ent|ent|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inconsolably	adv	in-|in|P||in- (not) ; console|consol|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inconsonantly	adv	in-|in|P||in- (not) ; consonant|consonant|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inconspicuously	adv	in-|in|P||in- (not) ; conspicuous|conspicuous|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inconstantly	adv	in-|in|P||in- (not) ; constant|constant|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inconsumably	adv	in-|in|P||in- (not) ; consume|consum|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incontestably	adv	in-|in|P||in- (not) ; contest|contest|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incontinently	adv	in-|in|P||in- (not) ; continent|continent|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+incontrovertibly	adv	in-|in|P||in- (not) ; controvert|controvert|R|V ; -ible|ib|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inconveniently	adv	in-|in|P||in- (not) ; convenient|convenient|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inconvertibly	adv	in-|in|P||in- (not) ; convert|convert|R|V ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incorporeally	adv	in-|in|P||in- (not) ; corporeal|corporeal|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+incorrectly	adv	in-|in|P||in- (not) ; correct|correct|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+incorrigibly	adv	in-|in|P||in- (not) ; corrigible|corrigibl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+incorruptibly	adv	in-|in|P||in- (not) ; corrupt|corrupt|R|N ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incredibly	adv	in-|in|P||in- (not) ; credible|credib|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+incredulously	adv	in-|in|P||in- (not) ; credulous|credulous|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+incurably	adv	in-|in|P||in- (not) ; cure|cur|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+incuriously	adv	in-|in|P||in- (not) ; curious|curious|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+indecently	adv	in-|in|P||in- (not) ; decent|decent|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+indecipherably	adv	in-|in|P||in- (not) ; de-|de|P||de- (reverse) ; cipher|cipher|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+indecisively	adv	in-|in|P||in- (not) ; decide|decis|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+indecorously	adv	in-|in|P||in- (not) ; decor|decor|R|N ; -ous|ous|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+indefatigably	adv	in-|in|P||in- (not) ; de-|de|P||de- (down) ; fatigue|fatig|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+indefectibly	adv	in-|in|P||in- (not) ; defect|defect|R|N ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+indefensibly	adv	in-|in|P||in- (not) ; defense|defens|R|N ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+indefinably	adv	in-|in|P||in- (not) ; define|defin|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+indefinitely	adv	in-|in|P||in- (not) ; definite|definite|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+indelibly	adv	in-|in|P||in- (not) ; delible|delib|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+indelicately	adv	in-|in|P||in- (not) ; delicate|delicate|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+indemonstrably	adv	in-|in|P||in- (not) ; demonstrate|demonstr|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+independently	adv	in-|in|P||in- (not) ; depend|depend|R|V ; -ent|ent|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+indeterminably	adv	in-|in|P||in- (not) ; de-|de|P||de- (down) ; terminate|termin|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+indeterminately	adv	in-|in|P||in- (not) ; de-|de|P||de- (down) ; terminate|terminate|R|N ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+indifferently	adv	in-|in|P||in- (not) ; differ|differ|R|V ; -ent|ent|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+indigestibly	adv	in-|in|P||in- (not) ; digest|digest|R|V ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+indirectly	adv	in-|in|P||in- (not) ; direct|direct|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+indiscernibly	adv	in-|in|P||in- (not) ; discern|discern|R|V ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+indiscreetly	adv	in-|in|P||in- (not) ; discreet|discreet|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+indiscriminately	adv	in-|in|P||in- (not) ; discriminate|discriminate|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+indispensably	adv	in-|in|P||in- (not) ; dispense|dispens|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+indisputably	adv	in-|in|P||in- (not) ; dispute|disput|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+indistinctly	adv	in-|in|P||in- (not) ; distinct|distinct|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+indistinguishably	adv	in-|in|P||in- (not) ; distinguish|distinguish|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+indivisibly	adv	in-|in|P||in- (not) ; divide|divis|R|V ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+indubitably	adv	in-|in|P||in- (not) ; dubitable|dubitabl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inedibly	adv	in-|in|P||in- (not) ; edible|edib|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+ineffably	adv	in-|in|P||in- (not) ; effable|effab|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+ineffaceably	adv	in-|in|P||in- (not) ; ef-|ef|P|||ex- ; face|face|R|N ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+ineffectually	adv	in-|in|P||in- (not) ; effect|effect|R|Adj ; -ual|ual|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inefficaciously	adv	in-|in|P||in- (not) ; efficacy|efficaci|R|N ; -ous|ous|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inefficiently	adv	in-|in|P||in- (not) ; efficient|efficient|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inelegantly	adv	in-|in|P||in- (not) ; elegant|elegant|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+ineligibly	adv	in-|in|P||in- (not) ; eligible|eligib|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+ineloquently	adv	in-|in|P||in- (not) ; eloquent|eloquent|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inequitably	adv	in-|in|P||in- (not) ; equity|equit|R|N ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+ineradicably	adv	in-|in|P||in- (not) ; eradicate|eradic|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inescapably	adv	in-|in|P||in- (not) ; escape|escap|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inestimably	adv	in-|in|P||in- (not) ; estimate|estim|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inexactly	adv	in-|in|P||in- (not) ; exact|exact|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inexcusably	adv	in-|in|P||in- (not) ; excuse|excus|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inexhaustibly	adv	in-|in|P||in- (not) ; exhaust|exhaust|R|V ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inexpediently	adv	in-|in|P||in- (not) ; expedient|expedient|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inexpertly	adv	in-|in|P||in- (not) ; expert|expert|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inexplainably	adv	in-|in|P||in- (not) ; explain|explain|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inexplicably	adv	in-|in|P||in- (not) ; explicable|explicab|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inexpressibly	adv	in-|in|P||in- (not) ; express|express|R|V ; -ible|ib|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inexpressively	adv	in-|in|P||in- (not) ; express|express|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inexpugnably	adv	in-|in|P||in- (not) ; expugn|expugn|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inextinguishably	adv	in-|in|P||in- (not) ; extinguish|extinguish|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inextricably	adv	in-|in|P||in- (not) ; extricate|extric|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+infallibly	adv	in-|in|P||in- (not) ; fallible|fallib|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+infamously	adv	in-|in|P||in- (not) ; fame|fam|R|N ; -ous|ous|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+infelicitously	adv	in-|in|P||in- (not) ; felicity|felicit|R|N ; -ous|ous|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+infinitely	adv	in-|in|P||in- (not) ; finite|finite|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+infirmly	adv	in-|in|P||in- (not) ; firm|firm|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inflammably	adv	in-|in|P||in- (into) ; flammable|flammabl|R|V ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inflexibly	adv	in-|in|P||in- (not) ; flex|flex|R|V ; -ible|ib|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+informally	adv	in-|in|P||in- (not) ; form|form|R|N ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+infrequently	adv	in-|in|P||in- (not) ; frequent|frequent|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+infuriatingly	adv	in-|in|P||in- (into) ; fury|furi|R|N ; -ate|at|S ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+ingloriously	adv	in-|in|P||in- (not) ; glory|glor|R|N ; -ious|ious|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inharmoniously	adv	in-|in|P||in- (not) ; harmony|harmoni|R|N ; -ous|ous|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inhospitably	adv	in-|in|P||in- (not) ; hospitable|hospitabl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inhumanely	adv	in-|in|P||in- (not) ; humane|humane|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inhumanly	adv	in-|in|P||in- (not) ; human|human|R|N ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inimitably	adv	in-|in|P||in- (not) ; imitate|imit|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+injudiciously	adv	in-|in|P||in- (not) ; judicious|judicious|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inoffensively	adv	in-|in|P||in- (not) ; offend|offens|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inoperably	adv	in-|in|P||in- (not) ; operate|oper|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inopportunely	adv	in-|in|P||in- (not) ; opportune|opportune|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inordinately	adv	in-|in|P||in- (not) ; ordinate|ordinate|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inorganically	adv	in-|in|P||in- (not) ; organic|organic|R|N ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+insalubriously	adv	in-|in|P||in- (not) ; salubrious|salubrious|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+insanely	adv	in-|in|P||in- (not) ; sane|sane|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+insatiably	adv	in-|in|P||in- (not) ; satiate|sati|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inscrutably	adv	in-|in|P||in- (not) ; scrutable|scrutab|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+insecurely	adv	in-|in|P||in- (not) ; secure|secure|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+insensately	adv	in-|in|P||in- (not) ; sense|sens|R|N ; -ate|ate|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+insensibly	adv	in-|in|P||in- (not) ; sense|sens|R|V ; -ible|ib|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inseparably	adv	in-|in|P||in- (not) ; separate|separ|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+insightfully	adv	in-|in|P||in- (into) ; sight|sight|R|N ; -ful|ful|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+insignificantly	adv	in-|in|P||in- (not) ; significant|significant|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+insincerely	adv	in-|in|P||in- (not) ; sincere|sincere|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+insociably	adv	in-|in|P||in- (not) ; sociable|sociabl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+insolubly	adv	in-|in|P||in- (not) ; soluble|solubl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+insolvably	adv	in-|in|P||in- (not) ; solve|solv|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inspiritingly	adv	in-|in|P||in- (into) ; spirit|spirit|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+insufferably	adv	in-|in|P||in- (not) ; suffer|suffer|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+insufficiently	adv	in-|in|P||in- (not) ; sufficient|sufficient|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+insuperably	adv	in-|in|P||in- (not) ; superable|superabl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+insupportably	adv	in-|in|P||in- (not) ; support|support|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+insuppressibly	adv	in-|in|P||in- (not) ; suppress|suppress|R|V ; -ible|ib|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+insurmountably	adv	in-|in|P||in- (not) ; surmount|surmount|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+insusceptibly	adv	in-|in|P||in- (not) ; susceptible|susceptibl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+intangibly	adv	in-|in|P||in- (not) ; tangible|tangib|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+intemperately	adv	in-|in|P||in- (not) ; temper|temper|R|Adj ; -ate|ate|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+interminably	adv	in-|in|P||in- (not) ; terminate|termin|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+intolerably	adv	in-|in|P||in- (not) ; tolerate|toler|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+intolerantly	adv	in-|in|P||in- (not) ; tolerate|toler|R|V ; -ant|ant|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+intoxicatingly	adv	in-|in|P||in- (into) ; toxic|toxic|R|Adj ; -ate|at|S ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+intractably	adv	in-|in|P||in- (not) ; tractable|tractabl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+invalidly	adv	in-|in|P||in- (not) ; valid|valid|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+invaluably	adv	in-|in|P||in- (not) ; value|valu|R|N ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+invariably	adv	in-|in|P||in- (not) ; vary|vari|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inversely	adv	in-|in|P||in- (into) ; verse|verse|R|N ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+invigoratingly	adv	in-|in|P||in- (into) ; vigor|vigor|R|N ; -ate|at|S ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+invincibly	adv	in-|in|P||in- (not) ; vincible|vincibl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+inviolably	adv	in-|in|P||in- (not) ; violate|viol|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+inviolately	adv	in-|in|P||in- (not) ; violate|violate|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+invisibly	adv	in-|in|P||in- (not) ; visible|visib|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+involuntarily	adv	in-|in|P||in- (not) ; voluntary|voluntar|R|Adj ; -ly|ily|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+involutely	adv	in-|in|P||in- (into) ; volute|volute|R|N ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+invulnerably	adv	in-|in|P||in- (not) ; vulnerable|vulnerabl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+irrationally	adv	ir-|ir|P||ir- (not)|in- ; ration|ration|R|N ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irreclaimably	adv	ir-|ir|P||ir- (not)|in- ; re-|re|P||re- (again) ; claim|claim|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+irreconcilably	adv	ir-|ir|P||ir- (not)|in- ; reconcile|reconcil|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irrecoverably	adv	ir-|ir|P||ir- (not)|in- ; re-|re|P||re- (again) ; cover|cover|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+irrecusably	adv	ir-|ir|P||ir- (not)|in- ; recuse|recus|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irredeemably	adv	ir-|ir|P||ir- (not)|in- ; redeem|redeem|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irrefragably	adv	ir-|ir|P||ir- (not)|in- ; refragable|refragabl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+irrefutably	adv	ir-|ir|P||ir- (not)|in- ; refute|refut|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irregularly	adv	ir-|ir|P||ir- (not)|in- ; regular|regular|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+irrelatively	adv	ir-|ir|P||ir- (not)|in- ; relate|relat|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irrelevantly	adv	ir-|ir|P||ir- (not)|in- ; relevant|relevant|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+irreligiously	adv	ir-|ir|P||ir- (not)|in- ; religion|religi|R|N ; -ous|ous|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irremediably	adv	ir-|ir|P||ir- (not)|in- ; remedy|remedi|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irremissibly	adv	ir-|ir|P||ir- (not)|in- ; remit|remiss|R|V ; -ible|ibl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irremovably	adv	ir-|ir|P||ir- (not)|in- ; re-|re|P||re- (again) ; move|mov|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+irreparably	adv	ir-|ir|P||ir- (not)|in- ; repair|repar|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irreplaceably	adv	ir-|ir|P||ir- (not)|in- ; re-|re|P||re- (again) ; place|place|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+irrepressibly	adv	ir-|ir|P||ir- (not)|in- ; re-|re|P||re- (again) ; press|press|R|V ; -ible|ib|S ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+irreproachably	adv	ir-|ir|P||ir- (not)|in- ; reproach|reproach|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irresistibly	adv	ir-|ir|P||ir- (not)|in- ; resist|resist|R|V ; -ible|ib|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irresolutely	adv	ir-|ir|P||ir- (not)|in- ; resolute|resolute|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+irrespectively	adv	ir-|ir|P||ir- (not)|in- ; respect|respect|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irresponsibly	adv	ir-|ir|P||ir- (not)|in- ; responsible|responsib|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+irresponsively	adv	ir-|ir|P||ir- (not)|in- ; responsive|responsive|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+irretrievably	adv	ir-|ir|P||ir- (not)|in- ; retrieve|retriev|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irreverently	adv	ir-|ir|P||ir- (not)|in- ; revere|rever|R|V ; -ent|ent|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irreversibly	adv	ir-|ir|P||ir- (not)|in- ; reverse|revers|R|V ; -ible|ib|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+irrevocably	adv	ir-|ir|P||ir- (not)|in- ; revoke|revoc|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+reassuringly	adv	re-|re|P||re- (again) ; assure|assur|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+refreshingly	adv	re-|re|P||re- (again) ; fresh|fresh|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+resoundingly	adv	re-|re|P||re- (again) ; sound|sound|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unabashedly	adv	un-|un|P||un- (not) ; abash|abash|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unabatedly	adv	un-|un|P||un- (not) ; abate|abat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unacceptably	adv	un-|un|P||un- (not) ; accept|accept|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unaccountably	adv	un-|un|P||un- (not) ; account|account|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unaccustomedly	adv	un-|un|P||un- (not) ; ac-|ac|P|||ad- ; custom|custom|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m4: -ly (adv) must be code I
+unadvisedly	adv	un-|un|P||un- (not) ; advise|advis|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unaffectedly	adv	un-|un|P||un- (not) ; affect|affect|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unalloyedly	adv	un-|un|P||un- (not) ; alloy|alloy|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unalterably	adv	un-|un|P||un- (not) ; alter|alter|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unambiguously	adv	un-|un|P||un- (not) ; ambiguous|ambiguous|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unanswerably	adv	un-|un|P||un- (not) ; answer|answer|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unanticipatedly	adv	un-|un|P||un- (not) ; anticipate|anticipat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unapologetically	adv	un-|un|P||un- (not) ; apologetic|apologetic|R|N ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unappealably	adv	un-|un|P||un- (not) ; appeal|appeal|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unappeasably	adv	un-|un|P||un- (not) ; appease|appeas|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unappetizingly	adv	un-|un|P||un- (not) ; appetite|appet|R|N ; -ize|iz|S ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m4: -ly (adv) must be code I
+unappreciatively	adv	un-|un|P||un- (not) ; appreciate|appreciat|R|V ; -ive|ive|S ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unapproachably	adv	un-|un|P||un- (not) ; approach|approach|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unaptly	adv	un-|un|P||un- (not) ; apt|apt|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+unashamedly	adv	un-|un|P||un- (not) ; a-|a|P ; shame|sham|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+unassailably	adv	un-|un|P||un- (not) ; assail|assail|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unassertively	adv	un-|un|P||un- (not) ; assert|assert|R|V ; -ive|ive|S ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unassumingly	adv	un-|un|P||un- (not) ; assume|assum|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unattainably	adv	un-|un|P||un- (not) ; attain|attain|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unavailingly	adv	un-|un|P||un- (not) ; avail|avail|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unavoidably	adv	un-|un|P||un- (not) ; avoid|avoid|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unawarely	adv	un-|un|P||un- (not) ; aware|aware|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+unbearably	adv	un-|un|P||un- (not) ; bear|bear|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unbeatably	adv	un-|un|P||un- (not) ; beat|beat|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unbecomingly	adv	un-|un|P||un- (not) ; become|becom|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unbelievably	adv	un-|un|P||un- (not) ; believe|believ|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unbelievingly	adv	un-|un|P||un- (not) ; believe|believ|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unbendingly	adv	un-|un|P||un- (not) ; bend|bend|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unbiasedly	adv	un-|un|P||un- (not) ; bias|bias|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unblinkingly	adv	un-|un|P||un- (not) ; blink|blink|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unblushingly	adv	un-|un|P||un- (not) ; blush|blush|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unboundedly	adv	un-|un|P||un- (not) ; bound|bound|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unbreakably	adv	un-|un|P||un- (not) ; break|break|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unbridledly	adv	un-|un|P||un- (not) ; bridle|bridl|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unbrokenly	adv	un-|un|P||un- (not) ; broken|broken|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+uncannily	adv	un-|un|P||un- (not) ; canny|canni|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unceasingly	adv	un-|un|P||un- (not) ; cease|ceas|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unceremoniously	adv	un-|un|P||un- (not) ; ceremony|ceremoni|R|N ; -ous|ous|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+uncertainly	adv	un-|un|P||un- (not) ; certain|certain|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unchallengeably	adv	un-|un|P||un- (not) ; challenge|challenge|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unchangeably	adv	un-|un|P||un- (not) ; change|change|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unchangingly	adv	un-|un|P||un- (not) ; change|chang|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+uncharitably	adv	un-|un|P||un- (not) ; charity|charit|R|N ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unchastely	adv	un-|un|P||un- (not) ; chaste|chaste|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+uncivilizedly	adv	un-|un|P||un- (not) ; civil|civil|R|Adj ; -ize|iz|S ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+uncivilly	adv	un-|un|P||un- (not) ; civil|civil|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+uncomfortably	adv	un-|un|P||un- (not) ; comfort|comfort|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+uncommonly	adv	un-|un|P||un- (not) ; common|common|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+uncomplainingly	adv	un-|un|P||un- (not) ; complain|complain|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+uncompromisingly	adv	un-|un|P||un- (not) ; compromise|compromis|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unconcernedly	adv	un-|un|P||un- (not) ; concern|concern|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unconditionally	adv	un-|un|P||un- (not) ; condition|condition|R|N ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unconformably	adv	un-|un|P||un- (not) ; con-|con|P ; form|form|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+unconnectedly	adv	un-|un|P||un- (not) ; connect|connect|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unconquerably	adv	un-|un|P||un- (not) ; conquer|conquer|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unconscionably	adv	un-|un|P||un- (not) ; conscionable|conscionab|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unconsciously	adv	un-|un|P||un- (not) ; conscious|conscious|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unconstitutionally	adv	un-|un|P||un- (not) ; constitute|constitut|R|V ; -ion|ion|S ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+uncontrollably	adv	un-|un|P||un- (not) ; control|controll|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+uncontroversially	adv	un-|un|P||un- (not) ; controversy|controversi|R|N ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unconventionally	adv	un-|un|P||un- (not) ; convene|conven|R|V ; -tion|tion|S ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+unconvincingly	adv	un-|un|P||un- (not) ; convince|convinc|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+uncooperatively	adv	un-|un|P||un- (not) ; co-|co|P ; operate|operat|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+uncouthly	adv	un-|un|P||un- (not) ; couth|couth|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+uncritically	adv	un-|un|P||un- (not) ; critic|critic|R|N ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+undauntedly	adv	un-|un|P||un- (not) ; daunt|daunt|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+undebatably	adv	un-|un|P||un- (not) ; debate|debat|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+undecidedly	adv	un-|un|P||un- (not) ; decide|decid|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+undemonstratively	adv	un-|un|P||un- (not) ; demonstrate|demonstrat|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+undeniably	adv	un-|un|P||un- (not) ; deny|deni|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+undeservedly	adv	un-|un|P||un- (not) ; deserve|deserv|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+undesirably	adv	un-|un|P||un- (not) ; desire|desir|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+undoubtedly	adv	un-|un|P||un- (not) ; doubt|doubt|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unduly	adv	un-|un|P||un- (not) ; due|du|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+undutifully	adv	un-|un|P||un- (not) ; duty|duti|R|N ; -ful|ful|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+uneasily	adv	un-|un|P||un- (not) ; easy|easi|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+uneconomically	adv	un-|un|P||un- (not) ; economy|econom|R|N ; -ical|ical|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unemotionally	adv	un-|un|P||un- (not) ; emotion|emotion|R|N ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unequally	adv	un-|un|P||un- (not) ; equal|equal|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unequivocally	adv	un-|un|P||un- (not) ; equivocal|equivocal|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unerringly	adv	un-|un|P||un- (not) ; err|err|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unevenly	adv	un-|un|P||un- (not) ; even|even|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+uneventfully	adv	un-|un|P||un- (not) ; event|event|R|N ; -ful|ful|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unexpectedly	adv	un-|un|P||un- (not) ; expect|expect|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unexpressively	adv	un-|un|P||un- (not) ; express|express|R|V ; -ive|ive|S ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unfadingly	adv	un-|un|P||un- (not) ; fade|fad|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unfailingly	adv	un-|un|P||un- (not) ; fail|fail|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unfairly	adv	un-|un|P||un- (not) ; fair|fair|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unfaithfully	adv	un-|un|P||un- (not) ; faith|faith|R|N ; -ful|ful|S ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unfamiliarly	adv	un-|un|P||un- (not) ; familiar|familiar|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+unfashionably	adv	un-|un|P||un- (not) ; fashion|fashion|R|N ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unfavorably	adv	un-|un|P||un- (not) ; favor|favor|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unfavourably	adv	un-|un|P||un- (not) ; favour|favour|R|N ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unfeelingly	adv	un-|un|P||un- (not) ; feel|feel|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unfeignedly	adv	un-|un|P||un- (not) ; feign|feign|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unfitly	adv	un-|un|P||un- (not) ; fit|fit|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+unflaggingly	adv	un-|un|P||un- (not) ; flag|flagg|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unflappably	adv	un-|un|P||un- (not) ; flap|flapp|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unflatteringly	adv	un-|un|P||un- (not) ; flatter|flatter|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unflinchingly	adv	un-|un|P||un- (not) ; flinch|flinch|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unforgettably	adv	un-|un|P||un- (not) ; forget|forgett|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unforgivably	adv	un-|un|P||un- (not) ; forgive|forgiv|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unforgivingly	adv	un-|un|P||un- (not) ; forgive|forgiv|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unfortunately	adv	un-|un|P||un- (not) ; fortune|fortun|R|N ; -ate|ate|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unfoundedly	adv	un-|un|P||un- (not) ; found|found|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unfruitfully	adv	un-|un|P||un- (not) ; fruit|fruit|R|N ; -ful|ful|S ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+ungenerously	adv	un-|un|P||un- (not) ; generous|generous|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+ungovernably	adv	un-|un|P||un- (not) ; govern|govern|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+ungraciously	adv	un-|un|P||un- (not) ; grace|grac|R|N ; -ious|ious|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+ungrammatically	adv	un-|un|P||un- (not) ; grammar|grammat|R|N ; -ical|ical|S ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+ungratefully	adv	un-|un|P||un- (not) ; grateful|grateful|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+unguardedly	adv	un-|un|P||un- (not) ; guard|guard|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unhandily	adv	un-|un|P||un- (not) ; handy|handi|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+unhandsomely	adv	un-|un|P||un- (not) ; hand|hand|R|N ; -some|some|S ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unhappily	adv	un-|un|P||un- (not) ; happy|happi|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unharmoniously	adv	un-|un|P||un- (not) ; harmony|harmoni|R|N ; -ous|ous|S ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unhealthily	adv	un-|un|P||un- (not) ; health|health|R|N ; -y|i|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unhelpfully	adv	un-|un|P||un- (not) ; help|help|R|V ; -ful|ful|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unhesitatingly	adv	un-|un|P||un- (not) ; hesitate|hesitat|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unholily	adv	un-|un|P||un- (not) ; holy|holi|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+unhurriedly	adv	un-|un|P||un- (not) ; hurry|hurri|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unimaginably	adv	un-|un|P||un- (not) ; imagine|imagin|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unimpeachably	adv	un-|un|P||un- (not) ; impeach|impeach|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+uninhibitedly	adv	un-|un|P||un- (not) ; inhibit|inhibit|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unintelligently	adv	un-|un|P||un- (not) ; intelligent|intelligent|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unintelligibly	adv	un-|un|P||un- (not) ; intelligible|intelligib|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unintentionally	adv	un-|un|P||un- (not) ; intend|inten|R|V ; -ion|tion|S ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+uninterestedly	adv	un-|un|P||un- (not) ; interest|interest|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+uninterestingly	adv	un-|un|P||un- (not) ; interest|interest|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+uninterruptedly	adv	un-|un|P||un- (not) ; interrupt|interrupt|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+uninvitingly	adv	un-|un|P||un- (not) ; invite|invit|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unjustifiably	adv	un-|un|P||un- (not) ; justify|justifi|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unjustifiedly	adv	un-|un|P||un- (not) ; justify|justifi|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unjustly	adv	un-|un|P||un- (not) ; just|just|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unkindly	adv	un-|un|P||un- (not) ; kind|kind|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unknowably	adv	un-|un|P||un- (not) ; know|know|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unknowingly	adv	un-|un|P||un- (not) ; know|know|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unlawfully	adv	un-|un|P||un- (not) ; law|law|R|N ; -ful|ful|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unlearnedly	adv	un-|un|P||un- (not) ; learn|learn|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unlimitedly	adv	un-|un|P||un- (not) ; limit|limit|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unluckily	adv	un-|un|P||un- (not) ; lucky|lucki|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unmanageably	adv	un-|un|P||un- (not) ; manage|manage|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unmanneredly	adv	un-|un|P||un- (not) ; manner|manner|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unmeaningly	adv	un-|un|P||un- (not) ; mean|mean|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unmechanically	adv	un-|un|P||un- (not) ; mechanic|mechanic|R|N ; -al|al|S ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unmemorably	adv	un-|un|P||un- (not) ; memory|memor|R|N ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unmentionably	adv	un-|un|P||un- (not) ; mention|mention|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unmercifully	adv	un-|un|P||un- (not) ; mercy|merci|R|N ; -ful|ful|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unmindfully	adv	un-|un|P||un- (not) ; mind|mind|R|N ; -ful|ful|S ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unmistakably	adv	un-|un|P||un- (not) ; mis-|mis|P ; take|tak|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+unmitigatedly	adv	un-|un|P||un- (not) ; mitigate|mitigat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unmixedly	adv	un-|un|P||un- (not) ; mix|mix|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unmorally	adv	un-|un|P||un- (not) ; moral|moral|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+unmurmuringly	adv	un-|un|P||un- (not) ; murmur|murmur|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unmusically	adv	un-|un|P||un- (not) ; music|music|R|N ; -al|al|S ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unnaturally	adv	un-|un|P||un- (not) ; nature|natur|R|N ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unnecessarily	adv	un-|un|P||un- (not) ; necessary|necessari|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unnervingly	adv	un-|un|P||un- (reverse) ; nerve|nerv|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unnoticeably	adv	un-|un|P||un- (not) ; notice|notice|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unobtrusively	adv	un-|un|P||un- (not) ; obtrude|obtrus|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unofficially	adv	un-|un|P||un- (not) ; office|offic|R|N ; -ial|ial|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unorthodoxly	adv	un-|un|P||un- (not) ; orthodox|orthodox|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+unostentatiously	adv	un-|un|P||un- (not) ; ostentatious|ostentatious|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+unpalatably	adv	un-|un|P||un- (not) ; palate|palat|R|N ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unpleasantly	adv	un-|un|P||un- (not) ; please|pleas|R|V ; -ant|ant|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unprecedentedly	adv	un-|un|P||un- (not) ; precedent|precedent|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unpredictably	adv	un-|un|P||un- (not) ; predict|predict|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unpremeditatedly	adv	un-|un|P||un- (not) ; pre-|pre|P ; meditate|meditat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m4: -ly (adv) must be code I
+unpreparedly	adv	un-|un|P||un- (not) ; prepare|prepar|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unprepossessingly	adv	un-|un|P||un- (not) ; pre-|pre|P ; possess|possess|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m4: -ly (adv) must be code I
+unpretentiously	adv	un-|un|P||un- (not) ; pretentious|pretentious|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+unprofessionally	adv	un-|un|P||un- (not) ; profess|profess|R|V ; -ion|ion|S ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+unprofitably	adv	un-|un|P||un- (not) ; profit|profit|R|N ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unpromisingly	adv	un-|un|P||un- (not) ; promise|promis|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unpropitiously	adv	un-|un|P||un- (not) ; propitious|propitious|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+unqualifiedly	adv	un-|un|P||un- (not) ; qualify|qualifi|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unquenchably	adv	un-|un|P||un- (not) ; quench|quench|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unquestionably	adv	un-|un|P||un- (not) ; question|question|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unquestioningly	adv	un-|un|P||un- (not) ; question|question|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unquietly	adv	un-|un|P||un- (not) ; quiet|quiet|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+unreachably	adv	un-|un|P||un- (not) ; reach|reach|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unreadily	adv	un-|un|P||un- (not) ; ready|readi|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+unreasonably	adv	un-|un|P||un- (not) ; reason|reason|R|N ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unreasoningly	adv	un-|un|P||un- (not) ; reason|reason|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unreflectingly	adv	un-|un|P||un- (not) ; reflect|reflect|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unrelentingly	adv	un-|un|P||un- (not) ; relent|relent|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unreliably	adv	un-|un|P||un- (not) ; rely|reli|R|V ; -able|abl|S ; -ly|y|S||-ly (adv)	# m3: -ly (adv) must be code I
+unrelievedly	adv	un-|un|P||un- (not) ; relieve|reliev|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unremittingly	adv	un-|un|P||un- (not) ; remit|remitt|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unrepentantly	adv	un-|un|P||un- (not) ; repent|repent|R|V ; -ant|ant|S ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unrequitedly	adv	un-|un|P||un- (not) ; requite|requit|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unreservedly	adv	un-|un|P||un- (not) ; reserve|reserv|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unresponsively	adv	un-|un|P||un- (not) ; respond|respons|R|V ; -ive|ive|S ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unrestrainedly	adv	un-|un|P||un- (not) ; re-|re|P||re- (against) ; strain|strain|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|S||-ly (adv)	# m4: -ly (adv) must be code I
+unrighteously	adv	un-|un|P||un- (not) ; right|right|R|N ; -eous|eous|S ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unromantically	adv	un-|un|P||un- (not) ; romance|romant|R|N ; -ical|ical|S ; -ly|ly|S||-ly (adv)	# m3: -ly (adv) must be code I
+unsafely	adv	un-|un|P||un- (not) ; safe|safe|R|Adj ; -ly|ly|S||-ly (adv)	# m2: -ly (adv) must be code I
+unsatisfactorily	adv	un-|un|P||un- (not) ; satisfactory|satisfactori|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unscientifically	adv	un-|un|P||un- (not) ; scient|scient|R|N ; -ific|ific|S ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m4: -ly (adv) must be code I
+unscrupulously	adv	un-|un|P||un- (not) ; scrupulous|scrupulous|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unsearchably	adv	un-|un|P||un- (not) ; search|search|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unseasonably	adv	un-|un|P||un- (not) ; season|season|R|N ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unseeingly	adv	un-|un|P||un- (not) ; see|see|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unselectively	adv	un-|un|P||un- (not) ; select|select|R|V ; -ive|ive|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unselfconsciously	adv	un-|un|P||un- (not) ; self|self|R|N ; conscious|conscious|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unselfishly	adv	un-|un|P||un- (not) ; self|self|R|N ; -ish|ish|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unsettlingly	adv	un-|un|P||un- (not) ; settle|settl|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unshakably	adv	un-|un|P||un- (not) ; shake|shak|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unsocially	adv	un-|un|P||un- (not) ; social|social|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unsophisticatedly	adv	un-|un|P||un- (not) ; sophisticate|sophisticat|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unsoundly	adv	un-|un|P||un- (not) ; sound|sound|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unspeakably	adv	un-|un|P||un- (not) ; speak|speak|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unstably	adv	un-|un|P||un- (not) ; stable|stabl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unsteadily	adv	un-|un|P||un- (not) ; steady|steadi|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unstintingly	adv	un-|un|P||un- (not) ; stint|stint|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unstoppably	adv	un-|un|P||un- (not) ; stop|stopp|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unsubstantially	adv	un-|un|P||un- (not) ; substantial|substantial|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unsuccessfully	adv	un-|un|P||un- (not) ; success|success|R|N ; -ful|ful|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unsuitably	adv	un-|un|P||un- (not) ; suit|suit|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unsurprisingly	adv	un-|un|P||un- (not) ; surprise|surpris|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unsuspectedly	adv	un-|un|P||un- (not) ; suspect|suspect|R|V ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unsuspectingly	adv	un-|un|P||un- (not) ; suspect|suspect|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unswervingly	adv	un-|un|P||un- (not) ; swerve|swerv|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unsymmetrically	adv	un-|un|P||un- (not) ; symmetry|symmetr|R|N ; -ical|ical|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unsympathetically	adv	un-|un|P||un- (not) ; sympathetic|sympathetic|R|N ; -al|al|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+untenably	adv	un-|un|P||un- (not) ; tenable|tenabl|R|Adj ; -ly|y|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unthankfully	adv	un-|un|P||un- (not) ; thank|thank|R|V ; -ful|ful|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unthinkably	adv	un-|un|P||un- (not) ; think|think|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unthinkingly	adv	un-|un|P||un- (not) ; think|think|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+untidily	adv	un-|un|P||un- (not) ; tidy|tidi|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+untiringly	adv	un-|un|P||un- (not) ; tire|tir|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+untouchably	adv	un-|un|P||un- (not) ; touch|touch|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+untowardly	adv	un-|un|P||un- (not) ; toward|toward|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+untruly	adv	un-|un|P||un- (not) ; true|tru|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+untruthfully	adv	un-|un|P||un- (not) ; truth|truth|R|N ; -ful|ful|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unusually	adv	un-|un|P||un- (not) ; usual|usual|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unutterably	adv	un-|un|P||un- (not) ; utter|utter|R|V ; -able|ab|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unwarily	adv	un-|un|P||un- (not) ; wary|wari|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unwarrantably	adv	un-|un|P||un- (not) ; warrant|warrant|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unweariedly	adv	un-|un|P||un- (not) ; weary|weari|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unwholesomely	adv	un-|un|P||un- (not) ; whole|whole|R|N ; -some|some|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unwieldily	adv	un-|un|P||un- (not) ; wield|wield|R|N ; -y|i|S ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unwillingly	adv	un-|un|P||un- (not) ; will|will|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unwisely	adv	un-|un|P||un- (not) ; wise|wise|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unwittingly	adv	un-|un|P||un- (not) ; wit|witt|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unwontedly	adv	un-|un|P||un- (not) ; wont|wont|R|N ; -ed|ed|S||-ed (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unworkably	adv	un-|un|P||un- (not) ; work|work|R|V ; -able|abl|S ; -ly|y|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I
+unworthily	adv	un-|un|P||un- (not) ; worthy|worthi|R|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+unyieldingly	adv	un-|un|P||un- (not) ; yield|yield|R|V ; -ing|ing|S||-ing (adj) ; -ly|ly|S|Adv|-ly (adv)	# m3: -ly (adv) must be code I

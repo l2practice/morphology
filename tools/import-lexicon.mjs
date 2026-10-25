@@ -181,6 +181,15 @@ if (!ADV) {
     lex.set(w, pos + "\t" + unparse(out)); collapsed++;
   }
 }
+// -ly (adjective → adverb) changes the word class, so in the course book it is DERIVATIONAL (exact + -ly), never inflectional.
+for (const [w, v] of [...lex]) {
+  const [pos, body] = v.split("\t");
+  const ms = parse(body);
+  if (ms.some(m => m.form === "-ly" && m.code === "I")) {
+    for (const m of ms) if (m.form === "-ly" && m.code === "I") m.code = "S";
+    lex.set(w, pos + "\t" + unparse(ms));
+  }
+}
 // SYNCHRONIC: the noun-forming -th (grow-th, warm-th, like heal-th) is a dead affix: a speaker cannot make "happy-th". The ordinal -th (tenth, sixth) is alive and stays.
 if (!ADV) {
   for (const [w, v] of [...lex]) {

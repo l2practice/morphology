@@ -30,3 +30,5 @@ weight	noun	weigh|weigh|R|V ; -t|t|S|||Old English -t 'act, result'
 gift	noun	give|gif|R|V ; -t|t|S|||Old English -t 'act, result'
 growth	noun	grow|grow|R|V ; -th|th|S|||Old English -thu 'state'
 warmth	noun	warm|warm|R|Adj ; -th|th|S|||Old English -thu 'state'
+virtual	adj	virtue|virtu|R|N ; -al|al|S|Adj
+virtually	adv	virtue|virtu|R|N ; -al|al|S|Adj ; -ly|ly|S|Adv|-ly (adv)

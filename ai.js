@@ -4,7 +4,7 @@
  * morphemes can be shown while the rest of the analysis is still arriving.
  */
 (function () {
-  const PROMPT_VERSION = 21;
+  const PROMPT_VERSION = 22;
   const MAX_ATTEMPTS = 2;   // 1 retry when the answer fails validation
 
   /**
@@ -94,10 +94,10 @@
     "",
     "## 3. Classify",
     "- type: prefix | root | suffix. cls: prefix-der | prefix-inf | root-free | root-bound | suffix-der | suffix-inf.",
-    "- English has no inflectional prefixes. In THIS course the inflectional suffixes are exactly: noun -s (plural), 's (possessive), s' (plural possessive); verb -s (3rd person), -ing, -ed (past), -en (past participle, e.g. eaten); adjective/adverb -er (comparative), -est (superlative) and adverbial -ly (quickly, decidedly, credibly), plus their zero/irregular allomorphs. Everything else is derivational. Nominal -ing (a misunderstanding) is derivational.",
+    "- English has no inflectional prefixes. In THIS course the inflectional suffixes are exactly: noun -s (plural), 's (possessive), s' (plural possessive); verb -s (3rd person), -ing, -ed (past), -en (past participle, e.g. eaten); adjective/adverb -er (comparative) and -est (superlative), plus their zero/irregular allomorphs. Everything else is derivational, including -ly: adverbial -ly changes the word class (exact + -ly, quick + -ly, credibly = credible + -ly) and is DERIVATIONAL. Nominal -ing (a misunderstanding) is derivational.",
     "- Derivational prefixes keep the word class (re-try, un-ethical, in-human, il-legal); derivational suffixes usually change it (-ness, -ion, -ive, -ible). Derivation creates a new word with a changed meaning; inflection only creates another form of the same word.",
     "- cat for roots: N, V, Adj, Adv or P. Use \"\" for affixes.",
-    "- variant: some endings look the same but do different jobs. When a suffix is one of the labels below, set variant to EXACTLY that label, otherwise \"\". Use the dictionary part of speech to decide. INFLECTIONAL (suffix-inf): \"-ing (v)\" progressive verb form (He is meeting a client); \"-ed (v2)\" past tense or past participle (visited, was turned on); \"-ly (adv)\" (quickly); \"-er (comparative)\" (taller); \"-est (superlative)\" (tallest). DERIVATIONAL (suffix-der): \"-ing (N)\" noun (a meeting, a misunderstanding); \"-ing (adj)\" participial adjective (an interesting talk); \"-ed (adj)\" (interested); \"-ly (adj)\" (friendly, costly); \"-er (N)\" person or tool (driver, hunter); \"-er (onomatopoeia)\" verb of repeated sound or movement (chatter, flicker); \"-ist\" (typist, artist). cls must agree: the (v), (v2), (adv), (comparative) and (superlative) labels are suffix-inf, all the others suffix-der.",
+    "- variant: some endings look the same but do different jobs. When a suffix is one of the labels below, set variant to EXACTLY that label, otherwise \"\". Use the dictionary part of speech to decide. INFLECTIONAL (suffix-inf): \"-ing (v)\" progressive verb form (He is meeting a client); \"-ed (v2)\" past tense or past participle (visited, was turned on); \"-er (comparative)\" (taller); \"-est (superlative)\" (tallest). DERIVATIONAL (suffix-der): \"-ly (adv)\" adverb (quickly, credibly); \"-ing (N)\" noun (a meeting, a misunderstanding); \"-ing (adj)\" participial adjective (an interesting talk); \"-ed (adj)\" (interested); \"-ly (adj)\" (friendly, costly); \"-er (N)\" person or tool (driver, hunter); \"-er (onomatopoeia)\" verb of repeated sound or movement (chatter, flicker); \"-ist\" (typist, artist). cls must agree: the (v), (v2), (comparative) and (superlative) labels are suffix-inf, all the others suffix-der.",
     "- prefix senses: a prefix with two senses goes with different word classes, so label it. re- (again) goes with a VERB (re-activate, re-write): variant \"re- (again)\". re- (against, back) goes with a NOUN (re-action, re-actionary): variant \"re- (against)\". in- (not) goes with an ADJECTIVE (in-active, ir-refutable): variant \"in- (not)\". in- (into) goes with a verb or noun (in-sert): variant \"in- (into)\". un- (not) goes with an adjective, un- (reverse) with a verb (un-lock): variants \"un- (not)\" and \"un- (reverse)\". Other prefixes: variant \"\".",
     "",
     "## 4. The tree",
@@ -290,7 +290,7 @@
     ms.forEach((m, i) => {
       const v = m.variant || "";
       if (!v) return;
-      if (/\((v|v2|adv|comparative|superlative)\)$/.test(v) && m.cls !== "suffix-inf") problems.push(`Morpheme ${i} is labelled ${v}, which is inflectional, but its cls is ${m.cls}.`);
+      if (/\((v|v2|comparative|superlative)\)$/.test(v) && m.cls !== "suffix-inf") problems.push(`Morpheme ${i} is labelled ${v}, which is inflectional, but its cls is ${m.cls}.`);
       if ((/\((N|adj|onomatopoeia)\)$/.test(v) || v === "-ist") && m.cls !== "suffix-der") problems.push(`Morpheme ${i} is labelled ${v}, which is derivational, but its cls is ${m.cls}.`);
     });
 

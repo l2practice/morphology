@@ -233,14 +233,13 @@
   const LOOKALIKE = {
     "-ing": "Inflectional when the word is a verb form (He is replaying the clip). Derivational when the word is a noun, a gerund (the replaying of the clip), or an adjective (an interesting talk).",
     "-ed": "Inflectional when the word is a past tense or a past participle (He visited her). Derivational when the word is an adjective (He is interested in art).",
-    "-ly": "Inflectional when it makes an adverb (quickly). Derivational when it makes an adjective (friendly, costly).",
     "-er": "Inflectional as the comparative (taller). Derivational when it makes a noun (driver, hunter) or an onomatopoeic verb (chatter, flicker).",
     "-est": "Inflectional as the superlative (tallest). Compare derivational -ist (typist, artist)."
   };
   const VARIANT_NOTE = {
     "-ing (v)": "inflectional, the progressive verb form.", "-ing (N)": "derivational, it makes a noun (a gerund).", "-ing (adj)": "derivational, it makes an adjective.",
     "-ed (v2)": "inflectional, past tense or past participle.", "-ed (adj)": "derivational, it makes an adjective.",
-    "-ly (adv)": "inflectional, it makes an adverb.", "-ly (adj)": "derivational, it makes an adjective.",
+    "-ly (adv)": "derivational, it makes an adverb (exact + -ly: the class changes).", "-ly (adj)": "derivational, it makes an adjective.",
     "-er (comparative)": "inflectional, the comparative.", "-er (N)": "derivational, it makes a noun.", "-er (onomatopoeia)": "derivational, it makes a verb of repeated sound or movement.",
     "-est (superlative)": "inflectional, the superlative.", "-ist": "derivational, it makes a noun for a person."
   };
@@ -249,9 +248,7 @@
     "-ing (N)": "If the word were used as a verb (He is replaying it), the same ending would be inflectional: -ing (v).",
     "-ing (adj)": "If the word were used as a verb (He is replaying it), the same ending would be inflectional: -ing (v).",
     "-ed (v2)": "If the word were used as an adjective (an interested student), the same ending would be derivational: -ed (adj).",
-    "-ed (adj)": "If the word were used as a verb (He visited her), the same ending would be inflectional: -ed (v2).",
-    "-ly (adv)": "If the word were an adjective (a friendly man), the same ending would be derivational: -ly (adj).",
-    "-ly (adj)": "If the word were an adverb (He spoke quickly), the same ending would be inflectional: -ly (adv)."
+    "-ed (adj)": "If the word were used as a verb (He visited her), the same ending would be inflectional: -ed (v2)."
   };
   function lookalikeBox(w) {
     const items = w.morphemes.filter(m => m.type === "suffix" && LOOKALIKE[m.form]);
@@ -273,7 +270,7 @@
       title: "Derivational morphemes", hint: "meaning",
       cols: [
         { head: "Prefix", sub: "Class-maintaining", rows: [["re-", "retry"], ["un-", "unethical"], ["in-", "inhuman"], ["il-", "illegal"]] },
-        { head: "Suffix", sub: "Class-changing", rows: [["-ness", "business"], ["-ion", "instruction"], ["-ive", "attractive"], ["-ible", "visible"]] }
+        { head: "Suffix", sub: "Class-changing", rows: [["-ness", "business"], ["-ion", "instruction"], ["-ive", "attractive"], ["-ible", "visible"], ["-ly", "quickly"]] }
       ]
     },
     inf: {
@@ -281,7 +278,7 @@
       cols: [
         { head: "Noun", rows: [["-s", "cats"], ["'s", "student's"], ["s'", "students'"]] },
         { head: "Verb", rows: [["-s", "cooks"], ["-ing", "cooking"], ["-ed", "cooked"], ["-en", "eaten"]] },
-        { head: "Adj & Adv", rows: [["-er", "taller"], ["-est", "tallest"], ["-ly", "quickly"]] }
+        { head: "Adj & Adv", rows: [["-er", "taller"], ["-est", "tallest"]] }
       ]
     }
   };
@@ -304,7 +301,6 @@
   const SAME = [
     [[["-ing (v)", "He is meeting his client."]], [["-ing (N)", "He hates meeting at lunch."], ["-ing (adj)", "The meeting isn't very interesting."]]],
     [[["-ed (v2)", "He visited … / … was turned on."]], [["-ed (adj)", "He is interested in his new job."]]],
-    [[["-ly (adv)", "quickly"]], [["-ly (adj)", "friendly, costly"]]],
     [[["-er (comparative)", "taller"]], [["-er (N)", "driver, hunter"], ["-er (onomatopoeia)", "chatter, flicker"]]],
     [[["-est (superlative)", "tallest"]], [["-ist", "typist, artist"]]]
   ];
