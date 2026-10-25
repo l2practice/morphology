@@ -1,4 +1,4 @@
-# Morphology — IC analysis lab
+# Morphology Lab
 
 Practise Immediate Constituent (IC) analysis of English words: morpheme cards, binary IC tree,
 classification, allomorphy, derivation vs. inflection, word family. English only.
