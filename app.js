@@ -635,7 +635,7 @@
     renderHead(w, state.dict);
     renderBricks(w.morphemes);
     window.ICTree.render($("#tree"), w, t, state.treeStyle);
-    $("#tree-approach").textContent = (w.level || state.level) === "adv" ? "Structural approach" : "Synchronic approach";
+    { const adv = (w.level || state.level) === "adv", c = $("#tree-approach"); c.textContent = adv ? "Structural approach" : "Synchronic approach"; c.title = adv ? "Bloomfield, Nida; Stageberg, Jackson, Arnold" : "Saussure; Marchand, Aronoff, Bauer"; }
     $("#detail-title").innerHTML = `<span class="target">“${esc(w.word)}”</span> has ${w.morphemes.length} morpheme${w.morphemes.length === 1 ? "" : "s"}`;
     renderClassification(w);
     renderWordType(w);
@@ -1176,8 +1176,8 @@
     if (!basic || !r.adv || forms(basic) === forms(r.adv)) return;
     const here = state.level === "adv";
     note.innerHTML = here
-      ? `<b>Structural approach</b>: ${esc(forms(r.adv))} (${r.adv.length} morphemes). The <b>Synchronic</b> approach counts ${esc(forms(basic))} (${basic.length}). <button type="button" data-set-level="basic">Show Synchronic</button>`
-      : `The <b>Structural</b> approach cuts this word differently: ${esc(forms(r.adv))} (${r.adv.length} morphemes). <button type="button" data-set-level="adv">Show Structural</button>`;
+      ? `<b>Structural approach</b> (Bloomfield, Nida, Stageberg): ${esc(forms(r.adv))} (${r.adv.length} morphemes). The <b>Synchronic</b> approach (Saussure, Marchand, Bauer) counts ${esc(forms(basic))} (${basic.length}). <button type="button" data-set-level="basic">Show Synchronic</button>`
+      : `The <b>Structural</b> approach (Bloomfield, Nida, Stageberg) cuts this word differently: ${esc(forms(r.adv))} (${r.adv.length} morphemes). <button type="button" data-set-level="adv">Show Structural</button>`;
     note.hidden = false;
   }
 
