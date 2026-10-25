@@ -254,7 +254,6 @@ wardress	noun	warder|wardr|R|N ; -ess|ess|S	# m0: stem "warder" is spelled "ward
 woken	verb	wake|wok|R|V ; -en|en|I||-en (participle)	# m0: stem "wake" is spelled "wok" before -en (irregular stem change: fossilised? keep the word as one morpheme)
 wrungness	noun	wring|wrung|R|V ; -ness|ness|S	# m0: stem "wring" is spelled "wrung" before -ness (irregular stem change: fossilised? keep the word as one morpheme)
 reactionaries	noun	re-|re|P||re- (against) ; act|act|R|V ; -ion|ion|S ; -ary|ary|S	# surfaces join to "reactionary"
-virtually	adv	virtue|virtu|R|N ; -al|al|S|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
 eighty	det	eight|eigh|R ; -ty|ty|S	# m0: stem "eight" is spelled "eigh" before -ty (irregular stem change: fossilised? keep the word as one morpheme)
 fulsome	adj	full|ful|R|Adj ; -some|some|S	# m0: stem "full" is spelled "ful" before -some (irregular stem change: fossilised? keep the word as one morpheme)
 degenerately	adv	de-|de|P||de- (down) ; generate|generate|R|V ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I

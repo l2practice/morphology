@@ -1,2 +1,0 @@
-virtual	adj	virtue|virtu|R|N ; -al|al|S|Adj
-virtually	adv	virtue|virtu|R|N ; -al|al|S|Adj ; -ly|ly|S|Adv|-ly (adv)

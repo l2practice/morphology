@@ -22,4 +22,4 @@ spectrometry	noun	spectro-|spectro|P|||Latin spectrum 'appearance' ; -metry|metr
 laparotomy	noun	laparo-|laparo|P|||Greek lapara 'flank' ; -tomy|tomy|S|||Greek tomē 'cutting'	# no root
 retinoic	adj	retino-|retino|P|||Latin rete 'net' ; -ic|ic|S	# no root
 retinopathy	noun	retino-|retino|P|||Latin rete 'net' ; -pathy|pathy|S|||Greek patheia 'suffering'	# no root
-virtually	adv	virtue|virtu|R|N ; -al|al|S|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
+virtually	adv	virtu-|virtu|B|N ; -al|al|S|Adj ; -ly|ly|S|Adv|-ly (adv)	# m2: -ly (adv) must be code I
