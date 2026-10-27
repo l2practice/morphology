@@ -4,7 +4,7 @@
  * morphemes can be shown while the rest of the analysis is still arriving.
  */
 (function () {
-  const PROMPT_VERSION = 22;
+  const PROMPT_VERSION = 23;
   const MAX_ATTEMPTS = 2;   // 1 retry when the answer fails validation
 
   /**
@@ -331,7 +331,7 @@
       // A prefix is simply written in front (re + act = react); the spelling changes only apply between base and suffix.
       return l.m !== undefined && ms[l.m].type === "prefix" ? spell(l) + spell(r) : joinForms(spell(l), spell(r));
     };
-    const planned = window.MorphTactics.plan(ms, hint, { spell, exists: w => (window.MorphDict && window.MorphDict.hasWordSync ? window.MorphDict.hasWordSync(w) : null) });
+    const planned = window.MorphTactics.plan(ms, hint, { spell, pos: ai.pos, exists: w => (window.MorphDict && window.MorphDict.hasWordSync ? window.MorphDict.hasWordSync(w) : null) });
     const rawTree = planned ? planned.node : { m: 0 };
     // Take a label from the AI tree when it has the same shape, otherwise spell the pieces.
     const sameShape = hint && window.MorphTactics.signature(hint) === window.MorphTactics.signature(rawTree);

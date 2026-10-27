@@ -54,6 +54,7 @@
   addS("oid", ["N"], ["Adj", "N"]);
   addS("tude", ["Adj"], ["N"]);
   addS("ade", ["N", "V"], ["N"]);
+  addS("ly", ["Adj"], ["Adv"]);                     // adverbial -ly changes the class: derivational (exact + -ly)
 
   // Inflectional suffixes (always the outer layer).
   const INFLECT = {
@@ -196,7 +197,14 @@
       };
       let root = null;
       const ranked = unique.slice().sort((a, b) => { root = a.node; const ma = missing(a.node); root = b.node; const mb = missing(b.node); return (ma - mb) || (score(a.node) - score(b.node)); });
-      const pick = unique.find(f => signature(f.node) === hintSig) || ranked[0];
+      let pick = unique.find(f => signature(f.node) === hintSig) || ranked[0];
+      // The same shape can carry different classes (depend + -ent = N or Adj): take the one that matches the word's own class.
+      const want = opts && opts.pos ? catOf(opts.pos) : "";
+      if (want) {
+        const sig = signature(pick.node);
+        const same = found.filter(f => signature(f.node) === sig);
+        pick = same.find(f => f.cat === want) || pick;
+      }
       return { node: pick.node, method: "rules", ambiguous: unique.length > 1 };
     }
     if (hint) return { node: hint, method: "ai", ambiguous: false };
